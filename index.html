@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Аштанга-хридая-самхита</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="light">
+  <div id="app">
+    <aside id="sidebar">
+      <div id="sidebar-header">
+        <div id="book-title">
+          <span class="book-name">Аштанга-хридая</span>
+          <span class="book-sub">самхита</span>
+        </div>
+        <button id="theme-toggle" aria-label="Переключить тему">
+          <span class="icon-sun">☀</span>
+          <span class="icon-moon">☽</span>
+        </button>
+      </div>
+
+      <div id="search-wrap">
+        <input id="search-input" type="search" placeholder="Поиск по тексту…" autocomplete="off" />
+        <span id="search-icon">⌕</span>
+      </div>
+
+      <nav id="chapter-nav"></nav>
+    </aside>
+
+    <main id="content">
+      <div id="welcome">
+        <div class="welcome-inner">
+          <h1>Аштанга-хридая-самхита</h1>
+          <p class="welcome-author">Шримад Вагбхата</p>
+          <p class="welcome-meta">Перевод Ю.В. Сорокиной · Комментарии И.И. Ветрова</p>
+          <p class="welcome-hint">Выберите главу в боковом меню, чтобы начать чтение</p>
+          <div class="welcome-features">
+            <div class="feature">
+              <span class="feature-icon">◈</span>
+              <span>Наведите на <span class="term-sample">санскритский термин</span> — появится пояснение</span>
+            </div>
+            <div class="feature">
+              <span class="feature-icon">⌕</span>
+              <span>Поиск работает по всем главам</span>
+            </div>
+            <div class="feature">
+              <span class="feature-icon">☽</span>
+              <span>Тёмная и светлая тема</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <article id="chapter-view" hidden>
+        <header id="chapter-header">
+          <div id="chapter-breadcrumb"></div>
+          <h2 id="chapter-title"></h2>
+          <p id="chapter-subtitle"></p>
+        </header>
+        <div id="chapter-body"></div>
+      </article>
+
+      <div id="search-results" hidden>
+        <div id="search-results-header">
+          <h2>Результаты поиска</h2>
+          <span id="search-count"></span>
+        </div>
+        <div id="search-results-body"></div>
+      </div>
+    </main>
+  </div>
+
+  <div id="tooltip" role="tooltip" aria-live="polite"></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
