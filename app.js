@@ -1,5 +1,6 @@
 import { BOOK_DATA } from './data.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
+import { DISEASES, getDiseaseCategories } from './diseases.js';
 
 // ── State ──────────────────────────────────────────
 let currentChapterIdx = null;
@@ -7,17 +8,29 @@ let searchQuery = '';
 let tooltipTimeout = null;
 
 // ── Elements ───────────────────────────────────────
-const $nav         = document.getElementById('chapter-nav');
-const $welcome     = document.getElementById('welcome');
-const $chapterView = document.getElementById('chapter-view');
-const $searchRes   = document.getElementById('search-results');
-const $chapterBody = document.getElementById('chapter-body');
-const $chTitle     = document.getElementById('chapter-title');
-const $chSubtitle  = document.getElementById('chapter-subtitle');
-const $chBreadcrumb= document.getElementById('chapter-breadcrumb');
-const $searchInput = document.getElementById('search-input');
-const $themeToggle = document.getElementById('theme-toggle');
-const $tooltip     = document.getElementById('tooltip');
+const $nav          = document.getElementById('chapter-nav');
+const $welcome      = document.getElementById('welcome');
+const $chapterView  = document.getElementById('chapter-view');
+const $searchRes    = document.getElementById('search-results');
+const $glossaryView = document.getElementById('glossary-view');
+const $diseasesView = document.getElementById('diseases-view');
+const $chapterBody  = document.getElementById('chapter-body');
+const $chTitle      = document.getElementById('chapter-title');
+const $chSubtitle   = document.getElementById('chapter-subtitle');
+const $chBreadcrumb = document.getElementById('chapter-breadcrumb');
+const $searchInput  = document.getElementById('search-input');
+const $themeToggle  = document.getElementById('theme-toggle');
+const $tooltip      = document.getElementById('tooltip');
+const $glossaryBtn  = document.getElementById('glossary-btn');
+const $diseasesBtn  = document.getElementById('diseases-btn');
+
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView];
+
+function showOnly(panel) {
+  ALL_PANELS.forEach(p => { p.hidden = true; });
+  panel.hidden = false;
+  document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+}
 
 // ── Theme ──────────────────────────────────────────
 function initTheme() {
@@ -155,9 +168,7 @@ function loadChapter(idx) {
   currentChapterIdx = idx;
   const ch = BOOK_DATA.chapters[idx];
 
-  $welcome.hidden = true;
-  $searchRes.hidden = true;
-  $chapterView.hidden = false;
+  showOnly($chapterView);
 
   $chBreadcrumb.textContent = ch.sthana;
   $chTitle.textContent = ch.number > 0
@@ -172,13 +183,212 @@ function loadChapter(idx) {
   $chapterBody.appendChild(frag);
 
   setActiveBtn(idx);
-
-  // Scroll to top
-  document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+  setFooterActive(null);
 
   // Update URL hash
   history.replaceState(null, '', `#ch${idx}`);
 }
+
+// ── Glossary view ──────────────────────────────────
+function buildGlossaryView() {
+  const body = document.getElementById('glossary-body');
+  const countEl = document.getElementById('glossary-count');
+  const filterEl = document.getElementById('glossary-filter');
+
+  countEl.textContent = `${GLOSSARY.length} терминов`;
+
+  // Group by category (first word of def context)
+  const categories = {
+    'Три доши и их субтипы': [],
+    'Семь тканей (дхату)': [],
+    'Тонкие эссенции': [],
+    'Шесть вкусов': [],
+    'Качества (гуны)': [],
+    'Пять элементов': [],
+    'Органы чувств': [],
+    'Панча-карма и терапия': [],
+    'Диагностика': [],
+    'Растения и препараты': [],
+    'Философия и психология': [],
+    'Здоровье и болезнь': [],
+    'Распорядок жизни': [],
+    'Каналы': [],
+    'Классические авторы': [],
+    'Болезни': [],
+    'Разное': [],
+  };
+
+  const catMap = {
+    'Вата':'Три доши и их субтипы','Пита':'Три доши и их субтипы','Питта':'Три доши и их субтипы',
+    'Капха':'Три доши и их субтипы','Доша':'Три доши и их субтипы','Доши':'Три доши и их субтипы',
+    'Тридоша':'Три доши и их субтипы','Апана':'Три доши и их субтипы','Самана':'Три доши и их субтипы',
+    'Удана':'Три доши и их субтипы','Вьяна':'Три доши и их субтипы',
+    'Пачака':'Три доши и их субтипы','Ранджака':'Три доши и их субтипы','Садхака':'Три доши и их субтипы',
+    'Алочака':'Три доши и их субтипы','Бхраджака':'Три доши и их субтипы',
+    'Кледака':'Три доши и их субтипы','Авалабхака':'Три доши и их субтипы','Бодхака':'Три доши и их субтипы',
+    'Тарпака':'Три доши и их субтипы','Шлешака':'Три доши и их субтипы',
+    'Дхату':'Семь тканей (дхату)','Раса':'Семь тканей (дхату)','Ракта':'Семь тканей (дхату)',
+    'Мамса':'Семь тканей (дхату)','Меда':'Семь тканей (дхату)','Астхи':'Семь тканей (дхату)',
+    'Маджа':'Семь тканей (дхату)','Шукра':'Семь тканей (дхату)',
+    'Оджас':'Тонкие эссенции','Тежас':'Тонкие эссенции','Прана':'Тонкие эссенции','Агни':'Тонкие эссенции','Аама':'Тонкие эссенции',
+    'Мадхура':'Шесть вкусов','Амла':'Шесть вкусов','Лавана':'Шесть вкусов',
+    'Тикта':'Шесть вкусов','Кату':'Шесть вкусов','Кашая':'Шесть вкусов',
+    'Гуна':'Качества (гуны)','Гуны':'Качества (гуны)','Лагху':'Качества (гуны)',
+    'Гуру':'Качества (гуны)','Снигдха':'Качества (гуны)','Рукша':'Качества (гуны)',
+    'Ушна':'Качества (гуны)','Шита':'Качества (гуны)','Сукшма':'Качества (гуны)','Стхула':'Качества (гуны)',
+    'Притхви':'Пять элементов','Джала':'Пять элементов','Ваю':'Пять элементов',
+    'Акаша':'Пять элементов','Панча':'Пять элементов','Сапта':'Пять элементов',
+    'Гандха':'Органы чувств','Рупа':'Органы чувств','Шабда':'Органы чувств','Спарша':'Органы чувств',
+    'Панчакарма':'Панча-карма и терапия','Шодхана':'Панча-карма и терапия','Шамана':'Панча-карма и терапия',
+    'Снехана':'Панча-карма и терапия','Сведана':'Панча-карма и терапия','Вамана':'Панча-карма и терапия',
+    'Вирекана':'Панча-карма и терапия','Насья':'Панча-карма и терапия','Басти':'Панча-карма и терапия',
+    'Рактамокшана':'Панча-карма и терапия','Лангхана':'Панча-карма и терапия','Брумхана':'Панча-карма и терапия',
+    'Расаяна':'Панча-карма и терапия','Ваджикарана':'Панча-карма и терапия','Снеха':'Панча-карма и терапия',
+    'Парикша':'Диагностика','Дарша':'Диагностика','Нидана':'Диагностика','Чикитса':'Диагностика',
+    'Гхи':'Растения и препараты','Гхрита':'Растения и препараты','Трипхала':'Растения и препараты',
+    'Харитаки':'Растения и препараты','Амалаки':'Растения и препараты','Бибхитака':'Растения и препараты',
+    'Гудучи':'Растения и препараты','Шатавари':'Растения и препараты','Брахми':'Растения и препараты',
+    'Арджуна':'Растения и препараты','Нимба':'Растения и препараты','Пиппали':'Растения и препараты',
+    'Муста':'Растения и препараты','Амрита':'Растения и препараты','Чандана':'Растения и препараты',
+    'Патола':'Растения и препараты','Сарива':'Растения и препараты','Ватсака':'Растения и препараты',
+    'Патхья':'Растения и препараты','Трикату':'Растения и препараты','Маданапхала':'Растения и препараты',
+    'Шринги':'Растения и препараты','Мадхука':'Растения и препараты','Дхатри':'Растения и препараты',
+    'Кирататикта':'Растения и препараты','Катукарохини':'Растения и препараты',
+    'Калинга':'Растения и препараты','Кшаудра':'Растения и препараты','Таила':'Растения и препараты',
+    'Дхарма':'Философия и психология','Карма':'Философия и психология','Мокша':'Философия и психология',
+    'Рага':'Философия и психология','Двеша':'Философия и психология','Моха':'Философия и психология',
+    'Саттва':'Философия и психология','Раджас':'Философия и психология','Тамас':'Философия и психология',
+    'Буддхи':'Философия и психология','Манас':'Философия и психология','Ахамкара':'Философия и психология',
+    'Пуруша':'Философия и психология','Джива':'Философия и психология','Атман':'Философия и психология',
+    'Санкхья':'Философия и психология','Йога':'Философия и психология','Крия':'Философия и психология',
+    'Свастха':'Здоровье и болезнь','Арогья':'Здоровье и болезнь','Паква':'Здоровье и болезнь',
+    'Апаква':'Здоровье и болезнь','Пурва':'Здоровье и болезнь','Сиддхи':'Здоровье и болезнь',
+    'Пракрити':'Здоровье и болезнь','Викрити':'Здоровье и болезнь',
+    'Джвара':'Болезни','Каса':'Болезни','Аджирна':'Болезни','Атисара':'Болезни',
+    'Грахани':'Болезни','Прамеха':'Болезни','Пандурога':'Болезни','Удара':'Болезни',
+    'Аршас':'Болезни','Шваса':'Болезни','Апасмара':'Болезни','Унмада':'Болезни','Хридрога':'Болезни',
+    'Диначарья':'Распорядок жизни','Ритучарья':'Распорядок жизни','Пранаяма':'Распорядок жизни',
+    'Нади':'Каналы','Сира':'Каналы','Дамани':'Каналы','Малы':'Каналы',
+    'Вайдья':'Классические авторы','Вагбхата':'Классические авторы','Чарака':'Классические авторы',
+    'Сушрута':'Классические авторы','Атрея':'Классические авторы','Брахма':'Классические авторы',
+    'Аштанга':'Разное','Самхита':'Разное','Хридая':'Разное','Шлока':'Разное',
+  };
+
+  function renderAll(filter) {
+    body.innerHTML = '';
+    const q = filter.toLowerCase().trim();
+    const filtered = q
+      ? GLOSSARY.filter(e => e.term.toLowerCase().includes(q) || e.def.toLowerCase().includes(q) || e.origin.toLowerCase().includes(q))
+      : GLOSSARY;
+
+    // Group
+    const grouped = {};
+    for (const entry of filtered) {
+      const cat = catMap[entry.term] || 'Разное';
+      if (!grouped[cat]) grouped[cat] = [];
+      grouped[cat].push(entry);
+    }
+
+    const catOrder = Object.keys(categories);
+    const frag = document.createDocumentFragment();
+
+    for (const cat of catOrder) {
+      if (!grouped[cat] || grouped[cat].length === 0) continue;
+      const label = document.createElement('div');
+      label.className = 'glossary-category-title';
+      label.textContent = cat;
+      frag.appendChild(label);
+
+      for (const entry of grouped[cat]) {
+        const card = document.createElement('div');
+        card.className = 'glossary-card';
+        card.innerHTML = `
+          <div class="glossary-card-term">${entry.term}</div>
+          <div class="glossary-card-origin">${entry.origin}</div>
+          <div class="glossary-card-def">${entry.def}</div>
+        `;
+        frag.appendChild(card);
+      }
+    }
+
+    if (frag.childNodes.length === 0) {
+      const msg = document.createElement('div');
+      msg.className = 'no-results';
+      msg.textContent = `Термин «${filter}» не найден`;
+      frag.appendChild(msg);
+    }
+    body.appendChild(frag);
+    countEl.textContent = `${filtered.length} из ${GLOSSARY.length} терминов`;
+  }
+
+  renderAll('');
+
+  filterEl.addEventListener('input', () => renderAll(filterEl.value));
+}
+
+// ── Diseases view ──────────────────────────────────
+function buildDiseasesView() {
+  const body = document.getElementById('diseases-body');
+  if (body.childNodes.length > 0) return; // already built
+
+  const cats = getDiseaseCategories();
+  const frag = document.createDocumentFragment();
+
+  for (const [cat, diseases] of Object.entries(cats)) {
+    const section = document.createElement('div');
+    section.className = 'disease-category';
+
+    const title = document.createElement('div');
+    title.className = 'disease-category-title';
+    title.textContent = cat;
+    section.appendChild(title);
+
+    for (const d of diseases) {
+      const card = document.createElement('div');
+      card.className = 'disease-card';
+
+      const chips = d.chapters.map(c => `<span class="disease-chip">${c}</span>`).join('');
+
+      card.innerHTML = `
+        <div class="disease-card-header">
+          <span class="disease-card-name">${d.name}</span>
+          <span class="disease-card-origin">${d.origin}</span>
+          <span class="disease-card-dosha">${d.dosha}</span>
+        </div>
+        <div class="disease-card-desc">${d.desc}</div>
+        <div class="disease-card-treatment">${d.treatment}</div>
+        <div class="disease-card-chapters">${chips}</div>
+      `;
+      section.appendChild(card);
+    }
+
+    frag.appendChild(section);
+  }
+
+  body.appendChild(frag);
+}
+
+function setFooterActive(id) {
+  $glossaryBtn.classList.toggle('active', id === 'glossary');
+  $diseasesBtn.classList.toggle('active', id === 'diseases');
+}
+
+// ── Glossary & Diseases buttons ────────────────────
+$glossaryBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('glossary');
+  showOnly($glossaryView);
+  buildGlossaryView();
+  history.replaceState(null, '', '#glossary');
+});
+
+$diseasesBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('diseases');
+  showOnly($diseasesView);
+  buildDiseasesView();
+  history.replaceState(null, '', '#diseases');
+});
 
 // ── Search ─────────────────────────────────────────
 let searchDebounce = null;
@@ -193,18 +403,17 @@ $searchInput.addEventListener('input', () => {
 function runSearch(query) {
   searchQuery = query;
   if (!query) {
-    $searchRes.hidden = true;
     if (currentChapterIdx !== null) {
-      $chapterView.hidden = false;
+      showOnly($chapterView);
     } else {
-      $welcome.hidden = false;
+      showOnly($welcome);
     }
+    setFooterActive(null);
     return;
   }
 
-  $welcome.hidden = true;
-  $chapterView.hidden = true;
-  $searchRes.hidden = false;
+  showOnly($searchRes);
+  setFooterActive(null);
 
   const q = query.toLowerCase();
   const results = [];
@@ -290,8 +499,16 @@ function init() {
       return;
     }
   }
+  if (hash === '#glossary') {
+    $glossaryBtn.click();
+    return;
+  }
+  if (hash === '#diseases') {
+    $diseasesBtn.click();
+    return;
+  }
   // Default: show welcome
-  $welcome.hidden = false;
+  showOnly($welcome);
 }
 
 init();

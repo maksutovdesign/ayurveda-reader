@@ -26,6 +26,15 @@
       </div>
 
       <nav id="chapter-nav"></nav>
+
+      <div id="sidebar-footer">
+        <button id="glossary-btn" class="sidebar-footer-btn">
+          <span>◈</span> Глоссарий терминов
+        </button>
+        <button id="diseases-btn" class="sidebar-footer-btn">
+          <span>✦</span> Глоссарий болезней
+        </button>
+      </div>
     </aside>
 
     <main id="content">
@@ -67,6 +76,25 @@
           <span id="search-count"></span>
         </div>
         <div id="search-results-body"></div>
+      </div>
+
+      <div id="glossary-view" hidden>
+        <div id="glossary-header">
+          <h2>Глоссарий санскритских терминов</h2>
+          <span id="glossary-count"></span>
+        </div>
+        <div id="glossary-filter-wrap">
+          <input id="glossary-filter" type="search" placeholder="Фильтр терминов…" autocomplete="off" />
+        </div>
+        <div id="glossary-body"></div>
+      </div>
+
+      <div id="diseases-view" hidden>
+        <div id="diseases-header">
+          <h2>Глоссарий болезней</h2>
+          <p class="diseases-subtitle">Аюрведическая классификация болезней, упомянутых в тексте</p>
+        </div>
+        <div id="diseases-body"></div>
       </div>
     </main>
   </div>

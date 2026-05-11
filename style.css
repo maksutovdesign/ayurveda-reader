@@ -1,6 +1,9 @@
 /* ── Reset & base ─────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+/* Ensure [hidden] always wins over display declarations */
+[hidden] { display: none !important; }
+
 :root {
   --font-serif: 'Georgia', 'Times New Roman', serif;
   --font-sans:  system-ui, -apple-system, sans-serif;
@@ -503,6 +506,203 @@ body.dark  .icon-sun  { display: none; }
   color: var(--text-muted);
   padding: 60px 0;
   font-size: 15px;
+}
+
+/* ── Sidebar footer ───────────────────────────────── */
+#sidebar-footer {
+  border-top: 1px solid var(--border);
+  padding: 10px 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.sidebar-footer-btn {
+  width: 100%;
+  text-align: left;
+  padding: 7px 10px;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  color: var(--text-sidebar);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  transition: all var(--transition);
+}
+.sidebar-footer-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--bg-hover); }
+.sidebar-footer-btn.active { border-color: var(--accent); color: var(--accent); background: var(--bg-active); font-weight: 600; }
+.sidebar-footer-btn span { font-size: 14px; }
+
+/* ── Glossary view ────────────────────────────────── */
+#glossary-view, #diseases-view {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 36px 32px 80px;
+}
+#glossary-header, #diseases-header {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+#glossary-header h2, #diseases-header h2 {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+#glossary-count {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.diseases-subtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+#glossary-filter-wrap {
+  margin-bottom: 20px;
+}
+#glossary-filter {
+  width: 100%;
+  max-width: 360px;
+  background: var(--search-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 8px 14px;
+  font-size: 13px;
+  color: var(--text);
+  outline: none;
+  transition: border-color var(--transition);
+}
+#glossary-filter:focus { border-color: var(--accent); }
+#glossary-filter::placeholder { color: var(--text-muted); }
+
+/* Glossary grid */
+#glossary-body {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+.glossary-category-title {
+  grid-column: 1 / -1;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding: 16px 0 6px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 4px;
+}
+.glossary-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  transition: border-color var(--transition);
+}
+.glossary-card:hover { border-color: var(--accent-light); }
+.glossary-card-term {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
+.glossary-card-origin {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 6px;
+}
+.glossary-card-def {
+  font-size: 12.5px;
+  line-height: 1.65;
+  color: var(--text);
+}
+
+/* Diseases view */
+.disease-category {
+  margin-bottom: 32px;
+}
+.disease-category-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+.disease-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  transition: border-color var(--transition);
+}
+.disease-card:hover { border-color: var(--accent-light); }
+.disease-card-header {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+.disease-card-name {
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--accent);
+}
+.disease-card-origin {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.disease-card-dosha {
+  margin-left: auto;
+  font-size: 11px;
+  color: var(--accent);
+  background: var(--term-bg);
+  border: 1px solid var(--term-border);
+  border-radius: 20px;
+  padding: 2px 10px;
+  white-space: nowrap;
+}
+.disease-card-desc {
+  font-size: 13.5px;
+  line-height: 1.75;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.disease-card-treatment {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+.disease-card-treatment::before {
+  content: 'Лечение: ';
+  font-weight: 600;
+  color: var(--comment-tag);
+}
+.disease-card-chapters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.disease-chip {
+  font-size: 10px;
+  color: var(--text-muted);
+  background: var(--bg-hover);
+  border-radius: 4px;
+  padding: 2px 7px;
 }
 
 /* ── Scrollbar ────────────────────────────────────── */
