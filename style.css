@@ -705,6 +705,107 @@ body.dark  .icon-sun  { display: none; }
   padding: 2px 7px;
 }
 
+/* ── Remedies ─────────────────────────────────────── */
+#remedies-view {
+  padding: 32px 40px 60px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+#remedies-header h2 { margin: 0 0 4px; }
+.remedies-subtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin: 0 0 20px;
+}
+#remedies-search-wrap {
+  position: relative;
+  margin-bottom: 24px;
+}
+#remedies-filter {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 9px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-sidebar);
+  color: var(--text);
+  font-size: 14px;
+  outline: none;
+}
+#remedies-filter:focus { border-color: var(--accent); }
+#remedies-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+}
+.remedy-card {
+  background: var(--bg-sidebar);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.12s;
+}
+.remedy-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 12px color-mix(in srgb, var(--accent) 15%, transparent);
+  transform: translateY(-1px);
+}
+.remedy-card-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.remedy-card-preview {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+/* Detail view */
+#remedies-detail { padding-top: 8px; }
+#remedies-back {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 14px;
+  font-size: 13px;
+  color: var(--text-muted);
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: color 0.15s, border-color 0.15s;
+}
+#remedies-back:hover { color: var(--accent); border-color: var(--accent); }
+#remedies-detail-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 20px;
+  color: var(--text);
+}
+#remedies-detail-body {
+  font-size: 14.5px;
+  line-height: 1.8;
+  color: var(--text);
+}
+#remedies-detail-body p { margin: 0 0 12px; }
+#remedies-detail-body h4 {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--comment-tag);
+  margin: 18px 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+#remedies-detail-body ul {
+  margin: 0 0 12px;
+  padding-left: 20px;
+}
+#remedies-detail-body li { margin-bottom: 6px; }
+
 /* ── Scrollbar ────────────────────────────────────── */
 #chapter-nav::-webkit-scrollbar-track,
 #content::-webkit-scrollbar-track { background: transparent; }

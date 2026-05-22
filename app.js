@@ -1,6 +1,7 @@
 import { BOOK_DATA } from './data.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js';
+import { REMEDIES } from './remedies.js';
 
 // ── State ──────────────────────────────────────────
 let currentChapterIdx = null;
@@ -14,6 +15,7 @@ const $chapterView  = document.getElementById('chapter-view');
 const $searchRes    = document.getElementById('search-results');
 const $glossaryView = document.getElementById('glossary-view');
 const $diseasesView = document.getElementById('diseases-view');
+const $remediesView = document.getElementById('remedies-view');
 const $chapterBody  = document.getElementById('chapter-body');
 const $chTitle      = document.getElementById('chapter-title');
 const $chSubtitle   = document.getElementById('chapter-subtitle');
@@ -23,8 +25,9 @@ const $themeToggle  = document.getElementById('theme-toggle');
 const $tooltip      = document.getElementById('tooltip');
 const $glossaryBtn  = document.getElementById('glossary-btn');
 const $diseasesBtn  = document.getElementById('diseases-btn');
+const $remediesBtn  = document.getElementById('remedies-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -371,6 +374,95 @@ function buildDiseasesView() {
 function setFooterActive(id) {
   $glossaryBtn.classList.toggle('active', id === 'glossary');
   $diseasesBtn.classList.toggle('active', id === 'diseases');
+  $remediesBtn.classList.toggle('active', id === 'remedies');
+}
+
+// ── Remedies view ──────────────────────────────────
+let remediesBuilt = false;
+
+function renderRemedyContent(text) {
+  // Convert plain text with newlines to HTML paragraphs
+  return text
+    .split(/\n\n+/)
+    .map(para => {
+      const trimmed = para.trim();
+      if (!trimmed) return '';
+      // Bullet points
+      if (trimmed.startsWith('•')) {
+        const items = trimmed.split(/\n•/).map(s => s.replace(/^•\s*/, '').trim());
+        return '<ul>' + items.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
+      }
+      // Sub-headings (short lines with no period, all caps or title case)
+      const lines = trimmed.split('\n');
+      if (lines.length === 1 && trimmed.length < 80 && !trimmed.endsWith('.') &&
+          (trimmed === trimmed.toUpperCase() || /^[А-ЯЁ]/.test(trimmed))) {
+        return `<h4>${escapeHtml(trimmed)}</h4>`;
+      }
+      // Regular paragraph with line-break handling
+      return `<p>${lines.map(l => escapeHtml(l)).join('<br>')}</p>`;
+    })
+    .join('');
+}
+
+function buildRemediesView() {
+  const $list   = document.getElementById('remedies-list');
+  const $detail = document.getElementById('remedies-detail');
+  const $filter = document.getElementById('remedies-filter');
+  const $back   = document.getElementById('remedies-back');
+  const $dtitle = document.getElementById('remedies-detail-title');
+  const $dbody  = document.getElementById('remedies-detail-body');
+
+  if (remediesBuilt) return;
+  remediesBuilt = true;
+
+  function renderList(query) {
+    $list.innerHTML = '';
+    const q = query.toLowerCase().trim();
+    const items = q
+      ? REMEDIES.filter(r => r.name.toLowerCase().includes(q) || r.content.toLowerCase().includes(q))
+      : REMEDIES;
+
+    if (items.length === 0) {
+      $list.innerHTML = `<div class="no-results">Ничего не найдено по запросу «${escapeHtml(query)}»</div>`;
+      return;
+    }
+
+    const frag = document.createDocumentFragment();
+    items.forEach(remedy => {
+      const card = document.createElement('div');
+      card.className = 'remedy-card';
+      const preview = remedy.content.replace(/\n+/g, ' ').slice(0, 180).trim();
+      card.innerHTML = `
+        <div class="remedy-card-name">${escapeHtml(remedy.name)}</div>
+        <div class="remedy-card-preview">${escapeHtml(preview)}…</div>
+      `;
+      card.addEventListener('click', () => {
+        $dtitle.textContent = remedy.name;
+        $dbody.innerHTML = renderRemedyContent(remedy.content);
+        $list.hidden = true;
+        $filter.parentElement.hidden = true;
+        $detail.hidden = false;
+        document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+      });
+      frag.appendChild(card);
+    });
+    $list.appendChild(frag);
+  }
+
+  renderList('');
+
+  let filterDebounce = null;
+  $filter.addEventListener('input', () => {
+    clearTimeout(filterDebounce);
+    filterDebounce = setTimeout(() => renderList($filter.value), 200);
+  });
+
+  $back.addEventListener('click', () => {
+    $detail.hidden = true;
+    $list.hidden = false;
+    $filter.parentElement.hidden = false;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+  });
 }
 
 // ── Glossary & Diseases buttons ────────────────────
@@ -388,6 +480,14 @@ $diseasesBtn.addEventListener('click', () => {
   showOnly($diseasesView);
   buildDiseasesView();
   history.replaceState(null, '', '#diseases');
+});
+
+$remediesBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('remedies');
+  showOnly($remediesView);
+  buildRemediesView();
+  history.replaceState(null, '', '#remedies');
 });
 
 // ── Search ─────────────────────────────────────────
@@ -505,6 +605,10 @@ function init() {
   }
   if (hash === '#diseases') {
     $diseasesBtn.click();
+    return;
+  }
+  if (hash === '#remedies') {
+    $remediesBtn.click();
     return;
   }
   // Default: show welcome

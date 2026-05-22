@@ -34,6 +34,9 @@
         <button id="diseases-btn" class="sidebar-footer-btn">
           <span>✦</span> Глоссарий болезней
         </button>
+        <button id="remedies-btn" class="sidebar-footer-btn">
+          <span>⚕</span> Домашние средства
+        </button>
       </div>
     </aside>
 
@@ -95,6 +98,22 @@
           <p class="diseases-subtitle">Аюрведическая классификация болезней, упомянутых в тексте</p>
         </div>
         <div id="diseases-body"></div>
+      </div>
+
+      <div id="remedies-view" hidden>
+        <div id="remedies-header">
+          <h2>Домашние средства Аюрведы</h2>
+          <p class="remedies-subtitle">111 заболеваний · Васант Лад</p>
+          <div id="remedies-search-wrap">
+            <input id="remedies-filter" type="search" placeholder="Найти заболевание…" autocomplete="off" />
+          </div>
+        </div>
+        <div id="remedies-list"></div>
+        <div id="remedies-detail" hidden>
+          <button id="remedies-back">← Все заболевания</button>
+          <h3 id="remedies-detail-title"></h3>
+          <div id="remedies-detail-body"></div>
+        </div>
       </div>
     </main>
   </div>
