@@ -2,6 +2,7 @@ import { BOOK_DATA } from './data.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js';
 import { REMEDIES } from './remedies.js';
+import { LIBRARY, LIBRARY_INDEX } from './library.js';
 
 // ── State ──────────────────────────────────────────
 let currentChapterIdx = null;
@@ -26,8 +27,10 @@ const $tooltip      = document.getElementById('tooltip');
 const $glossaryBtn  = document.getElementById('glossary-btn');
 const $diseasesBtn  = document.getElementById('diseases-btn');
 const $remediesBtn  = document.getElementById('remedies-btn');
+const $libraryView  = document.getElementById('library-view');
+const $libraryBtn   = document.getElementById('library-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $libraryView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -375,6 +378,7 @@ function setFooterActive(id) {
   $glossaryBtn.classList.toggle('active', id === 'glossary');
   $diseasesBtn.classList.toggle('active', id === 'diseases');
   $remediesBtn.classList.toggle('active', id === 'remedies');
+  $libraryBtn.classList.toggle('active', id === 'library');
 }
 
 // ── Remedies view ──────────────────────────────────
@@ -465,6 +469,229 @@ function buildRemediesView() {
   });
 }
 
+// ── Library view ───────────────────────────────────
+const CATEGORY_LABELS = {
+  theory:       'Теория и философия',
+  cooking:      'Кулинария',
+  beauty:       'Красота и уход',
+  constitution: 'Конституция (пракрити)',
+  herbs:        'Травы и специи',
+};
+
+const CATEGORY_ICONS = {
+  theory:       '📖',
+  cooking:      '🍲',
+  beauty:       '🌸',
+  constitution: '🧬',
+  herbs:        '🌿',
+};
+
+let libraryBuilt = false;
+let currentLibraryBook = null;  // book object
+let currentLibrarySections = []; // filtered sections
+
+function renderSectionContent(text) {
+  return text
+    .split(/\n\n+/)
+    .map(para => {
+      const trimmed = para.trim();
+      if (!trimmed) return '';
+      if (trimmed.startsWith('•')) {
+        const items = trimmed.split(/\n•/).map(s => s.replace(/^•\s*/, '').trim());
+        return '<ul>' + items.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
+      }
+      const lines = trimmed.split('\n');
+      if (lines.length === 1 && trimmed.length < 90 && !trimmed.endsWith('.')) {
+        return `<h4>${escapeHtml(trimmed)}</h4>`;
+      }
+      return `<p>${lines.map(l => escapeHtml(l)).join('<br>')}</p>`;
+    })
+    .join('');
+}
+
+function buildLibraryView() {
+  if (libraryBuilt) return;
+  libraryBuilt = true;
+
+  const $grid          = document.getElementById('library-grid');
+  const $filter        = document.getElementById('library-filter');
+  const $books         = document.getElementById('library-books');
+  const $sections      = document.getElementById('library-sections');
+  const $sectionList   = document.getElementById('library-section-list');
+  const $sectionFilter = document.getElementById('library-section-filter');
+  const $content       = document.getElementById('library-content');
+  const $bookName      = document.getElementById('library-book-name');
+  const $bookAuthor    = document.getElementById('library-book-author');
+  const $secTitle      = document.getElementById('library-section-title');
+  const $secBody       = document.getElementById('library-section-body');
+  const $backBooks     = document.getElementById('library-back-books');
+  const $backSections  = document.getElementById('library-back-sections');
+
+  // ── Back buttons ──
+  $backBooks.addEventListener('click', () => {
+    $sections.hidden = true;
+    $content.hidden  = true;
+    $books.hidden    = false;
+    currentLibraryBook = null;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+    history.replaceState(null, '', '#library');
+  });
+
+  $backSections.addEventListener('click', () => {
+    $content.hidden   = true;
+    $sections.hidden  = false;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+  });
+
+  // ── Open a book ──
+  function openBook(book) {
+    currentLibraryBook = book;
+    currentLibrarySections = book.sections;
+    $bookName.textContent   = book.title;
+    $bookAuthor.textContent = book.author;
+    $sectionFilter.value    = '';
+    $books.hidden    = true;
+    $content.hidden  = true;
+    $sections.hidden = false;
+    renderSectionList('');
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+    history.replaceState(null, '', `#library/${book.id}`);
+  }
+
+  // ── Render sections list ──
+  function renderSectionList(query) {
+    $sectionList.innerHTML = '';
+    const q = query.toLowerCase().trim();
+    const items = q
+      ? currentLibrarySections.filter(s =>
+          s.title.toLowerCase().includes(q) || s.content.toLowerCase().includes(q))
+      : currentLibrarySections;
+
+    if (items.length === 0) {
+      $sectionList.innerHTML = `<div class="no-results">Ничего не найдено</div>`;
+      return;
+    }
+
+    const frag = document.createDocumentFragment();
+    items.forEach((sec, idx) => {
+      const row = document.createElement('div');
+      row.className = 'lib-section-row';
+      const dosha = sec.dosha ? `<span class="lib-section-dosha lib-dosha-${sec.dosha}">${sec.dosha}</span>` : '';
+      row.innerHTML = `
+        <span class="lib-section-num">${idx + 1}</span>
+        <span class="lib-section-name">${escapeHtml(sec.title)}</span>
+        ${dosha}
+      `;
+      row.addEventListener('click', () => openSection(sec));
+      frag.appendChild(row);
+    });
+    $sectionList.appendChild(frag);
+  }
+
+  // ── Open section content ──
+  function openSection(sec) {
+    $secTitle.textContent = sec.title;
+    $secBody.innerHTML    = renderSectionContent(sec.content);
+    $sections.hidden = true;
+    $content.hidden  = false;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+  }
+
+  // ── Section filter ──
+  let secFilterDebounce = null;
+  $sectionFilter.addEventListener('input', () => {
+    clearTimeout(secFilterDebounce);
+    secFilterDebounce = setTimeout(() => renderSectionList($sectionFilter.value), 200);
+  });
+
+  // ── Build book grid ──
+  function renderBookGrid(query) {
+    $grid.innerHTML = '';
+    const q = query.toLowerCase().trim();
+
+    // Group available books by category
+    const groups = {};
+    for (const book of LIBRARY) {
+      // filter by query (title, author, category label)
+      if (q) {
+        const haystack = (book.title + ' ' + book.author + ' ' + (CATEGORY_LABELS[book.category] || '')).toLowerCase();
+        if (!haystack.includes(q)) continue;
+      }
+      const cat = book.category;
+      if (!groups[cat]) groups[cat] = [];
+      groups[cat].push(book);
+    }
+
+    // Fixed category order
+    const catOrder = ['theory', 'constitution', 'cooking', 'beauty', 'herbs'];
+    const frag = document.createDocumentFragment();
+
+    for (const cat of catOrder) {
+      if (!groups[cat] || groups[cat].length === 0) continue;
+
+      const section = document.createElement('div');
+      section.className = 'lib-category';
+
+      const catTitle = document.createElement('div');
+      catTitle.className = 'lib-category-title';
+      catTitle.textContent = `${CATEGORY_ICONS[cat] || ''} ${CATEGORY_LABELS[cat] || cat}`;
+      section.appendChild(catTitle);
+
+      const row = document.createElement('div');
+      row.className = 'lib-book-row';
+
+      for (const book of groups[cat]) {
+        const card = document.createElement('div');
+        card.className = 'lib-book-card' + (book.available ? '' : ' lib-unavailable');
+
+        const sectionCount = book.sections.length;
+        const badge = book.available
+          ? `<span class="lib-book-badge">${sectionCount} разд.</span>`
+          : `<span class="lib-book-badge lib-badge-scan">${book.reason === 'scan' ? '📷 скан' : '⚠ файл'}</span>`;
+
+        card.innerHTML = `
+          <div class="lib-book-icon">${CATEGORY_ICONS[cat] || '📄'}</div>
+          <div class="lib-book-info">
+            <div class="lib-book-title">${escapeHtml(book.title)}</div>
+            <div class="lib-book-author">${escapeHtml(book.author)}</div>
+            ${badge}
+          </div>
+        `;
+
+        if (book.available) {
+          card.addEventListener('click', () => openBook(book));
+        } else {
+          card.title = book.reason === 'scan'
+            ? 'Книга в формате скана — текст недоступен для чтения'
+            : 'Файл повреждён — текст недоступен';
+        }
+
+        row.appendChild(card);
+      }
+
+      section.appendChild(row);
+      frag.appendChild(section);
+    }
+
+    if (frag.childNodes.length === 0) {
+      const msg = document.createElement('div');
+      msg.className = 'no-results';
+      msg.textContent = `Ничего не найдено по запросу «${escapeHtml(query)}»`;
+      frag.appendChild(msg);
+    }
+
+    $grid.appendChild(frag);
+  }
+
+  renderBookGrid('');
+
+  let gridFilterDebounce = null;
+  $filter.addEventListener('input', () => {
+    clearTimeout(gridFilterDebounce);
+    gridFilterDebounce = setTimeout(() => renderBookGrid($filter.value), 200);
+  });
+}
+
 // ── Glossary & Diseases buttons ────────────────────
 $glossaryBtn.addEventListener('click', () => {
   setActiveBtn(-1);
@@ -488,6 +715,14 @@ $remediesBtn.addEventListener('click', () => {
   showOnly($remediesView);
   buildRemediesView();
   history.replaceState(null, '', '#remedies');
+});
+
+$libraryBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('library');
+  showOnly($libraryView);
+  buildLibraryView();
+  history.replaceState(null, '', '#library');
 });
 
 // ── Search ─────────────────────────────────────────
@@ -609,6 +844,10 @@ function init() {
   }
   if (hash === '#remedies') {
     $remediesBtn.click();
+    return;
+  }
+  if (hash === '#library' || hash.startsWith('#library/')) {
+    $libraryBtn.click();
     return;
   }
   // Default: show welcome

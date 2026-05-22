@@ -37,6 +37,9 @@
         <button id="remedies-btn" class="sidebar-footer-btn">
           <span>⚕</span> Домашние средства
         </button>
+        <button id="library-btn" class="sidebar-footer-btn">
+          <span>📚</span> Библиотека
+        </button>
       </div>
     </aside>
 
@@ -113,6 +116,41 @@
           <button id="remedies-back">← Все заболевания</button>
           <h3 id="remedies-detail-title"></h3>
           <div id="remedies-detail-body"></div>
+        </div>
+      </div>
+      <!-- ── Library ── -->
+      <div id="library-view" hidden>
+        <div id="library-header">
+          <h2>Аюрведическая библиотека</h2>
+          <p class="library-subtitle">7 книг по аюрведе</p>
+        </div>
+
+        <!-- Book list (default view) -->
+        <div id="library-books">
+          <div id="library-filter-wrap">
+            <input id="library-filter" type="search" placeholder="Найти книгу или тему…" autocomplete="off" />
+          </div>
+          <div id="library-grid"></div>
+        </div>
+
+        <!-- Section list (after clicking a book) -->
+        <div id="library-sections" hidden>
+          <button id="library-back-books">← Все книги</button>
+          <div id="library-book-title-bar">
+            <h3 id="library-book-name"></h3>
+            <span id="library-book-author"></span>
+          </div>
+          <div id="library-section-filter-wrap">
+            <input id="library-section-filter" type="search" placeholder="Поиск по разделам…" autocomplete="off" />
+          </div>
+          <div id="library-section-list"></div>
+        </div>
+
+        <!-- Section content (after clicking a section) -->
+        <div id="library-content" hidden>
+          <button id="library-back-sections">← К оглавлению</button>
+          <h3 id="library-section-title"></h3>
+          <div id="library-section-body"></div>
         </div>
       </div>
     </main>

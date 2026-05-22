@@ -806,6 +806,216 @@ body.dark  .icon-sun  { display: none; }
 }
 #remedies-detail-body li { margin-bottom: 6px; }
 
+/* ── Library ──────────────────────────────────────── */
+#library-view {
+  padding: 32px 40px 60px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+#library-header h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 6px;
+}
+.library-subtitle {
+  color: var(--text-muted);
+  font-size: 13px;
+  margin: 0 0 24px;
+}
+#library-filter-wrap {
+  margin-bottom: 24px;
+}
+#library-filter, #library-section-filter {
+  width: 100%;
+  max-width: 420px;
+  padding: 9px 14px;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  color: var(--text);
+  font-size: 14px;
+  outline: none;
+  transition: border-color var(--transition);
+}
+#library-filter:focus, #library-section-filter:focus {
+  border-color: var(--accent-light);
+}
+
+/* Category groups */
+.lib-category { margin-bottom: 32px; }
+.lib-category-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+.lib-book-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* Book cards */
+.lib-book-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: border-color var(--transition), box-shadow var(--transition), transform 0.1s;
+  width: calc(50% - 6px);
+  min-width: 220px;
+}
+.lib-book-card:hover {
+  border-color: var(--accent-light);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+.lib-book-card.lib-unavailable {
+  opacity: 0.55;
+  cursor: default;
+  background: var(--bg-comment);
+}
+.lib-book-card.lib-unavailable:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--border);
+}
+.lib-book-icon {
+  font-size: 26px;
+  line-height: 1;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.lib-book-info { flex: 1; min-width: 0; }
+.lib-book-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 3px;
+  line-height: 1.4;
+}
+.lib-book-author {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+.lib-book-badge {
+  display: inline-block;
+  font-size: 11px;
+  background: var(--accent-glow);
+  color: var(--accent);
+  border-radius: 4px;
+  padding: 2px 7px;
+  font-weight: 600;
+}
+.lib-badge-scan {
+  background: rgba(0,0,0,0.06);
+  color: var(--text-muted);
+}
+
+/* Section list */
+#library-sections {
+  padding: 0;
+}
+#library-back-books, #library-back-sections {
+  background: none;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-muted);
+  font-size: 13px;
+  padding: 7px 14px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: color var(--transition), border-color var(--transition);
+}
+#library-back-books:hover, #library-back-sections:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+#library-book-title-bar {
+  margin-bottom: 20px;
+}
+#library-book-name {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 4px;
+}
+#library-book-author {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+#library-section-filter-wrap { margin-bottom: 16px; }
+.lib-section-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background var(--transition);
+  border-bottom: 1px solid var(--border);
+}
+.lib-section-row:hover { background: var(--bg-hover); }
+.lib-section-num {
+  font-size: 11px;
+  color: var(--text-muted);
+  min-width: 24px;
+  text-align: right;
+  flex-shrink: 0;
+}
+.lib-section-name {
+  font-size: 14px;
+  color: var(--text);
+  flex: 1;
+  line-height: 1.4;
+}
+.lib-section-dosha {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.lib-dosha-вата { background: rgba(122,92,46,0.12); color: #7a5c2e; }
+.lib-dosha-питта { background: rgba(180,60,40,0.12); color: #b43c28; }
+.lib-dosha-капха { background: rgba(60,100,60,0.12); color: #3c643c; }
+
+/* Section content */
+#library-content { }
+#library-section-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0 0 20px;
+  line-height: 1.3;
+}
+#library-section-body {
+  font-size: 14.5px;
+  line-height: 1.85;
+  color: var(--text);
+}
+#library-section-body p { margin: 0 0 14px; }
+#library-section-body h4 {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--comment-tag);
+  margin: 20px 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+#library-section-body ul { margin: 0 0 14px; padding-left: 22px; }
+#library-section-body li { margin-bottom: 6px; }
+
 /* ── Scrollbar ────────────────────────────────────── */
 #chapter-nav::-webkit-scrollbar-track,
 #content::-webkit-scrollbar-track { background: transparent; }
