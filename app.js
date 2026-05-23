@@ -3,6 +3,7 @@ import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js';
 import { REMEDIES } from './remedies.js';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js';
+import { QUIZ } from './quiz.js';
 
 // ── State ──────────────────────────────────────────
 let currentChapterIdx = null;
@@ -31,8 +32,10 @@ const $encyclopediaView  = document.getElementById('encyclopedia-view');
 const $encyclopediaBtn   = document.getElementById('encyclopedia-btn');
 const $referencesView    = document.getElementById('references-view');
 const $referencesBtn     = document.getElementById('references-btn');
+const $quizView          = document.getElementById('quiz-view');
+const $quizBtn           = document.getElementById('quiz-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $quizView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -382,6 +385,7 @@ function setFooterActive(id) {
   $remediesBtn.classList.toggle('active', id === 'remedies');
   $encyclopediaBtn.classList.toggle('active', id === 'encyclopedia');
   $referencesBtn.classList.toggle('active', id === 'references');
+  $quizBtn.classList.toggle('active', id === 'quiz');
 }
 
 // ── Remedies view ──────────────────────────────────
@@ -792,6 +796,179 @@ $referencesBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#references');
 });
 
+// ── Quiz ───────────────────────────────────────────
+let quizScores = { vata: 0, pitta: 0, kapha: 0 };
+
+function buildQuizView() {
+  const $intro = document.getElementById('quiz-intro');
+  const $form  = document.getElementById('quiz-form');
+  const $result = document.getElementById('quiz-result');
+
+  // Reset to intro
+  $intro.hidden = false;
+  $form.hidden = true;
+  $result.hidden = true;
+  quizScores = { vata: 0, pitta: 0, kapha: 0 };
+}
+
+function renderQuizForm() {
+  const $intro = document.getElementById('quiz-intro');
+  const $form  = document.getElementById('quiz-form');
+  $intro.hidden = true;
+  $form.hidden = false;
+
+  const $sections = document.getElementById('quiz-sections');
+  $sections.innerHTML = '';
+
+  QUIZ.sections.forEach(sec => {
+    const secEl = document.createElement('div');
+    secEl.className = 'quiz-section';
+    secEl.dataset.dosha = sec.dosha;
+
+    const header = document.createElement('div');
+    header.className = 'quiz-section-header';
+    header.style.setProperty('--dosha-color', sec.color);
+    header.innerHTML = `<span class="quiz-sec-emoji">${sec.emoji}</span>
+      <span class="quiz-sec-label">${sec.label}</span>
+      <span class="quiz-sec-count">${sec.questions.length} вопросов</span>`;
+    secEl.appendChild(header);
+
+    sec.questions.forEach((q, i) => {
+      const row = document.createElement('div');
+      row.className = 'quiz-q-row';
+
+      const label = document.createElement('div');
+      label.className = 'quiz-q-text';
+      label.textContent = `${i + 1}. ${q}`;
+
+      const slider = document.createElement('div');
+      slider.className = 'quiz-slider-wrap';
+      slider.innerHTML = `
+        <span class="quiz-slider-lo">0</span>
+        <input type="range" min="0" max="6" value="0"
+          class="quiz-slider"
+          data-dosha="${sec.dosha}"
+          aria-label="${q}">
+        <span class="quiz-slider-hi">6</span>
+        <span class="quiz-slider-val">0</span>
+      `;
+
+      const input = slider.querySelector('input');
+      const val   = slider.querySelector('.quiz-slider-val');
+      input.addEventListener('input', () => {
+        val.textContent = input.value;
+        updateProgress();
+      });
+
+      row.appendChild(label);
+      row.appendChild(slider);
+      secEl.appendChild(row);
+    });
+
+    $sections.appendChild(secEl);
+  });
+
+  updateProgress();
+}
+
+function updateProgress() {
+  const all = document.querySelectorAll('.quiz-slider');
+  const touched = [...all].filter(s => parseInt(s.value) > 0).length;
+  const pct = Math.round((touched / all.length) * 100);
+  document.getElementById('quiz-progress-fill').style.width = pct + '%';
+  document.getElementById('quiz-progress-label').textContent = `${touched} / ${all.length} вопросов`;
+}
+
+function calcQuizResult() {
+  const scores = { vata: 0, pitta: 0, kapha: 0 };
+  document.querySelectorAll('.quiz-slider').forEach(input => {
+    const d = input.dataset.dosha;
+    scores[d] += parseInt(input.value);
+  });
+  quizScores = scores;
+
+  const $form   = document.getElementById('quiz-form');
+  const $result = document.getElementById('quiz-result');
+  $form.hidden   = true;
+  $result.hidden = false;
+
+  renderQuizResult(scores);
+}
+
+function renderQuizResult(scores) {
+  const total = scores.vata + scores.pitta + scores.kapha || 1;
+  const pcts  = {
+    vata:  Math.round((scores.vata  / total) * 100),
+    pitta: Math.round((scores.pitta / total) * 100),
+    kapha: Math.round((scores.kapha / total) * 100),
+  };
+
+  // Determine dominant dosha(s)
+  const sorted = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+  const top = sorted[0];
+  const second = sorted[1];
+  const isDualDosha = second[1] >= top[1] * 0.8;
+  const dominantDosha = top[0];
+
+  // Chart
+  const $chart = document.getElementById('quiz-scores-chart');
+  $chart.innerHTML = QUIZ.sections.map(sec => `
+    <div class="quiz-bar-wrap">
+      <div class="quiz-bar-label">${sec.emoji} ${sec.label}</div>
+      <div class="quiz-bar-track">
+        <div class="quiz-bar-fill" style="width:${pcts[sec.dosha]}%; background:${sec.color}"></div>
+      </div>
+      <div class="quiz-bar-pct">${pcts[sec.dosha]}%</div>
+      <div class="quiz-bar-pts">${scores[sec.dosha]} очков</div>
+    </div>
+  `).join('');
+
+  // Result card
+  const res = QUIZ.results[dominantDosha];
+  const $card = document.getElementById('quiz-result-card');
+  $card.innerHTML = `
+    <div class="quiz-result-emoji" style="color:${res.color}">${res.emoji}</div>
+    <h2 class="quiz-result-title">${res.title}</h2>
+    <p class="quiz-result-subtitle">${res.subtitle}</p>
+    <p class="quiz-result-traits">${res.traits}</p>
+    <div class="quiz-balance-block">
+      <div class="quiz-balance-item quiz-balance-pos">✓ ${res.balance}</div>
+      <div class="quiz-balance-item quiz-balance-neg">⚠ ${res.imbalance}</div>
+    </div>
+  `;
+
+  // Recommendations
+  const $recs = document.getElementById('quiz-recommendations');
+  $recs.innerHTML = `
+    <h3>Рекомендации для ${res.title.split('-')[0]}</h3>
+    <ul class="quiz-rec-list">
+      ${res.recommendations.map(r => `<li>${r}</li>`).join('')}
+    </ul>
+    <p class="quiz-enc-hint">Подробнее — в разделе <a href="#encyclopedia/prakruti">Энциклопедия → Пракрити</a></p>
+  `;
+}
+
+document.getElementById('quiz-start-btn').addEventListener('click', () => {
+  renderQuizForm();
+});
+
+document.getElementById('quiz-submit-btn').addEventListener('click', () => {
+  calcQuizResult();
+  document.getElementById('content').scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+document.getElementById('quiz-restart-btn').addEventListener('click', () => {
+  buildQuizView();
+});
+
+$quizBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('quiz');
+  showOnly($quizView);
+  buildQuizView();
+  history.replaceState(null, '', '#quiz');
+});
+
 // ── Search ─────────────────────────────────────────
 let searchDebounce = null;
 
@@ -919,6 +1096,10 @@ function init() {
   }
   if (hash === '#references') {
     $referencesBtn.click();
+    return;
+  }
+  if (hash === '#quiz') {
+    $quizBtn.click();
     return;
   }
   // Default: show welcome

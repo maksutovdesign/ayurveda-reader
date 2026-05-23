@@ -43,6 +43,9 @@
         <button id="references-btn" class="sidebar-footer-btn">
           <span>📚</span> Литература
         </button>
+        <button id="quiz-btn" class="sidebar-footer-btn">
+          <span>🧬</span> Тест конституции
+        </button>
       </div>
     </aside>
 
@@ -168,6 +171,46 @@
           <p class="ref-subtitle">Источники, на основе которых составлена энциклопедия</p>
         </div>
         <div id="ref-list"></div>
+      </div>
+
+      <!-- ── Quiz ── -->
+      <div id="quiz-view" hidden>
+        <div id="quiz-intro">
+          <div id="quiz-intro-inner">
+            <div id="quiz-intro-icon">🧬</div>
+            <h2>Тест конституции</h2>
+            <p class="quiz-subtitle">Определите свою аюрведическую пракрити</p>
+            <p class="quiz-desc">Отвечайте, ориентируясь на то, каким вы были большую часть жизни — не на текущее самочувствие. 60 вопросов, три раздела.</p>
+            <div class="quiz-scale-legend">
+              <span class="ql-item"><b>0</b> — совсем не про меня</span>
+              <span class="ql-sep">·</span>
+              <span class="ql-item"><b>3</b> — иногда</span>
+              <span class="ql-sep">·</span>
+              <span class="ql-item"><b>6</b> — всегда про меня</span>
+            </div>
+            <button id="quiz-start-btn" class="quiz-start-btn">Начать тест</button>
+          </div>
+        </div>
+
+        <div id="quiz-form" hidden>
+          <div id="quiz-progress-wrap">
+            <div id="quiz-progress-bar"><div id="quiz-progress-fill"></div></div>
+            <span id="quiz-progress-label"></span>
+          </div>
+          <div id="quiz-sections"></div>
+          <div id="quiz-submit-wrap">
+            <button id="quiz-submit-btn" class="quiz-start-btn">Узнать результат</button>
+          </div>
+        </div>
+
+        <div id="quiz-result" hidden>
+          <div id="quiz-result-inner">
+            <button id="quiz-restart-btn" class="quiz-back-btn">← Пройти заново</button>
+            <div id="quiz-scores-chart"></div>
+            <div id="quiz-result-card"></div>
+            <div id="quiz-recommendations"></div>
+          </div>
+        </div>
       </div>
     </main>
   </div>
