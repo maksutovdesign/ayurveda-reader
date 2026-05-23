@@ -2,7 +2,7 @@ import { BOOK_DATA } from './data.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js';
 import { REMEDIES } from './remedies.js';
-import { LIBRARY, LIBRARY_INDEX } from './library.js';
+import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js';
 
 // ── State ──────────────────────────────────────────
 let currentChapterIdx = null;
@@ -27,10 +27,12 @@ const $tooltip      = document.getElementById('tooltip');
 const $glossaryBtn  = document.getElementById('glossary-btn');
 const $diseasesBtn  = document.getElementById('diseases-btn');
 const $remediesBtn  = document.getElementById('remedies-btn');
-const $libraryView  = document.getElementById('library-view');
-const $libraryBtn   = document.getElementById('library-btn');
+const $encyclopediaView  = document.getElementById('encyclopedia-view');
+const $encyclopediaBtn   = document.getElementById('encyclopedia-btn');
+const $referencesView    = document.getElementById('references-view');
+const $referencesBtn     = document.getElementById('references-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $libraryView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -378,7 +380,8 @@ function setFooterActive(id) {
   $glossaryBtn.classList.toggle('active', id === 'glossary');
   $diseasesBtn.classList.toggle('active', id === 'diseases');
   $remediesBtn.classList.toggle('active', id === 'remedies');
-  $libraryBtn.classList.toggle('active', id === 'library');
+  $encyclopediaBtn.classList.toggle('active', id === 'encyclopedia');
+  $referencesBtn.classList.toggle('active', id === 'references');
 }
 
 // ── Remedies view ──────────────────────────────────
@@ -469,227 +472,283 @@ function buildRemediesView() {
   });
 }
 
-// ── Library view ───────────────────────────────────
-const CATEGORY_LABELS = {
-  theory:       'Теория и философия',
-  cooking:      'Кулинария',
-  beauty:       'Красота и уход',
-  constitution: 'Конституция (пракрити)',
-  herbs:        'Травы и специи',
+// ── Encyclopedia view ───────────────────────────────
+const BOOK_LABELS = {
+  basics:      'Аюрведа для начинающих',
+  ayurveda1992:'Аюрведа — наука самоисцеления',
+  cooking:     'Аюрведическая кулинария',
+  recipes:     'Аюрведа. Здоровые рецепты',
+  beauty:      'Абсолютная красота',
+  fundaments:  'Фундаментальные основы Аюрведы',
+  prakriti:    'Пракрити. Ваша аюрведическая конституция',
 };
 
-const CATEGORY_ICONS = {
-  theory:       '📖',
-  cooking:      '🍲',
-  beauty:       '🌸',
-  constitution: '🧬',
-  herbs:        '🌿',
-};
+let encyclopediaBuilt = false;
+let currentEncSection = null;
 
-let libraryBuilt = false;
-let currentLibraryBook = null;  // book object
-let currentLibrarySections = []; // filtered sections
-
-function renderSectionContent(text) {
-  return text
-    .split(/\n\n+/)
-    .map(para => {
-      const trimmed = para.trim();
-      if (!trimmed) return '';
-      if (trimmed.startsWith('•')) {
-        const items = trimmed.split(/\n•/).map(s => s.replace(/^•\s*/, '').trim());
-        return '<ul>' + items.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
-      }
-      const lines = trimmed.split('\n');
-      if (lines.length === 1 && trimmed.length < 90 && !trimmed.endsWith('.')) {
+function renderArticleContent(text) {
+  return text.split(/\n\n+/).map(para => {
+    const trimmed = para.trim();
+    if (!trimmed) return '';
+    // Bullet list
+    if (trimmed.startsWith('—') || trimmed.startsWith('–')) {
+      const items = trimmed.split(/\n[—–]/).map(s => s.replace(/^[—–]\s*/, '').trim());
+      return '<ul>' + items.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
+    }
+    // Section heading (short, no period at end, upper/mixed)
+    const lines = trimmed.split('\n');
+    if (lines.length === 1 && trimmed.length < 80 && !trimmed.endsWith('.') && !trimmed.endsWith(',')) {
+      // All caps or starts with bold-like pattern
+      if (trimmed === trimmed.toUpperCase() || /^[А-ЯЁ][А-ЯЁ\s\-]+:/.test(trimmed)) {
         return `<h4>${escapeHtml(trimmed)}</h4>`;
       }
-      return `<p>${lines.map(l => escapeHtml(l)).join('<br>')}</p>`;
-    })
-    .join('');
+    }
+    // Sub-section with colon pattern e.g. "ВАТА-КОЖА:"
+    if (/^[А-ЯЁA-Z][А-ЯЁA-Z\s\-]+:/.test(lines[0])) {
+      const heading = lines[0];
+      const rest = lines.slice(1).join('\n').trim();
+      return `<h4>${escapeHtml(heading)}</h4>${rest ? `<p>${escapeHtml(rest).replace(/\n/g, '<br>')}</p>` : ''}`;
+    }
+    return `<p>${lines.map(l => escapeHtml(l)).join('<br>')}</p>`;
+  }).join('');
 }
 
-function buildLibraryView() {
-  if (libraryBuilt) return;
-  libraryBuilt = true;
+function buildEncyclopediaView() {
+  if (encyclopediaBuilt) return;
+  encyclopediaBuilt = true;
 
-  const $grid          = document.getElementById('library-grid');
-  const $filter        = document.getElementById('library-filter');
-  const $books         = document.getElementById('library-books');
-  const $sections      = document.getElementById('library-sections');
-  const $sectionList   = document.getElementById('library-section-list');
-  const $sectionFilter = document.getElementById('library-section-filter');
-  const $content       = document.getElementById('library-content');
-  const $bookName      = document.getElementById('library-book-name');
-  const $bookAuthor    = document.getElementById('library-book-author');
-  const $secTitle      = document.getElementById('library-section-title');
-  const $secBody       = document.getElementById('library-section-body');
-  const $backBooks     = document.getElementById('library-back-books');
-  const $backSections  = document.getElementById('library-back-sections');
+  const $sectView   = document.getElementById('enc-sections-view');
+  const $artView    = document.getElementById('enc-articles-view');
+  const $artContent = document.getElementById('enc-article-view');
+  const $grid       = document.getElementById('enc-section-grid');
+  const $search     = document.getElementById('enc-search');
+  const $searchRes  = document.getElementById('enc-search-results');
+  const $backSec    = document.getElementById('enc-back-sections');
+  const $backArt    = document.getElementById('enc-back-articles');
+  const $secIcon    = document.getElementById('enc-section-icon');
+  const $secTitle   = document.getElementById('enc-section-title');
+  const $secDesc    = document.getElementById('enc-section-desc');
+  const $artList    = document.getElementById('enc-article-list');
+  const $artTitle   = document.getElementById('enc-article-title');
+  const $artSummary = document.getElementById('enc-article-summary');
+  const $artBody    = document.getElementById('enc-article-body');
+  const $artMeta    = document.getElementById('enc-article-meta');
+  const $artSources = document.getElementById('enc-article-sources');
 
-  // ── Back buttons ──
-  $backBooks.addEventListener('click', () => {
-    $sections.hidden = true;
-    $content.hidden  = true;
-    $books.hidden    = false;
-    currentLibraryBook = null;
+  function showSections() {
+    $sectView.hidden  = false;
+    $artView.hidden   = true;
+    $artContent.hidden = true;
     document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
-    history.replaceState(null, '', '#library');
-  });
-
-  $backSections.addEventListener('click', () => {
-    $content.hidden   = true;
-    $sections.hidden  = false;
-    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
-  });
-
-  // ── Open a book ──
-  function openBook(book) {
-    currentLibraryBook = book;
-    currentLibrarySections = book.sections;
-    $bookName.textContent   = book.title;
-    $bookAuthor.textContent = book.author;
-    $sectionFilter.value    = '';
-    $books.hidden    = true;
-    $content.hidden  = true;
-    $sections.hidden = false;
-    renderSectionList('');
-    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
-    history.replaceState(null, '', `#library/${book.id}`);
+    history.replaceState(null, '', '#encyclopedia');
   }
 
-  // ── Render sections list ──
-  function renderSectionList(query) {
-    $sectionList.innerHTML = '';
-    const q = query.toLowerCase().trim();
-    const items = q
-      ? currentLibrarySections.filter(s =>
-          s.title.toLowerCase().includes(q) || s.content.toLowerCase().includes(q))
-      : currentLibrarySections;
-
-    if (items.length === 0) {
-      $sectionList.innerHTML = `<div class="no-results">Ничего не найдено</div>`;
-      return;
-    }
-
-    const frag = document.createDocumentFragment();
-    items.forEach((sec, idx) => {
-      const row = document.createElement('div');
-      row.className = 'lib-section-row';
-      const dosha = sec.dosha ? `<span class="lib-section-dosha lib-dosha-${sec.dosha}">${sec.dosha}</span>` : '';
-      row.innerHTML = `
-        <span class="lib-section-num">${idx + 1}</span>
-        <span class="lib-section-name">${escapeHtml(sec.title)}</span>
-        ${dosha}
-      `;
-      row.addEventListener('click', () => openSection(sec));
-      frag.appendChild(row);
-    });
-    $sectionList.appendChild(frag);
-  }
-
-  // ── Open section content ──
-  function openSection(sec) {
+  function showArticles(sec) {
+    currentEncSection = sec;
+    $secIcon.textContent  = sec.icon;
     $secTitle.textContent = sec.title;
-    $secBody.innerHTML    = renderSectionContent(sec.content);
-    $sections.hidden = true;
-    $content.hidden  = false;
+    $secDesc.textContent  = sec.description;
+    $artList.innerHTML = '';
+    const frag = document.createDocumentFragment();
+    sec.articles.forEach(art => {
+      const card = document.createElement('div');
+      card.className = 'enc-article-card';
+      card.innerHTML = `
+        <div class="enc-art-title">${escapeHtml(art.title)}</div>
+        <div class="enc-art-summary">${escapeHtml(art.summary)}</div>
+      `;
+      card.addEventListener('click', () => showArticle(art));
+      frag.appendChild(card);
+    });
+    $artList.appendChild(frag);
+    $sectView.hidden   = true;
+    $artView.hidden    = false;
+    $artContent.hidden = true;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+    history.replaceState(null, '', `#encyclopedia/${sec.id}`);
+  }
+
+  function showArticle(art) {
+    $artTitle.textContent   = art.title;
+    $artSummary.textContent = art.summary;
+    $artBody.innerHTML      = renderArticleContent(art.content);
+    $artMeta.textContent    = currentEncSection ? `${currentEncSection.icon} ${currentEncSection.title}` : '';
+    const sourcesHtml = art.sources
+      .map(s => `<span class="enc-source-tag">${escapeHtml(BOOK_LABELS[s] || s)}</span>`)
+      .join('');
+    $artSources.innerHTML = `<div class="enc-sources-label">Источники:</div>${sourcesHtml}`;
+    $sectView.hidden   = true;
+    $artView.hidden    = true;
+    $artContent.hidden = false;
     document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
   }
 
-  // ── Section filter ──
-  let secFilterDebounce = null;
-  $sectionFilter.addEventListener('input', () => {
-    clearTimeout(secFilterDebounce);
-    secFilterDebounce = setTimeout(() => renderSectionList($sectionFilter.value), 200);
+  $backSec.addEventListener('click', showSections);
+  $backArt.addEventListener('click', () => {
+    $artContent.hidden = true;
+    $artView.hidden    = false;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
   });
 
-  // ── Build book grid ──
-  function renderBookGrid(query) {
-    $grid.innerHTML = '';
-    const q = query.toLowerCase().trim();
-
-    // Group available books by category
-    const groups = {};
-    for (const book of LIBRARY) {
-      // filter by query (title, author, category label)
-      if (q) {
-        const haystack = (book.title + ' ' + book.author + ' ' + (CATEGORY_LABELS[book.category] || '')).toLowerCase();
-        if (!haystack.includes(q)) continue;
-      }
-      const cat = book.category;
-      if (!groups[cat]) groups[cat] = [];
-      groups[cat].push(book);
-    }
-
-    // Fixed category order
-    const catOrder = ['theory', 'constitution', 'cooking', 'beauty', 'herbs'];
-    const frag = document.createDocumentFragment();
-
-    for (const cat of catOrder) {
-      if (!groups[cat] || groups[cat].length === 0) continue;
-
-      const section = document.createElement('div');
-      section.className = 'lib-category';
-
-      const catTitle = document.createElement('div');
-      catTitle.className = 'lib-category-title';
-      catTitle.textContent = `${CATEGORY_ICONS[cat] || ''} ${CATEGORY_LABELS[cat] || cat}`;
-      section.appendChild(catTitle);
-
-      const row = document.createElement('div');
-      row.className = 'lib-book-row';
-
-      for (const book of groups[cat]) {
-        const card = document.createElement('div');
-        card.className = 'lib-book-card' + (book.available ? '' : ' lib-unavailable');
-
-        const sectionCount = book.sections.length;
-        const badge = book.available
-          ? `<span class="lib-book-badge">${sectionCount} разд.</span>`
-          : `<span class="lib-book-badge lib-badge-scan">${book.reason === 'scan' ? '📷 скан' : '⚠ файл'}</span>`;
-
-        card.innerHTML = `
-          <div class="lib-book-icon">${CATEGORY_ICONS[cat] || '📄'}</div>
-          <div class="lib-book-info">
-            <div class="lib-book-title">${escapeHtml(book.title)}</div>
-            <div class="lib-book-author">${escapeHtml(book.author)}</div>
-            ${badge}
-          </div>
-        `;
-
-        if (book.available) {
-          card.addEventListener('click', () => openBook(book));
-        } else {
-          card.title = book.reason === 'scan'
-            ? 'Книга в формате скана — текст недоступен для чтения'
-            : 'Файл повреждён — текст недоступен';
-        }
-
-        row.appendChild(card);
-      }
-
-      section.appendChild(row);
-      frag.appendChild(section);
-    }
-
-    if (frag.childNodes.length === 0) {
-      const msg = document.createElement('div');
-      msg.className = 'no-results';
-      msg.textContent = `Ничего не найдено по запросу «${escapeHtml(query)}»`;
-      frag.appendChild(msg);
-    }
-
-    $grid.appendChild(frag);
+  // ── Build section grid ──
+  const frag = document.createDocumentFragment();
+  for (const sec of ENCYCLOPEDIA) {
+    const card = document.createElement('div');
+    card.className = 'enc-section-card';
+    card.innerHTML = `
+      <div class="enc-sec-icon">${sec.icon}</div>
+      <div class="enc-sec-info">
+        <div class="enc-sec-title">${escapeHtml(sec.title)}</div>
+        <div class="enc-sec-count">${sec.articles.length} статей</div>
+        <div class="enc-sec-desc">${escapeHtml(sec.description)}</div>
+      </div>
+    `;
+    card.addEventListener('click', () => showArticles(sec));
+    frag.appendChild(card);
   }
+  $grid.appendChild(frag);
 
-  renderBookGrid('');
-
-  let gridFilterDebounce = null;
-  $filter.addEventListener('input', () => {
-    clearTimeout(gridFilterDebounce);
-    gridFilterDebounce = setTimeout(() => renderBookGrid($filter.value), 200);
+  // ── Full-text search ──
+  let searchDebounce = null;
+  $search.addEventListener('input', () => {
+    clearTimeout(searchDebounce);
+    searchDebounce = setTimeout(() => {
+      const q = $search.value.trim().toLowerCase();
+      if (!q) {
+        $searchRes.hidden = true;
+        $grid.hidden = false;
+        return;
+      }
+      $grid.hidden = false;
+      const results = [];
+      for (const sec of ENCYCLOPEDIA) {
+        for (const art of sec.articles) {
+          if (art.title.toLowerCase().includes(q) ||
+              art.summary.toLowerCase().includes(q) ||
+              art.content.toLowerCase().includes(q)) {
+            results.push({ sec, art });
+          }
+        }
+      }
+      $searchRes.innerHTML = '';
+      if (results.length === 0) {
+        $searchRes.innerHTML = `<div class="no-results">Ничего не найдено по запросу «${escapeHtml($search.value)}»</div>`;
+      } else {
+        const f = document.createDocumentFragment();
+        results.forEach(({ sec, art }) => {
+          const card = document.createElement('div');
+          card.className = 'enc-search-result';
+          card.innerHTML = `
+            <div class="enc-res-section">${sec.icon} ${escapeHtml(sec.title)}</div>
+            <div class="enc-res-title">${escapeHtml(art.title)}</div>
+            <div class="enc-res-summary">${escapeHtml(art.summary)}</div>
+          `;
+          card.addEventListener('click', () => {
+            currentEncSection = sec;
+            showArticle(art);
+            $search.value = '';
+            $searchRes.hidden = true;
+            $grid.hidden = false;
+          });
+          f.appendChild(card);
+        });
+        $searchRes.appendChild(f);
+      }
+      $searchRes.hidden = false;
+    }, 250);
   });
+}
+
+// ── References view ─────────────────────────────────
+const REFERENCES = [
+  {
+    id: 'ashtanga',
+    title: 'Аштанга-хридая-самхита',
+    author: 'Вагбхата',
+    year: 'VII век н.э.',
+    description: 'Один из трёх главных классических текстов аюрведы (Брихат-трайи). Энциклопедический труд, охватывающий все разделы аюрведической медицины: физиологию, диагностику, фармакологию, хирургию, педиатрию.',
+    category: 'Классический текст',
+  },
+  {
+    id: 'basics',
+    title: 'Аюрведа для начинающих',
+    author: 'Васант Лад',
+    year: 'Изд. на рус. яз. ~2003',
+    description: 'Вводный курс по аюрведе от одного из самых известных аюрведических врачей мирового уровня. Охватывает основные концепции: пять элементов, три доши, питание, режим дня.',
+    category: 'Введение',
+  },
+  {
+    id: 'ayurveda1992',
+    title: 'Аюрведа — наука самоисцеления',
+    author: 'Васант Лад',
+    year: '1984 (ориг.), рус. пер.',
+    description: 'Классическое введение в аюрведу, ставшее стандартным учебником на Западе. Детально рассматривает диагностику пульса, языка, питание по конституции, панча-карму и домашние средства.',
+    category: 'Учебник',
+  },
+  {
+    id: 'cooking',
+    title: 'Аюрведическая кулинария',
+    author: 'Васант Лад, Уша Лад',
+    year: 'Рус. пер.',
+    description: 'Полное руководство по аюрведической кулинарии: концепции питания, рецепты по конституции, специи, несовместимые продукты. Содержит более 300 рецептов.',
+    category: 'Кулинария',
+  },
+  {
+    id: 'recipes',
+    title: 'Аюрведа. Здоровые рецепты',
+    author: 'Ярема, Рода, Бранниган',
+    year: 'Рус. пер.',
+    description: 'Практическое руководство по аюрведическому питанию с рецептами. Особое внимание уделяется шести вкусам и их влиянию на пищеварение и эмоции.',
+    category: 'Кулинария',
+  },
+  {
+    id: 'beauty',
+    title: 'Абсолютная красота',
+    author: 'Пратима Райчур, Мэриан Кон',
+    year: 'Рус. пер.',
+    description: 'Исчерпывающее руководство по аюрведическому уходу за кожей, волосами и телом. Автор — аюрведический дерматолог с практикой в Нью-Йорке. Типы кожи по дошам, маски, масла, массаж.',
+    category: 'Красота',
+  },
+  {
+    id: 'fundaments',
+    title: 'Фундаментальные основы Аюрведы',
+    author: 'Матхура Мандал Дас',
+    year: 'Рус. пер.',
+    description: 'Академический труд, детально рассматривающий базовые аюрведические концепции на основе классических текстов (Чарака-самхиты, Сушрута-самхиты). Для углублённого изучения.',
+    category: 'Теория',
+  },
+  {
+    id: 'prakriti',
+    title: 'Пракрити. Ваша аюрведическая конституция',
+    author: 'Роберт Свобода',
+    year: 'Рус. пер.',
+    description: 'Подробное исследование концепции пракрити — индивидуальной конституции. Автор — первый западный выпускник аюрведической медицины в Индии. Философский и практический взгляд на природу человека.',
+    category: 'Конституция',
+  },
+];
+
+let referencesBuilt = false;
+
+function buildReferencesView() {
+  if (referencesBuilt) return;
+  referencesBuilt = true;
+  const $list = document.getElementById('ref-list');
+  const frag = document.createDocumentFragment();
+  for (const ref of REFERENCES) {
+    const card = document.createElement('div');
+    card.className = 'ref-card';
+    card.innerHTML = `
+      <div class="ref-card-top">
+        <div class="ref-title">${escapeHtml(ref.title)}</div>
+        <span class="ref-category">${escapeHtml(ref.category)}</span>
+      </div>
+      <div class="ref-author">${escapeHtml(ref.author)}</div>
+      <div class="ref-year">${escapeHtml(ref.year)}</div>
+      <div class="ref-desc">${escapeHtml(ref.description)}</div>
+    `;
+    frag.appendChild(card);
+  }
+  $list.appendChild(frag);
 }
 
 // ── Glossary & Diseases buttons ────────────────────
@@ -717,12 +776,20 @@ $remediesBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#remedies');
 });
 
-$libraryBtn.addEventListener('click', () => {
+$encyclopediaBtn.addEventListener('click', () => {
   setActiveBtn(-1);
-  setFooterActive('library');
-  showOnly($libraryView);
-  buildLibraryView();
-  history.replaceState(null, '', '#library');
+  setFooterActive('encyclopedia');
+  showOnly($encyclopediaView);
+  buildEncyclopediaView();
+  history.replaceState(null, '', '#encyclopedia');
+});
+
+$referencesBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('references');
+  showOnly($referencesView);
+  buildReferencesView();
+  history.replaceState(null, '', '#references');
 });
 
 // ── Search ─────────────────────────────────────────
@@ -846,8 +913,12 @@ function init() {
     $remediesBtn.click();
     return;
   }
-  if (hash === '#library' || hash.startsWith('#library/')) {
-    $libraryBtn.click();
+  if (hash === '#encyclopedia' || hash.startsWith('#encyclopedia/')) {
+    $encyclopediaBtn.click();
+    return;
+  }
+  if (hash === '#references') {
+    $referencesBtn.click();
     return;
   }
   // Default: show welcome

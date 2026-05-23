@@ -37,8 +37,11 @@
         <button id="remedies-btn" class="sidebar-footer-btn">
           <span>⚕</span> Домашние средства
         </button>
-        <button id="library-btn" class="sidebar-footer-btn">
-          <span>📚</span> Библиотека
+        <button id="encyclopedia-btn" class="sidebar-footer-btn">
+          <span>📖</span> Энциклопедия
+        </button>
+        <button id="references-btn" class="sidebar-footer-btn">
+          <span>📚</span> Литература
         </button>
       </div>
     </aside>
@@ -118,40 +121,53 @@
           <div id="remedies-detail-body"></div>
         </div>
       </div>
-      <!-- ── Library ── -->
-      <div id="library-view" hidden>
-        <div id="library-header">
-          <h2>Аюрведическая библиотека</h2>
-          <p class="library-subtitle">7 книг по аюрведе</p>
+      <!-- ── Encyclopedia ── -->
+      <div id="encyclopedia-view" hidden>
+
+        <!-- Sections grid -->
+        <div id="enc-sections-view">
+          <div id="enc-header">
+            <h2>Энциклопедия аюрведы</h2>
+            <p class="enc-subtitle">46 статей по 9 разделам · синтез 7 книг</p>
+            <div id="enc-search-wrap">
+              <input id="enc-search" type="search" placeholder="Поиск по энциклопедии…" autocomplete="off" />
+            </div>
+          </div>
+          <div id="enc-section-grid"></div>
+          <div id="enc-search-results" hidden></div>
         </div>
 
-        <!-- Book list (default view) -->
-        <div id="library-books">
-          <div id="library-filter-wrap">
-            <input id="library-filter" type="search" placeholder="Найти книгу или тему…" autocomplete="off" />
+        <!-- Articles list -->
+        <div id="enc-articles-view" hidden>
+          <button id="enc-back-sections">← Разделы</button>
+          <div id="enc-section-header">
+            <span id="enc-section-icon"></span>
+            <div>
+              <h3 id="enc-section-title"></h3>
+              <p id="enc-section-desc"></p>
+            </div>
           </div>
-          <div id="library-grid"></div>
+          <div id="enc-article-list"></div>
         </div>
 
-        <!-- Section list (after clicking a book) -->
-        <div id="library-sections" hidden>
-          <button id="library-back-books">← Все книги</button>
-          <div id="library-book-title-bar">
-            <h3 id="library-book-name"></h3>
-            <span id="library-book-author"></span>
-          </div>
-          <div id="library-section-filter-wrap">
-            <input id="library-section-filter" type="search" placeholder="Поиск по разделам…" autocomplete="off" />
-          </div>
-          <div id="library-section-list"></div>
+        <!-- Article content -->
+        <div id="enc-article-view" hidden>
+          <button id="enc-back-articles">← К разделу</button>
+          <div id="enc-article-meta"></div>
+          <h2 id="enc-article-title"></h2>
+          <p id="enc-article-summary"></p>
+          <div id="enc-article-body"></div>
+          <div id="enc-article-sources"></div>
         </div>
+      </div>
 
-        <!-- Section content (after clicking a section) -->
-        <div id="library-content" hidden>
-          <button id="library-back-sections">← К оглавлению</button>
-          <h3 id="library-section-title"></h3>
-          <div id="library-section-body"></div>
+      <!-- ── References ── -->
+      <div id="references-view" hidden>
+        <div id="ref-header">
+          <h2>Использованная литература</h2>
+          <p class="ref-subtitle">Источники, на основе которых составлена энциклопедия</p>
         </div>
+        <div id="ref-list"></div>
       </div>
     </main>
   </div>
