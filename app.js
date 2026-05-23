@@ -342,6 +342,15 @@ function buildGlossaryView() {
   filterEl.addEventListener('input', () => renderAll(filterEl.value));
 }
 
+// ── Chapter lookup for disease cross-links ─────────
+function findChapterByRef(ref) {
+  const m = ref.match(/^(.+),\s*Гл\.(\d+)$/);
+  if (!m) return -1;
+  const sthana = m[1].trim();
+  const num = parseInt(m[2]);
+  return BOOK_DATA.chapters.findIndex(ch => ch.sthana === sthana && ch.number === num);
+}
+
 // ── Diseases view ──────────────────────────────────
 function buildDiseasesView() {
   const body = document.getElementById('diseases-body');
@@ -363,7 +372,12 @@ function buildDiseasesView() {
       const card = document.createElement('div');
       card.className = 'disease-card';
 
-      const chips = d.chapters.map(c => `<span class="disease-chip">${c}</span>`).join('');
+      const chips = d.chapters.map(c => {
+        const idx = findChapterByRef(c);
+        return idx >= 0
+          ? `<span class="disease-chip disease-chip--link" data-chapter-idx="${idx}">${c}</span>`
+          : `<span class="disease-chip">${c}</span>`;
+      }).join('');
 
       card.innerHTML = `
         <div class="disease-card-header">
@@ -382,6 +396,13 @@ function buildDiseasesView() {
   }
 
   body.appendChild(frag);
+
+  body.addEventListener('click', e => {
+    const chip = e.target.closest('.disease-chip--link');
+    if (!chip) return;
+    const idx = parseInt(chip.dataset.chapterIdx);
+    if (!isNaN(idx)) loadChapter(idx);
+  });
 }
 
 function setFooterActive(id) {
@@ -406,15 +427,22 @@ function isRemHeading(line) {
   return line.length < 72 &&
     /^[А-ЯЁ]/.test(line) &&
     !/[.!?,;:]$/.test(line) &&
-    !line.includes('!') &&        // exclude ВНИМАНИЕ! etc.
-    !/—\s*\d/.test(line);         // not an ingredient line
+    !line.includes('!') &&
+    !line.includes(',') &&
+    !/(?:ой|ей|ий|ый|ого|его|ому|ему|ою|ею|ые|ие|ых|их)$/i.test(line) &&
+    !/—\s*\d/.test(line);
 }
 
 function renderRemInline(raw) {
   let s = escapeHtml(raw);
-  // Style (см. Приложение X) references
-  s = s.replace(/\(([^)]*(?:[Пп]риложени[еия]|[Пп]рилож)[^)]*)\)/g,
-    '<span class="rem-ref">($1)</span>');
+  // Make cross-remedy references clickable: (см. «Name») or (Дополнит. рекомендации... «Name».)
+  s = s.replace(/\([^()]*«([^»]+)»[^()]*\)/g, (match, name) =>
+    `<a class="rem-cross-ref" data-remedy="${name}" href="#">${match}</a>`
+  );
+  // Make "См. также «Name»." references at start of articles clickable
+  s = s.replace(/([Сс]м\.\s+также\s+«([^»]+)»)/g, (match, full, name) =>
+    `<a class="rem-cross-ref" data-remedy="${name}" href="#">${full}</a>`
+  );
   return s;
 }
 
@@ -472,8 +500,12 @@ function parseRemLines(lines) {
       flushText(); flushBullets();
       ingBuf.push(line);
     } else {
-      flushIng(); flushBullets();
-      textBuf.push(line);
+      if (bulletLines.length > 0 && /^[а-яё]/.test(line)) {
+        bulletLines[bulletLines.length - 1] += ' ' + line;
+      } else {
+        flushIng(); flushBullets();
+        textBuf.push(line);
+      }
     }
   }
   flushText(); flushIng(); flushBullets();
@@ -1417,6 +1449,33 @@ document.addEventListener('click', e => {
     document.execCommand('copy');
     document.body.removeChild(ta);
   });
+});
+
+// ── Cross-remedy navigation ─────────────────────────
+document.addEventListener('click', e => {
+  const ref = e.target.closest('.rem-cross-ref');
+  if (!ref) return;
+  e.preventDefault();
+  const name = ref.dataset.remedy;
+  const remedy = REMEDIES.find(r =>
+    r.name === name || r.name.replace(/ё/g, 'е') === name.replace(/ё/g, 'е')
+  );
+  if (!remedy) return;
+  // Switch to remedies panel and open the remedy
+  $remediesBtn.click();
+  setTimeout(() => {
+    const $dtitle = document.getElementById('remedies-detail-title');
+    const $dbody  = document.getElementById('remedies-detail-body');
+    const $list   = document.getElementById('remedies-list');
+    const $filter = document.getElementById('remedies-filter');
+    const $detail = document.getElementById('remedies-detail');
+    $dtitle.textContent = remedy.name;
+    $dbody.innerHTML = renderRemedyContent(remedy.content, remedy.name);
+    $list.hidden = true;
+    $filter.parentElement.hidden = true;
+    $detail.hidden = false;
+    document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
+  }, 0);
 });
 
 // ── Search ─────────────────────────────────────────

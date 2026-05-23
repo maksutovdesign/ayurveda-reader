@@ -705,6 +705,16 @@ body.dark  .icon-sun  { display: none; }
   border-radius: 4px;
   padding: 2px 7px;
 }
+.disease-chip--link {
+  color: var(--accent);
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+}
+.disease-chip--link:hover {
+  opacity: 0.8;
+}
 
 /* ── Remedies ─────────────────────────────────────── */
 #remedies-view {
@@ -834,13 +844,15 @@ body.dark  .icon-sun  { display: none; }
   font-weight: 700;
 }
 
-/* Appendix reference links */
-.rem-ref {
-  font-style: italic;
+/* Cross-remedy navigation links */
+.rem-cross-ref {
   color: var(--accent);
-  opacity: 0.9;
-  cursor: default;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  cursor: pointer;
 }
+.rem-cross-ref:hover { opacity: 0.75; }
 
 /* ВНИМАНИЕ! warning box */
 .rem-warning {
