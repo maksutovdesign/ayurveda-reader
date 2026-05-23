@@ -37,8 +37,10 @@ const $foodtableView     = document.getElementById('foodtable-view');
 const $foodtableBtn      = document.getElementById('foodtable-btn');
 const $quizView          = document.getElementById('quiz-view');
 const $quizBtn           = document.getElementById('quiz-btn');
+const $donateView        = document.getElementById('donate-view');
+const $donateBtn         = document.getElementById('donate-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView, $donateView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -390,6 +392,7 @@ function setFooterActive(id) {
   $referencesBtn.classList.toggle('active', id === 'references');
   $foodtableBtn.classList.toggle('active', id === 'foodtable');
   $quizBtn.classList.toggle('active', id === 'quiz');
+  $donateBtn.classList.toggle('active', id === 'donate');
 }
 
 // ── Remedies view ──────────────────────────────────
@@ -1388,6 +1391,34 @@ $quizBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#quiz');
 });
 
+$donateBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('donate');
+  showOnly($donateView);
+  history.replaceState(null, '', '#donate');
+});
+
+// Copy-to-clipboard for donate requisites
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.donate-copy');
+  if (!btn) return;
+  const text = btn.dataset.copy;
+  navigator.clipboard.writeText(text).then(() => {
+    const icon = btn.querySelector('.donate-copy-icon');
+    const orig = icon.textContent;
+    icon.textContent = '✓';
+    btn.classList.add('donate-copied');
+    setTimeout(() => { icon.textContent = orig; btn.classList.remove('donate-copied'); }, 1800);
+  }).catch(() => {
+    // Fallback for older browsers
+    const ta = document.createElement('textarea');
+    ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+  });
+});
+
 // ── Search ─────────────────────────────────────────
 let searchDebounce = null;
 
@@ -1523,6 +1554,10 @@ function init() {
   }
   if (hash === '#quiz') {
     $quizBtn.click();
+    return;
+  }
+  if (hash === '#donate') {
+    $donateBtn.click();
     return;
   }
   // Default: show welcome
