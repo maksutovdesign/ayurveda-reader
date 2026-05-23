@@ -395,28 +395,121 @@ function setFooterActive(id) {
 // ── Remedies view ──────────────────────────────────
 let remediesBuilt = false;
 
-function renderRemedyContent(text) {
-  // Convert plain text with newlines to HTML paragraphs
-  return text
-    .split(/\n\n+/)
-    .map(para => {
-      const trimmed = para.trim();
-      if (!trimmed) return '';
-      // Bullet points
-      if (trimmed.startsWith('•')) {
-        const items = trimmed.split(/\n•/).map(s => s.replace(/^•\s*/, '').trim());
-        return '<ul>' + items.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
-      }
-      // Sub-headings (short lines with no period, all caps or title case)
-      const lines = trimmed.split('\n');
-      if (lines.length === 1 && trimmed.length < 80 && !trimmed.endsWith('.') &&
-          (trimmed === trimmed.toUpperCase() || /^[А-ЯЁ]/.test(trimmed))) {
-        return `<h4>${escapeHtml(trimmed)}</h4>`;
-      }
-      // Regular paragraph with line-break handling
-      return `<p>${lines.map(l => escapeHtml(l)).join('<br>')}</p>`;
-    })
-    .join('');
+// ── Remedies text renderer ──────────────────────────────────────────────────
+// Pattern for ingredient lines: "herb name — quantity unit"
+const REM_ING_PAT = /^[а-яёА-ЯЁ][а-яёА-ЯЁ\s(),\/]+—\s*[\d\/]/;
+
+function isRemHeading(line) {
+  return line.length < 72 &&
+    /^[А-ЯЁ]/.test(line) &&
+    !/[.!?,;:]$/.test(line) &&
+    !line.includes('!') &&        // exclude ВНИМАНИЕ! etc.
+    !/—\s*\d/.test(line);         // not an ingredient line
+}
+
+function renderRemInline(raw) {
+  let s = escapeHtml(raw);
+  // Style (см. Приложение X) references
+  s = s.replace(/\(([^)]*(?:[Пп]риложени[еия]|[Пп]рилож)[^)]*)\)/g,
+    '<span class="rem-ref">($1)</span>');
+  return s;
+}
+
+function parseRemLines(lines) {
+  const out = [];
+  let textBuf = [];
+  let ingBuf  = [];
+  let bulletLines = [];
+
+  const flushText = () => {
+    if (!textBuf.length) return;
+    const joined = textBuf.join(' ').replace(/\s{2,}/g, ' ').trim();
+    textBuf = [];
+    if (!joined) return;
+    if (/^(?:ВНИМАНИЕ|ПРИМЕЧАНИЕ)/.test(joined)) {
+      const label = joined.match(/^([А-ЯЁ]+[!:]?)/)[1];
+      out.push(`<div class="rem-warning"><strong>${escapeHtml(label)}</strong>${renderRemInline(joined.slice(label.length).replace(/^\s*/, ' '))}</div>`);
+      return;
+    }
+    // Detect labeled subparagraph: "SubTitle. rest of text…"
+    const lblM = joined.match(/^([А-ЯЁ][а-яёА-ЯЁ\s\-]{1,35})\.\s+(.+)$/s);
+    if (lblM) {
+      out.push(`<p><strong class="rem-sublabel">${escapeHtml(lblM[1])}.</strong> ${renderRemInline(lblM[2])}</p>`);
+    } else {
+      out.push(`<p>${renderRemInline(joined)}</p>`);
+    }
+  };
+
+  const flushIng = () => {
+    if (!ingBuf.length) return;
+    if (ingBuf.length < 2) { textBuf.push(...ingBuf); ingBuf = []; return; }
+    out.push('<ul class="rem-ingredients">' +
+      ingBuf.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>');
+    ingBuf = [];
+  };
+
+  const flushBullets = () => {
+    if (!bulletLines.length) return;
+    const items = [];
+    let cur = '';
+    for (const l of bulletLines) {
+      if (l.startsWith('•')) { if (cur) items.push(cur.trim()); cur = l.replace(/^•\s*/, ''); }
+      else cur += ' ' + l;
+    }
+    if (cur) items.push(cur.trim());
+    out.push('<ul>' + items.map(i => `<li>${renderRemInline(i)}</li>`).join('') + '</ul>');
+    bulletLines = [];
+  };
+
+  for (const line of lines) {
+    if (line.startsWith('•')) {
+      flushText(); flushIng();
+      bulletLines.push(line);
+    } else if (REM_ING_PAT.test(line) && line.length < 65) {
+      flushText(); flushBullets();
+      ingBuf.push(line);
+    } else {
+      flushIng(); flushBullets();
+      textBuf.push(line);
+    }
+  }
+  flushText(); flushIng(); flushBullets();
+  return out;
+}
+
+function renderRemedyContent(text, remedyName) {
+  const result = [];
+  const blocks = text.split(/\n\n+/);
+
+  for (const rawBlock of blocks) {
+    const block = rawBlock.trim();
+    if (!block) continue;
+
+    const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+    if (!lines.length) continue;
+
+    const first = lines[0];
+
+    // Skip redundant title line (first block, first line = remedy name)
+    const isName = remedyName && (first === remedyName || first.replace(/ё/g,'е') === remedyName.replace(/ё/g,'е'));
+    if (isName && lines.length === 1) continue;  // standalone title line only
+
+    // Standalone heading block
+    if (lines.length === 1 && isRemHeading(first)) {
+      result.push(`<h4>${escapeHtml(first)}</h4>`);
+      continue;
+    }
+
+    // Multi-line block starting with a heading → emit heading, then parse rest
+    if (lines.length > 1 && isRemHeading(first) && !isName) {
+      result.push(`<h4>${escapeHtml(first)}</h4>`);
+      result.push(...parseRemLines(lines.slice(1)));
+      continue;
+    }
+
+    result.push(...parseRemLines(lines));
+  }
+  return result.join('');
 }
 
 function buildRemediesView() {
@@ -453,7 +546,7 @@ function buildRemediesView() {
       `;
       card.addEventListener('click', () => {
         $dtitle.textContent = remedy.name;
-        $dbody.innerHTML = renderRemedyContent(remedy.content);
+        $dbody.innerHTML = renderRemedyContent(remedy.content, remedy.name);
         $list.hidden = true;
         $filter.parentElement.hidden = true;
         $detail.hidden = false;

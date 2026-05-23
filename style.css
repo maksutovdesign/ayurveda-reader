@@ -792,20 +792,69 @@ body.dark  .icon-sun  { display: none; }
   line-height: 1.8;
   color: var(--text);
 }
-#remedies-detail-body p { margin: 0 0 12px; }
+#remedies-detail-body p { margin: 0 0 12px; line-height: 1.75; }
 #remedies-detail-body h4 {
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
   color: var(--comment-tag);
-  margin: 18px 0 8px;
+  margin: 22px 0 8px;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 4px;
 }
 #remedies-detail-body ul {
-  margin: 0 0 12px;
+  margin: 0 0 14px;
   padding-left: 20px;
 }
-#remedies-detail-body li { margin-bottom: 6px; }
+#remedies-detail-body li { margin-bottom: 5px; line-height: 1.65; }
+
+/* Ingredient composition lists */
+#remedies-detail-body .rem-ingredients {
+  list-style: none;
+  padding-left: 0;
+  margin: 4px 0 14px;
+  background: var(--bg-hover);
+  border-radius: 6px;
+  padding: 10px 14px;
+}
+#remedies-detail-body .rem-ingredients li {
+  padding: 2px 0;
+  margin: 0;
+}
+#remedies-detail-body .rem-ingredients li::before {
+  content: '— ';
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Labeled sub-paragraph bold prefix (e.g. "Средства из трав.") */
+.rem-sublabel {
+  color: var(--comment-tag);
+  font-weight: 700;
+}
+
+/* Appendix reference links */
+.rem-ref {
+  font-style: italic;
+  color: var(--accent);
+  opacity: 0.9;
+  cursor: default;
+}
+
+/* ВНИМАНИЕ! warning box */
+.rem-warning {
+  background: color-mix(in srgb, #c0392b 8%, var(--bg));
+  border-left: 3px solid #c0392b;
+  border-radius: 0 6px 6px 0;
+  padding: 10px 14px;
+  margin: 10px 0 16px;
+  font-size: 13.5px;
+  line-height: 1.7;
+}
+.body.dark .rem-warning {
+  background: color-mix(in srgb, #c0392b 15%, var(--bg));
+}
 
 /* ── Encyclopedia ─────────────────────────────────── */
 #encyclopedia-view, #references-view {
@@ -1609,7 +1658,7 @@ body.dark  .icon-sun  { display: none; }
 #site-footer {
   position: fixed;
   bottom: 0;
-  left: 0;
+  left: var(--sidebar-w);   /* starts at content area, not sidebar */
   right: 0;
   z-index: 200;
   pointer-events: none;
