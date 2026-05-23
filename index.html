@@ -43,6 +43,9 @@
         <button id="references-btn" class="sidebar-footer-btn">
           <span>📚</span> Литература
         </button>
+        <button id="foodtable-btn" class="sidebar-footer-btn">
+          <span>🕐</span> Расписание питания
+        </button>
         <button id="quiz-btn" class="sidebar-footer-btn">
           <span>🧬</span> Тест конституции
         </button>
@@ -131,7 +134,7 @@
         <div id="enc-sections-view">
           <div id="enc-header">
             <h2>Энциклопедия аюрведы</h2>
-            <p class="enc-subtitle">131 статья по 33 разделам · синтез 27 книг</p>
+            <p class="enc-subtitle">143 статьи по 35 разделам · синтез 29 книг</p>
             <div id="enc-search-wrap">
               <input id="enc-search" type="search" placeholder="Поиск по энциклопедии…" autocomplete="off" />
             </div>
@@ -171,6 +174,19 @@
           <p class="ref-subtitle">Источники, на основе которых составлена энциклопедия</p>
         </div>
         <div id="ref-list"></div>
+      </div>
+
+      <!-- ── Food Table ── -->
+      <div id="foodtable-view" hidden>
+        <div id="ft-header">
+          <h2>Расписание питания</h2>
+          <p class="ft-subtitle">Оптимальное время приёма продуктов · аспект переваривания в желудке и всасывания в тонком кишечнике</p>
+          <div id="ft-search-wrap">
+            <input id="ft-search" type="search" placeholder="Найти продукт…" autocomplete="off" />
+          </div>
+          <div id="ft-cat-filter"></div>
+        </div>
+        <div id="ft-body"></div>
       </div>
 
       <!-- ── Quiz ── -->
@@ -217,6 +233,6 @@
 
   <div id="tooltip" role="tooltip" aria-live="polite"></div>
 
-  <script type="module" src="app.js?v=2"></script>
+  <script type="module" src="app.js?v=3"></script>
 </body>
 </html>

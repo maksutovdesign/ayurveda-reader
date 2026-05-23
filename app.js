@@ -1,9 +1,10 @@
 import { BOOK_DATA } from './data.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=2';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=3';
 import { REMEDIES } from './remedies.js';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js';
 import { QUIZ } from './quiz.js';
+import { FOOD_TABLE } from './foodtable.js';
 
 // ── State ──────────────────────────────────────────
 let currentChapterIdx = null;
@@ -32,10 +33,12 @@ const $encyclopediaView  = document.getElementById('encyclopedia-view');
 const $encyclopediaBtn   = document.getElementById('encyclopedia-btn');
 const $referencesView    = document.getElementById('references-view');
 const $referencesBtn     = document.getElementById('references-btn');
+const $foodtableView     = document.getElementById('foodtable-view');
+const $foodtableBtn      = document.getElementById('foodtable-btn');
 const $quizView          = document.getElementById('quiz-view');
 const $quizBtn           = document.getElementById('quiz-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $quizView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -385,6 +388,7 @@ function setFooterActive(id) {
   $remediesBtn.classList.toggle('active', id === 'remedies');
   $encyclopediaBtn.classList.toggle('active', id === 'encyclopedia');
   $referencesBtn.classList.toggle('active', id === 'references');
+  $foodtableBtn.classList.toggle('active', id === 'foodtable');
   $quizBtn.classList.toggle('active', id === 'quiz');
 }
 
@@ -478,13 +482,15 @@ function buildRemediesView() {
 
 // ── Encyclopedia view ───────────────────────────────
 const BOOK_LABELS = {
-  basics:      'Аюрведа для начинающих',
-  ayurveda1992:'Аюрведа — наука самоисцеления',
-  cooking:     'Аюрведическая кулинария',
-  recipes:     'Аюрведа. Здоровые рецепты',
-  beauty:      'Абсолютная красота',
-  fundaments:  'Фундаментальные основы Аюрведы',
-  prakriti:    'Пракрити. Ваша аюрведическая конституция',
+  basics:            'Аюрведа для начинающих',
+  ayurveda1992:      'Аюрведа — наука самоисцеления',
+  cooking:           'Аюрведическая кулинария',
+  recipes:           'Аюрведа. Здоровые рецепты',
+  beauty:            'Абсолютная красота',
+  fundaments:        'Фундаментальные основы Аюрведы',
+  prakriti:          'Пракрити. Ваша аюрведическая конституция',
+  kavi_raj:          'Аюрведа для детей (Кави Радж)',
+  joshi_panchakarma: 'Аюрведа и Панчакарма (Джоши)',
 };
 
 let encyclopediaBuilt = false;
@@ -875,6 +881,14 @@ const REFERENCES = [
     description: 'Практическое руководство по лечебным мудрам (жестам рук) в традиции восточной медицины. 25 основных мудр с показаниями и техникой выполнения, принципы соответствия пяти элементов и пяти пальцев.',
     category: 'Практика',
   },
+  {
+    id: 'joshi_panchakarma',
+    title: 'Аюрведа и Панчакарма. Методы исцеления и омоложения',
+    author: 'Сунил В. Джоши',
+    year: 'Рус. пер.',
+    description: 'Детальное руководство по клинической панчакарме от специалиста с 15-летним стажем. Охватывает шесть стадий болезни, пурвакарму (снехана, сведана), протоколы пяти основных карм (вамана, виречана, насья, басти, рактамокшана), схемы курсов и восстановительные диеты.',
+    category: 'Панчакарма',
+  },
 ];
 
 let referencesBuilt = false;
@@ -940,6 +954,148 @@ $referencesBtn.addEventListener('click', () => {
   showOnly($referencesView);
   buildReferencesView();
   history.replaceState(null, '', '#references');
+});
+
+// ── Food Table view ─────────────────────────────────
+let foodtableBuilt = false;
+
+function buildFoodTableView() {
+  if (foodtableBuilt) return;
+  foodtableBuilt = true;
+
+  const $body      = document.getElementById('ft-body');
+  const $search    = document.getElementById('ft-search');
+  const $catFilter = document.getElementById('ft-cat-filter');
+
+  // Timeline constants: hours 5 to 22 = 17 hours span
+  const T_START = 5;
+  const T_END   = 22;
+  const T_SPAN  = T_END - T_START;
+
+  function pct(h) {
+    return Math.max(0, Math.min(100, ((h - T_START) / T_SPAN) * 100));
+  }
+
+  function makeBar(from, to) {
+    const left  = pct(from);
+    const width = Math.max(2, pct(to) - pct(from));
+    return `<div class="ft-bar-track">
+      <div class="ft-bar-fill" style="left:${left}%;width:${width}%"></div>
+      <div class="ft-bar-labels">
+        ${[6,9,12,15,18,21].map(h => `<span style="left:${pct(h)}%" class="ft-bar-tick"></span>`).join('')}
+      </div>
+    </div>`;
+  }
+
+  function timeStr(h) {
+    return h < 10 ? `0${h}:00` : `${h}:00`;
+  }
+
+  let activeCat = null;
+
+  function render(query) {
+    $body.innerHTML = '';
+    const q = query.toLowerCase().trim();
+    const frag = document.createDocumentFragment();
+
+    for (const cat of FOOD_TABLE) {
+      if (activeCat && cat.category !== activeCat) continue;
+      const items = q
+        ? cat.items.filter(it => it.name.toLowerCase().includes(q))
+        : cat.items;
+      if (items.length === 0) continue;
+
+      const sec = document.createElement('div');
+      sec.className = 'ft-section';
+
+      const catTitle = document.createElement('div');
+      catTitle.className = 'ft-cat-title';
+      catTitle.innerHTML = `<span class="ft-cat-icon">${cat.icon}</span>${escapeHtml(cat.category)}`;
+      sec.appendChild(catTitle);
+
+      const table = document.createElement('div');
+      table.className = 'ft-table';
+
+      const thead = document.createElement('div');
+      thead.className = 'ft-row ft-thead';
+      thead.innerHTML = `
+        <div class="ft-cell ft-name">Продукт</div>
+        <div class="ft-cell ft-from">С</div>
+        <div class="ft-cell ft-to">До</div>
+        <div class="ft-cell ft-bar">
+          <div class="ft-bar-header">
+            ${[6,9,12,15,18,21].map(h => `<span>${h}:00</span>`).join('')}
+          </div>
+        </div>
+      `;
+      table.appendChild(thead);
+
+      for (const item of items) {
+        const row = document.createElement('div');
+        row.className = 'ft-row';
+        row.innerHTML = `
+          <div class="ft-cell ft-name">${escapeHtml(item.name)}</div>
+          <div class="ft-cell ft-from ft-time">${timeStr(item.from)}</div>
+          <div class="ft-cell ft-to ft-time">${timeStr(item.to)}</div>
+          <div class="ft-cell ft-bar">${makeBar(item.from, item.to)}</div>
+        `;
+        table.appendChild(row);
+      }
+
+      sec.appendChild(table);
+      frag.appendChild(sec);
+    }
+
+    if (frag.childNodes.length === 0) {
+      const msg = document.createElement('div');
+      msg.className = 'no-results';
+      msg.textContent = q ? `Продукт «${query}» не найден` : 'Нет данных';
+      frag.appendChild(msg);
+    }
+
+    $body.appendChild(frag);
+  }
+
+  // Category filter buttons
+  const allBtn = document.createElement('button');
+  allBtn.className = 'ft-cat-btn active';
+  allBtn.textContent = 'Все';
+  allBtn.addEventListener('click', () => {
+    activeCat = null;
+    document.querySelectorAll('.ft-cat-btn').forEach(b => b.classList.remove('active'));
+    allBtn.classList.add('active');
+    render($search.value);
+  });
+  $catFilter.appendChild(allBtn);
+
+  for (const cat of FOOD_TABLE) {
+    const btn = document.createElement('button');
+    btn.className = 'ft-cat-btn';
+    btn.innerHTML = `${cat.icon} ${escapeHtml(cat.category)}`;
+    btn.addEventListener('click', () => {
+      activeCat = cat.category;
+      document.querySelectorAll('.ft-cat-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      render($search.value);
+    });
+    $catFilter.appendChild(btn);
+  }
+
+  render('');
+
+  let ftDebounce = null;
+  $search.addEventListener('input', () => {
+    clearTimeout(ftDebounce);
+    ftDebounce = setTimeout(() => render($search.value), 200);
+  });
+}
+
+$foodtableBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('foodtable');
+  showOnly($foodtableView);
+  buildFoodTableView();
+  history.replaceState(null, '', '#foodtable');
 });
 
 // ── Quiz ───────────────────────────────────────────
@@ -1242,6 +1398,10 @@ function init() {
   }
   if (hash === '#references') {
     $referencesBtn.click();
+    return;
+  }
+  if (hash === '#foodtable') {
+    $foodtableBtn.click();
     return;
   }
   if (hash === '#quiz') {
