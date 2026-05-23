@@ -1391,7 +1391,7 @@ $quizBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#quiz');
 });
 
-$donateBtn.addEventListener('click', () => {
+if ($donateBtn) $donateBtn.addEventListener('click', () => {
   setActiveBtn(-1);
   setFooterActive('donate');
   showOnly($donateView);
