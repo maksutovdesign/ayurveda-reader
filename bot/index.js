@@ -152,14 +152,15 @@ async function showMain(ctx) {
   ].join('\n');
 
   await send(ctx, text, [
-    [Markup.button.callback('📚 Книга',           'bk_s'),
-     Markup.button.callback('🔍 Энциклопедия',    'enc_s')],
-    [Markup.button.callback('🌿 Болезни',          'dis_s'),
-     Markup.button.callback('💊 Средства',         'rem_s')],
-    [Markup.button.callback('📖 Глоссарий',        'gl_s'),
-     Markup.button.callback('🍽 Продукты',         'ft_s')],
-    [Markup.button.callback('❓ Викторина',        'qz_s'),
-     Markup.button.url('🌐 Сайт',                  WEB_URL)],
+    [Markup.button.callback('📚 Книга',              'bk_s'),
+     Markup.button.callback('🔍 Энциклопедия',       'enc_s')],
+    [Markup.button.callback('🌿 Болезни',             'dis_s'),
+     Markup.button.callback('💊 Средства',            'rem_s')],
+    [Markup.button.callback('📖 Глоссарий',           'gl_s'),
+     Markup.button.callback('🍽 Продукты',            'ft_s')],
+    [Markup.button.callback('🧪 Тест конституции',    'qz_s'),
+     Markup.button.callback('🙏 Поддержать проект',   'donate_s')],
+    [Markup.button.url('🌐 Открыть полную версию',    WEB_URL)],
   ]);
 }
 
@@ -521,23 +522,67 @@ async function showFoodCategory(ctx, catIdx) {
 }
 
 // ═══════════════════════════════════════════════════════════
-// ВИКТОРИНА (ссылка на сайт)
+// ТЕСТ КОНСТИТУЦИИ
 // ═══════════════════════════════════════════════════════════
 
 async function showQuizInfo(ctx) {
+  const totalQ = QUIZ.sections.reduce((n, s) => n + s.questions.length, 0);
+  const sections = QUIZ.sections.map(s => `${s.emoji} ${s.label}`).join('  ·  ');
+
   const text = [
-    `❓ <b>${esc(QUIZ.title)}</b>`,
+    `🧪 <b>${esc(QUIZ.title)}</b>`,
     `<i>${esc(QUIZ.subtitle)}</i>`,
     '',
     esc(QUIZ.description),
     '',
-    `${QUIZ.sections.length} разделов, ${QUIZ.sections.reduce((n, s) => n + s.questions.length, 0)} вопросов.`,
+    `<b>${totalQ} вопросов</b> по ${sections}`,
+    'Шкала ответов: от 0 (совсем не про меня) до 6 (практически всегда).',
     '',
-    '🔗 Пройдите полный интерактивный тест на сайте:',
+    '📱 Полный интерактивный тест с результатом и расшифровкой — на сайте:',
   ].join('\n');
 
   await send(ctx, text, [
-    [Markup.button.url('Открыть тест', `${WEB_URL}#quiz`)],
+    [Markup.button.url('🧪 Пройти тест конституции', `${WEB_URL}#quiz`)],
+    [Markup.button.callback('← Главное меню', 'main')],
+  ]);
+}
+
+// ═══════════════════════════════════════════════════════════
+// ПОДДЕРЖАТЬ ПРОЕКТ (донат и реквизиты)
+// ═══════════════════════════════════════════════════════════
+
+async function showDonate(ctx) {
+  const text = [
+    '🙏 <b>Поддержать проект</b>',
+    '',
+    'Этот сайт создан с любовью и посвящён изучению аюрведы.',
+    'Все материалы собраны, структурированы и переведены вручную —',
+    'чтобы древняя мудрость была доступна на русском языке.',
+    '',
+    'Если проект оказался вам полезен — любая поддержка',
+    'принимается с искренней признательностью 🪷',
+    '',
+    '━━━━━━━━━━━━━━━━━━',
+    '',
+    '🟢 <b>Сбербанк — по номеру телефона</b>',
+    'Номер: <code>+79536533934</code>',
+    'Получатель: Екатерина М.',
+    '',
+    '🟢 <b>Сбербанк — перевод на карту</b>',
+    'Карта: <code>2202 2002 8273 4076</code>',
+    'Получатель: Екатерина М.',
+    '',
+    '₿ <b>Bitcoin</b>',
+    '<code>1Ad9cXdQfApRJU3H5Ecpd23397njzhHbqV</code>',
+    '',
+    '₮ <b>USDT TRC20 (Tron)</b>',
+    '<code>TDdhyiFRV84VTPWA3yn7PUYLjNTsnaoEuw</code>',
+    '',
+    '🔷 <b>USDT ERC20 (Ethereum)</b>',
+    '<code>0x9c637cbe764f04871385f3e703ff102242fc74fc</code>',
+  ].join('\n');
+
+  await send(ctx, text, [
     [Markup.button.callback('← Главное меню', 'main')],
   ]);
 }
@@ -650,8 +695,9 @@ bot.on('callback_query', async ctx => {
   if (d === 'dis_s') return showDiseaseCategories(ctx);
   if (d === 'rem_s') return showRemediesMenu(ctx);
   if (d === 'gl_s')  return showGlossaryMenu(ctx);
-  if (d === 'ft_s')  return showFoodCategories(ctx);
-  if (d === 'qz_s')  return showQuizInfo(ctx);
+  if (d === 'ft_s')      return showFoodCategories(ctx);
+  if (d === 'qz_s')      return showQuizInfo(ctx);
+  if (d === 'donate_s')  return showDonate(ctx);
 
   // Параметризованные маршруты
   let m;
