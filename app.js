@@ -10,6 +10,7 @@ import { FOOD_TABLE } from './foodtable.js';
 let currentChapterIdx = null;
 let searchQuery = '';
 let tooltipTimeout = null;
+let openEncArticleFn = null; // set by buildEncyclopediaView; used by glossary cards
 
 // ── Elements ───────────────────────────────────────
 const $nav          = document.getElementById('chapter-nav');
@@ -262,6 +263,29 @@ function loadChapter(idx) {
   history.replaceState(null, '', `#ch${idx}`);
 }
 
+// ── Glossary → Encyclopedia lookup ─────────────────
+// For each glossary term, find the best-matching encyclopedia article.
+// Returns { secId, artId } or null.
+const GLOSSARY_ENC_MAP = (() => {
+  const map = {};
+  for (const sec of ENCYCLOPEDIA) {
+    for (const art of sec.articles) {
+      const titleLower = art.title.toLowerCase();
+      const titleWords = titleLower.split(/[\s()/,—–:-]+/).filter(w => w.length > 3);
+      for (const entry of GLOSSARY) {
+        const termLower = entry.term.toLowerCase();
+        // Match if term appears verbatim in article title, or vice versa
+        if (titleLower.includes(termLower) || termLower.includes(titleLower)) {
+          if (!map[entry.term]) {
+            map[entry.term] = { secId: sec.id, artId: art.id };
+          }
+        }
+      }
+    }
+  }
+  return map;
+})();
+
 // ── Glossary view ──────────────────────────────────
 function buildGlossaryView() {
   const body = document.getElementById('glossary-body');
@@ -374,12 +398,19 @@ function buildGlossaryView() {
 
       for (const entry of grouped[cat]) {
         const card = document.createElement('div');
-        card.className = 'glossary-card';
+        const encRef = GLOSSARY_ENC_MAP[entry.term];
+        card.className = encRef ? 'glossary-card glossary-card--linked' : 'glossary-card';
         card.innerHTML = `
-          <div class="glossary-card-term">${entry.term}</div>
+          <div class="glossary-card-term">${entry.term}${encRef ? ' <span class="glossary-enc-link">→ статья</span>' : ''}</div>
           <div class="glossary-card-origin">${entry.origin}</div>
           <div class="glossary-card-def">${entry.def}</div>
         `;
+        if (encRef) {
+          card.addEventListener('click', () => {
+            buildEncyclopediaView();
+            openEncArticleFn && openEncArticleFn(encRef.secId, encRef.artId);
+          });
+        }
         frag.appendChild(card);
       }
     }
@@ -867,6 +898,19 @@ function buildEncyclopediaView() {
     $artView.hidden    = false;
     document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
   });
+
+  // Expose article-opening function for cross-view navigation (e.g. glossary cards)
+  openEncArticleFn = (secId, artId) => {
+    const sec = ENCYCLOPEDIA.find(s => s.id === secId);
+    if (!sec) return;
+    const art = sec.articles.find(a => a.id === artId);
+    if (!art) return;
+    setActiveBtn(-1);
+    setFooterActive('encyclopedia');
+    showOnly($encyclopediaView);
+    currentEncSection = sec;
+    showArticle(art);
+  };
 
   // ── Build section grid ──
   const frag = document.createDocumentFragment();

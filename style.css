@@ -714,11 +714,31 @@ body.dark  .icon-sun  { display: none; }
   transition: border-color var(--transition);
 }
 .glossary-card:hover { border-color: var(--accent-light); }
+.glossary-card--linked {
+  cursor: pointer;
+}
+.glossary-card--linked:hover {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 4%, var(--bg-card));
+}
 .glossary-card-term {
   font-weight: 700;
   font-size: 14px;
   color: var(--accent);
   margin-bottom: 2px;
+}
+.glossary-enc-link {
+  font-size: 10px;
+  font-weight: 400;
+  color: var(--accent-light);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+.glossary-card--linked:hover .glossary-enc-link {
+  color: var(--accent);
 }
 .glossary-card-origin {
   font-size: 10px;
