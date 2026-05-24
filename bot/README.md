@@ -40,7 +40,28 @@ npm start
 npm run dev
 ```
 
-## Деплой на Fly.io (бесплатно навсегда)
+## Деплой на Koyeb (бесплатно, без карты)
+
+### Первый деплой
+
+1. Зайди на [koyeb.com](https://koyeb.com) → создай аккаунт (без карты)
+2. **Create Service** → **GitHub**
+3. Выбери репозиторий `ayurveda-reader`, ветка `main`
+4. Настройки сервиса:
+   - **Service type**: Web service
+   - **Build command**: `npm --prefix bot install`
+   - **Run command**: `node bot/index.js`
+   - **Port**: `3000`
+5. Переменные окружения → добавь `BOT_TOKEN` = токен от @BotFather
+6. **Deploy**
+
+### Обновление бота
+
+Просто сделай `git push` — Koyeb задеплоит автоматически.
+
+---
+
+## Деплой на Fly.io (бесплатно, нужна карта для верификации)
 
 ### Первый деплой
 

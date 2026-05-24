@@ -7,6 +7,7 @@
  */
 
 import { Telegraf, Markup } from 'telegraf';
+import http from 'http';
 
 // ── Импорт данных из файлов веб-приложения ──────────────
 // Изменяй только эти JS-файлы — бот подхватит обновления автоматически
@@ -744,6 +745,12 @@ bot.on('text', async ctx => {
 bot.catch((err, ctx) => {
   console.error(`Ошибка (${ctx.updateType}):`, err.message || err);
   ctx.reply('Произошла ошибка. Попробуйте ещё раз или /start').catch(() => {});
+});
+
+// Health check HTTP-сервер (для Koyeb и других платформ)
+const PORT = process.env.PORT || 3000;
+http.createServer((_, res) => { res.writeHead(200); res.end('OK'); }).listen(PORT, () => {
+  console.log(`🌐 Health check сервер: порт ${PORT}`);
 });
 
 console.log('🤖 Бот запускается...');
