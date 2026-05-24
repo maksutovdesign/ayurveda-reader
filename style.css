@@ -1780,7 +1780,9 @@ body.dark  .icon-sun  { display: none; }
 }
 .donate-logo--sber { background: #21a038; color: #fff; }
 .donate-logo--btc  { background: #f7931a; color: #fff; }
-.donate-logo--usdt { background: #26a17b; color: #fff; }
+.donate-logo--usdt  { background: #26a17b; color: #fff; }
+.donate-logo--eth   { background: #627eea; color: #fff; }
+.donate-logo--email { background: #607d8b; color: #fff; }
 .donate-card-title {
   font-size: 14px;
   font-weight: 600;
