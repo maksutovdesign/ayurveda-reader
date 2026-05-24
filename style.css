@@ -461,6 +461,55 @@ body.dark  .icon-sun  { display: none; }
   padding: 0 4px;
 }
 
+/* ── Content headings (Vipassana + others) ────────── */
+.block-heading {
+  padding: 4px 0 4px 14px;
+  border-radius: 0 6px 6px 0;
+  margin-top: 4px;
+}
+.heading-text {
+  font-weight: 700;
+  display: block;
+}
+
+/* L1 — primary section title */
+.block-heading--l1 {
+  border-left: 4px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 8%, var(--bg));
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.block-heading--l1 .heading-text {
+  font-size: 17px;
+  letter-spacing: .01em;
+  color: var(--accent);
+}
+
+/* L2 — subsection title */
+.block-heading--l2 {
+  border-left: 3px solid var(--accent-light);
+  background: color-mix(in srgb, var(--accent-light) 10%, var(--bg));
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.block-heading--l2 .heading-text {
+  font-size: 15.5px;
+  color: var(--text);
+}
+
+/* L3 — sub-section label */
+.block-heading--l3 {
+  border-left: 2px solid var(--text-muted);
+  background: transparent;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.block-heading--l3 .heading-text {
+  font-size: 14.5px;
+  color: var(--text);
+  font-style: italic;
+}
+
 /* ── Sanskrit terms (glossary) ────────────────────── */
 .skt {
   color: var(--accent);
@@ -927,6 +976,27 @@ body.dark  .icon-sun  { display: none; }
   background: color-mix(in srgb, #c0392b 15%, var(--bg));
 }
 
+/* ПРИМЕЧАНИЕ note box */
+.rem-note {
+  background: color-mix(in srgb, #9a7b3a 7%, var(--bg));
+  border-left: 3px solid #9a7b3a;
+  border-radius: 0 6px 6px 0;
+  padding: 10px 14px;
+  margin: 10px 0 16px;
+  font-size: 13.5px;
+  font-style: italic;
+  line-height: 1.7;
+  color: var(--text-muted);
+}
+.rem-note strong {
+  font-style: normal;
+  color: #9a7b3a;
+}
+.body.dark .rem-note {
+  background: color-mix(in srgb, #9a7b3a 14%, var(--bg));
+  color: var(--text-muted);
+}
+
 /* ── Encyclopedia ─────────────────────────────────── */
 #encyclopedia-view, #references-view {
   padding: 32px 40px 60px;
@@ -1015,13 +1085,58 @@ body.dark  .icon-sun  { display: none; }
 #enc-article-body {
   font-size: 15px; line-height: 1.9; color: var(--text);
 }
-#enc-article-body p { margin: 0 0 16px; }
-#enc-article-body h4 {
-  font-size: 13px; font-weight: 700; color: var(--comment-tag);
-  margin: 24px 0 8px; text-transform: uppercase; letter-spacing: 0.05em;
+#enc-article-body p { margin: 0 0 14px; }
+
+/* Heading hierarchy inside articles */
+#enc-article-body h2 {
+  font-size: 19px; font-weight: 700; color: var(--text);
+  margin: 36px 0 10px; padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
 }
-#enc-article-body ul { margin: 0 0 16px; padding-left: 22px; }
+#enc-article-body h3 {
+  font-size: 16px; font-weight: 700; color: var(--accent);
+  margin: 28px 0 8px;
+}
+/* CAPS section headings (ТЕЛО:, КАК ЕСТЬ:) and short mixed-case titles */
+#enc-article-body h4 {
+  font-size: 13px; font-weight: 700; color: var(--accent);
+  margin: 22px 0 6px; letter-spacing: 0.04em;
+}
+/* Mixed-case sub-headings (Три тонких сущности, Прана в пище и воздухе) */
+#enc-article-body h4.enc-h4-sub {
+  font-size: 14px; letter-spacing: 0.01em; margin: 20px 0 5px;
+}
+
+#enc-article-body ul { margin: 0 0 14px; padding-left: 22px; }
 #enc-article-body li { margin-bottom: 7px; }
+
+/* Comparison & data tables */
+.enc-table {
+  width: 100%; border-collapse: collapse;
+  margin: 0 0 18px; font-size: 14px;
+}
+.enc-table th, .enc-table td {
+  padding: 8px 14px; border: 1px solid var(--border);
+  text-align: left; vertical-align: top;
+}
+.enc-table th {
+  background: var(--bg-comment); font-weight: 700;
+  color: var(--text); font-size: 12.5px;
+  text-transform: uppercase; letter-spacing: 0.04em;
+}
+.enc-table td { background: var(--bg-card); }
+.enc-table tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--bg-comment) 50%, var(--bg-card));
+}
+
+/* Blockquotes (> text) */
+.enc-quote {
+  border-left: 3px solid var(--accent-light);
+  margin: 0 0 16px; padding: 8px 16px;
+  color: var(--text-muted); font-style: italic;
+  background: color-mix(in srgb, var(--accent-light) 6%, var(--bg));
+  border-radius: 0 6px 6px 0;
+}
 #enc-article-sources {
   margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border);
 }

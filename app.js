@@ -164,6 +164,10 @@ function renderBlock(block) {
       <div class="comment-label">Комментарий</div>
       <div class="comment-text">${renderText(block.text)}</div>
     `;
+  } else if (block.type === 'heading') {
+    const lvl = block.level || 1;
+    div.classList.add('block-heading', `block-heading--l${lvl}`);
+    div.innerHTML = `<span class="heading-text">${escapeHtml(block.text)}</span>`;
   } else {
     div.classList.add('block-text');
     div.innerHTML = renderText(block.text);
@@ -513,7 +517,8 @@ function parseRemLines(lines) {
     if (!joined) return;
     if (/^(?:ВНИМАНИЕ|ПРИМЕЧАНИЕ)/.test(joined)) {
       const label = joined.match(/^([А-ЯЁ]+[!:]?)/)[1];
-      out.push(`<div class="rem-warning"><strong>${escapeHtml(label)}</strong>${renderRemInline(joined.slice(label.length).replace(/^\s*/, ' '))}</div>`);
+      const cls = label.startsWith('ПРИМЕЧАНИЕ') ? 'rem-note' : 'rem-warning';
+      out.push(`<div class="${cls}"><strong>${escapeHtml(label)}</strong>${renderRemInline(joined.slice(label.length).replace(/^\s*/, ' '))}</div>`);
       return;
     }
     // Detect labeled subparagraph: "SubTitle. rest of text…"
@@ -702,29 +707,87 @@ let encyclopediaBuilt = false;
 let currentEncSection = null;
 
 function renderArticleContent(text) {
-  return text.split(/\n\n+/).map(para => {
+  // Strip leading ## duplicate title (already shown in article header)
+  const stripped = text.replace(/^\s*##\s+[^\n]+\n*/, '');
+
+  // Inline: **bold** and *italic*
+  function ri(s) {
+    return escapeHtml(s)
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*([^*\n]+)\*/g, '<em>$1</em>');
+  }
+
+  return stripped.split(/\n\n+/).map(para => {
     const trimmed = para.trim();
     if (!trimmed) return '';
-    // Bullet list
-    if (trimmed.startsWith('—') || trimmed.startsWith('–')) {
-      const items = trimmed.split(/\n[—–]/).map(s => s.replace(/^[—–]\s*/, '').trim());
-      return '<ul>' + items.map(i => `<li>${escapeHtml(i)}</li>`).join('') + '</ul>';
-    }
-    // Section heading (short, no period at end, upper/mixed)
     const lines = trimmed.split('\n');
-    if (lines.length === 1 && trimmed.length < 80 && !trimmed.endsWith('.') && !trimmed.endsWith(',')) {
-      // All caps or starts with bold-like pattern
-      if (trimmed === trimmed.toUpperCase() || /^[А-ЯЁ][А-ЯЁ\s\-]+:/.test(trimmed)) {
-        return `<h4>${escapeHtml(trimmed)}</h4>`;
+    const first = lines[0];
+
+    // ── Markdown headings (## or ###, may have body on following lines)
+    if (first.startsWith('## ')) {
+      const heading = first.slice(3).trim();
+      const rest = lines.slice(1).join('\n').trim();
+      return `<h2>${ri(heading)}</h2>${rest ? `<p>${lines.slice(1).map(l => ri(l)).join('<br>')}</p>` : ''}`;
+    }
+    if (first.startsWith('### ')) {
+      const heading = first.slice(4).trim();
+      const rest = lines.slice(1).join('\n').trim();
+      return `<h3>${ri(heading)}</h3>${rest ? `<p>${lines.slice(1).map(l => ri(l)).join('<br>')}</p>` : ''}`;
+    }
+
+    // ── Markdown table (| col | col |)
+    if (first.startsWith('|')) {
+      const rows = trimmed.split('\n').filter(r => !/^\|[-:\s|]+\|$/.test(r.trim()));
+      const parseRow = r => r.replace(/^\||\|$/g, '').split('|').map(c => c.trim());
+      if (rows.length >= 2) {
+        const [header, ...body] = rows;
+        const ths = parseRow(header).map(c => `<th>${ri(c)}</th>`).join('');
+        const trs = body.map(r => '<tr>' + parseRow(r).map(c => `<td>${ri(c)}</td>`).join('') + '</tr>').join('');
+        return `<table class="enc-table"><thead><tr>${ths}</tr></thead><tbody>${trs}</tbody></table>`;
       }
     }
-    // Sub-section with colon pattern e.g. "ВАТА-КОЖА:"
-    if (/^[А-ЯЁA-Z][А-ЯЁA-Z\s\-]+:/.test(lines[0])) {
-      const heading = lines[0];
-      const rest = lines.slice(1).join('\n').trim();
-      return `<h4>${escapeHtml(heading)}</h4>${rest ? `<p>${escapeHtml(rest).replace(/\n/g, '<br>')}</p>` : ''}`;
+
+    // ── Blockquote (> text)
+    if (first.startsWith('> ') || first.startsWith('>*') || first.startsWith('> *')) {
+      const bq = trimmed.replace(/^>\s*/, '').replace(/\n>\s*/g, ' ');
+      return `<blockquote class="enc-quote">${ri(bq)}</blockquote>`;
     }
-    return `<p>${lines.map(l => escapeHtml(l)).join('<br>')}</p>`;
+
+    // ── Bullet list (— – or - )
+    if (/^[—–]/.test(trimmed) || /^- /.test(trimmed)) {
+      const items = trimmed.split(/\n(?=[—–-])/).map(s => s.replace(/^[—–]\s*|^-\s*/, '').trim()).filter(Boolean);
+      return '<ul>' + items.map(i => `<li>${ri(i)}</li>`).join('') + '</ul>';
+    }
+
+    // ── Single-line headings
+    if (lines.length === 1 && trimmed.length > 5 && trimmed.length < 80
+        && !/[.!?;]$/.test(trimmed) && !trimmed.endsWith(',')) {
+      // All CAPS or CAPS-with-colon (e.g. "ТЕЛО:", "КАК ЕСТЬ:")
+      if (trimmed === trimmed.toUpperCase() || /^[А-ЯЁ][А-ЯЁ\s\-]+:/.test(trimmed)) {
+        return `<h4>${ri(trimmed)}</h4>`;
+      }
+      // Short mixed-case heading (e.g. "Три тонких сущности", "Прана и здоровье")
+      if (trimmed.length < 65 && /^[А-ЯЁA-Z]/.test(trimmed)) {
+        return `<h4 class="enc-h4-sub">${ri(trimmed)}</h4>`;
+      }
+    }
+
+    // ── Sub-section: CAPS heading + body on following lines
+    if (/^[А-ЯЁA-Z][А-ЯЁA-Z\s\-]+:/.test(first)) {
+      const rest = lines.slice(1).join('\n').trim();
+      let restHtml = '';
+      if (rest) {
+        if (/^[—–-]/.test(rest)) {
+          const items = rest.split(/\n(?=[—–-])/).map(s => s.replace(/^[—–]\s*|^-\s*/, '').trim()).filter(Boolean);
+          restHtml = '<ul>' + items.map(i => `<li>${ri(i)}</li>`).join('') + '</ul>';
+        } else {
+          restHtml = `<p>${lines.slice(1).map(l => ri(l)).join('<br>')}</p>`;
+        }
+      }
+      return `<h4>${ri(first)}</h4>${restHtml}`;
+    }
+
+    return `<p>${lines.map(l => ri(l)).join('<br>')}</p>`;
   }).join('');
 }
 
