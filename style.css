@@ -276,6 +276,12 @@ body.dark  .icon-sun  { display: none; }
   position: relative;
 }
 .chapter-btn:hover { background: var(--bg-hover); color: var(--text); }
+.chapter-btn--stub {
+  opacity: 0.38;
+  cursor: not-allowed;
+  font-style: italic;
+}
+.chapter-btn--stub:hover { background: none; color: var(--text-sidebar); }
 .chapter-btn.active {
   background: var(--bg-active);
   color: var(--accent);
@@ -1916,6 +1922,18 @@ body.dark  .icon-sun  { display: none; }
 #disclaimer-close:hover { opacity: 0.9; }
 
 /* ── Mobile sidebar behaviour ─────────────────────── */
+@media (max-width: 640px) {
+  /* Donate: stack label above value on narrow screens */
+  .donate-field {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+  .donate-label { min-width: unset; }
+  .donate-copy  { width: 100%; box-sizing: border-box; }
+  .donate-value { word-break: break-all; }
+}
+
 @media (max-width: 640px) {
   /* Sidebar slides in from left as overlay */
   #sidebar {

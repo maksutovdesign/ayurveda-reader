@@ -206,11 +206,17 @@ function buildNav() {
 
     items.forEach(({ ch, idx }) => {
       const btn = document.createElement('button');
-      btn.className = 'chapter-btn';
+      const isUnavailable = ch.available === false;
+      btn.className = 'chapter-btn' + (isUnavailable ? ' chapter-btn--stub' : '');
       btn.dataset.idx = idx;
       const numLabel = ch.number > 0 ? `<span class="ch-num">${ch.number}.</span>` : '';
       btn.innerHTML = `${numLabel}${ch.title}`;
-      btn.addEventListener('click', () => loadChapter(idx));
+      if (isUnavailable) {
+        btn.title = 'Глава не переведена';
+        btn.setAttribute('aria-disabled', 'true');
+      } else {
+        btn.addEventListener('click', () => loadChapter(idx));
+      }
       chaptersDiv.appendChild(btn);
     });
 
