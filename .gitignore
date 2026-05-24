@@ -2,3 +2,9 @@
 .claude/
 serve.py
 *.docx
+
+# Telegram bot
+bot/node_modules/
+bot/.env
+bot/package-lock.json
+*.backup*
