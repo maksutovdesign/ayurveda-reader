@@ -476,7 +476,8 @@ function isRemHeading(line) {
     !/[.!?,;:]$/.test(line) &&
     !line.includes('!') &&
     !line.includes(',') &&
-    !/(?:ой|ей|ий|ый|ого|его|ому|ему|ою|ею|ые|ие|ых|их)$/i.test(line) &&
+    // adjective all cases + gerunds + infinitives (soft-wrapped mid-sentence text)
+    !/(?:ой|ей|ий|ый|ого|его|ому|ему|ою|ею|ые|ие|ых|их|ым|им|уя|юя|ая|яя|ть|ться)$/i.test(line) &&
     !/—\s*\d/.test(line);
 }
 
@@ -567,24 +568,31 @@ function renderRemedyContent(text, remedyName) {
     const block = rawBlock.trim();
     if (!block) continue;
 
-    const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+    let lines = block.split('\n').map(l => l.trim()).filter(Boolean);
     if (!lines.length) continue;
 
     const first = lines[0];
 
-    // Skip redundant title line (first block, first line = remedy name)
+    // Skip/strip redundant title line (remedy name repeated as first line)
     const isName = remedyName && (first === remedyName || first.replace(/ё/g,'е') === remedyName.replace(/ё/g,'е'));
-    if (isName && lines.length === 1) continue;  // standalone title line only
+    if (isName) {
+      lines = lines.slice(1);    // remove duplicate title regardless of block length
+      if (!lines.length) continue;
+    }
+
+    const head = lines[0];
 
     // Standalone heading block
-    if (lines.length === 1 && isRemHeading(first)) {
-      result.push(`<h4>${escapeHtml(first)}</h4>`);
+    if (lines.length === 1 && isRemHeading(head)) {
+      result.push(`<h4>${escapeHtml(head)}</h4>`);
       continue;
     }
 
-    // Multi-line block starting with a heading → emit heading, then parse rest
-    if (lines.length > 1 && isRemHeading(first) && !isName) {
-      result.push(`<h4>${escapeHtml(first)}</h4>`);
+    // Multi-line block: heading only when isRemHeading passes AND the continuation
+    // line does not start with a lowercase letter (which signals mid-sentence wrap)
+    const nextStartsLower = /^[а-яё(«]/.test(lines[1] || '');
+    if (lines.length > 1 && isRemHeading(head) && !nextStartsLower) {
+      result.push(`<h4>${escapeHtml(head)}</h4>`);
       result.push(...parseRemLines(lines.slice(1)));
       continue;
     }
@@ -772,7 +780,7 @@ function buildEncyclopediaView() {
   function showArticle(art) {
     $artTitle.textContent   = art.title;
     $artSummary.textContent = art.summary;
-    $artBody.innerHTML      = renderArticleContent(art.content);
+    $artBody.innerHTML      = renderArticleContent(art.body || art.content || '');
     $artMeta.textContent    = currentEncSection ? `${currentEncSection.icon} ${currentEncSection.title}` : '';
     const sourcesHtml = art.sources
       .map(s => `<span class="enc-source-tag">${escapeHtml(BOOK_LABELS[s] || s)}</span>`)
