@@ -40,12 +40,45 @@ npm start
 npm run dev
 ```
 
-## Деплой на Railway (бесплатно)
+## Деплой на Fly.io (бесплатно навсегда)
 
-1. Зайди на [railway.app](https://railway.app), создай проект из GitHub-репозитория
-2. В настройках сервиса укажи **Root Directory**: `bot`
-3. Добавь переменную окружения `BOT_TOKEN` (значение от @BotFather)
-4. Railway автоматически запустит бота при каждом `git push`
+### Первый деплой
+
+```bash
+# 1. Установи flyctl
+brew install flyctl          # macOS
+# или: curl -L https://fly.io/install.sh | sh
+
+# 2. Войди в аккаунт
+fly auth login
+
+# 3. Перейди в папку бота
+cd bot
+
+# 4. Инициализируй приложение (fly.toml уже есть — выбери "не перезаписывать")
+fly launch --name ayurveda-bot --region ams --no-deploy
+
+# 5. Добавь токен бота как секрет
+fly secrets set BOT_TOKEN=твой_токен_здесь
+
+# 6. Задеплой
+fly deploy
+```
+
+### Обновление бота
+
+```bash
+# После git push просто:
+fly deploy
+```
+
+### Полезные команды
+
+```bash
+fly logs          # посмотреть логи
+fly status        # статус приложения
+fly secrets list  # список секретов (значения скрыты)
+```
 
 ## Получение токена (@BotFather)
 
