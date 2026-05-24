@@ -48,6 +48,53 @@ function showOnly(panel) {
   document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
 }
 
+// ── Mobile sidebar ─────────────────────────────────
+const $menuBtn       = document.getElementById('menu-btn');
+const $sidebarClose  = document.getElementById('sidebar-close');
+const $sidebarOverlay= document.getElementById('sidebar-overlay');
+const $sidebar       = document.getElementById('sidebar');
+
+const openSidebar  = () => document.body.classList.add('sidebar-open');
+const closeSidebar = () => document.body.classList.remove('sidebar-open');
+
+$menuBtn.addEventListener('click', openSidebar);
+$sidebarClose.addEventListener('click', closeSidebar);
+$sidebarOverlay.addEventListener('click', closeSidebar);
+
+// Auto-close sidebar on any nav action (mobile)
+$sidebar.addEventListener('click', e => {
+  if (window.innerWidth > 640) return;
+  const btn = e.target.closest('.sidebar-footer-btn, #chapter-nav button');
+  if (btn) closeSidebar();
+});
+
+// ── Medical disclaimer dismiss + mobile collapse ────
+const $disclaimerClose    = document.getElementById('disclaimer-close');
+const $footerDisclaimer   = document.getElementById('footer-disclaimer');
+const $siteFooter         = document.getElementById('site-footer');
+const DISCLAIMER_KEY      = 'disclaimerDismissed';
+
+if (sessionStorage.getItem(DISCLAIMER_KEY)) {
+  $siteFooter.hidden = true;
+}
+
+// X button — dismiss permanently for the session
+$disclaimerClose.addEventListener('click', e => {
+  e.stopPropagation();
+  $siteFooter.style.transition = 'opacity 0.2s ease';
+  $siteFooter.style.opacity = '0';
+  setTimeout(() => { $siteFooter.hidden = true; }, 200);
+  sessionStorage.setItem(DISCLAIMER_KEY, '1');
+});
+
+// Mobile: tap the bar to expand/collapse full text
+$footerDisclaimer.addEventListener('click', e => {
+  if (window.innerWidth > 640) return;
+  if (e.target === $disclaimerClose) return;
+  const expanded = $footerDisclaimer.classList.toggle('expanded');
+  document.body.classList.toggle('disclaimer-expanded', expanded);
+});
+
 // ── Theme ──────────────────────────────────────────
 function initTheme() {
   const saved = localStorage.getItem('theme') || 'light';

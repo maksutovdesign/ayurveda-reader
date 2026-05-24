@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body class="light">
+  <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
+  <div id="sidebar-overlay"></div>
   <div id="app">
     <aside id="sidebar">
       <div id="sidebar-header">
@@ -14,10 +16,13 @@
           <span class="book-name">Аштанга-хридая</span>
           <span class="book-sub">самхита</span>
         </div>
-        <button id="theme-toggle" aria-label="Переключить тему">
-          <span class="icon-sun">☀</span>
-          <span class="icon-moon">☽</span>
-        </button>
+        <div id="sidebar-header-controls">
+          <button id="theme-toggle" aria-label="Переключить тему">
+            <span class="icon-sun">☀</span>
+            <span class="icon-moon">☽</span>
+          </button>
+          <button id="sidebar-close" aria-label="Закрыть меню">&#10005;</button>
+        </div>
       </div>
 
       <div id="search-wrap">
@@ -334,9 +339,11 @@
   <footer id="site-footer">
     <div id="footer-disclaimer">
       <span class="footer-icon">⚕</span>
+      <span class="disclaimer-summary">Медицинский дисклеймер</span>
       <p>
         <strong>Информация носит исключительно ознакомительный характер</strong> и не является медицинской консультацией, диагнозом или предписанием к лечению. Аюрведа — традиционная система оздоровления, не являющаяся официальной медициной в Российской Федерации. Перед применением любых методов, трав и препаратов, упомянутых на сайте, обязательно проконсультируйтесь с квалифицированным врачом. Самолечение может быть опасно для здоровья. При наличии заболеваний, беременности или приёме лекарственных средств особая осторожность обязательна.
       </p>
+      <button id="disclaimer-close" aria-label="Закрыть">&#10005;</button>
     </div>
   </footer>
 
