@@ -37,7 +37,8 @@ function getAllArticles() {
   const out = [];
   for (const sec of ENCYCLOPEDIA) {
     for (const art of sec.articles) {
-      if (art.content && art.content.length > 100) {
+      const text = art.content || art.body || '';
+      if (text.length > 100) {
         out.push({ article: art, section: sec });
       }
     }
@@ -86,11 +87,12 @@ function versePost({ verse, chapter }) {
 }
 
 function encPost({ article, section }) {
+  const text = article.content || article.body || '';
   return [
     `🔍 <b>${esc(article.title)}</b>`,
     `<i>${esc(section.title)}</i>`,
     ``,
-    esc(truncate(article.content)),
+    esc(truncate(text)),
     ``,
     `📚 Полная энциклопедия аюрведы: ${BOT_USERNAME}`,
   ].join('\n');
@@ -122,23 +124,24 @@ export default async function handler(req, res) {
   if (!BOT_TOKEN) return res.status(500).json({ error: 'Missing BOT_TOKEN' });
   if (!CHANNEL_ID) return res.status(500).json({ error: 'Missing CHANNEL_ID' });
 
-  // Номер дня с эпохи (UTC) — определяет какой пост публиковать
-  const dayNum = Math.floor(Date.now() / 86_400_000);
-  const type   = dayNum % 3; // 0=стих, 1=энциклопедия, 2=средство
+  // 8-часовой слот с эпохи — при 3 вызовах в день каждый получает уникальный контент
+  // Слот 0: 0–8 UTC, Слот 1: 8–16 UTC, Слот 2: 16–24 UTC (и т.д.)
+  const slotNum = Math.floor(Date.now() / (8 * 60 * 60 * 1000));
+  const type    = slotNum % 3; // 0=стих, 1=энциклопедия, 2=средство
 
   let text;
   let postType;
 
   if (type === 0) {
     const verses = getAllVerses();
-    text     = versePost(pick(verses, dayNum));
+    text     = versePost(pick(verses, slotNum));
     postType = 'verse';
   } else if (type === 1) {
     const articles = getAllArticles();
-    text     = encPost(pick(articles, dayNum));
+    text     = encPost(pick(articles, slotNum));
     postType = 'encyclopedia';
   } else {
-    text     = remedyPost(pick(REMEDIES, dayNum));
+    text     = remedyPost(pick(REMEDIES, slotNum));
     postType = 'remedy';
   }
 
@@ -164,6 +167,6 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: tgData.description });
   }
 
-  console.log(`✅ Пост отправлен [${postType}] день ${dayNum}`);
+  console.log(`✅ Пост отправлен [${postType}] слот ${slotNum}`);
   return res.status(200).json({ ok: true, type: postType, day: dayNum });
 }
