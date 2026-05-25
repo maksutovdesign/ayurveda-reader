@@ -147,8 +147,7 @@ async function send(ctx, text, keyboard) {
 
 async function showMain(ctx) {
   const text = [
-    '🙏 <b>Аштанга-хридая-самхита</b>',
-    `<i>${esc(BOOK_DATA.author)} · пер. ${esc(BOOK_DATA.translator)}</i>`,
+    '🙏 <b>«Аштанга-хридая-самхита»</b> — Интерактивный читатель аюрведы.',
     '',
     'Библиотека аюрведических знаний.\nВыберите раздел:',
   ].join('\n');
