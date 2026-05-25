@@ -4,6 +4,15 @@
   "functions": {
     "api/webhook.js": {
       "maxDuration": 30
+    },
+    "api/daily-post.js": {
+      "maxDuration": 60
     }
-  }
+  },
+  "crons": [
+    {
+      "path": "/api/daily-post",
+      "schedule": "0 16 * * *"
+    }
+  ]
 }
