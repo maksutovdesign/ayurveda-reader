@@ -8,6 +8,7 @@
 
 import { Telegraf, Markup } from 'telegraf';
 import http from 'http';
+import { fileURLToPath } from 'url';
 
 // ── Импорт данных из файлов веб-приложения ──────────────
 // Изменяй только эти JS-файлы — бот подхватит обновления автоматически
@@ -747,15 +748,22 @@ bot.catch((err, ctx) => {
   ctx.reply('Произошла ошибка. Попробуйте ещё раз или /start').catch(() => {});
 });
 
-// Health check HTTP-сервер (для Koyeb и других платформ)
-const PORT = process.env.PORT || 3000;
-http.createServer((_, res) => { res.writeHead(200); res.end('OK'); }).listen(PORT, () => {
-  console.log(`🌐 Health check сервер: порт ${PORT}`);
-});
+// Экспорт бота для webhook-режима (Vercel и др.)
+export { bot };
 
-console.log('🤖 Бот запускается...');
-await bot.launch();
-console.log('✅  Бот запущен. Ctrl+C для остановки.');
+// Запуск в режиме long-polling только при прямом запуске (node index.js)
+const __filename = fileURLToPath(import.meta.url);
+if (process.argv[1] === __filename) {
+  // Health check HTTP-сервер (для платформ типа Fly.io, Koyeb)
+  const PORT = process.env.PORT || 3000;
+  http.createServer((_, res) => { res.writeHead(200); res.end('OK'); }).listen(PORT, () => {
+    console.log(`🌐 Health check сервер: порт ${PORT}`);
+  });
 
-process.once('SIGINT',  () => { bot.stop('SIGINT');  console.log('Остановлен.'); });
-process.once('SIGTERM', () => { bot.stop('SIGTERM'); console.log('Остановлен.'); });
+  console.log('🤖 Бот запускается...');
+  await bot.launch();
+  console.log('✅  Бот запущен. Ctrl+C для остановки.');
+
+  process.once('SIGINT',  () => { bot.stop('SIGINT');  console.log('Остановлен.'); });
+  process.once('SIGTERM', () => { bot.stop('SIGTERM'); console.log('Остановлен.'); });
+}

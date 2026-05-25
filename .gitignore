@@ -8,3 +8,7 @@ bot/node_modules/
 bot/.env
 bot/package-lock.json
 *.backup*
+
+# Vercel / root deps
+node_modules/
+package-lock.json

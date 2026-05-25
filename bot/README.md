@@ -40,6 +40,28 @@ npm start
 npm run dev
 ```
 
+## Деплой на Vercel (бесплатно, без карты) ✅
+
+### Первый деплой
+
+1. Зайди на [vercel.com](https://vercel.com) → создай аккаунт через GitHub (без карты)
+2. **Add New Project** → выбери репозиторий `ayurveda-reader`
+3. Root Directory — оставь пустым (корень репозитория)
+4. **Environment Variables** → добавь `BOT_TOKEN` = токен от @BotFather
+5. Нажми **Deploy** и дождись завершения (~1 мин)
+6. Скопируй URL деплоя (например `https://ayurveda-reader.vercel.app`)
+7. Установи webhook — вставь в браузер (замени TOKEN и URL):
+   ```
+   https://api.telegram.org/botТВОЙ_ТОКЕН/setWebhook?url=https://ayurveda-reader.vercel.app/api/webhook
+   ```
+   Должно ответить: `{"ok":true,"result":true}`
+
+### Обновление бота
+
+Просто сделай `git push` — Vercel задеплоит автоматически.
+
+---
+
 ## Деплой на Koyeb (бесплатно, без карты)
 
 ### Первый деплой
