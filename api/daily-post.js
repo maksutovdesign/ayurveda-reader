@@ -109,9 +109,13 @@ function remedyPost(remedy) {
 // ── Основной обработчик ──────────────────────────────────────
 
 export default async function handler(req, res) {
-  // Проверка cron-секрета (Vercel автоматически передаёт его в заголовке)
-  const auth = req.headers['authorization'];
-  if (auth !== `Bearer ${CRON_SECRET}`) {
+  // Проверка секрета: Vercel cron передаёт CRON_SECRET автоматически,
+  // либо можно вызвать вручную с ?key=DAILY_POST_KEY
+  const auth     = req.headers['authorization'];
+  const queryKey = req.query?.key;
+  const cronOk   = CRON_SECRET && auth === `Bearer ${CRON_SECRET}`;
+  const manualOk = queryKey && queryKey === process.env.DAILY_POST_KEY;
+  if (!cronOk && !manualOk) {
     return res.status(401).json({ error: 'Unauthorized' });
   }
 
