@@ -168,5 +168,5 @@ export default async function handler(req, res) {
   }
 
   console.log(`✅ Пост отправлен [${postType}] слот ${slotNum}`);
-  return res.status(200).json({ ok: true, type: postType, day: dayNum });
+  return res.status(200).json({ ok: true, type: postType, slot: slotNum });
 }

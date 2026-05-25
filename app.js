@@ -1,4 +1,5 @@
 import { BOOK_DATA } from './data.js';
+import { BOOKS } from './books.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=3';
 import { REMEDIES } from './remedies.js?v=3';
@@ -7,8 +8,12 @@ import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 
 // ── State ──────────────────────────────────────────
-let currentChapterIdx = null;
-let searchQuery = '';
+let currentBookIdx     = 0;
+let currentChapterIdx  = null;
+let searchQuery        = '';
+
+/** Активная книга */
+function currentBook() { return BOOKS[currentBookIdx]; }
 let tooltipTimeout = null;
 let openEncArticleFn = null; // set by buildEncyclopediaView; used by glossary cards
 
@@ -177,10 +182,105 @@ function renderBlock(block) {
   return div;
 }
 
+// ── Book selector ──────────────────────────────────
+function buildBookSelector() {
+  const $btn      = document.getElementById('book-selector-btn');
+  const $icon     = document.getElementById('book-selector-icon');
+  const $title    = document.getElementById('book-selector-title');
+  const $arrow    = document.getElementById('book-selector-arrow');
+  const $dropdown = document.getElementById('book-selector-dropdown');
+
+  // Populate dropdown
+  $dropdown.innerHTML = '';
+  const frag = document.createDocumentFragment();
+  BOOKS.forEach((book, idx) => {
+    const item = document.createElement('div');
+    item.className = 'book-option' + (idx === currentBookIdx ? ' book-option--active' : '') + (!book.available ? ' book-option--locked' : '');
+    item.setAttribute('role', 'option');
+    item.setAttribute('aria-selected', idx === currentBookIdx ? 'true' : 'false');
+    item.innerHTML = `
+      <span class="book-opt-icon">${book.icon}</span>
+      <span class="book-opt-info">
+        <span class="book-opt-title">${escapeHtml(book.titleShort)}</span>
+        <span class="book-opt-sub">${escapeHtml(book.subtitle)}</span>
+        <span class="book-opt-stats">${book.stats.chapters} глав · ${book.stats.sthanas} разделов</span>
+      </span>
+      ${!book.available ? '<span class="book-opt-lock">скоро</span>' : ''}
+    `;
+    item.addEventListener('click', () => {
+      selectBook(idx);
+      closeBookDropdown();
+    });
+    frag.appendChild(item);
+  });
+  $dropdown.appendChild(frag);
+
+  function openBookDropdown() {
+    $dropdown.hidden = false;
+    $btn.setAttribute('aria-expanded', 'true');
+    $arrow.textContent = '▴';
+  }
+  function closeBookDropdown() {
+    $dropdown.hidden = true;
+    $btn.setAttribute('aria-expanded', 'false');
+    $arrow.textContent = '▾';
+  }
+
+  $btn.addEventListener('click', () => {
+    if ($dropdown.hidden) openBookDropdown(); else closeBookDropdown();
+  });
+
+  // Close on outside click
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#book-selector')) closeBookDropdown();
+  }, { capture: true });
+
+  // Sync display with current book
+  function syncBtn() {
+    const book = currentBook();
+    $icon.textContent  = book.icon;
+    $title.textContent = book.titleShort;
+  }
+  syncBtn();
+
+  // Re-sync when book changes (called from selectBook)
+  window._syncBookBtn = syncBtn;
+}
+
+function selectBook(idx) {
+  currentBookIdx    = idx;
+  currentChapterIdx = null;
+
+  // Rebuild nav
+  buildNav();
+
+  // Update selector display
+  if (window._syncBookBtn) window._syncBookBtn();
+
+  // Re-render dropdown options to reflect new selection
+  const items = document.querySelectorAll('.book-option');
+  items.forEach((el, i) => {
+    el.classList.toggle('book-option--active', i === idx);
+    el.setAttribute('aria-selected', i === idx ? 'true' : 'false');
+  });
+
+  // Show welcome or book info
+  showOnly($welcome);
+  setActiveBtn(-1);
+  setFooterActive(null);
+
+  // Update page title breadcrumb
+  const book = currentBook();
+  document.getElementById('book-title').innerHTML =
+    `<span class="book-name">${escapeHtml(book.titleShort || book.title.split('-')[0])}</span>
+     <span class="book-sub">${escapeHtml(book.id === 'ashtanga' ? 'самхита' : '')}</span>`;
+}
+
 // ── Navigation ─────────────────────────────────────
 function buildNav() {
-  const chapters = BOOK_DATA.chapters;
-  const sthanasOrder = BOOK_DATA.sthanas;
+  const book        = currentBook();
+  const chapters    = book.chapters;
+  const sthanasOrder = book.sthanas;
 
   // Group chapters by sthana, preserving order
   const groups = {};
@@ -240,7 +340,7 @@ function setActiveBtn(idx) {
 // ── Load chapter ───────────────────────────────────
 function loadChapter(idx) {
   currentChapterIdx = idx;
-  const ch = BOOK_DATA.chapters[idx];
+  const ch = currentBook().chapters[idx];
 
   showOnly($chapterView);
 
@@ -431,12 +531,19 @@ function buildGlossaryView() {
 }
 
 // ── Chapter lookup for disease cross-links ─────────
+// Disease cross-refs always point to Аштанга-хридая (book 0)
 function findChapterByRef(ref) {
   const m = ref.match(/^(.+),\s*Гл\.(\d+)$/);
   if (!m) return -1;
   const sthana = m[1].trim();
   const num = parseInt(m[2]);
-  return BOOK_DATA.chapters.findIndex(ch => ch.sthana === sthana && ch.number === num);
+  return BOOKS[0].chapters.findIndex(ch => ch.sthana === sthana && ch.number === num);
+}
+
+function loadAHChapter(idx) {
+  // Navigate to AH (book 0) and open chapter
+  if (currentBookIdx !== 0) selectBook(0);
+  loadChapter(idx);
 }
 
 // ── Diseases view ──────────────────────────────────
@@ -489,7 +596,7 @@ function buildDiseasesView() {
     const chip = e.target.closest('.disease-chip--link');
     if (!chip) return;
     const idx = parseInt(chip.dataset.chapterIdx);
-    if (!isNaN(idx)) loadChapter(idx);
+    if (!isNaN(idx)) loadAHChapter(idx);
   });
 }
 
@@ -1674,9 +1781,9 @@ function runSearch(query) {
   const q = query.toLowerCase();
   const results = [];
 
-  BOOK_DATA.chapters.forEach((ch, chIdx) => {
-    ch.content.forEach(block => {
-      if (block.text.toLowerCase().includes(q)) {
+  currentBook().chapters.forEach((ch, chIdx) => {
+    (ch.content || []).forEach(block => {
+      if (block.text && block.text.toLowerCase().includes(q)) {
         results.push({ chIdx, ch, block });
       }
     });
@@ -1744,13 +1851,14 @@ function escapeRegex(str) {
 // ── Init ───────────────────────────────────────────
 function init() {
   initTheme();
+  buildBookSelector();
   buildNav();
 
   // Restore from URL hash
   const hash = location.hash;
   if (hash.startsWith('#ch')) {
     const idx = parseInt(hash.slice(3));
-    if (!isNaN(idx) && idx >= 0 && idx < BOOK_DATA.chapters.length) {
+    if (!isNaN(idx) && idx >= 0 && idx < currentBook().chapters.length) {
       loadChapter(idx);
       return;
     }
