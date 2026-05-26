@@ -1,9 +1,9 @@
 import { BOOK_DATA } from './data.js';
 import { BOOKS } from './books.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=3';
-import { REMEDIES } from './remedies.js?v=3';
-import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=2';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=5';
+import { REMEDIES } from './remedies.js?v=5';
+import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=5';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 
