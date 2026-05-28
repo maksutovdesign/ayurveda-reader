@@ -133,9 +133,16 @@ export default async function handler(req, res) {
   if (!BOT_TOKEN) return res.status(500).json({ error: 'Missing BOT_TOKEN env var' });
 
   // ── Выбор контента ──
-  // 8-часовой слот с эпохи: тип поста меняется каждый слот
-  const slotNum  = Math.floor(Date.now() / (8 * 60 * 60 * 1000));
-  const type     = slotNum % 3; // 0=стих, 1=энциклопедия, 2=средство
+  // Каждый день 3 крона: 09:00, 14:00, 18:00 UTC → cronIdx 0, 1, 2.
+  // postNum = dayNum * 3 + cronIdx — монотонно растёт, тип меняется каждый пост.
+  // (8-часовой слот нельзя использовать: за сутки слот растёт ровно на 3,
+  //  поэтому slotNum % 3 возвращало одно и то же значение каждый день.)
+  const nowMs    = Date.now();
+  const dayNum   = Math.floor(nowMs / (24 * 60 * 60 * 1000));
+  const utcHour  = new Date(nowMs).getUTCHours();
+  const cronIdx  = utcHour < 12 ? 0 : utcHour < 16 ? 1 : 2; // 09→0, 14→1, 18→2
+  const postNum  = dayNum * 3 + cronIdx;
+  const type     = postNum % 3; // 0=стих, 1=энциклопедия, 2=средство
 
   let text;
   let postType;
@@ -143,18 +150,18 @@ export default async function handler(req, res) {
   try {
     if (type === 0) {
       const verses = getAllVerses();
-      const item   = pick(verses, slotNum);
+      const item   = pick(verses, postNum);
       if (!item) throw new Error('No verses found');
       text     = versePost(item);
       postType = 'verse';
     } else if (type === 1) {
       const articles = getAllArticles();
-      const item     = pick(articles, slotNum);
+      const item     = pick(articles, postNum);
       if (!item) throw new Error('No articles found');
       text     = encPost(item);
       postType = 'encyclopedia';
     } else {
-      const item = pick(REMEDIES, slotNum);
+      const item = pick(REMEDIES, postNum);
       if (!item) throw new Error('No remedies found');
       text     = remedyPost(item);
       postType = 'remedy';
@@ -189,6 +196,6 @@ export default async function handler(req, res) {
     });
   }
 
-  console.log(`✅ Пост отправлен [${postType}] слот ${slotNum}`);
-  return res.status(200).json({ ok: true, type: postType, slot: slotNum });
+  console.log(`✅ Пост отправлен [${postType}] day=${dayNum} cron=${cronIdx} post=${postNum}`);
+  return res.status(200).json({ ok: true, type: postType, postNum, day: dayNum, cron: cronIdx });
 }

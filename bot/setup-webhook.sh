@@ -44,7 +44,22 @@ print('  Ожидающих обновлений:', d.get('pending_update_count'
 
 echo ""
 echo "📡  Устанавливаю webhook: ${WEBHOOK_URL}"
-RESULT=$(curl -s "https://api.telegram.org/bot${BOT_TOKEN}/setWebhook?url=${WEBHOOK_URL}&drop_pending_updates=true")
+
+# Передаём secret_token если задана переменная WEBHOOK_SECRET.
+# Telegram будет присылать X-Telegram-Bot-Api-Secret-Token в каждый POST,
+# что позволяет webhook.js отклонять поддельные запросы.
+if [ -n "$WEBHOOK_SECRET" ]; then
+  echo "🔐  Используется WEBHOOK_SECRET (верификация источника включена)"
+  RESULT=$(curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/setWebhook" \
+    --data-urlencode "url=${WEBHOOK_URL}" \
+    -d "drop_pending_updates=true" \
+    --data-urlencode "secret_token=${WEBHOOK_SECRET}")
+else
+  echo "⚠️   WEBHOOK_SECRET не задан — верификация источника ОТКЛЮЧЕНА"
+  echo "    Задай WEBHOOK_SECRET в Vercel и в bot/.env, затем перезапусти скрипт"
+  RESULT=$(curl -s "https://api.telegram.org/bot${BOT_TOKEN}/setWebhook?url=${WEBHOOK_URL}&drop_pending_updates=true")
+fi
+
 OK=$(echo "$RESULT" | python3 -c "import sys,json; print(json.load(sys.stdin).get('ok',''))" 2>/dev/null)
 
 if [ "$OK" = "True" ]; then
@@ -53,7 +68,4 @@ if [ "$OK" = "True" ]; then
   echo "🧪  Проверь бота: напиши /start в Telegram"
 else
   echo "❌  Ошибка: $RESULT"
-  echo ""
-  echo "    Попробуй открыть в браузере:"
-  echo "    https://api.telegram.org/bot${BOT_TOKEN}/setWebhook?url=${WEBHOOK_URL}"
 fi
