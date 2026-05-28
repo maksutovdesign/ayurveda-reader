@@ -1,9 +1,9 @@
-import { BOOK_DATA } from './data.js?v=6';
+import { BOOK_DATA } from './data.js?v=7';
 import { BOOKS } from './books.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=6';
-import { REMEDIES } from './remedies.js?v=6';
-import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=6';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
+import { REMEDIES } from './remedies.js?v=7';
+import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 
@@ -173,7 +173,7 @@ function renderBlock(block) {
   } else if (block.type === 'heading') {
     const lvl = block.level || 1;
     div.classList.add('block-heading', `block-heading--l${lvl}`);
-    div.innerHTML = `<span class="heading-text">${escapeHtml(block.text)}</span>`;
+    div.innerHTML = `<span class="heading-text">${escapeHtml(block.heading || block.text || '')}</span>`;
   } else {
     div.classList.add('block-text');
     div.innerHTML = renderText(block.text);
@@ -2021,7 +2021,7 @@ function highlightSnippet(text, query, maxLen) {
 }
 
 function escapeHtml(str) {
-  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return String(str ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
 function escapeRegex(str) {
