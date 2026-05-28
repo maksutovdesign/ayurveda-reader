@@ -1,13 +1,18 @@
 /**
  * Ежедневный пост в Telegram-канал @AyurvedaReader
- * Вызывается автоматически Vercel Cron (каждый день в 16:00 UTC = 19:00 МСК)
  *
- * Чередует 3 типа постов:
- *   день % 3 === 0 → стих из Аштанга-хридая-самхиты
- *   день % 3 === 1 → статья из Энциклопедии
- *   день % 3 === 2 → домашнее средство
+ * Vercel Cron вызывает эндпоинт 3 раза в сутки:
+ *   09:00 UTC (12:00 МСК) — стих / энциклопедия / средство
+ *   14:00 UTC (17:00 МСК) — чередование
+ *   18:00 UTC (21:00 МСК) — чередование
  *
- * Контент не повторяется: позиция определяется номером дня.
+ * Контент чередуется по типу: стих → энциклопедия → средство.
+ * Позиция внутри типа определяется 8-часовым слотом эпохи,
+ * поэтому повторов нет.
+ *
+ * Авторизация:
+ *   – Vercel Cron автоматически добавляет заголовок x-vercel-cron: 1
+ *   – Ручной вызов: ?key=DAILY_POST_KEY   (для тестов)
  */
 
 import { BOOK_DATA }  from '../data.js';
@@ -16,7 +21,6 @@ import { REMEDIES }   from '../remedies.js';
 
 const BOT_TOKEN    = process.env.BOT_TOKEN;
 const CHANNEL_ID   = process.env.CHANNEL_ID || '@AyurvedaReader';
-const CRON_SECRET  = process.env.CRON_SECRET;
 const BOT_USERNAME = '@AyurvedaReaderBot';
 
 // ── Сбор данных ─────────────────────────────────────────────
@@ -24,6 +28,7 @@ const BOT_USERNAME = '@AyurvedaReaderBot';
 function getAllVerses() {
   const out = [];
   for (const ch of BOOK_DATA.chapters) {
+    if (!ch.content || !Array.isArray(ch.content)) continue;
     for (const block of ch.content) {
       if (block.type === 'verse' && block.text && block.text.trim().length > 60) {
         out.push({ verse: block, chapter: ch });
@@ -37,7 +42,7 @@ function getAllArticles() {
   const out = [];
   for (const sec of ENCYCLOPEDIA) {
     for (const art of sec.articles) {
-      const text = art.content || art.body || '';
+      const text = String(art.content || art.body || '');
       if (text.length > 100) {
         out.push({ article: art, section: sec });
       }
@@ -55,17 +60,17 @@ function esc(s) {
     .replace(/>/g, '&gt;');
 }
 
-/** Обрезает текст по границе слова */
 function truncate(text, max = 600) {
-  const clean = text.replace(/\n{3,}/g, '\n\n').trim();
+  const clean = String(text).replace(/\n{3,}/g, '\n\n').trim();
   if (clean.length <= max) return clean;
   const cut = clean.slice(0, max);
   const lastBreak = Math.max(cut.lastIndexOf('\n'), cut.lastIndexOf(' '));
   return (lastBreak > max * 0.75 ? cut.slice(0, lastBreak) : cut) + '…';
 }
 
-function pick(arr, dayNum) {
-  return arr[Math.floor(dayNum / 3) % arr.length];
+function pick(arr, slotNum) {
+  if (!arr || !arr.length) return null;
+  return arr[Math.floor(slotNum / 3) % arr.length];
 }
 
 // ── Форматирование постов ────────────────────────────────────
@@ -87,7 +92,7 @@ function versePost({ verse, chapter }) {
 }
 
 function encPost({ article, section }) {
-  const text = article.content || article.body || '';
+  const text = String(article.content || article.body || '');
   return [
     `🔍 <b>${esc(article.title)}</b>`,
     `<i>${esc(section.title)}</i>`,
@@ -111,50 +116,64 @@ function remedyPost(remedy) {
 // ── Основной обработчик ──────────────────────────────────────
 
 export default async function handler(req, res) {
-  // Проверка секрета: Vercel cron передаёт CRON_SECRET автоматически,
-  // либо можно вызвать вручную с ?key=DAILY_POST_KEY
-  const auth     = req.headers['authorization'];
-  const queryKey = req.query?.key;
-  const cronOk   = CRON_SECRET && auth === `Bearer ${CRON_SECRET}`;
-  const manualOk = queryKey && queryKey === process.env.DAILY_POST_KEY;
-  if (!cronOk && !manualOk) {
-    return res.status(401).json({ error: 'Unauthorized' });
+  // ── Авторизация ──
+  // 1. Vercel Cron отправляет x-vercel-cron: 1 автоматически
+  // 2. Ручной вызов: ?key=DAILY_POST_KEY
+  const isVercelCron = req.headers['x-vercel-cron'] === '1';
+  const queryKey     = req.query?.key;
+  const manualOk     = queryKey && queryKey === process.env.DAILY_POST_KEY;
+
+  if (!isVercelCron && !manualOk) {
+    return res.status(401).json({
+      error: 'Unauthorized',
+      hint:  'Set DAILY_POST_KEY env var and call with ?key=YOUR_KEY for manual testing',
+    });
   }
 
-  if (!BOT_TOKEN) return res.status(500).json({ error: 'Missing BOT_TOKEN' });
-  if (!CHANNEL_ID) return res.status(500).json({ error: 'Missing CHANNEL_ID' });
+  if (!BOT_TOKEN) return res.status(500).json({ error: 'Missing BOT_TOKEN env var' });
 
-  // 8-часовой слот с эпохи — при 3 вызовах в день каждый получает уникальный контент
-  // Слот 0: 0–8 UTC, Слот 1: 8–16 UTC, Слот 2: 16–24 UTC (и т.д.)
-  const slotNum = Math.floor(Date.now() / (8 * 60 * 60 * 1000));
-  const type    = slotNum % 3; // 0=стих, 1=энциклопедия, 2=средство
+  // ── Выбор контента ──
+  // 8-часовой слот с эпохи: тип поста меняется каждый слот
+  const slotNum  = Math.floor(Date.now() / (8 * 60 * 60 * 1000));
+  const type     = slotNum % 3; // 0=стих, 1=энциклопедия, 2=средство
 
   let text;
   let postType;
 
-  if (type === 0) {
-    const verses = getAllVerses();
-    text     = versePost(pick(verses, slotNum));
-    postType = 'verse';
-  } else if (type === 1) {
-    const articles = getAllArticles();
-    text     = encPost(pick(articles, slotNum));
-    postType = 'encyclopedia';
-  } else {
-    text     = remedyPost(pick(REMEDIES, slotNum));
-    postType = 'remedy';
+  try {
+    if (type === 0) {
+      const verses = getAllVerses();
+      const item   = pick(verses, slotNum);
+      if (!item) throw new Error('No verses found');
+      text     = versePost(item);
+      postType = 'verse';
+    } else if (type === 1) {
+      const articles = getAllArticles();
+      const item     = pick(articles, slotNum);
+      if (!item) throw new Error('No articles found');
+      text     = encPost(item);
+      postType = 'encyclopedia';
+    } else {
+      const item = pick(REMEDIES, slotNum);
+      if (!item) throw new Error('No remedies found');
+      text     = remedyPost(item);
+      postType = 'remedy';
+    }
+  } catch (err) {
+    console.error('Content error:', err);
+    return res.status(500).json({ error: err.message });
   }
 
-  // Отправка в канал
+  // ── Отправка в канал ──
   const tgRes = await fetch(
     `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`,
     {
-      method: 'POST',
+      method:  'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        chat_id: CHANNEL_ID,
+      body:    JSON.stringify({
+        chat_id:              CHANNEL_ID,
         text,
-        parse_mode: 'HTML',
+        parse_mode:           'HTML',
         link_preview_options: { is_disabled: true },
       }),
     }
@@ -164,7 +183,10 @@ export default async function handler(req, res) {
 
   if (!tgData.ok) {
     console.error('Telegram API error:', tgData);
-    return res.status(500).json({ error: tgData.description });
+    return res.status(500).json({
+      error:   tgData.description,
+      channel: CHANNEL_ID,
+    });
   }
 
   console.log(`✅ Пост отправлен [${postType}] слот ${slotNum}`);

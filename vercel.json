@@ -10,9 +10,8 @@
     }
   },
   "crons": [
-    {
-      "path": "/api/daily-post",
-      "schedule": "0 16 * * *"
-    }
+    { "path": "/api/daily-post", "schedule": "0 9 * * *"  },
+    { "path": "/api/daily-post", "schedule": "0 14 * * *" },
+    { "path": "/api/daily-post", "schedule": "0 18 * * *" }
   ]
 }
