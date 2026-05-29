@@ -1,20 +1,44 @@
 /**
  * books.js — Реестр всех самхит
  *
- * BOOKS[0] = Аштанга-хридая-самхита (активная книга, данные из data.js)
- * BOOKS[1] = Чарака-самхита          (заглушки, available: false)
- * BOOKS[2] = Сушрута-самхита          (заглушки, available: false)
- * BOOKS[3] = Мадхава-нидана           (заглушки, available: false)
- * BOOKS[4] = Шарангадхара-самхита     (заглушки, available: false)
- * BOOKS[5] = Бхавапракаша             (заглушки, available: false)
- * BOOKS[6] = Астанга-санграха         (заглушки, available: false)
+ * BOOKS[0] = Аштанга-хридая-самхита (данные из data.js)
+ * BOOKS[1] = Чарака-самхита          (данные из charaka-data.js)
+ * BOOKS[2] = Сушрута-самхита          (данные из sushruta-data.js)
+ * BOOKS[3] = Мадхава-нидана           (данные из madhava-data.js)
+ * BOOKS[4] = Шарангадхара-самхита     (данные из sharangadhara-data.js)
+ * BOOKS[5] = Бхавапракаша             (данные из bhavaprakasha-data.js)
+ * BOOKS[6] = Астанга-санграха         (данные из astanga-data.js)
  */
 
-import { BOOK_DATA } from './data.js';
+import { BOOK_DATA }            from './data.js';
+import { CHARAKA_DATA }         from './charaka-data.js';
+import { SUSHRUTA_DATA }        from './sushruta-data.js';
+import { MADHAVA_DATA }         from './madhava-data.js';
+import { SHARANGADHARA_DATA }   from './sharangadhara-data.js';
+import { BHAVAPRAKASHA_DATA }   from './bhavaprakasha-data.js';
+import { ASTANGA_DATA }         from './astanga-data.js';
 
 /** Создаёт главу-заглушку */
 function ch(sthana, num, title, subtitle = '') {
   return { number: num, title, subtitle, sthana, available: false, content: [] };
+}
+
+/**
+ * Объединяет заглушки с реальным контентом из data-файла.
+ * Ключ совпадения: sthana + number.
+ * Если для главы есть контент (≥3 блоков) — удаляет available:false и добавляет lang.
+ */
+function mergeContent(stubs, dataArr) {
+  if (!dataArr || !dataArr.length) return stubs;
+  const map = new Map(dataArr.map(d => [`${d.sthana}:${d.number}`, d]));
+  return stubs.map(stub => {
+    const d = map.get(`${stub.sthana}:${stub.number}`);
+    if (d && d.content && d.content.length >= 3) {
+      const { available: _a, ...rest } = stub;
+      return { ...rest, content: d.content, ...(d.lang ? { lang: d.lang } : {}) };
+    }
+    return stub;
+  });
 }
 
 // ─── Аштанга-хридая-самхита ───────────────────────────────────────────────
@@ -182,11 +206,11 @@ const CHARAKA = {
   titleShort: 'Чарака',
   subtitle: 'Чарака · Дридхабала · I–IV вв. н.э.',
   icon: '📜',
-  available: false,
+  available: true,
   description: 'Фундаментальный трактат по внутренней медицине (Каятантра). Самый объёмный из классических текстов Аюрведы.',
   stats: { chapters: 120, sthanas: 8, verses: '9000+' },
   sthanas: CHARAKA_STHANAS,
-  chapters: CHARAKA_CHAPTERS,
+  chapters: mergeContent(CHARAKA_CHAPTERS, CHARAKA_DATA),
 };
 
 // ─── Сушрута-самхита ──────────────────────────────────────────────────────
@@ -401,11 +425,11 @@ const SUSHRUTA = {
   titleShort: 'Сушрута',
   subtitle: 'Сушрута · ред. Нагарджуна · III–VII вв. н.э.',
   icon: '⚕',
-  available: false,
+  available: true,
   description: 'Главный классический текст аюрведической хирургии (Шалья-тантра). Содержит подробное описание хирургических техник, инструментов и анатомии.',
   stats: { chapters: 186, sthanas: 6, verses: '10000+' },
   sthanas: SUSHRUTA_STHANAS,
-  chapters: SUSHRUTA_CHAPTERS,
+  chapters: mergeContent(SUSHRUTA_CHAPTERS, SUSHRUTA_DATA),
 };
 
 // ─── Мадхава-нидана ───────────────────────────────────────────────────────
@@ -489,12 +513,13 @@ const MADHAVA = {
   titleShort: 'Мадхава',
   subtitle: 'Мадхавакара · VIII в. н.э.',
   icon: '🔍',
-  available: false,
+  available: true,
   description: 'Главный трактат по аюрведической диагностике. Систематизирует этиологию, симптоматику и прогноз всех известных болезней.',
   stats: { chapters: 69, sthanas: 1, verses: '4000+' },
   sthanas: MADHAVA_STHANAS,
-  chapters: MADHAVA_TITLES.map(([title, subtitle], i) =>
-    ch('Нидана', i + 1, title, subtitle)
+  chapters: mergeContent(
+    MADHAVA_TITLES.map(([title, subtitle], i) => ch('Нидана', i + 1, title, subtitle)),
+    MADHAVA_DATA
   ),
 };
 
@@ -547,11 +572,11 @@ const SHARANGADHARA = {
   titleShort: 'Шарангадхара',
   subtitle: 'Шарангадхара · XIII в. н.э.',
   icon: '⚗',
-  available: false,
+  available: true,
   description: 'Важнейший трактат по аюрведической фармакологии. Систематизирует методы приготовления и классификацию лекарственных форм.',
   stats: { chapters: 32, sthanas: 3, verses: '2600+' },
   sthanas: SHARANGADHARA_STHANAS,
-  chapters: SHARANGADHARA_CHAPTERS,
+  chapters: mergeContent(SHARANGADHARA_CHAPTERS, SHARANGADHARA_DATA),
 };
 
 // ─── Бхавапракаша ─────────────────────────────────────────────────────────
@@ -625,11 +650,11 @@ const BHAVAPRAKASHA = {
   titleShort: 'Бхавапракаша',
   subtitle: 'Бхавамишра · XVI в. н.э.',
   icon: '🌿',
-  available: false,
+  available: true,
   description: 'Классический текст по дравьягуне (ботанической фармакологии) и клинической аюрведе. Содержит самый подробный нигханту (ботанический словарь) аюрведы.',
   stats: { chapters: 54, sthanas: 3, verses: '10000+' },
   sthanas: BHAVAPRAKASHA_STHANAS,
-  chapters: BHAVAPRAKASHA_CHAPTERS,
+  chapters: mergeContent(BHAVAPRAKASHA_CHAPTERS, BHAVAPRAKASHA_DATA),
 };
 
 // ─── Астанга-санграха ─────────────────────────────────────────────────────
@@ -638,25 +663,26 @@ const ASTANGA_SANGRAHA_STHANAS = [
   'Чикитса стхана', 'Калпасиддхистхана', 'Уттара стхана',
 ];
 
+const ASTANGA_SANGRAHA_CHAPTERS = [
+  ...Array.from({ length: 40 }, (_, i) => ch('Сутрастхана', i + 1, `Глава ${i + 1}`, 'сутрастхана')),
+  ...Array.from({ length: 12 }, (_, i) => ch('Шарирастхана', i + 1, `Глава ${i + 1}`, 'шарирастхана')),
+  ...Array.from({ length: 16 }, (_, i) => ch('Нидана стхана', i + 1, `Глава ${i + 1}`, 'нидана стхана')),
+  ...Array.from({ length: 24 }, (_, i) => ch('Чикитса стхана', i + 1, `Глава ${i + 1}`, 'чикитса стхана')),
+  ...Array.from({ length: 12 }, (_, i) => ch('Калпасиддхистхана', i + 1, `Глава ${i + 1}`, 'калпа')),
+  ...Array.from({ length: 58 }, (_, i) => ch('Уттара стхана', i + 1, `Глава ${i + 1}`, 'уттара стхана')),
+];
+
 const ASTANGA_SANGRAHA = {
   id: 'astanga_sangraha',
   title: 'Астанга-санграха',
   titleShort: 'Астанга-санграха',
   subtitle: 'Вагбхата-старший · VI в. н.э.',
   icon: '📗',
-  available: false,
+  available: true,
   description: 'Старший текст Вагбхаты — прообраз Аштанга-хридаи. Более обширный и детализированный, содержит материал, не вошедший в сокращённую хридаю.',
   stats: { chapters: 162, sthanas: 6, verses: '8000+' },
   sthanas: ASTANGA_SANGRAHA_STHANAS,
-  chapters: [
-    // Заглушки по 27 глав на раздел
-    ...Array.from({ length: 40 }, (_, i) => ch('Сутрастхана', i + 1, `Глава ${i + 1}`, 'сутрастхана')),
-    ...Array.from({ length: 12 }, (_, i) => ch('Шарирастхана', i + 1, `Глава ${i + 1}`, 'шарирастхана')),
-    ...Array.from({ length: 16 }, (_, i) => ch('Нидана стхана', i + 1, `Глава ${i + 1}`, 'нидана стхана')),
-    ...Array.from({ length: 24 }, (_, i) => ch('Чикитса стхана', i + 1, `Глава ${i + 1}`, 'чикитса стхана')),
-    ...Array.from({ length: 12 }, (_, i) => ch('Калпасиддхистхана', i + 1, `Глава ${i + 1}`, 'калпа')),
-    ...Array.from({ length: 58 }, (_, i) => ch('Уттара стхана', i + 1, `Глава ${i + 1}`, 'уттара стхана')),
-  ],
+  chapters: mergeContent(ASTANGA_SANGRAHA_CHAPTERS, ASTANGA_DATA),
 };
 
 // ─── Реестр всех книг ─────────────────────────────────────────────────────
