@@ -26,6 +26,17 @@
   <meta name="twitter:card"        content="summary" />
   <meta name="twitter:title"       content="Классические самхиты Аюрведы" />
   <meta name="twitter:description" content="7 самхит · 623+ главы · аюрведические тексты онлайн." />
+  <meta property="og:image" content="https://ayurveda-reader.vercel.app/og-image.svg" />
+  <meta name="twitter:image" content="https://ayurveda-reader.vercel.app/og-image.svg" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#7a5c2e" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -121,7 +132,12 @@
 
       <article id="chapter-view" hidden>
         <header id="chapter-header">
-          <div id="chapter-breadcrumb"></div>
+          <div id="chapter-header-top">
+            <div id="chapter-breadcrumb"></div>
+            <div id="chapter-controls">
+              <button class="font-size-btn" title="Размер текста">А</button>
+            </div>
+          </div>
           <h2 id="chapter-title"></h2>
           <p id="chapter-subtitle"></p>
         </header>
@@ -423,6 +439,6 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=20"></script>
+  <script type="module" src="app.js?v=21"></script>
 </body>
 </html>

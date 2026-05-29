@@ -1,0 +1,24 @@
+{
+  "name": "Классические самхиты Аюрведы",
+  "short_name": "Аюрведа",
+  "description": "7 классических самхит: Аштанга-хридая, Чарака, Сушрута и другие. 623+ главы на русском.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#7a5c2e",
+  "lang": "ru",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["books", "education", "health"],
+  "shortcuts": [
+    {
+      "name": "Аштанга-хридая",
+      "short_name": "АХ",
+      "description": "Открыть Аштанга-хридая-самхиту",
+      "url": "/#ch0"
+    }
+  ]
+}

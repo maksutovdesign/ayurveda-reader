@@ -433,7 +433,45 @@ function loadChapter(idx) {
   }
 
   ch.content.forEach(block => frag.appendChild(renderBlock(block)));
-  $chapterBody.appendChild(frag);
+  // ── Навигация глав (←/→) ──────────────────────────
+  const navFrag = document.createDocumentFragment();
+  const navBar = document.createElement('div');
+  navBar.className = 'chapter-nav-bar';
+
+  const book = currentBook();
+  // Предыдущая доступная глава
+  let prevIdx = null;
+  for (let i = idx - 1; i >= 0; i--) {
+    if (book.chapters[i].available !== false) { prevIdx = i; break; }
+  }
+  // Следующая доступная глава
+  let nextIdx = null;
+  for (let i = idx + 1; i < book.chapters.length; i++) {
+    if (book.chapters[i].available !== false) { nextIdx = i; break; }
+  }
+
+  if (prevIdx !== null) {
+    const btn = document.createElement('button');
+    btn.className = 'ch-nav-btn ch-nav-btn--prev';
+    const prev = book.chapters[prevIdx];
+    btn.innerHTML = `← ${prev.number > 0 ? prev.number + '. ' : ''}${escapeHtml(prev.title)}`;
+    btn.addEventListener('click', () => loadChapter(prevIdx));
+    navBar.appendChild(btn);
+  } else {
+    navBar.appendChild(document.createElement('span')); // placeholder
+  }
+
+  if (nextIdx !== null) {
+    const btn = document.createElement('button');
+    btn.className = 'ch-nav-btn ch-nav-btn--next';
+    const next = book.chapters[nextIdx];
+    btn.innerHTML = `${next.number > 0 ? next.number + '. ' : ''}${escapeHtml(next.title)} →`;
+    btn.addEventListener('click', () => loadChapter(nextIdx));
+    navBar.appendChild(btn);
+  }
+
+  navFrag.appendChild(navBar);
+  $chapterBody.appendChild(navFrag);
 
   setActiveBtn(idx);
   setFooterActive(null);
@@ -2117,6 +2155,32 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+// ── Font size control ───────────────────────────────
+const FONT_SIZES = ['small', 'normal', 'large', 'xlarge'];
+const FONT_LABELS = { small: 'А−', normal: 'А', large: 'А+', xlarge: 'А++' };
+
+function initFontSize() {
+  const saved = localStorage.getItem('ayurveda_font') || 'normal';
+  setFontSize(saved, false);
+  document.querySelectorAll('.font-size-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const cur = document.body.dataset.fontSize || 'normal';
+      const next = FONT_SIZES[(FONT_SIZES.indexOf(cur) + 1) % FONT_SIZES.length];
+      setFontSize(next, true);
+    });
+  });
+}
+
+function setFontSize(size, save) {
+  document.body.dataset.fontSize = size;
+  document.querySelectorAll('.font-size-btn').forEach(btn => {
+    btn.textContent = FONT_LABELS[size] || 'А';
+  });
+  if (save) {
+    try { localStorage.setItem('ayurveda_font', size); } catch (_) {}
+  }
+}
+
 // ── Reading position persistence ───────────────────
 const LS_KEY = 'ayurveda_pos';
 
@@ -2144,6 +2208,7 @@ function loadSavedPosition() {
 // ── Init ───────────────────────────────────────────
 function init() {
   initTheme();
+  initFontSize();
   buildBookSelector();
   buildNav();
 
@@ -2208,3 +2273,10 @@ function init() {
 }
 
 init();
+
+// ── Service Worker (PWA) ────────────────────────────
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
+  });
+}

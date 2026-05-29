@@ -500,13 +500,74 @@ body.dark  .icon-sun  { display: none; }
   border-bottom: 1px solid var(--border);
 }
 
+#chapter-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
 #chapter-breadcrumb {
   font-size: 11px;
   color: var(--text-muted);
   letter-spacing: .06em;
   text-transform: uppercase;
-  margin-bottom: 10px;
 }
+
+#chapter-controls {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+/* Font size button */
+.font-size-btn {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 3px 10px;
+  background: var(--bg-hover);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+  min-width: 36px;
+}
+.font-size-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Font sizes applied to body */
+body[data-font-size="small"]  { font-size: 14px; }
+body[data-font-size="normal"] { font-size: 16px; }
+body[data-font-size="large"]  { font-size: 18px; }
+body[data-font-size="xlarge"] { font-size: 21px; }
+
+/* Chapter prev/next navigation bar */
+.chapter-nav-bar {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+}
+.ch-nav-btn {
+  flex: 1;
+  padding: 10px 14px;
+  background: var(--bg-hover);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all var(--transition);
+  text-align: left;
+  max-width: 45%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ch-nav-btn--next { text-align: right; margin-left: auto; }
+.ch-nav-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--bg-active); }
 
 #chapter-title {
   font-family: var(--font-serif);

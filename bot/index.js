@@ -168,9 +168,10 @@ async function showMain(ctx) {
      Markup.button.callback('💊 Средства',            'rem_s')],
     [Markup.button.callback('📖 Глоссарий',           'gl_s'),
      Markup.button.callback('🍽 Продукты',            'ft_s')],
-    [Markup.button.callback('🧪 Тест конституции',    'qz_s'),
-     Markup.button.callback('🙏 Поддержать проект',   'donate_s')],
-    [Markup.button.url('🌐 Открыть полную версию',    WEB_URL)],
+    [Markup.button.callback('🎲 Случайный стих',       'verse_random'),
+     Markup.button.callback('🧪 Тест конституции',    'qz_s')],
+    [Markup.button.callback('🙏 Поддержать проект',   'donate_s'),
+     Markup.button.url('🌐 Полная версия',             WEB_URL)],
   ]);
 }
 
@@ -691,6 +692,23 @@ async function doSearch(ctx, query) {
     }
   }
 
+  // Поиск по IAST/Sanskrit в главах АХ
+  const sthanaSeen = new Set();
+  for (const ch of BOOK_DATA.chapters) {
+    if (ch.lang === 'en') continue;
+    for (const b of (ch.content || [])) {
+      if (b.type === 'verse' && b.iast && b.iast.toLowerCase().includes(q)) {
+        const key = `${ch.sthana}:${ch.number}`;
+        if (!sthanaSeen.has(key)) {
+          sthanaSeen.add(key);
+          const chIdx = BOOK_DATA.chapters.indexOf(ch);
+          const label = `🕉 ${ch.sthana} · гл. ${ch.number} (Sanskrit)`;
+          results.push({ label, cb: `bk_r:${chIdx}:0` });
+        }
+      }
+    }
+  }
+
   if (!results.length) {
     await ctx.reply(`🔍 По запросу «${esc(query)}» ничего не найдено.`, { parse_mode: 'HTML' });
     return;
@@ -716,11 +734,57 @@ async function doSearch(ctx, query) {
 // КОМАНДЫ
 // ═══════════════════════════════════════════════════════════
 
+// ── Случайный стих из АХ (только русские главы) ────────────
+function getRandomVerse() {
+  const russianChapters = BOOK_DATA.chapters.filter(
+    ch => ch.lang !== 'en' && ch.available !== false
+  );
+  if (!russianChapters.length) return null;
+  const ch = russianChapters[Math.floor(Math.random() * russianChapters.length)];
+  const verses = (ch.content || []).filter(
+    b => b.type === 'verse' && b.text && b.text.trim().length > 60
+  );
+  if (!verses.length) return null;
+  const verse = verses[Math.floor(Math.random() * verses.length)];
+  return { verse, chapter: ch };
+}
+
+async function showRandomVerse(ctx) {
+  const item = getRandomVerse();
+  if (!item) {
+    return ctx.reply('Стих не найден — попробуйте ещё раз.', { parse_mode: 'HTML' });
+  }
+  const { verse, chapter } = item;
+  const loc = chapter.subtitle
+    ? `${esc(chapter.sthana)}, гл. ${chapter.number}: ${esc(chapter.subtitle)}`
+    : `${esc(chapter.sthana)}, гл. ${chapter.number}`;
+
+  // Sanskrit (IAST) if available
+  const iastLine = verse.iast
+    ? `\n<i>${esc(verse.iast.replace(/ \|\|$/, '').replace(/ \|$/, '').trim())}</i>`
+    : '';
+
+  const text = [
+    `📖 <b>Случайный стих</b>`,
+    `<i>${loc}</i>`,
+    iastLine,
+    ``,
+    esc(verse.text.trim()),
+  ].filter(l => l !== null).join('\n');
+
+  await send(ctx, text, [[
+    Markup.button.callback('🔀 Ещё стих', 'verse_random'),
+    Markup.button.callback('⌂ Меню',      'main'),
+  ]]);
+}
+
 bot.start(ctx => showMain(ctx));
 bot.command('menu',   ctx => showMain(ctx));
+bot.command('verse',  ctx => showRandomVerse(ctx));
 bot.command('help', ctx => ctx.reply([
   '<b>Команды:</b>',
   '/start — главное меню',
+  '/verse — случайный стих из Аштанга-хридаи',
   '/search <i>запрос</i> — поиск по всей базе',
   '',
   '📚 <b>7 классических самхит:</b>',
@@ -751,6 +815,7 @@ bot.on('callback_query', async ctx => {
   if (d === 'enc_s')  return showEncSections(ctx);
   if (d === 'bk_s')   return showBookList(ctx);
   if (d === 'bk_back') return showBookSthanas(ctx);
+  if (d === 'verse_random') return showRandomVerse(ctx);
   if (d === 'dis_s') return showDiseaseCategories(ctx);
   if (d === 'rem_s') return showRemediesMenu(ctx);
   if (d === 'gl_s')  return showGlossaryMenu(ctx);
