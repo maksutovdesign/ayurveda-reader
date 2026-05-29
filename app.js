@@ -1,4 +1,4 @@
-import { BOOK_DATA } from './data.js?v=7';
+import { BOOK_DATA } from './data.js?v=8';
 import { BOOKS } from './books.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
