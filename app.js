@@ -433,6 +433,8 @@ function loadChapter(idx) {
   }
 
   ch.content.forEach(block => frag.appendChild(renderBlock(block)));
+  $chapterBody.appendChild(frag); // ← контент главы в DOM
+
   // ── Навигация глав (←/→) ──────────────────────────
   const navFrag = document.createDocumentFragment();
   const navBar = document.createElement('div');
