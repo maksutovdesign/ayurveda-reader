@@ -27,6 +27,8 @@ const BOT_USERNAME = '@AyurvedaReaderBot';
 function getAllVerses() {
   const out = [];
   for (const ch of BOOK_DATA.chapters) {
+    // Пропускаем главы на английском (lang:'en' — переводы с easyayurveda.com)
+    if (ch.lang === 'en') continue;
     if (!ch.content || !Array.isArray(ch.content)) continue;
     for (const block of ch.content) {
       if (block.type === 'verse' && block.text && block.text.trim().length > 60) {
