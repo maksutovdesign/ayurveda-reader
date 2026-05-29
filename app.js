@@ -286,8 +286,12 @@ function selectBook(idx) {
   // Update browser tab title
   document.title = book.titleShort + ' — Классические самхиты Аюрведы';
 
-  // Save book choice
-  savePosition();
+  // Save only the book choice — chIdx intentionally not saved here
+  // (loadChapter saves the full position including chIdx)
+  try {
+    const prev = JSON.parse(localStorage.getItem(LS_KEY) || '{}');
+    localStorage.setItem(LS_KEY, JSON.stringify({ ...prev, bookIdx: idx, chIdx: null }));
+  } catch (_) {}
 }
 
 // ── Navigation ─────────────────────────────────────

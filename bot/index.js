@@ -102,17 +102,24 @@ function fmtBody(body) {
 
 /**
  * Форматирует один блок главы книги (verse / comment / text / heading).
+ * heading-блоки хранят текст в block.heading (не block.text).
  */
 function fmtBlock(block) {
-  if (!block?.text) return '';
+  if (!block) return '';
+  // Heading blocks use block.heading, not block.text
+  if (block.type === 'heading') {
+    const t = esc(block.heading || block.text || '');
+    return t ? `\n<b>${t}</b>` : '';
+  }
+  if (!block.text) return '';
   const t = esc(block.text);
   switch (block.type) {
     case 'verse':
-      return `<i>— Стих ${block.number || ''} —</i>\n${t}`;
+      return block.number != null
+        ? `<i>— Стих ${block.number} —</i>\n${t}`
+        : `<i>${t}</i>`;
     case 'comment':
       return `<i>${t}</i>`;
-    case 'heading':
-      return `\n<b>${t}</b>`;
     default:
       return t;
   }
@@ -761,7 +768,10 @@ bot.on('callback_query', async ctx => {
     userBookIdx.set(getChatId(ctx), +m[1]);
     return showBookSthanas(ctx);
   }
-  if ((m = d.match(/^bk_c:(\d+)$/)))             return showBookChapters(ctx, +m[1]);
+  if ((m = d.match(/^bk_c:(-?\d+)$/))) {
+    const si = +m[1];
+    return si >= 0 ? showBookChapters(ctx, si) : showBookSthanas(ctx);
+  }
   if ((m = d.match(/^bk_r:(\d+):(\d+)$/)))       return showBookChapter(ctx, +m[1], +m[2]);
 
   if ((m = d.match(/^dis_c:(\d+)$/)))            return showDiseaseList(ctx, +m[1]);

@@ -54,6 +54,7 @@ function getAllVerses() {
 function getAllArticles() {
   const out = [];
   for (const sec of ENCYCLOPEDIA) {
+    if (!Array.isArray(sec.articles)) continue;
     for (const art of sec.articles) {
       const text = String(art.content || art.body || '');
       if (text.length > 100) {
@@ -146,15 +147,15 @@ export default async function handler(req, res) {
   if (!BOT_TOKEN) return res.status(500).json({ error: 'Missing BOT_TOKEN env var' });
 
   // ── Выбор контента ──
-  // Каждый день 3 крона: 09:00, 14:00, 18:00 UTC → cronIdx 0, 1, 2.
-  // postNum = dayNum * 3 + cronIdx — монотонно растёт, тип меняется каждый пост.
-  // (8-часовой слот нельзя использовать: за сутки слот растёт ровно на 3,
-  //  поэтому slotNum % 3 возвращало одно и то же значение каждый день.)
+  // 2 крона в сутки: 09:00 UTC (12 МСК) и 18:00 UTC (21 МСК).
+  // cronSlot: 0 = утро (до 13:00 UTC), 1 = вечер (13:00+).
+  // postNum = dayNum * 2 + cronSlot — монотонно растёт.
+  // type = postNum % 3 чередует: стих → энциклопедия → средство.
   const nowMs    = Date.now();
   const dayNum   = Math.floor(nowMs / (24 * 60 * 60 * 1000));
   const utcHour  = new Date(nowMs).getUTCHours();
-  const cronIdx  = utcHour < 12 ? 0 : utcHour < 16 ? 1 : 2; // 09→0, 14→1, 18→2
-  const postNum  = dayNum * 3 + cronIdx;
+  const cronSlot = utcHour < 13 ? 0 : 1; // 09:00→0, 18:00→1
+  const postNum  = dayNum * 2 + cronSlot;
   const type     = postNum % 3; // 0=стих, 1=энциклопедия, 2=средство
 
   let text;
