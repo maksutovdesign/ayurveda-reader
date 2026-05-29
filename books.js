@@ -50,7 +50,7 @@ const ASHTANGA = {
   icon: '🌿',
   available: true,
   description: 'Один из трёх канонических текстов Брихат-трайи. Перевод Ю.В. Сорокиной, комментарии И.И. Ветрова.',
-  stats: { chapters: 120, sthanas: 6, verses: '7000+' },
+  stats: { chapters: 56, sthanas: 6, verses: '7000+' },
   sthanas: BOOK_DATA.sthanas,
   chapters: BOOK_DATA.chapters,
 };
