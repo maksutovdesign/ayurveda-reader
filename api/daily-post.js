@@ -1,26 +1,22 @@
 /**
  * Ежедневный пост в Telegram-канал @AyurvedaReader
  *
- * Vercel Cron вызывает эндпоинт 3 раза в сутки:
- *   09:00 UTC (12:00 МСК) — стих / энциклопедия / средство
- *   14:00 UTC (17:00 МСК) — чередование
- *   18:00 UTC (21:00 МСК) — чередование
- *
- * Контент чередуется по типу: стих → энциклопедия → средство.
- * Позиция внутри типа определяется 8-часовым слотом эпохи,
- * поэтому повторов нет.
+ * 2 крона в сутки: 09:00 UTC (12:00 МСК) и 18:00 UTC (21:00 МСК).
+ * Контент чередуется: стих → энциклопедия → средство.
  *
  * Авторизация:
- *   – Vercel Cron автоматически добавляет заголовок x-vercel-cron: 1
- *   – Ручной вызов: ?key=DAILY_POST_KEY   (для тестов)
+ *   – Vercel Cron добавляет x-vercel-cron: 1 автоматически
+ *   – Ручной вызов: ?key=DAILY_POST_KEY
+ *
+ * Env vars (Vercel):
+ *   BOT_TOKEN      — токен Telegram-бота
+ *   CHANNEL_ID     — username канала, напр. @AyurvedaReader
+ *   DAILY_POST_KEY — ключ для ручного тестирования
  */
 
-import { BOOK_DATA }       from '../data.js';
-import { CHARAKA_DATA }    from '../charaka-data.js';
-import { SUSHRUTA_DATA }   from '../sushruta-data.js';
-import { MADHAVA_DATA }    from '../madhava-data.js';
-import { ENCYCLOPEDIA }    from '../encyclopedia.js';
-import { REMEDIES }        from '../remedies.js';
+import { BOOK_DATA }  from '../data.js';
+import { ENCYCLOPEDIA } from '../encyclopedia.js';
+import { REMEDIES }   from '../remedies.js';
 
 const BOT_TOKEN    = process.env.BOT_TOKEN;
 const CHANNEL_ID   = process.env.CHANNEL_ID || '@AyurvedaReader';
@@ -28,23 +24,13 @@ const BOT_USERNAME = '@AyurvedaReaderBot';
 
 // ── Сбор данных ─────────────────────────────────────────────
 
-// Книги с источниками для постов
-const ALL_BOOKS = [
-  { chapters: BOOK_DATA.chapters,  title: 'Аштанга-хридая-самхита' },
-  { chapters: CHARAKA_DATA,        title: 'Чарака-самхита' },
-  { chapters: SUSHRUTA_DATA,       title: 'Сушрута-самхита' },
-  { chapters: MADHAVA_DATA,        title: 'Мадхава-нидана' },
-];
-
 function getAllVerses() {
   const out = [];
-  for (const book of ALL_BOOKS) {
-    for (const ch of (book.chapters || [])) {
-      if (!ch.content || !Array.isArray(ch.content)) continue;
-      for (const block of ch.content) {
-        if (block.type === 'verse' && block.text && block.text.trim().length > 60) {
-          out.push({ verse: block, chapter: ch, bookTitle: book.title });
-        }
+  for (const ch of BOOK_DATA.chapters) {
+    if (!ch.content || !Array.isArray(ch.content)) continue;
+    for (const block of ch.content) {
+      if (block.type === 'verse' && block.text && block.text.trim().length > 60) {
+        out.push({ verse: block, chapter: ch });
       }
     }
   }
@@ -89,7 +75,7 @@ function pick(arr, slotNum) {
 
 // ── Форматирование постов ────────────────────────────────────
 
-function versePost({ verse, chapter, bookTitle }) {
+function versePost({ verse, chapter }) {
   const loc = chapter.subtitle
     ? `${esc(chapter.sthana)}, гл. ${chapter.number}: ${esc(chapter.subtitle)}`
     : `${esc(chapter.sthana)}, гл. ${chapter.number}`;
@@ -99,7 +85,7 @@ function versePost({ verse, chapter, bookTitle }) {
     ``,
     `«${esc(verse.text.trim())}»`,
     ``,
-    `<i>${esc(bookTitle || 'Аштанга-хридая-самхита')} · ${loc}</i>`,
+    `<i>Аштанга-хридая-самхита · ${loc}</i>`,
     ``,
     `🌿 Читать полную книгу: ${BOT_USERNAME}`,
   ].join('\n');
@@ -210,6 +196,6 @@ export default async function handler(req, res) {
     });
   }
 
-  console.log(`✅ Пост отправлен [${postType}] day=${dayNum} cron=${cronIdx} post=${postNum}`);
-  return res.status(200).json({ ok: true, type: postType, postNum, day: dayNum, cron: cronIdx });
+  console.log(`✅ Пост отправлен [${postType}] day=${dayNum} slot=${cronSlot} post=${postNum}`);
+  return res.status(200).json({ ok: true, type: postType, postNum, day: dayNum, slot: cronSlot });
 }
