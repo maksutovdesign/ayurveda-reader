@@ -717,6 +717,10 @@ body.dark  .icon-sun  { display: none; }
   text-transform: uppercase;
   margin-bottom: 6px;
 }
+.result-book {
+  color: var(--accent);
+  font-weight: 600;
+}
 .result-snippet {
   font-size: 13.5px;
   line-height: 1.7;

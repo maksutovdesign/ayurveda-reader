@@ -15,9 +15,12 @@
  *   – Ручной вызов: ?key=DAILY_POST_KEY   (для тестов)
  */
 
-import { BOOK_DATA }  from '../data.js';
-import { ENCYCLOPEDIA } from '../encyclopedia.js';
-import { REMEDIES }   from '../remedies.js';
+import { BOOK_DATA }       from '../data.js';
+import { CHARAKA_DATA }    from '../charaka-data.js';
+import { SUSHRUTA_DATA }   from '../sushruta-data.js';
+import { MADHAVA_DATA }    from '../madhava-data.js';
+import { ENCYCLOPEDIA }    from '../encyclopedia.js';
+import { REMEDIES }        from '../remedies.js';
 
 const BOT_TOKEN    = process.env.BOT_TOKEN;
 const CHANNEL_ID   = process.env.CHANNEL_ID || '@AyurvedaReader';
@@ -25,13 +28,23 @@ const BOT_USERNAME = '@AyurvedaReaderBot';
 
 // ── Сбор данных ─────────────────────────────────────────────
 
+// Книги с источниками для постов
+const ALL_BOOKS = [
+  { chapters: BOOK_DATA.chapters,  title: 'Аштанга-хридая-самхита' },
+  { chapters: CHARAKA_DATA,        title: 'Чарака-самхита' },
+  { chapters: SUSHRUTA_DATA,       title: 'Сушрута-самхита' },
+  { chapters: MADHAVA_DATA,        title: 'Мадхава-нидана' },
+];
+
 function getAllVerses() {
   const out = [];
-  for (const ch of BOOK_DATA.chapters) {
-    if (!ch.content || !Array.isArray(ch.content)) continue;
-    for (const block of ch.content) {
-      if (block.type === 'verse' && block.text && block.text.trim().length > 60) {
-        out.push({ verse: block, chapter: ch });
+  for (const book of ALL_BOOKS) {
+    for (const ch of (book.chapters || [])) {
+      if (!ch.content || !Array.isArray(ch.content)) continue;
+      for (const block of ch.content) {
+        if (block.type === 'verse' && block.text && block.text.trim().length > 60) {
+          out.push({ verse: block, chapter: ch, bookTitle: book.title });
+        }
       }
     }
   }
@@ -75,7 +88,7 @@ function pick(arr, slotNum) {
 
 // ── Форматирование постов ────────────────────────────────────
 
-function versePost({ verse, chapter }) {
+function versePost({ verse, chapter, bookTitle }) {
   const loc = chapter.subtitle
     ? `${esc(chapter.sthana)}, гл. ${chapter.number}: ${esc(chapter.subtitle)}`
     : `${esc(chapter.sthana)}, гл. ${chapter.number}`;
@@ -85,7 +98,7 @@ function versePost({ verse, chapter }) {
     ``,
     `«${esc(verse.text.trim())}»`,
     ``,
-    `<i>Аштанга-хридая-самхита · ${loc}</i>`,
+    `<i>${esc(bookTitle || 'Аштанга-хридая-самхита')} · ${loc}</i>`,
     ``,
     `🌿 Читать полную книгу: ${BOT_USERNAME}`,
   ].join('\n');

@@ -285,6 +285,9 @@ function selectBook(idx) {
 
   // Update browser tab title
   document.title = book.titleShort + ' — Классические самхиты Аюрведы';
+
+  // Save book choice
+  savePosition();
 }
 
 // ── Navigation ─────────────────────────────────────
@@ -380,8 +383,9 @@ function loadChapter(idx) {
   setActiveBtn(idx);
   setFooterActive(null);
 
-  // Update URL hash
+  // Update URL hash and save position
   history.replaceState(null, '', `#ch${idx}`);
+  savePosition();
 }
 
 // ── Glossary → Encyclopedia lookup ─────────────────
@@ -1982,11 +1986,14 @@ function runSearch(query) {
   const q = query.toLowerCase();
   const results = [];
 
-  currentBook().chapters.forEach((ch, chIdx) => {
-    (ch.content || []).forEach(block => {
-      if (block.text && block.text.toLowerCase().includes(q)) {
-        results.push({ chIdx, ch, block });
-      }
+  // Ищем по всем книгам (не только по текущей)
+  BOOKS.forEach((book, bookIdx) => {
+    book.chapters.forEach((ch, chIdx) => {
+      (ch.content || []).forEach(block => {
+        if (block.text && block.text.toLowerCase().includes(q)) {
+          results.push({ bookIdx, chIdx, ch, block, book });
+        }
+      });
     });
   });
 
@@ -2005,7 +2012,7 @@ function runSearch(query) {
   const re = new RegExp(escapeRegex(query), 'gi');
   const frag = document.createDocumentFragment();
 
-  results.slice(0, 80).forEach(({ chIdx, ch, block }) => {
+  results.slice(0, 80).forEach(({ bookIdx, chIdx, ch, block, book }) => {
     const card = document.createElement('div');
     card.className = 'search-result';
 
@@ -2017,13 +2024,19 @@ function runSearch(query) {
       ? (block.number != null ? `Стих ${block.number}` : 'Стих')
       : block.type === 'comment' ? 'Комментарий' : 'Текст';
 
+    // Показываем иконку книги если поиск нашёл в другой книге
+    const bookLabel = bookIdx !== currentBookIdx
+      ? `<span class="result-book">${escapeHtml(book.icon)} ${escapeHtml(book.titleShort)}</span> · `
+      : '';
+
     card.innerHTML = `
-      <div class="result-meta">${ch.sthana} · Гл. ${ch.number || '—'}: ${escapeHtml(ch.title)} · ${typeLabel}</div>
+      <div class="result-meta">${bookLabel}${escapeHtml(ch.sthana)} · Гл. ${ch.number || '—'}: ${escapeHtml(ch.title)} · ${typeLabel}</div>
       <div class="result-snippet">${snippet.replace(re, m => `<mark>${escapeHtml(m)}</mark>`)}</div>
     `;
     card.addEventListener('click', () => {
       $searchInput.value = '';
       runSearch('');
+      if (bookIdx !== currentBookIdx) selectBook(bookIdx);
       loadChapter(chIdx);
     });
     frag.appendChild(card);
@@ -2049,6 +2062,30 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+// ── Reading position persistence ───────────────────
+const LS_KEY = 'ayurveda_pos';
+
+function savePosition() {
+  try {
+    localStorage.setItem(LS_KEY, JSON.stringify({
+      bookIdx: currentBookIdx,
+      chIdx:   currentChapterIdx,
+    }));
+  } catch (_) {}
+}
+
+function loadSavedPosition() {
+  try {
+    const raw = localStorage.getItem(LS_KEY);
+    if (!raw) return null;
+    const pos = JSON.parse(raw);
+    if (typeof pos.bookIdx === 'number' && pos.bookIdx >= 0 && pos.bookIdx < BOOKS.length) {
+      return pos;
+    }
+  } catch (_) {}
+  return null;
+}
+
 // ── Init ───────────────────────────────────────────
 function init() {
   initTheme();
@@ -2062,6 +2099,21 @@ function init() {
     if (!isNaN(idx) && idx >= 0 && idx < currentBook().chapters.length) {
       loadChapter(idx);
       return;
+    }
+  }
+
+  // Restore last position from localStorage (if no URL hash)
+  if (!hash || hash === '#') {
+    const pos = loadSavedPosition();
+    if (pos) {
+      if (pos.bookIdx !== 0) selectBook(pos.bookIdx);
+      if (pos.chIdx != null) {
+        const book = currentBook();
+        if (pos.chIdx >= 0 && pos.chIdx < book.chapters.length && book.chapters[pos.chIdx].available !== false) {
+          loadChapter(pos.chIdx);
+          return;
+        }
+      }
     }
   }
   if (hash === '#glossary') {
