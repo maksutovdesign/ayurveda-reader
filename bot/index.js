@@ -13,6 +13,7 @@ import { fileURLToPath } from 'url';
 // ── Импорт данных из файлов веб-приложения ──────────────
 // Изменяй только эти JS-файлы — бот подхватит обновления автоматически
 import { BOOK_DATA }               from '../data.js';
+import { BOOKS }                   from '../books.js';
 import { ENCYCLOPEDIA }            from '../encyclopedia.js';
 import { DISEASES, getDiseaseCategories } from '../diseases.js';
 import { REMEDIES }                from '../remedies.js';
@@ -147,13 +148,14 @@ async function send(ctx, text, keyboard) {
 
 async function showMain(ctx) {
   const text = [
-    '🙏 <b>«Аштанга-хридая-самхита»</b> — Интерактивный читатель аюрведы.',
+    '🙏 <b>Классические самхиты Аюрведы</b>',
     '',
-    'Библиотека аюрведических знаний.\nВыберите раздел:',
+    '7 книг · 623+ главы · Аюрведическая библиотека',
+    '\nВыберите раздел:',
   ].join('\n');
 
   await send(ctx, text, [
-    [Markup.button.callback('📚 Книга',              'bk_s'),
+    [Markup.button.callback('📚 Самхиты',             'bk_s'),
      Markup.button.callback('🔍 Энциклопедия',       'enc_s')],
     [Markup.button.callback('🌿 Болезни',             'dis_s'),
      Markup.button.callback('💊 Средства',            'rem_s')],
@@ -226,70 +228,114 @@ async function showEncArticle(ctx, sIdx, aIdx, page) {
 }
 
 // ═══════════════════════════════════════════════════════════
-// КНИГА
+// КНИГА (мультикнижная навигация)
 // ═══════════════════════════════════════════════════════════
 
-// Кешируем список стхан (порядок первого появления)
-const STHANAS = (() => {
-  const seen = new Set();
-  const list = [];
-  for (const ch of BOOK_DATA.chapters) {
-    if (!seen.has(ch.sthana)) { seen.add(ch.sthana); list.push(ch.sthana); }
-  }
-  return list;
-})();
+// Выбор книги пользователем (per chat)
+const userBookIdx = new Map(); // chatId → bookIdx (default 0)
 
-async function showBookSthanas(ctx) {
-  const rows = STHANAS.map((s, i) => [Markup.button.callback(s, `bk_c:${i}`)]);
+function getChatId(ctx) { return ctx.chat?.id ?? ctx.from?.id; }
+function getBook(ctx) { return BOOKS[userBookIdx.get(getChatId(ctx)) ?? 0]; }
+
+/** Стханы книги в порядке первого появления */
+function getStanas(book) {
+  return book.sthanas || (() => {
+    const seen = new Set(), list = [];
+    for (const ch of book.chapters) {
+      if (!seen.has(ch.sthana)) { seen.add(ch.sthana); list.push(ch.sthana); }
+    }
+    return list;
+  })();
+}
+
+/** Выбор книги из списка */
+async function showBookList(ctx) {
+  const rows = BOOKS.map((book, idx) => [
+    Markup.button.callback(`${book.icon} ${book.titleShort} — ${book.stats.chapters} гл.`, `bk_sel:${idx}`)
+  ]);
   rows.push([Markup.button.callback('← Главное меню', 'main')]);
-
   await send(ctx,
-    `📚 <b>${esc(BOOK_DATA.title)}</b>\n<i>${esc(BOOK_DATA.author)}</i>\n\nВыберите часть книги:`,
+    '📚 <b>Классические самхиты Аюрведы</b>\n\nВыберите книгу для чтения:',
+    rows
+  );
+}
+
+/** Стханы выбранной книги */
+async function showBookSthanas(ctx) {
+  const book  = getBook(ctx);
+  const stanas = getStanas(book);
+  const rows  = stanas.map((s, i) => [Markup.button.callback(s, `bk_c:${i}`)]);
+  rows.push([
+    Markup.button.callback('← Все книги', 'bk_s'),
+    Markup.button.callback('⌂ Меню', 'main'),
+  ]);
+  await send(ctx,
+    `${book.icon} <b>${esc(book.title)}</b>\n<i>${esc(book.subtitle)}</i>\n\n${book.stats.chapters} глав · ${book.stats.sthanas} разделов\n\nВыберите раздел:`,
     rows
   );
 }
 
 async function showBookChapters(ctx, sthanaIdx) {
-  const sthana = STHANAS[sthanaIdx];
+  const book   = getBook(ctx);
+  const stanas = getStanas(book);
+  const sthana = stanas[sthanaIdx];
   if (!sthana) return showBookSthanas(ctx);
 
-  const chapters = BOOK_DATA.chapters.filter(c => c.sthana === sthana);
+  const chapters = book.chapters.filter(c => c.sthana === sthana && c.available !== false);
+  if (!chapters.length) {
+    await send(ctx, `${book.icon} <b>${esc(sthana)}</b>\n\n<i>Главы этого раздела ещё не добавлены.</i>`, [
+      [Markup.button.callback('← Разделы', 'bk_back'), Markup.button.callback('⌂ Меню', 'main')],
+    ]);
+    return;
+  }
+
   const rows = chapters.map(ch => {
-    const chIdx = BOOK_DATA.chapters.indexOf(ch);
-    const label = `Гл. ${ch.number}. ${ch.title}`;
+    const chIdx = book.chapters.indexOf(ch);
+    const label = ch.number > 0 ? `${ch.number}. ${ch.title}` : ch.title;
     return [Markup.button.callback(
-      label.length > 50 ? label.slice(0, 47) + '…' : label,
+      label.length > 52 ? label.slice(0, 49) + '…' : label,
       `bk_r:${chIdx}:0`
     )];
   });
   rows.push([
-    Markup.button.callback('← Разделы', 'bk_s'),
-    Markup.button.callback('⌂ Меню',    'main'),
+    Markup.button.callback('← Разделы', 'bk_back'),
+    Markup.button.callback('⌂ Меню', 'main'),
   ]);
-
-  await send(ctx, `📚 <b>${esc(sthana)}</b>\n${chapters.length} глав:`, rows);
+  await send(ctx, `${book.icon} <b>${esc(sthana)}</b>\n${chapters.length} глав:`, rows);
 }
 
 async function showBookChapter(ctx, chIdx, page) {
-  const ch = BOOK_DATA.chapters[chIdx];
+  const book = getBook(ctx);
+  const ch   = book.chapters[chIdx];
   if (!ch) return showBookSthanas(ctx);
 
-  const body   = (ch.content || []).map(fmtBlock).filter(Boolean).join('\n\n');
+  const blocks = (ch.content || []).map(b => {
+    if (!b) return '';
+    const t = esc(b.heading || b.text || '');
+    switch (b.type) {
+      case 'verse':   return `<i>— ${t} —</i>`;
+      case 'heading': return `\n<b>${t}</b>`;
+      case 'comment': return `<i>${t}</i>`;
+      default:        return t;
+    }
+  }).filter(Boolean);
+
+  const body   = blocks.join('\n\n') || '<i>Текст главы не загружен.</i>';
   const sub    = ch.subtitle ? `\n<i>${esc(ch.subtitle)}</i>` : '';
-  const header = `📖 <b>${esc(ch.sthana)} · Гл. ${ch.number}</b>\n<b>${esc(ch.title)}</b>${sub}\n────────────\n`;
+  const header = `${book.icon} <b>${esc(ch.sthana)} · Гл. ${ch.number}</b>\n<b>${esc(ch.title)}</b>${sub}\n────────────\n`;
   const pages  = paginate(body);
   page = Math.max(0, Math.min(page, pages.length - 1));
 
-  const sthanaIdx = STHANAS.indexOf(ch.sthana);
+  const stanas    = getStanas(book);
+  const sthanaIdx = stanas.indexOf(ch.sthana);
   const navRow  = pages.length > 1
     ? buildPageNav(page, pages.length, `bk_r:${chIdx}:${page - 1}`, `bk_r:${chIdx}:${page + 1}`)
     : null;
   const backRow = [
     Markup.button.callback('← Главы', `bk_c:${sthanaIdx}`),
-    Markup.button.callback('⌂ Меню',  'main'),
+    Markup.button.callback('⌂ Меню', 'main'),
   ];
-
-  await send(ctx, header + (pages[page] || '<i>(пусто)</i>'), navRow ? [navRow, backRow] : [backRow]);
+  await send(ctx, header + pages[page], navRow ? [navRow, backRow] : [backRow]);
 }
 
 // ═══════════════════════════════════════════════════════════
@@ -670,6 +716,10 @@ bot.command('help', ctx => ctx.reply([
   '/start — главное меню',
   '/search <i>запрос</i> — поиск по всей базе',
   '',
+  '📚 <b>7 классических самхит:</b>',
+  'Аштанга-хридая · Чарака · Сушрута',
+  'Мадхава · Шарангадхара · Бхавапракаша · Астанга-санграха',
+  '',
   'Или просто напишите текст — бот найдёт ответ.',
   '',
   `🌐 <a href="${WEB_URL}">Полная версия на сайте</a>`,
@@ -691,8 +741,9 @@ bot.on('callback_query', async ctx => {
   // Простые маршруты
   if (d === 'main')  return showMain(ctx);
   if (d === 'noop')  return;
-  if (d === 'enc_s') return showEncSections(ctx);
-  if (d === 'bk_s')  return showBookSthanas(ctx);
+  if (d === 'enc_s')  return showEncSections(ctx);
+  if (d === 'bk_s')   return showBookList(ctx);
+  if (d === 'bk_back') return showBookSthanas(ctx);
   if (d === 'dis_s') return showDiseaseCategories(ctx);
   if (d === 'rem_s') return showRemediesMenu(ctx);
   if (d === 'gl_s')  return showGlossaryMenu(ctx);
@@ -706,6 +757,10 @@ bot.on('callback_query', async ctx => {
   if ((m = d.match(/^enc_a:(\d+)$/)))            return showEncArticles(ctx, +m[1]);
   if ((m = d.match(/^enc_r:(\d+):(\d+):(\d+)$/)))return showEncArticle(ctx, +m[1], +m[2], +m[3]);
 
+  if ((m = d.match(/^bk_sel:(\d+)$/))) {
+    userBookIdx.set(getChatId(ctx), +m[1]);
+    return showBookSthanas(ctx);
+  }
   if ((m = d.match(/^bk_c:(\d+)$/)))             return showBookChapters(ctx, +m[1]);
   if ((m = d.match(/^bk_r:(\d+):(\d+)$/)))       return showBookChapter(ctx, +m[1], +m[2]);
 
