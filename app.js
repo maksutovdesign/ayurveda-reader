@@ -394,13 +394,31 @@ function loadChapter(idx) {
   }
   if (hasSanskrit) {
     $sanskritBtn.hidden = false;
-    const isOn = $chapterBody.classList.contains('show-sanskrit') ||
-                 document.getElementById('chapter-view').classList.contains('show-sanskrit');
-    $sanskritBtn.textContent = isOn ? '🔤 Скрыть Sanskrit' : '🔤 Sanskrit';
+    const hasDeva = (ch.content || []).some(b => b.sanskrit);
+    // Cycle: off → devanagari+iast → iast only → off
+    const view = document.getElementById('chapter-view');
+    const _labels = {
+      '': hasDeva ? '𑀲𑀁 देव + IAST' : '🔤 IAST',
+      'show-sanskrit': hasDeva ? '🔤 только IAST' : '🙈 Скрыть',
+      'show-iast-only': '🙈 Скрыть',
+    };
+    const _next = {
+      '': 'show-sanskrit',
+      'show-sanskrit': hasDeva ? 'show-iast-only' : '',
+      'show-iast-only': '',
+    };
+    const _getMode = () => {
+      if (view.classList.contains('show-iast-only')) return 'show-iast-only';
+      if (view.classList.contains('show-sanskrit')) return 'show-sanskrit';
+      return '';
+    };
+    $sanskritBtn.textContent = _labels[_getMode()];
     $sanskritBtn.onclick = () => {
-      const view = document.getElementById('chapter-view');
-      view.classList.toggle('show-sanskrit');
-      $sanskritBtn.textContent = view.classList.contains('show-sanskrit') ? '🔤 Скрыть Sanskrit' : '🔤 Sanskrit';
+      const cur = _getMode();
+      view.classList.remove('show-sanskrit', 'show-iast-only');
+      const next = _next[cur];
+      if (next) view.classList.add(next);
+      $sanskritBtn.textContent = _labels[next || ''];
     };
   } else {
     $sanskritBtn.hidden = true;

@@ -553,7 +553,7 @@ body.dark  .icon-sun  { display: none; }
   color: var(--text);
 }
 
-/* ── Sanskrit / IAST (hidden until .show-sanskrit is on #chapter-view) ── */
+/* ── Sanskrit / IAST (three display modes on #chapter-view) ── */
 .verse-devanagari,
 .verse-iast {
   display: none;
@@ -561,14 +561,19 @@ body.dark  .icon-sun  { display: none; }
   padding-bottom: 10px;
   border-bottom: 1px dashed var(--border);
 }
+
+/* Mode 1: show-sanskrit — Devanagari + IAST */
 #chapter-view.show-sanskrit .verse-devanagari,
-#chapter-view.show-sanskrit .verse-iast {
-  display: block;
-}
+#chapter-view.show-sanskrit .verse-iast      { display: block; }
+
+/* Mode 2: show-iast-only — IAST only, no Devanagari */
+#chapter-view.show-iast-only .verse-iast     { display: block; }
+#chapter-view.show-iast-only .verse-devanagari { display: none; }
+
 .verse-devanagari {
   font-family: 'Noto Sans Devanagari', 'Noto Serif Devanagari', serif;
-  font-size: 17px;
-  line-height: 1.9;
+  font-size: 18px;
+  line-height: 2;
   color: var(--accent);
   letter-spacing: 0.02em;
 }
@@ -603,7 +608,8 @@ body.dark  .icon-sun  { display: none; }
   color: var(--accent);
   background: var(--bg-active);
 }
-#chapter-view.show-sanskrit .sanskrit-toggle-btn {
+#chapter-view.show-sanskrit .sanskrit-toggle-btn,
+#chapter-view.show-iast-only .sanskrit-toggle-btn {
   border-color: var(--accent-light);
   color: var(--accent);
   background: var(--accent-glow);
