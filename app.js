@@ -161,13 +161,21 @@ function renderBlock(block) {
     const verseHeader = block.number != null
       ? `<div class="verse-header"><span class="verse-number">Стих ${block.number}</span></div>`
       : '';
-    div.innerHTML = `${verseHeader}<div class="verse-text">${renderText(block.text)}</div>`;
+    // Sanskrit (Devanagari) and/or IAST romanisation — hidden until toggled
+    const devanagariHtml = block.sanskrit
+      ? `<div class="verse-devanagari" aria-label="Санскрит">${escapeHtml(block.sanskrit)}</div>`
+      : '';
+    const iastHtml = block.iast
+      ? `<div class="verse-iast" aria-label="IAST">${escapeHtml(block.iast)}</div>`
+      : '';
+    div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(block.text)}</div>`;
   } else if (block.type === 'comment') {
     div.classList.add('block-comment');
-    div.innerHTML = `
-      <div class="comment-label">Комментарий</div>
-      <div class="comment-text">${renderText(block.text)}</div>
-    `;
+    // Optional: commentary author (Арунадатта, Хемадри …)
+    const authorHtml = block.author
+      ? `<div class="comment-label">Комментарий <span class="comment-author">· ${escapeHtml(block.author)}</span></div>`
+      : `<div class="comment-label">Комментарий</div>`;
+    div.innerHTML = `${authorHtml}<div class="comment-text">${renderText(block.text)}</div>`;
   } else if (block.type === 'heading') {
     const lvl = block.level || 1;
     div.classList.add('block-heading', `block-heading--l${lvl}`);
@@ -372,6 +380,31 @@ function loadChapter(idx) {
 
   $chapterBody.innerHTML = '';
   const frag = document.createDocumentFragment();
+
+  // Check if chapter has any Sanskrit/IAST blocks
+  const hasSanskrit = (ch.content || []).some(b => b.sanskrit || b.iast);
+
+  // Sanskrit toggle button (only if chapter has Sanskrit data)
+  let $sanskritBtn = document.getElementById('sanskrit-toggle-btn');
+  if (!$sanskritBtn) {
+    $sanskritBtn = document.createElement('button');
+    $sanskritBtn.id = 'sanskrit-toggle-btn';
+    $sanskritBtn.className = 'sanskrit-toggle-btn';
+    document.getElementById('chapter-header').appendChild($sanskritBtn);
+  }
+  if (hasSanskrit) {
+    $sanskritBtn.hidden = false;
+    const isOn = $chapterBody.classList.contains('show-sanskrit') ||
+                 document.getElementById('chapter-view').classList.contains('show-sanskrit');
+    $sanskritBtn.textContent = isOn ? '🔤 Скрыть Sanskrit' : '🔤 Sanskrit';
+    $sanskritBtn.onclick = () => {
+      const view = document.getElementById('chapter-view');
+      view.classList.toggle('show-sanskrit');
+      $sanskritBtn.textContent = view.classList.contains('show-sanskrit') ? '🔤 Скрыть Sanskrit' : '🔤 Sanskrit';
+    };
+  } else {
+    $sanskritBtn.hidden = true;
+  }
 
   // English-translation notice
   if (ch.lang === 'en') {
