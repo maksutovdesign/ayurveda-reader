@@ -1,4 +1,4 @@
-import { BOOK_DATA } from './data.js?v=8';
+import { BOOK_DATA } from './data.js?v=9';
 import { BOOKS } from './books.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
@@ -315,7 +315,8 @@ function buildNav() {
       btn.className = 'chapter-btn' + (isUnavailable ? ' chapter-btn--stub' : '');
       btn.dataset.idx = idx;
       const numLabel = ch.number > 0 ? `<span class="ch-num">${ch.number}.</span>` : '';
-      btn.innerHTML = `${numLabel}${ch.title}`;
+      const engBadge = ch.lang === 'en' ? `<span class="ch-lang-badge">ENG</span>` : '';
+      btn.innerHTML = `${numLabel}${ch.title}${engBadge}`;
       if (isUnavailable) {
         btn.title = 'Глава не переведена';
         btn.setAttribute('aria-disabled', 'true');
@@ -353,6 +354,15 @@ function loadChapter(idx) {
 
   $chapterBody.innerHTML = '';
   const frag = document.createDocumentFragment();
+
+  // English-translation notice
+  if (ch.lang === 'en') {
+    const notice = document.createElement('div');
+    notice.className = 'chapter-lang-notice';
+    notice.innerHTML = `<span class="chapter-lang-notice__icon">🌐</span> Глава не переведена на русский — показан английский перевод (easyayurveda.com)`;
+    frag.appendChild(notice);
+  }
+
   ch.content.forEach(block => frag.appendChild(renderBlock(block)));
   $chapterBody.appendChild(frag);
 
