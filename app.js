@@ -1,4 +1,4 @@
-import { BOOK_DATA } from './data.js?v=11';
+import { BOOK_DATA } from './data.js?v=12';
 import { BOOKS } from './books.js';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
@@ -273,7 +273,20 @@ function selectBook(idx) {
   const book = currentBook();
   document.getElementById('book-title').innerHTML =
     `<span class="book-name">${escapeHtml(book.titleShort || book.title.split('-')[0])}</span>
-     <span class="book-sub">${escapeHtml(book.id === 'ashtanga' ? 'самхита' : '')}</span>`;
+     <span class="book-sub">${escapeHtml(book.id === 'ashtanga' ? 'самхита' : book.icon || '')}</span>`;
+
+  // Update welcome panel with current book info
+  const wTitle = document.getElementById('welcome-title');
+  const wAuthor = document.getElementById('welcome-author');
+  const wDesc = document.getElementById('welcome-desc');
+  const wStats = document.getElementById('welcome-stats');
+  if (wTitle)  wTitle.textContent  = book.title;
+  if (wAuthor) wAuthor.textContent = book.subtitle;
+  if (wDesc)   wDesc.textContent   = book.description;
+  if (wStats)  wStats.textContent  = `${book.stats.chapters} глав · ${book.stats.sthanas} разделов · ${book.stats.verses} стихов`;
+
+  // Update browser tab title
+  document.title = book.titleShort + ' — Классические самхиты Аюрведы';
 }
 
 // ── Navigation ─────────────────────────────────────
