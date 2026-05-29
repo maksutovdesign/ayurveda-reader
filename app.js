@@ -158,12 +158,10 @@ function renderBlock(block) {
 
   if (block.type === 'verse') {
     div.classList.add('block-verse');
-    div.innerHTML = `
-      <div class="verse-header">
-        <span class="verse-number">Стих ${block.number}</span>
-      </div>
-      <div class="verse-text">${renderText(block.text)}</div>
-    `;
+    const verseHeader = block.number != null
+      ? `<div class="verse-header"><span class="verse-number">Стих ${block.number}</span></div>`
+      : '';
+    div.innerHTML = `${verseHeader}<div class="verse-text">${renderText(block.text)}</div>`;
   } else if (block.type === 'comment') {
     div.classList.add('block-comment');
     div.innerHTML = `
@@ -2016,7 +2014,7 @@ function runSearch(query) {
       : block.text;
 
     const typeLabel = block.type === 'verse'
-      ? `Стих ${block.number}`
+      ? (block.number != null ? `Стих ${block.number}` : 'Стих')
       : block.type === 'comment' ? 'Комментарий' : 'Текст';
 
     card.innerHTML = `
