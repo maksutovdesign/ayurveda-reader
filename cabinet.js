@@ -122,19 +122,25 @@ export function openProposalModal(ctx) {
     translation: 'Русский перевод', text: 'Основной текст',
     iast: 'IAST-транслитерация', sanskrit: 'Деванагари', comment: 'Комментарий',
   };
-  // Какие поля можно предложить: если стих без перевода — предлагаем перевод
   const opts = ['translation', 'text', 'iast', 'sanskrit', 'comment'];
+  const def = ctx.defaultField && opts.includes(ctx.defaultField) ? ctx.defaultField : 'translation';
+  const isTranslate = def === 'translation';
+  // Оригинал для перевода (санскрит + IAST) — чтобы эксперт видел, что переводит
+  const origHtml = (ctx.sanskrit || ctx.iast)
+    ? `<div class="pm-orig">${ctx.sanskrit ? `<div class="pm-orig-dev">${escapeH(ctx.sanskrit)}</div>` : ''}${ctx.iast ? `<div class="pm-orig-iast">${escapeH(ctx.iast)}</div>` : ''}</div>`
+    : '';
   modal.innerHTML = `
     <div class="pm-backdrop"></div>
     <div class="pm-box">
-      <div class="pm-head">Предложить правку
+      <div class="pm-head">${isTranslate ? 'Добавить перевод' : 'Предложить правку'}
         <span class="pm-loc">${ctx.sthana}, гл. ${ctx.chapter}, стих ${ctx.verseNumber}</span>
       </div>
-      ${ctx.oldValue ? `<div class="pm-old"><b>Сейчас:</b> ${escapeH(ctx.oldValue).slice(0,300)}</div>` : ''}
+      ${origHtml}
+      ${ctx.oldValue ? `<div class="pm-old"><b>Текущий перевод:</b> ${escapeH(ctx.oldValue).slice(0,300)}</div>` : ''}
       <label class="pm-label">Тип правки</label>
-      <select id="pm-field">${opts.map(o => `<option value="${o}">${fieldLabels[o]}</option>`).join('')}</select>
+      <select id="pm-field">${opts.map(o => `<option value="${o}"${o===def?' selected':''}>${fieldLabels[o]}</option>`).join('')}</select>
       <label class="pm-label">Ваш вариант</label>
-      <textarea id="pm-value" rows="4" placeholder="Введите перевод или исправление…"></textarea>
+      <textarea id="pm-value" rows="4" placeholder="${isTranslate ? 'Введите русский перевод этого стиха…' : 'Введите перевод или исправление…'}"></textarea>
       <label class="pm-label">Комментарий (необязательно)</label>
       <input id="pm-comment" type="text" placeholder="Источник, обоснование…" />
       <div class="pm-actions">
@@ -294,7 +300,12 @@ function escapeH(s) { return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,
 let _toastT = null;
 function showToast(msg, isErr) {
   let t = document.getElementById('cabinet-toast');
-  if (!t) { t = document.createElement('div'); t.id = 'cabinet-toast'; document.body.appendChild(t); }
+  if (!t) {
+    t = document.createElement('div'); t.id = 'cabinet-toast';
+    t.setAttribute('role', 'status');
+    t.setAttribute('aria-live', 'polite');
+    document.body.appendChild(t);
+  }
   t.textContent = msg;
   t.className = 'show' + (isErr ? ' err' : '');
   clearTimeout(_toastT);

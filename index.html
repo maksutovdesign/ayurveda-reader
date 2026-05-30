@@ -38,13 +38,15 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=37" />
+  <link rel="stylesheet" href="style.css?v=38" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
   <div id="sidebar-overlay"></div>
+  <a href="#content" class="skip-link">Перейти к содержанию</a>
+  <div id="offline-banner" role="status" aria-live="polite" hidden>📡 Офлайн-режим — прочитанные книги доступны, синхронизация недоступна</div>
   <div id="app">
-    <aside id="sidebar">
+    <aside id="sidebar" aria-label="Навигация по книге">
       <div id="sidebar-header">
         <div id="book-title">
           <span class="book-name">Аштанга-хридая</span>
@@ -75,7 +77,7 @@
         </div>
       </div>
 
-      <nav id="chapter-nav"></nav>
+      <nav id="chapter-nav" aria-label="Список глав"></nav>
 
       <div id="sidebar-footer">
         <button id="glossary-btn" class="sidebar-footer-btn">
@@ -108,7 +110,7 @@
       </div>
     </aside>
 
-    <main id="content">
+    <main id="content" tabindex="-1">
       <div id="welcome">
         <div class="welcome-inner">
           <h1 id="welcome-title">Аштанга-хридая-самхита</h1>
@@ -469,6 +471,7 @@
   </div>
 
   <div id="tooltip" role="tooltip" aria-live="polite"></div>
+  <div id="sr-announcer" class="sr-only" aria-live="polite" aria-atomic="true"></div>
 
   <footer id="site-footer">
     <div id="footer-disclaimer">
@@ -481,6 +484,6 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=37"></script>
+  <script type="module" src="app.js?v=39"></script>
 </body>
 </html>

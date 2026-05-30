@@ -1,11 +1,11 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=37';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=39';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { REMEDIES } from './remedies.js?v=7';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=4';
+import * as Cabinet from './cabinet.js?v=5';
 
 // ── State ──────────────────────────────────────────
 let currentBookIdx     = 0;
@@ -199,16 +199,20 @@ function renderBlock(block) {
       ? `<div class="verse-translation" aria-label="Перевод">${renderText(sTrans)}</div>`
       : '';
     div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}`;
-    // Кнопка «предложить правку» (для вошедших)
+    // Кнопка правки/перевода (для вошедших)
     if (_renderCtx && Cabinet.isLoggedIn() && block.number != null) {
+      // Санскрит-только книга без перевода → предлагаем добавить перевод
+      const needsTranslation = _renderCtx.lang === 'sa' && !sTrans;
       const btn = document.createElement('button');
-      btn.className = 'verse-edit-btn';
-      btn.textContent = '✎ Предложить правку';
+      btn.className = 'verse-edit-btn' + (needsTranslation ? ' verse-edit-btn--translate' : '');
+      btn.textContent = needsTranslation ? '✎ Добавить перевод' : '✎ Предложить правку';
       const vnum = String(block.number);
       btn.onclick = () => Cabinet.openProposalModal({
         bookId: _renderCtx.bookId, sthana: _renderCtx.sthana,
         chapter: _renderCtx.chapter, verseNumber: vnum,
-        oldValue: sTrans || sText || '',
+        oldValue: sTrans || '',
+        sanskrit: sSkt || '', iast: sIast || sText || '',
+        defaultField: needsTranslation ? 'translation' : undefined,
       });
       div.appendChild(btn);
     }
@@ -421,8 +425,36 @@ function buildNav() {
 
 function setActiveBtn(idx) {
   document.querySelectorAll('.chapter-btn').forEach(btn => {
-    btn.classList.toggle('active', parseInt(btn.dataset.idx) === idx);
+    const active = parseInt(btn.dataset.idx) === idx;
+    btn.classList.toggle('active', active);
+    if (active) btn.setAttribute('aria-current', 'true');
+    else btn.removeAttribute('aria-current');
   });
+}
+
+// Индикатор офлайн-режима (PWA)
+function initOfflineIndicator() {
+  const banner = document.getElementById('offline-banner');
+  if (!banner) return;
+  const setOffline = (off) => {
+    banner.hidden = !off;
+    banner.classList.toggle('show', off);
+  };
+  // Доверяем событиям напрямую (надёжнее повторного чтения navigator.onLine)
+  window.addEventListener('online',  () => setOffline(false));
+  window.addEventListener('offline', () => setOffline(true));
+  setOffline(!navigator.onLine); // начальное состояние
+}
+
+// Объявление для скрин-ридеров (aria-live region)
+let _announceT = null;
+function announce(msg) {
+  const el = document.getElementById('sr-announcer');
+  if (!el) return;
+  clearTimeout(_announceT);
+  el.textContent = '';
+  // небольшая задержка, чтобы SR заметил изменение
+  _announceT = setTimeout(() => { el.textContent = msg; }, 60);
 }
 
 // ── Load chapter ───────────────────────────────────
@@ -441,7 +473,7 @@ function loadChapter(idx) {
   const ch = currentBook().chapters[idx];
 
   // Контекст для правок кабинета
-  _renderCtx = { bookId: currentBook().id, sthana: ch.sthana, chapter: ch.number, _vnum: null };
+  _renderCtx = { bookId: currentBook().id, sthana: ch.sthana, chapter: ch.number, lang: ch.lang, _vnum: null };
   // Подгружаем одобренные правки книги; если появятся новые — перерисуем главу
   Cabinet.loadOverrides(currentBook().id).then(ovs => {
     if (ovs && Object.keys(ovs).length && currentChapterIdx === idx) {
@@ -460,6 +492,7 @@ function loadChapter(idx) {
   $chSubtitle.hidden = !ch.subtitle;
 
   renderChapterBody(ch, idx);
+  announce(`${currentBook().titleShort}. ${ch.number > 0 ? 'Глава ' + ch.number + '. ' : ''}${ch.title}`);
 
   // Проверка платного доступа (paywall появляется только если платежи включены)
   applyAccessGate(ch, idx);
@@ -2285,6 +2318,7 @@ function runSearch(query) {
   countEl.textContent = results.length
     ? `${results.length} результат${results.length === 1 ? '' : results.length < 5 ? 'а' : 'ов'}`
     : '';
+  announce(results.length ? `Найдено ${results.length} результатов по запросу ${query}` : `По запросу ${query} ничего не найдено`);
 
   bodyEl.innerHTML = '';
   if (results.length === 0) {
@@ -2399,6 +2433,7 @@ function loadSavedPosition() {
 function init() {
   initTheme();
   initFontSize();
+  initOfflineIndicator();
   buildBookSelector();
   buildNav();
   // Права доступа + настройка защиты контента (Этап 6)
