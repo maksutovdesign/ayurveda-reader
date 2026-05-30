@@ -189,10 +189,43 @@ export function renderCabinet() {
       </div>
       <p class="cabinet-desc">Откройте любую главу и нажмите «✎ Предложить правку» рядом со стихом,
       чтобы добавить перевод или исправление.</p>
+      <div id="cabinet-access"></div>
+      <div id="cabinet-store"></div>
       ${u.role === 'admin' ? '<div id="admin-panel"></div>' : ''}
     </div>`;
-  view.querySelector('#cabinet-logout').onclick = () => { clearSession(); renderCabinet(); };
+  view.querySelector('#cabinet-logout').onclick = () => { clearSession(); _entLoaded = false; renderCabinet(); };
   if (u.role === 'admin') renderAdminPanel(view.querySelector('#admin-panel'));
+  renderAccessAndStore(view);
+}
+
+async function renderAccessAndStore(view) {
+  await loadEntitlements(true);
+  const accessEl = view.querySelector('#cabinet-access');
+  const storeEl = view.querySelector('#cabinet-store');
+  if (!_paymentsEnabled) {
+    if (accessEl) accessEl.innerHTML = '<p class="cabinet-note">Платный доступ пока не активирован — все книги открыты.</p>';
+    return;
+  }
+  // Текущий доступ
+  let access = [];
+  if (_ent?.full) access.push('Полный доступ навсегда ✓');
+  if (_ent?.passUntil && _ent.passUntil > Math.floor(Date.now()/1000)) {
+    access.push('Пропуск до ' + new Date(_ent.passUntil*1000).toLocaleDateString('ru-RU'));
+  }
+  if (Array.isArray(_ent?.books) && _ent.books.length) {
+    access.push('Куплены книги: ' + _ent.books.length);
+  }
+  if (accessEl) {
+    accessEl.innerHTML = access.length
+      ? `<div class="cabinet-access-box">🔓 ${access.join(' · ')}</div>`
+      : '<p class="cabinet-note">Платный доступ не оформлен.</p>';
+  }
+  if (storeEl) {
+    storeEl.innerHTML = '<h3 class="store-h">Открыть доступ</h3>';
+    const grid = document.createElement('div');
+    storeEl.appendChild(grid);
+    renderStore(grid, null);
+  }
 }
 
 async function renderAdminPanel(el) {
@@ -252,6 +285,104 @@ function showToast(msg, isErr) {
   t.className = 'show' + (isErr ? ' err' : '');
   clearTimeout(_toastT);
   _toastT = setTimeout(() => { t.className = ''; }, 4000);
+}
+
+// ── Монетизация (YooKassa) ──────────────────────────
+let _ent = null;            // entitlements текущего пользователя
+let _products = {};
+let _freeBooks = ['ashtanga'];
+let _paymentsEnabled = false;
+let _previewChapters = 1;
+let _entLoaded = false;
+
+export async function loadEntitlements(force) {
+  if (_entLoaded && !force) return;
+  try {
+    const headers = _token ? { 'Authorization': `Bearer ${_token}` } : {};
+    const res = await fetch('/api/entitlements', { headers });
+    const d = await res.json();
+    _ent = d.entitlements || { full: false, books: [] };
+    _products = d.products || {};
+    _freeBooks = d.freeBooks || ['ashtanga'];
+    _paymentsEnabled = !!d.paymentsEnabled;
+    _previewChapters = d.previewChapters ?? 1;
+    _entLoaded = true;
+  } catch (_) {
+    // Бэкенд недоступен → не блокируем контент
+    _paymentsEnabled = false; _entLoaded = true;
+  }
+}
+
+export function paymentsEnabled() { return _paymentsEnabled; }
+export function previewChapters() { return _previewChapters; }
+
+/** Доступна ли книга. Без платежей/бэкенда — всегда true (сайт открыт). */
+export function hasBookAccess(bookId) {
+  if (!_paymentsEnabled) return true;
+  if (_freeBooks.includes(bookId)) return true;
+  if (!_ent) return false;
+  if (_ent.full) return true;
+  if (_ent.passUntil && _ent.passUntil > Math.floor(Date.now() / 1000)) return true;
+  if (Array.isArray(_ent.books) && _ent.books.includes(bookId)) return true;
+  return false;
+}
+
+/** Купить товар: создаёт платёж и редиректит на YooKassa */
+export async function buyProduct(productKey) {
+  if (!isLoggedIn()) { showToast('Войдите через Telegram, чтобы оформить покупку', true); return; }
+  try {
+    const res = await fetch('/api/pay-create', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${_token}` },
+      body: JSON.stringify({ productKey }),
+    });
+    const d = await res.json();
+    if (!res.ok) throw new Error(d.error || 'Ошибка');
+    if (d.confirmation_url) window.location.href = d.confirmation_url;
+  } catch (e) {
+    showToast('Не удалось создать платёж: ' + e.message, true);
+  }
+}
+
+function priceFmt(n) { return new Intl.NumberFormat('ru-RU').format(n) + ' ₽'; }
+
+/** Рендер каталога/paywall в контейнер. Если bookId задан — подсветить покупку этой книги. */
+export function renderStore(container, bookId) {
+  if (!container) return;
+  const P = _products;
+  const bookProductKey = Object.keys(P).find(k => P[k].type === 'book' && P[k].bookId === bookId);
+  const order = [];
+  if (bookProductKey) order.push(bookProductKey);
+  if (P.full) order.push('full');
+  if (P.pass30) order.push('pass30');
+  // прочие книги
+  for (const k of Object.keys(P)) if (P[k].type === 'book' && k !== bookProductKey) order.push(k);
+
+  const cards = order.filter(k => P[k]).map(k => {
+    const p = P[k];
+    const badge = p.type === 'full' ? 'навсегда' : p.type === 'pass' ? `${p.days} дней` : 'книга';
+    const hl = k === bookProductKey || k === 'full' ? ' store-card--hl' : '';
+    return `<div class="store-card${hl}" data-product="${k}">
+      <div class="store-badge">${badge}</div>
+      <div class="store-title">${escapeH(p.title)}</div>
+      <div class="store-desc">${escapeH(p.desc || '')}</div>
+      <div class="store-foot"><span class="store-price">${priceFmt(p.price)}</span>
+        <button class="store-buy" data-product="${k}">Купить</button></div>
+    </div>`;
+  }).join('');
+
+  container.innerHTML = `<div class="store-grid">${cards}</div>`;
+  container.querySelectorAll('.store-buy').forEach(b => {
+    b.onclick = () => buyProduct(b.dataset.product);
+  });
+}
+
+// Обработка возврата после оплаты (?paid=1) — обновить права
+if (typeof window !== 'undefined' && /[?&]paid=1/.test(window.location.search)) {
+  setTimeout(async () => {
+    await loadEntitlements(true);
+    showToast('Оплата получена. Доступ открыт 🙏 Если книга ещё закрыта — обновите через минуту.');
+  }, 1200);
 }
 
 // ── Инициализация ───────────────────────────────────

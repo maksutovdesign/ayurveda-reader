@@ -6,7 +6,7 @@ import { REMEDIES } from './remedies.js?v=7';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=1';
+import * as Cabinet from './cabinet.js?v=2';
 
 // ── State ──────────────────────────────────────────
 let currentBookIdx     = 0;
@@ -436,12 +436,41 @@ function loadChapter(idx) {
 
   renderChapterBody(ch, idx);
 
+  // Проверка платного доступа (paywall появляется только если платежи включены)
+  applyAccessGate(ch, idx);
+  Cabinet.loadEntitlements().then(() => {
+    if (currentChapterIdx === idx) applyAccessGate(ch, idx);
+  });
+
   setActiveBtn(idx);
   setFooterActive(null);
 
   // Update URL hash and save position
   history.replaceState(null, '', `#ch${idx}`);
   savePosition();
+}
+
+// Гейтинг: если книга платная и нет доступа, а глава за пределами превью — показать paywall
+function applyAccessGate(ch, idx) {
+  const book = currentBook();
+  const locked = !Cabinet.hasBookAccess(book.id) && idx >= Cabinet.previewChapters();
+  if (locked) renderPaywall(ch, book);
+}
+
+function renderPaywall(ch, book) {
+  $chapterBody.innerHTML = '';
+  const box = document.createElement('div');
+  box.className = 'paywall';
+  box.innerHTML = `
+    <div class="paywall-icon">🔒</div>
+    <h3 class="paywall-title">Глава доступна по подписке</h3>
+    <p class="paywall-desc">Книга «${escapeHtml(book.titleShort || book.title)}» — часть платного доступа.
+    Первые главы открыты для ознакомления. Оформите доступ, чтобы читать целиком.</p>
+    <div class="paywall-store"></div>
+    <p class="paywall-note">Вход и оплата — в разделе «Кабинет». Аштанга-хридая-самхита доступна бесплатно.</p>
+  `;
+  $chapterBody.appendChild(box);
+  Cabinet.renderStore(box.querySelector('.paywall-store'), book.id);
 }
 
 // Перерисовать тело главы (вызывается при появлении правок кабинета)
@@ -2329,6 +2358,7 @@ function init() {
   initFontSize();
   buildBookSelector();
   buildNav();
+  Cabinet.loadEntitlements(); // подгрузить права доступа (для платного гейтинга)
 
   // Клик по заголовку книги в сайдбаре → на главную (welcome)
   const $bookTitle = document.getElementById('book-title');
