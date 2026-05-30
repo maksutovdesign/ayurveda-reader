@@ -54,6 +54,17 @@ function showOnly(panel) {
   document.getElementById('content').scrollTo({ top: 0, behavior: 'instant' });
 }
 
+// ── Возврат на главную (welcome) текущей книги ──────
+function goHome() {
+  currentChapterIdx = null;
+  showOnly($welcome);
+  setActiveBtn(-1);
+  setFooterActive(null);
+  history.replaceState(null, '', location.pathname);
+  savePosition();
+  closeSidebar();
+}
+
 // ── Mobile sidebar ─────────────────────────────────
 const $menuBtn       = document.getElementById('menu-btn');
 const $sidebarClose  = document.getElementById('sidebar-close');
@@ -382,46 +393,48 @@ function loadChapter(idx) {
   const frag = document.createDocumentFragment();
 
   // Check if chapter has any Sanskrit/IAST blocks
-  const hasSanskrit = (ch.content || []).some(b => b.sanskrit || b.iast);
+  const hasDeva = (ch.content || []).some(b => b.sanskrit);
+  const hasIast = (ch.content || []).some(b => b.iast);
+  const view    = document.getElementById('chapter-view');
 
-  // Sanskrit toggle button (only if chapter has Sanskrit data)
-  let $sanskritBtn = document.getElementById('sanskrit-toggle-btn');
-  if (!$sanskritBtn) {
-    $sanskritBtn = document.createElement('button');
-    $sanskritBtn.id = 'sanskrit-toggle-btn';
-    $sanskritBtn.className = 'sanskrit-toggle-btn';
-    document.getElementById('chapter-header').appendChild($sanskritBtn);
+  // ── Sanskrit controls: три отдельные кнопки देव / IAST / ОФ ─────────
+  let $sktBar = document.getElementById('skt-bar');
+  if (!$sktBar) {
+    $sktBar = document.createElement('div');
+    $sktBar.id = 'skt-bar';
+    $sktBar.className = 'skt-bar';
+    document.getElementById('chapter-header').appendChild($sktBar);
   }
-  if (hasSanskrit) {
-    $sanskritBtn.hidden = false;
-    const hasDeva = (ch.content || []).some(b => b.sanskrit);
-    // Cycle: off → devanagari+iast → iast only → off
-    const view = document.getElementById('chapter-view');
-    const _labels = {
-      '': hasDeva ? '𑀲𑀁 देव + IAST' : '🔤 IAST',
-      'show-sanskrit': hasDeva ? '🔤 только IAST' : '🙈 Скрыть',
-      'show-iast-only': '🙈 Скрыть',
-    };
-    const _next = {
-      '': 'show-sanskrit',
-      'show-sanskrit': hasDeva ? 'show-iast-only' : '',
-      'show-iast-only': '',
-    };
-    const _getMode = () => {
-      if (view.classList.contains('show-iast-only')) return 'show-iast-only';
-      if (view.classList.contains('show-sanskrit')) return 'show-sanskrit';
-      return '';
-    };
-    $sanskritBtn.textContent = _labels[_getMode()];
-    $sanskritBtn.onclick = () => {
-      const cur = _getMode();
-      view.classList.remove('show-sanskrit', 'show-iast-only');
-      const next = _next[cur];
-      if (next) view.classList.add(next);
-      $sanskritBtn.textContent = _labels[next || ''];
-    };
+
+  if (hasDeva || hasIast) {
+    $sktBar.hidden = false;
+    $sktBar.innerHTML = '';
+
+    if (hasDeva) {
+      const btnDev = document.createElement('button');
+      btnDev.className = 'skt-btn' + (view.classList.contains('show-devanagari') ? ' skt-btn--on' : '');
+      btnDev.textContent = 'देव';
+      btnDev.title = 'Деванагари (оригинальный санскрит)';
+      btnDev.onclick = () => {
+        view.classList.toggle('show-devanagari');
+        btnDev.classList.toggle('skt-btn--on');
+      };
+      $sktBar.appendChild(btnDev);
+    }
+
+    if (hasIast) {
+      const btnIast = document.createElement('button');
+      btnIast.className = 'skt-btn' + (view.classList.contains('show-iast') ? ' skt-btn--on' : '');
+      btnIast.textContent = 'IAST';
+      btnIast.title = 'Транслитерация IAST (латиница)';
+      btnIast.onclick = () => {
+        view.classList.toggle('show-iast');
+        btnIast.classList.toggle('skt-btn--on');
+      };
+      $sktBar.appendChild(btnIast);
+    }
   } else {
-    $sanskritBtn.hidden = true;
+    $sktBar.hidden = true;
   }
 
   // English-translation notice
@@ -2213,6 +2226,17 @@ function init() {
   initFontSize();
   buildBookSelector();
   buildNav();
+
+  // Клик по заголовку книги в сайдбаре → на главную (welcome)
+  const $bookTitle = document.getElementById('book-title');
+  if ($bookTitle) {
+    $bookTitle.style.cursor = 'pointer';
+    $bookTitle.title = 'На главную';
+    $bookTitle.addEventListener('click', goHome);
+  }
+  // Кнопка «домой» в шапке главы
+  const $homeBtn = document.getElementById('chapter-home-btn');
+  if ($homeBtn) $homeBtn.addEventListener('click', goHome);
 
   // Restore from URL hash
   const hash = location.hash;

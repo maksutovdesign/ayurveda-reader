@@ -520,7 +520,21 @@ body.dark  .icon-sun  { display: none; }
   align-items: center;
 }
 
-/* Font size button */
+/* Home + Font size buttons */
+#chapter-home-btn {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 3px 12px;
+  background: var(--bg-hover);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition);
+  letter-spacing: .02em;
+}
+#chapter-home-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--bg-active); }
+
 .font-size-btn {
   font-size: 12px;
   font-weight: 700;
@@ -614,7 +628,7 @@ body[data-font-size="xlarge"] { font-size: 21px; }
   color: var(--text);
 }
 
-/* ── Sanskrit / IAST (three display modes on #chapter-view) ── */
+/* ── Sanskrit / IAST (independent toggles on #chapter-view) ── */
 .verse-devanagari,
 .verse-iast {
   display: none;
@@ -623,13 +637,9 @@ body[data-font-size="xlarge"] { font-size: 21px; }
   border-bottom: 1px dashed var(--border);
 }
 
-/* Mode 1: show-sanskrit — Devanagari + IAST */
-#chapter-view.show-sanskrit .verse-devanagari,
-#chapter-view.show-sanskrit .verse-iast      { display: block; }
-
-/* Mode 2: show-iast-only — IAST only, no Devanagari */
-#chapter-view.show-iast-only .verse-iast     { display: block; }
-#chapter-view.show-iast-only .verse-devanagari { display: none; }
+/* Independent toggles: देв and IAST each shown on their own class */
+#chapter-view.show-devanagari .verse-devanagari { display: block; }
+#chapter-view.show-iast       .verse-iast       { display: block; }
 
 .verse-devanagari {
   font-family: 'Noto Sans Devanagari', 'Noto Serif Devanagari', serif;
@@ -647,13 +657,16 @@ body[data-font-size="xlarge"] { font-size: 21px; }
   letter-spacing: 0.01em;
 }
 
-/* ── Sanskrit toggle button in chapter header ── */
-.sanskrit-toggle-btn {
+/* ── Sanskrit toggle buttons (देв / IAST) in chapter header ── */
+.skt-bar {
+  display: inline-flex;
+  gap: 6px;
+  margin-top: 8px;
+}
+.skt-btn {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  margin-top: 8px;
-  padding: 4px 12px;
+  padding: 4px 14px;
   background: var(--bg-hover);
   border: 1px solid var(--border);
   border-radius: 20px;
@@ -664,13 +677,12 @@ body[data-font-size="xlarge"] { font-size: 21px; }
   transition: all var(--transition);
   letter-spacing: .03em;
 }
-.sanskrit-toggle-btn:hover {
+.skt-btn:hover {
   border-color: var(--accent);
   color: var(--accent);
   background: var(--bg-active);
 }
-#chapter-view.show-sanskrit .sanskrit-toggle-btn,
-#chapter-view.show-iast-only .sanskrit-toggle-btn {
+.skt-btn--on {
   border-color: var(--accent-light);
   color: var(--accent);
   background: var(--accent-glow);
