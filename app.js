@@ -6,7 +6,7 @@ import { REMEDIES } from './remedies.js?v=7';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=2';
+import * as Cabinet from './cabinet.js?v=3';
 
 // ── State ──────────────────────────────────────────
 let currentBookIdx     = 0;

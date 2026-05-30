@@ -2413,3 +2413,10 @@ body.dark #cabinet-toast { background: #3d3220; }
 .paywall-desc { font-size: 14px; line-height: 1.7; color: var(--text); margin-bottom: 18px; }
 .paywall-store { text-align: left; margin-bottom: 14px; }
 .paywall-note { font-size: 12px; color: var(--text-muted); }
+
+.sub-cancel-btn {
+  margin: 0 0 16px; padding: 6px 14px; font-size: 12px; font-weight: 600;
+  background: transparent; border: 1px solid var(--border); border-radius: 16px;
+  color: var(--text-muted); cursor: pointer; transition: all var(--transition);
+}
+.sub-cancel-btn:hover { border-color: #b4503c; color: #b4503c; }

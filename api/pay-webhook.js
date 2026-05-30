@@ -8,7 +8,7 @@
 import { getPayment, yooEnabled } from '../lib/yookassa.js';
 import { PRODUCTS } from '../lib/pricing.js';
 import { grantProduct } from '../lib/entitlements.js';
-import { kvGet, kvSet, kvEnabled } from '../lib/kv.js';
+import { kvGet, kvSet, kvSAdd, kvEnabled } from '../lib/kv.js';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
@@ -37,8 +37,14 @@ export default async function handler(req, res) {
     const product = PRODUCTS[productKey];
     if (!tgId || !product) return res.status(200).json({ ok: true, noMeta: true });
 
-    await grantProduct(tgId, productKey, product, { id: payment.id, amount: payment.amount });
+    // Для подписки сохраняем id метода оплаты (для будущих автосписаний)
+    const methodId = payment.payment_method?.saved ? payment.payment_method.id : undefined;
+    await grantProduct(tgId, productKey, product, { id: payment.id, amount: payment.amount, methodId });
     await kvSet(`pay:${payment.id}`, { ...(rec || {}), tgId, productKey, status: 'succeeded', granted: true, at: Date.now() });
+    // Подписки — в индекс для крона автопродления
+    if (product.type === 'subscription' && methodId) {
+      await kvSAdd('subs:active', tgId);
+    }
 
     return res.status(200).json({ ok: true, granted: true });
   } catch (e) {

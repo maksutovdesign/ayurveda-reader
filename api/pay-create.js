@@ -29,6 +29,7 @@ export default async function handler(req, res) {
       description: `${product.title} · Аюрведа-ридер`,
       returnUrl,
       metadata: { tgId: session.tgId, productKey },
+      savePaymentMethod: product.type === 'subscription', // для автопродления
     });
     // Сохраняем связку платёж→пользователь (на случай восстановления)
     if (kvEnabled) {

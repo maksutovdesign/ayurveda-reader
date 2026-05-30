@@ -7,10 +7,14 @@
     },
     "api/daily-post.js": {
       "maxDuration": 60
+    },
+    "api/renew-subscriptions.js": {
+      "maxDuration": 60
     }
   },
   "crons": [
     { "path": "/api/daily-post", "schedule": "0 9 * * *"  },
-    { "path": "/api/daily-post", "schedule": "0 18 * * *" }
+    { "path": "/api/daily-post", "schedule": "0 18 * * *" },
+    { "path": "/api/renew-subscriptions", "schedule": "0 3 * * *" }
   ]
 }

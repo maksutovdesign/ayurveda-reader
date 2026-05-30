@@ -207,18 +207,32 @@ async function renderAccessAndStore(view) {
     return;
   }
   // Текущий доступ
+  const now = Math.floor(Date.now()/1000);
   let access = [];
   if (_ent?.full) access.push('Полный доступ навсегда ✓');
-  if (_ent?.passUntil && _ent.passUntil > Math.floor(Date.now()/1000)) {
+  if (_ent?.passUntil && _ent.passUntil > now) {
     access.push('Пропуск до ' + new Date(_ent.passUntil*1000).toLocaleDateString('ru-RU'));
+  }
+  const sub = _ent?.sub;
+  const subActive = sub && sub.until > now;
+  if (subActive) {
+    access.push(sub.autoRenew
+      ? `Подписка активна (продлится ${new Date(sub.until*1000).toLocaleDateString('ru-RU')})`
+      : `Подписка до ${new Date(sub.until*1000).toLocaleDateString('ru-RU')} (автопродление отключено)`);
   }
   if (Array.isArray(_ent?.books) && _ent.books.length) {
     access.push('Куплены книги: ' + _ent.books.length);
   }
   if (accessEl) {
-    accessEl.innerHTML = access.length
+    let html = access.length
       ? `<div class="cabinet-access-box">🔓 ${access.join(' · ')}</div>`
       : '<p class="cabinet-note">Платный доступ не оформлен.</p>';
+    if (subActive && sub.autoRenew) {
+      html += '<button id="sub-cancel-btn" class="sub-cancel-btn">Отменить автопродление</button>';
+    }
+    accessEl.innerHTML = html;
+    const cancelBtn = accessEl.querySelector('#sub-cancel-btn');
+    if (cancelBtn) cancelBtn.onclick = () => cancelSubscription();
   }
   if (storeEl) {
     storeEl.innerHTML = '<h3 class="store-h">Открыть доступ</h3>';
@@ -344,6 +358,24 @@ export async function buyProduct(productKey) {
   }
 }
 
+/** Отменить автопродление подписки (доступ сохранится до конца периода) */
+export async function cancelSubscription() {
+  if (!isLoggedIn()) return;
+  if (!confirm('Отменить автопродление? Доступ сохранится до конца оплаченного периода.')) return;
+  try {
+    const res = await fetch('/api/sub-cancel', {
+      method: 'POST', headers: { 'Authorization': `Bearer ${_token}` },
+    });
+    const d = await res.json();
+    if (!res.ok) throw new Error(d.error || 'Ошибка');
+    await loadEntitlements(true);
+    showToast('Автопродление отключено. Доступ сохранится до конца периода.');
+    renderCabinet();
+  } catch (e) {
+    showToast('Не удалось отменить: ' + e.message, true);
+  }
+}
+
 function priceFmt(n) { return new Intl.NumberFormat('ru-RU').format(n) + ' ₽'; }
 
 /** Рендер каталога/paywall в контейнер. Если bookId задан — подсветить покупку этой книги. */
@@ -353,6 +385,8 @@ export function renderStore(container, bookId) {
   const bookProductKey = Object.keys(P).find(k => P[k].type === 'book' && P[k].bookId === bookId);
   const order = [];
   if (bookProductKey) order.push(bookProductKey);
+  // Подписка — первой среди общих вариантов
+  for (const k of Object.keys(P)) if (P[k].type === 'subscription') order.push(k);
   if (P.full) order.push('full');
   if (P.pass30) order.push('pass30');
   // прочие книги
@@ -360,7 +394,10 @@ export function renderStore(container, bookId) {
 
   const cards = order.filter(k => P[k]).map(k => {
     const p = P[k];
-    const badge = p.type === 'full' ? 'навсегда' : p.type === 'pass' ? `${p.days} дней` : 'книга';
+    const badge = p.type === 'full' ? 'навсегда'
+      : p.type === 'pass' ? `${p.days} дней`
+      : p.type === 'subscription' ? `${p.price} ₽/мес`
+      : 'книга';
     const hl = k === bookProductKey || k === 'full' ? ' store-card--hl' : '';
     return `<div class="store-card${hl}" data-product="${k}">
       <div class="store-badge">${badge}</div>
