@@ -10,35 +10,51 @@
  * BOOKS[6] = Астанга-санграха         (данные из astanga-data.js)
  */
 
-import { BOOK_DATA }            from './data.js';
-import { CHARAKA_DATA }         from './charaka-data.js';
-import { SUSHRUTA_DATA }        from './sushruta-data.js';
-import { MADHAVA_DATA }         from './madhava-data.js';
-import { SHARANGADHARA_DATA }   from './sharangadhara-data.js';
-import { BHAVAPRAKASHA_DATA }   from './bhavaprakasha-data.js';
-import { ASTANGA_DATA }         from './astanga-data.js';
+// Только Аштанга-хридая (флагман) грузится сразу — это стартовая книга.
+// Остальные 6 книг (~16 МБ) подгружаются лениво через loadBookData() при открытии.
+import { BOOK_DATA }            from './data.js?v=33';
 
-/** Создаёт главу-заглушку */
+/** Создаёт главу-заглушку (кликабельную: контент догрузится лениво) */
 function ch(sthana, num, title, subtitle = '') {
-  return { number: num, title, subtitle, sthana, available: false, content: [] };
+  return { number: num, title, subtitle, sthana, content: [] };
 }
 
 /**
- * Объединяет заглушки с реальным контентом из data-файла.
- * Ключ совпадения: sthana + number.
- * Если для главы есть контент (≥3 блоков) — удаляет available:false и добавляет lang.
+ * Лениво загружает данные книги и вмердживает контент в её главы (in place).
+ * Идемпотентно: повторные вызовы ничего не делают.
+ * Возвращает Promise<book>.
  */
-function mergeContent(stubs, dataArr) {
-  if (!dataArr || !dataArr.length) return stubs;
-  const map = new Map(dataArr.map(d => [`${d.sthana}:${d.number}`, d]));
-  return stubs.map(stub => {
+const DV = '?v=33'; // версия для cache-busting ленивых импортов
+const DATA_LOADERS = {
+  charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
+  sushruta:         () => import('./sushruta-data.js' + DV).then(m => m.SUSHRUTA_DATA),
+  madhava:          () => import('./madhava-data.js' + DV).then(m => m.MADHAVA_DATA),
+  sharangadhara:    () => import('./sharangadhara-data.js' + DV).then(m => m.SHARANGADHARA_DATA),
+  bhavaprakasha:    () => import('./bhavaprakasha-data.js' + DV).then(m => m.BHAVAPRAKASHA_DATA),
+  astanga_sangraha: () => import('./astanga-data.js' + DV).then(m => m.ASTANGA_DATA),
+};
+
+export async function loadBookData(book) {
+  if (!book || book._loaded) return book;
+  const loader = DATA_LOADERS[book.id];
+  if (!loader) { book._loaded = true; return book; } // AH и т.п. — данные уже на месте
+  let dataArr;
+  try { dataArr = await loader(); }
+  catch (e) { console.error('loadBookData', book.id, e); return book; }
+
+  const map = new Map((dataArr || []).map(d => [`${d.sthana}:${d.number}`, d]));
+  for (const stub of book.chapters) {
     const d = map.get(`${stub.sthana}:${stub.number}`);
     if (d && d.content && d.content.length >= 3) {
-      const { available: _a, ...rest } = stub;
-      return { ...rest, content: d.content, ...(d.lang ? { lang: d.lang } : {}) };
+      stub.content = d.content;
+      if (d.lang) stub.lang = d.lang;
+      delete stub.available;            // есть контент → кликабельна
+    } else {
+      stub.available = false;            // контента нет → заглушка
     }
-    return stub;
-  });
+  }
+  book._loaded = true;
+  return book;
 }
 
 // ─── Аштанга-хридая-самхита ───────────────────────────────────────────────
@@ -210,7 +226,8 @@ const CHARAKA = {
   description: 'Фундаментальный трактат по внутренней медицине (Каятантра). Самый объёмный из классических текстов Аюрведы.',
   stats: { chapters: 120, sthanas: 8, verses: '9000+' },
   sthanas: CHARAKA_STHANAS,
-  chapters: mergeContent(CHARAKA_CHAPTERS, CHARAKA_DATA),
+  chapters: CHARAKA_CHAPTERS,
+  _loaded: false,
 };
 
 // ─── Сушрута-самхита ──────────────────────────────────────────────────────
@@ -429,7 +446,8 @@ const SUSHRUTA = {
   description: 'Главный классический текст аюрведической хирургии (Шалья-тантра). Содержит подробное описание хирургических техник, инструментов и анатомии.',
   stats: { chapters: 186, sthanas: 6, verses: '10000+' },
   sthanas: SUSHRUTA_STHANAS,
-  chapters: mergeContent(SUSHRUTA_CHAPTERS, SUSHRUTA_DATA),
+  chapters: SUSHRUTA_CHAPTERS,
+  _loaded: false,
 };
 
 // ─── Мадхава-нидана ───────────────────────────────────────────────────────
@@ -517,10 +535,8 @@ const MADHAVA = {
   description: 'Главный трактат по аюрведической диагностике. Систематизирует этиологию, симптоматику и прогноз всех известных болезней.',
   stats: { chapters: 69, sthanas: 1, verses: '4000+' },
   sthanas: MADHAVA_STHANAS,
-  chapters: mergeContent(
-    MADHAVA_TITLES.map(([title, subtitle], i) => ch('Нидана', i + 1, title, subtitle)),
-    MADHAVA_DATA
-  ),
+  chapters: MADHAVA_TITLES.map(([title, subtitle], i) => ch('Нидана', i + 1, title, subtitle)),
+  _loaded: false,
 };
 
 // ─── Шарангадхара-самхита ─────────────────────────────────────────────────
@@ -576,7 +592,8 @@ const SHARANGADHARA = {
   description: 'Важнейший трактат по аюрведической фармакологии. Систематизирует методы приготовления и классификацию лекарственных форм.',
   stats: { chapters: 32, sthanas: 3, verses: '2600+' },
   sthanas: SHARANGADHARA_STHANAS,
-  chapters: mergeContent(SHARANGADHARA_CHAPTERS, SHARANGADHARA_DATA),
+  chapters: SHARANGADHARA_CHAPTERS,
+  _loaded: false,
 };
 
 // ─── Бхавапракаша ─────────────────────────────────────────────────────────
@@ -654,7 +671,8 @@ const BHAVAPRAKASHA = {
   description: 'Классический текст по дравьягуне (ботанической фармакологии) и клинической аюрведе. Содержит самый подробный нигханту (ботанический словарь) аюрведы.',
   stats: { chapters: 54, sthanas: 3, verses: '10000+' },
   sthanas: BHAVAPRAKASHA_STHANAS,
-  chapters: mergeContent(BHAVAPRAKASHA_CHAPTERS, BHAVAPRAKASHA_DATA),
+  chapters: BHAVAPRAKASHA_CHAPTERS,
+  _loaded: false,
 };
 
 // ─── Астанга-санграха ─────────────────────────────────────────────────────
@@ -757,7 +775,8 @@ const ASTANGA_SANGRAHA = {
   description: 'Старший текст Вагбхаты — прообраз Аштанга-хридаи. Более обширный и детализированный, содержит материал, не вошедший в сокращённую хридаю.',
   stats: { chapters: 162, sthanas: 6, verses: '8000+' },
   sthanas: ASTANGA_SANGRAHA_STHANAS,
-  chapters: mergeContent(ASTANGA_SANGRAHA_CHAPTERS, ASTANGA_DATA),
+  chapters: ASTANGA_SANGRAHA_CHAPTERS,
+  _loaded: false,
 };
 
 // ─── Реестр всех книг ─────────────────────────────────────────────────────

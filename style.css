@@ -2420,3 +2420,9 @@ body.dark #cabinet-toast { background: #3d3220; }
   color: var(--text-muted); cursor: pointer; transition: all var(--transition);
 }
 .sub-cancel-btn:hover { border-color: #b4503c; color: #b4503c; }
+
+/* Индикатор ленивой загрузки книги */
+.nav-loading {
+  padding: 20px 16px; text-align: center; color: var(--text-muted);
+  font-size: 13px; font-style: italic;
+}

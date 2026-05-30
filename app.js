@@ -1,5 +1,4 @@
-import { BOOK_DATA } from './data.js?v=12';
-import { BOOKS } from './books.js';
+import { BOOKS, loadBookData } from './books.js?v=33';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { REMEDIES } from './remedies.js?v=7';
@@ -297,9 +296,17 @@ function buildBookSelector() {
   window._syncBookBtn = syncBtn;
 }
 
-function selectBook(idx) {
+async function selectBook(idx) {
   currentBookIdx    = idx;
   currentChapterIdx = null;
+
+  // Лениво подгружаем данные книги (если ещё не загружены)
+  const bk = currentBook();
+  if (!bk._loaded) {
+    $nav.innerHTML = '<div class="nav-loading">Загрузка книги…</div>';
+    await loadBookData(bk);
+    if (currentBookIdx !== idx) return; // пользователь успел переключиться
+  }
 
   // Rebuild nav
   buildNav();
@@ -412,6 +419,16 @@ function setActiveBtn(idx) {
 
 // ── Load chapter ───────────────────────────────────
 function loadChapter(idx) {
+  const book = currentBook();
+  // Если данные книги ещё не подгружены — сначала грузим, потом открываем главу
+  if (!book._loaded) {
+    showOnly($chapterView);
+    $chapterBody.innerHTML = '<div class="nav-loading">Загрузка…</div>';
+    loadBookData(book).then(() => {
+      if (currentBook() === book) loadChapter(idx);
+    });
+    return;
+  }
   currentChapterIdx = idx;
   const ch = currentBook().chapters[idx];
 
@@ -2208,6 +2225,7 @@ $searchInput.addEventListener('input', () => {
   }, 250);
 });
 
+let _allBooksLoaded = false;
 function runSearch(query) {
   searchQuery = query;
   if (!query) {
@@ -2222,6 +2240,23 @@ function runSearch(query) {
 
   showOnly($searchRes);
   setFooterActive(null);
+
+  // Поиск идёт по всем книгам — догружаем недостающие данные один раз
+  if (!_allBooksLoaded) {
+    const pending = BOOKS.filter(b => !b._loaded);
+    if (pending.length) {
+      const bodyEl = document.getElementById('search-results-body');
+      const countEl = document.getElementById('search-count');
+      if (countEl) countEl.textContent = '';
+      if (bodyEl) bodyEl.innerHTML = '<div class="nav-loading">Подготовка поиска по всем книгам…</div>';
+      Promise.all(pending.map(loadBookData)).then(() => {
+        _allBooksLoaded = true;
+        if (searchQuery === query) runSearch(query); // повторяем после загрузки
+      });
+      return;
+    }
+    _allBooksLoaded = true;
+  }
 
   const q = query.toLowerCase();
   const results = [];
