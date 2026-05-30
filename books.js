@@ -12,7 +12,7 @@
 
 // Только Аштанга-хридая (флагман) грузится сразу — это стартовая книга.
 // Остальные 6 книг (~16 МБ) подгружаются лениво через loadBookData() при открытии.
-import { BOOK_DATA }            from './data.js?v=34';
+import { BOOK_DATA }            from './data.js?v=35';
 
 /** Создаёт главу-заглушку (кликабельную: контент догрузится лениво) */
 function ch(sthana, num, title, subtitle = '') {
@@ -24,7 +24,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Идемпотентно: повторные вызовы ничего не делают.
  * Возвращает Promise<book>.
  */
-const DV = '?v=34'; // версия для cache-busting ленивых импортов
+const DV = '?v=35'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
   sushruta:         () => import('./sushruta-data.js' + DV).then(m => m.SUSHRUTA_DATA),
