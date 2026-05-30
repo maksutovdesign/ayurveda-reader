@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=35';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=36';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { REMEDIES } from './remedies.js?v=7';
