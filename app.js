@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=36';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=37';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { REMEDIES } from './remedies.js?v=7';
@@ -378,9 +378,17 @@ function buildNav() {
 
     const label = document.createElement('div');
     label.className = 'sthana-label';
+    label.setAttribute('role', 'button');
+    label.setAttribute('tabindex', '0');
+    label.setAttribute('aria-expanded', 'true');
     label.innerHTML = `<span>${sthana}</span><span class="sthana-arrow">▾</span>`;
-    label.addEventListener('click', () => {
-      group.classList.toggle('collapsed');
+    const toggle = () => {
+      const collapsed = group.classList.toggle('collapsed');
+      label.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+    };
+    label.addEventListener('click', toggle);
+    label.addEventListener('keydown', e => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
     });
 
     const chaptersDiv = document.createElement('div');
