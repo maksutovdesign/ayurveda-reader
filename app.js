@@ -1,11 +1,11 @@
-import { BOOKS, loadBookData } from './books.js?v=33';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=34';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { REMEDIES } from './remedies.js?v=7';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=3';
+import * as Cabinet from './cabinet.js?v=4';
 
 // ── State ──────────────────────────────────────────
 let currentBookIdx     = 0;
@@ -2393,7 +2393,13 @@ function init() {
   initFontSize();
   buildBookSelector();
   buildNav();
-  Cabinet.loadEntitlements(); // подгрузить права доступа (для платного гейтинга)
+  // Права доступа + настройка защиты контента (Этап 6)
+  Cabinet.loadEntitlements().then(() => {
+    configureContent({
+      protection: Cabinet.contentProtectionEnabled(),
+      tokenProvider: Cabinet.getToken,
+    });
+  });
 
   // Клик по заголовку книги в сайдбаре → на главную (welcome)
   const $bookTitle = document.getElementById('book-title');

@@ -23,5 +23,6 @@ export default async function handler(req, res) {
     loggedIn: Boolean(session),
     paymentsEnabled: yooEnabled,  // paywall показывается только когда true
     previewChapters: PREVIEW_CHAPTERS,
+    contentProtection: process.env.CONTENT_PROTECTION === '1', // жёсткая защита (Этап 6)
   });
 }

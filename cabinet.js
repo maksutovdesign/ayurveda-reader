@@ -307,6 +307,7 @@ let _products = {};
 let _freeBooks = ['ashtanga'];
 let _paymentsEnabled = false;
 let _previewChapters = 1;
+let _contentProtection = false;
 let _entLoaded = false;
 
 export async function loadEntitlements(force) {
@@ -320,15 +321,18 @@ export async function loadEntitlements(force) {
     _freeBooks = d.freeBooks || ['ashtanga'];
     _paymentsEnabled = !!d.paymentsEnabled;
     _previewChapters = d.previewChapters ?? 1;
+    _contentProtection = !!d.contentProtection;
     _entLoaded = true;
   } catch (_) {
     // Бэкенд недоступен → не блокируем контент
-    _paymentsEnabled = false; _entLoaded = true;
+    _paymentsEnabled = false; _contentProtection = false; _entLoaded = true;
   }
 }
 
 export function paymentsEnabled() { return _paymentsEnabled; }
 export function previewChapters() { return _previewChapters; }
+export function contentProtectionEnabled() { return _contentProtection; }
+export function getToken() { return _token; }
 
 /** Доступна ли книга. Без платежей/бэкенда — всегда true (сайт открыт). */
 export function hasBookAccess(bookId) {

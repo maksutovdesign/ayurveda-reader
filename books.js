@@ -12,7 +12,7 @@
 
 // Только Аштанга-хридая (флагман) грузится сразу — это стартовая книга.
 // Остальные 6 книг (~16 МБ) подгружаются лениво через loadBookData() при открытии.
-import { BOOK_DATA }            from './data.js?v=33';
+import { BOOK_DATA }            from './data.js?v=34';
 
 /** Создаёт главу-заглушку (кликабельную: контент догрузится лениво) */
 function ch(sthana, num, title, subtitle = '') {
@@ -24,7 +24,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Идемпотентно: повторные вызовы ничего не делают.
  * Возвращает Promise<book>.
  */
-const DV = '?v=33'; // версия для cache-busting ленивых импортов
+const DV = '?v=34'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
   sushruta:         () => import('./sushruta-data.js' + DV).then(m => m.SUSHRUTA_DATA),
@@ -34,13 +34,40 @@ const DATA_LOADERS = {
   astanga_sangraha: () => import('./astanga-data.js' + DV).then(m => m.ASTANGA_DATA),
 };
 
+// Режим жёсткой защиты контента (Этап 6). Включается из app.js после
+// получения флага с /api/entitlements. Когда включён — данные платных книг
+// грузятся из защищённого API (/api/book-data), а не из статических файлов.
+let _contentProtection = false;
+let _tokenProvider = () => null;
+export function configureContent({ protection, tokenProvider } = {}) {
+  if (typeof protection === 'boolean') _contentProtection = protection;
+  if (typeof tokenProvider === 'function') _tokenProvider = tokenProvider;
+}
+
+async function fetchProtectedData(bookId) {
+  const token = _tokenProvider();
+  const res = await fetch(`/api/book-data?book=${encodeURIComponent(bookId)}`, {
+    headers: token ? { 'Authorization': `Bearer ${token}` } : {},
+  });
+  if (!res.ok) throw new Error('book-data ' + res.status);
+  const d = await res.json();
+  return d.data || [];
+}
+
 export async function loadBookData(book) {
   if (!book || book._loaded) return book;
   const loader = DATA_LOADERS[book.id];
   if (!loader) { book._loaded = true; return book; } // AH и т.п. — данные уже на месте
   let dataArr;
-  try { dataArr = await loader(); }
-  catch (e) { console.error('loadBookData', book.id, e); return book; }
+  try {
+    dataArr = _contentProtection ? await fetchProtectedData(book.id) : await loader();
+  }
+  catch (e) {
+    console.error('loadBookData', book.id, e);
+    // При сбое защищённого API — мягкий фолбэк на статику, чтобы не ломать сайт
+    if (_contentProtection) { try { dataArr = await loader(); } catch (_) { return book; } }
+    else return book;
+  }
 
   const map = new Map((dataArr || []).map(d => [`${d.sthana}:${d.number}`, d]));
   for (const stub of book.chapters) {
