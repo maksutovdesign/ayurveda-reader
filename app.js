@@ -680,57 +680,89 @@ function loadAHChapter(idx) {
 }
 
 // ── Diseases view ──────────────────────────────────
+let diseasesBuilt = false;
 function buildDiseasesView() {
-  const body = document.getElementById('diseases-body');
-  if (body.childNodes.length > 0) return; // already built
+  const body     = document.getElementById('diseases-body');
+  const filterEl = document.getElementById('diseases-filter');
+  const countEl  = document.getElementById('diseases-count');
+  const cats     = getDiseaseCategories();
 
-  const cats = getDiseaseCategories();
-  const frag = document.createDocumentFragment();
+  function render(filter) {
+    const q = (filter || '').toLowerCase().trim();
+    body.innerHTML = '';
+    const frag = document.createDocumentFragment();
+    let shown = 0;
 
-  for (const [cat, diseases] of Object.entries(cats)) {
-    const section = document.createElement('div');
-    section.className = 'disease-category';
+    for (const [cat, diseases] of Object.entries(cats)) {
+      const matched = q
+        ? diseases.filter(d =>
+            (d.name||'').toLowerCase().includes(q) ||
+            (d.origin||'').toLowerCase().includes(q) ||
+            (d.dosha||'').toLowerCase().includes(q) ||
+            (d.desc||'').toLowerCase().includes(q) ||
+            (d.treatment||'').toLowerCase().includes(q) ||
+            cat.toLowerCase().includes(q))
+        : diseases;
+      if (!matched.length) continue;
 
-    const title = document.createElement('div');
-    title.className = 'disease-category-title';
-    title.textContent = cat;
-    section.appendChild(title);
+      const section = document.createElement('div');
+      section.className = 'disease-category';
+      const title = document.createElement('div');
+      title.className = 'disease-category-title';
+      title.textContent = cat;
+      section.appendChild(title);
 
-    for (const d of diseases) {
-      const card = document.createElement('div');
-      card.className = 'disease-card';
-
-      const chips = d.chapters.map(c => {
-        const idx = findChapterByRef(c);
-        return idx >= 0
-          ? `<span class="disease-chip disease-chip--link" data-chapter-idx="${idx}">${c}</span>`
-          : `<span class="disease-chip">${c}</span>`;
-      }).join('');
-
-      card.innerHTML = `
-        <div class="disease-card-header">
-          <span class="disease-card-name">${d.name}</span>
-          <span class="disease-card-origin">${d.origin}</span>
-          <span class="disease-card-dosha">${d.dosha}</span>
-        </div>
-        <div class="disease-card-desc">${d.desc}</div>
-        <div class="disease-card-treatment">${d.treatment}</div>
-        <div class="disease-card-chapters">${chips}</div>
-      `;
-      section.appendChild(card);
+      for (const d of matched) {
+        shown++;
+        const card = document.createElement('div');
+        card.className = 'disease-card';
+        const chips = d.chapters.map(c => {
+          const idx = findChapterByRef(c);
+          return idx >= 0
+            ? `<span class="disease-chip disease-chip--link" data-chapter-idx="${idx}">${c}</span>`
+            : `<span class="disease-chip">${c}</span>`;
+        }).join('');
+        card.innerHTML = `
+          <div class="disease-card-header">
+            <span class="disease-card-name">${d.name}</span>
+            <span class="disease-card-origin">${d.origin}</span>
+            <span class="disease-card-dosha">${d.dosha}</span>
+          </div>
+          <div class="disease-card-desc">${d.desc}</div>
+          <div class="disease-card-treatment">${d.treatment}</div>
+          <div class="disease-card-chapters">${chips}</div>
+        `;
+        section.appendChild(card);
+      }
+      frag.appendChild(section);
     }
 
-    frag.appendChild(section);
+    if (shown === 0) {
+      const msg = document.createElement('div');
+      msg.className = 'no-results';
+      msg.textContent = `По запросу «${filter}» ничего не найдено`;
+      frag.appendChild(msg);
+    }
+    body.appendChild(frag);
+    if (countEl) countEl.textContent = q ? `${shown} из ${DISEASES.length}` : `${DISEASES.length} болезней`;
   }
 
-  body.appendChild(frag);
-
-  body.addEventListener('click', e => {
-    const chip = e.target.closest('.disease-chip--link');
-    if (!chip) return;
-    const idx = parseInt(chip.dataset.chapterIdx);
-    if (!isNaN(idx)) loadAHChapter(idx);
-  });
+  if (!diseasesBuilt) {
+    body.addEventListener('click', e => {
+      const chip = e.target.closest('.disease-chip--link');
+      if (!chip) return;
+      const idx = parseInt(chip.dataset.chapterIdx);
+      if (!isNaN(idx)) loadAHChapter(idx);
+    });
+    if (filterEl) {
+      filterEl.addEventListener('input', () => render(filterEl.value));
+      filterEl.addEventListener('keydown', e => {
+        if (e.key === 'Escape') { filterEl.value = ''; render(''); }
+      });
+    }
+    diseasesBuilt = true;
+  }
+  render(filterEl ? filterEl.value : '');
 }
 
 function setFooterActive(id) {

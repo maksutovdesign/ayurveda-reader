@@ -954,6 +954,35 @@ body[data-font-size="xlarge"] { font-size: 21px; }
 #glossary-filter:focus { border-color: var(--accent); }
 #glossary-filter::placeholder { color: var(--text-muted); }
 
+/* Shared filter wrap (diseases + others) */
+.filter-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
+.filter-wrap input[type="search"] {
+  flex: 1;
+  min-width: 200px;
+  max-width: 360px;
+  background: var(--search-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 8px 14px;
+  font-size: 13px;
+  color: var(--text);
+  outline: none;
+  transition: border-color var(--transition);
+}
+.filter-wrap input[type="search"]:focus { border-color: var(--accent); }
+.filter-wrap input[type="search"]::placeholder { color: var(--text-muted); }
+.filter-count {
+  font-size: 12px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
 /* Glossary grid */
 #glossary-body {
   display: grid;
