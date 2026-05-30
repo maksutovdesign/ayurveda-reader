@@ -6,6 +6,7 @@ import { REMEDIES } from './remedies.js?v=7';
 import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
+import * as Cabinet from './cabinet.js?v=1';
 
 // ── State ──────────────────────────────────────────
 let currentBookIdx     = 0;
@@ -45,8 +46,10 @@ const $quizView          = document.getElementById('quiz-view');
 const $quizBtn           = document.getElementById('quiz-btn');
 const $donateView        = document.getElementById('donate-view');
 const $donateBtn         = document.getElementById('donate-btn');
+const $cabinetView       = document.getElementById('cabinet-view');
+const $cabinetBtn        = document.getElementById('cabinet-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView, $donateView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView, $donateView, $cabinetView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -163,23 +166,53 @@ function renderText(text) {
   });
 }
 
+// Контекст текущей главы для наложения правок и кнопок кабинета
+let _renderCtx = null; // { bookId, sthana, chapter }
+
+function ov(field, fallback) {
+  if (!_renderCtx) return fallback;
+  const v = Cabinet.getOverride(_renderCtx.bookId, _renderCtx.sthana, _renderCtx.chapter, _renderCtx._vnum, field);
+  return v != null ? v : fallback;
+}
+
 function renderBlock(block) {
   const div = document.createElement('div');
   div.className = 'block';
 
   if (block.type === 'verse') {
     div.classList.add('block-verse');
+    if (_renderCtx) _renderCtx._vnum = String(block.number);
+    // Применяем одобренные правки поверх статики
+    const sText = ov('text', block.text);
+    const sIast = ov('iast', block.iast);
+    const sSkt  = ov('sanskrit', block.sanskrit);
+    const sTrans = ov('translation', null); // добавленный экспертами русский перевод
     const verseHeader = block.number != null
       ? `<div class="verse-header"><span class="verse-number">Стих ${block.number}</span></div>`
       : '';
-    // Sanskrit (Devanagari) and/or IAST romanisation — hidden until toggled
-    const devanagariHtml = block.sanskrit
-      ? `<div class="verse-devanagari" aria-label="Санскрит">${escapeHtml(block.sanskrit)}</div>`
+    const devanagariHtml = sSkt
+      ? `<div class="verse-devanagari" aria-label="Санскрит">${escapeHtml(sSkt)}</div>`
       : '';
-    const iastHtml = block.iast
-      ? `<div class="verse-iast" aria-label="IAST">${escapeHtml(block.iast)}</div>`
+    const iastHtml = sIast
+      ? `<div class="verse-iast" aria-label="IAST">${escapeHtml(sIast)}</div>`
       : '';
-    div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(block.text)}</div>`;
+    const transHtml = sTrans
+      ? `<div class="verse-translation" aria-label="Перевод">${renderText(sTrans)}</div>`
+      : '';
+    div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}`;
+    // Кнопка «предложить правку» (для вошедших)
+    if (_renderCtx && Cabinet.isLoggedIn() && block.number != null) {
+      const btn = document.createElement('button');
+      btn.className = 'verse-edit-btn';
+      btn.textContent = '✎ Предложить правку';
+      const vnum = String(block.number);
+      btn.onclick = () => Cabinet.openProposalModal({
+        bookId: _renderCtx.bookId, sthana: _renderCtx.sthana,
+        chapter: _renderCtx.chapter, verseNumber: vnum,
+        oldValue: sTrans || sText || '',
+      });
+      div.appendChild(btn);
+    }
   } else if (block.type === 'comment') {
     div.classList.add('block-comment');
     // Optional: commentary author (Арунадатта, Хемадри …)
@@ -382,6 +415,16 @@ function loadChapter(idx) {
   currentChapterIdx = idx;
   const ch = currentBook().chapters[idx];
 
+  // Контекст для правок кабинета
+  _renderCtx = { bookId: currentBook().id, sthana: ch.sthana, chapter: ch.number, _vnum: null };
+  // Подгружаем одобренные правки книги; если появятся новые — перерисуем главу
+  Cabinet.loadOverrides(currentBook().id).then(ovs => {
+    if (ovs && Object.keys(ovs).length && currentChapterIdx === idx) {
+      // перерисовать тело главы с учётом правок
+      rerenderChapterBody(ch);
+    }
+  });
+
   showOnly($chapterView);
 
   $chBreadcrumb.textContent = ch.sthana;
@@ -391,6 +434,24 @@ function loadChapter(idx) {
   $chSubtitle.textContent = ch.subtitle || '';
   $chSubtitle.hidden = !ch.subtitle;
 
+  renderChapterBody(ch, idx);
+
+  setActiveBtn(idx);
+  setFooterActive(null);
+
+  // Update URL hash and save position
+  history.replaceState(null, '', `#ch${idx}`);
+  savePosition();
+}
+
+// Перерисовать тело главы (вызывается при появлении правок кабинета)
+function rerenderChapterBody(ch) {
+  if (currentChapterIdx == null) return;
+  renderChapterBody(ch, currentChapterIdx);
+}
+
+// Рендер заголовочных контролов + контента + навигации главы
+function renderChapterBody(ch, idx) {
   $chapterBody.innerHTML = '';
   const frag = document.createDocumentFragment();
 
@@ -494,13 +555,6 @@ function loadChapter(idx) {
 
   navFrag.appendChild(navBar);
   $chapterBody.appendChild(navFrag);
-
-  setActiveBtn(idx);
-  setFooterActive(null);
-
-  // Update URL hash and save position
-  history.replaceState(null, '', `#ch${idx}`);
-  savePosition();
 }
 
 // ── Glossary → Encyclopedia lookup ─────────────────
@@ -781,6 +835,7 @@ function setFooterActive(id) {
   $foodtableBtn.classList.toggle('active', id === 'foodtable');
   $quizBtn.classList.toggle('active', id === 'quiz');
   $donateBtn.classList.toggle('active', id === 'donate');
+  if ($cabinetBtn) $cabinetBtn.classList.toggle('active', id === 'cabinet');
 }
 
 // ── Remedies view ──────────────────────────────────
@@ -2057,6 +2112,15 @@ if ($donateBtn) $donateBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#donate');
 });
 
+if ($cabinetBtn) $cabinetBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('cabinet');
+  showOnly($cabinetView);
+  Cabinet.renderCabinet();
+  history.replaceState(null, '', '#cabinet');
+  closeSidebar();
+});
+
 // Copy-to-clipboard for donate requisites
 document.addEventListener('click', e => {
   const btn = e.target.closest('.donate-copy');
@@ -2331,6 +2395,10 @@ function init() {
   }
   if (hash === '#donate') {
     $donateBtn.click();
+    return;
+  }
+  if (hash === '#cabinet' && $cabinetBtn) {
+    $cabinetBtn.click();
     return;
   }
   // Default: show welcome

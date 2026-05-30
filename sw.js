@@ -3,13 +3,14 @@
  * Стратегия: Cache First для статики, Network First для данных
  */
 
-const CACHE = 'ayurveda-v1';
+const CACHE = 'ayurveda-v2';
 
 const STATIC = [
   '/',
   '/app.js',
   '/style.css',
   '/books.js',
+  '/cabinet.js',
   '/glossary.js',
   '/diseases.js',
   '/remedies.js',
@@ -41,12 +42,14 @@ self.addEventListener('fetch', e => {
   // Skip non-GET and API calls
   if (e.request.method !== 'GET' || url.pathname.startsWith('/api/')) return;
 
-  // Large data files: Network First (fresh content), fallback to cache
-  if (url.pathname.endsWith('-data.js') || url.pathname === '/data.js') {
+  // Navigation (index.html) + data files: Network First, чтобы новые деплои
+  // подхватывались сразу и не залипал старый index.html
+  const isNavigation = e.request.mode === 'navigate' || url.pathname === '/' || url.pathname.endsWith('.html');
+  if (isNavigation || url.pathname.endsWith('-data.js') || url.pathname === '/data.js') {
     e.respondWith(
       fetch(e.request)
         .then(r => { const c = r.clone(); caches.open(CACHE).then(cache => cache.put(e.request, c)); return r; })
-        .catch(() => caches.match(e.request))
+        .catch(() => caches.match(e.request).then(c => c || caches.match('/')))
     );
     return;
   }
