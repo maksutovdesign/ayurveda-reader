@@ -1,11 +1,25 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=39';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=40';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
-import { REMEDIES } from './remedies.js?v=7';
-import { ENCYCLOPEDIA, ENCYCLOPEDIA_INDEX } from './encyclopedia.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 import * as Cabinet from './cabinet.js?v=5';
+
+// ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
+// Грузятся при первом открытии соответствующего раздела, а не на старте.
+let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
+let _encLoaded = false, _remLoaded = false, _encMapCache = null;
+async function ensureEncyclopedia() {
+  if (_encLoaded) return;
+  const m = await import('./encyclopedia.js?v=7');
+  ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
+  _encLoaded = true; _encMapCache = null;
+}
+async function ensureRemedies() {
+  if (_remLoaded) return;
+  const m = await import('./remedies.js?v=7');
+  REMEDIES = m.REMEDIES; _remLoaded = true;
+}
 
 // ── State ──────────────────────────────────────────
 let currentBookIdx     = 0;
@@ -646,26 +660,24 @@ function renderChapterBody(ch, idx) {
 
 // ── Glossary → Encyclopedia lookup ─────────────────
 // For each glossary term, find the best-matching encyclopedia article.
-// Returns { secId, artId } or null.
-const GLOSSARY_ENC_MAP = (() => {
+// Лениво: пока энциклопедия не загружена — пустая карта (ссылок нет).
+function glossaryEncMap() {
+  if (_encMapCache) return _encMapCache;
   const map = {};
   for (const sec of ENCYCLOPEDIA) {
     for (const art of sec.articles) {
       const titleLower = art.title.toLowerCase();
-      const titleWords = titleLower.split(/[\s()/,—–:-]+/).filter(w => w.length > 3);
       for (const entry of GLOSSARY) {
         const termLower = entry.term.toLowerCase();
-        // Match if term appears verbatim in article title, or vice versa
         if (titleLower.includes(termLower) || termLower.includes(titleLower)) {
-          if (!map[entry.term]) {
-            map[entry.term] = { secId: sec.id, artId: art.id };
-          }
+          if (!map[entry.term]) map[entry.term] = { secId: sec.id, artId: art.id };
         }
       }
     }
   }
+  if (_encLoaded) _encMapCache = map; // кешируем только когда данные реально загружены
   return map;
-})();
+}
 
 // ── Glossary view ──────────────────────────────────
 function buildGlossaryView() {
@@ -779,7 +791,7 @@ function buildGlossaryView() {
 
       for (const entry of grouped[cat]) {
         const card = document.createElement('div');
-        const encRef = GLOSSARY_ENC_MAP[entry.term];
+        const encRef = glossaryEncMap()[entry.term];
         card.className = encRef ? 'glossary-card glossary-card--linked' : 'glossary-card';
         card.innerHTML = `
           <div class="glossary-card-term">${entry.term}${encRef ? ' <span class="glossary-enc-link">→ статья</span>' : ''}</div>
@@ -787,7 +799,8 @@ function buildGlossaryView() {
           <div class="glossary-card-def">${entry.def}</div>
         `;
         if (encRef) {
-          card.addEventListener('click', () => {
+          card.addEventListener('click', async () => {
+            await ensureEncyclopedia();
             buildEncyclopediaView();
             openEncArticleFn && openEncArticleFn(encRef.secId, encRef.artId);
           });
@@ -1843,6 +1856,10 @@ $glossaryBtn.addEventListener('click', () => {
   showOnly($glossaryView);
   buildGlossaryView();
   history.replaceState(null, '', '#glossary');
+  // Фоном подгружаем энциклопедию, чтобы появились ссылки «→ статья»
+  if (!_encLoaded) ensureEncyclopedia().then(() => {
+    if (!$glossaryView.hidden) buildGlossaryView();
+  });
 });
 
 $diseasesBtn.addEventListener('click', () => {
@@ -1853,20 +1870,30 @@ $diseasesBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#diseases');
 });
 
-$remediesBtn.addEventListener('click', () => {
+$remediesBtn.addEventListener('click', async () => {
   setActiveBtn(-1);
   setFooterActive('remedies');
   showOnly($remediesView);
-  buildRemediesView();
   history.replaceState(null, '', '#remedies');
+  if (!_remLoaded) {
+    const list = document.getElementById('remedies-list');
+    if (list) list.innerHTML = '<div class="nav-loading">Загрузка домашних средств…</div>';
+    await ensureRemedies();
+  }
+  buildRemediesView();
 });
 
-$encyclopediaBtn.addEventListener('click', () => {
+$encyclopediaBtn.addEventListener('click', async () => {
   setActiveBtn(-1);
   setFooterActive('encyclopedia');
   showOnly($encyclopediaView);
-  buildEncyclopediaView();
   history.replaceState(null, '', '#encyclopedia');
+  if (!_encLoaded) {
+    const grid = document.getElementById('enc-section-grid');
+    if (grid) grid.innerHTML = '<div class="nav-loading">Загрузка энциклопедии…</div>';
+    await ensureEncyclopedia();
+  }
+  buildEncyclopediaView();
 });
 
 $referencesBtn.addEventListener('click', () => {
@@ -2230,10 +2257,11 @@ document.addEventListener('click', e => {
 });
 
 // ── Cross-remedy navigation ─────────────────────────
-document.addEventListener('click', e => {
+document.addEventListener('click', async e => {
   const ref = e.target.closest('.rem-cross-ref');
   if (!ref) return;
   e.preventDefault();
+  await ensureRemedies();
   const name = ref.dataset.remedy;
   const remedy = REMEDIES.find(r =>
     r.name === name || r.name.replace(/ё/g, 'е') === name.replace(/ё/g, 'е')

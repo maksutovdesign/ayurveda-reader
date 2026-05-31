@@ -3,7 +3,7 @@
  * Стратегия: Cache First для статики, Network First для данных
  */
 
-const CACHE = 'ayurveda-v10';
+const CACHE = 'ayurveda-v11';
 
 const STATIC = [
   '/',
@@ -13,10 +13,9 @@ const STATIC = [
   '/cabinet.js',
   '/glossary.js',
   '/diseases.js',
-  '/remedies.js',
-  '/encyclopedia.js',
   '/quiz.js',
   '/foodtable.js',
+  // encyclopedia.js и remedies.js — ленивые, кешируются при первом открытии раздела
 ];
 
 // Install: cache static assets
