@@ -69,6 +69,55 @@ function injectTelegramWidget(container) {
   container.appendChild(s);
 }
 
+// ── Тест-вход (полный доступ) ───────────────────────
+// Кнопка показывается только на localhost ИЛИ когда бэкенд отдал testLogin:true
+// (TEST_LOGIN=1). В обычном проде её нет, а /api/dev-login отвечает 404.
+function isLocalhost() {
+  const h = location.hostname;
+  return h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0' || h.endsWith('.local');
+}
+
+async function maybeShowDevLogin(box) {
+  if (!box) return;
+  await loadEntitlements();
+  if (!(_testLogin || isLocalhost())) return;
+  box.innerHTML = `
+    <div class="dev-login-wrap">
+      <button id="dev-login-btn" class="dev-login-btn">🧪 Тест-вход (полный доступ)</button>
+      <p class="cabinet-note">Тестовый режим: роль администратора и доступ ко всем книгам. Только для проверки — в проде выключен.</p>
+    </div>`;
+  box.querySelector('#dev-login-btn').onclick = devLogin;
+}
+
+async function devLogin() {
+  try {
+    const res = await fetch('/api/dev-login', { method: 'POST' });
+    const ct = res.headers.get('content-type') || '';
+    if (res.ok && ct.includes('application/json')) {
+      const d = await res.json();
+      if (d && d.token) {
+        saveSession(d.token, d.user);
+        _entLoaded = false; _localTestMode = false;
+        renderCabinet();
+        showToast('Тест-вход (сервер): роль admin, полный доступ ✓');
+        return;
+      }
+    }
+    throw new Error('backend unavailable');
+  } catch (_) {
+    // Локальный фолбэк: статика без бэкенда — фейковая сессия только на клиенте
+    saveSession('__local_dev__', {
+      tgId: 'test-admin', name: 'Тест (локально)',
+      username: 'test_full_access', role: 'admin', photo: '',
+    });
+    _localTestMode = true;
+    _ent = { full: true, test: true, books: [] };
+    _entLoaded = true;
+    renderCabinet();
+    showToast('Тест-вход (локально): полный доступ ✓. Модерация и приём правок — только на сервере с KV.');
+  }
+}
+
 // ── Overrides (правки поверх статики) ───────────────
 export async function loadOverrides(bookId) {
   if (_overridesCache[bookId]) return _overridesCache[bookId];
@@ -177,8 +226,10 @@ export function renderCabinet() {
         Эксперты и администраторы получают расширенные права.</p>
         <div id="tg-login-box"></div>
         <p class="cabinet-note">Вход безопасен: пароль не требуется, используется подпись Telegram.</p>
+        <div id="dev-login-box"></div>
       </div>`;
     injectTelegramWidget(view.querySelector('#tg-login-box'));
+    maybeShowDevLogin(view.querySelector('#dev-login-box'));
     return;
   }
   const u = _user;
@@ -199,7 +250,7 @@ export function renderCabinet() {
       <div id="cabinet-store"></div>
       ${u.role === 'admin' ? '<div id="admin-panel"></div>' : ''}
     </div>`;
-  view.querySelector('#cabinet-logout').onclick = () => { clearSession(); _entLoaded = false; renderCabinet(); };
+  view.querySelector('#cabinet-logout').onclick = () => { clearSession(); _entLoaded = false; _localTestMode = false; _ent = null; renderCabinet(); };
   if (u.role === 'admin') renderAdminPanel(view.querySelector('#admin-panel'));
   renderAccessAndStore(view);
 }
@@ -249,6 +300,10 @@ async function renderAccessAndStore(view) {
 }
 
 async function renderAdminPanel(el) {
+  if (_localTestMode) {
+    el.innerHTML = '<h3>Модерация правок</h3><p class="cabinet-note">🧪 Локальный тест-режим. Модерация и приём правок работают только на сервере с подключённым KV (Vercel KV / Upstash). Кнопки «✎ Предложить правку» в главах открываются, но отправка уйдёт в ошибку без бэкенда.</p>';
+    return;
+  }
   el.innerHTML = '<h3>Модерация правок</h3><p class="cabinet-note">Загрузка…</p>';
   try {
     const res = await fetch('/api/proposals?status=pending', { headers: { 'Authorization': `Bearer ${_token}` } });
@@ -320,6 +375,8 @@ let _paymentsEnabled = false;
 let _previewChapters = 1;
 let _contentProtection = false;
 let _entLoaded = false;
+let _testLogin = false;      // бэкенд разрешил тест-вход (TEST_LOGIN=1)
+let _localTestMode = false;  // тест-вход без бэкенда (статика)
 
 export async function loadEntitlements(force) {
   if (_entLoaded && !force) return;
@@ -333,6 +390,7 @@ export async function loadEntitlements(force) {
     _paymentsEnabled = !!d.paymentsEnabled;
     _previewChapters = d.previewChapters ?? 1;
     _contentProtection = !!d.contentProtection;
+    _testLogin = !!d.testLogin;
     _entLoaded = true;
   } catch (_) {
     // Бэкенд недоступен → не блокируем контент

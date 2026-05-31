@@ -24,5 +24,6 @@ export default async function handler(req, res) {
     paymentsEnabled: yooEnabled,  // paywall показывается только когда true
     previewChapters: PREVIEW_CHAPTERS,
     contentProtection: process.env.CONTENT_PROTECTION === '1', // жёсткая защита (Этап 6)
+    testLogin: process.env.TEST_LOGIN === '1', // показывать кнопку тест-входа (НЕ включать в проде)
   });
 }
