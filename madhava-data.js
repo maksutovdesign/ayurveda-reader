@@ -1,10 +1,9 @@
-/** MADHAVA_DATA — санскрит (деванагари + IAST) из Sanskrit Wikisource
-  * Русские обзоры глав сохранены как вступление. lang:sa */
+/** MADHAVA_DATA — очищено от вики-маркеров */
 export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 1,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Джвара нидана — Диагностика лихорадок" },
       { type: "text", text: "Мадхавакара открывает свой трактат подробным описанием лихорадки (джвара) — «царицы болезней». Описываются восемь типов по дошам и причины каждого." },
@@ -22,11 +21,11 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "12", sanskrit: "स्तैमित्यं स्तिमितो वेग आलस्यं मधुरास्यता शुक्लमूत्रपुरीषत्वं स्तम्भस्तृप्तिरथापि च", text: "staimityaṃ stimito vega ālasyaṃ madhurāsyatā śuklamūtrapurīṣatvaṃ stambhastṛptirathāpi ca" },
       { type: "verse", number: "13", sanskrit: "गौरवं शीतमुत्क्लेदो रोमहर्षोऽतिनिद्र ता स्रोतोरोधो रुगल्पत्वं प्रसेको लवणास्यता नात्युष्णगात्रताच्छर्दिर्लालास्रावोऽविपाकता प्रतिश्यायोऽरुचिः कासः कफजेऽक्ष्णोश्च शुक्लता", text: "gauravaṃ śītamutkledo romaharṣo'tinidra tā srotorodho rugalpatvaṃ praseko lavaṇāsyatā nātyuṣṇagātratācchardirlālāsrāvo'vipākatā pratiśyāyo'ruciḥ kāsaḥ kaphaje'kṣṇośca śuklatā" },
       { type: "verse", number: "14", sanskrit: "तृष्णा मूर्च्छा भ्रमो दाहः स्वप्ननाशः शिरोरुजा कण्ठास्यशोषो वमथू रोमहर्षोऽरुचिस्तमः", text: "tṛṣṇā mūrcchā bhramo dāhaḥ svapnanāśaḥ śirorujā kaṇṭhāsyaśoṣo vamathū romaharṣo'rucistamaḥ" },
-      { type: "verse", number: "15", sanskrit: "पूर्वभेदश्च जृम्भा च वातपित्तज्वराकृतिः स्तैमित्यं पर्वणां भेदो निद्रा  गौरवमेव च", text: "pūrvabhedaśca jṛmbhā ca vātapittajvarākṛtiḥ staimityaṃ parvaṇāṃ bhedo nidrā  gauravameva ca" },
+      { type: "verse", number: "15", sanskrit: "पूर्वभेदश्च जृम्भा च वातपित्तज्वराकृतिः स्तैमित्यं पर्वणां भेदो निद्रा गौरवमेव च", text: "pūrvabhedaśca jṛmbhā ca vātapittajvarākṛtiḥ staimityaṃ parvaṇāṃ bhedo nidrā gauravameva ca" },
       { type: "verse", number: "16", sanskrit: "शिरोग्रहः प्रतिश्यायः कासः स्वेदाप्रवर्तनम् सन्तापो मध्यवेगश्च वातश्लेष्मज्वराकृतिः", text: "śirograhaḥ pratiśyāyaḥ kāsaḥ svedāpravartanam santāpo madhyavegaśca vātaśleṣmajvarākṛtiḥ" },
-      { type: "verse", number: "17", sanskrit: "लिप्ततिक्तास्यता तन्द्रा  मोहः कासोऽरुचिस्तृषा मुहुर्दाहो मुहुः शीतं श्लेष्मपित्तज्वराकृतिः", text: "liptatiktāsyatā tandrā  mohaḥ kāso'rucistṛṣā muhurdāho muhuḥ śītaṃ śleṣmapittajvarākṛtiḥ" },
+      { type: "verse", number: "17", sanskrit: "लिप्ततिक्तास्यता तन्द्रा मोहः कासोऽरुचिस्तृषा मुहुर्दाहो मुहुः शीतं श्लेष्मपित्तज्वराकृतिः", text: "liptatiktāsyatā tandrā mohaḥ kāso'rucistṛṣā muhurdāho muhuḥ śītaṃ śleṣmapittajvarākṛtiḥ" },
       { type: "verse", number: "18", sanskrit: "क्षणे दाहः क्षणे शीतमस्थिसन्धिशिरोरुजा सास्रावे कलुषे रक्ते निर्भुग्ने चापि लोचने", text: "kṣaṇe dāhaḥ kṣaṇe śītamasthisandhiśirorujā sāsrāve kaluṣe rakte nirbhugne cāpi locane" },
-      { type: "verse", number: "19", sanskrit: "सस्वनौ सरुजौ कर्णौ कण्ठः शूकैरिवावृतः तन्द्रा  मोहः प्रलापश्च कासः श्वासोऽरुचिर्भ्रमः", text: "sasvanau sarujau karṇau kaṇṭhaḥ śūkairivāvṛtaḥ tandrā  mohaḥ pralāpaśca kāsaḥ śvāso'rucirbhramaḥ" },
+      { type: "verse", number: "19", sanskrit: "सस्वनौ सरुजौ कर्णौ कण्ठः शूकैरिवावृतः तन्द्रा मोहः प्रलापश्च कासः श्वासोऽरुचिर्भ्रमः", text: "sasvanau sarujau karṇau kaṇṭhaḥ śūkairivāvṛtaḥ tandrā mohaḥ pralāpaśca kāsaḥ śvāso'rucirbhramaḥ" },
       { type: "verse", number: "20", sanskrit: "परिदग्धा खरस्पर्शा जिह्वा स्रस्ताङ्गता परम् ष्ठीवनं रक्तपित्तस्य कफेनोन्मिश्रितस्य च", text: "paridagdhā kharasparśā jihvā srastāṅgatā param ṣṭhīvanaṃ raktapittasya kaphenonmiśritasya ca" },
       { type: "verse", number: "21", sanskrit: "शिरसो लोठनं तृष्णा निद्रा नाशो हृदि व्यथा स्वेदमूत्रपुरीषाणां चिराद्दर्शनमल्पशः", text: "śiraso loṭhanaṃ tṛṣṇā nidrā nāśo hṛdi vyathā svedamūtrapurīṣāṇāṃ cirāddarśanamalpaśaḥ" },
       { type: "verse", number: "22", sanskrit: "कृशत्वं नातिगात्राणां प्रततं कण्ठकूजनम् कोठानां श्यावरक्तानां मण्डलानां च दर्शनम्", text: "kṛśatvaṃ nātigātrāṇāṃ pratataṃ kaṇṭhakūjanam koṭhānāṃ śyāvaraktānāṃ maṇḍalānāṃ ca darśanam" },
@@ -49,7 +48,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "32", sanskrit: "धातुमन्यमतं प्राप्य करोति विषमज्वरम् सन्ततं रसरक्तस्थः सोऽन्येद्युः पिशिताश्रितः", text: "dhātumanyamataṃ prāpya karoti viṣamajvaram santataṃ rasaraktasthaḥ so'nyedyuḥ piśitāśritaḥ" },
       { type: "verse", number: "34", sanskrit: "मेदोगतस्तृतीयेऽह्नि त्वस्थिमज्जगतः पुनः कुर्याच्चतुर्थकं घोरमन्तकं रोगसंकरम् सप्ताहं वा दशाहं वा द्वादशाहमथापि वा सन्तत्यायोऽविसर्गीस्यात् सन्ततः स निगद्यते", text: "medogatastṛtīye'hni tvasthimajjagataḥ punaḥ kuryāccaturthakaṃ ghoramantakaṃ rogasaṃkaram saptāhaṃ vā daśāhaṃ vā dvādaśāhamathāpi vā santatyāyo'visargīsyāt santataḥ sa nigadyate" },
       { type: "verse", number: "35", sanskrit: "अहोरात्रे सततको द्वौ कालावनुवर्तते अन्येद्युष्कस्त्वहोरात्र एककालं प्रवर्तते", text: "ahorātre satatako dvau kālāvanuvartate anyedyuṣkastvahorātra ekakālaṃ pravartate" },
-      { type: "verse", number: "36", sanskrit: "तृतीयकस्तृतीयेऽह्नि चतुर्थेऽह्नि चतुर्थकः केचिद्भूताभिषङ्गोत्थं ब्रुवते  विषमज्वरम्", text: "tṛtīyakastṛtīye'hni caturthe'hni caturthakaḥ kecidbhūtābhiṣaṅgotthaṃ bruvate  viṣamajvaram" },
+      { type: "verse", number: "36", sanskrit: "तृतीयकस्तृतीयेऽह्नि चतुर्थेऽह्नि चतुर्थकः केचिद्भूताभिषङ्गोत्थं ब्रुवते विषमज्वरम्", text: "tṛtīyakastṛtīye'hni caturthe'hni caturthakaḥ kecidbhūtābhiṣaṅgotthaṃ bruvate viṣamajvaram" },
       { type: "verse", number: "37", sanskrit: "कफपित्तात्त्रिकग्राही पृष्ठाद्वातकफात्मकः वातपित्ताच्छिरोग्राही त्रिविधः स्यात्तृतीयकः", text: "kaphapittāttrikagrāhī pṛṣṭhādvātakaphātmakaḥ vātapittācchirogrāhī trividhaḥ syāttṛtīyakaḥ" },
       { type: "verse", number: "38", sanskrit: "चतुर्थको दर्शयति प्रभावं द्विविधं ज्वरः जङ्घाभ्यां श्लैष्मिकः पूर्वं शिरस्तोऽनिलसंभवः", text: "caturthako darśayati prabhāvaṃ dvividhaṃ jvaraḥ jaṅghābhyāṃ ślaiṣmikaḥ pūrvaṃ śirasto'nilasaṃbhavaḥ" },
       { type: "verse", number: "39", sanskrit: "विषमज्वर एवान्यश्चतुर्थकविपर्ययः स मध्ये ज्वरयत्यह्नी आदावन्ते च मुञ्चति", text: "viṣamajvara evānyaścaturthakaviparyayaḥ sa madhye jvarayatyahnī ādāvante ca muñcati" },
@@ -71,7 +70,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "1", sanskrit: "रिसरक्ताश्रितः साध्यो मांसमेदोगतश्च यः अस्थिमञ्जगतः कृच्छ्रः शुक्रस्थस्तु न सिध्यति", text: "risaraktāśritaḥ sādhyo māṃsamedogataśca yaḥ asthimañjagataḥ kṛcchraḥ śukrasthastu na sidhyati" },
       { type: "verse", number: "55", sanskrit: "वर्षाशरद्वसन्तेषु वाताद्यैः प्राकृतः क्रमात् वैकृतोऽन्य स दुःसाध्यः प्राकृतश्चानिलोद्भवः", text: "varṣāśaradvasanteṣu vātādyaiḥ prākṛtaḥ kramāt vaikṛto'nya sa duḥsādhyaḥ prākṛtaścānilodbhavaḥ" },
       { type: "verse", number: "56", sanskrit: "वर्षाषु मारुतो दुष्टः पित्तश्लेष्मान्वितो ज्वरम् कुर्यात् पित्तं च शरदि तस्य चानुबलः कफः", text: "varṣāṣu māruto duṣṭaḥ pittaśleṣmānvito jvaram kuryāt pittaṃ ca śaradi tasya cānubalaḥ kaphaḥ" },
-      { type: "verse", number: "57", sanskrit: "तत्प्रकृत्या विसर्गाच्च  तत्र नानशनाद्भयम् कफो वसन्ते तमपि वातपित्तं भवेदनु", text: "tatprakṛtyā visargācca  tatra nānaśanādbhayam kapho vasante tamapi vātapittaṃ bhavedanu" },
+      { type: "verse", number: "57", sanskrit: "तत्प्रकृत्या विसर्गाच्च तत्र नानशनाद्भयम् कफो वसन्ते तमपि वातपित्तं भवेदनु", text: "tatprakṛtyā visargācca tatra nānaśanādbhayam kapho vasante tamapi vātapittaṃ bhavedanu" },
       { type: "verse", number: "58", sanskrit: "काले यथास्वं सर्वेषां प्रवृत्तिर्वृद्धिरेव वा निदानोक्तानुपशयो विपरीतोपशायिता", text: "kāle yathāsvaṃ sarveṣāṃ pravṛttirvṛddhireva vā nidānoktānupaśayo viparītopaśāyitā" },
       { type: "verse", number: "59", sanskrit: "अन्तर्दाहोऽधिकस्तृष्णा प्रलापः श्वसनं भ्रमः सन्ध्यस्थिशूलमस्वेदो दोषवर्चोविनिग्रहः", text: "antardāho'dhikastṛṣṇā pralāpaḥ śvasanaṃ bhramaḥ sandhyasthiśūlamasvedo doṣavarcovinigrahaḥ" },
       { type: "verse", number: "60", sanskrit: "अन्तर्वेगस्य लिङ्गानि ज्वरस्यैतानि लक्षयेत् सन्तापो ह्यधिको बाह्यस्तृष्णादीनां च मार्दवम्", text: "antarvegasya liṅgāni jvarasyaitāni lakṣayet santāpo hyadhiko bāhyastṛṣṇādīnāṃ ca mārdavam" },
@@ -95,7 +94,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 2,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Рактапитта нидана — Кровотечения" },
       { type: "text", text: "Ракта-питта — расстройство, при котором возбуждённая Питта нарушает целостность крови, вызывая кровотечения. Описываются восходящий и нисходящий типы." },
@@ -105,7 +104,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "4", sanskrit: "संशम्यांपां धातुरग्निं प्रवृद्धः शकृन्मिश्रो वायुनाऽध प्रणुन्नः सरत्यतीवातिसारं तमाहुर्व्याधिं घोरं षड्विधं तं वदन्ति एकैकशः सर्वशश्चापि दोषैः शोकेनान्यः षष्ठ आमेन चोक्तः", text: "saṃśamyāṃpāṃ dhāturagniṃ pravṛddhaḥ śakṛnmiśro vāyunā'dha praṇunnaḥ saratyatīvātisāraṃ tamāhurvyādhiṃ ghoraṃ ṣaḍvidhaṃ taṃ vadanti ekaikaśaḥ sarvaśaścāpi doṣaiḥ śokenānyaḥ ṣaṣṭha āmena coktaḥ" },
       { type: "verse", number: "5", sanskrit: "हृन्नाभिपायूदरकुक्षितोद गात्रावसादानिलसन्निरोधाः विट्सङ्ग आध्मानमथाविपाको भविष्यतस्तस्य पुरःसराणि", text: "hṛnnābhipāyūdarakukṣitoda gātrāvasādānilasannirodhāḥ viṭsaṅga ādhmānamathāvipāko bhaviṣyatastasya puraḥsarāṇi" },
       { type: "verse", number: "6", sanskrit: "अरुणं फेनिलं रूक्षमल्पमल्पं मुहुर्मुहुः शकृदामं सरुक्शब्दं मारुतेनातिसार्यते", text: "aruṇaṃ phenilaṃ rūkṣamalpamalpaṃ muhurmuhuḥ śakṛdāmaṃ sarukśabdaṃ mārutenātisāryate" },
-      { type: "verse", number: "7", sanskrit: "पित्तात्पीतं नीलमालोहितं वा तृष्णामूर्च्छादाहपाकोपपन्नम् शुक्लं सान्द्रं  श्लेष्मणा श्लेष्मयुक्तं विस्रं शीतं हृष्टरोमा मनुष्यः", text: "pittātpītaṃ nīlamālohitaṃ vā tṛṣṇāmūrcchādāhapākopapannam śuklaṃ sāndraṃ  śleṣmaṇā śleṣmayuktaṃ visraṃ śītaṃ hṛṣṭaromā manuṣyaḥ" },
+      { type: "verse", number: "7", sanskrit: "पित्तात्पीतं नीलमालोहितं वा तृष्णामूर्च्छादाहपाकोपपन्नम् शुक्लं सान्द्रं श्लेष्मणा श्लेष्मयुक्तं विस्रं शीतं हृष्टरोमा मनुष्यः", text: "pittātpītaṃ nīlamālohitaṃ vā tṛṣṇāmūrcchādāhapākopapannam śuklaṃ sāndraṃ śleṣmaṇā śleṣmayuktaṃ visraṃ śītaṃ hṛṣṭaromā manuṣyaḥ" },
       { type: "verse", number: "8", sanskrit: "वराहस्नेहमांसाम्बुसदृशं सर्वरूपिणम् कृच्छ्रसाध्यमतीसारं विद्याद्दोषत्रयोद्भवम्", text: "varāhasnehamāṃsāmbusadṛśaṃ sarvarūpiṇam kṛcchrasādhyamatīsāraṃ vidyāddoṣatrayodbhavam" },
       { type: "verse", number: "9", sanskrit: "तैस्तैर्भावैः शोचतोऽल्पाशनस्य बाष्पोष्मा वै वह्निमाविश्य जन्तोः कोष्ठं गत्वा क्षोभयेत्तस्य रक्तं तच्चाधस्तात् काकणन्तीप्रकाशम्", text: "taistairbhāvaiḥ śocato'lpāśanasya bāṣpoṣmā vai vahnimāviśya jantoḥ koṣṭhaṃ gatvā kṣobhayettasya raktaṃ taccādhastāt kākaṇantīprakāśam" },
       { type: "verse", number: "10", sanskrit: "निर्गच्छेद्वै विड्विमिश्रं ह्यविड वा निर्गन्धं वा गन्धवद्वाऽतिसारः शोकोत्पन्नो दुश्चिकित्स्योऽतिमात्रं रोगो वैद्यैः कष्ट एष प्रदिष्टः", text: "nirgacchedvai viḍvimiśraṃ hyaviḍa vā nirgandhaṃ vā gandhavadvā'tisāraḥ śokotpanno duścikitsyo'timātraṃ rogo vaidyaiḥ kaṣṭa eṣa pradiṣṭaḥ" },
@@ -128,7 +127,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 3,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Шоша нидана — Туберкулёз" },
       { type: "text", text: "Шоша (раджаякшма) — изнурительная болезнь, поражающая лёгкие и все дхату. Мадхавакара систематически описывает её признаки, причины и прогноз." },
@@ -149,19 +148,19 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "15", sanskrit: "हृदयं मन्यते स्त्यानमुदरं स्तिमितं गुरु दुष्टोमधुर उद्गारः सदनं स्त्रीष्वहर्षणम्", text: "hṛdayaṃ manyate styānamudaraṃ stimitaṃ guru duṣṭomadhura udgāraḥ sadanaṃ strīṣvaharṣaṇam" },
       { type: "verse", number: "16", sanskrit: "भिन्नामश्लेष्मसंसृष्टगुरुवर्चःप्रवर्तनम् अकृशस्यापि दौर्बल्यमालस्यं च कफात्मके", text: "bhinnāmaśleṣmasaṃsṛṣṭaguruvarcaḥpravartanam akṛśasyāpi daurbalyamālasyaṃ ca kaphātmake" },
       { type: "verse", number: "17", sanskrit: "पृथग्वातादिनिर्दिष्टहेतुलिङ्गसमागमे त्रिदोषं निर्दिशेदेवं तेषां वक्ष्यामि भेषजम्", text: "pṛthagvātādinirdiṣṭahetuliṅgasamāgame tridoṣaṃ nirdiśedevaṃ teṣāṃ vakṣyāmi bheṣajam" },
-      { type: "verse", number: "1", sanskrit: "अन्त्रकूजनमालस्यं दौर्बल्यं सदनं तथा द्र वं शीतं घनं स्निग्धं सकटीवेदनं शकृत्  १७-", text: "antrakūjanamālasyaṃ daurbalyaṃ sadanaṃ tathā dra vaṃ śītaṃ ghanaṃ snigdhaṃ sakaṭīvedanaṃ śakṛt  17-" },
-      { type: "verse", number: "2", sanskrit: "आमं बहु सपैच्छिल्यं सशब्दं मन्दवेदनम् पक्षान्मासाद्दशाहाद्वा नित्यं वाऽप्यथ मुञ्चति  १७-", text: "āmaṃ bahu sapaicchilyaṃ saśabdaṃ mandavedanam pakṣānmāsāddaśāhādvā nityaṃ vā'pyatha muñcati  17-" },
-      { type: "verse", number: "3", sanskrit: "दिवा प्रकोपो भवति रात्रौ शान्तिं व्रजेच्च या दुर्विज्ञेया दुश्चिकित्स्या चिरकालानुबन्धिनी  १७-", text: "divā prakopo bhavati rātrau śāntiṃ vrajecca yā durvijñeyā duścikitsyā cirakālānubandhinī  17-" },
-      { type: "verse", number: "4", sanskrit: "सा भवेदामवातेन संग्रहग्रहणी मता स्विपतः पार्श्वयोः शूलं गलज्जलघटीध्वनिः तं वदन्ति घटीयन्त्रमसाध्यं ग्रहणीगदम्  १७-", text: "sā bhavedāmavātena saṃgrahagrahaṇī matā svipataḥ pārśvayoḥ śūlaṃ galajjalaghaṭīdhvaniḥ taṃ vadanti ghaṭīyantramasādhyaṃ grahaṇīgadam  17-" },
+      { type: "verse", number: "1", sanskrit: "अन्त्रकूजनमालस्यं दौर्बल्यं सदनं तथा द्र वं शीतं घनं स्निग्धं सकटीवेदनं शकृत् १७-", text: "antrakūjanamālasyaṃ daurbalyaṃ sadanaṃ tathā dra vaṃ śītaṃ ghanaṃ snigdhaṃ sakaṭīvedanaṃ śakṛt 17-" },
+      { type: "verse", number: "2", sanskrit: "आमं बहु सपैच्छिल्यं सशब्दं मन्दवेदनम् पक्षान्मासाद्दशाहाद्वा नित्यं वाऽप्यथ मुञ्चति १७-", text: "āmaṃ bahu sapaicchilyaṃ saśabdaṃ mandavedanam pakṣānmāsāddaśāhādvā nityaṃ vā'pyatha muñcati 17-" },
+      { type: "verse", number: "3", sanskrit: "दिवा प्रकोपो भवति रात्रौ शान्तिं व्रजेच्च या दुर्विज्ञेया दुश्चिकित्स्या चिरकालानुबन्धिनी १७-", text: "divā prakopo bhavati rātrau śāntiṃ vrajecca yā durvijñeyā duścikitsyā cirakālānubandhinī 17-" },
+      { type: "verse", number: "4", sanskrit: "सा भवेदामवातेन संग्रहग्रहणी मता स्विपतः पार्श्वयोः शूलं गलज्जलघटीध्वनिः तं वदन्ति घटीयन्त्रमसाध्यं ग्रहणीगदम् १७-", text: "sā bhavedāmavātena saṃgrahagrahaṇī matā svipataḥ pārśvayoḥ śūlaṃ galajjalaghaṭīdhvaniḥ taṃ vadanti ghaṭīyantramasādhyaṃ grahaṇīgadam 17-" },
       { type: "verse", number: "18", sanskrit: "दोषं सामं निरामं च विद्यादत्रातिसारवत्", text: "doṣaṃ sāmaṃ nirāmaṃ ca vidyādatrātisāravat" },
       { type: "verse", number: "19", sanskrit: "लिङ्गैरसाध्यो ग्रहणीविकारो यैस्तैरतीसारगदो न सिध्येत् वृद्धस्य नूनं ग्रहणीविकारो हत्वा तनुं नैव निवर्तते च", text: "liṅgairasādhyo grahaṇīvikāro yaistairatīsāragado na sidhyet vṛddhasya nūnaṃ grahaṇīvikāro hatvā tanuṃ naiva nivartate ca" },
-      { type: "verse", number: "1", sanskrit: "बालके ग्रहणी साध्या यूनि कृच्छ्रा समीरिता वृद्धे त्वसाध्या विज्ञेया मतं धन्वन्तरेरिदम्  १९-", text: "bālake grahaṇī sādhyā yūni kṛcchrā samīritā vṛddhe tvasādhyā vijñeyā mataṃ dhanvantareridam  19-" },
+      { type: "verse", number: "1", sanskrit: "बालके ग्रहणी साध्या यूनि कृच्छ्रा समीरिता वृद्धे त्वसाध्या विज्ञेया मतं धन्वन्तरेरिदम् १९-", text: "bālake grahaṇī sādhyā yūni kṛcchrā samīritā vṛddhe tvasādhyā vijñeyā mataṃ dhanvantareridam 19-" },
     ],
   },
   {
     sthana: "Нидана",
     number: 4,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Гулма нидана — Абдоминальные массы" },
       { type: "text", text: "Гулма — ощущаемая масса в животе, возникающая от скопления дош. Описываются пять типов: ватаджа, питтаджа, капхаджа, санниатаджа и рактаджа." },
@@ -214,7 +213,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 5,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Плиха нидана — Болезни селезёнки" },
       { type: "text", text: "Плиходара — болезни и увеличение селезёнки. Мадхавакара описывает причины (малярия, анемия, неправильное питание) и специфические признаки увеличения плихи." },
@@ -250,13 +249,13 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 6,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Хрид рога нидана — Болезни сердца" },
       { type: "text", text: "Хрид-рога (болезни сердца) описываются как угрожающие жизни состояния, ибо сердце есть вместилище Праны. Классификация по пяти дошевым типам." },
       { type: "verse", number: "1", sanskrit: "अथ क्रिमिनिदानम् क्रिमयश्च द्विधा प्रोक्ता बाह्याभ्यन्तरभेदतः बहिर्मलकफासृग्विड्जन्मभेदाच्चतुर्विधाः", text: "atha kriminidānam krimayaśca dvidhā proktā bāhyābhyantarabhedataḥ bahirmalakaphāsṛgviḍjanmabhedāccaturvidhāḥ" },
       { type: "verse", number: "2", sanskrit: "नामतो विंशतिविधाः बाह्यास्तत्र मलोद्भवाः तिलप्रमाणसंस्थानवर्णाः केशाम्बराश्रयाः", text: "nāmato viṃśatividhāḥ bāhyāstatra malodbhavāḥ tilapramāṇasaṃsthānavarṇāḥ keśāmbarāśrayāḥ" },
-      { type: "verse", number: "3", sanskrit: "बहुपादाश्च सूक्ष्माश्चयूका लिक्षाश्च नामतः द्विधा  ते कोठपिडकाकण्डूगण्डान् प्रकुर्वते", text: "bahupādāśca sūkṣmāścayūkā likṣāśca nāmataḥ dvidhā  te koṭhapiḍakākaṇḍūgaṇḍān prakurvate" },
+      { type: "verse", number: "3", sanskrit: "बहुपादाश्च सूक्ष्माश्चयूका लिक्षाश्च नामतः द्विधा ते कोठपिडकाकण्डूगण्डान् प्रकुर्वते", text: "bahupādāśca sūkṣmāścayūkā likṣāśca nāmataḥ dvidhā te koṭhapiḍakākaṇḍūgaṇḍān prakurvate" },
       { type: "verse", number: "4", sanskrit: "अजीर्णभोजी मधुराम्लनित्यो द्र वप्रियः पिष्टगुडोपभोक्ता व्यायामवर्जी च दिवाशयानो विरुद्धभुक् संलभते क्रिमींस्तु", text: "ajīrṇabhojī madhurāmlanityo dra vapriyaḥ piṣṭaguḍopabhoktā vyāyāmavarjī ca divāśayāno viruddhabhuk saṃlabhate krimīṃstu" },
       { type: "verse", number: "5", sanskrit: "माषपिष्टाम्ललवणगुडशाकैः पुरीषजाः मांसमत्स्यगुडक्षीरदधिशुक्तैः कफोद्भवाः", text: "māṣapiṣṭāmlalavaṇaguḍaśākaiḥ purīṣajāḥ māṃsamatsyaguḍakṣīradadhiśuktaiḥ kaphodbhavāḥ" },
       { type: "verse", number: "6", sanskrit: "विरुद्धाजीर्णशाकाद्यैः शोणितोत्था भवन्ति हि ज्वरो विवर्णता शूलं हृद्रो गः सदनं भ्रमः", text: "viruddhājīrṇaśākādyaiḥ śoṇitotthā bhavanti hi jvaro vivarṇatā śūlaṃ hṛdro gaḥ sadanaṃ bhramaḥ" },
@@ -275,7 +274,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 7,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Мурча нидана — Обмороки" },
       { type: "text", text: "Мурча (обморок) — внезапная потеря сознания без судорог. Шесть типов: ватаджа, питтаджа, капхаджа, санниатаджа, ракта-джа и мадья-джа (от алкоголя)." },
@@ -301,13 +300,13 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "20", sanskrit: "सरक्ताक्षिमुखच्छर्दिविण्मूत्रो यश्च ताम्यति दाहारुचितृडानाहतन्द्रा मोहसमन्वितः", text: "saraktākṣimukhacchardiviṇmūtro yaśca tāmyati dāhārucitṛḍānāhatandrā mohasamanvitaḥ" },
       { type: "verse", number: "21", sanskrit: "नष्टाग्निसंज्ञः क्षिप्रं हि कामलावान्विपद्यते छर्द्यरोचकहृल्लासज्वरक्लमनिपीडितः", text: "naṣṭāgnisaṃjñaḥ kṣipraṃ hi kāmalāvānvipadyate chardyarocakahṛllāsajvaraklamanipīḍitaḥ" },
       { type: "verse", number: "22", sanskrit: "नश्यति श्वासकासार्तो विड्भेदी कुम्भकामली यदा तु पाण्डोर्वर्णः स्याद्धरितः श्यावपीतकः", text: "naśyati śvāsakāsārto viḍbhedī kumbhakāmalī yadā tu pāṇḍorvarṇaḥ syāddharitaḥ śyāvapītakaḥ" },
-      { type: "verse", number: "23", sanskrit: "बलोत्साहक्षयस्तन्द्रा  मन्दाग्नित्वं मृदुज्वरः स्त्रीष्वहर्षोऽङ्गमर्दश्च दाहस्तृष्णाऽरुचिर्भ्रमः हलीमकं तदा तस्य विद्यादनिलपित्ततः", text: "balotsāhakṣayastandrā  mandāgnitvaṃ mṛdujvaraḥ strīṣvaharṣo'ṅgamardaśca dāhastṛṣṇā'rucirbhramaḥ halīmakaṃ tadā tasya vidyādanilapittataḥ" },
+      { type: "verse", number: "23", sanskrit: "बलोत्साहक्षयस्तन्द्रा मन्दाग्नित्वं मृदुज्वरः स्त्रीष्वहर्षोऽङ्गमर्दश्च दाहस्तृष्णाऽरुचिर्भ्रमः हलीमकं तदा तस्य विद्यादनिलपित्ततः", text: "balotsāhakṣayastandrā mandāgnitvaṃ mṛdujvaraḥ strīṣvaharṣo'ṅgamardaśca dāhastṛṣṇā'rucirbhramaḥ halīmakaṃ tadā tasya vidyādanilapittataḥ" },
     ],
   },
   {
     sthana: "Нидана",
     number: 8,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Аруши нидана — Язвы" },
       { type: "text", text: "Аруши — язвы кожи и слизистых оболочек различной этиологии. Классификация по дошам, локализации и глубине поражения." },
@@ -315,7 +314,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "2", sanskrit: "पित्तं विदग्धं स्वगुणैर्विदहत्याशु शोणितम् ततः प्रवर्तते रक्तमूर्ध्वं चाधो द्विधाऽपि वा", text: "pittaṃ vidagdhaṃ svaguṇairvidahatyāśu śoṇitam tataḥ pravartate raktamūrdhvaṃ cādho dvidhā'pi vā" },
       { type: "verse", number: "3", sanskrit: "ऊर्ध्वं नासाक्षिकर्णास्यैर्मेढ्रयोनिगुदैरधः कुपितं रोमकूपैश्च समस्तैस्तत्प्रवर्तते", text: "ūrdhvaṃ nāsākṣikarṇāsyairmeḍhrayonigudairadhaḥ kupitaṃ romakūpaiśca samastaistatpravartate" },
       { type: "verse", number: "4", sanskrit: "सदनं शीतकामित्वं कण्ठधूमायनं वमिः लोहगन्धिश्च निःश्वासो भवत्यस्मिन् भविष्यति", text: "sadanaṃ śītakāmitvaṃ kaṇṭhadhūmāyanaṃ vamiḥ lohagandhiśca niḥśvāso bhavatyasmin bhaviṣyati" },
-      { type: "verse", number: "5", sanskrit: "सान्द्रं  सपाण्डु सस्नेहं पिच्छिलं च कफान्वितम् श्यावारुणं सफेनं च तनु रूक्षं च वातिकम्", text: "sāndraṃ  sapāṇḍu sasnehaṃ picchilaṃ ca kaphānvitam śyāvāruṇaṃ saphenaṃ ca tanu rūkṣaṃ ca vātikam" },
+      { type: "verse", number: "5", sanskrit: "सान्द्रं सपाण्डु सस्नेहं पिच्छिलं च कफान्वितम् श्यावारुणं सफेनं च तनु रूक्षं च वातिकम्", text: "sāndraṃ sapāṇḍu sasnehaṃ picchilaṃ ca kaphānvitam śyāvāruṇaṃ saphenaṃ ca tanu rūkṣaṃ ca vātikam" },
       { type: "verse", number: "6", sanskrit: "रक्तपित्तं कषायाभं कृष्णं गोमूत्रसंनिभम् मेचकागारधूमाभमञ्जनाभं च पैत्तिकम्", text: "raktapittaṃ kaṣāyābhaṃ kṛṣṇaṃ gomūtrasaṃnibham mecakāgāradhūmābhamañjanābhaṃ ca paittikam" },
       { type: "verse", number: "7", sanskrit: "संसृष्टलिङ्गं संसर्गात्त्रिलिङ्गं सान्निपातिकम् ऊर्ध्वगं कफसंसृष्टमधोगं पवनानुगम् द्विमार्गं कफवाताम्यामुभाभ्यामनुवर्तते", text: "saṃsṛṣṭaliṅgaṃ saṃsargāttriliṅgaṃ sānnipātikam ūrdhvagaṃ kaphasaṃsṛṣṭamadhogaṃ pavanānugam dvimārgaṃ kaphavātāmyāmubhābhyāmanuvartate" },
       { type: "verse", number: "8", sanskrit: "ऊर्ध्वं साध्यमधो याप्यमसाध्यं युगपद्गतम् एकमार्गं बलवतो नातिवेगं नवोत्थितम्", text: "ūrdhvaṃ sādhyamadho yāpyamasādhyaṃ yugapadgatam ekamārgaṃ balavato nātivegaṃ navotthitam" },
@@ -330,7 +329,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 9,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Дагда нидана — Ожоги" },
       { type: "text", text: "Классификация ожогов по степени тяжести: поверхностные, глубокие и проникающие. Мадхавакара описывает признаки каждой степени и прогностические критерии." },
@@ -359,7 +358,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "23", sanskrit: "अधीयानस्य वाऽत्युच्चैर्दूरं वा व्रजतो द्रुतम् महानदीर्वा तरतो हयैर्वा सह धावतः", text: "adhīyānasya vā'tyuccairdūraṃ vā vrajato drutam mahānadīrvā tarato hayairvā saha dhāvataḥ" },
       { type: "verse", number: "24", sanskrit: "सहसोत्पत्ततो दूरं तूर्णं चाऽपि प्रनृत्यतः तथाऽन्यै कर्मभिः क्रूरैर्भृशमभ्याहतस्य वा", text: "sahasotpattato dūraṃ tūrṇaṃ cā'pi pranṛtyataḥ tathā'nyai karmabhiḥ krūrairbhṛśamabhyāhatasya vā" },
       { type: "verse", number: "25", sanskrit: "विक्षते वक्षसि व्याधिर्बलवान् समुदीर्यते स्त्रीषु चातिप्रसक्तस्य रूक्षाल्पप्रमिताशिनः", text: "vikṣate vakṣasi vyādhirbalavān samudīryate strīṣu cātiprasaktasya rūkṣālpapramitāśinaḥ" },
-      { type: "verse", number: "26", sanskrit: "उरो  विभज्यतेऽत्यर्थं भिद्यतेऽथ विरुज्यते प्रपीड्येते ततः पार्श्वे शुष्यत्यङ्गं प्रवेपते", text: "uro  vibhajyate'tyarthaṃ bhidyate'tha virujyate prapīḍyete tataḥ pārśve śuṣyatyaṅgaṃ pravepate" },
+      { type: "verse", number: "26", sanskrit: "उरो विभज्यतेऽत्यर्थं भिद्यतेऽथ विरुज्यते प्रपीड्येते ततः पार्श्वे शुष्यत्यङ्गं प्रवेपते", text: "uro vibhajyate'tyarthaṃ bhidyate'tha virujyate prapīḍyete tataḥ pārśve śuṣyatyaṅgaṃ pravepate" },
       { type: "verse", number: "27", sanskrit: "क्रमाद्वीर्यं बलं वर्णो रुचिरग्निश्च हीयते ज्वरो व्यथा मनोदैन्यं विड्भेदाग्निबधावपि", text: "kramādvīryaṃ balaṃ varṇo ruciragniśca hīyate jvaro vyathā manodainyaṃ viḍbhedāgnibadhāvapi" },
       { type: "verse", number: "28", sanskrit: "दुष्टः श्यावः सुदुर्गन्धः पीतो विग्रथितो बहुः कासमानस्य चाभीक्ष्णं कफः सासृक् प्रवर्तते", text: "duṣṭaḥ śyāvaḥ sudurgandhaḥ pīto vigrathito bahuḥ kāsamānasya cābhīkṣṇaṃ kaphaḥ sāsṛk pravartate" },
       { type: "verse", number: "29", sanskrit: "स क्षती क्षीयतेऽत्यर्थं तथा शुक्रौजसोः क्षयात् अव्यक्तं लक्षणं तस्य पूर्वरूपमिति स्मृतम्", text: "sa kṣatī kṣīyate'tyarthaṃ tathā śukraujasoḥ kṣayāt avyaktaṃ lakṣaṇaṃ tasya pūrvarūpamiti smṛtam" },
@@ -370,7 +369,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 10,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Виша нидана — Отравления" },
       { type: "text", text: "Систематическое описание отравлений тремя группами ядов: стхавара (растительные), джангама (животные) и критрима (искусственные). Признаки и скорость действия каждой группы." },
@@ -394,7 +393,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 11,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Мадатья нидана — Алкогольное отравление" },
       { type: "text", text: "Мадатья (состояние опьянения) и его патологические последствия. Три стадии опьянения: лёгкое, среднее (мадатья) и тяжёлое (ати-мада)." },
@@ -435,7 +434,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "34", sanskrit: "मेघाम्बुशीतप्राग्वातैः श्लेष्मलैश्च विवर्धते स याप्यस्तमकः श्वासः साध्यो वा स्यान्नवोत्थितः", text: "meghāmbuśītaprāgvātaiḥ śleṣmalaiśca vivardhate sa yāpyastamakaḥ śvāsaḥ sādhyo vā syānnavotthitaḥ" },
       { type: "verse", number: "35", sanskrit: "ज्वरमूर्च्छापरीतस्य विद्यात्प्रतमकं तु तम् उदावर्तरजोऽजीर्णक्लिन्नकायनिरोधजः", text: "jvaramūrcchāparītasya vidyātpratamakaṃ tu tam udāvartarajo'jīrṇaklinnakāyanirodhajaḥ" },
       { type: "verse", number: "36", sanskrit: "तमसा वर्धतेऽत्यर्थं शीतैश्चाशु प्रशाम्यति मज्जतस्तमसीवास्य विद्यात्संतमकं तु तम्", text: "tamasā vardhate'tyarthaṃ śītaiścāśu praśāmyati majjatastamasīvāsya vidyātsaṃtamakaṃ tu tam" },
-      { type: "verse", number: "37", sanskrit: "रूक्षायासोद्भवः कोष्ठे क्षुद्रो  वात उदीरयन् क्षुद्र श्वासो न सोऽत्यर्थं दुःखेनाङ्गप्रबाधकः", text: "rūkṣāyāsodbhavaḥ koṣṭhe kṣudro  vāta udīrayan kṣudra śvāso na so'tyarthaṃ duḥkhenāṅgaprabādhakaḥ" },
+      { type: "verse", number: "37", sanskrit: "रूक्षायासोद्भवः कोष्ठे क्षुद्रो वात उदीरयन् क्षुद्र श्वासो न सोऽत्यर्थं दुःखेनाङ्गप्रबाधकः", text: "rūkṣāyāsodbhavaḥ koṣṭhe kṣudro vāta udīrayan kṣudra śvāso na so'tyarthaṃ duḥkhenāṅgaprabādhakaḥ" },
       { type: "verse", number: "38", sanskrit: "हिनस्ति न स गात्राणि न च दुःखो यथेतरे न च भोजनपानानां निरुणद्ध्युचितांगतिम्", text: "hinasti na sa gātrāṇi na ca duḥkho yathetare na ca bhojanapānānāṃ niruṇaddhyucitāṃgatim" },
       { type: "verse", number: "39", sanskrit: "नेन्द्रि याणां व्यथां नापि कांचिदापादयेद्रुजम् स साध्य उक्तो बलिनः सर्वे चाव्यक्तलक्षणाः", text: "nendri yāṇāṃ vyathāṃ nāpi kāṃcidāpādayedrujam sa sādhya ukto balinaḥ sarve cāvyaktalakṣaṇāḥ" },
       { type: "verse", number: "40", sanskrit: "क्षुद्र ः! साध्यो मतस्तेषां तमकः कृच्छ्र उच्यते त्रयः श्वासा न सिध्यन्ति तमको दुर्बलस्य च", text: "kṣudra ḥ! sādhyo matasteṣāṃ tamakaḥ kṛcchra ucyate trayaḥ śvāsā na sidhyanti tamako durbalasya ca" },
@@ -445,7 +444,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 12,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Дхатри нидана — Болезни питания" },
       { type: "text", text: "Болезни, связанные с нарушением питания кормилицы: как неправильное питание матери или кормилицы влияет на здоровье ребёнка через молоко." },
@@ -459,7 +458,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 13,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Удара нидана — Болезни живота" },
       { type: "text", text: "Восемь форм удары: ватодара, питтодара, шлешмодара, санниатодара, плиходара, баддходара, кшатодара, джалодара (асцит). Подробная диагностика каждой." },
@@ -472,7 +471,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 14,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Прамеха нидана — Мочевые расстройства" },
       { type: "text", text: "Двадцать видов прамехи от слабых (капха-типы) до тяжёлых (вата-типы). Мадхавакара добавляет нюансы к описанию Чараки, уточняя признаки диабетических осложнений." },
@@ -496,7 +495,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 15,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Прамехапидика нидана — Осложнения диабета" },
       { type: "text", text: "Прамехапидика — абсцессы и язвы при диабете, описываемые как наиболее опасные осложнения прамехи. Специальный раздел, уникальный для Мадхава-нидана." },
@@ -504,7 +503,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "2", sanskrit: "ताल्वोष्ठकण्ठास्यविशेषदाहसंतापमोहभ्रमविप्रलापाः पूर्वाणि रूपाणि भवन्ति तासामुत्पत्तिकाले तु विशेषतो हि तिस्रः स्मृतास्ताः क्षतजा चतुर्थी क्षयात्तथा ह्यामसमुद्भवा च भक्तोद्भवा सप्तमिकेति तासां निबोध लिङ्गान्यनुपूर्वशस्तु", text: "tālvoṣṭhakaṇṭhāsyaviśeṣadāhasaṃtāpamohabhramavipralāpāḥ pūrvāṇi rūpāṇi bhavanti tāsāmutpattikāle tu viśeṣato hi tisraḥ smṛtāstāḥ kṣatajā caturthī kṣayāttathā hyāmasamudbhavā ca bhaktodbhavā saptamiketi tāsāṃ nibodha liṅgānyanupūrvaśastu" },
       { type: "verse", number: "3", sanskrit: "क्षामास्यता मारुतसंभवायां तोदस्तथा शङ्खशिरःसु चापि स्रोतोनिरोधो विरसं च वक्त्रं शीताभिरद्भिश्च विवृद्धिमेति", text: "kṣāmāsyatā mārutasaṃbhavāyāṃ todastathā śaṅkhaśiraḥsu cāpi srotonirodho virasaṃ ca vaktraṃ śītābhiradbhiśca vivṛddhimeti" },
       { type: "verse", number: "4", sanskrit: "मूर्च्छाऽन्नविद्वेषविलापदाहा रक्तेक्षणत्वं प्रततश्च शोषः शीताभिनन्दा मुखतिक्तता च पित्तात्मिकायां परिदूयनं च", text: "mūrcchā'nnavidveṣavilāpadāhā raktekṣaṇatvaṃ pratataśca śoṣaḥ śītābhinandā mukhatiktatā ca pittātmikāyāṃ paridūyanaṃ ca" },
-      { type: "verse", number: "5", sanskrit: "वाष्पावरोधात्कफसंवृतेऽग्नौ तृष्णा बलासेन भवेत्तथा तु निद्रा  गुरुत्वं मधुरास्यता च तयाऽदितः शुष्यति चातिमात्रम्", text: "vāṣpāvarodhātkaphasaṃvṛte'gnau tṛṣṇā balāsena bhavettathā tu nidrā  gurutvaṃ madhurāsyatā ca tayā'ditaḥ śuṣyati cātimātram" },
+      { type: "verse", number: "5", sanskrit: "वाष्पावरोधात्कफसंवृतेऽग्नौ तृष्णा बलासेन भवेत्तथा तु निद्रा गुरुत्वं मधुरास्यता च तयाऽदितः शुष्यति चातिमात्रम्", text: "vāṣpāvarodhātkaphasaṃvṛte'gnau tṛṣṇā balāsena bhavettathā tu nidrā gurutvaṃ madhurāsyatā ca tayā'ditaḥ śuṣyati cātimātram" },
       { type: "verse", number: "6", sanskrit: "क्षतस्य रुक्शोणितनिर्गमाभ्यां तृष्णा चतुर्थी क्षतजा मता तु रसक्षयाद्या क्षयसभवा सा तयाऽभिभूतश्च निशादिनेषु", text: "kṣatasya rukśoṇitanirgamābhyāṃ tṛṣṇā caturthī kṣatajā matā tu rasakṣayādyā kṣayasabhavā sā tayā'bhibhūtaśca niśādineṣu" },
       { type: "verse", number: "7", sanskrit: "पेपीयतेऽम्भ स सुखं न याति तां सन्निपातादिति केचिदाहुः रसक्षयोक्तानि च लक्षणानि तस्यामशेषेण भिषग्व्यवस्येत्", text: "pepīyate'mbha sa sukhaṃ na yāti tāṃ sannipātāditi kecidāhuḥ rasakṣayoktāni ca lakṣaṇāni tasyāmaśeṣeṇa bhiṣagvyavasyet" },
       { type: "verse", number: "8", sanskrit: "त्रिदोषलिङ्गाऽमसमुद्भवा च हृच्छूलनिष्ठीवनसादकर्त्री स्निग्धं तथाऽम्ल लवणं च भुक्तं गुर्वन्नमेवाशु तृषां करोति", text: "tridoṣaliṅgā'masamudbhavā ca hṛcchūlaniṣṭhīvanasādakartrī snigdhaṃ tathā'mla lavaṇaṃ ca bhuktaṃ gurvannamevāśu tṛṣāṃ karoti" },
@@ -515,11 +514,11 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 16,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Куштха нидана — Кожные болезни" },
       { type: "text", text: "Семь маха-куштх (тяжёлых кожных болезней) и одиннадцать кшудра-куштх (малых). Мадхавакара систематизирует этиологию, вовлечённые доши и прогностические критерии." },
-      { type: "verse", number: "1", sanskrit: "अथ मूर्च्छाभ्रमनिद्रा तन्द्रा संन्यासनिदानम् क्षीणस्य बहुदोषस्य  विरुद्धाहारसेविनः वेगाघातादभीघाताद्धीनसत्त्वस्य वा पुनः", text: "atha mūrcchābhramanidrā tandrā saṃnyāsanidānam kṣīṇasya bahudoṣasya  viruddhāhārasevinaḥ vegāghātādabhīghātāddhīnasattvasya vā punaḥ" },
+      { type: "verse", number: "1", sanskrit: "अथ मूर्च्छाभ्रमनिद्रा तन्द्रा संन्यासनिदानम् क्षीणस्य बहुदोषस्य विरुद्धाहारसेविनः वेगाघातादभीघाताद्धीनसत्त्वस्य वा पुनः", text: "atha mūrcchābhramanidrā tandrā saṃnyāsanidānam kṣīṇasya bahudoṣasya viruddhāhārasevinaḥ vegāghātādabhīghātāddhīnasattvasya vā punaḥ" },
       { type: "verse", number: "2", sanskrit: "करणायतनेषूग्रा बाह्येष्वाभ्यन्तरेषु च निविशन्ते यदा दोषास्तदा मूर्च्छन्ति मानवाः", text: "karaṇāyataneṣūgrā bāhyeṣvābhyantareṣu ca niviśante yadā doṣāstadā mūrcchanti mānavāḥ" },
       { type: "verse", number: "3", sanskrit: "संज्ञावहासु नाडीषु पिहितास्वनिलादिभिः तमोऽभ्युपैति सहसा सुखदुःखव्यपोहकृत्", text: "saṃjñāvahāsu nāḍīṣu pihitāsvanilādibhiḥ tamo'bhyupaiti sahasā sukhaduḥkhavyapohakṛt" },
       { type: "verse", number: "4", sanskrit: "सुखदुःखव्यपोहाच्च नरः पतति काष्ठवत् मोहो मूर्च्छेति तामाहुः षड्विधा सा प्रकीर्तिता", text: "sukhaduḥkhavyapohācca naraḥ patati kāṣṭhavat moho mūrccheti tāmāhuḥ ṣaḍvidhā sā prakīrtitā" },
@@ -537,7 +536,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "16", sanskrit: "त एव तस्मात्ताभ्यां तु मोहौ स्यातां यथेरितौ स्तब्धाङ्गदृष्टिस्त्वसृजा गूढोच्छ्वासश्च मूर्च्छितः", text: "ta eva tasmāttābhyāṃ tu mohau syātāṃ yatheritau stabdhāṅgadṛṣṭistvasṛjā gūḍhocchvāsaśca mūrcchitaḥ" },
       { type: "verse", number: "17", sanskrit: "मद्येन विलपञ्शेते नष्टविभ्रान्तमानसः गात्राणि विक्षिपन् भूमौ जरां यावन्न याति तत्", text: "madyena vilapañśete naṣṭavibhrāntamānasaḥ gātrāṇi vikṣipan bhūmau jarāṃ yāvanna yāti tat" },
       { type: "verse", number: "18", sanskrit: "वेपथुस्वप्नतृष्णाः स्युस्तमश्च विषमूर्च्छिते वेदितव्यं तीव्रतरं यथास्वं विषलक्षणैः", text: "vepathusvapnatṛṣṇāḥ syustamaśca viṣamūrcchite veditavyaṃ tīvrataraṃ yathāsvaṃ viṣalakṣaṇaiḥ" },
-      { type: "verse", number: "19", sanskrit: "मूर्च्छा पित्ततमः प्राया रजःपित्तानिलाद् भ्रमः तमोवातकफात्तन्द्रा  निद्रा  श्लेष्मतमोभवा", text: "mūrcchā pittatamaḥ prāyā rajaḥpittānilād bhramaḥ tamovātakaphāttandrā  nidrā  śleṣmatamobhavā" },
+      { type: "verse", number: "19", sanskrit: "मूर्च्छा पित्ततमः प्राया रजःपित्तानिलाद् भ्रमः तमोवातकफात्तन्द्रा निद्रा श्लेष्मतमोभवा", text: "mūrcchā pittatamaḥ prāyā rajaḥpittānilād bhramaḥ tamovātakaphāttandrā nidrā śleṣmatamobhavā" },
       { type: "verse", number: "1", sanskrit: "चक्रवद् भ्रमतो गात्रं भूमौ पतति सर्वदा भ्रमरोग इति ज्ञेयो रजःपित्तानिलात्मकः", text: "cakravad bhramato gātraṃ bhūmau patati sarvadā bhramaroga iti jñeyo rajaḥpittānilātmakaḥ" },
       { type: "verse", number: "20", sanskrit: "इन्द्रि यार्थेष्वसंवित्तिर्गौरवं जृम्भणं क्लमः निद्रा र्तस्येव यस्येहा तस्य तन्द्रा ं! विनिर्दिशेत्", text: "indri yārtheṣvasaṃvittirgauravaṃ jṛmbhaṇaṃ klamaḥ nidrā rtasyeva yasyehā tasya tandrā ṃ! vinirdiśet" },
       { type: "verse", number: "21", sanskrit: "दोषेषु मदमूर्च्छायाः कृतवेगेषु देहिनाम् स्वयमेवोपशाम्यन्ति संन्यासो नौषधैर्विना", text: "doṣeṣu madamūrcchāyāḥ kṛtavegeṣu dehinām svayamevopaśāmyanti saṃnyāso nauṣadhairvinā" },
@@ -548,7 +547,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 17,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Киласа нидана — Лейкодермия" },
       { type: "text", text: "Киласа и свитра — различные формы депигментации кожи. Мадхавакара различает три типа по цвету пятен и этиологии: арун (медный), пита (жёлтый) и шведа (белый)." },
@@ -586,7 +585,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 18,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Свитра нидана — Витилиго" },
       { type: "text", text: "Свитра — белые пятна на коже как результат дисбаланса Питты и крови. Мадхавакара уточняет клинические критерии, отличающие свитру от киласы." },
@@ -627,7 +626,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 19,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Аршас нидана — Геморрой" },
       { type: "text", text: "Арша (геморрой) описывается как «злейший враг жизни». Шесть типов по дошам. Мадхавакара подробно описывает предрасполагающие факторы и патогенез." },
@@ -646,7 +645,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 20,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Аша нидана — Фистулы" },
       { type: "text", text: "Бхагандара (анальная фистула) — хроническое патологическое сообщение в области прямой кишки. Пять типов по форме и протяжённости свищевого хода." },
@@ -671,7 +670,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "19", sanskrit: "क्षिप्रं मुञ्चति वध्नातिशुक्रं गर्भमथापि वा विकृतिं जनयेच्चापि शुक्रस्थः कुपितोऽनिलः", text: "kṣipraṃ muñcati vadhnātiśukraṃ garbhamathāpi vā vikṛtiṃ janayeccāpi śukrasthaḥ kupito'nilaḥ" },
       { type: "verse", number: "20", sanskrit: "कुर्यात्सिरागतः शूलं सिराकुञ्चनपूरणम् स बाह्याभ्यन्तरायामं खल्लीं कौब्ज्यमथापि वा", text: "kuryātsirāgataḥ śūlaṃ sirākuñcanapūraṇam sa bāhyābhyantarāyāmaṃ khallīṃ kaubjyamathāpi vā" },
       { type: "verse", number: "21", sanskrit: "सर्वाङ्गैकाङ्गरोगांश्च कुर्यात् स्नायुगतोऽनिलः हन्ति सन्धिगतः सन्धीञ् शूलाटोपौ करोति च", text: "sarvāṅgaikāṅgarogāṃśca kuryāt snāyugato'nilaḥ hanti sandhigataḥ sandhīñ śūlāṭopau karoti ca" },
-      { type: "verse", number: "22", sanskrit: "प्राणोदानौ समानश्च व्यानश्चापान एव च स्थानस्था मारुताः पञ्च यापयन्ति शरीरिणम् प्राणे पित्तावृते छर्दिर्दाहश्चैवोपजायते दौर्बल्यं सदनं तन्द्रा  वैरस्यं च कफावृते", text: "prāṇodānau samānaśca vyānaścāpāna eva ca sthānasthā mārutāḥ pañca yāpayanti śarīriṇam prāṇe pittāvṛte chardirdāhaścaivopajāyate daurbalyaṃ sadanaṃ tandrā  vairasyaṃ ca kaphāvṛte" },
+      { type: "verse", number: "22", sanskrit: "प्राणोदानौ समानश्च व्यानश्चापान एव च स्थानस्था मारुताः पञ्च यापयन्ति शरीरिणम् प्राणे पित्तावृते छर्दिर्दाहश्चैवोपजायते दौर्बल्यं सदनं तन्द्रा वैरस्यं च कफावृते", text: "prāṇodānau samānaśca vyānaścāpāna eva ca sthānasthā mārutāḥ pañca yāpayanti śarīriṇam prāṇe pittāvṛte chardirdāhaścaivopajāyate daurbalyaṃ sadanaṃ tandrā vairasyaṃ ca kaphāvṛte" },
       { type: "verse", number: "23", sanskrit: "उदाने पित्तयुक्ते तु दाहो मूर्च्छा भ्रमः क्लमः अस्वेदहर्षौ मन्दोऽग्नि शीतता च कफावृते", text: "udāne pittayukte tu dāho mūrcchā bhramaḥ klamaḥ asvedaharṣau mando'gni śītatā ca kaphāvṛte" },
       { type: "verse", number: "24", sanskrit: "स्वेददाहौष्ण्यमूर्च्छाः स्युः समाने पित्तसंवृते कफेन सक्ते विण्मूत्रे गात्रहर्षश्च जायते", text: "svedadāhauṣṇyamūrcchāḥ syuḥ samāne pittasaṃvṛte kaphena sakte viṇmūtre gātraharṣaśca jāyate" },
       { type: "verse", number: "25", sanskrit: "अपाने पित्तयुक्ते तु दाहौष्ण्यं रक्तमूत्रता अधः काये गुरुत्वं च शीतता च कफावृते", text: "apāne pittayukte tu dāhauṣṇyaṃ raktamūtratā adhaḥ kāye gurutvaṃ ca śītatā ca kaphāvṛte" },
@@ -704,8 +703,8 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "52", sanskrit: "वाग्वाहिनीसिरासंस्थो जिह्वां स्तम्भयतेऽनिलः जिह्वास्तम्भः स तेनान्नपानवाक्येष्वनीशता", text: "vāgvāhinīsirāsaṃstho jihvāṃ stambhayate'nilaḥ jihvāstambhaḥ sa tenānnapānavākyeṣvanīśatā" },
       { type: "verse", number: "53", sanskrit: "रक्तमाश्रित्य पवनः कुर्यान्मूर्धधराः सिराः रूक्षाः सवेदनाः कृष्णाः सोऽसाध्यः स्यात्सिराग्रहः", text: "raktamāśritya pavanaḥ kuryānmūrdhadharāḥ sirāḥ rūkṣāḥ savedanāḥ kṛṣṇāḥ so'sādhyaḥ syātsirāgrahaḥ" },
       { type: "verse", number: "54", sanskrit: "स्फिक्पूर्वा कटिपृष्ठोरुजानुजङ्घापदं क्रमात् गृध्रसी स्तम्भरुक्तोदैर्गृह्णाति स्पन्दते मुहुः", text: "sphikpūrvā kaṭipṛṣṭhorujānujaṅghāpadaṃ kramāt gṛdhrasī stambharuktodairgṛhṇāti spandate muhuḥ" },
-      { type: "verse", number: "55", sanskrit: "वाताद्वातकफात्तन्द्रा  गौरवारोचकान्विता वातजायां भवेत्तोदो देहस्यापि प्रवक्रता जानुकट्यूरुसंधीनां स्फुरणं स्तब्धता भृशम्", text: "vātādvātakaphāttandrā  gauravārocakānvitā vātajāyāṃ bhavettodo dehasyāpi pravakratā jānukaṭyūrusaṃdhīnāṃ sphuraṇaṃ stabdhatā bhṛśam" },
-      { type: "verse", number: "56", sanskrit: "वातश्लेष्मोद्भवायां तु निमित्तं वह्निमार्दवम् तन्द्रा  मुखप्रसेकश्च भक्तद्वेषस्तथैव च", text: "vātaśleṣmodbhavāyāṃ tu nimittaṃ vahnimārdavam tandrā  mukhaprasekaśca bhaktadveṣastathaiva ca" },
+      { type: "verse", number: "55", sanskrit: "वाताद्वातकफात्तन्द्रा गौरवारोचकान्विता वातजायां भवेत्तोदो देहस्यापि प्रवक्रता जानुकट्यूरुसंधीनां स्फुरणं स्तब्धता भृशम्", text: "vātādvātakaphāttandrā gauravārocakānvitā vātajāyāṃ bhavettodo dehasyāpi pravakratā jānukaṭyūrusaṃdhīnāṃ sphuraṇaṃ stabdhatā bhṛśam" },
+      { type: "verse", number: "56", sanskrit: "वातश्लेष्मोद्भवायां तु निमित्तं वह्निमार्दवम् तन्द्रा मुखप्रसेकश्च भक्तद्वेषस्तथैव च", text: "vātaśleṣmodbhavāyāṃ tu nimittaṃ vahnimārdavam tandrā mukhaprasekaśca bhaktadveṣastathaiva ca" },
       { type: "verse", number: "57", sanskrit: "तलं प्रत्यङ्गुलीनां याः कण्डरा बाहुपृष्ठतः", text: "talaṃ pratyaṅgulīnāṃ yāḥ kaṇḍarā bāhupṛṣṭhataḥ" },
       { type: "verse", number: "58", sanskrit: "बाह्वोः कर्मक्षयकरी विश्वाची चेति सोच्यते वातशोणितजः शोथो जानुमध्ये महारुजः", text: "bāhvoḥ karmakṣayakarī viśvācī ceti socyate vātaśoṇitajaḥ śotho jānumadhye mahārujaḥ" },
       { type: "verse", number: "59", sanskrit: "ज्ञेयक्रोष्टुकशीर्षस्तु स्थूलः कोष्टुकशीर्षवत् वायुः कट्याश्रितः सक्थ्नः कण्डरामाक्षिपेद्यदा", text: "jñeyakroṣṭukaśīrṣastu sthūlaḥ koṣṭukaśīrṣavat vāyuḥ kaṭyāśritaḥ sakthnaḥ kaṇḍarāmākṣipedyadā" },
@@ -735,7 +734,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 21,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Ашмари нидана — Мочекаменная болезнь" },
       { type: "text", text: "Ашмари — камни в мочевых путях. Четыре типа по составу: вата (оксалаты), питта (ураты), капха (фосфаты) и шукраджа (семенной). Причины и механизм образования." },
@@ -762,7 +761,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 22,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Баста шанка нидана — Болезни мочевого пузыря" },
       { type: "text", text: "Болезни мочевого пузыря: муттракричча (дизурия), муттра-гхата (острая задержка мочи) и связанные расстройства. Дифференциация обструктивных и воспалительных состояний." },
@@ -781,7 +780,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 23,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Муттра кричча нидана — Дизурия" },
       { type: "text", text: "Двенадцать типов муттракриччи (болезненного мочеиспускания). Мадхавакара систематизирует симптоматику по дошевому принципу для дифференциальной диагностики." },
@@ -802,7 +801,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 24,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Муттра гхата нидана — Задержка мочи" },
       { type: "text", text: "Острая и хроническая задержка мочи — один из самых опасных симптомов в аюрведе. Тринадцать типов по причине: механические, дошевые и комбинированные." },
@@ -834,7 +833,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 25,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Атисара нидана — Диарея" },
       { type: "text", text: "Шесть типов атисары (диареи): ватаджа, питтаджа, капхаджа, санниатаджа, бхайаджа (от страха) и шокаджа (от горя). Мадхавакара добавляет психологические факторы." },
@@ -863,7 +862,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 26,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Грахани нидана — Синдром грахани" },
       { type: "text", text: "Грахани (буквально: захватывающая) — нарушение функции двенадцатиперстной кишки, управляющей усвоением пищи. При слабом Агни грахани не справляется с функцией всасывания." },
@@ -892,7 +891,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 27,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Дивьядана нидана — Паразитозы" },
       { type: "text", text: "Крими-рога (болезни от паразитов) — двадцать типов паразитов, разделённых на четыре группы по локализации: в желудке, кишечнике, крови и других органах." },
@@ -908,7 +907,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 28,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Панду рога нидана — Анемия" },
       { type: "text", text: "Пандурога (анемия, буквально «бледная болезнь») — снижение количества и качества крови. Пять типов по дошам. Мадхавакара описывает специфические признаки каждого типа." },
@@ -929,7 +928,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 29,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Шваса нидана — Одышка" },
       { type: "text", text: "Пять типов шваса (одышки): маха-шваса (агональное дыхание), урдхва-шваса (Чейн-Стоксово), чхинна-шваса (Биота), тамака-шваса (астма), кшудра-шваса (лёгкая одышка)." },
@@ -964,7 +963,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 30,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Каса нидана — Кашель" },
       { type: "text", text: "Пять типов касы (кашля): ватаджа, питтаджа, капхаджа, кшатаджа (от травмы) и кшайаджа (при туберкулёзе). Мадхавакара систематизирует признаки и прогноз." },
@@ -981,7 +980,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "11", sanskrit: "आश्रयोपचयाल्पत्वाद् ग्रहणाहरणे सुखाः शुक्राश्मरी तु महतां जायते शुक्रधारणात्", text: "āśrayopacayālpatvād grahaṇāharaṇe sukhāḥ śukrāśmarī tu mahatāṃ jāyate śukradhāraṇāt" },
       { type: "verse", number: "12", sanskrit: "स्थानाच्च्युतममुक्तं हि मुष्कयोरन्तरेऽनिलः शोषयत्युपसंगृह्य शुक्रं तच्छुक्रमश्मरी", text: "sthānāccyutamamuktaṃ hi muṣkayorantare'nilaḥ śoṣayatyupasaṃgṛhya śukraṃ tacchukramaśmarī" },
       { type: "verse", number: "13", sanskrit: "वस्तिरुङ्मूत्रकृच्छ्रत्वमुष्कश्वयथुकारिणी तस्यामुत्पन्नमात्रायां शुक्रमेति बिलीयते", text: "vastiruṅmūtrakṛcchratvamuṣkaśvayathukāriṇī tasyāmutpannamātrāyāṃ śukrameti bilīyate" },
-      { type: "verse", number: "14", sanskrit: "पीडिते त्ववकाशेऽस्मिन् अश्मर्येब च शर्करा अणुशो  वायुना भिन्ना सा तस्मिन्ननुलोमगे", text: "pīḍite tvavakāśe'smin aśmaryeba ca śarkarā aṇuśo  vāyunā bhinnā sā tasminnanulomage" },
+      { type: "verse", number: "14", sanskrit: "पीडिते त्ववकाशेऽस्मिन् अश्मर्येब च शर्करा अणुशो वायुना भिन्ना सा तस्मिन्ननुलोमगे", text: "pīḍite tvavakāśe'smin aśmaryeba ca śarkarā aṇuśo vāyunā bhinnā sā tasminnanulomage" },
       { type: "verse", number: "15", sanskrit: "निरेति सह मूत्रेण प्रतिलोमे निरुध्यते मूत्रस्रोतः प्रवृत्ता सा सक्ता कुर्यादुपद्र वान्", text: "nireti saha mūtreṇa pratilome nirudhyate mūtrasrotaḥ pravṛttā sā saktā kuryādupadra vān" },
       { type: "verse", number: "16", sanskrit: "दौर्वल्यं सदनं कार्श्यं कुक्षिशूलमथारुचिम् पाण्डुत्वमुष्णवातं च तृष्णां हृत्पीडनं वमिम्", text: "daurvalyaṃ sadanaṃ kārśyaṃ kukṣiśūlamathārucim pāṇḍutvamuṣṇavātaṃ ca tṛṣṇāṃ hṛtpīḍanaṃ vamim" },
       { type: "verse", number: "17", sanskrit: "प्रशूननाभिवृषणं बद्धमूत्रं रुजातुरम् अश्मरी क्षपयत्याशु सिकता शर्करान्विता", text: "praśūnanābhivṛṣaṇaṃ baddhamūtraṃ rujāturam aśmarī kṣapayatyāśu sikatā śarkarānvitā" },
@@ -991,7 +990,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 31,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Хикка нидана — Икота" },
       { type: "text", text: "Пять типов хикки (икоты): аннаджа (от еды), яамала, кшудра, гамбхира и маха-хикка. Последний тип угрожает жизни и является признаком поражения Прана-ваты." },
@@ -1012,7 +1011,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "15", sanskrit: "विस्रमुष्णं सलवणं रक्ताभं रक्त मेहतः वसामेही वसामिश्रं वसाभं मूत्रयेन्मुहुः", text: "visramuṣṇaṃ salavaṇaṃ raktābhaṃ rakta mehataḥ vasāmehī vasāmiśraṃ vasābhaṃ mūtrayenmuhuḥ" },
       { type: "verse", number: "16", sanskrit: "मज्जाभं मज्जमिश्रं वा मज्जमेही मुहुर्मुहुः कषायं मधुरं रूक्षं क्षौद्र मेहं वदेद् बुधः", text: "majjābhaṃ majjamiśraṃ vā majjamehī muhurmuhuḥ kaṣāyaṃ madhuraṃ rūkṣaṃ kṣaudra mehaṃ vaded budhaḥ" },
       { type: "verse", number: "17", sanskrit: "हस्ती मत्त इवाजस्रं मूत्रं वेगविवर्जितम् सलसीकं विबद्धं च हस्तिमेही प्रमेहति", text: "hastī matta ivājasraṃ mūtraṃ vegavivarjitam salasīkaṃ vibaddhaṃ ca hastimehī pramehati" },
-      { type: "verse", number: "18", sanskrit: "अविपाकोऽरुचिश्छर्दिर्निद्रा  कासः सपीनसः उपद्र वाः प्रजायन्ते मेहानां कफजन्मनाम्", text: "avipāko'ruciśchardirnidrā  kāsaḥ sapīnasaḥ upadra vāḥ prajāyante mehānāṃ kaphajanmanām" },
+      { type: "verse", number: "18", sanskrit: "अविपाकोऽरुचिश्छर्दिर्निद्रा कासः सपीनसः उपद्र वाः प्रजायन्ते मेहानां कफजन्मनाम्", text: "avipāko'ruciśchardirnidrā kāsaḥ sapīnasaḥ upadra vāḥ prajāyante mehānāṃ kaphajanmanām" },
       { type: "verse", number: "19", sanskrit: "बस्तिमेहनयोस्तोदो मुष्कावदरणं ज्वरः दाहस्तृष्णाऽम्लिका मूर्च्छा विड्भेदः पित्तजन्मनाम्", text: "bastimehanayostodo muṣkāvadaraṇaṃ jvaraḥ dāhastṛṣṇā'mlikā mūrcchā viḍbhedaḥ pittajanmanām" },
       { type: "verse", number: "20", sanskrit: "वातजानामुदावर्तः कम्पहृद्ग्रहलोलताः शूलमुन्निद्र ता शोषः कासः श्वासश्च जायते", text: "vātajānāmudāvartaḥ kampahṛdgrahalolatāḥ śūlamunnidra tā śoṣaḥ kāsaḥ śvāsaśca jāyate" },
       { type: "verse", number: "21", sanskrit: "यथोक्तोपद्र वाविष्टमतिप्रस्रुतमेव च पिडकापीडितं गाढः प्रमेहो हन्ति मानवम्", text: "yathoktopadra vāviṣṭamatiprasrutameva ca piḍakāpīḍitaṃ gāḍhaḥ prameho hanti mānavam" },
@@ -1036,7 +1035,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 32,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Тришна нидана — Жажда" },
       { type: "text", text: "Семь типов тришны (болезненной жажды): ватаджа, питтаджа, капхаджа, кшайаджа, нихантри, кшатаджа и амаджа. Болезненная жажда отличается от физиологической." },
@@ -1054,14 +1053,14 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 33,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Чхарди нидана — Рвота" },
       { type: "text", text: "Шесть типов чхарди (рвоты): ватаджа, питтаджа, капхаджа, санниатаджа, агантуджа (внешняя причина) и вишаджа (от яда). Дифференциация по характеру рвотных масс." },
       { type: "verse", number: "1", sanskrit: "अथोदररोगनिदानम् रोगाः सर्वेऽपि मन्देऽग्नौ सुतरामुदराणि च अजीर्णान्मलिनैश्चान्नैर्जायन्ते मलसंचयात्", text: "athodararoganidānam rogāḥ sarve'pi mande'gnau sutarāmudarāṇi ca ajīrṇānmalinaiścānnairjāyante malasaṃcayāt" },
       { type: "verse", number: "2", sanskrit: "रुद्ध्वा स्वेदाम्वुवाहीनि दोषाः स्रोतांसि संचिताः प्राणाग्न्यपानान् संदूष्य जनयन्त्युदरं नृणाम्", text: "ruddhvā svedāmvuvāhīni doṣāḥ srotāṃsi saṃcitāḥ prāṇāgnyapānān saṃdūṣya janayantyudaraṃ nṛṇām" },
       { type: "verse", number: "3", sanskrit: "आध्मानं गमनेऽशक्तिर्दौर्बल्यं दुर्बलाग्निता शोथः सदनमङ्गानां सङ्गो वातपुरीषयोः", text: "ādhmānaṃ gamane'śaktirdaurbalyaṃ durbalāgnitā śothaḥ sadanamaṅgānāṃ saṅgo vātapurīṣayoḥ" },
-      { type: "verse", number: "4", sanskrit: "दाहस्तन्द्रा  च सर्वेषु जठरेषु भवन्ति हि पृथग्दोषैः समस्तैश्च प्लीहबद्धक्षतोदकैः", text: "dāhastandrā  ca sarveṣu jaṭhareṣu bhavanti hi pṛthagdoṣaiḥ samastaiśca plīhabaddhakṣatodakaiḥ" },
+      { type: "verse", number: "4", sanskrit: "दाहस्तन्द्रा च सर्वेषु जठरेषु भवन्ति हि पृथग्दोषैः समस्तैश्च प्लीहबद्धक्षतोदकैः", text: "dāhastandrā ca sarveṣu jaṭhareṣu bhavanti hi pṛthagdoṣaiḥ samastaiśca plīhabaddhakṣatodakaiḥ" },
       { type: "verse", number: "5", sanskrit: "संभवन्त्युदराण्यष्टौ तेषां लिङ्गं पृथक् शृणु तत्र वातोदरे शोथः पाणिपान्ना भिकुक्षिषु", text: "saṃbhavantyudarāṇyaṣṭau teṣāṃ liṅgaṃ pṛthak śṛṇu tatra vātodare śothaḥ pāṇipānnā bhikukṣiṣu" },
       { type: "verse", number: "6", sanskrit: "कुक्षिपार्श्वोदरकटी-पृष्ठरुक् पर्वभेदनम् शुष्ककासोऽङ्गमर्दोऽधोगुरुता मलसंग्रहः", text: "kukṣipārśvodarakaṭī-pṛṣṭharuk parvabhedanam śuṣkakāso'ṅgamardo'dhogurutā malasaṃgrahaḥ" },
       { type: "verse", number: "7", sanskrit: "श्यावारुणत्वगादित्वमक स्मादवृद्धिह्रासवत् सतोदभेदमुदरं तनुकृष्णसिराततम्", text: "śyāvāruṇatvagāditvamaka smādavṛddhihrāsavat satodabhedamudaraṃ tanukṛṣṇasirātatam" },
@@ -1091,7 +1090,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 34,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Аджирна нидана — Несварение" },
       { type: "text", text: "Аджирна (несварение, диспепсия) — нарушение нормального пищеварения. Три типа: ам аджирна (непереваренная пища), видагдха аджирна (сгнившая) и вистабдха аджирна (задержанная)." },
@@ -1120,7 +1119,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 35,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Вишама агни нидана — Нарушения пищеварительного огня" },
       { type: "text", text: "Четыре состояния Агни: сама-агни (нормальный), вишама-агни (нерегулярный), тикшна-агни (острый) и манда-агни (слабый). Каждый ведёт к различным расстройствам." },
@@ -1139,7 +1138,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 36,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Атийога нидана — Чрезмерное лечение" },
       { type: "text", text: "Атийога — осложнения от избыточного применения очищающих процедур. Мадхавакара описывает признаки передозировки каждой процедуры панчакармы." },
@@ -1174,7 +1173,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 37,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Сандхи вата нидана — Суставной ревматизм" },
       { type: "text", text: "Сандхи-вата — поражение суставов при дисбалансе Ваты. Боль, хруст, ограничение движений. Острый и хронический типы. Предрасположенность: возраст, травмы, неправильное питание." },
@@ -1190,7 +1189,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 38,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Вата шония нидана — Гподагра" },
       { type: "text", text: "Вата-ракта — состояние при сочетанном нарушении Ваты и Ракты (крови), аналог подагры. Нарушение питания крупными суставами с болью, отёком и жжением." },
@@ -1219,7 +1218,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 39,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Вата вьядхи нидана — Болезни Ваты" },
       { type: "text", text: "Восемьдесят типов вата-вьядхи — наиболее обширная нозологическая группа в аюрведе. Охватывает всё от мигрени до паралича. Мадхавакара систематизирует ключевые признаки." },
@@ -1243,7 +1242,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 40,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Амавата нидана — Ревматоидный артрит" },
       { type: "text", text: "Амавата — уникальная болезнь, описанная только Мадхавакарой: сочетание амы (непереваренного токсина) и Ваты с поражением сердца и суставов. Аналог ревматоидного артрита." },
@@ -1269,7 +1268,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 41,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Рактавата нидана — Подагра" },
       { type: "text", text: "Ракта-вата — ещё одна форма суставной болезни с поражением крови. Отличается от вата-ракта более выраженным компонентом воспаления и ведущей ролью крови." },
@@ -1304,7 +1303,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 42,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Унмада нидана — Психоз" },
       { type: "text", text: "Пять типов унмады: ватаджа, питтаджа, капхаджа, санниатаджа и агантуджа. Мадхавакара добавляет детализацию по психологическим проявлениям каждого типа." },
@@ -1325,7 +1324,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 43,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Апасмара нидана — Эпилепсия" },
       { type: "text", text: "Апасмара (эпилепсия) — потеря памяти (апа-смара) с судорогами. Четыре типа по дошам. Мадхавакара уточняет продромальные признаки каждого типа." },
@@ -1340,7 +1339,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 44,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Карна рога нидана — Болезни ушей" },
       { type: "text", text: "Двадцать восемь болезней уха: от серной пробки до тугоухости. Классификация по дошевому принципу с описанием специфических признаков каждого типа." },
@@ -1358,7 +1357,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 45,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Наса рога нидана — Болезни носа" },
       { type: "text", text: "Тридцать одна болезнь носа включает синуситы, носовые полипы, носовые кровотечения, аносмию. Систематическая классификация по дошам и локализации." },
@@ -1374,7 +1373,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 46,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Широ рога нидана — Болезни головы" },
       { type: "text", text: "Одиннадцать типов широрога (головных болезней): ватаджа, питтаджа, капхаджа, трида-доша, санниатаджа, кримиджа (инфекционные), солнечный удар и другие." },
@@ -1399,7 +1398,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 47,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Мукха рога нидана — Болезни рта" },
       { type: "text", text: "Семьдесят одна болезнь ротовой полости в пяти анатомических зонах: дёсны (8), язык (8), губы (8), нёбо (8) и общие (39). Это наиболее детальная ротовая нозология Аюрведы." },
@@ -1451,7 +1450,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 48,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Акши рога нидана — Болезни глаз" },
       { type: "text", text: "Семьдесят шесть болезней глаза в семи анатомических слоях: от конъюнктивы до зрительного нерва. Наиболее детальная офтальмологическая нозология классической аюрведы." },
@@ -1466,7 +1465,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 49,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Тимира нидана — Катаракта" },
       { type: "text", text: "Тимира — помутнение хрусталика (катаракта) в четырёх стадиях: частичное помутнение, полное помутнение, плотная катаракта, срощённая с другими тканями. Прогноз по стадии." },
@@ -1487,12 +1486,12 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 50,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Линга наша нидана — Слепота" },
       { type: "text", text: "Линга-наша — полная потеря зрения. Четыре типа: ватаджа, питтаджа, капхаджа и неизлечимая. Дифференциация по обратимости — ключевой практический вопрос." },
       { type: "verse", number: "1", sanskrit: "अथ विसर्पनिदानम् लवणाम्लकटूष्णादि संसेवादोषकोपतः विसर्पः सप्तधा ज्ञेयः सर्वतः परिसर्पणात्", text: "atha visarpanidānam lavaṇāmlakaṭūṣṇādi saṃsevādoṣakopataḥ visarpaḥ saptadhā jñeyaḥ sarvataḥ parisarpaṇāt" },
-      { type: "verse", number: "2", sanskrit: "पृथक् त्रयस्त्रिभिश्चैको विसर्पा द्वन्द्वजास्त्रयः वातिकः पैत्तिकश्चैव  कफजः सन्निपातिकः", text: "pṛthak trayastribhiścaiko visarpā dvandvajāstrayaḥ vātikaḥ paittikaścaiva  kaphajaḥ sannipātikaḥ" },
+      { type: "verse", number: "2", sanskrit: "पृथक् त्रयस्त्रिभिश्चैको विसर्पा द्वन्द्वजास्त्रयः वातिकः पैत्तिकश्चैव कफजः सन्निपातिकः", text: "pṛthak trayastribhiścaiko visarpā dvandvajāstrayaḥ vātikaḥ paittikaścaiva kaphajaḥ sannipātikaḥ" },
       { type: "verse", number: "3", sanskrit: "चत्वार एते वीसर्पा वक्ष्यन्ते द्वन्द्वजास्त्रयः आग्नेयो वातपित्ताभ्यां ग्रन्थ्याख्यः कफवातजः", text: "catvāra ete vīsarpā vakṣyante dvandvajāstrayaḥ āgneyo vātapittābhyāṃ granthyākhyaḥ kaphavātajaḥ" },
       { type: "verse", number: "4", sanskrit: "यस्तु कर्दमको घोरः स पित्तकफसंभवः रक्तं लसीका त्वङ्मांसं दूष्यं दोषास्त्रयो मलाः", text: "yastu kardamako ghoraḥ sa pittakaphasaṃbhavaḥ raktaṃ lasīkā tvaṅmāṃsaṃ dūṣyaṃ doṣāstrayo malāḥ" },
       { type: "verse", number: "5", sanskrit: "विसर्पाणां समुत्पत्तौ विज्ञेयाः सप्त धातवः तत्र वातात् स वीसर्पो वातज्वरसमव्यथः", text: "visarpāṇāṃ samutpattau vijñeyāḥ sapta dhātavaḥ tatra vātāt sa vīsarpo vātajvarasamavyathaḥ" },
@@ -1507,7 +1506,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "14", sanskrit: "कफेन रुद्धः पवनो भित्त्वा तं बहुधा कफम् रक्तं वा बृद्धरक्तस्य त्वक्सिरास्नायुमांसगम्", text: "kaphena ruddhaḥ pavano bhittvā taṃ bahudhā kapham raktaṃ vā bṛddharaktasya tvaksirāsnāyumāṃsagam" },
       { type: "verse", number: "15", sanskrit: "दूषयित्वा तु दीर्घाणुवृत्तस्थूलखरात्मनाम् ग्रन्थीनां कुरुते मालां सरक्तां तीव्ररुग्ज्वराम्", text: "dūṣayitvā tu dīrghāṇuvṛttasthūlakharātmanām granthīnāṃ kurute mālāṃ saraktāṃ tīvrarugjvarām" },
       { type: "verse", number: "16", sanskrit: "श्वासकासातिसारास्य शोषहिक्कावमिभ्रमैः मोहवैवर्ण्यमूर्च्छाङ्ग भङ्गाग्निसदनैर्युताम्", text: "śvāsakāsātisārāsya śoṣahikkāvamibhramaiḥ mohavaivarṇyamūrcchāṅga bhaṅgāgnisadanairyutām" },
-      { type: "verse", number: "17", sanskrit: "इत्ययं ग्रन्थिवीसर्पः कफमारुतकोपजः कफपित्ताज्ज्वरः स्तम्भो निद्रा  तन्द्रा  शिरोरुजा", text: "ityayaṃ granthivīsarpaḥ kaphamārutakopajaḥ kaphapittājjvaraḥ stambho nidrā  tandrā  śirorujā" },
+      { type: "verse", number: "17", sanskrit: "इत्ययं ग्रन्थिवीसर्पः कफमारुतकोपजः कफपित्ताज्ज्वरः स्तम्भो निद्रा तन्द्रा शिरोरुजा", text: "ityayaṃ granthivīsarpaḥ kaphamārutakopajaḥ kaphapittājjvaraḥ stambho nidrā tandrā śirorujā" },
       { type: "verse", number: "18", sanskrit: "अङ्गावसादविक्षेपौ प्रलेपारोचकभ्रमाः मूर्च्छाग्निहानिर्भेदोऽस्थ्ना पिपासेन्द्रि यगौरवम्", text: "aṅgāvasādavikṣepau pralepārocakabhramāḥ mūrcchāgnihānirbhedo'sthnā pipāsendri yagauravam" },
       { type: "verse", number: "19", sanskrit: "आमोपवेशनं लेपः स्रोतसां स च सर्पति प्रायेणामाशयं गृह्णन्नेकदेशं न चातिरुक्", text: "āmopaveśanaṃ lepaḥ srotasāṃ sa ca sarpati prāyeṇāmāśayaṃ gṛhṇannekadeśaṃ na cātiruk" },
       { type: "verse", number: "20", sanskrit: "पिडकैरवकीर्णोऽतिपीत लोहितपाण्डुरैः स्निग्धोऽसितो मेचकाभो मलिनः शोथवान् गुरुः", text: "piḍakairavakīrṇo'tipīta lohitapāṇḍuraiḥ snigdho'sito mecakābho malinaḥ śothavān guruḥ" },
@@ -1521,7 +1520,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 51,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Гала рога нидана — Болезни горла" },
       { type: "text", text: "Восемнадцать болезней горла от фарингита до дифтерии. Гала-шундика, гала-вараньджа и другие специфически описанные болезни горла." },
@@ -1533,7 +1532,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "6", sanskrit: "छर्द्यरोचकजाड्यानि कण्डूकाठिन्यपाण्डुताः अवेदनश्चिरात् पाकी स विस्फोटः कफात्मकः", text: "chardyarocakajāḍyāni kaṇḍūkāṭhinyapāṇḍutāḥ avedanaścirāt pākī sa visphoṭaḥ kaphātmakaḥ" },
       { type: "verse", number: "7", sanskrit: "वातपित्तकृतो यस्तु कुरुते तीव्रवेदनाम् कण्डूस्तैमित्यगुरुभिर्जानीयात् कफवातिकम्", text: "vātapittakṛto yastu kurute tīvravedanām kaṇḍūstaimityagurubhirjānīyāt kaphavātikam" },
       { type: "verse", number: "8", sanskrit: "कण्डूर्दाहो ज्वरश्छर्दिरेतैस्तु कफपैत्तिकः मध्ये निम्नोन्नतोऽन्ते च कठिनोऽल्पप्रपाकवान्", text: "kaṇḍūrdāho jvaraśchardiretaistu kaphapaittikaḥ madhye nimnonnato'nte ca kaṭhino'lpaprapākavān" },
-      { type: "verse", number: "9", sanskrit: "दाहरागतृषामोहच्छर्दि मूर्च्छारुजाज्वराः प्रलापो वेपथुस्तन्द्रा  सोऽसाध्यः स्यात् त्रिदोषजः", text: "dāharāgatṛṣāmohacchardi mūrcchārujājvarāḥ pralāpo vepathustandrā  so'sādhyaḥ syāt tridoṣajaḥ" },
+      { type: "verse", number: "9", sanskrit: "दाहरागतृषामोहच्छर्दि मूर्च्छारुजाज्वराः प्रलापो वेपथुस्तन्द्रा सोऽसाध्यः स्यात् त्रिदोषजः", text: "dāharāgatṛṣāmohacchardi mūrcchārujājvarāḥ pralāpo vepathustandrā so'sādhyaḥ syāt tridoṣajaḥ" },
       { type: "verse", number: "10", sanskrit: "रक्ता रक्तसमुत्थाना गुञ्जाविद्रुमसन्निभाः वेदितव्यास्तु रक्तेन पैत्तिकेन च हेतुना", text: "raktā raktasamutthānā guñjāvidrumasannibhāḥ veditavyāstu raktena paittikena ca hetunā" },
       { type: "verse", number: "11", sanskrit: "न ते सिद्धिं समायान्ति सिद्धैर्योगशतैरपि एकदोषोत्थितः साध्यः कृच्छ्रसाध्यो द्विदोषजः सर्वदोषोत्थितो घोरस्त्वसाध्यो भूर्युपद्र वः", text: "na te siddhiṃ samāyānti siddhairyogaśatairapi ekadoṣotthitaḥ sādhyaḥ kṛcchrasādhyo dvidoṣajaḥ sarvadoṣotthito ghorastvasādhyo bhūryupadra vaḥ" },
     ],
@@ -1541,7 +1540,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 52,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Шала рога нидана — Хирургические болезни" },
       { type: "text", text: "Обзор болезней, требующих хирургического вмешательства. Мадхавакара определяет показания к хирургии и взаимодействие с Сушрута-самхитой в этой области." },
@@ -1553,7 +1552,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "6", sanskrit: "शोषस्ताल्वोष्ठजिह्वानां तृष्णा चारुचिसंयुता रक्ताः पीतसिताः स्फोटाः सदाहास्तीव्रवेदनाः", text: "śoṣastālvoṣṭhajihvānāṃ tṛṣṇā cārucisaṃyutā raktāḥ pītasitāḥ sphoṭāḥ sadāhāstīvravedanāḥ" },
       { type: "verse", number: "7", sanskrit: "भवन्त्यचिरपाकाश्च पित्तकोपसमुद्भवाः विड्भेदश्चाङ्गमर्दश्च दाहस्तृष्णाऽरुचिस्तथा", text: "bhavantyacirapākāśca pittakopasamudbhavāḥ viḍbhedaścāṅgamardaśca dāhastṛṣṇā'rucistathā" },
       { type: "verse", number: "8", sanskrit: "मुखपाकोऽक्षिरागश्च ज्वरस्तीव्रः सुदारुणः रक्तजायां भवन्त्येते विकाराः पित्तलक्षणाः", text: "mukhapāko'kṣirāgaśca jvarastīvraḥ sudāruṇaḥ raktajāyāṃ bhavantyete vikārāḥ pittalakṣaṇāḥ" },
-      { type: "verse", number: "9", sanskrit: "कफप्रसेकः स्तैमित्यं शिरोरुगात्रगौरवम् हृल्लासः सारुचिर्निद्रा  तन्द्रा लस्यसमन्विताः", text: "kaphaprasekaḥ staimityaṃ śirorugātragauravam hṛllāsaḥ sārucirnidrā  tandrā lasyasamanvitāḥ" },
+      { type: "verse", number: "9", sanskrit: "कफप्रसेकः स्तैमित्यं शिरोरुगात्रगौरवम् हृल्लासः सारुचिर्निद्रा तन्द्रा लस्यसमन्विताः", text: "kaphaprasekaḥ staimityaṃ śirorugātragauravam hṛllāsaḥ sārucirnidrā tandrā lasyasamanvitāḥ" },
       { type: "verse", number: "10", sanskrit: "श्वेताः स्निग्धाः भृशं स्थूलाः कण्डूबरा मन्दवेदनाः मसूरिकाः कफोत्थाश्च चिरपाकाः प्रकीर्तिताः", text: "śvetāḥ snigdhāḥ bhṛśaṃ sthūlāḥ kaṇḍūbarā mandavedanāḥ masūrikāḥ kaphotthāśca cirapākāḥ prakīrtitāḥ" },
       { type: "verse", number: "11", sanskrit: "नीलाश्चिपिटविस्तीर्णा मध्ये निम्ना महारुजः चिरपाकाः पूतिस्रावाः प्रभूताः सर्वदोषजाः", text: "nīlāścipiṭavistīrṇā madhye nimnā mahārujaḥ cirapākāḥ pūtisrāvāḥ prabhūtāḥ sarvadoṣajāḥ" },
       { type: "verse", number: "12", sanskrit: "कण्ठरोधारुचिस्तम्भ प्रलापारतिसंयुताः दुश्चिकित्स्याः समुद्दिष्टाः पिडकाश्चर्मसंज्ञिताः", text: "kaṇṭharodhārucistambha pralāpāratisaṃyutāḥ duścikitsyāḥ samuddiṣṭāḥ piḍakāścarmasaṃjñitāḥ" },
@@ -1562,7 +1561,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "15", sanskrit: "रक्तस्था लोहिताकाराः शीघ्रपाकास्तनुत्वचः साध्या नात्यर्थदुष्टाश्च भिन्ना रक्तं स्रवन्ति च", text: "raktasthā lohitākārāḥ śīghrapākāstanutvacaḥ sādhyā nātyarthaduṣṭāśca bhinnā raktaṃ sravanti ca" },
       { type: "verse", number: "16", sanskrit: "मांसस्थाः कठिनाः स्निग्धाश्चिरपाका घनत्वचः गात्रशूलतृषाकण्डू ज्वरारतिसमन्विताः", text: "māṃsasthāḥ kaṭhināḥ snigdhāścirapākā ghanatvacaḥ gātraśūlatṛṣākaṇḍū jvarāratisamanvitāḥ" },
       { type: "verse", number: "17", sanskrit: "मेदोजा मण्डलाकारा मृदवः किंचिदुन्नताः घोरज्वरपरीताश्च स्थूलाः स्निग्धाः सवेदनाः", text: "medojā maṇḍalākārā mṛdavaḥ kiṃcidunnatāḥ ghorajvaraparītāśca sthūlāḥ snigdhāḥ savedanāḥ" },
-      { type: "verse", number: "18", sanskrit: "संमोहारतिसंतापाः कश्चिदाभ्यो विनिस्तरेत् क्षुद्रा  गात्रसमा रूक्षाश्चिपिटाः किंचिदुन्नताः", text: "saṃmohāratisaṃtāpāḥ kaścidābhyo vinistaret kṣudrā  gātrasamā rūkṣāścipiṭāḥ kiṃcidunnatāḥ" },
+      { type: "verse", number: "18", sanskrit: "संमोहारतिसंतापाः कश्चिदाभ्यो विनिस्तरेत् क्षुद्रा गात्रसमा रूक्षाश्चिपिटाः किंचिदुन्नताः", text: "saṃmohāratisaṃtāpāḥ kaścidābhyo vinistaret kṣudrā gātrasamā rūkṣāścipiṭāḥ kiṃcidunnatāḥ" },
       { type: "verse", number: "19", sanskrit: "मज्जोत्था भृशसंमोहवेदनारतिसंयुताः छिन्दन्ति मर्मधामानि प्राणानाशु हरन्ति हि", text: "majjotthā bhṛśasaṃmohavedanāratisaṃyutāḥ chindanti marmadhāmāni prāṇānāśu haranti hi" },
       { type: "verse", number: "20", sanskrit: "भ्रमरेणेव विद्धानि कुर्वन्त्यस्थीनि सर्वतः पक्वाभाः पिडकाः स्निग्धाः सूक्ष्माश्चात्यर्थवेदनाः", text: "bhramareṇeva viddhāni kurvantyasthīni sarvataḥ pakvābhāḥ piḍakāḥ snigdhāḥ sūkṣmāścātyarthavedanāḥ" },
       { type: "verse", number: "21", sanskrit: "स्तैमित्यारति संमोहदाहोन्माद समन्विताः शुक्रजायां मसूर्यां तु लक्षणानि भवन्ति हि", text: "staimityārati saṃmohadāhonmāda samanvitāḥ śukrajāyāṃ masūryāṃ tu lakṣaṇāni bhavanti hi" },
@@ -1581,7 +1580,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 53,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Видрадхи нидана — Абсцессы" },
       { type: "text", text: "Шесть типов видрадхи (абсцессов): ватаджа, питтаджа, капхаджа, санниатаджа, агантуджа (внешние травмы) и ракта-джа. Дифференциация по локализации и тяжести." },
@@ -1613,7 +1612,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "26", sanskrit: "शर्करोन्मथिते पादे क्षते वा कण्टकादिभिः ग्रन्थिः कोलवदुत्सन्नो जायते कदरं हि तत्", text: "śarkaronmathite pāde kṣate vā kaṇṭakādibhiḥ granthiḥ kolavadutsanno jāyate kadaraṃ hi tat" },
       { type: "verse", number: "27", sanskrit: "क्लिन्नाङ्गुल्यन्तरौ पादौ कण्डूदाहरुजान्वितौ दुष्टकर्दमसंस्पर्शादलसं तं विभावयेत्", text: "klinnāṅgulyantarau pādau kaṇḍūdāharujānvitau duṣṭakardamasaṃsparśādalasaṃ taṃ vibhāvayet" },
       { type: "verse", number: "28", sanskrit: "रोमकूपानुगं पित्तं वातेन सह मूर्च्छितम् प्रच्यावयति रोमाणि ततः श्लेष्मा सशोणितः", text: "romakūpānugaṃ pittaṃ vātena saha mūrcchitam pracyāvayati romāṇi tataḥ śleṣmā saśoṇitaḥ" },
-      { type: "verse", number: "29", sanskrit: "रुणद्धि रोमकूपांस्तु ततोऽन्येषामसंभवः तदिन्द्र  लुप्तं रवालित्यं रुह्येतिच विभाव्यते", text: "ruṇaddhi romakūpāṃstu tato'nyeṣāmasaṃbhavaḥ tadindra  luptaṃ ravālityaṃ ruhyetica vibhāvyate" },
+      { type: "verse", number: "29", sanskrit: "रुणद्धि रोमकूपांस्तु ततोऽन्येषामसंभवः तदिन्द्र लुप्तं रवालित्यं रुह्येतिच विभाव्यते", text: "ruṇaddhi romakūpāṃstu tato'nyeṣāmasaṃbhavaḥ tadindra luptaṃ ravālityaṃ ruhyetica vibhāvyate" },
       { type: "verse", number: "30", sanskrit: "दारुणा कण्डुरा रूक्षा केशभूमिः प्रपाट्यते कफमारुतकोपेन विद्याद्दारुणकं तु तम्", text: "dāruṇā kaṇḍurā rūkṣā keśabhūmiḥ prapāṭyate kaphamārutakopena vidyāddāruṇakaṃ tu tam" },
       { type: "verse", number: "31", sanskrit: "अरूंषि बहुवक्त्राणि वहुक्लेदीनि मूर्घ्नि तु कफासृक्क्रिमिकोपेन नृणां विद्यादरूंषिकाम्", text: "arūṃṣi bahuvaktrāṇi vahukledīni mūrghni tu kaphāsṛkkrimikopena nṛṇāṃ vidyādarūṃṣikām" },
       { type: "verse", number: "32", sanskrit: "क्रोधशोकश्रमकृतः शरीरोष्मा शिरोगतः पित्तं च केशान् पचति प्रमितं तेन जायते", text: "krodhaśokaśramakṛtaḥ śarīroṣmā śirogataḥ pittaṃ ca keśān pacati pramitaṃ tena jāyate" },
@@ -1637,7 +1636,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "50", sanskrit: "शकृन्मूत्रसमायुक्तेऽधौतेऽपाने शिशोर्भवेत् स्विन्ने वाऽस्नाप्यमाने वा कण्डू रक्तकफोद्भवा", text: "śakṛnmūtrasamāyukte'dhaute'pāne śiśorbhavet svinne vā'snāpyamāne vā kaṇḍū raktakaphodbhavā" },
       { type: "verse", number: "51", sanskrit: "कण्डूयनात्ततः क्षिप्रं स्फोटः स्रावश्च जायते एकीभूतं व्रणैर्घोरं तं विद्यादहिपूतनम्", text: "kaṇḍūyanāttataḥ kṣipraṃ sphoṭaḥ srāvaśca jāyate ekībhūtaṃ vraṇairghoraṃ taṃ vidyādahipūtanam" },
       { type: "verse", number: "52", sanskrit: "स्नानोत्सादनहीनस्य मलो वृषणसंस्थितः यदा प्रक्लिद्यते स्वेदात् कण्डूं जनयते तदा", text: "snānotsādanahīnasya malo vṛṣaṇasaṃsthitaḥ yadā praklidyate svedāt kaṇḍūṃ janayate tadā" },
-      { type: "verse", number: "53", sanskrit: "कण्डूयनात्ततः क्षिप्रं स्फोटः स्रावश्च जायते प्राहुर्वृषणकच्छूं  तां श्लेष्मरक्तप्रकोपजाम्", text: "kaṇḍūyanāttataḥ kṣipraṃ sphoṭaḥ srāvaśca jāyate prāhurvṛṣaṇakacchūṃ  tāṃ śleṣmaraktaprakopajām" },
+      { type: "verse", number: "53", sanskrit: "कण्डूयनात्ततः क्षिप्रं स्फोटः स्रावश्च जायते प्राहुर्वृषणकच्छूं तां श्लेष्मरक्तप्रकोपजाम्", text: "kaṇḍūyanāttataḥ kṣipraṃ sphoṭaḥ srāvaśca jāyate prāhurvṛṣaṇakacchūṃ tāṃ śleṣmaraktaprakopajām" },
       { type: "verse", number: "54", sanskrit: "प्रवाहणातिसाराभ्यां निर्गच्छति गुदं बहिः रूक्षदुर्बलदेहस्य गुदभ्रंशं तमादिशेत्", text: "pravāhaṇātisārābhyāṃ nirgacchati gudaṃ bahiḥ rūkṣadurbaladehasya gudabhraṃśaṃ tamādiśet" },
       { type: "verse", number: "55", sanskrit: "सदाहो रक्तपर्यन्तस्त्वक्पाकी तीव्रवेदनः कण्डूमाञ् ज्वरकारी च स स्याच्छूकरदंष्ट्रकः", text: "sadāho raktaparyantastvakpākī tīvravedanaḥ kaṇḍūmāñ jvarakārī ca sa syācchūkaradaṃṣṭrakaḥ" },
     ],
@@ -1645,7 +1644,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 54,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Врана нидана — Раны" },
       { type: "text", text: "Систематическая нозология ран (врана): по причине (хирургические, травматические), по глубине (поверхностные, глубокие) и по состоянию (чистые, заражённые, хронические)." },
@@ -1713,7 +1712,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 55,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Нади врана нидана — Свищи" },
       { type: "text", text: "Нади-врана (свищевые раны, фистулы) — хроническое патологическое сообщение. Двадцать типов по направлению хода, глубине и локализации." },
@@ -1730,7 +1729,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "11", sanskrit: "क्षताभिघातप्रभवस्तु विद्र धिर्भवेत्तथा दोषकृतोऽपरः पुनः सरक्तपीतारुणमस्रमास्रवेत् प्रतोदधूमायनदाहचोषवान्", text: "kṣatābhighātaprabhavastu vidra dhirbhavettathā doṣakṛto'paraḥ punaḥ saraktapītāruṇamasramāsravet pratodadhūmāyanadāhacoṣavān" },
       { type: "verse", number: "12", sanskrit: "कर्णपाकस्तु पित्तेन कोथविक्लेदकृद्भवेत् कर्णविद्र धिपाकाद्वा जायते चाम्बुपूरणात्", text: "karṇapākastu pittena kothavikledakṛdbhavet karṇavidra dhipākādvā jāyate cāmbupūraṇāt" },
       { type: "verse", number: "13", sanskrit: "पूयं स्रवति पूतिं वा स ज्ञेयः पूतिकर्णकः कर्णशोथार्बुदार्शांसि जानीयादुक्तलक्षणैः", text: "pūyaṃ sravati pūtiṃ vā sa jñeyaḥ pūtikarṇakaḥ karṇaśothārbudārśāṃsi jānīyāduktalakṣaṇaiḥ" },
-      { type: "verse", number: "14", sanskrit: "नादोऽतिरुक् कर्णमलस्य  शोषः स्रावस्तनुश्चाश्रवणं च वातात् शोथः सरागो दरणं विदाहः सपीतपूतिस्रवणं च पित्तात्", text: "nādo'tiruk karṇamalasya  śoṣaḥ srāvastanuścāśravaṇaṃ ca vātāt śothaḥ sarāgo daraṇaṃ vidāhaḥ sapītapūtisravaṇaṃ ca pittāt" },
+      { type: "verse", number: "14", sanskrit: "नादोऽतिरुक् कर्णमलस्य शोषः स्रावस्तनुश्चाश्रवणं च वातात् शोथः सरागो दरणं विदाहः सपीतपूतिस्रवणं च पित्तात्", text: "nādo'tiruk karṇamalasya śoṣaḥ srāvastanuścāśravaṇaṃ ca vātāt śothaḥ sarāgo daraṇaṃ vidāhaḥ sapītapūtisravaṇaṃ ca pittāt" },
       { type: "verse", number: "15", sanskrit: "वैश्रुत्यकण्डूस्थिरशोथशुक्लस्निग्धस्रुतिः स्वल्परुजः कफाच्च सर्वाणि रूपाणि च सन्निपातात् स्रावश्च तत्राधिकदोषवर्णः", text: "vaiśrutyakaṇḍūsthiraśothaśuklasnigdhasrutiḥ svalparujaḥ kaphācca sarvāṇi rūpāṇi ca sannipātāt srāvaśca tatrādhikadoṣavarṇaḥ" },
       { type: "verse", number: "16", sanskrit: "सौकुमार्याच्चिरोत्सृष्टे सहसाऽतिप्रवर्धिते कर्णशोथो भवेत् पाल्यां सरुजः परिपोटवान् कृष्णारुणनिभः स्तव्धः स वातात् परिपोटकः", text: "saukumāryāccirotsṛṣṭe sahasā'tipravardhite karṇaśotho bhavet pālyāṃ sarujaḥ paripoṭavān kṛṣṇāruṇanibhaḥ stavdhaḥ sa vātāt paripoṭakaḥ" },
       { type: "verse", number: "17", sanskrit: "गुर्वाभरणसंयोगात्ताडनाद् घर्षणादपि शोथः पाल्यां भवेच्छ्यावो दाहपाकरुजान्वितः", text: "gurvābharaṇasaṃyogāttāḍanād gharṣaṇādapi śothaḥ pālyāṃ bhavecchyāvo dāhapākarujānvitaḥ" },
@@ -1744,7 +1743,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 56,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Крими нидана — Паразитоз" },
       { type: "text", text: "Двадцать типов крими (паразитов), разделённых на макро- и микропаразитов, кишечных и экстраинтестинальных. Первое систематическое описание паразитозов в истории медицины." },
@@ -1754,7 +1753,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "4", sanskrit: "दोषैर्विदग्धैरथवाऽपि जन्तोर्ललाटदेशेऽभिहतस्य तैस्तैः नासा स्रवेत् पूयमसृग्विमिश्रं तं पूयरक्तं प्रवदन्ति रोगम्", text: "doṣairvidagdhairathavā'pi jantorlalāṭadeśe'bhihatasya taistaiḥ nāsā sravet pūyamasṛgvimiśraṃ taṃ pūyaraktaṃ pravadanti rogam" },
       { type: "verse", number: "5", sanskrit: "घ्राणाश्रिते मर्मणि संप्रदुष्टो यस्यानिलो नासिकया निरेति कफानुजातो बहुशोऽतिशब्दस्तं रोगमाहुः क्षवथुं विधिज्ञाः", text: "ghrāṇāśrite marmaṇi saṃpraduṣṭo yasyānilo nāsikayā nireti kaphānujāto bahuśo'tiśabdastaṃ rogamāhuḥ kṣavathuṃ vidhijñāḥ" },
       { type: "verse", number: "6", sanskrit: "तीक्ष्णोपयोगादभिजिघ्रतो वा भावान् कटूनर्कनिरीक्षणाद्वा सूत्रादिभिर्वा तरुणास्थिमर्मण्युद्धाटितेऽन्य क्षवथुर्निरेति", text: "tīkṣṇopayogādabhijighrato vā bhāvān kaṭūnarkanirīkṣaṇādvā sūtrādibhirvā taruṇāsthimarmaṇyuddhāṭite'nya kṣavathurnireti" },
-      { type: "verse", number: "7", sanskrit: "प्रभ्रश्यते नासिकया तु यस्य सान्द्रो  विदग्धो लवणः कफस्तु प्राक्संचितो मूर्धनि सूर्यतप्तस्तं भ्रंशथुं रोगमुदाहरन्ति", text: "prabhraśyate nāsikayā tu yasya sāndro  vidagdho lavaṇaḥ kaphastu prāksaṃcito mūrdhani sūryataptastaṃ bhraṃśathuṃ rogamudāharanti" },
+      { type: "verse", number: "7", sanskrit: "प्रभ्रश्यते नासिकया तु यस्य सान्द्रो विदग्धो लवणः कफस्तु प्राक्संचितो मूर्धनि सूर्यतप्तस्तं भ्रंशथुं रोगमुदाहरन्ति", text: "prabhraśyate nāsikayā tu yasya sāndro vidagdho lavaṇaḥ kaphastu prāksaṃcito mūrdhani sūryataptastaṃ bhraṃśathuṃ rogamudāharanti" },
       { type: "verse", number: "8", sanskrit: "घ्राणे भृशं दाहसमन्विते तु विनिःसरेद् धूम इवेह वायुः नासा प्रदीप्तेव च यस्य जन्तोर्व्याधिं तुतं दीप्तमुदाहरन्ति", text: "ghrāṇe bhṛśaṃ dāhasamanvite tu viniḥsared dhūma iveha vāyuḥ nāsā pradīpteva ca yasya jantorvyādhiṃ tutaṃ dīptamudāharanti" },
       { type: "verse", number: "9", sanskrit: "उछ्वासमार्गं तु कफः सवातो रुन्ध्यात् प्रतीनाहमुदाहरेत्तम् घ्राणाद् घनः पीतसितस्तनुर्वा दोषः स्रवेत् स्रावमुदाहरेत्तम्", text: "uchvāsamārgaṃ tu kaphaḥ savāto rundhyāt pratīnāhamudāharettam ghrāṇād ghanaḥ pītasitastanurvā doṣaḥ sravet srāvamudāharettam" },
       { type: "verse", number: "10", sanskrit: "घ्राणाश्रिते स्रोतसि मारुतेन गाढं प्रतप्ते परिशोषिते च कृच्छ्राच्छ्वसेदूर्ध्वमधश्चजन्तुर्यस्मिन् स नासापरिशोष उक्तः", text: "ghrāṇāśrite srotasi mārutena gāḍhaṃ pratapte pariśoṣite ca kṛcchrācchvasedūrdhvamadhaścajanturyasmin sa nāsāpariśoṣa uktaḥ" },
@@ -1781,7 +1780,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 57,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Вишарпа нидана — Рожистое воспаление" },
       { type: "text", text: "Вишарпа — быстро распространяющееся воспаление кожи (рожа). Семь типов по дошам. Мадхавакара описывает отличительные признаки и опасность каждого типа." },
@@ -1856,7 +1855,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "69", sanskrit: "जालाभः कठिनसिरो महान् सरक्तः संतानः स्मृत इह जालसंज्ञितस्तु शुक्लस्थाः सितपिडकाः सिरावृता या- स्ता ब्रूयादसितसमीपजाः सिराजाः कांस्याभोऽमृदुरथ वारिबिन्दुकल्पो विज्ञेयो नयनसिते बलाससंज्ञः", text: "jālābhaḥ kaṭhinasiro mahān saraktaḥ saṃtānaḥ smṛta iha jālasaṃjñitastu śuklasthāḥ sitapiḍakāḥ sirāvṛtā yā- stā brūyādasitasamīpajāḥ sirājāḥ kāṃsyābho'mṛduratha vāribindukalpo vijñeyo nayanasite balāsasaṃjñaḥ" },
       { type: "verse", number: "70", sanskrit: "पक्वः शोथः सन्धिजो यः सतोदः स्रवेत पूयं पूति पूयालसाख्यः ग्रन्थिर्नाल्पो दृष्टिसन्धावपाकी कण्डूप्रायो नीरुजस्तूपनाहः", text: "pakvaḥ śothaḥ sandhijo yaḥ satodaḥ sraveta pūyaṃ pūti pūyālasākhyaḥ granthirnālpo dṛṣṭisandhāvapākī kaṇḍūprāyo nīrujastūpanāhaḥ" },
       { type: "verse", number: "71", sanskrit: "गत्वा सन्धीनश्रुमार्गेण दोषाः कुर्युः स्रावाँ ल्लक्षणैः स्वैरुपेतान् तं हि स्रावं नेत्रनाडीति चैके तस्या लिङ्गं कीर्त्तयिष्ये चतुर्धा", text: "gatvā sandhīnaśrumārgeṇa doṣāḥ kuryuḥ srāvā~ llakṣaṇaiḥ svairupetān taṃ hi srāvaṃ netranāḍīti caike tasyā liṅgaṃ kīrttayiṣye caturdhā" },
-      { type: "verse", number: "72", sanskrit: "पाकात् सन्धौ संस्रवेद्यस्तु पूयं पूयास्रावोऽसौ गदः सर्वजस्तु श्वेतं सान्द्रं  पिच्छिलं यः स्रवेत्तु श्लेष्मस्रावोऽसौ विकारो मतस्तु", text: "pākāt sandhau saṃsravedyastu pūyaṃ pūyāsrāvo'sau gadaḥ sarvajastu śvetaṃ sāndraṃ  picchilaṃ yaḥ sravettu śleṣmasrāvo'sau vikāro matastu" },
+      { type: "verse", number: "72", sanskrit: "पाकात् सन्धौ संस्रवेद्यस्तु पूयं पूयास्रावोऽसौ गदः सर्वजस्तु श्वेतं सान्द्रं पिच्छिलं यः स्रवेत्तु श्लेष्मस्रावोऽसौ विकारो मतस्तु", text: "pākāt sandhau saṃsravedyastu pūyaṃ pūyāsrāvo'sau gadaḥ sarvajastu śvetaṃ sāndraṃ picchilaṃ yaḥ sravettu śleṣmasrāvo'sau vikāro matastu" },
       { type: "verse", number: "73", sanskrit: "रक्तश्रावः शोणितोत्थो विकारः स्रवेद् दुष्टं तत्र रक्तं प्रभूतम् हरिद्रा भं पीतमुष्णं जलाभं पित्तात्स्रावः संस्रवेत् सन्धिमध्यात्", text: "raktaśrāvaḥ śoṇitottho vikāraḥ sraved duṣṭaṃ tatra raktaṃ prabhūtam haridrā bhaṃ pītamuṣṇaṃ jalābhaṃ pittātsrāvaḥ saṃsravet sandhimadhyāt" },
       { type: "verse", number: "74", sanskrit: "ताम्रा तन्वी दाहशूलोपपन्ना रक्ताज्ज्ञेया पर्वणी वृत्तशोथा जाता सन्धौ कृष्ण शुक्लेऽलजी स्यात्तस्मिन्नेव ख्यापिता पूर्वलिङ्गैः", text: "tāmrā tanvī dāhaśūlopapannā raktājjñeyā parvaṇī vṛttaśothā jātā sandhau kṛṣṇa śukle'lajī syāttasminneva khyāpitā pūrvaliṅgaiḥ" },
       { type: "verse", number: "75", sanskrit: "क्रिमिग्रन्थिर्वर्त्मनः पक्ष्मणश्च कण्डूं कुर्युः क्रिमयः सन्धिजाताः नानारूपा वर्त्मशुक्लान्तसन्धौ चरन्त्यन्तर्लोचनं दूषयन्तः", text: "krimigranthirvartmanaḥ pakṣmaṇaśca kaṇḍūṃ kuryuḥ krimayaḥ sandhijātāḥ nānārūpā vartmaśuklāntasandhau carantyantarlocanaṃ dūṣayantaḥ" },
@@ -1891,7 +1890,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 58,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Апачи нидана — Лимфаденит" },
       { type: "text", text: "Апачи — воспаление лимфатических узлов, особенно на шее и в паховой области. Девять типов по дошам и этиологии. Туберкулёзный лимфаденит описан отдельно." },
@@ -1915,12 +1914,12 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 59,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Бала нидана — Детские болезни" },
       { type: "text", text: "Специфические болезни детского возраста, не встречающиеся у взрослых. Классификация детских расстройств: ниджа (собственные) и граха (духовные)." },
       { type: "verse", number: "1", sanskrit: "अथासृद्गरनिदानम् विरुद्धमद्याध्यशनादजीर्णाद् गर्भप्रपातादतिमैथुनाच्च यानाध्वशोकादतिकर्षणाच्च भाराभिघाताच्छयनाद्दिवा च तं श्लेष्मपित्तानिलसंनिपातैश्चतुष्प्रकारं प्रदरं वदन्ति", text: "athāsṛdgaranidānam viruddhamadyādhyaśanādajīrṇād garbhaprapātādatimaithunācca yānādhvaśokādatikarṣaṇācca bhārābhighātācchayanāddivā ca taṃ śleṣmapittānilasaṃnipātaiścatuṣprakāraṃ pradaraṃ vadanti" },
-      { type: "verse", number: "2", sanskrit: "असृग्दरं भवेत् सर्वं साङ्गमर्दं सवेदनम् तस्यातिवृत्तौ दौर्वल्यं भ्रमो मूर्च्छा मदस्तृषा दाहः प्रलापः पाण्डुत्वं तन्द्रा  रोगाश्च वातजाः", text: "asṛgdaraṃ bhavet sarvaṃ sāṅgamardaṃ savedanam tasyātivṛttau daurvalyaṃ bhramo mūrcchā madastṛṣā dāhaḥ pralāpaḥ pāṇḍutvaṃ tandrā  rogāśca vātajāḥ" },
+      { type: "verse", number: "2", sanskrit: "असृग्दरं भवेत् सर्वं साङ्गमर्दं सवेदनम् तस्यातिवृत्तौ दौर्वल्यं भ्रमो मूर्च्छा मदस्तृषा दाहः प्रलापः पाण्डुत्वं तन्द्रा रोगाश्च वातजाः", text: "asṛgdaraṃ bhavet sarvaṃ sāṅgamardaṃ savedanam tasyātivṛttau daurvalyaṃ bhramo mūrcchā madastṛṣā dāhaḥ pralāpaḥ pāṇḍutvaṃ tandrā rogāśca vātajāḥ" },
       { type: "verse", number: "3", sanskrit: "आमं सपिच्छाप्रतिमं सपाण्डु पुलाकतोयप्रतिमं कफात्तु सपीतनीलासितरक्तमुष्णं पित्तार्तियुक्तं भृशवेगि पित्तात्", text: "āmaṃ sapicchāpratimaṃ sapāṇḍu pulākatoyapratimaṃ kaphāttu sapītanīlāsitaraktamuṣṇaṃ pittārtiyuktaṃ bhṛśavegi pittāt" },
       { type: "verse", number: "4", sanskrit: "रूक्षारुणं फेनिलमल्पमल्पं वातार्तिवातात् पिशितोदकाभम् सक्षौद्र सर्पिर्हरितालवर्णं मज्जप्रकाशं कुणपं त्रिदोषात्", text: "rūkṣāruṇaṃ phenilamalpamalpaṃ vātārtivātāt piśitodakābham sakṣaudra sarpirharitālavarṇaṃ majjaprakāśaṃ kuṇapaṃ tridoṣāt" },
       { type: "verse", number: "5", sanskrit: "तं चाप्यसाध्यं प्रवदन्ति तज्ज्ञा न तत्र कुर्वीत भिषक् चिकित्साम् शश्वत् स्रवन्तीमास्रावं तृष्णादाहज्वरान्विताम् क्षीणरक्तां दुर्बलां च तामसाध्यां विनिर्दिशेत्", text: "taṃ cāpyasādhyaṃ pravadanti tajjñā na tatra kurvīta bhiṣak cikitsām śaśvat sravantīmāsrāvaṃ tṛṣṇādāhajvarānvitām kṣīṇaraktāṃ durbalāṃ ca tāmasādhyāṃ vinirdiśet" },
@@ -1931,7 +1930,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 60,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Граха нидана — Психические болезни с духовным компонентом" },
       { type: "text", text: "Граха (буквально «захваченный») — болезни, связанные с духовными факторами. Девять типов граха соответствуют различным манифестациям психических расстройств." },
@@ -1953,7 +1952,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 61,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Йони вьяпат нидана — Женские болезни" },
       { type: "text", text: "Двадцать типов йони-вьяпат (гинекологических расстройств): нарушения менструального цикла, воспалительные болезни, бесплодие. Систематическая гинекологическая нозология." },
@@ -1966,7 +1965,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 62,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Прасута нидана — Послеродовые болезни" },
       { type: "text", text: "Болезни, возникающие после родов: маточные инфекции, задержка последа, послеродовой психоз, мастит. Мадхавакара описывает острые и хронические послеродовые состояния." },
@@ -1987,7 +1986,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 63,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Гарбха вьяпат нидана — Патологии беременности" },
       { type: "text", text: "Болезни, возникающие в период беременности: дакарабхирана (тошнота рвота беременных), гарбха-шравана (выкидыш), гарбха-вьяпат (замершая беременность) и другие." },
@@ -2000,7 +1999,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 64,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Кшата кшина нидана — Истощение от ранений" },
       { type: "text", text: "Кшата-кшина — истощение как результат хронических ранений, тяжёлого труда или болезней лёгких. Сочетает черты кахексии и туберкулёза. Тяжёлый прогноз при запущенных случаях." },
@@ -2011,7 +2010,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 65,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Расаяна нидана — Возрастные изменения" },
       { type: "text", text: "Возрастные изменения как патологический процесс: ухудшение всех дхату с возрастом, снижение оджаса, ослабление Агни. Обоснование необходимости расаяна-терапии." },
@@ -2028,7 +2027,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 66,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Вришья нидана — Сексуальные расстройства" },
       { type: "text", text: "Нарушения мужского репродуктивного здоровья: импотенция (клайбья), преждевременное семяизвержение, бесплодие. Классификация по дошевому принципу." },
@@ -2066,7 +2065,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 67,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Трайодаша нидана — 13 видов болезней" },
       { type: "text", text: "Тринадцать особых нозологических форм, не вошедших в предыдущие главы: грантхи (кисты), апачи (лимфаденит), специфические виды опухолей и хронические расстройства." },
@@ -2099,7 +2098,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "27", sanskrit: "तेनार्दितो भिन्नपुरीषवर्णो वैगन्ध्यवैरस्ययुतः पिपासी मूर्च्छा भ्रमं गद्गदवाग्वमिं च विचेष्टमानोऽरतिमाप्नुयाद्वा", text: "tenārdito bhinnapurīṣavarṇo vaigandhyavairasyayutaḥ pipāsī mūrcchā bhramaṃ gadgadavāgvamiṃ ca viceṣṭamāno'ratimāpnuyādvā" },
       { type: "verse", number: "28", sanskrit: "आमाशयस्थे कफवातरोगी पक्वाशयस्थेऽनिलपित्तरोगी भवेत् समुद्ध्वस्तशिरोरुहाङ्गो विलूनपक्षस्तु यथा विहङ्गः", text: "āmāśayasthe kaphavātarogī pakvāśayasthe'nilapittarogī bhavet samuddhvastaśiroruhāṅgo vilūnapakṣastu yathā vihaṅgaḥ" },
       { type: "verse", number: "29", sanskrit: "स्थितं रसादिष्वथवा यथोक्तान् करोति धातुप्रभवान् विकारान् कोपं च शीतानिलदुर्दिनेषु यात्याशु पूर्वं शृणु तस्य रूपम्", text: "sthitaṃ rasādiṣvathavā yathoktān karoti dhātuprabhavān vikārān kopaṃ ca śītāniladurdineṣu yātyāśu pūrvaṃ śṛṇu tasya rūpam" },
-      { type: "verse", number: "30", sanskrit: "निद्रा  गुरुत्वं च विजृम्भणं च विश्लेषहर्षावथवाऽङ्गमर्दम् ततः करोत्यन्नमदाविपाकावरोचकं मण्डलकोठजन्म", text: "nidrā  gurutvaṃ ca vijṛmbhaṇaṃ ca viśleṣaharṣāvathavā'ṅgamardam tataḥ karotyannamadāvipākāvarocakaṃ maṇḍalakoṭhajanma" },
+      { type: "verse", number: "30", sanskrit: "निद्रा गुरुत्वं च विजृम्भणं च विश्लेषहर्षावथवाऽङ्गमर्दम् ततः करोत्यन्नमदाविपाकावरोचकं मण्डलकोठजन्म", text: "nidrā gurutvaṃ ca vijṛmbhaṇaṃ ca viśleṣaharṣāvathavā'ṅgamardam tataḥ karotyannamadāvipākāvarocakaṃ maṇḍalakoṭhajanma" },
       { type: "verse", number: "31", sanskrit: "मांसक्षयं पादकरप्रशोथं मूर्च्छा तथा छर्दिमथातिसारम् दूषीविषं श्वासतृषाज्वरांश्च कुर्यात् प्रवृद्धिं जठरस्य चापि", text: "māṃsakṣayaṃ pādakarapraśothaṃ mūrcchā tathā chardimathātisāram dūṣīviṣaṃ śvāsatṛṣājvarāṃśca kuryāt pravṛddhiṃ jaṭharasya cāpi" },
       { type: "verse", number: "32", sanskrit: "उन्मादमन्यज्जनयेत्तथाऽन्यदानाहमन्यत्क्षपयेच्च शुक्रम् गाद्गद्यमन्यज्जनयेच्च कुष्ठं तांस्तान्विकारांश्च बहुप्रकारान्", text: "unmādamanyajjanayettathā'nyadānāhamanyatkṣapayecca śukram gādgadyamanyajjanayecca kuṣṭhaṃ tāṃstānvikārāṃśca bahuprakārān" },
       { type: "verse", number: "33", sanskrit: "दूषितं देशकालान्नदिवास्वप्नैरभीक्ष्णशः यस्मात् संदूषयेद्धातूँ स्तस्माद् दूषीविषं स्मृतम्", text: "dūṣitaṃ deśakālānnadivāsvapnairabhīkṣṇaśaḥ yasmāt saṃdūṣayeddhātū~ stasmād dūṣīviṣaṃ smṛtam" },
@@ -2120,7 +2119,7 @@ export const MADHAVA_DATA = [
       { type: "verse", number: "48", sanskrit: "दष्टोऽसाध्यश्च हृद्घ्राणरसनोपहतो नरः मांसैः पतद्भिरत्यर्थं वेदनार्तो जहात्यसून्", text: "daṣṭo'sādhyaśca hṛdghrāṇarasanopahato naraḥ māṃsaiḥ patadbhiratyarthaṃ vedanārto jahātyasūn" },
       { type: "verse", number: "49", sanskrit: "विसर्पः श्वयथुः शूलं ज्वरश्छर्दिरथापि च लक्षणं कणभैर्दष्टे दंशश्चैवावसीदति", text: "visarpaḥ śvayathuḥ śūlaṃ jvaraśchardirathāpi ca lakṣaṇaṃ kaṇabhairdaṣṭe daṃśaścaivāvasīdati" },
       { type: "verse", number: "50", sanskrit: "हृष्टलोमोच्चिटिङ्गेन स्तब्धलिङ्गो भृशार्तिमान् दष्टः शीतोदकेनेव सिक्तान्यङ्गानि मन्यते", text: "hṛṣṭalomocciṭiṅgena stabdhaliṅgo bhṛśārtimān daṣṭaḥ śītodakeneva siktānyaṅgāni manyate" },
-      { type: "verse", number: "51", sanskrit: "एकदंष्ट्रार्दितः शूनः सरुजः पीतकः सतृट् छर्दिर्निद्रा  च सविषैर्मण्डूकैर्दष्टलक्षणम्", text: "ekadaṃṣṭrārditaḥ śūnaḥ sarujaḥ pītakaḥ satṛṭ chardirnidrā  ca saviṣairmaṇḍūkairdaṣṭalakṣaṇam" },
+      { type: "verse", number: "51", sanskrit: "एकदंष्ट्रार्दितः शूनः सरुजः पीतकः सतृट् छर्दिर्निद्रा च सविषैर्मण्डूकैर्दष्टलक्षणम्", text: "ekadaṃṣṭrārditaḥ śūnaḥ sarujaḥ pītakaḥ satṛṭ chardirnidrā ca saviṣairmaṇḍūkairdaṣṭalakṣaṇam" },
       { type: "verse", number: "52", sanskrit: "मत्स्यास्तु सविषाः कुर्युदाहं शोथं रुजं तथा कण्डूं शोथं ज्वरं मूर्च्छा सविषास्तु जलौकसः", text: "matsyāstu saviṣāḥ kuryudāhaṃ śothaṃ rujaṃ tathā kaṇḍūṃ śothaṃ jvaraṃ mūrcchā saviṣāstu jalaukasaḥ" },
       { type: "verse", number: "53", sanskrit: "विदाहं श्वयथुं तोदं स्वेदं च गृहगोधिका दंशे स्वेदं रुजं दाहं कुर्याच्छतपदीविषम्", text: "vidāhaṃ śvayathuṃ todaṃ svedaṃ ca gṛhagodhikā daṃśe svedaṃ rujaṃ dāhaṃ kuryācchatapadīviṣam" },
       { type: "verse", number: "54", sanskrit: "कण्डूमान् मशकैरीषच्छोथः स्यान्मन्दवेदनः असाध्यकीटसदृशमसाध्यमशकक्षतम्", text: "kaṇḍūmān maśakairīṣacchothaḥ syānmandavedanaḥ asādhyakīṭasadṛśamasādhyamaśakakṣatam" },
@@ -2140,7 +2139,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 68,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Сарва рога нидана санграха — Сводная диагностика" },
       { type: "text", text: "Обобщающая глава Мадхава-нидана: систематизация всей изложенной диагностической системы по единому принципу — причина, патогенез, признаки, прогноз." },
@@ -2160,7 +2159,7 @@ export const MADHAVA_DATA = [
   {
     sthana: "Нидана",
     number: 69,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "Паримана санграха — Завершение" },
       { type: "text", text: "Заключительная глава Мадхава-нидана подводит итог и призывает практикующего врача к постоянному совершенствованию диагностических навыков." },

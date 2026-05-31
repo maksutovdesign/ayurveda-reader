@@ -1,5 +1,4 @@
-/** BHAVAPRAKASHA_DATA — Пурва/Уттара: русские обзоры; Мадхьямакханда (Нигханту):
-  * реальные стихи (деванагари+IAST) из Sanskrit Wikisource (23 варги). */
+/** BHAVAPRAKASHA_DATA — очищено от вики-маркеров */
 export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Пурвакханда",
@@ -114,7 +113,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 1,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "harītakyādi-варга — группа харитаки" },
       { type: "verse", number: "1", sanskrit: "दक्षं प्रजापतिं स्वस्थमश्विनौ वाक्यमूचतुः कुतो हरीतकी जाता तस्यास्तु कति जातयः", text: "dakṣaṃ prajāpatiṃ svasthamaśvinau vākyamūcatuḥ kuto harītakī jātā tasyāstu kati jātayaḥ" },
@@ -383,7 +382,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 2,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "karpūrādi-варга — камфора и ароматические" },
       { type: "verse", number: "1", sanskrit: "पुंसि क्लीबे च कर्पूरः सिताभ्रो हिमवालुकः घनसारश्चन्द्र संज्ञो हिमनामाऽपि स स्मृतः", text: "puṃsi klībe ca karpūraḥ sitābhro himavālukaḥ ghanasāraścandra saṃjño himanāmā'pi sa smṛtaḥ" },
@@ -523,7 +522,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 3,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "guḍūcyādi-варга — группа гудучи" },
       { type: "verse", number: "1", sanskrit: "अथ लङ्केश्वरो मानी रावणो राक्षसाधिपः रामपत्नीं बलात्सीतां जहार मदनातुरः", text: "atha laṅkeśvaro mānī rāvaṇo rākṣasādhipaḥ rāmapatnīṃ balātsītāṃ jahāra madanāturaḥ" },
@@ -843,7 +842,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 4,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "puṣpa-варга — цветы" },
       { type: "verse", number: "1", sanskrit: "वा पुंसि पद्मं नलिनमरविन्दं महोत्पलम् सहस्रपत्रं कमलं शतपत्रं कुशेशयम्", text: "vā puṃsi padmaṃ nalinamaravindaṃ mahotpalam sahasrapatraṃ kamalaṃ śatapatraṃ kuśeśayam" },
@@ -923,7 +922,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 5,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "vaṭādi-варга — баньян и др." },
       { type: "verse", number: "1", sanskrit: "वटो रक्तफलः शृङ्गीन्यग्रोधः स्कन्धजो ध्रुवः क्षीरी वैश्रवणो वासो बहुपादो वनस्पतिः", text: "vaṭo raktaphalaḥ śṛṅgīnyagrodhaḥ skandhajo dhruvaḥ kṣīrī vaiśravaṇo vāso bahupādo vanaspatiḥ" },
@@ -1009,7 +1008,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 6,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "āmrādiphala-варга — плоды (манго и др.)" },
       { type: "verse", number: "1", sanskrit: "आम्रश्चूतो रसालश्च सहकारोऽतिसौरभः कामाङ्गो मधुदूतश्च माकन्दः पिकवल्लभः", text: "āmraścūto rasālaśca sahakāro'tisaurabhaḥ kāmāṅgo madhudūtaśca mākandaḥ pikavallabhaḥ" },
@@ -1171,7 +1170,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 7,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "dhātūpadhāturasoparasaratnoparatnaviṣopaviṣa-варга — металлы, минералы, яды" },
       { type: "verse", number: "1", sanskrit: "अथाष्टमो धात्वादिवर्गोपरनामको धातूपधातुरसोपरसरत्नोपरत्नविषोपविषवर्गः स्वर्णं रूप्यञ्च ताम्रं च रङ्गं यशदमेव च सीसं लौहञ्च सप्तैते धातवो गिरिसम्भवः", text: "athāṣṭamo dhātvādivargoparanāmako dhātūpadhāturasoparasaratnoparatnaviṣopaviṣavargaḥ svarṇaṃ rūpyañca tāmraṃ ca raṅgaṃ yaśadameva ca sīsaṃ lauhañca saptaite dhātavo girisambhavaḥ" },
@@ -1386,7 +1385,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 8,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "dhānya-варга — зерновые" },
       { type: "verse", number: "1", sanskrit: "शालिधान्यं व्रीहिधान्यं शूकधान्यं तृतीयकम् शिम्बीधान्यं क्षुद्र धान्यमित्युक्तं धान्यपञ्चकम्", text: "śālidhānyaṃ vrīhidhānyaṃ śūkadhānyaṃ tṛtīyakam śimbīdhānyaṃ kṣudra dhānyamityuktaṃ dhānyapañcakam" },
@@ -1485,7 +1484,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 9,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "śāka-варга — овощи и зелень" },
       { type: "verse", number: "1", sanskrit: "पत्रं पुष्पं फलं नालं कन्दं संस्वेदजं तथा शाकं षड्विधमुदृष्टं गुरुं विद्याद्यथोत्तरम्", text: "patraṃ puṣpaṃ phalaṃ nālaṃ kandaṃ saṃsvedajaṃ tathā śākaṃ ṣaḍvidhamudṛṣṭaṃ guruṃ vidyādyathottaram" },
@@ -1615,7 +1614,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 10,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "māṃsa-варга — мясо" },
       { type: "verse", number: "1", sanskrit: "मासं तु पिशितं क्रव्यमामिषं पललं पलम् मांसं वातहरं सर्वं बृंहणं बलपुष्टिकृत् प्रीणनं गुरु हृद्यञ्च मधुरं रसपाकयोः", text: "māsaṃ tu piśitaṃ kravyamāmiṣaṃ palalaṃ palam māṃsaṃ vātaharaṃ sarvaṃ bṛṃhaṇaṃ balapuṣṭikṛt prīṇanaṃ guru hṛdyañca madhuraṃ rasapākayoḥ" },
@@ -1753,7 +1752,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 11,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "kṛtānna-варга — приготовленная пища" },
       { type: "verse", number: "1", sanskrit: "समवायिनि हेतौ ये मुनिभिर्गणिता गुणाः कार्येऽपि तेऽखिलाज्ञेयाः परिभाषेति भाषिताः", text: "samavāyini hetau ye munibhirgaṇitā guṇāḥ kārye'pi te'khilājñeyāḥ paribhāṣeti bhāṣitāḥ" },
@@ -1945,7 +1944,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 12,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "vāri-варга — вода" },
       { type: "verse", number: "1", sanskrit: "पानीयं सलिलं नीरं कीलालं जलमम्बु च आपो वार्वारि कं तोयं पयः पाथस्तथोदकम् जीवनं वनमम्भोऽणोऽमृतं घनरसोऽपि च", text: "pānīyaṃ salilaṃ nīraṃ kīlālaṃ jalamambu ca āpo vārvāri kaṃ toyaṃ payaḥ pāthastathodakam jīvanaṃ vanamambho'ṇo'mṛtaṃ ghanaraso'pi ca" },
@@ -2040,7 +2039,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 13,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "dugdha-варга — молоко" },
       { type: "verse", number: "1", sanskrit: "दुग्धं क्षीरं पयः स्तन्यं बालजीवनमित्यपि दुग्धं सुमधुरं स्निग्धं वातपित्तहरं सरम्", text: "dugdhaṃ kṣīraṃ payaḥ stanyaṃ bālajīvanamityapi dugdhaṃ sumadhuraṃ snigdhaṃ vātapittaharaṃ saram" },
@@ -2095,7 +2094,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 14,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "dadhi-варга — творог и йогурт" },
       { type: "verse", number: "1", sanskrit: "दध्युष्णं दीपनं स्निग्धं कषायानुरसं गुरु पाकेऽम्ल ग्राहि पित्तास्रशोथमेदः कफप्रदम्", text: "dadhyuṣṇaṃ dīpanaṃ snigdhaṃ kaṣāyānurasaṃ guru pāke'mla grāhi pittāsraśothamedaḥ kaphapradam" },
@@ -2127,7 +2126,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 15,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "takra-варга — пахта" },
       { type: "verse", number: "1", sanskrit: "घोलं तु मथितं तक्रमुदश्विच्छच्छिकाऽपि च ससरं निर्जलं घोलं मथितं त्वसरोदकम्", text: "gholaṃ tu mathitaṃ takramudaśvicchacchikā'pi ca sasaraṃ nirjalaṃ gholaṃ mathitaṃ tvasarodakam" },
@@ -2154,7 +2153,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 16,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "navanīta-варга — сливочное масло" },
       { type: "verse", number: "1", sanskrit: "म्रक्षणं सरजं हैयङ्गवीनं नवनीतकम् नवनीतं हितं गव्यं वृष्यं वर्णबलाग्निकृत्", text: "mrakṣaṇaṃ sarajaṃ haiyaṅgavīnaṃ navanītakam navanītaṃ hitaṃ gavyaṃ vṛṣyaṃ varṇabalāgnikṛt" },
@@ -2169,7 +2168,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 17,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "ghṛta-варга — топлёное масло (гхи)" },
       { type: "verse", number: "1", sanskrit: "घृतमाज्यं हविः सर्पिः कथ्यन्ते तद्गुणा अथ घृतं रसायनं स्वादु चक्षुष्यं वह्निदीपनम्", text: "ghṛtamājyaṃ haviḥ sarpiḥ kathyante tadguṇā atha ghṛtaṃ rasāyanaṃ svādu cakṣuṣyaṃ vahnidīpanam" },
@@ -2198,7 +2197,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 18,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "mūtra-варга — мочи (лечебные)" },
       { type: "verse", number: "1", sanskrit: "गोमूत्रं कटु तीक्ष्णोष्णं क्षारं तिक्तकषायकम् लघ्वग्निदीपनं मेध्यं पित्तकृत्कफवातहृत्", text: "gomūtraṃ kaṭu tīkṣṇoṣṇaṃ kṣāraṃ tiktakaṣāyakam laghvagnidīpanaṃ medhyaṃ pittakṛtkaphavātahṛt" },
@@ -2215,7 +2214,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 19,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "taila-варга — масла" },
       { type: "verse", number: "1", sanskrit: "तिलादिस्निग्धवस्तूनां स्नेहस्तैलमुदाहृतम् तत्तु वातहरं सर्वं विशेषात्तिलसम्भवम्", text: "tilādisnigdhavastūnāṃ snehastailamudāhṛtam tattu vātaharaṃ sarvaṃ viśeṣāttilasambhavam" },
@@ -2251,7 +2250,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 20,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "sandhāna-варга — ферментированные" },
       { type: "verse", number: "1", sanskrit: "सन्धितं धान्यमण्डादि काञ्जिकं कथ्यते जनैः काञ्जिकं भेदि तीक्ष्णोष्णं रोचनं पाचनं लघु", text: "sandhitaṃ dhānyamaṇḍādi kāñjikaṃ kathyate janaiḥ kāñjikaṃ bhedi tīkṣṇoṣṇaṃ rocanaṃ pācanaṃ laghu" },
@@ -2295,7 +2294,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 21,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "madhu-варга — мёд" },
       { type: "verse", number: "1", sanskrit: "मधु माक्षिक माध्वीकक्षौद्र सारघमीरितम् मक्षिकावरटीभृङ्गवान्तं पुष्परसोद्भवम्", text: "madhu mākṣika mādhvīkakṣaudra sāraghamīritam makṣikāvaraṭībhṛṅgavāntaṃ puṣparasodbhavam" },
@@ -2334,7 +2333,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 22,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "ikṣu-варга — сахарный тростник" },
       { type: "verse", number: "1", sanskrit: "इक्षुर्दीर्घच्छदः प्रोक्तस्तथा भूरिरसोऽपि च गुडमूलोऽसिपत्रश्च तथा मधुतृणः स्मृतः", text: "ikṣurdīrghacchadaḥ proktastathā bhūriraso'pi ca guḍamūlo'sipatraśca tathā madhutṛṇaḥ smṛtaḥ" },
@@ -2376,7 +2375,7 @@ export const BHAVAPRAKASHA_DATA = [
   {
     sthana: "Мадхьямакханда",
     number: 23,
-    lang: 'sa',
+    lang: "sa",
     content: [
       { type: "heading", heading: "anekārtha-варга — разное" },
       { type: "verse", number: "1", sanskrit: "अक्षशब्दः स्मृतोऽष्टासु सौवर्चलबिभीतके कर्षपद्माक्षरुद्रा क्षशकटेन्द्रि यपाशके", text: "akṣaśabdaḥ smṛto'ṣṭāsu sauvarcalabibhītake karṣapadmākṣarudrā kṣaśakaṭendri yapāśake" },
