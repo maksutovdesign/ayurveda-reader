@@ -249,6 +249,22 @@ function renderBlock(block) {
   return div;
 }
 
+// Циклический переход по непереведённым стихам (sa-главы, кабинет)
+let _lastJumpIdx = -1;
+function jumpToNextUntranslated() {
+  const verses = [...$chapterBody.querySelectorAll('.block-verse')]
+    .filter(v => v.querySelector('.verse-edit-btn--translate'));
+  if (!verses.length) { announce('Все стихи этой главы переведены'); return; }
+  _lastJumpIdx = (_lastJumpIdx + 1) % verses.length;
+  const target = verses[_lastJumpIdx];
+  target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  target.classList.remove('verse-jump-pulse');
+  void target.offsetWidth; // рестарт анимации
+  target.classList.add('verse-jump-pulse');
+  setTimeout(() => target.classList.remove('verse-jump-pulse'), 2000);
+  announce(`Стих ${_lastJumpIdx + 1} из ${verses.length} без перевода`);
+}
+
 // ── Book selector ──────────────────────────────────
 function buildBookSelector() {
   const $btn      = document.getElementById('book-selector-btn');
@@ -610,12 +626,35 @@ function renderChapterBody(ch, idx) {
   } else if (ch.lang === 'sa') {
     const notice = document.createElement('div');
     notice.className = 'chapter-lang-notice chapter-lang-notice--sa';
-    notice.innerHTML = `<span class="chapter-lang-notice__icon">🕉</span> Перевод недоступен — показан оригинал на санскрите (деванагари) и транслитерация IAST. Источник: SARIT corpus`;
+    // Прогресс перевода главы (учитываем одобренные правки кабинета)
+    const verseBlocks = (ch.content || []).filter(b => b.type === 'verse' && b.number != null);
+    const total = verseBlocks.length;
+    let done = 0;
+    for (const b of verseBlocks) {
+      const t = Cabinet.getOverride(_renderCtx.bookId, ch.sthana, ch.number, String(b.number), 'translation');
+      if (t != null && String(t).trim()) done++;
+    }
+    const pct = total ? Math.round(done / total * 100) : 0;
+    const loggedIn = Cabinet.isLoggedIn();
+    const tail = done >= total ? ' ✓ глава переведена'
+      : loggedIn ? ` · <button class="sa-jump-btn" id="sa-jump">→ к непереведённому стиху</button>`
+      : ` · <span class="sa-help">войдите в кабинет, чтобы помочь с переводом</span>`;
+    const progressHtml = total ? `
+      <div class="sa-progress">
+        <div class="sa-progress-bar"><span style="width:${pct}%"></span></div>
+        <div class="sa-progress-text">Переведено ${done} из ${total}${tail}</div>
+      </div>` : '';
+    notice.innerHTML = `<div class="sa-notice-line"><span class="chapter-lang-notice__icon">🕉</span> Перевод недоступен — показан оригинал на санскрите (деванагари) и транслитерация IAST. Источник: SARIT corpus</div>${progressHtml}`;
     frag.appendChild(notice);
   }
 
   ch.content.forEach(block => frag.appendChild(renderBlock(block)));
   $chapterBody.appendChild(frag); // ← контент главы в DOM
+
+  // Переход к следующему непереведённому стиху (краудсорс-перевод)
+  _lastJumpIdx = -1;
+  const jumpBtn = document.getElementById('sa-jump');
+  if (jumpBtn) jumpBtn.onclick = jumpToNextUntranslated;
 
   // ── Навигация глав (←/→) ──────────────────────────
   const navFrag = document.createDocumentFragment();
