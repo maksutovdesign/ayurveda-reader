@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=42';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=43';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -715,8 +715,11 @@ function renderChapterBody(ch, idx) {
   if (hasEnglish) {
     const pane = document.createElement('div');
     pane.className = 'english-pane';
+    const src = ch.englishOcr
+      ? 'Перевод: Kaviraj Kunjalal Bhishagratna (1907–1916), public domain. Распознано из скана (archive.org) — возможны ошибки OCR.'
+      : 'Перевод: Kaviraj Kunjalal Bhishagratna (1907–1916), public domain · en.wikisource.org';
     pane.innerHTML = ch.english.map(p => `<p>${escapeHtml(p)}</p>`).join('')
-      + '<p class="english-source">Перевод: Kaviraj Kunjalal Bhishagratna (1907–1916), public domain · en.wikisource.org</p>';
+      + `<p class="english-source">${escapeHtml(src)}</p>`;
     frag.appendChild(pane);
   }
 
