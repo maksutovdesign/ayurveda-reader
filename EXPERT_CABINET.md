@@ -40,9 +40,12 @@
 - `GET  /api/entitlements` — права текущего пользователя + каталог товаров + флаги (paymentsEnabled, contentProtection, testLogin)
 - `POST /api/pay-create` / `POST /api/pay-webhook` / `POST /api/sub-cancel` — оплата (YooKassa)
 - `POST /api/proposals` (kind:'article') — заявка на новую статью (энциклопедия/глоссарий/средства)
-- `GET  /api/articles?collection=encyclopedia|glossary|remedies` — одобренные статьи сообщества (наложение)
+- `GET  /api/overrides?collection=encyclopedia|glossary|remedies` — одобренные статьи сообщества (наложение)
 - `GET  /api/health` — диагностика активации: что настроено (только булевы флаги/счётчики, без секретов)
-- `POST /api/dev-login` — тестовый вход с полным доступом, **только при `TEST_LOGIN=1`** (иначе 404)
+- `POST /api/auth-telegram` {mode:'dev'} — тестовый вход с полным доступом, **только при `TEST_LOGIN=1`** (иначе 404)
+
+> Примечание: эндпоинты `articles` и `dev-login` объединены в `overrides` и `auth-telegram`
+> соответственно, чтобы уложиться в лимит Vercel Hobby — **не более 12 serverless-функций**.
 
 Все эндпоинты деградируют мягко: если KV не настроен — возвращают пустой результат/ошибку,
 фронтенд продолжает работать на статических данных.
@@ -142,8 +145,9 @@
    - В YooKassa: webhook на `https://<домен>/api/pay-webhook`, событие `payment.succeeded`.
    - Paywall появляется ТОЛЬКО когда заданы `YOOKASSA_*` — иначе сайт открыт.
 
-4. **Авто-продление подписки** (Этап 7): вернуть 3-й крон `renew-subscriptions` в
-   `vercel.json` — требует **Vercel Pro** (на Hobby лимит 2 крона).
+4. **Авто-продление подписки** (Этап 7): требует **Vercel Pro** (на Hobby лимит 2 крона
+   и ≤12 функций). Эндпоинт `api/renew-subscriptions.js` был удалён ради лимита Hobby —
+   при переходе на Pro восстановить его из истории git и добавить 3-й крон в `vercel.json`.
 
 5. **Жёсткая защита контента** (Этап 6): `CONTENT_PROTECTION=1` + блокировка прямой
    отдачи платных `*-data.js` (см. раздел выше).
@@ -181,5 +185,5 @@
   (тоже только при `TEST_LOGIN=1`), удобно для своего аккаунта.
 
 > ⚠️ **Безопасность:** НЕ включайте `TEST_LOGIN` на публичном проде — это обходит оплату
-> и выдаёт права администратора. По умолчанию `/api/dev-login` отвечает 404, а кнопка скрыта.
+> и выдаёт права администратора. По умолчанию dev-вход (`auth-telegram` {mode:'dev'}) отвечает 404, а кнопка скрыта.
 > Проверить можно через `/api/health` (поле `features.testLogin` и предупреждение).

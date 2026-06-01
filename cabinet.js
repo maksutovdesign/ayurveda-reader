@@ -71,7 +71,7 @@ function injectTelegramWidget(container) {
 
 // ── Тест-вход (полный доступ) ───────────────────────
 // Кнопка показывается только на localhost ИЛИ когда бэкенд отдал testLogin:true
-// (TEST_LOGIN=1). В обычном проде её нет, а /api/dev-login отвечает 404.
+// (TEST_LOGIN=1). В обычном проде её нет, а dev-вход отвечает 404.
 function isLocalhost() {
   const h = location.hostname;
   return h === 'localhost' || h === '127.0.0.1' || h === '0.0.0.0' || h.endsWith('.local');
@@ -91,7 +91,10 @@ async function maybeShowDevLogin(box) {
 
 async function devLogin() {
   try {
-    const res = await fetch('/api/dev-login', { method: 'POST' });
+    const res = await fetch('/api/auth-telegram', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ mode: 'dev' }),
+    });
     const ct = res.headers.get('content-type') || '';
     if (res.ok && ct.includes('application/json')) {
       const d = await res.json();
@@ -328,7 +331,7 @@ const _articlesCache = {};
 export async function loadArticles(collection) {
   if (_articlesCache[collection]) return _articlesCache[collection];
   try {
-    const res = await fetch(`/api/articles?collection=${encodeURIComponent(collection)}`);
+    const res = await fetch(`/api/overrides?collection=${encodeURIComponent(collection)}`);
     const data = await res.json();
     _articlesCache[collection] = Array.isArray(data.articles) ? data.articles : [];
   } catch (_) {

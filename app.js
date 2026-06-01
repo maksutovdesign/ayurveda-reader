@@ -3,7 +3,7 @@ import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=8';
+import * as Cabinet from './cabinet.js?v=9';
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.

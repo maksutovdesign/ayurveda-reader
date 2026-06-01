@@ -7,9 +7,6 @@
     },
     "api/daily-post.js": {
       "maxDuration": 60
-    },
-    "api/renew-subscriptions.js": {
-      "maxDuration": 60
     }
   },
   "crons": [

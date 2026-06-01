@@ -1,17 +1,37 @@
 /**
- * GET /api/overrides?book=<bookId>
- * Возвращает одобренные правки книги для наложения поверх статических данных.
- * Формат: { "sthana|chapter|verseNumber|field": "value", ... }
- * Если KV не настроен — пустой объект (сайт работает на статике).
+ * GET /api/overrides?book=<bookId>            → одобренные правки книги (наложение)
+ * GET /api/overrides?collection=<encyclopedia|glossary|remedies> → одобренные статьи сообщества
+ * (статьи объединены сюда, чтобы уложиться в лимит Hobby — ≤12 функций)
+ * Если KV не настроен — пустой результат (сайт работает на статике).
  */
 import { kvEnabled, kvSMembers, kvMGet } from '../lib/kv.js';
 
+const ARTICLE_COLLECTIONS = ['encyclopedia', 'glossary', 'remedies'];
+
 export default async function handler(req, res) {
-  // Кешируем на 60с на CDN — правки появляются почти сразу, нагрузка низкая
+  // Кешируем на 60с на CDN — правки/статьи появляются почти сразу, нагрузка низкая
   res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=300');
 
+  // ── Статьи сообщества (бывший /api/articles) ──
+  const collection = req.query?.collection;
+  if (collection != null) {
+    if (!ARTICLE_COLLECTIONS.includes(collection)) return res.status(400).json({ error: 'bad collection' });
+    if (!kvEnabled) return res.status(200).json({ articles: [] });
+    try {
+      const ids = await kvSMembers(`articles:${collection}`);
+      if (!ids.length) return res.status(200).json({ articles: [] });
+      const items = await kvMGet(ids.map(id => `article:${collection}:${id}`));
+      const articles = items.filter(Boolean)
+        .sort((a, b) => (a.at || 0) - (b.at || 0))
+        .map(it => ({ ...it.payload, _by: it.by, _id: it.id, _community: true }));
+      return res.status(200).json({ articles });
+    } catch (e) {
+      return res.status(200).json({ articles: [], error: String(e.message || e) });
+    }
+  }
+
   const book = req.query?.book;
-  if (!book) return res.status(400).json({ error: 'book required' });
+  if (!book) return res.status(400).json({ error: 'book or collection required' });
   if (!kvEnabled) return res.status(200).json({ overrides: {} });
 
   try {
