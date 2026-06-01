@@ -221,7 +221,7 @@ export function renderCabinet() {
   if (!isLoggedIn()) {
     view.innerHTML = `
       <div class="cabinet-inner">
-        <h2>Кабинет</h2>
+        <h2>Кабинет эксперта</h2>
         <p class="cabinet-desc">Войдите через Telegram, чтобы предлагать переводы и правки глав.
         Эксперты и администраторы получают расширенные права.</p>
         <div id="tg-login-box"></div>
@@ -235,7 +235,7 @@ export function renderCabinet() {
   const u = _user;
   view.innerHTML = `
     <div class="cabinet-inner">
-      <h2>Кабинет</h2>
+      <h2>Кабинет эксперта</h2>
       <div class="cabinet-user">
         ${u.photo ? `<img src="${u.photo}" class="cabinet-avatar" alt=""/>` : '<div class="cabinet-avatar">👤</div>'}
         <div>

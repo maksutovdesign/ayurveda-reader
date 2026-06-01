@@ -269,6 +269,14 @@ body.dark  .icon-sun  { display: none; }
   padding: 6px 10px 4px;
   border-bottom: 1px solid var(--border);
 }
+.book-selector-label {
+  display: block;
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin: 0 2px 4px;
+}
 
 #book-selector-btn {
   display: flex;
@@ -630,6 +638,16 @@ body[data-font-size="small"]  { font-size: 14px; }
 body[data-font-size="normal"] { font-size: 16px; }
 body[data-font-size="large"]  { font-size: 18px; }
 body[data-font-size="xlarge"] { font-size: 21px; }
+
+/* Кнопка А/А+/А++ масштабирует читаемый контент (текст глав/статей задан в px,
+   поэтому меняем размер через zoom — это пропорционально увеличивает весь текст). */
+#chapter-body, #glossary-body, #remedies-detail, #enc-article-body {
+  zoom: var(--read-zoom, 1);
+}
+body[data-font-size="small"]  { --read-zoom: 0.9; }
+body[data-font-size="normal"] { --read-zoom: 1; }
+body[data-font-size="large"]  { --read-zoom: 1.15; }
+body[data-font-size="xlarge"] { --read-zoom: 1.32; }
 
 /* Chapter prev/next navigation bar */
 .chapter-nav-bar {
@@ -2506,6 +2524,8 @@ body.dark #cabinet-toast { background: #3d3220; }
 .nav-loading {
   padding: 20px 16px; text-align: center; color: var(--text-muted);
   font-size: 13px; font-style: italic;
+  grid-column: 1 / -1;        /* в гридах (энциклопедия/средства) занимает всю ширину */
+  min-height: 120px; display: flex; align-items: center; justify-content: center;
 }
 
 /* Индикатор офлайн-режима (PWA) */

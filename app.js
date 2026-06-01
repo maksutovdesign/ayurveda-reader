@@ -3,7 +3,7 @@ import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=6';
+import * as Cabinet from './cabinet.js?v=7';
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -2503,6 +2503,11 @@ function init() {
   initOfflineIndicator();
   buildBookSelector();
   buildNav();
+  // Прогреваем энциклопедию и средства в фоне (по простою), чтобы при открытии
+  // раздела не появлялась надпись «Загрузка…» и не сдвигались карточки.
+  const warmLazy = () => { ensureEncyclopedia(); ensureRemedies(); };
+  if ('requestIdleCallback' in window) requestIdleCallback(warmLazy, { timeout: 4000 });
+  else setTimeout(warmLazy, 2500);
   // Права доступа + настройка защиты контента (Этап 6)
   Cabinet.loadEntitlements().then(() => {
     configureContent({
