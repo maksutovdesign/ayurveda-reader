@@ -832,6 +832,20 @@ body[data-font-size="xlarge"] { --read-zoom: 1.32; }
   background: var(--accent-glow);
 }
 
+/* Английский перевод (вкладка EN) */
+.english-pane { display: none; }
+#chapter-view.show-english .block { display: none; }
+#chapter-view.show-english .chapter-lang-notice { display: none; }
+#chapter-view.show-english .english-pane { display: block; }
+.english-pane p {
+  font-size: 16px; line-height: 1.75; color: var(--text);
+  margin: 0 0 14px; text-align: justify;
+}
+.english-pane .english-source {
+  margin-top: 22px; padding-top: 12px; border-top: 1px solid var(--border);
+  font-size: 12px; font-style: italic; color: var(--text-muted); text-align: left;
+}
+
 .block-comment {
   padding: 14px 20px 14px 24px;
   border-left: 2px solid var(--comment-tag);

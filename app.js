@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=41';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=42';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -622,7 +622,9 @@ function renderChapterBody(ch, idx) {
   // Check if chapter has any Sanskrit/IAST blocks
   const hasDeva = (ch.content || []).some(b => b.sanskrit);
   const hasIast = (ch.content || []).some(b => b.iast);
+  const hasEnglish = Array.isArray(ch.english) && ch.english.length > 0;
   const view    = document.getElementById('chapter-view');
+  if (!hasEnglish) view.classList.remove('show-english');  // нет англ. в этой главе → не залипаем в режиме English
 
   // ── Sanskrit controls: три отдельные кнопки देव / IAST / ОФ ─────────
   let $sktBar = document.getElementById('skt-bar');
@@ -633,7 +635,7 @@ function renderChapterBody(ch, idx) {
     document.getElementById('chapter-header').appendChild($sktBar);
   }
 
-  if (hasDeva || hasIast) {
+  if (hasDeva || hasIast || hasEnglish) {
     $sktBar.hidden = false;
     $sktBar.innerHTML = '';
 
@@ -659,6 +661,18 @@ function renderChapterBody(ch, idx) {
         btnIast.classList.toggle('skt-btn--on');
       };
       $sktBar.appendChild(btnIast);
+    }
+
+    if (hasEnglish) {
+      const btnEn = document.createElement('button');
+      btnEn.className = 'skt-btn skt-btn--en' + (view.classList.contains('show-english') ? ' skt-btn--on' : '');
+      btnEn.textContent = 'EN';
+      btnEn.title = 'Английский перевод (Bhishagratna)';
+      btnEn.onclick = () => {
+        view.classList.toggle('show-english');
+        btnEn.classList.toggle('skt-btn--on');
+      };
+      $sktBar.appendChild(btnEn);
     }
   } else {
     $sktBar.hidden = true;
@@ -696,6 +710,16 @@ function renderChapterBody(ch, idx) {
   }
 
   ch.content.forEach(block => frag.appendChild(renderBlock(block)));
+
+  // Английский перевод (Бхишагратна) — отдельная панель, переключается кнопкой EN
+  if (hasEnglish) {
+    const pane = document.createElement('div');
+    pane.className = 'english-pane';
+    pane.innerHTML = ch.english.map(p => `<p>${escapeHtml(p)}</p>`).join('')
+      + '<p class="english-source">Перевод: Kaviraj Kunjalal Bhishagratna (1907–1916), public domain · en.wikisource.org</p>';
+    frag.appendChild(pane);
+  }
+
   $chapterBody.appendChild(frag); // ← контент главы в DOM
 
   // Переход к следующему непереведённому стиху (краудсорс-перевод)
