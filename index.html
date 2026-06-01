@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500&display=swap" rel="stylesheet" />
 
   <!-- SEO -->
-  <meta name="description" content="Онлайн-библиотека классических аюрведических текстов: Аштанга-хридая, Чарака-самхита, Сушрута-самхита и другие. 7 самхит · 623+ главы · на русском языке." />
+  <meta name="description" content="Онлайн-библиотека классических аюрведических текстов: Аштанга-хридая, Чарака-самхита, Сушрута-самхита и другие. 7 классических самхит · санскрит, IAST и перевод · онлайн-читатель." />
   <meta name="keywords" content="аюрведа, самхита, аштанга хридая, чарака, сушрута, аюрведические тексты, санскрит" />
   <link rel="canonical" href="https://ayurveda-reader.vercel.app/" />
 
@@ -19,13 +19,13 @@
   <meta property="og:type"        content="website" />
   <meta property="og:url"         content="https://ayurveda-reader.vercel.app/" />
   <meta property="og:title"       content="Классические самхиты Аюрведы" />
-  <meta property="og:description" content="7 самхит · 623+ главы · онлайн-библиотека аюрведических текстов на русском." />
+  <meta property="og:description" content="7 классических самхит Аюрведы · оригинал, IAST и перевод в одном читателе." />
   <meta property="og:locale"      content="ru_RU" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card"        content="summary" />
   <meta name="twitter:title"       content="Классические самхиты Аюрведы" />
-  <meta name="twitter:description" content="7 самхит · 623+ главы · аюрведические тексты онлайн." />
+  <meta name="twitter:description" content="7 классических самхит Аюрведы · санскрит, IAST и перевод." />
   <meta property="og:image" content="https://ayurveda-reader.vercel.app/og-image.png" />
   <meta name="twitter:image" content="https://ayurveda-reader.vercel.app/og-image.png" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -38,7 +38,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=41" />
+  <link rel="stylesheet" href="style.css?v=42" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
@@ -48,9 +48,9 @@
   <div id="app">
     <aside id="sidebar" aria-label="Навигация по книге">
       <div id="sidebar-header">
-        <div id="book-title">
-          <span class="book-name">Аштанга-хридая</span>
-          <span class="book-sub">самхита</span>
+        <div id="book-title" role="button" tabindex="0" aria-label="На главную страницу проекта">
+          <span class="logo-mark">🪷</span>
+          <span class="logo-text"><span class="logo-line1">Самхиты</span><span class="logo-line2">Аюрведы</span></span>
         </div>
         <div id="sidebar-header-controls">
           <button id="theme-toggle" aria-label="Переключить тему">
@@ -114,11 +114,15 @@
     <main id="content" tabindex="-1">
       <div id="welcome">
         <div class="welcome-inner">
-          <h1 id="welcome-title">Аштанга-хридая-самхита</h1>
-          <p class="welcome-author" id="welcome-author">Шримад Вагбхата</p>
-          <p class="welcome-meta" id="welcome-desc">Перевод Ю.В. Сорокиной · Комментарии И.И. Ветрова</p>
-          <p class="welcome-meta" id="welcome-stats" style="font-size:0.82em;opacity:0.7">Сутрастхана: 24 главы · 700+ стихов</p>
-          <p class="welcome-hint">Выберите главу в боковом меню, чтобы начать чтение</p>
+          <div class="home-hero">
+            <div class="home-logo">🪷</div>
+            <h1 id="welcome-title">Классические самхиты Аюрведы</h1>
+            <p class="home-tagline">Подлинные тексты на санскрите, транслитерация IAST и переводы — в одном читателе</p>
+          </div>
+          <p class="home-desc">Проект собирает фундаментальные трактаты Аюрведы — от «Аштанга-хридаи» Вагбхаты до «Бхавапракаши» Бхавамишры. Каждый стих доступен в оригинале (деванагари), научной транслитерации IAST и переводе; санскритские термины снабжены пояснениями. Есть глоссарии, энциклопедия, домашние средства, расписание питания и тест конституции.</p>
+          <div class="home-stats" id="home-stats"></div>
+          <h2 class="home-books-title">Выберите книгу</h2>
+          <div class="home-book-grid" id="home-book-grid"></div>
           <div class="welcome-features">
             <div class="feature">
               <span class="feature-icon">◈</span>
@@ -394,38 +398,6 @@
           </div>
 
           <p class="donate-note">Нажмите на реквизиты, чтобы скопировать в буфер обмена</p>
-
-          <!-- ── Пожертвования ИСККОН / Шриле Прабхупаде ── -->
-          <div id="iskcon-section">
-            <div class="iskcon-divider"><span>🕉</span></div>
-            <h3 id="iskcon-title">Пожертвования на развитие центров ИСККОН</h3>
-            <p class="iskcon-dedication">
-              Посвящается ачарье-основателю Международного общества сознания Кришны
-              <b>Его Божественной Милости А.Ч. Бхактиведанте Свами Прабхупаде</b>
-            </p>
-            <p class="donate-desc">
-              Аюрведа неотделима от ведической традиции. Если вы хотите поддержать
-              развитие центров ИСККОН, распространение ведического знания и заботу
-              о святых местах — любое пожертвование принимается с благодарностью.
-            </p>
-            <div id="donate-cards">
-              <div class="donate-card iskcon-card">
-                <div class="donate-card-head">
-                  <span class="donate-logo donate-logo--iskcon">🪷</span>
-                  <span class="donate-card-title">Официальный портал пожертвований ИСККОН</span>
-                </div>
-                <div class="donate-field-group">
-                  <a class="iskcon-link" href="https://iskcon.org/donate/" target="_blank" rel="noopener noreferrer">
-                    iskcon.org/donate →
-                  </a>
-                  <a class="iskcon-link" href="https://iskconrussia.com/" target="_blank" rel="noopener noreferrer">
-                    ИСККОН Россия — iskconrussia.com →
-                  </a>
-                </div>
-              </div>
-            </div>
-            <p class="donate-note">Реквизиты конкретного центра можно добавить отдельно — напишите автору</p>
-          </div>
         </div>
       </div>
 
@@ -485,6 +457,6 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=44"></script>
+  <script type="module" src="app.js?v=45"></script>
 </body>
 </html>

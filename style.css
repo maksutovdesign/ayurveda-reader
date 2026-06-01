@@ -202,9 +202,18 @@ body {
 
 #book-title {
   display: flex;
-  flex-direction: column;
-  line-height: 1.2;
+  align-items: center;
+  gap: 8px;
+  line-height: 1.15;
+  border-radius: 8px;
+  padding: 2px 4px;
+  transition: background var(--transition);
 }
+#book-title:hover { background: var(--bg-hover); }
+.logo-mark { font-size: 22px; flex-shrink: 0; }
+.logo-text { display: flex; flex-direction: column; }
+.logo-line1 { font-size: 14px; font-weight: 700; color: var(--accent); letter-spacing: .02em; }
+.logo-line2 { font-size: 12px; font-weight: 600; color: var(--text-muted); letter-spacing: .14em; text-transform: uppercase; }
 .book-name {
   font-size: 13px;
   font-weight: 700;
@@ -517,13 +526,15 @@ body.dark  .icon-sun  { display: none; }
 /* ── Welcome ──────────────────────────────────────── */
 #welcome {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   min-height: 100vh;
-  padding: 40px 24px;
+  padding: 48px 24px 64px;
+  overflow-y: auto;
 }
 .welcome-inner {
-  max-width: 560px;
+  max-width: 720px;
+  width: 100%;
   text-align: center;
 }
 .welcome-inner h1 {
@@ -551,6 +562,45 @@ body.dark  .icon-sun  { display: none; }
   border: 1px dashed var(--border-strong);
   border-radius: var(--radius);
 }
+/* ── Главная страница проекта ──────────────────────── */
+.home-hero { margin-bottom: 18px; }
+.home-logo { font-size: 48px; line-height: 1; margin-bottom: 10px; }
+.home-tagline {
+  font-size: 15px; color: var(--text-muted); margin: 6px auto 0; max-width: 520px; line-height: 1.5;
+}
+.home-desc {
+  font-size: 14.5px; line-height: 1.7; color: var(--text);
+  max-width: 600px; margin: 0 auto 22px; text-align: center;
+}
+.home-stats {
+  display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 34px;
+}
+.home-stat {
+  font-size: 12.5px; color: var(--text-muted);
+  background: var(--bg-hover); border: 1px solid var(--border);
+  border-radius: 16px; padding: 5px 14px;
+}
+.home-books-title {
+  font-family: var(--font-serif); font-size: 1.15rem; color: var(--accent);
+  margin: 0 0 16px; text-align: center;
+}
+.home-book-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 12px; margin-bottom: 40px; text-align: left;
+}
+.home-book-card {
+  display: flex; align-items: flex-start; gap: 12px;
+  padding: 14px; font-family: inherit; cursor: pointer; text-align: left;
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+  transition: border-color var(--transition), background var(--transition), transform var(--transition);
+}
+.home-book-card:hover { border-color: var(--accent); background: var(--bg-hover); transform: translateY(-2px); }
+.home-book-icon { font-size: 26px; flex-shrink: 0; line-height: 1.1; }
+.home-book-info { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.home-book-name { font-size: 15px; font-weight: 700; color: var(--accent); }
+.home-book-sub { font-size: 12px; color: var(--text); opacity: .85; }
+.home-book-stats { font-size: 11.5px; color: var(--text-muted); margin-top: 2px; }
+
 .welcome-features {
   display: flex;
   flex-direction: column;

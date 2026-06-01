@@ -81,6 +81,41 @@ function goHome() {
   closeSidebar();
 }
 
+// ── Главная страница проекта (статистика + быстрый выбор книг) ──
+function firstAvailableChapterIdx(book) {
+  const chs = book.chapters || [];
+  for (let i = 0; i < chs.length; i++) if (chs[i].available !== false) return i;
+  return 0;
+}
+
+async function openBook(idx) {
+  await selectBook(idx);
+  if (currentBookIdx === idx) loadChapter(firstAvailableChapterIdx(currentBook()));
+}
+
+function buildHomePage() {
+  const grid = document.getElementById('home-book-grid');
+  if (!grid) return;
+  const statsEl = document.getElementById('home-stats');
+  const totalChapters = BOOKS.reduce((s, b) => s + (b.chapters ? b.chapters.length : 0), 0);
+  if (statsEl) {
+    statsEl.innerHTML = [`${BOOKS.length} книг`, `${totalChapters} глав`, 'оригинал · IAST · перевод']
+      .map(t => `<span class="home-stat">${t}</span>`).join('');
+  }
+  grid.innerHTML = BOOKS.map((b, i) => `
+    <button class="home-book-card" data-idx="${i}">
+      <span class="home-book-icon">${escapeHtml(b.icon || '🌿')}</span>
+      <span class="home-book-info">
+        <span class="home-book-name">${escapeHtml(b.titleShort || b.title)}</span>
+        <span class="home-book-sub">${escapeHtml(b.subtitle || '')}</span>
+        <span class="home-book-stats">${b.stats ? `${b.stats.chapters} глав · ${escapeHtml(String(b.stats.verses))} стихов` : ''}</span>
+      </span>
+    </button>`).join('');
+  grid.querySelectorAll('.home-book-card').forEach(card => {
+    card.addEventListener('click', () => openBook(Number(card.dataset.idx)));
+  });
+}
+
 // ── Mobile sidebar ─────────────────────────────────
 const $menuBtn       = document.getElementById('menu-btn');
 const $sidebarClose  = document.getElementById('sidebar-close');
@@ -360,23 +395,8 @@ async function selectBook(idx) {
   setActiveBtn(-1);
   setFooterActive(null);
 
-  // Update page title breadcrumb
+  // Update browser tab title (логотип и главная — статичные, проектные)
   const book = currentBook();
-  document.getElementById('book-title').innerHTML =
-    `<span class="book-name">${escapeHtml(book.titleShort || book.title.split('-')[0])}</span>
-     <span class="book-sub">${escapeHtml(book.id === 'ashtanga' ? 'самхита' : book.icon || '')}</span>`;
-
-  // Update welcome panel with current book info
-  const wTitle = document.getElementById('welcome-title');
-  const wAuthor = document.getElementById('welcome-author');
-  const wDesc = document.getElementById('welcome-desc');
-  const wStats = document.getElementById('welcome-stats');
-  if (wTitle)  wTitle.textContent  = book.title;
-  if (wAuthor) wAuthor.textContent = book.subtitle;
-  if (wDesc)   wDesc.textContent   = book.description;
-  if (wStats)  wStats.textContent  = `${book.stats.chapters} глав · ${book.stats.sthanas} разделов · ${book.stats.verses} стихов`;
-
-  // Update browser tab title
   document.title = book.titleShort + ' — Классические самхиты Аюрведы';
 
   // Save only the book choice — chIdx intentionally not saved here
@@ -2503,6 +2523,7 @@ function init() {
   initOfflineIndicator();
   buildBookSelector();
   buildNav();
+  buildHomePage();
   // Прогреваем энциклопедию и средства в фоне (по простою), чтобы при открытии
   // раздела не появлялась надпись «Загрузка…» и не сдвигались карточки.
   const warmLazy = () => { ensureEncyclopedia(); ensureRemedies(); };
