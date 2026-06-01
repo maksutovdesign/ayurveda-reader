@@ -119,11 +119,24 @@ function remedyPost(remedy) {
 
 export default async function handler(req, res) {
   // ── Авторизация ──
-  // 1. Vercel Cron отправляет x-vercel-cron: 1 автоматически
-  // 2. Ручной вызов: ?key=DAILY_POST_KEY
-  const isVercelCron = req.headers['x-vercel-cron'] === '1';
-  const queryKey     = req.query?.key;
-  const manualOk     = queryKey && queryKey === process.env.DAILY_POST_KEY;
+  // Распознаём вызов от Vercel Cron максимально устойчиво (заголовки Vercel менялись):
+  //   • x-vercel-cron-schedule — документированный, есть на КАЖДОМ крон-запросе
+  //   • Authorization: Bearer <CRON_SECRET> — если задан CRON_SECRET (рекомендуется)
+  //   • x-vercel-cron — legacy
+  //   • User-Agent: vercel-cron/…
+  // Ручной вызов: ?key=DAILY_POST_KEY
+  const h          = req.headers || {};
+  const ua         = String(h['user-agent'] || '');
+  const cronSecret = process.env.CRON_SECRET;
+  const authHeader = h['authorization'] || h['Authorization'] || '';
+  const secretOk   = cronSecret && authHeader === `Bearer ${cronSecret}`;
+  const isVercelCron =
+    h['x-vercel-cron-schedule'] != null ||
+    h['x-vercel-cron'] != null ||
+    /vercel-cron/i.test(ua) ||
+    secretOk;
+  const queryKey = req.query?.key;
+  const manualOk = queryKey && queryKey === process.env.DAILY_POST_KEY;
 
   if (!isVercelCron && !manualOk) {
     return res.status(401).json({
