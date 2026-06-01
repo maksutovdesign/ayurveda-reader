@@ -3,7 +3,7 @@ import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=7';
+import * as Cabinet from './cabinet.js?v=8';
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -19,6 +19,33 @@ async function ensureRemedies() {
   if (_remLoaded) return;
   const m = await import('./remedies.js?v=7');
   REMEDIES = m.REMEDIES; _remLoaded = true;
+}
+
+// ── Статьи сообщества (одобренные в кабинете) — наложение поверх статики ──
+const _mergedArticleIds = { glossary: new Set(), remedies: new Set(), encyclopedia: new Set() };
+async function mergeArticles(collection) {
+  const arts = await Cabinet.loadArticles(collection);
+  if (!arts || !arts.length) return false;
+  const seen = _mergedArticleIds[collection];
+  let added = false;
+  if (collection === 'glossary') {
+    for (const a of arts) { if (seen.has(a._id)) continue; seen.add(a._id);
+      GLOSSARY.push({ term: a.term, origin: a.origin || '', def: a.def, _community: true }); added = true; }
+  } else if (collection === 'remedies') {
+    await ensureRemedies();
+    for (const a of arts) { if (seen.has(a._id)) continue; seen.add(a._id);
+      REMEDIES.push({ name: a.name, content: a.content, _community: true }); added = true; }
+  } else if (collection === 'encyclopedia') {
+    await ensureEncyclopedia();
+    let sec = ENCYCLOPEDIA.find(s => s.id === 'community');
+    if (!sec) { sec = { id: 'community', title: 'Статьи сообщества', icon: '👥',
+      description: 'Материалы, предложенные экспертами и одобренные модерацией', articles: [] };
+      ENCYCLOPEDIA.push(sec); }
+    for (const a of arts) { if (seen.has(a._id)) continue; seen.add(a._id);
+      sec.articles.push({ id: 'comm_' + a._id, title: a.title, summary: a.summary || '',
+        content: a.body || '', body: a.body || '', sources: [], _community: true }); added = true; }
+  }
+  return added;
 }
 
 // ── State ──────────────────────────────────────────
@@ -1919,6 +1946,8 @@ $glossaryBtn.addEventListener('click', () => {
   if (!_encLoaded) ensureEncyclopedia().then(() => {
     if (!$glossaryView.hidden) buildGlossaryView();
   });
+  // Статьи сообщества (одобренные термины)
+  mergeArticles('glossary').then(added => { if (added && !$glossaryView.hidden) buildGlossaryView(); });
 });
 
 $diseasesBtn.addEventListener('click', () => {
@@ -1939,6 +1968,7 @@ $remediesBtn.addEventListener('click', async () => {
     if (list) list.innerHTML = '<div class="nav-loading">Загрузка домашних средств…</div>';
     await ensureRemedies();
   }
+  await mergeArticles('remedies');
   buildRemediesView();
 });
 
@@ -1952,6 +1982,7 @@ $encyclopediaBtn.addEventListener('click', async () => {
     if (grid) grid.innerHTML = '<div class="nav-loading">Загрузка энциклопедии…</div>';
     await ensureEncyclopedia();
   }
+  await mergeArticles('encyclopedia');
   buildEncyclopediaView();
 });
 

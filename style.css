@@ -2508,6 +2508,14 @@ body.dark .rem-note {
   color: var(--text); outline: none; font-family: inherit; }
 #pm-field:focus, #pm-value:focus, #pm-comment:focus { border-color: var(--accent); }
 #pm-value { resize: vertical; }
+
+/* Форма «Предложить статью» в кабинете */
+.art-block { margin: 18px 0; padding-top: 12px; border-top: 1px solid var(--border); }
+#art-collection, .art-field { width: 100%; padding: 8px 12px; font-size: 14px;
+  background: var(--search-bg); border: 1px solid var(--border); border-radius: 8px;
+  color: var(--text); outline: none; font-family: inherit; }
+#art-collection:focus, .art-field:focus { border-color: var(--accent); }
+textarea.art-field { resize: vertical; }
 .pm-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px; }
 .pm-cancel, .pm-submit { padding: 8px 18px; font-size: 13px; font-weight: 600;
   border-radius: 18px; cursor: pointer; border: 1px solid var(--border); transition: all var(--transition); }

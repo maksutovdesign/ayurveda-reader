@@ -39,6 +39,8 @@
 - `POST /api/proposals/review` — (админ) одобрить/отклонить
 - `GET  /api/entitlements` — права текущего пользователя + каталог товаров + флаги (paymentsEnabled, contentProtection, testLogin)
 - `POST /api/pay-create` / `POST /api/pay-webhook` / `POST /api/sub-cancel` — оплата (YooKassa)
+- `POST /api/proposals` (kind:'article') — заявка на новую статью (энциклопедия/глоссарий/средства)
+- `GET  /api/articles?collection=encyclopedia|glossary|remedies` — одобренные статьи сообщества (наложение)
 - `GET  /api/health` — диагностика активации: что настроено (только булевы флаги/счётчики, без секретов)
 - `POST /api/dev-login` — тестовый вход с полным доступом, **только при `TEST_LOGIN=1`** (иначе 404)
 

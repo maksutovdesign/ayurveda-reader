@@ -245,14 +245,96 @@ export function renderCabinet() {
         <button id="cabinet-logout">Выйти</button>
       </div>
       <p class="cabinet-desc">Откройте любую главу и нажмите «✎ Предложить правку» рядом со стихом,
-      чтобы добавить перевод или исправление.</p>
+      чтобы добавить перевод или исправление. Или предложите новую статью ниже —
+      после модерации она появится в разделе.</p>
+      <div id="cabinet-article"></div>
       <div id="cabinet-access"></div>
       <div id="cabinet-store"></div>
       ${u.role === 'admin' ? '<div id="admin-panel"></div>' : ''}
     </div>`;
   view.querySelector('#cabinet-logout').onclick = () => { clearSession(); _entLoaded = false; _localTestMode = false; _ent = null; renderCabinet(); };
   if (u.role === 'admin') renderAdminPanel(view.querySelector('#admin-panel'));
+  renderArticleForm(view.querySelector('#cabinet-article'));
   renderAccessAndStore(view);
+}
+
+// ── Предложить статью (энциклопедия / глоссарий / средства) ──
+const ARTICLE_FIELDS = {
+  encyclopedia: [
+    { k: 'title',   label: 'Заголовок',        type: 'input' },
+    { k: 'summary', label: 'Краткое описание (необязательно)', type: 'input' },
+    { k: 'body',    label: 'Текст статьи',      type: 'area' },
+  ],
+  glossary: [
+    { k: 'term',   label: 'Термин',                 type: 'input' },
+    { k: 'origin', label: 'Происхождение / IAST (необязательно)', type: 'input' },
+    { k: 'def',    label: 'Определение',             type: 'area' },
+  ],
+  remedies: [
+    { k: 'name',    label: 'Название средства', type: 'input' },
+    { k: 'content', label: 'Описание / применение', type: 'area' },
+  ],
+};
+const COLLECTION_LABELS = { encyclopedia: 'Энциклопедия', glossary: 'Глоссарий терминов', remedies: 'Домашние средства' };
+
+function articleFieldsHtml(coll) {
+  return ARTICLE_FIELDS[coll].map(f => f.type === 'area'
+    ? `<label class="pm-label">${f.label}</label><textarea class="art-field" data-k="${f.k}" rows="4"></textarea>`
+    : `<label class="pm-label">${f.label}</label><input class="art-field" data-k="${f.k}" type="text" />`
+  ).join('');
+}
+
+function renderArticleForm(box) {
+  if (!box) return;
+  box.innerHTML = `
+    <div class="art-block">
+      <h3 class="store-h">Предложить статью</h3>
+      <label class="pm-label">Раздел</label>
+      <select id="art-collection">${Object.keys(COLLECTION_LABELS).map(c => `<option value="${c}">${COLLECTION_LABELS[c]}</option>`).join('')}</select>
+      <div id="art-fields">${articleFieldsHtml('encyclopedia')}</div>
+      <div class="pm-actions"><button class="pm-submit" id="art-submit">Отправить на модерацию</button></div>
+    </div>`;
+  const sel = box.querySelector('#art-collection');
+  sel.onchange = () => { box.querySelector('#art-fields').innerHTML = articleFieldsHtml(sel.value); };
+  box.querySelector('#art-submit').onclick = async () => {
+    const collection = sel.value;
+    const payload = {};
+    box.querySelectorAll('.art-field').forEach(el => { payload[el.dataset.k] = el.value.trim(); });
+    const ok = await submitArticle(collection, payload);
+    if (ok) box.querySelector('#art-fields').innerHTML = articleFieldsHtml(collection);
+  };
+}
+
+export async function submitArticle(collection, payload) {
+  if (!isLoggedIn()) { showToast('Войдите, чтобы предложить статью', true); return false; }
+  try {
+    const res = await fetch('/api/proposals', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${_token}` },
+      body: JSON.stringify({ kind: 'article', collection, payload }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Ошибка');
+    showToast('Спасибо! Статья отправлена на модерацию 🙏');
+    return true;
+  } catch (e) {
+    showToast('Не удалось отправить: ' + e.message, true);
+    return false;
+  }
+}
+
+// Одобренные статьи сообщества (для наложения в разделах). Кэш по коллекции.
+const _articlesCache = {};
+export async function loadArticles(collection) {
+  if (_articlesCache[collection]) return _articlesCache[collection];
+  try {
+    const res = await fetch(`/api/articles?collection=${encodeURIComponent(collection)}`);
+    const data = await res.json();
+    _articlesCache[collection] = Array.isArray(data.articles) ? data.articles : [];
+  } catch (_) {
+    _articlesCache[collection] = [];
+  }
+  return _articlesCache[collection];
 }
 
 async function renderAccessAndStore(view) {
@@ -311,17 +393,30 @@ async function renderAdminPanel(el) {
     if (!res.ok) throw new Error(data.error || 'Ошибка');
     const ps = data.proposals || [];
     if (!ps.length) { el.innerHTML = '<h3>Модерация правок</h3><p class="cabinet-note">Нет ожидающих правок.</p>'; return; }
-    el.innerHTML = '<h3>Модерация правок (' + ps.length + ')</h3>' + ps.map(p => `
+    el.innerHTML = '<h3>Модерация (' + ps.length + ')</h3>' + ps.map(p => {
+      let meta, body;
+      if (p.kind === 'article') {
+        const coll = { encyclopedia: 'Энциклопедия', glossary: 'Глоссарий', remedies: 'Средства' }[p.collection] || p.collection;
+        const pl = p.payload || {};
+        const title = pl.title || pl.term || pl.name || '';
+        const text = pl.body || pl.def || pl.content || '';
+        meta = `${escapeH(p.tgName)} · 📄 новая статья · <b>${escapeH(coll)}</b>`;
+        body = `<div class="admin-new"><b>${escapeH(title)}</b><br>${escapeH(text).slice(0,400)}</div>`;
+      } else {
+        meta = `${escapeH(p.tgName)} · ${escapeH(String(p.bookId))} · ${escapeH(p.sthana)} гл.${p.chapter} стих ${p.verseNumber} · <b>${escapeH(p.field)}</b>`;
+        body = `${p.oldValue ? `<div class="admin-old">— ${escapeH(p.oldValue).slice(0,200)}</div>` : ''}<div class="admin-new">+ ${escapeH(p.newValue).slice(0,400)}</div>`;
+      }
+      return `
       <div class="admin-card" data-id="${p.id}">
-        <div class="admin-meta">${escapeH(p.tgName)} · ${p.bookId} · ${escapeH(p.sthana)} гл.${p.chapter} стих ${p.verseNumber} · <b>${p.field}</b></div>
-        ${p.oldValue ? `<div class="admin-old">— ${escapeH(p.oldValue).slice(0,200)}</div>` : ''}
-        <div class="admin-new">+ ${escapeH(p.newValue).slice(0,400)}</div>
+        <div class="admin-meta">${meta}</div>
+        ${body}
         ${p.comment ? `<div class="admin-comment">💬 ${escapeH(p.comment)}</div>` : ''}
         <div class="admin-actions">
           <button class="admin-approve">✓ Одобрить</button>
           <button class="admin-reject">✗ Отклонить</button>
         </div>
-      </div>`).join('');
+      </div>`;
+    }).join('');
     el.querySelectorAll('.admin-card').forEach(card => {
       const id = card.dataset.id;
       card.querySelector('.admin-approve').onclick = () => review(id, 'approve', card);
