@@ -130,22 +130,47 @@ export default async function handler(req, res) {
   const cronSecret = process.env.CRON_SECRET;
   const authHeader = h['authorization'] || h['Authorization'] || '';
   const secretOk   = cronSecret && authHeader === `Bearer ${cronSecret}`;
-  const isVercelCron =
-    h['x-vercel-cron-schedule'] != null ||
-    h['x-vercel-cron'] != null ||
-    /vercel-cron/i.test(ua) ||
-    secretOk;
-  const queryKey = req.query?.key;
-  const manualOk = queryKey && queryKey === process.env.DAILY_POST_KEY;
+  const queryKey   = req.query?.key;
+  const manualOk   = queryKey && queryKey === process.env.DAILY_POST_KEY;
 
-  if (!isVercelCron && !manualOk) {
+  // какой именно сигнал распознан (для логов) — без значений секретов
+  const authVia =
+    h['x-vercel-cron-schedule'] != null ? 'x-vercel-cron-schedule'
+    : secretOk                          ? 'cron-secret'
+    : h['x-vercel-cron'] != null        ? 'x-vercel-cron(legacy)'
+    : /vercel-cron/i.test(ua)           ? 'user-agent'
+    : manualOk                          ? 'manual-key'
+    : null;
+  const isVercelCron = authVia && authVia !== 'manual-key';
+
+  // диагностика входящих сигналов (значения секретов НЕ логируем)
+  const signals = {
+    'x-vercel-cron-schedule': h['x-vercel-cron-schedule'] ?? null,
+    'x-vercel-cron': h['x-vercel-cron'] ?? null,
+    userAgent: ua.slice(0, 60),
+    hasAuthHeader: Boolean(authHeader),
+    cronSecretConfigured: Boolean(cronSecret),
+    cronSecretMatch: Boolean(secretOk),
+    manualKeyProvided: Boolean(queryKey),
+    manualKeyMatch: Boolean(manualOk),
+    channel: CHANNEL_ID,
+    botTokenConfigured: Boolean(BOT_TOKEN),
+  };
+  console.log('[daily-post] вызов:', JSON.stringify({ authVia, ...signals }));
+
+  if (!authVia) {
+    console.warn('[daily-post] 401 — крон не распознан и ключ неверный');
     return res.status(401).json({
       error: 'Unauthorized',
-      hint:  'Set DAILY_POST_KEY env var and call with ?key=YOUR_KEY for manual testing',
+      hint:  'Vercel Cron шлёт x-vercel-cron-schedule (или Authorization: Bearer CRON_SECRET). Ручной вызов: ?key=DAILY_POST_KEY',
+      signals,
     });
   }
 
-  if (!BOT_TOKEN) return res.status(500).json({ error: 'Missing BOT_TOKEN env var' });
+  if (!BOT_TOKEN) {
+    console.error('[daily-post] 500 — нет BOT_TOKEN');
+    return res.status(500).json({ error: 'Missing BOT_TOKEN env var', authVia });
+  }
 
   // ── Выбор контента ──
   // 2 крона в сутки: 09:00 UTC (12 МСК) и 18:00 UTC (21 МСК).
@@ -182,35 +207,57 @@ export default async function handler(req, res) {
       postType = 'remedy';
     }
   } catch (err) {
-    console.error('Content error:', err);
-    return res.status(500).json({ error: err.message });
+    console.error('[daily-post] 500 — ошибка контента:', err && err.message);
+    return res.status(500).json({ error: err.message, step: 'content', authVia });
   }
 
-  // ── Отправка в канал ──
-  const tgRes = await fetch(
-    `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`,
-    {
-      method:  'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body:    JSON.stringify({
-        chat_id:              CHANNEL_ID,
-        text,
-        parse_mode:           'HTML',
-        link_preview_options: { is_disabled: true },
-      }),
-    }
-  );
+  console.log(`[daily-post] контент выбран: ${postType} (postNum=${postNum}, day=${dayNum}, slot=${cronSlot}, ${text.length} симв.)`);
 
-  const tgData = await tgRes.json();
-
-  if (!tgData.ok) {
-    console.error('Telegram API error:', tgData);
-    return res.status(500).json({
-      error:   tgData.description,
-      channel: CHANNEL_ID,
+  // ── Сухой прогон (?dry=1): не отправляем в канал, возвращаем предпросмотр ──
+  if (req.query?.dry) {
+    console.log('[daily-post] dry-run: отправка пропущена');
+    return res.status(200).json({
+      ok: true, dryRun: true, authVia, type: postType, postNum, day: dayNum, slot: cronSlot,
+      channel: CHANNEL_ID, preview: text,
     });
   }
 
-  console.log(`✅ Пост отправлен [${postType}] day=${dayNum} slot=${cronSlot} post=${postNum}`);
-  return res.status(200).json({ ok: true, type: postType, postNum, day: dayNum, slot: cronSlot });
+  // ── Отправка в канал ──
+  let tgData;
+  try {
+    const tgRes = await fetch(
+      `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`,
+      {
+        method:  'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body:    JSON.stringify({
+          chat_id:              CHANNEL_ID,
+          text,
+          parse_mode:           'HTML',
+          link_preview_options: { is_disabled: true },
+        }),
+      }
+    );
+    tgData = await tgRes.json();
+    console.log(`[daily-post] ответ Telegram: status=${tgRes.status} ok=${tgData.ok}` +
+      (tgData.ok ? '' : ` error_code=${tgData.error_code} desc="${tgData.description}"`));
+  } catch (err) {
+    console.error('[daily-post] 502 — сеть/Telegram недоступен:', err && err.message);
+    return res.status(502).json({ error: 'Telegram request failed: ' + (err && err.message), step: 'send', authVia });
+  }
+
+  if (!tgData.ok) {
+    // Частые причины: бот не админ канала, неверный CHANNEL_ID, ошибка разметки HTML
+    console.error('[daily-post] 500 — Telegram отклонил:', JSON.stringify(tgData));
+    return res.status(500).json({
+      error:      tgData.description,
+      error_code: tgData.error_code,
+      channel:    CHANNEL_ID,
+      step:       'telegram',
+      hint:       'Проверьте: бот — админ канала с правом постить; CHANNEL_ID верный; BOT_TOKEN актуален.',
+    });
+  }
+
+  console.log(`[daily-post] ✅ отправлено [${postType}] day=${dayNum} slot=${cronSlot} post=${postNum} via=${authVia} msg_id=${tgData.result?.message_id}`);
+  return res.status(200).json({ ok: true, type: postType, postNum, day: dayNum, slot: cronSlot, authVia, channel: CHANNEL_ID, message_id: tgData.result?.message_id });
 }
