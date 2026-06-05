@@ -101,6 +101,7 @@ function showOnly(panel) {
 function goHome() {
   currentChapterIdx = null;
   showOnly($welcome);
+  buildHomePage();          // обновить «продолжить чтение» / «стих дня»
   setActiveBtn(-1);
   setFooterActive(null);
   history.replaceState(null, '', location.pathname);
@@ -141,6 +142,61 @@ function buildHomePage() {
   grid.querySelectorAll('.home-book-card').forEach(card => {
     card.addEventListener('click', () => openBook(Number(card.dataset.idx)));
   });
+
+  // ── Доп. карточки: продолжить чтение + стих дня ──
+  let extra = document.getElementById('home-cards');
+  if (!extra) {
+    extra = document.createElement('div');
+    extra.id = 'home-cards';
+    const anchor = document.querySelector('.home-books-title') || grid;
+    anchor.parentNode.insertBefore(extra, anchor);
+  }
+  extra.innerHTML = '';
+
+  const pos = loadSavedPosition();
+  if (pos && pos.chIdx != null && BOOKS[pos.bookIdx]) {
+    const bk = BOOKS[pos.bookIdx];
+    const ch = bk.chapters[pos.chIdx];
+    if (ch && ch.available !== false) {
+      const c = document.createElement('button');
+      c.className = 'home-resume';
+      c.innerHTML = `<span class="home-resume-icon">↩</span><span class="home-resume-text"><b>Продолжить чтение</b><span>${escapeHtml(bk.titleShort)} · ${ch.number > 0 ? 'гл. ' + ch.number + '. ' : ''}${escapeHtml(ch.title)}</span></span>`;
+      c.onclick = async () => { if (pos.bookIdx !== currentBookIdx) await selectBook(pos.bookIdx); loadChapter(pos.chIdx); };
+      extra.appendChild(c);
+    }
+  }
+
+  const vod = verseOfDay();
+  if (vod) {
+    const txt = vod.b.iast || vod.b.text || '';
+    const card = document.createElement('div');
+    card.className = 'home-vod';
+    card.innerHTML = `<div class="home-vod-label">📖 Стих дня</div>
+      <div class="home-vod-text">${escapeHtml(txt)}</div>
+      <button class="home-vod-link">${escapeHtml(BOOKS[0].titleShort)} · ${escapeHtml(vod.ch.sthana)}, стих ${vod.b.number} →</button>`;
+    card.querySelector('.home-vod-link').onclick = async () => {
+      _pendingVerse = vod.b.number;
+      if (currentBookIdx !== 0) await selectBook(0);
+      loadChapter(vod.ci);
+    };
+    extra.appendChild(card);
+  }
+}
+
+// Детерминированный «стих дня» из Аштанга-хридаи (флагман, загружена сразу)
+function verseOfDay() {
+  const book = BOOKS[0];
+  if (!book || !book.chapters) return null;
+  const verses = [];
+  book.chapters.forEach((ch, ci) => {
+    if (ch.available === false) return;
+    (ch.content || []).forEach(bl => {
+      if (bl.type === 'verse' && bl.number != null && (bl.iast || bl.text)) verses.push({ ci, ch, b: bl });
+    });
+  });
+  if (!verses.length) return null;
+  const day = Math.floor(Date.now() / 86400000);
+  return verses[day % verses.length];
 }
 
 // ── Mobile sidebar ─────────────────────────────────
@@ -250,12 +306,64 @@ function ov(field, fallback) {
   return v != null ? v : fallback;
 }
 
+// ── Шеринг стиха, permalink, озвучка, переход к стиху ──
+function bookIdxById(id) { return BOOKS.findIndex(b => b.id === id); }
+
+function versePermalink(num) {
+  const base = location.origin + location.pathname;
+  return `${base}#${currentBook().id}/c${currentChapterIdx}${num != null ? '/v' + num : ''}`;
+}
+
+async function shareVerse(num) {
+  const url = versePermalink(num);
+  const title = `${currentBook().titleShort}, стих ${num}`;
+  if (navigator.share) {
+    try { await navigator.share({ title, url }); return; } catch (_) { /* отменили — пробуем копировать */ }
+  }
+  try { await navigator.clipboard.writeText(url); flash('Ссылка на стих скопирована'); }
+  catch (_) { window.prompt('Скопируйте ссылку на стих:', url); }
+}
+
+let _ttsBtn = null;
+function speakVerse(btn, text, lang) {
+  if (!('speechSynthesis' in window)) { flash('Озвучка не поддерживается браузером'); return; }
+  const synth = window.speechSynthesis;
+  const wasThis = btn.classList.contains('playing');
+  synth.cancel();
+  document.querySelectorAll('.verse-act--tts.playing').forEach(b => b.classList.remove('playing'));
+  if (wasThis) return; // повторный клик — стоп
+  const u = new SpeechSynthesisUtterance(text);
+  if (lang) u.lang = lang;
+  u.rate = 0.9;
+  u.onend = u.onerror = () => btn.classList.remove('playing');
+  btn.classList.add('playing');
+  synth.speak(u);
+}
+
+let _pendingVerse = null;
+function goToVerse(num) {
+  const el = document.getElementById('v' + num);
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  el.classList.remove('verse-target'); void el.offsetWidth; el.classList.add('verse-target');
+  setTimeout(() => el.classList.remove('verse-target'), 2600);
+}
+
+let _flashT = null;
+function flash(msg) {
+  let t = document.getElementById('app-flash');
+  if (!t) { t = document.createElement('div'); t.id = 'app-flash'; t.setAttribute('role', 'status'); document.body.appendChild(t); }
+  t.textContent = msg; t.className = 'show';
+  clearTimeout(_flashT); _flashT = setTimeout(() => { t.className = ''; }, 2600);
+}
+
 function renderBlock(block) {
   const div = document.createElement('div');
   div.className = 'block';
 
   if (block.type === 'verse') {
     div.classList.add('block-verse');
+    if (block.number != null) { div.id = 'v' + block.number; div.dataset.verse = String(block.number); }
     if (_renderCtx) _renderCtx._vnum = String(block.number);
     // Применяем одобренные правки поверх статики
     const sText = ov('text', block.text);
@@ -275,6 +383,19 @@ function renderBlock(block) {
       ? `<div class="verse-translation" aria-label="Перевод">${renderText(sTrans)}</div>`
       : '';
     div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}`;
+    // Действия со стихом: поделиться + озвучить (для всех)
+    if (block.number != null) {
+      const ttsText = (sTrans || sIast || sText || sSkt || '').toString();
+      const actions = document.createElement('div');
+      actions.className = 'verse-actions';
+      actions.innerHTML =
+        `<button class="verse-act verse-act--share" title="Поделиться / скопировать ссылку" aria-label="Поделиться стихом">🔗</button>` +
+        (ttsText ? `<button class="verse-act verse-act--tts" title="Прослушать" aria-label="Прослушать стих">🔊</button>` : '');
+      actions.querySelector('.verse-act--share').onclick = () => shareVerse(block.number);
+      const ttsBtn = actions.querySelector('.verse-act--tts');
+      if (ttsBtn) ttsBtn.onclick = () => speakVerse(ttsBtn, ttsText, sTrans ? 'ru-RU' : '');
+      div.appendChild(actions);
+    }
     // Кнопка правки/перевода (для вошедших)
     if (_renderCtx && Cabinet.isLoggedIn() && block.number != null) {
       // Санскрит-только книга без перевода → предлагаем добавить перевод
@@ -580,8 +701,14 @@ function loadChapter(idx) {
   setActiveBtn(idx);
   setFooterActive(null);
 
-  // Update URL hash and save position
-  history.replaceState(null, '', `#ch${idx}`);
+  // Переход к конкретному стиху (по permalink)
+  if (_pendingVerse != null) {
+    const v = _pendingVerse; _pendingVerse = null;
+    setTimeout(() => goToVerse(v), 120);
+  }
+
+  // Update URL hash (кросс-книжный permalink) and save position
+  history.replaceState(null, '', `#${currentBook().id}/c${idx}`);
   savePosition();
 }
 
@@ -2608,6 +2735,18 @@ function init() {
 
   // Restore from URL hash
   const hash = location.hash;
+  // Кросс-книжный permalink: #<bookId>/c<idx>[/v<num>]
+  const pm = hash.match(/^#([a-z_]+)\/c(\d+)(?:\/v(\d+))?$/);
+  if (pm) {
+    const bi = bookIdxById(pm[1]);
+    const chIdx = parseInt(pm[2]);
+    if (bi >= 0) {
+      _pendingVerse = pm[3] ? parseInt(pm[3]) : null;
+      const go = () => { if (chIdx >= 0 && chIdx < currentBook().chapters.length) loadChapter(chIdx); };
+      if (bi !== currentBookIdx) { selectBook(bi).then(go); } else { go(); }
+      return;
+    }
+  }
   if (hash.startsWith('#ch')) {
     const idx = parseInt(hash.slice(3));
     if (!isNaN(idx) && idx >= 0 && idx < currentBook().chapters.length) {

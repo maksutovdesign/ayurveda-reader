@@ -3,7 +3,7 @@
  * Стратегия: Cache First для статики, Network First для данных
  */
 
-const CACHE = 'ayurveda-v22';
+const CACHE = 'ayurveda-v23';
 
 const STATIC = [
   '/',
