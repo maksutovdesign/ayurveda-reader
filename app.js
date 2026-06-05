@@ -314,14 +314,21 @@ function versePermalink(num) {
   return `${base}#${currentBook().id}/c${currentChapterIdx}${num != null ? '/v' + num : ''}`;
 }
 
+const SITE_NAME = 'Классические самхиты Аюрведы';
 async function shareVerse(num) {
-  const url = versePermalink(num);
-  const title = `${currentBook().titleShort}, стих ${num}`;
+  const url = versePermalink(num);   // строится от location.origin → сам подхватит новый домен
+  const el = document.getElementById('v' + num);
+  const pick = sel => (el && el.querySelector(sel) ? el.querySelector(sel).textContent.trim() : '');
+  const quote = pick('.verse-translation') || pick('.verse-text') || pick('.verse-iast') || pick('.verse-devanagari');
+  const ch = currentBook().chapters[currentChapterIdx];
+  const loc = `${currentBook().titleShort}, ${ch ? ch.sthana : ''}, стих ${num}`;
+  // Цитата + атрибуция со ссылкой-источником на наш сайт
+  const text = `«${quote}»\n— ${loc}\nИсточник: ${SITE_NAME} — ${url}`;
   if (navigator.share) {
-    try { await navigator.share({ title, url }); return; } catch (_) { /* отменили — пробуем копировать */ }
+    try { await navigator.share({ title: loc, text }); return; } catch (_) { /* отменили — копируем */ }
   }
-  try { await navigator.clipboard.writeText(url); flash('Ссылка на стих скопирована'); }
-  catch (_) { window.prompt('Скопируйте ссылку на стих:', url); }
+  try { await navigator.clipboard.writeText(text); flash('Стих со ссылкой скопирован'); }
+  catch (_) { window.prompt('Скопируйте:', text); }
 }
 
 let _ttsBtn = null;
@@ -385,15 +392,25 @@ function renderBlock(block) {
     div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}`;
     // Действия со стихом: поделиться + озвучить (для всех)
     if (block.number != null) {
-      const ttsText = (sTrans || sIast || sText || sSkt || '').toString();
+      // Что и на каком языке озвучивать (явно — чтобы не путаться):
+      //  • есть русский перевод → русский голос
+      //  • санскрит-глава → читаем деванагари голосом hi-IN (ближайший к санскриту)
+      //  • английская глава → английский голос
+      const lang = _renderCtx && _renderCtx.lang;
+      let ttsText = '', ttsLang = 'ru-RU', ttsLabel = 'перевод';
+      if (sTrans)            { ttsText = sTrans;            ttsLang = 'ru-RU'; ttsLabel = 'перевод'; }
+      else if (lang === 'sa') { ttsText = sSkt || sIast || ''; ttsLang = 'hi-IN'; ttsLabel = 'санскрит'; }
+      else if (lang === 'en') { ttsText = sText || '';       ttsLang = 'en-US'; ttsLabel = 'English'; }
+      else                    { ttsText = sText || sIast || ''; ttsLang = 'ru-RU'; ttsLabel = 'перевод'; }
+
       const actions = document.createElement('div');
       actions.className = 'verse-actions';
       actions.innerHTML =
-        `<button class="verse-act verse-act--share" title="Поделиться / скопировать ссылку" aria-label="Поделиться стихом">🔗</button>` +
-        (ttsText ? `<button class="verse-act verse-act--tts" title="Прослушать" aria-label="Прослушать стих">🔊</button>` : '');
+        `<button class="verse-act verse-act--share" title="Поделиться стихом со ссылкой" aria-label="Поделиться стихом">🔗</button>` +
+        (ttsText ? `<button class="verse-act verse-act--tts" title="Прослушать (${ttsLabel})" aria-label="Прослушать стих (${ttsLabel})">🔊</button>` : '');
       actions.querySelector('.verse-act--share').onclick = () => shareVerse(block.number);
       const ttsBtn = actions.querySelector('.verse-act--tts');
-      if (ttsBtn) ttsBtn.onclick = () => speakVerse(ttsBtn, ttsText, sTrans ? 'ru-RU' : '');
+      if (ttsBtn) ttsBtn.onclick = () => speakVerse(ttsBtn, ttsText, ttsLang);
       div.appendChild(actions);
     }
     // Кнопка правки/перевода (для вошедших)
