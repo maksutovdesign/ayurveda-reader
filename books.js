@@ -89,6 +89,7 @@ export async function loadBookData(book) {
 // ─── Аштанга-хридая-самхита ───────────────────────────────────────────────
 const ASHTANGA = {
   id: 'ashtanga',
+  iconKey: 'leaf',
   title: 'Аштанга-хридая-самхита',
   titleShort: 'Аштанга-хридая',
   subtitle: 'Вагбхата · VII в. н.э.',
@@ -247,6 +248,7 @@ const CHARAKA_CHAPTERS = [
 
 const CHARAKA = {
   id: 'charaka',
+  iconKey: 'scroll',
   title: 'Чарака-самхита',
   titleShort: 'Чарака',
   subtitle: 'Чарака · Дридхабала · I–IV вв. н.э.',
@@ -467,6 +469,7 @@ const SUSHRUTA_CHAPTERS = [
 
 const SUSHRUTA = {
   id: 'sushruta',
+  iconKey: 'scalpel',
   title: 'Сушрута-самхита',
   titleShort: 'Сушрута',
   subtitle: 'Сушрута · ред. Нагарджуна · III–VII вв. н.э.',
@@ -556,6 +559,7 @@ const MADHAVA_TITLES = [
 
 const MADHAVA = {
   id: 'madhava',
+  iconKey: 'magnifier',
   title: 'Мадхава-нидана',
   titleShort: 'Мадхава',
   subtitle: 'Мадхавакара · VIII в. н.э.',
@@ -613,6 +617,7 @@ const SHARANGADHARA_CHAPTERS = [
 
 const SHARANGADHARA = {
   id: 'sharangadhara',
+  iconKey: 'flask',
   title: 'Шарангадхара-самхита',
   titleShort: 'Шарангадхара',
   subtitle: 'Шарангадхара · XIII в. н.э.',
@@ -744,6 +749,7 @@ const BHAVAPRAKASHA_CHAPTERS = [
 
 const BHAVAPRAKASHA = {
   id: 'bhavaprakasha',
+  iconKey: 'sprout',
   title: 'Бхавапракаша',
   titleShort: 'Бхавапракаша',
   subtitle: 'Бхавамишра · XVI в. н.э.',
@@ -848,6 +854,7 @@ const ASTANGA_SANGRAHA_CHAPTERS = [
 
 const ASTANGA_SANGRAHA = {
   id: 'astanga_sangraha',
+  iconKey: 'bookmark',
   title: 'Астанга-санграха',
   titleShort: 'Астанга-санграха',
   subtitle: 'Вагбхата-старший · VI в. н.э.',

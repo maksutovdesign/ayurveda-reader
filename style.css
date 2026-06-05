@@ -1067,6 +1067,15 @@ body[data-font-size="xlarge"] { --read-zoom: 1.32; }
 .sidebar-footer-btn.active { border-color: var(--accent); color: var(--accent); background: var(--bg-active); font-weight: 600; }
 .sidebar-footer-btn span { font-size: 14px; }
 
+/* ── Единый набор SVG-иконок (меню + книги) ── */
+.app-icon { display: block; width: 22px; height: 22px; }
+.menu-ico { display: inline-flex; flex: 0 0 22px; width: 22px; height: 22px; }
+.home-book-icon .app-icon { width: 34px; height: 34px; }
+.book-opt-icon .app-icon { width: 24px; height: 24px; }
+#book-selector-icon { display: inline-flex; }
+#book-selector-icon .app-icon { width: 22px; height: 22px; }
+.result-book .app-icon { width: 16px; height: 16px; display: inline-block; vertical-align: -3px; }
+
 /* ── Glossary view ────────────────────────────────── */
 #glossary-view, #diseases-view {
   max-width: 900px;

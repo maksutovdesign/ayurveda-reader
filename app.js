@@ -1,9 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=44';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=45';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 import * as Cabinet from './cabinet.js?v=9';
+import { icon } from './icons.js?v=1';
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -132,7 +133,7 @@ function buildHomePage() {
   }
   grid.innerHTML = BOOKS.map((b, i) => `
     <button class="home-book-card" data-idx="${i}">
-      <span class="home-book-icon">${escapeHtml(b.icon || '🌿')}</span>
+      <span class="home-book-icon">${icon(b.iconKey) || escapeHtml(b.icon || '🌿')}</span>
       <span class="home-book-info">
         <span class="home-book-name">${escapeHtml(b.titleShort || b.title)}</span>
         <span class="home-book-sub">${escapeHtml(b.subtitle || '')}</span>
@@ -482,7 +483,7 @@ function buildBookSelector() {
     item.setAttribute('role', 'option');
     item.setAttribute('aria-selected', idx === currentBookIdx ? 'true' : 'false');
     item.innerHTML = `
-      <span class="book-opt-icon">${book.icon}</span>
+      <span class="book-opt-icon">${icon(book.iconKey) || book.icon}</span>
       <span class="book-opt-info">
         <span class="book-opt-title">${escapeHtml(book.titleShort)}</span>
         <span class="book-opt-sub">${escapeHtml(book.subtitle)}</span>
@@ -521,7 +522,8 @@ function buildBookSelector() {
   // Sync display with current book
   function syncBtn() {
     const book = currentBook();
-    $icon.textContent  = book.icon;
+    const svg = icon(book.iconKey);
+    if (svg) $icon.innerHTML = svg; else $icon.textContent = book.icon;
     $title.textContent = book.titleShort;
   }
   syncBtn();
@@ -2632,7 +2634,7 @@ function runSearch(query) {
 
     // Показываем иконку книги если поиск нашёл в другой книге
     const bookLabel = bookIdx !== currentBookIdx
-      ? `<span class="result-book">${escapeHtml(book.icon)} ${escapeHtml(book.titleShort)}</span> · `
+      ? `<span class="result-book">${icon(book.iconKey) || escapeHtml(book.icon)} ${escapeHtml(book.titleShort)}</span> · `
       : '';
 
     card.innerHTML = `
@@ -2723,6 +2725,8 @@ function init() {
   initTheme();
   initFontSize();
   initOfflineIndicator();
+  // Иконки меню (единый SVG-набор)
+  document.querySelectorAll('.menu-ico[data-icon]').forEach(el => { el.innerHTML = icon(el.dataset.icon); });
   buildBookSelector();
   buildNav();
   buildHomePage();
