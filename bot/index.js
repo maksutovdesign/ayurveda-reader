@@ -880,9 +880,10 @@ bot.catch((err, ctx) => {
 // Экспорт бота для webhook-режима (Vercel и др.)
 export { bot };
 
-// Запуск в режиме long-polling только при прямом запуске (node index.js)
+// Запуск в режиме long-polling (PM2 / node index.js)
 const __filename = fileURLToPath(import.meta.url);
-if (process.argv[1] === __filename) {
+const isPM2 = 'PM2_HOME' in process.env || 'pm_id' in process.env;
+if (isPM2 || process.argv[1] === __filename) {
   // Health check HTTP-сервер (для платформ типа Fly.io, Koyeb)
   const PORT = process.env.PORT || 3000;
   http.createServer((_, res) => { res.writeHead(200); res.end('OK'); }).listen(PORT, () => {
