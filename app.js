@@ -805,6 +805,34 @@ function renderChapterBody(ch, idx) {
   const view    = document.getElementById('chapter-view');
   if (!hasEnglish) view.classList.remove('show-english');  // нет англ. в этой главе → не залипаем в режиме English
 
+  // Переход к стиху по номеру — для длинных глав (Джвара 880, Вата 365 и т.п.)
+  const verseCount = (ch.content || []).filter(b => b.type === 'verse' && b.number != null).length;
+  const controls = document.getElementById('chapter-controls');
+  let $jump = document.getElementById('verse-jump');
+  if (controls && verseCount > 20) {
+    if (!$jump) {
+      $jump = document.createElement('form');
+      $jump.id = 'verse-jump'; $jump.className = 'verse-jump';
+      $jump.innerHTML = '<input type="number" min="1" inputmode="numeric" aria-label="Перейти к стиху по номеру" placeholder="№ стиха" /><button type="submit" aria-label="Перейти к стиху">→</button>';
+      controls.appendChild($jump);
+      $jump.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const n = $jump.querySelector('input').value.trim();
+        if (!n) return;
+        const el = document.getElementById('v' + n);
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          el.classList.remove('verse-jump-pulse'); void el.offsetWidth; el.classList.add('verse-jump-pulse');
+          setTimeout(() => el.classList.remove('verse-jump-pulse'), 2000);
+        } else flash('Стих ' + n + ' не найден');
+      });
+    }
+    $jump.hidden = false;
+    $jump.querySelector('input').setAttribute('max', String(verseCount));
+  } else if ($jump) {
+    $jump.hidden = true;
+  }
+
   // ── Sanskrit controls: три отдельные кнопки देव / IAST / ОФ ─────────
   let $sktBar = document.getElementById('skt-bar');
   if (!$sktBar) {
@@ -2766,10 +2794,30 @@ function loadSavedPosition() {
 }
 
 // ── Init ───────────────────────────────────────────
+// Кнопка «↑ наверх» (для длинных глав). Скроллер — #content или окно.
+function initBackToTop() {
+  const content = document.getElementById('content');
+  if (!content) return;
+  const btn = document.createElement('button');
+  btn.id = 'back-to-top';
+  btn.title = 'Наверх'; btn.setAttribute('aria-label', 'Наверх');
+  btn.textContent = '↑';
+  document.body.appendChild(btn);
+  const y = () => content.scrollTop || window.scrollY || document.documentElement.scrollTop || 0;
+  const onScroll = () => btn.classList.toggle('show', y() > 600);
+  content.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('scroll', onScroll, { passive: true });
+  btn.addEventListener('click', () => {
+    content.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+}
+
 function init() {
   initTheme();
   initFontSize();
   initOfflineIndicator();
+  initBackToTop();
   // Иконки меню (единый SVG-набор)
   document.querySelectorAll('.menu-ico[data-icon]').forEach(el => { el.innerHTML = icon(el.dataset.icon); });
   buildBookSelector();

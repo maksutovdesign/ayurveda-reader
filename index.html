@@ -15,6 +15,30 @@
   <meta name="keywords" content="аюрведа, самхита, аштанга хридая, чарака, сушрута, аюрведические тексты, санскрит" />
   <link rel="canonical" href="https://ayurveda-reader.vercel.app/" />
 
+  <!-- Структурные данные для поисковиков (обновить URL при смене домена) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      { "@type": "WebSite", "@id": "https://ayurveda-reader.vercel.app/#website",
+        "url": "https://ayurveda-reader.vercel.app/",
+        "name": "Классические самхиты Аюрведы",
+        "description": "Онлайн-читатель классических трактатов Аюрведы: санскрит (деванагари), транслитерация IAST и переводы.",
+        "inLanguage": "ru" },
+      { "@type": "ItemList", "name": "Классические самхиты Аюрведы", "numberOfItems": 7,
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "item": { "@type": "Book", "name": "Аштанга-хридая-самхита", "author": { "@type": "Person", "name": "Вагбхата" }, "inLanguage": ["sa", "ru"] } },
+          { "@type": "ListItem", "position": 2, "item": { "@type": "Book", "name": "Чарака-самхита", "author": { "@type": "Person", "name": "Чарака, Дридхабала" }, "inLanguage": ["sa", "ru", "en"] } },
+          { "@type": "ListItem", "position": 3, "item": { "@type": "Book", "name": "Сушрута-самхита", "author": { "@type": "Person", "name": "Сушрута" }, "inLanguage": ["sa", "en"] } },
+          { "@type": "ListItem", "position": 4, "item": { "@type": "Book", "name": "Мадхава-нидана", "author": { "@type": "Person", "name": "Мадхавакара" }, "inLanguage": ["sa"] } },
+          { "@type": "ListItem", "position": 5, "item": { "@type": "Book", "name": "Шарангадхара-самхита", "author": { "@type": "Person", "name": "Шарангадхара" }, "inLanguage": ["sa"] } },
+          { "@type": "ListItem", "position": 6, "item": { "@type": "Book", "name": "Бхавапракаша", "author": { "@type": "Person", "name": "Бхавамишра" }, "inLanguage": ["sa"] } },
+          { "@type": "ListItem", "position": 7, "item": { "@type": "Book", "name": "Аштанга-санграха", "author": { "@type": "Person", "name": "Вагбхата" }, "inLanguage": ["sa"] } }
+        ] }
+    ]
+  }
+  </script>
+
   <!-- Open Graph (соцсети) -->
   <meta property="og:type"        content="website" />
   <meta property="og:url"         content="https://ayurveda-reader.vercel.app/" />
@@ -38,7 +62,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=49" />
+  <link rel="stylesheet" href="style.css?v=50" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
@@ -440,6 +464,6 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=57"></script>
+  <script type="module" src="app.js?v=58"></script>
 </body>
 </html>

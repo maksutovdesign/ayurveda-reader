@@ -2475,6 +2475,31 @@ body.dark .rem-note {
 .glossary-card .card-share { position: absolute; top: 10px; right: 10px; opacity: .5; padding: 2px 8px; }
 .glossary-card .card-share:hover, .glossary-card:hover .card-share { opacity: 1; }
 
+/* Переход к стиху по номеру (длинные главы) */
+.verse-jump { display: inline-flex; gap: 4px; align-items: center; }
+.verse-jump input {
+  width: 70px; padding: 4px 9px; font-size: 12px; font-family: inherit;
+  border: 1px solid var(--border); border-radius: 14px; background: var(--search-bg, transparent); color: var(--text); outline: none;
+}
+.verse-jump input:focus { border-color: var(--accent); }
+.verse-jump button {
+  padding: 4px 10px; border: 1px solid var(--border); border-radius: 14px;
+  background: transparent; color: var(--text-muted); cursor: pointer; font-size: 13px;
+}
+.verse-jump button:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Кнопка «↑ наверх» (длинные главы) */
+#back-to-top {
+  position: fixed; right: 18px; bottom: 18px; z-index: 200;
+  width: 42px; height: 42px; border-radius: 50%;
+  background: var(--accent); color: #fff; border: none; cursor: pointer;
+  font-size: 20px; line-height: 1; box-shadow: 0 3px 12px rgba(0,0,0,.25);
+  opacity: 0; visibility: hidden; transform: translateY(8px);
+  transition: opacity .2s, transform .2s, visibility .2s;
+}
+#back-to-top.show { opacity: .92; visibility: visible; transform: translateY(0); }
+#back-to-top:hover { opacity: 1; }
+
 /* Подсветка стиха при переходе по permalink */
 .block-verse.verse-target { animation: verseTargetPulse 2.6s ease; border-radius: 10px; }
 @keyframes verseTargetPulse {
