@@ -128,8 +128,16 @@ function buildHomePage() {
   const statsEl = document.getElementById('home-stats');
   const totalChapters = BOOKS.reduce((s, b) => s + (b.chapters ? b.chapters.length : 0), 0);
   if (statsEl) {
-    statsEl.innerHTML = [`${BOOKS.length} книг`, `${totalChapters} глав`, 'оригинал · IAST · перевод']
-      .map(t => `<span class="home-stat">${t}</span>`).join('');
+    // Счётчики контента (статичны — обновлять при изменении данных):
+    // стихов 34 541, статей энциклопедии 208, домашних средств 113.
+    statsEl.innerHTML = [
+      `${BOOKS.length} книг`,
+      `${totalChapters} глав`,
+      '34 500+ стихов',
+      '208 статей энциклопедии',
+      '113 домашних средств',
+      'оригинал · IAST · перевод',
+    ].map(t => `<span class="home-stat">${t}</span>`).join('');
   }
   grid.innerHTML = BOOKS.map((b, i) => `
     <button class="home-book-card" data-idx="${i}">
@@ -1403,7 +1411,8 @@ function buildRemediesView() {
         $dtitle.textContent = remedy.name;
         $dbody.innerHTML = renderRemedyContent(remedy.content, remedy.name);
         let sb = $detail.querySelector('.card-share');
-        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = '🔗 Поделиться'; $dtitle.after(sb); }
+        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = '🔗 Поделиться'; }
+        $dbody.after(sb); // в конец статьи, после текста
         sb.onclick = () => shareContent(remedy.content, `Домашнее средство: ${remedy.name}`, 'Средство скопировано со ссылкой', '#remedies');
         $list.hidden = true;
         $filter.parentElement.hidden = true;
