@@ -9,7 +9,7 @@ export const ENCYCLOPEDIA = [
   {
     id: "foundations",
     title: "Основы аюрведы",
-    icon: "🏛",
+    icon: "enc_foundations",
     description: "Философия, история и ключевые концепции — пять элементов, три доши, ткани тела",
     articles: [
       {
@@ -288,7 +288,7 @@ export const ENCYCLOPEDIA = [
   {
     id: "prakriti",
     title: "Конституция (пракрити)",
-    icon: "🧬",
+    icon: "enc_prakriti",
     description: "Три типа конституции, как определить свой тип и жить в соответствии с природой",
     articles: [
       {
@@ -408,7 +408,7 @@ export const ENCYCLOPEDIA = [
   {
     id: "nutrition",
     title: "Питание и диета",
-    icon: "🥗",
+    icon: "enc_nutrition",
     description: "Шесть вкусов, питание по конституции, специи, рецепты и сезонная диета",
     articles: [
       {
@@ -802,7 +802,7 @@ export const ENCYCLOPEDIA = [
   {
     id: "herbs",
     title: "Травы и растения",
-    icon: "🌿",
+    icon: "enc_herbs",
     description: "Ключевые аюрведические растения: свойства, применение и дозировки",
     articles: [
       {
@@ -1186,7 +1186,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "yoga-cleansing-herbs",
     title: "Травы и очищение в хатха-йоге",
-    icon: "🌱",
+    icon: "enc_yoga",
     description: "Традиционные шесть очищений (шаткрий) и поддерживающие растения. По книге Артёма Фролова «Травы для йогов».",
     articles: [
       {
@@ -1250,7 +1250,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "massage",
     title: "Массаж и терапия",
-    icon: "💆",
+    icon: "enc_massage",
     description: "Абхьянга, широдхара, марма-терапия и масла для массажа",
     articles: [
       {
@@ -1385,7 +1385,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "beauty",
     title: "Красота и уход",
-    icon: "🌸",
+    icon: "enc_beauty",
     description: "Уход за кожей, волосами и телом: типы кожи, маски, ванны и ритуалы",
     articles: [
       {
@@ -1561,7 +1561,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "lifestyle",
     title: "Образ жизни",
-    icon: "🌞",
+    icon: "enc_lifestyle",
     description: "Диначарья, пранаяма, сон и ритмы природы",
     articles: [
       {
@@ -1790,7 +1790,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "digestion",
     title: "Пищеварение и детокс",
-    icon: "🔥",
+    icon: "enc_digestion",
     description: "Панча-карма, домашнее очищение, укрепление агни",
     articles: [
       {
@@ -1856,7 +1856,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "psychology",
     title: "Психология и ум",
-    icon: "🧘",
+    icon: "enc_psychology",
     description: "Три гуны, эмоции и доши, работа с умом",
     articles: [
       {
@@ -1935,7 +1935,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'panchakarma_detail',
     title: 'Панча-карма: процедуры',
-    icon: '🫧',
+    icon: "enc_panchakarma",
     description: 'Детальное описание пяти методов очищения, подготовка и восстановление',
     articles: [
       {
@@ -2203,7 +2203,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'diagnostics',
     title: 'Диагностика',
-    icon: '🔬',
+    icon: "enc_diagnostics",
     description: 'Аюрведические методы диагностики: пульс, язык, кожа, ногти, глаза',
     articles: [
       {
@@ -2333,7 +2333,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'marma',
     title: 'Марма-точки',
-    icon: '🫀',
+    icon: "enc_marma",
     description: 'Жизненные точки тела: 107 марм, их расположение, значение и терапия',
     articles: [
       {
@@ -2428,7 +2428,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'seasonal',
     title: 'Сезонные практики (Ритучарья)',
-    icon: '📅',
+    icon: "enc_seasonal",
     description: 'Подробное руководство по аюрведическому образу жизни в каждый сезон года',
     articles: [
       {
@@ -2577,7 +2577,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'dosha_quiz',
     title: 'Тест конституции',
-    icon: '🧪',
+    icon: "enc_quiz",
     description: 'Определите свою аюрведическую конституцию — Вата, Питта или Капха',
     articles: [
       {
@@ -2617,7 +2617,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'prana-subtle-anatomy',
     title: 'Прана и тонкая анатомия',
-    icon: '🌬️',
+    icon: "enc_prana",
     description: 'Учение о жизненной силе, пяти оболочках тела и тонких каналах движения праны',
     articles: [
       {
@@ -2774,7 +2774,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'rasayana-rejuvenation',
     title: 'Расаяна: искусство омоложения',
-    icon: '✨',
+    icon: "enc_rasayana",
     description: 'Древняя аюрведическая наука о восстановлении тканей, продлении жизни и поддержании молодости',
     articles: [
       {
@@ -2893,7 +2893,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'dinacharya-daily-routine',
     title: 'Диначарья: искусство распорядка дня',
-    icon: '🌅',
+    icon: "enc_dinacharya",
     description: 'Подробные практики аюрведического распорядка дня от рассвета до ночного сна',
     articles: [
       {
@@ -3035,7 +3035,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'food-wisdom-advanced',
     title: 'Мудрость питания: продвинутые принципы',
-    icon: '🥗',
+    icon: "enc_food_wisdom",
     description: 'Несовместимые сочетания продуктов, гуны пищи, правила питания по конституции',
     articles: [
       {
@@ -3168,7 +3168,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'tantra-ayurveda-connection',
     title: 'Аюрведа, тантра и йога',
-    icon: '🕉️',
+    icon: "enc_tantra",
     description: 'Философские и практические связи между аюрведой, тантрической традицией и йогой',
     articles: [
       {
@@ -3279,7 +3279,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'home-remedies-conditions',
     title: 'Домашние средства аюрведы',
-    icon: '🌿',
+    icon: "enc_home_remedy",
     description: 'Практические аюрведические средства для лечения распространённых заболеваний в домашних условиях',
     articles: [
       {
@@ -3594,7 +3594,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'ochistka',
     title: 'Очищение организма',
-    icon: '🫧',
+    icon: "enc_cleanse",
     description: 'Аюрведические методы детоксикации и внутреннего очищения — от промасливания до насья',
     articles: [
       {
@@ -3765,7 +3765,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'ayur-kulinaria',
     title: 'Аюрведическая кухня',
-    icon: '🍲',
+    icon: "enc_kitchen",
     description: 'Практические рецепты, принципы приготовления и кухонная аптека аюрведы',
     articles: [
       {
@@ -3944,7 +3944,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'rasashastra',
     title: 'Расасастра: алхимия металлов',
-    icon: '⚗️',
+    icon: "enc_alchemy",
     description: 'Древняя наука использования металлов, минералов и ртути в аюрведической медицине',
     articles: [
       {
@@ -4051,7 +4051,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'panchabhoota-zhizn',
     title: 'Панчабхута в повседневной жизни',
-    icon: '🌍',
+    icon: "enc_elements",
     description: 'Пять первоэлементов как практический инструмент понимания здоровья, питания и болезней',
     articles: [
       {
@@ -4200,7 +4200,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "family-health",
     title: "Семейная аюрведа",
-    icon: "🏡",
+    icon: "enc_family",
     description: "Аюрведические подходы к здоровью на каждом этапе жизни: беременность, детство, юность, зрелость",
     articles: [
       {
@@ -4480,7 +4480,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: "polarity-healing",
     title: "Полярная терапия и аюрведа",
-    icon: "⚡",
+    icon: "enc_polarity",
     description: "Синтез аюрведы и полярной терапии Рэндолфа Стоуна: энергетические потоки, движение, дыхание, кислотно-щелочной баланс",
     articles: [
       {
@@ -4731,7 +4731,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'vinod-philosophy',
     title: 'Философия и традиция Аюрведы',
-    icon: '🕉️',
+    icon: "enc_philosophy",
     description: 'Санкхья, карма, три вида болезней и тело как микрокосм — по Винод Верма',
     articles: [
       {
@@ -4889,7 +4889,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'ayurveda-history',
     title: 'История Аюрведы',
-    icon: '🏛️',
+    icon: "enc_history",
     description: 'От ведических риши до современного возрождения: Чарака, Сушрута, восемь ветвей, Йога и Тантра',
     articles: [
       {
@@ -5101,7 +5101,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'mudra-ayurveda',
     title: 'Мудры — йога пальцев',
-    icon: '🙌',
+    icon: "enc_mudra",
     description: 'Лечебные жесты рук: пять элементов в пальцах, основные мудры и практика — по традиции Гоникман и Ламы Марамба Сингх',
     articles: [
       {
@@ -5281,7 +5281,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'sound-therapy-ayurveda',
     title: 'Звуковая терапия в Аюрведе',
-    icon: '🎵',
+    icon: "enc_sound",
     description: 'Гандхарва-Веда, мантра-чикитса и АУМ: лечение звуком, музыкой и вибрацией как часть ведической медицины',
     articles: [
       {
@@ -5457,7 +5457,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'gems-metals-colors',
     title: 'Металлы, камни и цвет в Аюрведе',
-    icon: '💎',
+    icon: "enc_gems",
     description: 'Практическая терапия: 20 качеств веществ, металлы, драгоценные камни, цветотерапия — по Васант Лад',
     articles: [
       {
@@ -5642,7 +5642,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   // ── Аюрведическая педиатрия ──────────────────────────────────────────────────
   {
     id: 'ayurveda-pediatrics',
-    icon: '👶',
+    icon: "enc_pediatrics",
     title: 'Аюрведическая педиатрия',
     description: 'Балатантра: здоровье детей по Аюрведе — конституция, иммунитет, питание, психика. По книгам Кави Радж, Кумара Тантра и других классиков',
     articles: [
@@ -5984,7 +5984,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   // ── Панчакарма: детальные протоколы ──────────────────────────────────────────
   {
     id: 'panchakarma-protocols',
-    icon: '⚗️',
+    icon: "enc_pk_protocol",
     title: 'Панчакарма: клинические протоколы',
     description: 'Детальные протоколы процедур панчакармы, пурвакармы и восстановительного периода. По книге «Аюрведа и Панчакарма» (Сунил В. Джоши)',
     articles: [
@@ -6206,7 +6206,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   // ── Ароматерапия в аюрведе ────────────────────────────────────────────────
   {
     id: 'aromatherapy-ayurveda',
-    icon: '🌸',
+    icon: "enc_aroma",
     title: 'Ароматерапия в аюрведе',
     description: 'Эфирные масла, их природа, производство и применение для балансировки дош',
     articles: [
@@ -6418,7 +6418,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'eye-diseases',
     title: 'Болезни глаз: аюрведический подход',
-    icon: '👁',
+    icon: "enc_eye",
     description: 'Аюрведические методы лечения глаукомы, катаракты и других заболеваний глаз',
     articles: [
       {
@@ -6537,7 +6537,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'ayurvedic-preparations',
     title: 'Аюрведические препараты',
-    icon: '⚗',
+    icon: "enc_preparations",
     description: 'Классические и современные аюрведические препараты: состав, показания, дозировки',
     articles: [
       {
@@ -6694,7 +6694,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'womens-health',
     title: 'Женское здоровье',
-    icon: '🌸',
+    icon: "enc_womens",
     description: 'Аюрведический подход к женскому здоровью: менструальный цикл, беременность, послеродовой период, менопауза и женские расаяны.',
     articles: [
       {
@@ -6850,7 +6850,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'panchakarma-joshi',
     title: 'Панчакарма по Джоши: детальные протоколы',
-    icon: '🫙',
+    icon: "enc_pk_joshi",
     description: 'Углублённые протоколы панчакармы по книге Сунила Джоши — детальная пурвакарма, конкретные травы для виречаны по типу конституции, точные рецептуры басти.',
     articles: [
       {
@@ -6984,7 +6984,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'srota-system',
     title: 'Шроты — система каналов тела',
-    icon: '🫀',
+    icon: "enc_srota",
     description: 'Аюрведическое учение о 14 каналах анатомического тела — шротах — и их связи с семью дхату (тканями)',
     articles: [
       {
@@ -7120,7 +7120,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   {
     id: 'clinical-protocols',
     title: 'Клинические протоколы лечения',
-    icon: '🩺',
+    icon: "enc_clinical",
     description: 'Аюрведические терапевтические протоколы при конкретных заболеваниях по типу доши — артрит, кожа, нервная система, головные боли',
     articles: [
       {
@@ -7288,7 +7288,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   ,{
     id: 'chakra-system',
     title: 'Система чакр и аюрведа',
-    icon: '🔮',
+    icon: "enc_chakra",
     description: 'Семь психоэнергетических центров тела — чакры — в аюрведической традиции связаны с элементами, досами, эндокринными железами и ароматами. Активация чакр через мантры, медитацию и ароматерапию поддерживает здоровье тела и сознания.',
     articles: [
       {
@@ -7498,7 +7498,7 @@ Sanskrit: Shilajatu (शिलाजतु) — «смола скалы».
   ,{
     id: 'aromatherapy-formulas',
     title: 'Рецепты ароматерапии',
-    icon: '🧴',
+    icon: "enc_aroma_form",
     description: 'Практические рецепты аюрведической ароматерапии для трёх доша-типов и лечебных целей. Основаны на традиционных аюрведических принципах смешивания масел, составленных по Миллер.',
     articles: [
       {

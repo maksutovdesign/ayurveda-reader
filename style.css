@@ -1514,7 +1514,8 @@ body.dark .rem-note {
 .enc-section-card:hover {
   border-color: var(--accent-light); box-shadow: var(--shadow-md); transform: translateY(-2px);
 }
-.enc-sec-icon { font-size: 28px; line-height: 1; flex-shrink: 0; }
+.enc-sec-icon { flex-shrink: 0; display: flex; align-items: center; }
+.enc-sec-icon .app-icon { width: 32px; height: 32px; }
 .enc-sec-info { flex: 1; min-width: 0; }
 .enc-sec-title { font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 3px; }
 .enc-sec-count {
@@ -1529,7 +1530,8 @@ body.dark .rem-note {
 #enc-section-header {
   display: flex; align-items: flex-start; gap: 14px; margin-bottom: 24px;
 }
-#enc-section-icon { font-size: 32px; flex-shrink: 0; }
+#enc-section-icon { flex-shrink: 0; display: flex; align-items: center; }
+#enc-section-icon .app-icon { width: 36px; height: 36px; }
 #enc-section-title { font-size: 22px; font-weight: 700; color: var(--text); margin: 0 0 4px; }
 #enc-section-desc { font-size: 13px; color: var(--text-muted); margin: 0; }
 .enc-article-card {

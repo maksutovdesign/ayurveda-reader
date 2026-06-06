@@ -4,7 +4,7 @@ import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 import * as Cabinet from './cabinet.js?v=9';
-import { icon } from './icons.js?v=1';
+import { icon } from './icons.js?v=2';
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -12,7 +12,7 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=7');
+  const m = await import('./encyclopedia.js?v=8');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
@@ -1617,7 +1617,7 @@ function buildEncyclopediaView() {
 
   function showArticles(sec) {
     currentEncSection = sec;
-    $secIcon.textContent  = sec.icon;
+    $secIcon.innerHTML    = icon(sec.icon);
     $secTitle.textContent = sec.title;
     $secDesc.textContent  = sec.description;
     $artList.innerHTML = '';
@@ -1684,7 +1684,7 @@ function buildEncyclopediaView() {
     const card = document.createElement('div');
     card.className = 'enc-section-card';
     card.innerHTML = `
-      <div class="enc-sec-icon">${sec.icon}</div>
+      <div class="enc-sec-icon">${icon(sec.icon)}</div>
       <div class="enc-sec-info">
         <div class="enc-sec-title">${escapeHtml(sec.title)}</div>
         <div class="enc-sec-count">${sec.articles.length} статей</div>
