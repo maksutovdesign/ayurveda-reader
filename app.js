@@ -1694,6 +1694,7 @@ function buildEncyclopediaView() {
     card.addEventListener('click', () => showArticles(sec));
     frag.appendChild(card);
   }
+  $grid.innerHTML = '';        // убрать плашку «Загрузка энциклопедии…»
   $grid.appendChild(frag);
 
   // ── Full-text search ──
