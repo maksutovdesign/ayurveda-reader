@@ -2463,6 +2463,18 @@ body.dark .rem-note {
 .verse-act:hover { border-color: var(--accent); background: var(--bg-hover); }
 .verse-act--tts.playing { border-color: var(--accent); color: var(--accent); background: var(--accent-glow); }
 
+/* Кнопка «поделиться» для статей / средств / терминов глоссария */
+.card-share {
+  background: transparent; border: 1px solid var(--border); border-radius: 14px;
+  color: var(--text-muted); cursor: pointer; font: inherit; font-size: 12.5px;
+  padding: 4px 10px; transition: all var(--transition);
+}
+.card-share:hover { border-color: var(--accent); color: var(--accent); background: var(--bg-hover); }
+.card-share--inline { display: inline-flex; align-items: center; gap: 5px; margin-top: 16px; }
+.glossary-card { position: relative; }
+.glossary-card .card-share { position: absolute; top: 10px; right: 10px; opacity: .5; padding: 2px 8px; }
+.glossary-card .card-share:hover, .glossary-card:hover .card-share { opacity: 1; }
+
 /* Подсветка стиха при переходе по permalink */
 .block-verse.verse-target { animation: verseTargetPulse 2.6s ease; border-radius: 10px; }
 @keyframes verseTargetPulse {

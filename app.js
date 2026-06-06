@@ -335,6 +335,21 @@ async function shareVerse(num) {
   catch (_) { window.prompt('Скопируйте:', text); }
 }
 
+// Универсальный шеринг «цитата + источник + ссылка» (статьи, средства, термины)
+function shareSnippet(s, max = 280) {
+  s = String(s || '').replace(/\s+/g, ' ').trim();
+  return s.length > max ? s.slice(0, max).replace(/\s+\S*$/, '') + '…' : s;
+}
+async function shareContent(quote, loc, flashMsg, hash) {
+  const url = location.origin + location.pathname + (hash != null ? hash : location.hash);
+  const text = `«${shareSnippet(quote)}»\n— ${loc}\nИсточник: ${SITE_NAME} — ${url}`;
+  if (navigator.share) {
+    try { await navigator.share({ title: loc, text }); return; } catch (_) { /* отменили — копируем */ }
+  }
+  try { await navigator.clipboard.writeText(text); flash(flashMsg || 'Скопировано со ссылкой'); }
+  catch (_) { window.prompt('Скопируйте:', text); }
+}
+
 let _ttsBtn = null;
 function speakVerse(btn, text, lang) {
   if (!('speechSynthesis' in window)) { flash('Озвучка не поддерживается браузером'); return; }
@@ -1066,6 +1081,7 @@ function buildGlossaryView() {
           <div class="glossary-card-term">${entry.term}${encRef ? ' <span class="glossary-enc-link">→ статья</span>' : ''}</div>
           <div class="glossary-card-origin">${entry.origin}</div>
           <div class="glossary-card-def">${entry.def}</div>
+          <button class="card-share" title="Поделиться термином" aria-label="Поделиться термином">🔗</button>
         `;
         if (encRef) {
           card.addEventListener('click', async () => {
@@ -1074,6 +1090,10 @@ function buildGlossaryView() {
             openEncArticleFn && openEncArticleFn(encRef.secId, encRef.artId);
           });
         }
+        card.querySelector('.card-share').addEventListener('click', (e) => {
+          e.stopPropagation();
+          shareContent(`${entry.term} — ${entry.def}`, `Глоссарий терминов: ${entry.term}`, 'Термин скопирован со ссылкой', '#glossary');
+        });
         frag.appendChild(card);
       }
     }
@@ -1382,6 +1402,9 @@ function buildRemediesView() {
       card.addEventListener('click', () => {
         $dtitle.textContent = remedy.name;
         $dbody.innerHTML = renderRemedyContent(remedy.content, remedy.name);
+        let sb = $detail.querySelector('.card-share');
+        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = '🔗 Поделиться'; $dtitle.after(sb); }
+        sb.onclick = () => shareContent(remedy.content, `Домашнее средство: ${remedy.name}`, 'Средство скопировано со ссылкой', '#remedies');
         $list.hidden = true;
         $filter.parentElement.hidden = true;
         $detail.hidden = false;
@@ -1589,6 +1612,9 @@ function buildEncyclopediaView() {
       .map(s => `<span class="enc-source-tag">${escapeHtml(BOOK_LABELS[s] || s)}</span>`)
       .join('');
     $artSources.innerHTML = `<div class="enc-sources-label">Источники:</div>${sourcesHtml}`;
+    let sb = $artContent.querySelector('.card-share');
+    if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = '🔗 Поделиться'; $artSources.after(sb); }
+    sb.onclick = () => shareContent(art.summary || art.body || art.content || art.title, `Энциклопедия: ${art.title}`, 'Статья скопирована со ссылкой');
     $sectView.hidden   = true;
     $artView.hidden    = true;
     $artContent.hidden = false;
