@@ -2496,9 +2496,15 @@ body.dark .rem-note {
   border-radius: 10px; text-align: center;
 }
 .home-vod-label { font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 8px; }
-.home-vod-text { font-family: var(--font-serif); font-size: 16px; line-height: 1.6; color: var(--text); font-style: italic; margin-bottom: 12px; }
+.home-vod-text { font-family: var(--font-serif); font-size: 16px; line-height: 1.6; color: var(--text); font-style: italic; margin-bottom: 6px; }
+.home-vod-iast { font-size: 13px; line-height: 1.55; color: var(--text-muted); font-style: italic; margin-bottom: 12px; }
 .home-vod-link { background: none; border: none; cursor: pointer; font: inherit; font-size: 13px; color: var(--accent); font-weight: 600; }
 .home-vod-link:hover { text-decoration: underline; }
+
+/* Тач-таргеты ≥44px на мобильном (кнопки бокового меню) */
+@media (max-width: 640px) {
+  .sidebar-footer-btn { padding: 11px 12px; }
+}
 
 /* Перевод, добавленный экспертом */
 .verse-translation {

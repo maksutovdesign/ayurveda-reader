@@ -169,11 +169,14 @@ function buildHomePage() {
 
   const vod = verseOfDay();
   if (vod) {
-    const txt = vod.b.iast || vod.b.text || '';
+    const ru = vod.b.text || '';      // у Аштанга-хридаи text = русский перевод
+    const iast = vod.b.iast || '';
+    const main = ru || iast;          // на случай книги без перевода — IAST
     const card = document.createElement('div');
     card.className = 'home-vod';
     card.innerHTML = `<div class="home-vod-label">📖 Стих дня</div>
-      <div class="home-vod-text">${escapeHtml(txt)}</div>
+      <div class="home-vod-text">${escapeHtml(main)}</div>
+      ${ru && iast ? `<div class="home-vod-iast">${escapeHtml(iast)}</div>` : ''}
       <button class="home-vod-link">${escapeHtml(BOOKS[0].titleShort)} · ${escapeHtml(vod.ch.sthana)}, стих ${vod.b.number} →</button>`;
     card.querySelector('.home-vod-link').onclick = async () => {
       _pendingVerse = vod.b.number;
@@ -341,7 +344,14 @@ function speakVerse(btn, text, lang) {
   document.querySelectorAll('.verse-act--tts.playing').forEach(b => b.classList.remove('playing'));
   if (wasThis) return; // повторный клик — стоп
   const u = new SpeechSynthesisUtterance(text);
-  if (lang) u.lang = lang;
+  if (lang) {
+    u.lang = lang;
+    // Явно выбрать голос под язык (надёжнее для hi-IN/ru, если движок не делает сам)
+    const vs = synth.getVoices() || [];
+    const base = lang.split('-')[0];
+    const v = vs.find(x => x.lang === lang) || vs.find(x => x.lang && x.lang.replace('_', '-').startsWith(base));
+    if (v) u.voice = v;
+  }
   u.rate = 0.9;
   u.onend = u.onerror = () => btn.classList.remove('playing');
   btn.classList.add('playing');
@@ -2730,11 +2740,15 @@ function init() {
   buildBookSelector();
   buildNav();
   buildHomePage();
-  // Прогреваем энциклопедию и средства в фоне (по простою), чтобы при открытии
-  // раздела не появлялась надпись «Загрузка…» и не сдвигались карточки.
-  const warmLazy = () => { ensureEncyclopedia(); ensureRemedies(); };
-  if ('requestIdleCallback' in window) requestIdleCallback(warmLazy, { timeout: 4000 });
-  else setTimeout(warmLazy, 2500);
+  // Прогрев тяжёлых разделов — по первому интересу (наведение/фокус кнопки),
+  // а не сразу: не качаем ~1.5 МБ тем, кто просто читает. К клику уже загружено.
+  [['encyclopedia-btn', ensureEncyclopedia], ['remedies-btn', ensureRemedies]].forEach(([id, fn]) => {
+    const b = document.getElementById(id);
+    if (!b) return;
+    const warm = () => fn();
+    b.addEventListener('pointerenter', warm, { once: true });
+    b.addEventListener('focus', warm, { once: true });
+  });
   // Права доступа + настройка защиты контента (Этап 6)
   Cabinet.loadEntitlements().then(() => {
     configureContent({
