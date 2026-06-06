@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ayurveda-reader.vercel.app/sitemap.xml
+Sitemap: https://ayurvedareader.ru/sitemap.xml
