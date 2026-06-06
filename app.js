@@ -238,15 +238,15 @@ const $siteFooter         = document.getElementById('site-footer');
 const DISCLAIMER_KEY      = 'disclaimerDismissed';
 
 if (sessionStorage.getItem(DISCLAIMER_KEY)) {
-  $siteFooter.hidden = true;
+  $footerDisclaimer.hidden = true;
 }
 
 // X button — dismiss permanently for the session
 $disclaimerClose.addEventListener('click', e => {
   e.stopPropagation();
-  $siteFooter.style.transition = 'opacity 0.2s ease';
-  $siteFooter.style.opacity = '0';
-  setTimeout(() => { $siteFooter.hidden = true; }, 200);
+  $footerDisclaimer.style.transition = 'opacity 0.2s ease';
+  $footerDisclaimer.style.opacity = '0';
+  setTimeout(() => { $footerDisclaimer.hidden = true; }, 200);
   sessionStorage.setItem(DISCLAIMER_KEY, '1');
 });
 
