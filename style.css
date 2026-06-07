@@ -615,6 +615,17 @@ body.dark  .icon-sun  { display: none; }
   color: var(--text-muted);
 }
 .feature-icon { color: var(--accent); font-size: 16px; min-width: 20px; }
+.home-privacy-link {
+  display: block;
+  text-align: center;
+  margin-top: 24px;
+  font-size: 11px;
+  color: var(--text-muted);
+  opacity: 0.5;
+  text-decoration: none;
+  transition: opacity var(--transition);
+}
+.home-privacy-link:hover { opacity: 0.8; }
 .term-sample {
   color: var(--accent);
   border-bottom: 1px dashed var(--accent-light);
