@@ -467,8 +467,9 @@ function renderBlock(block) {
     }
   } else if (block.type === 'comment') {
     div.classList.add('block-comment');
-    const authorTag = block.author
-      ? ` <span class="comment-author">· ${escapeHtml(block.author)}</span>`
+    const authorName = block.author || currentBook().commentator || '';
+    const authorTag = authorName
+      ? ` <span class="comment-author">· ${escapeHtml(authorName)}</span>`
       : '';
     div.innerHTML = `<details><summary class="comment-label">Комментарий${authorTag}</summary><div class="comment-text">${renderText(block.text)}</div><div class="verse-actions"><button class="verse-act verse-act--tts" data-lang="ru-RU" title="Озвучить комментарий">🔊</button></div></details>`;
     const cmtTts = div.querySelector('.verse-act--tts');
@@ -717,7 +718,10 @@ function loadChapter(idx) {
     showOnly($chapterView);
     $chapterBody.innerHTML = '<div class="nav-loading">Загрузка…</div>';
     loadBookData(book).then(() => {
-      if (currentBook() === book) loadChapter(idx);
+      if (currentBook() === book) {
+        if (book._loaded) loadChapter(idx);
+        else $chapterBody.innerHTML = '<div class="nav-loading">Ошибка загрузки. Попробуйте обновить страницу.</div>';
+      }
     });
     return;
   }
