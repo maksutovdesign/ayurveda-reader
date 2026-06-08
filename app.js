@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=46';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=47';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -420,31 +420,30 @@ function renderBlock(block) {
     const iastHtml = sIast
       ? `<div class="verse-iast" aria-label="IAST">${escapeHtml(sIast)}</div>`
       : '';
+    const sEng = block.english || '';
     const transHtml = sTrans
       ? `<div class="verse-translation" aria-label="Перевод">${renderText(sTrans)}</div>`
       : '';
-    div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}`;
-    // Действия со стихом: поделиться + озвучить (для всех)
+    const engHtml = sEng
+      ? `<div class="verse-english" aria-label="English">${renderText(sEng)}</div>`
+      : '';
+    div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}${engHtml}`;
     if (block.number != null) {
-      // Что и на каком языке озвучивать (явно — чтобы не путаться):
-      //  • есть русский перевод → русский голос
-      //  • санскрит-глава → читаем деванагари голосом hi-IN (ближайший к санскриту)
-      //  • английская глава → английский голос
-      const lang = _renderCtx && _renderCtx.lang;
-      let ttsText = '', ttsLang = 'ru-RU', ttsLabel = 'перевод';
-      if (sTrans)            { ttsText = sTrans;            ttsLang = 'ru-RU'; ttsLabel = 'перевод'; }
-      else if (lang === 'sa') { ttsText = sSkt || sIast || ''; ttsLang = 'hi-IN'; ttsLabel = 'санскрит'; }
-      else if (lang === 'en') { ttsText = sText || '';       ttsLang = 'en-US'; ttsLabel = 'English'; }
-      else                    { ttsText = sText || sIast || ''; ttsLang = 'ru-RU'; ttsLabel = 'перевод'; }
-
+      const ruText = sTrans || ((_renderCtx && _renderCtx.lang !== 'en' && _renderCtx.lang !== 'sa') ? sText : '');
+      const enText = sEng || ((_renderCtx && _renderCtx.lang === 'en') ? sText : '');
       const actions = document.createElement('div');
       actions.className = 'verse-actions';
-      actions.innerHTML =
-        `<button class="verse-act verse-act--share" title="Поделиться стихом со ссылкой" aria-label="Поделиться стихом">🔗</button>` +
-        (ttsText ? `<button class="verse-act verse-act--tts" title="Прослушать (${ttsLabel})" aria-label="Прослушать стих (${ttsLabel})">🔊</button>` : '');
+      let btns = `<button class="verse-act verse-act--share" title="Поделиться" aria-label="Поделиться стихом">🔗</button>`;
+      if (sSkt) btns += `<button class="verse-act verse-act--tts" data-lang="hi-IN" data-field="skt" title="Озвучить санскрит">🕉</button>`;
+      if (ruText) btns += `<button class="verse-act verse-act--tts" data-lang="ru-RU" data-field="ru" title="Озвучить русский">РУ</button>`;
+      if (enText) btns += `<button class="verse-act verse-act--tts" data-lang="en-US" data-field="en" title="Озвучить English">EN</button>`;
+      actions.innerHTML = btns;
       actions.querySelector('.verse-act--share').onclick = () => shareVerse(block.number);
-      const ttsBtn = actions.querySelector('.verse-act--tts');
-      if (ttsBtn) ttsBtn.onclick = () => speakVerse(ttsBtn, ttsText, ttsLang);
+      actions.querySelectorAll('.verse-act--tts').forEach(btn => {
+        const field = btn.dataset.field;
+        const text = field === 'skt' ? sSkt : field === 'ru' ? ruText : enText;
+        btn.onclick = () => speakVerse(btn, text, btn.dataset.lang);
+      });
       div.appendChild(actions);
     }
     // Кнопка правки/перевода (для вошедших)
@@ -466,11 +465,12 @@ function renderBlock(block) {
     }
   } else if (block.type === 'comment') {
     div.classList.add('block-comment');
-    // Optional: commentary author (Арунадатта, Хемадри …)
-    const authorHtml = block.author
-      ? `<div class="comment-label">Комментарий <span class="comment-author">· ${escapeHtml(block.author)}</span></div>`
-      : `<div class="comment-label">Комментарий</div>`;
-    div.innerHTML = `${authorHtml}<div class="comment-text">${renderText(block.text)}</div>`;
+    const authorTag = block.author
+      ? ` <span class="comment-author">· ${escapeHtml(block.author)}</span>`
+      : '';
+    div.innerHTML = `<details><summary class="comment-label">Комментарий${authorTag}</summary><div class="comment-text">${renderText(block.text)}</div><div class="verse-actions"><button class="verse-act verse-act--tts" data-lang="ru-RU" title="Озвучить комментарий">🔊</button></div></details>`;
+    const cmtTts = div.querySelector('.verse-act--tts');
+    if (cmtTts) cmtTts.onclick = () => speakVerse(cmtTts, block.text, 'ru-RU');
   } else if (block.type === 'heading') {
     const lvl = block.level || 1;
     div.classList.add('block-heading', `block-heading--l${lvl}`);
@@ -801,7 +801,8 @@ function renderChapterBody(ch, idx) {
   // Check if chapter has any Sanskrit/IAST blocks
   const hasDeva = (ch.content || []).some(b => b.sanskrit);
   const hasIast = (ch.content || []).some(b => b.iast);
-  const hasEnglish = Array.isArray(ch.english) && ch.english.length > 0;
+  const hasEnglish = (Array.isArray(ch.english) && ch.english.length > 0)
+    || (ch.content || []).some(b => b.english);
   const view    = document.getElementById('chapter-view');
   if (!hasEnglish) view.classList.remove('show-english');  // нет англ. в этой главе → не залипаем в режиме English
 
