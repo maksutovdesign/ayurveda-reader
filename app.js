@@ -85,12 +85,14 @@ const $foodtableView     = document.getElementById('foodtable-view');
 const $foodtableBtn      = document.getElementById('foodtable-btn');
 const $quizView          = document.getElementById('quiz-view');
 const $quizBtn           = document.getElementById('quiz-btn');
+const $friendsView       = document.getElementById('friends-view');
+const $friendsBtn        = document.getElementById('friends-btn');
 const $donateView        = document.getElementById('donate-view');
 const $donateBtn         = document.getElementById('donate-btn');
 const $cabinetView       = document.getElementById('cabinet-view');
 const $cabinetBtn        = document.getElementById('cabinet-btn');
 
-const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView, $donateView, $cabinetView];
+const ALL_PANELS = [$welcome, $chapterView, $searchRes, $glossaryView, $diseasesView, $remediesView, $encyclopediaView, $referencesView, $foodtableView, $quizView, $friendsView, $donateView, $cabinetView];
 
 function showOnly(panel) {
   ALL_PANELS.forEach(p => { p.hidden = true; });
@@ -1260,6 +1262,7 @@ function setFooterActive(id) {
   $referencesBtn.classList.toggle('active', id === 'references');
   $foodtableBtn.classList.toggle('active', id === 'foodtable');
   $quizBtn.classList.toggle('active', id === 'quiz');
+  if ($friendsBtn) $friendsBtn.classList.toggle('active', id === 'friends');
   $donateBtn.classList.toggle('active', id === 'donate');
   if ($cabinetBtn) $cabinetBtn.classList.toggle('active', id === 'cabinet');
 }
@@ -2557,6 +2560,13 @@ $quizBtn.addEventListener('click', () => {
   history.replaceState(null, '', '#quiz');
 });
 
+if ($friendsBtn) $friendsBtn.addEventListener('click', () => {
+  setActiveBtn(-1);
+  setFooterActive('friends');
+  showOnly($friendsView);
+  history.replaceState(null, '', '#friends');
+});
+
 if ($donateBtn) $donateBtn.addEventListener('click', () => {
   setActiveBtn(-1);
   setFooterActive('donate');
@@ -2915,6 +2925,10 @@ function init() {
   }
   if (hash === '#quiz') {
     $quizBtn.click();
+    return;
+  }
+  if (hash === '#friends') {
+    if ($friendsBtn) $friendsBtn.click();
     return;
   }
   if (hash === '#donate') {

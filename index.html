@@ -117,7 +117,8 @@
 
       <nav id="chapter-nav" aria-label="Список глав"></nav>
 
-      <div id="sidebar-footer">
+      <details id="sidebar-footer" open>
+        <summary class="sidebar-footer-toggle">Разделы</summary>
         <button id="glossary-btn" class="sidebar-footer-btn">
           <span class="menu-ico" data-icon="terms"></span> Глоссарий терминов
         </button>
@@ -142,10 +143,13 @@
         <button id="cabinet-btn" class="sidebar-footer-btn">
           <span class="menu-ico" data-icon="user"></span> Кабинет эксперта
         </button>
+        <button id="friends-btn" class="sidebar-footer-btn">
+          <span class="menu-ico" data-icon="friends"></span> Наши друзья
+        </button>
         <button id="donate-btn" class="sidebar-footer-btn sidebar-footer-btn--donate">
           <span class="menu-ico" data-icon="heart"></span> Автор и донат
         </button>
-      </div>
+      </details>
     </aside>
 
     <main id="content" tabindex="-1">
@@ -299,6 +303,23 @@
           <div id="ft-cat-filter"></div>
         </div>
         <div id="ft-body"></div>
+      </div>
+
+      <!-- ── Friends ── -->
+      <div id="friends-view" hidden>
+        <div class="friends-inner">
+          <h2 class="friends-title">Наши друзья</h2>
+          <div class="friends-alphabet">
+            <div class="friends-alpha-section">
+              <h3 class="friends-alpha-heading">Кириллица</h3>
+              <div class="friends-letters">А Б В Г Д Е Ж З И К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Э Ю Я</div>
+            </div>
+            <div class="friends-alpha-section">
+              <h3 class="friends-alpha-heading">Latin</h3>
+              <div class="friends-letters">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- ── Donate ── -->

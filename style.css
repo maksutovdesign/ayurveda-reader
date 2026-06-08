@@ -1089,6 +1089,21 @@ details[open] > .comment-label {
   flex-direction: column;
   gap: 4px;
 }
+.sidebar-footer-toggle {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  cursor: pointer;
+  user-select: none;
+  padding: 0 4px 6px;
+  list-style: none;
+}
+.sidebar-footer-toggle::-webkit-details-marker { display: none; }
+.sidebar-footer-toggle::before { content: '▸ '; font-size: 9px; }
+#sidebar-footer[open] > .sidebar-footer-toggle::before { content: '▾ '; }
+.sidebar-footer-toggle:hover { color: var(--accent); }
 .sidebar-footer-btn {
   width: 100%;
   text-align: left;
@@ -2186,6 +2201,23 @@ body.dark .rem-note {
     padding: 2px 0 6px;
   }
   .ft-thead .ft-bar { display: none; }
+}
+
+/* ── Friends page ────────────────────────────────── */
+#friends-view { padding: 40px 24px 60px; max-width: 640px; margin: 0 auto; }
+.friends-title {
+  font-size: 22px; font-weight: 700; margin-bottom: 32px;
+  color: var(--text-primary); text-align: center;
+}
+.friends-alpha-section { margin-bottom: 28px; }
+.friends-alpha-heading {
+  font-size: 11px; font-weight: 700; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--text-muted); margin-bottom: 12px;
+}
+.friends-letters {
+  font-size: 28px; font-weight: 300; letter-spacing: .25em;
+  line-height: 2; color: var(--text-muted); opacity: 0.25;
+  word-spacing: 4px;
 }
 
 /* ── Donate / Author page ─────────────────────────── */
