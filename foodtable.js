@@ -6,7 +6,7 @@
 export const FOOD_TABLE = [
   {
     category: 'Молочные продукты',
-    icon: '🥛',
+    icon: '🥛', iconKey: 'ft_dairy',
     items: [
       { name: 'Молоко',            from: 6,  to: 21 },
       { name: 'Масло сливочное',   from: 7,  to: 19 },
@@ -28,7 +28,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Специи',
-    icon: '🌿',
+    icon: '🌿', iconKey: 'ft_spice',
     items: [
       { name: 'Фенхель',               from: 5,  to: 21 },
       { name: 'Бадьян',                from: 5,  to: 17 },
@@ -68,7 +68,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Фрукты, сухофрукты, ягоды и мёд',
-    icon: '🍎',
+    icon: '🍎', iconKey: 'ft_fruit',
     items: [
       { name: 'Изюм',            from: 6,  to: 18 },
       { name: 'Крыжовник',       from: 6,  to: 18 },
@@ -123,7 +123,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Растительные масла и зелень',
-    icon: '🫙',
+    icon: '🫙', iconKey: 'ft_oil',
     items: [
       { name: 'Масло оливковое',    from: 9,  to: 18 },
       { name: 'Масло подсолнечное', from: 9,  to: 16 },
@@ -151,7 +151,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Орехи и семена',
-    icon: '🥜',
+    icon: '🥜', iconKey: 'ft_nuts',
     items: [
       { name: 'Орех грецкий',         from: 7,  to: 20 },
       { name: 'Семена подсолнечника', from: 9,  to: 17 },
@@ -173,7 +173,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Овощи, бахчевые и зелень',
-    icon: '🥦',
+    icon: '🥦', iconKey: 'ft_veggie',
     items: [
       { name: 'Морковь',              from: 9,  to: 19 },
       { name: 'Патиссон',             from: 9,  to: 20 },
@@ -210,7 +210,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Крупы и бобовые',
-    icon: '🌾',
+    icon: '🌾', iconKey: 'ft_grain',
     items: [
       { name: 'Гречневая крупа', from: 8,  to: 20 },
       { name: 'Горох',           from: 11, to: 14 },
@@ -239,7 +239,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Напитки',
-    icon: '🍵',
+    icon: '🍵', iconKey: 'ft_drink',
     items: [
       { name: 'Вода тёплая',           from: 4,  to: 23 },
       { name: 'Имбирный чай',          from: 6,  to: 18 },
@@ -257,7 +257,7 @@ export const FOOD_TABLE = [
   },
   {
     category: 'Грибы',
-    icon: '🍄',
+    icon: '🍄', iconKey: 'ft_shroom',
     items: [
       { name: 'Шампиньоны',  from: 11, to: 15 },
       { name: 'Вёшенки',     from: 11, to: 15 },
