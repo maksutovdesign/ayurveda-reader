@@ -4,8 +4,16 @@ import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 import * as Cabinet from './cabinet.js?v=9';
-import { icon } from './icons.js?v=3';
+import { icon } from './icons.js?v=4';
 import { searchContext, askQuestion } from './chatbot.js';
+
+// Чистые линейные иконки (наследуют цвет кнопки/текста)
+const _actSvg = (paths) => `<svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
+const SHARE_SVG = _actSvg('<circle cx="7" cy="12" r="2.2"/><circle cx="16.5" cy="6.5" r="2.2"/><circle cx="16.5" cy="17.5" r="2.2"/><path d="M9 11l5.5-3.4"/><path d="M9 13l5.5 3.4"/>');
+const HOME_SVG  = _actSvg('<path d="M5 11l7-6 7 6"/><path d="M7 10v8h10v-8"/><path d="M10.5 18v-4h3v4"/>');
+const OM_SVG    = _actSvg('<path d="M6 11c0-1.4 1.1-2.5 2.5-2.5S11 9.6 11 11s-1.1 2.5-2.5 2.5c-.9 0-1.6-.4-2-1"/><path d="M11 11c1-1.6 3-2 4.5-1"/><path d="M13.5 13.5c1.6 0 3-1 3-2.6"/><path d="M16.5 6.5c-1 .3-1.6 1-1.6 2"/><circle cx="15.5" cy="5" r="1"/>');
+const GLOBE_SVG = _actSvg('<circle cx="12" cy="12" r="7"/><path d="M5 12h14"/><path d="M12 5c2 2.3 2 11.7 0 14"/><path d="M12 5c-2 2.3-2 11.7 0 14"/>');
+const PIN_SVG   = _actSvg('<path d="M9 4h6l-1 5 3 3v2H7v-2l3-3-1-5z"/><path d="M12 14v6"/>');
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -238,6 +246,10 @@ $sidebar.addEventListener('click', e => {
 const $footerToggle = document.querySelector('.sidebar-footer-toggle');
 if ($footerToggle) {
   const $sidebarFooter = document.getElementById('sidebar-footer');
+  if (window.innerWidth <= 640) {
+    $sidebarFooter.classList.add('collapsed');
+    $footerToggle.setAttribute('aria-expanded', 'false');
+  }
   const toggle = () => {
     const collapsed = $sidebarFooter.classList.toggle('collapsed');
     $footerToggle.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
@@ -450,8 +462,8 @@ function renderBlock(block) {
       const enText = sEng || ((_renderCtx && _renderCtx.lang === 'en') ? sText : '');
       const actions = document.createElement('div');
       actions.className = 'verse-actions';
-      let btns = `<button class="verse-act verse-act--share" title="Поделиться" aria-label="Поделиться стихом">🔗</button>`;
-      if (sSkt) btns += `<button class="verse-act verse-act--tts" data-lang="hi-IN" data-field="skt" title="Озвучить санскрит">🕉</button>`;
+      let btns = `<button class="verse-act verse-act--share" title="Поделиться" aria-label="Поделиться стихом">${SHARE_SVG}</button>`;
+      if (sSkt) btns += `<button class="verse-act verse-act--tts" data-lang="hi-IN" data-field="skt" title="Озвучить санскрит">${OM_SVG}</button>`;
       if (ruText) btns += `<button class="verse-act verse-act--tts" data-lang="ru-RU" data-field="ru" title="Озвучить русский">РУ</button>`;
       if (enText) btns += `<button class="verse-act verse-act--tts" data-lang="en-US" data-field="en" title="Озвучить English">EN</button>`;
       actions.innerHTML = btns;
@@ -911,7 +923,7 @@ function renderChapterBody(ch, idx) {
   if (ch.lang === 'en') {
     const notice = document.createElement('div');
     notice.className = 'chapter-lang-notice';
-    notice.innerHTML = `<span class="chapter-lang-notice__icon">🌐</span> Глава не переведена на русский — показан английский перевод (easyayurveda.com)`;
+    notice.innerHTML = `<span class="chapter-lang-notice__icon">${GLOBE_SVG}</span> Глава не переведена на русский — показан английский перевод (easyayurveda.com)`;
     frag.appendChild(notice);
   } else if (ch.lang === 'sa') {
     const notice = document.createElement('div');
@@ -934,7 +946,7 @@ function renderChapterBody(ch, idx) {
         <div class="sa-progress-bar"><span style="width:${pct}%"></span></div>
         <div class="sa-progress-text">Переведено ${done} из ${total}${tail}</div>
       </div>` : '';
-    notice.innerHTML = `<div class="sa-notice-line"><span class="chapter-lang-notice__icon">🕉</span> Перевод недоступен — показан оригинал на санскрите (деванагари) и транслитерация IAST. Источник: SARIT corpus</div>${progressHtml}`;
+    notice.innerHTML = `<div class="sa-notice-line"><span class="chapter-lang-notice__icon">${OM_SVG}</span> Перевод недоступен — показан оригинал на санскрите (деванагари) и транслитерация IAST. Источник: SARIT corpus</div>${progressHtml}`;
     frag.appendChild(notice);
   }
 
@@ -1139,7 +1151,7 @@ function buildGlossaryView() {
           <div class="glossary-card-term">${entry.term}${encRef ? ' <span class="glossary-enc-link">→ статья</span>' : ''}</div>
           <div class="glossary-card-origin">${entry.origin}</div>
           <div class="glossary-card-def">${entry.def}</div>
-          <button class="card-share" title="Поделиться термином" aria-label="Поделиться термином">🔗</button>
+          <button class="card-share" title="Поделиться термином" aria-label="Поделиться термином">${SHARE_SVG}</button>
         `;
         if (encRef) {
           card.addEventListener('click', async () => {
@@ -1462,7 +1474,7 @@ function buildRemediesView() {
         $dtitle.textContent = remedy.name;
         $dbody.innerHTML = renderRemedyContent(remedy.content, remedy.name);
         let sb = $detail.querySelector('.card-share');
-        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = '🔗 Поделиться'; }
+        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = SHARE_SVG + ' Поделиться'; }
         $dbody.after(sb); // в конец статьи, после текста
         sb.onclick = () => shareContent(remedy.content, `Домашнее средство: ${remedy.name}`, 'Средство скопировано со ссылкой', '#remedies');
         $list.hidden = true;
@@ -2292,7 +2304,7 @@ function buildReferencesView() {
     card.innerHTML = `
       <div class="ref-card-top">
         <div class="ref-title">${escapeHtml(ref.title)}</div>
-        <span class="ref-category">${escapeHtml(ref.category)}</span>
+        <span class="ref-category">${ref.category.startsWith('📌') ? PIN_SVG + ' ' + escapeHtml(ref.category.replace('📌', '').trim()) : escapeHtml(ref.category)}</span>
       </div>
       <div class="ref-author">${escapeHtml(ref.author)}</div>
       <div class="ref-year">${escapeHtml(ref.year)}</div>

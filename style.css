@@ -2651,6 +2651,9 @@ body.dark .rem-note {
 /* Тач-таргеты ≥44px на мобильном (кнопки бокового меню) */
 @media (max-width: 640px) {
   .sidebar-footer-btn { padding: 11px 12px; }
+  #sidebar-footer:not(.collapsed) { padding-bottom: 60px; }
+  .sidebar-footer-toggle-label::after { content: ' · развернуть'; font-weight: 400; letter-spacing: normal; text-transform: none; font-size: 10px; }
+  #sidebar-footer:not(.collapsed) .sidebar-footer-toggle-label::after { content: ' · свернуть'; }
 }
 
 /* Перевод, добавленный экспертом */
@@ -2782,7 +2785,10 @@ body.dark #cabinet-toast { background: #3d3220; }
 
 /* ── AI Chat Widget ─────────────────────────────────── */
 #chat-widget {
-  position: fixed; top: 20px; right: 20px; z-index: 9000;
+  position: relative; z-index: 9000;
+  display: flex; flex-direction: column; align-items: center;
+  padding: 8px 0 2px;
+  pointer-events: auto;
   font-family: var(--font-sans);
 }
 #chat-toggle {
@@ -2799,7 +2805,7 @@ body.dark #cabinet-toast { background: #3d3220; }
 
 /* Panel */
 #chat-panel {
-  position: absolute; top: 56px; right: 0;
+  position: fixed; bottom: 60px; right: 16px;
   width: 380px; max-width: calc(100vw - 24px);
   height: 520px; max-height: calc(100vh - 120px);
   background: var(--bg); border: 1px solid var(--border);
@@ -2889,10 +2895,22 @@ body.dark #cabinet-toast { background: #3d3220; }
 /* Mobile */
 @media (max-width: 600px) {
   #chat-panel {
-    position: fixed; top: 56px; right: 0; left: 0;
+    position: fixed; bottom: 0; right: 0; left: 0;
     width: 100%; height: 70vh; max-height: 70vh;
-    border-radius: 0 0 16px 16px;
+    border-radius: 16px 16px 0 0;
   }
   #chat-toggle { width: 40px; height: 40px; }
   #chat-toggle .menu-ico { width: 24px; height: 24px; }
 }
+
+/* ── Линейные иконки в кнопках (наследуют цвет) ──────── */
+.act-ico {
+  width: 18px; height: 18px; display: inline-block;
+  vertical-align: -0.22em; flex-shrink: 0;
+}
+/* Чуть крупнее в мелких управляющих элементах */
+#search-icon .act-ico { width: 19px; height: 19px; }
+#theme-toggle .act-ico { width: 18px; height: 18px; }
+.verse-act .act-ico { width: 17px; height: 17px; }
+.chapter-lang-notice__icon .act-ico { width: 18px; height: 18px; }
+.ref-category .act-ico { width: 15px; height: 15px; vertical-align: -0.2em; }
