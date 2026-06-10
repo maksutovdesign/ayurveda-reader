@@ -1667,7 +1667,7 @@ function buildEncyclopediaView() {
     $artTitle.textContent   = art.title;
     $artSummary.textContent = art.summary;
     $artBody.innerHTML      = renderArticleContent(art.body || art.content || '');
-    $artMeta.textContent    = currentEncSection ? `${currentEncSection.icon} ${currentEncSection.title}` : '';
+    $artMeta.innerHTML      = currentEncSection ? `${icon(currentEncSection.icon)} ${escapeHtml(currentEncSection.title)}` : '';
     const sourcesHtml = art.sources
       .map(s => `<span class="enc-source-tag">${escapeHtml(BOOK_LABELS[s] || s)}</span>`)
       .join('');
@@ -1751,7 +1751,7 @@ function buildEncyclopediaView() {
           const card = document.createElement('div');
           card.className = 'enc-search-result';
           card.innerHTML = `
-            <div class="enc-res-section">${sec.icon} ${escapeHtml(sec.title)}</div>
+            <div class="enc-res-section">${icon(sec.icon)} ${escapeHtml(sec.title)}</div>
             <div class="enc-res-title">${escapeHtml(art.title)}</div>
             <div class="enc-res-summary">${escapeHtml(art.summary)}</div>
           `;
