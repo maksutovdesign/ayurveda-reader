@@ -5,6 +5,7 @@ import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 import * as Cabinet from './cabinet.js?v=9';
 import { icon } from './icons.js?v=2';
+import { searchContext, askQuestion } from './chatbot.js';
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -3062,6 +3063,94 @@ function init() {
 }
 
 init();
+
+// ── AI Chat ─────────────────────────────────────────
+(() => {
+  const $toggle = document.getElementById('chat-toggle');
+  const $panel  = document.getElementById('chat-panel');
+  const $close  = document.getElementById('chat-close');
+  const $msgs   = document.getElementById('chat-messages');
+  const $input  = document.getElementById('chat-input');
+  const $send   = document.getElementById('chat-send');
+  if (!$toggle || !$panel) return;
+
+  const history = [];
+  let busy = false;
+
+  function open()  { $panel.hidden = false; $input.focus(); }
+  function close() { $panel.hidden = true; }
+
+  $toggle.addEventListener('click', () => $panel.hidden ? open() : close());
+  $close.addEventListener('click', close);
+
+  function addMsg(text, role) {
+    const div = document.createElement('div');
+    div.className = `chat-msg chat-msg--${role}`;
+    div.textContent = text;
+    $msgs.appendChild(div);
+    $msgs.scrollTop = $msgs.scrollHeight;
+    return div;
+  }
+
+  async function send() {
+    const q = $input.value.trim();
+    if (!q || busy) return;
+    busy = true;
+    $send.disabled = true;
+    $input.value = '';
+
+    addMsg(q, 'user');
+    history.push({ role: 'user', text: q });
+
+    // Поиск контекста по загруженным книгам
+    const context = searchContext(q, BOOKS);
+
+    // Индикатор набора
+    const typing = document.createElement('div');
+    typing.className = 'chat-typing';
+    typing.textContent = 'Думаю';
+    $msgs.appendChild(typing);
+    $msgs.scrollTop = $msgs.scrollHeight;
+
+    // Создаём блок ответа
+    let answer = '';
+    const botDiv = document.createElement('div');
+    botDiv.className = 'chat-msg chat-msg--bot';
+
+    askQuestion(
+      q, context, history,
+      (chunk) => {
+        // onChunk — стриминг
+        if (typing.parentNode) typing.remove();
+        answer += chunk;
+        botDiv.textContent = answer;
+        if (!botDiv.parentNode) $msgs.appendChild(botDiv);
+        $msgs.scrollTop = $msgs.scrollHeight;
+      },
+      () => {
+        // onDone
+        if (typing.parentNode) typing.remove();
+        if (!botDiv.parentNode && answer) $msgs.appendChild(botDiv);
+        if (answer) history.push({ role: 'bot', text: answer });
+        busy = false;
+        $send.disabled = false;
+      },
+      (err) => {
+        // onError
+        if (typing.parentNode) typing.remove();
+        const errDiv = document.createElement('div');
+        errDiv.className = 'chat-msg chat-msg--error';
+        errDiv.textContent = err;
+        $msgs.appendChild(errDiv);
+        busy = false;
+        $send.disabled = false;
+      },
+    );
+  }
+
+  $send.addEventListener('click', send);
+  $input.addEventListener('keydown', e => { if (e.key === 'Enter') send(); });
+})();
 
 // ── Service Worker (PWA) ────────────────────────────
 if ('serviceWorker' in navigator) {
