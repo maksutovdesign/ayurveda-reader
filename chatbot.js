@@ -63,7 +63,8 @@ export function searchContext(query, books, maxChunks = 15) {
  */
 export async function askQuestion(question, context, history, onChunk, onDone, onError) {
   try {
-    const res = await fetch('/api/chat', {
+    const API_BASE = location.hostname === 'localhost' ? '' : 'https://ayurveda-reader.vercel.app';
+    const res = await fetch(API_BASE + '/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ question, context, history }),
