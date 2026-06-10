@@ -9,5 +9,8 @@
       "maxDuration": 60
     }
   },
-  "crons": []
+  "crons": [
+    { "path": "/api/daily-post", "schedule": "0 6 * * *" },
+    { "path": "/api/daily-post", "schedule": "0 15 * * *" }
+  ]
 }
