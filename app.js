@@ -3095,8 +3095,10 @@ init();
   const history = [];
   let busy = false;
 
-  function open()  { $panel.hidden = false; $input.focus(); }
-  function close() { $panel.hidden = true; }
+  const $menuBtn = document.getElementById('menu-btn');
+  const $footer  = document.getElementById('site-footer');
+  function open()  { $panel.hidden = false; if ($menuBtn) $menuBtn.style.display = 'none'; if ($footer) $footer.style.zIndex = '10000'; $input.focus(); }
+  function close() { $panel.hidden = true; if ($menuBtn) $menuBtn.style.display = ''; if ($footer) $footer.style.zIndex = ''; }
 
   $toggle.addEventListener('click', () => $panel.hidden ? open() : close());
   $close.addEventListener('click', close);
