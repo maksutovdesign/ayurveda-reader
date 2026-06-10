@@ -21,6 +21,19 @@ import { GLOSSARY }                from '../glossary.js';
 import { FOOD_TABLE }              from '../foodtable.js';
 import { QUIZ }                    from '../quiz.js';
 
+// ── Эмодзи для иконок (в Telegram нельзя SVG) ───────────
+const ICON_EMOJI = {
+  enc_diagnostics:'🔍', enc_marma:'📍', enc_seasonal:'☀️', enc_quiz:'❓',
+  enc_prana:'🌬️', enc_rasayana:'✨', enc_dinacharya:'🌅', enc_food_wisdom:'🍽️',
+  enc_tantra:'🔮', enc_home_remedy:'🏠', enc_cleanse:'💧', enc_kitchen:'🍳',
+  enc_alchemy:'⚗️', enc_elements:'🔥', enc_family:'👨‍👩‍👧', enc_polarity:'☯️',
+  enc_philosophy:'📖', enc_history:'📜', enc_mudra:'🤲', enc_sound:'🔔',
+  enc_gems:'💎', enc_pediatrics:'👶', enc_pk_protocol:'📋', enc_aroma:'🌸',
+  enc_eye:'👁️', enc_preparations:'💊', enc_womens:'🌺', enc_pk_joshi:'🧘',
+  enc_srota:'🩸', enc_clinical:'🏥', enc_chakra:'🧿', enc_aroma_form:'🧴',
+};
+function emo(key) { return ICON_EMOJI[key] || '📄'; }
+
 // ── Конфигурация ─────────────────────────────────────────
 const BOT_TOKEN = process.env.BOT_TOKEN;
 if (!BOT_TOKEN) {
@@ -181,7 +194,7 @@ async function showMain(ctx) {
 
 async function showEncSections(ctx) {
   const rows = ENCYCLOPEDIA.map((sec, i) => {
-    const label = `${sec.icon || '📄'} ${sec.title}`;
+    const label = `${emo(sec.icon)} ${sec.title}`;
     return [Markup.button.callback(
       label.length > 45 ? label.slice(0, 42) + '…' : label,
       `enc_a:${i}`
@@ -209,7 +222,7 @@ async function showEncArticles(ctx, sIdx) {
 
   const desc = sec.description ? `\n<i>${esc(sec.description)}</i>` : '';
   await send(ctx,
-    `${sec.icon || '📄'} <b>${esc(sec.title)}</b>${desc}\n\n${sec.articles.length} статей:`,
+    `${emo(sec.icon)} <b>${esc(sec.title)}</b>${desc}\n\n${sec.articles.length} статей:`,
     rows
   );
 }
@@ -220,7 +233,7 @@ async function showEncArticle(ctx, sIdx, aIdx, page) {
   if (!art) return showEncArticles(ctx, sIdx);
 
   const body   = fmtBody(art.body || art.content || art.summary || '');
-  const header = `${sec.icon || '📄'} <b>${esc(art.title)}</b>\n────────────\n`;
+  const header = `${emo(sec.icon)} <b>${esc(art.title)}</b>\n────────────\n`;
   const pages  = paginate(body);
   page = Math.max(0, Math.min(page, pages.length - 1));
 
@@ -543,7 +556,7 @@ async function showGlossaryEntry(ctx, gIdx) {
 
 async function showFoodCategories(ctx) {
   const rows = FOOD_TABLE.map((cat, i) => [
-    Markup.button.callback(`${cat.icon} ${cat.category}`, `ft_c:${i}`)
+    Markup.button.callback(`${emo(cat.icon)} ${cat.category}`, `ft_c:${i}`)
   ]);
   rows.push([Markup.button.callback('← Главное меню', 'main')]);
 
@@ -564,7 +577,7 @@ async function showFoodCategory(ctx, catIdx) {
   });
 
   const text = [
-    `${cat.icon} <b>${esc(cat.category)}</b>`,
+    `${emo(cat.icon)} <b>${esc(cat.category)}</b>`,
     '<i>Оптимальное время употребления:</i>',
     '',
     ...lines,
