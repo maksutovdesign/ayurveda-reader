@@ -2479,7 +2479,7 @@ function buildFoodTableView() {
   for (const cat of FOOD_TABLE) {
     const btn = document.createElement('button');
     btn.className = 'ft-cat-btn';
-    btn.innerHTML = `${cat.icon} ${escapeHtml(cat.category)}`;
+    btn.innerHTML = `<span class="menu-ico ft-filter-icon" data-icon="${cat.iconKey || ''}">${cat.icon}</span> ${escapeHtml(cat.category)}`;
     btn.addEventListener('click', () => {
       activeCat = cat.category;
       document.querySelectorAll('.ft-cat-btn').forEach(b => b.classList.remove('active'));
@@ -2488,6 +2488,8 @@ function buildFoodTableView() {
     });
     $catFilter.appendChild(btn);
   }
+  // Инициализируем SVG-иконки в фильтрах
+  $catFilter.querySelectorAll('.menu-ico[data-icon]').forEach(el => { el.innerHTML = icon(el.dataset.icon); });
 
   render('');
 
