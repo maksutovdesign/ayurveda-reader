@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=48';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=49';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -232,6 +232,20 @@ $sidebar.addEventListener('click', e => {
   const btn = e.target.closest('.sidebar-footer-btn, #chapter-nav button');
   if (btn) closeSidebar();
 });
+
+// ── Sidebar «Разделы» toggle ────
+const $footerToggle = document.querySelector('.sidebar-footer-toggle');
+if ($footerToggle) {
+  const $sidebarFooter = document.getElementById('sidebar-footer');
+  const toggle = () => {
+    const collapsed = $sidebarFooter.classList.toggle('collapsed');
+    $footerToggle.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+  };
+  $footerToggle.addEventListener('click', toggle);
+  $footerToggle.addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+  });
+}
 
 // ── Medical disclaimer dismiss + mobile collapse ────
 const $disclaimerClose    = document.getElementById('disclaimer-close');

@@ -391,7 +391,7 @@ body.dark  .icon-sun  { display: none; }
 }
 .sthana-label:hover { color: var(--accent); }
 .sthana-arrow {
-  font-size: 9px;
+  font-size: 14px;
   transition: transform var(--transition);
 }
 .sthana-group.collapsed .sthana-arrow { transform: rotate(-90deg); }
@@ -1090,6 +1090,9 @@ details[open] > .comment-label {
   gap: 4px;
 }
 .sidebar-footer-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: .08em;
@@ -1098,11 +1101,13 @@ details[open] > .comment-label {
   cursor: pointer;
   user-select: none;
   padding: 0 4px 6px;
-  list-style: none;
 }
-.sidebar-footer-toggle::-webkit-details-marker { display: none; }
-.sidebar-footer-toggle::before { content: '▸ '; font-size: 9px; }
-#sidebar-footer[open] > .sidebar-footer-toggle::before { content: '▾ '; }
+.sidebar-footer-arrow {
+  font-size: 14px;
+  transition: transform var(--transition);
+}
+#sidebar-footer.collapsed .sidebar-footer-arrow { transform: rotate(-90deg); }
+#sidebar-footer.collapsed #sidebar-footer-buttons { display: none; }
 .sidebar-footer-toggle:hover { color: var(--accent); }
 .sidebar-footer-btn {
   width: 100%;

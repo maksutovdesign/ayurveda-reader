@@ -75,7 +75,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=57" />
+  <link rel="stylesheet" href="style.css?v=58" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
@@ -117,8 +117,9 @@
 
       <nav id="chapter-nav" aria-label="Список глав"></nav>
 
-      <details id="sidebar-footer" open
-        <summary class="sidebar-footer-toggle">Разделы</summary>
+      <div id="sidebar-footer">
+        <div class="sidebar-footer-toggle" role="button" tabindex="0" aria-expanded="true">Разделы<span class="sidebar-footer-arrow">▾</span></div>
+        <div id="sidebar-footer-buttons">
         <button id="glossary-btn" class="sidebar-footer-btn">
           <span class="menu-ico" data-icon="terms"></span> Глоссарий терминов
         </button>
@@ -149,7 +150,8 @@
         <button id="donate-btn" class="sidebar-footer-btn sidebar-footer-btn--donate">
           <span class="menu-ico" data-icon="heart"></span> Автор и донат
         </button>
-      </details>
+        </div>
+      </div>
     </aside>
 
     <main id="content" tabindex="-1">
@@ -504,7 +506,7 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=66"></script>
+  <script type="module" src="app.js?v=67"></script>
 
   <!-- Яндекс.Метрика -->
   <script type="text/javascript">
