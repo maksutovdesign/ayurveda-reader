@@ -15,6 +15,7 @@ const G = {
   user:    ['#6783a3', '<circle cx="12" cy="9" r="3.2"/><path d="M6 18.6a6 6 0 0 1 12 0"/>'],
   friends: ['#5ab5cf', '<circle cx="9" cy="8" r="2.5"/><path d="M4 16.5a5 5 0 0 1 10 0"/><circle cx="16" cy="9" r="2"/><path d="M13.5 16.5a4 4 0 0 1 7 0"/>'],
   heart:   ['#d06a98', '<path d="M12 18.6C12 18.6 5 14.6 5 9.7 5 7.4 6.8 5.9 8.8 5.9c1.4 0 2.6.7 3.2 1.8.6-1.1 1.8-1.8 3.2-1.8 2 0 3.8 1.5 3.8 3.8 0 4.9-7 8.9-7 8.9z"/>'],
+  chat:    ['#cf9a36', '<path d="M7 7h10v7H13l-3 3v-3H7z"/><circle cx="10" cy="10.5" r=".7"/><circle cx="12" cy="10.5" r=".7"/><circle cx="14" cy="10.5" r=".7"/>'],
   // ── Энциклопедия ──
   enc_foundations: ['#8a6d3b', '<path d="M6 17V7h3l3 3 3-3h3v10"/><line x1="6" y1="17" x2="18" y2="17"/>'],
   enc_prakriti:    ['#7b5ea7', '<circle cx="12" cy="12" r="4"/><path d="M12 4v3"/><path d="M12 17v3"/><path d="M4 12h3"/><path d="M17 12h3"/><path d="M6.3 6.3l2.1 2.1"/><path d="M15.6 15.6l2.1 2.1"/>'],
