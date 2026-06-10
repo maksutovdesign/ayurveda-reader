@@ -609,12 +609,13 @@ body.dark  .icon-sun  { display: none; }
 }
 .feature {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 10px;
   font-size: 13.5px;
   color: var(--text-muted);
 }
-.feature-icon { color: var(--accent); font-size: 16px; min-width: 20px; }
+.feature-icon.menu-ico { width: 28px; height: 28px; flex: 0 0 28px; }
+.feature-icon .app-icon { width: 28px; height: 28px; }
 .home-privacy-link {
   display: block;
   text-align: center;
@@ -667,6 +668,9 @@ body.dark  .icon-sun  { display: none; }
 
 /* Home + Font size buttons */
 #chapter-home-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   font-size: 12px;
   font-weight: 600;
   padding: 3px 12px;
@@ -1130,7 +1134,7 @@ details[open] > .comment-label {
 
 /* ── Единый набор SVG-иконок (меню + книги) ── */
 .app-icon { display: block; width: 22px; height: 22px; }
-.menu-ico { display: inline-flex; flex: 0 0 22px; width: 22px; height: 22px; }
+.menu-ico { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 22px; width: 22px; height: 22px; }
 .home-book-icon .app-icon { width: 34px; height: 34px; }
 .book-opt-icon .app-icon { width: 24px; height: 24px; }
 #book-selector-icon { display: inline-flex; }
@@ -2801,7 +2805,8 @@ body.dark #cabinet-toast { background: #3d3220; }
   transition: transform .15s, box-shadow .15s;
 }
 #chat-toggle:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,.18); }
-#chat-toggle .menu-ico { width: 28px; height: 28px; }
+#chat-toggle .menu-ico { width: 28px; height: 28px; flex: 0 0 28px; }
+#chat-toggle .app-icon { width: 28px; height: 28px; }
 
 /* Panel */
 #chat-panel {
