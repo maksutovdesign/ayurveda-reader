@@ -2786,8 +2786,8 @@ body.dark #cabinet-toast { background: #3d3220; }
 /* ── AI Chat Widget ─────────────────────────────────── */
 #chat-widget {
   position: relative; z-index: 9000;
-  display: flex; flex-direction: column; align-items: center;
-  padding: 8px 0 2px;
+  display: flex; flex-direction: column; align-items: flex-end;
+  padding: 8px 16px 2px 0;
   pointer-events: auto;
   font-family: var(--font-sans);
 }
@@ -2895,9 +2895,9 @@ body.dark #cabinet-toast { background: #3d3220; }
 /* Mobile */
 @media (max-width: 600px) {
   #chat-panel {
-    position: fixed; bottom: 0; right: 0; left: 0;
-    width: 100%; height: 70vh; max-height: 70vh;
-    border-radius: 16px 16px 0 0;
+    position: fixed; top: 0; bottom: 0; right: 0; left: 0;
+    width: 100%; height: 100%; max-height: 100%;
+    border-radius: 0; z-index: 9999;
   }
   #chat-toggle { width: 40px; height: 40px; }
   #chat-toggle .menu-ico { width: 24px; height: 24px; }
@@ -2914,3 +2914,24 @@ body.dark #cabinet-toast { background: #3d3220; }
 .verse-act .act-ico { width: 17px; height: 17px; }
 .chapter-lang-notice__icon .act-ico { width: 18px; height: 18px; }
 .ref-category .act-ico { width: 15px; height: 15px; vertical-align: -0.2em; }
+
+/* Иконки menu-ico, используемые инлайн в тексте */
+.menu-ico--inline { width: 20px; height: 20px; display: inline-block; vertical-align: -0.25em; }
+.menu-ico--inline .app-icon { width: 100%; height: 100%; }
+.donate-copy-icon.menu-ico { width: 18px; height: 18px; vertical-align: -0.2em; }
+.donate-copy-icon .app-icon { width: 100%; height: 100%; }
+.footer-icon.menu-ico { width: 20px; height: 20px; }
+.footer-icon .app-icon { width: 100%; height: 100%; }
+#offline-banner .menu-ico { width: 20px; height: 20px; vertical-align: -0.2em; }
+#offline-banner .app-icon { width: 100%; height: 100%; }
+.home-logo .menu-ico { width: 80px; height: 80px; flex: 0 0 80px; }
+.home-logo .app-icon { width: 80px; height: 80px; }
+#donate-avatar .menu-ico { width: 64px; height: 64px; flex: 0 0 64px; }
+#donate-avatar .app-icon { width: 64px; height: 64px; }
+#quiz-intro-icon .menu-ico { width: 64px; height: 64px; flex: 0 0 64px; }
+#quiz-intro-icon .app-icon { width: 64px; height: 64px; }
+#chat-close .menu-ico--inline { width: 16px; height: 16px; }
+#chat-send .menu-ico--inline { width: 20px; height: 20px; }
+.home-vod-label .menu-ico--inline { width: 18px; height: 18px; }
+.chat-header-title .menu-ico--inline { width: 20px; height: 20px; }
+.chat-header-title .app-icon { width: 100%; height: 100%; }

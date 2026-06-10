@@ -4,7 +4,7 @@ import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
 import * as Cabinet from './cabinet.js?v=9';
-import { icon } from './icons.js?v=4';
+import { icon } from './icons.js?v=5';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -14,6 +14,9 @@ const HOME_SVG  = _actSvg('<path d="M5 11l7-6 7 6"/><path d="M7 10v8h10v-8"/><pa
 const OM_SVG    = _actSvg('<path d="M6 11c0-1.4 1.1-2.5 2.5-2.5S11 9.6 11 11s-1.1 2.5-2.5 2.5c-.9 0-1.6-.4-2-1"/><path d="M11 11c1-1.6 3-2 4.5-1"/><path d="M13.5 13.5c1.6 0 3-1 3-2.6"/><path d="M16.5 6.5c-1 .3-1.6 1-1.6 2"/><circle cx="15.5" cy="5" r="1"/>');
 const GLOBE_SVG = _actSvg('<circle cx="12" cy="12" r="7"/><path d="M5 12h14"/><path d="M12 5c2 2.3 2 11.7 0 14"/><path d="M12 5c-2 2.3-2 11.7 0 14"/>');
 const PIN_SVG   = _actSvg('<path d="M9 4h6l-1 5 3 3v2H7v-2l3-3-1-5z"/><path d="M12 14v6"/>');
+const PENCIL_SVG = _actSvg('<path d="M15.2 4.8a2 2 0 0 1 2.8 0l1.2 1.2a2 2 0 0 1 0 2.8L8.5 19.5 4 20.5l1-4.5z"/><path d="M14 6l4 4"/>');
+const SPEAKER_SVG = _actSvg('<path d="M8 9.5v5l4 3V6.5l-4 3z"/><path d="M15 9.5c.8.8 1.2 1.5 1.2 2.5s-.4 1.7-1.2 2.5"/><path d="M17 7.5c1.3 1.3 2 2.8 2 4.5s-.7 3.2-2 4.5"/>');
+const LOCK_SVG  = _actSvg('<rect x="7" y="11" width="10" height="8" rx="1.5"/><path d="M9 11V8a3 3 0 0 1 6 0v3"/>');
 
 // ── Ленивые тяжёлые данные (энциклопедия 816К + средства 743К) ──
 // Грузятся при первом открытии соответствующего раздела, а не на старте.
@@ -48,7 +51,7 @@ async function mergeArticles(collection) {
   } else if (collection === 'encyclopedia') {
     await ensureEncyclopedia();
     let sec = ENCYCLOPEDIA.find(s => s.id === 'community');
-    if (!sec) { sec = { id: 'community', title: 'Статьи сообщества', icon: '👥',
+    if (!sec) { sec = { id: 'community', title: 'Статьи сообщества', iconKey: 'friends',
       description: 'Материалы, предложенные экспертами и одобренные модерацией', articles: [] };
       ENCYCLOPEDIA.push(sec); }
     for (const a of arts) { if (seen.has(a._id)) continue; seen.add(a._id);
@@ -152,7 +155,7 @@ function buildHomePage() {
   }
   grid.innerHTML = BOOKS.map((b, i) => `
     <button class="home-book-card" data-idx="${i}">
-      <span class="home-book-icon">${icon(b.iconKey) || escapeHtml(b.icon || '🌿')}</span>
+      <span class="home-book-icon">${icon(b.iconKey) || icon('leaf')}</span>
       <span class="home-book-info">
         <span class="home-book-name">${escapeHtml(b.titleShort || b.title)}</span>
         <span class="home-book-sub">${escapeHtml(b.subtitle || '')}</span>
@@ -180,7 +183,7 @@ function buildHomePage() {
     if (ch && ch.available !== false) {
       const c = document.createElement('button');
       c.className = 'home-resume';
-      c.innerHTML = `<span class="home-resume-icon">↩</span><span class="home-resume-text"><b>Продолжить чтение</b><span>${escapeHtml(bk.titleShort)} · ${ch.number > 0 ? 'гл. ' + ch.number + '. ' : ''}${escapeHtml(ch.title)}</span></span>`;
+      c.innerHTML = `<span class="home-resume-icon">${_actSvg('<path d="M9 4l-5 5 5 5"/><path d="M4 9h11a5 5 0 0 1 0 10h-3"/>')}</span><span class="home-resume-text"><b>Продолжить чтение</b><span>${escapeHtml(bk.titleShort)} · ${ch.number > 0 ? 'гл. ' + ch.number + '. ' : ''}${escapeHtml(ch.title)}</span></span>`;
       c.onclick = async () => { if (pos.bookIdx !== currentBookIdx) await selectBook(pos.bookIdx); loadChapter(pos.chIdx); };
       extra.appendChild(c);
     }
@@ -193,7 +196,7 @@ function buildHomePage() {
     const main = ru || iast;          // на случай книги без перевода — IAST
     const card = document.createElement('div');
     card.className = 'home-vod';
-    card.innerHTML = `<div class="home-vod-label">📖 Стих дня</div>
+    card.innerHTML = `<div class="home-vod-label"><span class="menu-ico menu-ico--inline" data-icon="readbook"></span> Стих дня</div>
       <div class="home-vod-text">${escapeHtml(main)}</div>
       ${ru && iast ? `<div class="home-vod-iast">${escapeHtml(iast)}</div>` : ''}
       <button class="home-vod-link">${escapeHtml(BOOKS[0].titleShort)} · ${escapeHtml(vod.ch.sthana)}, стих ${vod.b.number} →</button>`;
@@ -202,6 +205,7 @@ function buildHomePage() {
       if (currentBookIdx !== 0) await selectBook(0);
       loadChapter(vod.ci);
     };
+    card.querySelectorAll('.menu-ico[data-icon]').forEach(el => { el.innerHTML = icon(el.dataset.icon); });
     extra.appendChild(card);
   }
 }
@@ -481,7 +485,7 @@ function renderBlock(block) {
       const needsTranslation = _renderCtx.lang === 'sa' && !sTrans;
       const btn = document.createElement('button');
       btn.className = 'verse-edit-btn' + (needsTranslation ? ' verse-edit-btn--translate' : '');
-      btn.textContent = needsTranslation ? '✎ Добавить перевод' : '✎ Предложить правку';
+      btn.innerHTML = `${PENCIL_SVG} ${needsTranslation ? 'Добавить перевод' : 'Предложить правку'}`;
       const vnum = String(block.number);
       btn.onclick = () => Cabinet.openProposalModal({
         bookId: _renderCtx.bookId, sthana: _renderCtx.sthana,
@@ -498,7 +502,7 @@ function renderBlock(block) {
     const authorTag = authorName
       ? ` <span class="comment-author">· ${escapeHtml(authorName)}</span>`
       : '';
-    div.innerHTML = `<details><summary class="comment-label">Комментарий${authorTag}</summary><div class="comment-text">${renderText(block.text)}</div><div class="verse-actions"><button class="verse-act verse-act--tts" data-lang="ru-RU" title="Озвучить комментарий">🔊</button></div></details>`;
+    div.innerHTML = `<details><summary class="comment-label">Комментарий${authorTag}</summary><div class="comment-text">${renderText(block.text)}</div><div class="verse-actions"><button class="verse-act verse-act--tts" data-lang="ru-RU" title="Озвучить комментарий">${SPEAKER_SVG}</button></div></details>`;
     const cmtTts = div.querySelector('.verse-act--tts');
     if (cmtTts) cmtTts.onclick = () => speakVerse(cmtTts, block.text, 'ru-RU');
   } else if (block.type === 'heading') {
@@ -809,7 +813,7 @@ function renderPaywall(ch, book) {
   const box = document.createElement('div');
   box.className = 'paywall';
   box.innerHTML = `
-    <div class="paywall-icon">🔒</div>
+    <div class="paywall-icon">${LOCK_SVG}</div>
     <h3 class="paywall-title">Глава доступна по подписке</h3>
     <p class="paywall-desc">Книга «${escapeHtml(book.titleShort || book.title)}» — часть платного доступа.
     Первые главы открыты для ознакомления. Оформите доступ, чтобы читать целиком.</p>
@@ -1685,7 +1689,7 @@ function buildEncyclopediaView() {
       .join('');
     $artSources.innerHTML = `<div class="enc-sources-label">Источники:</div>${sourcesHtml}`;
     let sb = $artContent.querySelector('.card-share');
-    if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = '🔗 Поделиться'; $artSources.after(sb); }
+    if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = SHARE_SVG + ' Поделиться'; $artSources.after(sb); }
     sb.onclick = () => shareContent(art.summary || art.body || art.content || art.title, `Энциклопедия: ${art.title}`, 'Статья скопирована со ссылкой');
     $sectView.hidden   = true;
     $artView.hidden    = true;

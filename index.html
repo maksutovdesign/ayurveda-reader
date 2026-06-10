@@ -75,18 +75,18 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=65" />
+  <link rel="stylesheet" href="style.css?v=66" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
   <div id="sidebar-overlay"></div>
   <a href="#content" class="skip-link">Перейти к содержанию</a>
-  <div id="offline-banner" role="status" aria-live="polite" hidden>📡 Офлайн-режим — прочитанные книги доступны, синхронизация недоступна</div>
+  <div id="offline-banner" role="status" aria-live="polite" hidden><span class="menu-ico" data-icon="offline"></span> Офлайн-режим — прочитанные книги доступны, синхронизация недоступна</div>
   <div id="app">
     <aside id="sidebar" aria-label="Навигация по книге">
       <div id="sidebar-header">
         <div id="book-title" role="button" tabindex="0" aria-label="На главную страницу проекта">
-          <span class="logo-mark">🪷</span>
+          <span class="logo-mark menu-ico" data-icon="lotus"></span>
           <span class="logo-text"><span class="logo-line1">Самхиты</span><span class="logo-line2">Аюрведы</span></span>
         </div>
         <div id="sidebar-header-controls">
@@ -106,7 +106,7 @@
       <div id="book-selector">
         <span class="book-selector-label">Выберите книгу</span>
         <button id="book-selector-btn" aria-expanded="false" aria-haspopup="listbox">
-          <span id="book-selector-icon">🌿</span>
+          <span id="book-selector-icon" class="menu-ico" data-icon="leaf"></span>
           <span id="book-selector-title">Аштанга-хридая</span>
           <span id="book-selector-arrow">▾</span>
         </button>
@@ -158,7 +158,7 @@
       <div id="welcome">
         <div class="welcome-inner">
           <div class="home-hero">
-            <div class="home-logo">🪷</div>
+            <div class="home-logo"><span class="menu-ico" data-icon="lotus"></span></div>
             <h1 id="welcome-title">Классические самхиты Аюрведы</h1>
             <p class="home-tagline">Подлинные тексты на санскрите, транслитерация IAST и переводы — в одном читателе</p>
           </div>
@@ -378,7 +378,7 @@
 
       <div id="donate-view" hidden>
         <div id="donate-inner">
-          <div id="donate-avatar">🪷</div>
+          <div id="donate-avatar"><span class="menu-ico" data-icon="lotus"></span></div>
           <h2 id="donate-title">Об авторе</h2>
           <p class="donate-desc">
             Этот сайт создан с любовью и посвящён изучению аюрведы —
@@ -386,7 +386,7 @@
           </p>
           <p class="donate-desc">
             Если сайт оказался вам полезен и вы хотите поддержать развитие проекта —
-            любая благодарность принимается с искренней признательностью 🙏
+            любая благодарность принимается с искренней признательностью <span class="menu-ico menu-ico--inline" data-icon="pray"></span>
           </p>
 
           <div id="donate-cards">
@@ -401,7 +401,7 @@
                   <span class="donate-label">Номер телефона</span>
                   <button class="donate-copy" data-copy="+79536533934" title="Скопировать">
                     <span class="donate-value">+7 953 653-39-34</span>
-                    <span class="donate-copy-icon">⎘</span>
+                    <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
                 </div>
                 <div class="donate-field">
@@ -424,7 +424,7 @@
                   <span class="donate-label">Адрес кошелька</span>
                   <button class="donate-copy" data-copy="1Ad9cXdQfApRJU3H5Ecpd23397njzhHbqV" title="Скопировать">
                     <span class="donate-value donate-btc">1Ad9cXdQfApRJU3H5Ecpd23397njzhHbqV</span>
-                    <span class="donate-copy-icon">⎘</span>
+                    <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
                 </div>
               </div>
@@ -440,7 +440,7 @@
                   <span class="donate-label">Адрес кошелька</span>
                   <button class="donate-copy" data-copy="TDdhyiFRV84VTPWA3yn7PUYLjNTsnaoEuw" title="Скопировать">
                     <span class="donate-value donate-btc">TDdhyiFRV84VTPWA3yn7PUYLjNTsnaoEuw</span>
-                    <span class="donate-copy-icon">⎘</span>
+                    <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
                 </div>
               </div>
@@ -460,7 +460,7 @@
                   <span class="donate-label">Адрес кошелька</span>
                   <button class="donate-copy" data-copy="0x9c637cbe764f04871385f3e703ff102242fc74fc" title="Скопировать">
                     <span class="donate-value donate-btc">0x9c637cbe764f04871385f3e703ff102242fc74fc</span>
-                    <span class="donate-copy-icon">⎘</span>
+                    <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
                 </div>
               </div>
@@ -481,7 +481,7 @@
                   <span class="donate-label">Электронная почта</span>
                   <button class="donate-copy" data-copy="maksutovdesign@icloud.com" title="Скопировать">
                     <span class="donate-value">maksutovdesign@icloud.com</span>
-                    <span class="donate-copy-icon">⎘</span>
+                    <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
                 </div>
               </div>
@@ -497,7 +497,7 @@
       <div id="quiz-view" hidden>
         <div id="quiz-intro">
           <div id="quiz-intro-inner">
-            <div id="quiz-intro-icon">🧬</div>
+            <div id="quiz-intro-icon"><span class="menu-ico" data-icon="dna"></span></div>
             <h2>Тест конституции</h2>
             <p class="quiz-subtitle">Определите свою аюрведическую пракрити</p>
             <p class="quiz-desc">Отвечайте, ориентируясь на то, каким вы были большую часть жизни — не на текущее самочувствие. 60 вопросов, три раздела.</p>
@@ -546,15 +546,15 @@
       </button>
       <div id="chat-panel" hidden>
         <div id="chat-header">
-          <span class="chat-header-title">🪷 Помощник по Аюрведе</span>
-          <button id="chat-close" aria-label="Закрыть чат">✕</button>
+          <span class="chat-header-title"><span class="menu-ico menu-ico--inline" data-icon="lotus"></span> Помощник по Аюрведе</span>
+          <button id="chat-close" aria-label="Закрыть чат"><span class="menu-ico menu-ico--inline" data-icon="close"></span></button>
         </div>
         <div id="chat-messages">
           <div class="chat-msg chat-msg--bot">Намасте! Я помощник по классическим текстам Аюрведы. Задайте вопрос — я отвечу, опираясь на первоисточники.</div>
         </div>
         <div id="chat-input-wrap">
           <input id="chat-input" type="text" placeholder="Спросите об Аюрведе…" autocomplete="off" />
-          <button id="chat-send" aria-label="Отправить">➤</button>
+          <button id="chat-send" aria-label="Отправить"><span class="menu-ico menu-ico--inline" data-icon="send"></span></button>
         </div>
       </div>
     </div>
@@ -564,7 +564,7 @@
       <a href="https://t.me/AyurvedaReaderBot" target="_blank" rel="noopener">Бот</a>
     </div>
     <div id="footer-disclaimer">
-      <span class="footer-icon">⚕</span>
+      <span class="footer-icon menu-ico" data-icon="medical"></span>
       <span class="disclaimer-summary">Медицинский дисклеймер</span>
       <p>
         <strong>Информация носит исключительно ознакомительный характер</strong> и не является медицинской консультацией, диагнозом или предписанием к лечению. Аюрведа — традиционная система оздоровления, не являющаяся официальной медициной в Российской Федерации. Перед применением любых методов, трав и препаратов, упомянутых на сайте, обязательно проконсультируйтесь с квалифицированным врачом. Самолечение может быть опасно для здоровья. При наличии заболеваний, беременности или приёме лекарственных средств особая осторожность обязательна.
@@ -573,7 +573,7 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=71"></script>
+  <script type="module" src="app.js?v=72"></script>
 
   <!-- Яндекс.Метрика -->
   <script type="text/javascript">
