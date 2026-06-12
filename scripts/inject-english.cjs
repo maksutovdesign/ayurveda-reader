@@ -32,22 +32,12 @@ function splitSentences(text) {
   return text.split(/(?<=[.!?])\s+(?=[A-Z])/).filter(s => s.trim().length > 0);
 }
 
-const MAX_EN_CHARS = 600;
-
-function truncateToSentence(text, maxLen) {
-  if (text.length <= maxLen) return text;
-  const cut = text.slice(0, maxLen);
-  const lastDot = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('.)'));
-  if (lastDot > maxLen * 0.3) return cut.slice(0, lastDot + 1) + ' …';
-  return cut.trim() + ' …';
-}
-
 function distribute(sentences, n) {
   if (n <= 0) return [];
-  if (n === 1) return [truncateToSentence(sentences.join(' '), MAX_EN_CHARS)];
+  if (n === 1) return [sentences.join(' ')];
   if (sentences.length <= n) {
     const r = [];
-    for (let i = 0; i < n; i++) r.push(truncateToSentence(sentences[i] || '', MAX_EN_CHARS));
+    for (let i = 0; i < n; i++) r.push(sentences[i] || '');
     return r;
   }
   const totalLen = sentences.reduce((s, p) => s + p.length, 0);
@@ -58,12 +48,12 @@ function distribute(sentences, n) {
     current.push(sent);
     currentLen += sent.length;
     if (currentLen >= targetLen * (bucket + 1) && bucket < n - 1) {
-      result.push(truncateToSentence(current.join(' '), MAX_EN_CHARS));
+      result.push(current.join(' '));
       current = [];
       bucket++;
     }
   }
-  if (current.length) result.push(truncateToSentence(current.join(' '), MAX_EN_CHARS));
+  if (current.length) result.push(current.join(' '));
   while (result.length < n) result.push('');
   return result;
 }

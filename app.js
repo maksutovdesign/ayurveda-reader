@@ -459,7 +459,9 @@ function renderBlock(block) {
       ? `<div class="verse-translation" aria-label="Перевод">${renderText(sTrans)}</div>`
       : '';
     const engHtml = sEng
-      ? `<div class="verse-english" aria-label="English">${renderText(sEng)}</div>`
+      ? sEng.length > 500
+        ? `<div class="verse-english verse-english--long" aria-label="English"><div class="verse-english__preview">${renderText(sEng.slice(0, sEng.indexOf('. ', 400) + 1) || sEng.slice(0, 500))}&hellip;</div><div class="verse-english__full" hidden>${renderText(sEng)}</div><button class="verse-english__toggle" onclick="this.previousElementSibling.hidden=!this.previousElementSibling.hidden;this.previousElementSibling.previousElementSibling.hidden=!this.previousElementSibling.previousElementSibling.hidden;this.textContent=this.previousElementSibling.hidden?'Show more ▼':'Show less ▲'">Show more ▼</button></div>`
+        : `<div class="verse-english" aria-label="English">${renderText(sEng)}</div>`
       : '';
     div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}${engHtml}`;
     if (block.number != null) {
