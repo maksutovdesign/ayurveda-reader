@@ -3,7 +3,7 @@
  * Стратегия: Cache First для статики, Network First для данных
  */
 
-const CACHE = 'ayurveda-v38';
+const CACHE = 'ayurveda-v40';
 
 const STATIC = [
   '/',
@@ -16,7 +16,6 @@ const STATIC = [
   '/diseases.js',
   '/quiz.js',
   '/foodtable.js',
-  '/chatbot.js',
   // encyclopedia.js и remedies.js — ленивые, кешируются при первом открытии раздела
 ];
 
