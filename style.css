@@ -865,7 +865,6 @@ body[data-font-size="xlarge"] { --read-zoom: 1.32; }
 
 /* Английский перевод (вкладка EN) */
 .english-pane { display: none; }
-#chapter-view.show-english .block { display: none; }
 #chapter-view.show-english .chapter-lang-notice { display: none; }
 #chapter-view.show-english .english-pane { display: block; }
 .english-pane p {
@@ -2655,7 +2654,7 @@ body.dark .rem-note {
 /* Тач-таргеты ≥44px на мобильном (кнопки бокового меню) */
 @media (max-width: 640px) {
   .sidebar-footer-btn { padding: 11px 12px; }
-  #sidebar-footer:not(.collapsed) { padding-bottom: 90px; }
+  #sidebar-footer:not(.collapsed) { padding-bottom: calc(120px + env(safe-area-inset-bottom, 0px)); }
   .sidebar-footer-toggle-label { margin-left: auto; }
   .sidebar-footer-toggle-label::after { content: 'развернуть'; font-weight: 400; letter-spacing: normal; text-transform: none; font-size: 10px; }
   #sidebar-footer:not(.collapsed) .sidebar-footer-toggle-label::after { content: 'свернуть'; }
