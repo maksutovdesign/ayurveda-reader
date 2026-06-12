@@ -44,7 +44,7 @@
           { "@type": "Question", "name": "Как определить свою Пракрити (конституцию)?",
             "acceptedAnswer": { "@type": "Answer", "text": "На сайте ayurvedareader.ru есть тест Пракрити из 60 вопросов, основанный на классических критериях аюрведы. Тест определяет соотношение дош Вата, Питта и Капха в вашей конституции." } },
           { "@type": "Question", "name": "Сколько текстов доступно на сайте?",
-            "acceptedAnswer": { "@type": "Answer", "text": "На сайте представлены 7 классических аюрведических канонов: Аштанга-хридая, Чарака-самхита, Сушрута-самхита, Бхавапракаша, Астанга-санграха, Мадхава-нидана и Шарангадхара-самхита — всего 34 541 шлока (стих) в 718 главах." } }
+            "acceptedAnswer": { "@type": "Answer", "text": "На сайте представлены 7 классических аюрведических канонов: Аштанга-хридая, Чарака-самхита, Сушрута-самхита, Бхавапракаша, Астанга-санграха, Мадхава-нидана и Шарангадхара-самхита — всего 34 541 шлока (стих) в 732 главах." } }
         ] }
     ]
   }
@@ -69,13 +69,15 @@
 
   <!-- PWA -->
   <link rel="manifest" href="/manifest.json" />
+  <link rel="icon" href="/icon-192.png" type="image/png" />
+  <link rel="apple-touch-icon" href="/icon-192.png" />
   <meta name="theme-color" content="#7a5c2e" />
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=67" />
+  <link rel="stylesheet" href="style.css?v=71" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
@@ -539,8 +541,8 @@
   <div id="sr-announcer" class="sr-only" aria-live="polite" aria-atomic="true"></div>
 
   <footer id="site-footer">
-    <!-- ── AI Chat ── -->
-    <div id="chat-widget" class="chat-collapsed">
+    <!-- ── AI Chat (отключён) ──
+    <div id="chat-widget" class="chat-collapsed" hidden>
       <button id="chat-toggle" aria-label="AI-помощник">
         <span class="menu-ico" data-icon="chat"></span>
       </button>
@@ -558,6 +560,7 @@
         </div>
       </div>
     </div>
+    -->
     <div id="footer-links">
       <a href="https://t.me/AyurvedaReader" target="_blank" rel="noopener">Telegram-канал</a>
       <span class="footer-links-sep">·</span>
@@ -573,7 +576,7 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=73"></script>
+  <script type="module" src="app.js?v=77"></script>
 
   <!-- Яндекс.Метрика -->
   <script type="text/javascript">

@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=49';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=51';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -257,6 +257,7 @@ if ($footerToggle) {
   const toggle = () => {
     const collapsed = $sidebarFooter.classList.toggle('collapsed');
     $footerToggle.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+    if (!collapsed) $sidebarFooter.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
   $footerToggle.addEventListener('click', toggle);
   $footerToggle.addEventListener('keydown', e => {
@@ -956,8 +957,8 @@ function renderChapterBody(ch, idx) {
 
   ch.content.forEach(block => frag.appendChild(renderBlock(block)));
 
-  // Английский перевод (Бхишагратна) — отдельная панель, переключается кнопкой EN
-  if (hasEnglish) {
+  // Английский перевод (Бхишагратна) — отдельная панель (только если есть chapter-level массив)
+  if (Array.isArray(ch.english) && ch.english.length > 0) {
     const pane = document.createElement('div');
     pane.className = 'english-pane';
     const src = ch.englishOcr
