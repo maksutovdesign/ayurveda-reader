@@ -830,6 +830,9 @@ body[data-font-size="xlarge"] { --read-zoom: 1.32; }
   color: var(--text-muted);
   overflow-wrap: anywhere;
   word-break: break-all;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--border);
 }
 
 /* ── Sanskrit toggle buttons (देв / IAST) in chapter header ── */

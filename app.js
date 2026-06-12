@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=51';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=52';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -691,6 +691,7 @@ function buildNav() {
       const numLabel = ch.number > 0 ? `<span class="ch-num">${ch.number}.</span>` : '';
       const langBadge =
         ch.lang === 'en' ? `<span class="ch-lang-badge">ENG</span>` :
+        ch.hasEnglish ? `<span class="ch-lang-badge">EN</span>` :
         ch.lang === 'sa' ? `<span class="ch-lang-badge ch-lang-badge--sa">देव</span>` : '';
       btn.innerHTML = `${numLabel}${ch.title}${langBadge}`;
       if (isUnavailable) {

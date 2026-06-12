@@ -23,7 +23,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Идемпотентно: повторные вызовы ничего не делают.
  * Возвращает Promise<book>.
  */
-const DV = '?v=51'; // версия для cache-busting ленивых импортов
+const DV = '?v=52'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   ashtanga:         () => import('./data.js' + DV).then(m => m.BOOK_DATA.chapters),
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
@@ -75,8 +75,9 @@ export async function loadBookData(book) {
     if (d && d.content && d.content.length >= 3) {
       stub.content = d.content;
       if (d.lang) stub.lang = d.lang;
-      if (d.english) stub.english = d.english;   // англ. перевод главы (Сушрута, Бхишагратна)
-      if (d.englishOcr) stub.englishOcr = true;  // англ. получен из OCR-скана (возможны ошибки)
+      if (d.english) stub.english = d.english;
+      if (d.englishOcr) stub.englishOcr = true;
+      if (d.content.some(b => b.english)) stub.hasEnglish = true;
       delete stub.available;            // есть контент → кликабельна
     } else {
       stub.available = false;            // контента нет → заглушка
