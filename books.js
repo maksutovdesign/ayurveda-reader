@@ -23,7 +23,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Идемпотентно: повторные вызовы ничего не делают.
  * Возвращает Promise<book>.
  */
-const DV = '?v=52'; // версия для cache-busting ленивых импортов
+const DV = '?v=54'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   ashtanga:         () => import('./data.js' + DV).then(m => m.BOOK_DATA.chapters),
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),

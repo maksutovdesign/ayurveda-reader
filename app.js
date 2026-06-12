@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=52';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=54';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -1854,6 +1854,14 @@ const REFERENCES = [
     author: 'Wisdom Library · wisdomlib.org',
     year: 'Источник деванагари и транслитерации IAST',
     description: 'Санскритский текст (деванагари) и IAST для Сушрута-самхиты из открытых академических источников.',
+    category: '📌 Источник сайта',
+  },
+  {
+    id: 'src_sushruta_en',
+    title: 'Сушрута-самхита — английский перевод (Bhishagratna)',
+    author: 'Kaviraj Kunjalal Bhishagratna',
+    year: '1907–1916 · public domain',
+    description: 'Английский перевод Сушрута-самхиты в трёх томах: Vol. I — Сутрастхана (1907), Vol. II — Нидана, Шарира, Чикитса, Калпа (1911), Vol. III — Уттара Тантра (1916). Распознано из сканов archive.org (OCR) — возможны незначительные ошибки.',
     category: '📌 Источник сайта',
   },
   {
