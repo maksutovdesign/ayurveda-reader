@@ -845,6 +845,8 @@ function renderChapterBody(ch, idx) {
   const hasEnglish = (Array.isArray(ch.english) && ch.english.length > 0)
     || (ch.content || []).some(b => b.english);
   const view    = document.getElementById('chapter-view');
+  if (hasDeva) view.classList.add('show-devanagari'); else view.classList.remove('show-devanagari');
+  if (hasIast) view.classList.add('show-iast'); else view.classList.remove('show-iast');
   if (!hasEnglish) view.classList.remove('show-english');  // нет англ. в этой главе → не залипаем в режиме English
 
   // Переход к стиху по номеру — для длинных глав (Джвара 880, Вата 365 и т.п.)
