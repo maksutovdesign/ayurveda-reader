@@ -1,4 +1,4 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=54';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=55';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
 import { DISEASES, getDiseaseCategories } from './diseases.js?v=7';
 import { QUIZ } from './quiz.js';
@@ -150,7 +150,7 @@ function buildHomePage() {
       '34 500+ стихов',
       '208 статей энциклопедии',
       '113 домашних средств',
-      'оригинал · IAST · перевод',
+      'оригинал · транслитерация · перевод',
     ].map(t => `<span class="home-stat">${t}</span>`).join('');
   }
   grid.innerHTML = BOOKS.map((b, i) => `
@@ -192,7 +192,7 @@ function buildHomePage() {
   const vod = verseOfDay();
   if (vod) {
     const ru = vod.b.text || '';      // у Аштанга-хридаи text = русский перевод
-    const iast = vod.b.iast || '';
+    const iast = vod.b.iast_ru || vod.b.iast || ''; // предпочитаем русскую транслитерацию
     const main = ru || iast;          // на случай книги без перевода — IAST
     const card = document.createElement('div');
     card.className = 'home-vod';
@@ -442,7 +442,7 @@ function renderBlock(block) {
     if (_renderCtx) _renderCtx._vnum = String(block.number);
     // Применяем одобренные правки поверх статики
     const sText = ov('text', block.text);
-    const sIast = ov('iast', block.iast);
+    const sIast = ov('iast_ru', block.iast_ru) || ov('iast', block.iast); // русская транслитерация, IAST как fallback
     const sSkt  = ov('sanskrit', block.sanskrit);
     const sTrans = ov('translation', null); // добавленный экспертами русский перевод
     const verseHeader = block.number != null
@@ -452,7 +452,7 @@ function renderBlock(block) {
       ? `<div class="verse-devanagari" aria-label="Санскрит">${escapeHtml(sSkt)}</div>`
       : '';
     const iastHtml = sIast
-      ? `<div class="verse-iast" aria-label="IAST">${escapeHtml(sIast)}</div>`
+      ? `<div class="verse-iast" aria-label="Транслитерация">${escapeHtml(sIast)}</div>`
       : '';
     const sEng = block.english || '';
     const transHtml = sTrans
@@ -905,8 +905,8 @@ function renderChapterBody(ch, idx) {
     if (hasIast) {
       const btnIast = document.createElement('button');
       btnIast.className = 'skt-btn' + (view.classList.contains('show-iast') ? ' skt-btn--on' : '');
-      btnIast.textContent = 'IAST';
-      btnIast.title = 'Транслитерация IAST (латиница)';
+      btnIast.textContent = 'Транслит';
+      btnIast.title = 'Русская транслитерация санскрита';
       btnIast.onclick = () => {
         view.classList.toggle('show-iast');
         btnIast.classList.toggle('skt-btn--on');
