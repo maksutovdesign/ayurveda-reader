@@ -17467,7 +17467,7 @@ export const SUSHRUTA_DATA = [
       },
       {
         "type": "comment",
-        "text": "The use of purgatives is recommended in the Pittaja type ; soothing or pacifying (Samsamana) measures in the Raktaja type ; and S'ringavera and Knlattha in the type caused by the action of the deranged Kapha. All the preceding remedies should be combinedly employed when the concerted action of all the Doshas would be detected. As an alternative, milk boiled with the proper drugs may be administered in every case. 15. Bhallataka-yogaf :— Now we shall describe the mode of using Bhallaitaka in cases of haemorrhoids.\nt A physician should apply this medicine after a due consideration and accordipg to the physical pondition of the patient, A ripe and fresh Bhallataka should be cut into two, three or four pieces and a decoction should be made of them in the usual way.",
+        "text": "The use of purgatives is recommended in the Pittaja type; soothing or pacifying (Samsamana) measures in the Raktaja type; and S'ringavera and Knlattha in the type caused by the action of the deranged Kapha. All the preceding remedies should be combinedly employed when the concerted action of all the Doshas would be detected. As an alternative, milk boiled with the proper drugs may be administered in every case. 15. Bhallataka-yogaf :— Now we shall describe the mode of using Bhallaitaka in cases of haemorrhoids.\nt A physician should apply this medicine after a due consideration and accordipg to the physical pondition of the patient, A ripe and fresh Bhallataka should be cut into two, three or four pieces and a decoction should be made of them in the usual way.",
         "author": "Бхишагратна"
       },
       {
@@ -18567,7 +18567,7 @@ export const SUSHRUTA_DATA = [
       },
       {
         "type": "comment",
-        "text": "The whole stanza seems to be of faulty construction. Dallana, in his commentary, says that some read the fourth line as \" % f% ?Tf rT rfTTT t if ll\" This seems to be a better reading. It removes the dittkulty in the construction, but it omits also the word \"KilcCsa\" from the text. This, however, is also an improvement, inasmuch as this preparation seems to be a remedy for Svitra (which is only a variety of Kilasa) like the preceding and the following ones ; and it seems unlikely that Sus'ruta would introduce a remedy for Kilasa in general in the special treatment of S'vitra.",
+        "text": "The whole stanza seems to be of faulty construction. Dallana, in his commentary, says that some read the fourth line as \" % f% ?Tf rT rfTTT t if ll\" This seems to be a better reading. It removes the dittkulty in the construction, but it omits also the word \"KilcCsa\" from the text. This, however, is also an improvement, inasmuch as this preparation seems to be a remedy for Svitra (which is only a variety of Kilasa) like the preceding and the following ones; and it seems unlikely that Sus'ruta would introduce a remedy for Kilasa in general in the special treatment of S'vitra.",
         "author": "Бхишагратна"
       },
       {
