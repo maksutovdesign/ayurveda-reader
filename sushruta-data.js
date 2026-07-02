@@ -3,7 +3,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 1,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -270,7 +269,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 2,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -348,7 +346,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 3,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -412,7 +409,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 4,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -476,7 +472,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 5,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -659,7 +654,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 6,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -821,7 +815,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 7,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -948,7 +941,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 8,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1068,7 +1060,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 9,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1118,7 +1109,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 10,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1196,7 +1186,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 11,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1372,7 +1361,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 12,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1506,7 +1494,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 13,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1668,7 +1655,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 14,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -1879,7 +1865,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 15,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2090,7 +2075,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 16,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2210,7 +2194,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 17,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2288,7 +2271,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 18,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2457,7 +2439,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 19,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2584,7 +2565,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 20,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2704,7 +2684,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 21,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2894,7 +2873,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 22,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -2993,7 +2971,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 23,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3071,7 +3048,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 24,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3170,7 +3146,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 25,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3199,7 +3174,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 26,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3312,7 +3286,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 27,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3488,7 +3461,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 28,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3517,7 +3489,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 29,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3546,7 +3517,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 30,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3575,7 +3545,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 31,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3604,7 +3573,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 32,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3654,7 +3622,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 33,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3683,7 +3650,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 34,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3712,7 +3678,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 35,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3881,7 +3846,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 36,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3952,7 +3916,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 37,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -3981,7 +3944,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 38,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4297,7 +4259,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 39,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4389,7 +4350,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 40,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4467,7 +4427,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 41,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4538,7 +4497,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 42,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4637,7 +4595,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 43,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4722,7 +4679,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 44,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -4751,7 +4707,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 45,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -5137,7 +5092,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Сутрастхана",
     "number": 46,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -5530,7 +5484,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 1,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -6182,7 +6135,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 2,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -6379,7 +6331,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 3,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -6590,7 +6541,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 4,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -6689,7 +6639,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 5,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -6942,7 +6891,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 6,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -7146,7 +7094,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 7,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -7336,7 +7283,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 8,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -7441,7 +7387,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 9,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -7722,7 +7667,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 10,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -7926,7 +7870,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 11,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -8144,7 +8087,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 12,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -8274,7 +8216,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 13,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -8716,7 +8657,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 14,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -8857,7 +8797,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 15,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -8991,7 +8930,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Нидана стхана",
     "number": 16,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -9468,7 +9406,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 1,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -9643,7 +9580,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 2,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -10064,7 +10000,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 3,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -10331,7 +10266,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 4,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -11039,7 +10973,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 5,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -11411,7 +11344,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 6,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -11727,7 +11659,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 7,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -11903,7 +11834,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 8,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -12058,7 +11988,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 9,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -12164,7 +12093,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Шарира стхана",
     "number": 10,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -12669,7 +12597,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 1,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -13660,7 +13587,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 2,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -14342,7 +14268,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 3,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -14825,7 +14750,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 4,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -15061,7 +14985,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 5,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -15387,7 +15310,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 6,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -15552,7 +15474,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 7,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -15831,7 +15752,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 8,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -16224,7 +16144,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 9,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -16741,7 +16660,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 10,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -16868,7 +16786,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 11,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -16972,7 +16889,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 12,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -17121,7 +17037,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 13,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -17375,7 +17290,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 14,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -17523,7 +17437,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 15,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -17863,7 +17776,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 16,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -18171,7 +18083,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 17,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -18499,7 +18410,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 18,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -18877,7 +18787,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 19,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -19369,7 +19278,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 20,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -19819,7 +19727,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 21,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -19956,7 +19863,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 22,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -20530,7 +20436,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 23,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -20636,7 +20541,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 24,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -21552,7 +21456,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 25,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -21864,7 +21767,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 26,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -22150,7 +22052,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 27,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -22277,7 +22178,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 28,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -22488,7 +22388,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 29,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -22727,7 +22626,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 30,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -23018,7 +22916,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 31,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -23426,7 +23323,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 32,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -23644,7 +23540,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 33,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -23982,7 +23877,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 34,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -24151,7 +24045,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 35,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -24397,7 +24290,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 36,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -24769,7 +24661,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 37,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -25663,7 +25554,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 38,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -26478,7 +26368,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 39,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -26762,7 +26651,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Чикитса стхана",
     "number": 40,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27268,7 +27156,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 1,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27357,7 +27244,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 2,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27400,7 +27286,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 3,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27449,7 +27334,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 4,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27544,7 +27428,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 5,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27697,7 +27580,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 6,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27757,7 +27639,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 7,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27827,7 +27708,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Калпастхана",
     "number": 8,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -27981,7 +27861,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 1,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28094,7 +27973,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 2,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28135,7 +28013,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 3,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28164,7 +28041,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 4,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28205,7 +28081,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 5,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28246,7 +28121,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 6,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28359,7 +28233,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 7,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28412,7 +28285,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 8,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28459,7 +28331,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 9,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28500,7 +28371,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 10,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28571,7 +28441,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 11,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28636,7 +28505,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 12,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28677,7 +28545,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 13,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28718,7 +28585,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 14,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28765,7 +28631,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 15,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28818,7 +28683,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 16,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28853,7 +28717,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 17,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -28900,7 +28763,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 18,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29109,7 +28971,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 19,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29180,7 +29041,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 20,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29209,7 +29069,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 21,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29268,7 +29127,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 22,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29327,7 +29185,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 23,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29356,7 +29213,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 24,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29457,7 +29313,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 26,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29486,7 +29341,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 27,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29563,7 +29417,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 28,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29616,7 +29469,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 29,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29645,7 +29497,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 30,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29674,7 +29525,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 31,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29703,7 +29553,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 32,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29750,7 +29599,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 33,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29779,7 +29627,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 34,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29808,7 +29655,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 35,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29837,7 +29683,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 36,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29872,7 +29717,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 37,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29907,7 +29751,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 38,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -29966,7 +29809,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 39,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30097,7 +29939,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 40,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30144,7 +29985,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 41,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30203,7 +30043,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 42,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30232,7 +30071,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 43,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30297,7 +30135,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 44,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30332,7 +30169,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 45,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30379,7 +30215,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 46,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30450,7 +30285,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 47,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30551,7 +30385,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 48,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30616,7 +30449,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 49,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30651,7 +30483,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 50,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30698,7 +30529,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 51,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30733,7 +30563,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 52,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30774,7 +30603,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 53,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30803,7 +30631,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 54,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30898,7 +30725,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 55,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -30987,7 +30813,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 56,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31082,7 +30907,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 57,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31111,7 +30935,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 59,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31182,7 +31005,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 60,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31247,7 +31069,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 61,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31306,7 +31127,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 62,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31401,7 +31221,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 63,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31472,7 +31291,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 64,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31603,7 +31421,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 65,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
@@ -31680,7 +31497,6 @@ export const SUSHRUTA_DATA = [
   {
     "sthana": "Уттара тантра",
     "number": 66,
-    "lang": "sa",
     "content": [
       {
         "type": "heading",
