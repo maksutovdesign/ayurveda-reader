@@ -698,6 +698,20 @@ body.dark  .icon-sun  { display: none; }
 }
 .font-size-btn:hover { border-color: var(--accent); color: var(--accent); }
 
+.chapter-next-btn {
+  font-size: 13px;
+  font-weight: 600;
+  padding: 3px 12px;
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 16px;
+  color: #fff;
+  cursor: pointer;
+  transition: all var(--transition);
+  min-width: 36px;
+}
+.chapter-next-btn:hover { opacity: .85; }
+
 /* Font sizes applied to body */
 body[data-font-size="small"]  { font-size: 14px; }
 body[data-font-size="normal"] { font-size: 16px; }
@@ -2125,6 +2139,9 @@ body.dark .rem-note {
   margin-bottom: 4px;
 }
 .ft-cat-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
   padding: 5px 12px;
   border-radius: 20px;
   border: 1px solid var(--border);
@@ -2602,17 +2619,21 @@ body.dark .rem-note {
 .glossary-card .card-share:hover, .glossary-card:hover .card-share { opacity: 1; }
 
 /* Переход к стиху по номеру (длинные главы) */
-.verse-jump { display: inline-flex; gap: 4px; align-items: center; }
+.verse-jump { display: inline-flex; align-items: center; position: relative; }
 .verse-jump input {
-  width: 70px; padding: 4px 9px; font-size: 12px; font-family: inherit;
+  width: 90px; padding: 4px 28px 4px 9px; font-size: 12px; font-family: inherit;
   border: 1px solid var(--border); border-radius: 14px; background: var(--search-bg, transparent); color: var(--text); outline: none;
+  -moz-appearance: textfield;
 }
+.verse-jump input::-webkit-inner-spin-button,
+.verse-jump input::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
 .verse-jump input:focus { border-color: var(--accent); }
 .verse-jump button {
-  padding: 4px 10px; border: 1px solid var(--border); border-radius: 14px;
-  background: transparent; color: var(--text-muted); cursor: pointer; font-size: 13px;
+  position: absolute; right: 2px; top: 50%; transform: translateY(-50%);
+  padding: 2px 6px; border: none; border-radius: 10px;
+  background: transparent; color: var(--text-muted); cursor: pointer; font-size: 11px; line-height: 1;
 }
-.verse-jump button:hover { border-color: var(--accent); color: var(--accent); }
+.verse-jump button:hover { color: var(--accent); }
 
 /* Кнопка «↑ наверх» (длинные главы) */
 #back-to-top {
