@@ -335,11 +335,13 @@ document.addEventListener('mouseleave', hideTooltip);
 
 // ── Text rendering ─────────────────────────────────
 function renderText(text) {
-  // Highlight glossary terms
-  return text.replace(TERM_REGEX, match => {
+  // Экранируем HTML до вставки разметки, чтобы литеральные < > & в переводах
+  // не ломали вёрстку (и не открывали XSS при компрометации данных).
+  let t = escapeHtml(text).replace(/ [#*] /g, '<br>• ');
+  return t.replace(TERM_REGEX, match => {
     const entry = lookupTerm(match);
     if (!entry) return match;
-    return `<span class="skt" data-term="${entry.term}">${match}</span>`;
+    return `<span class="skt" data-term="${escapeHtml(entry.term)}">${match}</span>`;
   });
 }
 
@@ -853,7 +855,7 @@ function renderChapterBody(ch, idx) {
   const verseCount = (ch.content || []).filter(b => b.type === 'verse' && b.number != null).length;
   const controls = document.getElementById('chapter-controls');
   let $jump = document.getElementById('verse-jump');
-  if (controls && verseCount > 20) {
+  if (controls && verseCount > 0) {
     if (!$jump) {
       $jump = document.createElement('form');
       $jump.id = 'verse-jump'; $jump.className = 'verse-jump';
@@ -875,6 +877,30 @@ function renderChapterBody(ch, idx) {
     $jump.querySelector('input').setAttribute('max', String(verseCount));
   } else if ($jump) {
     $jump.hidden = true;
+  }
+
+  // ── Кнопка → следующая глава (верхняя панель) ──────────
+  if (controls) {
+    let $nextBtn = document.getElementById('chapter-next-btn');
+    const book = currentBook();
+    let nextIdx = null;
+    for (let i = idx + 1; i < book.chapters.length; i++) {
+      if (book.chapters[i].available !== false) { nextIdx = i; break; }
+    }
+    if (nextIdx !== null) {
+      if (!$nextBtn) {
+        $nextBtn = document.createElement('button');
+        $nextBtn.id = 'chapter-next-btn';
+        $nextBtn.className = 'chapter-next-btn';
+        $nextBtn.title = 'Следующая глава';
+        $nextBtn.textContent = '→';
+        controls.appendChild($nextBtn);
+      }
+      $nextBtn.hidden = false;
+      $nextBtn.onclick = () => loadChapter(nextIdx);
+    } else if ($nextBtn) {
+      $nextBtn.hidden = true;
+    }
   }
 
   // ── Sanskrit controls: три отдельные кнопки देव / IAST / ОФ ─────────
@@ -2860,9 +2886,10 @@ function runSearch(query) {
     const card = document.createElement('div');
     card.className = 'search-result';
 
+    // Обе ветки возвращают уже экранированный HTML (highlightSnippet экранирует сам).
     const snippet = block.text.length > 280
       ? highlightSnippet(block.text, q, 280)
-      : block.text;
+      : escapeHtml(block.text);
 
     const typeLabel = block.type === 'verse'
       ? (block.number != null ? `Стих ${block.number}` : 'Стих')
@@ -2875,7 +2902,7 @@ function runSearch(query) {
 
     card.innerHTML = `
       <div class="result-meta">${bookLabel}${escapeHtml(ch.sthana)} · Гл. ${ch.number || '—'}: ${escapeHtml(ch.title)} · ${typeLabel}</div>
-      <div class="result-snippet">${snippet.replace(re, m => `<mark>${escapeHtml(m)}</mark>`)}</div>
+      <div class="result-snippet">${snippet.replace(re, m => `<mark>${m}</mark>`)}</div>
     `;
     card.addEventListener('click', () => {
       $searchInput.value = '';
@@ -2899,7 +2926,12 @@ function highlightSnippet(text, query, maxLen) {
 }
 
 function escapeHtml(str) {
-  return String(str ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return String(str ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
 
 function escapeRegex(str) {

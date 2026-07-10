@@ -7,6 +7,11 @@
 const BOT_USERNAME = 'AyurvedaReaderBot'; // без @ — для Telegram Login Widget
 const LS_TOKEN = 'ayurveda_session';
 
+// API-функции живут на Vercel (api/*.js). Основной сайт — статика на Beget,
+// поэтому на проде запросы идут на абсолютный Vercel-URL, а локально — относительно.
+const API_BASE = (location.hostname === 'localhost' || location.hostname === '127.0.0.1')
+  ? '' : 'https://ayurveda-reader.vercel.app';
+
 let _user = null;     // { tgId, name, username, role, photo }
 let _token = null;
 let _overridesCache = {}; // bookId -> { "sthana|chapter|verse|field": value }
@@ -37,7 +42,7 @@ export function isAdmin() { return _user?.role === 'admin'; }
 // Глобальный колбэк, который вызывает виджет Telegram
 window.onTelegramAuth = async function (tgUser) {
   try {
-    const res = await fetch('/api/auth-telegram', {
+    const res = await fetch(API_BASE + '/api/auth-telegram', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(tgUser),
@@ -91,7 +96,7 @@ async function maybeShowDevLogin(box) {
 
 async function devLogin() {
   try {
-    const res = await fetch('/api/auth-telegram', {
+    const res = await fetch(API_BASE + '/api/auth-telegram', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ mode: 'dev' }),
     });
@@ -125,7 +130,7 @@ async function devLogin() {
 export async function loadOverrides(bookId) {
   if (_overridesCache[bookId]) return _overridesCache[bookId];
   try {
-    const res = await fetch(`/api/overrides?book=${encodeURIComponent(bookId)}`);
+    const res = await fetch(`${API_BASE}/api/overrides?book=${encodeURIComponent(bookId)}`);
     const data = await res.json();
     _overridesCache[bookId] = data.overrides || {};
   } catch (_) {
@@ -146,7 +151,7 @@ export function clearOverridesCache(bookId) {
 export async function submitProposal(ctx) {
   if (!isLoggedIn()) { showToast('Войдите через Telegram, чтобы предложить правку', true); return false; }
   try {
-    const res = await fetch('/api/proposals', {
+    const res = await fetch(API_BASE + '/api/proposals', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${_token}` },
       body: JSON.stringify(ctx),
@@ -311,7 +316,7 @@ function renderArticleForm(box) {
 export async function submitArticle(collection, payload) {
   if (!isLoggedIn()) { showToast('Войдите, чтобы предложить статью', true); return false; }
   try {
-    const res = await fetch('/api/proposals', {
+    const res = await fetch(API_BASE + '/api/proposals', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${_token}` },
       body: JSON.stringify({ kind: 'article', collection, payload }),
@@ -331,7 +336,7 @@ const _articlesCache = {};
 export async function loadArticles(collection) {
   if (_articlesCache[collection]) return _articlesCache[collection];
   try {
-    const res = await fetch(`/api/overrides?collection=${encodeURIComponent(collection)}`);
+    const res = await fetch(`${API_BASE}/api/overrides?collection=${encodeURIComponent(collection)}`);
     const data = await res.json();
     _articlesCache[collection] = Array.isArray(data.articles) ? data.articles : [];
   } catch (_) {
@@ -391,7 +396,7 @@ async function renderAdminPanel(el) {
   }
   el.innerHTML = '<h3>Модерация правок</h3><p class="cabinet-note">Загрузка…</p>';
   try {
-    const res = await fetch('/api/proposals?status=pending', { headers: { 'Authorization': `Bearer ${_token}` } });
+    const res = await fetch(API_BASE + '/api/proposals?status=pending', { headers: { 'Authorization': `Bearer ${_token}` } });
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || 'Ошибка');
     const ps = data.proposals || [];
@@ -432,7 +437,7 @@ async function renderAdminPanel(el) {
 
 async function review(id, decision, card) {
   try {
-    const res = await fetch('/api/proposals?action=review', {
+    const res = await fetch(API_BASE + '/api/proposals?action=review', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${_token}` },
       body: JSON.stringify({ id, decision }),
@@ -480,7 +485,7 @@ export async function loadEntitlements(force) {
   if (_entLoaded && !force) return;
   try {
     const headers = _token ? { 'Authorization': `Bearer ${_token}` } : {};
-    const res = await fetch('/api/entitlements', { headers });
+    const res = await fetch(API_BASE + '/api/entitlements', { headers });
     const d = await res.json();
     _ent = d.entitlements || { full: false, books: [] };
     _products = d.products || {};
@@ -516,7 +521,7 @@ export function hasBookAccess(bookId) {
 export async function buyProduct(productKey) {
   if (!isLoggedIn()) { showToast('Войдите через Telegram, чтобы оформить покупку', true); return; }
   try {
-    const res = await fetch('/api/pay-create', {
+    const res = await fetch(API_BASE + '/api/pay-create', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${_token}` },
       body: JSON.stringify({ productKey }),
@@ -534,7 +539,7 @@ export async function cancelSubscription() {
   if (!isLoggedIn()) return;
   if (!confirm('Отменить автопродление? Доступ сохранится до конца оплаченного периода.')) return;
   try {
-    const res = await fetch('/api/sub-cancel', {
+    const res = await fetch(API_BASE + '/api/sub-cancel', {
       method: 'POST', headers: { 'Authorization': `Bearer ${_token}` },
     });
     const d = await res.json();

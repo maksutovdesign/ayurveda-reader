@@ -23,7 +23,7 @@
       { "@type": "WebSite", "@id": "https://ayurvedareader.ru/#website",
         "url": "https://ayurvedareader.ru/",
         "name": "Классические самхиты Аюрведы",
-        "alternateName": "Aurveda Reader",
+        "alternateName": "Ayurveda Reader",
         "description": "Крупнейшая бесплатная русскоязычная онлайн-библиотека аюрведических первоисточников: 34 541 шлока из 7 классических самхит.",
         "inLanguage": "ru" },
       { "@type": "ItemList", "name": "Классические самхиты Аюрведы", "numberOfItems": 7,
@@ -59,7 +59,7 @@
   <meta property="og:image"       content="https://ayurvedareader.ru/og-image.png" />
   <meta property="og:image:width"  content="1200" />
   <meta property="og:image:height" content="630" />
-  <meta property="og:site_name"   content="Aurveda Reader" />
+  <meta property="og:site_name"   content="Ayurveda Reader" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card"        content="summary_large_image" />
@@ -77,7 +77,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=75" />
+  <link rel="stylesheet" href="style.css?v=76" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
@@ -147,7 +147,7 @@
           <span class="menu-ico" data-icon="user"></span> Кабинет эксперта
         </button>
         <button id="friends-btn" class="sidebar-footer-btn">
-          <span class="menu-ico" data-icon="friends"></span> Наши друзья
+          <span class="menu-ico" data-icon="friends"></span> Благодарности
         </button>
         <button id="donate-btn" class="sidebar-footer-btn sidebar-footer-btn--donate">
           <span class="menu-ico" data-icon="heart"></span> Автор и донат
@@ -312,7 +312,7 @@
       <!-- ── Friends ── -->
       <div id="friends-view" hidden>
         <div class="friends-inner">
-          <h2 class="friends-title">Наши друзья</h2>
+          <h2 class="friends-title">Благодарности</h2>
           <div class="friends-directory">
             <div class="friends-letter-group"><h3 class="friends-letter">А</h3></div>
             <div class="friends-letter-group"><h3 class="friends-letter">Б</h3></div>
@@ -323,7 +323,10 @@
             <div class="friends-letter-group"><h3 class="friends-letter">Ж</h3></div>
             <div class="friends-letter-group"><h3 class="friends-letter">З</h3></div>
             <div class="friends-letter-group"><h3 class="friends-letter">И</h3></div>
-            <div class="friends-letter-group"><h3 class="friends-letter">К</h3></div>
+            <div class="friends-letter-group">
+              <h3 class="friends-letter">К</h3>
+              <a href="https://govindas.pro" target="_blank" rel="noopener" class="friends-link">Кафе Говиндас Казань</a>
+            </div>
             <div class="friends-letter-group"><h3 class="friends-letter">Л</h3></div>
             <div class="friends-letter-group">
               <h3 class="friends-letter">М</h3>
@@ -576,7 +579,35 @@
     </div>
   </footer>
 
-  <script type="module" src="app.js?v=81"></script>
+  <noscript>
+    <div style="max-width:720px;margin:0 auto;padding:24px 16px;font-family:sans-serif;line-height:1.7;color:#3a3a3a">
+      <h1>Классические самхиты Аюрведы</h1>
+      <p>Крупнейшая бесплатная онлайн-библиотека аюрведических первоисточников на русском языке: 34 541 шлока из 7 классических самхит.</p>
+      <h2>Книги</h2>
+      <ul>
+        <li>Аштанга-хридая-самхита (Вагбхата) — 6 стхан, 56 глав</li>
+        <li>Чарака-самхита (Чарака, Дридхабала) — 8 стхан, 120 глав</li>
+        <li>Сушрута-самхита (Сушрута) — 6 стхан, 186 глав</li>
+        <li>Мадхава-нидана (Мадхавакара) — 69 глав</li>
+        <li>Шарангадхара-самхита (Шарангадхара) — 3 стханы, 32 главы</li>
+        <li>Бхавапракаша (Бхавамишра) — 3 стханы, 107 глав</li>
+        <li>Аштанга-санграха (Вагбхата) — 6 стхан, 162 главы</li>
+      </ul>
+      <h2>Разделы</h2>
+      <ul>
+        <li>Глоссарий санскритских терминов (382 термина)</li>
+        <li>Глоссарий болезней</li>
+        <li>Домашние средства Аюрведы (113 средств)</li>
+        <li>Энциклопедия аюрведы (208 статей)</li>
+        <li>Тест конституции (Пракрити)</li>
+        <li>Расписание питания по дошам</li>
+      </ul>
+      <p>Для полноценной работы сайта необходим JavaScript.</p>
+    </div>
+  </noscript>
+
+  <!-- ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с books.js (DV) и sw.js (CACHE) -->
+  <script type="module" src="app.js?v=83"></script>
 
   <!-- Яндекс.Метрика -->
   <script type="text/javascript">

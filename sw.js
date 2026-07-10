@@ -3,7 +3,11 @@
  * Стратегия: Cache First для статики, Network First для данных
  */
 
-const CACHE = 'ayurveda-v57';
+// ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА. Бампай СИНХРОННО во всех трёх местах:
+//   1) index.html — <script src="app.js?v=NN">
+//   2) books.js   — const DV = '?v=NN'
+//   3) sw.js      — const CACHE = 'ayurveda-vNN'  (здесь)
+const CACHE = 'ayurveda-v83';
 
 const STATIC = [
   '/',
