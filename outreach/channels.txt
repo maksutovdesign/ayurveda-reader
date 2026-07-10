@@ -1,0 +1,60 @@
+# Список каналов для рассылки (по одному на строку)
+# Формат: @username или https://t.me/username
+# Строки с # — комментарии, пропускаются
+#
+# === Аюрведа ===
+@krushanova
+@Veda_ayurveda
+@elena_jain
+@ayurveda_school
+@Vishvarupa
+@vedicdoctor
+@ayurvedaua
+@Ayurveda_Yoga_Meditation
+#
+# === Йога (крупные) ===
+@yogawork
+@lubayoga
+@Joga_dlya_nachinayushchih
+@yogaclubnatali
+@YogaPractikaRu
+@yoga_for_meditation
+@YogaTg
+@Yoga4Soul
+@yogasvadimom
+@yoga_in_russia
+@anfisa_yoga
+@yogaEveryDay
+@naked_yoga
+@yoginroll
+@tantra_veda
+@nathayoga
+@satvarsha
+@yoga_tantra_loseva
+#
+# === Медитация и осознанность ===
+@meditation_lessons_bnk
+@livanda_meditation
+@meditationram
+@chakry_energy
+#
+# === Ведическая культура ===
+@duhovnayazhizn
+@the_Buddha
+@abuddha
+@shrila_prabhupada
+@ShaktiShivaYoga
+@daiva_sanskrit
+#
+# === Йога-тренеры ===
+@yogasecrets
+@yogamira
+@yoga_pohudey
+@yoga_fitnes
+@yoga_tg
+#
+# === Восточная медицина ===
+@osteopractika_school
+#
+# === Астрология ===
+# (добавьте по необходимости)
