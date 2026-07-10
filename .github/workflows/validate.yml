@@ -1,0 +1,42 @@
+name: Validate data files
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # нужно для сравнения с предыдущим коммитом
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate all data files
+        run: node scripts/validate.mjs
+
+      - name: Check if data files changed
+        id: data_changed
+        if: github.event_name == 'push'
+        run: |
+          CHANGED=$(git diff HEAD~1 HEAD --name-only \
+            | grep -E "^(data|encyclopedia|remedies|diseases|glossary|foodtable|quiz)\.js$" \
+            | wc -l | tr -d ' ')
+          echo "count=$CHANGED" >> $GITHUB_OUTPUT
+          echo "Changed data files: $CHANGED"
+
+      - name: Post new content to Telegram channel
+        if: |
+          github.event_name == 'push' &&
+          steps.data_changed.outputs.count != '0' &&
+          secrets.DAILY_POST_KEY != ''
+        run: |
+          echo "📢 Данные обновились — публикую пост в канал..."
+          RESPONSE=$(curl -s "https://ayurveda-reader.vercel.app/api/daily-post?key=${{ secrets.DAILY_POST_KEY }}")
+          echo "Response: $RESPONSE"

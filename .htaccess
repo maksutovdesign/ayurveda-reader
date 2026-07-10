@@ -1,0 +1,20 @@
+# Redirect www to non-www
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.ayurvedareader\.ru$ [NC]
+RewriteRule ^(.*)$ https://ayurvedareader.ru/$1 [R=301,L]
+
+# Block access to sensitive files
+<FilesMatch "(server\.js|package\.json|package-lock\.json|CHANGELOG\.md|README\.md|\.env|\.git)">
+  Require all denied
+</FilesMatch>
+
+# Block ТЗ and other internal docs
+<FilesMatch "\.(pdf)$">
+  Require all denied
+</FilesMatch>
+
+# Block bot directory internals
+RewriteRule ^bot/(README\.md|package\.json|\.env) - [F,L]
+
+# Block node_modules
+RewriteRule ^node_modules/ - [F,L]
