@@ -3,11 +3,13 @@
  * Стратегия: Cache First для статики, Network First для данных
  */
 
-// ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА. Бампай СИНХРОННО во всех трёх местах:
+// ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА. Бампай СИНХРОННО во всех местах:
 //   1) index.html — <script src="app.js?v=NN">
-//   2) books.js   — const DV = '?v=NN'
-//   3) sw.js      — const CACHE = 'ayurveda-vNN'  (здесь)
-const CACHE = 'ayurveda-v83';
+//   2) app.js     — все import '...js?v=NN' в шапке (books/diseases/cabinet/icons/
+//                   encyclopedia/remedies) — иначе Beget отдаёт старый файл из URL-кэша!
+//   3) books.js   — const DV = '?v=NN'
+//   4) sw.js      — const CACHE = 'ayurveda-vNN'  (здесь)
+const CACHE = 'ayurveda-v85';
 
 const STATIC = [
   '/',
