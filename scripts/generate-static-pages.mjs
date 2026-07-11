@@ -56,7 +56,9 @@ function renderContent(content) {
         let html = `<div class="verse" id="v${escapeHtml(String(item.number))}">`;
         html += `<div class="verse-num">${escapeHtml(String(item.number))}</div>`;
         if (item.sanskrit) html += `<div class="verse-sa" lang="sa">${escapeHtml(item.sanskrit)}</div>`;
-        if (item.iast) html += `<div class="verse-iast">${escapeHtml(item.iast)}</div>`;
+        // Транслитерация: кириллица (iast_ru) как в читателе, латиница IAST — запасной вариант
+        const translit = item.iast_ru || item.iast;
+        if (translit) html += `<div class="verse-iast">${escapeHtml(translit)}</div>`;
         if (item.text) html += `<div class="verse-ru">${escapeHtml(item.text)}</div>`;
         html += '</div>';
         return html;
@@ -157,7 +159,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid #e8e0d0;font-size:.
 ${subtitle ? `<p class="subtitle">${escapeHtml(subtitle.slice(3))}</p>` : ''}
 <p class="meta">${escapeHtml(book.title)} · ${escapeHtml(chapter.sthana)} · Глава ${chapter.number}${verseCount ? ' · ' + verseCount + ' стихов' : ''}</p>
 
-<a class="open-reader" href="/#ch${chapterIndex}">Открыть в интерактивном читателе &rarr;</a>
+<a class="open-reader" href="/#${book.id}/c${chapterIndex}">Открыть в интерактивном читателе &rarr;</a>
 
 ${renderContent(content)}
 
@@ -237,7 +239,7 @@ ${listHtml}
 // ── Main ──
 const chaptersDir = path.join(ROOT, 'chapters');
 const sitemapEntries = [
-  { loc: 'https://ayurvedareader.ru/', lastmod: '2026-07-04', priority: '1.0', freq: 'weekly' },
+  { loc: 'https://ayurvedareader.ru/', lastmod: '2026-07-11', priority: '1.0', freq: 'weekly' },
   { loc: 'https://ayurvedareader.ru/privacy.html', lastmod: '2026-06-07', priority: '0.2', freq: 'yearly' },
 ];
 
@@ -273,7 +275,7 @@ for (const book of BOOKS) {
 
     sitemapEntries.push({
       loc: `https://ayurvedareader.ru/chapters/${book.id}/${slug}`,
-      lastmod: '2026-07-04',
+      lastmod: '2026-07-11',
       priority: '0.6',
       freq: 'monthly',
     });
@@ -285,7 +287,7 @@ for (const book of BOOKS) {
   fs.writeFileSync(path.join(bookDir, 'index.html'), indexHtml, 'utf8');
   sitemapEntries.push({
     loc: `https://ayurvedareader.ru/chapters/${book.id}/`,
-    lastmod: '2026-07-04',
+    lastmod: '2026-07-11',
     priority: '0.8',
     freq: 'monthly',
   });
@@ -331,7 +333,7 @@ ${booksListHtml}
 </body>
 </html>`;
 fs.writeFileSync(path.join(chaptersDir, 'index.html'), mainIndex, 'utf8');
-sitemapEntries.push({ loc: 'https://ayurvedareader.ru/chapters/', lastmod: '2026-07-04', priority: '0.9', freq: 'monthly' });
+sitemapEntries.push({ loc: 'https://ayurvedareader.ru/chapters/', lastmod: '2026-07-11', priority: '0.9', freq: 'monthly' });
 
 // Generate sitemap
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
