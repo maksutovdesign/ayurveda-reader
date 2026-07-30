@@ -2323,6 +2323,7 @@ body.dark .rem-note {
   line-height: 1;
 }
 .donate-logo--sber { background: #21a038; color: #fff; }
+.donate-logo--tbank { background: #ffdd2d; color: #000; }
 .donate-logo--btc  { background: #f7931a; color: #fff; }
 .donate-logo--usdt  { background: #26a17b; color: #fff; }
 .donate-logo--eth   { background: #627eea; color: #fff; }
