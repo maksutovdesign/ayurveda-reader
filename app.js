@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=87';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=88';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=87';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=88';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=87';
-import { icon } from './icons.js?v=87';
+import * as Cabinet from './cabinet.js?v=88';
+import { icon } from './icons.js?v=88';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=87');
+  const m = await import('./encyclopedia.js?v=88');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=87');
+  const m = await import('./remedies.js?v=88');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -337,7 +337,7 @@ document.addEventListener('mouseleave', hideTooltip);
 function renderText(text) {
   // Экранируем HTML до вставки разметки, чтобы литеральные < > & в переводах
   // не ломали вёрстку (и не открывали XSS при компрометации данных).
-  let t = escapeHtml(text).replace(/ [#*] /g, '<br>• ');
+  let t = escapeHtml(text).replace(/ [#*] /g, '<br>• ').replace(/\n/g, '<br>');
   return t.replace(TERM_REGEX, match => {
     const entry = lookupTerm(match);
     if (!entry) return match;

@@ -64,8 +64,12 @@ function renderContent(content) {
         return html;
       }
 
-      case 'comment':
-        return `<div class="comment"><p>${escapeHtml(item.text)}</p></div>`;
+      case 'comment': {
+        // Объединённые комментарии разделены двойным переносом → отдельные абзацы
+        const paras = (item.text || '').split('\n\n')
+          .map(p => `<p>${escapeHtml(p).replace(/\n/g, '<br>')}</p>`).join('');
+        return `<div class="comment">${paras}</div>`;
+      }
 
       default:
         return '';
