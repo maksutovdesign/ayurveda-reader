@@ -9,7 +9,7 @@
 //                   encyclopedia/remedies) — иначе Beget отдаёт старый файл из URL-кэша!
 //   3) books.js   — const DV = '?v=NN'
 //   4) sw.js      — const CACHE = 'ayurveda-vNN'  (здесь)
-const CACHE = 'ayurveda-v126';
+const CACHE = 'ayurveda-v127';
 
 const STATIC = [
   '/',
