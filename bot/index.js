@@ -23,6 +23,9 @@ import { QUIZ }                    from '../quiz.js';
 
 // ── Эмодзи для иконок (в Telegram нельзя SVG) ───────────
 const ICON_EMOJI = {
+  enc_foundations:'📕', enc_prakriti:'🔮', enc_nutrition:'🥗', enc_herbs:'🌿',
+  enc_yoga:'🧘', enc_massage:'💆', enc_beauty:'💅', enc_lifestyle:'🌅',
+  enc_digestion:'🔥', enc_psychology:'🧠', enc_panchakarma:'💧',
   enc_diagnostics:'🔍', enc_marma:'📍', enc_seasonal:'☀️', enc_quiz:'❓',
   enc_prana:'🌬️', enc_rasayana:'✨', enc_dinacharya:'🌅', enc_food_wisdom:'🍽️',
   enc_tantra:'🔮', enc_home_remedy:'🏠', enc_cleanse:'💧', enc_kitchen:'🍳',
@@ -556,7 +559,7 @@ async function showGlossaryEntry(ctx, gIdx) {
 
 async function showFoodCategories(ctx) {
   const rows = FOOD_TABLE.map((cat, i) => [
-    Markup.button.callback(`${emo(cat.icon)} ${cat.category}`, `ft_c:${i}`)
+    Markup.button.callback(`${cat.icon} ${cat.category}`, `ft_c:${i}`)
   ]);
   rows.push([Markup.button.callback('← Главное меню', 'main')]);
 
@@ -577,7 +580,7 @@ async function showFoodCategory(ctx, catIdx) {
   });
 
   const text = [
-    `${emo(cat.icon)} <b>${esc(cat.category)}</b>`,
+    `${cat.icon} <b>${esc(cat.category)}</b>`,
     '<i>Оптимальное время употребления:</i>',
     '',
     ...lines,
@@ -715,7 +718,7 @@ async function doSearch(ctx, query) {
         if (!sthanaSeen.has(key)) {
           sthanaSeen.add(key);
           const chIdx = BOOK_DATA.chapters.indexOf(ch);
-          const label = `🕉 ${ch.sthana} · гл. ${ch.number} (Sanskrit)`;
+          const label = `🕉 ${ch.sthana} · гл. ${ch.number} (санскрит)`;
           results.push({ label, cb: `bk_r:${chIdx}:0` });
         }
       }
