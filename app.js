@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=426';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=427';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=426';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=427';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=426';
-import { icon } from './icons.js?v=426';
+import * as Cabinet from './cabinet.js?v=427';
+import { icon } from './icons.js?v=427';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=426');
+  const m = await import('./encyclopedia.js?v=427');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=426');
+  const m = await import('./remedies.js?v=427');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
