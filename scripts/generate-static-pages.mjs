@@ -311,7 +311,7 @@ const mainIndex = `<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Классические самхиты Аюрведы — Все книги | Ayurveda Reader</title>
-<meta name="description" content="7 классических самхит Аюрведы: Аштанга-хридая, Чарака, Сушрута, Бхавапракаша и другие. 732 главы, 34 541 шлока. Санскрит, IAST, перевод.">
+<meta name="description" content="7 классических самхит Аюрведы: Аштанга-хридая, Чарака, Сушрута, Бхавапракаша и другие. 718 глав, 34 617 шлока. Санскрит, IAST, перевод.">
 <link rel="canonical" href="https://ayurvedareader.ru/chapters/">
 <link rel="icon" href="/icon-192.png" type="image/png">
 <style>
@@ -327,7 +327,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid #e8e0d0;font-size:.
 </head>
 <body>
 <h1>Классические самхиты Аюрведы</h1>
-<p>7 классических аюрведических канонов — 732 главы, 34 541 шлока на санскрите с переводом.</p>
+<p>7 классических аюрведических канонов — 718 глав, 34 617 шлока на санскрите с переводом.</p>
 <ul>
 ${booksListHtml}
 </ul>
