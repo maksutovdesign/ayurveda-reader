@@ -24,7 +24,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Возвращает Promise<book>.
  */
 // ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с index.html (app.js?v=NN) и sw.js (CACHE=ayurveda-vNN)
-const DV = '?v=449'; // версия для cache-busting ленивых импортов
+const DV = '?v=450'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   ashtanga:         () => import('./data.js' + DV).then(m => m.BOOK_DATA.chapters),
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
@@ -142,6 +142,7 @@ const AH_CHAPTERS = [
   ch('Нидана стхана',  6, 'Мадатьяя нидана',                     'диагностика болезненного опьянения'),
   ch('Нидана стхана',  7, 'Аршас нидана',                        'диагностика геморроя'),
   ch('Нидана стхана',  8, 'Атисара нидана',                      'диагностика диареи'),
+  ch('Нидана стхана',  9, 'Мутрагхата нидана',                   'диагностика задержки мочи'),
   // ── Чикитса стхана (8 глав) ─────────────────────────────────────────────
   ch('Чикитса стхана',  1, 'Джвара чикитса',                     'лечение лихорадок'),
   ch('Чикитса стхана',  2, 'Ракта-питта чикитса',                'лечение кровотечений'),
@@ -175,7 +176,7 @@ const ASHTANGA = {
   available: true,
   description: 'Один из трёх канонических текстов Брихат-трайи. Перевод Ю.В. Сорокиной, комментарии И.И. Ветрова.',
   commentator: 'И.И. Ветров',
-  stats: { chapters: 62, sthanas: 6, verses: '7000+' },
+  stats: { chapters: 63, sthanas: 6, verses: '7000+' },
   sthanas: AH_STHANAS,
   chapters: AH_CHAPTERS,
 };
