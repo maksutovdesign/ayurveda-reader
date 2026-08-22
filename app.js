@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=455';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=456';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=455';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=456';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=455';
-import { icon } from './icons.js?v=455';
+import * as Cabinet from './cabinet.js?v=456';
+import { icon } from './icons.js?v=456';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=455');
+  const m = await import('./encyclopedia.js?v=456');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=455');
+  const m = await import('./remedies.js?v=456');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -143,7 +143,7 @@ function buildHomePage() {
   const totalChapters = BOOKS.reduce((s, b) => s + (b.chapters ? b.chapters.length : 0), 0);
   if (statsEl) {
     // Счётчики контента (статичны — обновлять при изменении данных):
-    // стихов 34 984, статей энциклопедии 208, домашних средств 113.
+    // стихов 35 019, статей энциклопедии 208, домашних средств 113.
     statsEl.innerHTML = [
       `${BOOKS.length} книг`,
       `${totalChapters} глав`,
