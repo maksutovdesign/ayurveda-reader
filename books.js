@@ -24,7 +24,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Возвращает Promise<book>.
  */
 // ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с index.html (app.js?v=NN) и sw.js (CACHE=ayurveda-vNN)
-const DV = '?v=484'; // версия для cache-busting ленивых импортов
+const DV = '?v=485'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   ashtanga:         () => import('./data.js' + DV).then(m => m.BOOK_DATA.chapters),
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
@@ -198,6 +198,7 @@ const AH_CHAPTERS = [
   ch('Уттара стхана', 17, 'Карна-рога виджнания',                    'распознавание болезней ушей'),
   ch('Уттара стхана', 18, 'Карна-рога пратишедха',                   'лечение болезней ушей'),
   ch('Уттара стхана', 19, 'Наса-рога виджнания',                     'распознавание болезней носа'),
+  ch('Уттара стхана', 20, 'Наса-рога пратишедха',                    'лечение болезней носа'),
 ];
 
 const ASHTANGA = {
@@ -210,7 +211,7 @@ const ASHTANGA = {
   available: true,
   description: 'Один из трёх канонических текстов Брихат-трайи. Перевод Ю.В. Сорокиной, комментарии И.И. Ветрова.',
   commentator: 'И.И. Ветров',
-  stats: { chapters: 97, sthanas: 6, verses: '7000+' },
+  stats: { chapters: 98, sthanas: 6, verses: '7000+' },
   sthanas: AH_STHANAS,
   chapters: AH_CHAPTERS,
 };
