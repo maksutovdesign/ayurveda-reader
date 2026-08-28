@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=516';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=517';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=516';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=517';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=516';
-import { icon } from './icons.js?v=516';
+import * as Cabinet from './cabinet.js?v=517';
+import { icon } from './icons.js?v=517';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=516');
+  const m = await import('./encyclopedia.js?v=517');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=516');
+  const m = await import('./remedies.js?v=517');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -1926,6 +1926,22 @@ const REFERENCES = [
     description: 'Русский перевод и санскрит Аштанга-санграхи — более подробная версия Аштанга-хридаи, также созданная Вагбхатой.',
     category: '📌 Источник сайта',
   },
+  {
+    id: 'src_kashyapa',
+    title: 'Кашьяпа-самхита — текст и перевод',
+    author: 'Кашьяпа (Вриддхаджива) · пер. на рус.',
+    year: 'Источник текста',
+    description: 'Русский перевод и санскрит Кашьяпа-самхиты — древнейшего трактата по аюрведической педиатрии. Перевод в процессе, на сайте представлена глава 1 из сохранившейся Сиддхи-стханы.',
+    category: '📌 Источник сайта',
+  },
+  {
+    id: 'src_rasaratna',
+    title: 'Расаратна-самуччая — текст и перевод',
+    author: 'Вагбхата (расашастра) · пер. на рус.',
+    year: 'Источник текста',
+    description: 'Русский перевод и санскрит Расаратна-самуччаи — трактата по индийской иатрохимии. Перевод в процессе, на сайте представлена глава 1.',
+    category: '📌 Источник сайта',
+  },
 
   // ── Классические тексты ───────────────────────────────────────────────────
   {
@@ -2330,8 +2346,16 @@ const REFERENCES = [
     title: 'Агхора III. Закон кармы',
     author: 'Роберт Свобода',
     year: 'Рус. пер.',
-    description: 'Третья часть: карма, самскары, патологии поведения и их аюрведическая интерпретация. Расшифровка «наследственных болезней» через концепцию кармы и дхармы.',
+    description: 'Заключительная часть трилогии об Агхоре — тантрической традиции. Рассматривает закон кармы через призму нетрадиционных духовных практик.',
     category: 'Тантра',
+  },
+  {
+    id: 'chopra_energy',
+    title: 'Идеальная энергия',
+    author: 'Дипак Чопра',
+    year: 'Рус. пер.',
+    description: 'Программа психофизиологической регуляции организма для преодоления хронической усталости, сочетающая современную медицину с элементами традиционных систем врачевания.',
+    category: 'Здоровье и энергия',
   },
 ];
 

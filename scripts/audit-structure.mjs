@@ -18,6 +18,8 @@ const BOOKS = [
   { id: 'sharangadhara', file: '../sharangadhara-data.js',  key: 'SHARANGADHARA_DATA' },
   { id: 'bhavaprakasha', file: '../bhavaprakasha-data.js',  key: 'BHAVAPRAKASHA_DATA' },
   { id: 'astanga',       file: '../astanga-data.js',        key: 'ASTANGA_DATA' },
+  { id: 'kashyapa',      file: '../kashyapa-data.js',       key: 'KASHYAPA_DATA' },
+  { id: 'rasaratna',     file: '../rasaratna-data.js',      key: 'RASARATNA_DATA' },
 ];
 
 const DEVA = /[ऀ-ॿ]/;

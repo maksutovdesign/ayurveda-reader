@@ -21,6 +21,8 @@ const DATA_MAP = {
   sharangadhara:    () => import(ROOT + '/sharangadhara-data.js').then(m => m.SHARANGADHARA_DATA),
   bhavaprakasha:    () => import(ROOT + '/bhavaprakasha-data.js').then(m => m.BHAVAPRAKASHA_DATA),
   astanga_sangraha: () => import(ROOT + '/astanga-data.js').then(m => m.ASTANGA_DATA),
+  kashyapa:         () => import(ROOT + '/kashyapa-data.js').then(m => m.KASHYAPA_DATA),
+  rasaratna:        () => import(ROOT + '/rasaratna-data.js').then(m => m.RASARATNA_DATA),
 };
 
 function slugify(str) {

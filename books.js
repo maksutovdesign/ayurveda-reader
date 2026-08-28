@@ -8,6 +8,8 @@
  * BOOKS[4] = Шарангадхара-самхита     (данные из sharangadhara-data.js)
  * BOOKS[5] = Бхавапракаша             (данные из bhavaprakasha-data.js)
  * BOOKS[6] = Астанга-санграха         (данные из astanga-data.js)
+ * BOOKS[7] = Кашьяпа-самхита          (данные из kashyapa-data.js)
+ * BOOKS[8] = Расаратна-самуччая       (данные из rasaratna-data.js)
  */
 
 // Все 7 книг (~28 МБ) подгружаются лениво через loadBookData() при открытии.
@@ -24,7 +26,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Возвращает Promise<book>.
  */
 // ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с index.html (app.js?v=NN) и sw.js (CACHE=ayurveda-vNN)
-const DV = '?v=516'; // версия для cache-busting ленивых импортов
+const DV = '?v=517'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   ashtanga:         () => import('./data.js' + DV).then(m => m.BOOK_DATA.chapters),
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
@@ -33,6 +35,8 @@ const DATA_LOADERS = {
   sharangadhara:    () => import('./sharangadhara-data.js' + DV).then(m => m.SHARANGADHARA_DATA),
   bhavaprakasha:    () => import('./bhavaprakasha-data.js' + DV).then(m => m.BHAVAPRAKASHA_DATA),
   astanga_sangraha: () => import('./astanga-data.js' + DV).then(m => m.ASTANGA_DATA),
+  kashyapa:         () => import('./kashyapa-data.js' + DV).then(m => m.KASHYAPA_DATA),
+  rasaratna:        () => import('./rasaratna-data.js' + DV).then(m => m.RASARATNA_DATA),
 };
 
 // Режим жёсткой защиты контента (Этап 6). Включается из app.js после
@@ -1095,6 +1099,58 @@ const ASTANGA_SANGRAHA = {
   _loaded: false,
 };
 
+// ─── Кашьяпа-самхита ────────────────────────────────────────────────────
+// Из ~200 глав сохранилось около 78; переведённая часть — Сиддхи-стхана,
+// единственный полностью уцелевший раздел трактата. Перевод выполнен по
+// изданию с хинди-комментарием Сатьяпалы Бхишагачарьи (деванагари-OCR).
+// Работа продолжается — на сайте пока представлена глава 1 из 7.
+const KASHYAPA_STHANAS = ['Сиддхи-стхана'];
+
+const KASHYAPA_CHAPTERS = [
+  ch('Сиддхи-стхана', 1, 'Раджапутрия сиддхи', 'басти-терапия у детей и подростков'),
+];
+
+const KASHYAPA = {
+  id: 'kashyapa',
+  iconKey: 'baby',
+  title: 'Кашьяпа-самхита',
+  titleShort: 'Кашьяпа',
+  subtitle: 'Вриддхаджива (Кашьяпа) · ок. VI в. до н.э., редакция Вриддхаджива Атрея',
+  icon: '👶',
+  available: true,
+  description: 'Древнейший из сохранившихся трактатов по каумарабхритье (аюрведической педиатрии). Из 200 глав дошло около 78 — прежде всего раздел Сиддхи-стхана об искусстве басти (лечебных клизм) у детей. Перевод в процессе.',
+  stats: { chapters: 1, sthanas: 1, verses: '42 (из ~78 сохранившихся глав)' },
+  sthanas: KASHYAPA_STHANAS,
+  chapters: KASHYAPA_CHAPTERS,
+  _loaded: false,
+};
+
+// ─── Расаратна-самуччая ─────────────────────────────────────────────────
+// Трактат по расашастре (иатрохимии), Вагбхата, ок. XIII в. Переведена
+// первая глава (Расотпатти) по санскритскому OCR-скану с archive.org;
+// сохранившийся текст комментария сильно повреждён, переведены только
+// уверенно читаемые корневые стихи. Работа продолжается.
+const RASARATNA_STHANAS = ['Расаратна-самуччая'];
+
+const RASARATNA_CHAPTERS = [
+  ch('Расаратна-самуччая', 1, 'Расотпатти', 'происхождение ртути'),
+];
+
+const RASARATNA = {
+  id: 'rasaratna',
+  iconKey: 'flask-conical',
+  title: 'Расаратна-самуччая',
+  titleShort: 'Расаратна-самуччая',
+  subtitle: 'Вагбхата (расашастра) · ок. XIII в. н.э.',
+  icon: '🧪',
+  available: true,
+  description: 'Ключевой трактат по индийской иатрохимии (расашастре) — приготовление и свойства ртутных и минеральных препаратов. Перевод в процессе: пока доступна первая глава.',
+  stats: { chapters: 1, sthanas: 1, verses: '23' },
+  sthanas: RASARATNA_STHANAS,
+  chapters: RASARATNA_CHAPTERS,
+  _loaded: false,
+};
+
 // ─── Реестр всех книг ─────────────────────────────────────────────────────
 export const BOOKS = [
   ASHTANGA,
@@ -1104,4 +1160,6 @@ export const BOOKS = [
   SHARANGADHARA,
   BHAVAPRAKASHA,
   ASTANGA_SANGRAHA,
+  KASHYAPA,
+  RASARATNA,
 ];
