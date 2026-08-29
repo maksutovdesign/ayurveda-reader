@@ -26,7 +26,7 @@ function ch(sthana, num, title, subtitle = '') {
  * Возвращает Promise<book>.
  */
 // ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с index.html (app.js?v=NN) и sw.js (CACHE=ayurveda-vNN)
-const DV = '?v=524'; // версия для cache-busting ленивых импортов
+const DV = '?v=525'; // версия для cache-busting ленивых импортов
 const DATA_LOADERS = {
   ashtanga:         () => import('./data.js' + DV).then(m => m.BOOK_DATA.chapters),
   charaka:          () => import('./charaka-data.js' + DV).then(m => m.CHARAKA_DATA),
@@ -1175,8 +1175,8 @@ const RASARATNA = {
   subtitle: 'Вагбхата (расашастра) · ок. XIII в. н.э.',
   icon: '🧪',
   available: true,
-  description: 'Ключевой трактат по индийской иатрохимии (расашастре) — приготовление и свойства ртутных и минеральных препаратов. Перевод в процессе: пока доступна первая глава.',
-  stats: { chapters: 1, sthanas: 1, verses: '23' },
+  description: 'Ключевой трактат по индийской иатрохимии (расашастре) — приготовление и свойства ртутных и минеральных препаратов. Переведена первая глава («Расотпатти» — происхождение ртути) целиком: 89 стихов, мифологическое происхождение ртути и её пятеричная классификация.',
+  stats: { chapters: 1, sthanas: 1, verses: '89' },
   sthanas: RASARATNA_STHANAS,
   chapters: RASARATNA_CHAPTERS,
   _loaded: false,
