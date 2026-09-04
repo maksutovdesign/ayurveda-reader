@@ -2404,7 +2404,7 @@ body.dark .rem-note {
   justify-content: center;
   align-items: center;
   gap: 8px;
-  padding: 6px 16px;
+  padding: 6px 108px 6px 16px;
   background: var(--bg-sidebar);
   border-top: 1px solid var(--border);
   pointer-events: auto;
@@ -2424,7 +2424,7 @@ body.dark .rem-note {
 }
 #visitor-counter {
   position: absolute;
-  right: 16px;
+  right: 12px;
   top: 50%;
   transform: translateY(-50%);
   font-size: 10px;
@@ -2433,9 +2433,15 @@ body.dark .rem-note {
   pointer-events: none;
   user-select: none;
   font-weight: 400;
+  white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 #visitor-counter:empty { display: none; }
+@media (max-width: 640px) {
+  /* Not enough room next to the links on narrow screens — hide rather than overlap */
+  #footer-links { padding: 6px 16px; }
+  #visitor-counter { display: none; }
+}
 
 /* ── Footer disclaimer ────────────────────────────── */
 #site-footer {
