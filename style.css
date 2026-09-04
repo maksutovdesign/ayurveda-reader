@@ -2399,6 +2399,7 @@ body.dark .rem-note {
 
 /* ── Footer links (Telegram) ──────────────────────── */
 #footer-links {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -2421,6 +2422,20 @@ body.dark .rem-note {
   color: var(--text-muted);
   opacity: 0.4;
 }
+#visitor-counter {
+  position: absolute;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 10px;
+  color: var(--text-muted);
+  opacity: 0.3;
+  pointer-events: none;
+  user-select: none;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+}
+#visitor-counter:empty { display: none; }
 
 /* ── Footer disclaimer ────────────────────────────── */
 #site-footer {
