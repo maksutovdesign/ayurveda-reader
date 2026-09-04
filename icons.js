@@ -79,6 +79,8 @@ const G = {
   enc_clinical:    ['#4f86c6', '<path d="M8 4h8v3H8z"/><rect x="6" y="7" width="12" height="13" rx="1"/><path d="M10 12h4"/><path d="M12 10v4"/>'],
   enc_chakra:      ['#8a68c0', '<circle cx="12" cy="12" r="3"/><circle cx="12" cy="12" r="6"/><path d="M12 4v2"/><path d="M12 18v2"/><path d="M4 12h2"/><path d="M18 12h2"/>'],
   enc_aroma_form:  ['#cf7a3a', '<path d="M10 18c0-1.1.9-2 2-2s2 .9 2 2"/><path d="M12 16v-4"/><path d="M9 8c0-1.7 1.3-3 3-3s3 1.3 3 3c0 2-1.5 3-3 4-1.5-1-3-2-3-4z"/>'],
+    enc_vedic:       ['#6b7fb0', '<path d="M12 3v18"/><path d="M5 7l7 4 7-4"/><path d="M5 12l7 4 7-4"/>'],
+  enc_three_paths: ['#8b6d9e', '<path d="M12 3v4"/><path d="M7 7l5 5 5-5"/><path d="M4 17h6"/><path d="M14 17h6"/><path d="M12 12v9"/>'],
   // ── Книги ──
   leaf:    ['#5a9e3f', '<path d="M6 18C6 11 10 6 18 6 18 13 14 18 6 18z"/><path d="M6 18C9.5 14.5 12.5 12.5 16 11"/>'],
   scroll:  ['#b9803c', '<path d="M8.5 5h8v10.5a3 3 0 0 1-3 3H8"/><path d="M8.5 5a2 2 0 1 0 0 4H10"/><path d="M13.5 18.5a3 3 0 0 1-3-3V8.8"/><line x1="11.5" y1="8" x2="14.5" y2="8"/><line x1="11.5" y1="11" x2="14.5" y2="11"/>'],
