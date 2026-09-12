@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- consider JS title swap separately -->
   <title>Классические самхиты Аюрведы</title>
 
   <!-- Devanagari web font (loaded only when needed via font-display:swap) -->
@@ -80,33 +81,34 @@
   <link rel="stylesheet" href="style.css?v=79" />
 </head>
 <body class="light">
-  <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
+  <button id="menu-btn" aria-label="Открыть меню" data-en-aria-label="Open menu">&#9776;</button>
   <div id="sidebar-overlay"></div>
-  <a href="#content" class="skip-link">Перейти к содержанию</a>
-  <div id="offline-banner" role="status" aria-live="polite" hidden><span class="menu-ico" data-icon="offline"></span> Офлайн-режим — прочитанные книги доступны, синхронизация недоступна</div>
+  <a href="#content" class="skip-link" data-en="Skip to content">Перейти к содержанию</a>
+  <div id="offline-banner" role="status" aria-live="polite" hidden data-en="Offline mode — books you've already read are available, sync is unavailable"><span class="menu-ico" data-icon="offline"></span> Офлайн-режим — прочитанные книги доступны, синхронизация недоступна</div>
   <div id="app">
-    <aside id="sidebar" aria-label="Навигация по книге">
+    <aside id="sidebar" aria-label="Навигация по книге" data-en-aria-label="Book navigation">
       <div id="sidebar-header">
-        <div id="book-title" role="button" tabindex="0" aria-label="На главную страницу проекта">
+        <div id="book-title" role="button" tabindex="0" aria-label="На главную страницу проекта" data-en-aria-label="Go to project home page">
           <span class="logo-mark menu-ico" data-icon="lotus"></span>
-          <span class="logo-text"><span class="logo-line1">Самхиты</span><span class="logo-line2">Аюрведы</span></span>
+          <span class="logo-text"><span class="logo-line1" data-en="Samhitas">Самхиты</span><span class="logo-line2" data-en="of Ayurveda">Аюрведы</span></span>
         </div>
         <div id="sidebar-header-controls">
-          <button id="theme-toggle" aria-label="Переключить тему">
+          <button id="site-lang-toggle" class="site-lang-toggle" type="button" aria-label="Switch language" title="RU / EN">RU</button>
+          <button id="theme-toggle" aria-label="Переключить тему" data-en-aria-label="Toggle theme">
             <span class="icon-sun"><svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 3v2"/><path d="M12 19v2"/><path d="M3 12h2"/><path d="M19 12h2"/><path d="M5.6 5.6l1.4 1.4"/><path d="M17 17l1.4 1.4"/><path d="M5.6 18.4l1.4-1.4"/><path d="M17 7l1.4-1.4"/></svg></span>
             <span class="icon-moon"><svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 14.5A6.5 6.5 0 0 1 9.5 6 6.5 6.5 0 1 0 18 14.5z"/></svg></span>
           </button>
-          <button id="sidebar-close" aria-label="Закрыть меню">&#10005;</button>
+          <button id="sidebar-close" aria-label="Закрыть меню" data-en-aria-label="Close menu">&#10005;</button>
         </div>
       </div>
 
       <div id="search-wrap">
-        <input id="search-input" type="search" placeholder="Поиск по тексту…" aria-label="Поиск по тексту книги" autocomplete="off" />
+        <input id="search-input" type="search" placeholder="Поиск по тексту…" aria-label="Поиск по тексту книги" autocomplete="off" data-en-placeholder="Search the text…" data-en-aria-label="Search the book text" />
         <span id="search-icon"><svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="5.2"/><line x1="14.8" y1="14.8" x2="19" y2="19"/></svg></span>
       </div>
 
       <div id="book-selector">
-        <span class="book-selector-label">Выберите книгу</span>
+        <span class="book-selector-label" data-en="Choose a book">Выберите книгу</span>
         <button id="book-selector-btn" aria-expanded="false" aria-haspopup="listbox">
           <span id="book-selector-icon" class="menu-ico" data-icon="leaf"></span>
           <span id="book-selector-title">Аштанга-хридая</span>
@@ -117,39 +119,39 @@
         </div>
       </div>
 
-      <nav id="chapter-nav" aria-label="Список глав"></nav>
+      <nav id="chapter-nav" aria-label="Список глав" data-en-aria-label="Chapter list"></nav>
 
       <div id="sidebar-footer">
-        <div class="sidebar-footer-toggle" role="button" tabindex="0" aria-expanded="true">Разделы<span class="sidebar-footer-toggle-label"></span><span class="sidebar-footer-arrow">▾</span></div>
+        <div class="sidebar-footer-toggle" role="button" tabindex="0" aria-expanded="true" data-en="Sections">Разделы<span class="sidebar-footer-toggle-label"></span><span class="sidebar-footer-arrow">▾</span></div>
         <div id="sidebar-footer-buttons">
-        <button id="glossary-btn" class="sidebar-footer-btn">
+        <button id="glossary-btn" class="sidebar-footer-btn" data-en="Glossary of Terms">
           <span class="menu-ico" data-icon="terms"></span> Глоссарий терминов
         </button>
-        <button id="diseases-btn" class="sidebar-footer-btn">
+        <button id="diseases-btn" class="sidebar-footer-btn" data-en="Glossary of Diseases">
           <span class="menu-ico" data-icon="pulse"></span> Глоссарий болезней
         </button>
-        <button id="remedies-btn" class="sidebar-footer-btn">
+        <button id="remedies-btn" class="sidebar-footer-btn" data-en="Home Remedies">
           <span class="menu-ico" data-icon="mortar"></span> Домашние средства
         </button>
-        <button id="encyclopedia-btn" class="sidebar-footer-btn">
+        <button id="encyclopedia-btn" class="sidebar-footer-btn" data-en="Encyclopedia">
           <span class="menu-ico" data-icon="book"></span> Энциклопедия
         </button>
-        <button id="references-btn" class="sidebar-footer-btn">
+        <button id="references-btn" class="sidebar-footer-btn" data-en="References">
           <span class="menu-ico" data-icon="books"></span> Источники
         </button>
-        <button id="foodtable-btn" class="sidebar-footer-btn">
+        <button id="foodtable-btn" class="sidebar-footer-btn" data-en="Food Timing Chart">
           <span class="menu-ico" data-icon="clock"></span> Расписание питания
         </button>
-        <button id="quiz-btn" class="sidebar-footer-btn">
+        <button id="quiz-btn" class="sidebar-footer-btn" data-en="Constitution Test">
           <span class="menu-ico" data-icon="beaker"></span> Тест конституции
         </button>
-        <button id="cabinet-btn" class="sidebar-footer-btn">
+        <button id="cabinet-btn" class="sidebar-footer-btn" data-en="Expert Cabinet">
           <span class="menu-ico" data-icon="user"></span> Кабинет эксперта
         </button>
-        <button id="friends-btn" class="sidebar-footer-btn">
+        <button id="friends-btn" class="sidebar-footer-btn" data-en="Acknowledgments">
           <span class="menu-ico" data-icon="friends"></span> Благодарности
         </button>
-        <button id="donate-btn" class="sidebar-footer-btn sidebar-footer-btn--donate">
+        <button id="donate-btn" class="sidebar-footer-btn sidebar-footer-btn--donate" data-en="Support Us">
           <span class="menu-ico" data-icon="heart"></span> Поддержать
         </button>
         </div>
@@ -161,28 +163,28 @@
         <div class="welcome-inner">
           <div class="home-hero">
             <div class="home-logo"><span class="menu-ico" data-icon="lotus"></span></div>
-            <h1 id="welcome-title">Классические самхиты Аюрведы</h1>
-            <p class="home-tagline">Подлинные тексты на санскрите, транслитерация IAST и переводы — в одном читателе</p>
+            <h1 id="welcome-title" data-en="Classical Samhitas of Ayurveda">Классические самхиты Аюрведы</h1>
+            <p class="home-tagline" data-en="Authentic Sanskrit texts, IAST transliteration, and translations — all in one reader">Подлинные тексты на санскрите, транслитерация IAST и переводы — в одном читателе</p>
           </div>
-          <p class="home-desc">Проект собирает фундаментальные трактаты Аюрведы — от «Аштанга-хридаи» Вагбхаты до «Бхавапракаши» Бхавамишры. Каждый стих доступен в оригинале (деванагари), научной транслитерации IAST и переводе; санскритские термины снабжены пояснениями. Есть глоссарии, энциклопедия, домашние средства, расписание питания и тест конституции.</p>
+          <p class="home-desc" data-en="The project brings together the fundamental treatises of Ayurveda — from Vagbhata's «Ashtanga Hridaya» to Bhavamishra's «Bhavaprakasha». Every verse is available in the original (Devanagari), scholarly IAST transliteration, and translation; Sanskrit terms come with explanations. There are glossaries, an encyclopedia, home remedies, a food timing chart, and a constitution test.">Проект собирает фундаментальные трактаты Аюрведы — от «Аштанга-хридаи» Вагбхаты до «Бхавапракаши» Бхавамишры. Каждый стих доступен в оригинале (деванагари), научной транслитерации IAST и переводе; санскритские термины снабжены пояснениями. Есть глоссарии, энциклопедия, домашние средства, расписание питания и тест конституции.</p>
           <div class="home-stats" id="home-stats"></div>
-          <h2 class="home-books-title">Выберите книгу</h2>
+          <h2 class="home-books-title" data-en="Choose a book">Выберите книгу</h2>
           <div class="home-book-grid" id="home-book-grid"></div>
           <div class="welcome-features">
             <div class="feature">
               <span class="feature-icon menu-ico" data-icon="feat_term"></span>
-              <span>Наведите на <span class="term-sample">санскритский термин</span> — появится пояснение</span>
+              <span><span data-en="Hover over a">Наведите на</span> <span class="term-sample" data-en="Sanskrit term">санскритский термин</span><span data-en=" and a tooltip appears">— появится пояснение</span></span>
             </div>
             <div class="feature">
               <span class="feature-icon menu-ico" data-icon="feat_search"></span>
-              <span>Поиск работает по всем главам</span>
+              <span data-en="Search works across all chapters">Поиск работает по всем главам</span>
             </div>
             <div class="feature">
               <span class="feature-icon menu-ico" data-icon="feat_theme"></span>
-              <span>Тёмная и светлая тема</span>
+              <span data-en="Light and dark theme">Тёмная и светлая тема</span>
             </div>
           </div>
-          <a href="/privacy.html" class="home-privacy-link">Политика конфиденциальности</a>
+          <a href="/privacy.html" class="home-privacy-link" data-en="Privacy Policy">Политика конфиденциальности</a>
         </div>
       </div>
 
@@ -191,8 +193,8 @@
           <div id="chapter-header-top">
             <div id="chapter-breadcrumb"></div>
             <div id="chapter-controls">
-              <button id="chapter-home-btn" title="На главную"><svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 11l7-6 7 6"/><path d="M7 10v8h10v-8"/><path d="M10.5 18v-4h3v4"/></svg> Главная</button>
-              <button class="font-size-btn" title="Размер текста">А</button>
+              <button id="chapter-home-btn" title="На главную" data-en-title="Home" data-en=" Home"><svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 11l7-6 7 6"/><path d="M7 10v8h10v-8"/><path d="M10.5 18v-4h3v4"/></svg> Главная</button>
+              <button class="font-size-btn" title="Размер текста" data-en-title="Text size">А</button>
             </div>
           </div>
           <h2 id="chapter-title"></h2>
@@ -203,7 +205,7 @@
 
       <div id="search-results" hidden>
         <div id="search-results-header">
-          <h2>Результаты поиска</h2>
+          <h2 data-en="Search Results">Результаты поиска</h2>
           <span id="search-count"></span>
         </div>
         <div id="search-results-body"></div>
@@ -211,21 +213,21 @@
 
       <div id="glossary-view" hidden>
         <div id="glossary-header">
-          <h2>Глоссарий санскритских терминов</h2>
+          <h2 data-en="Glossary of Sanskrit Terms">Глоссарий санскритских терминов</h2>
           <span id="glossary-count"></span>
         </div>
         <div id="glossary-filter-wrap">
-          <input id="glossary-filter" type="search" placeholder="Фильтр терминов…" aria-label="Фильтр санскритских терминов" autocomplete="off" />
+          <input id="glossary-filter" type="search" placeholder="Фильтр терминов…" aria-label="Фильтр санскритских терминов" autocomplete="off" data-en-placeholder="Filter terms…" data-en-aria-label="Filter Sanskrit terms" />
         </div>
         <div id="glossary-body"></div>
       </div>
 
       <div id="diseases-view" hidden>
         <div id="diseases-header">
-          <h2>Глоссарий болезней</h2>
-          <p class="diseases-subtitle">66 болезней · 28 категорий · аюрведическая классификация</p>
+          <h2 data-en="Glossary of Diseases">Глоссарий болезней</h2>
+          <p class="diseases-subtitle" data-en="66 diseases · 28 categories · Ayurvedic classification">66 болезней · 28 категорий · аюрведическая классификация</p>
           <div class="filter-wrap">
-            <input id="diseases-filter" type="search" placeholder="Найти болезнь, симптом, дошу…" aria-label="Поиск по глоссарию болезней" autocomplete="off" />
+            <input id="diseases-filter" type="search" placeholder="Найти болезнь, симптом, дошу…" aria-label="Поиск по глоссарию болезней" autocomplete="off" data-en-placeholder="Find a disease, symptom, dosha…" data-en-aria-label="Search the glossary of diseases" />
             <span class="filter-count" id="diseases-count"></span>
           </div>
         </div>
@@ -234,15 +236,15 @@
 
       <div id="remedies-view" hidden>
         <div id="remedies-header">
-          <h2>Домашние средства Аюрведы</h2>
-          <p class="remedies-subtitle">113 заболеваний · Васант Лад</p>
+          <h2 data-en="Ayurveda Home Remedies">Домашние средства Аюрведы</h2>
+          <p class="remedies-subtitle" data-en="113 conditions · Vasant Lad">113 заболеваний · Васант Лад</p>
           <div id="remedies-search-wrap">
-            <input id="remedies-filter" type="search" placeholder="Найти заболевание…" aria-label="Поиск по домашним средствам" autocomplete="off" />
+            <input id="remedies-filter" type="search" placeholder="Найти заболевание…" aria-label="Поиск по домашним средствам" autocomplete="off" data-en-placeholder="Find a condition…" data-en-aria-label="Search home remedies" />
           </div>
         </div>
         <div id="remedies-list"></div>
         <div id="remedies-detail" hidden>
-          <button id="remedies-back">← Все заболевания</button>
+          <button id="remedies-back" data-en="← All conditions">← Все заболевания</button>
           <h3 id="remedies-detail-title"></h3>
           <div id="remedies-detail-body"></div>
         </div>
@@ -254,12 +256,12 @@
         <div id="enc-sections-view">
           <div id="enc-header">
             <div id="enc-header-top">
-              <h2 id="enc-header-title">Энциклопедия аюрведы</h2>
+              <h2 id="enc-header-title" data-en="Encyclopedia of Ayurveda">Энциклопедия аюрведы</h2>
               <button id="enc-lang-toggle" class="enc-lang-toggle" type="button" aria-label="Switch language" title="RU / EN">RU</button>
             </div>
-            <p class="enc-subtitle">208 статей по 43 разделам · синтез 46 книг</p>
+            <p class="enc-subtitle" data-en="208 articles across 43 sections · synthesis of 46 books">208 статей по 43 разделам · синтез 46 книг</p>
             <div id="enc-search-wrap">
-              <input id="enc-search" type="search" placeholder="Поиск по энциклопедии…" aria-label="Поиск по энциклопедии" autocomplete="off" />
+              <input id="enc-search" type="search" placeholder="Поиск по энциклопедии…" aria-label="Поиск по энциклопедии" autocomplete="off" data-en-placeholder="Search the encyclopedia…" data-en-aria-label="Search the encyclopedia" />
             </div>
           </div>
           <div id="enc-section-grid"></div>
@@ -268,7 +270,7 @@
 
         <!-- Articles list -->
         <div id="enc-articles-view" hidden>
-          <button id="enc-back-sections">← Разделы</button>
+          <button id="enc-back-sections" data-en="← Sections">← Разделы</button>
           <div id="enc-section-header">
             <span id="enc-section-icon"></span>
             <div>
@@ -281,7 +283,7 @@
 
         <!-- Article content -->
         <div id="enc-article-view" hidden>
-          <button id="enc-back-articles">← К разделу</button>
+          <button id="enc-back-articles" data-en="← To section">← К разделу</button>
           <div id="enc-article-meta"></div>
           <h2 id="enc-article-title"></h2>
           <p id="enc-article-summary"></p>
@@ -293,8 +295,8 @@
       <!-- ── References ── -->
       <div id="references-view" hidden>
         <div id="ref-header">
-          <h2>Источники</h2>
-          <p class="ref-subtitle">59 источников · первоисточники сайта, классические тексты и руководства</p>
+          <h2 data-en="References">Источники</h2>
+          <p class="ref-subtitle" data-en="59 references · site primary sources, classical texts, and guides">59 источников · первоисточники сайта, классические тексты и руководства</p>
         </div>
         <div id="ref-list"></div>
       </div>
@@ -302,10 +304,10 @@
       <!-- ── Food Table ── -->
       <div id="foodtable-view" hidden>
         <div id="ft-header">
-          <h2>Расписание питания</h2>
-          <p class="ft-subtitle">Оптимальное время приёма продуктов · аспект переваривания в желудке и всасывания в тонком кишечнике</p>
+          <h2 data-en="Food Timing Chart">Расписание питания</h2>
+          <p class="ft-subtitle" data-en="Optimal food timing · digestion in the stomach and absorption in the small intestine">Оптимальное время приёма продуктов · аспект переваривания в желудке и всасывания в тонком кишечнике</p>
           <div id="ft-search-wrap">
-            <input id="ft-search" type="search" placeholder="Найти продукт…" autocomplete="off" />
+            <input id="ft-search" type="search" placeholder="Найти продукт…" autocomplete="off" data-en-placeholder="Find a food…" />
           </div>
           <div id="ft-cat-filter"></div>
         </div>
@@ -315,7 +317,7 @@
       <!-- ── Friends ── -->
       <div id="friends-view" hidden>
         <div class="friends-inner">
-          <h2 class="friends-title">Благодарности</h2>
+          <h2 class="friends-title" data-en="Acknowledgments">Благодарности</h2>
           <div class="friends-directory">
             <div class="friends-letter-group"><h3 class="friends-letter">А</h3></div>
             <div class="friends-letter-group"><h3 class="friends-letter">Б</h3></div>
@@ -387,12 +389,12 @@
       <div id="donate-view" hidden>
         <div id="donate-inner">
           <div id="donate-avatar"><span class="menu-ico" data-icon="lotus"></span></div>
-          <h2 id="donate-title">Поддержать</h2>
-          <p class="donate-desc">
+          <h2 id="donate-title" data-en="Support Us">Поддержать</h2>
+          <p class="donate-desc" data-en="This site was made with love and devoted to the study of Ayurveda — so that this ancient wisdom is available in the Russian language.">
             Этот сайт создан с любовью и посвящён изучению аюрведы —
             чтобы древняя мудрость была доступна на русском языке.
           </p>
-          <p class="donate-desc">
+          <p class="donate-desc" data-en="If the site has been useful to you and you'd like to support the project's development — any contribution is received with sincere gratitude ">
             Если сайт оказался вам полезен и вы хотите поддержать развитие проекта —
             любая благодарность принимается с искренней признательностью <span class="menu-ico menu-ico--inline" data-icon="pray"></span>
           </p>
@@ -402,18 +404,18 @@
             <div class="donate-card">
               <div class="donate-card-head">
                 <span class="donate-logo donate-logo--tbank">Т</span>
-                <span class="donate-card-title">Т-банк — по номеру телефона</span>
+                <span class="donate-card-title" data-en="T-Bank — by phone number">Т-банк — по номеру телефона</span>
               </div>
               <div class="donate-field-group">
                 <div class="donate-field">
-                  <span class="donate-label">Номер телефона</span>
-                  <button class="donate-copy" data-copy="+79536533934" title="Скопировать">
+                  <span class="donate-label" data-en="Phone number">Номер телефона</span>
+                  <button class="donate-copy" data-copy="+79536533934" title="Скопировать" data-en-title="Copy">
                     <span class="donate-value">+7 953 653-39-34</span>
                     <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
                 </div>
                 <div class="donate-field">
-                  <span class="donate-label">Получатель</span>
+                  <span class="donate-label" data-en="Recipient">Получатель</span>
                   <span class="donate-value donate-recipient">Екатерина М.</span>
                 </div>
               </div>
@@ -429,8 +431,8 @@
               </div>
               <div class="donate-field-group">
                 <div class="donate-field">
-                  <span class="donate-label">Адрес кошелька</span>
-                  <button class="donate-copy" data-copy="1Ad9cXdQfApRJU3H5Ecpd23397njzhHbqV" title="Скопировать">
+                  <span class="donate-label" data-en="Wallet address">Адрес кошелька</span>
+                  <button class="donate-copy" data-copy="1Ad9cXdQfApRJU3H5Ecpd23397njzhHbqV" title="Скопировать" data-en-title="Copy">
                     <span class="donate-value donate-btc">1Ad9cXdQfApRJU3H5Ecpd23397njzhHbqV</span>
                     <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
@@ -445,8 +447,8 @@
               </div>
               <div class="donate-field-group">
                 <div class="donate-field">
-                  <span class="donate-label">Адрес кошелька</span>
-                  <button class="donate-copy" data-copy="TDdhyiFRV84VTPWA3yn7PUYLjNTsnaoEuw" title="Скопировать">
+                  <span class="donate-label" data-en="Wallet address">Адрес кошелька</span>
+                  <button class="donate-copy" data-copy="TDdhyiFRV84VTPWA3yn7PUYLjNTsnaoEuw" title="Скопировать" data-en-title="Copy">
                     <span class="donate-value donate-btc">TDdhyiFRV84VTPWA3yn7PUYLjNTsnaoEuw</span>
                     <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
@@ -465,8 +467,8 @@
               </div>
               <div class="donate-field-group">
                 <div class="donate-field">
-                  <span class="donate-label">Адрес кошелька</span>
-                  <button class="donate-copy" data-copy="0x9c637cbe764f04871385f3e703ff102242fc74fc" title="Скопировать">
+                  <span class="donate-label" data-en="Wallet address">Адрес кошелька</span>
+                  <button class="donate-copy" data-copy="0x9c637cbe764f04871385f3e703ff102242fc74fc" title="Скопировать" data-en-title="Copy">
                     <span class="donate-value donate-btc">0x9c637cbe764f04871385f3e703ff102242fc74fc</span>
                     <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
@@ -482,12 +484,12 @@
                     <path d="M2 7l10 7 10-7"/>
                   </svg>
                 </span>
-                <span class="donate-card-title">Связаться с автором</span>
+                <span class="donate-card-title" data-en="Contact the author">Связаться с автором</span>
               </div>
               <div class="donate-field-group">
                 <div class="donate-field">
-                  <span class="donate-label">Электронная почта</span>
-                  <button class="donate-copy" data-copy="maksutovdesign@mail.ru" title="Скопировать">
+                  <span class="donate-label" data-en="Email">Электронная почта</span>
+                  <button class="donate-copy" data-copy="maksutovdesign@mail.ru" title="Скопировать" data-en-title="Copy">
                     <span class="donate-value">maksutovdesign@mail.ru</span>
                     <span class="donate-copy-icon menu-ico" data-icon="copy"></span>
                   </button>
@@ -497,7 +499,7 @@
 
           </div>
 
-          <p class="donate-note">Нажмите на реквизиты, чтобы скопировать в буфер обмена</p>
+          <p class="donate-note" data-en="Click the details to copy them to the clipboard">Нажмите на реквизиты, чтобы скопировать в буфер обмена</p>
         </div>
       </div>
 
@@ -506,17 +508,17 @@
         <div id="quiz-intro">
           <div id="quiz-intro-inner">
             <div id="quiz-intro-icon"><span class="menu-ico" data-icon="dna"></span></div>
-            <h2>Тест конституции</h2>
-            <p class="quiz-subtitle">Определите свою аюрведическую пракрити</p>
-            <p class="quiz-desc">Отвечайте, ориентируясь на то, каким вы были большую часть жизни — не на текущее самочувствие. 60 вопросов, три раздела.</p>
+            <h2 data-en="Constitution Test">Тест конституции</h2>
+            <p class="quiz-subtitle" data-en="Discover your Ayurvedic Prakriti">Определите свою аюрведическую пракрити</p>
+            <p class="quiz-desc" data-en="Answer based on how you've been for most of your life — not your current state. 60 questions, three sections.">Отвечайте, ориентируясь на то, каким вы были большую часть жизни — не на текущее самочувствие. 60 вопросов, три раздела.</p>
             <div class="quiz-scale-legend">
-              <span class="ql-item"><b>0</b> — совсем не про меня</span>
+              <span class="ql-item" data-en=" — not like me at all"><b>0</b> — совсем не про меня</span>
               <span class="ql-sep">·</span>
-              <span class="ql-item"><b>3</b> — иногда</span>
+              <span class="ql-item" data-en=" — sometimes"><b>3</b> — иногда</span>
               <span class="ql-sep">·</span>
-              <span class="ql-item"><b>6</b> — всегда про меня</span>
+              <span class="ql-item" data-en=" — always like me"><b>6</b> — всегда про меня</span>
             </div>
-            <button id="quiz-start-btn" class="quiz-start-btn">Начать тест</button>
+            <button id="quiz-start-btn" class="quiz-start-btn" data-en="Start Test">Начать тест</button>
           </div>
         </div>
 
@@ -527,13 +529,13 @@
           </div>
           <div id="quiz-sections"></div>
           <div id="quiz-submit-wrap">
-            <button id="quiz-submit-btn" class="quiz-start-btn">Узнать результат</button>
+            <button id="quiz-submit-btn" class="quiz-start-btn" data-en="See Result">Узнать результат</button>
           </div>
         </div>
 
         <div id="quiz-result" hidden>
           <div id="quiz-result-inner">
-            <button id="quiz-restart-btn" class="quiz-back-btn">← Пройти заново</button>
+            <button id="quiz-restart-btn" class="quiz-back-btn" data-en="← Restart">← Пройти заново</button>
             <div id="quiz-scores-chart"></div>
             <div id="quiz-result-card"></div>
             <div id="quiz-recommendations"></div>
@@ -568,18 +570,18 @@
     </div>
     -->
     <div id="footer-links">
-      <a href="https://t.me/AyurvedaReader" target="_blank" rel="noopener">Telegram-канал</a>
+      <a href="https://t.me/AyurvedaReader" target="_blank" rel="noopener" data-en="Telegram Channel">Telegram-канал</a>
       <span class="footer-links-sep">·</span>
-      <a href="https://t.me/AyurvedaReaderBot" target="_blank" rel="noopener">Бот</a>
+      <a href="https://t.me/AyurvedaReaderBot" target="_blank" rel="noopener" data-en="Bot">Бот</a>
       <span id="visitor-counter" aria-hidden="true"></span>
     </div>
     <div id="footer-disclaimer">
       <span class="footer-icon menu-ico" data-icon="medical"></span>
-      <span class="disclaimer-summary">Медицинский дисклеймер</span>
-      <p>
-        <strong>Информация носит исключительно ознакомительный характер</strong> и не является медицинской консультацией, диагнозом или предписанием к лечению. Аюрведа — традиционная система оздоровления, не являющаяся официальной медициной в Российской Федерации. Перед применением любых методов, трав и препаратов, упомянутых на сайте, обязательно проконсультируйтесь с квалифицированным врачом. Самолечение может быть опасно для здоровья. При наличии заболеваний, беременности или приёме лекарственных средств особая осторожность обязательна.
+      <span class="disclaimer-summary" data-en="Medical Disclaimer">Медицинский дисклеймер</span>
+      <p data-en=" and is not a medical consultation, diagnosis, or treatment prescription. Ayurveda is a traditional wellness system, not recognized as official medicine in the Russian Federation. Before using any methods, herbs, or preparations mentioned on the site, be sure to consult a qualified physician. Self-treatment can be dangerous to your health. Extra caution is required if you have any medical conditions, are pregnant, or are taking medications.">
+        <strong data-en="This information is for educational purposes only">Информация носит исключительно ознакомительный характер</strong> и не является медицинской консультацией, диагнозом или предписанием к лечению. Аюрведа — традиционная система оздоровления, не являющаяся официальной медициной в Российской Федерации. Перед применением любых методов, трав и препаратов, упомянутых на сайте, обязательно проконсультируйтесь с квалифицированным врачом. Самолечение может быть опасно для здоровья. При наличии заболеваний, беременности или приёме лекарственных средств особая осторожность обязательна.
       </p>
-      <button id="disclaimer-close" aria-label="Закрыть">&#10005;</button>
+      <button id="disclaimer-close" aria-label="Закрыть" data-en-aria-label="Close">&#10005;</button>
     </div>
   </footer>
 
@@ -611,7 +613,7 @@
   </noscript>
 
   <!-- ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с books.js (DV) и sw.js (CACHE) -->
-  <script type="module" src="app.js?v=563"></script>
+  <script type="module" src="app.js?v=564"></script>
 
   <!-- Яндекс.Метрика -->
   <script type="text/javascript">

@@ -1,11 +1,11 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=563';
-import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=563';
-import { QUIZ } from './quiz.js';
-import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=563';
-import { icon } from './icons.js?v=563';
-import { searchContext, askQuestion } from './chatbot.js';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=564';
+import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js?v=564';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=564';
+import { QUIZ } from './quiz.js?v=564';
+import { FOOD_TABLE } from './foodtable.js?v=564';
+import * as Cabinet from './cabinet.js?v=564';
+import { icon } from './icons.js?v=564';
+import { searchContext, askQuestion } from './chatbot.js?v=564';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
 const _actSvg = (paths) => `<svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=563');
+  const m = await import('./encyclopedia.js?v=564');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=563');
+  const m = await import('./remedies.js?v=564');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -145,21 +145,21 @@ function buildHomePage() {
     // Счётчики контента (статичны — обновлять при изменении данных):
     // стихов 36 786, статей энциклопедии 208, домашних средств 113.
     statsEl.innerHTML = [
-      `${BOOKS.length} книг`,
-      `${totalChapters} глав`,
-      '34 500+ стихов',
-      '208 статей энциклопедии',
-      '113 домашних средств',
-      'оригинал · транслитерация · перевод',
-    ].map(t => `<span class="home-stat">${t}</span>`).join('');
+      t(`${BOOKS.length} книг`, `${BOOKS.length} books`),
+      t(`${totalChapters} глав`, `${totalChapters} chapters`),
+      t('34 500+ стихов', '34,500+ verses'),
+      t('208 статей энциклопедии', '208 encyclopedia articles'),
+      t('113 домашних средств', '113 home remedies'),
+      t('оригинал · транслитерация · перевод', 'original · transliteration · translation'),
+    ].map(s => `<span class="home-stat">${s}</span>`).join('');
   }
   grid.innerHTML = BOOKS.map((b, i) => `
     <button class="home-book-card" data-idx="${i}">
       <span class="home-book-icon">${icon(b.iconKey) || icon('leaf')}</span>
       <span class="home-book-info">
-        <span class="home-book-name">${escapeHtml(b.titleShort || b.title)}</span>
-        <span class="home-book-sub">${escapeHtml(b.subtitle || '')}</span>
-        <span class="home-book-stats">${b.stats ? `${b.stats.chapters} глав · ${escapeHtml(String(b.stats.verses))} стихов` : ''}</span>
+        <span class="home-book-name">${escapeHtml(tf(b, 'titleShort') || tf(b, 'title'))}</span>
+        <span class="home-book-sub">${escapeHtml(tf(b, 'subtitle') || '')}</span>
+        <span class="home-book-stats">${b.stats ? t(`${b.stats.chapters} глав · ${escapeHtml(String(b.stats.verses))} стихов`, `${b.stats.chapters} chapters · ${escapeHtml(String(b.stats.verses))} verses`) : ''}</span>
       </span>
     </button>`).join('');
   grid.querySelectorAll('.home-book-card').forEach(card => {
@@ -183,7 +183,7 @@ function buildHomePage() {
     if (ch && ch.available !== false) {
       const c = document.createElement('button');
       c.className = 'home-resume';
-      c.innerHTML = `<span class="home-resume-icon">${_actSvg('<path d="M9 4l-5 5 5 5"/><path d="M4 9h11a5 5 0 0 1 0 10h-3"/>')}</span><span class="home-resume-text"><b>Продолжить чтение</b><span>${escapeHtml(bk.titleShort)} · ${ch.number > 0 ? 'гл. ' + ch.number + '. ' : ''}${escapeHtml(ch.title)}</span></span>`;
+      c.innerHTML = `<span class="home-resume-icon">${_actSvg('<path d="M9 4l-5 5 5 5"/><path d="M4 9h11a5 5 0 0 1 0 10h-3"/>')}</span><span class="home-resume-text"><b>${t('Продолжить чтение', 'Continue Reading')}</b><span>${escapeHtml(tf(bk, 'titleShort'))} · ${ch.number > 0 ? t('гл. ', 'ch. ') + ch.number + '. ' : ''}${escapeHtml(tf(ch, 'title'))}</span></span>`;
       c.onclick = async () => { if (pos.bookIdx !== currentBookIdx) await selectBook(pos.bookIdx); loadChapter(pos.chIdx); };
       extra.appendChild(c);
     }
@@ -196,10 +196,10 @@ function buildHomePage() {
     const main = ru || iast;          // на случай книги без перевода — IAST
     const card = document.createElement('div');
     card.className = 'home-vod';
-    card.innerHTML = `<div class="home-vod-label"><span class="menu-ico menu-ico--inline" data-icon="readbook"></span> Стих дня</div>
+    card.innerHTML = `<div class="home-vod-label"><span class="menu-ico menu-ico--inline" data-icon="readbook"></span> ${t('Стих дня', 'Verse of the Day')}</div>
       <div class="home-vod-text">${escapeHtml(main)}</div>
       ${ru && iast ? `<div class="home-vod-iast">${escapeHtml(iast)}</div>` : ''}
-      <button class="home-vod-link">${escapeHtml(BOOKS[0].titleShort)} · ${escapeHtml(vod.ch.sthana)}, стих ${vod.b.number} →</button>`;
+      <button class="home-vod-link">${escapeHtml(tf(BOOKS[0], 'titleShort'))} · ${escapeHtml(tf(vod.ch, 'sthana'))}, ${t('стих', 'verse')} ${vod.b.number} →</button>`;
     card.querySelector('.home-vod-link').onclick = async () => {
       _pendingVerse = vod.b.number;
       if (currentBookIdx !== 0) await selectBook(0);
@@ -303,6 +303,63 @@ $themeToggle.addEventListener('click', () => {
   localStorage.setItem('theme', next);
 });
 
+// ── Site-wide language (RU/EN) ──────────────────────
+// Simple reload-based toggle: persisted in localStorage, applied at build time
+// by every view-building function via t()/tf(). Book verse/Sanskrit content is
+// NOT translated — only UI chrome, book/chapter titles, and other site sections.
+function getSiteLang() {
+  try { return localStorage.getItem('siteLang') || 'ru'; } catch { return 'ru'; }
+}
+// Pick the Russian or English string depending on current site language.
+function t(ru, en) { return getSiteLang() === 'en' ? en : ru; }
+// Pick obj[field] or obj[field+'_en'] (falling back to the Russian original when
+// no translation exists yet) depending on current site language.
+function tf(obj, field) {
+  if (getSiteLang() === 'en' && obj[`${field}_en`]) return obj[`${field}_en`];
+  return obj[field] || '';
+}
+function initSiteLangToggle() {
+  const $btn = document.getElementById('site-lang-toggle');
+  if (!$btn) return;
+  const lang = getSiteLang();
+  $btn.textContent = lang === 'en' ? 'EN' : 'RU';
+  $btn.dataset.lang = lang;
+  $btn.addEventListener('click', () => {
+    const next = getSiteLang() === 'en' ? 'ru' : 'en';
+    try { localStorage.setItem('siteLang', next); } catch {}
+    location.reload();
+  });
+}
+
+// Applies data-en / data-en-placeholder / data-en-title / data-en-aria-label
+// attributes declared in the static HTML, when the site is in English mode.
+// Runs once at boot; static HTML content only changes on a full page reload
+// (the toggle button reloads the page), so no need to re-run this on toggle.
+function applyStaticI18n() {
+  if (getSiteLang() !== 'en') return;
+  document.querySelectorAll('[data-en]').forEach(el => {
+    const en = el.dataset.en;
+    if (!en) return;
+    if (el.children.length === 0) { el.textContent = en; return; }
+    for (let i = el.childNodes.length - 1; i >= 0; i--) {
+      const node = el.childNodes[i];
+      if (node.nodeType === Node.TEXT_NODE && node.textContent.trim()) {
+        node.textContent = ' ' + en;
+        return;
+      }
+    }
+    el.appendChild(document.createTextNode(' ' + en));
+  });
+  ['placeholder', 'title'].forEach(attr => {
+    document.querySelectorAll(`[data-en-${attr}]`).forEach(el => {
+      el.setAttribute(attr, el.dataset[`en${attr[0].toUpperCase()}${attr.slice(1)}`]);
+    });
+  });
+  document.querySelectorAll('[data-en-aria-label]').forEach(el => {
+    el.setAttribute('aria-label', el.dataset.enAriaLabel);
+  });
+}
+
 // ── Tooltip ────────────────────────────────────────
 function showTooltip(entry, x, y) {
   $tooltip.innerHTML = `
@@ -369,14 +426,14 @@ async function shareVerse(num) {
   const pick = sel => (el && el.querySelector(sel) ? el.querySelector(sel).textContent.trim() : '');
   const quote = pick('.verse-translation') || pick('.verse-text') || pick('.verse-iast') || pick('.verse-devanagari');
   const ch = currentBook().chapters[currentChapterIdx];
-  const loc = `${currentBook().titleShort}, ${ch ? ch.sthana : ''}, стих ${num}`;
+  const loc = `${tf(currentBook(), 'titleShort')}, ${ch ? tf(ch, 'sthana') : ''}, ${t('стих', 'verse')} ${num}`;
   // Цитата + атрибуция со ссылкой-источником на наш сайт
-  const text = `«${quote}»\n— ${loc}\nИсточник: ${SITE_NAME} — ${url}`;
+  const text = `«${quote}»\n— ${loc}\n${t('Источник', 'Source')}: ${SITE_NAME} — ${url}`;
   if (navigator.share) {
     try { await navigator.share({ title: loc, text }); return; } catch (_) { /* отменили — копируем */ }
   }
-  try { await navigator.clipboard.writeText(text); flash('Стих со ссылкой скопирован'); }
-  catch (_) { window.prompt('Скопируйте:', text); }
+  try { await navigator.clipboard.writeText(text); flash(t('Стих со ссылкой скопирован', 'Verse copied with link')); }
+  catch (_) { window.prompt(t('Скопируйте:', 'Copy this:'), text); }
 }
 
 // Универсальный шеринг «цитата + источник + ссылка» (статьи, средства, термины)
@@ -386,12 +443,12 @@ function shareSnippet(s, max = 280) {
 }
 async function shareContent(quote, loc, flashMsg, hash) {
   const url = location.origin + location.pathname + (hash != null ? hash : location.hash);
-  const text = `«${shareSnippet(quote)}»\n— ${loc}\nИсточник: ${SITE_NAME} — ${url}`;
+  const text = `«${shareSnippet(quote)}»\n— ${loc}\n${t('Источник', 'Source')}: ${SITE_NAME} — ${url}`;
   if (navigator.share) {
     try { await navigator.share({ title: loc, text }); return; } catch (_) { /* отменили — копируем */ }
   }
-  try { await navigator.clipboard.writeText(text); flash(flashMsg || 'Скопировано со ссылкой'); }
-  catch (_) { window.prompt('Скопируйте:', text); }
+  try { await navigator.clipboard.writeText(text); flash(flashMsg || t('Скопировано со ссылкой', 'Copied with link')); }
+  catch (_) { window.prompt(t('Скопируйте:', 'Copy this:'), text); }
 }
 
 let _ttsBtn = null;
@@ -471,10 +528,10 @@ function renderBlock(block) {
       const enText = sEng || ((_renderCtx && _renderCtx.lang === 'en') ? sText : '');
       const actions = document.createElement('div');
       actions.className = 'verse-actions';
-      let btns = `<button class="verse-act verse-act--share" title="Поделиться" aria-label="Поделиться стихом">${SHARE_SVG}</button>`;
-      if (sSkt) btns += `<button class="verse-act verse-act--tts" data-lang="hi-IN" data-field="skt" title="Озвучить санскрит">${OM_SVG}</button>`;
-      if (ruText) btns += `<button class="verse-act verse-act--tts" data-lang="ru-RU" data-field="ru" title="Озвучить русский">РУ</button>`;
-      if (enText) btns += `<button class="verse-act verse-act--tts" data-lang="en-US" data-field="en" title="Озвучить English">EN</button>`;
+      let btns = `<button class="verse-act verse-act--share" title="${t('Поделиться', 'Share')}" aria-label="${t('Поделиться стихом', 'Share this verse')}">${SHARE_SVG}</button>`;
+      if (sSkt) btns += `<button class="verse-act verse-act--tts" data-lang="hi-IN" data-field="skt" title="${t('Озвучить санскрит', 'Read Sanskrit aloud')}">${OM_SVG}</button>`;
+      if (ruText) btns += `<button class="verse-act verse-act--tts" data-lang="ru-RU" data-field="ru" title="${t('Озвучить русский', 'Read Russian aloud')}">РУ</button>`;
+      if (enText) btns += `<button class="verse-act verse-act--tts" data-lang="en-US" data-field="en" title="${t('Озвучить English', 'Read English aloud')}">EN</button>`;
       actions.innerHTML = btns;
       actions.querySelector('.verse-act--share').onclick = () => shareVerse(block.number);
       actions.querySelectorAll('.verse-act--tts').forEach(btn => {
@@ -507,7 +564,7 @@ function renderBlock(block) {
     const authorTag = authorName
       ? ` <span class="comment-author">· ${escapeHtml(authorName)}</span>`
       : '';
-    div.innerHTML = `<details><summary class="comment-label">Комментарий${authorTag}</summary><div class="comment-text">${renderText(block.text)}</div><div class="verse-actions"><button class="verse-act verse-act--tts" data-lang="ru-RU" title="Озвучить комментарий">${SPEAKER_SVG}</button></div></details>`;
+    div.innerHTML = `<details><summary class="comment-label">${t('Комментарий', 'Commentary')}${authorTag}</summary><div class="comment-text">${renderText(block.text)}</div><div class="verse-actions"><button class="verse-act verse-act--tts" data-lang="ru-RU" title="${t('Озвучить комментарий', 'Read commentary aloud')}">${SPEAKER_SVG}</button></div></details>`;
     const cmtTts = div.querySelector('.verse-act--tts');
     if (cmtTts) cmtTts.onclick = () => speakVerse(cmtTts, block.text, 'ru-RU');
   } else if (block.type === 'heading') {
@@ -527,7 +584,7 @@ let _lastJumpIdx = -1;
 function jumpToNextUntranslated() {
   const verses = [...$chapterBody.querySelectorAll('.block-verse')]
     .filter(v => v.querySelector('.verse-edit-btn--translate'));
-  if (!verses.length) { announce('Все стихи этой главы переведены'); return; }
+  if (!verses.length) { announce(t('Все стихи этой главы переведены', 'All verses in this chapter are translated')); return; }
   _lastJumpIdx = (_lastJumpIdx + 1) % verses.length;
   const target = verses[_lastJumpIdx];
   target.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -535,7 +592,7 @@ function jumpToNextUntranslated() {
   void target.offsetWidth; // рестарт анимации
   target.classList.add('verse-jump-pulse');
   setTimeout(() => target.classList.remove('verse-jump-pulse'), 2000);
-  announce(`Стих ${_lastJumpIdx + 1} из ${verses.length} без перевода`);
+  announce(t(`Стих ${_lastJumpIdx + 1} из ${verses.length} без перевода`, `Verse ${_lastJumpIdx + 1} of ${verses.length} untranslated`));
 }
 
 // ── Book selector ──────────────────────────────────
@@ -557,11 +614,11 @@ function buildBookSelector() {
     item.innerHTML = `
       <span class="book-opt-icon">${icon(book.iconKey) || book.icon}</span>
       <span class="book-opt-info">
-        <span class="book-opt-title">${escapeHtml(book.titleShort)}</span>
-        <span class="book-opt-sub">${escapeHtml(book.subtitle)}</span>
-        <span class="book-opt-stats">${book.stats.chapters} глав · ${book.stats.sthanas} разделов</span>
+        <span class="book-opt-title">${escapeHtml(tf(book, 'titleShort'))}</span>
+        <span class="book-opt-sub">${escapeHtml(tf(book, 'subtitle'))}</span>
+        <span class="book-opt-stats">${t(`${book.stats.chapters} глав · ${book.stats.sthanas} разделов`, `${book.stats.chapters} chapters · ${book.stats.sthanas} sections`)}</span>
       </span>
-      ${!book.available ? '<span class="book-opt-lock">скоро</span>' : ''}
+      ${!book.available ? `<span class="book-opt-lock">${t('скоро', 'soon')}</span>` : ''}
     `;
     item.addEventListener('click', () => {
       selectBook(idx);
@@ -596,7 +653,7 @@ function buildBookSelector() {
     const book = currentBook();
     const svg = icon(book.iconKey);
     if (svg) $icon.innerHTML = svg; else $icon.textContent = book.icon;
-    $title.textContent = book.titleShort;
+    $title.textContent = tf(book, 'titleShort');
   }
   syncBtn();
 
@@ -611,7 +668,7 @@ async function selectBook(idx) {
   // Лениво подгружаем данные книги (если ещё не загружены)
   const bk = currentBook();
   if (!bk._loaded) {
-    $nav.innerHTML = '<div class="nav-loading">Загрузка книги…</div>';
+    $nav.innerHTML = `<div class="nav-loading">${t('Загрузка книги…', 'Loading book…')}</div>`;
     await loadBookData(bk);
     if (currentBookIdx !== idx) return; // пользователь успел переключиться
   }
@@ -674,7 +731,7 @@ function buildNav() {
     label.setAttribute('role', 'button');
     label.setAttribute('tabindex', '0');
     label.setAttribute('aria-expanded', 'true');
-    label.innerHTML = `<span>${sthana}</span><span class="sthana-arrow">▾</span>`;
+    label.innerHTML = `<span>${t(sthana, (items[0] && items[0].ch.sthana_en) || sthana)}</span><span class="sthana-arrow">▾</span>`;
     const toggle = () => {
       const collapsed = group.classList.toggle('collapsed');
       label.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
@@ -697,9 +754,9 @@ function buildNav() {
         ch.lang === 'en' ? `<span class="ch-lang-badge">ENG</span>` :
         ch.hasEnglish ? `<span class="ch-lang-badge">EN</span>` :
         ch.lang === 'sa' ? `<span class="ch-lang-badge ch-lang-badge--sa">देव</span>` : '';
-      btn.innerHTML = `${numLabel}${ch.title}${langBadge}`;
+      btn.innerHTML = `${numLabel}${tf(ch, 'title')}${langBadge}`;
       if (isUnavailable) {
-        btn.title = 'Глава не переведена';
+        btn.title = t('Глава не переведена', 'Chapter not translated');
         btn.setAttribute('aria-disabled', 'true');
       } else {
         btn.addEventListener('click', () => loadChapter(idx));
@@ -753,11 +810,11 @@ function loadChapter(idx) {
   // Если данные книги ещё не подгружены — сначала грузим, потом открываем главу
   if (!book._loaded) {
     showOnly($chapterView);
-    $chapterBody.innerHTML = '<div class="nav-loading">Загрузка…</div>';
+    $chapterBody.innerHTML = `<div class="nav-loading">${t('Загрузка…', 'Loading…')}</div>`;
     loadBookData(book).then(() => {
       if (currentBook() === book) {
         if (book._loaded) loadChapter(idx);
-        else $chapterBody.innerHTML = '<div class="nav-loading">Ошибка загрузки. Попробуйте обновить страницу.</div>';
+        else $chapterBody.innerHTML = `<div class="nav-loading">${t('Ошибка загрузки. Попробуйте обновить страницу.', 'Loading error. Try refreshing the page.')}</div>`;
       }
     });
     return;
@@ -777,15 +834,15 @@ function loadChapter(idx) {
 
   showOnly($chapterView);
 
-  $chBreadcrumb.textContent = ch.sthana;
+  $chBreadcrumb.textContent = tf(ch, 'sthana');
   $chTitle.textContent = ch.number > 0
-    ? `Глава ${ch.number}. ${ch.title}`
-    : ch.title;
-  $chSubtitle.textContent = ch.subtitle || '';
+    ? `${t('Глава', 'Chapter')} ${ch.number}. ${tf(ch, 'title')}`
+    : tf(ch, 'title');
+  $chSubtitle.textContent = tf(ch, 'subtitle') || '';
   $chSubtitle.hidden = !ch.subtitle;
 
   renderChapterBody(ch, idx);
-  announce(`${currentBook().titleShort}. ${ch.number > 0 ? 'Глава ' + ch.number + '. ' : ''}${ch.title}`);
+  announce(`${tf(currentBook(), 'titleShort')}. ${ch.number > 0 ? t('Глава ', 'Chapter ') + ch.number + '. ' : ''}${tf(ch, 'title')}`);
 
   // Проверка платного доступа (paywall появляется только если платежи включены)
   applyAccessGate(ch, idx);
@@ -820,11 +877,13 @@ function renderPaywall(ch, book) {
   box.className = 'paywall';
   box.innerHTML = `
     <div class="paywall-icon">${LOCK_SVG}</div>
-    <h3 class="paywall-title">Глава доступна по подписке</h3>
-    <p class="paywall-desc">Книга «${escapeHtml(book.titleShort || book.title)}» — часть платного доступа.
-    Первые главы открыты для ознакомления. Оформите доступ, чтобы читать целиком.</p>
+    <h3 class="paywall-title">${t('Глава доступна по подписке', 'This chapter requires a subscription')}</h3>
+    <p class="paywall-desc">${t(
+      `Книга «${escapeHtml(tf(book, 'titleShort') || tf(book, 'title'))}» — часть платного доступа. Первые главы открыты для ознакомления. Оформите доступ, чтобы читать целиком.`,
+      `“${escapeHtml(tf(book, 'titleShort') || tf(book, 'title'))}” is part of the paid access tier. The first chapters are open for preview. Get access to read the whole book.`
+    )}</p>
     <div class="paywall-store"></div>
-    <p class="paywall-note">Вход и оплата — в разделе «Кабинет». Аштанга-хридая-самхита доступна бесплатно.</p>
+    <p class="paywall-note">${t('Вход и оплата — в разделе «Кабинет». Аштанга-хридая-самхита доступна бесплатно.', 'Sign-in and payment are in the "Cabinet" section. Ashtanga Hridaya Samhita is available for free.')}</p>
   `;
   $chapterBody.appendChild(box);
   Cabinet.renderStore(box.querySelector('.paywall-store'), book.id);
@@ -1075,7 +1134,7 @@ function buildGlossaryView() {
   const countEl = document.getElementById('glossary-count');
   const filterEl = document.getElementById('glossary-filter');
 
-  countEl.textContent = `${GLOSSARY.length} терминов`;
+  countEl.textContent = t(`${GLOSSARY.length} терминов`, `${GLOSSARY.length} terms`);
 
   // Group by category (first word of def context)
   const categories = {
@@ -1096,6 +1155,26 @@ function buildGlossaryView() {
     'Классические авторы': [],
     'Болезни': [],
     'Разное': [],
+  };
+
+  const CATEGORY_EN = {
+    'Три доши и их субтипы': 'The Three Doshas and Their Subtypes',
+    'Семь тканей (дхату)': 'The Seven Tissues (Dhatus)',
+    'Тонкие эссенции': 'Subtle Essences',
+    'Шесть вкусов': 'The Six Tastes',
+    'Качества (гуны)': 'Qualities (Gunas)',
+    'Пять элементов': 'The Five Elements',
+    'Органы чувств': 'Sense Organs',
+    'Панча-карма и терапия': 'Panchakarma and Therapy',
+    'Диагностика': 'Diagnostics',
+    'Растения и препараты': 'Plants and Preparations',
+    'Философия и психология': 'Philosophy and Psychology',
+    'Здоровье и болезнь': 'Health and Disease',
+    'Распорядок жизни': 'Daily Routine',
+    'Каналы': 'Channels',
+    'Классические авторы': 'Classical Authors',
+    'Болезни': 'Diseases',
+    'Разное': 'Miscellaneous',
   };
 
   const catMap = {
@@ -1158,7 +1237,7 @@ function buildGlossaryView() {
     body.innerHTML = '';
     const q = filter.toLowerCase().trim();
     const filtered = q
-      ? GLOSSARY.filter(e => e.term.toLowerCase().includes(q) || e.def.toLowerCase().includes(q) || e.origin.toLowerCase().includes(q))
+      ? GLOSSARY.filter(e => tf(e, 'term').toLowerCase().includes(q) || tf(e, 'def').toLowerCase().includes(q) || e.origin.toLowerCase().includes(q))
       : GLOSSARY;
 
     // Group
@@ -1176,7 +1255,7 @@ function buildGlossaryView() {
       if (!grouped[cat] || grouped[cat].length === 0) continue;
       const label = document.createElement('div');
       label.className = 'glossary-category-title';
-      label.textContent = cat;
+      label.textContent = t(cat, CATEGORY_EN[cat] || cat);
       frag.appendChild(label);
 
       for (const entry of grouped[cat]) {
@@ -1184,10 +1263,10 @@ function buildGlossaryView() {
         const encRef = glossaryEncMap()[entry.term];
         card.className = encRef ? 'glossary-card glossary-card--linked' : 'glossary-card';
         card.innerHTML = `
-          <div class="glossary-card-term">${entry.term}${encRef ? ' <span class="glossary-enc-link">→ статья</span>' : ''}</div>
+          <div class="glossary-card-term">${tf(entry, 'term')}${encRef ? ` <span class="glossary-enc-link">→ ${t('статья', 'article')}</span>` : ''}</div>
           <div class="glossary-card-origin">${entry.origin}</div>
-          <div class="glossary-card-def">${entry.def}</div>
-          <button class="card-share" title="Поделиться термином" aria-label="Поделиться термином">${SHARE_SVG}</button>
+          <div class="glossary-card-def">${tf(entry, 'def')}</div>
+          <button class="card-share" title="${t('Поделиться термином', 'Share this term')}" aria-label="${t('Поделиться термином', 'Share this term')}">${SHARE_SVG}</button>
         `;
         if (encRef) {
           card.addEventListener('click', async () => {
@@ -1198,7 +1277,7 @@ function buildGlossaryView() {
         }
         card.querySelector('.card-share').addEventListener('click', (e) => {
           e.stopPropagation();
-          shareContent(`${entry.term} — ${entry.def}`, `Глоссарий терминов: ${entry.term}`, 'Термин скопирован со ссылкой', '#glossary');
+          shareContent(`${tf(entry, 'term')} — ${tf(entry, 'def')}`, `${t('Глоссарий терминов', 'Glossary of Terms')}: ${tf(entry, 'term')}`, t('Термин скопирован со ссылкой', 'Term copied with link'), '#glossary');
         });
         frag.appendChild(card);
       }
@@ -1207,11 +1286,11 @@ function buildGlossaryView() {
     if (frag.childNodes.length === 0) {
       const msg = document.createElement('div');
       msg.className = 'no-results';
-      msg.textContent = `Термин «${filter}» не найден`;
+      msg.textContent = t(`Термин «${filter}» не найден`, `No term found for “${filter}”`);
       frag.appendChild(msg);
     }
     body.appendChild(frag);
-    countEl.textContent = `${filtered.length} из ${GLOSSARY.length} терминов`;
+    countEl.textContent = t(`${filtered.length} из ${GLOSSARY.length} терминов`, `${filtered.length} of ${GLOSSARY.length} terms`);
   }
 
   renderAll('');
@@ -1253,9 +1332,11 @@ function buildDiseasesView() {
       const matched = q
         ? diseases.filter(d =>
             (d.name||'').toLowerCase().includes(q) ||
+            (d.name_en||'').toLowerCase().includes(q) ||
             (d.origin||'').toLowerCase().includes(q) ||
             (d.dosha||'').toLowerCase().includes(q) ||
             (d.desc||'').toLowerCase().includes(q) ||
+            (d.desc_en||'').toLowerCase().includes(q) ||
             (d.treatment||'').toLowerCase().includes(q) ||
             cat.toLowerCase().includes(q))
         : diseases;
@@ -1265,7 +1346,7 @@ function buildDiseasesView() {
       section.className = 'disease-category';
       const title = document.createElement('div');
       title.className = 'disease-category-title';
-      title.textContent = cat;
+      title.textContent = getSiteLang() === 'en' && matched[0].category_en ? matched[0].category_en : cat;
       section.appendChild(title);
 
       for (const d of matched) {
@@ -1280,12 +1361,12 @@ function buildDiseasesView() {
         }).join('');
         card.innerHTML = `
           <div class="disease-card-header">
-            <span class="disease-card-name">${d.name}</span>
+            <span class="disease-card-name">${tf(d, 'name')}</span>
             <span class="disease-card-origin">${d.origin}</span>
-            <span class="disease-card-dosha">${d.dosha}</span>
+            <span class="disease-card-dosha">${tf(d, 'dosha')}</span>
           </div>
-          <div class="disease-card-desc">${d.desc}</div>
-          <div class="disease-card-treatment">${d.treatment}</div>
+          <div class="disease-card-desc">${tf(d, 'desc')}</div>
+          <div class="disease-card-treatment">${tf(d, 'treatment')}</div>
           <div class="disease-card-chapters">${chips}</div>
         `;
         section.appendChild(card);
@@ -1296,11 +1377,11 @@ function buildDiseasesView() {
     if (shown === 0) {
       const msg = document.createElement('div');
       msg.className = 'no-results';
-      msg.textContent = `По запросу «${filter}» ничего не найдено`;
+      msg.textContent = t(`По запросу «${filter}» ничего не найдено`, `No results for “${filter}”`);
       frag.appendChild(msg);
     }
     body.appendChild(frag);
-    if (countEl) countEl.textContent = q ? `${shown} из ${DISEASES.length}` : `${DISEASES.length} болезней`;
+    if (countEl) countEl.textContent = q ? t(`${shown} из ${DISEASES.length}`, `${shown} of ${DISEASES.length}`) : t(`${DISEASES.length} болезней`, `${DISEASES.length} diseases`);
   }
 
   if (!diseasesBuilt) {
@@ -1489,11 +1570,11 @@ function buildRemediesView() {
     $list.innerHTML = '';
     const q = query.toLowerCase().trim();
     const items = q
-      ? REMEDIES.filter(r => r.name.toLowerCase().includes(q) || r.content.toLowerCase().includes(q))
+      ? REMEDIES.filter(r => tf(r, 'name').toLowerCase().includes(q) || tf(r, 'content').toLowerCase().includes(q))
       : REMEDIES;
 
     if (items.length === 0) {
-      $list.innerHTML = `<div class="no-results">Ничего не найдено по запросу «${escapeHtml(query)}»</div>`;
+      $list.innerHTML = `<div class="no-results">${t(`Ничего не найдено по запросу «${escapeHtml(query)}»`, `Nothing found for “${escapeHtml(query)}”`)}</div>`;
       return;
     }
 
@@ -1501,18 +1582,19 @@ function buildRemediesView() {
     items.forEach(remedy => {
       const card = document.createElement('div');
       card.className = 'remedy-card';
-      const preview = remedy.content.replace(/\n+/g, ' ').slice(0, 180).trim();
+      const preview = tf(remedy, 'content').replace(/\n+/g, ' ').slice(0, 180).trim();
       card.innerHTML = `
-        <div class="remedy-card-name">${escapeHtml(remedy.name)}</div>
+        <div class="remedy-card-name">${escapeHtml(tf(remedy, 'name'))}</div>
         <div class="remedy-card-preview">${escapeHtml(preview)}…</div>
       `;
       card.addEventListener('click', () => {
-        $dtitle.textContent = remedy.name;
-        $dbody.innerHTML = renderRemedyContent(remedy.content, remedy.name);
+        $dtitle.textContent = tf(remedy, 'name');
+        $dbody.innerHTML = renderRemedyContent(tf(remedy, 'content'), tf(remedy, 'name'));
         let sb = $detail.querySelector('.card-share');
-        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = SHARE_SVG + ' Поделиться'; }
+        if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; }
+        sb.innerHTML = SHARE_SVG + t(' Поделиться', ' Share');
         $dbody.after(sb); // в конец статьи, после текста
-        sb.onclick = () => shareContent(remedy.content, `Домашнее средство: ${remedy.name}`, 'Средство скопировано со ссылкой', '#remedies');
+        sb.onclick = () => shareContent(tf(remedy, 'content'), `${t('Домашнее средство', 'Home remedy')}: ${tf(remedy, 'name')}`, t('Средство скопировано со ссылкой', 'Remedy copied with link'), '#remedies');
         $list.hidden = true;
         $filter.parentElement.hidden = true;
         $detail.hidden = false;
@@ -1568,6 +1650,36 @@ const BOOK_LABELS = {
   joshi_panchakarma:   'Аюрведа и Панчакарма (Сунил Джоши)',
   ojasvi_lectures:     'Аюрведа: курс лекций (Оджасви дас)',
   solovyova:           'Аюрведа. Три пути к абсолютному здоровью (Соловьёва Л.Н.)',
+};
+
+const BOOK_LABELS_EN = {
+  ashtanga:            'Ashtanga Hridaya Samhita (Vagbhata)',
+  basics:              'Ayurveda for Beginners (Vasant Lad)',
+  ayurveda1992:        'Ayurveda: The Science of Self-Healing (Vasant Lad)',
+  ayurtest:            'Ayurveda and Health (Sharad Joshi)',
+  fundaments:          'Fundamentals of Ayurveda (Mathura Mandal Das)',
+  neapolitansky:       'Ayurveda Every Day (Neapolitansky)',
+  neapolitansky_2:     'Ayurveda Every Day — Tantra (Neapolitansky)',
+  prakriti:            'Prakriti: Your Constitution (Svoboda)',
+  svoboda_ayurveda:    'Ayurveda: Life, Health and Longevity (Svoboda)',
+  cooking:             'Ayurvedic Cooking (Vasant Lad)',
+  recipes:             'Ayurveda: Healthy Recipes',
+  morningstar_cooking: 'Ayurvedic Cooking for Westerners (Morningstar)',
+  morningstar_polarity:'Ayurveda and Polarity Therapy (Morningstar)',
+  beauty:              'Absolute Beauty (Pratima Raichur)',
+  miller:              'Ayurveda for the Whole Family (Light Miller)',
+  miller_aroma:        'Ayurveda and Aromatherapy (Light and Bryan Miller)',
+  kavi_raj:            'Ayurveda for Children (Kavi Raj)',
+  panchakarma:         'Ayurvedic Home Remedies (Vasant Lad)',
+  antonova:            'Cleansing the Body (Antonova L.V.)',
+  bhagwan_dash:        'Alchemy and Metallic Medicines in Ayurveda (Bhagwan Dash)',
+  vinod_1:             'Ayurveda: The Science of Life (Vinod Verma)',
+  vinod_2:             'Ayurveda: The Science of Life — Expanded Ed. (Vinod Verma)',
+  frawley_lad_herbs:   'The Yoga of Herbs (Frawley, Vasant Lad)',
+  maharishi_book:      'Maharishi Ayurveda',
+  joshi_panchakarma:   'Ayurveda and Panchakarma (Sunil Joshi)',
+  ojasvi_lectures:     'Ayurveda: A Lecture Course (Ojasvi Das)',
+  solovyova:           'Ayurveda: Three Paths to Absolute Health (Solovyova L.N.)',
 };
 
 let encyclopediaBuilt = false;
@@ -1658,12 +1770,12 @@ function renderArticleContent(text) {
   }).join('');
 }
 
-let encLang = (() => { try { return localStorage.getItem('encLang') || 'ru'; } catch { return 'ru'; } })();
+let siteLang = (() => { try { return localStorage.getItem('siteLang') || 'ru'; } catch { return 'ru'; } })();
 
-// Returns the translated value of `field` for `obj` when encLang is 'en' and a
+// Returns the translated value of `field` for `obj` when siteLang is 'en' and a
 // `${field}_en` variant exists; otherwise falls back to the Russian original.
 function encT(obj, field) {
-  if (encLang === 'en' && obj[`${field}_en`]) return obj[`${field}_en`];
+  if (siteLang === 'en' && obj[`${field}_en`]) return obj[`${field}_en`];
   return obj[field] || '';
 }
 
@@ -1703,7 +1815,7 @@ function buildEncyclopediaView() {
         <div class="enc-sec-icon">${icon(sec.icon)}</div>
         <div class="enc-sec-info">
           <div class="enc-sec-title">${escapeHtml(encT(sec, 'title'))}</div>
-          <div class="enc-sec-count">${sec.articles.length} ${encLang === 'en' ? 'articles' : 'статей'}</div>
+          <div class="enc-sec-count">${sec.articles.length} ${siteLang === 'en' ? 'articles' : 'статей'}</div>
           <div class="enc-sec-desc">${escapeHtml(encT(sec, 'description'))}</div>
         </div>
       `;
@@ -1715,27 +1827,27 @@ function buildEncyclopediaView() {
 
   function updateLangToggle() {
     if (!$langToggle) return;
-    $langToggle.textContent = encLang === 'en' ? 'EN' : 'RU';
-    $langToggle.dataset.lang = encLang;
+    $langToggle.textContent = siteLang === 'en' ? 'EN' : 'RU';
+    $langToggle.dataset.lang = siteLang;
     const $headerTitle = document.getElementById('enc-header-title');
-    if ($headerTitle) $headerTitle.textContent = encLang === 'en' ? 'Ayurveda Encyclopedia' : 'Энциклопедия аюрведы';
+    if ($headerTitle) $headerTitle.textContent = siteLang === 'en' ? 'Ayurveda Encyclopedia' : 'Энциклопедия аюрведы';
     const totalArticles = ENCYCLOPEDIA.reduce((n, s) => n + s.articles.length, 0);
     const $subtitle = document.querySelector('.enc-subtitle');
     if ($subtitle) {
-      $subtitle.textContent = encLang === 'en'
+      $subtitle.textContent = siteLang === 'en'
         ? `${totalArticles} articles across ${ENCYCLOPEDIA.length} sections · synthesis of 46 books`
         : `${totalArticles} статей по ${ENCYCLOPEDIA.length} разделам · синтез 46 книг`;
     }
-    if ($search) $search.placeholder = encLang === 'en' ? 'Search the encyclopedia…' : 'Поиск по энциклопедии…';
-    if ($backSec) $backSec.textContent = encLang === 'en' ? '← Sections' : '← Разделы';
-    if ($backArt) $backArt.textContent = encLang === 'en' ? '← Back to section' : '← К разделу';
+    if ($search) $search.placeholder = siteLang === 'en' ? 'Search the encyclopedia…' : 'Поиск по энциклопедии…';
+    if ($backSec) $backSec.textContent = siteLang === 'en' ? '← Sections' : '← Разделы';
+    if ($backArt) $backArt.textContent = siteLang === 'en' ? '← Back to section' : '← К разделу';
   }
   updateLangToggle();
 
   if ($langToggle) {
     $langToggle.addEventListener('click', () => {
-      encLang = encLang === 'en' ? 'ru' : 'en';
-      try { localStorage.setItem('encLang', encLang); } catch {}
+      siteLang = siteLang === 'en' ? 'ru' : 'en';
+      try { localStorage.setItem('siteLang', siteLang); } catch {}
       updateLangToggle();
       renderSectionGrid();
       if (currentPanel === 'articles' && currentEncSection) showArticles(currentEncSection);
@@ -1781,7 +1893,7 @@ function buildEncyclopediaView() {
   function showArticle(art) {
     currentPanel = 'article';
     currentArt = art;
-    const isUntranslated = encLang === 'en' && !art.title_en;
+    const isUntranslated = siteLang === 'en' && !art.title_en;
     $artTitle.textContent   = encT(art, 'title');
     $artSummary.textContent = encT(art, 'summary');
     const bodyField = art.body !== undefined ? 'body' : 'content';
@@ -1791,13 +1903,13 @@ function buildEncyclopediaView() {
     $artBody.innerHTML      = untranslatedNote + renderArticleContent(encT(art, bodyField) || art.body || art.content || '');
     $artMeta.innerHTML      = currentEncSection ? `${icon(currentEncSection.icon)} ${escapeHtml(encT(currentEncSection, 'title'))}` : '';
     const sourcesHtml = art.sources
-      .map(s => `<span class="enc-source-tag">${escapeHtml(BOOK_LABELS[s] || s)}</span>`)
+      .map(s => `<span class="enc-source-tag">${escapeHtml(getSiteLang() === 'en' ? (BOOK_LABELS_EN[s] || refLabelEn(s) || BOOK_LABELS[s] || s) : (BOOK_LABELS[s] || s))}</span>`)
       .join('');
-    $artSources.innerHTML = `<div class="enc-sources-label">${encLang === 'en' ? 'Sources:' : 'Источники:'}</div>${sourcesHtml}`;
+    $artSources.innerHTML = `<div class="enc-sources-label">${siteLang === 'en' ? 'Sources:' : 'Источники:'}</div>${sourcesHtml}`;
     let sb = $artContent.querySelector('.card-share');
     if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; $artSources.after(sb); }
-    sb.innerHTML = SHARE_SVG + (encLang === 'en' ? ' Share' : ' Поделиться');
-    sb.onclick = () => shareContent(encT(art, 'summary') || encT(art, bodyField) || art.title, `${encLang === 'en' ? 'Encyclopedia' : 'Энциклопедия'}: ${encT(art, 'title')}`, encLang === 'en' ? 'Article copied with link' : 'Статья скопирована со ссылкой');
+    sb.innerHTML = SHARE_SVG + (siteLang === 'en' ? ' Share' : ' Поделиться');
+    sb.onclick = () => shareContent(encT(art, 'summary') || encT(art, bodyField) || art.title, `${siteLang === 'en' ? 'Encyclopedia' : 'Энциклопедия'}: ${encT(art, 'title')}`, siteLang === 'en' ? 'Article copied with link' : 'Статья скопирована со ссылкой');
     $sectView.hidden   = true;
     $artView.hidden    = true;
     $artContent.hidden = false;
@@ -1852,7 +1964,7 @@ function buildEncyclopediaView() {
       }
       $searchRes.innerHTML = '';
       if (results.length === 0) {
-        $searchRes.innerHTML = `<div class="no-results">${encLang === 'en' ? `Nothing found for “${escapeHtml($search.value)}”` : `Ничего не найдено по запросу «${escapeHtml($search.value)}»`}</div>`;
+        $searchRes.innerHTML = `<div class="no-results">${siteLang === 'en' ? `Nothing found for “${escapeHtml($search.value)}”` : `Ничего не найдено по запросу «${escapeHtml($search.value)}»`}</div>`;
       } else {
         const f = document.createDocumentFragment();
         results.forEach(({ sec, art }) => {
@@ -1889,6 +2001,11 @@ const REFERENCES = [
     year: 'Источник русского текста и комментариев на сайте',
     description: 'Русский перевод Аштанга-хридая-самхиты — основной текст сайта. 56 глав, 6 стхан. Комментарии И.И. Ветрова к каждому стиху.',
     category: '📌 Источник сайта',
+    title_en: "Ashtanga Hridaya Samhita — Russian Translation",
+    author_en: "Transl. Yu.V. Sorokina · Comm. by I.I. Vetrov",
+    year_en: "Source of the Russian text and commentary on the site",
+    description_en: "Russian translation of the Ashtanga Hridaya Samhita — the main text of the site. 56 chapters, 6 sthanas. Commentary by I.I. Vetrov on every verse.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_ashtanga_skt',
@@ -1897,6 +2014,11 @@ const REFERENCES = [
     year: 'Источник деванагари и транслитерации IAST',
     description: 'Санскритский текст (деванагари) и транслитерация IAST для Аштанга-хридая-самхиты. Открытый академический ресурс.',
     category: '📌 Источник сайта',
+    title_en: "Ashtanga Hridaya — Sanskrit and IAST",
+    author_en: "Wisdom Library · wisdomlib.org",
+    year_en: "Source of the Devanagari text and IAST transliteration",
+    description_en: "Sanskrit text (Devanagari) and IAST transliteration for the Ashtanga Hridaya Samhita. An open academic resource.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_ashtanga_en',
@@ -1905,6 +2027,11 @@ const REFERENCES = [
     year: 'Источник английских переводов (главы с пометкой ENG)',
     description: 'Английский перевод Аштанга-хридая-самхиты К.Р. Шрикантха Мурти. Используется для глав, переведённых на английский.',
     category: '📌 Источник сайта',
+    title_en: "Ashtanga Hridaya — English Translation",
+    author_en: "Prof. K.R. Srikantha Murthy · Wisdom Library",
+    year_en: "Source of English translations (chapters marked ENG)",
+    description_en: "English translation of the Ashtanga Hridaya Samhita by Prof. K.R. Srikantha Murthy. Used for chapters translated into English.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_charaka_ru',
@@ -1913,6 +2040,11 @@ const REFERENCES = [
     year: 'Источник русского текста',
     description: 'Русский перевод Чарака-самхиты — 120 глав, 8 стхан. Фундаментальный трактат по внутренней медицине (Каятантра).',
     category: '📌 Источник сайта',
+    title_en: "Charaka Samhita — Russian Translation",
+    author_en: "Charaka · Dridhabala · Russian translation",
+    year_en: "Source of the Russian text",
+    description_en: "Russian translation of the Charaka Samhita — 120 chapters, 8 sthanas. A foundational treatise on internal medicine (Kayachikitsa).",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_charaka_en',
@@ -1921,6 +2053,11 @@ const REFERENCES = [
     year: 'Источник английских переводов стихов',
     description: 'Английский перевод Чарака-самхиты с комментариями. Открытый ресурс, используемый для глав с пометкой ENG.',
     category: '📌 Источник сайта',
+    title_en: "Charaka Samhita — English Translation",
+    author_en: "carakasamhitaonline.com",
+    year_en: "Source of English verse translations",
+    description_en: "English translation of the Charaka Samhita with commentary. An open resource used for chapters marked ENG.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_charaka_skt',
@@ -1929,6 +2066,11 @@ const REFERENCES = [
     year: 'Источник деванагари и IAST',
     description: 'Санскритский оригинал (деванагари) и транслитерация IAST для Чарака-самхиты.',
     category: '📌 Источник сайта',
+    title_en: "Charaka Samhita — Sanskrit and IAST",
+    author_en: "Wisdom Library · carakasamhitaonline.com",
+    year_en: "Source of the Devanagari text and IAST",
+    description_en: "Original Sanskrit text (Devanagari) and IAST transliteration for the Charaka Samhita.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_sushruta_ru',
@@ -1937,6 +2079,11 @@ const REFERENCES = [
     year: 'Источник русского текста',
     description: 'Русский перевод Сушрута-самхиты — классический трактат по хирургии (Шалья-тантра). 186 глав, 6 стхан.',
     category: '📌 Источник сайта',
+    title_en: "Sushruta Samhita — Russian Translation",
+    author_en: "Sushruta · Russian translation",
+    year_en: "Source of the Russian text",
+    description_en: "Russian translation of the Sushruta Samhita — the classical treatise on surgery (Shalya Tantra). 186 chapters, 6 sthanas.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_sushruta_skt',
@@ -1945,6 +2092,11 @@ const REFERENCES = [
     year: 'Источник деванагари и транслитерации IAST',
     description: 'Санскритский текст (деванагари) и IAST для Сушрута-самхиты из открытых академических источников.',
     category: '📌 Источник сайта',
+    title_en: "Sushruta Samhita — Sanskrit and IAST",
+    author_en: "Wisdom Library · wisdomlib.org",
+    year_en: "Source of the Devanagari text and IAST transliteration",
+    description_en: "Sanskrit text (Devanagari) and IAST for the Sushruta Samhita from open academic sources.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_sushruta_en',
@@ -1953,6 +2105,11 @@ const REFERENCES = [
     year: '1907–1916 · public domain',
     description: 'Английский перевод Сушрута-самхиты в трёх томах: Vol. I — Сутрастхана (1907), Vol. II — Нидана, Шарира, Чикитса, Калпа (1911), Vol. III — Уттара Тантра (1916). Распознано из сканов archive.org (OCR) — возможны незначительные ошибки.',
     category: '📌 Источник сайта',
+    title_en: "Sushruta Samhita — English Translation (Bhishagratna)",
+    author_en: "Kaviraj Kunjalal Bhishagratna",
+    year_en: "1907–1916 · public domain",
+    description_en: "English translation of the Sushruta Samhita in three volumes: Vol. I — Sutrasthana (1907), Vol. II — Nidana, Sharira, Chikitsa, Kalpa (1911), Vol. III — Uttara Tantra (1916). OCR-scanned from archive.org — minor errors may remain.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_madhava',
@@ -1961,6 +2118,11 @@ const REFERENCES = [
     year: 'Источник текста',
     description: 'Русский перевод и санскрит Мадхава-ниданы — основной текст по диагностике заболеваний в аюрведе.',
     category: '📌 Источник сайта',
+    title_en: "Madhava Nidana — Text and Translation",
+    author_en: "Madhavakara · Russian translation",
+    year_en: "Source of the text",
+    description_en: "Russian translation and Sanskrit of the Madhava Nidana — the principal Ayurvedic text on disease diagnosis.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_sharangadhara',
@@ -1969,6 +2131,11 @@ const REFERENCES = [
     year: 'Источник текста',
     description: 'Русский перевод и санскрит Шарангадхара-самхиты — трактат по фармакологии и приготовлению лекарств.',
     category: '📌 Источник сайта',
+    title_en: "Sharangadhara Samhita — Text and Translation",
+    author_en: "Sharangadhara · Russian translation",
+    year_en: "Source of the text",
+    description_en: "Russian translation and Sanskrit of the Sharangadhara Samhita — a treatise on pharmacology and medicine preparation.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_bhavaprakasha',
@@ -1977,6 +2144,11 @@ const REFERENCES = [
     year: 'Источник текста',
     description: 'Русский перевод и санскрит Бхавапракаши — энциклопедический труд по аюрведе, включающий обширную Материя Медика.',
     category: '📌 Источник сайта',
+    title_en: "Bhavaprakasha — Text and Translation",
+    author_en: "Bhavamishra · Russian translation",
+    year_en: "Source of the text",
+    description_en: "Russian translation and Sanskrit of the Bhavaprakasha — an encyclopedic Ayurvedic work including an extensive Materia Medica.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_astanga_sangraha',
@@ -1985,6 +2157,11 @@ const REFERENCES = [
     year: 'Источник текста',
     description: 'Русский перевод и санскрит Аштанга-санграхи — более подробная версия Аштанга-хридаи, также созданная Вагбхатой.',
     category: '📌 Источник сайта',
+    title_en: "Ashtanga Sangraha — Text and Translation",
+    author_en: "Vagbhata (the Elder) · Russian translation",
+    year_en: "Source of the text",
+    description_en: "Russian translation and Sanskrit of the Ashtanga Sangraha — a more detailed version of the Ashtanga Hridaya, also composed by Vagbhata.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_kashyapa',
@@ -1993,6 +2170,11 @@ const REFERENCES = [
     year: 'Источник текста',
     description: 'Русский перевод и санскрит Кашьяпа-самхиты — древнейшего трактата по аюрведической педиатрии. На сайте представлена Сиддхи-стхана целиком (7 глав) и вся сохранившаяся часть Кхила-стханы (24 главы) — 31 глава, 1343 стиха, вся уцелевшая по известным манускриптам часть трактата.',
     category: '📌 Источник сайта',
+    title_en: "Kashyapa Samhita — Text and Translation",
+    author_en: "Kashyapa (Vriddhajivaka) · Russian translation",
+    year_en: "Source of the text",
+    description_en: "Russian translation and Sanskrit of the Kashyapa Samhita — the oldest treatise on Ayurvedic pediatrics. The site presents the entire Siddhi Sthana (7 chapters) and the whole surviving portion of the Khila Sthana (24 chapters) — 31 chapters, 1343 verses, the entire part of the treatise preserved in known manuscripts.",
+    category_en: "📌 Site Source",
   },
   {
     id: 'src_rasaratna',
@@ -2001,6 +2183,11 @@ const REFERENCES = [
     year: 'Источник текста',
     description: 'Русский перевод и санскрит Расаратна-самуччаи — трактата по индийской иатрохимии. Перевод в процессе, на сайте представлена глава 1.',
     category: '📌 Источник сайта',
+    title_en: "Rasaratna Samuccaya — Text and Translation",
+    author_en: "Vagbhata (rasashastra) · Russian translation",
+    year_en: "Source of the text",
+    description_en: "Russian translation and Sanskrit of the Rasaratna Samuccaya — a treatise on Indian iatrochemistry. Translation in progress; chapter 1 is currently on the site.",
+    category_en: "📌 Site Source",
   },
 
   // ── Классические тексты ───────────────────────────────────────────────────
@@ -2011,6 +2198,11 @@ const REFERENCES = [
     year: 'VII век н.э. · пер. Ю.В. Сорокиной, комм. И.И. Ветрова',
     description: 'Один из трёх главных классических текстов аюрведы (Брихат-трайи). Энциклопедический труд, охватывающий все разделы: физиологию, диагностику, фармакологию, хирургию, педиатрию, психиатрию. Основной текст этого читалища.',
     category: 'Классический текст',
+    title_en: "Ashtanga Hridaya Samhita",
+    author_en: "Vagbhata",
+    year_en: "7th century CE · transl. Yu.V. Sorokina, comm. by I.I. Vetrov",
+    description_en: "One of the three principal classical texts of Ayurveda (Brihat Trayi). An encyclopedic work covering all branches: physiology, diagnosis, pharmacology, surgery, pediatrics, psychiatry. The primary text of this reading room.",
+    category_en: "Classical Text",
   },
 
   // ── Введение и базовая теория ─────────────────────────────────────────────
@@ -2021,6 +2213,11 @@ const REFERENCES = [
     year: '~2003, рус. пер.',
     description: 'Вводный курс по аюрведе от одного из самых известных аюрведических врачей мирового уровня. Охватывает основные концепции: пять элементов, три доши, питание, режим дня, домашние практики.',
     category: 'Введение',
+    title_en: "Ayurveda for Beginners",
+    author_en: "Vasant Lad",
+    year_en: "~2003, Russian transl.",
+    description_en: "An introductory course in Ayurveda from one of the most renowned Ayurvedic physicians of world stature. Covers core concepts: the five elements, the three doshas, diet, daily routine, home practices.",
+    category_en: "Introduction",
   },
   {
     id: 'ayurveda1992',
@@ -2029,6 +2226,11 @@ const REFERENCES = [
     year: '1984 (ориг.), рус. пер.',
     description: 'Классическое введение в аюрведу, ставшее стандартным учебником на Западе. Детально рассматривает диагностику пульса, языка, питание по конституции, панча-карму и домашние средства.',
     category: 'Учебник',
+    title_en: "Ayurveda: The Science of Self-Healing",
+    author_en: "Vasant Lad",
+    year_en: "1984 (orig.), Russian transl.",
+    description_en: "A classic introduction to Ayurveda that became a standard textbook in the West. Covers pulse and tongue diagnosis, diet by constitution, panchakarma, and home remedies in detail.",
+    category_en: "Textbook",
   },
   {
     id: 'fundaments',
@@ -2037,6 +2239,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Академический труд, детально рассматривающий базовые концепции на основе классических текстов (Чарака-самхиты, Сушрута-самхиты). Включает разбор шадпадартхи (шести онтологических категорий) и концепций дхату, малы, сроты.',
     category: 'Теория',
+    title_en: "The Fundamentals of Ayurveda",
+    author_en: "Mathura Mandal Das",
+    year_en: "Russian transl.",
+    description_en: "An academic work examining basic concepts in detail based on classical texts (Charaka Samhita, Sushruta Samhita). Includes an analysis of shad-padartha (the six ontological categories) and the concepts of dhatu, mala, and srotas.",
+    category_en: "Theory",
   },
   {
     id: 'neapolitansky',
@@ -2045,6 +2252,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Практическое руководство по применению аюрведических принципов в современной жизни. Рассматривает диначарью, ритусандхи (сезонные переходы), панча-бхуту и прикладные аспекты доша-балансирования.',
     category: 'Практика',
+    title_en: "Ayurveda for Every Day",
+    author_en: "S.M. Neapolitansky",
+    year_en: "Russian ed.",
+    description_en: "A practical guide to applying Ayurvedic principles in modern life. Covers dinacharya, ritusandhi (seasonal transitions), pancha bhuta, and applied aspects of dosha balancing.",
+    category_en: "Practice",
   },
   {
     id: 'ayurtest',
@@ -2053,6 +2265,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Руководство по аюрведической диагностике и терапии от практикующего врача. Особое внимание уделяется нади-парикша (диагностике пульса), методам определения викрити и подбору лечебных протоколов.',
     category: 'Диагностика',
+    title_en: "Joshi — Ayurveda and Health",
+    author_en: "Sharad Joshi",
+    year_en: "Russian transl.",
+    description_en: "A guide to Ayurvedic diagnosis and therapy from a practicing physician. Special attention is given to nadi pariksha (pulse diagnosis), methods of determining vikriti, and selecting treatment protocols.",
+    category_en: "Diagnostics",
   },
 
   // ── Конституция и праkriti ────────────────────────────────────────────────
@@ -2063,6 +2280,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Подробное исследование концепции пракрити — индивидуальной конституции. Автор — первый западный выпускник аюрведической медицины в Индии. Философский и практический взгляд на природу человека через призму трёх дош.',
     category: 'Конституция',
+    title_en: "Prakriti: Your Ayurvedic Constitution",
+    author_en: "Robert Svoboda",
+    year_en: "Russian transl.",
+    description_en: "A detailed study of prakriti — individual constitution. The author was the first Western graduate of Ayurvedic medicine in India. A philosophical and practical view of human nature through the lens of the three doshas.",
+    category_en: "Constitution",
   },
   {
     id: 'svoboda_ayurveda',
@@ -2071,6 +2293,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Всестороннее введение в аюрведу от Свободы: история, философия, пракрити, шесть вкусов, питание, Оджас, Теджас и Прана, практики расаяны. Один из наиболее полных обзоров западного автора.',
     category: 'Введение',
+    title_en: "Ayurveda: Life, Health and Longevity",
+    author_en: "Robert Svoboda",
+    year_en: "Russian transl.",
+    description_en: "A comprehensive introduction to Ayurveda by Svoboda: history, philosophy, prakriti, the six tastes, diet, Ojas, Tejas and Prana, rasayana practices. One of the most complete overviews written by a Western author.",
+    category_en: "Introduction",
   },
 
   // ── Питание ───────────────────────────────────────────────────────────────
@@ -2081,6 +2308,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Полное руководство по аюрведической кулинарии: концепции питания, рецепты по конституции, специи, несовместимые продукты. Содержит более 300 рецептов для всех трёх дош и сезонов.',
     category: 'Кулинария',
+    title_en: "Ayurvedic Cooking for Self-Healing",
+    author_en: "Vasant Lad, Usha Lad",
+    year_en: "Russian transl.",
+    description_en: "A complete guide to Ayurvedic cooking: nutrition concepts, recipes by constitution, spices, incompatible food combinations. Contains over 300 recipes for all three doshas and seasons.",
+    category_en: "Cooking",
   },
   {
     id: 'recipes',
@@ -2089,6 +2321,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Практическое руководство по аюрведическому питанию с рецептами. Особое внимание уделяется шести вкусам и их влиянию на пищеварение и эмоции. Разработано совместно с аюрведическими врачами.',
     category: 'Кулинария',
+    title_en: "Eat-Taste-Heal: An Ayurvedic Guidebook and Cookbook for Modern Living",
+    author_en: "Yarema, Rhoda, Brannigan",
+    year_en: "Russian transl.",
+    description_en: "A practical guide to Ayurvedic nutrition with recipes. Special attention is given to the six tastes and their effect on digestion and emotions. Developed together with Ayurvedic physicians.",
+    category_en: "Cooking",
   },
   {
     id: 'morningstar_cooking',
@@ -2097,6 +2334,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Адаптированная аюрведическая кулинария для западного читателя: рецепты с доступными ингредиентами, учёт сезонов, кислотно-щелочной баланс, сочетаемость продуктов по аюрведе.',
     category: 'Кулинария',
+    title_en: "The Ayurvedic Cookbook for Westerners",
+    author_en: "Amadea Morningstar",
+    year_en: "Russian transl.",
+    description_en: "Ayurvedic cooking adapted for Western readers: recipes using accessible ingredients, seasonal considerations, acid-alkaline balance, food combining according to Ayurveda.",
+    category_en: "Cooking",
   },
 
   // ── Красота и тело ────────────────────────────────────────────────────────
@@ -2107,6 +2349,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Исчерпывающее руководство по аюрведическому уходу за кожей, волосами и телом. Автор — аюрведический дерматолог с практикой в Нью-Йорке. Типы кожи по дошам, маски, масла, массаж, ароматерапия.',
     category: 'Красота',
+    title_en: "Absolute Beauty: Radiant Skin and Inner Harmony Through the Ancient Secrets of Ayurveda",
+    author_en: "Pratima Raichur, Marian Cohn",
+    year_en: "Russian transl.",
+    description_en: "An exhaustive guide to Ayurvedic skin, hair, and body care. The author is an Ayurvedic dermatologist practicing in New York. Skin types by dosha, masks, oils, massage, aromatherapy.",
+    category_en: "Beauty",
   },
 
   // ── Семейная аюрведа ──────────────────────────────────────────────────────
@@ -2117,6 +2364,11 @@ const REFERENCES = [
     year: '1999 (ориг.), рус. пер. 2005',
     description: 'Справочное руководство по аюрведическим методам лечения для всей семьи. Охватывает ароматерапию, беременность, детские болезни, зрелость и старение, менопаузу, причины болезней. Основано на 30-летнем клиническом опыте автора.',
     category: 'Семейная медицина',
+    title_en: "Ayurveda for the Whole Family",
+    author_en: "Light Miller",
+    year_en: "1999 (orig.), Russian transl. 2005",
+    description_en: "A reference guide to Ayurvedic treatment methods for the whole family. Covers aromatherapy, pregnancy, childhood illnesses, maturity and aging, menopause, and the causes of disease. Based on the author's 30 years of clinical experience.",
+    category_en: "Family Medicine",
   },
   {
     id: 'miller_aroma',
@@ -2125,6 +2377,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Справочное руководство по аюрведической ароматерапии. Охватывает историю эфирных масел, их химический состав, способы производства и хранения, взаимодействие с организмом через лимбическую систему, классификацию масел по воздействию на доши (вата/питта/капха), аюрведическое смешивание, а также словарь из 60+ эфирных масел с подробным описанием каждого. Содержит анкету для определения конституции.',
     category: 'Ароматерапия',
+    title_en: "Ayurveda and Aromatherapy: The Earth Essential Guide to Ancient Wisdom",
+    author_en: "Light Miller, Bryan Miller",
+    year_en: "Russian transl.",
+    description_en: "A reference guide to Ayurvedic aromatherapy. Covers the history of essential oils, their chemical composition, production and storage methods, interaction with the body through the limbic system, classification of oils by effect on the doshas (vata/pitta/kapha), Ayurvedic blending, and a glossary of 60+ essential oils with detailed descriptions. Includes a questionnaire for determining constitution.",
+    category_en: "Aromatherapy",
   },
   {
     id: 'kavi_raj',
@@ -2133,6 +2390,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Специализированное руководство по аюрведической педиатрии (балатантре): конституция ребёнка, питание в разные периоды детства, детские болезни и их аюрведическое лечение, психология развития.',
     category: 'Педиатрия',
+    title_en: "Ayurveda for Children",
+    author_en: "Kavi Raj",
+    year_en: "Russian transl.",
+    description_en: "A specialized guide to Ayurvedic pediatrics (Balatantra): a child's constitution, nutrition at different stages of childhood, childhood illnesses and their Ayurvedic treatment, developmental psychology.",
+    category_en: "Pediatrics",
   },
 
   // ── Панчакарма и очищение ─────────────────────────────────────────────────
@@ -2143,6 +2405,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: '111 заболеваний и их аюрведическое домашнее лечение. Подробные рецепты трав, специй, масел и диет для самостоятельного применения. Сопровождается руководством по приготовлению аюрведических средств.',
     category: 'Практика',
+    title_en: "The Complete Book of Ayurvedic Home Remedies",
+    author_en: "Vasant Lad",
+    year_en: "Russian transl.",
+    description_en: "111 ailments and their Ayurvedic home treatment. Detailed recipes for herbs, spices, oils, and diets for self-application. Accompanied by a guide to preparing Ayurvedic remedies.",
+    category_en: "Practice",
   },
   {
     id: 'antonova',
@@ -2151,6 +2418,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Руководство по очищению организма методами аюрведы и натуропатии. Охватывает панчакарму, диеты для детоксикации, травяные очищения, роль кишечника и лимфатической системы.',
     category: 'Очищение',
+    title_en: "Cleansing the Body",
+    author_en: "L.V. Antonova",
+    year_en: "Russian ed.",
+    description_en: "A guide to cleansing the body using methods of Ayurveda and naturopathy. Covers panchakarma, detox diets, herbal cleanses, and the role of the intestines and lymphatic system.",
+    category_en: "Cleansing",
   },
   {
     id: 'morningstar_polarity',
@@ -2159,6 +2431,11 @@ const REFERENCES = [
     year: '2001 (ориг.), рус. пер. 2007',
     description: 'Практическое руководство по сочетанию аюрведы и полярной терапии Рэндолфа Стоуна. Охватывает движение, дыхание, кислотно-щелочной баланс, очищение, оджас и принципы работы с энергетическими полями тела.',
     category: 'Целительство',
+    title_en: "Ayurveda and Polarity Therapy",
+    author_en: "Amadea Morningstar",
+    year_en: "2001 (orig.), Russian transl. 2007",
+    description_en: "A practical guide to combining Ayurveda with Randolph Stone's polarity therapy. Covers movement, breathing, acid-alkaline balance, cleansing, ojas, and principles of working with the body's energy fields.",
+    category_en: "Healing",
   },
 
   // ── Расашастра и алхимия ──────────────────────────────────────────────────
@@ -2169,6 +2446,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Академическое исследование расашастры — аюрведической алхимии. Методы очищения и приготовления минерально-металлических препаратов (расаяна, басма, пиштхи). Классические формулы и их клиническое применение.',
     category: 'Расашастра',
+    title_en: "Alchemy and Metallic Medicines in Ayurveda",
+    author_en: "Bhagwan Dash",
+    year_en: "Russian transl.",
+    description_en: "An academic study of Rasashastra — Ayurvedic alchemy. Methods of purifying and preparing mineral-metallic preparations (rasayana, bhasma, pishti). Classical formulas and their clinical application.",
+    category_en: "Rasashastra",
   },
 
   // ── Энциклопедические труды ───────────────────────────────────────────────
@@ -2179,6 +2461,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Всестороннее изложение аюрведической медицины: философия Санкхьи, панча-бхута, тридоша, сапта-дхату, диагностика, терапия, марма-терапия, аюрведическая психология. Написано практикующим врачом.',
     category: 'Энциклопедия',
+    title_en: "Ayurveda: A Way of Life",
+    author_en: "Vinod Verma",
+    year_en: "Russian transl.",
+    description_en: "A comprehensive account of Ayurvedic medicine: Samkhya philosophy, pancha bhuta, tridosha, sapta dhatu, diagnostics, therapy, marma therapy, Ayurvedic psychology. Written by a practicing physician.",
+    category_en: "Encyclopedia",
   },
   {
     id: 'vinod_2',
@@ -2187,6 +2474,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Расширенное издание, включающее дополнительные разделы по аюрведической косметологии, женскому здоровью, герантологии и психосоматике. Опирается на классические тексты и современные исследования.',
     category: 'Энциклопедия',
+    title_en: "Ayurveda: A Way of Life (Expanded Edition)",
+    author_en: "Vinod Verma",
+    year_en: "Russian transl.",
+    description_en: "An expanded edition including additional sections on Ayurvedic cosmetology, women's health, gerontology, and psychosomatics. Draws on classical texts and modern research.",
+    category_en: "Encyclopedia",
   },
   {
     id: 'neapolitansky_2',
@@ -2195,6 +2487,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Расширенное руководство по практическому применению аюрведы, включающее тантрические аспекты, мантра-терапию, пранаяму, сезонные ритуалы и духовные практики в контексте аюрведы.',
     category: 'Практика',
+    title_en: "Ayurveda for Every Day (Tantra and Practices)",
+    author_en: "S.M. Neapolitansky",
+    year_en: "Russian ed.",
+    description_en: "An expanded guide to the practical application of Ayurveda, including tantric aspects, mantra therapy, pranayama, seasonal rituals, and spiritual practices in an Ayurvedic context.",
+    category_en: "Practice",
   },
   // ── Звук и мудры ──
   {
@@ -2204,6 +2501,11 @@ const REFERENCES = [
     year: '1986 (ориг.), рус. пер.',
     description: 'Классическое руководство по аюрведической фитотерапии: энергетика трав, шесть вкусов, классификация по терапевтическому действию (карма), применение западных трав в системе Аюрведы. Включает раздел о мантрах, янтрах и медитации в контексте фитотерапии.',
     category: 'Травы и растения',
+    title_en: "The Yoga of Herbs: An Ayurvedic Guide to Herbal Medicine",
+    author_en: "David Frawley, Vasant Lad",
+    year_en: "1986 (orig.), Russian transl.",
+    description_en: "A classic guide to Ayurvedic herbalism: the energetics of herbs, the six tastes, classification by therapeutic action (karma), and the use of Western herbs within the Ayurvedic system. Includes a section on mantras, yantras, and meditation in herbal therapy.",
+    category_en: "Herbs and Plants",
   },
   {
     id: 'maharishi_book',
@@ -2212,6 +2514,11 @@ const REFERENCES = [
     year: '1990-е, рус. пер.',
     description: '20 подходов Аюрведы Махариши, включая трансцендентальную медитацию, Гандхарва-Веду, Джотиш, Стхапатья-Веду. Особый акцент на роли сознания в исцелении, связи микрокосма и макрокосма, обращении вспять старения.',
     category: 'Практика',
+    title_en: "Maharishi Ayurveda: A Passport to Immortality",
+    author_en: "Maharishi Ayurveda International Center",
+    year_en: "1990s, Russian transl.",
+    description_en: "20 approaches of Maharishi Ayurveda, including Transcendental Meditation, Gandharva Veda, Jyotish, and Sthapatya Veda. Special emphasis on the role of consciousness in healing, the connection between microcosm and macrocosm, and reversing aging.",
+    category_en: "Practice",
   },
   {
     id: 'mudras_gonikman',
@@ -2220,6 +2527,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Практическое руководство по лечебным мудрам (жестам рук) в традиции восточной медицины. 25 основных мудр с показаниями и техникой выполнения, принципы соответствия пяти элементов и пяти пальцев.',
     category: 'Практика',
+    title_en: "Finger Yoga: Mudras of Health, Longevity, and Beauty",
+    author_en: "E. Gonikman, Lama Maramba Singh",
+    year_en: "Russian ed.",
+    description_en: "A practical guide to healing mudras (hand gestures) in the tradition of Eastern medicine. 25 principal mudras with indications and technique, and the correspondence between the five elements and the five fingers.",
+    category_en: "Practice",
   },
   {
     id: 'joshi_panchakarma',
@@ -2228,6 +2540,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Детальное руководство по клинической панчакарме от специалиста с 15-летним стажем. Охватывает шесть стадий болезни, пурвакарму (снехана, сведана), протоколы пяти основных карм (вамана, виречана, насья, басти, рактамокшана), схемы курсов и восстановительные диеты.',
     category: 'Панчакарма',
+    title_en: "Ayurveda and Panchakarma: The Science of Healing and Rejuvenation",
+    author_en: "Sunil V. Joshi",
+    year_en: "Russian transl.",
+    description_en: "A detailed guide to clinical panchakarma by a specialist with 15 years of experience. Covers the six stages of disease, purvakarma (snehana, svedana), protocols for the five main karmas (vamana, virechana, nasya, basti, raktamokshana), treatment schedules, and recovery diets.",
+    category_en: "Panchakarma",
   },
 
   // ── Диагностика ───────────────────────────────────────────────────────────
@@ -2238,6 +2555,11 @@ const REFERENCES = [
     year: '2004, рус. пер.',
     description: 'Исчерпывающее руководство по нади-парикша — аюрведической диагностике по пульсу. Двадцать восемь видов пульса, пульс дош, дхату, органов; тонкий пульс (сукшма нади) и его связь с каузальным телом. Практические упражнения для развития чувствительности пальцев.',
     category: 'Диагностика',
+    title_en: "Secrets of the Pulse: The Ancient Art of Ayurvedic Pulse Diagnosis",
+    author_en: "Vasant Lad",
+    year_en: "2004, Russian transl.",
+    description_en: "An exhaustive guide to nadi pariksha — Ayurvedic pulse diagnosis. Twenty-eight pulse types, the pulse of doshas, dhatus, and organs; the subtle pulse (sukshma nadi) and its connection to the causal body. Practical exercises for developing finger sensitivity.",
+    category_en: "Diagnostics",
   },
 
   // ── Основы (академические) ────────────────────────────────────────────────
@@ -2248,6 +2570,11 @@ const REFERENCES = [
     year: 'МИА, 2008',
     description: 'Академический учебник по аюрведе на русском языке: система сроты, семь дхату и их метаболизм, три малы, ама и апа-дхату, клинические протоколы. Один из немногих фундаментальных русскоязычных трудов. Источник раздела «Система срот» энциклопедии.',
     category: 'Теория',
+    title_en: "Fundamentals of Ayurvedic Medicine",
+    author_en: "I.I. Vetrov",
+    year_en: "MIA, 2008",
+    description_en: "An academic textbook on Ayurveda in Russian: the srotas system, the seven dhatus and their metabolism, the three malas, ama and apa-dhatu, clinical protocols. One of the few foundational Russian-language works. Source for the site's \"Srotas System\" section.",
+    category_en: "Theory",
   },
   {
     id: 'spravochnik',
@@ -2256,6 +2583,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Практический алфавитный справочник заболеваний с аюрведической классификацией по дошам, этиологией и рекомендациями по лечению. Источник разделов «Глоссарий болезней» сайта — около 60 нозологий.',
     category: 'Справочник',
+    title_en: "Reference Guide to Diseases and Ayurvedic Recommendations",
+    author_en: "Compiler not specified",
+    year_en: "Russian ed.",
+    description_en: "A practical alphabetical reference of diseases with Ayurvedic classification by dosha, etiology, and treatment recommendations. Source for the site's \"Disease Glossary\" sections — around 60 conditions.",
+    category_en: "Reference Guide",
   },
 
   // ── Фроули: расширенные труды ────────────────────────────────────────────
@@ -2266,6 +2598,11 @@ const REFERENCES = [
     year: '1989 (ориг.), рус. пер.',
     description: 'Клинический справочник по аюрведической терапии: доша-специфические протоколы для артрита, кожных болезней, нервных расстройств, мигрени, заболеваний сердца. Подробная фитотерапия, диеты, панчакарма-компоненты для каждого состояния.',
     category: 'Клиническая аюрведа',
+    title_en: "Ayurvedic Healing: A Comprehensive Guide",
+    author_en: "David Frawley",
+    year_en: "1989 (orig.), Russian transl.",
+    description_en: "A clinical reference on Ayurvedic therapy: dosha-specific protocols for arthritis, skin diseases, nervous disorders, migraines, and heart disease. Detailed herbal therapy, diets, and panchakarma components for each condition.",
+    category_en: "Clinical Ayurveda",
   },
   {
     id: 'frawley_yoga_type',
@@ -2274,6 +2611,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Интеграция аюрведы и хатха-йоги: асаны для каждого типа конституции, противопоказания, последовательности занятий по временам года и состоянию дош. Пранаяма, медитация и дхарана через призму тридоши.',
     category: 'Йога и аюрведа',
+    title_en: "Yoga for Your Type: An Ayurvedic Approach to Your Asana Practice",
+    author_en: "David Frawley",
+    year_en: "Russian transl.",
+    description_en: "An integration of Ayurveda and hatha yoga: asanas for each body type, contraindications, sequences by season and dosha state. Pranayama, meditation, and dharana through the lens of tridosha.",
+    category_en: "Yoga and Ayurveda",
   },
   {
     id: 'frawley_jyotish',
@@ -2282,6 +2624,11 @@ const REFERENCES = [
     year: '2008, рус. пер.',
     description: 'Сборник бесед о связи трёх сестринских ведических дисциплин: аюрведы, йоги и джйотиша (астрологии). Три пути к самопознанию как единая система. Введение в ведическую нумерологию и аюрведическую астрологию.',
     category: 'Ведические науки',
+    title_en: "Ayurveda, Yoga, and Astrology",
+    author_en: "David Frawley",
+    year_en: "2008, Russian transl.",
+    description_en: "A collection of talks on the connection between the three sister Vedic disciplines: Ayurveda, yoga, and Jyotish (astrology). Three paths to self-knowledge as one unified system. An introduction to Vedic numerology and Ayurvedic astrology.",
+    category_en: "Vedic Sciences",
   },
   {
     id: 'frawley_tantra',
@@ -2290,6 +2637,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Путеводитель по тантрической традиции шакта-дарши: десять Махавидья, шакти-пуджа, мантры, янтры, нада-йога. Параллели с аюрведической концепцией прана, теджас и оджас в тантрическом контексте.',
     category: 'Тантра',
+    title_en: "Tantric Yoga and the Wisdom Goddesses",
+    author_en: "David Frawley",
+    year_en: "Russian transl.",
+    description_en: "A guide to the tantric tradition of Shakta Darshana: the ten Mahavidyas, shakti puja, mantras, yantras, nada yoga. Parallels with the Ayurvedic concepts of prana, tejas, and ojas in a tantric context.",
+    category_en: "Tantra",
   },
 
   // ── Чакры и тонкое тело ───────────────────────────────────────────────────
@@ -2300,6 +2652,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Детальное описание семи чакр в традиции тантра-йоги: лепестки-лотосы, биджа-мантры, дэваты, мандалы. Связь чакр с аюрведическими дошами, дхату, марма-точками. Источник нового раздела «Система чакр» энциклопедии.',
     category: 'Тонкое тело',
+    title_en: "Chakras: Energy Centers of Transformation",
+    author_en: "Harish Johari",
+    year_en: "Russian transl.",
+    description_en: "A detailed description of the seven chakras in the tantra yoga tradition: lotus petals, bija mantras, deities, mandalas. The connection of chakras to Ayurvedic doshas, dhatus, and marma points. Source for the encyclopedia's new \"Chakra System\" section.",
+    category_en: "Subtle Body",
   },
 
   // ── Травы и растения ──────────────────────────────────────────────────────
@@ -2310,6 +2667,11 @@ const REFERENCES = [
     year: 'Ориенталия, 2013',
     description: 'Практическое руководство по шести очищениям (шаткрия) с поддерживающей фитотерапией. Отличительная черта — акцент на растениях средней полосы России как доступной альтернативе аюрведическим травам. Источник раздела «Травы и очищение в хатха-йоге».',
     category: 'Травы и растения',
+    title_en: "Herbs for Yogis: Cleansing Practices of Hatha Yoga",
+    author_en: "Artyom Frolov",
+    year_en: "Orientalia, 2013",
+    description_en: "A practical guide to the six cleansing practices (shatkriya) with supporting herbal therapy. Its distinctive feature is an emphasis on herbs of Central Russia as an accessible alternative to Ayurvedic herbs. Source for the \"Herbs and Cleansing in Hatha Yoga\" section.",
+    category_en: "Herbs and Plants",
   },
 
   // ── Женское здоровье ──────────────────────────────────────────────────────
@@ -2320,6 +2682,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Практическое руководство по женскому здоровью через аюрведические практики: цикл, беременность, послеродовой уход, менопауза, женские расаяны (Шатавари, Алоэ, Ашока). Источник раздела «Женское здоровье» энциклопедии.',
     category: 'Женское здоровье',
+    title_en: "Ayurveda and Yoga for Women",
+    author_en: "Compiler not specified",
+    year_en: "Russian ed.",
+    description_en: "A practical guide to women's health through Ayurvedic practices: the cycle, pregnancy, postpartum care, menopause, women's rasayanas (Shatavari, Aloe, Ashoka). Source for the encyclopedia's \"Women's Health\" section.",
+    category_en: "Women's Health",
   },
   {
     id: 'silcox',
@@ -2328,6 +2695,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Современное руководство по женскому аюрведическому здоровью: гормональный баланс, сексуальность, репродуктивная система, ментальное здоровье. Приведены практики для трёх дош на каждой фазе цикла.',
     category: 'Женское здоровье',
+    title_en: "Healthy, Happy, Sexy: Ayurveda Wisdom for Modern Women",
+    author_en: "Katie Silcox",
+    year_en: "Russian transl.",
+    description_en: "A modern guide to Ayurvedic women's health: hormonal balance, sexuality, the reproductive system, mental health. Includes practices for the three doshas at each phase of the cycle.",
+    category_en: "Women's Health",
   },
 
   // ── Йога-терапия ─────────────────────────────────────────────────────────
@@ -2338,6 +2710,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Классическое руководство по йога-терапии от одного из главных популяризаторов йоги на Западе: асаны при конкретных заболеваниях, пранаяма, медитация, шаткрия. Параллели с аюрведической этиологией болезней.',
     category: 'Йога-терапия',
+    title_en: "Yoga Therapy: A New Look at Traditional Yoga Therapy",
+    author_en: "Swami Sivananda",
+    year_en: "Russian transl.",
+    description_en: "A classic guide to yoga therapy from one of the principal popularizers of yoga in the West: asanas for specific ailments, pranayama, meditation, shatkriya. Parallels with Ayurvedic disease etiology.",
+    category_en: "Yoga Therapy",
   },
   {
     id: 'tanaka_yoga',
@@ -2346,6 +2723,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Вводный курс по интеграции йоги и аюрведы для широкой аудитории: 10 структурированных уроков, практические задания, советы по питанию, диначарья и доша-тест в каждом уроке.',
     category: 'Йога и аюрведа',
+    title_en: "Yoga and Ayurveda in 10 Simple Lessons",
+    author_en: "Tanaka",
+    year_en: "Russian transl.",
+    description_en: "An introductory course on integrating yoga and Ayurveda for a general audience: 10 structured lessons, practical exercises, dietary advice, dinacharya, and a dosha test in each lesson.",
+    category_en: "Yoga and Ayurveda",
   },
 
   // ── Кулинария ────────────────────────────────────────────────────────────
@@ -2356,6 +2738,11 @@ const REFERENCES = [
     year: 'Интернет-источник',
     description: 'Специализированный сборник рецептов блюд из тыквы в аюрведической традиции: обоснование целебных свойств тыквы, рецепты для Ваты, Питты и Капхи, сезонное применение.',
     category: 'Кулинария',
+    title_en: "Ayurvedic Cooking: Pumpkin Dishes",
+    author_en: "Compiled from kunpendelek.ru",
+    year_en: "Internet source",
+    description_en: "A specialized recipe collection of pumpkin dishes in the Ayurvedic tradition: the rationale for pumpkin's healing properties, recipes for Vata, Pitta, and Kapha, and seasonal use.",
+    category_en: "Cooking",
   },
   {
     id: 'ayurveda_family',
@@ -2364,6 +2751,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Практическое руководство по аюрведе для применения в семейном быту: первая помощь, сезонные чистки, детское и женское здоровье, пожилые, питание, домашняя аптека специй.',
     category: 'Семейная медицина',
+    title_en: "Ayurveda for the Whole Family",
+    author_en: "Compiler not specified",
+    year_en: "Russian ed.",
+    description_en: "A practical guide to Ayurveda for family life: first aid, seasonal cleanses, children's and women's health, the elderly, nutrition, and a home apothecary of spices.",
+    category_en: "Family Medicine",
   },
 
   // ── Благовония и ароматерапия ────────────────────────────────────────────
@@ -2374,6 +2766,11 @@ const REFERENCES = [
     year: 'Рус. изд.',
     description: 'Обширная энциклопедия ароматических веществ Востока: смолы, благовония, масла, мирра, ладан, сандал, агарвуд. История, ритуальное применение, терапевтический эффект, аюрведическая классификация ароматов.',
     category: 'Ароматерапия',
+    title_en: "The World of Eastern Incense",
+    author_en: "Compiler not specified",
+    year_en: "Russian ed.",
+    description_en: "An extensive encyclopedia of Eastern aromatic substances: resins, incense, oils, myrrh, frankincense, sandalwood, agarwood. History, ritual use, therapeutic effect, and Ayurvedic classification of aromas.",
+    category_en: "Aromatherapy",
   },
 
   // ── Тантра ────────────────────────────────────────────────────────────────
@@ -2384,6 +2781,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Тантрический текст традиции Шива-Шакти о девяти йогини. Разделы о теле, пране, мантрах и ритуалах. Параллели с аюрведической концепцией прана-вайу и нади-системой.',
     category: 'Тантра',
+    title_en: "Nava Yogini Tantra",
+    author_en: "Traditional text (Russian translation)",
+    year_en: "Russian transl.",
+    description_en: "A tantric text of the Shiva-Shakti tradition on the nine yoginis. Sections on the body, prana, mantras, and rituals. Parallels with the Ayurvedic concept of prana vayu and the nadi system.",
+    category_en: "Tantra",
   },
   {
     id: 'aghora_1',
@@ -2392,6 +2794,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Первая из трёх книг о жизни и учении агхорского мастера Вималананда. Тантра, Аюрведа, расашастра, астрология в практике живого учителя. Уникальный взгляд на связь алхимии металлов и целительства тела.',
     category: 'Тантра',
+    title_en: "Aghora: At the Left Hand of God",
+    author_en: "Robert Svoboda",
+    year_en: "Russian transl.",
+    description_en: "The first of three books on the life and teaching of the Aghori master Vimalananda. Tantra, Ayurveda, Rasashastra, and astrology in the practice of a living teacher. A unique perspective on the link between metal alchemy and healing the body.",
+    category_en: "Tantra",
   },
   {
     id: 'aghora_2',
@@ -2400,6 +2807,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Продолжение бесед с Вималанандой: практика пробуждения кундалини, шактипат, ритуальные практики левой руки. Аюрведическая концепция ваю (ветра) и её связь с движением кундалини.',
     category: 'Тантра',
+    title_en: "Aghora II: Kundalini",
+    author_en: "Robert Svoboda",
+    year_en: "Russian transl.",
+    description_en: "A continuation of conversations with Vimalananda: the practice of awakening kundalini, shaktipat, left-hand ritual practices. The Ayurvedic concept of vayu (wind) and its connection to the movement of kundalini.",
+    category_en: "Tantra",
   },
   {
     id: 'aghora_3',
@@ -2408,6 +2820,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Заключительная часть трилогии об Агхоре — тантрической традиции. Рассматривает закон кармы через призму нетрадиционных духовных практик.',
     category: 'Тантра',
+    title_en: "Aghora III: The Law of Karma",
+    author_en: "Robert Svoboda",
+    year_en: "Russian transl.",
+    description_en: "The concluding volume of the Aghora trilogy on the tantric tradition. Examines the law of karma through the lens of unconventional spiritual practices.",
+    category_en: "Tantra",
   },
   {
     id: 'chopra_energy',
@@ -2416,6 +2833,11 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Программа психофизиологической регуляции организма для преодоления хронической усталости, сочетающая современную медицину с элементами традиционных систем врачевания.',
     category: 'Здоровье и энергия',
+    title_en: "Boundless Energy: The Complete Mind/Body Program for Beating Chronic Fatigue",
+    author_en: "Deepak Chopra",
+    year_en: "Russian transl.",
+    description_en: "A psychophysiological regulation program for overcoming chronic fatigue, combining modern medicine with elements of traditional healing systems.",
+    category_en: "Health and Energy",
   },
   {
     id: 'easyayurveda',
@@ -2424,8 +2846,20 @@ const REFERENCES = [
     year: 'Онлайн-ресурс',
     description: 'Один из наиболее известных современных англоязычных ресурсов по клинической аюрведе. Практические протоколы лечения конкретных заболеваний, травы, классические препараты — с опорой на практику практикующего аюрведического врача.',
     category: 'Клиническая аюрведа',
+    title_en: "EasyAyurveda.com",
+    author_en: "Dr. Janardhana V. Hebbar",
+    year_en: "Online resource",
+    description_en: "One of the best-known contemporary English-language resources on clinical Ayurveda. Practical treatment protocols for specific diseases, herbs, and classical preparations — grounded in the practice of a working Ayurvedic physician.",
+    category_en: "Clinical Ayurveda",
   },
 ];
+
+// English label for a REFERENCES id, e.g. "Vasant Lad — Ayurveda: The Science of Self-Healing".
+function refLabelEn(id) {
+  const ref = REFERENCES.find(r => r.id === id);
+  if (!ref || !ref.title_en) return null;
+  return ref.author_en ? `${ref.title_en} (${ref.author_en})` : ref.title_en;
+}
 
 let referencesBuilt = false;
 
@@ -2437,14 +2871,15 @@ function buildReferencesView() {
   for (const ref of REFERENCES) {
     const card = document.createElement('div');
     card.className = 'ref-card';
+    const category = tf(ref, 'category');
     card.innerHTML = `
       <div class="ref-card-top">
-        <div class="ref-title">${escapeHtml(ref.title)}</div>
-        <span class="ref-category">${ref.category.startsWith('📌') ? PIN_SVG + ' ' + escapeHtml(ref.category.replace('📌', '').trim()) : escapeHtml(ref.category)}</span>
+        <div class="ref-title">${escapeHtml(tf(ref, 'title'))}</div>
+        <span class="ref-category">${category.startsWith('📌') ? PIN_SVG + ' ' + escapeHtml(category.replace('📌', '').trim()) : escapeHtml(category)}</span>
       </div>
-      <div class="ref-author">${escapeHtml(ref.author)}</div>
-      <div class="ref-year">${escapeHtml(ref.year)}</div>
-      <div class="ref-desc">${escapeHtml(ref.description)}</div>
+      <div class="ref-author">${escapeHtml(tf(ref, 'author'))}</div>
+      <div class="ref-year">${escapeHtml(tf(ref, 'year'))}</div>
+      <div class="ref-desc">${escapeHtml(tf(ref, 'description'))}</div>
     `;
     frag.appendChild(card);
   }
@@ -2481,7 +2916,7 @@ $remediesBtn.addEventListener('click', async () => {
   history.replaceState(null, '', '#remedies');
   if (!_remLoaded) {
     const list = document.getElementById('remedies-list');
-    if (list) list.innerHTML = '<div class="nav-loading">Загрузка домашних средств…</div>';
+    if (list) list.innerHTML = `<div class="nav-loading">${t('Загрузка домашних средств…', 'Loading home remedies…')}</div>`;
     await ensureRemedies();
   }
   await mergeArticles('remedies');
@@ -2495,7 +2930,7 @@ $encyclopediaBtn.addEventListener('click', async () => {
   history.replaceState(null, '', '#encyclopedia');
   if (!_encLoaded) {
     const grid = document.getElementById('enc-section-grid');
-    if (grid) grid.innerHTML = '<div class="nav-loading">Загрузка энциклопедии…</div>';
+    if (grid) grid.innerHTML = `<div class="nav-loading">${t('Загрузка энциклопедии…', 'Loading encyclopedia…')}</div>`;
     await ensureEncyclopedia();
   }
   await mergeArticles('encyclopedia');
@@ -2555,7 +2990,7 @@ function buildFoodTableView() {
     for (const cat of FOOD_TABLE) {
       if (activeCat && cat.category !== activeCat) continue;
       const items = q
-        ? cat.items.filter(it => it.name.toLowerCase().includes(q))
+        ? cat.items.filter(it => tf(it, 'name').toLowerCase().includes(q))
         : cat.items;
       if (items.length === 0) continue;
 
@@ -2564,7 +2999,7 @@ function buildFoodTableView() {
 
       const catTitle = document.createElement('div');
       catTitle.className = 'ft-cat-title';
-      catTitle.innerHTML = `<span class="menu-ico ft-cat-icon" data-icon="${cat.iconKey || ''}"></span>${escapeHtml(cat.category)}`;
+      catTitle.innerHTML = `<span class="menu-ico ft-cat-icon" data-icon="${cat.iconKey || ''}"></span>${escapeHtml(tf(cat, 'category'))}`;
       sec.appendChild(catTitle);
 
       const table = document.createElement('div');
@@ -2573,9 +3008,9 @@ function buildFoodTableView() {
       const thead = document.createElement('div');
       thead.className = 'ft-row ft-thead';
       thead.innerHTML = `
-        <div class="ft-cell ft-name">Продукт</div>
-        <div class="ft-cell ft-from">С</div>
-        <div class="ft-cell ft-to">До</div>
+        <div class="ft-cell ft-name">${t('Продукт', 'Food')}</div>
+        <div class="ft-cell ft-from">${t('С', 'From')}</div>
+        <div class="ft-cell ft-to">${t('До', 'To')}</div>
         <div class="ft-cell ft-bar">
           <div class="ft-bar-header">
             ${[6,9,12,15,18,21].map(h => `<span>${h}:00</span>`).join('')}
@@ -2588,7 +3023,7 @@ function buildFoodTableView() {
         const row = document.createElement('div');
         row.className = 'ft-row';
         row.innerHTML = `
-          <div class="ft-cell ft-name">${escapeHtml(item.name)}</div>
+          <div class="ft-cell ft-name">${escapeHtml(tf(item, 'name'))}</div>
           <div class="ft-cell ft-from ft-time">${timeStr(item.from)}</div>
           <div class="ft-cell ft-to ft-time">${timeStr(item.to)}</div>
           <div class="ft-cell ft-bar">${makeBar(item.from, item.to)}</div>
@@ -2603,7 +3038,7 @@ function buildFoodTableView() {
     if (frag.childNodes.length === 0) {
       const msg = document.createElement('div');
       msg.className = 'no-results';
-      msg.textContent = q ? `Продукт «${query}» не найден` : 'Нет данных';
+      msg.textContent = q ? t(`Продукт «${query}» не найден`, `No food found for “${query}”`) : t('Нет данных', 'No data');
       frag.appendChild(msg);
     }
 
@@ -2615,7 +3050,7 @@ function buildFoodTableView() {
   // Category filter buttons
   const allBtn = document.createElement('button');
   allBtn.className = 'ft-cat-btn active';
-  allBtn.textContent = 'Все';
+  allBtn.textContent = t('Все', 'All');
   allBtn.addEventListener('click', () => {
     activeCat = null;
     document.querySelectorAll('.ft-cat-btn').forEach(b => b.classList.remove('active'));
@@ -2627,7 +3062,7 @@ function buildFoodTableView() {
   for (const cat of FOOD_TABLE) {
     const btn = document.createElement('button');
     btn.className = 'ft-cat-btn';
-    btn.innerHTML = `<span class="menu-ico ft-filter-icon" data-icon="${cat.iconKey || ''}">${cat.icon}</span> ${escapeHtml(cat.category)}`;
+    btn.innerHTML = `<span class="menu-ico ft-filter-icon" data-icon="${cat.iconKey || ''}">${cat.icon}</span> ${escapeHtml(tf(cat, 'category'))}`;
     btn.addEventListener('click', () => {
       activeCat = cat.category;
       document.querySelectorAll('.ft-cat-btn').forEach(b => b.classList.remove('active'));
@@ -2689,17 +3124,18 @@ function renderQuizForm() {
     header.className = 'quiz-section-header';
     header.style.setProperty('--dosha-color', sec.color);
     header.innerHTML = `<span class="quiz-sec-emoji">${sec.emoji}</span>
-      <span class="quiz-sec-label">${sec.label}</span>
-      <span class="quiz-sec-count">${sec.questions.length} вопросов</span>`;
+      <span class="quiz-sec-label">${tf(sec, 'label')}</span>
+      <span class="quiz-sec-count">${t(`${sec.questions.length} вопросов`, `${sec.questions.length} questions`)}</span>`;
     secEl.appendChild(header);
 
     sec.questions.forEach((q, i) => {
+      const qText = getSiteLang() === 'en' && sec.questions_en ? sec.questions_en[i] : q;
       const row = document.createElement('div');
       row.className = 'quiz-q-row';
 
       const label = document.createElement('div');
       label.className = 'quiz-q-text';
-      label.textContent = `${i + 1}. ${q}`;
+      label.textContent = `${i + 1}. ${qText}`;
 
       const slider = document.createElement('div');
       slider.className = 'quiz-slider-wrap';
@@ -2708,7 +3144,7 @@ function renderQuizForm() {
         <input type="range" min="0" max="6" value="0"
           class="quiz-slider"
           data-dosha="${sec.dosha}"
-          aria-label="${q}">
+          aria-label="${qText}">
         <span class="quiz-slider-hi">6</span>
         <span class="quiz-slider-val">0</span>
       `;
@@ -2736,7 +3172,7 @@ function updateProgress() {
   const touched = [...all].filter(s => parseInt(s.value) > 0).length;
   const pct = Math.round((touched / all.length) * 100);
   document.getElementById('quiz-progress-fill').style.width = pct + '%';
-  document.getElementById('quiz-progress-label').textContent = `${touched} / ${all.length} вопросов`;
+  document.getElementById('quiz-progress-label').textContent = t(`${touched} / ${all.length} вопросов`, `${touched} / ${all.length} questions`);
 }
 
 function calcQuizResult() {
@@ -2774,37 +3210,38 @@ function renderQuizResult(scores) {
   const $chart = document.getElementById('quiz-scores-chart');
   $chart.innerHTML = QUIZ.sections.map(sec => `
     <div class="quiz-bar-wrap">
-      <div class="quiz-bar-label">${sec.emoji} ${sec.label}</div>
+      <div class="quiz-bar-label">${sec.emoji} ${tf(sec, 'label')}</div>
       <div class="quiz-bar-track">
         <div class="quiz-bar-fill" style="width:${pcts[sec.dosha]}%; background:${sec.color}"></div>
       </div>
       <div class="quiz-bar-pct">${pcts[sec.dosha]}%</div>
-      <div class="quiz-bar-pts">${scores[sec.dosha]} очков</div>
+      <div class="quiz-bar-pts">${t(`${scores[sec.dosha]} очков`, `${scores[sec.dosha]} points`)}</div>
     </div>
   `).join('');
 
   // Result card
   const res = QUIZ.results[dominantDosha];
+  const resTitle = tf(res, 'title');
   const $card = document.getElementById('quiz-result-card');
   $card.innerHTML = `
     <div class="quiz-result-emoji" style="color:${res.color}">${res.emoji}</div>
-    <h2 class="quiz-result-title">${res.title}</h2>
-    <p class="quiz-result-subtitle">${res.subtitle}</p>
-    <p class="quiz-result-traits">${res.traits}</p>
+    <h2 class="quiz-result-title">${resTitle}</h2>
+    <p class="quiz-result-subtitle">${tf(res, 'subtitle')}</p>
+    <p class="quiz-result-traits">${tf(res, 'traits')}</p>
     <div class="quiz-balance-block">
-      <div class="quiz-balance-item quiz-balance-pos">✓ ${res.balance}</div>
-      <div class="quiz-balance-item quiz-balance-neg">⚠ ${res.imbalance}</div>
+      <div class="quiz-balance-item quiz-balance-pos">✓ ${tf(res, 'balance')}</div>
+      <div class="quiz-balance-item quiz-balance-neg">⚠ ${tf(res, 'imbalance')}</div>
     </div>
   `;
 
   // Recommendations
   const $recs = document.getElementById('quiz-recommendations');
   $recs.innerHTML = `
-    <h3>Рекомендации для ${res.title.split('-')[0]}</h3>
+    <h3>${t(`Рекомендации для ${res.title.split('-')[0]}`, `Recommendations for ${resTitle.split('-')[0]}`)}</h3>
     <ul class="quiz-rec-list">
-      ${res.recommendations.map(r => `<li>${r}</li>`).join('')}
+      ${(getSiteLang() === 'en' && res.recommendations_en ? res.recommendations_en : res.recommendations).map(r => `<li>${r}</li>`).join('')}
     </ul>
-    <p class="quiz-enc-hint">Подробнее — в разделе <a href="#encyclopedia/prakruti">Энциклопедия → Пракрити</a></p>
+    <p class="quiz-enc-hint">${t('Подробнее — в разделе', 'More in the')} <a href="#encyclopedia/prakruti">${t('Энциклопедия → Пракрити', 'Encyclopedia → Prakriti')}</a></p>
   `;
 }
 
@@ -2934,7 +3371,7 @@ function runSearch(query) {
       const bodyEl = document.getElementById('search-results-body');
       const countEl = document.getElementById('search-count');
       if (countEl) countEl.textContent = '';
-      if (bodyEl) bodyEl.innerHTML = '<div class="nav-loading">Подготовка поиска по всем книгам…</div>';
+      if (bodyEl) bodyEl.innerHTML = `<div class="nav-loading">${t('Подготовка поиска по всем книгам…', 'Preparing search across all books…')}</div>`;
       Promise.all(pending.map(loadBookData)).then(() => {
         _allBooksLoaded = true;
         if (searchQuery === query) runSearch(query); // повторяем после загрузки
@@ -2961,13 +3398,13 @@ function runSearch(query) {
   const countEl = document.getElementById('search-count');
   const bodyEl  = document.getElementById('search-results-body');
   countEl.textContent = results.length
-    ? `${results.length} результат${results.length === 1 ? '' : results.length < 5 ? 'а' : 'ов'}`
+    ? t(`${results.length} результат${results.length === 1 ? '' : results.length < 5 ? 'а' : 'ов'}`, `${results.length} result${results.length === 1 ? '' : 's'}`)
     : '';
-  announce(results.length ? `Найдено ${results.length} результатов по запросу ${query}` : `По запросу ${query} ничего не найдено`);
+  announce(results.length ? t(`Найдено ${results.length} результатов по запросу ${query}`, `Found ${results.length} results for ${query}`) : t(`По запросу ${query} ничего не найдено`, `Nothing found for ${query}`));
 
   bodyEl.innerHTML = '';
   if (results.length === 0) {
-    bodyEl.innerHTML = `<div class="no-results">Ничего не найдено по запросу «${escapeHtml(query)}»</div>`;
+    bodyEl.innerHTML = `<div class="no-results">${t(`Ничего не найдено по запросу «${escapeHtml(query)}»`, `Nothing found for “${escapeHtml(query)}”`)}</div>`;
     return;
   }
 
@@ -2984,16 +3421,16 @@ function runSearch(query) {
       : escapeHtml(block.text);
 
     const typeLabel = block.type === 'verse'
-      ? (block.number != null ? `Стих ${block.number}` : 'Стих')
-      : block.type === 'comment' ? 'Комментарий' : 'Текст';
+      ? (block.number != null ? `${t('Стих', 'Verse')} ${block.number}` : t('Стих', 'Verse'))
+      : block.type === 'comment' ? t('Комментарий', 'Commentary') : t('Текст', 'Text');
 
     // Показываем иконку книги если поиск нашёл в другой книге
     const bookLabel = bookIdx !== currentBookIdx
-      ? `<span class="result-book">${icon(book.iconKey) || escapeHtml(book.icon)} ${escapeHtml(book.titleShort)}</span> · `
+      ? `<span class="result-book">${icon(book.iconKey) || escapeHtml(book.icon)} ${escapeHtml(tf(book, 'titleShort'))}</span> · `
       : '';
 
     card.innerHTML = `
-      <div class="result-meta">${bookLabel}${escapeHtml(ch.sthana)} · Гл. ${ch.number || '—'}: ${escapeHtml(ch.title)} · ${typeLabel}</div>
+      <div class="result-meta">${bookLabel}${escapeHtml(tf(ch, 'sthana'))} · ${t('Гл.', 'Ch.')} ${ch.number || '—'}: ${escapeHtml(tf(ch, 'title'))} · ${typeLabel}</div>
       <div class="result-snippet">${snippet.replace(re, m => `<mark>${m}</mark>`)}</div>
     `;
     card.addEventListener('click', () => {
@@ -3110,6 +3547,8 @@ function initVisitorCounter() {
 
 function init() {
   initTheme();
+  initSiteLangToggle();
+  applyStaticI18n();
   initFontSize();
   initOfflineIndicator();
   initBackToTop();

@@ -5,11 +5,13 @@
 
 // ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА. Бампай СИНХРОННО во всех местах:
 //   1) index.html — <script src="app.js?v=NN">
-//   2) app.js     — все import '...js?v=NN' в шапке (books/diseases/cabinet/icons/
-//                   encyclopedia/remedies) — иначе Beget отдаёт старый файл из URL-кэша!
+//   2) app.js     — ВСЕ import '...js?v=NN' в шапке без исключений (books/glossary/
+//                   diseases/quiz/foodtable/cabinet/icons/chatbot/encyclopedia/remedies)
+//                   — иначе Beget отдаёт старый файл из URL-кэша! (glossary.js/quiz.js/
+//                   foodtable.js/chatbot.js исторически были без ?v=, это баг — не убирай.)
 //   3) books.js   — const DV = '?v=NN'
 //   4) sw.js      — const CACHE = 'ayurveda-vNN'  (здесь)
-const CACHE = 'ayurveda-v563';
+const CACHE = 'ayurveda-v564';
 
 const STATIC = [
   '/',
