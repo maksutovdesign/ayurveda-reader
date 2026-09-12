@@ -77,7 +77,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="Аюрведа" />
 
-  <link rel="stylesheet" href="style.css?v=78" />
+  <link rel="stylesheet" href="style.css?v=79" />
 </head>
 <body class="light">
   <button id="menu-btn" aria-label="Открыть меню">&#9776;</button>
@@ -253,7 +253,10 @@
         <!-- Sections grid -->
         <div id="enc-sections-view">
           <div id="enc-header">
-            <h2>Энциклопедия аюрведы</h2>
+            <div id="enc-header-top">
+              <h2>Энциклопедия аюрведы</h2>
+              <button id="enc-lang-toggle" class="enc-lang-toggle" type="button" aria-label="Switch language" title="RU / EN">RU</button>
+            </div>
             <p class="enc-subtitle">208 статей по 43 разделам · синтез 46 книг</p>
             <div id="enc-search-wrap">
               <input id="enc-search" type="search" placeholder="Поиск по энциклопедии…" aria-label="Поиск по энциклопедии" autocomplete="off" />
@@ -608,7 +611,7 @@
   </noscript>
 
   <!-- ⚠️ ЕДИНАЯ ВЕРСИЯ РЕЛИЗА — бампай синхронно с books.js (DV) и sw.js (CACHE) -->
-  <script type="module" src="app.js?v=561"></script>
+  <script type="module" src="app.js?v=562"></script>
 
   <!-- Яндекс.Метрика -->
   <script type="text/javascript">

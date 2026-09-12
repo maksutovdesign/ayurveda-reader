@@ -1578,6 +1578,24 @@ body.dark .rem-note {
 #enc-header h2 {
   font-size: 26px; font-weight: 700; color: var(--text); margin: 0 0 4px;
 }
+#enc-header-top {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+.enc-lang-toggle {
+  flex-shrink: 0;
+  padding: 6px 14px;
+  border: 1.5px solid var(--border); border-radius: 999px;
+  background: var(--bg-card); color: var(--text);
+  font-size: 13px; font-weight: 600; letter-spacing: 0.02em;
+  cursor: pointer; transition: border-color var(--transition), color var(--transition);
+}
+.enc-lang-toggle:hover { border-color: var(--accent); color: var(--accent); }
+.enc-lang-toggle[data-lang="en"] { border-color: var(--accent); color: var(--accent); }
+.enc-untranslated-note {
+  font-size: 12px; color: var(--text-muted); font-style: italic;
+  margin: 0 0 16px; padding: 8px 12px;
+  background: var(--bg-card); border-left: 3px solid var(--border); border-radius: 4px;
+}
 .enc-subtitle { color: var(--text-muted); font-size: 13px; margin: 0 0 20px; }
 #enc-search-wrap { margin-bottom: 28px; }
 #enc-search {

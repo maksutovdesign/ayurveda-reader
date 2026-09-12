@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=561';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=562';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=561';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=562';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=561';
-import { icon } from './icons.js?v=561';
+import * as Cabinet from './cabinet.js?v=562';
+import { icon } from './icons.js?v=562';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=561');
+  const m = await import('./encyclopedia.js?v=562');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=561');
+  const m = await import('./remedies.js?v=562');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -1658,6 +1658,15 @@ function renderArticleContent(text) {
   }).join('');
 }
 
+let encLang = (() => { try { return localStorage.getItem('encLang') || 'ru'; } catch { return 'ru'; } })();
+
+// Returns the translated value of `field` for `obj` when encLang is 'en' and a
+// `${field}_en` variant exists; otherwise falls back to the Russian original.
+function encT(obj, field) {
+  if (encLang === 'en' && obj[`${field}_en`]) return obj[`${field}_en`];
+  return obj[field] || '';
+}
+
 function buildEncyclopediaView() {
   if (encyclopediaBuilt) return;
   encyclopediaBuilt = true;
@@ -1679,8 +1688,61 @@ function buildEncyclopediaView() {
   const $artBody    = document.getElementById('enc-article-body');
   const $artMeta    = document.getElementById('enc-article-meta');
   const $artSources = document.getElementById('enc-article-sources');
+  const $langToggle = document.getElementById('enc-lang-toggle');
+
+  let currentArt = null;   // currently displayed article, for re-render on language toggle
+  let currentPanel = 'sections'; // 'sections' | 'articles' | 'article'
+
+  function renderSectionGrid() {
+    $grid.innerHTML = '';
+    const frag = document.createDocumentFragment();
+    for (const sec of ENCYCLOPEDIA) {
+      const card = document.createElement('div');
+      card.className = 'enc-section-card';
+      card.innerHTML = `
+        <div class="enc-sec-icon">${icon(sec.icon)}</div>
+        <div class="enc-sec-info">
+          <div class="enc-sec-title">${escapeHtml(encT(sec, 'title'))}</div>
+          <div class="enc-sec-count">${sec.articles.length} ${encLang === 'en' ? 'articles' : 'статей'}</div>
+          <div class="enc-sec-desc">${escapeHtml(encT(sec, 'description'))}</div>
+        </div>
+      `;
+      card.addEventListener('click', () => showArticles(sec));
+      frag.appendChild(card);
+    }
+    $grid.appendChild(frag);
+  }
+
+  function updateLangToggle() {
+    if (!$langToggle) return;
+    $langToggle.textContent = encLang === 'en' ? 'EN' : 'RU';
+    $langToggle.dataset.lang = encLang;
+    const totalArticles = ENCYCLOPEDIA.reduce((n, s) => n + s.articles.length, 0);
+    const $subtitle = document.querySelector('.enc-subtitle');
+    if ($subtitle) {
+      $subtitle.textContent = encLang === 'en'
+        ? `${totalArticles} articles across ${ENCYCLOPEDIA.length} sections · synthesis of 46 books`
+        : `${totalArticles} статей по ${ENCYCLOPEDIA.length} разделам · синтез 46 книг`;
+    }
+    if ($search) $search.placeholder = encLang === 'en' ? 'Search the encyclopedia…' : 'Поиск по энциклопедии…';
+    if ($backSec) $backSec.textContent = encLang === 'en' ? '← Sections' : '← Разделы';
+    if ($backArt) $backArt.textContent = encLang === 'en' ? '← Back to section' : '← К разделу';
+  }
+  updateLangToggle();
+
+  if ($langToggle) {
+    $langToggle.addEventListener('click', () => {
+      encLang = encLang === 'en' ? 'ru' : 'en';
+      try { localStorage.setItem('encLang', encLang); } catch {}
+      updateLangToggle();
+      renderSectionGrid();
+      if (currentPanel === 'articles' && currentEncSection) showArticles(currentEncSection);
+      else if (currentPanel === 'article' && currentArt) showArticle(currentArt);
+    });
+  }
 
   function showSections() {
+    currentPanel = 'sections';
     $sectView.hidden  = false;
     $artView.hidden   = true;
     $artContent.hidden = true;
@@ -1689,18 +1751,19 @@ function buildEncyclopediaView() {
   }
 
   function showArticles(sec) {
+    currentPanel = 'articles';
     currentEncSection = sec;
     $secIcon.innerHTML    = icon(sec.icon);
-    $secTitle.textContent = sec.title;
-    $secDesc.textContent  = sec.description;
+    $secTitle.textContent = encT(sec, 'title');
+    $secDesc.textContent  = encT(sec, 'description');
     $artList.innerHTML = '';
     const frag = document.createDocumentFragment();
     sec.articles.forEach(art => {
       const card = document.createElement('div');
       card.className = 'enc-article-card';
       card.innerHTML = `
-        <div class="enc-art-title">${escapeHtml(art.title)}</div>
-        <div class="enc-art-summary">${escapeHtml(art.summary)}</div>
+        <div class="enc-art-title">${escapeHtml(encT(art, 'title'))}</div>
+        <div class="enc-art-summary">${escapeHtml(encT(art, 'summary'))}</div>
       `;
       card.addEventListener('click', () => showArticle(art));
       frag.appendChild(card);
@@ -1714,17 +1777,25 @@ function buildEncyclopediaView() {
   }
 
   function showArticle(art) {
-    $artTitle.textContent   = art.title;
-    $artSummary.textContent = art.summary;
-    $artBody.innerHTML      = renderArticleContent(art.body || art.content || '');
-    $artMeta.innerHTML      = currentEncSection ? `${icon(currentEncSection.icon)} ${escapeHtml(currentEncSection.title)}` : '';
+    currentPanel = 'article';
+    currentArt = art;
+    const isUntranslated = encLang === 'en' && !art.title_en;
+    $artTitle.textContent   = encT(art, 'title');
+    $artSummary.textContent = encT(art, 'summary');
+    const bodyField = art.body !== undefined ? 'body' : 'content';
+    const untranslatedNote = isUntranslated
+      ? `<p class="enc-untranslated-note">This article hasn't been translated to English yet — showing the Russian original.</p>`
+      : '';
+    $artBody.innerHTML      = untranslatedNote + renderArticleContent(encT(art, bodyField) || art.body || art.content || '');
+    $artMeta.innerHTML      = currentEncSection ? `${icon(currentEncSection.icon)} ${escapeHtml(encT(currentEncSection, 'title'))}` : '';
     const sourcesHtml = art.sources
       .map(s => `<span class="enc-source-tag">${escapeHtml(BOOK_LABELS[s] || s)}</span>`)
       .join('');
-    $artSources.innerHTML = `<div class="enc-sources-label">Источники:</div>${sourcesHtml}`;
+    $artSources.innerHTML = `<div class="enc-sources-label">${encLang === 'en' ? 'Sources:' : 'Источники:'}</div>${sourcesHtml}`;
     let sb = $artContent.querySelector('.card-share');
-    if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; sb.innerHTML = SHARE_SVG + ' Поделиться'; $artSources.after(sb); }
-    sb.onclick = () => shareContent(art.summary || art.body || art.content || art.title, `Энциклопедия: ${art.title}`, 'Статья скопирована со ссылкой');
+    if (!sb) { sb = document.createElement('button'); sb.className = 'card-share card-share--inline'; $artSources.after(sb); }
+    sb.innerHTML = SHARE_SVG + (encLang === 'en' ? ' Share' : ' Поделиться');
+    sb.onclick = () => shareContent(encT(art, 'summary') || encT(art, bodyField) || art.title, `${encLang === 'en' ? 'Encyclopedia' : 'Энциклопедия'}: ${encT(art, 'title')}`, encLang === 'en' ? 'Article copied with link' : 'Статья скопирована со ссылкой');
     $sectView.hidden   = true;
     $artView.hidden    = true;
     $artContent.hidden = false;
@@ -1752,23 +1823,7 @@ function buildEncyclopediaView() {
   };
 
   // ── Build section grid ──
-  const frag = document.createDocumentFragment();
-  for (const sec of ENCYCLOPEDIA) {
-    const card = document.createElement('div');
-    card.className = 'enc-section-card';
-    card.innerHTML = `
-      <div class="enc-sec-icon">${icon(sec.icon)}</div>
-      <div class="enc-sec-info">
-        <div class="enc-sec-title">${escapeHtml(sec.title)}</div>
-        <div class="enc-sec-count">${sec.articles.length} статей</div>
-        <div class="enc-sec-desc">${escapeHtml(sec.description)}</div>
-      </div>
-    `;
-    card.addEventListener('click', () => showArticles(sec));
-    frag.appendChild(card);
-  }
-  $grid.innerHTML = '';        // убрать плашку «Загрузка энциклопедии…»
-  $grid.appendChild(frag);
+  renderSectionGrid();
 
   // ── Full-text search ──
   let searchDebounce = null;
@@ -1785,25 +1840,26 @@ function buildEncyclopediaView() {
       const results = [];
       for (const sec of ENCYCLOPEDIA) {
         for (const art of sec.articles) {
-          if (art.title.toLowerCase().includes(q) ||
-              art.summary.toLowerCase().includes(q) ||
-              (art.body || art.content || '').toLowerCase().includes(q)) {
+          const bodyField = art.body !== undefined ? 'body' : 'content';
+          if (encT(art, 'title').toLowerCase().includes(q) ||
+              encT(art, 'summary').toLowerCase().includes(q) ||
+              encT(art, bodyField).toLowerCase().includes(q)) {
             results.push({ sec, art });
           }
         }
       }
       $searchRes.innerHTML = '';
       if (results.length === 0) {
-        $searchRes.innerHTML = `<div class="no-results">Ничего не найдено по запросу «${escapeHtml($search.value)}»</div>`;
+        $searchRes.innerHTML = `<div class="no-results">${encLang === 'en' ? `Nothing found for “${escapeHtml($search.value)}”` : `Ничего не найдено по запросу «${escapeHtml($search.value)}»`}</div>`;
       } else {
         const f = document.createDocumentFragment();
         results.forEach(({ sec, art }) => {
           const card = document.createElement('div');
           card.className = 'enc-search-result';
           card.innerHTML = `
-            <div class="enc-res-section">${icon(sec.icon)} ${escapeHtml(sec.title)}</div>
-            <div class="enc-res-title">${escapeHtml(art.title)}</div>
-            <div class="enc-res-summary">${escapeHtml(art.summary)}</div>
+            <div class="enc-res-section">${icon(sec.icon)} ${escapeHtml(encT(sec, 'title'))}</div>
+            <div class="enc-res-title">${escapeHtml(encT(art, 'title'))}</div>
+            <div class="enc-res-summary">${escapeHtml(encT(art, 'summary'))}</div>
           `;
           card.addEventListener('click', () => {
             currentEncSection = sec;
