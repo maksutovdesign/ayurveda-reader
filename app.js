@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=562';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=563';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=562';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=563';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=562';
-import { icon } from './icons.js?v=562';
+import * as Cabinet from './cabinet.js?v=563';
+import { icon } from './icons.js?v=563';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=562');
+  const m = await import('./encyclopedia.js?v=563');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=562');
+  const m = await import('./remedies.js?v=563');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -1717,6 +1717,8 @@ function buildEncyclopediaView() {
     if (!$langToggle) return;
     $langToggle.textContent = encLang === 'en' ? 'EN' : 'RU';
     $langToggle.dataset.lang = encLang;
+    const $headerTitle = document.getElementById('enc-header-title');
+    if ($headerTitle) $headerTitle.textContent = encLang === 'en' ? 'Ayurveda Encyclopedia' : 'Энциклопедия аюрведы';
     const totalArticles = ENCYCLOPEDIA.reduce((n, s) => n + s.articles.length, 0);
     const $subtitle = document.querySelector('.enc-subtitle');
     if ($subtitle) {
