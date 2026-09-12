@@ -1,10 +1,10 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=557';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=558';
 import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=557';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=558';
 import { QUIZ } from './quiz.js';
 import { FOOD_TABLE } from './foodtable.js';
-import * as Cabinet from './cabinet.js?v=557';
-import { icon } from './icons.js?v=557';
+import * as Cabinet from './cabinet.js?v=558';
+import { icon } from './icons.js?v=558';
 import { searchContext, askQuestion } from './chatbot.js';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=557');
+  const m = await import('./encyclopedia.js?v=558');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=557');
+  const m = await import('./remedies.js?v=558');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -2358,6 +2358,14 @@ const REFERENCES = [
     year: 'Рус. пер.',
     description: 'Программа психофизиологической регуляции организма для преодоления хронической усталости, сочетающая современную медицину с элементами традиционных систем врачевания.',
     category: 'Здоровье и энергия',
+  },
+  {
+    id: 'easyayurveda',
+    title: 'EasyAyurveda.com',
+    author: 'Д-р Джанардхана В. Хеббар',
+    year: 'Онлайн-ресурс',
+    description: 'Один из наиболее известных современных англоязычных ресурсов по клинической аюрведе. Практические протоколы лечения конкретных заболеваний, травы, классические препараты — с опорой на практику практикующего аюрведического врача.',
+    category: 'Клиническая аюрведа',
   },
 ];
 
