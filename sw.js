@@ -11,7 +11,7 @@
 //                   foodtable.js/chatbot.js исторически были без ?v=, это баг — не убирай.)
 //   3) books.js   — const DV = '?v=NN'
 //   4) sw.js      — const CACHE = 'ayurveda-vNN'  (здесь)
-const CACHE = 'ayurveda-v564';
+const CACHE = 'ayurveda-v565';
 
 const STATIC = [
   '/',

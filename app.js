@@ -1,11 +1,11 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=564';
-import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js?v=564';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=564';
-import { QUIZ } from './quiz.js?v=564';
-import { FOOD_TABLE } from './foodtable.js?v=564';
-import * as Cabinet from './cabinet.js?v=564';
-import { icon } from './icons.js?v=564';
-import { searchContext, askQuestion } from './chatbot.js?v=564';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=565';
+import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js?v=565';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=565';
+import { QUIZ } from './quiz.js?v=565';
+import { FOOD_TABLE } from './foodtable.js?v=565';
+import * as Cabinet from './cabinet.js?v=565';
+import { icon } from './icons.js?v=565';
+import { searchContext, askQuestion } from './chatbot.js?v=565';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
 const _actSvg = (paths) => `<svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=564');
+  const m = await import('./encyclopedia.js?v=565');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=564');
+  const m = await import('./remedies.js?v=565');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
