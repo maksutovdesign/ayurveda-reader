@@ -17,7 +17,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अथातो दीर्घञ्जीवितीयमध्यायं व्याख्यास्यामः",
         "iast": "Athātō dīrghañjīvitīyamadhyāyaṁ vyākhyāsyāmaḥ",
         "iast_ru": "Атха̄то дӣргхан̃джӣвитӣйамадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣",
-        "text": "Ныне мы изложим главу «Диргханджививтия» (о долголетии)."
+        "text": "Ныне мы изложим главу «Диргханджививтия» (о долголетии).",
+        "text_en": "Now we shall set forth the chapter \"Dirghanjivitiya\" (on longevity)."
       },
       {
         "type": "verse",
@@ -25,7 +26,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "इति ह स्माह भगवानात्रेयः",
         "iast": "Iti ha smāha bhagavānātrēyaḥ",
         "iast_ru": "Ити ха сма̄ха бхагава̄на̄трейах̣",
-        "text": "Так сказал Господь Атрея."
+        "text": "Так сказал Господь Атрея.",
+        "text_en": "Thus spoke Lord Atreya."
       },
       {
         "type": "comment",
@@ -38,7 +40,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "दीर्घं जीवितमन्विच्छन्भरद्वाज उपागमत्| इन्द्रमुग्रतपा बुद्ध्वा शरण्यममरेश्वरम्",
         "iast": "Dīrghaṁ jīvitamanvicchanbharadvāja upāgamat| indramugratapā buddhvā śaraṇyamamarēśvaram",
         "iast_ru": "Дӣргхам̣ джӣвитаманвиччханбхарадва̄джа упа̄гамат| индрамугратапа̄ буддхва̄ ш́аран̣йамамареш́варам",
-        "text": "Бхарадваджа, великий учёный, отправился к Царю богов и спасителю Индре в поисках знания о долголетии."
+        "text": "Бхарадваджа, великий учёный, отправился к Царю богов и спасителю Индре в поисках знания о долголетии.",
+        "text_en": "Bharadvaja, the great sage, went to the King of the gods and savior Indra in search of knowledge of longevity."
       },
       {
         "type": "verse",
@@ -46,7 +49,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "ब्रह्मणा हि यथाप्रोक्तमायुर्वेदं प्रजापतिः| जग्राह निखिलेनादावश्विनौ तु पुनस्ततः",
         "iast": "Brahmaṇā hi yathāprōktamāyurvēdaṁ prajāpatiḥ| jagrāha nikhilēnādāvaśvinau tu punastataḥ",
         "iast_ru": "Брахман̣а̄ хи йатха̄проктама̄йурведам̣ праджа̄патих̣| джагра̄ха никхилена̄да̄ваш́винау ту пунастатах̣",
-        "text": "Аюрведу в её полноте, как она была поведана Брахмой, первым воспринял Праджапати. Затем знание получили Ашвины."
+        "text": "Аюрведу в её полноте, как она была поведана Брахмой, первым воспринял Праджапати. Затем знание получили Ашвины.",
+        "text_en": "Ayurveda in its fullness, as it was proclaimed by Brahma, was first received by Prajapati. Then the knowledge was received by the Ashvins."
       },
       {
         "type": "verse",
@@ -54,7 +58,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अश्विभ्यां भगवाञ्छक्रः प्रतिपेदे ह केवलम्| ऋषिप्रोक्तो भरद्वाजस्तस्माच्छक्रमुपागमत्",
         "iast": "Aśvibhyāṁ bhagavāñchakraḥ pratipēdē ha kēvalam| r̥ṣiprōktō bharadvājastasmācchakramupāgamat",
         "iast_ru": "Аш́вибхйа̄м̣ бхагава̄н̃чхакрах̣ пратипеде ха кевалам| р̣ш̣ипрокто бхарадва̄джастасма̄ччхакрамупа̄гамат",
-        "text": "От Ашвинов Господь Индра воспринял его полностью. Именно поэтому Бхарадваджа, по просьбе мудрецов, пришёл к Индре."
+        "text": "От Ашвинов Господь Индра воспринял его полностью. Именно поэтому Бхарадваджа, по просьбе мудрецов, пришёл к Индре.",
+        "text_en": "From the Ashvins, Lord Indra received it in full. It was for this reason that Bharadvaja, at the request of the sages, came to Indra."
       },
       {
         "type": "comment",
@@ -67,7 +72,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "विघ्नभूता यदा रोगाः प्रादुर्भूताः शरीरिणाम्| तपोपवासाध्ययनब्रह्मचर्यव्रतायुषाम्",
         "iast": "Vighnabhūtā yadā rōgāḥ prādurbhūtāḥ śarīriṇām| tapōpavāsādhyayanabrahmacaryavratāyuṣām",
         "iast_ru": "Вигхнабхӯта̄ йада̄ рога̄х̣ пра̄дурбхӯта̄х̣ ш́арӣрин̣а̄м| тапопава̄са̄дхйайанабрахмачарйаврата̄йуш̣а̄м",
-        "text": "Когда болезни стали губить жизнь, создавая препятствия для подвижничества (тапа), воздержания (упаваса), изучения (адхьяяна), целомудрия (брахмачарья), обетов (врата) и продолжительности жизни (аюша) людей —"
+        "text": "Когда болезни стали губить жизнь, создавая препятствия для подвижничества (тапа), воздержания (упаваса), изучения (адхьяяна), целомудрия (брахмачарья), обетов (врата) и продолжительности жизни (аюша) людей —",
+        "text_en": "When diseases began to destroy life, creating obstacles to austerity (tapas), fasting (upavasa), study (adhyayana), chastity (brahmacharya), religious vows (vrata) and the span of human life (ayus) —"
       },
       {
         "type": "verse",
@@ -75,7 +81,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तदा भूतेष्वनुक्रोशं पुरस्कृत्य महर्षयः| समेताः पुण्यकर्माणः पार्श्वे हिमवतः शुभे",
         "iast": "Tadā bhūtēṣvanukrōśaṁ puraskr̥tya maharṣayaḥ| samētāḥ puṇyakarmāṇaḥ pārśvē himavataḥ śubhē",
         "iast_ru": "Тада̄ бхӯтеш̣ванукрош́ам̣ пураскр̣тйа махарш̣айах̣| самета̄х̣ пун̣йакарма̄н̣ах̣ па̄рш́ве химаватах̣ ш́убхе",
-        "text": "святые мудрецы, из сострадания к живым существам, собрались в благодатном месте у подножия Гималаев."
+        "text": "святые мудрецы, из сострадания к живым существам, собрались в благодатном месте у подножия Гималаев.",
+        "text_en": "the holy sages, out of compassion for living beings, gathered in a blessed place at the foot of the Himalayas."
       },
       {
         "type": "verse",
@@ -83,7 +90,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अङ्गिरा जमदग्निश्च वसिष्ठः कश्यपो भृगुः| आत्रेयो गौतमः साङ्ख्यः पुलस्त्यो नारदोऽसितः",
         "iast": "Aṅgirā jamadagniśca vasiṣṭhaḥ kaśyapō bhr̥guḥ| ātrēyō gautamaḥ sāṅkhyaḥ pulastyō nāradō'sitaḥ",
         "iast_ru": "Ан̇гира̄ джамадагниш́ча васиш̣т̣хах̣ каш́йапо бхр̣гух̣| а̄трейо гаутамах̣ са̄н̇кхйах̣ пуластйо на̄радо'ситах̣",
-        "text": "Среди них были Ангира, Джамадагни, Васиштха, Кашьяпа, Бхригу, Атрея, Гаутама, Санкхья, Пуластья, Нарада и Асита."
+        "text": "Среди них были Ангира, Джамадагни, Васиштха, Кашьяпа, Бхригу, Атрея, Гаутама, Санкхья, Пуластья, Нарада и Асита.",
+        "text_en": "Among them were Angiras, Jamadagni, Vasishtha, Kashyapa, Bhrigu, Atreya, Gautama, Sankhya, Pulastya, Narada and Asita."
       },
       {
         "type": "verse",
@@ -91,7 +99,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अगस्त्यो वामदेवश्च मार्कण्डेयाश्वलायनौ| पारिक्षिर्भिक्षुरात्रेयो भरद्वाजः कपिञ्ज(ष्ठ)लः",
         "iast": "Agastyō vāmadēvaśca mārkaṇḍēyāśvalāyanau| pārikṣirbhikṣurātrēyō bharadvājaḥ kapiñja(ṣṭha)laḥ",
         "iast_ru": "Агастйо ва̄мадеваш́ча ма̄ркан̣д̣ейа̄ш́вала̄йанау| па̄рикш̣ирбхикш̣ура̄трейо бхарадва̄джах̣ капин̃джа(ш̣т̣ха)лах̣",
-        "text": "Агастья, Вамадева, Маркандея, Ашвалаяна, Парикши, Бхикшу Атрея, Бхарадваджа и Капинджала."
+        "text": "Агастья, Вамадева, Маркандея, Ашвалаяна, Парикши, Бхикшу Атрея, Бхарадваджа и Капинджала.",
+        "text_en": "Agastya, Vamadeva, Markandeya, Ashvalayana, Parikshi, Bhikshu Atreya, Bharadvaja and Kapinjala."
       },
       {
         "type": "verse",
@@ -99,7 +108,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "विश्वामित्राश्मरथ्यौ च भार्गवश्च्यवनोऽभिजित्| गार्ग्यः शाण्डिल्यकौण्डिल्यौ(न्यौ)वार्क्षिर्देवलगालवौ",
         "iast": "Viśvāmitrāśmarathyau ca bhārgavaścyavanō'bhijit| gārgyaḥ śāṇḍilyakauṇḍilyau(nyau)vārkṣirdēvalagālavau",
         "iast_ru": "Виш́ва̄митра̄ш́маратхйау ча бха̄ргаваш́чйавано'бхиджит| га̄ргйах̣ ш́а̄н̣д̣илйакаун̣д̣илйау(нйау)ва̄ркш̣ирдевалага̄лавау",
-        "text": "Вишвамитра, Ашмаратхья, Бхаргава, Чьявана, Абхиджит Гаргья, Шандилья, Каундинья, Варкши, Девала и Галава."
+        "text": "Вишвамитра, Ашмаратхья, Бхаргава, Чьявана, Абхиджит Гаргья, Шандилья, Каундинья, Варкши, Девала и Галава.",
+        "text_en": "Vishvamitra, Ashmarathya, Bhargava, Chyavana, Abhijit Gargya, Shandilya, Kaundinya, Varkshi, Devala and Galava."
       },
       {
         "type": "verse",
@@ -107,7 +117,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "साङ्कृत्यो बैजवापिश्च कुशिको बादरायणः| बडिशः शरलोमा च काप्यकात्यायनावुभौ",
         "iast": "Sāṅkr̥tyō baijavāpiśca kuśikō bādarāyaṇaḥ| baḍiśaḥ śaralōmā ca kāpyakātyāyanāvubhau",
         "iast_ru": "Са̄н̇кр̣тйо баиджава̄пиш́ча куш́ико ба̄дара̄йан̣ах̣| бад̣иш́ах̣ ш́аралома̄ ча ка̄пйака̄тйа̄йана̄вубхау",
-        "text": "Санкритья, Вайджавапи, Кушика, Бадараяна, Бадиша, Шаралома, Капья и Катьяяна."
+        "text": "Санкритья, Вайджавапи, Кушика, Бадараяна, Бадиша, Шаралома, Капья и Катьяяна.",
+        "text_en": "Sankritya, Vaijavapi, Kushika, Badarayana, Badisha, Sharaloma, Kapya and Katyayana."
       },
       {
         "type": "verse",
@@ -115,7 +126,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "काङ्कायनः कैकशेयो धौम्यो मारीचकाश्यपौ| शर्कराक्षो हिरण्याक्षो लोकाक्षः पैङ्गिरेव च",
         "iast": "Kāṅkāyanaḥ kaikaśēyō dhaumyō mārīcakāśyapau| śarkarākṣō hiraṇyākṣō lōkākṣaḥ paiṅgirēva ca",
         "iast_ru": "Ка̄н̇ка̄йанах̣ каикаш́ейо дхаумйо ма̄рӣчака̄ш́йапау| ш́аркара̄кш̣о хиран̣йа̄кш̣о лока̄кш̣ах̣ паин̇гирева ча",
-        "text": "Канкаяна, Кайкашея, Дхаумья, Марича, Кашьяпа, Шаркаракша, Хираньякша, Локакша и Пайнги."
+        "text": "Канкаяна, Кайкашея, Дхаумья, Марича, Кашьяпа, Шаркаракша, Хираньякша, Локакша и Пайнги.",
+        "text_en": "Kankayana, Kaikashya, Dhaumya, Maricha, Kashyapa, Sharkaraksha, Hiranyaksha, Lokaksha and Painga."
       },
       {
         "type": "verse",
@@ -123,7 +135,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "शौनकः शाकुनेयश्च मैत्रेयो मैमतायनिः| वैखानसा वालखिल्यास्तथा चान्ये महर्षयः",
         "iast": "Śaunakaḥ śākunēyaśca maitrēyō maimatāyaniḥ| vaikhānasā vālakhilyāstathā cānyē maharṣayaḥ",
         "iast_ru": "Ш́аунаках̣ ш́а̄кунейаш́ча маитрейо маимата̄йаних̣| ваикха̄наса̄ ва̄лакхилйа̄статха̄ ча̄нйе махарш̣айах̣",
-        "text": "Шаунака, Шакунтея, Майтрея и Майматаяни, а также мудрецы орденов Вайкханаса и Валакхилья и другие великие мудрецы."
+        "text": "Шаунака, Шакунтея, Майтрея и Майматаяни, а также мудрецы орденов Вайкханаса и Валакхилья и другие великие мудрецы.",
+        "text_en": "Shaunaka, Shakunteya, Maitreya and Maimatayani, together with the sages of the Vaikhanasa and Valakhilya orders and other great sages."
       },
       {
         "type": "verse",
@@ -131,7 +144,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "ब्रह्मज्ञानस्य निधयो द(य)मस्य नियमस्य च| तपसस्तेजसा दीप्ता हूयमाना इवाग्नयः",
         "iast": "Brahmajñānasya nidhayō da(ya)masya niyamasya ca| tapasastējasā dīptā hūyamānā ivāgnayaḥ",
         "iast_ru": "Брахмаджн̃а̄насйа нидхайо да(йа)масйа нийамасйа ча| тапасастеджаса̄ дӣпта̄ хӯйама̄на̄ ива̄гнайах̣",
-        "text": "Все они, источники духовного знания, самообладания и обуздания ума, сияющие блеском подвижничества подобно огню, приняв подношения,"
+        "text": "Все они, источники духовного знания, самообладания и обуздания ума, сияющие блеском подвижничества подобно огню, приняв подношения,",
+        "text_en": "All of them, sources of spiritual knowledge, self-mastery and control of the mind, radiant with the brilliance of austerity like fire, having accepted offerings,"
       },
       {
         "type": "verse",
@@ -139,7 +153,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सुखोपविष्टास्ते तत्र पुण्यां चक्रुः कथामिमाम् धर्मार्थकाममोक्षाणामारोग्यं मूलमुत्तमम्",
         "iast": "Sukhōpaviṣṭāstē tatra puṇyāṁ cakruḥ kathāmimām dharmārthakāmamōkṣāṇāmārōgyaṁ mūlamuttamam",
         "iast_ru": "Сукхопавиш̣т̣а̄сте татра пун̣йа̄м̣ чакрух̣ катха̄мима̄м дхарма̄ртхака̄мамокш̣а̄н̣а̄ма̄рогйам̣ мӯламуттамам",
-        "text": "удобно расположились там и начали это благое собеседование: здоровье есть наилучший источник добродетели, богатства, удовольствия и освобождения."
+        "text": "удобно расположились там и начали это благое собеседование: здоровье есть наилучший источник добродетели, богатства, удовольствия и освобождения.",
+        "text_en": "settled comfortably there and began this auspicious discourse: health is the finest source of virtue, wealth, pleasure and liberation."
       },
       {
         "type": "verse",
@@ -147,7 +162,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "रोगास्तस्यापहर्तारः श्रेयसो जीवितस्य च| प्रादुर्भूतो मनुष्याणामन्तरायो महानयम्",
         "iast": "Rōgāstasyāpahartāraḥ śrēyasō jīvitasya ca| prādurbhūtō manuṣyāṇāmantarāyō mahānayam",
         "iast_ru": "Рога̄стасйа̄пахарта̄рах̣ ш́рейасо джӣвитасйа ча| пра̄дурбхӯто мануш̣йа̄н̣а̄мантара̄йо маха̄найам",
-        "text": "Болезни разрушают этот источник, благополучие и саму жизнь. Ныне эти болезни явились великим препятствием для людей."
+        "text": "Болезни разрушают этот источник, благополучие и саму жизнь. Ныне эти болезни явились великим препятствием для людей.",
+        "text_en": "Diseases destroy this very source, well-being and life itself. Now these diseases have arisen as a great obstacle for humankind."
       },
       {
         "type": "verse",
@@ -155,7 +171,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "कः स्यात्तेषां शमोपाय इत्युक्त्वा ध्यानमास्थिताः| अथ ते शरणं शक्रं ददृशुर्ध्यानचक्षुषा",
         "iast": "Kaḥ syāttēṣāṁ śamōpāya ityuktvā dhyānamāsthitāḥ| atha tē śaraṇaṁ śakraṁ dadr̥śurdhyānacakṣuṣā",
         "iast_ru": "Ках̣ сйа̄ттеш̣а̄м̣ ш́амопа̄йа итйуктва̄ дхйа̄нама̄стхита̄х̣| атха те ш́аран̣ам̣ ш́акрам̣ дадр̣ш́урдхйа̄начакш̣уш̣а̄",
-        "text": "Каковы же средства для их устранения? Произнеся это, мудрецы сосредоточились на поиске решения. И тогда, в состоянии медитации, они узрели Индру как спасителя."
+        "text": "Каковы же средства для их устранения? Произнеся это, мудрецы сосредоточились на поиске решения. И тогда, в состоянии медитации, они узрели Индру как спасителя.",
+        "text_en": "What then are the means for their removal? Having said this, the sages concentrated on seeking a solution. And then, in a state of meditation, they beheld Indra as the deliverer."
       },
       {
         "type": "comment",
@@ -168,7 +185,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "स वक्ष्यति शमोपायं यथावदमरप्रभुः कः सहस्राक्षभवनं गच्छेत् प्रष्टुं शचीपतिम्",
         "iast": "Sa vakṣyati śamōpāyaṁ yathāvadamaraprabhuḥ kaḥ sahasrākṣabhavanaṁ gacchēt praṣṭuṁ śacīpatim",
         "iast_ru": "Са вакш̣йати ш́амопа̄йам̣ йатха̄вадамарапрабхух̣ ках̣ сахасра̄кш̣абхаванам̣ гаччхет праш̣т̣ум̣ ш́ачӣпатим",
-        "text": "Лишь Царь богов сможет указать верные средства для устранения болезней. Кому надлежит отправиться в обитель Индры, дабы узнать верные средства устранения болезней?"
+        "text": "Лишь Царь богов сможет указать верные средства для устранения болезней. Кому надлежит отправиться в обитель Индры, дабы узнать верные средства устранения болезней?",
+        "text_en": "Only the King of the gods can point out the true means for the removal of disease. Who among us should go to Indra's abode to learn the true means for the removal of disease?"
       },
       {
         "type": "verse",
@@ -176,7 +194,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अहमर्थे नियुज्येयमत्रेति प्रथमं वचः| भरद्वाजोऽब्रवीत्तस्मादृषिभिः स नियोजितः",
         "iast": "Ahamarthē niyujyēyamatrēti prathamaṁ vacaḥ| bharadvājō'bravīttasmādr̥ṣibhiḥ sa niyōjitaḥ",
         "iast_ru": "Ахамартхе нийуджйейаматрети пратхамам̣ вачах̣| бхарадва̄джо'бравӣттасма̄др̣ш̣ибхих̣ са нийоджитах̣",
-        "text": "На это вызвался Бхарадваджа: «Пусть поручат это мне», — и мудрецы направили его."
+        "text": "На это вызвался Бхарадваджа: «Пусть поручат это мне», — и мудрецы направили его.",
+        "text_en": "To this Bharadvaja volunteered, saying, \"Let this task be entrusted to me,\" and the sages sent him."
       },
       {
         "type": "verse",
@@ -184,7 +203,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "स शक्रभवनं गत्वा सुरर्षिगणमध्यगम् | ददर्श बलहन्तारं दीप्यमानमिवानलम्",
         "iast": "Sa śakrabhavanaṁ gatvā surarṣigaṇamadhyagam| dadarśa balahantāraṁ dīpyamānamivānalam",
         "iast_ru": "Са ш́акрабхаванам̣ гатва̄ сурарш̣иган̣амадхйагам| дадарш́а балаханта̄рам̣ дӣпйама̄намива̄налам",
-        "text": "Придя в обитель Индры, он узрел Индру — Победителя Балы (демона), восседающего среди сонмов божественных мудрецов и сияющего подобно огню."
+        "text": "Придя в обитель Индры, он узрел Индру — Победителя Балы (демона), восседающего среди сонмов божественных мудрецов и сияющего подобно огню.",
+        "text_en": "Arriving at Indra's abode, he beheld Indra — the Conqueror of Bala (the demon) — seated among assemblies of divine sages and shining like fire."
       },
       {
         "type": "verse",
@@ -192,7 +212,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सोऽभिगम्य जयाशीर्भिरभिनन्द्य सुरेश्वरम्| प्रोवाच विनयाद्धीमानृषीणां वाक्यमुत्तमम्",
         "iast": "Sō'bhigamya jayāśīrbhirabhinandya surēśvaram| prōvāca vinayāddhīmānr̥ṣīṇāṁ vākyamuttamam",
         "iast_ru": "Со'бхигамйа джайа̄ш́ӣрбхирабхинандйа суреш́варам| прова̄ча винайа̄ддхӣма̄нр̣ш̣ӣн̣а̄м̣ ва̄кйамуттамам",
-        "text": "Он приблизился к нему со словами восхваления и благословения, и мудрый смиренно и наилучшим образом передал послание мудрецов:"
+        "text": "Он приблизился к нему со словами восхваления и благословения, и мудрый смиренно и наилучшим образом передал послание мудрецов:",
+        "text_en": "He approached him with words of praise and blessing, and the wise sage, humbly and in the best manner, conveyed the sages' message:"
       },
       {
         "type": "verse",
@@ -200,7 +221,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "व्याधयो हि समुत्पन्नाः सर्वप्राणिभयङ्कराः| तद्ब्रूहि मे शमोपायं यथावदमरप्रभो",
         "iast": "Vyādhayō hi samutpannāḥ sarvaprāṇibhayaṅkarāḥ| tadbrūhi mē śamōpāyaṁ yathāvadamaraprabhō",
         "iast_ru": "Вйа̄дхайо хи самутпанна̄х̣ сарвапра̄н̣ибхайан̇кара̄х̣| тадбрӯхи ме ш́амопа̄йам̣ йатха̄вадамарапрабхо",
-        "text": "«Болезни, вселяющие страх во все живые существа, явились — поведай же, о Владыка богов, верные средства для их устранения!»"
+        "text": "«Болезни, вселяющие страх во все живые существа, явились — поведай же, о Владыка богов, верные средства для их устранения!»",
+        "text_en": "\"Diseases, striking fear into all living beings, have arisen — declare, O Lord of the gods, the true means for their removal!\""
       },
       {
         "type": "verse",
@@ -208,7 +230,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तस्मै प्रोवाच भगवानायुर्वेदं शतक्रतुः| पदैरल्पैर्मतिं बुद्ध्वा विपुलां परमर्षये",
         "iast": "Tasmai prōvāca bhagavānāyurvēdaṁ śatakratuḥ| padairalpairmatiṁ buddhvā vipulāṁ paramarṣayē",
         "iast_ru": "Тасмаи прова̄ча бхагава̄на̄йурведам̣ ш́атакратух̣| падаиралпаирматим̣ буддхва̄ випула̄м̣ парамарш̣айе",
-        "text": "Тогда Господь Индра, узрев обширный разум великого мудреца, передал ему Аюрведу в немногих словах."
+        "text": "Тогда Господь Индра, узрев обширный разум великого мудреца, передал ему Аюрведу в немногих словах.",
+        "text_en": "Then Lord Indra, perceiving the great sage's vast intellect, imparted Ayurveda to him in few words."
       },
       {
         "type": "comment",
@@ -221,7 +244,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "हेतुलिङ्गौषधज्ञानं स्वस्थातुरपरायणम्| त्रिसूत्रं शाश्वतं पुण्यं बुबुधे यं पितामहः",
         "iast": "Hētuliṅgauṣadhajñānaṁ svasthāturaparāyaṇam| trisūtraṁ śāśvataṁ puṇyaṁ bubudhē yaṁ pitāmahaḥ",
         "iast_ru": "Хетулин̇гауш̣адхаджн̃а̄нам̣ свастха̄турапара̄йан̣ам| трисӯтрам̣ ш́а̄ш́ватам̣ пун̣йам̣ бубудхе йам̣ пита̄махах̣",
-        "text": "Аюрведа даёт знание о хету (этиологии), линга (симптоматологии) и аушадха (терапии), наилучшие средства как для здоровых, так и для больных — это трёхчастное, существующее испокон веков и благодетельное знание, которое первым познал Брахма."
+        "text": "Аюрведа даёт знание о хету (этиологии), линга (симптоматологии) и аушадха (терапии), наилучшие средства как для здоровых, так и для больных — это трёхчастное, существующее испокон веков и благодетельное знание, которое первым познал Брахма.",
+        "text_en": "Ayurveda gives knowledge of hetu (etiology), linga (symptomatology) and aushadha (therapeutics), the finest means for both the healthy and the sick — this is the threefold, eternally existing and beneficent knowledge, which Brahma first came to know."
       },
       {
         "type": "comment",
@@ -234,7 +258,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सोऽनन्तपारं त्रिस्कन्धमायुर्वेदं महामतिः| यथावदचिरात् सर्वं बुबुधे तन्मना मुनिः",
         "iast": "Sō'nantapāraṁ triskandhamāyurvēdaṁ mahāmatiḥ| yathāvadacirāt sarvaṁ bubudhē tanmanā muniḥ",
         "iast_ru": "Со'нантапа̄рам̣ трискандхама̄йурведам̣ маха̄матих̣| йатха̄вадачира̄т сарвам̣ бубудхе танмана̄ муних̣",
-        "text": "Он (Бхарадваджа), мудрый и сосредоточенный мудрец, усвоил бескрайнюю и трёхчастную Аюрведу правильно и полностью за короткое время."
+        "text": "Он (Бхарадваджа), мудрый и сосредоточенный мудрец, усвоил бескрайнюю и трёхчастную Аюрведу правильно и полностью за короткое время.",
+        "text_en": "He (Bharadvaja), a wise and concentrated sage, mastered the boundless, threefold Ayurveda correctly and completely in a short time."
       },
       {
         "type": "verse",
@@ -242,7 +267,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तेनायुरमितं लेभे भरद्वाजः सुखान्वितम्| ऋषिभ्योऽनधिकं तच्च शशंसानवशेषयन्",
         "iast": "Tēnāyuramitaṁ lēbhē bharadvājaḥ sukhānvitam| r̥ṣibhyō'nadhikaṁ tacca śaśaṁsānavaśēṣayan",
         "iast_ru": "Тена̄йурамитам̣ лебхе бхарадва̄джах̣ сукха̄нвитам| р̣ш̣ибхйо'надхикам̣ тачча ш́аш́ам̣са̄наваш́еш̣айан",
-        "text": "Благодаря этому Бхарадваджа обрёл неизмеримо блаженную долгую жизнь. Затем он передал это знание как есть — ни больше, ни меньше — мудрецам."
+        "text": "Благодаря этому Бхарадваджа обрёл неизмеримо блаженную долгую жизнь. Затем он передал это знание как есть — ни больше, ни меньше — мудрецам.",
+        "text_en": "Through this, Bharadvaja obtained an immeasurably blessed long life. He then transmitted this knowledge, exactly as it was — neither more nor less — to the sages."
       },
       {
         "type": "verse",
@@ -250,7 +276,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "ऋषयश्च भरद्वाजाज्जगृहुस्तं प्रजाहितम्| दीर्घमायुश्चिकीर्षन्तो वेदं वर्धनमायुषः",
         "iast": "R̥ṣayaśca bharadvājājjagr̥hustaṁ prajāhitam| dīrghamāyuścikīrṣantō vēdaṁ vardhanamāyuṣaḥ",
         "iast_ru": "Р̣ш̣айаш́ча бхарадва̄джа̄джджагр̣хустам̣ праджа̄хитам| дӣргхама̄йуш́чикӣрш̣анто ведам̣ вардханама̄йуш̣ах̣",
-        "text": "Мудрецы, стремящиеся к долголетию, также получили эту благодатную веду (свод знаний) об увеличении жизни от Бхарадваджи."
+        "text": "Мудрецы, стремящиеся к долголетию, также получили эту благодатную веду (свод знаний) об увеличении жизни от Бхарадваджи.",
+        "text_en": "The sages, seeking longevity, also received this beneficent veda (body of knowledge) on the prolongation of life from Bharadvaja."
       },
       {
         "type": "verse",
@@ -258,7 +285,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "महर्षयस्ते ददृशुर्यथावज्ज्ञानचक्षुषा| सामान्यं च विशेषं च गुणान् द्रव्याणि कर्म च",
         "iast": "Maharṣayastē dadr̥śuryathāvajjñānacakṣuṣā| sāmānyaṁ ca viśēṣaṁ ca guṇān dravyāṇi karma ca",
         "iast_ru": "Махарш̣айасте дадр̣ш́урйатха̄ваджджн̃а̄начакш̣уш̣а̄| са̄ма̄нйам̣ ча виш́еш̣ам̣ ча гун̣а̄н дравйа̄н̣и карма ча",
-        "text": "Великие мудрецы далее надлежащим образом постигли знание о саманья (сходстве), вишеша (различии), гуна (свойствах), дравья (субстанциях) и карма (действии)."
+        "text": "Великие мудрецы далее надлежащим образом постигли знание о саманья (сходстве), вишеша (различии), гуна (свойствах), дравья (субстанциях) и карма (действии).",
+        "text_en": "The great sages further duly comprehended the knowledge of samanya (similarity), vishesha (difference), guna (qualities), dravya (substances) and karma (action)."
       },
       {
         "type": "verse",
@@ -266,7 +294,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "समवायं च तज्ज्ञात्वा तन्त्रोक्तं विधिमास्थिताः| लेभिरे परमं शर्म जीवितं चाप्यनित्वरम्",
         "iast": "Samavāyaṁ ca tajjñātvā tantrōktaṁ vidhimāsthitāḥ| lēbhirē paramaṁ śarma jīvitaṁ cāpyanitvaram",
         "iast_ru": "Самава̄йам̣ ча таджджн̃а̄тва̄ тантроктам̣ видхима̄стхита̄х̣| лебхире парамам̣ ш́арма джӣвитам̣ ча̄пйанитварам",
-        "text": "И самавая (неразрывная связь) — познав это, они следовали положениям свода и достигли высшего благополучия и нетленной продолжительности жизни."
+        "text": "И самавая (неразрывная связь) — познав это, они следовали положениям свода и достигли высшего благополучия и нетленной продолжительности жизни.",
+        "text_en": "And samavaya (inseparable connection) — having understood this, they followed the principles of the compendium and attained supreme well-being and imperishable length of life."
       },
       {
         "type": "verse",
@@ -274,7 +303,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अथ मैत्रीपरः पुण्यमायुर्वेदं पुनर्वसुः| शिष्येभ्यो दत्तवान् षड्भ्यः सर्वभूतानुकम्पया",
         "iast": "Atha maitrīparaḥ puṇyamāyurvēdaṁ punarvasuḥ| śiṣyēbhyō dattavān ṣaḍbhyaḥ sarvabhūtānukampayā",
         "iast_ru": "Атха маитрӣпарах̣ пун̣йама̄йурведам̣ пунарвасух̣| ш́иш̣йебхйо даттава̄н ш̣ад̣бхйах̣ сарвабхӯта̄нукампайа̄",
-        "text": "Затем Пунарвасу (Господь Атрея), друг человечества, из своего милосердия даровал благодетельную Аюрведу шести ученикам."
+        "text": "Затем Пунарвасу (Господь Атрея), друг человечества, из своего милосердия даровал благодетельную Аюрведу шести ученикам.",
+        "text_en": "Then Punarvasu (Lord Atreya), a friend to humankind, out of his compassion, bestowed the beneficent Ayurveda upon six disciples."
       },
       {
         "type": "verse",
@@ -282,7 +312,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अग्निवेशश्च भेल(ड)श्च जतूकर्णः पराशरः| हारीतः क्षारपाणिश्च जगृहुस्तन्मुनेर्वचः",
         "iast": "Agnivēśaśca bhēla(ḍa)śca jatūkarṇaḥ parāśaraḥ| hārītaḥ kṣārapāṇiśca jagr̥hustanmunērvacaḥ",
         "iast_ru": "Агнивеш́аш́ча бхела(д̣а)ш́ча джатӯкарн̣ах̣ пара̄ш́арах̣| ха̄рӣтах̣ кш̣а̄рапа̄н̣иш́ча джагр̣хустанмунервачах̣",
-        "text": "Ученики — Агнивеша, Бхела, Джатукарна, Парашара, Харита и Кшарапани — получили наставление от мудреца Пунарвасу."
+        "text": "Ученики — Агнивеша, Бхела, Джатукарна, Парашара, Харита и Кшарапани — получили наставление от мудреца Пунарвасу.",
+        "text_en": "The disciples — Agnivesha, Bhela, Jatukarna, Parashara, Harita and Ksharapani — received instruction from the sage Punarvasu."
       },
       {
         "type": "verse",
@@ -290,7 +321,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "बुद्धेर्विशेषस्तत्रासीन्नोपदेशान्तरं मुनेः| तन्त्रस्य कर्ता प्रथममग्निवेशो यतोऽभवत्",
         "iast": "Buddhērviśēṣastatrāsīnnōpadēśāntaraṁ munēḥ| tantrasya kartā prathamamagnivēśō yatō'bhavat",
         "iast_ru": "Буддхервиш́еш̣астатра̄сӣннопадеш́а̄нтарам̣ мунех̣| тантрасйа карта̄ пратхамамагнивеш́о йато'бхават",
-        "text": "Именно исключительные заслуги, а не наставления мудреца, сделали Агнивешу автором первого свода."
+        "text": "Именно исключительные заслуги, а не наставления мудреца, сделали Агнивешу автором первого свода.",
+        "text_en": "It was exceptional merit, and not the instruction of the sage alone, that made Agnivesha the author of the first compendium."
       },
       {
         "type": "verse",
@@ -298,7 +330,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अथ भेलादयश्चक्रुः स्वं स्वं तन्त्रं कृतानि च| श्रावयामासुरात्रेयं सर्षिसङ्घं सुमेधसः",
         "iast": "Atha bhēlādayaścakruḥ svaṁ svaṁ tantraṁ kr̥tāni ca| śrāvayāmāsurātrēyaṁ sarṣisaṅghaṁ sumēdhasaḥ",
         "iast_ru": "Атха бхела̄дайаш́чакрух̣ свам̣ свам̣ тантрам̣ кр̣та̄ни ча| ш́ра̄вайа̄ма̄сура̄трейам̣ сарш̣исан̇гхам̣ сумедхасах̣",
-        "text": "Впоследствии Бхела и другие также составили свои собственные компендиумы, и все они, мудрые, представили свои труды Атрее."
+        "text": "Впоследствии Бхела и другие также составили свои собственные компендиумы, и все они, мудрые, представили свои труды Атрее.",
+        "text_en": "Subsequently, Bhela and the others also composed their own compendiums, and all of them, being wise, presented their works to Atreya."
       },
       {
         "type": "verse",
@@ -306,7 +339,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "श्रुत्वा सूत्रणमर्थानामृषयः पुण्यकर्मणाम्| यथावत्सूत्रितमिति प्रहृष्टास्तेऽनुमेनिरे",
         "iast": "Śrutvā sūtraṇamarthānāmr̥ṣayaḥ puṇyakarmaṇām| yathāvatsūtritamiti prahr̥ṣṭāstē'numēnirē",
         "iast_ru": "Ш́рутва̄ сӯтран̣амартха̄на̄мр̣ш̣айах̣ пун̣йакарман̣а̄м| йатха̄ватсӯтритамити прахр̣ш̣т̣а̄сте'нуменире",
-        "text": "Мудрецы, услышав изложение различных ветвей Аюрведы, были чрезвычайно довольны и единогласно одобрили их как хорошо составленный корпус знаний."
+        "text": "Мудрецы, услышав изложение различных ветвей Аюрведы, были чрезвычайно довольны и единогласно одобрили их как хорошо составленный корпус знаний.",
+        "text_en": "The sages, hearing the exposition of the various branches of Ayurveda, were exceedingly pleased and unanimously approved them as a well-composed body of knowledge."
       },
       {
         "type": "verse",
@@ -314,7 +348,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सर्व एवास्तुवंस्तांश्च सर्वभूतहितैषिणः| साधु भूतेष्वनुक्रोश इत्युच्चैरब्रुवन् समम्",
         "iast": "Sarva ēvāstuvaṁstāṁśca sarvabhūtahitaiṣiṇaḥ| sādhu bhūtēṣvanukrōśa ityuccairabruvan samam",
         "iast_ru": "Сарва ева̄стувам̣ста̄м̣ш́ча сарвабхӯтахитаиш̣ин̣ах̣| са̄дху бхӯтеш̣ванукрош́а итйуччаирабруван самам",
-        "text": "Все восхвалили мудрецов, благодетелей всех существ, за их сострадание к ближним."
+        "text": "Все восхвалили мудрецов, благодетелей всех существ, за их сострадание к ближним.",
+        "text_en": "All praised the sages, benefactors of all beings, for their compassion toward their fellow creatures."
       },
       {
         "type": "verse",
@@ -322,7 +357,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तं पुण्यं शुश्रुवुः शब्दं दिवि देवर्षयः स्थिताः| सामराः परमर्षीणां श्रुत्वा मुमुदिरे परम्",
         "iast": "Taṁ puṇyaṁ śuśruvuḥ śabdaṁ divi dēvarṣayaḥ sthitāḥ| sāmarāḥ paramarṣīṇāṁ śrutvā mumudirē param",
         "iast_ru": "Там̣ пун̣йам̣ ш́уш́рувух̣ ш́абдам̣ диви деварш̣айах̣ стхита̄х̣| са̄мара̄х̣ парамарш̣ӣн̣а̄м̣ ш́рутва̄ мумудире парам",
-        "text": "Эти проникновенные, мудрые слова мудрецов были услышаны божествами и богами на небесах, которые были чрезвычайно довольны."
+        "text": "Эти проникновенные, мудрые слова мудрецов были услышаны божествами и богами на небесах, которые были чрезвычайно довольны.",
+        "text_en": "These heartfelt, wise words of the sages were heard by the deities and gods in the heavens, who were exceedingly pleased."
       },
       {
         "type": "verse",
@@ -330,7 +366,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अहो साध्विति निर्घोषो लोकांस्त्रीनन्ववा(ना)दयत्| नभसि स्निग्धगम्भीरो हर्षाद्भूतैरुदीरितः",
         "iast": "Ahō sādhviti nirghōṣō lōkāṁstrīnanvavā(nā)dayat| nabhasi snigdhagambhīrō harṣādbhūtairudīritaḥ",
         "iast_ru": "Ахо са̄дхвити ниргхош̣о лока̄м̣стрӣнанвава̄(на̄)дайат| набхаси снигдхагамбхӣро харш̣а̄дбхӯтаирудӣритах̣",
-        "text": "Их единодушное одобрение в виде «Прекрасно!» прозвучало по всем Трём мирам."
+        "text": "Их единодушное одобрение в виде «Прекрасно!» прозвучало по всем Трём мирам.",
+        "text_en": "Their unanimous approval, in the form of \"Excellent!\", resounded throughout the Three Worlds."
       },
       {
         "type": "verse",
@@ -338,7 +375,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "शिवो वायुर्ववौ सर्वा भाभिरुन्मीलिता दिशः| निपेतुः सजलाश्चैव दिव्याः कुसुमवृष्टयः",
         "iast": "Śivō vāyurvavau sarvā bhābhirunmīlitā diśaḥ| nipētuḥ sajalāścaiva divyāḥ kusumavr̥ṣṭayaḥ",
         "iast_ru": "Ш́иво ва̄йурвавау сарва̄ бха̄бхирунмӣлита̄ диш́ах̣| нипетух̣ саджала̄ш́чаива дивйа̄х̣ кусумавр̣ш̣т̣айах̣",
-        "text": "Подули приятные ветры, повсюду воцарилось сияние, и на мудрецов (Агнивешу и других) пролились божественные дожди буддхи (разума), сиддхи (успеха), смрити (памяти), медха (способности постижения наук), дхрити (сдержанности), кирти (славы), кшама (терпения) и дая (доброты)."
+        "text": "Подули приятные ветры, повсюду воцарилось сияние, и на мудрецов (Агнивешу и других) пролились божественные дожди буддхи (разума), сиддхи (успеха), смрити (памяти), медха (способности постижения наук), дхрити (сдержанности), кирти (славы), кшама (терпения) и дая (доброты).",
+        "text_en": "Pleasant winds blew, radiance reigned everywhere, and upon the sages (Agnivesha and the others) there rained down divine showers of buddhi (intellect), siddhi (success), smriti (memory), medha (the capacity for grasping the sciences), dhriti (self-restraint), kirti (fame), kshama (patience) and daya (kindness)."
       },
       {
         "type": "verse",
@@ -346,7 +384,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अथाग्निवेशप्रमुखान् विविशुर्ज्ञानदेवताः| बुद्धिः सिद्धिः स्मृतिर्मेधा धृतिः कीर्तिः क्षमा दया",
         "iast": "Athāgnivēśapramukhān viviśurjñānadēvatāḥ| buddhiḥ siddhiḥ smr̥tirmēdhā dhr̥tiḥ kīrtiḥ kṣamā dayā",
         "iast_ru": "Атха̄гнивеш́апрамукха̄н вивиш́урджн̃а̄надевата̄х̣| буддхих̣ сиддхих̣ смр̣тирмедха̄ дхр̣тих̣ кӣртих̣ кш̣ама̄ дайа̄",
-        "text": "(Образ богинь мудрости — буддхи, сиддхи, смрити, медхи, дхрити, кирти, кшамы и даи, — входящих в Агнивешу и его соучеников, передан в исходном переводе слитно со стихом 38.)"
+        "text": "(Образ богинь мудрости — буддхи, сиддхи, смрити, медхи, дхрити, кирти, кшамы и даи, — входящих в Агнивешу и его соучеников, передан в исходном переводе слитно со стихом 38.)",
+        "text_en": "[The image of the goddesses of wisdom — buddhi, siddhi, smriti, medha, dhriti, kirti, kshama and daya — entering into Agnivesha and his fellow disciples is rendered in the source translation merged together with verse 38.]"
       },
       {
         "type": "verse",
@@ -354,7 +393,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तानि चानुमतान्येषां तन्त्राणि परमर्षिभिः| भ(भा)वाय भूतसङ्घानां प्रतिष्ठां भुवि लेभिरे",
         "iast": "Tāni cānumatānyēṣāṁ tantrāṇi paramarṣibhiḥ| bha(bhā)vāya bhūtasaṅghānāṁ pratiṣṭhāṁ bhuvi lēbhirē",
         "iast_ru": "Та̄ни ча̄нумата̄нйеш̣а̄м̣ тантра̄н̣и парамарш̣ибхих̣| бха(бха̄)ва̄йа бхӯтасан̇гха̄на̄м̣ пратиш̣т̣ха̄м̣ бхуви лебхире",
-        "text": "Так компендиумы, одобренные великими мудрецами, были утверждены на прочном основании ради блага живых существ."
+        "text": "Так компендиумы, одобренные великими мудрецами, были утверждены на прочном основании ради блага живых существ.",
+        "text_en": "Thus the compendiums, approved by the great sages, were established on a firm foundation for the good of living beings."
       },
       {
         "type": "comment",
@@ -367,7 +407,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "हिताहितं सुखं दुःखमायुस्तस्य हिताहितम्| मानं च तच्च यत्रोक्तमायुर्वेदः स उच्यते",
         "iast": "Hitāhitaṁ sukhaṁ duḥkhamāyustasya hitāhitam| mānaṁ ca tacca yatrōktamāyurvēdaḥ sa ucyatē",
         "iast_ru": "Хита̄хитам̣ сукхам̣ дух̣кхама̄йустасйа хита̄хитам| ма̄нам̣ ча тачча йатроктама̄йурведах̣ са учйате",
-        "text": "Аюрведа — это то, что рассматривает благую, неблагую, счастливую и несчастную жизнь, а также то, что полезно и вредно для неё, долголетие и то, что есть Аю (жизнь) сама по себе."
+        "text": "Аюрведа — это то, что рассматривает благую, неблагую, счастливую и несчастную жизнь, а также то, что полезно и вредно для неё, долголетие и то, что есть Аю (жизнь) сама по себе.",
+        "text_en": "Ayurveda is that which examines wholesome, unwholesome, happy and unhappy life, as well as what is beneficial and harmful to it, longevity, and what Ayus (life) is in itself."
       },
       {
         "type": "comment",
@@ -380,7 +421,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "शरीरेन्द्रियसत्त्वात्मसंयोगो धारि जीवितम्| नित्यगश्चानुबन्धश्च पर्यायैरायुरुच्यते",
         "iast": "Śarīrēndriyasattvātmasaṁyōgō dhāri jīvitam| nityagaścānubandhaśca paryāyairāyurucyatē",
         "iast_ru": "Ш́арӣрендрийасаттва̄тмасам̣його дха̄ри джӣвитам| нитйагаш́ча̄нубандхаш́ча парйа̄йаира̄йуручйате",
-        "text": "Аю (жизнь) означает соединение физического тела, чувств, ума и души и известна под синонимами дхари (то, что хранит жизненную силу), дживита (то, что живо), нитьяга (то, что непрерывно) и анубандха (то, что взаимосвязано, или связь между прошлой и будущей жизнью)."
+        "text": "Аю (жизнь) означает соединение физического тела, чувств, ума и души и известна под синонимами дхари (то, что хранит жизненную силу), дживита (то, что живо), нитьяга (то, что непрерывно) и анубандха (то, что взаимосвязано, или связь между прошлой и будущей жизнью).",
+        "text_en": "Ayus (life) means the union of the physical body, the senses, the mind and the soul, and is known under the synonyms dhari (that which sustains the vital force), jivita (that which is alive), nityaga (that which is continuous), and anubandha (that which is interconnected, or the link between past and future lives)."
       },
       {
         "type": "comment",
@@ -393,7 +435,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तस्यायुषः पुण्यतमो वेदो वेदविदां मतः| वक्ष्यते यन्मनुष्याणां लोकयोरुभयोर्हितम्",
         "iast": "Tasyāyuṣaḥ puṇyatamō vēdō vēdavidāṁ mataḥ| vakṣyatē yanmanuṣyāṇāṁ lōkayōrubhayōrhitam",
         "iast_ru": "Тасйа̄йуш̣ах̣ пун̣йатамо ведо ведавида̄м̣ матах̣| вакш̣йате йанмануш̣йа̄н̣а̄м̣ локайорубхайорхитам",
-        "text": "Знатоки Вед считают Аюрведу наиболее возвышенной из вед, благодатной для людей в обоих мирах — нынешнем и загробном."
+        "text": "Знатоки Вед считают Аюрведу наиболее возвышенной из вед, благодатной для людей в обоих мирах — нынешнем и загробном.",
+        "text_en": "Knowers of the Vedas regard Ayurveda as the most exalted of the Vedas, beneficial to people in both worlds — the present and the hereafter."
       },
       {
         "type": "comment",
@@ -406,7 +449,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सर्वदा सर्वभावानां सामान्यं वृद्धिकारणम्| ह्रासहेतुर्विशेषश्च, प्रवृत्तिरुभयस्य तु",
         "iast": "sarvadā sarvabhāvānāṁ sāmānyaṁ vr̥ddhikāraṇam| hrāsahēturviśēṣaśca, pravr̥ttirubhayasya tu",
         "iast_ru": "сарвада̄ сарвабха̄ва̄на̄м̣ са̄ма̄нйам̣ вр̣ддхика̄ран̣ам| хра̄сахетурвиш́еш̣аш́ча, правр̣ттирубхайасйа ту",
-        "text": "Принцип саманья вызывает увеличение, а принцип вишеша — уменьшение всех существующих элементов во все времена; оба эти эффекта производятся их применением в теле."
+        "text": "Принцип саманья вызывает увеличение, а принцип вишеша — уменьшение всех существующих элементов во все времена; оба эти эффекта производятся их применением в теле.",
+        "text_en": "The principle of samanya causes an increase, and the principle of vishesha a decrease, of all existing elements at all times; both these effects are produced by their application within the body."
       },
       {
         "type": "verse",
@@ -414,7 +458,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सामान्यमेकत्वकरं, विशेषस्तु पृथक्त्वकृत्| तुल्यार्थता हि सामान्यं, विशेषस्तु विपर्ययः",
         "iast": "sāmānyamēkatvakaraṁ, viśēṣastu pr̥thaktvakr̥t| tulyārthatā hi sāmānyaṁ, viśēṣastu viparyayaḥ",
         "iast_ru": "са̄ма̄нйамекатвакарам̣, виш́еш̣асту пр̣тхактвакр̣т| тулйа̄ртхата̄ хи са̄ма̄нйам̣, виш́еш̣асту випарйайах̣",
-        "text": "Саманья (есть принцип, который) позволяет понять сходство (между объектами), а вишеша (есть принцип, который) позволяет понять различие (между объектами). Сходство предполагает сходную цель (или действие), тогда как различие — противоположную."
+        "text": "Саманья (есть принцип, который) позволяет понять сходство (между объектами), а вишеша (есть принцип, который) позволяет понять различие (между объектами). Сходство предполагает сходную цель (или действие), тогда как различие — противоположную.",
+        "text_en": "Samanya is the principle by which similarity (between objects) is understood, and vishesha is the principle by which difference (between objects) is understood. Similarity implies a similar effect (or action), while difference implies an opposite one."
       },
       {
         "type": "comment",
@@ -427,7 +472,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सत्त्वमात्मा शरीरं च त्रयमेतत्त्रिदण्डवत्| लोकस्तिष्ठति संयोगात्तत्र सर्वं प्रतिष्ठितम् स पुमांश्चेतनं तच्च तच्चाधिकरणं स्मृतम्| वेदस्यास्य, तदर्थं हि वेदोऽयं सम्प्रकाशितः",
         "iast": "sattvamātmā śarīraṁ ca trayamētattridaṇḍavat| lōkastiṣṭhati saṁyōgāttatra sarvaṁ pratiṣṭhitam sa pumāṁścētanaṁ tacca taccādhikaraṇaṁ smr̥tam| vēdasyāsya, tadarthaṁ hi vēdō'yaṁ samprakāśitaḥ",
         "iast_ru": "саттвама̄тма̄ ш́арӣрам̣ ча трайаметаттридан̣д̣ават| локастиш̣т̣хати сам̣йога̄ттатра сарвам̣ пратиш̣т̣хитам са пума̄м̣ш́четанам̣ тачча тачча̄дхикаран̣ам̣ смр̣там| ведасйа̄сйа, тадартхам̣ хи ведо'йам̣ сампрака̄ш́итах̣",
-        "text": "Ум, душа и тело — эти три подобны треножнику. Их соединением поддерживается существование живого мира. Оно есть основание для всего существующего ныне. Это соединение именуется Пуруша (целостное человеческое существо) и Четана (сознающее начало). Оно есть адхикарана (предмет рассмотрения) Аюрведы. Знание Аюрведы провозглашается ради этого соединения."
+        "text": "Ум, душа и тело — эти три подобны треножнику. Их соединением поддерживается существование живого мира. Оно есть основание для всего существующего ныне. Это соединение именуется Пуруша (целостное человеческое существо) и Четана (сознающее начало). Оно есть адхикарана (предмет рассмотрения) Аюрведы. Знание Аюрведы провозглашается ради этого соединения.",
+        "text_en": "The mind, the soul and the body — these three are like a tripod. Their union sustains the existence of the living world. It is the foundation for everything that now exists. This union is called Purusha (the integral human being) and Chetana (the conscious principle). It is the adhikarana (subject matter) of Ayurveda. The knowledge of Ayurveda is proclaimed for the sake of this union."
       },
       {
         "type": "comment",
@@ -440,7 +486,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "खादीन्यात्मा मनः कालो दिशश्च द्रव्यसङ्ग्रहः| सेन्द्रियं चेतनं द्रव्यं, निरिन्द्रियमचेतनम्",
         "iast": "khādīnyātmā manaḥ kālō diśaśca dravyasaṅgrahaḥ| sēndriyaṁ cētanaṁ dravyaṁ, nirindriyamacētanam",
         "iast_ru": "кха̄дӣнйа̄тма̄ манах̣ ка̄ло диш́аш́ча дравйасан̇грахах̣| сендрийам̣ четанам̣ дравйам̣, нириндрийамачетанам",
-        "text": "Панчамахабхута (пять фундаментальных элементов: акаша, вайю, теджас, ап и притхви), атма (душа), манас (ум), кала (время) и дик (пространственная ориентация) совокупно именуются дравья (субстанции). Дравья в соединении с органами чувств образует одушевлённое существо, а без них — неодушевлённое."
+        "text": "Панчамахабхута (пять фундаментальных элементов: акаша, вайю, теджас, ап и притхви), атма (душа), манас (ум), кала (время) и дик (пространственная ориентация) совокупно именуются дравья (субстанции). Дравья в соединении с органами чувств образует одушевлённое существо, а без них — неодушевлённое.",
+        "text_en": "The Panchamahabhuta (the five fundamental elements: akasha, vayu, tejas, ap and prithvi), atma (soul), manas (mind), kala (time) and dik (spatial orientation) are collectively termed dravya (substances). Dravya united with the sense organs forms an animate being, and without them, an inanimate one."
       },
       {
         "type": "comment",
@@ -453,7 +500,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सार्था गुर्वादयो बुद्धिः प्रयत्नान्ताः परादयः| गुणाः प्रोक्ताः . प्रयत्नादि कर्म चेष्टितमुच्यते",
         "iast": "sārthā gurvādayō buddhiḥ prayatnāntāḥ parādayaḥ| guṇāḥ prōktāḥ prayatnādi karma cēṣṭitamucyatē",
         "iast_ru": "са̄ртха̄ гурва̄дайо буддхих̣ прайатна̄нта̄х̣ пара̄дайах̣| гун̣а̄х̣ прокта̄х̣ прайатна̄ди карма чеш̣т̣итамучйате",
-        "text": "Объекты чувств — шабда, спарша, рупа, раса, гандха (соответственно звук, осязание, зрение, вкус и обоняние), свойства, начинающиеся с гуру (двадцать свойств, таких как гуру, лагху и прочие), буддхи (разум) и заканчивающиеся праятна (усилие), свойства, начинающиеся с «пара», именуются гуна. Движение, инициированное (атрибутом атмы) праятна (усилием), называется карма (действие)."
+        "text": "Объекты чувств — шабда, спарша, рупа, раса, гандха (соответственно звук, осязание, зрение, вкус и обоняние), свойства, начинающиеся с гуру (двадцать свойств, таких как гуру, лагху и прочие), буддхи (разум) и заканчивающиеся праятна (усилие), свойства, начинающиеся с «пара», именуются гуна. Движение, инициированное (атрибутом атмы) праятна (усилием), называется карма (действие).",
+        "text_en": "The objects of the senses — shabda, sparsha, rupa, rasa, gandha (sound, touch, sight, taste and smell respectively), the qualities beginning with guru (twenty qualities such as guru, laghu and the rest), and buddhi (intellect) down to prayatna (effort), qualities beginning with \"para\" — are termed guna. Motion initiated by prayatna (effort, an attribute of the soul) is called karma (action)."
       },
       {
         "type": "comment",
@@ -466,7 +514,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "समवायोऽपृथग्भावो भूम्यादीनां गुणैर्मतः| स नित्यो यत्र हि द्रव्यं न तत्रानियतो गुणः",
         "iast": "samavāyō'pr̥thagbhāvō bhūmyādīnāṁ guṇairmataḥ| sa nityō yatra hi dravyaṁ na tatrāniyatō guṇaḥ",
         "iast_ru": "самава̄йо'пр̣тхагбха̄во бхӯмйа̄дӣна̄м̣ гун̣аирматах̣| са нитйо йатра хи дравйам̣ на татра̄нийато гун̣ах̣",
-        "text": "Самавая (неразрывная связь) есть неотделимое соотношение дравья с их гуна (свойствами). Она вечна, ибо всякий раз, когда дравья существует, она не лишена гуна."
+        "text": "Самавая (неразрывная связь) есть неотделимое соотношение дравья с их гуна (свойствами). Она вечна, ибо всякий раз, когда дравья существует, она не лишена гуна.",
+        "text_en": "Samavaya (inseparable connection) is the inseparable relation of dravya with their gunas (qualities). It is eternal, for wherever dravya exists, it is never devoid of guna."
       },
       {
         "type": "comment",
@@ -479,7 +528,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "समवायी तु निश्चेष्टः कारणं गुणः",
         "iast": "samavāyī tu niścēṣṭaḥ kāraṇaṁ guṇaḥ",
         "iast_ru": "самава̄йӣ ту ниш́чеш̣т̣ах̣ ка̄ран̣ам̣ гун̣ах̣",
-        "text": "Гуна (свойство) связана самавая (неразрывной связью с дравья), лишена действия и является несамавайи (не-внутренней) причиной своего следствия."
+        "text": "Гуна (свойство) связана самавая (неразрывной связью с дравья), лишена действия и является несамавайи (не-внутренней) причиной своего следствия.",
+        "text_en": "Guna (quality) is connected by samavaya (inseparable connection) to dravya, is devoid of action, and is a non-samavayi (non-inherent) cause of its effect."
       },
       {
         "type": "comment",
@@ -492,7 +542,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "संयोगे च विभागे च कारणं द्रव्यमाश्रितम्| कर्तव्यस्य क्रिया कर्म कर्म नान्यदपेक्षते",
         "iast": "saṁyōgē ca vibhāgē ca kāraṇaṁ dravyamāśritam| kartavyasya kriyā karma karma nānyadapēkṣatē",
         "iast_ru": "сам̣йоге ча вибха̄ге ча ка̄ран̣ам̣ дравйама̄ш́ритам| картавйасйа крийа̄ карма карма на̄нйадапекш̣ате",
-        "text": "Причинный фактор соединения и разъединения заключён в дравья, и совершение действий, подлежащих исполнению (как задумано деятелем), есть карма (действие). Карма не зависит от иного фактора (для осуществления действий)."
+        "text": "Причинный фактор соединения и разъединения заключён в дравья, и совершение действий, подлежащих исполнению (как задумано деятелем), есть карма (действие). Карма не зависит от иного фактора (для осуществления действий).",
+        "text_en": "The causal factor of conjunction and disjunction resides in dravya (substance), and the performance of actions to be carried out (as intended by the agent) is karma (action). Karma does not depend on any other factor for the accomplishment of actions."
       },
       {
         "type": "verse",
@@ -500,7 +551,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "इत्युक्तं कारणं कार्यं धातुसाम्यमिहोच्यते| धातुसाम्यक्रिया चोक्ता तन्त्रस्यास्य प्रयोजनम्",
         "iast": "ityuktaṁ kāraṇaṁ kāryaṁ dhātusāmyamihōcyatē| dhātusāmyakriyā cōktā tantrasyāsya prayōjanam",
         "iast_ru": "итйуктам̣ ка̄ран̣ам̣ ка̄рйам̣ дха̄туса̄мйамихочйате| дха̄туса̄мйакрийа̄ чокта̄ тантрасйа̄сйа прайоджанам",
-        "text": "Так была описана причина. Теперь обсуждается следствие — дхату самья, ибо цель данного компендиума — достижение дхату самья (равновесия питающих и поддерживающих факторов, то есть составляющих тела)."
+        "text": "Так была описана причина. Теперь обсуждается следствие — дхату самья, ибо цель данного компендиума — достижение дхату самья (равновесия питающих и поддерживающих факторов, то есть составляющих тела).",
+        "text_en": "Thus the cause has been described. The effect — dhatu samya — is now discussed, for the aim of this compendium is the attainment of dhatu samya (the equilibrium of the nourishing and sustaining factors, that is, the constituents of the body)."
       },
       {
         "type": "comment",
@@ -513,7 +565,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "कालबुद्धीन्द्रियार्थानां योगो मिथ्या न चाति च| द्वयाश्रयाणां व्याधीनां त्रिविधो हेतुसङ्ग्रहः",
         "iast": "kālabuddhīndriyārthānāṁ yōgō mithyā na cāti ca| dvayāśrayāṇāṁ vyādhīnāṁ trividhō hētusaṅgrahaḥ",
         "iast_ru": "ка̄лабуддхӣндрийа̄ртха̄на̄м̣ його митхйа̄ на ча̄ти ча| двайа̄ш́райа̄н̣а̄м̣ вйа̄дхӣна̄м̣ тривидхо хетусан̇грахах̣",
-        "text": "Ошибочное использование, избегание и чрезмерное использование временного фактора, разума и объектов чувств есть тройная причина как психических, так и соматических расстройств."
+        "text": "Ошибочное использование, избегание и чрезмерное использование временного фактора, разума и объектов чувств есть тройная причина как психических, так и соматических расстройств.",
+        "text_en": "Erroneous use, avoidance, and excessive use of time, the mind, and the objects of the senses constitute the threefold cause of both psychic and somatic disorders."
       },
       {
         "type": "comment",
@@ -526,7 +579,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "शरीरं सत्त्वसञ्ज्ञं च व्याधीनामाश्रयो मतः| तथा सुखानां, योगस्तु सुखानां कारणं समः",
         "iast": "śarīraṁ sattvasañjñaṁ ca vyādhīnāmāśrayō mataḥ| tathā sukhānāṁ, yōgastu sukhānāṁ kāraṇaṁ samaḥ",
         "iast_ru": "ш́арӣрам̣ саттвасан̃джн̃ам̣ ча вйа̄дхӣна̄ма̄ш́райо матах̣| татха̄ сукха̄на̄м̣, йогасту сукха̄на̄м̣ ка̄ран̣ам̣ самах̣",
-        "text": "И тело, и ум являются местом расстройств, равно как и удовольствий. Сбалансированное использование (вышеупомянутых факторов) есть причина удовольствий."
+        "text": "И тело, и ум являются местом расстройств, равно как и удовольствий. Сбалансированное использование (вышеупомянутых факторов) есть причина удовольствий.",
+        "text_en": "Both the body and the mind are the seat of disorders, as well as of pleasures. Balanced use (of the aforementioned factors) is the cause of pleasures."
       },
       {
         "type": "comment",
@@ -539,7 +593,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "निर्विकारः परस्त्वात्मा सत्त्वभूतगुणेन्द्रियैः| चैतन्ये कारणं नित्यो द्रष्टा पश्यति हि क्रियाः",
         "iast": "nirvikāraḥ parastvātmā sattvabhūtaguṇēndriyaiḥ| caitanyē kāraṇaṁ nityō draṣṭā paśyati hi kriyāḥ",
         "iast_ru": "нирвика̄рах̣ параства̄тма̄ саттвабхӯтагун̣ендрийаих̣| чаитанйе ка̄ран̣ам̣ нитйо драш̣т̣а̄ паш́йати хи крийа̄х̣",
-        "text": "Душа свободна от всех болезней и является высшей. Она есть причина сознания при соединении с умом, объектами чувств (бхута гуна) и органами чувств. Она вечна и есть наблюдатель, свидетельствующий все (психические и соматические) проявления."
+        "text": "Душа свободна от всех болезней и является высшей. Она есть причина сознания при соединении с умом, объектами чувств (бхута гуна) и органами чувств. Она вечна и есть наблюдатель, свидетельствующий все (психические и соматические) проявления.",
+        "text_en": "The soul is free from all disease and is supreme. It is the cause of consciousness when united with the mind, the objects of the senses (bhuta guna) and the sense organs. It is eternal, and is the witness that observes all (psychic and somatic) manifestations."
       },
       {
         "type": "comment",
@@ -552,7 +607,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "वायुः पित्तं कफश्चोक्तः शारीरो दोषसङ्ग्रहः| मानसः पुनरुद्दिष्टो रजश्च तम एव च",
         "iast": "vāyuḥ pittaṁ kaphaścōktaḥ śārīrō dōṣasaṅgrahaḥ| mānasaḥ punaruddiṣṭō rajaśca tama ēva ca",
         "iast_ru": "ва̄йух̣ питтам̣ капхаш́чоктах̣ ш́а̄рӣро дош̣асан̇грахах̣| ма̄насах̣ пунаруддиш̣т̣о раджаш́ча тама ева ча",
-        "text": "Вайю, питта и капха описываются как телесные доша, раджас и тамас — как ментальные."
+        "text": "Вайю, питта и капха описываются как телесные доша, раджас и тамас — как ментальные.",
+        "text_en": "Vayu, pitta and kapha are described as the bodily doshas, and rajas and tamas as the mental ones."
       },
       {
         "type": "comment",
@@ -565,7 +621,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "प्रशाम्यत्यौषधैः पूर्वो दैवयुक्तिव्यपाश्रयैः| मानसो ज्ञानविज्ञानधैर्यस्मृतिसमाधिभिः",
         "iast": "praśāmyatyauṣadhaiḥ pūrvō daivayuktivyapāśrayaiḥ| mānasō jñānavijñānadhairyasmr̥tisamādhibhiḥ",
         "iast_ru": "праш́а̄мйатйауш̣адхаих̣ пӯрво даивайуктивйапа̄ш́райаих̣| ма̄насо джн̃а̄навиджн̃а̄надхаирйасмр̣тисама̄дхибхих̣",
-        "text": "Первые (шарира доша) умиротворяются лечебными мерами божественного и рационального свойства, тогда как вторые (манас доша) поддаются лечению самопознанием (джняна), научным знанием (виджняна), сдержанностью (дхайрья), памятью (смрити) и сосредоточением/освобождением (самадхи)."
+        "text": "Первые (шарира доша) умиротворяются лечебными мерами божественного и рационального свойства, тогда как вторые (манас доша) поддаются лечению самопознанием (джняна), научным знанием (виджняна), сдержанностью (дхайрья), памятью (смрити) и сосредоточением/освобождением (самадхи).",
+        "text_en": "The former (sharira dosha) are pacified by therapeutic measures of a divine and rational nature, while the latter (manas dosha) are treated by self-knowledge (jnana), scientific knowledge (vijnana), self-restraint (dhairya), memory (smriti) and concentration/liberation (samadhi)."
       },
       {
         "type": "comment",
@@ -578,7 +635,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "रूक्षः शीतो लघुः सूक्ष्मश्चलोऽथ विशदः खरः| विपरीतगुणैर्द्रव्यैर्मारुतः सम्प्रशाम्यति सस्नेहमुष्णं तीक्ष्णं च द्रवमम्लं सरं कटु| विपरीतगुणैः पित्तं द्रव्यैराशु प्रशाम्यति गुरुशीतमृदुस्निग्धमधुरस्थिरपिच्छिलाः| श्लेष्मणः प्रशमं यान्ति विपरीतगुणैर्गुणाः",
         "iast": "rūkṣaḥ śītō laghuḥ sūkṣmaścalō'tha viśadaḥ kharaḥ| viparītaguṇairdravyairmārutaḥ sampraśāmyati sasnēhamuṣṇaṁ tīkṣṇaṁ ca dravamamlaṁ saraṁ kaṭu| viparītaguṇaiḥ pittaṁ dravyairāśu praśāmyati guruśītamr̥dusnigdhamadhurasthirapicchilāḥ| ślēṣmaṇaḥ praśamaṁ yānti viparītaguṇairguṇāḥ",
         "iast_ru": "рӯкш̣ах̣ ш́ӣто лагхух̣ сӯкш̣маш́чало'тха виш́адах̣ кхарах̣| випарӣтагун̣аирдравйаирма̄рутах̣ сампраш́а̄мйати саснехамуш̣н̣ам̣ тӣкш̣н̣ам̣ ча дравамамлам̣ сарам̣ кат̣у| випарӣтагун̣аих̣ питтам̣ дравйаира̄ш́у праш́а̄мйати гуруш́ӣтамр̣дуснигдхамадхурастхирапиччхила̄х̣| ш́леш̣ман̣ах̣ праш́амам̣ йа̄нти випарӣтагун̣аиргун̣а̄х̣",
-        "text": "Вайю по своим свойствам суха, холодна, легка, тонка, подвижна, не-маслянистa и шероховата и может быть умиротворена лекарствами, обладающими противоположными свойствами (то есть маслянистыми, тяжёлыми и густыми). Питта слегка маслянистa, горяча, острa, вязка, кисла, подвижна и едка и может быть легко умиротворена лекарствами и пищей, обладающими противоположными свойствами. Капха тяжела и плотна, холодна, мягка, маслянистa, сладка, неподвижна и слизистa и может быть устранена лекарствами и пищей, обладающими противоположными свойствами."
+        "text": "Вайю по своим свойствам суха, холодна, легка, тонка, подвижна, не-маслянистa и шероховата и может быть умиротворена лекарствами, обладающими противоположными свойствами (то есть маслянистыми, тяжёлыми и густыми). Питта слегка маслянистa, горяча, острa, вязка, кисла, подвижна и едка и может быть легко умиротворена лекарствами и пищей, обладающими противоположными свойствами. Капха тяжела и плотна, холодна, мягка, маслянистa, сладка, неподвижна и слизистa и может быть устранена лекарствами и пищей, обладающими противоположными свойствами.",
+        "text_en": "Vayu by its qualities is dry, cold, light, subtle, mobile, non-unctuous and rough, and can be pacified by medicines possessing the opposite qualities (that is, unctuous, heavy and dense ones). Pitta is slightly unctuous, hot, sharp, viscous, sour, mobile and pungent, and can be readily pacified by medicines and food possessing the opposite qualities. Kapha is heavy and dense, cold, soft, unctuous, sweet, immobile and mucous-like, and can be removed by medicines and food possessing the opposite qualities."
       },
       {
         "type": "comment",
@@ -591,7 +649,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "विपरीतगुणैर्देशमात्राकालोपपादितैः| भेषजैर्विनिवर्तन्ते विकाराः साध्यसम्मताः साधनं न त्वसाध्यानां व्याधीनामुपदिश्यते| भूयश्चातो यथाद्रव्यं गुणकर्माणि वक्ष्यते",
         "iast": "viparītaguṇairdēśamātrākālōpapāditaiḥ| bhēṣajairvinivartantē vikārāḥ sādhyasammatāḥ sādhanaṁ na tvasādhyānāṁ vyādhīnāmupadiśyatē| bhūyaścātō yathādravyaṁ guṇakarmāṇi vakṣyatē",
         "iast_ru": "випарӣтагун̣аирдеш́ама̄тра̄ка̄лопапа̄дитаих̣| бхеш̣аджаирвинивартанте вика̄ра̄х̣ са̄дхйасаммата̄х̣ са̄дханам̣ на тваса̄дхйа̄на̄м̣ вйа̄дхӣна̄мупадиш́йате| бхӯйаш́ча̄то йатха̄дравйам̣ гун̣акарма̄н̣и вакш̣йате",
-        "text": "Излечимые расстройства могут быть устранены лекарствами с противоположными свойствами, применяемыми с должным учётом места, дозировки и времени. Лечение неизлечимых болезней не рекомендуется (в Аюрведе). Далее подробно описываются свойства и действия лекарственных средств."
+        "text": "Излечимые расстройства могут быть устранены лекарствами с противоположными свойствами, применяемыми с должным учётом места, дозировки и времени. Лечение неизлечимых болезней не рекомендуется (в Аюрведе). Далее подробно описываются свойства и действия лекарственных средств.",
+        "text_en": "Curable disorders can be removed by medicines with opposite qualities, applied with due regard to place, dosage and time. Treatment of incurable diseases is not recommended (in Ayurveda). Next, the qualities and actions of medicinal substances are described in detail."
       },
       {
         "type": "comment",
@@ -604,7 +663,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "रसनार्थो रसस्तस्य द्रव्यमापः क्षितिस्तथा| निर्वृत्तौ च विशेषे च प्रत्ययाः खादयस्त्रयः",
         "iast": "rasanārthō rasastasya dravyamāpaḥ kṣitistathā| nirvr̥ttau ca viśēṣē ca pratyayāḥ khādayastrayaḥ",
         "iast_ru": "расана̄ртхо расастасйа дравйама̄пах̣ кш̣итистатха̄| нирвр̣ттау ча виш́еш̣е ча пратйайа̄х̣ кха̄дайастрайах̣",
-        "text": "Раса (вкус) является объектом вкусового органа чувств, то есть языка. Исходными элементами для его проявления служат джала махабхута и притхви махабхута. Разнообразие вкусов обусловлено тремя другими махабхутами: акаша, вайю и агни."
+        "text": "Раса (вкус) является объектом вкусового органа чувств, то есть языка. Исходными элементами для его проявления служат джала махабхута и притхви махабхута. Разнообразие вкусов обусловлено тремя другими махабхутами: акаша, вайю и агни.",
+        "text_en": "Rasa (taste) is the object of the organ of taste, that is, the tongue. The elements at the root of its manifestation are the jala mahabhuta and the prithvi mahabhuta. The diversity of tastes is brought about by the three other mahabhutas: akasha, vayu and agni."
       },
       {
         "type": "verse",
@@ -612,7 +672,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "स्वादुरम्लोऽथ लवणः कटुकस्तिक्त एव च| कषायश्चेति षट्कोऽयं रसानां सङ्ग्रहः स्मृतः",
         "iast": "svāduramlō'tha lavaṇaḥ kaṭukastikta ēva ca| kaṣāyaścēti ṣaṭkō'yaṁ rasānāṁ saṅgrahaḥ smr̥taḥ",
         "iast_ru": "сва̄дурамло'тха лаван̣ах̣ кат̣укастикта ева ча| каш̣а̄йаш́чети ш̣ат̣ко'йам̣ раса̄на̄м̣ сан̇грахах̣ смр̣тах̣",
-        "text": "Сладкий, кислый, солёный, острый, горький и вяжущий — таковы шесть раса (вкусов)."
+        "text": "Сладкий, кислый, солёный, острый, горький и вяжущий — таковы шесть раса (вкусов).",
+        "text_en": "Sweet, sour, salty, pungent, bitter and astringent — these are the six rasas (tastes)."
       },
       {
         "type": "comment",
@@ -625,7 +686,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "स्वाद्वम्ललवणा वायुं, कषायस्वादुतिक्तकाः| जयन्ति पित्तं, श्लेष्माणं कषायकटुतिक्तकाः (कट्वम्ललवणाः पित्तं, स्वाद्वम्ललवणाः कफम्| कटुतिक्तकषायाश्च कोपयन्ति समीरणम् )",
         "iast": "svādvamlalavaṇā vāyuṁ, kaṣāyasvādutiktakāḥ| jayanti pittaṁ, ślēṣmāṇaṁ kaṣāyakaṭutiktakāḥ (kaṭvamlalavaṇāḥ pittaṁ, svādvamlalavaṇāḥ kapham| kaṭutiktakaṣāyāśca kōpayanti samīraṇam )",
         "iast_ru": "сва̄двамлалаван̣а̄ ва̄йум̣, каш̣а̄йасва̄дутиктака̄х̣| джайанти питтам̣, ш́леш̣ма̄н̣ам̣ каш̣а̄йакат̣утиктака̄х̣ (кат̣вамлалаван̣а̄х̣ питтам̣, сва̄двамлалаван̣а̄х̣ капхам| кат̣утиктакаш̣а̄йа̄ш́ча копайанти самӣран̣ам )",
-        "text": "(Из этих вкусов) сладкий, кислый и солёный преодолевают вайю; вяжущий, сладкий и горький усмиряют питту; а вяжущий, острый и горький побеждают капху."
+        "text": "(Из этих вкусов) сладкий, кислый и солёный преодолевают вайю; вяжущий, сладкий и горький усмиряют питту; а вяжущий, острый и горький побеждают капху.",
+        "text_en": "Of these tastes, sweet, sour and salty overcome vayu; astringent, sweet and bitter subdue pitta; and astringent, pungent and bitter overcome kapha."
       },
       {
         "type": "verse",
@@ -633,7 +695,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "किञ्चिद्दोषप्रशमनं किञ्चिद्धातुप्रदूषणम्| स्वस्थवृत्तौ मतं किञ्चित्त्रिविधं द्रव्यमुच्यते",
         "iast": "kiñciddōṣapraśamanaṁ kiñciddhātupradūṣaṇam| svasthavr̥ttau mataṁ kiñcittrividhaṁ dravyamucyatē",
         "iast_ru": "кин̃чиддош̣апраш́аманам̣ кин̃чиддха̄тупрадӯш̣ан̣ам| свастхавр̣ттау матам̣ кин̃читтривидхам̣ дравйамучйате",
-        "text": "Лекарство бывает трёх видов (по прабхаве): (1) одни лекарства умиротворяют доша, (2) другие нарушают дхату и (3) третьи способствуют поддержанию нормального здоровья."
+        "text": "Лекарство бывает трёх видов (по прабхаве): (1) одни лекарства умиротворяют доша, (2) другие нарушают дхату и (3) третьи способствуют поддержанию нормального здоровья.",
+        "text_en": "Medicine is of three kinds (according to prabhava): (1) some medicines pacify the doshas, (2) others disturb the dhatus, and (3) still others help maintain normal health."
       },
       {
         "type": "comment",
@@ -646,7 +709,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "मधूनि गोरसाः पित्तं वसा मज्जाऽसृगामिषम् विण्मूत्रचर्मरेतोऽस्थिस्नायुशृङ्गनखाः खुराः| जङ्गमेभ्यः प्रयुज्यन्ते केशा लोमानि रोचनाः",
         "iast": "madhūni gōrasāḥ pittaṁ vasā majjā'sr̥gāmiṣam viṇmūtracarmarētō'sthisnāyuśr̥ṅganakhāḥ khurāḥ| jaṅgamēbhyaḥ prayujyantē kēśā lōmāni rōcanāḥ",
         "iast_ru": "мадхӯни гораса̄х̣ питтам̣ васа̄ маджджа̄'ср̣га̄миш̣ам вин̣мӯтрачармарето'стхисна̄йуш́р̣н̇ганакха̄х̣ кхура̄х̣| джан̇гамебхйах̣ прайуджйанте кеш́а̄ лома̄ни рочана̄х̣",
-        "text": "Лекарства животного происхождения: мёд, молоко, желчь, животный жир, костный мозг, кровь, мясо, экскременты, моча, кожа, семя, кость, связки, рога, ногти, копыта, волосы, пух (тонкий мягкий густой волос) и сгущённая желчь — всё это вещества, получаемые от животных."
+        "text": "Лекарства животного происхождения: мёд, молоко, желчь, животный жир, костный мозг, кровь, мясо, экскременты, моча, кожа, семя, кость, связки, рога, ногти, копыта, волосы, пух (тонкий мягкий густой волос) и сгущённая желчь — всё это вещества, получаемые от животных.",
+        "text_en": "Medicines of animal origin: honey, milk, bile, animal fat, bone marrow, blood, flesh, excrement, urine, skin, semen, bone, sinew, horn, nails, hooves, hair, down (fine soft dense hair) and inspissated bile — all these are substances obtained from animals."
       },
       {
         "type": "verse",
@@ -654,7 +718,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सुवर्णं समलाः पञ्च लोहाः ससिकताः सुधा| मनःशिलाले मणयो लवणं गैरिकाञ्जने भौममौषधमुद्दिष्टमौद्भिदं तु चतुर्विधम्| वनस्पतिस्तथा वीरुद्वानस्पत्यस्तथौषधिः",
         "iast": "suvarṇaṁ samalāḥ pañca lōhāḥ sasikatāḥ sudhā| manaḥśilālē maṇayō lavaṇaṁ gairikāñjanē bhaumamauṣadhamuddiṣṭamaudbhidaṁ tu caturvidham| vanaspatistathā vīrudvānaspatyastathauṣadhiḥ",
         "iast_ru": "суварн̣ам̣ самала̄х̣ пан̃ча лоха̄х̣ сасиката̄х̣ судха̄| манах̣ш́ила̄ле ман̣айо лаван̣ам̣ гаирика̄н̃джане бхаумамауш̣адхамуддиш̣т̣амаудбхидам̣ ту чатурвидхам| ванаспатистатха̄ вӣрудва̄наспатйастатхауш̣адхих̣",
-        "text": "Лекарства минерального происхождения: золото, пять металлов (серебро, медь, олово, свинец и железо) вместе с их производными, такими как шиладжату (мумиё), песок, известь, красный и жёлтый мышьяк (манахшила и хартала), самоцветы, соль, красная охра и сурьма. Лекарства растительного происхождения: растительные лекарства бывают четырёх видов: непосредственно плодоносящие, лианы, цветковые плодоносящие и травы."
+        "text": "Лекарства минерального происхождения: золото, пять металлов (серебро, медь, олово, свинец и железо) вместе с их производными, такими как шиладжату (мумиё), песок, известь, красный и жёлтый мышьяк (манахшила и хартала), самоцветы, соль, красная охра и сурьма. Лекарства растительного происхождения: растительные лекарства бывают четырёх видов: непосредственно плодоносящие, лианы, цветковые плодоносящие и травы.",
+        "text_en": "Medicines of mineral origin: gold, the five metals (silver, copper, tin, lead and iron) together with their derivatives such as shilajatu (mineral pitch), sand, lime, red and yellow arsenic (manahshila and haratala), gemstones, salt, red ochre and antimony. Medicines of vegetable origin: plant medicines are of four kinds — directly fruit-bearing plants, creepers, flower-and-fruit-bearing plants, and herbs."
       },
       {
         "type": "verse",
@@ -662,7 +727,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "फलैर्वनस्पतिः पुष्पैर्वानस्पत्यः फलैरपि| ओषध्यः फलपाकान्ताः प्रतानैर्वीरुधः स्मृताः",
         "iast": "phalairvanaspatiḥ puṣpairvānaspatyaḥ phalairapi| ōṣadhyaḥ phalapākāntāḥ pratānairvīrudhaḥ smr̥tāḥ",
         "iast_ru": "пхалаирванаспатих̣ пуш̣паирва̄наспатйах̣ пхалаирапи| ош̣адхйах̣ пхалапа̄ка̄нта̄х̣ прата̄наирвӣрудхах̣ смр̣та̄х̣",
-        "text": "Растения, дающие плоды без видимых цветков, называются ванаспати (голосеменные). Растения, приносящие и цветы, и плоды, называются ванаспатья (покрытосеменные). Растения, погибающие после цветения, называются аушадхи (однолетние). Растения, которые стелются или вьются, называются вирудха (лианы)."
+        "text": "Растения, дающие плоды без видимых цветков, называются ванаспати (голосеменные). Растения, приносящие и цветы, и плоды, называются ванаспатья (покрытосеменные). Растения, погибающие после цветения, называются аушадхи (однолетние). Растения, которые стелются или вьются, называются вирудха (лианы).",
+        "text_en": "Plants that bear fruit without visible flowers are called vanaspati (gymnosperms). Plants that bear both flowers and fruit are called vanaspatya (angiosperms). Plants that die after flowering are called aushadhi (annuals). Plants that creep or climb are called virudha (creepers)."
       },
       {
         "type": "verse",
@@ -670,7 +736,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "मूलत्वक्सारनिर्यासनाल(ड)स्वरसपल्लवाः| क्षाराः क्षीरं फलं पुष्पं भस्म तैलानि कण्टकाः पत्राणि शुङ्गाः कन्दाश्च प्ररोहाश्चौद्भिदो गणः",
         "iast": "mūlatvaksāraniryāsanāla(ḍa)svarasapallavāḥ| kṣārāḥ kṣīraṁ phalaṁ puṣpaṁ bhasma tailāni kaṇṭakāḥ patrāṇi śuṅgāḥ kandāśca prarōhāścaudbhidō gaṇaḥ",
         "iast_ru": "мӯлатвакса̄ранирйа̄сана̄ла(д̣а)сварасапаллава̄х̣| кш̣а̄ра̄х̣ кш̣ӣрам̣ пхалам̣ пуш̣пам̣ бхасма таила̄ни кан̣т̣ака̄х̣ патра̄н̣и ш́ун̇га̄х̣ канда̄ш́ча прароха̄ш́чаудбхидо ган̣ах̣",
-        "text": "Корни, кора, сердцевина, выделения, стебель, сок, побеги, щёлочи, латекс, плоды, цветы, зола, масло, шипы, листья, почки, луковицы и отростки растений используются как лекарства."
+        "text": "Корни, кора, сердцевина, выделения, стебель, сок, побеги, щёлочи, латекс, плоды, цветы, зола, масло, шипы, листья, почки, луковицы и отростки растений используются как лекарства.",
+        "text_en": "Roots, bark, pith, exudates, stem, sap, sprouts, alkalis, latex, fruits, flowers, ash, oil, thorns, leaves, buds, bulbs and shoots of plants are used as medicines."
       },
       {
         "type": "comment",
@@ -683,7 +750,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "मूलिन्यः षोडशैकोना फलिन्यो विंशतिः स्मृताः महास्नेहाश्च चत्वारः पञ्चैव लवणानि च| अष्टौ मूत्राणि सङ्ख्यातान्यष्टावेव पयांसि च शोधनार्थाश्च षड् वृक्षाः पुनर्वसुनिदर्शिताः| य एतान् वेत्ति संयोक्तुं विकारेषु स वेदवित्",
         "iast": "mūlinyaḥ ṣōḍaśaikōnā phalinyō viṁśatiḥ smr̥tāḥ mahāsnēhāśca catvāraḥ pañcaiva lavaṇāni ca| aṣṭau mūtrāṇi saṅkhyātānyaṣṭāvēva payāṁsi ca śōdhanārthāśca ṣaḍ vr̥kṣāḥ punarvasunidarśitāḥ| ya ētān vētti saṁyōktuṁ vikārēṣu sa vēdavit",
         "iast_ru": "мӯлинйах̣ ш̣од̣аш́аикона̄ пхалинйо вим̣ш́атих̣ смр̣та̄х̣ маха̄снеха̄ш́ча чатва̄рах̣ пан̃чаива лаван̣а̄ни ча| аш̣т̣ау мӯтра̄н̣и сан̇кхйа̄та̄нйаш̣т̣а̄вева пайа̄м̣си ча ш́одхана̄ртха̄ш́ча ш̣ад̣ вр̣кш̣а̄х̣ пунарвасунидарш́ита̄х̣| йа ета̄н ветти сам̣йоктум̣ вика̄реш̣у са ведавит",
-        "text": "Согласно школе Пунарвасу (Господа Атреи), корни 16 растений и плоды 19 растений используются как лекарства. Подобным образом основные маслянистые вещества (махаснеха) бывают четырёх видов, а главные соли — пяти видов. Моча и молоко для лечебных целей получаются от 8 различных животных, а шесть растений используются для очищения (шодхана). Врач, знающий, как использовать все эти средства для излечения болезни, является врачом-экспертом."
+        "text": "Согласно школе Пунарвасу (Господа Атреи), корни 16 растений и плоды 19 растений используются как лекарства. Подобным образом основные маслянистые вещества (махаснеха) бывают четырёх видов, а главные соли — пяти видов. Моча и молоко для лечебных целей получаются от 8 различных животных, а шесть растений используются для очищения (шодхана). Врач, знающий, как использовать все эти средства для излечения болезни, является врачом-экспертом.",
+        "text_en": "According to the school of Punarvasu (Lord Atreya), the roots of 16 plants and the fruits of 19 plants are used as medicines. Likewise, the principal unctuous substances (mahasneha) are of four kinds, and the principal salts of five kinds. Urine and milk for therapeutic purposes are obtained from 8 different animals, and six plants are used for purification (shodhana). A physician who knows how to use all these remedies to cure disease is an expert physician."
       },
       {
         "type": "comment",
@@ -696,7 +764,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "हस्तिदन्ती हैमवती श्यामा त्रिवृदधोगुडा| सप्तला श्वेतनामा च प्रत्यक्श्रेणी गवाक्ष्यपि ज्योतिष्मती च बिम्बी च शणपुष्पी विषाणिका| अजगन्धा द्रवन्ती च क्षीरिणी चात्र षोडशी शणपुष्पी च बिम्बी च च्छर्दने हैमवत्यपि| श्वेता ज्योतिष्मती चैव योज्या शीर्षविरेचने एकादशावशिष्टा याः प्रयोज्यास्ता विरेचने| इत्युक्ता नामकर्मभ्यां मूलिन्यः...",
         "iast": "hastidantī haimavatī śyāmā trivr̥dadhōguḍā| saptalā śvētanāmā ca pratyakśrēṇī gavākṣyapi jyōtiṣmatī ca bimbī ca śaṇapuṣpī viṣāṇikā| ajagandhā dravantī ca kṣīriṇī cātra ṣōḍaśī śaṇapuṣpī ca bimbī ca cchardanē haimavatyapi| śvētā jyōtiṣmatī caiva yōjyā śīrṣavirēcanē ēkādaśāvaśiṣṭā yāḥ prayōjyāstā virēcanē| ityuktā nāmakarmabhyāṁ mūlinyaḥ...",
         "iast_ru": "хастидантӣ хаимаватӣ ш́йа̄ма̄ тривр̣дадхогуд̣а̄| саптала̄ ш́ветана̄ма̄ ча пратйакш́рен̣ӣ гава̄кш̣йапи джйотиш̣матӣ ча бимбӣ ча ш́ан̣апуш̣пӣ виш̣а̄н̣ика̄| аджагандха̄ дравантӣ ча кш̣ӣрин̣ӣ ча̄тра ш̣од̣аш́ӣ ш́ан̣апуш̣пӣ ча бимбӣ ча ччхардане хаимаватйапи| ш́вета̄ джйотиш̣матӣ чаива йоджйа̄ ш́ӣрш̣авиречане ека̄даш́а̄ваш́иш̣т̣а̄ йа̄х̣ прайоджйа̄ста̄ виречане| итйукта̄ на̄макармабхйа̄м̣ мӯлинйах̣...",
-        "text": "Корни 16 растений, чьи корни используются для шодханы: Хастиданти (Брихатпхала, Годумба — Croton oblongifolius), Хаймавати (Вача — Acorus calamus), Шьяма Триврит (Operculina turpenthum Linn.), Адхогуда (Вриддха дару — Argyreia speciosa Sweet.), Саптала (Чармакаша — Euphorbia pilosa), Швета (Швета апараджита — Clitoria ternatea), Пратьякшрени (Данти — Baliospermum montanum Muell.-Arg), Гавакши (Индраваруни — Cirrullus colocynthis Schrad), Джьотишмати (Celastrus panniculatus Willd.), Бимби (Coccinia indica W. & A.), Шанапушпи (Crotalaria verrucosa Linn.), Вишаника (Авартани — Helicteres isora Linn.), Аджагандха, Драванти (Croton tiglium Linn.) и Кширини (Дугдхика — Euphorbia thymifolia Linn.). Из них Шанапушпи (Crotalaria verrucosa Linn.), Бимби (Coccinia indica W. & A.) и Хаймавати (Вача — Acorus calamus) используются для лечебной рвоты (вамана). Швета (Clitoria ternatea) и Джьотишмати (Celastrus panniculatus Willd.) используются для интраназального введения (насья). Остальные 11 средств используются для лечебного очищения (виречана)."
+        "text": "Корни 16 растений, чьи корни используются для шодханы: Хастиданти (Брихатпхала, Годумба — Croton oblongifolius), Хаймавати (Вача — Acorus calamus), Шьяма Триврит (Operculina turpenthum Linn.), Адхогуда (Вриддха дару — Argyreia speciosa Sweet.), Саптала (Чармакаша — Euphorbia pilosa), Швета (Швета апараджита — Clitoria ternatea), Пратьякшрени (Данти — Baliospermum montanum Muell.-Arg), Гавакши (Индраваруни — Cirrullus colocynthis Schrad), Джьотишмати (Celastrus panniculatus Willd.), Бимби (Coccinia indica W. & A.), Шанапушпи (Crotalaria verrucosa Linn.), Вишаника (Авартани — Helicteres isora Linn.), Аджагандха, Драванти (Croton tiglium Linn.) и Кширини (Дугдхика — Euphorbia thymifolia Linn.). Из них Шанапушпи (Crotalaria verrucosa Linn.), Бимби (Coccinia indica W. & A.) и Хаймавати (Вача — Acorus calamus) используются для лечебной рвоты (вамана). Швета (Clitoria ternatea) и Джьотишмати (Celastrus panniculatus Willd.) используются для интраназального введения (насья). Остальные 11 средств используются для лечебного очищения (виречана).",
+        "text_en": "The 16 plants whose roots are used for shodhana: Hastidanti (Brihatphala, Godumba — Croton oblongifolius), Haimavati (Vacha — Acorus calamus), Shyama Trivrit (Operculina turpenthum Linn.), Adhoguda (Vriddhadaru — Argyreia speciosa Sweet.), Saptala (Charmakasha — Euphorbia pilosa), Shveta (Shveta aparajita — Clitoria ternatea), Pratyakshreni (Danti — Baliospermum montanum Muell.-Arg), Gavakshi (Indravaruni — Citrullus colocynthis Schrad), Jyotishmati (Celastrus paniculatus Willd.), Bimbi (Coccinia indica W. & A.), Shanapushpi (Crotalaria verrucosa Linn.), Vishanika (Avartani — Helicteres isora Linn.), Ajagandha, Dravanti (Croton tiglium Linn.) and Kshirini (Dugdhika — Euphorbia thymifolia Linn.). Of these, Shanapushpi (Crotalaria verrucosa Linn.), Bimbi (Coccinia indica W. & A.) and Haimavati (Vacha — Acorus calamus) are used for therapeutic emesis (vamana). Shveta (Clitoria ternatea) and Jyotishmati (Celastrus paniculatus Willd.) are used for intranasal administration (nasya). The remaining 11 remedies are used for therapeutic purgation (virechana)."
       },
       {
         "type": "comment",
@@ -709,7 +778,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "...फलिनीः शृणु शङ्खिन्यथ विडङ्गानि त्रपुषं मदनानि च| धामार्गवमथेक्ष्वाकु जीमूतं कृतवेधनम्| आनूपं स्थलजं चैव क्लीतकं द्विविधं स्मृतम् प्रकीर्या चोदकीर्या च प्रत्यक्पुष्पा तथाऽभया| अन्तःकोटरपुष्पी च हस्तिपर्ण्याश्च शारदम् कम्पिल्लकारग्वधयोः फलं यत् कुटजस्य च| धामार्गवमथेक्ष्वाकु जीमूतं कृतवेधनम् मदनं कुटजं चैव त्रपुषं हस्तिपर्णिनी| एतानि वमने चैव योज्यान्यास्थापनेषु च नस्तः प्रच्छर्दने चैव प्रत्यक्पुष्पा विधीयते| दश यान्यवशिष्टानि तान्युक्तानि विरेचने नामकर्मभिरुक्तानि फलान्येकोनविंशतिः",
         "iast": "...phalinīḥ śr̥ṇu śaṅkhinyatha viḍaṅgāni trapuṣaṁ madanāni ca| dhāmārgavamathēkṣvāku jīmūtaṁ kr̥tavēdhanam| ānūpaṁ sthalajaṁ caiva klītakaṁ dvividhaṁ smr̥tam prakīryā cōdakīryā ca pratyakpuṣpā tathābhayā| antaḥkōṭarapuṣpī ca hastiparṇyāśca śāradam kampillakāragvadhayōḥ phalaṁ yat kuṭajasya ca| dhāmārgavamathēkṣvāku jīmūtaṁ kr̥tavēdhanam madanaṁ kuṭajaṁ caiva trapuṣaṁ hastiparṇinī| ētāni vamanē caiva yōjyānyāsthāpanēṣu ca nastaḥ pracchardanē caiva pratyakpuṣpā vidhīyatē| daśa yānyavaśiṣṭāni tānyuktāni virēcanē nāmakarmabhiruktāni phalānyēkōnaviṁśatiḥ",
         "iast_ru": "...пхалинӣх̣ ш́р̣н̣у ш́ан̇кхинйатха вид̣ан̇га̄ни трапуш̣ам̣ мадана̄ни ча| дха̄ма̄ргаваматхекш̣ва̄ку джӣмӯтам̣ кр̣таведханам| а̄нӯпам̣ стхаладжам̣ чаива клӣтакам̣ двивидхам̣ смр̣там пракӣрйа̄ чодакӣрйа̄ ча пратйакпуш̣па̄ татха̄бхайа̄| антах̣кот̣арапуш̣пӣ ча хастипарн̣йа̄ш́ча ш́а̄радам кампиллака̄рагвадхайох̣ пхалам̣ йат кут̣аджасйа ча| дха̄ма̄ргаваматхекш̣ва̄ку джӣмӯтам̣ кр̣таведханам маданам̣ кут̣аджам̣ чаива трапуш̣ам̣ хастипарн̣инӣ| ета̄ни вамане чаива йоджйа̄нйа̄стха̄панеш̣у ча настах̣ праччхардане чаива пратйакпуш̣па̄ видхӣйате| даш́а йа̄нйаваш́иш̣т̣а̄ни та̄нйукта̄ни виречане на̄макармабхирукта̄ни пхала̄нйеконавим̣ш́атих̣",
-        "text": "Плоды следующих 19 растений используются как лекарства: Шанкхини, Виданга, Трапуша, Маданапхала, Дхамаргава, Икшваку, Джимутам, Критаведхана, два вида Клитакам, произрастающих на болотистых и сухих землях (анупам, стхаладжа), Пракирья, Удакирья, Пратьякпушпа, Абхая, Антахкотарапушпи, Хастипарни, Шарада, Кампиллака, Арагвадхапхала и Кутаджа. Из перечисленных Дхамаргава, Икшваку, Джимутам, Критаведхана, Маданапхала, Кутаджа, Трапушам и Хастипарнини используются для ваманы и астхапана басти. Пратьякпушпа используется для насья кармы. Остальные 10 средств полезны для виречана кармы. Так описаны названия и основные действия 19 плодоносящих растений."
+        "text": "Плоды следующих 19 растений используются как лекарства: Шанкхини, Виданга, Трапуша, Маданапхала, Дхамаргава, Икшваку, Джимутам, Критаведхана, два вида Клитакам, произрастающих на болотистых и сухих землях (анупам, стхаладжа), Пракирья, Удакирья, Пратьякпушпа, Абхая, Антахкотарапушпи, Хастипарни, Шарада, Кампиллака, Арагвадхапхала и Кутаджа. Из перечисленных Дхамаргава, Икшваку, Джимутам, Критаведхана, Маданапхала, Кутаджа, Трапушам и Хастипарнини используются для ваманы и астхапана басти. Пратьякпушпа используется для насья кармы. Остальные 10 средств полезны для виречана кармы. Так описаны названия и основные действия 19 плодоносящих растений.",
+        "text_en": "The fruits of the following 19 plants are used as medicines: Shankhini, Vidanga, Trapusha, Madanaphala, Dhamargava, Ikshvaku, Jimutam, Kritavedhana, the two kinds of Klitakam growing on marshy and dry ground (anupam, sthalaja), Prakirya, Udakirya, Pratyakpushpa, Abhaya, Antahkotarapushpi, Hastiparni, Sharada, Kampillaka, Aragvadhaphala and Kutaja. Of those listed, Dhamargava, Ikshvaku, Jimutam, Kritavedhana, Madanaphala, Kutaja, Trapusham and Hastiparnini are used for vamana and asthapana basti. Pratyakpushpa is used for nasya karma. The remaining 10 remedies are useful for virechana karma. Thus the names and principal actions of the 19 fruit-bearing plants have been described."
       },
       {
         "type": "verse",
@@ -717,7 +787,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सर्पिस्तैलं वसा मज्जा स्नेहो दिष्टश्चतुर्विधः पानाभ्यञ्जनबस्त्यर्थं नस्यार्थं चैव योगतः",
         "iast": "sarpistailaṁ vasā majjā snēhō diṣṭaścaturvidhaḥ pānābhyañjanabastyarthaṁ nasyārthaṁ caiva yōgataḥ",
         "iast_ru": "сарпистаилам̣ васа̄ маджджа̄ снехо диш̣т̣аш́чатурвидхах̣ па̄на̄бхйан̃джанабастйартхам̣ насйа̄ртхам̣ чаива йогатах̣",
-        "text": "Гхи, масло, животный жир и костный мозг — четыре основных маслянистых вещества (махаснеха). Они используются в приготовлении с другими лекарствами для питья, умащения, лечебной клизмы и назальной терапии (насья)."
+        "text": "Гхи, масло, животный жир и костный мозг — четыре основных маслянистых вещества (махаснеха). Они используются в приготовлении с другими лекарствами для питья, умащения, лечебной клизмы и назальной терапии (насья).",
+        "text_en": "Ghee, oil, animal fat and bone marrow are the four principal unctuous substances (mahasneha). They are used in preparations with other medicines for drinking, anointing, therapeutic enema and nasal therapy (nasya)."
       },
       {
         "type": "verse",
@@ -725,7 +796,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "स्नेहना जीवना वर्ण्या बलोपचयवर्धनाः स्नेहा ह्येते च विहिता वातपित्तकफापहाः",
         "iast": "snēhanā jīvanā varṇyā balōpacayavardhanāḥ snēhā hyētē ca vihitā vātapittakaphāpahāḥ",
         "iast_ru": "снехана̄ джӣвана̄ варн̣йа̄ балопачайавардхана̄х̣ снеха̄ хйете ча вихита̄ ва̄тапиттакапха̄паха̄х̣",
-        "text": "Маслянистые вещества создают маслянистость, жизненную силу, цвет лица, силу и рост в теле и дают облегчение при вайю, питте и капхе."
+        "text": "Маслянистые вещества создают маслянистость, жизненную силу, цвет лица, силу и рост в теле и дают облегчение при вайю, питте и капхе.",
+        "text_en": "Unctuous substances create unctuousness, vital force, complexion, strength and growth in the body, and give relief in vayu, pitta and kapha disorders."
       },
       {
         "type": "comment",
@@ -738,7 +810,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सौवर्चलं सैन्धवं च विडमौद्भिदमेव च सामुद्रेण सहैतानि पञ्च स्युर्लवणानि च| स्निग्धान्युष्णानि तीक्ष्णानि दीपनीयतमानि च",
         "iast": "sauvarcalaṁ saindhavaṁ ca viḍamaudbhidamēva ca sāmudrēṇa sahaitāni pañca syurlavaṇāni ca| snigdhānyuṣṇāni tīkṣṇāni dīpanīyatamāni ca",
         "iast_ru": "сауварчалам̣ саиндхавам̣ ча вид̣амаудбхидамева ча са̄мудрен̣а сахаита̄ни пан̃ча сйурлаван̣а̄ни ча| снигдха̄нйуш̣н̣а̄ни тӣкш̣н̣а̄ни дӣпанӣйатама̄ни ча",
-        "text": "Пять основных солей: чёрная/сочаловая соль (саурчала), каменная соль (сайндхава), нашатырь (вида), земляная/выпотевающая соль (аудбхида) и морская соль (самудра). Они маслянисты, горячи, остры и являются лучшими из стимуляторов пищеварения."
+        "text": "Пять основных солей: чёрная/сочаловая соль (саурчала), каменная соль (сайндхава), нашатырь (вида), земляная/выпотевающая соль (аудбхида) и морская соль (самудра). Они маслянисты, горячи, остры и являются лучшими из стимуляторов пищеварения.",
+        "text_en": "The five principal salts: black/effloresced salt (sauchala), rock salt (saindhava), sal ammoniac (vida), earth/efflorescent salt (audbhida), and sea salt (samudra). They are unctuous, hot, sharp, and are the best of digestive stimulants."
       },
       {
         "type": "verse",
@@ -746,7 +819,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "आलेपनार्थे युज्यन्ते स्नेहस्वेदविधौ तथा| अधोभागोर्ध्वभागेषु निरूहेष्वनुवासने अभ्यञ्जने भोजनार्थे शिरसश्च विरेचने| शस्त्रकर्मणि वर्त्यर्थमञ्जनोत्सादनेषु च अजीर्णानाहयोर्वाते गुल्मे शूले तथोदरे| उक्तानि लवणा(नि)...",
         "iast": "ālēpanārthē yujyantē snēhasvēdavidhau tathā| adhōbhāgōrdhvabhāgēṣu nirūhēṣvanuvāsanē abhyañjanē bhōjanārthē śirasaśca virēcanē| śastrakarmaṇi vartyarthamañjanōtsādanēṣu ca ajīrṇānāhayōrvātē gulmē śūlē tathōdarē| uktāni lavaṇā(ni)...",
         "iast_ru": "а̄лепана̄ртхе йуджйанте снехасведавидхау татха̄| адхобха̄гордхвабха̄геш̣у нирӯхеш̣ванува̄сане абхйан̃джане бходжана̄ртхе ш́ирасаш́ча виречане| ш́астракарман̣и вартйартхаман̃джанотса̄данеш̣у ча аджӣрн̣а̄на̄хайорва̄те гулме ш́ӯле татходаре| укта̄ни лаван̣а̄(ни)...",
-        "text": "Соли используются для наружного применения (алепа), промасливания, потогонной терапии, в составах для рвоты и очищения, в эвакуаторных и маслянистых видах клизм, умащении и назальной терапии; в хирургических операциях, суппозиториях, глазных мазях, фрикционном массаже и как пища. Они показаны при несварении, запоре, расстройствах вайю, гульме, коликах и заболеваниях брюшной полости. Так были описаны соли."
+        "text": "Соли используются для наружного применения (алепа), промасливания, потогонной терапии, в составах для рвоты и очищения, в эвакуаторных и маслянистых видах клизм, умащении и назальной терапии; в хирургических операциях, суппозиториях, глазных мазях, фрикционном массаже и как пища. Они показаны при несварении, запоре, расстройствах вайю, гульме, коликах и заболеваниях брюшной полости. Так были описаны соли.",
+        "text_en": "Salts are used for external application (alepa), oleation, sudation therapy, in preparations for emesis and purification, in evacuant and unctuous types of enema, in anointing and nasal therapy; in surgical operations, suppositories, eye ointments, friction massage, and as food. They are indicated in indigestion, constipation, vayu disorders, gulma, colic and diseases of the abdominal cavity. Thus the salts have been described."
       },
       {
         "type": "comment",
@@ -759,7 +833,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "... न्यू(ऊ)र्ध्वं मूत्राण्यष्टौ निबोध मे मुख्यानि यानि दिष्टानि सर्वाण्यात्रेयशासने| अविमूत्रमजामूत्रं गोमूत्रं माहिषं च यत् हस्तिमूत्रमथोष्ट्रस्य हयस्य च खरस्य च",
         "iast": "... nyū(ū)rdhvaṁ mūtrāṇyaṣṭau nibōdha mē mukhyāni yāni diṣṭāni sarvāṇyātrēyaśāsanē| avimūtramajāmūtraṁ gōmūtraṁ māhiṣaṁ ca yat hastimūtramathōṣṭrasya hayasya ca kharasya ca",
         "iast_ru": "... нйӯ(ӯ)рдхвам̣ мӯтра̄н̣йаш̣т̣ау нибодха ме мукхйа̄ни йа̄ни диш̣т̣а̄ни сарва̄н̣йа̄трейаш́а̄сане| авимӯтрамаджа̄мӯтрам̣ гомӯтрам̣ ма̄хиш̣ам̣ ча йат хастимӯтраматхош̣т̣расйа хайасйа ча кхарасйа ча",
-        "text": "Восемь основных видов мочи, описанных школой Атреи для медицинского применения: моча овцы, козы, коровы, буйволицы, слонихи, верблюдицы, кобылы и ослицы."
+        "text": "Восемь основных видов мочи, описанных школой Атреи для медицинского применения: моча овцы, козы, коровы, буйволицы, слонихи, верблюдицы, кобылы и ослицы.",
+        "text_en": "The eight principal kinds of urine described by the school of Atreya for medical use: the urine of the ewe, goat, cow, she-buffalo, she-elephant, she-camel, mare and she-donkey."
       },
       {
         "type": "verse",
@@ -767,7 +842,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "उष्णं तीक्ष्णमथोऽरूक्षं कटुकं लवणान्वितम् मूत्रमुत्सादने युक्तं युक्तमालेपनेषु च",
         "iast": "uṣṇaṁ tīkṣṇamathō'rūkṣaṁ kaṭukaṁ lavaṇānvitam mūtramutsādanē yuktaṁ yuktamālēpanēṣu ca",
         "iast_ru": "уш̣н̣ам̣ тӣкш̣н̣аматхо'рӯкш̣ам̣ кат̣укам̣ лаван̣а̄нвитам мӯтрамутса̄дане йуктам̣ йуктама̄лепанеш̣у ча",
-        "text": "Как правило, мочи обладают горячим, острым и не-сухим действием, имеют острый и солёный вкус и используются для фрикционного массажа и наружного применения (алепа)."
+        "text": "Как правило, мочи обладают горячим, острым и не-сухим действием, имеют острый и солёный вкус и используются для фрикционного массажа и наружного применения (алепа).",
+        "text_en": "As a rule, urines have a hot, sharp and non-drying action, have a pungent and salty taste, and are used for friction massage and external application (alepa)."
       },
       {
         "type": "verse",
@@ -775,7 +851,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "युक्तमास्थापने मूत्रं युक्तं चापि विरेचने स्वेदेष्वपि च तद्युक्तमानाहेष्वगदेषु च| उदरेष्वथ चार्शःसु गुल्मिकुष्ठिकिलासिषु तद्युक्तमुपनाहेषु परिषेके तथैव च",
         "iast": "yuktamāsthāpanē mūtraṁ yuktaṁ cāpi virēcanē svēdēṣvapi ca tadyuktamānāhēṣvagadēṣu ca| udarēṣvatha cārśaḥsu gulmikuṣṭhikilāsiṣu tadyuktamupanāhēṣu pariṣēkē tathaiva ca",
         "iast_ru": "йуктама̄стха̄пане мӯтрам̣ йуктам̣ ча̄пи виречане сведеш̣вапи ча тадйуктама̄на̄хеш̣вагадеш̣у ча| удареш̣ватха ча̄рш́ах̣су гулмикуш̣т̣хикила̄сиш̣у тадйуктамупана̄хеш̣у париш̣еке татхаива ча",
-        "text": "Мочи также применяются в составах для эвакуаторной клизмы, слабительных, припарок (упанаха) и обливания (паришека), а также в составах противоядий (агада). Они показаны при таких состояниях, как задержка кала, мочи и вздутие (анаха), общее увеличение живота (удара), гульма, геморрой, дерматозы (куштха) и лейкодерма."
+        "text": "Мочи также применяются в составах для эвакуаторной клизмы, слабительных, припарок (упанаха) и обливания (паришека), а также в составах противоядий (агада). Они показаны при таких состояниях, как задержка кала, мочи и вздутие (анаха), общее увеличение живота (удара), гульма, геморрой, дерматозы (куштха) и лейкодерма.",
+        "text_en": "Urines are also used in preparations for evacuant enema, purgatives, poultices (upanaha) and douching (parisheka), as well as in antidote preparations (agada). They are indicated in such conditions as retention of stool and urine, distension (anaha), general enlargement of the abdomen (udara), gulma, hemorrhoids, dermatoses (kushtha) and leucoderma."
       },
       {
         "type": "verse",
@@ -783,7 +860,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "दीपनीयं विषघ्नं च क्रिमिघ्नं चोपदिश्यते पाण्डुरोगोपसृष्टानामुत्तमं शर्म चोच्यते",
         "iast": "dīpanīyaṁ viṣaghnaṁ ca krimighnaṁ cōpadiśyatē pāṇḍurōgōpasr̥ṣṭānāmuttamaṁ śarma cōcyatē",
         "iast_ru": "дӣпанӣйам̣ виш̣агхнам̣ ча кримигхнам̣ чопадиш́йате па̄н̣д̣урогопаср̣ш̣т̣а̄на̄муттамам̣ ш́арма чочйате",
-        "text": "Мочи назначались как стимуляторы пищеварения, противоядия и глистогонные средства. Они превосходны для лечения людей, страдающих панду (анемией)."
+        "text": "Мочи назначались как стимуляторы пищеварения, противоядия и глистогонные средства. Они превосходны для лечения людей, страдающих панду (анемией).",
+        "text_en": "Urines have been prescribed as digestive stimulants, antidotes and anthelmintics. They are excellent for treating people suffering from pandu (anemia)."
       },
       {
         "type": "verse",
@@ -791,7 +869,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "श्लेष्माणं शमयेत् पीतं मारुतं चानुलोमयेत् कर्षेत् पित्तमधोभागमित्यस्मिन् गुणसङ्ग्रहः| सामान्येन मयोक्तस्तु पृथक्त्वेन प्रवक्ष्यते",
         "iast": "ślēṣmāṇaṁ śamayēt pītaṁ mārutaṁ cānulōmayēt karṣēt pittamadhōbhāgamityasmin guṇasaṅgrahaḥ| sāmānyēna mayōktastu pr̥thaktvēna pravakṣyatē",
         "iast_ru": "ш́леш̣ма̄н̣ам̣ ш́амайет пӣтам̣ ма̄рутам̣ ча̄нуломайет карш̣ет питтамадхобха̄гамитйасмин гун̣асан̇грахах̣| са̄ма̄нйена майоктасту пр̣тхактвена правакш̣йате",
-        "text": "Приём мочи внутрь умиротворяет капху, регулирует перистальтическое движение вайю и выводит болезнетворную питту через нижние каналы. Так были описаны общие свойства и действия мочи. Далее они будут описаны по отдельности."
+        "text": "Приём мочи внутрь умиротворяет капху, регулирует перистальтическое движение вайю и выводит болезнетворную питту через нижние каналы. Так были описаны общие свойства и действия мочи. Далее они будут описаны по отдельности.",
+        "text_en": "Taking urine internally pacifies kapha, regulates the peristaltic movement of vayu, and expels morbid pitta through the lower passages. Thus the general properties and actions of urine have been described. Next they will be described individually."
       },
       {
         "type": "verse",
@@ -799,7 +878,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अविमूत्रं सतिक्तं स्यात् स्निग्धं पित्ताविरोधि च| आजं कषायमधुरं पथ्यं दोषान्निहन्ति च",
         "iast": "avimūtraṁ satiktaṁ syāt snigdhaṁ pittāvirōdhi ca| ājaṁ kaṣāyamadhuraṁ pathyaṁ dōṣānnihanti ca",
         "iast_ru": "авимӯтрам̣ сатиктам̣ сйа̄т снигдхам̣ питта̄виродхи ча| а̄джам̣ каш̣а̄йамадхурам̣ патхйам̣ дош̣а̄нниханти ча",
-        "text": "Моча овцы слегка горька, маслянистa и не враждебна питте. Моча козы вяжуща, сладка и полезна и изгоняет болезнетворные доша."
+        "text": "Моча овцы слегка горька, маслянистa и не враждебна питте. Моча козы вяжуща, сладка и полезна и изгоняет болезнетворные доша.",
+        "text_en": "Ewe's urine is slightly bitter, unctuous and not antagonistic to pitta. Goat's urine is astringent, sweet and beneficial, and expels the morbid doshas."
       },
       {
         "type": "verse",
@@ -807,7 +887,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "गव्यं समधुरं किञ्चिद्दोषघ्नं क्रिमिकुष्ठनुत्| कण्डूं च शमयेत् पीतं सम्यग्दोषोदरे हितम्",
         "iast": "gavyaṁ samadhuraṁ kiñciddōṣaghnaṁ krimikuṣṭhanut| kaṇḍūṁ ca śamayēt pītaṁ samyagdōṣōdarē hitam",
         "iast_ru": "гавйам̣ самадхурам̣ кин̃чиддош̣агхнам̣ кримикуш̣т̣ханут| кан̣д̣ӯм̣ ча ш́амайет пӣтам̣ самйагдош̣одаре хитам",
-        "text": "Моча коровы слегка сладка, устраняет разлад доша. Она лечит глистов, кожные болезни (куштха) и облегчает зуд. Правильный её приём излечивает расстройства живота."
+        "text": "Моча коровы слегка сладка, устраняет разлад доша. Она лечит глистов, кожные болезни (куштха) и облегчает зуд. Правильный её приём излечивает расстройства живота.",
+        "text_en": "Cow's urine is slightly sweet and removes dosha imbalance. It cures worms and skin diseases (kushtha) and relieves itching. Taken correctly, it cures disorders of the abdomen."
       },
       {
         "type": "verse",
@@ -815,7 +896,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अर्शःशोफोदरघ्नं तु सक्षारं माहिषं सरम्| हास्तिकं लवणं मूत्रं हितं तु क्रिमिकुष्ठिनाम् प्रशस्तं बद्धविण्मूत्रविषश्लेष्मामयार्शसाम्",
         "iast": "arśaḥśōphōdaraghnaṁ tu sakṣāraṁ māhiṣaṁ saram| hāstikaṁ lavaṇaṁ mūtraṁ hitaṁ tu krimikuṣṭhinām praśastaṁ baddhaviṇmūtraviṣaślēṣmāmayārśasām",
         "iast_ru": "арш́ах̣ш́опходарагхнам̣ ту сакш̣а̄рам̣ ма̄хиш̣ам̣ сарам| ха̄стикам̣ лаван̣ам̣ мӯтрам̣ хитам̣ ту кримикуш̣т̣хина̄м праш́астам̣ баддхавин̣мӯтравиш̣аш́леш̣ма̄майа̄рш́аса̄м",
-        "text": "Моча буйволицы облегчает геморрой, отёки и расстройства, ведущие к общему увеличению живота (удара). Моча слонихи солона и облегчает состояние при глистах и дерматозах (куштха). Она также полезна при задержке кала и мочи, отравлении, расстройствах капхи и геморрое."
+        "text": "Моча буйволицы облегчает геморрой, отёки и расстройства, ведущие к общему увеличению живота (удара). Моча слонихи солона и облегчает состояние при глистах и дерматозах (куштха). Она также полезна при задержке кала и мочи, отравлении, расстройствах капхи и геморрое.",
+        "text_en": "She-buffalo's urine relieves hemorrhoids, edema and disorders leading to general enlargement of the abdomen (udara). She-elephant's urine is salty and relieves the condition in worms and dermatoses (kushtha). It is also useful in retention of stool and urine, poisoning, kapha disorders and hemorrhoids."
       },
       {
         "type": "verse",
@@ -823,7 +905,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "सतिक्तं श्वासकासघ्नमर्शोघ्नं चौष्ट्रमुच्यते",
         "iast": "satiktaṁ śvāsakāsaghnamarśōghnaṁ cauṣṭramucyatē",
         "iast_ru": "сатиктам̣ ш́ва̄сака̄сагхнамарш́огхнам̣ чауш̣т̣рамучйате",
-        "text": "Моча верблюдицы слегка горька и облегчает одышку, кашель и геморрой."
+        "text": "Моча верблюдицы слегка горька и облегчает одышку, кашель и геморрой.",
+        "text_en": "She-camel's urine is slightly bitter and relieves dyspnea, cough and hemorrhoids."
       },
       {
         "type": "verse",
@@ -831,7 +914,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "वाजिनां तिक्तकटुकं कुष्ठव्रणविषापहम्| खरमूत्रमपस्मारोन्मादग्रहविनाशनम् इतीहोक्तानि मूत्राणि यथासामर्थ्ययोगतः",
         "iast": "vājināṁ tiktakaṭukaṁ kuṣṭhavraṇaviṣāpaham| kharamūtramapasmārōnmādagrahavināśanam itīhōktāni mūtrāṇi yathāsāmarthyayōgataḥ",
         "iast_ru": "ва̄джина̄м̣ тиктакат̣укам̣ куш̣т̣хавран̣авиш̣а̄пахам| кхарамӯтрамапасма̄ронма̄даграхавина̄ш́анам итӣхокта̄ни мӯтра̄н̣и йатха̄са̄мартхйайогатах̣",
-        "text": "Моча кобылы горька и остра на вкус и облегчает дерматозы (куштха), раны и отравления. Моча ослицы облегчает эпилепсию, большой психоз и тяжёлые хронические психосоматические расстройства (граха) у детей. Так были описаны лечебные свойства и действие восьми видов мочи."
+        "text": "Моча кобылы горька и остра на вкус и облегчает дерматозы (куштха), раны и отравления. Моча ослицы облегчает эпилепсию, большой психоз и тяжёлые хронические психосоматические расстройства (граха) у детей. Так были описаны лечебные свойства и действие восьми видов мочи.",
+        "text_en": "Mare's urine is bitter and pungent in taste and relieves dermatoses (kushtha), wounds and poisoning. She-donkey's urine relieves epilepsy, major psychosis and severe chronic psychosomatic disorders (graha) in children. Thus the therapeutic properties and action of the eight kinds of urine have been described."
       },
       {
         "type": "comment",
@@ -844,7 +928,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अतः क्षीराणि वक्ष्यन्ते कर्म चैषां गुणाश्च ये अविक्षीरमजाक्षीरं गोक्षीरं माहिषं च यत्| उष्ट्रीणामथ नागीनां वडवायाः स्त्रियास्तथा",
         "iast": "ataḥ kṣīrāṇi vakṣyantē karma caiṣāṁ guṇāśca yē avikṣīramajākṣīraṁ gōkṣīraṁ māhiṣaṁ ca yat| uṣṭrīṇāmatha nāgīnāṁ vaḍavāyāḥ striyāstathā",
         "iast_ru": "атах̣ кш̣ӣра̄н̣и вакш̣йанте карма чаиш̣а̄м̣ гун̣а̄ш́ча йе авикш̣ӣрамаджа̄кш̣ӣрам̣ гокш̣ӣрам̣ ма̄хиш̣ам̣ ча йат| уш̣т̣рӣн̣а̄матха на̄гӣна̄м̣ вад̣ава̄йа̄х̣ стрийа̄статха̄",
-        "text": "Далее описываются свойства и действия (восьми видов) молока. Молоко овцы, козы, коровы, буйволицы, верблюдицы, слонихи, кобылы и женщины используется в лечебных целях."
+        "text": "Далее описываются свойства и действия (восьми видов) молока. Молоко овцы, козы, коровы, буйволицы, верблюдицы, слонихи, кобылы и женщины используется в лечебных целях.",
+        "text_en": "Next the properties and actions of (the eight kinds of) milk are described. The milk of the ewe, goat, cow, she-buffalo, she-camel, she-elephant, mare and woman is used for therapeutic purposes."
       },
       {
         "type": "verse",
@@ -852,7 +937,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "प्रायशो मधुरं स्निग्धं शीतं स्तन्यं पयो मतम्| प्रीणनं बृंहणं वृष्यं मेध्यं बल्यं मनस्करम् जीवनीयं श्रमहरं श्वासकासनिबर्हणम्| हन्ति शोणितपित्तं च सन्धानं विहतस्य च सर्वप्राणभृतां सात्म्यं शमनं शोधनं तथा| तृष्णाघ्नं दीपनीयं च श्रेष्ठं क्षीणक्षतेषु च",
         "iast": "prāyaśō madhuraṁ snigdhaṁ śītaṁ stanyaṁ payō matam| prīṇanaṁ br̥ṁhaṇaṁ vr̥ṣyaṁ mēdhyaṁ balyaṁ manaskaram jīvanīyaṁ śramaharaṁ śvāsakāsanibarhaṇam| hanti śōṇitapittaṁ ca sandhānaṁ vihatasya ca sarvaprāṇabhr̥tāṁ sātmyaṁ śamanaṁ śōdhanaṁ tathā| tr̥ṣṇāghnaṁ dīpanīyaṁ ca śrēṣṭhaṁ kṣīṇakṣatēṣu ca",
         "iast_ru": "пра̄йаш́о мадхурам̣ снигдхам̣ ш́ӣтам̣ станйам̣ пайо матам| прӣн̣анам̣ бр̣м̣хан̣ам̣ вр̣ш̣йам̣ медхйам̣ балйам̣ манаскарам джӣванӣйам̣ ш́рамахарам̣ ш́ва̄сака̄санибархан̣ам| ханти ш́он̣итапиттам̣ ча сандха̄нам̣ вихатасйа ча сарвапра̄н̣абхр̣та̄м̣ са̄тмйам̣ ш́аманам̣ ш́одханам̣ татха̄| тр̣ш̣н̣а̄гхнам̣ дӣпанӣйам̣ ча ш́реш̣т̣хам̣ кш̣ӣн̣акш̣атеш̣у ча",
-        "text": "В целом молоко сладко, маслянисто, охлаждающе, лактогенно, приятно, является афродизиаком, тоником для мозга (медхья, увеличивает разум), укрепляющим, вдохновляющим, жизнедающим, освежающим; лечит одышку, кашель, кровотечения, способствует синтезу при травмах/переломах; благодатно для всех живых существ, умиротворяет и выводит доша, утоляет жажду, стимулирует пищеварение и весьма полезно при истощении вследствие язвы лёгких."
+        "text": "В целом молоко сладко, маслянисто, охлаждающе, лактогенно, приятно, является афродизиаком, тоником для мозга (медхья, увеличивает разум), укрепляющим, вдохновляющим, жизнедающим, освежающим; лечит одышку, кашель, кровотечения, способствует синтезу при травмах/переломах; благодатно для всех живых существ, умиротворяет и выводит доша, утоляет жажду, стимулирует пищеварение и весьма полезно при истощении вследствие язвы лёгких.",
+        "text_en": "In general, milk is sweet, unctuous, cooling, galactogogue, agreeable, an aphrodisiac, a tonic for the brain (medhya, increases the intellect), strengthening, invigorating, life-giving, refreshing; it cures dyspnea and cough, hemorrhages, promotes union in injuries/fractures; it is beneficial to all living beings, pacifies and expels the doshas, quenches thirst, stimulates digestion, and is highly beneficial in wasting caused by pulmonary ulceration."
       },
       {
         "type": "verse",
@@ -860,7 +946,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "पाण्डुरोगेऽम्लपित्ते च शोषे गुल्मे तथोदरे| अतीसारे ज्वरे दाहे श्वयथौ च विशेषतः योनिशुक्रप्रदोषेषु मूत्रेष्वप्रचुरेषु च| पुरीषे ग्रथिते पथ्यं वातपित्तविकारिणाम्",
         "iast": "pāṇḍurōgē'mlapittē ca śōṣē gulmē tathōdarē| atīsārē jvarē dāhē śvayathau ca viśēṣataḥ yōniśukrapradōṣēṣu mūtrēṣvapracurēṣu ca| purīṣē grathitē pathyaṁ vātapittavikāriṇām",
         "iast_ru": "па̄н̣д̣уроге'млапитте ча ш́ош̣е гулме татходаре| атӣса̄ре джваре да̄хе ш́вайатхау ча виш́еш̣атах̣ йониш́украпрадош̣еш̣у мӯтреш̣вапрачуреш̣у ча| пурӣш̣е гратхите патхйам̣ ва̄тапиттавика̄рин̣а̄м",
-        "text": "Молоко показано при анемии (панду), кислой диспепсии (амлапитта), чахотке, гульме и общем увеличении живота (удара), диарее, лихорадке, жжении, в особенности при отёках, вагинальных и семенных расстройствах, олигурии и твёрдом стуле. Оно благодатно при расстройствах вайю и питты."
+        "text": "Молоко показано при анемии (панду), кислой диспепсии (амлапитта), чахотке, гульме и общем увеличении живота (удара), диарее, лихорадке, жжении, в особенности при отёках, вагинальных и семенных расстройствах, олигурии и твёрдом стуле. Оно благодатно при расстройствах вайю и питты.",
+        "text_en": "Milk is indicated in anemia (pandu), acid dyspepsia (amlapitta), consumption, gulma and general enlargement of the abdomen (udara), diarrhea, fever, burning sensation, and especially in edema, disorders of the vagina and semen, oliguria and hard stool. It is beneficial in disorders of vayu and pitta."
       },
       {
         "type": "verse",
@@ -868,7 +955,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "नस्यालेपावगाहेषु वमनास्थापनेषु च| विरेचने स्नेहने च पयः सर्वत्र युज्यते",
         "iast": "nasyālēpāvagāhēṣu vamanāsthāpanēṣu ca| virēcanē snēhanē ca payaḥ sarvatra yujyatē",
         "iast_ru": "насйа̄лепа̄вага̄хеш̣у вамана̄стха̄панеш̣у ча| виречане снехане ча пайах̣ сарватра йуджйате",
-        "text": "Молоко используется во многих видах составов, включая назальные лекарства, наружные средства, ванны, рвотные средства, клизмы, слабительные и маслянистые терапии."
+        "text": "Молоко используется во многих видах составов, включая назальные лекарства, наружные средства, ванны, рвотные средства, клизмы, слабительные и маслянистые терапии.",
+        "text_en": "Milk is used in many kinds of preparations, including nasal medicines, external applications, baths, emetics, enemas, purgatives and unctuous therapies."
       },
       {
         "type": "verse",
@@ -876,7 +964,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "यथाक्रमं क्षीरगुणानेकैकस्य पृथक् पृथक्| अन्नपानादिकेऽध्याये भूयो वक्ष्याम्यशेषतः",
         "iast": "yathākramaṁ kṣīraguṇānēkaikasya pr̥thak pr̥thak| annapānādikē'dhyāyē bhūyō vakṣyāmyaśēṣataḥ",
         "iast_ru": "йатха̄крамам̣ кш̣ӣрагун̣а̄некаикасйа пр̣тхак пр̣тхак| аннапа̄на̄дике'дхйа̄йе бхӯйо вакш̣йа̄мйаш́еш̣атах̣",
-        "text": "Дальнейшее подробное описание применения и действия отдельных видов молока будет изложено в надлежащем порядке в главе под названием Аннапанавидхи адхьяя."
+        "text": "Дальнейшее подробное описание применения и действия отдельных видов молока будет изложено в надлежащем порядке в главе под названием Аннапанавидхи адхьяя.",
+        "text_en": "A further detailed description of the use and action of the individual kinds of milk will be set forth in due order in the chapter called Annapanavidhi Adhyaya."
       },
       {
         "type": "comment",
@@ -889,7 +978,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "अथापरे त्रयो वृक्षाः पृथग्ये फलमूलिभिः| स्नुह्यर्काश्मन्तकास्तेषामिदं कर्म पृथक् पृथक् वमनेऽश्मन्तकं विद्यात् स्नुहीक्षीरं विरेचने| क्षीरमर्कस्य विज्ञेयं वमने सविरेचने",
         "iast": "athāparē trayō vr̥kṣāḥ pr̥thagyē phalamūlibhiḥ| snuhyarkāśmantakāstēṣāmidaṁ karma pr̥thak pr̥thak vamanē'śmantakaṁ vidyāt snuhīkṣīraṁ virēcanē| kṣīramarkasya vijñēyaṁ vamanē savirēcanē",
         "iast_ru": "атха̄паре трайо вр̣кш̣а̄х̣ пр̣тхагйе пхаламӯлибхих̣| снухйарка̄ш́мантака̄стеш̣а̄мидам̣ карма пр̣тхак пр̣тхак вамане'ш́мантакам̣ видйа̄т снухӣкш̣ӣрам̣ виречане| кш̣ӣрамаркасйа виджн̃ейам̣ вамане савиречане",
-        "text": "Ныне, помимо плодоносящих и корневых растений, будут описаны три растения, чей латекс используется. Это три растения: Снухи, Арка и Ашмантака. Ашмантака используется для лечебной рвоты; латекс Снухи — для очищения, а латекс Арка — и для рвоты, и для очищения."
+        "text": "Ныне, помимо плодоносящих и корневых растений, будут описаны три растения, чей латекс используется. Это три растения: Снухи, Арка и Ашмантака. Ашмантака используется для лечебной рвоты; латекс Снухи — для очищения, а латекс Арка — и для рвоты, и для очищения.",
+        "text_en": "Now, besides the fruit-bearing and root plants, three plants whose latex is used will be described. These are three plants: Snuhi, Arka and Ashmantaka. Ashmantaka is used for therapeutic emesis; the latex of Snuhi for purification, and the latex of Arka for both emesis and purification."
       },
       {
         "type": "comment",
@@ -902,7 +992,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "इमांस्त्रीनपरान् वृक्षानाहुर्येषां हितास्त्वचः| पूतीकः कृष्णगन्धा च तिल्वकश्च तथा तरुः",
         "iast": "imāṁstrīnaparān vr̥kṣānāhuryēṣāṁ hitāstvacaḥ| pūtīkaḥ kr̥ṣṇagandhā ca tilvakaśca tathā taruḥ",
         "iast_ru": "има̄м̣стрӣнапара̄н вр̣кш̣а̄на̄хурйеш̣а̄м̣ хита̄ствачах̣| пӯтӣках̣ кр̣ш̣н̣агандха̄ ча тилвакаш́ча татха̄ тарух̣",
-        "text": "Есть ещё три дерева, чья кора используется как лекарство. Это Путика, Кришнагандха и Тильвака."
+        "text": "Есть ещё три дерева, чья кора используется как лекарство. Это Путика, Кришнагандха и Тильвака.",
+        "text_en": "There are three more trees whose bark is used as medicine. These are Putika, Krishnagandha and Tilvaka."
       },
       {
         "type": "verse",
@@ -910,7 +1001,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "विरेचने प्रयोक्तव्यः पूतीकस्तिल्वकस्तथा| कृष्णगन्धा परीसर्पे शोथेष्वर्शःसु चोच्यते दद्रुविद्रधिगण्डेषु कुष्ठेष्वप्यलजीषु च| षड्वृक्षाञ्छोधनानेतानपि विद्याद्विचक्षणः",
         "iast": "virēcanē prayōktavyaḥ pūtīkastilvakastathā| kr̥ṣṇagandhā parīsarpē śōthēṣvarśaḥsu cōcyatē dadruvidradhigaṇḍēṣu kuṣṭhēṣvapyalajīṣu ca| ṣaḍvr̥kṣāñchōdhanānētānapi vidyādvicakṣaṇaḥ",
         "iast_ru": "виречане прайоктавйах̣ пӯтӣкастилвакастатха̄| кр̣ш̣н̣агандха̄ парӣсарпе ш́отхеш̣варш́ах̣су чочйате дадрувидрадхиган̣д̣еш̣у куш̣т̣хеш̣вапйаладжӣш̣у ча| ш̣ад̣вр̣кш̣а̄н̃чходхана̄нета̄напи видйа̄двичакш̣ан̣ах̣",
-        "text": "Кора Путики и Тильваки используется для слабительной терапии. Кора Кришнагандхи показана при рожистом воспалении, воспалении, геморрое, стригущем лишае, абсцессе, узловых образованиях, дерматозах и гангрене (аладжи). Мудрый врач должен также овладеть знанием о вышеупомянутых шести растениях (трёх с латексом и трёх с корой) и их умиротворяющих действиях."
+        "text": "Кора Путики и Тильваки используется для слабительной терапии. Кора Кришнагандхи показана при рожистом воспалении, воспалении, геморрое, стригущем лишае, абсцессе, узловых образованиях, дерматозах и гангрене (аладжи). Мудрый врач должен также овладеть знанием о вышеупомянутых шести растениях (трёх с латексом и трёх с корой) и их умиротворяющих действиях.",
+        "text_en": "The bark of Putika and Tilvaka is used for purgative therapy. The bark of Krishnagandha is indicated in erysipelas, inflammation, hemorrhoids, ringworm, abscess, nodular growths, dermatoses and gangrene (alaji). The wise physician should also master knowledge of the six aforementioned plants (three with latex and three with bark) and their pacifying actions."
       },
       {
         "type": "verse",
@@ -918,7 +1010,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "इत्युक्ताः फलमूलिन्यः स्नेहाश्च लवणानि च| मूत्रं क्षीराणि वृक्षाश्च षड् ये दिष्टपयस्त्वचः",
         "iast": "ityuktāḥ phalamūlinyaḥ snēhāśca lavaṇāni ca| mūtraṁ kṣīrāṇi vr̥kṣāśca ṣaḍ yē diṣṭapayastvacaḥ",
         "iast_ru": "итйукта̄х̣ пхаламӯлинйах̣ снеха̄ш́ча лаван̣а̄ни ча| мӯтрам̣ кш̣ӣра̄н̣и вр̣кш̣а̄ш́ча ш̣ад̣ йе диш̣т̣апайаствачах̣",
-        "text": "Так были описаны плодоносящие, корневые растения, источники маслянистых веществ, соли, мочи, молоко и шесть растений, чьи латекс и кора используются."
+        "text": "Так были описаны плодоносящие, корневые растения, источники маслянистых веществ, соли, мочи, молоко и шесть растений, чьи латекс и кора используются.",
+        "text_en": "Thus have been described the fruit-bearing plants, the root plants, the sources of unctuous substances, the salts, the urines, the milks, and the six plants whose latex and bark are used."
       },
       {
         "type": "comment",
@@ -931,7 +1024,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "ओषधीर्नामरूपाभ्यां जानते ह्यजपा वने| अविपाश्चैव गोपाश्च ये चान्ये वनवासिनः",
         "iast": "ōṣadhīrnāmarūpābhyāṁ jānatē hyajapā vanē| avipāścaiva gōpāśca yē cānyē vanavāsinaḥ",
         "iast_ru": "ош̣адхӣрна̄марӯпа̄бхйа̄м̣ джа̄нате хйаджапа̄ ване| авипа̄ш́чаива гопа̄ш́ча йе ча̄нйе ванава̄синах̣",
-        "text": "Козоводы, овцеводы, коровьи пастухи и лесные жители знакомы с названиями и формами/определением различных лекарственных трав и растений."
+        "text": "Козоводы, овцеводы, коровьи пастухи и лесные жители знакомы с названиями и формами/определением различных лекарственных трав и растений.",
+        "text_en": "Goatherds, shepherds, cowherds and forest-dwellers are familiar with the names and forms/definitions of various medicinal herbs and plants."
       },
       {
         "type": "verse",
@@ -939,7 +1033,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "न नामज्ञानमात्रेण रूपज्ञानेन वा पुनः| ओषधीनां परां प्राप्तिं कश्चिद्वेदितुमर्हति",
         "iast": "na nāmajñānamātrēṇa rūpajñānēna vā punaḥ| ōṣadhīnāṁ parāṁ prāptiṁ kaścidvēditumarhati",
         "iast_ru": "на на̄маджн̃а̄нама̄трен̣а рӯпаджн̃а̄нена ва̄ пунах̣| ош̣адхӣна̄м̣ пара̄м̣ пра̄птим̣ каш́чидведитумархати",
-        "text": "Однако, лишь зная названия и формы трав, никто не может претендовать на совершенное знание лекарственного применения растений."
+        "text": "Однако, лишь зная названия и формы трав, никто не может претендовать на совершенное знание лекарственного применения растений.",
+        "text_en": "However, merely knowing the names and forms of herbs, no one can lay claim to perfect knowledge of the medicinal use of plants."
       },
       {
         "type": "verse",
@@ -947,7 +1042,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "योगवित्त्वप्यरूपज्ञस्तासां तत्त्वविदुच्यते| किं पुनर्यो विजानीयादोषधीः सर्वथा भिषक्",
         "iast": "yōgavittvapyarūpajñastāsāṁ tattvaviducyatē| kiṁ punaryō vijānīyādōṣadhīḥ sarvathā bhiṣak",
         "iast_ru": "йогавиттвапйарӯпаджн̃аста̄са̄м̣ таттвавидучйате| ким̣ пунарйо виджа̄нӣйа̄дош̣адхӣх̣ сарватха̄ бхиш̣ак",
-        "text": "Если тот, кто знает применение и действие трав, пусть и не знакомый с их формами, называется фармакологом, то что уж говорить о враче, знающем травы со всех сторон!"
+        "text": "Если тот, кто знает применение и действие трав, пусть и не знакомый с их формами, называется фармакологом, то что уж говорить о враче, знающем травы со всех сторон!",
+        "text_en": "If one who knows the use and action of herbs, even without being familiar with their forms, is called a pharmacologist, then what is to be said of a physician who knows herbs from every side!"
       },
       {
         "type": "verse",
@@ -955,7 +1051,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "योगमासां तु यो विद्याद्देशकालोपपादितम्| पुरुषं पुरुषं वीक्ष्य स ज्ञेयो भिषगुत्तमः",
         "iast": "yōgamāsāṁ tu yō vidyāddēśakālōpapāditam| puruṣaṁ puruṣaṁ vīkṣya sa jñēyō bhiṣaguttamaḥ",
         "iast_ru": "йогама̄са̄м̣ ту йо видйа̄ддеш́ака̄лопапа̄дитам| пуруш̣ам̣ пуруш̣ам̣ вӣкш̣йа са джн̃ейо бхиш̣агуттамах̣",
-        "text": "Лучший из врачей тот, кто знает науку применения лекарств с должным учётом места обитания и времени года и кто применяет их лишь после обследования каждого пациента индивидуально."
+        "text": "Лучший из врачей тот, кто знает науку применения лекарств с должным учётом места обитания и времени года и кто применяет их лишь после обследования каждого пациента индивидуально.",
+        "text_en": "The best of physicians is the one who knows the science of the application of medicines with due regard to habitat and season, and who applies them only after examining each patient individually."
       },
       {
         "type": "comment",
@@ -973,7 +1070,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "यथा विषं यथा शस्त्रं यथाऽग्निरशनिर्यथा| तथौषधमविज्ञातं विज्ञातममृतं यथा",
         "iast": "yathā viṣaṁ yathā śastraṁ yathā'gniraśaniryathā| tathauṣadhamavijñātaṁ vijñātamamr̥taṁ yathā",
         "iast_ru": "йатха̄ виш̣ам̣ йатха̄ ш́астрам̣ йатха̄'гнираш́анирйатха̄| татхауш̣адхамавиджн̃а̄там̣ виджн̃а̄тамамр̣там̣ йатха̄",
-        "text": "Лекарство, понятое совершенно, может быть использовано как амрита (нектар бессмертия). Но использование лекарства, понятого несовершенно, может подействовать как яд, оружие, огонь или «удар молнии»."
+        "text": "Лекарство, понятое совершенно, может быть использовано как амрита (нектар бессмертия). Но использование лекарства, понятого несовершенно, может подействовать как яд, оружие, огонь или «удар молнии».",
+        "text_en": "A medicine, perfectly understood, can be used like amrita (the nectar of immortality). But the use of a medicine imperfectly understood can act like poison, a weapon, fire, or a \"thunderbolt.\""
       },
       {
         "type": "verse",
@@ -981,7 +1079,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "औषधं ह्यनभिज्ञातं नामरूपगुणैस्त्रिभिः| विज्ञातं चापि दुर्युक्तमनर्थायोपपद्यते",
         "iast": "auṣadhaṁ hyanabhijñātaṁ nāmarūpaguṇaistribhiḥ| vijñātaṁ cāpi duryuktamanarthāyōpapadyatē",
         "iast_ru": "ауш̣адхам̣ хйанабхиджн̃а̄там̣ на̄марӯпагун̣аистрибхих̣| виджн̃а̄там̣ ча̄пи дурйуктаманартха̄йопападйате",
-        "text": "Лекарство, название, форма и свойства которого неизвестны, или лекарство, хоть и известное, но применённое неправильно, несёт бедствие."
+        "text": "Лекарство, название, форма и свойства которого неизвестны, или лекарство, хоть и известное, но применённое неправильно, несёт бедствие.",
+        "text_en": "A medicine whose name, form and properties are unknown, or a medicine that, though known, is applied incorrectly, brings calamity."
       },
       {
         "type": "comment",
@@ -994,7 +1093,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "योगादपि विषं तीक्ष्णमुत्तमं भेषजं भवेत्| भेषजं चापि दुर्युक्तं तीक्ष्णं सम्पद्यते विषम्",
         "iast": "yōgādapi viṣaṁ tīkṣṇamuttamaṁ bhēṣajaṁ bhavēt| bhēṣajaṁ cāpi duryuktaṁ tīkṣṇaṁ sampadyatē viṣam",
         "iast_ru": "йога̄дапи виш̣ам̣ тӣкш̣н̣амуттамам̣ бхеш̣аджам̣ бхавет| бхеш̣аджам̣ ча̄пи дурйуктам̣ тӣкш̣н̣ам̣ сампадйате виш̣ам",
-        "text": "Даже сильнодействующий яд может быть обращён в превосходное лекарство при правильном приготовлении и применении. И наоборот, даже хорошее лекарство может подействовать как сильный яд при неправильном применении."
+        "text": "Даже сильнодействующий яд может быть обращён в превосходное лекарство при правильном приготовлении и применении. И наоборот, даже хорошее лекарство может подействовать как сильный яд при неправильном применении.",
+        "text_en": "Even a potent poison can be turned into an excellent medicine through correct preparation and application. Conversely, even a good medicine can act like a potent poison if applied incorrectly."
       },
       {
         "type": "verse",
@@ -1002,7 +1102,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "तस्मान्न भिषजा युक्तं युक्तिबाह्येन भेषजम्| धीमता किञ्चिदादेयं जीवितारोग्यकाङ्क्षिणा",
         "iast": "tasmānna bhiṣajā yuktaṁ yuktibāhyēna bhēṣajam| dhīmatā kiñcidādēyaṁ jīvitārōgyakāṅkṣiṇā",
         "iast_ru": "тасма̄нна бхиш̣аджа̄ йуктам̣ йуктиба̄хйена бхеш̣аджам| дхӣмата̄ кин̃чида̄дейам̣ джӣвита̄рогйака̄н̇кш̣ин̣а̄",
-        "text": "Поэтому разумный человек, желающий здоровья и долгой жизни, не должен принимать лекарство, назначенное врачом, совершенно незнакомым с применением лекарственных средств."
+        "text": "Поэтому разумный человек, желающий здоровья и долгой жизни, не должен принимать лекарство, назначенное врачом, совершенно незнакомым с применением лекарственных средств.",
+        "text_en": "Therefore a wise person who desires health and long life should not take medicine prescribed by a physician wholly unfamiliar with the use of medicinal substances."
       },
       {
         "type": "verse",
@@ -1010,7 +1111,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "कुर्यान्निपतितो मूर्ध्नि सशेषं वासवाशनिः| सशेषमातुरं कुर्यान्नत्वज्ञमतमौषधम्",
         "iast": "kuryānnipatitō mūrdhni saśēṣaṁ vāsavāśaniḥ| saśēṣamāturaṁ kuryānnatvajñamatamauṣadham",
         "iast_ru": "курйа̄ннипатито мӯрдхни саш́еш̣ам̣ ва̄сава̄ш́аних̣| саш́еш̣ама̄турам̣ курйа̄ннатваджн̃аматамауш̣адхам",
-        "text": "Можно пережить удар молнии в голову, но нельзя рассчитывать избежать смертельных последствий лекарств, назначенных невежественным врачом."
+        "text": "Можно пережить удар молнии в голову, но нельзя рассчитывать избежать смертельных последствий лекарств, назначенных невежественным врачом.",
+        "text_en": "One may survive a thunderbolt striking one's head, but one cannot expect to escape the fatal consequences of medicines prescribed by an ignorant physician."
       },
       {
         "type": "verse",
@@ -1018,7 +1120,8 @@ export const CHARAKA_DATA = [
         "sanskrit": "दुःखिताय शयानाय श्रद्दधानाय रोगिणे| यो भेषजमविज्ञाय प्राज्ञमानी प्रयच्छति त्यक्तधर्मस्य पापस्य मृत्युभूतस्य दुर्मतेः| नरो नरकपाती स्यात्तस्य सम्भाषणादपि",
         "iast": "duḥkhitāya śayānāya śraddadhānāya rōgiṇē| yō bhēṣajamavijñāya prājñamānī prayacchati tyaktadharmasya pāpasya mr̥tyubhūtasya durmatēḥ| narō narakapātī syāttasya sambhāṣaṇādapi",
         "iast_ru": "дух̣кхита̄йа ш́айа̄на̄йа ш́раддадха̄на̄йа рогин̣е| йо бхеш̣аджамавиджн̃а̄йа пра̄джн̃ама̄нӣ прайаччхати тйактадхармасйа па̄пасйа мр̣тйубхӯтасйа дурматех̣| наро наракапа̄тӣ сйа̄ттасйа самбха̄ш̣ан̣а̄дапи",
-        "text": "Тщеславный и лживый человек, шарлатан, если назначает лекарства больному прикованному к постели пациенту, который безоговорочно ему доверяет, такой шарлатан считается полностью уклоняющимся от своего долга, грешным, нечестивым и воплощением смерти. Даже простое общение с таким шарлатаном может привести человека в ад."
+        "text": "Тщеславный и лживый человек, шарлатан, если назначает лекарства больному прикованному к постели пациенту, который безоговорочно ему доверяет, такой шарлатан считается полностью уклоняющимся от своего долга, грешным, нечестивым и воплощением смерти. Даже простое общение с таким шарлатаном может привести человека в ад.",
+        "text_en": "A vain and dishonest person, a charlatan, who prescribes medicines to a bedridden patient who trusts him unconditionally, is regarded as one who has utterly abandoned his duty — sinful, impious, and the very embodiment of death. Even mere association with such a charlatan can lead a person to hell."
       },
       {
         "type": "verse",
