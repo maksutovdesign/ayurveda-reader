@@ -11183,7 +11183,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आदितो यच्च दुर्जातमस्थि सन्धिरथापि वा/ सम्यग्यमितमप्यस्थि दुर्न्यासाद्दुर्निबन्धनात्",
         "text": "[Также неизлечимы]: кость или сустав, изначально неудачно вправленные; а также кость, которая, даже будучи правильно вправленной, [расстраивается] из-за неправильного наложения или неправильной перевязки,",
         "iast": "ādito yacca durjātamasthi sandhirathāpi vā/ samyagyamitamapyasthi durnyāsāddurnibandhanāt",
-        "iast_ru": "а̄дито йачча дурджа̄тамастхи сандхиратха̄пи ва̄/ самйагйамитамапйастхи дурнйа̄са̄ддурнибандхана̄т"
+        "iast_ru": "а̄дито йачча дурджа̄тамастхи сандхиратха̄пи ва̄/ самйагйамитамапйастхи дурнйа̄са̄ддурнибандхана̄т",
+        "text_en": "[Also incurable]: a bone or joint that was initially poorly reduced; as well as a bone that, even having been correctly reduced, [becomes disturbed] due to improper bandaging or improper binding,"
       },
       {
         "type": "verse",
@@ -11191,7 +11192,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सङ्खोभाद्वा+अपि यद्गच्छेद्विक्रियाꣳ तच्च वर्जयेत्/ मध्यस्य वयसो+अवस्थास्तिस्रो याः परिकीर्तिताः",
         "text": "или же та, что вследствие тряски приходит в расстройство, — от неё также следует отказаться. Три состояния среднего возраста, которые были ранее описаны [в Сутрастхане], —",
         "iast": "saṅkhobhādvā+api yadgacchedvikriyāṁ tacca varjayet/ madhyasya vayaso+avasthāstisro yāḥ parikīrtitāḥ",
-        "iast_ru": "сан̇кхобха̄два̄+апи йадгаччхедвикрийа̄м̣ тачча варджайет/ мадхйасйа вайасо+авастха̄стисро йа̄х̣ парикӣртита̄х̣"
+        "iast_ru": "сан̇кхобха̄два̄+апи йадгаччхедвикрийа̄м̣ тачча варджайет/ мадхйасйа вайасо+авастха̄стисро йа̄х̣ парикӣртита̄х̣",
+        "text_en": "or that which, owing to jolting, becomes disturbed — this too should be abandoned. The three conditions of middle age that were described earlier [in the Sutrasthana],—"
       },
       {
         "type": "verse",
@@ -11199,7 +11201,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र स्थिरो भवेज्जन्तुरुपक्रान्तो विजानता/ तरुणास्थीनि नम्यन्ते भज्यन्ते नलकानि तु",
         "text": "— именно в них пациент, если его лечит знающий [врач], обретает устойчивость [благополучно выздоравливает]. Молодые [гибкие] кости сгибаются, тогда как трубчатые кости ломаются,",
         "iast": "tatra sthiro bhavejjanturupakrānto vijānatā/ taruṇāsthīni namyante bhajyante nalakāni tu",
-        "iast_ru": "татра стхиро бхаведжджантурупакра̄нто виджа̄ната̄/ тарун̣а̄стхӣни намйанте бхаджйанте налака̄ни ту"
+        "iast_ru": "татра стхиро бхаведжджантурупакра̄нто виджа̄ната̄/ тарун̣а̄стхӣни намйанте бхаджйанте налака̄ни ту",
+        "text_en": "— precisely in these the patient, if treated by a knowledgeable [physician], attains stability [recovers safely]. Young [pliant] bones bend, whereas tubular (long) bones break,"
       },
       {
         "type": "verse",
@@ -11207,7 +11210,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कपालान् विभिद्यन्ते स्फुटन्ति रुचकानि च",
         "text": "плоские же кости раскалываются, а кости [вида] Ручака трескаются. Так заканчивается глава о Нидане переломов и вывихов в Нидана-стхане Сушрута-самхиты.",
         "iast": "kapālān vibhidyante sphuṭanti rucakāni ca",
-        "iast_ru": "капа̄ла̄н вибхидйанте спхут̣анти ручака̄ни ча"
+        "iast_ru": "капа̄ла̄н вибхидйанте спхут̣анти ручака̄ни ча",
+        "text_en": "flat bones split, while bones of the Ruchaka type crack. Thus ends the chapter on the Nidana of fractures and dislocations in the Nidana-sthana of the Sushruta Samhita."
       }
     ]
   },
@@ -11229,7 +11233,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातो मुखरोगाणाꣳ निदानꣳ व्याख्यास्यामः",
         "text": "Итак, далее мы изложим Нидану (учение о причинах) болезней рта,",
         "iast": "athāto mukharogāṇāṁ nidānaṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄то мукхарога̄н̣а̄м̣ нида̄нам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄то мукхарога̄н̣а̄м̣ нида̄нам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now, next we shall set forth the Nidana (doctrine of causes) of the diseases of the mouth,"
       },
       {
         "type": "verse",
@@ -11237,7 +11242,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "как о том поведал Бхагаван Дханвантари.",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "as it was declared by Bhagavan Dhanvantari."
       },
       {
         "type": "verse",
@@ -11245,7 +11251,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मुखरोगाः पञ्चषष्टिर्भवन्ति सप्तस्वायतनेषु/ तत्रायतनानि ओष्ठौ, दन्तमूलानि, दन्ताः, जिह्वा, तालु, कण्ठः, सर्वाणि चेति/ तत्राष्टावोष्ठयोः, पञ्चदश दन्तमूलेषु, अष्टौ दन्तेषु, पञ्च जिह्वायाꣳ, नव तालुनि, सप्तदश कण्ठे, त्रयः सर्वेष्वायतनेषु",
         "text": "Болезней рта насчитывается шестьдесят пять, и поражают они семь вместилищ: губы, корни зубов, зубы, язык, нёбо, горло и всю полость рта в целом. Из них восемь приходится на губы, пятнадцать — на корни зубов, восемь — на зубы, пять — на язык, девять — на нёбо, семнадцать — на горло и три — на всю полость рта.",
         "iast": "mukharogāḥ pañcaṣaṣṭirbhavanti saptasvāyataneṣu/ tatrāyatanāni oṣṭhau, dantamūlāni, dantāḥ, jihvā, tālu, kaṇṭhaḥ, sarvāṇi ceti/ tatrāṣṭāvoṣṭhayoḥ, pañcadaśa dantamūleṣu, aṣṭau danteṣu, pañca jihvāyāṁ, nava tāluni, saptadaśa kaṇṭhe, trayaḥ sarveṣvāyataneṣu",
-        "iast_ru": "мукхарога̄х̣ пан̃чаш̣аш̣т̣ирбхаванти саптасва̄йатанеш̣у/ татра̄йатана̄ни ош̣т̣хау, дантамӯла̄ни, данта̄х̣, джихва̄, та̄лу, кан̣т̣хах̣, сарва̄н̣и чети/ татра̄ш̣т̣а̄вош̣т̣хайох̣, пан̃чадаш́а дантамӯлеш̣у, аш̣т̣ау дантеш̣у, пан̃ча джихва̄йа̄м̣, нава та̄луни, саптадаш́а кан̣т̣хе, трайах̣ сарвеш̣ва̄йатанеш̣у"
+        "iast_ru": "мукхарога̄х̣ пан̃чаш̣аш̣т̣ирбхаванти саптасва̄йатанеш̣у/ татра̄йатана̄ни ош̣т̣хау, дантамӯла̄ни, данта̄х̣, джихва̄, та̄лу, кан̣т̣хах̣, сарва̄н̣и чети/ татра̄ш̣т̣а̄вош̣т̣хайох̣, пан̃чадаш́а дантамӯлеш̣у, аш̣т̣ау дантеш̣у, пан̃ча джихва̄йа̄м̣, нава та̄луни, саптадаш́а кан̣т̣хе, трайах̣ сарвеш̣ва̄йатанеш̣у",
+        "text_en": "Diseases of the mouth number sixty-five, and they afflict seven seats: the lips, the roots of the teeth, the teeth, the tongue, the palate, the throat, and the mouth-cavity as a whole. Of these, eight occur in the lips, fifteen in the roots of the teeth, eight in the teeth, five in the tongue, nine in the palate, seventeen in the throat, and three in the mouth-cavity as a whole."
       },
       {
         "type": "verse",
@@ -11253,7 +11260,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्रौष्ठप्रकोपा वातपित्तश्लेष्मसन्निपातरक्तमाꣳसमेदोभिघातनिमित्ताः",
         "text": "Заболевания губ вызываются Ватой, Питтой, Капхой, Саннипатой (совместным расстройством трёх дош), кровью, мясом (мышечной тканью), жиром или травмой (ударом) — таковы восемь их причин.",
         "iast": "tatrauṣṭhaprakopā vātapittaśleṣmasannipātaraktamāṁsamedobhighātanimittāḥ",
-        "iast_ru": "татрауш̣т̣хапракопа̄ ва̄тапитташ́леш̣масаннипа̄тарактама̄м̣самедобхигха̄танимитта̄х̣"
+        "iast_ru": "татрауш̣т̣хапракопа̄ ва̄тапитташ́леш̣масаннипа̄тарактама̄м̣самедобхигха̄танимитта̄х̣",
+        "text_en": "Diseases of the lips are caused by Vata, Pitta, Kapha, Sannipata (the combined disorder of the three doshas), blood, flesh (muscle tissue), fat, or trauma (a blow) — these are their eight causes."
       },
       {
         "type": "verse",
@@ -11261,7 +11269,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कर्कशौ परुषौ स्तब्धौ कृष्णौ तीव्ररुगन्वितौ/ दाल्येते परिपाठ्येते ह्योष्ठौ मारुतकोपतः",
         "text": "При возбуждении Вата губы становятся шершавыми, жёсткими, оцепеневшими, чёрными, охваченными сильной болью; они трескаются и как бы расщепляются.",
         "iast": "karkaśau paruṣau stabdhau kṛṣṇau tīvraruganvitau/ dālyete paripāṭhyete hyoṣṭhau mārutakopataḥ",
-        "iast_ru": "каркаш́ау паруш̣ау стабдхау кр̣ш̣н̣ау тӣвраруганвитау/ да̄лйете парипа̄т̣хйете хйош̣т̣хау ма̄рутакопатах̣"
+        "iast_ru": "каркаш́ау паруш̣ау стабдхау кр̣ш̣н̣ау тӣвраруганвитау/ да̄лйете парипа̄т̣хйете хйош̣т̣хау ма̄рутакопатах̣",
+        "text_en": "When Vata is aggravated, the lips become rough, hard, numb, black, seized with severe pain; they crack and appear as if split."
       },
       {
         "type": "verse",
@@ -11269,7 +11278,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आचितौ पिडाकाभिस्तु सर्षपाकृतिभिर्भृशम्/ सदाहपाकसꣳस्रावौ नीलौ पीतौ च पित्ततः",
         "text": "При Питте губы густо покрываются высыпаниями, похожими по форме на горчичные зёрна, сопровождаются жжением, нагноением и истечением, синеют либо желтеют.",
         "iast": "ācitau piḍākābhistu sarṣapākṛtibhirbhṛśam/ sadāhapākasaṁsrāvau nīlau pītau ca pittataḥ",
-        "iast_ru": "а̄читау пид̣а̄ка̄бхисту сарш̣апа̄кр̣тибхирбхр̣ш́ам/ сада̄хапа̄касам̣сра̄вау нӣлау пӣтау ча питтатах̣"
+        "iast_ru": "а̄читау пид̣а̄ка̄бхисту сарш̣апа̄кр̣тибхирбхр̣ш́ам/ сада̄хапа̄касам̣сра̄вау нӣлау пӣтау ча питтатах̣",
+        "text_en": "In Pitta disorders, the lips become thickly covered with eruptions resembling mustard seeds in shape, accompanied by burning, suppuration and discharge, and turn blue or yellow."
       },
       {
         "type": "verse",
@@ -11277,7 +11287,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सवर्णाभिस्तु चीयेते पिडकाभिरवेदनौ/ कण्डूमन्तौ कफाच्छूनौ पिच्छिलौ शीतलौ गुरू",
         "text": "При Капхе губы покрываются безболезненными высыпаниями того же цвета, что и окружающая кожа, зудят, отекают, становятся слизистыми, холодными и тяжёлыми.",
         "iast": "savarṇābhistu cīyete piḍakābhiravedanau/ kaṇḍūmantau kaphācchūnau picchilau śītalau gurū",
-        "iast_ru": "саварн̣а̄бхисту чӣйете пид̣ака̄бхираведанау/ кан̣д̣ӯмантау капха̄ччхӯнау пиччхилау ш́ӣталау гурӯ"
+        "iast_ru": "саварн̣а̄бхисту чӣйете пид̣ака̄бхираведанау/ кан̣д̣ӯмантау капха̄ччхӯнау пиччхилау ш́ӣталау гурӯ",
+        "text_en": "In Kapha disorders, the lips become covered with painless eruptions the same color as the surrounding skin, itch, swell, become slimy, cold and heavy."
       },
       {
         "type": "verse",
@@ -11285,7 +11296,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सकृत् कृष्णौ सकृत् पीतौ सकृच्छ्वेतौ तथैव च/ सन्निपातेन विज्ञेयावनेकपिडिकाचितौ",
         "text": "При Саннипате (одновременном расстройстве трёх дош) губы то чернеют, то желтеют, то белеют и, как известно, густо покрываются множеством различных высыпаний.",
         "iast": "sakṛt kṛṣṇau sakṛt pītau sakṛcchvetau tathaiva ca/ sannipātena vijñeyāvanekapiḍikācitau",
-        "iast_ru": "сакр̣т кр̣ш̣н̣ау сакр̣т пӣтау сакр̣ччхветау татхаива ча/ саннипа̄тена виджн̃ейа̄ванекапид̣ика̄читау"
+        "iast_ru": "сакр̣т кр̣ш̣н̣ау сакр̣т пӣтау сакр̣ччхветау татхаива ча/ саннипа̄тена виджн̃ейа̄ванекапид̣ика̄читау",
+        "text_en": "In Sannipata (simultaneous disorder of the three doshas) the lips alternately blacken, yellow, and whiten, and, as is known, become thickly covered with numerous varied eruptions."
       },
       {
         "type": "verse",
@@ -11293,7 +11305,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "खर्जूरफलवर्णाभिः पिडकाभिः समाचितौ/ रक्तोपसृष्टौ रुधिरꣳ स्रवतः शोणितप्रभौ",
         "text": "От расстройства крови губы покрываются высыпаниями цвета плода финика, кровоточат и приобретают кровяной оттенок.",
         "iast": "kharjūraphalavarṇābhiḥ piḍakābhiḥ samācitau/ raktopasṛṣṭau rudhiraṁ sravataḥ śoṇitaprabhau",
-        "iast_ru": "кхарджӯрапхалаварн̣а̄бхих̣ пид̣ака̄бхих̣ сама̄читау/ рактопаср̣ш̣т̣ау рудхирам̣ сраватах̣ ш́он̣итапрабхау"
+        "iast_ru": "кхарджӯрапхалаварн̣а̄бхих̣ пид̣ака̄бхих̣ сама̄читау/ рактопаср̣ш̣т̣ау рудхирам̣ сраватах̣ ш́он̣итапрабхау",
+        "text_en": "From disorder of the blood, the lips become covered with eruptions the color of date fruit, bleed, and take on a bloody hue."
       },
       {
         "type": "verse",
@@ -11301,7 +11314,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मासदुष्टौ गुरू स्थूलौ माꣳसपिण्डवदुद्गतौ/ जन्तवश्चात्र मूर्च्छन्ति सृक्कस्योभयतो मुखात्",
         "text": "От порчи мышечной ткани губы становятся тяжёлыми, толстыми, выступают наподобие мясистого комка; в углах рта, с обеих сторон, скапливаются (размножаются) паразиты.",
         "iast": "māsaduṣṭau gurū sthūlau māṁsapiṇḍavadudgatau/ jantavaścātra mūrcchanti sṛkkasyobhayato mukhāt",
-        "iast_ru": "ма̄садуш̣т̣ау гурӯ стхӯлау ма̄м̣сапин̣д̣авадудгатау/ джантаваш́ча̄тра мӯрччханти ср̣ккасйобхайато мукха̄т"
+        "iast_ru": "ма̄садуш̣т̣ау гурӯ стхӯлау ма̄м̣сапин̣д̣авадудгатау/ джантаваш́ча̄тра мӯрччханти ср̣ккасйобхайато мукха̄т",
+        "text_en": "From corruption of the muscle tissue, the lips become heavy, thick, protruding like a fleshy lump; at the corners of the mouth, on both sides, parasites gather and multiply."
       },
       {
         "type": "verse",
@@ -11309,7 +11323,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मेदसा घृतमण्डाभौ कण्डूमन्तौ स्थिरौ मृदू अच्छꣳ स्फटिकसङ्काशमास्रावꣳ स्रवयो गुरू",
         "text": "От жира губы уподобляются пене растопленного масла, зудят, становятся плотными и мягкими, выделяют прозрачное, подобное кристаллу истечение, и становятся тяжёлыми.",
         "iast": "medasā ghṛtamaṇḍābhau kaṇḍūmantau sthirau mṛdū acchaṁ sphaṭikasaṅkāśamāsrāvaṁ sravayo gurū",
-        "iast_ru": "медаса̄ гхр̣таман̣д̣а̄бхау кан̣д̣ӯмантау стхирау мр̣дӯ аччхам̣ спхат̣икасан̇ка̄ш́ама̄сра̄вам̣ сравайо гурӯ"
+        "iast_ru": "медаса̄ гхр̣таман̣д̣а̄бхау кан̣д̣ӯмантау стхирау мр̣дӯ аччхам̣ спхат̣икасан̇ка̄ш́ама̄сра̄вам̣ сравайо гурӯ",
+        "text_en": "From fat, the lips come to resemble the froth of melted ghee, itch, become dense and soft, exude a clear, crystal-like discharge, and become heavy."
       },
       {
         "type": "verse",
@@ -11317,7 +11332,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "क्षतजाभौ विदीर्येते पाठ्येते चाभिघाततः/ ग्रथितौ च समाख्यातावोष्ठौ कण्डूसमन्वितौ",
         "text": "От травмы губы, уподобившись сгустку крови, разрываются и растрескиваются; они становятся, как говорят, узловатыми и сопровождаются зудом.",
         "iast": "kṣatajābhau vidīryete pāṭhyete cābhighātataḥ/ grathitau ca samākhyātāvoṣṭhau kaṇḍūsamanvitau",
-        "iast_ru": "кш̣атаджа̄бхау видӣрйете па̄т̣хйете ча̄бхигха̄татах̣/ гратхитау ча сама̄кхйа̄та̄вош̣т̣хау кан̣д̣ӯсаманвитау"
+        "iast_ru": "кш̣атаджа̄бхау видӣрйете па̄т̣хйете ча̄бхигха̄татах̣/ гратхитау ча сама̄кхйа̄та̄вош̣т̣хау кан̣д̣ӯсаманвитау",
+        "text_en": "From trauma, the lips, having become like a clot of blood, tear and crack; they become, as it is said, knotted and are accompanied by itching."
       },
       {
         "type": "verse",
@@ -11325,7 +11341,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दन्तमूलगतास्तु शीतादो, दन्तपुप्पुटको, दन्तवेष्टकः, शौषिरो, महाशौषिरः, परिदर, उपकुशो, दन्तवैदर्भो, वर्धनः, अधिमाꣳसो, नाड्यः पञ्चेति",
         "text": "Болезни, поражающие корни зубов, суть: Шитада, Данта-пуппутака, Данта-вештака, Шаушира, Маха-шаушира, Паридара, Упакуша, Данта-вайдарбха, Вардхана, Адхиманса и пять видов Нади (свищей) — всего пятнадцать.",
         "iast": "dantamūlagatāstu śītādo, dantapuppuṭako, dantaveṣṭakaḥ, śauṣiro, mahāśauṣiraḥ, paridara, upakuśo, dantavaidarbho, vardhanaḥ, adhimāṁso, nāḍyaḥ pañceti",
-        "iast_ru": "дантамӯлагата̄сту ш́ӣта̄до, дантапуппут̣ако, дантавеш̣т̣аках̣, ш́ауш̣иро, маха̄ш́ауш̣ирах̣, паридара, упакуш́о, дантаваидарбхо, вардханах̣, адхима̄м̣со, на̄д̣йах̣ пан̃чети"
+        "iast_ru": "дантамӯлагата̄сту ш́ӣта̄до, дантапуппут̣ако, дантавеш̣т̣аках̣, ш́ауш̣иро, маха̄ш́ауш̣ирах̣, паридара, упакуш́о, дантаваидарбхо, вардханах̣, адхима̄м̣со, на̄д̣йах̣ пан̃чети",
+        "text_en": "The diseases affecting the roots of the teeth are: Sitada, Dantapupputaka, Dantaveshtaka, Shaushira, Mahashaushira, Paridara, Upakusha, Dantavaidarbha, Vardhana, Adhimamsa, and the five kinds of Nadi (fistulas) — fifteen in all."
       },
       {
         "type": "verse",
@@ -11333,7 +11350,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शोणितꣳ दन्तवेष्टेभ्यो यस्याकस्मात् प्रवर्तते/ दुर्गन्धीनि सकृष्णानि प्रक्लेदीनि मृदूनि च",
         "text": "Заболевание, при котором из десен, охватывающих зубы, внезапно начинает течь кровь, а сами десны становятся зловонными, чернеющими, размягчёнными и влажными,",
         "iast": "śoṇitaṁ dantaveṣṭebhyo yasyākasmāt pravartate/ durgandhīni sakṛṣṇāni prakledīni mṛdūni ca",
-        "iast_ru": "ш́он̣итам̣ дантавеш̣т̣ебхйо йасйа̄касма̄т правартате/ дургандхӣни сакр̣ш̣н̣а̄ни пракледӣни мр̣дӯни ча"
+        "iast_ru": "ш́он̣итам̣ дантавеш̣т̣ебхйо йасйа̄касма̄т правартате/ дургандхӣни сакр̣ш̣н̣а̄ни пракледӣни мр̣дӯни ча",
+        "text_en": "The disease in which blood suddenly begins to flow from the gums surrounding the teeth, and the gums themselves become foul-smelling, blackened, softened and moist,"
       },
       {
         "type": "verse",
@@ -11341,7 +11359,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दन्तमाꣳसानि शीर्यन्ते पचन्ति च परस्परम्/ शीतादो नाम स व्याधिः कफशोणितसꣳभवः",
         "text": "так что десневая ткань разрушается и загнивает в разных местах, — эта болезнь называется Шитада и возникает от расстройства Капхи и крови.",
         "iast": "dantamāṁsāni śīryante pacanti ca parasparam/ śītādo nāma sa vyādhiḥ kaphaśoṇitasaṁbhavaḥ",
-        "iast_ru": "дантама̄м̣са̄ни ш́ӣрйанте пачанти ча параспарам/ ш́ӣта̄до на̄ма са вйа̄дхих̣ капхаш́он̣итасам̣бхавах̣"
+        "iast_ru": "дантама̄м̣са̄ни ш́ӣрйанте пачанти ча параспарам/ ш́ӣта̄до на̄ма са вйа̄дхих̣ капхаш́он̣итасам̣бхавах̣",
+        "text_en": "so that the gum tissue is destroyed and putrefies in various places — this disease is called Sitada and arises from disorder of Kapha and blood."
       },
       {
         "type": "verse",
@@ -11349,7 +11368,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दन्तयोस्त्रिषु वा यस्य श्वयथुः सरुजो महान्/ दन्तपुप्पुटको ज्ञेयः कफरक्तनिमित्तजः",
         "text": "Болезнь, при которой у двух или трёх зубов возникает большая болезненная припухлость, известна как Данта-пуппутака; она вызывается расстройством Капхи и крови.",
         "iast": "dantayostriṣu vā yasya śvayathuḥ sarujo mahān/ dantapuppuṭako jñeyaḥ kapharaktanimittajaḥ",
-        "iast_ru": "дантайостриш̣у ва̄ йасйа ш́вайатхух̣ саруджо маха̄н/ дантапуппут̣ако джн̃ейах̣ капхарактанимиттаджах̣"
+        "iast_ru": "дантайостриш̣у ва̄ йасйа ш́вайатхух̣ саруджо маха̄н/ дантапуппут̣ако джн̃ейах̣ капхарактанимиттаджах̣",
+        "text_en": "The disease in which a large, painful swelling arises at two or three teeth is known as Dantapupputaka; it is caused by disorder of Kapha and blood."
       },
       {
         "type": "verse",
@@ -11357,7 +11377,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्रवन्ति पूयरुधिरꣳ चला दन्ता भवन्ति च/ दन्तवेष्टः स विज्ञेयो दुष्टशोणितसꣳभवः",
         "text": "Когда десны выделяют гной вместе с кровью и зубы становятся подвижными, это состояние следует признать Данта-вештакой, возникающей от порчи крови.",
         "iast": "sravanti pūyarudhiraṁ calā dantā bhavanti ca/ dantaveṣṭaḥ sa vijñeyo duṣṭaśoṇitasaṁbhavaḥ",
-        "iast_ru": "сраванти пӯйарудхирам̣ чала̄ данта̄ бхаванти ча/ дантавеш̣т̣ах̣ са виджн̃ейо душ̣т̣аш́он̣итасам̣бхавах̣"
+        "iast_ru": "сраванти пӯйарудхирам̣ чала̄ данта̄ бхаванти ча/ дантавеш̣т̣ах̣ са виджн̃ейо душ̣т̣аш́он̣итасам̣бхавах̣",
+        "text_en": "When the gums discharge pus together with blood and the teeth become mobile, this condition should be recognized as Dantaveshtaka, arising from corruption of the blood."
       },
       {
         "type": "verse",
@@ -11365,7 +11386,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "श्वयथुर्दन्तमूलेषु रुजावान् कफरक्तजः/ लालास्रावी स विज्ञेयः कण्डूमाञ् शौषिरो गदः",
         "text": "Болезненная припухлость в корнях зубов, вызванная Капхой и кровью, сопровождающаяся слюнотечением и зудом, известна как Шаушира.",
         "iast": "śvayathurdantamūleṣu rujāvān kapharaktajaḥ/ lālāsrāvī sa vijñeyaḥ kaṇḍūmāñ śauṣiro gadaḥ",
-        "iast_ru": "ш́вайатхурдантамӯлеш̣у руджа̄ва̄н капхарактаджах̣/ ла̄ла̄сра̄вӣ са виджн̃ейах̣ кан̣д̣ӯма̄н̃ ш́ауш̣иро гадах̣"
+        "iast_ru": "ш́вайатхурдантамӯлеш̣у руджа̄ва̄н капхарактаджах̣/ ла̄ла̄сра̄вӣ са виджн̃ейах̣ кан̣д̣ӯма̄н̃ ш́ауш̣иро гадах̣",
+        "text_en": "A painful swelling at the roots of the teeth, caused by Kapha and blood, accompanied by salivation and itching, is known as Shaushira."
       },
       {
         "type": "verse",
@@ -11373,7 +11395,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दन्ताश्चलन्ति वेष्टेभ्यस्तालु चाप्यवदीर्यते/ दन्तमाꣳसानि पच्यन्ते मुखꣳ च परिपीड्यते",
         "text": "Когда зубы расшатываются в дёснах, нёбо также разрушается (растрескивается), десневая ткань нагнаивается, а вся полость рта охватывается тягостным недугом,",
         "iast": "dantāścalanti veṣṭebhyastālu cāpyavadīryate/ dantamāṁsāni pacyante mukhaṁ ca paripīḍyate",
-        "iast_ru": "данта̄ш́чаланти веш̣т̣ебхйаста̄лу ча̄пйавадӣрйате/ дантама̄м̣са̄ни пачйанте мукхам̣ ча парипӣд̣йате"
+        "iast_ru": "данта̄ш́чаланти веш̣т̣ебхйаста̄лу ча̄пйавадӣрйате/ дантама̄м̣са̄ни пачйанте мукхам̣ ча парипӣд̣йате",
+        "text_en": "When the teeth become loosened in the gums, the palate also becomes disrupted and cracks, the gum tissue suppurates, and the entire mouth-cavity is seized by a distressing affliction,"
       },
       {
         "type": "verse",
@@ -11381,7 +11404,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यस्मिन् स सर्वजो व्याधिर्महाशौषिरसꣳज्ञकः/ दन्तमाꣳसानि शीर्यन्ते यस्मिन् ष्ठीवति चाप्यसृक्",
         "text": "эта болезнь, поражающая все названные части, называется Маха-шаушира. Болезнь же, при которой десневая ткань разрушается и при плевке выделяется кровь,",
         "iast": "yasmin sa sarvajo vyādhirmahāśauṣirasaṁjñakaḥ/ dantamāṁsāni śīryante yasmin ṣṭhīvati cāpyasṛk",
-        "iast_ru": "йасмин са сарваджо вйа̄дхирмаха̄ш́ауш̣ирасам̣джн̃аках̣/ дантама̄м̣са̄ни ш́ӣрйанте йасмин ш̣т̣хӣвати ча̄пйаср̣к"
+        "iast_ru": "йасмин са сарваджо вйа̄дхирмаха̄ш́ауш̣ирасам̣джн̃аках̣/ дантама̄м̣са̄ни ш́ӣрйанте йасмин ш̣т̣хӣвати ча̄пйаср̣к",
+        "text_en": "this disease, afflicting all the aforementioned parts, is called Mahashaushira. The disease in which the gum tissue is destroyed and blood is discharged upon spitting,"
       },
       {
         "type": "verse",
@@ -11389,7 +11413,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पित्तासृक्कफजो व्याधिर्ज्ञेयः परिदरो हि सः/ चेष्टेषु दाहः पाकश्च तेभ्यो दन्ताश्चलन्ति च",
         "text": "вызванная Питтой, кровью и Капхой, известна как Паридара. Заболевание же, при котором в дёснах возникает жжение и нагноение, вследствие чего зубы шатаются,",
         "iast": "pittāsṛkkaphajo vyādhirjñeyaḥ paridaro hi saḥ/ ceṣṭeṣu dāhaḥ pākaśca tebhyo dantāścalanti ca",
-        "iast_ru": "питта̄ср̣ккапхаджо вйа̄дхирджн̃ейах̣ паридаро хи сах̣/ чеш̣т̣еш̣у да̄хах̣ па̄каш́ча тебхйо данта̄ш́чаланти ча"
+        "iast_ru": "питта̄ср̣ккапхаджо вйа̄дхирджн̃ейах̣ паридаро хи сах̣/ чеш̣т̣еш̣у да̄хах̣ па̄каш́ча тебхйо данта̄ш́чаланти ча",
+        "text_en": "caused by Pitta, blood and Kapha, is known as Paridara. The disease in which burning and suppuration arise in the gums, as a result of which the teeth become loose,"
       },
       {
         "type": "verse",
@@ -11397,7 +11422,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आघट्टिताः प्रस्रवन्ति शोणितꣳ मन्दवेदनाः/ आध्मायन्ते स्रुते रक्ते मुखꣳ पूति च जायते",
         "text": "а при прикосновении десны кровоточат при умеренной боли, после же истечения крови вздуваются, и рот становится зловонным, —",
         "iast": "āghaṭṭitāḥ prasravanti śoṇitaṁ mandavedanāḥ/ ādhmāyante srute rakte mukhaṁ pūti ca jāyate",
-        "iast_ru": "а̄гхат̣т̣ита̄х̣ прасраванти ш́он̣итам̣ мандаведана̄х̣/ а̄дхма̄йанте сруте ракте мукхам̣ пӯти ча джа̄йате"
+        "iast_ru": "а̄гхат̣т̣ита̄х̣ прасраванти ш́он̣итам̣ мандаведана̄х̣/ а̄дхма̄йанте сруте ракте мукхам̣ пӯти ча джа̄йате",
+        "text_en": "and upon touch the gums bleed with moderate pain, and after the blood is discharged they swell up, and the mouth becomes foul-smelling —"
       },
       {
         "type": "verse",
@@ -11405,7 +11431,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यस्मिन्नुपकुशः स स्यात् पित्तरक्तकृतो गदः/ घृष्टेषु दन्तमूलेषु सꣳरम्भो जायते महान्",
         "text": "так возникает недуг Упакуша, вызванный Питтой и кровью. Заболевание, при котором от натирания (трения) корней зубов возникает сильное воспаление,",
         "iast": "yasminnupakuśaḥ sa syāt pittaraktakṛto gadaḥ/ ghṛṣṭeṣu dantamūleṣu saṁrambho jāyate mahān",
-        "iast_ru": "йасминнупакуш́ах̣ са сйа̄т питтарактакр̣то гадах̣/ гхр̣ш̣т̣еш̣у дантамӯлеш̣у сам̣рамбхо джа̄йате маха̄н"
+        "iast_ru": "йасминнупакуш́ах̣ са сйа̄т питтарактакр̣то гадах̣/ гхр̣ш̣т̣еш̣у дантамӯлеш̣у сам̣рамбхо джа̄йате маха̄н",
+        "text_en": "thus arises the affliction Upakusha, caused by Pitta and blood. The disease in which severe inflammation arises from rubbing (friction) of the roots of the teeth,"
       },
       {
         "type": "verse",
@@ -11413,7 +11440,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति च चला दन्ताः स वैदर्भो+अभिघातजः/ मारुतेनाधिको दन्तो जायते तीव्रवेदनः",
         "text": "и зубы становятся подвижными, — это Вайдарбха, вызванная травмой. Заболевание же, при котором от избытка Вата зуб чрезмерно выступает, сопровождаясь сильной болью,",
         "iast": "bhavanti ca calā dantāḥ sa vaidarbho+abhighātajaḥ/ mārutenādhiko danto jāyate tīvravedanaḥ",
-        "iast_ru": "бхаванти ча чала̄ данта̄х̣ са ваидарбхо+абхигха̄таджах̣/ ма̄рутена̄дхико данто джа̄йате тӣвраведанах̣"
+        "iast_ru": "бхаванти ча чала̄ данта̄х̣ са ваидарбхо+абхигха̄таджах̣/ ма̄рутена̄дхико данто джа̄йате тӣвраведанах̣",
+        "text_en": "and the teeth become mobile — this is Vaidarbha, caused by trauma. The disease in which, from excess of Vata, a tooth protrudes excessively, accompanied by severe pain,"
       },
       {
         "type": "verse",
@@ -11421,7 +11449,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वर्धनः स मतो व्याधिर्जाते रुक् च प्रशाम्यति/ हानव्ये पश्चिमे दन्ते महाञ्छोथो महारुजः",
         "text": "называется Вардхана, и боль стихает по его возникновении. Заболевание, при котором у заднего (коренного) зуба возникает большая, весьма болезненная опухоль,",
         "iast": "vardhanaḥ sa mato vyādhirjāte ruk ca praśāmyati/ hānavye paścime dante mahāñchotho mahārujaḥ",
-        "iast_ru": "вардханах̣ са мато вйа̄дхирджа̄те рук ча праш́а̄мйати/ ха̄навйе паш́чиме данте маха̄н̃чхотхо маха̄руджах̣"
+        "iast_ru": "вардханах̣ са мато вйа̄дхирджа̄те рук ча праш́а̄мйати/ ха̄навйе паш́чиме данте маха̄н̃чхотхо маха̄руджах̣",
+        "text_en": "is called Vardhana, and the pain subsides once it has fully arisen. The disease in which a large, very painful swelling arises at a back (molar) tooth,"
       },
       {
         "type": "verse",
@@ -11429,7 +11458,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "लालास्रावी कफकृतो विज्ञेयः सो+अधिमाꣳसकः/ दन्तमूलगता नाड्यः पञ्च ज्ञेया यथेरिताः",
         "text": "сопровождающаяся слюнотечением и вызванная Капхой, известна как Адхиманса. Свищи (Нади), поражающие корни зубов, следует знать в числе пяти, как было указано.",
         "iast": "lālāsrāvī kaphakṛto vijñeyaḥ so+adhimāṁsakaḥ/ dantamūlagatā nāḍyaḥ pañca jñeyā yatheritāḥ",
-        "iast_ru": "ла̄ла̄сра̄вӣ капхакр̣то виджн̃ейах̣ со+адхима̄м̣саках̣/ дантамӯлагата̄ на̄д̣йах̣ пан̃ча джн̃ейа̄ йатхерита̄х̣"
+        "iast_ru": "ла̄ла̄сра̄вӣ капхакр̣то виджн̃ейах̣ со+адхима̄м̣саках̣/ дантамӯлагата̄ на̄д̣йах̣ пан̃ча джн̃ейа̄ йатхерита̄х̣",
+        "text_en": "accompanied by salivation and caused by Kapha, is known as Adhimamsa. The fistulas (Nadi) affecting the roots of the teeth should be known to number five, as has been stated."
       },
       {
         "type": "verse",
@@ -11437,7 +11467,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दन्तगतास्तु दालनः, क्रिमिदन्तको, दन्तहर्षो, भञ्जनकः, दन्तशर्करा, कपालिका, श्यावदन्तको, हनुमोक्षश्चेति",
         "text": "Болезни, поражающие сами зубы, суть: Далана, Крими-дантака, Данта-харша, Бханджака, Данта-шаркара, Капалика, Шьява-дантака и Хану-мокша.",
         "iast": "dantagatāstu dālanaḥ, krimidantako, dantaharṣo, bhañjanakaḥ, dantaśarkarā, kapālikā, śyāvadantako, hanumokṣaśceti",
-        "iast_ru": "дантагата̄сту да̄ланах̣, кримидантако, дантахарш̣о, бхан̃джанаках̣, данташ́аркара̄, капа̄лика̄, ш́йа̄вадантако, ханумокш̣аш́чети"
+        "iast_ru": "дантагата̄сту да̄ланах̣, кримидантако, дантахарш̣о, бхан̃джанаках̣, данташ́аркара̄, капа̄лика̄, ш́йа̄вадантако, ханумокш̣аш́чети",
+        "text_en": "The diseases affecting the teeth themselves are: Dalana, Krimidantaka, Dantaharsha, Bhanjaka, Dantasharkara, Kapalika, Shyavadantaka, and Hanumoksha."
       },
       {
         "type": "verse",
@@ -11445,7 +11476,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दाल्यन्ते बहुधा दन्ता यस्मिꣳस्तीव्ररुगन्विताः/ दालनः स इति ज्ञेयः सदागतिनिमित्तजः",
         "text": "Заболевание, при котором зубы во многих местах трескаются (раскалываются), сопровождаясь сильной болью, известно как Далана; оно возникает от расстройства Вата, вечно движущегося.",
         "iast": "dālyante bahudhā dantā yasmiṁstīvraruganvitāḥ/ dālanaḥ sa iti jñeyaḥ sadāgatinimittajaḥ",
-        "iast_ru": "да̄лйанте бахудха̄ данта̄ йасмим̣стӣвраруганвита̄х̣/ да̄ланах̣ са ити джн̃ейах̣ сада̄гатинимиттаджах̣"
+        "iast_ru": "да̄лйанте бахудха̄ данта̄ йасмим̣стӣвраруганвита̄х̣/ да̄ланах̣ са ити джн̃ейах̣ сада̄гатинимиттаджах̣",
+        "text_en": "The disease in which the teeth crack (split) in many places, accompanied by severe pain, is known as Dalana; it arises from disorder of Vata, ever in motion."
       },
       {
         "type": "verse",
@@ -11453,7 +11485,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कृष्णश्च्छिद्री चलः स्रावी सस्ꣳरम्भो महारुजः/ अनिमित्तरुजो वाताद्विज्ञेयः कृमिदन्तकः",
         "text": "Когда зуб чернеет, становится источенным (с полостями), подвижным, выделяет [гнойное], воспаляется, вызывает сильную боль, а боль эта возникает без видимой причины, — от Вата и червей — таков признак Крими-дантаки.",
         "iast": "kṛṣṇaścchidrī calaḥ srāvī sasṁrambho mahārujaḥ/ animittarujo vātādvijñeyaḥ kṛmidantakaḥ",
-        "iast_ru": "кр̣ш̣н̣аш́ччхидрӣ чалах̣ сра̄вӣ сасм̣рамбхо маха̄руджах̣/ анимиттаруджо ва̄та̄двиджн̃ейах̣ кр̣мидантаках̣"
+        "iast_ru": "кр̣ш̣н̣аш́ччхидрӣ чалах̣ сра̄вӣ сасм̣рамбхо маха̄руджах̣/ анимиттаруджо ва̄та̄двиджн̃ейах̣ кр̣мидантаках̣",
+        "text_en": "When a tooth blackens, becomes worm-eaten (cavitated), mobile, discharges [pus], becomes inflamed, and causes severe pain that arises without visible cause — from Vata and worms — such is the sign of Krimidantaka."
       },
       {
         "type": "verse",
@@ -11461,7 +11494,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शीतमुष्णꣳ च दशनाः सहन्ते स्पर्शनꣳ न च/ यस्य तꣳ दन्तहर्षꣳ तु व्याधिꣳ विद्यात् समीरणात्",
         "text": "Заболевание, при котором зубы не выносят ни холода, ни тепла, ни прикосновения, следует признать Данта-харшей, вызванной Вата.",
         "iast": "śītamuṣṇaṁ ca daśanāḥ sahante sparśanaṁ na ca/ yasya taṁ dantaharṣaṁ tu vyādhiṁ vidyāt samīraṇāt",
-        "iast_ru": "ш́ӣтамуш̣н̣ам̣ ча даш́ана̄х̣ саханте спарш́анам̣ на ча/ йасйа там̣ дантахарш̣ам̣ ту вйа̄дхим̣ видйа̄т самӣран̣а̄т"
+        "iast_ru": "ш́ӣтамуш̣н̣ам̣ ча даш́ана̄х̣ саханте спарш́анам̣ на ча/ йасйа там̣ дантахарш̣ам̣ ту вйа̄дхим̣ видйа̄т самӣран̣а̄т",
+        "text_en": "The disease in which the teeth cannot bear cold, heat, or touch should be recognized as Dantaharsha, caused by Vata."
       },
       {
         "type": "verse",
@@ -11469,7 +11503,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वक्त्रꣳ वक्रꣳ भवेद्यस्मिन् दन्तभङ्गश्च तीव्ररुक्/ कफवातकृतो व्याधिः स भञ्जनकसꣳज्ञितः",
         "text": "Заболевание, при котором лицо искажается (перекошено), а зубы разрушаются с сильной болью, вызвано Капхой и Вата и называется Бханджака.",
         "iast": "vaktraṁ vakraṁ bhavedyasmin dantabhaṅgaśca tīvraruk/ kaphavātakṛto vyādhiḥ sa bhañjanakasaṁjñitaḥ",
-        "iast_ru": "вактрам̣ вакрам̣ бхаведйасмин дантабхан̇гаш́ча тӣврарук/ капхава̄такр̣то вйа̄дхих̣ са бхан̃джанакасам̣джн̃итах̣"
+        "iast_ru": "вактрам̣ вакрам̣ бхаведйасмин дантабхан̇гаш́ча тӣврарук/ капхава̄такр̣то вйа̄дхих̣ са бхан̃джанакасам̣джн̃итах̣",
+        "text_en": "The disease in which the face becomes distorted (twisted) and the teeth are destroyed with severe pain is caused by Kapha and Vata and is called Bhanjaka."
       },
       {
         "type": "verse",
@@ -11477,7 +11512,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शर्करेव स्थिरीभूतो मलो द्नतेषु यस्य वै/ सा दन्तानाꣳ गुणहरी विज्ञेया दन्तशर्करा",
         "text": "Отложение (налёт), затвердевшее на зубах подобно гравию (шаркаре), лишающее зубы их достоинств и крепости, следует знать как Данта-шаркару.",
         "iast": "śarkareva sthirībhūto malo dnateṣu yasya vai/ sā dantānāṁ guṇaharī vijñeyā dantaśarkarā",
-        "iast_ru": "ш́аркарева стхирӣбхӯто мало днатеш̣у йасйа ваи/ са̄ данта̄на̄м̣ гун̣ахарӣ виджн̃ейа̄ данташ́аркара̄"
+        "iast_ru": "ш́аркарева стхирӣбхӯто мало днатеш̣у йасйа ваи/ са̄ данта̄на̄м̣ гун̣ахарӣ виджн̃ейа̄ данташ́аркара̄",
+        "text_en": "A deposit that hardens on the teeth like gravel (sharkara), depriving the teeth of their soundness and strength, should be known as Dantasharkara."
       },
       {
         "type": "verse",
@@ -11485,7 +11521,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दलन्ति दन्तवल्कानि यदा शर्करया सह/ ज्ञेया कपालिका सैव दशनानाꣳ विनाशिनी",
         "text": "Когда вместе с этими отложениями откалывается и покрытие (эмаль) зубов, это следует знать как Капалику, разрушающую зубы.",
         "iast": "dalanti dantavalkāni yadā śarkarayā saha/ jñeyā kapālikā saiva daśanānāṁ vināśinī",
-        "iast_ru": "даланти дантавалка̄ни йада̄ ш́аркарайа̄ саха/ джн̃ейа̄ капа̄лика̄ саива даш́ана̄на̄м̣ вина̄ш́инӣ"
+        "iast_ru": "даланти дантавалка̄ни йада̄ ш́аркарайа̄ саха/ джн̃ейа̄ капа̄лика̄ саива даш́ана̄на̄м̣ вина̄ш́инӣ",
+        "text_en": "When, together with this deposit, the covering (enamel) of the teeth also chips away, this should be known as Kapalika, which destroys the teeth."
       },
       {
         "type": "verse",
@@ -11493,7 +11530,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यो+असृङ्निश्रेण पित्तेन दग्धो दन्तस्त्वशेषतः/ श्यावताꣳ नीलताꣳ वा+अपि गतः स श्यावदन्तकः",
         "text": "Зуб, целиком «сожжённый» Питтой в сочетании с кровью, приобретающий синевато-серый или синий цвет, — это Шьява-дантака.",
         "iast": "yo+asṛṅniśreṇa pittena dagdho dantastvaśeṣataḥ/ śyāvatāṁ nīlatāṁ vā+api gataḥ sa śyāvadantakaḥ",
-        "iast_ru": "йо+аср̣н̇ниш́рен̣а питтена дагдхо дантастваш́еш̣атах̣/ ш́йа̄вата̄м̣ нӣлата̄м̣ ва̄+апи гатах̣ са ш́йа̄вадантаках̣"
+        "iast_ru": "йо+аср̣н̇ниш́рен̣а питтена дагдхо дантастваш́еш̣атах̣/ ш́йа̄вата̄м̣ нӣлата̄м̣ ва̄+апи гатах̣ са ш́йа̄вадантаках̣",
+        "text_en": "A tooth entirely \"burnt\" by Pitta in combination with blood, taking on a bluish-grey or blue color — this is Shyavadantaka."
       },
       {
         "type": "verse",
@@ -11501,7 +11539,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वातेन तैस्तैर्भावैस्तु हनुसन्धिर्विदꣳहतः/ हनुमोक्ष इति ज्ञेयो व्याधिरर्दितलक्षणः",
         "text": "Когда Вата, возбуждённая теми или иными причинами (громкой речью, разжёвыванием твёрдого, чрезмерной зевотой), вызывает воспаление сустава челюсти, эта болезнь известна как Хану-мокша, имеющая признаки Ардиты (лицевого паралича).",
         "iast": "vātena taistairbhāvaistu hanusandhirvidaṁhataḥ/ hanumokṣa iti jñeyo vyādhirarditalakṣaṇaḥ",
-        "iast_ru": "ва̄тена таистаирбха̄ваисту ханусандхирвидам̣хатах̣/ ханумокш̣а ити джн̃ейо вйа̄дхирардиталакш̣ан̣ах̣"
+        "iast_ru": "ва̄тена таистаирбха̄ваисту ханусандхирвидам̣хатах̣/ ханумокш̣а ити джн̃ейо вйа̄дхирардиталакш̣ан̣ах̣",
+        "text_en": "When Vata, aggravated by various causes (loud speech, chewing hard substances, excessive yawning), causes inflammation of the jaw joint, this disease is known as Hanumoksha, bearing the features of Ardita (facial paralysis)."
       },
       {
         "type": "verse",
@@ -11509,7 +11548,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जिह्वागतास्तु कण्टकास्त्रिविधास्त्रिभिर्दोषैः, अलास, उपजिह्विका चेति",
         "text": "Болезни языка суть: три вида Кантаки (шипов), возникающие от трёх дош соответственно, а также Аласа и Упаджихвика.",
         "iast": "jihvāgatāstu kaṇṭakāstrividhāstribhirdoṣaiḥ, alāsa, upajihvikā ceti",
-        "iast_ru": "джихва̄гата̄сту кан̣т̣ака̄стривидха̄стрибхирдош̣аих̣, ала̄са, упаджихвика̄ чети"
+        "iast_ru": "джихва̄гата̄сту кан̣т̣ака̄стривидха̄стрибхирдош̣аих̣, ала̄са, упаджихвика̄ чети",
+        "text_en": "The diseases of the tongue are: the three kinds of Kantaka (thorns), arising from the three doshas respectively, as well as Alasa and Upajihvika."
       },
       {
         "type": "verse",
@@ -11517,7 +11557,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जिह्वा+अनिलेन स्फुटिता प्रसुप्ता भवेच्च शाकच्छदनप्रकाशा/ पित्तेन पीता परिदह्यते च चिता सरक्तैरपि कण्टकैश्च/ कफेन गुर्वी बहला चिता च माꣳसोद्गमैः शाल्मलिकण्टकाभैः",
         "text": "От Вата язык растрескивается, теряет чувствительность, приобретает вид листа, шершавый на ощупь; от Питты — желтеет и охватывается жжением, покрываясь кровянистыми шипами (сосочками); от Капхи — становится тяжёлым, толстым, покрытым мясистыми наростами, подобными шипам дерева Шалмали.",
         "iast": "jihvā+anilena sphuṭitā prasuptā bhavecca śākacchadanaprakāśā/ pittena pītā paridahyate ca citā saraktairapi kaṇṭakaiśca/ kaphena gurvī bahalā citā ca māṁsodgamaiḥ śālmalikaṇṭakābhaiḥ",
-        "iast_ru": "джихва̄+анилена спхут̣ита̄ прасупта̄ бхавечча ш́а̄каччхаданапрака̄ш́а̄/ питтена пӣта̄ паридахйате ча чита̄ сарактаирапи кан̣т̣акаиш́ча/ капхена гурвӣ бахала̄ чита̄ ча ма̄м̣содгамаих̣ ш́а̄лмаликан̣т̣ака̄бхаих̣"
+        "iast_ru": "джихва̄+анилена спхут̣ита̄ прасупта̄ бхавечча ш́а̄каччхаданапрака̄ш́а̄/ питтена пӣта̄ паридахйате ча чита̄ сарактаирапи кан̣т̣акаиш́ча/ капхена гурвӣ бахала̄ чита̄ ча ма̄м̣содгамаих̣ ш́а̄лмаликан̣т̣ака̄бхаих̣",
+        "text_en": "From Vata the tongue cracks, loses sensation, takes on the appearance of a leaf, and is rough to the touch; from Pitta it yellows and becomes seized with burning, becoming covered with blood-tinged spines (papillae); from Kapha it becomes heavy, thick, and covered with fleshy outgrowths resembling the thorns of the Shalmali tree."
       },
       {
         "type": "verse",
@@ -11525,7 +11566,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जिह्वातले यः श्वयथुः प्रगाढः सो+अलाससꣳज्ञः कफरक्तमूर्तिः/ जिह्वाꣳ स तु स्तम्भयति प्रवृद्धो मूले तु जिह्वा भृशमेति पाकम्",
         "text": "Плотная опухоль под языком, состоящая из Капхи и крови, называется Аласа; разрастаясь, она делает язык неподвижным, а у корня язык подвергается сильному нагноению.",
         "iast": "jihvātale yaḥ śvayathuḥ pragāḍhaḥ so+alāsasaṁjñaḥ kapharaktamūrtiḥ/ jihvāṁ sa tu stambhayati pravṛddho mūle tu jihvā bhṛśameti pākam",
-        "iast_ru": "джихва̄тале йах̣ ш́вайатхух̣ прага̄д̣хах̣ со+ала̄сасам̣джн̃ах̣ капхарактамӯртих̣/ джихва̄м̣ са ту стамбхайати правр̣ддхо мӯле ту джихва̄ бхр̣ш́амети па̄кам"
+        "iast_ru": "джихва̄тале йах̣ ш́вайатхух̣ прага̄д̣хах̣ со+ала̄сасам̣джн̃ах̣ капхарактамӯртих̣/ джихва̄м̣ са ту стамбхайати правр̣ддхо мӯле ту джихва̄ бхр̣ш́амети па̄кам",
+        "text_en": "A dense swelling beneath the tongue, composed of Kapha and blood, is called Alasa; as it enlarges it renders the tongue immobile, and at its root the tongue undergoes severe suppuration."
       },
       {
         "type": "verse",
@@ -11533,7 +11575,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जिह्वाग्ररूपः श्वयथुर्हि जिह्वामुन्नम्य जातः कफरक्तयोनिः/ प्रसेककण्डूपरिदाहयुक्ता प्रकथ्यते+असावुपजिह्विकेति",
         "text": "Опухоль, по форме напоминающая кончик языка, возникшая под языком и приподнимающая его, образовавшаяся от Капхи и крови, сопровождающаяся слюнотечением, зудом и жжением, называется Упаджихвика.",
         "iast": "jihvāgrarūpaḥ śvayathurhi jihvāmunnamya jātaḥ kapharaktayoniḥ/ prasekakaṇḍūparidāhayuktā prakathyate+asāvupajihviketi",
-        "iast_ru": "джихва̄грарӯпах̣ ш́вайатхурхи джихва̄муннамйа джа̄тах̣ капхарактайоних̣/ прасекакан̣д̣ӯпарида̄хайукта̄ пракатхйате+аса̄вупаджихвикети"
+        "iast_ru": "джихва̄грарӯпах̣ ш́вайатхурхи джихва̄муннамйа джа̄тах̣ капхарактайоних̣/ прасекакан̣д̣ӯпарида̄хайукта̄ пракатхйате+аса̄вупаджихвикети",
+        "text_en": "A swelling resembling in shape the tip of the tongue, arising beneath the tongue and lifting it up, formed from Kapha and blood, accompanied by salivation, itching, and burning, is called Upajihvika."
       },
       {
         "type": "verse",
@@ -11541,7 +11584,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तालुगतास्तु गलशुण्डिका, तुण्डिकेरी, अध्रुषः, कच्छपः, अर्बुदꣳ, माꣳससङ्घातः, तालुपुप्पुटः, तालुशोषः, तालुपाक इति",
         "text": "Болезни нёба суть: Гала-шундика, Тундикери, Адхруша, Каччхапа, Арбуда, Мансасангхата, Талу-пуппута, Талу-шоша и Талу-пака.",
         "iast": "tālugatāstu galaśuṇḍikā, tuṇḍikerī, adhruṣaḥ, kacchapaḥ, arbudaṁ, māṁsasaṅghātaḥ, tālupuppuṭaḥ, tāluśoṣaḥ, tālupāka iti",
-        "iast_ru": "та̄лугата̄сту галаш́ун̣д̣ика̄, тун̣д̣икерӣ, адхруш̣ах̣, каччхапах̣, арбудам̣, ма̄м̣сасан̇гха̄тах̣, та̄лупуппут̣ах̣, та̄луш́ош̣ах̣, та̄лупа̄ка ити"
+        "iast_ru": "та̄лугата̄сту галаш́ун̣д̣ика̄, тун̣д̣икерӣ, адхруш̣ах̣, каччхапах̣, арбудам̣, ма̄м̣сасан̇гха̄тах̣, та̄лупуппут̣ах̣, та̄луш́ош̣ах̣, та̄лупа̄ка ити",
+        "text_en": "The diseases of the palate are: Galashundika, Tundikeri, Adhrusha, Kacchapa, Arbuda, Mamsasanghata, Talupupputa, Talushosha, and Talupaka."
       },
       {
         "type": "verse",
@@ -11549,7 +11593,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "श्लेष्मासृग्भ्याꣳ तालुमूलात् प्रवृद्धो दीर्घः शोफो ध्मातबस्तिप्रकाशः/ तृष्णाकासश्वासकृत् सꣳप्रदिष्टो व्याधिर्वैद्यैः कण्ठशुण्डीति नाम्ना",
         "text": "Длинная опухоль, разрастающаяся от основания нёба вследствие расстройства Капхи и крови, похожая на надутый бурдюк, вызывающая жажду, кашель и одышку, — называется врачами Кантха-шундика.",
         "iast": "śleṣmāsṛgbhyāṁ tālumūlāt pravṛddho dīrghaḥ śopho dhmātabastiprakāśaḥ/ tṛṣṇākāsaśvāsakṛt saṁpradiṣṭo vyādhirvaidyaiḥ kaṇṭhaśuṇḍīti nāmnā",
-        "iast_ru": "ш́леш̣ма̄ср̣гбхйа̄м̣ та̄лумӯла̄т правр̣ддхо дӣргхах̣ ш́опхо дхма̄табастипрака̄ш́ах̣/ тр̣ш̣н̣а̄ка̄саш́ва̄сакр̣т сам̣прадиш̣т̣о вйа̄дхирваидйаих̣ кан̣т̣хаш́ун̣д̣ӣти на̄мна̄"
+        "iast_ru": "ш́леш̣ма̄ср̣гбхйа̄м̣ та̄лумӯла̄т правр̣ддхо дӣргхах̣ ш́опхо дхма̄табастипрака̄ш́ах̣/ тр̣ш̣н̣а̄ка̄саш́ва̄сакр̣т сам̣прадиш̣т̣о вйа̄дхирваидйаих̣ кан̣т̣хаш́ун̣д̣ӣти на̄мна̄",
+        "text_en": "A long swelling that enlarges from the base of the palate owing to disorder of Kapha and blood, resembling an inflated bladder, causing thirst, cough, and breathlessness, is called by physicians Kanthashundika."
       },
       {
         "type": "verse",
@@ -11557,7 +11602,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शोफः स्तब्धो लोहिꣳतस्तालुदेशे रक्ताज्ञेयः सो+अध्रुषो रुग्ज्वराढ्यः",
         "text": "Твёрдая, красная опухоль в области нёба, возникшая от крови, сопровождающаяся болью и лихорадкой, известна как Адхруша.",
         "iast": "śophaḥ stabdho lohiṁtastāludeśe raktājñeyaḥ so+adhruṣo rugjvarāḍhyaḥ",
-        "iast_ru": "ш́опхах̣ стабдхо лохим̣таста̄лудеш́е ракта̄джн̃ейах̣ со+адхруш̣о ругджвара̄д̣хйах̣"
+        "iast_ru": "ш́опхах̣ стабдхо лохим̣таста̄лудеш́е ракта̄джн̃ейах̣ со+адхруш̣о ругджвара̄д̣хйах̣",
+        "text_en": "A hard, red swelling in the region of the palate, arising from blood, accompanied by pain and fever, is known as Adhrusha."
       },
       {
         "type": "verse",
@@ -11565,7 +11611,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कूर्मोत्सन्नो+अवेदनो+अशीघ्रजन्मा+अरक्तो ज्ञेयः कच्छपः श्लेष्मणा स्यात्/ पद्माकारꣳ तालुमध्ये तु शोफꣳ विद्याद्रक्तादर्बुदꣳ प्रोक्तलिङ्गम्",
         "text": "Выпуклая, наподобие панциря черепахи, безболезненная, медленно возникающая, бескровная опухоль от Капхи известна как Каччхапа. Опухоль же в форме лотоса посреди нёба, возникшую от крови, следует знать как Арбуду с указанными признаками.",
         "iast": "kūrmotsanno+avedano+aśīghrajanmā+arakto jñeyaḥ kacchapaḥ śleṣmaṇā syāt/ padmākāraṁ tālumadhye tu śophaṁ vidyādraktādarbudaṁ proktaliṅgam",
-        "iast_ru": "кӯрмотсанно+аведано+аш́ӣгхраджанма̄+аракто джн̃ейах̣ каччхапах̣ ш́леш̣ман̣а̄ сйа̄т/ падма̄ка̄рам̣ та̄лумадхйе ту ш́опхам̣ видйа̄дракта̄дарбудам̣ прокталин̇гам"
+        "iast_ru": "кӯрмотсанно+аведано+аш́ӣгхраджанма̄+аракто джн̃ейах̣ каччхапах̣ ш́леш̣ман̣а̄ сйа̄т/ падма̄ка̄рам̣ та̄лумадхйе ту ш́опхам̣ видйа̄дракта̄дарбудам̣ прокталин̇гам",
+        "text_en": "A convex swelling, resembling a tortoise's shell, painless, slow to arise, bloodless, caused by Kapha, is known as Kacchapa. A swelling shaped like a lotus in the middle of the palate, arising from blood, should be known as Arbuda, with the features stated."
       },
       {
         "type": "verse",
@@ -11573,7 +11620,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दुष्टꣳ माꣳसꣳ श्लेष्मणा नीरुजꣳ च ताल्वन्तःस्थꣳ माꣳससङ्घातमाहुः/ नीरुक् स्थायी कोलमात्रः कफात् स्यान्मेदोयुक्तात् पुप्पुटस्तालुदेशे",
         "text": "Испорченную Капхой безболезненную мясистую ткань внутри нёба называют Мансасангхата. Безболезненная же, стойкая опухоль величиной с плод Кола, возникающая от Капхи в сочетании с жиром в области нёба, называется Талу-пуппута.",
         "iast": "duṣṭaṁ māṁsaṁ śleṣmaṇā nīrujaṁ ca tālvantaḥsthaṁ māṁsasaṅghātamāhuḥ/ nīruk sthāyī kolamātraḥ kaphāt syānmedoyuktāt puppuṭastāludeśe",
-        "iast_ru": "душ̣т̣ам̣ ма̄м̣сам̣ ш́леш̣ман̣а̄ нӣруджам̣ ча та̄лвантах̣стхам̣ ма̄м̣сасан̇гха̄тама̄хух̣/ нӣрук стха̄йӣ колама̄трах̣ капха̄т сйа̄нмедойукта̄т пуппут̣аста̄лудеш́е"
+        "iast_ru": "душ̣т̣ам̣ ма̄м̣сам̣ ш́леш̣ман̣а̄ нӣруджам̣ ча та̄лвантах̣стхам̣ ма̄м̣сасан̇гха̄тама̄хух̣/ нӣрук стха̄йӣ колама̄трах̣ капха̄т сйа̄нмедойукта̄т пуппут̣аста̄лудеш́е",
+        "text_en": "Painless fleshy tissue within the palate, corrupted by Kapha, is called Mamsasanghata. A painless, persistent swelling the size of a Kola fruit (jujube), arising from Kapha combined with fat in the region of the palate, is called Talupupputa."
       },
       {
         "type": "verse",
@@ -11581,7 +11629,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शोसो+अत्यर्थꣳ दीर्यते चापि तालुः श्वासो वातात्तालुशोषः सपित्तात्/ पित्तꣳ कुर्यात् पाकमत्यर्थघोरꣳ तालुन्येनꣳ तालुपाकꣳ वदन्ति",
         "text": "Заболевание, при котором нёбо чрезвычайно иссушается и растрескивается, а также возникает одышка от Вата в сочетании с Питтой, называется Талу-шоша. Заболевание же, при котором Питта вызывает в нёбе чрезвычайно тяжёлое нагноение, называют Талу-пака.",
         "iast": "śoso+atyarthaṁ dīryate cāpi tāluḥ śvāso vātāttāluśoṣaḥ sapittāt/ pittaṁ kuryāt pākamatyarthaghoraṁ tālunyenaṁ tālupākaṁ vadanti",
-        "iast_ru": "ш́осо+атйартхам̣ дӣрйате ча̄пи та̄лух̣ ш́ва̄со ва̄та̄тта̄луш́ош̣ах̣ сапитта̄т/ питтам̣ курйа̄т па̄каматйартхагхорам̣ та̄лунйенам̣ та̄лупа̄кам̣ ваданти"
+        "iast_ru": "ш́осо+атйартхам̣ дӣрйате ча̄пи та̄лух̣ ш́ва̄со ва̄та̄тта̄луш́ош̣ах̣ сапитта̄т/ питтам̣ курйа̄т па̄каматйартхагхорам̣ та̄лунйенам̣ та̄лупа̄кам̣ ваданти",
+        "text_en": "The disease in which the palate becomes extremely dry and cracked, with breathlessness also arising from Vata combined with Pitta, is called Talushosha. The disease in which Pitta causes extremely severe suppuration in the palate is called Talupaka."
       },
       {
         "type": "verse",
@@ -11589,7 +11638,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कण्ठगतास्तु रोहिण्यः पञ्च, कण्ठशालूकम्, अधिजिह्वो, बलयो, बलास, एकवृन्दो, वृन्दः, शतघ्नी, गिलायुः, गलविद्रधिः, गलौघः, स्वरघ्नो, माꣳसतानो, विदारी चेति",
         "text": "Болезни горла суть: пять видов Рохини, Кантха-шалука, Адхиджихва, Валая, Баласа, Эка-вринда, Вринда, Шатагхни, Гилаю, Гала-видрадхи, Галаугха, Сварагхна, Мансатана и Видари.",
         "iast": "kaṇṭhagatāstu rohiṇyaḥ pañca, kaṇṭhaśālūkam, adhijihvo, balayo, balāsa, ekavṛndo, vṛndaḥ, śataghnī, gilāyuḥ, galavidradhiḥ, galaughaḥ, svaraghno, māṁsatāno, vidārī ceti",
-        "iast_ru": "кан̣т̣хагата̄сту рохин̣йах̣ пан̃ча, кан̣т̣хаш́а̄лӯкам, адхиджихво, балайо, бала̄са, екавр̣ндо, вр̣ндах̣, ш́атагхнӣ, гила̄йух̣, галавидрадхих̣, галаугхах̣, сварагхно, ма̄м̣сата̄но, вида̄рӣ чети"
+        "iast_ru": "кан̣т̣хагата̄сту рохин̣йах̣ пан̃ча, кан̣т̣хаш́а̄лӯкам, адхиджихво, балайо, бала̄са, екавр̣ндо, вр̣ндах̣, ш́атагхнӣ, гила̄йух̣, галавидрадхих̣, галаугхах̣, сварагхно, ма̄м̣сата̄но, вида̄рӣ чети",
+        "text_en": "The diseases of the throat are: the five kinds of Rohini, Kanthashaluka, Adhijihva, Valaya, Balasa, Ekavrinda, Vrinda, Shataghni, Gilayu, Galavidradhi, Galaugha, Svaraghna, Mamsatana, and Vidari."
       },
       {
         "type": "verse",
@@ -11597,7 +11647,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गले+अनिलः पित्तकफौ च मूर्च्छितौ पृथक् समस्ताश्च तथैव शोणितम्/ प्रदूष्य माꣳसꣳ गलरोधिनो+अङ्कुरान् सृजन्ति यान् सा+असुहरा हि रोहिणी",
         "text": "Когда Вата, Питта и Капха, возбуждённые по отдельности или все вместе, а также кровь, поражают мясистую ткань горла и порождают ростки (Анкура), закрывающие проход горла, — это отнимающее жизнь заболевание есть Рохини.",
         "iast": "gale+anilaḥ pittakaphau ca mūrcchitau pṛthak samastāśca tathaiva śoṇitam/ pradūṣya māṁsaṁ galarodhino+aṅkurān sṛjanti yān sā+asuharā hi rohiṇī",
-        "iast_ru": "гале+анилах̣ питтакапхау ча мӯрччхитау пр̣тхак самаста̄ш́ча татхаива ш́он̣итам/ прадӯш̣йа ма̄м̣сам̣ галародхино+ан̇кура̄н ср̣джанти йа̄н са̄+асухара̄ хи рохин̣ӣ"
+        "iast_ru": "гале+анилах̣ питтакапхау ча мӯрччхитау пр̣тхак самаста̄ш́ча татхаива ш́он̣итам/ прадӯш̣йа ма̄м̣сам̣ галародхино+ан̇кура̄н ср̣джанти йа̄н са̄+асухара̄ хи рохин̣ӣ",
+        "text_en": "When Vata, Pitta and Kapha, aggravated separately or all together, together with blood, afflict the fleshy tissue of the throat and give rise to shoots (Ankura) that close off the passage of the throat — this life-threatening disease is Rohini."
       },
       {
         "type": "verse",
@@ -11605,7 +11656,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जिह्वाꣳ समन्ताद्भृशवेदना ये माꣳसाङ्कुराः कण्ठनिरोधिनः स्युः/ ताꣳ रोहिणीꣳ वातकृताꣳ वदन्ति वातात्मकोपद्रवगाढयुक्ताम्",
         "text": "Рохини, при которой вокруг языка появляются весьма болезненные мясистые ростки, закрывающие горло, сопровождающаяся тяжёлыми осложнениями, свойственными Вата, называется Ватаджа Рохини.",
         "iast": "jihvāṁ samantādbhṛśavedanā ye māṁsāṅkurāḥ kaṇṭhanirodhinaḥ syuḥ/ tāṁ rohiṇīṁ vātakṛtāṁ vadanti vātātmakopadravagāḍhayuktām",
-        "iast_ru": "джихва̄м̣ саманта̄дбхр̣ш́аведана̄ йе ма̄м̣са̄н̇кура̄х̣ кан̣т̣ханиродхинах̣ сйух̣/ та̄м̣ рохин̣ӣм̣ ва̄такр̣та̄м̣ ваданти ва̄та̄тмакопадравага̄д̣хайукта̄м"
+        "iast_ru": "джихва̄м̣ саманта̄дбхр̣ш́аведана̄ йе ма̄м̣са̄н̇кура̄х̣ кан̣т̣ханиродхинах̣ сйух̣/ та̄м̣ рохин̣ӣм̣ ва̄такр̣та̄м̣ ваданти ва̄та̄тмакопадравага̄д̣хайукта̄м",
+        "text_en": "The Rohini in which very painful fleshy shoots appear around the tongue, closing off the throat, accompanied by severe complications characteristic of Vata, is called Vataja Rohini."
       },
       {
         "type": "verse",
@@ -11613,7 +11665,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "क्षिप्रोद्गमा क्षिप्रविदाहपाका तीव्रज्वरा पित्तनिमित्तजा स्यात्/ स्रोतोनिरोधिन्यपि मन्दपाका गुर्वी स्थिरा सा कफसꣳभवा वै",
         "text": "Та же Рохини, быстро возникающая, быстро воспаляющаяся и нагнаивающаяся, с сильной лихорадкой, — Питтаджа. Та, что закрывает проход, но медленно нагнаивается, тяжёлая и стойкая, — Капхаджа.",
         "iast": "kṣiprodgamā kṣipravidāhapākā tīvrajvarā pittanimittajā syāt/ srotonirodhinyapi mandapākā gurvī sthirā sā kaphasaṁbhavā vai",
-        "iast_ru": "кш̣ипродгама̄ кш̣иправида̄хапа̄ка̄ тӣвраджвара̄ питтанимиттаджа̄ сйа̄т/ сротониродхинйапи мандапа̄ка̄ гурвӣ стхира̄ са̄ капхасам̣бхава̄ ваи"
+        "iast_ru": "кш̣ипродгама̄ кш̣иправида̄хапа̄ка̄ тӣвраджвара̄ питтанимиттаджа̄ сйа̄т/ сротониродхинйапи мандапа̄ка̄ гурвӣ стхира̄ са̄ капхасам̣бхава̄ ваи",
+        "text_en": "That same Rohini, arising rapidly, rapidly becoming inflamed and suppurating, with severe fever, is Pittaja. That which closes the passage but suppurates slowly, and is heavy and persistent, is Kaphaja."
       },
       {
         "type": "verse",
@@ -11621,7 +11674,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गम्भीरपाका+अप्रतिवारवीर्या त्रिदोषलिङ्गा त्रयसꣳभवा स्यात्/ स्फोटाचिता पित्तसमानलिङ्गा+असाध्या प्रदिष्टा रुधिरात्मिकेयम्",
         "text": "Рохини с глубоким нагноением, необоримой силы, с признаками всех трёх дош, возникает от их совместного расстройства (Саннипатика). Та же, что покрыта пузырьками и сходна по признакам с Питтаджа, признана неизлечимой — это Рактаджа (кровяная) Рохини.",
         "iast": "gambhīrapākā+aprativāravīryā tridoṣaliṅgā trayasaṁbhavā syāt/ sphoṭācitā pittasamānaliṅgā+asādhyā pradiṣṭā rudhirātmikeyam",
-        "iast_ru": "гамбхӣрапа̄ка̄+апратива̄равӣрйа̄ тридош̣алин̇га̄ трайасам̣бхава̄ сйа̄т/ спхот̣а̄чита̄ питтасама̄налин̇га̄+аса̄дхйа̄ прадиш̣т̣а̄ рудхира̄тмикейам"
+        "iast_ru": "гамбхӣрапа̄ка̄+апратива̄равӣрйа̄ тридош̣алин̇га̄ трайасам̣бхава̄ сйа̄т/ спхот̣а̄чита̄ питтасама̄налин̇га̄+аса̄дхйа̄ прадиш̣т̣а̄ рудхира̄тмикейам",
+        "text_en": "Rohini with deep suppuration, of insurmountable strength, bearing the marks of all three doshas, arises from their combined disorder (Sannipatika). That which is covered with small blisters and resembles Pittaja in its features is recognized as incurable — this is Raktaja (blood-caused) Rohini."
       },
       {
         "type": "verse",
@@ -11629,7 +11683,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कोलास्थिमात्रः कफस्ꣳभवो यो ग्रन्थिर्गले कण्टकशूकभूतः/ खरः स्थिरः शस्त्रनिपातसाध्यस्तꣳ कण्ठशालूकमिति ब्रुवन्ति",
         "text": "Узел величиной с косточку плода Кола, возникший от Капхи в горле, подобный острию шипа, твёрдый и стойкий, излечиваемый лишь хирургическим путём, называют Кантха-шалукой.",
         "iast": "kolāsthimātraḥ kaphasṁbhavo yo granthirgale kaṇṭakaśūkabhūtaḥ/ kharaḥ sthiraḥ śastranipātasādhyastaṁ kaṇṭhaśālūkamiti bruvanti",
-        "iast_ru": "кола̄стхима̄трах̣ капхасм̣бхаво йо грантхиргале кан̣т̣акаш́ӯкабхӯтах̣/ кхарах̣ стхирах̣ ш́астранипа̄таса̄дхйастам̣ кан̣т̣хаш́а̄лӯкамити бруванти"
+        "iast_ru": "кола̄стхима̄трах̣ капхасм̣бхаво йо грантхиргале кан̣т̣акаш́ӯкабхӯтах̣/ кхарах̣ стхирах̣ ш́астранипа̄таса̄дхйастам̣ кан̣т̣хаш́а̄лӯкамити бруванти",
+        "text_en": "A knot the size of a Kola-fruit stone, arising from Kapha in the throat, resembling the point of a thorn, hard and persistent, curable only by surgery, is called Kanthashaluka."
       },
       {
         "type": "verse",
@@ -11637,7 +11692,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जिह्वाग्ररूपः श्वयथुः कफात्तु जिह्वाप्रबन्धोपरि रक्तमिश्रात्/ ज्ञेयो+अधिजिह्वः खलु रोग एष विवर्जयेदागतपाकमेनम्",
         "text": "Опухоль, по форме напоминающая кончик языка, возникающая над корнем языка от Капхи, смешанной с кровью, известна как болезнь Адхиджихва; при её нагноении лечение следует признать бесполезным.",
         "iast": "jihvāgrarūpaḥ śvayathuḥ kaphāttu jihvāprabandhopari raktamiśrāt/ jñeyo+adhijihvaḥ khalu roga eṣa vivarjayedāgatapākamenam",
-        "iast_ru": "джихва̄грарӯпах̣ ш́вайатхух̣ капха̄тту джихва̄прабандхопари рактамиш́ра̄т/ джн̃ейо+адхиджихвах̣ кхалу рога еш̣а виварджайеда̄гатапа̄каменам"
+        "iast_ru": "джихва̄грарӯпах̣ ш́вайатхух̣ капха̄тту джихва̄прабандхопари рактамиш́ра̄т/ джн̃ейо+адхиджихвах̣ кхалу рога еш̣а виварджайеда̄гатапа̄каменам",
+        "text_en": "A swelling resembling in shape the tip of the tongue, arising above the root of the tongue from Kapha mixed with blood, is known as the disease Adhijihva; once it suppurates, treatment should be considered useless."
       },
       {
         "type": "verse",
@@ -11645,7 +11701,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "बलास एवायतमुन्नतꣳ च शोफꣳ करोत्यन्नगतिꣳ निवार्य/ तꣳ सर्वथैवाप्रतिवारवीर्यꣳ विवर्जनीयꣳ वलयꣳ वदन्ति",
         "text": "От Баласы возникает вытянутая, приподнятая опухоль, преграждающая проход пище; эту опухоль, обладающую совершенно неодолимой силой и не подлежащую излечению, называют Валаей.",
         "iast": "balāsa evāyatamunnataṁ ca śophaṁ karotyannagatiṁ nivārya/ taṁ sarvathaivāprativāravīryaṁ vivarjanīyaṁ valayaṁ vadanti",
-        "iast_ru": "бала̄са ева̄йатамуннатам̣ ча ш́опхам̣ каротйаннагатим̣ нива̄рйа/ там̣ сарватхаива̄пратива̄равӣрйам̣ виварджанӣйам̣ валайам̣ ваданти"
+        "iast_ru": "бала̄са ева̄йатамуннатам̣ ча ш́опхам̣ каротйаннагатим̣ нива̄рйа/ там̣ сарватхаива̄пратива̄равӣрйам̣ виварджанӣйам̣ валайам̣ ваданти",
+        "text_en": "From Balasa arises an elongated, raised swelling that obstructs the passage of food; this swelling, possessing utterly insurmountable strength and not amenable to cure, is called Valaya."
       },
       {
         "type": "verse",
@@ -11653,7 +11710,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गले तु शोफꣳ कुरुतः प्रवृद्धौ श्लेष्मानिलौ श्वासरुजोपपन्नम्/ मर्मच्छिदꣳ दुस्तरमेतदाहुर्बलासस्ꣳज्ञꣳ निपुणा विकारम्",
         "text": "Возбуждённые Капха и Вата вызывают в горле опухоль, сопровождающуюся одышкой и болью; знатоки называют это трудноодолимой болезнью Баласа, поражающей жизненно важные центры (Марма).",
         "iast": "gale tu śophaṁ kurutaḥ pravṛddhau śleṣmānilau śvāsarujopapannam/ marmacchidaṁ dustarametadāhurbalāsasṁjñaṁ nipuṇā vikāram",
-        "iast_ru": "гале ту ш́опхам̣ курутах̣ правр̣ддхау ш́леш̣ма̄нилау ш́ва̄саруджопапаннам/ мармаччхидам̣ дустараметада̄хурбала̄сасм̣джн̃ам̣ нипун̣а̄ вика̄рам"
+        "iast_ru": "гале ту ш́опхам̣ курутах̣ правр̣ддхау ш́леш̣ма̄нилау ш́ва̄саруджопапаннам/ мармаччхидам̣ дустараметада̄хурбала̄сасм̣джн̃ам̣ нипун̣а̄ вика̄рам",
+        "text_en": "Aggravated Kapha and Vata cause in the throat a swelling accompanied by breathlessness and pain; the learned call this the hard-to-overcome disease Balasa, which afflicts the vital centers (Marma)."
       },
       {
         "type": "verse",
@@ -11661,7 +11719,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वृत्तोन्नतो यः श्वयथुः सदाहः कण्ड्वन्वितो+अपाक्यमृदुर्गुरुश्च/ नाम्नैकवृन्दः परिकीर्तितो+असौ व्याधिर्बलासक्षतजप्रसूतः",
         "text": "Округлая, приподнятая опухоль, с жжением и зудом, не склонная к нагноению, мягкая и тяжёлая, называется Эка-вринда; она возникает от Капхи (Баласы) и крови.",
         "iast": "vṛttonnato yaḥ śvayathuḥ sadāhaḥ kaṇḍvanvito+apākyamṛdurguruśca/ nāmnaikavṛndaḥ parikīrtito+asau vyādhirbalāsakṣatajaprasūtaḥ",
-        "iast_ru": "вр̣ттоннато йах̣ ш́вайатхух̣ сада̄хах̣ кан̣д̣ванвито+апа̄кйамр̣дургуруш́ча/ на̄мнаикавр̣ндах̣ парикӣртито+асау вйа̄дхирбала̄сакш̣атаджапрасӯтах̣"
+        "iast_ru": "вр̣ттоннато йах̣ ш́вайатхух̣ сада̄хах̣ кан̣д̣ванвито+апа̄кйамр̣дургуруш́ча/ на̄мнаикавр̣ндах̣ парикӣртито+асау вйа̄дхирбала̄сакш̣атаджапрасӯтах̣",
+        "text_en": "A round, raised swelling, with burning and itching, not inclined to suppurate, soft and heavy, is called Ekavrinda; it arises from Kapha (Balasa) and blood."
       },
       {
         "type": "verse",
@@ -11669,7 +11728,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "समुन्नतꣳ वृत्तममन्ददाहꣳ तीव्रज्वरꣳ वृन्दमुदाहरन्ति/ तꣳ चापि पित्तक्षतजप्रकोपाद्विद्यात् सतोदꣳ पवनास्रजꣳ तु",
         "text": "Приподнятую, округлую опухоль с сильным жжением и высокой лихорадкой называют Вринда; если же она сопровождается колющей болью, знай, что она возникла от возбуждения крови в сочетании с Питтой.",
         "iast": "samunnataṁ vṛttamamandadāhaṁ tīvrajvaraṁ vṛndamudāharanti/ taṁ cāpi pittakṣatajaprakopādvidyāt satodaṁ pavanāsrajaṁ tu",
-        "iast_ru": "самуннатам̣ вр̣ттамамандада̄хам̣ тӣвраджварам̣ вр̣ндамуда̄харанти/ там̣ ча̄пи питтакш̣атаджапракопа̄двидйа̄т сатодам̣ павана̄сраджам̣ ту"
+        "iast_ru": "самуннатам̣ вр̣ттамамандада̄хам̣ тӣвраджварам̣ вр̣ндамуда̄харанти/ там̣ ча̄пи питтакш̣атаджапракопа̄двидйа̄т сатодам̣ павана̄сраджам̣ ту",
+        "text_en": "A raised, round swelling with severe burning and high fever is called Vrinda; and if it is accompanied by stabbing pain, know that it has arisen from aggravation of blood combined with Pitta."
       },
       {
         "type": "verse",
@@ -11677,7 +11737,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वर्तिर्घना कण्ठनिरोधिनी या चिता+अतिमात्रꣳ पिशितप्ररोहैः/ नानारुजोच्छ्रायकरी त्रिदोषाज्ज्ञेया शतघ्नीव शतघ्न्यसाध्या",
         "text": "Плотное, продолговатое образование, закрывающее горло, густо усеянное мясистыми ростками, вызывающее разнообразные усиливающиеся боли, возникшее от расстройства трёх дош, — эту неизлечимую, губительную болезнь надлежит знать под именем Шатагхни.",
         "iast": "vartirghanā kaṇṭhanirodhinī yā citā+atimātraṁ piśitaprarohaiḥ/ nānārujocchrāyakarī tridoṣājjñeyā śataghnīva śataghnyasādhyā",
-        "iast_ru": "вартиргхана̄ кан̣т̣ханиродхинӣ йа̄ чита̄+атима̄трам̣ пиш́итапрарохаих̣/ на̄на̄руджоччхра̄йакарӣ тридош̣а̄джджн̃ейа̄ ш́атагхнӣва ш́атагхнйаса̄дхйа̄"
+        "iast_ru": "вартиргхана̄ кан̣т̣ханиродхинӣ йа̄ чита̄+атима̄трам̣ пиш́итапрарохаих̣/ на̄на̄руджоччхра̄йакарӣ тридош̣а̄джджн̃ейа̄ ш́атагхнӣва ш́атагхнйаса̄дхйа̄",
+        "text_en": "A dense, elongated formation that closes off the throat, thickly studded with fleshy shoots, causing various intensifying pains, arising from disorder of the three doshas — this incurable, fatal disease should be known by the name Shataghni."
       },
       {
         "type": "verse",
@@ -11685,7 +11746,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ग्रन्थिर्गले त्वामलकास्थिमात्रः स्थिरो+अल्परुक् स्यात् कफरक्तमूर्तिः/ सꣳलक्ष्यते सक्तमिवाशनꣳ च स शस्त्रसाध्यस्तु गिलायुसꣳज्ञः",
         "text": "Узел в горле величиной с косточку плода Амалаки, стойкий, малоболезненный, состоящий из Капхи и крови, при котором кажется, будто пища застряла в горле, излечимый лишь хирургическим путём, называется Гилаю.",
         "iast": "granthirgale tvāmalakāsthimātraḥ sthiro+alparuk syāt kapharaktamūrtiḥ/ saṁlakṣyate saktamivāśanaṁ ca sa śastrasādhyastu gilāyusaṁjñaḥ",
-        "iast_ru": "грантхиргале тва̄малака̄стхима̄трах̣ стхиро+алпарук сйа̄т капхарактамӯртих̣/ сам̣лакш̣йате сактамива̄ш́анам̣ ча са ш́астраса̄дхйасту гила̄йусам̣джн̃ах̣"
+        "iast_ru": "грантхиргале тва̄малака̄стхима̄трах̣ стхиро+алпарук сйа̄т капхарактамӯртих̣/ сам̣лакш̣йате сактамива̄ш́анам̣ ча са ш́астраса̄дхйасту гила̄йусам̣джн̃ах̣",
+        "text_en": "A knot in the throat the size of an Amalaki-fruit stone, persistent, only slightly painful, composed of Kapha and blood, in which it seems as though food has become lodged in the throat, curable only by surgery, is called Gilayu."
       },
       {
         "type": "verse",
@@ -11693,7 +11755,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सर्वꣳ गलꣳ व्याप्य समुत्थितो यः शोफो रुजो यत्र च सन्ति सर्वाः/ स सर्वदोषो गलविद्रधिस्तु तस्यैव तुल्यः खलु सर्वजस्य",
         "text": "Опухоль, охватывающая всё горло целиком, при которой присутствуют все виды боли, вызванная всеми тремя дошами, — это Гала-видрадхи, сходная по признакам с Саннипатика Рохини.",
         "iast": "sarvaṁ galaṁ vyāpya samutthito yaḥ śopho rujo yatra ca santi sarvāḥ/ sa sarvadoṣo galavidradhistu tasyaiva tulyaḥ khalu sarvajasya",
-        "iast_ru": "сарвам̣ галам̣ вйа̄пйа самуттхито йах̣ ш́опхо руджо йатра ча санти сарва̄х̣/ са сарвадош̣о галавидрадхисту тасйаива тулйах̣ кхалу сарваджасйа"
+        "iast_ru": "сарвам̣ галам̣ вйа̄пйа самуттхито йах̣ ш́опхо руджо йатра ча санти сарва̄х̣/ са сарвадош̣о галавидрадхисту тасйаива тулйах̣ кхалу сарваджасйа",
+        "text_en": "A swelling that envelops the entire throat, in which every kind of pain is present, caused by all three doshas — this is Galavidradhi, resembling in its features Sannipatika Rohini."
       },
       {
         "type": "verse",
@@ -11701,7 +11764,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शोफो महानन्नजलावरोधी तीव्रज्वरो वातगतेर्निहन्ता/ कफेन जातो रुधिरान्वितेन गले गलौघः परिकीर्त्यते+असौ",
         "text": "Большая опухоль, преграждающая путь пище и воде, с сильной лихорадкой, нарушающая движение Вата, возникшая от Капхи в соединении с кровью в горле, называется Галаугха.",
         "iast": "śopho mahānannajalāvarodhī tīvrajvaro vātagaternihantā/ kaphena jāto rudhirānvitena gale galaughaḥ parikīrtyate+asau",
-        "iast_ru": "ш́опхо маха̄наннаджала̄вародхӣ тӣвраджваро ва̄тагатерниханта̄/ капхена джа̄то рудхира̄нвитена гале галаугхах̣ парикӣртйате+асау"
+        "iast_ru": "ш́опхо маха̄наннаджала̄вародхӣ тӣвраджваро ва̄тагатерниханта̄/ капхена джа̄то рудхира̄нвитена гале галаугхах̣ парикӣртйате+асау",
+        "text_en": "A large swelling that blocks the passage of food and water, with severe fever, disturbing the movement of Vata, arising from Kapha combined with blood in the throat, is called Galaugha."
       },
       {
         "type": "verse",
@@ -11709,7 +11773,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यो+अतिप्रताम्यन् श्वसिति प्रसक्तꣳ भिन्नस्वरः शुष्कविमुक्तकण्ठः/ कफोपदिग्धेष्वनिलायनेषु ज्ञेयः स रोगः श्वसनात् स्वरघ्नः",
         "text": "Тот, кто, чрезвычайно томясь, дышит непрестанно с трудом, с надломленным голосом, с сухим, обессиленным горлом, — когда пути Вата облеплены Капхой, — эта болезнь, проявляющаяся в дыхании, известна как Сварагхна.",
         "iast": "yo+atipratāmyan śvasiti prasaktaṁ bhinnasvaraḥ śuṣkavimuktakaṇṭhaḥ/ kaphopadigdheṣvanilāyaneṣu jñeyaḥ sa rogaḥ śvasanāt svaraghnaḥ",
-        "iast_ru": "йо+атипрата̄мйан ш́васити прасактам̣ бхиннасварах̣ ш́уш̣кавимуктакан̣т̣хах̣/ капхопадигдхеш̣ванила̄йанеш̣у джн̃ейах̣ са рогах̣ ш́васана̄т сварагхнах̣"
+        "iast_ru": "йо+атипрата̄мйан ш́васити прасактам̣ бхиннасварах̣ ш́уш̣кавимуктакан̣т̣хах̣/ капхопадигдхеш̣ванила̄йанеш̣у джн̃ейах̣ са рогах̣ ш́васана̄т сварагхнах̣",
+        "text_en": "One who, exceedingly distressed, breathes continually with difficulty, with a broken voice, with a dry, enfeebled throat — when the pathways of Vata are coated with Kapha — this disease, manifesting in the breath, is known as Svaraghna."
       },
       {
         "type": "verse",
@@ -11717,7 +11782,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्रतानवान् यः श्वयथुः सुकष्टो गलोपरोधꣳ कुरुते क्रमेण/ स माꣳसतानः कथितो+अवलम्बी प्राणप्रणुत् सर्वकृतो विकारः",
         "text": "Разрастающаяся, весьма тягостная опухоль, которая постепенно вызывает закупорку горла, называется Мансатана — свисающая, угрожающая жизни болезнь, возникшая от сочетания всех дош.",
         "iast": "pratānavān yaḥ śvayathuḥ sukaṣṭo galoparodhaṁ kurute krameṇa/ sa māṁsatānaḥ kathito+avalambī prāṇapraṇut sarvakṛto vikāraḥ",
-        "iast_ru": "прата̄нава̄н йах̣ ш́вайатхух̣ сукаш̣т̣о галопародхам̣ куруте крамен̣а/ са ма̄м̣сата̄нах̣ катхито+аваламбӣ пра̄н̣апран̣ут сарвакр̣то вика̄рах̣"
+        "iast_ru": "прата̄нава̄н йах̣ ш́вайатхух̣ сукаш̣т̣о галопародхам̣ куруте крамен̣а/ са ма̄м̣сата̄нах̣ катхито+аваламбӣ пра̄н̣апран̣ут сарвакр̣то вика̄рах̣",
+        "text_en": "An enlarging, extremely distressing swelling that gradually causes obstruction of the throat is called Mamsatana — a pendulous, life-threatening disease arising from the combination of all the doshas."
       },
       {
         "type": "verse",
@@ -11725,7 +11791,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सदाहतोदꣳ श्वयथुꣳ सरक्तमन्तर्गले पूतिविशीर्णमाꣳसम्/ पित्तेन विद्याद्वदने विदारीꣳ पार्श्वे विशेषात् स तु येन शेते",
         "text": "Опухоль внутри горла, с жжением и колющей болью, кровянистая, с гниющей, распадающейся тканью, вызванная Питтой, известна как Видари в полости рта; проявляется она преимущественно на той стороне, на которой человек имеет привычку лежать.",
         "iast": "sadāhatodaṁ śvayathuṁ saraktamantargale pūtiviśīrṇamāṁsam/ pittena vidyādvadane vidārīṁ pārśve viśeṣāt sa tu yena śete",
-        "iast_ru": "сада̄хатодам̣ ш́вайатхум̣ сарактамантаргале пӯтивиш́ӣрн̣ама̄м̣сам/ питтена видйа̄двадане вида̄рӣм̣ па̄рш́ве виш́еш̣а̄т са ту йена ш́ете"
+        "iast_ru": "сада̄хатодам̣ ш́вайатхум̣ сарактамантаргале пӯтивиш́ӣрн̣ама̄м̣сам/ питтена видйа̄двадане вида̄рӣм̣ па̄рш́ве виш́еш̣а̄т са ту йена ш́ете",
+        "text_en": "A swelling within the throat, with burning and stabbing pain, bloody, with putrefying, disintegrating tissue, caused by Pitta, is known as Vidari in the oral cavity; it manifests chiefly on the side on which the person is accustomed to lie."
       },
       {
         "type": "verse",
@@ -11733,7 +11800,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सर्वसरास्तु वातपित्तकफशोणितनिमित्ताः",
         "text": "Болезни, поражающие всю полость рта (Сарвасара), вызываются Ватой, Питтой, Капхой или кровью.",
         "iast": "sarvasarāstu vātapittakaphaśoṇitanimittāḥ",
-        "iast_ru": "сарвасара̄сту ва̄тапиттакапхаш́он̣итанимитта̄х̣"
+        "iast_ru": "сарвасара̄сту ва̄тапиттакапхаш́он̣итанимитта̄х̣",
+        "text_en": "The diseases that afflict the entire oral cavity (Sarvasara) are caused by Vata, Pitta, Kapha, or blood."
       },
       {
         "type": "verse",
@@ -11741,7 +11809,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्फोटैः सतोदैर्वदनꣳ समन्ताद्यस्याचितꣳ सर्वसरः स वातात्/ रक्तैः सदाहैस्तनुभिः सपीतैर्यस्याचितꣳ चापि स पित्तकोपात्",
         "text": "Та Сарвасара, при которой вся полость рта покрывается пузырьками с колющей болью, — от Вата. Та же, что покрывается тонкими, красноватыми, с примесью желтизны пузырьками с жжением, — от возбуждения Питты.",
         "iast": "sphoṭaiḥ satodairvadanaṁ samantādyasyācitaṁ sarvasaraḥ sa vātāt/ raktaiḥ sadāhaistanubhiḥ sapītairyasyācitaṁ cāpi sa pittakopāt",
-        "iast_ru": "спхот̣аих̣ сатодаирваданам̣ саманта̄дйасйа̄читам̣ сарвасарах̣ са ва̄та̄т/ рактаих̣ сада̄хаистанубхих̣ сапӣтаирйасйа̄читам̣ ча̄пи са питтакопа̄т"
+        "iast_ru": "спхот̣аих̣ сатодаирваданам̣ саманта̄дйасйа̄читам̣ сарвасарах̣ са ва̄та̄т/ рактаих̣ сада̄хаистанубхих̣ сапӣтаирйасйа̄читам̣ ча̄пи са питтакопа̄т",
+        "text_en": "That Sarvasara in which the entire oral cavity becomes covered with blisters accompanied by stabbing pain is from Vata. That which becomes covered with thin, reddish blisters tinged with yellow, with burning, is from aggravation of Pitta."
       },
       {
         "type": "verse",
@@ -11749,7 +11818,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कण्डूयुतैरल्परुजैः सर्वणैर्यस्याचितꣳ चापि स वै कफेन/ रक्तेन पित्तोदित एक एव कैश्चित् प्रदिष्टो मुखपाकस्ꣳज्ञः",
         "text": "Та, что покрывается зудящими, малоболезненными язвочками повсюду, — от Капхи. А единый вид, вызванный кровью совместно с Питтой, некоторыми называется Мукхапака. Так завершается глава Сушрута-самхиты, излагающая нидану болезней полости рта.",
         "iast": "kaṇḍūyutairalparujaiḥ sarvaṇairyasyācitaṁ cāpi sa vai kaphena/ raktena pittodita eka eva kaiścit pradiṣṭo mukhapākasṁjñaḥ",
-        "iast_ru": "кан̣д̣ӯйутаиралпаруджаих̣ сарван̣аирйасйа̄читам̣ ча̄пи са ваи капхена/ рактена питтодита ека ева каиш́чит прадиш̣т̣о мукхапа̄касм̣джн̃ах̣"
+        "iast_ru": "кан̣д̣ӯйутаиралпаруджаих̣ сарван̣аирйасйа̄читам̣ ча̄пи са ваи капхена/ рактена питтодита ека ева каиш́чит прадиш̣т̣о мукхапа̄касм̣джн̃ах̣",
+        "text_en": "That which becomes covered everywhere with itching, only slightly painful ulcers is from Kapha. And the single kind caused by blood together with Pitta is called by some Mukhapaka. Thus ends the chapter of the Sushruta Samhita expounding the Nidana of the diseases of the oral cavity."
       }
     ]
   },
@@ -11771,7 +11841,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातः सर्वभूतचिन्ताशारीरꣳ व्याख्यास्यामः",
         "text": "Итак, далее мы изложим главу Шариры, называемую «Рассуждение обо всех сущностях» (Сарва-бхута-чинта).",
         "iast": "athātaḥ sarvabhūtacintāśārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄тах̣ сарвабхӯтачинта̄ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄тах̣ сарвабхӯтачинта̄ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now, next we shall set forth the chapter of the Sharirasthana called \"Discourse on All Existents\" (Sarvabhutachintana)."
       },
       {
         "type": "verse",
@@ -11779,7 +11850,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "Как сказал господь Дханвантари:",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "As the Lord Dhanvantari said:"
       },
       {
         "type": "verse",
@@ -11787,7 +11859,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सर्वभूतानाꣳ कारणमकारणꣳ सत्त्वरजस्तमोलक्षणमष्टरूपमखिलस्य जगतः सꣳभवहेतुरव्यक्तꣳ नाम/ तदेकꣳ बहूनाꣳऽअनेकेषाꣳऽइति पा+ क्षेत्रज्ञानामधिष्ठानꣳ समुद्र इवौदकानाꣳ भावानाम्",
         "text": "Непроявленное (Авьякта) есть причина всех существ, но само оно беспричинно; оно наделено признаками трёх гун — саттвы, раджаса и тамаса; оно восьмичастно по форме и служит источником возникновения всего мира. Оно едино, но проявляется как множество отдельных [сущностей]; оно есть опора для познающих поле (кшетраджна), подобно тому как океан — вместилище всех вод.",
         "iast": "sarvabhūtānāṁ kāraṇamakāraṇaṁ sattvarajastamolakṣaṇamaṣṭarūpamakhilasya jagataḥ saṁbhavaheturavyaktaṁ nāma/ tadekaṁ bahūnāṁ'anekeṣāṁ'iti pā+ kṣetrajñānāmadhiṣṭhānaṁ samudra ivaudakānāṁ bhāvānām",
-        "iast_ru": "сарвабхӯта̄на̄м̣ ка̄ран̣амака̄ран̣ам̣ саттвараджастамолакш̣ан̣амаш̣т̣арӯпамакхиласйа джагатах̣ сам̣бхавахетуравйактам̣ на̄ма/ тадекам̣ бахӯна̄м̣'анекеш̣а̄м̣'ити па̄+ кш̣етраджн̃а̄на̄мадхиш̣т̣ха̄нам̣ самудра иваудака̄на̄м̣ бха̄ва̄на̄м"
+        "iast_ru": "сарвабхӯта̄на̄м̣ ка̄ран̣амака̄ран̣ам̣ саттвараджастамолакш̣ан̣амаш̣т̣арӯпамакхиласйа джагатах̣ сам̣бхавахетуравйактам̣ на̄ма/ тадекам̣ бахӯна̄м̣'анекеш̣а̄м̣'ити па̄+ кш̣етраджн̃а̄на̄мадхиш̣т̣ха̄нам̣ самудра иваудака̄на̄м̣ бха̄ва̄на̄м",
+        "text_en": "The Unmanifest (Avyakta) is the cause of all beings, but is itself uncaused; it is endowed with the marks of the three gunas — sattva, rajas, and tamas; it is eightfold in form and serves as the source from which the whole world arises. It is one, yet manifests as a multitude of separate [existents]; it is the support for the knowers of the field (kshetrajna), just as the ocean is the receptacle of all waters."
       },
       {
         "type": "verse",
@@ -11795,7 +11868,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्मादव्यक्तान्महानुत्पद्यते तल्लिङ्ग एव; तल्लिङ्गाच्च महतस्तल्लक्षण एवाहङ्कार उत्पद्यते, स त्रिविधो वैकारिकस्तैजसो भूतादिरिति; तत्र वैकारिकादहङ्कारात्तैजससहायात्तल्लक्षणान्येनैकादशेन्द्रियाण्युत्पद्यन्ते, तद्यथा---श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणवाग्घस्तोपस्थपायुपादमनाꣳसीति, तत्र पूर्वाणि पञ्च बुद्धीन्द्रियाणि, इतराणि पञ्च कर्मेन्द्रियाणि, उभयात्मकꣳ मनः; भूतादेरपि तैजससहायात्तल्लक्षणान्येव पञ्चतन्मात्राण्युत्पद्यन्ते, तद्यथा---शब्दतन्मात्रꣳ, स्पर्शतन्मात्रꣳ, रूपतन्मात्रꣳ, रसतन्मात्रꣳ, गन्धतन्मात्रमिति; तेषाꣳ विशेषाꣳ विशेषाः शब्दस्पर्शरूपरसगन्धाः; तेभ्यो भूतानि व्योमानिलानलजलोर्व्यः; एवमेषा तत्त्वचतुर्विशतिर्व्याख्याता",
         "text": "Из этого Непроявленного возникает Махат (разумное начало) того же характера. Из Махата — Ахамкара (принцип самости), также того же характера; она трёх видов: вайкарика, тайджаса и бхутади. Из вайкарика-ахамкары, при содействии тайджасы, возникают одиннадцать органов того же характера: слух, кожа, глаз, язык, нос, речь, руки, детородный орган, задний проход, стопы и ум (манас); первые пять — органы восприятия, следующие пять — органы действия, а ум причастен обоим родам. Из бхутади, также при содействии тайджасы, возникают пять танматр того же характера: танматры звука, осязания, образа, вкуса и запаха. Их особые проявления — звук, осязание, образ, вкус и запах, а из них [возникают] элементы: эфир, воздух, огонь, вода и земля. Так изъяснено учение о двадцати четырёх началах.",
         "iast": "tasmādavyaktānmahānutpadyate talliṅga eva; talliṅgācca mahatastallakṣaṇa evāhaṅkāra utpadyate, sa trividho vaikārikastaijaso bhūtādiriti; tatra vaikārikādahaṅkārāttaijasasahāyāttallakṣaṇānyenaikādaśendriyāṇyutpadyante, tadyathā---śrotratvakcakṣurjihvāghrāṇavāgghastopasthapāyupādamanāṁsīti, tatra pūrvāṇi pañca buddhīndriyāṇi, itarāṇi pañca karmendriyāṇi, ubhayātmakaṁ manaḥ; bhūtāderapi taijasasahāyāttallakṣaṇānyeva pañcatanmātrāṇyutpadyante, tadyathā---śabdatanmātraṁ, sparśatanmātraṁ, rūpatanmātraṁ, rasatanmātraṁ, gandhatanmātramiti; teṣāṁ viśeṣāṁ viśeṣāḥ śabdasparśarūparasagandhāḥ; tebhyo bhūtāni vyomānilānalajalorvyaḥ; evameṣā tattvacaturviśatirvyākhyātā",
-        "iast_ru": "тасма̄давйакта̄нмаха̄нутпадйате таллин̇га ева; таллин̇га̄чча махатасталлакш̣ан̣а ева̄хан̇ка̄ра утпадйате, са тривидхо ваика̄рикастаиджасо бхӯта̄дирити; татра ваика̄рика̄дахан̇ка̄ра̄ттаиджасасаха̄йа̄тталлакш̣ан̣а̄нйенаика̄даш́ендрийа̄н̣йутпадйанте, тадйатха̄---ш́ротратвакчакш̣урджихва̄гхра̄н̣ава̄ггхастопастхапа̄йупа̄дамана̄м̣сӣти, татра пӯрва̄н̣и пан̃ча буддхӣндрийа̄н̣и, итара̄н̣и пан̃ча кармендрийа̄н̣и, убхайа̄тмакам̣ манах̣; бхӯта̄дерапи таиджасасаха̄йа̄тталлакш̣ан̣а̄нйева пан̃чатанма̄тра̄н̣йутпадйанте, тадйатха̄---ш́абдатанма̄трам̣, спарш́атанма̄трам̣, рӯпатанма̄трам̣, расатанма̄трам̣, гандхатанма̄трамити; теш̣а̄м̣ виш́еш̣а̄м̣ виш́еш̣а̄х̣ ш́абдаспарш́арӯпарасагандха̄х̣; тебхйо бхӯта̄ни вйома̄нила̄наладжалорвйах̣; евамеш̣а̄ таттвачатурвиш́атирвйа̄кхйа̄та̄"
+        "iast_ru": "тасма̄давйакта̄нмаха̄нутпадйате таллин̇га ева; таллин̇га̄чча махатасталлакш̣ан̣а ева̄хан̇ка̄ра утпадйате, са тривидхо ваика̄рикастаиджасо бхӯта̄дирити; татра ваика̄рика̄дахан̇ка̄ра̄ттаиджасасаха̄йа̄тталлакш̣ан̣а̄нйенаика̄даш́ендрийа̄н̣йутпадйанте, тадйатха̄---ш́ротратвакчакш̣урджихва̄гхра̄н̣ава̄ггхастопастхапа̄йупа̄дамана̄м̣сӣти, татра пӯрва̄н̣и пан̃ча буддхӣндрийа̄н̣и, итара̄н̣и пан̃ча кармендрийа̄н̣и, убхайа̄тмакам̣ манах̣; бхӯта̄дерапи таиджасасаха̄йа̄тталлакш̣ан̣а̄нйева пан̃чатанма̄тра̄н̣йутпадйанте, тадйатха̄---ш́абдатанма̄трам̣, спарш́атанма̄трам̣, рӯпатанма̄трам̣, расатанма̄трам̣, гандхатанма̄трамити; теш̣а̄м̣ виш́еш̣а̄м̣ виш́еш̣а̄х̣ ш́абдаспарш́арӯпарасагандха̄х̣; тебхйо бхӯта̄ни вйома̄нила̄наладжалорвйах̣; евамеш̣а̄ таттвачатурвиш́атирвйа̄кхйа̄та̄",
+        "text_en": "From this Unmanifest arises Mahat (the principle of intelligence), of the same character. From Mahat arises Ahamkara (the principle of I-ness), likewise of the same character; it is of three kinds: vaikarika, taijasa, and bhutadi. From vaikarika-ahamkara, with the assistance of taijasa, arise the eleven organs of the same character: hearing, skin, eye, tongue, nose, speech, hands, the generative organ, the anus, the feet, and the mind (manas); the first five are organs of perception, the next five are organs of action, and the mind partakes of both kinds. From bhutadi, likewise with the assistance of taijasa, arise the five subtle elements (tanmatras) of the same character: the tanmatras of sound, touch, form, taste, and smell. Their specific manifestations are sound, touch, form, taste, and smell, and from these arise the elements: ether, air, fire, water, and earth. Thus is expounded the doctrine of the twenty-four principles."
       },
       {
         "type": "verse",
@@ -11803,7 +11877,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र, बुद्धीन्द्रियाणाꣳ शब्दादयो विषयाः; कर्मेन्द्रियाणाꣳ यथासङ्ख्यꣳ वचनादानानन्दविसर्गविहरणानि",
         "text": "При этом объекты органов восприятия — звук и прочее, по порядку; объекты же органов действия, соответственно по порядку, — речь, хватание, наслаждение, извержение и передвижение.",
         "iast": "tatra, buddhīndriyāṇāṁ śabdādayo viṣayāḥ; karmendriyāṇāṁ yathāsaṅkhyaṁ vacanādānānandavisargaviharaṇāni",
-        "iast_ru": "татра, буддхӣндрийа̄н̣а̄м̣ ш́абда̄дайо виш̣айа̄х̣; кармендрийа̄н̣а̄м̣ йатха̄сан̇кхйам̣ вачана̄да̄на̄нандависаргавихаран̣а̄ни"
+        "iast_ru": "татра, буддхӣндрийа̄н̣а̄м̣ ш́абда̄дайо виш̣айа̄х̣; кармендрийа̄н̣а̄м̣ йатха̄сан̇кхйам̣ вачана̄да̄на̄нандависаргавихаран̣а̄ни",
+        "text_en": "In this regard, the objects of the organs of perception are sound and the rest, in order; while the objects of the organs of action, likewise in order, are speech, grasping, enjoyment, evacuation, and locomotion."
       },
       {
         "type": "verse",
@@ -11811,7 +11886,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अव्यक्तꣳ महानहङ्कारः पञ्चतन्मात्राणि चेत्यष्टौ प्रकृतयः; शेषाः षोडश विकाराः",
         "text": "Непроявленное, Махат, Ахамкара и пять танматр — таковы восемь [аспектов] Природы (Пракрити); оставшиеся шестнадцать начал — её видоизменения (викара).",
         "iast": "avyaktaṁ mahānahaṅkāraḥ pañcatanmātrāṇi cetyaṣṭau prakṛtayaḥ; śeṣāḥ ṣoḍaśa vikārāḥ",
-        "iast_ru": "авйактам̣ маха̄нахан̇ка̄рах̣ пан̃чатанма̄тра̄н̣и четйаш̣т̣ау пракр̣тайах̣; ш́еш̣а̄х̣ ш̣од̣аш́а вика̄ра̄х̣"
+        "iast_ru": "авйактам̣ маха̄нахан̇ка̄рах̣ пан̃чатанма̄тра̄н̣и четйаш̣т̣ау пракр̣тайах̣; ш́еш̣а̄х̣ ш̣од̣аш́а вика̄ра̄х̣",
+        "text_en": "The Unmanifest, Mahat, Ahamkara, and the five tanmatras — these are the eight [aspects] of Nature (Prakriti); the remaining sixteen principles are her modifications (vikara)."
       },
       {
         "type": "verse",
@@ -11819,7 +11895,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्वः स्वश्चैषाꣳ विषयो+अधिभूतꣳ; स्वयमध्यात्मꣳ; अधिदैवतꣳऽअधिदैवतमथऽइति पा+ तु---बुधेर्ब्रह्या, अहङ्कारस्येश्वरः, मनसश्चन्द्रमाः, दिशः श्रोत्रस्य, त्वचो वायुः, सूर्यश्चक्षुषः, रसनस्यापः, पृथिवी घ्राणस्य, वाचो+अग्निःऽवचसो+अग्निःऽइति पा+, हस्तयोरिन्द्रः, पादयोर्विष्णुः, पायोर्मित्रः, प्रजापतिरुपस्थस्येति",
         "text": "У каждого из них есть свой объект — то, что относится к внешнему предмету, и то, что относится к собственному «я», — а также соответствующее божество: Брахма — владыка разума, Ишвара — владыка самости, Луна — владыка ума, стороны света — владыки слуха, Ваю — владыка кожи, Солнце — владыка глаза, Воды — владыки языка, Земля — владыка обоняния, Агни — владыка речи, Индра — владыка рук, Вишну — владыка ступней, Митра — владыка заднего прохода, Праджапати — владыка детородного органа.",
         "iast": "svaḥ svaścaiṣāṁ viṣayo+adhibhūtaṁ; svayamadhyātmaṁ; adhidaivataṁ'adhidaivatamatha'iti pā+ tu---budherbrahyā, ahaṅkārasyeśvaraḥ, manasaścandramāḥ, diśaḥ śrotrasya, tvaco vāyuḥ, sūryaścakṣuṣaḥ, rasanasyāpaḥ, pṛthivī ghrāṇasya, vāco+agniḥ'vacaso+agniḥ'iti pā+, hastayorindraḥ, pādayorviṣṇuḥ, pāyormitraḥ, prajāpatirupasthasyeti",
-        "iast_ru": "свах̣ сваш́чаиш̣а̄м̣ виш̣айо+адхибхӯтам̣; свайамадхйа̄тмам̣; адхидаиватам̣'адхидаиватаматха'ити па̄+ ту---будхербрахйа̄, ахан̇ка̄расйеш́варах̣, манасаш́чандрама̄х̣, диш́ах̣ ш́ротрасйа, твачо ва̄йух̣, сӯрйаш́чакш̣уш̣ах̣, расанасйа̄пах̣, пр̣тхивӣ гхра̄н̣асйа, ва̄чо+агних̣'вачасо+агних̣'ити па̄+, хастайориндрах̣, па̄дайорвиш̣н̣ух̣, па̄йормитрах̣, праджа̄патирупастхасйети"
+        "iast_ru": "свах̣ сваш́чаиш̣а̄м̣ виш̣айо+адхибхӯтам̣; свайамадхйа̄тмам̣; адхидаиватам̣'адхидаиватаматха'ити па̄+ ту---будхербрахйа̄, ахан̇ка̄расйеш́варах̣, манасаш́чандрама̄х̣, диш́ах̣ ш́ротрасйа, твачо ва̄йух̣, сӯрйаш́чакш̣уш̣ах̣, расанасйа̄пах̣, пр̣тхивӣ гхра̄н̣асйа, ва̄чо+агних̣'вачасо+агних̣'ити па̄+, хастайориндрах̣, па̄дайорвиш̣н̣ух̣, па̄йормитрах̣, праджа̄патирупастхасйети",
+        "text_en": "Each of these has its own object — one pertaining to the external thing, and one pertaining to one's own self — as well as a corresponding presiding deity: Brahma is the lord of intelligence, Ishvara the lord of I-ness, the Moon the lord of the mind, the quarters of space the lords of hearing, Vayu the lord of the skin, the Sun the lord of the eye, the Waters the lords of the tongue, the Earth the lord of smell, Agni the lord of speech, Indra the lord of the hands, Vishnu the lord of the feet, Mitra the lord of the anus, and Prajapati the lord of the generative organ."
       },
       {
         "type": "verse",
@@ -11827,7 +11904,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सर्व एवाचेतन एष वर्गः, पुरुषः पञ्चविꣳशतितमः कार्यकारणसꣳयुक्तश्चेतयिता भवति/ सत्यप्यचैतन्ये प्रधानस्य पुरुषकैवल्यार्थꣳ प्रवृत्तिमुपदिशन्ति क्षीरादीꣳश्चात्र हेतूनुदाहरन्ति",
         "text": "Вся эта совокупность двадцати четырёх начал сама по себе лишена сознания; двадцать пятое начало — Пуруша — соединяясь со следствиями и причинами, становится тем, кто их одушевляет. Хотя сама Первопричина (Прадхана) не обладает сознанием, [мудрецы] учат, что её деятельность направлена ради обособления Пуруши, и приводят в пример молоко и подобное.",
         "iast": "tatra sarva evācetana eṣa vargaḥ, puruṣaḥ pañcaviṁśatitamaḥ kāryakāraṇasaṁyuktaścetayitā bhavati/ satyapyacaitanye pradhānasya puruṣakaivalyārthaṁ pravṛttimupadiśanti kṣīrādīṁścātra hetūnudāharanti",
-        "iast_ru": "татра сарва ева̄четана еш̣а варгах̣, пуруш̣ах̣ пан̃чавим̣ш́атитамах̣ ка̄рйака̄ран̣асам̣йукташ́четайита̄ бхавати/ сатйапйачаитанйе прадха̄насйа пуруш̣акаивалйа̄ртхам̣ правр̣ттимупадиш́анти кш̣ӣра̄дӣм̣ш́ча̄тра хетӯнуда̄харанти"
+        "iast_ru": "татра сарва ева̄четана еш̣а варгах̣, пуруш̣ах̣ пан̃чавим̣ш́атитамах̣ ка̄рйака̄ран̣асам̣йукташ́четайита̄ бхавати/ сатйапйачаитанйе прадха̄насйа пуруш̣акаивалйа̄ртхам̣ правр̣ттимупадиш́анти кш̣ӣра̄дӣм̣ш́ча̄тра хетӯнуда̄харанти",
+        "text_en": "This entire aggregate of twenty-four principles is in itself devoid of consciousness; the twenty-fifth principle, Purusha, by uniting with the effects and causes, becomes that which animates them. Although the Primary Cause (Pradhana) itself does not possess consciousness, [the sages] teach that its activity is directed toward the isolation of Purusha, and they give the example of milk and the like."
       },
       {
         "type": "verse",
@@ -11835,7 +11913,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अत ऊर्ध्वꣳ प्रकृतिपुरुषयोः साधर्म्यवैधर्म्ये व्याख्यास्यामः/ तद्यथा---उभावप्यनादी, उभावप्यनन्तौ, उभावप्यलिङ्गौ, उभावपि नित्यौ, उभावप्यनपरौऽउभावप्यपरौऽइति पा+, उभौ च सर्वगताविति; एका तु प्रकृतिरचेतना त्रिगुणा बीजधर्मिणी प्रसवधर्मिण्यमध्यस्थधर्मिणी चेति, बहवस्तु पुरुषाश्चेतनावन्तो+अगुणा अबीजधर्माणो+अप्रसवधर्माणो मध्यस्थधर्माणश्चेति",
         "text": "Далее мы изложим сходства и различия между Пракрити и Пурушей. Оба безначальны, оба бесконечны, оба лишены отличительных признаков, оба вечны, оба не имеют над собой иного и оба всепроникающи. Но Пракрити одна, лишена сознания, трёхгунна, обладает природой семени, порождения и посредника; Пуруши же многочисленны, наделены сознанием, лишены гун и не обладают такой природой.",
         "iast": "ata ūrdhvaṁ prakṛtipuruṣayoḥ sādharmyavaidharmye vyākhyāsyāmaḥ/ tadyathā---ubhāvapyanādī, ubhāvapyanantau, ubhāvapyaliṅgau, ubhāvapi nityau, ubhāvapyanaparau'ubhāvapyaparau'iti pā+, ubhau ca sarvagatāviti; ekā tu prakṛtiracetanā triguṇā bījadharmiṇī prasavadharmiṇyamadhyasthadharmiṇī ceti, bahavastu puruṣāścetanāvanto+aguṇā abījadharmāṇo+aprasavadharmāṇo madhyasthadharmāṇaśceti",
-        "iast_ru": "ата ӯрдхвам̣ пракр̣типуруш̣айох̣ са̄дхармйаваидхармйе вйа̄кхйа̄сйа̄мах̣/ тадйатха̄---убха̄вапйана̄дӣ, убха̄вапйанантау, убха̄вапйалин̇гау, убха̄вапи нитйау, убха̄вапйанапарау'убха̄вапйапарау'ити па̄+, убхау ча сарвагата̄вити; ека̄ ту пракр̣тирачетана̄ тригун̣а̄ бӣджадхармин̣ӣ прасавадхармин̣йамадхйастхадхармин̣ӣ чети, бахавасту пуруш̣а̄ш́четана̄ванто+агун̣а̄ абӣджадхарма̄н̣о+апрасавадхарма̄н̣о мадхйастхадхарма̄н̣аш́чети"
+        "iast_ru": "ата ӯрдхвам̣ пракр̣типуруш̣айох̣ са̄дхармйаваидхармйе вйа̄кхйа̄сйа̄мах̣/ тадйатха̄---убха̄вапйана̄дӣ, убха̄вапйанантау, убха̄вапйалин̇гау, убха̄вапи нитйау, убха̄вапйанапарау'убха̄вапйапарау'ити па̄+, убхау ча сарвагата̄вити; ека̄ ту пракр̣тирачетана̄ тригун̣а̄ бӣджадхармин̣ӣ прасавадхармин̣йамадхйастхадхармин̣ӣ чети, бахавасту пуруш̣а̄ш́четана̄ванто+агун̣а̄ абӣджадхарма̄н̣о+апрасавадхарма̄н̣о мадхйастхадхарма̄н̣аш́чети",
+        "text_en": "Next we shall set forth the similarities and differences between Prakriti and Purusha. Both are beginningless, both are endless, both are devoid of distinguishing marks, both are eternal, both have nothing higher than themselves, and both are all-pervading. But Prakriti is one, devoid of consciousness, possesses the three gunas, and has the nature of seed, of generation, and of intermediary; whereas the Purushas are many, endowed with consciousness, devoid of the gunas, and do not possess such a nature."
       },
       {
         "type": "verse",
@@ -11843,7 +11922,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र कारणानुरूपꣳ कार्यमिति कृत्वा सर्व एवैते विशेषाः सत्त्वरजस्तमोमया भवन्ति; तदञ्जनत्वात्तन्मयत्वाच्च तद्गुणा एव पुरुषा भवन्तीत्येके भाषन्ते",
         "text": "Поскольку следствие соответствует своей причине, все эти особые состояния проникнуты саттвой, раджасом и тамасом; ввиду этой окрашенности и причастности им некоторые утверждают, что и Пуруши тоже обладают этими гунами.",
         "iast": "tatra kāraṇānurūpaṁ kāryamiti kṛtvā sarva evaite viśeṣāḥ sattvarajastamomayā bhavanti; tadañjanatvāttanmayatvācca tadguṇā eva puruṣā bhavantītyeke bhāṣante",
-        "iast_ru": "татра ка̄ран̣а̄нурӯпам̣ ка̄рйамити кр̣тва̄ сарва еваите виш́еш̣а̄х̣ саттвараджастамомайа̄ бхаванти; тадан̃джанатва̄ттанмайатва̄чча тадгун̣а̄ ева пуруш̣а̄ бхавантӣтйеке бха̄ш̣анте"
+        "iast_ru": "татра ка̄ран̣а̄нурӯпам̣ ка̄рйамити кр̣тва̄ сарва еваите виш́еш̣а̄х̣ саттвараджастамомайа̄ бхаванти; тадан̃джанатва̄ттанмайатва̄чча тадгун̣а̄ ева пуруш̣а̄ бхавантӣтйеке бха̄ш̣анте",
+        "text_en": "Since an effect corresponds to its cause, all these particular states are pervaded by sattva, rajas, and tamas; and on account of this coloring and participation, some maintain that the Purushas too possess these gunas."
       },
       {
         "type": "verse",
@@ -11851,7 +11931,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वैद्यके तु--- स्वभावमीश्वरꣳ कालꣳ यद्दच्छाꣳ नियतिꣳ तथा परिणामꣳ च मन्यन्ते प्रकृतिꣳ पृथुदर्शिनः",
         "text": "Однако во врачебной науке мудрецы широких взглядов понимают под «Пракрити» собственную природу вещей, Владыку, Время, случай, предопределённость и превращение.",
         "iast": "vaidyake tu--- svabhāvamīśvaraṁ kālaṁ yaddacchāṁ niyatiṁ tathā pariṇāmaṁ ca manyante prakṛtiṁ pṛthudarśinaḥ",
-        "iast_ru": "ваидйаке ту--- свабха̄вамӣш́варам̣ ка̄лам̣ йаддаччха̄м̣ нийатим̣ татха̄ парин̣а̄мам̣ ча манйанте пракр̣тим̣ пр̣тхударш́инах̣"
+        "iast_ru": "ваидйаке ту--- свабха̄вамӣш́варам̣ ка̄лам̣ йаддаччха̄м̣ нийатим̣ татха̄ парин̣а̄мам̣ ча манйанте пракр̣тим̣ пр̣тхударш́инах̣",
+        "text_en": "In the science of medicine, however, sages of broad outlook understand by \"Prakriti\" the inherent nature of things, the Lord, Time, Chance, Destiny, and Transformation."
       },
       {
         "type": "verse",
@@ -11859,7 +11940,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तन्मयान्येव भूतानि तद्गुणान्येव चादिशेत् तैश्च तल्लक्षणः कृत्स्नो भूतग्रामो व्यजन्यत",
         "text": "Пусть учат, что элементы состоят именно из неё и наделены именно её качествами; и от них, обладающих её признаками, произошла вся совокупность сотворённых существ.",
         "iast": "tanmayānyeva bhūtāni tadguṇānyeva cādiśet taiśca tallakṣaṇaḥ kṛtsno bhūtagrāmo vyajanyata",
-        "iast_ru": "танмайа̄нйева бхӯта̄ни тадгун̣а̄нйева ча̄диш́ет таиш́ча таллакш̣ан̣ах̣ кр̣тсно бхӯтагра̄мо вйаджанйата"
+        "iast_ru": "танмайа̄нйева бхӯта̄ни тадгун̣а̄нйева ча̄диш́ет таиш́ча таллакш̣ан̣ах̣ кр̣тсно бхӯтагра̄мо вйаджанйата",
+        "text_en": "Let it be taught that the elements consist precisely of this [Prakriti] and are endowed precisely with its qualities; and from them, bearing its marks, has arisen the entire aggregate of created beings."
       },
       {
         "type": "verse",
@@ -11867,7 +11949,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्योपयोगो+अभिहितश्चिकित्साꣳ प्रति सर्वदा भूतेभ्यो हि परꣳ यस्मान्नास्ति चिन्ता चिकित्सिते",
         "text": "Применение этого учения всегда указывается ради врачевания, ибо нет иного предмета заботы в лечении, кроме элементов (бхута).",
         "iast": "tasyopayogo+abhihitaścikitsāṁ prati sarvadā bhūtebhyo hi paraṁ yasmānnāsti cintā cikitsite",
-        "iast_ru": "тасйопайого+абхихиташ́чикитса̄м̣ прати сарвада̄ бхӯтебхйо хи парам̣ йасма̄нна̄сти чинта̄ чикитсите"
+        "iast_ru": "тасйопайого+абхихиташ́чикитса̄м̣ прати сарвада̄ бхӯтебхйо хи парам̣ йасма̄нна̄сти чинта̄ чикитсите",
+        "text_en": "The application of this doctrine is always pointed out for the sake of healing, for there is no other object of concern in treatment apart from the elements (bhuta)."
       },
       {
         "type": "verse",
@@ -11875,7 +11958,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यतो+अभिहितꣳ---तत्सम्भवद्रव्यसमूहो भूतादिरुक्तः; भौतिकानि चेन्द्रियाण्यायुर्वेदे वर्ण्यन्ते, तथेन्द्रियार्थः",
         "text": "Ибо сказано: совокупность веществ, возникающих из них, называется «производной от элементов»; и в Аюрведе органы чувств также описываются как состоящие из элементов, равно как и предметы чувств.",
         "iast": "yato+abhihitaṁ---tatsambhavadravyasamūho bhūtādiruktaḥ; bhautikāni cendriyāṇyāyurvede varṇyante, tathendriyārthaḥ",
-        "iast_ru": "йато+абхихитам̣---татсамбхавадравйасамӯхо бхӯта̄дируктах̣; бхаутика̄ни чендрийа̄н̣йа̄йурведе варн̣йанте, татхендрийа̄ртхах̣"
+        "iast_ru": "йато+абхихитам̣---татсамбхавадравйасамӯхо бхӯта̄дируктах̣; бхаутика̄ни чендрийа̄н̣йа̄йурведе варн̣йанте, татхендрийа̄ртхах̣",
+        "text_en": "For it is said: the aggregate of substances arising from them is called \"derived from the elements\"; and in Ayurveda the sense organs are likewise described as consisting of the elements, as are the objects of the senses."
       },
       {
         "type": "verse",
@@ -11883,7 +11967,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र--- इन्द्रियेणेन्दियार्थꣳ तु स्वꣳ स्वꣳ गृह्णाति मानवः नियतꣳ तुल्ययोनित्वान्नान्येनान्यमिति स्थितिः",
         "text": "И здесь [приводится стих]: своим собственным органом человек воспринимает свой собственный предмет, и это установлено твёрдо в силу однородности их происхождения — одним органом нельзя воспринять предмет другого.",
         "iast": "bhavati cātra--- indriyeṇendiyārthaṁ tu svaṁ svaṁ gṛhṇāti mānavaḥ niyataṁ tulyayonitvānnānyenānyamiti sthitiḥ",
-        "iast_ru": "бхавати ча̄тра--- индрийен̣ендийа̄ртхам̣ ту свам̣ свам̣ гр̣хн̣а̄ти ма̄навах̣ нийатам̣ тулйайонитва̄нна̄нйена̄нйамити стхитих̣"
+        "iast_ru": "бхавати ча̄тра--- индрийен̣ендийа̄ртхам̣ ту свам̣ свам̣ гр̣хн̣а̄ти ма̄навах̣ нийатам̣ тулйайонитва̄нна̄нйена̄нйамити стхитих̣",
+        "text_en": "And here [a verse is cited]: a person perceives his own object by means of his own organ, and this is firmly established by virtue of the homogeneity of their origin — one organ cannot perceive the object of another."
       },
       {
         "type": "verse",
@@ -11891,7 +11976,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "न चायुर्वेदशास्त्रेषूपदिश्यन्ते सर्वगताः क्षेत्रज्ञा नित्याश्च; असर्वगतेषु च क्षेत्रज्ञेषु नित्यपुरुषख्यापकान् हेतूनुदाहरन्ति; आयुर्वेदशास्त्रसिद्धान्तेष्वसर्वगताः क्षेत्रज्ञा नित्याश्च, तिर्यग्योनिमानुषदेवेषु सꣳचरन्ति धर्माधर्मनिमित्तꣳ; त एते+अनुमानग्राह्याः परमसूक्ष्माश्चेतनावन्तः शाश्वता लोहितरेतसोः सन्निपातेष्वभिव्यज्यन्ते, यतो+अभिहितꣳ---पञ्चमहाभूतशरीरिसमवायः पुरुष इति; स एष(एव?) कर्मपुरुषश्चिकित्साधिकृतः",
         "text": "В шастрах Аюрведы не учат, что познающие поле (кшетраджна) всепроникающи, хотя и вечны; напротив, применительно к невсепроникающим кшетраджнам приводятся доводы, подтверждающие вечность Пуруши. Согласно учению шастр Аюрведы, кшетраджны невсепроникающи, но вечны, и переходят между рождениями среди животных, людей и богов в силу праведности или неправедности. Они познаются посредством умозаключения, в высшей степени тонки, наделены сознанием и постоянны, и проявляются при соединении крови и семени, ибо сказано: «Пуруша есть сочетание пяти великих элементов с воплощённым началом». Именно этот, обладающий деятельностью Пуруша есть предмет врачевания.",
         "iast": "na cāyurvedaśāstreṣūpadiśyante sarvagatāḥ kṣetrajñā nityāśca; asarvagateṣu ca kṣetrajñeṣu nityapuruṣakhyāpakān hetūnudāharanti; āyurvedaśāstrasiddhānteṣvasarvagatāḥ kṣetrajñā nityāśca, tiryagyonimānuṣadeveṣu saṁcaranti dharmādharmanimittaṁ; ta ete+anumānagrāhyāḥ paramasūkṣmāścetanāvantaḥ śāśvatā lohitaretasoḥ sannipāteṣvabhivyajyante, yato+abhihitaṁ---pañcamahābhūtaśarīrisamavāyaḥ puruṣa iti; sa eṣa(eva?) karmapuruṣaścikitsādhikṛtaḥ",
-        "iast_ru": "на ча̄йурведаш́а̄стреш̣ӯпадиш́йанте сарвагата̄х̣ кш̣етраджн̃а̄ нитйа̄ш́ча; асарвагатеш̣у ча кш̣етраджн̃еш̣у нитйапуруш̣акхйа̄пака̄н хетӯнуда̄харанти; а̄йурведаш́а̄страсиддха̄нтеш̣васарвагата̄х̣ кш̣етраджн̃а̄ нитйа̄ш́ча, тирйагйонима̄нуш̣адевеш̣у сам̣чаранти дхарма̄дхарманимиттам̣; та ете+анума̄награ̄хйа̄х̣ парамасӯкш̣ма̄ш́четана̄вантах̣ ш́а̄ш́вата̄ лохитаретасох̣ саннипа̄теш̣вабхивйаджйанте, йато+абхихитам̣---пан̃чамаха̄бхӯташ́арӣрисамава̄йах̣ пуруш̣а ити; са еш̣а(ева?) кармапуруш̣аш́чикитса̄дхикр̣тах̣"
+        "iast_ru": "на ча̄йурведаш́а̄стреш̣ӯпадиш́йанте сарвагата̄х̣ кш̣етраджн̃а̄ нитйа̄ш́ча; асарвагатеш̣у ча кш̣етраджн̃еш̣у нитйапуруш̣акхйа̄пака̄н хетӯнуда̄харанти; а̄йурведаш́а̄страсиддха̄нтеш̣васарвагата̄х̣ кш̣етраджн̃а̄ нитйа̄ш́ча, тирйагйонима̄нуш̣адевеш̣у сам̣чаранти дхарма̄дхарманимиттам̣; та ете+анума̄награ̄хйа̄х̣ парамасӯкш̣ма̄ш́четана̄вантах̣ ш́а̄ш́вата̄ лохитаретасох̣ саннипа̄теш̣вабхивйаджйанте, йато+абхихитам̣---пан̃чамаха̄бхӯташ́арӣрисамава̄йах̣ пуруш̣а ити; са еш̣а(ева?) кармапуруш̣аш́чикитса̄дхикр̣тах̣",
+        "text_en": "In the treatises of Ayurveda it is not taught that the knowers of the field (kshetrajna) are all-pervading, though they are eternal; on the contrary, arguments are adduced, with reference to kshetrajnas that are not all-pervading, confirming the eternity of Purusha. According to the doctrine of the Ayurvedic treatises, the kshetrajnas are not all-pervading, yet are eternal, and pass between births among animals, men, and gods by virtue of righteousness or unrighteousness. They are known by means of inference, are supremely subtle, endowed with consciousness, and constant, and become manifest upon the union of blood and semen, for it is said: \"Purusha is the combination of the five great elements together with the embodied principle.\" It is precisely this Purusha, possessed of activity, that is the object of medical treatment."
       },
       {
         "type": "verse",
@@ -11899,7 +11985,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्य सुखदुःखे इच्छाद्वेषौ प्रयत्नः प्राणापानावुन्मेषनिमेषौ बुद्धिर्मनः सङ्कल्पो विचारणा स्मृतिर्विज्ञानमध्यवसायो विषयोपलब्धिश्च गुणाः",
         "text": "Его свойства: удовольствие и страдание, желание и отвращение, усилие, вдох и выдох, открывание и смыкание век, разум, ум, намерение, размышление, память, познание, решимость и восприятие предметов чувств.",
         "iast": "tasya sukhaduḥkhe icchādveṣau prayatnaḥ prāṇāpānāvunmeṣanimeṣau buddhirmanaḥ saṅkalpo vicāraṇā smṛtirvijñānamadhyavasāyo viṣayopalabdhiśca guṇāḥ",
-        "iast_ru": "тасйа сукхадух̣кхе иччха̄двеш̣ау прайатнах̣ пра̄н̣а̄па̄на̄вунмеш̣анимеш̣ау буддхирманах̣ сан̇калпо вича̄ран̣а̄ смр̣тирвиджн̃а̄намадхйаваса̄йо виш̣айопалабдхиш́ча гун̣а̄х̣"
+        "iast_ru": "тасйа сукхадух̣кхе иччха̄двеш̣ау прайатнах̣ пра̄н̣а̄па̄на̄вунмеш̣анимеш̣ау буддхирманах̣ сан̇калпо вича̄ран̣а̄ смр̣тирвиджн̃а̄намадхйаваса̄йо виш̣айопалабдхиш́ча гун̣а̄х̣",
+        "text_en": "His attributes are: pleasure and pain, desire and aversion, effort, inhalation and exhalation, the opening and closing of the eyelids, intellect, mind, intention, reflection, memory, cognition, resolve, and the apprehension of the objects of the senses."
       },
       {
         "type": "verse",
@@ -11907,7 +11994,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सात्त्विकास्तु---आनृशꣳस्यꣳ सꣳविभागरुचिता तितिक्षा सत्यꣳ धर्म आस्तिक्यꣳ ज्ञानꣳ बुद्धिर्मेधा स्मृतिर्धृतिरनभिषङ्गश्च; राजसास्तु---दुःखबहुलता+अटनशीलता+अधृतिरहङ्कार आनृतिकत्वमकारुण्यꣳ दम्भो मानो हर्षः क्रोधश्च; तामसास्तु---विषादित्वꣳ नास्तिक्यमधर्मशीलता बुद्धेर्निधो+अज्ञानꣳ दुर्मेधस्त्वमकर्मशीलता निद्रालुत्वꣳ चेति",
         "text": "Саттвические свойства: незлобивость, склонность делиться с другими, терпение, правдивость, приверженность долгу, вера в иной мир, знание, разум, острота ума, память, стойкость и непривязанность. Раджасические: обильная тоска, склонность к скитанию, неустойчивость, самомнение, лживость, безжалостность, лицемерие, гордыня, чрезмерная радость и гнев. Тамасические: уныние, безверие, склонность к беззаконию, помрачение разума, невежество, тупоумие, бездеятельность и сонливость.",
         "iast": "sāttvikāstu---ānṛśaṁsyaṁ saṁvibhāgarucitā titikṣā satyaṁ dharma āstikyaṁ jñānaṁ buddhirmedhā smṛtirdhṛtiranabhiṣaṅgaśca; rājasāstu---duḥkhabahulatā+aṭanaśīlatā+adhṛtirahaṅkāra ānṛtikatvamakāruṇyaṁ dambho māno harṣaḥ krodhaśca; tāmasāstu---viṣāditvaṁ nāstikyamadharmaśīlatā buddhernidho+ajñānaṁ durmedhastvamakarmaśīlatā nidrālutvaṁ ceti",
-        "iast_ru": "са̄ттвика̄сту---а̄нр̣ш́ам̣сйам̣ сам̣вибха̄гаручита̄ титикш̣а̄ сатйам̣ дхарма а̄стикйам̣ джн̃а̄нам̣ буддхирмедха̄ смр̣тирдхр̣тиранабхиш̣ан̇гаш́ча; ра̄джаса̄сту---дух̣кхабахулата̄+ат̣анаш́ӣлата̄+адхр̣тирахан̇ка̄ра а̄нр̣тикатвамака̄рун̣йам̣ дамбхо ма̄но харш̣ах̣ кродхаш́ча; та̄маса̄сту---виш̣а̄дитвам̣ на̄стикйамадхармаш́ӣлата̄ буддхернидхо+аджн̃а̄нам̣ дурмедхаствамакармаш́ӣлата̄ нидра̄лутвам̣ чети"
+        "iast_ru": "са̄ттвика̄сту---а̄нр̣ш́ам̣сйам̣ сам̣вибха̄гаручита̄ титикш̣а̄ сатйам̣ дхарма а̄стикйам̣ джн̃а̄нам̣ буддхирмедха̄ смр̣тирдхр̣тиранабхиш̣ан̇гаш́ча; ра̄джаса̄сту---дух̣кхабахулата̄+ат̣анаш́ӣлата̄+адхр̣тирахан̇ка̄ра а̄нр̣тикатвамака̄рун̣йам̣ дамбхо ма̄но харш̣ах̣ кродхаш́ча; та̄маса̄сту---виш̣а̄дитвам̣ на̄стикйамадхармаш́ӣлата̄ буддхернидхо+аджн̃а̄нам̣ дурмедхаствамакармаш́ӣлата̄ нидра̄лутвам̣ чети",
+        "text_en": "The sattvic qualities are: freedom from malice, a disposition to share with others, patience, truthfulness, devotion to duty, faith in the world beyond, knowledge, intelligence, sharpness of mind, memory, steadfastness, and non-attachment. The rajasic qualities are: abundant longing, a tendency to wander, instability, conceit, deceitfulness, mercilessness, hypocrisy, pride, excessive elation, and anger. The tamasic qualities are: despondency, faithlessness, a tendency toward lawlessness, clouding of the intellect, ignorance, dullness of mind, inactivity, and drowsiness."
       },
       {
         "type": "verse",
@@ -11915,7 +12003,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आन्तरिक्षास्तु---शब्दः शब्देन्द्रियꣳ सर्वच्छिद्रसमूहो विविक्तता च; वायव्यास्तु---स्पर्शः स्पर्शोन्द्रियꣳ सर्वचेष्टासमूहः सर्वशरीरस्पन्दनꣳ लघुता च; तैजसास्तु---रूपꣳ रूपेन्द्रियꣳ वर्णः सन्तापो भ्राजिष्णुता पक्तिरमर्षस्तैक्ष्ण्यꣳ शौर्यꣳ च; आप्यास्तु---रसो रसनेन्द्रियꣳ सर्वद्रवसमूहो गुरुता शैत्यꣳ स्नेहो रेतश्च; पार्थिवास्तु---गन्धो गन्धेन्द्रियꣳ सर्वमूर्तसमूहो गुरुता चेति",
         "text": "Свойства эфира: звук, орган слуха, совокупность всех полостей тела и обособленность. Свойства воздуха: осязание, орган осязания, совокупность всех движений, дрожание всего тела и лёгкость. Свойства огня: образ, орган зрения, цвет, жар, сияние, пищеварение, гневливость, острота и отвага. Свойства воды: вкус, орган вкуса, совокупность всех жидких веществ, тяжесть, холодность, маслянистость и семя. Свойства земли: запах, орган обоняния, совокупность всех плотных тел и тяжесть.",
         "iast": "āntarikṣāstu---śabdaḥ śabdendriyaṁ sarvacchidrasamūho viviktatā ca; vāyavyāstu---sparśaḥ sparśondriyaṁ sarvaceṣṭāsamūhaḥ sarvaśarīraspandanaṁ laghutā ca; taijasāstu---rūpaṁ rūpendriyaṁ varṇaḥ santāpo bhrājiṣṇutā paktiramarṣastaikṣṇyaṁ śauryaṁ ca; āpyāstu---raso rasanendriyaṁ sarvadravasamūho gurutā śaityaṁ sneho retaśca; pārthivāstu---gandho gandhendriyaṁ sarvamūrtasamūho gurutā ceti",
-        "iast_ru": "а̄нтарикш̣а̄сту---ш́абдах̣ ш́абдендрийам̣ сарваччхидрасамӯхо вивиктата̄ ча; ва̄йавйа̄сту---спарш́ах̣ спарш́ондрийам̣ сарвачеш̣т̣а̄самӯхах̣ сарваш́арӣраспанданам̣ лагхута̄ ча; таиджаса̄сту---рӯпам̣ рӯпендрийам̣ варн̣ах̣ санта̄по бхра̄джиш̣н̣ута̄ пактирамарш̣астаикш̣н̣йам̣ ш́аурйам̣ ча; а̄пйа̄сту---расо расанендрийам̣ сарвадравасамӯхо гурута̄ ш́аитйам̣ снехо реташ́ча; па̄ртхива̄сту---гандхо гандхендрийам̣ сарвамӯртасамӯхо гурута̄ чети"
+        "iast_ru": "а̄нтарикш̣а̄сту---ш́абдах̣ ш́абдендрийам̣ сарваччхидрасамӯхо вивиктата̄ ча; ва̄йавйа̄сту---спарш́ах̣ спарш́ондрийам̣ сарвачеш̣т̣а̄самӯхах̣ сарваш́арӣраспанданам̣ лагхута̄ ча; таиджаса̄сту---рӯпам̣ рӯпендрийам̣ варн̣ах̣ санта̄по бхра̄джиш̣н̣ута̄ пактирамарш̣астаикш̣н̣йам̣ ш́аурйам̣ ча; а̄пйа̄сту---расо расанендрийам̣ сарвадравасамӯхо гурута̄ ш́аитйам̣ снехо реташ́ча; па̄ртхива̄сту---гандхо гандхендрийам̣ сарвамӯртасамӯхо гурута̄ чети",
+        "text_en": "The qualities of ether are: sound, the organ of hearing, the aggregate of all the cavities of the body, and separateness. The qualities of air are: touch, the organ of touch, the aggregate of all movement, trembling of the whole body, and lightness. The qualities of fire are: form, the organ of sight, color, heat, radiance, digestion, irascibility, sharpness, and courage. The qualities of water are: taste, the organ of taste, the aggregate of all liquid substances, heaviness, coldness, oiliness, and semen. The qualities of earth are: smell, the organ of smell, the aggregate of all solid bodies, and heaviness."
       },
       {
         "type": "verse",
@@ -11923,7 +12012,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सत्त्वबहुलमाकाशꣳ, रजोबहुलो वायुः, सत्त्वरजोबहुलो+अग्निः, सत्त्वतमोबहुला आपः, तमोबहुला पृथिवीति",
         "text": "При этом в эфире преобладает саттва, в воздухе — раджас, в огне — саттва и раджас вместе, в воде — саттва и тамас вместе, в земле — тамас.",
         "iast": "tatra sattvabahulamākāśaṁ, rajobahulo vāyuḥ, sattvarajobahulo+agniḥ, sattvatamobahulā āpaḥ, tamobahulā pṛthivīti",
-        "iast_ru": "татра саттвабахулама̄ка̄ш́ам̣, раджобахуло ва̄йух̣, саттвараджобахуло+агних̣, саттватамобахула̄ а̄пах̣, тамобахула̄ пр̣тхивӣти"
+        "iast_ru": "татра саттвабахулама̄ка̄ш́ам̣, раджобахуло ва̄йух̣, саттвараджобахуло+агних̣, саттватамобахула̄ а̄пах̣, тамобахула̄ пр̣тхивӣти",
+        "text_en": "In this regard, in ether sattva predominates; in air, rajas; in fire, sattva and rajas together; in water, sattva and tamas together; in earth, tamas."
       },
       {
         "type": "verse",
@@ -11931,7 +12021,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "श्लोकौ चात्र भवतः/",
         "text": "И здесь приводятся стихи:",
         "iast": "ślokau cātra bhavataḥ/",
-        "iast_ru": "ш́локау ча̄тра бхаватах̣/"
+        "iast_ru": "ш́локау ча̄тра бхаватах̣/",
+        "text_en": "And here verses are cited:"
       },
       {
         "type": "verse",
@@ -11939,13 +12030,15 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अष्टौ प्रकृतयः प्रोक्ता विकाराः षोडशैव तु क्षेत्रज्ञश्च समासेन स्वतन्त्रपरतन्त्रयोःऽस्वतन्त्रपरतन्त्रतःऽइति पा+",
         "text": "Восемь начал названы Пракрити, а шестнадцать — её видоизменениями; кшетраджна же, вкратце, существует как в самостоятельном, так и в подчинённом состоянии.",
         "iast": "aṣṭau prakṛtayaḥ proktā vikārāḥ ṣoḍaśaiva tu kṣetrajñaśca samāsena svatantraparatantrayoḥ'svatantraparatantrataḥ'iti pā+",
-        "iast_ru": "аш̣т̣ау пракр̣тайах̣ прокта̄ вика̄ра̄х̣ ш̣од̣аш́аива ту кш̣етраджн̃аш́ча сама̄сена сватантрапаратантрайох̣'сватантрапаратантратах̣'ити па̄+"
+        "iast_ru": "аш̣т̣ау пракр̣тайах̣ прокта̄ вика̄ра̄х̣ ш̣од̣аш́аива ту кш̣етраджн̃аш́ча сама̄сена сватантрапаратантрайох̣'сватантрапаратантратах̣'ити па̄+",
+        "text_en": "Eight principles are called Prakriti, and sixteen are her modifications; the kshetrajna, in brief, exists both in an independent and in a subordinate state."
       },
       {
         "type": "verse",
         "number": "23",
         "sanskrit": "",
-        "text": "Такова глава, повествующая о рассуждении обо всех сущностях."
+        "text": "Такова глава, повествующая о рассуждении обо всех сущностях.",
+        "text_en": "Thus [ends] the chapter expounding the discourse on all existents."
       }
     ]
   },
@@ -11967,7 +12060,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातः शुक्रशोणितशुद्धिꣳऽशुक्रशोणितशुद्धिनामऽइति पा+ शारीरꣳ व्याख्यास्यामः",
         "text": "Итак, далее мы изложим главу Шариры об очищении семени и менструальной крови.",
         "iast": "athātaḥ śukraśoṇitaśuddhiṁ'śukraśoṇitaśuddhināma'iti pā+ śārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄тах̣ ш́украш́он̣иташ́уддхим̣'ш́украш́он̣иташ́уддхина̄ма'ити па̄+ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄тах̣ ш́украш́он̣иташ́уддхим̣'ш́украш́он̣иташ́уддхина̄ма'ити па̄+ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now, next we shall set forth the chapter of the Sharirasthana on the purification of semen and menstrual blood."
       },
       {
         "type": "verse",
@@ -11975,7 +12069,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "Как сказал господь Дханвантари:",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "As the Lord Dhanvantari said:"
       },
       {
         "type": "verse",
@@ -11983,7 +12078,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वातपित्तश्लेष्मशोणित-कुणपग्रव्थिपूतिपूयक्षीणमूत्रपुरीषरेतसः[ऽकुणपगन्धिऽइति पा+] प्रजोत्पादने न समर्था भवन्ति",
         "text": "Семя, испорченное Ватой, Питтой, Капхой или кровью, а также трупного запаха, свернувшееся, гнойное, истощённое или пахнущее мочой либо калом, — неспособно к зачатию потомства.",
         "iast": "vātapittaśleṣmaśoṇita-kuṇapagravthipūtipūyakṣīṇamūtrapurīṣaretasaḥ['kuṇapagandhi'iti pā+] prajotpādane na samarthā bhavanti",
-        "iast_ru": "ва̄тапитташ́леш̣маш́он̣ита-кун̣апагравтхипӯтипӯйакш̣ӣн̣амӯтрапурӣш̣аретасах̣['кун̣апагандхи'ити па̄+] праджотпа̄дане на самартха̄ бхаванти"
+        "iast_ru": "ва̄тапитташ́леш̣маш́он̣ита-кун̣апагравтхипӯтипӯйакш̣ӣн̣амӯтрапурӣш̣аретасах̣['кун̣апагандхи'ити па̄+] праджотпа̄дане на самартха̄ бхаванти",
+        "text_en": "Semen that is corrupted by Vata, Pitta, Kapha, or blood, as well as that which has a cadaverous odor, is curdled, purulent, depleted, or smells of urine or feces, is incapable of producing offspring."
       },
       {
         "type": "verse",
@@ -11991,7 +12087,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तेषु वातवर्णवेदनꣳ वातेन, पित्तवर्णवेदनꣳ पित्तेन, श्लेष्मवर्णवेदनꣳ श्लेष्मणा, शोणितवर्णवेदनꣳ कुणपगन्ध्यनल्पꣳ च रक्तेन, ग्रन्थिभूतꣳ श्लेष्मवाताभ्याꣳ, पूतिपूयनिभꣳ पित्तश्लेष्मभ्याꣳ, क्षीणꣳ प्रागुक्तꣳ पित्तमारुताभ्याꣳ, मूत्रपुरीषगन्धि सन्निपातेनेति/ तेषु कुणपग्रन्थिपूतिपूयक्षीणरेतसः कृच्छ्रसाध्याह्, मूत्रपुरीषरेतसस्त्वसाध्याः (साध्यमन्यच्च[अयꣳ पाठो हस्तलिखितपुस्तके नोपलभयते])इति",
         "text": "Из них испорченное Ватой [приобретает] цвет и боль, свойственные Вате; испорченное Питтой — цвет и боль Питты; Капхой — цвет и боль Капхи; кровью — цвет крови и в значительной мере трупный запах; свернувшимся оно становится от Капхи и Ваю совместно; гноеподобным — от Питты и Капхи; истощённым, как сказано, — от Питты и Ваю; пахнущим мочой и калом — от расстройства всех трёх дош одновременно. Из них свернувшееся, гноеподобное и истощённое семя излечимы с трудом, а пахнущее мочой и калом — неизлечимы; прочие же излечимы.",
         "iast": "teṣu vātavarṇavedanaṁ vātena, pittavarṇavedanaṁ pittena, śleṣmavarṇavedanaṁ śleṣmaṇā, śoṇitavarṇavedanaṁ kuṇapagandhyanalpaṁ ca raktena, granthibhūtaṁ śleṣmavātābhyāṁ, pūtipūyanibhaṁ pittaśleṣmabhyāṁ, kṣīṇaṁ prāguktaṁ pittamārutābhyāṁ, mūtrapurīṣagandhi sannipāteneti/ teṣu kuṇapagranthipūtipūyakṣīṇaretasaḥ kṛcchrasādhyāh, mūtrapurīṣaretasastvasādhyāḥ (sādhyamanyacca[ayaṁ pāṭho hastalikhitapustake nopalabhayate])iti",
-        "iast_ru": "теш̣у ва̄таварн̣аведанам̣ ва̄тена, питтаварн̣аведанам̣ питтена, ш́леш̣маварн̣аведанам̣ ш́леш̣ман̣а̄, ш́он̣итаварн̣аведанам̣ кун̣апагандхйаналпам̣ ча рактена, грантхибхӯтам̣ ш́леш̣мава̄та̄бхйа̄м̣, пӯтипӯйанибхам̣ питташ́леш̣мабхйа̄м̣, кш̣ӣн̣ам̣ пра̄гуктам̣ питтама̄рута̄бхйа̄м̣, мӯтрапурӣш̣агандхи саннипа̄тенети/ теш̣у кун̣апагрантхипӯтипӯйакш̣ӣн̣аретасах̣ кр̣ччхраса̄дхйа̄х, мӯтрапурӣш̣аретасастваса̄дхйа̄х̣ (са̄дхйаманйачча[айам̣ па̄т̣хо хасталикхитапустаке нопалабхайате])ити"
+        "iast_ru": "теш̣у ва̄таварн̣аведанам̣ ва̄тена, питтаварн̣аведанам̣ питтена, ш́леш̣маварн̣аведанам̣ ш́леш̣ман̣а̄, ш́он̣итаварн̣аведанам̣ кун̣апагандхйаналпам̣ ча рактена, грантхибхӯтам̣ ш́леш̣мава̄та̄бхйа̄м̣, пӯтипӯйанибхам̣ питташ́леш̣мабхйа̄м̣, кш̣ӣн̣ам̣ пра̄гуктам̣ питтама̄рута̄бхйа̄м̣, мӯтрапурӣш̣агандхи саннипа̄тенети/ теш̣у кун̣апагрантхипӯтипӯйакш̣ӣн̣аретасах̣ кр̣ччхраса̄дхйа̄х, мӯтрапурӣш̣аретасастваса̄дхйа̄х̣ (са̄дхйаманйачча[айам̣ па̄т̣хо хасталикхитапустаке нопалабхайате])ити",
+        "text_en": "Of these, that corrupted by Vata takes on the color and pain characteristic of Vata; that corrupted by Pitta, the color and pain of Pitta; by Kapha, the color and pain of Kapha; by blood, the color of blood and, to a great extent, a cadaverous odor; it becomes curdled from Kapha and Vayu together; purulent from Pitta and Kapha; depleted, as is said, from Pitta and Vayu; and smelling of urine and feces from disorder of all three doshas simultaneously. Of these, curdled, purulent, and depleted semen are difficult to cure, while that smelling of urine and feces is incurable; the rest are curable."
       },
       {
         "type": "verse",
@@ -11999,7 +12096,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आर्तवमपि त्रिभिर्दोषैः शोणितचतुर्थैह् पृथग्द्वन्द्वैः समस्तैश्चोपसृष्टमबीजꣳ भवति; तदपि दोषवर्णवेदनादिभिर्विज्ञेयम्/ तेषु कुणपग्रन्थिपूतिपूयक्षीणमूत्रपुरीषप्रकाशमसाध्यꣳ साध्यमन्यच्चेति",
         "text": "Также и менструальная жидкость, поражённая тремя дошами и кровью как четвёртым фактором — по отдельности, парами или всеми вместе, — становится бесплодной; распознаётся она по тем же цвету, боли и прочим признакам. Трупно-пахнущая, свернувшаяся, гноеподобная, истощённая или пахнущая мочой либо калом — неизлечима; прочие излечимы.",
         "iast": "ārtavamapi tribhirdoṣaiḥ śoṇitacaturthaih pṛthagdvandvaiḥ samastaiścopasṛṣṭamabījaṁ bhavati; tadapi doṣavarṇavedanādibhirvijñeyam/ teṣu kuṇapagranthipūtipūyakṣīṇamūtrapurīṣaprakāśamasādhyaṁ sādhyamanyacceti",
-        "iast_ru": "а̄ртавамапи трибхирдош̣аих̣ ш́он̣итачатуртхаих пр̣тхагдвандваих̣ самастаиш́чопаср̣ш̣т̣амабӣджам̣ бхавати; тадапи дош̣аварн̣аведана̄дибхирвиджн̃ейам/ теш̣у кун̣апагрантхипӯтипӯйакш̣ӣн̣амӯтрапурӣш̣апрака̄ш́амаса̄дхйам̣ са̄дхйаманйаччети"
+        "iast_ru": "а̄ртавамапи трибхирдош̣аих̣ ш́он̣итачатуртхаих пр̣тхагдвандваих̣ самастаиш́чопаср̣ш̣т̣амабӣджам̣ бхавати; тадапи дош̣аварн̣аведана̄дибхирвиджн̃ейам/ теш̣у кун̣апагрантхипӯтипӯйакш̣ӣн̣амӯтрапурӣш̣апрака̄ш́амаса̄дхйам̣ са̄дхйаманйаччети",
+        "text_en": "Likewise the menstrual fluid, afflicted by the three doshas and by blood as a fourth factor — singly, in pairs, or all together — becomes barren; it is recognized by the same color, pain, and other signs. That which has a cadaverous odor, is curdled, purulent, depleted, or smells of urine or feces, is incurable; the rest are curable."
       },
       {
         "type": "verse",
@@ -12007,7 +12105,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ तेष्वाद्यान् शुक्रदोषाꣳस्त्रीन् स्नेहस्वेदादिभिर्जयेत् क्रियाविशेषैर्मतिमाꣳस्तथा चोत्तरव्(ब्?)अस्तिभिः",
         "text": "И здесь приводятся стихи: первые три из этих расстройств семени разумный врач должен побеждать умащениями, потением и прочими особыми процедурами, а также посредством Уттара-васти (введения лекарства через уретру).",
         "iast": "bhavanti cātra/ teṣvādyān śukradoṣāṁstrīn snehasvedādibhirjayet kriyāviśeṣairmatimāṁstathā cottarav(b?)astibhiḥ",
-        "iast_ru": "бхаванти ча̄тра/ теш̣ва̄дйа̄н ш́украдош̣а̄м̣стрӣн снехасведа̄дибхирджайет крийа̄виш́еш̣аирматима̄м̣статха̄ чоттарав(б?)астибхих̣"
+        "iast_ru": "бхаванти ча̄тра/ теш̣ва̄дйа̄н ш́украдош̣а̄м̣стрӣн снехасведа̄дибхирджайет крийа̄виш́еш̣аирматима̄м̣статха̄ чоттарав(б?)астибхих̣",
+        "text_en": "And here verses are cited: the first three of these disorders of semen the wise physician should overcome by unctions, sweating, and other special procedures, as well as by means of Uttaravasti (the introduction of medicine through the urethra)."
       },
       {
         "type": "verse",
@@ -12015,7 +12114,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पाययेत नरꣳ सर्पिर्भिषक् कुणपरेतसि धातकीपुष्पखदिरदाडिमार्जुनसाधितम्",
         "text": "При трупно-пахнущем семени врач должен дать больному выпить лечебное масло, приготовленное с цветами Дхатаки, древесиной Кхадиры, плодом Дадимы и корой Арджуны.",
         "iast": "pāyayeta naraṁ sarpirbhiṣak kuṇaparetasi dhātakīpuṣpakhadiradāḍimārjunasādhitam",
-        "iast_ru": "па̄йайета нарам̣ сарпирбхиш̣ак кун̣апаретаси дха̄такӣпуш̣пакхадирада̄д̣има̄рджунаса̄дхитам"
+        "iast_ru": "па̄йайета нарам̣ сарпирбхиш̣ак кун̣апаретаси дха̄такӣпуш̣пакхадирада̄д̣има̄рджунаса̄дхитам",
+        "text_en": "In semen with a cadaverous odor, the physician should give the patient to drink a medicated oil prepared with the flowers of Dhataki, the wood of Khadira, the fruit of Dadima, and the bark of Arjuna."
       },
       {
         "type": "verse",
@@ -12023,7 +12123,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पायतेदथवा सर्पिः शालसारादिसाधितम् ग्रन्थिभूते शटीसैद्धꣳऽ+अश्मभित्सिद्धꣳऽइति पा+ पालाशे वा+अपि भस्मनि",
         "text": "Либо же — гхриту, сваренную с сердцевиной дерева Шала и подобными средствами; при свернувшемся семени — гхриту, сваренную с Шати, или щёлочь из пепла дерева Палаша.",
         "iast": "pāyatedathavā sarpiḥ śālasārādisādhitam granthibhūte śaṭīsaiddhaṁ'+aśmabhitsiddhaṁ'iti pā+ pālāśe vā+api bhasmani",
-        "iast_ru": "па̄йатедатхава̄ сарпих̣ ш́а̄ласа̄ра̄диса̄дхитам грантхибхӯте ш́ат̣ӣсаиддхам̣'+аш́мабхитсиддхам̣'ити па̄+ па̄ла̄ш́е ва̄+апи бхасмани"
+        "iast_ru": "па̄йатедатхава̄ сарпих̣ ш́а̄ласа̄ра̄диса̄дхитам грантхибхӯте ш́ат̣ӣсаиддхам̣'+аш́мабхитсиддхам̣'ити па̄+ па̄ла̄ш́е ва̄+апи бхасмани",
+        "text_en": "Or else ghrita cooked with the heartwood of the Shala tree and similar substances; for curdled semen, ghrita cooked with Shati, or an alkali made from the ashes of the Palasha tree."
       },
       {
         "type": "verse",
@@ -12031,7 +12132,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "परूषकवटादिभ्याꣳ पूयप्रख्ये च साधितम् प्रागुक्तꣳ वक्ष्यते यच्च तत् कार्यꣳ क्षीणरेतसि",
         "text": "При гноеподобном семени — гхриту, сваренную с растениями группы Парушакади и Ватади; при истощённом семени применяют то, что уже упомянуто и что будет изложено далее.",
         "iast": "parūṣakavaṭādibhyāṁ pūyaprakhye ca sādhitam prāguktaṁ vakṣyate yacca tat kāryaṁ kṣīṇaretasi",
-        "iast_ru": "парӯш̣акават̣а̄дибхйа̄м̣ пӯйапракхйе ча са̄дхитам пра̄гуктам̣ вакш̣йате йачча тат ка̄рйам̣ кш̣ӣн̣аретаси"
+        "iast_ru": "парӯш̣акават̣а̄дибхйа̄м̣ пӯйапракхйе ча са̄дхитам пра̄гуктам̣ вакш̣йате йачча тат ка̄рйам̣ кш̣ӣн̣аретаси",
+        "text_en": "For purulent semen, ghrita cooked with the plants of the Parushakadi and Vatadi groups; for depleted semen, one applies what has already been mentioned and what will be set forth further on."
       },
       {
         "type": "verse",
@@ -12039,7 +12141,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "विट्प्रभे पाययेत् सिद्धꣳ चित्रकोशीरहिङ्गुभिः [अस्याग्रे+अस्नेहादिश्च क्रमः कार्यः षट्स्वेतासु विजानताऽ इत्यधिकः पाठः क्वचिदुपलभ्यतेऽ] स्निग्धꣳ वान्तꣳ विरिक्तꣳ च निरूढमनुवासितम्",
         "text": "При семени, отдающем цветом кала, следует дать гхриту, сваренную с Читракой, Уширой и Хингу; больного умащают маслом, подвергают рвотному и очистительному средствам, ставят очистительную и умащающую клизмы.",
         "iast": "viṭprabhe pāyayet siddhaṁ citrakośīrahiṅgubhiḥ [asyāgre+asnehādiśca kramaḥ kāryaḥ ṣaṭsvetāsu vijānatā' ityadhikaḥ pāṭhaḥ kvacidupalabhyate'] snigdhaṁ vāntaṁ viriktaṁ ca nirūḍhamanuvāsitam",
-        "iast_ru": "вит̣прабхе па̄йайет сиддхам̣ читракош́ӣрахин̇губхих̣ [асйа̄гре+аснеха̄диш́ча крамах̣ ка̄рйах̣ ш̣ат̣света̄су виджа̄ната̄' итйадхиках̣ па̄т̣хах̣ квачидупалабхйате'] снигдхам̣ ва̄нтам̣ вириктам̣ ча нирӯд̣хаманува̄ситам"
+        "iast_ru": "вит̣прабхе па̄йайет сиддхам̣ читракош́ӣрахин̇губхих̣ [асйа̄гре+аснеха̄диш́ча крамах̣ ка̄рйах̣ ш̣ат̣света̄су виджа̄ната̄' итйадхиках̣ па̄т̣хах̣ квачидупалабхйате'] снигдхам̣ ва̄нтам̣ вириктам̣ ча нирӯд̣хаманува̄ситам",
+        "text_en": "For semen resembling feces in color, one should give ghrita cooked with Chitraka, Ushira, and Hingu; the patient is anointed with oil, subjected to emetic and purgative remedies, and given cleansing and unctuous enemas."
       },
       {
         "type": "verse",
@@ -12047,7 +12150,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "योजयेच्छुक्रदोषार्तꣳ सम्यगुत्तरबस्तिना स्फटिकाभꣳ द्रवꣳ स्निग्धꣳ मधुरꣳ मधुगन्धि च",
         "text": "Страдающего расстройством семени надлежит должным образом подвергнуть Уттара-васти. Признаки здорового семени: подобное кристаллу, жидкое, маслянистое, сладкое и с запахом мёда,",
         "iast": "yojayecchukradoṣārtaṁ samyaguttarabastinā sphaṭikābhaṁ dravaṁ snigdhaṁ madhuraṁ madhugandhi ca",
-        "iast_ru": "йоджайеччхукрадош̣а̄ртам̣ самйагуттарабастина̄ спхат̣ика̄бхам̣ дравам̣ снигдхам̣ мадхурам̣ мадхугандхи ча"
+        "iast_ru": "йоджайеччхукрадош̣а̄ртам̣ самйагуттарабастина̄ спхат̣ика̄бхам̣ дравам̣ снигдхам̣ мадхурам̣ мадхугандхи ча",
+        "text_en": "One suffering from a disorder of semen should be duly subjected to Uttaravasti. The signs of healthy semen are: resembling crystal, liquid, unctuous, sweet, and with the odor of honey,"
       },
       {
         "type": "verse",
@@ -12055,7 +12159,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शुक्रमिच्छन्ति केचित्तु तैलक्षौद्रनिभꣳ तथा विधिमुत्तरबस्त्यन्तꣳ कुर्यादार्तवशुद्धये",
         "text": "— таким некоторые считают семя, подобным маслу и мёду. Ту же процедуру, вплоть до Уттара-васти, следует применять и для очищения менструальной жидкости.",
         "iast": "śukramicchanti kecittu tailakṣaudranibhaṁ tathā vidhimuttarabastyantaṁ kuryādārtavaśuddhaye",
-        "iast_ru": "ш́украмиччханти кечитту таилакш̣аудранибхам̣ татха̄ видхимуттарабастйантам̣ курйа̄да̄ртаваш́уддхайе"
+        "iast_ru": "ш́украмиччханти кечитту таилакш̣аудранибхам̣ татха̄ видхимуттарабастйантам̣ курйа̄да̄ртаваш́уддхайе",
+        "text_en": "such, some hold, is semen resembling oil and honey. The same procedure, up to and including Uttaravasti, should also be applied for the purification of the menstrual fluid."
       },
       {
         "type": "verse",
@@ -12063,7 +12168,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्त्रीणाꣳ स्नेहादियुक्तानाꣳ चतसृष्वार्तवार्तिषु कुर्यात्कल्कान् पिचूꣳश्चापि पथ्यान्याचमनानि च",
         "text": "Для женщин, прошедших умащение и подобные процедуры, при четырёх видах расстройств менструальной жидкости следует применять пасты, тампоны, полезную пищу и полоскания.",
         "iast": "strīṇāṁ snehādiyuktānāṁ catasṛṣvārtavārtiṣu kuryātkalkān picūṁścāpi pathyānyācamanāni ca",
-        "iast_ru": "стрӣн̣а̄м̣ снеха̄дийукта̄на̄м̣ чатаср̣ш̣ва̄ртава̄ртиш̣у курйа̄ткалка̄н пичӯм̣ш́ча̄пи патхйа̄нйа̄чамана̄ни ча"
+        "iast_ru": "стрӣн̣а̄м̣ снеха̄дийукта̄на̄м̣ чатаср̣ш̣ва̄ртава̄ртиш̣у курйа̄ткалка̄н пичӯм̣ш́ча̄пи патхйа̄нйа̄чамана̄ни ча",
+        "text_en": "For women who have undergone unction and similar procedures, for the four kinds of disorders of the menstrual fluid, one should apply pastes, tampons, beneficial food, and rinses."
       },
       {
         "type": "verse",
@@ -12071,7 +12177,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ग्रन्थिभूते पिबेत् पाठाꣳ त्र्यूषणꣳ वृक्षकाणि च दुर्गन्धिपूयसङ्काशे मज्जतुल्ये तथा++आर्तवे [ऽदुर्गन्धे पूयसङ्काशेऽइति पा+]",
         "text": "При свернувшейся менструальной жидкости надлежит пить отвар Патхи, Трьюшаны и Врикшаки; при зловонной, гноеподобной или подобной костному мозгу —",
         "iast": "granthibhūte pibet pāṭhāṁ tryūṣaṇaṁ vṛkṣakāṇi ca durgandhipūyasaṅkāśe majjatulye tathā++ārtave ['durgandhe pūyasaṅkāśe'iti pā+]",
-        "iast_ru": "грантхибхӯте пибет па̄т̣ха̄м̣ трйӯш̣ан̣ам̣ вр̣кш̣ака̄н̣и ча дургандхипӯйасан̇ка̄ш́е маджджатулйе татха̄++а̄ртаве ['дургандхе пӯйасан̇ка̄ш́е'ити па̄+]"
+        "iast_ru": "грантхибхӯте пибет па̄т̣ха̄м̣ трйӯш̣ан̣ам̣ вр̣кш̣ака̄н̣и ча дургандхипӯйасан̇ка̄ш́е маджджатулйе татха̄++а̄ртаве ['дургандхе пӯйасан̇ка̄ш́е'ити па̄+]",
+        "text_en": "For curdled menstrual fluid, one should drink a decoction of Pathya, Tryushana, and Vrikshaka; for foul-smelling, purulent, or marrow-like fluid,"
       },
       {
         "type": "verse",
@@ -12079,7 +12186,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पिबेद्भद्रश्रियः क्वाथꣳ चन्दनक्वाथमेव च शुक्रदोषहराणाꣳ च यथास्वमवचारणम्",
         "text": "— следует пить отвар Бхадрашри или отвар сандала; средства, устраняющие расстройства семени, надлежит применять соответственно и здесь.",
         "iast": "pibedbhadraśriyaḥ kvāthaṁ candanakvāthameva ca śukradoṣaharāṇāṁ ca yathāsvamavacāraṇam",
-        "iast_ru": "пибедбхадраш́рийах̣ ква̄тхам̣ чанданаква̄тхамева ча ш́украдош̣ахара̄н̣а̄м̣ ча йатха̄свамавача̄ран̣ам"
+        "iast_ru": "пибедбхадраш́рийах̣ ква̄тхам̣ чанданаква̄тхамева ча ш́украдош̣ахара̄н̣а̄м̣ ча йатха̄свамавача̄ран̣ам",
+        "text_en": "one should drink a decoction of Bhadrashri or a decoction of sandalwood; the remedies that remove disorders of semen should be applied correspondingly here as well."
       },
       {
         "type": "verse",
@@ -12087,7 +12195,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "योगानाꣳऽदोषाणाꣳऽइति पा+ शुद्धिकरणꣳ शेषास्वप्यार्तवार्तिषुअन्ने(न्नꣳ) शालियवꣳ मद्यꣳ हितꣳ माꣳसꣳ च पित्तलम्",
         "text": "Очистительные средства те же и при оставшихся расстройствах менструальной жидкости; полезны в пищу рис Шали, ячмень, вино и желчегонное мясо.",
         "iast": "yogānāṁ'doṣāṇāṁ'iti pā+ śuddhikaraṇaṁ śeṣāsvapyārtavārtiṣuanne(nnaṁ) śāliyavaṁ madyaṁ hitaṁ māṁsaṁ ca pittalam",
-        "iast_ru": "йога̄на̄м̣'дош̣а̄н̣а̄м̣'ити па̄+ ш́уддхикаран̣ам̣ ш́еш̣а̄свапйа̄ртава̄ртиш̣уанне(ннам̣) ш́а̄лийавам̣ мадйам̣ хитам̣ ма̄м̣сам̣ ча питталам"
+        "iast_ru": "йога̄на̄м̣'дош̣а̄н̣а̄м̣'ити па̄+ ш́уддхикаран̣ам̣ ш́еш̣а̄свапйа̄ртава̄ртиш̣уанне(ннам̣) ш́а̄лийавам̣ мадйам̣ хитам̣ ма̄м̣сам̣ ча питталам",
+        "text_en": "The purifying remedies are the same for the remaining disorders of the menstrual fluid; beneficial as food are Shali rice, barley, wine, and bile-stimulating meat."
       },
       {
         "type": "verse",
@@ -12095,7 +12204,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शशासृक्प्रतिमꣳ यत्तुय् यद्वा लाक्षारसोपमम् तदार्तवꣳ प्रशꣳसन्ति यद्वासो न विरञ्जयेत्",
         "text": "Менструальную жидкость, подобную заячьей крови или соку лакки и не оставляющую пятен на одежде, признают здоровой.",
         "iast": "śaśāsṛkpratimaṁ yattuy yadvā lākṣārasopamam tadārtavaṁ praśaṁsanti yadvāso na virañjayet",
-        "iast_ru": "ш́аш́а̄ср̣кпратимам̣ йаттуй йадва̄ ла̄кш̣а̄расопамам тада̄ртавам̣ праш́ам̣санти йадва̄со на виран̃джайет"
+        "iast_ru": "ш́аш́а̄ср̣кпратимам̣ йаттуй йадва̄ ла̄кш̣а̄расопамам тада̄ртавам̣ праш́ам̣санти йадва̄со на виран̃джайет",
+        "text_en": "Menstrual fluid resembling the blood of a hare or the juice of lac, and leaving no stain on clothing, is recognized as healthy."
       },
       {
         "type": "verse",
@@ -12103,7 +12213,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तदेवातिप्रसङ्गेन प्रनृत्तमनृतावपि असृग्दरꣳ विजानीयादयो+अन्यद्रक्तलक्षणात्[ऽविजानीयादुक्तꣳ लक्षणलक्षितम्ऽइति पा+]",
         "text": "Ту же жидкость, но истекающую чрезмерно обильно и не в срок, следует признать заболеванием Асригдара (маточное кровотечение); прочее же распознаётся по признакам крови, изложенным в других главах.",
         "iast": "tadevātiprasaṅgena pranṛttamanṛtāvapi asṛgdaraṁ vijānīyādayo+anyadraktalakṣaṇāt['vijānīyāduktaṁ lakṣaṇalakṣitam'iti pā+]",
-        "iast_ru": "тадева̄типрасан̇гена пранр̣ттаманр̣та̄вапи аср̣гдарам̣ виджа̄нӣйа̄дайо+анйадракталакш̣ан̣а̄т['виджа̄нӣйа̄дуктам̣ лакш̣ан̣алакш̣итам'ити па̄+]"
+        "iast_ru": "тадева̄типрасан̇гена пранр̣ттаманр̣та̄вапи аср̣гдарам̣ виджа̄нӣйа̄дайо+анйадракталакш̣ан̣а̄т['виджа̄нӣйа̄дуктам̣ лакш̣ан̣алакш̣итам'ити па̄+]",
+        "text_en": "That same fluid, but flowing excessively and out of season, should be recognized as the disease Asrigdara (uterine hemorrhage); the rest is recognized by the signs of blood set forth in other chapters."
       },
       {
         "type": "verse",
@@ -12111,7 +12222,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "असृग्दरो भवेत् सर्वः साङ्गमर्दः सवेदनः तस्यातिवृत्तौ दौर्बल्यꣳ भ्रमो मूर्च्छा तमस्तृषा",
         "text": "Всякая Асригдара сопровождается разбитостью тела и болью; при её чрезмерном течении возникают слабость, кружение, обморок, потемнение в глазах и жажда,",
         "iast": "asṛgdaro bhavet sarvaḥ sāṅgamardaḥ savedanaḥ tasyātivṛttau daurbalyaṁ bhramo mūrcchā tamastṛṣā",
-        "iast_ru": "аср̣гдаро бхавет сарвах̣ са̄н̇гамардах̣ саведанах̣ тасйа̄тивр̣ттау даурбалйам̣ бхрамо мӯрччха̄ тамастр̣ш̣а̄"
+        "iast_ru": "аср̣гдаро бхавет сарвах̣ са̄н̇гамардах̣ саведанах̣ тасйа̄тивр̣ттау даурбалйам̣ бхрамо мӯрччха̄ тамастр̣ш̣а̄",
+        "text_en": "Every case of Asrigdara is accompanied by exhaustion of the body and pain; with its excessive flow there arise weakness, giddiness, fainting, dimness of vision, and thirst,"
       },
       {
         "type": "verse",
@@ -12119,7 +12231,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दाहः प्रलापः पाण्डुत्वꣳ तन्द्रा रोगाश्च वातजाः तरुण्या हितसेविन्यास्तमल्पोपद्रवꣳ भिषक्",
         "text": "жжение, бред, бледность, сонливость и болезни, порождённые Ваю. У юной женщины, соблюдающей полезный режим, эту болезнь, при малых осложнениях, врач...",
         "iast": "dāhaḥ pralāpaḥ pāṇḍutvaṁ tandrā rogāśca vātajāḥ taruṇyā hitasevinyāstamalpopadravaṁ bhiṣak",
-        "iast_ru": "да̄хах̣ прала̄пах̣ па̄н̣д̣утвам̣ тандра̄ рога̄ш́ча ва̄таджа̄х̣ тарун̣йа̄ хитасевинйа̄стамалпопадравам̣ бхиш̣ак"
+        "iast_ru": "да̄хах̣ прала̄пах̣ па̄н̣д̣утвам̣ тандра̄ рога̄ш́ча ва̄таджа̄х̣ тарун̣йа̄ хитасевинйа̄стамалпопадравам̣ бхиш̣ак",
+        "text_en": "burning, delirium, pallor, drowsiness, and diseases born of Vayu. In a young woman who observes a beneficial regimen, this disease, when the complications are minor, the physician..."
       },
       {
         "type": "verse",
@@ -12127,7 +12240,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रक्तपित्तविधानेन यथावत् समुपाचरेत् दोषैरावृतमार्गत्वादार्तवꣳ नश्यति स्त्रियाः",
         "text": "...должен лечить надлежащим образом по правилам лечения Ракта-питты. Менструация у женщины прекращается, когда путь её истечения перекрыт дошами.",
         "iast": "raktapittavidhānena yathāvat samupācaret doṣairāvṛtamārgatvādārtavaṁ naśyati striyāḥ",
-        "iast_ru": "рактапиттавидха̄нена йатха̄ват самупа̄чарет дош̣аира̄вр̣тама̄ргатва̄да̄ртавам̣ наш́йати стрийа̄х̣"
+        "iast_ru": "рактапиттавидха̄нена йатха̄ват самупа̄чарет дош̣аира̄вр̣тама̄ргатва̄да̄ртавам̣ наш́йати стрийа̄х̣",
+        "text_en": "...should treat properly according to the rules for treating Raktapitta. A woman's menstruation ceases when the path of its discharge is blocked by the doshas."
       },
       {
         "type": "verse",
@@ -12135,7 +12249,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र मत्स्यकुलत्थाम्लतिलमाषसुरा हिताः पाने मूत्रमुदश्विच्च दधि शुक्तꣳ च भोजने",
         "text": "В этом случае полезны рыба, бобы Кулаттха, кислое, кунжут, бобы Маша и Сура; для питья — собственная моча и Удашвит (разведённая простокваша), а в пищу — простокваша и Шукта.",
         "iast": "tatra matsyakulatthāmlatilamāṣasurā hitāḥ pāne mūtramudaśvicca dadhi śuktaṁ ca bhojane",
-        "iast_ru": "татра матсйакулаттха̄млатилама̄ш̣асура̄ хита̄х̣ па̄не мӯтрамудаш́вичча дадхи ш́уктам̣ ча бходжане"
+        "iast_ru": "татра матсйакулаттха̄млатилама̄ш̣асура̄ хита̄х̣ па̄не мӯтрамудаш́вичча дадхи ш́уктам̣ ча бходжане",
+        "text_en": "In this case, fish, Kulattha beans, sour substances, sesame, Masha beans, and Sura (fermented liquor) are beneficial; for drinking, one's own urine and Udashvit (diluted buttermilk), and as food, curds and Shukta."
       },
       {
         "type": "verse",
@@ -12143,7 +12258,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "क्षीणꣳ प्रागीरितꣳ रक्तꣳ सलक्षणचिकित्सितम् तथा+अप्यत्रऽअथाप्यत्रऽइति पा+ विधातव्यꣳ विधानꣳ नष्टरक्तवत्",
         "text": "Истощённая менструальная кровь лечится так, как уже было сказано, с её признаками и лечением; и здесь также следует применять то же лечение, что и при полностью утраченной крови.",
         "iast": "kṣīṇaṁ prāgīritaṁ raktaṁ salakṣaṇacikitsitam tathā+apyatra'athāpyatra'iti pā+ vidhātavyaṁ vidhānaṁ naṣṭaraktavat",
-        "iast_ru": "кш̣ӣн̣ам̣ пра̄гӣритам̣ рактам̣ салакш̣ан̣ачикитситам татха̄+апйатра'атха̄пйатра'ити па̄+ видха̄тавйам̣ видха̄нам̣ наш̣т̣арактават"
+        "iast_ru": "кш̣ӣн̣ам̣ пра̄гӣритам̣ рактам̣ салакш̣ан̣ачикитситам татха̄+апйатра'атха̄пйатра'ити па̄+ видха̄тавйам̣ видха̄нам̣ наш̣т̣арактават",
+        "text_en": "Depleted menstrual blood is treated as has already been said, with its signs and treatment; and here too the same treatment should be applied as for blood that has been completely lost."
       },
       {
         "type": "verse",
@@ -12151,7 +12267,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एवमदुष्टशुक्रः शुद्धार्तवा च",
         "text": "Так достигается состояние, когда семя не испорчено, а менструальная жидкость чиста.",
         "iast": "evamaduṣṭaśukraḥ śuddhārtavā ca",
-        "iast_ru": "евамадуш̣т̣аш́украх̣ ш́уддха̄ртава̄ ча"
+        "iast_ru": "евамадуш̣т̣аш́украх̣ ш́уддха̄ртава̄ ча",
+        "text_en": "Thus is attained the state in which the semen is unspoiled and the menstrual fluid is pure."
       },
       {
         "type": "verse",
@@ -12159,7 +12276,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ऋतौ प्रथमदिवसात् प्रभृति ब्रह्मचारिणी दिवास्वप्नाञ्जनाश्रुपातस्नानानुलेपनाभ्यङ्गनखच्छेदनप्रधावनहसनकथनातिशब्दश्रवणावलेखनानिलायासान् परिहरेत्/ किꣳ कारणꣳ? दिवा स्वपन्य्ताः स्वापशीलः, अञ्जनादन्धः, रोदनाद्धिकृतदृष्टिः, स्नानानुलेपनाहुःखशीलः, तैलाभ्यङ्गात् कुष्ठी, नखापकर्तनात् कुनखी प्रधावनाच्चञ्चलः, हसनाच्छ्यावदन्तौष्ठतालुजिह्वाः, प्रलापी चातिकथनात्, अतिशब्दश्रवणाद्बधिरः, अवलेखनात् खलतिः, मारुतायाससेवनादुन्मत्तो गर्भो भवतीत्येवमेतान् परिहरेत्/ दर्भसꣳस्तरशायिनीꣳ करतलशरावपर्णान्यतमभोजिनीꣳ हनिष्यꣳ, त्र्यहꣳ च भर्तुः सꣳरक्षेत्/ ततः शुद्धस्नाताꣳ चतुर्थे+अहन्यहतवासाꣳऽअहतवाससमलङ्कृताꣳऽइति पा+ समलङ्कृताꣳ कृतमङ्गलस्वस्तिवाचनाꣳ भर्तारꣳ दर्शयेत्/ तत् कस्य हेतोः?",
         "text": "Начиная с первого дня месячных женщине следует соблюдать целомудрие и избегать: дневного сна, нанесения коллирия на глаза, проливания слёз, омовения, умащения благовониями, растирания маслом, стрижки ногтей, бега, смеха, долгих разговоров, слушания громких звуков, расчёсывания волос и излишнего напряжения. По какой причине? От дневного сна дитя станет сонливым; от коллирия — слепым; от плача — с испорченным зрением; от омовения и умащения — болезненным; от растирания маслом — прокажённым; от стрижки ногтей — с плохими ногтями; от бега — беспокойным; от смеха — с тёмными зубами, губами, нёбом и языком; от долгих разговоров — болтливым; от слушания громких звуков — глухим; от расчёсывания — плешивым; от излишнего напряжения — безумным. Именно поэтому всего этого следует избегать. Ей следует лежать на подстилке из травы куша, есть с ладоней или с листовой посуды, воздерживаться от прочего и в течение трёх дней хранить целомудрие по отношению к супругу. Затем, чисто омывшись, на четвёртый день, облачённая в новую одежду и украшенная, с совершённым благословением, пусть покажется супругу. По какой же причине?",
         "iast": "ṛtau prathamadivasāt prabhṛti brahmacāriṇī divāsvapnāñjanāśrupātasnānānulepanābhyaṅganakhacchedanapradhāvanahasanakathanātiśabdaśravaṇāvalekhanānilāyāsān pariharet/ kiṁ kāraṇaṁ? divā svapanytāḥ svāpaśīlaḥ, añjanādandhaḥ, rodanāddhikṛtadṛṣṭiḥ, snānānulepanāhuḥkhaśīlaḥ, tailābhyaṅgāt kuṣṭhī, nakhāpakartanāt kunakhī pradhāvanāccañcalaḥ, hasanācchyāvadantauṣṭhatālujihvāḥ, pralāpī cātikathanāt, atiśabdaśravaṇādbadhiraḥ, avalekhanāt khalatiḥ, mārutāyāsasevanādunmatto garbho bhavatītyevametān pariharet/ darbhasaṁstaraśāyinīṁ karatalaśarāvaparṇānyatamabhojinīṁ haniṣyaṁ, tryahaṁ ca bhartuḥ saṁrakṣet/ tataḥ śuddhasnātāṁ caturthe+ahanyahatavāsāṁ'ahatavāsasamalaṅkṛtāṁ'iti pā+ samalaṅkṛtāṁ kṛtamaṅgalasvastivācanāṁ bhartāraṁ darśayet/ tat kasya hetoḥ?",
-        "iast_ru": "р̣тау пратхамадиваса̄т прабхр̣ти брахмача̄рин̣ӣ дива̄свапна̄н̃джана̄ш́рупа̄тасна̄на̄нулепана̄бхйан̇ганакхаччхеданапрадха̄ванахасанакатхана̄тиш́абдаш́раван̣а̄валекхана̄нила̄йа̄са̄н парихарет/ ким̣ ка̄ран̣ам̣? дива̄ свапанйта̄х̣ сва̄паш́ӣлах̣, ан̃джана̄дандхах̣, родана̄ддхикр̣тадр̣ш̣т̣их̣, сна̄на̄нулепана̄хух̣кхаш́ӣлах̣, таила̄бхйан̇га̄т куш̣т̣хӣ, накха̄пакартана̄т кунакхӣ прадха̄вана̄ччан̃чалах̣, хасана̄ччхйа̄вадантауш̣т̣хата̄луджихва̄х̣, прала̄пӣ ча̄тикатхана̄т, атиш́абдаш́раван̣а̄дбадхирах̣, авалекхана̄т кхалатих̣, ма̄рута̄йа̄сасевана̄дунматто гарбхо бхаватӣтйевамета̄н парихарет/ дарбхасам̣стараш́а̄йинӣм̣ караталаш́ара̄вапарн̣а̄нйатамабходжинӣм̣ ханиш̣йам̣, трйахам̣ ча бхартух̣ сам̣ракш̣ет/ татах̣ ш́уддхасна̄та̄м̣ чатуртхе+аханйахатава̄са̄м̣'ахатава̄сасамалан̇кр̣та̄м̣'ити па̄+ самалан̇кр̣та̄м̣ кр̣таман̇галасвастива̄чана̄м̣ бхарта̄рам̣ дарш́айет/ тат касйа хетох̣?"
+        "iast_ru": "р̣тау пратхамадиваса̄т прабхр̣ти брахмача̄рин̣ӣ дива̄свапна̄н̃джана̄ш́рупа̄тасна̄на̄нулепана̄бхйан̇ганакхаччхеданапрадха̄ванахасанакатхана̄тиш́абдаш́раван̣а̄валекхана̄нила̄йа̄са̄н парихарет/ ким̣ ка̄ран̣ам̣? дива̄ свапанйта̄х̣ сва̄паш́ӣлах̣, ан̃джана̄дандхах̣, родана̄ддхикр̣тадр̣ш̣т̣их̣, сна̄на̄нулепана̄хух̣кхаш́ӣлах̣, таила̄бхйан̇га̄т куш̣т̣хӣ, накха̄пакартана̄т кунакхӣ прадха̄вана̄ччан̃чалах̣, хасана̄ччхйа̄вадантауш̣т̣хата̄луджихва̄х̣, прала̄пӣ ча̄тикатхана̄т, атиш́абдаш́раван̣а̄дбадхирах̣, авалекхана̄т кхалатих̣, ма̄рута̄йа̄сасевана̄дунматто гарбхо бхаватӣтйевамета̄н парихарет/ дарбхасам̣стараш́а̄йинӣм̣ караталаш́ара̄вапарн̣а̄нйатамабходжинӣм̣ ханиш̣йам̣, трйахам̣ ча бхартух̣ сам̣ракш̣ет/ татах̣ ш́уддхасна̄та̄м̣ чатуртхе+аханйахатава̄са̄м̣'ахатава̄сасамалан̇кр̣та̄м̣'ити па̄+ самалан̇кр̣та̄м̣ кр̣таман̇галасвастива̄чана̄м̣ бхарта̄рам̣ дарш́айет/ тат касйа хетох̣?",
+        "text_en": "Beginning from the first day of menstruation a woman should observe chastity and avoid: sleeping during the day, applying collyrium to the eyes, shedding tears, bathing, anointing with perfumes, rubbing with oil, cutting the nails, running, laughing, prolonged talking, listening to loud sounds, combing the hair, and excessive exertion. For what reason? From daytime sleep the child will become drowsy; from collyrium, blind; from weeping, one with impaired eyesight; from bathing and anointing, sickly; from rubbing with oil, leprous; from nail-cutting, one with poor nails; from running, restless; from laughing, one with dark teeth, lips, palate, and tongue; from prolonged talking, garrulous; from listening to loud sounds, deaf; from combing, bald; from excessive exertion, insane. It is precisely for this reason that all of this should be avoided. She should lie on a bed of kusha grass, eat from her cupped hands or from leaf-plates, abstain from other things, and for three days maintain chastity toward her husband. Then, having bathed thoroughly, on the fourth day, clad in new garments and adorned, with the blessing duly performed, let her present herself before her husband. For what reason?"
       },
       {
         "type": "verse",
@@ -12167,7 +12285,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पूर्वꣳ पश्येदृतुस्नाता यादृशꣳ नरमङ्गना तादृशꣳ जनयेत् पुत्रꣳ भर्तारꣳ दर्शयेदतः",
         "text": "Женщина, омывшаяся после месячных, какого мужчину увидит первым, такого по облику сына и родит; поэтому первым делом пусть покажется мужу.",
         "iast": "pūrvaṁ paśyedṛtusnātā yādṛśaṁ naramaṅganā tādṛśaṁ janayet putraṁ bhartāraṁ darśayedataḥ",
-        "iast_ru": "пӯрвам̣ паш́йедр̣тусна̄та̄ йа̄др̣ш́ам̣ нараман̇гана̄ та̄др̣ш́ам̣ джанайет путрам̣ бхарта̄рам̣ дарш́айедатах̣"
+        "iast_ru": "пӯрвам̣ паш́йедр̣тусна̄та̄ йа̄др̣ш́ам̣ нараман̇гана̄ та̄др̣ш́ам̣ джанайет путрам̣ бхарта̄рам̣ дарш́айедатах̣",
+        "text_en": "A woman who has bathed after her menses will bear a son resembling in appearance whichever man she sees first; therefore she should first of all present herself before her husband."
       },
       {
         "type": "verse",
@@ -12175,7 +12294,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ततो विधानꣳ पुर्तीयमुपाध्यायः समाचरेत् कर्मान्ते च क्रमꣳ ह्येनमारभेत विचक्षणः",
         "text": "Затем жрец должен совершить надлежащий обряд; и по завершении обряда сведущий муж должен приступить к этому порядку действий.",
         "iast": "tato vidhānaṁ purtīyamupādhyāyaḥ samācaret karmānte ca kramaṁ hyenamārabheta vicakṣaṇaḥ",
-        "iast_ru": "тато видха̄нам̣ пуртӣйамупа̄дхйа̄йах̣ сама̄чарет карма̄нте ча крамам̣ хйенама̄рабхета вичакш̣ан̣ах̣"
+        "iast_ru": "тато видха̄нам̣ пуртӣйамупа̄дхйа̄йах̣ сама̄чарет карма̄нте ча крамам̣ хйенама̄рабхета вичакш̣ан̣ах̣",
+        "text_en": "Then the priest should perform the appropriate rite; and upon completion of the rite, the learned husband should proceed with this course of action."
       },
       {
         "type": "verse",
@@ -12183,7 +12303,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ततो+अपराह्णे पुमान् मासꣳ ब्रह्मचारी सर्पिःस्निग्धः सर्पिःक्षीराभ्याꣳ शाल्योदनꣳ भुक्त्वा मासꣳ ब्रह्मचारिणीꣳ तैलस्निग्धाꣳ तैलमाषोत्तराहाराꣳ नारीमुपेयाद्रात्रौ सामादिभिर्-अभिविश्वास्यऽआस्वास्यऽइति पा+; विकल्पयैवꣳ चतुर्थ्याꣳ षाष्ठ्यामष्टम्याꣳ दशम्याꣳ द्वादश्याꣳ चोपेयादिति पुत्रकामः",
         "text": "Затем, во второй половине дня, мужчина, соблюдавший целомудрие в течение месяца, умащённый гхритой, вкусив рис Шали с гхритой и молоком, пусть приблизится ночью к женщине, также месяц соблюдавшей целомудрие, умащённой маслом и питавшейся пищей с маслом и бобами Маша, — успокоив её ласковыми словами и подобным. При этом желающий сына пусть приближается на четвёртую, шестую, восьмую, десятую или двенадцатую ночь от начала месячных.",
         "iast": "tato+aparāhṇe pumān māsaṁ brahmacārī sarpiḥsnigdhaḥ sarpiḥkṣīrābhyāṁ śālyodanaṁ bhuktvā māsaṁ brahmacāriṇīṁ tailasnigdhāṁ tailamāṣottarāhārāṁ nārīmupeyādrātrau sāmādibhir-abhiviśvāsya'āsvāsya'iti pā+; vikalpayaivaṁ caturthyāṁ ṣāṣṭhyāmaṣṭamyāṁ daśamyāṁ dvādaśyāṁ copeyāditi putrakāmaḥ",
-        "iast_ru": "тато+апара̄хн̣е пума̄н ма̄сам̣ брахмача̄рӣ сарпих̣снигдхах̣ сарпих̣кш̣ӣра̄бхйа̄м̣ ш́а̄лйоданам̣ бхуктва̄ ма̄сам̣ брахмача̄рин̣ӣм̣ таиласнигдха̄м̣ таилама̄ш̣оттара̄ха̄ра̄м̣ на̄рӣмупейа̄дра̄трау са̄ма̄дибхир-абхивиш́ва̄сйа'а̄сва̄сйа'ити па̄+; викалпайаивам̣ чатуртхйа̄м̣ ш̣а̄ш̣т̣хйа̄маш̣т̣амйа̄м̣ даш́амйа̄м̣ два̄даш́йа̄м̣ чопейа̄дити путрака̄мах̣"
+        "iast_ru": "тато+апара̄хн̣е пума̄н ма̄сам̣ брахмача̄рӣ сарпих̣снигдхах̣ сарпих̣кш̣ӣра̄бхйа̄м̣ ш́а̄лйоданам̣ бхуктва̄ ма̄сам̣ брахмача̄рин̣ӣм̣ таиласнигдха̄м̣ таилама̄ш̣оттара̄ха̄ра̄м̣ на̄рӣмупейа̄дра̄трау са̄ма̄дибхир-абхивиш́ва̄сйа'а̄сва̄сйа'ити па̄+; викалпайаивам̣ чатуртхйа̄м̣ ш̣а̄ш̣т̣хйа̄маш̣т̣амйа̄м̣ даш́амйа̄м̣ два̄даш́йа̄м̣ чопейа̄дити путрака̄мах̣",
+        "text_en": "Then, in the latter part of the day, the man, having observed chastity for a month, anointed with ghrita, having eaten Shali rice with ghrita and milk, should approach the woman at night — she likewise having observed chastity for a month, anointed with oil, and having subsisted on food with oil and Masha beans — soothing her with gentle words and the like. In this, one desiring a son should approach on the fourth, sixth, eighth, tenth, or twelfth night from the onset of the menses."
       },
       {
         "type": "verse",
@@ -12191,7 +12312,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एषूत्तरोत्तरꣳ विद्यादायुरारोग्यमेव च प्रजासौभाग्यमैश्वर्यꣳ बलꣳ च दिवसेषु वै",
         "text": "В эти дни, чем позднее из перечисленных, тем больше, следует знать, будет долголетия, здоровья, благополучия потомства, могущества и силы.",
         "iast": "eṣūttarottaraṁ vidyādāyurārogyameva ca prajāsaubhāgyamaiśvaryaṁ balaṁ ca divaseṣu vai",
-        "iast_ru": "еш̣ӯттароттарам̣ видйа̄да̄йура̄рогйамева ча праджа̄саубха̄гйамаиш́варйам̣ балам̣ ча дивасеш̣у ваи"
+        "iast_ru": "еш̣ӯттароттарам̣ видйа̄да̄йура̄рогйамева ча праджа̄саубха̄гйамаиш́варйам̣ балам̣ ча дивасеш̣у ваи",
+        "text_en": "Of these days, it should be known, the later the day among those listed, the greater will be the longevity, health, prosperity of offspring, might, and strength."
       },
       {
         "type": "verse",
@@ -12199,7 +12321,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अतः परꣳ पञ्चम्याꣳ सप्तम्याꣳ नवम्यामेकादश्याꣳ च स्त्रीकामः; त्रयोदशीप्रभृतयो निन्द्याः",
         "text": "А для желающего дочь — на пятую, седьмую, девятую или одиннадцатую ночь; ночи начиная с тринадцатой достойны осуждения.",
         "iast": "ataḥ paraṁ pañcamyāṁ saptamyāṁ navamyāmekādaśyāṁ ca strīkāmaḥ; trayodaśīprabhṛtayo nindyāḥ",
-        "iast_ru": "атах̣ парам̣ пан̃чамйа̄м̣ саптамйа̄м̣ навамйа̄мека̄даш́йа̄м̣ ча стрӣка̄мах̣; трайодаш́ӣпрабхр̣тайо ниндйа̄х̣"
+        "iast_ru": "атах̣ парам̣ пан̃чамйа̄м̣ саптамйа̄м̣ навамйа̄мека̄даш́йа̄м̣ ча стрӣка̄мах̣; трайодаш́ӣпрабхр̣тайо ниндйа̄х̣",
+        "text_en": "But for one desiring a daughter — on the fifth, seventh, ninth, or eleventh night; nights from the thirteenth onward are to be condemned."
       },
       {
         "type": "verse",
@@ -12207,7 +12330,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र प्रथमे दिवसे ऋतुमत्याꣳ मैथुनगम(नम?)नायुष्यꣳ पुꣳसाꣳ भवति, यश्च तत्राधीयते गर्भः स प्रसवमानो विमुच्यतेऽविमुच्यते प्राणैःऽइति पा+; द्वितीये+अप्येवꣳ सूतिकागृहे वा; तृतीये+अप्येवमसꣳपूर्णाङ्गो+अल्पायुर्वा भवति; चतुर्थे तु सꣳपूर्णाङ्गो दीर्घायुश्च भवति/ नच प्रवर्तमाने रक्ते बीजꣳ प्रविष्टꣳ गुणकरꣳ भवति, यथा नद्याꣳ प्रतिस्रोतः प्लाविद्रव्यꣳ प्रक्षिप्तꣳ प्रतिनिवर्तते नोर्ध्नꣳ गच्छति तद्वदेवऽतद्वदेतत्ऽइति पा+ द्रष्टव्यम्/ तस्मान्नियमवतीꣳ त्रिरात्रꣳ परिहरेत्/ अतः परꣳ मासादुपेयात्",
         "text": "Совокупление с женщиной в первый день месячных приводит к тому, что зачатый в это время плод погибает при самих родах либо сразу после рождения; так же и во второй день — либо погибает в родильном покое; так же и в третий день — рождается с неполными членами или недолговечным; но в четвёртый день дитя рождается с полными членами и долговечным. Семя, попавшее в лоно при продолжающемся истечении крови, не приносит пользы — подобно тому, как брошенный в реку против течения плавучий предмет отбрасывается назад, а не движется вперёд. Поэтому супругу следует избегать сближения с соблюдающей обряд женщиной в течение трёх ночей; лишь после этого срока, спустя месяц, следует приближаться к ней.",
         "iast": "tatra prathame divase ṛtumatyāṁ maithunagama(nama?)nāyuṣyaṁ puṁsāṁ bhavati, yaśca tatrādhīyate garbhaḥ sa prasavamāno vimucyate'vimucyate prāṇaiḥ'iti pā+; dvitīye+apyevaṁ sūtikāgṛhe vā; tṛtīye+apyevamasaṁpūrṇāṅgo+alpāyurvā bhavati; caturthe tu saṁpūrṇāṅgo dīrghāyuśca bhavati/ naca pravartamāne rakte bījaṁ praviṣṭaṁ guṇakaraṁ bhavati, yathā nadyāṁ pratisrotaḥ plāvidravyaṁ prakṣiptaṁ pratinivartate nordhnaṁ gacchati tadvadeva'tadvadetat'iti pā+ draṣṭavyam/ tasmānniyamavatīṁ trirātraṁ pariharet/ ataḥ paraṁ māsādupeyāt",
-        "iast_ru": "татра пратхаме дивасе р̣туматйа̄м̣ маитхунагама(нама?)на̄йуш̣йам̣ пум̣са̄м̣ бхавати, йаш́ча татра̄дхӣйате гарбхах̣ са прасавама̄но вимучйате'вимучйате пра̄н̣аих̣'ити па̄+; двитӣйе+апйевам̣ сӯтика̄гр̣хе ва̄; тр̣тӣйе+апйевамасам̣пӯрн̣а̄н̇го+алпа̄йурва̄ бхавати; чатуртхе ту сам̣пӯрн̣а̄н̇го дӣргха̄йуш́ча бхавати/ нача правартама̄не ракте бӣджам̣ правиш̣т̣ам̣ гун̣акарам̣ бхавати, йатха̄ надйа̄м̣ пратисротах̣ пла̄видравйам̣ пракш̣иптам̣ пратинивартате нордхнам̣ гаччхати тадвадева'тадвадетат'ити па̄+ драш̣т̣авйам/ тасма̄ннийамаватӣм̣ трира̄трам̣ парихарет/ атах̣ парам̣ ма̄са̄дупейа̄т"
+        "iast_ru": "татра пратхаме дивасе р̣туматйа̄м̣ маитхунагама(нама?)на̄йуш̣йам̣ пум̣са̄м̣ бхавати, йаш́ча татра̄дхӣйате гарбхах̣ са прасавама̄но вимучйате'вимучйате пра̄н̣аих̣'ити па̄+; двитӣйе+апйевам̣ сӯтика̄гр̣хе ва̄; тр̣тӣйе+апйевамасам̣пӯрн̣а̄н̇го+алпа̄йурва̄ бхавати; чатуртхе ту сам̣пӯрн̣а̄н̇го дӣргха̄йуш́ча бхавати/ нача правартама̄не ракте бӣджам̣ правиш̣т̣ам̣ гун̣акарам̣ бхавати, йатха̄ надйа̄м̣ пратисротах̣ пла̄видравйам̣ пракш̣иптам̣ пратинивартате нордхнам̣ гаччхати тадвадева'тадвадетат'ити па̄+ драш̣т̣авйам/ тасма̄ннийамаватӣм̣ трира̄трам̣ парихарет/ атах̣ парам̣ ма̄са̄дупейа̄т",
+        "text_en": "Intercourse with a woman on the first day of the menses results in the fetus conceived at that time perishing at the very time of birth or immediately after birth; likewise on the second day, it perishes in the lying-in chamber; likewise on the third day, the child is born with incomplete limbs or short-lived; but on the fourth day the child is born with complete limbs and long-lived. Semen that enters the womb while the flow of blood is still continuing brings no benefit, just as a floating object thrown into a river against the current is carried back rather than moving forward. Therefore the husband should avoid intimacy with a woman observing the rite for three nights; only after this period, a month later, should he approach her."
       },
       {
         "type": "verse",
@@ -12215,7 +12339,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "लब्धगर्भायाश्चैतेष्वहःसु लक्ष्मणावटशुङ्गासहदेवाविश्वदेवानामन्यतमꣳ क्षीरेणाभिषुत्य त्रीꣳश्चतुरोवा बिन्दून् दद्याद्दक्षिणे नासापुटे पुत्रकामायै[अस्याग्रे+अवामे दुहितृकामायैऽ इत्यधिकꣳ पथ्यते क्वचित्पुस्तके/], न च तान्निष्ठीवेत्",
         "text": "Той, что зачала в один из этих дней, следует, растерев с молоком сок одного из растений — Лакшманы, побега Вата, Сахадевы или Вишвадевы, — влить три или четыре капли в правую ноздрю женщины, желающей сына; и ей не следует их выплёвывать.",
         "iast": "labdhagarbhāyāścaiteṣvahaḥsu lakṣmaṇāvaṭaśuṅgāsahadevāviśvadevānāmanyatamaṁ kṣīreṇābhiṣutya trīṁścaturovā bindūn dadyāddakṣiṇe nāsāpuṭe putrakāmāyai[asyāgre+avāme duhitṛkāmāyai' ityadhikaṁ pathyate kvacitpustake/], na ca tānniṣṭhīvet",
-        "iast_ru": "лабдхагарбха̄йа̄ш́чаитеш̣вахах̣су лакш̣ман̣а̄ват̣аш́ун̇га̄сахадева̄виш́вадева̄на̄манйатамам̣ кш̣ӣрен̣а̄бхиш̣утйа трӣм̣ш́чатурова̄ биндӯн дадйа̄ддакш̣ин̣е на̄са̄пут̣е путрака̄ма̄йаи[асйа̄гре+ава̄ме духитр̣ка̄ма̄йаи' итйадхикам̣ патхйате квачитпустаке/], на ча та̄нниш̣т̣хӣвет"
+        "iast_ru": "лабдхагарбха̄йа̄ш́чаитеш̣вахах̣су лакш̣ман̣а̄ват̣аш́ун̇га̄сахадева̄виш́вадева̄на̄манйатамам̣ кш̣ӣрен̣а̄бхиш̣утйа трӣм̣ш́чатурова̄ биндӯн дадйа̄ддакш̣ин̣е на̄са̄пут̣е путрака̄ма̄йаи[асйа̄гре+ава̄ме духитр̣ка̄ма̄йаи' итйадхикам̣ патхйате квачитпустаке/], на ча та̄нниш̣т̣хӣвет",
+        "text_en": "For a woman who has conceived on one of these days, one should grind with milk the juice of one of the plants — Lakshmana, the shoot of Vata, Sahadeva, or Vishvadeva — and pour three or four drops into the right nostril of the woman who desires a son; and she should not spit them out."
       },
       {
         "type": "verse",
@@ -12223,7 +12348,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ध्रुवꣳ चतुर्णाꣳ सान्निध्याद्गर्भः स्याद्विधिपूर्वकः ऋतुक्षेत्राम्बुबीजानाꣳ सामग्र्यादङ्कुरो यथा",
         "text": "При надлежащем соединении четырёх условий непременно возникает зачатие, проведённое согласно предписанию, — подобно тому, как росток возникает от совокупности сезона, поля, воды и семени.",
         "iast": "dhruvaṁ caturṇāṁ sānnidhyādgarbhaḥ syādvidhipūrvakaḥ ṛtukṣetrāmbubījānāṁ sāmagryādaṅkuro yathā",
-        "iast_ru": "дхрувам̣ чатурн̣а̄м̣ са̄ннидхйа̄дгарбхах̣ сйа̄двидхипӯрваках̣ р̣тукш̣етра̄мбубӣджа̄на̄м̣ са̄магрйа̄дан̇куро йатха̄"
+        "iast_ru": "дхрувам̣ чатурн̣а̄м̣ са̄ннидхйа̄дгарбхах̣ сйа̄двидхипӯрваках̣ р̣тукш̣етра̄мбубӣджа̄на̄м̣ са̄магрйа̄дан̇куро йатха̄",
+        "text_en": "When the four conditions are duly combined, conception undertaken according to the prescription is bound to occur, just as a sprout arises from the combination of season, field, water, and seed."
       },
       {
         "type": "verse",
@@ -12231,7 +12357,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एवꣳ जाता रूपवन्तः सत्त्ववन्तश्चिरायुषःऽमहासत्त्वा+ऽइति पा+ भवन्त्यृणस्य मोक्तारः सत्पुत्राः पुत्रिणे(णो) हिताः",
         "text": "Так рождённые дети бывают благообразны, обладают душевной силой, долговечны, освобождают родителей от долга предкам, — истинные сыновья, благо для имеющих сыновей.",
         "iast": "evaṁ jātā rūpavantaḥ sattvavantaścirāyuṣaḥ'mahāsattvā+'iti pā+ bhavantyṛṇasya moktāraḥ satputrāḥ putriṇe(ṇo) hitāḥ",
-        "iast_ru": "евам̣ джа̄та̄ рӯпавантах̣ саттваванташ́чира̄йуш̣ах̣'маха̄саттва̄+'ити па̄+ бхавантйр̣н̣асйа мокта̄рах̣ сатпутра̄х̣ путрин̣е(н̣о) хита̄х̣"
+        "iast_ru": "евам̣ джа̄та̄ рӯпавантах̣ саттваванташ́чира̄йуш̣ах̣'маха̄саттва̄+'ити па̄+ бхавантйр̣н̣асйа мокта̄рах̣ сатпутра̄х̣ путрин̣е(н̣о) хита̄х̣",
+        "text_en": "Children thus born are well-formed, possess strength of spirit, are long-lived, and free their parents from the debt owed to the ancestors — true sons, a blessing for those who have sons."
       },
       {
         "type": "verse",
@@ -12239,7 +12366,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र तेजोधातुः सर्ववर्णानाꣳ प्रभवः, स यदा गर्भोतोअत्तावब्धातुप्रायो भवति तदा गर्भꣳ गौरꣳ करोति, पृथिवीधातुप्रायः कृष्णꣳ, पृथिव्याकाशधातुप्रायः कृष्णश्यामꣳ, तोयाकाशधातुप्रायो गौरश्यामम्/ यादृग्वर्णमाहारमुपसेवते गर्भिणी तादृग्वर्णप्रसवा भव्तीत्येके भाषन्ते/ तत्र दृष्टिभागमप्रतिपन्नꣳ तेजो जात्यन्धꣳ करोति, तदेव रक्तानुगतꣳ रक्ताक्षꣳ, पित्तानुगतꣳ पिङ्गाक्षꣳ, श्लेष्मानुगतꣳ शुक्लाक्षꣳ, वातानुगतꣳ विकृताक्षमिति",
         "text": "Начало жара есть источник всех цветов кожи: когда при возникновении зародыша оно преимущественно смешано с водным началом, оно делает зародыш светлым; преимущественно с земным началом — тёмным; преимущественно с земным и эфирным — тёмно-смуглым; преимущественно с водным и эфирным — светло-смуглым. Некоторые же говорят, что цвет новорождённого зависит от того, пищу какого цвета употребляет беременная. Жар, не достигший части, относящейся к зрению, делает дитя врождённо слепым; тот же жар, сопутствуемый кровью, — красноглазым; сопутствуемый Питтой — желтоглазым; сопутствуемый Капхой — белоглазым; сопутствуемый Ваю — с испорченным зрением.",
         "iast": "tatra tejodhātuḥ sarvavarṇānāṁ prabhavaḥ, sa yadā garbhotoattāvabdhātuprāyo bhavati tadā garbhaṁ gauraṁ karoti, pṛthivīdhātuprāyaḥ kṛṣṇaṁ, pṛthivyākāśadhātuprāyaḥ kṛṣṇaśyāmaṁ, toyākāśadhātuprāyo gauraśyāmam/ yādṛgvarṇamāhāramupasevate garbhiṇī tādṛgvarṇaprasavā bhavtītyeke bhāṣante/ tatra dṛṣṭibhāgamapratipannaṁ tejo jātyandhaṁ karoti, tadeva raktānugataṁ raktākṣaṁ, pittānugataṁ piṅgākṣaṁ, śleṣmānugataṁ śuklākṣaṁ, vātānugataṁ vikṛtākṣamiti",
-        "iast_ru": "татра теджодха̄тух̣ сарваварн̣а̄на̄м̣ прабхавах̣, са йада̄ гарбхотоатта̄вабдха̄тупра̄йо бхавати тада̄ гарбхам̣ гаурам̣ кароти, пр̣тхивӣдха̄тупра̄йах̣ кр̣ш̣н̣ам̣, пр̣тхивйа̄ка̄ш́адха̄тупра̄йах̣ кр̣ш̣н̣аш́йа̄мам̣, тойа̄ка̄ш́адха̄тупра̄йо гаураш́йа̄мам/ йа̄др̣гварн̣ама̄ха̄рамупасевате гарбхин̣ӣ та̄др̣гварн̣апрасава̄ бхавтӣтйеке бха̄ш̣анте/ татра др̣ш̣т̣ибха̄гамапратипаннам̣ теджо джа̄тйандхам̣ кароти, тадева ракта̄нугатам̣ ракта̄кш̣ам̣, питта̄нугатам̣ пин̇га̄кш̣ам̣, ш́леш̣ма̄нугатам̣ ш́укла̄кш̣ам̣, ва̄та̄нугатам̣ викр̣та̄кш̣амити"
+        "iast_ru": "татра теджодха̄тух̣ сарваварн̣а̄на̄м̣ прабхавах̣, са йада̄ гарбхотоатта̄вабдха̄тупра̄йо бхавати тада̄ гарбхам̣ гаурам̣ кароти, пр̣тхивӣдха̄тупра̄йах̣ кр̣ш̣н̣ам̣, пр̣тхивйа̄ка̄ш́адха̄тупра̄йах̣ кр̣ш̣н̣аш́йа̄мам̣, тойа̄ка̄ш́адха̄тупра̄йо гаураш́йа̄мам/ йа̄др̣гварн̣ама̄ха̄рамупасевате гарбхин̣ӣ та̄др̣гварн̣апрасава̄ бхавтӣтйеке бха̄ш̣анте/ татра др̣ш̣т̣ибха̄гамапратипаннам̣ теджо джа̄тйандхам̣ кароти, тадева ракта̄нугатам̣ ракта̄кш̣ам̣, питта̄нугатам̣ пин̇га̄кш̣ам̣, ш́леш̣ма̄нугатам̣ ш́укла̄кш̣ам̣, ва̄та̄нугатам̣ викр̣та̄кш̣амити",
+        "text_en": "The principle of heat is the source of all the colors of the skin: when, at the arising of the embryo, it is predominantly mixed with the water principle, it makes the embryo fair; predominantly with the earth principle, dark; predominantly with the earth and ether principles, dark-swarthy; predominantly with the water and ether principles, light-swarthy. Some, however, say that the color of the newborn depends on the color of the food consumed by the pregnant woman. Heat that fails to reach the part pertaining to sight makes the child congenitally blind; that same heat, when accompanied by blood, makes it red-eyed; when accompanied by Pitta, yellow-eyed; when accompanied by Kapha, white-eyed; when accompanied by Vayu, one with impaired eyesight."
       },
       {
         "type": "verse",
@@ -12247,7 +12375,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ घृतपिण्डो यथैवाग्निमाश्रितः प्रनिलीयते विसर्पत्यार्तवꣳ नार्यास्तथा पुꣳसाꣳसमागमे",
         "text": "И здесь приводится стих: подобно тому, как ком гхи, помещённый близко к огню, тает и растекается, так и артава женщины при соединении с мужчиной приходит в движение и растекается по лону.",
         "iast": "bhavanti cātra/ ghṛtapiṇḍo yathaivāgnimāśritaḥ pranilīyate visarpatyārtavaṁ nāryāstathā puṁsāṁsamāgame",
-        "iast_ru": "бхаванти ча̄тра/ гхр̣тапин̣д̣о йатхаива̄гнима̄ш́ритах̣ пранилӣйате висарпатйа̄ртавам̣ на̄рйа̄статха̄ пум̣са̄м̣сама̄гаме"
+        "iast_ru": "бхаванти ча̄тра/ гхр̣тапин̣д̣о йатхаива̄гнима̄ш́ритах̣ пранилӣйате висарпатйа̄ртавам̣ на̄рйа̄статха̄ пум̣са̄м̣сама̄гаме",
+        "text_en": "And here a verse is cited: just as a lump of ghee placed near a fire melts and spreads, so too a woman's artava (reproductive fluid), upon union with a man, is set into motion and spreads through the womb."
       },
       {
         "type": "verse",
@@ -12255,7 +12384,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "बीजे+अन्तर्वायुना द्नौ जीवौ कुक्षिमागतौ यमावित्यभिधीयेते धर्मेतरपुरःसरौ",
         "text": "Когда внутри семени, разделённого ветром, два живых начала попадают в утробу одновременно, их называют близнецами, из которых один рождён под знаком дхармы, а другой — под противоположным знаком.",
         "iast": "bīje+antarvāyunā dnau jīvau kukṣimāgatau yamāvityabhidhīyete dharmetarapuraḥsarau",
-        "iast_ru": "бӣдже+антарва̄йуна̄ днау джӣвау кукш̣има̄гатау йама̄витйабхидхӣйете дхарметарапурах̣сарау"
+        "iast_ru": "бӣдже+антарва̄йуна̄ днау джӣвау кукш̣има̄гатау йама̄витйабхидхӣйете дхарметарапурах̣сарау",
+        "text_en": "When, within semen that has been divided by the wind, two living principles enter the womb at the same time, they are called twins, of whom one is born under the sign of dharma and the other under the opposite sign."
       },
       {
         "type": "verse",
@@ -12263,7 +12393,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पित्रोरत्यल्पबीजत्वादासेक्यः पुरुषो भवेत् स शुक्रꣳ प्राश्य लभते ध्वजोच्छ्रायमसꣳशयम्",
         "text": "Из-за чрезмерной малости семени у родителей мужчина становится Асекьей; он, вкусив чужое семя, несомненно обретает поднятие детородного члена.",
         "iast": "pitroratyalpabījatvādāsekyaḥ puruṣo bhavet sa śukraṁ prāśya labhate dhvajocchrāyamasaṁśayam",
-        "iast_ru": "питроратйалпабӣджатва̄да̄секйах̣ пуруш̣о бхавет са ш́украм̣ пра̄ш́йа лабхате дхваджоччхра̄йамасам̣ш́айам"
+        "iast_ru": "питроратйалпабӣджатва̄да̄секйах̣ пуруш̣о бхавет са ш́украм̣ пра̄ш́йа лабхате дхваджоччхра̄йамасам̣ш́айам",
+        "text_en": "On account of the excessive scantiness of the parents' semen, a man becomes an Asekya; having tasted another's semen, he undoubtedly obtains an erection of the generative organ."
       },
       {
         "type": "verse",
@@ -12271,7 +12402,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यः पूतियोनौ जायेत स सौगन्धिकसꣳज्ञितः स योनिशेफसोर्गन्धमाध्राय लभते बलम्",
         "text": "Тот, кто рождён в зловонном лоне, называется Сугандхикой; он обретает силу, лишь вдохнув запах лона и детородного члена другого.",
         "iast": "yaḥ pūtiyonau jāyeta sa saugandhikasaṁjñitaḥ sa yoniśephasorgandhamādhrāya labhate balam",
-        "iast_ru": "йах̣ пӯтийонау джа̄йета са саугандхикасам̣джн̃итах̣ са йониш́епхасоргандхама̄дхра̄йа лабхате балам"
+        "iast_ru": "йах̣ пӯтийонау джа̄йета са саугандхикасам̣джн̃итах̣ са йониш́епхасоргандхама̄дхра̄йа лабхате балам",
+        "text_en": "One who is born in a foul-smelling womb is called a Sugandhika; he obtains potency only upon inhaling the odor of another's womb and generative organ."
       },
       {
         "type": "verse",
@@ -12279,7 +12411,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्वे गुदे+अब्रह्मचर्याद्यः स्त्रीषु पुꣳवत् प्रवर्तते कुम्भीकः स च विज्ञेय, ईर्ष्यकꣳ शृणु चापरम्",
         "text": "Тот, кто из-за неполового воздержания в отношении собственного заднего проходa ведёт себя с женщинами подобно мужчине лишь после этого, — да будет он познан как Кумбхика; услышь же теперь и об ином — Иршаке.",
         "iast": "sve gude+abrahmacaryādyaḥ strīṣu puṁvat pravartate kumbhīkaḥ sa ca vijñeya, īrṣyakaṁ śṛṇu cāparam",
-        "iast_ru": "све гуде+абрахмачарйа̄дйах̣ стрӣш̣у пум̣ват правартате кумбхӣках̣ са ча виджн̃ейа, ӣрш̣йакам̣ ш́р̣н̣у ча̄парам"
+        "iast_ru": "све гуде+абрахмачарйа̄дйах̣ стрӣш̣у пум̣ват правартате кумбхӣках̣ са ча виджн̃ейа, ӣрш̣йакам̣ ш́р̣н̣у ча̄парам",
+        "text_en": "One who, owing to non-sexual restraint with regard to his own anus, behaves toward women as a man only after this — let him be known as a Kumbhika; hear now also of another, the Irshaka."
       },
       {
         "type": "verse",
@@ -12287,7 +12420,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दृष्ट्वा व्यवायमन्येषाꣳ व्यवाये यः प्रवर्तते ईर्ष्यकः स च विज्ञेयः,षण्डकꣳ शृणु पञ्चमम्",
         "text": "Кто, увидев соитие других, лишь тогда способен к соитию сам, да будет он познан как Иршака; услышь же о пятом — Шандаке.",
         "iast": "dṛṣṭvā vyavāyamanyeṣāṁ vyavāye yaḥ pravartate īrṣyakaḥ sa ca vijñeyaḥ,ṣaṇḍakaṁ śṛṇu pañcamam",
-        "iast_ru": "др̣ш̣т̣ва̄ вйава̄йаманйеш̣а̄м̣ вйава̄йе йах̣ правартате ӣрш̣йаках̣ са ча виджн̃ейах̣,ш̣ан̣д̣акам̣ ш́р̣н̣у пан̃чамам"
+        "iast_ru": "др̣ш̣т̣ва̄ вйава̄йаманйеш̣а̄м̣ вйава̄йе йах̣ правартате ӣрш̣йаках̣ са ча виджн̃ейах̣,ш̣ан̣д̣акам̣ ш́р̣н̣у пан̃чамам",
+        "text_en": "One who, having witnessed the intercourse of others, is then alone capable of intercourse himself, let him be known as Irshaka; hear now of the fifth, the Shandaka."
       },
       {
         "type": "verse",
@@ -12295,7 +12429,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यो भार्यायामृतौ मोहादङ्गनेव प्रवर्तते ततः स्त्रीचेष्टिताकारो जायते षण्डसꣳज्ञितः",
         "text": "Кто с супругой в срок месячных, по заблуждению, ведёт себя подобно женщине, — от этого рождается некто с женским обликом и поведением, называемый Шандой.",
         "iast": "yo bhāryāyāmṛtau mohādaṅganeva pravartate tataḥ strīceṣṭitākāro jāyate ṣaṇḍasaṁjñitaḥ",
-        "iast_ru": "йо бха̄рйа̄йа̄мр̣тау моха̄дан̇ганева правартате татах̣ стрӣчеш̣т̣ита̄ка̄ро джа̄йате ш̣ан̣д̣асам̣джн̃итах̣"
+        "iast_ru": "йо бха̄рйа̄йа̄мр̣тау моха̄дан̇ганева правартате татах̣ стрӣчеш̣т̣ита̄ка̄ро джа̄йате ш̣ан̣д̣асам̣джн̃итах̣",
+        "text_en": "One who, with his wife during the time of menses, through delusion, behaves like a woman, from this is born one of feminine appearance and behavior, called a Shanda."
       },
       {
         "type": "verse",
@@ -12303,7 +12438,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ऋतौ पुरुषवद्वा+अपि प्रवर्तेताङ्गना यदि तत्र कन्या यदि भवेत् सा भवेन्नरचेष्टिता",
         "text": "Если же женщина в срок месячных ведёт себя подобно мужчине, и если при этом зачинается дочь, то она будет обладать мужским поведением.",
         "iast": "ṛtau puruṣavadvā+api pravartetāṅganā yadi tatra kanyā yadi bhavet sā bhavennaraceṣṭitā",
-        "iast_ru": "р̣тау пуруш̣авадва̄+апи правартета̄н̇гана̄ йади татра канйа̄ йади бхавет са̄ бхавеннарачеш̣т̣ита̄"
+        "iast_ru": "р̣тау пуруш̣авадва̄+апи правартета̄н̇гана̄ йади татра канйа̄ йади бхавет са̄ бхавеннарачеш̣т̣ита̄",
+        "text_en": "But if a woman, during the time of her menses, behaves like a man, and if a daughter is conceived at that time, she will possess masculine behavior."
       },
       {
         "type": "verse",
@@ -12311,7 +12447,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आसेक्यश्च सुगन्धी च कुम्भीकश्चेर्ष्यकस्तथा सरेतसस्त्वमी ज्ञेया अशुक्रः षण्ड(ण्ढ)सꣳज्ञितः",
         "text": "Асекья, Сугандхи, Кумбхика и Иршака — эти, следует знать, обладают семенем; лишённый же семени называется Шандой.",
         "iast": "āsekyaśca sugandhī ca kumbhīkaścerṣyakastathā saretasastvamī jñeyā aśukraḥ ṣaṇḍa(ṇḍha)saṁjñitaḥ",
-        "iast_ru": "а̄секйаш́ча сугандхӣ ча кумбхӣкаш́черш̣йакастатха̄ саретасаствамӣ джн̃ейа̄ аш́украх̣ ш̣ан̣д̣а(н̣д̣ха)сам̣джн̃итах̣"
+        "iast_ru": "а̄секйаш́ча сугандхӣ ча кумбхӣкаш́черш̣йакастатха̄ саретасаствамӣ джн̃ейа̄ аш́украх̣ ш̣ан̣д̣а(н̣д̣ха)сам̣джн̃итах̣",
+        "text_en": "Asekya, Sugandhi, Kumbhika, and Irshaka, these, it should be known, possess semen; one devoid of semen is called a Shanda."
       },
       {
         "type": "verse",
@@ -12319,7 +12456,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अनया विप्रकृत्या तु तेषाꣳ शुक्रवहाः सिराः हर्षात् स्फुटत्वमायान्ति ध्वजोच्छ्रायस्ततो भवेत्",
         "text": "Из-за этого расстройства их семявыносящие сосуды раскрываются от возбуждения, и оттого возникает поднятие детородного члена.",
         "iast": "anayā viprakṛtyā tu teṣāṁ śukravahāḥ sirāḥ harṣāt sphuṭatvamāyānti dhvajocchrāyastato bhavet",
-        "iast_ru": "анайа̄ випракр̣тйа̄ ту теш̣а̄м̣ ш́украваха̄х̣ сира̄х̣ харш̣а̄т спхут̣атвама̄йа̄нти дхваджоччхра̄йастато бхавет"
+        "iast_ru": "анайа̄ випракр̣тйа̄ ту теш̣а̄м̣ ш́украваха̄х̣ сира̄х̣ харш̣а̄т спхут̣атвама̄йа̄нти дхваджоччхра̄йастато бхавет",
+        "text_en": "Owing to this disorder, their seminal vessels open under excitement, and from this arises the erection of the generative organ."
       },
       {
         "type": "verse",
@@ -12327,7 +12465,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आहाराचारचेष्टाभिर्यादृशीभिः समन्वितौ स्त्रीपुꣳसौ समुपेयाताꣳ तयोः पुत्रो+अपि तादृशः",
         "text": "Каковыми пищей, поведением и действиями сопровождаются мужчина и женщина, вступающие в соитие, таковым же становится и их сын.",
         "iast": "āhārācāraceṣṭābhiryādṛśībhiḥ samanvitau strīpuṁsau samupeyātāṁ tayoḥ putro+api tādṛśaḥ",
-        "iast_ru": "а̄ха̄ра̄ча̄рачеш̣т̣а̄бхирйа̄др̣ш́ӣбхих̣ саманвитау стрӣпум̣сау самупейа̄та̄м̣ тайох̣ путро+апи та̄др̣ш́ах̣"
+        "iast_ru": "а̄ха̄ра̄ча̄рачеш̣т̣а̄бхирйа̄др̣ш́ӣбхих̣ саманвитау стрӣпум̣сау самупейа̄та̄м̣ тайох̣ путро+апи та̄др̣ш́ах̣",
+        "text_en": "Whatever food, conduct, and actions accompany the man and woman entering into intercourse, such likewise does their son become."
       },
       {
         "type": "verse",
@@ -12335,7 +12474,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यदा नार्यावुपेयाताꣳ वृषस्यन्त्यौ कथꣳचन मुञ्चन्त्यौ शुक्रमन्योन्यमनस्थिस्तत्र जायते",
         "text": "Когда две женщины каким-либо образом соединяются, играя роль мужчины друг для друга, и выделяют семя друг для друга, — там рождается бескостное существо.",
         "iast": "yadā nāryāvupeyātāṁ vṛṣasyantyau kathaṁcana muñcantyau śukramanyonyamanasthistatra jāyate",
-        "iast_ru": "йада̄ на̄рйа̄вупейа̄та̄м̣ вр̣ш̣асйантйау катхам̣чана мун̃чантйау ш́украманйонйаманастхистатра джа̄йате"
+        "iast_ru": "йада̄ на̄рйа̄вупейа̄та̄м̣ вр̣ш̣асйантйау катхам̣чана мун̃чантйау ш́украманйонйаманастхистатра джа̄йате",
+        "text_en": "When two women unite in some manner, playing the role of man for each other, and discharge seed for each other, a boneless being is born there."
       },
       {
         "type": "verse",
@@ -12343,7 +12483,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ऋतुस्नाता तु या नारी स्वप्ने मैथुनमावहेत् आर्तवꣳ वायुरादाय कुक्षौ गर्भꣳ करोति हि",
         "text": "Женщина же, омывшаяся после месячных, если во сне испытывает видение соития, — ветер, увлекая её артаву, образует зародыш в утробе.",
         "iast": "ṛtusnātā tu yā nārī svapne maithunamāvahet ārtavaṁ vāyurādāya kukṣau garbhaṁ karoti hi",
-        "iast_ru": "р̣тусна̄та̄ ту йа̄ на̄рӣ свапне маитхунама̄вахет а̄ртавам̣ ва̄йура̄да̄йа кукш̣ау гарбхам̣ кароти хи"
+        "iast_ru": "р̣тусна̄та̄ ту йа̄ на̄рӣ свапне маитхунама̄вахет а̄ртавам̣ ва̄йура̄да̄йа кукш̣ау гарбхам̣ кароти хи",
+        "text_en": "But a woman who, having bathed after her menses, experiences in a dream a vision of intercourse, the wind, carrying along her artava, forms an embryo in the womb."
       },
       {
         "type": "verse",
@@ -12351,7 +12492,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मासि मासि विवर्धेत गर्भिण्या गर्भलक्षणम् कललꣳ जायते तस्या वर्जितꣳ पैतृकैर्गुणैः",
         "text": "Из месяца в месяц у беременной возрастают признаки зародыша; в начале же у неё возникает Калала — зачаточная студенистая масса, лишённая отцовских качеств семени.",
         "iast": "māsi māsi vivardheta garbhiṇyā garbhalakṣaṇam kalalaṁ jāyate tasyā varjitaṁ paitṛkairguṇaiḥ",
-        "iast_ru": "ма̄си ма̄си вивардхета гарбхин̣йа̄ гарбхалакш̣ан̣ам калалам̣ джа̄йате тасйа̄ варджитам̣ паитр̣каиргун̣аих̣"
+        "iast_ru": "ма̄си ма̄си вивардхета гарбхин̣йа̄ гарбхалакш̣ан̣ам калалам̣ джа̄йате тасйа̄ варджитам̣ паитр̣каиргун̣аих̣",
+        "text_en": "From month to month the signs of the embryo grow in the pregnant woman; at the outset there arises in her the Kalala, a rudimentary gelatinous mass, devoid of the paternal qualities of the semen."
       },
       {
         "type": "verse",
@@ -12359,7 +12501,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सर्पवृश्चिककूष्माण्डविकृताकृतयश्च ये गर्भास्त्वेते स्त्रियाश्चैव ज्ञेयाः पापकृता भृशम्",
         "text": "Плоды же, обладающие уродливым обличьем змеи, скорпиона или тыквы, — эти следует признать результатом тяжких грехов, совершённых женщиной.",
         "iast": "sarpavṛścikakūṣmāṇḍavikṛtākṛtayaśca ye garbhāstvete striyāścaiva jñeyāḥ pāpakṛtā bhṛśam",
-        "iast_ru": "сарпавр̣ш́чикакӯш̣ма̄н̣д̣авикр̣та̄кр̣тайаш́ча йе гарбха̄ствете стрийа̄ш́чаива джн̃ейа̄х̣ па̄пакр̣та̄ бхр̣ш́ам"
+        "iast_ru": "сарпавр̣ш́чикакӯш̣ма̄н̣д̣авикр̣та̄кр̣тайаш́ча йе гарбха̄ствете стрийа̄ш́чаива джн̃ейа̄х̣ па̄пакр̣та̄ бхр̣ш́ам",
+        "text_en": "Fetuses that bear the deformed appearance of a snake, a scorpion, or a gourd should be recognized as the result of grave sins committed by the woman."
       },
       {
         "type": "verse",
@@ -12367,7 +12510,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गर्भो वातप्रकोपेण दौहृदे वावमानिते भवेत् कुब्जः कुणिः पङ्गुर्मूको मिन्मिन एव वा",
         "text": "Зародыш, из-за возбуждения Ваю или от того, что его даухрида (беременная тяга) была не удовлетворена, может стать горбатым, безруким, хромым, немым или заикающимся,",
         "iast": "garbho vātaprakopeṇa dauhṛde vāvamānite bhavet kubjaḥ kuṇiḥ paṅgurmūko minmina eva vā",
-        "iast_ru": "гарбхо ва̄тапракопен̣а даухр̣де ва̄вама̄ните бхавет кубджах̣ кун̣их̣ пан̇гурмӯко минмина ева ва̄"
+        "iast_ru": "гарбхо ва̄тапракопен̣а даухр̣де ва̄вама̄ните бхавет кубджах̣ кун̣их̣ пан̇гурмӯко минмина ева ва̄",
+        "text_en": "The embryo, owing to the aggravation of Vayu, or because her dauhrida (pregnancy craving) went unsatisfied, may become hunchbacked, armless, lame, mute, or stammering,"
       },
       {
         "type": "verse",
@@ -12375,7 +12519,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मातापित्रोस्तु नास्तिक्यादशुभैश्च पुराकृतैः वातादीनाꣳ च कोपेन गर्भो विकृतिमाप्नुयात्",
         "text": "а также вследствие безверия родителей, неблагоприятных прежних деяний и возбуждения Ваю и прочих дош зародыш может обрести уродство.",
         "iast": "mātāpitrostu nāstikyādaśubhaiśca purākṛtaiḥ vātādīnāṁ ca kopena garbho vikṛtimāpnuyāt",
-        "iast_ru": "ма̄та̄питросту на̄стикйа̄даш́убхаиш́ча пура̄кр̣таих̣ ва̄та̄дӣна̄м̣ ча копена гарбхо викр̣тима̄пнуйа̄т"
+        "iast_ru": "ма̄та̄питросту на̄стикйа̄даш́убхаиш́ча пура̄кр̣таих̣ ва̄та̄дӣна̄м̣ ча копена гарбхо викр̣тима̄пнуйа̄т",
+        "text_en": "and also, as a consequence of the parents' faithlessness, unfavorable past deeds, and the aggravation of Vayu and the other doshas, the embryo may acquire deformity."
       },
       {
         "type": "verse",
@@ -12383,7 +12528,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मलाल्पत्वादयोगाच्च वायोः प्क्वाशयस्य च वातमूत्रपुरीषाणि न गर्भस्थः करोति हि",
         "text": "Пребывающий в утробе плод не выделяет ветра, мочи и кала — из-за скудости отходов и из-за того, что Ваю ещё не действует на область толстой кишки.",
         "iast": "malālpatvādayogācca vāyoḥ pkvāśayasya ca vātamūtrapurīṣāṇi na garbhasthaḥ karoti hi",
-        "iast_ru": "мала̄лпатва̄дайога̄чча ва̄йох̣ пква̄ш́айасйа ча ва̄тамӯтрапурӣш̣а̄н̣и на гарбхастхах̣ кароти хи"
+        "iast_ru": "мала̄лпатва̄дайога̄чча ва̄йох̣ пква̄ш́айасйа ча ва̄тамӯтрапурӣш̣а̄н̣и на гарбхастхах̣ кароти хи",
+        "text_en": "The fetus dwelling in the womb does not pass wind, urine, or feces, owing to the scantiness of waste products and because Vayu does not yet act upon the region of the large intestine."
       },
       {
         "type": "verse",
@@ -12391,7 +12537,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जरायुणा मुखे च्छन्ने कण्ठे च कल्हवेष्टिते वायोर्मार्गनिरोधाच्च न गर्भस्थः प्ररोदिति",
         "text": "Поскольку рот плода покрыт плацентарной оболочкой, а горло окутано слизью, и из-за преграждения пути Ваю, пребывающий в утробе плод не издаёт крика.",
         "iast": "jarāyuṇā mukhe cchanne kaṇṭhe ca kalhaveṣṭite vāyormārganirodhācca na garbhasthaḥ praroditi",
-        "iast_ru": "джара̄йун̣а̄ мукхе ччханне кан̣т̣хе ча калхавеш̣т̣ите ва̄йорма̄рганиродха̄чча на гарбхастхах̣ прародити"
+        "iast_ru": "джара̄йун̣а̄ мукхе ччханне кан̣т̣хе ча калхавеш̣т̣ите ва̄йорма̄рганиродха̄чча на гарбхастхах̣ прародити",
+        "text_en": "Since the fetus's mouth is covered by the placental membrane and its throat is enveloped in mucus, and owing to the obstruction of the path of Vayu, the fetus dwelling in the womb does not cry out."
       },
       {
         "type": "verse",
@@ -12399,7 +12546,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निःश्वासोच्छ्वाससङ्क्षोभस्वप्नान् गर्भो+अधिगच्छति मातुर्निश्वसितोच्छ्वाससङ्क्षोभस्वप्नसꣳभवान्",
         "text": "Вдох, выдох, движения и сон плод обретает как производные от вдоха, выдоха, движений и сна матери.",
         "iast": "niḥśvāsocchvāsasaṅkṣobhasvapnān garbho+adhigacchati māturniśvasitocchvāsasaṅkṣobhasvapnasaṁbhavān",
-        "iast_ru": "них̣ш́ва̄соччхва̄сасан̇кш̣обхасвапна̄н гарбхо+адхигаччхати ма̄турниш́васиточчхва̄сасан̇кш̣обхасвапнасам̣бхава̄н"
+        "iast_ru": "них̣ш́ва̄соччхва̄сасан̇кш̣обхасвапна̄н гарбхо+адхигаччхати ма̄турниш́васиточчхва̄сасан̇кш̣обхасвапнасам̣бхава̄н",
+        "text_en": "Inhalation, exhalation, movement, and sleep the fetus acquires as derivatives of the mother's inhalation, exhalation, movement, and sleep."
       },
       {
         "type": "verse",
@@ -12407,7 +12555,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सन्निवेशः शरीराणाꣳ दन्तानाꣳ पतनोद्भवौ तलेष्वसꣳभवो यश्च रोम्णामेतत् स्वभावतः",
         "text": "Расположение частей тела, выпадение и появление зубов, а также отсутствие волос на ладонях и стопах — всё это происходит естественным образом, само по себе.",
         "iast": "sanniveśaḥ śarīrāṇāṁ dantānāṁ patanodbhavau taleṣvasaṁbhavo yaśca romṇāmetat svabhāvataḥ",
-        "iast_ru": "саннивеш́ах̣ ш́арӣра̄н̣а̄м̣ данта̄на̄м̣ патанодбхавау талеш̣васам̣бхаво йаш́ча ромн̣а̄метат свабха̄ватах̣"
+        "iast_ru": "саннивеш́ах̣ ш́арӣра̄н̣а̄м̣ данта̄на̄м̣ патанодбхавау талеш̣васам̣бхаво йаш́ча ромн̣а̄метат свабха̄ватах̣",
+        "text_en": "The arrangement of the bodily parts, the shedding and eruption of the teeth, and the absence of hair on the palms and soles, all of this occurs naturally, of itself."
       },
       {
         "type": "verse",
@@ -12415,7 +12564,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भाविताः पूर्वदेहेषु सततꣳ शास्त्रबुद्धयः भवन्ति सत्त्वभूयिष्ठाः पूर्वजातिस्मरा नराः",
         "text": "Люди, чей разум в прежних телах был постоянно проникнут знанием шастр, в новом рождении обладают преизбытком саттвы и помнят своё прежнее рождение;",
         "iast": "bhāvitāḥ pūrvadeheṣu satataṁ śāstrabuddhayaḥ bhavanti sattvabhūyiṣṭhāḥ pūrvajātismarā narāḥ",
-        "iast_ru": "бха̄вита̄х̣ пӯрвадехеш̣у сататам̣ ш́а̄страбуддхайах̣ бхаванти саттвабхӯйиш̣т̣ха̄х̣ пӯрваджа̄тисмара̄ нара̄х̣"
+        "iast_ru": "бха̄вита̄х̣ пӯрвадехеш̣у сататам̣ ш́а̄страбуддхайах̣ бхаванти саттвабхӯйиш̣т̣ха̄х̣ пӯрваджа̄тисмара̄ нара̄х̣",
+        "text_en": "People whose minds, in former bodies, were constantly imbued with knowledge of the treatises, possess in their new birth an abundance of sattva and remember their former birth;"
       },
       {
         "type": "verse",
@@ -12423,7 +12573,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कर्मणा चोदितो येन तदाप्नोति पुनर्भवे अभ्यस्ताः पूर्वदेहे ये तानेव भजते गुणान्",
         "text": "тем действием, которым человек был движим, тем он и обретает в новом рождении; какие качества были упражняемы в прежнем теле, те же качества он и проявляет снова. Так заканчивается вторая глава Шарира-стханы, излагающая очищение семени и менструальной крови.",
         "iast": "karmaṇā codito yena tadāpnoti punarbhave abhyastāḥ pūrvadehe ye tāneva bhajate guṇān",
-        "iast_ru": "карман̣а̄ чодито йена тада̄пноти пунарбхаве абхйаста̄х̣ пӯрвадехе йе та̄нева бхаджате гун̣а̄н"
+        "iast_ru": "карман̣а̄ чодито йена тада̄пноти пунарбхаве абхйаста̄х̣ пӯрвадехе йе та̄нева бхаджате гун̣а̄н",
+        "text_en": "by whatever action a person was driven, by that same he attains in his new birth; whatever qualities were exercised in the former body, those same qualities he manifests again. Thus ends the second chapter of the Sharirasthana, expounding the purification of semen and menstrual blood."
       }
     ]
   },
@@ -12445,7 +12596,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातो गर्भावक्रान्ति शारीरꣳ व्याख्यास्यामः",
         "text": "Итак, далее мы изложим главу Шарира-стханы о вступлении зародыша в утробу (Гарбхавакранти).",
         "iast": "athāto garbhāvakrānti śārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄то гарбха̄вакра̄нти ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄то гарбха̄вакра̄нти ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now, next we shall set forth the chapter of the Sharirasthana on the entry of the embryo into the womb (Garbhavakranti)."
       },
       {
         "type": "verse",
@@ -12453,7 +12605,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "— как поведал о том владыка Дханвантари.",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "as it was declared by the Lord Dhanvantari."
       },
       {
         "type": "verse",
@@ -12461,7 +12614,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सौम्यꣳ शुक्रमार्तवमाग्नेयमितरेषामप्यत्र भूतानाꣳ सान्निध्यमस्त्यणुना विशेषेण, परस्परोपकारात्परस्परानुग्रहात्परस्परानुप्रवेशाच्च",
         "text": "Семя (шукра) по природе своей связано с началом Сомы (лунным, охлаждающим), менструальная кровь (артава) — с началом Агни (огненным); прочие первоначала (бхуты) также присутствуют здесь, хотя и в незначительной, тонкой мере, — ибо все они взаимно поддерживают, взаимно благоприятствуют и взаимно проникают друг в друга.",
         "iast": "saumyaṁ śukramārtavamāgneyamitareṣāmapyatra bhūtānāṁ sānnidhyamastyaṇunā viśeṣeṇa, parasparopakārātparasparānugrahātparasparānupraveśācca",
-        "iast_ru": "саумйам̣ ш́украма̄ртавама̄гнейамитареш̣а̄мапйатра бхӯта̄на̄м̣ са̄ннидхйамастйан̣уна̄ виш́еш̣ен̣а, параспаропака̄ра̄тпараспара̄нуграха̄тпараспара̄нуправеш́а̄чча"
+        "iast_ru": "саумйам̣ ш́украма̄ртавама̄гнейамитареш̣а̄мапйатра бхӯта̄на̄м̣ са̄ннидхйамастйан̣уна̄ виш́еш̣ен̣а, параспаропака̄ра̄тпараспара̄нуграха̄тпараспара̄нуправеш́а̄чча",
+        "text_en": "Semen (shukra), by its nature, is connected with the principle of Soma (lunar, cooling); menstrual blood (artava) with the principle of Agni (fiery); the other elements (bhutas) are also present here, though in a slight, subtle degree, for all of them mutually sustain, mutually favor, and mutually pervade one another."
       },
       {
         "type": "verse",
@@ -12469,7 +12623,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र स्त्रीपुꣳसयोः सꣳयोगे तेजः शरीराद्वायुरुदीरयति, ततस्तेजोनिलसन्निपातच्छुक्रꣳ च्युतꣳ योनिमभिप्रतिपद्यते सꣳसृज्यते चार्तवेन, ततो+अग्नीषोमसꣳयोगात् (गर्भो?) सꣳसृज्यमानो (गर्भो?) गर्भाशयमनुप्रतिपद्यते क्षेत्रज्ञो वेदयिता स्प्रष्टा घ्राता द्रष्टा श्रोता रसयिता पुरुषः स्रष्टा गन्ता साक्षी धाता वक्ता यः को+असावित्येवमादिभिः पर्यायवाचकैर्नामभिरभिधीयते दैनसꣳ(यो?)गादक्षयो+अचिन्त्यो भूतात्मना सहान्वक्षꣳ सत्त्वरजस्तमोभिर्दैनासुरैरपरैश्च भावैर्वायुना+अभिप्रेर्यमाणः, गर्भाशयमनुप्रनिश्यावतिष्ठते",
         "text": "Когда мужчина и женщина соединяются, внутренний Ваю приводит в движение телесный жар (Теджас); от столкновения жара и Ваю выделенное семя достигает лона и смешивается там с менструальной кровью. Затем, через соединение начал Агни и Сомы, зарождающийся плод утверждается в полости матки. Тот, кто зовётся Кшетраджной (знающим поле), познающим, осязающим, обоняющим, зрящим, слышащим, вкушающим, Пурушей, творцом, идущим, свидетелем, устроителем, говорящим, — тем «кто есть он», — называется этими и подобными синонимичными именами; неисчерпаемый и непостижимый вследствие связи с прежними деяниями, он, вместе с началом бхутатмы, сопровождаемый саттвой, раджасом и тамасом, а также иными божественными, демоническими и прочими качествами, увлекаемый Ваю, входит в полость матки и утверждается там.",
         "iast": "tatra strīpuṁsayoḥ saṁyoge tejaḥ śarīrādvāyurudīrayati, tatastejonilasannipātacchukraṁ cyutaṁ yonimabhipratipadyate saṁsṛjyate cārtavena, tato+agnīṣomasaṁyogāt (garbho?) saṁsṛjyamāno (garbho?) garbhāśayamanupratipadyate kṣetrajño vedayitā spraṣṭā ghrātā draṣṭā śrotā rasayitā puruṣaḥ sraṣṭā gantā sākṣī dhātā vaktā yaḥ ko+asāvityevamādibhiḥ paryāyavācakairnāmabhirabhidhīyate dainasaṁ(yo?)gādakṣayo+acintyo bhūtātmanā sahānvakṣaṁ sattvarajastamobhirdaināsurairaparaiśca bhāvairvāyunā+abhipreryamāṇaḥ, garbhāśayamanupraniśyāvatiṣṭhate",
-        "iast_ru": "татра стрӣпум̣сайох̣ сам̣йоге теджах̣ ш́арӣра̄два̄йурудӣрайати, татастеджониласаннипа̄таччхукрам̣ чйутам̣ йонимабхипратипадйате сам̣ср̣джйате ча̄ртавена, тато+агнӣш̣омасам̣йога̄т (гарбхо?) сам̣ср̣джйама̄но (гарбхо?) гарбха̄ш́айаманупратипадйате кш̣етраджн̃о ведайита̄ спраш̣т̣а̄ гхра̄та̄ драш̣т̣а̄ ш́рота̄ расайита̄ пуруш̣ах̣ сраш̣т̣а̄ ганта̄ са̄кш̣ӣ дха̄та̄ вакта̄ йах̣ ко+аса̄витйевама̄дибхих̣ парйа̄йава̄чакаирна̄мабхирабхидхӣйате даинасам̣(йо?)га̄дакш̣айо+ачинтйо бхӯта̄тмана̄ саха̄нвакш̣ам̣ саттвараджастамобхирдаина̄сураирапараиш́ча бха̄ваирва̄йуна̄+абхипрерйама̄н̣ах̣, гарбха̄ш́айаманупраниш́йа̄ватиш̣т̣хате"
+        "iast_ru": "татра стрӣпум̣сайох̣ сам̣йоге теджах̣ ш́арӣра̄два̄йурудӣрайати, татастеджониласаннипа̄таччхукрам̣ чйутам̣ йонимабхипратипадйате сам̣ср̣джйате ча̄ртавена, тато+агнӣш̣омасам̣йога̄т (гарбхо?) сам̣ср̣джйама̄но (гарбхо?) гарбха̄ш́айаманупратипадйате кш̣етраджн̃о ведайита̄ спраш̣т̣а̄ гхра̄та̄ драш̣т̣а̄ ш́рота̄ расайита̄ пуруш̣ах̣ сраш̣т̣а̄ ганта̄ са̄кш̣ӣ дха̄та̄ вакта̄ йах̣ ко+аса̄витйевама̄дибхих̣ парйа̄йава̄чакаирна̄мабхирабхидхӣйате даинасам̣(йо?)га̄дакш̣айо+ачинтйо бхӯта̄тмана̄ саха̄нвакш̣ам̣ саттвараджастамобхирдаина̄сураирапараиш́ча бха̄ваирва̄йуна̄+абхипрерйама̄н̣ах̣, гарбха̄ш́айаманупраниш́йа̄ватиш̣т̣хате",
+        "text_en": "When a man and a woman unite, the internal Vayu sets the bodily heat (Tejas) into motion; from the collision of heat and Vayu, the discharged semen reaches the womb and there mingles with the menstrual blood. Then, through the union of the principles of Agni and Soma, the nascent fetus becomes established in the cavity of the uterus. He who is called Kshetrajna (the knower of the field), the one who perceives, who touches, who smells, who sees, who hears, who tastes, Purusha, the creator, the goer, the witness, the ordainer, the speaker, that \"who is he\", is called by these and other synonymous names; inexhaustible and incomprehensible by virtue of his connection with former deeds, he, together with the principle of the bhutatma (elemental self), accompanied by sattva, rajas, and tamas, as well as other divine, demonic, and other qualities, borne along by Vayu, enters the cavity of the uterus and becomes established there."
       },
       {
         "type": "verse",
@@ -12477,7 +12632,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र शुक्रबाहुल्यात् पुमान्, आर्तवबाहुल्यात् स्त्री, साम्यादुभयोर्नपुꣳसकमिति",
         "text": "При этом, если семени больше — рождается мальчик; если менструальной крови больше — рождается девочка; если оба равны — рождается бесполое существо (напумсака).",
         "iast": "tatra śukrabāhulyāt pumān, ārtavabāhulyāt strī, sāmyādubhayornapuṁsakamiti",
-        "iast_ru": "татра ш́украба̄хулйа̄т пума̄н, а̄ртаваба̄хулйа̄т стрӣ, са̄мйа̄дубхайорнапум̣сакамити"
+        "iast_ru": "татра ш́украба̄хулйа̄т пума̄н, а̄ртаваба̄хулйа̄т стрӣ, са̄мйа̄дубхайорнапум̣сакамити",
+        "text_en": "In this, if there is more semen, a boy is born; if more menstrual blood, a girl is born; if both are equal, a sexless being (napumsaka) is born."
       },
       {
         "type": "verse",
@@ -12485,7 +12641,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ऋतुस्तु द्वादशरात्रꣳ भवति दृष्टार्तवः; अदृष्टार्तवा+अप्यस्तीत्येके भाषन्ते",
         "text": "Периодом, благоприятным для зачатия (рита), считаются двенадцать ночей после появления видимых менструальных выделений; некоторые же утверждают, что таковой период существует и без видимого менструального истечения.",
         "iast": "ṛtustu dvādaśarātraṁ bhavati dṛṣṭārtavaḥ; adṛṣṭārtavā+apyastītyeke bhāṣante",
-        "iast_ru": "р̣тусту два̄даш́ара̄трам̣ бхавати др̣ш̣т̣а̄ртавах̣; адр̣ш̣т̣а̄ртава̄+апйастӣтйеке бха̄ш̣анте"
+        "iast_ru": "р̣тусту два̄даш́ара̄трам̣ бхавати др̣ш̣т̣а̄ртавах̣; адр̣ш̣т̣а̄ртава̄+апйастӣтйеке бха̄ш̣анте",
+        "text_en": "The period favorable for conception (rita) is reckoned as the twelve nights following the appearance of the visible menstrual discharge; some, however, maintain that such a period exists even without a visible menstrual flow."
       },
       {
         "type": "verse",
@@ -12493,7 +12650,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ पीनप्रसन्नवदनाꣳ प्रक्लिन्नात्ममुखद्विजाम् नरकामाꣳ प्रियकथाꣳ स्रस्तकुक्ष्यक्षिमूर्धजाम्",
         "text": "Об этом говорится так: женщина в периоде рита — та, чьё лицо становится полным и ясным, чей рот и зубы делаются влажными, та, что охотно внимает приятным (любовным) речам, чьи живот, глаза и волосы становятся расслабленными (опущенными).",
         "iast": "bhavanti cātra/ pīnaprasannavadanāṁ praklinnātmamukhadvijām narakāmāṁ priyakathāṁ srastakukṣyakṣimūrdhajām",
-        "iast_ru": "бхаванти ча̄тра/ пӣнапрасаннавадана̄м̣ праклинна̄тмамукхадвиджа̄м нарака̄ма̄м̣ прийакатха̄м̣ срастакукш̣йакш̣имӯрдхаджа̄м"
+        "iast_ru": "бхаванти ча̄тра/ пӣнапрасаннавадана̄м̣ праклинна̄тмамукхадвиджа̄м нарака̄ма̄м̣ прийакатха̄м̣ срастакукш̣йакш̣имӯрдхаджа̄м",
+        "text_en": "Of this it is said thus: a woman in the period of rita is one whose face becomes full and clear, whose mouth and teeth become moist, who eagerly attends to pleasant (amorous) speech, and whose belly, eyes, and hair become relaxed (drooping)."
       },
       {
         "type": "verse",
@@ -12501,7 +12659,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्फुरद्भुजकुचश्रोणिनाभ्यूरुजघनस्फिचम् हर्शौत्सुक्यपराꣳ चापि विद्यादृतुमतीमिति",
         "text": "Та, у которой подрагивают руки, грудь, бёдра, пупок, ляжки, лоно и ягодицы, и которая охвачена радостным волнением и стремлением, — да будет узнана как женщина в периоде рита, готовая к зачатию.",
         "iast": "sphuradbhujakucaśroṇinābhyūrujaghanasphicam harśautsukyaparāṁ cāpi vidyādṛtumatīmiti",
-        "iast_ru": "спхурадбхуджакучаш́рон̣ина̄бхйӯруджагханаспхичам харш́аутсукйапара̄м̣ ча̄пи видйа̄др̣туматӣмити"
+        "iast_ru": "спхурадбхуджакучаш́рон̣ина̄бхйӯруджагханаспхичам харш́аутсукйапара̄м̣ ча̄пи видйа̄др̣туматӣмити",
+        "text_en": "One whose arms, breasts, thighs, navel, hips, pubic region, and buttocks tremble, and who is seized with joyful excitement and longing, let her be known as a woman in the period of rita, ready for conception."
       },
       {
         "type": "verse",
@@ -12509,7 +12668,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "नियतꣳ दिवसे+अतीते सङ्कुचत्यम्बुजꣳ यथा ऋतौ व्यतीते नार्यास्तु योनिः सꣳव्रियते तथा",
         "text": "Подобно тому, как лотос закрывается по прошествии определённого дня, так и лоно женщины закрывается, становится непригодным для зачатия, когда период рита минует.",
         "iast": "niyataṁ divase+atīte saṅkucatyambujaṁ yathā ṛtau vyatīte nāryāstu yoniḥ saṁvriyate tathā",
-        "iast_ru": "нийатам̣ дивасе+атӣте сан̇кучатйамбуджам̣ йатха̄ р̣тау вйатӣте на̄рйа̄сту йоних̣ сам̣врийате татха̄"
+        "iast_ru": "нийатам̣ дивасе+атӣте сан̇кучатйамбуджам̣ йатха̄ р̣тау вйатӣте на̄рйа̄сту йоних̣ сам̣врийате татха̄",
+        "text_en": "Just as a lotus closes after a certain day has passed, so too a woman's womb closes and becomes unfit for conception when the period of rita has passed."
       },
       {
         "type": "verse",
@@ -12517,7 +12677,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मासेनोपचितꣳ काले धमनीभ्याꣳ तदार्तवम् ईषत्कृष्णꣳ विगन्धꣳ च वायुर्योनिमुखꣳ नयेत्",
         "text": "Накопленная в течение месяца менструальная кровь, слегка тёмная и с неприятным запахом, по прошествии срока изгоняется Ваю через сосуды (дхамани) к устью лона.",
         "iast": "māsenopacitaṁ kāle dhamanībhyāṁ tadārtavam īṣatkṛṣṇaṁ vigandhaṁ ca vāyuryonimukhaṁ nayet",
-        "iast_ru": "ма̄сенопачитам̣ ка̄ле дхаманӣбхйа̄м̣ тада̄ртавам ӣш̣аткр̣ш̣н̣ам̣ вигандхам̣ ча ва̄йурйонимукхам̣ найет"
+        "iast_ru": "ма̄сенопачитам̣ ка̄ле дхаманӣбхйа̄м̣ тада̄ртавам ӣш̣аткр̣ш̣н̣ам̣ вигандхам̣ ча ва̄йурйонимукхам̣ найет",
+        "text_en": "The menstrual blood accumulated over the course of a month, slightly dark and of unpleasant odor, after the appointed time is expelled by Vayu through the vessels (dhamani) toward the mouth of the womb."
       },
       {
         "type": "verse",
@@ -12525,7 +12686,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तद्वर्षाद्द्वादशात् काले वर्तमानमसृक् पुनः जरापक्वशरीराणाꣳ याति पञ्चाशतः क्षयम्",
         "text": "Это истечение начинается по достижении двенадцати лет и продолжается своевременно вплоть до пятидесятого года, когда с наступлением старости в теле женщины оно прекращается.",
         "iast": "tadvarṣāddvādaśāt kāle vartamānamasṛk punaḥ jarāpakvaśarīrāṇāṁ yāti pañcāśataḥ kṣayam",
-        "iast_ru": "тадварш̣а̄ддва̄даш́а̄т ка̄ле вартама̄намаср̣к пунах̣ джара̄пакваш́арӣра̄н̣а̄м̣ йа̄ти пан̃ча̄ш́атах̣ кш̣айам"
+        "iast_ru": "тадварш̣а̄ддва̄даш́а̄т ка̄ле вартама̄намаср̣к пунах̣ джара̄пакваш́арӣра̄н̣а̄м̣ йа̄ти пан̃ча̄ш́атах̣ кш̣айам",
+        "text_en": "This discharge begins upon reaching the age of twelve years and continues at regular intervals until the fiftieth year, when, with the onset of old age, it ceases in the woman's body."
       },
       {
         "type": "verse",
@@ -12533,7 +12695,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "युग्मेषु तु पुमान् प्रोक्तो दिवसेष्वन्यथा+अबला पुष्पकाले शुचिस्तस्मादपत्यार्थी स्त्रियꣳ व्रजेत्",
         "text": "Говорят, что зачатие в чётные (по счёту) ночи после месячных даёт мальчика, а в нечётные — девочку; поэтому желающий потомства мужчина должен приближаться к чистой женщине в надлежащий срок после месячных.",
         "iast": "yugmeṣu tu pumān prokto divaseṣvanyathā+abalā puṣpakāle śucistasmādapatyārthī striyaṁ vrajet",
-        "iast_ru": "йугмеш̣у ту пума̄н прокто дивасеш̣ванйатха̄+абала̄ пуш̣пака̄ле ш́учистасма̄дапатйа̄ртхӣ стрийам̣ враджет"
+        "iast_ru": "йугмеш̣у ту пума̄н прокто дивасеш̣ванйатха̄+абала̄ пуш̣пака̄ле ш́учистасма̄дапатйа̄ртхӣ стрийам̣ враджет",
+        "text_en": "It is said that conception on even-numbered nights after the menses yields a boy, and on odd-numbered nights a girl; therefore a man desiring offspring should approach a pure woman at the proper time after her menses."
       },
       {
         "type": "verse",
@@ -12541,7 +12704,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सद्योगृहीतगर्भाया लिङ्गानि---श्रमो ग्लानिः पिपासा सक्थिसदनꣳ शुक्रशोणितयोरवबन्धः स्फुरणꣳ च योनेः",
         "text": "Признаки только что зачавшей женщины таковы: усталость, вялость, жажда, тяжесть в бёдрах, задержка (свёртывание) семени и крови в лоне, и подрагивание самого лона.",
         "iast": "tatra sadyogṛhītagarbhāyā liṅgāni---śramo glāniḥ pipāsā sakthisadanaṁ śukraśoṇitayoravabandhaḥ sphuraṇaṁ ca yoneḥ",
-        "iast_ru": "татра садйогр̣хӣтагарбха̄йа̄ лин̇га̄ни---ш́рамо гла̄них̣ пипа̄са̄ сактхисаданам̣ ш́украш́он̣итайоравабандхах̣ спхуран̣ам̣ ча йонех̣"
+        "iast_ru": "татра садйогр̣хӣтагарбха̄йа̄ лин̇га̄ни---ш́рамо гла̄них̣ пипа̄са̄ сактхисаданам̣ ш́украш́он̣итайоравабандхах̣ спхуран̣ам̣ ча йонех̣",
+        "text_en": "The signs of a woman who has just conceived are these: fatigue, listlessness, thirst, heaviness in the thighs, retention (coagulation) of the semen and blood in the womb, and a trembling of the womb itself."
       },
       {
         "type": "verse",
@@ -12549,7 +12713,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्तनयोः कृष्णमुखता रोमराज्युद्गमस्तथा अक्षिपक्ष्माणि चाप्यस्याः सꣳमील्यन्ते विशेषतः",
         "text": "Темнеют соски грудей, появляется линия волос на животе, а ресницы её глаз особенно смыкаются, веки становятся тяжёлыми.",
         "iast": "stanayoḥ kṛṣṇamukhatā romarājyudgamastathā akṣipakṣmāṇi cāpyasyāḥ saṁmīlyante viśeṣataḥ",
-        "iast_ru": "станайох̣ кр̣ш̣н̣амукхата̄ ромара̄джйудгамастатха̄ акш̣ипакш̣ма̄н̣и ча̄пйасйа̄х̣ сам̣мӣлйанте виш́еш̣атах̣"
+        "iast_ru": "станайох̣ кр̣ш̣н̣амукхата̄ ромара̄джйудгамастатха̄ акш̣ипакш̣ма̄н̣и ча̄пйасйа̄х̣ сам̣мӣлйанте виш́еш̣атах̣",
+        "text_en": "The nipples of the breasts darken, a line of hair appears on the abdomen, and the eyelashes of her eyes close more than usual, the eyelids becoming heavy."
       },
       {
         "type": "verse",
@@ -12557,7 +12722,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अकामतश्छर्दयति गन्धादुद्विजते शुभात् प्रसेकः सदनꣳ चापि गर्भिण्या लिङ्गमुच्यते",
         "text": "Она непроизвольно испытывает рвоту, испытывает отвращение даже к приятным запахам, у неё усиливается слюноотделение и общая вялость — таковы признаки беременной.",
         "iast": "akāmataśchardayati gandhādudvijate śubhāt prasekaḥ sadanaṁ cāpi garbhiṇyā liṅgamucyate",
-        "iast_ru": "ака̄маташ́чхардайати гандха̄дудвиджате ш́убха̄т прасеках̣ саданам̣ ча̄пи гарбхин̣йа̄ лин̇гамучйате"
+        "iast_ru": "ака̄маташ́чхардайати гандха̄дудвиджате ш́убха̄т прасеках̣ саданам̣ ча̄пи гарбхин̣йа̄ лин̇гамучйате",
+        "text_en": "She experiences involuntary vomiting, feels aversion even to pleasant odors, and there is increased salivation and general lassitude, such are the signs of a pregnant woman."
       },
       {
         "type": "verse",
@@ -12565,7 +12731,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तदा प्रभृतिऽप्रभृत्येवऽइति पा+ व्यवायꣳ व्यायाममतितर्पणमतिकर्शनꣳ दिवास्वप्नꣳ रात्रिजागरणꣳ शोकꣳ यानारोहणꣳऽयानावरोहणꣳऽइति पा+ भयमुत्कटुकासनꣳ चैकान्ततः स्नेहादिक्रियाꣳ शोणितमोक्षणꣳ चाकाले वेगविधारणꣳ च न सेवेत",
         "text": "С этого времени беременная не должна предаваться совокуплению, чрезмерным физическим упражнениям, излишнему насыщению или излишнему истощению, дневному сну, ночному бодрствованию, скорби, восхождению на повозку и схождению с неё, страху, сидению на корточках в неудобных позах, односторонним избыточным масляным процедурам, кровопусканию, а также несвоевременному подавлению естественных позывов.",
         "iast": "tadā prabhṛti'prabhṛtyeva'iti pā+ vyavāyaṁ vyāyāmamatitarpaṇamatikarśanaṁ divāsvapnaṁ rātrijāgaraṇaṁ śokaṁ yānārohaṇaṁ'yānāvarohaṇaṁ'iti pā+ bhayamutkaṭukāsanaṁ caikāntataḥ snehādikriyāṁ śoṇitamokṣaṇaṁ cākāle vegavidhāraṇaṁ ca na seveta",
-        "iast_ru": "тада̄ прабхр̣ти'прабхр̣тйева'ити па̄+ вйава̄йам̣ вйа̄йа̄маматитарпан̣аматикарш́анам̣ дива̄свапнам̣ ра̄триджа̄гаран̣ам̣ ш́окам̣ йа̄на̄рохан̣ам̣'йа̄на̄варохан̣ам̣'ити па̄+ бхайамуткат̣ука̄санам̣ чаика̄нтатах̣ снеха̄дикрийа̄м̣ ш́он̣итамокш̣ан̣ам̣ ча̄ка̄ле вегавидха̄ран̣ам̣ ча на севета"
+        "iast_ru": "тада̄ прабхр̣ти'прабхр̣тйева'ити па̄+ вйава̄йам̣ вйа̄йа̄маматитарпан̣аматикарш́анам̣ дива̄свапнам̣ ра̄триджа̄гаран̣ам̣ ш́окам̣ йа̄на̄рохан̣ам̣'йа̄на̄варохан̣ам̣'ити па̄+ бхайамуткат̣ука̄санам̣ чаика̄нтатах̣ снеха̄дикрийа̄м̣ ш́он̣итамокш̣ан̣ам̣ ча̄ка̄ле вегавидха̄ран̣ам̣ ча на севета",
+        "text_en": "From this time, the pregnant woman should not indulge in intercourse, excessive physical exertion, excessive satiation or excessive fasting, daytime sleep, nighttime wakefulness, grief, mounting or dismounting a vehicle, fear, sitting on the haunches in uncomfortable postures, one-sided or excessive oil procedures, bloodletting, or the untimely suppression of natural urges."
       },
       {
         "type": "verse",
@@ -12573,7 +12740,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दोषाभिघातैर्गर्भिण्या यो यो भागः प्रपीड्यते स स भागः शिशोस्तस्य गर्भस्थस्य प्रपीड्यते",
         "text": "Какая бы часть тела беременной ни была поражена расстройством дош при ушибе или болезни, та же часть тела зародыша, находящегося в утробе, страдает соответственно.",
         "iast": "doṣābhighātairgarbhiṇyā yo yo bhāgaḥ prapīḍyate sa sa bhāgaḥ śiśostasya garbhasthasya prapīḍyate",
-        "iast_ru": "дош̣а̄бхигха̄таиргарбхин̣йа̄ йо йо бха̄гах̣ прапӣд̣йате са са бха̄гах̣ ш́иш́остасйа гарбхастхасйа прапӣд̣йате"
+        "iast_ru": "дош̣а̄бхигха̄таиргарбхин̣йа̄ йо йо бха̄гах̣ прапӣд̣йате са са бха̄гах̣ ш́иш́остасйа гарбхастхасйа прапӣд̣йате",
+        "text_en": "Whatever part of the pregnant woman's body is afflicted by a disorder of the doshas, whether from injury or disease, that same part of the body of the fetus in the womb suffers correspondingly."
       },
       {
         "type": "verse",
@@ -12581,7 +12749,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र प्रथमे मासि कललꣳ जायते; द्वितीये शीतोष्मानिलैरभिप्रपच्यमानानाꣳ महाभूतानाꣳ सꣳघातो घनः सꣳजायते यदि पिण्डः पुमान्, स्त्री चेत् पेशी, नपुꣳसकꣳ चेदर्बुदमिति; तृतीये हस्तपादशिरसाꣳ पञ्च पिण्डका निर्वर्तन्ते+अङ्गप्रत्यङ्गविभागश्च सूक्ष्मो भवति; चतुर्थे सर्वाङ्गप्रत्यङ्गविभागः प्रव्यक्तो भवति, गर्भहृदयप्रव्यक्तिभावाच्चेतनाधातुरभिव्यक्तो भवति, कस्मात्? तत्स्थानत्वात्; तस्माद्गर्भश्चतुर्थे मास्यभिप्रायमिन्द्रियार्थेषु करोति, द्विहृदयाꣳ च नारीꣳ दौहृदिनीमाचक्षते, दौहृदविमाननात् कुब्जꣳ कुणिꣳ खञ्जꣳ जडꣳ वामनꣳ विकृताक्षमनक्षꣳ वा नारी सुतꣳ जनयति, तस्मात् सा यद्यदिच्छेत्तत्तत्तस्यै दापयेत्, लब्धदौहृदा हि वीर्यवन्तꣳ चिरायुषꣳ च पुत्रꣳ जनयति",
         "text": "На первом месяце зарождается лишь студенистая масса; на втором месяце от воздействия холода, тепла и ветра на первоначала (махабхуты) образуется плотное скопление: если оно шаровидное — быть мальчику, если продолговатое, мышцевидное — быть девочке, если бесформенное, опухолевидное — быть бесполому существу; на третьем месяце образуются пять зачатков — рук, ног и головы, и появляется тонкое разграничение членов и частей тела; на четвёртом месяце разграничение всех членов и частей тела становится явным, а благодаря проявлению зародышевого сердца обнаруживается и начало сознания, поскольку именно в сердце оно и обитает; поэтому на четвёртом месяце зародыш начинает испытывать влечение к объектам чувств, а женщину в это время называют «имеющей два сердца» (даухридини); если её стремления не удовлетворяют, женщина рождает горбатого, увечнорукого, хромого, слабоумного, карлика, с поражёнными глазами или слепого ребёнка; поэтому следует давать ей всё, чего она пожелает, — ибо получившая удовлетворение своих желаний рождает сильного и долговечного сына.",
         "iast": "tatra prathame māsi kalalaṁ jāyate; dvitīye śītoṣmānilairabhiprapacyamānānāṁ mahābhūtānāṁ saṁghāto ghanaḥ saṁjāyate yadi piṇḍaḥ pumān, strī cet peśī, napuṁsakaṁ cedarbudamiti; tṛtīye hastapādaśirasāṁ pañca piṇḍakā nirvartante+aṅgapratyaṅgavibhāgaśca sūkṣmo bhavati; caturthe sarvāṅgapratyaṅgavibhāgaḥ pravyakto bhavati, garbhahṛdayapravyaktibhāvāccetanādhāturabhivyakto bhavati, kasmāt? tatsthānatvāt; tasmādgarbhaścaturthe māsyabhiprāyamindriyārtheṣu karoti, dvihṛdayāṁ ca nārīṁ dauhṛdinīmācakṣate, dauhṛdavimānanāt kubjaṁ kuṇiṁ khañjaṁ jaḍaṁ vāmanaṁ vikṛtākṣamanakṣaṁ vā nārī sutaṁ janayati, tasmāt sā yadyadicchettattattasyai dāpayet, labdhadauhṛdā hi vīryavantaṁ cirāyuṣaṁ ca putraṁ janayati",
-        "iast_ru": "татра пратхаме ма̄си калалам̣ джа̄йате; двитӣйе ш́ӣтош̣ма̄нилаирабхипрапачйама̄на̄на̄м̣ маха̄бхӯта̄на̄м̣ сам̣гха̄то гханах̣ сам̣джа̄йате йади пин̣д̣ах̣ пума̄н, стрӣ чет пеш́ӣ, напум̣сакам̣ чедарбудамити; тр̣тӣйе хастапа̄даш́ираса̄м̣ пан̃ча пин̣д̣ака̄ нирвартанте+ан̇гапратйан̇гавибха̄гаш́ча сӯкш̣мо бхавати; чатуртхе сарва̄н̇гапратйан̇гавибха̄гах̣ правйакто бхавати, гарбхахр̣дайаправйактибха̄ва̄ччетана̄дха̄турабхивйакто бхавати, касма̄т? татстха̄натва̄т; тасма̄дгарбхаш́чатуртхе ма̄сйабхипра̄йаминдрийа̄ртхеш̣у кароти, двихр̣дайа̄м̣ ча на̄рӣм̣ даухр̣динӣма̄чакш̣ате, даухр̣давима̄нана̄т кубджам̣ кун̣им̣ кхан̃джам̣ джад̣ам̣ ва̄манам̣ викр̣та̄кш̣аманакш̣ам̣ ва̄ на̄рӣ сутам̣ джанайати, тасма̄т са̄ йадйадиччхеттаттаттасйаи да̄пайет, лабдхадаухр̣да̄ хи вӣрйавантам̣ чира̄йуш̣ам̣ ча путрам̣ джанайати"
+        "iast_ru": "татра пратхаме ма̄си калалам̣ джа̄йате; двитӣйе ш́ӣтош̣ма̄нилаирабхипрапачйама̄на̄на̄м̣ маха̄бхӯта̄на̄м̣ сам̣гха̄то гханах̣ сам̣джа̄йате йади пин̣д̣ах̣ пума̄н, стрӣ чет пеш́ӣ, напум̣сакам̣ чедарбудамити; тр̣тӣйе хастапа̄даш́ираса̄м̣ пан̃ча пин̣д̣ака̄ нирвартанте+ан̇гапратйан̇гавибха̄гаш́ча сӯкш̣мо бхавати; чатуртхе сарва̄н̇гапратйан̇гавибха̄гах̣ правйакто бхавати, гарбхахр̣дайаправйактибха̄ва̄ччетана̄дха̄турабхивйакто бхавати, касма̄т? татстха̄натва̄т; тасма̄дгарбхаш́чатуртхе ма̄сйабхипра̄йаминдрийа̄ртхеш̣у кароти, двихр̣дайа̄м̣ ча на̄рӣм̣ даухр̣динӣма̄чакш̣ате, даухр̣давима̄нана̄т кубджам̣ кун̣им̣ кхан̃джам̣ джад̣ам̣ ва̄манам̣ викр̣та̄кш̣аманакш̣ам̣ ва̄ на̄рӣ сутам̣ джанайати, тасма̄т са̄ йадйадиччхеттаттаттасйаи да̄пайет, лабдхадаухр̣да̄ хи вӣрйавантам̣ чира̄йуш̣ам̣ ча путрам̣ джанайати",
+        "text_en": "In the first month only a gelatinous mass is formed; in the second month, through the action of cold, heat, and wind upon the primary elements (mahabhutas), a dense mass forms: if it is spherical, a boy will result; if elongated, muscle-like, a girl will result; if formless, tumor-like, a sexless being will result. In the third month the five rudiments, of the arms, legs, and head, are formed, and a subtle demarcation of the limbs and parts of the body appears. In the fourth month the demarcation of all the limbs and parts of the body becomes evident, and through the manifestation of the fetal heart the beginning of consciousness is also disclosed, since it is precisely in the heart that it dwells; therefore in the fourth month the fetus begins to experience an inclination toward the objects of the senses, and the woman at this time is called \"one having two hearts\" (dauhridini); if her longings are not satisfied, the woman gives birth to a hunchbacked, crippled-armed, lame, feeble-minded, dwarfish child, or one with impaired eyes, or a blind child; therefore one should give her everything she desires, for she whose desires are satisfied bears a strong and long-lived son."
       },
       {
         "type": "verse",
@@ -12589,7 +12758,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ इन्द्रियार्थाꣳस्तु यान् यान् सा भोक्तुमिच्छति गर्भिणी गर्भाबाधभयात्ताꣳस्तान् भिषगाहृत्य दापयेत्",
         "text": "Об этом говорится так: каких бы предметов чувственного наслаждения ни пожелала вкусить беременная, врач, из опасения вреда для зародыша, должен добыть их и дать ей.",
         "iast": "bhavati cātra/ indriyārthāṁstu yān yān sā bhoktumicchati garbhiṇī garbhābādhabhayāttāṁstān bhiṣagāhṛtya dāpayet",
-        "iast_ru": "бхавати ча̄тра/ индрийа̄ртха̄м̣сту йа̄н йа̄н са̄ бхоктумиччхати гарбхин̣ӣ гарбха̄ба̄дхабхайа̄тта̄м̣ста̄н бхиш̣ага̄хр̣тйа да̄пайет"
+        "iast_ru": "бхавати ча̄тра/ индрийа̄ртха̄м̣сту йа̄н йа̄н са̄ бхоктумиччхати гарбхин̣ӣ гарбха̄ба̄дхабхайа̄тта̄м̣ста̄н бхиш̣ага̄хр̣тйа да̄пайет",
+        "text_en": "Of this it is said thus: whatever objects of sensory enjoyment the pregnant woman may desire to taste, the physician, fearing harm to the fetus, should procure and give to her."
       },
       {
         "type": "verse",
@@ -12597,7 +12767,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सा प्राप्तदौहृदा पुत्रꣳ जनयेत गुणान्वितम् अलब्धदौहृदा गर्भे लभेतात्मनि वा भयम्",
         "text": "Получившая удовлетворение своего желания родит достойного сына; не получившая же удовлетворения подвергает опасности либо зародыш, либо саму себя.",
         "iast": "sā prāptadauhṛdā putraṁ janayeta guṇānvitam alabdhadauhṛdā garbhe labhetātmani vā bhayam",
-        "iast_ru": "са̄ пра̄птадаухр̣да̄ путрам̣ джанайета гун̣а̄нвитам алабдхадаухр̣да̄ гарбхе лабхета̄тмани ва̄ бхайам"
+        "iast_ru": "са̄ пра̄птадаухр̣да̄ путрам̣ джанайета гун̣а̄нвитам алабдхадаухр̣да̄ гарбхе лабхета̄тмани ва̄ бхайам",
+        "text_en": "She whose desire is satisfied will bear a worthy son; she who does not obtain satisfaction endangers either the fetus or herself."
       },
       {
         "type": "verse",
@@ -12605,7 +12776,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "येषु येष्विन्द्रियार्थेषु दौहृदे वै विमानना प्रजायेत सुतस्यार्तिस्तस्मिꣳस्तस्मिꣳस्तथेन्द्रिये",
         "text": "В каком бы из чувственных желаний беременной ни было допущено пренебрежение, соответствующий орган чувств рождённого дитя будет поражён недугом.",
         "iast": "yeṣu yeṣvindriyārtheṣu dauhṛde vai vimānanā prajāyeta sutasyārtistasmiṁstasmiṁstathendriye",
-        "iast_ru": "йеш̣у йеш̣виндрийа̄ртхеш̣у даухр̣де ваи вима̄нана̄ праджа̄йета сутасйа̄ртистасмим̣стасмим̣статхендрийе"
+        "iast_ru": "йеш̣у йеш̣виндрийа̄ртхеш̣у даухр̣де ваи вима̄нана̄ праджа̄йета сутасйа̄ртистасмим̣стасмим̣статхендрийе",
+        "text_en": "Whichever of the pregnant woman's sensory desires is neglected, the corresponding sense organ of the born child will be afflicted with disease."
       },
       {
         "type": "verse",
@@ -12613,7 +12785,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "राजसन्दर्शने यस्या दौर्हृदꣳ जायते स्त्रियाः अर्थवन्तꣳ महाभागꣳ कुमारꣳ सा प्रसूयते",
         "text": "Женщина, у которой возникает стремление увидеть царя, родит сына, богатого и славного.",
         "iast": "rājasandarśane yasyā daurhṛdaṁ jāyate striyāḥ arthavantaṁ mahābhāgaṁ kumāraṁ sā prasūyate",
-        "iast_ru": "ра̄джасандарш́ане йасйа̄ даурхр̣дам̣ джа̄йате стрийа̄х̣ артхавантам̣ маха̄бха̄гам̣ кума̄рам̣ са̄ прасӯйате"
+        "iast_ru": "ра̄джасандарш́ане йасйа̄ даурхр̣дам̣ джа̄йате стрийа̄х̣ артхавантам̣ маха̄бха̄гам̣ кума̄рам̣ са̄ прасӯйате",
+        "text_en": "A woman in whom there arises a longing to see a king will bear a son who is wealthy and renowned."
       },
       {
         "type": "verse",
@@ -12621,7 +12794,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दुकूलपट्टकौशेयभूषणादिषु दौहृदात् अलङ्कारैषिणꣳ पुत्रꣳ ललितꣳ सा प्रसूयते",
         "text": "Если стремление её обращено к тонким тканям, шёлку и украшениям, она родит сына изящного, любящего наряды и украшения.",
         "iast": "dukūlapaṭṭakauśeyabhūṣaṇādiṣu dauhṛdāt alaṅkāraiṣiṇaṁ putraṁ lalitaṁ sā prasūyate",
-        "iast_ru": "дукӯлапат̣т̣акауш́ейабхӯш̣ан̣а̄диш̣у даухр̣да̄т алан̇ка̄раиш̣ин̣ам̣ путрам̣ лалитам̣ са̄ прасӯйате"
+        "iast_ru": "дукӯлапат̣т̣акауш́ейабхӯш̣ан̣а̄диш̣у даухр̣да̄т алан̇ка̄раиш̣ин̣ам̣ путрам̣ лалитам̣ са̄ прасӯйате",
+        "text_en": "If her longing is directed toward fine fabrics, silk, and ornaments, she will bear a son who is graceful and fond of adornment and finery."
       },
       {
         "type": "verse",
@@ -12629,7 +12803,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आश्रमे सꣳयतात्मानꣳ धर्मशीलꣳ प्रसूयते देवताप्रतिमायाꣳ तु प्रसूते पार्षदोपमम् दर्शने व्यालजातीनाꣳ हिꣳसाशीलꣳ प्रसूयते",
         "text": "Стремление к обители подвижников — родит сына, обладающего самообладанием и приверженного дхарме; стремление увидеть изваяние божества — родит сына, подобного божественному спутнику; стремление увидеть хищных, ядовитых животных — родит сына жестокого, склонного к насилию.",
         "iast": "āśrame saṁyatātmānaṁ dharmaśīlaṁ prasūyate devatāpratimāyāṁ tu prasūte pārṣadopamam darśane vyālajātīnāṁ hiṁsāśīlaṁ prasūyate",
-        "iast_ru": "а̄ш́раме сам̣йата̄тма̄нам̣ дхармаш́ӣлам̣ прасӯйате девата̄пратима̄йа̄м̣ ту прасӯте па̄рш̣адопамам дарш́ане вйа̄ладжа̄тӣна̄м̣ хим̣са̄ш́ӣлам̣ прасӯйате"
+        "iast_ru": "а̄ш́раме сам̣йата̄тма̄нам̣ дхармаш́ӣлам̣ прасӯйате девата̄пратима̄йа̄м̣ ту прасӯте па̄рш̣адопамам дарш́ане вйа̄ладжа̄тӣна̄м̣ хим̣са̄ш́ӣлам̣ прасӯйате",
+        "text_en": "A longing for the abode of ascetics will yield a son possessed of self-control and devoted to dharma; a longing to see the image of a deity will yield a son resembling a divine attendant; a longing to see fierce, venomous animals will yield a son who is cruel and inclined to violence."
       },
       {
         "type": "verse",
@@ -12637,7 +12812,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गोधामाꣳसाशने पुत्रꣳ सुषुप्सुꣳ धारणात्मकम्ऽधावनात्मकम्ऽइति पा+/ गवाꣳ माꣳसे तु बलिनꣳ सर्वक्लेशसहꣳ तथा",
         "text": "Стремление вкусить мясо годхи (варана) — родит сына сонливого, но стойкого; стремление же к говядине — родит сына сильного, способного переносить любые тяготы.",
         "iast": "godhāmāṁsāśane putraṁ suṣupsuṁ dhāraṇātmakam'dhāvanātmakam'iti pā+/ gavāṁ māṁse tu balinaṁ sarvakleśasahaṁ tathā",
-        "iast_ru": "годха̄ма̄м̣са̄ш́ане путрам̣ суш̣упсум̣ дха̄ран̣а̄тмакам'дха̄вана̄тмакам'ити па̄+/ гава̄м̣ ма̄м̣се ту балинам̣ сарваклеш́асахам̣ татха̄"
+        "iast_ru": "годха̄ма̄м̣са̄ш́ане путрам̣ суш̣упсум̣ дха̄ран̣а̄тмакам'дха̄вана̄тмакам'ити па̄+/ гава̄м̣ ма̄м̣се ту балинам̣ сарваклеш́асахам̣ татха̄",
+        "text_en": "A longing to taste the flesh of the godha (monitor lizard) will yield a son who is drowsy but steadfast; a longing for beef will yield a son who is strong and able to bear any hardship."
       },
       {
         "type": "verse",
@@ -12645,7 +12821,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "माहिषे दौर्हृदाच्छूरꣳ रक्ताक्षꣳ लोमसꣳयुतम्ऽनिर्विकारत्वात्प्रकृतिभावानुपपत्तेःऽइति पा+ वराहमाꣳसात् स्वप्नालुꣳ शूरꣳ सꣳजनयेत् सुतम्",
         "text": "Стремление к буйволиному мясу — родит сына храброго, красноглазого и обильно волосатого; стремление к мясу кабана — родит сына сонливого, но храброго.",
         "iast": "māhiṣe daurhṛdācchūraṁ raktākṣaṁ lomasaṁyutam'nirvikāratvātprakṛtibhāvānupapatteḥ'iti pā+ varāhamāṁsāt svapnāluṁ śūraṁ saṁjanayet sutam",
-        "iast_ru": "ма̄хиш̣е даурхр̣да̄ччхӯрам̣ ракта̄кш̣ам̣ ломасам̣йутам'нирвика̄ратва̄тпракр̣тибха̄ва̄нупапаттех̣'ити па̄+ вара̄хама̄м̣са̄т свапна̄лум̣ ш́ӯрам̣ сам̣джанайет сутам"
+        "iast_ru": "ма̄хиш̣е даурхр̣да̄ччхӯрам̣ ракта̄кш̣ам̣ ломасам̣йутам'нирвика̄ратва̄тпракр̣тибха̄ва̄нупапаттех̣'ити па̄+ вара̄хама̄м̣са̄т свапна̄лум̣ ш́ӯрам̣ сам̣джанайет сутам",
+        "text_en": "A longing for buffalo meat will yield a son who is brave, red-eyed, and abundantly hairy; a longing for boar's meat will yield a son who is drowsy but brave."
       },
       {
         "type": "verse",
@@ -12653,7 +12830,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मार्गाद्विक्रान्तजङ्घालꣳ सदा वनचरꣳ सुतम् सृमराद्विग्निमनसꣳ नित्यभीतꣳ च तैत्तिरात्",
         "text": "Стремление к мясу дикого лесного зверя — родит сына с сильными голенями, вечно бродящего по лесам; стремление к мясу оленя-сримары — родит сына с тревожным умом, вечно пугливого; стремление к мясу куропатки — порождает соответствующие этой птице черты.",
         "iast": "mārgādvikrāntajaṅghālaṁ sadā vanacaraṁ sutam sṛmarādvignimanasaṁ nityabhītaṁ ca taittirāt",
-        "iast_ru": "ма̄рга̄двикра̄нтаджан̇гха̄лам̣ сада̄ ваначарам̣ сутам ср̣мара̄двигниманасам̣ нитйабхӣтам̣ ча таиттира̄т"
+        "iast_ru": "ма̄рга̄двикра̄нтаджан̇гха̄лам̣ сада̄ ваначарам̣ сутам ср̣мара̄двигниманасам̣ нитйабхӣтам̣ ча таиттира̄т",
+        "text_en": "A longing for the meat of a wild forest animal will yield a son with strong shins, forever wandering through the forests; a longing for the meat of the srimara deer will yield a son of an anxious mind, forever timid; a longing for partridge meat produces traits corresponding to that bird."
       },
       {
         "type": "verse",
@@ -12661,7 +12839,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अतो+अनुक्तेषु या नारी समभिध्याति दौर्हृदम् शरीराचारशीलैः सा समानꣳ जनयिष्यति",
         "text": "Если же женщина возжелает чего-либо, не упомянутого здесь, она родит дитя, сходное по телесным свойствам, поведению и нраву с тем предметом или существом, к которому обращено её желание.",
         "iast": "ato+anukteṣu yā nārī samabhidhyāti daurhṛdam śarīrācāraśīlaiḥ sā samānaṁ janayiṣyati",
-        "iast_ru": "ато+ануктеш̣у йа̄ на̄рӣ самабхидхйа̄ти даурхр̣дам ш́арӣра̄ча̄раш́ӣлаих̣ са̄ сама̄нам̣ джанайиш̣йати"
+        "iast_ru": "ато+ануктеш̣у йа̄ на̄рӣ самабхидхйа̄ти даурхр̣дам ш́арӣра̄ча̄раш́ӣлаих̣ са̄ сама̄нам̣ джанайиш̣йати",
+        "text_en": "But if a woman craves something not mentioned here, she will bear a child resembling, in bodily qualities, conduct, and disposition, the object or being toward which her desire is directed."
       },
       {
         "type": "verse",
@@ -12669,7 +12848,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कर्मणा चोदितꣳ जन्तोर्भवितव्यꣳ पुनर्भवेत् यथा तथा दैवयोगाद्दौर्हृदꣳ जनयेद्धृदि",
         "text": "Побуждаемое прежними деяниями то, что должно проявиться в новом рождении существа, — именно оно, в согласии с судьбой, и порождает в сердце беременной то или иное стремление (даухриду).",
         "iast": "karmaṇā coditaṁ jantorbhavitavyaṁ punarbhavet yathā tathā daivayogāddaurhṛdaṁ janayeddhṛdi",
-        "iast_ru": "карман̣а̄ чодитам̣ джанторбхавитавйам̣ пунарбхавет йатха̄ татха̄ даивайога̄ддаурхр̣дам̣ джанайеддхр̣ди"
+        "iast_ru": "карман̣а̄ чодитам̣ джанторбхавитавйам̣ пунарбхавет йатха̄ татха̄ даивайога̄ддаурхр̣дам̣ джанайеддхр̣ди",
+        "text_en": "That which, impelled by past deeds, is destined to manifest in the being's new birth, it is precisely this that, in accordance with fate, gives rise in the heart of the pregnant woman to this or that longing (dauhrida)."
       },
       {
         "type": "verse",
@@ -12677,7 +12857,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पञ्चमे मनःप्रतिबुद्धतरꣳ भवति, षष्ठे बुद्धिः, सप्तमे सर्वाङ्गप्रत्यङ्गविभागः प्रव्यक्ततरः, अष्टमे+अस्थिरीभवत्योजःऽअस्थिरꣳ भवतिऽइति पा+, तत्र जातश्चेन्न जीवेन्निरोजस्त्वान्-नैरृतभागत्वाच्च[ऽनैरृतभागधेयत्वात्ऽइति पा+], ततो बलिꣳ माꣳसौदनमस्मै दापयेत्? नवमदशमैकादशद्वादशानामन्यतमस्मिन् जायते, अतो+अन्यथा विकारी भवति",
         "text": "На пятом месяце ум (манас) пробуждается ещё сильнее; на шестом развивается разум (буддхи); на седьмом разграничение всех членов и частей тела становится ещё более явным; на восьмом Оджас, жизненная сущность, становится неустойчивым, — и если ребёнок родится в это время, он не выживет, ибо лишён устойчивого Оджаса и подвержен губительному воздействию; поэтому в это время следует совершать для него защитные обряды с жертвенной пищей. Роды наступают на девятом, десятом, одиннадцатом либо двенадцатом месяце; в ином случае следует ожидать нарушения.",
         "iast": "pañcame manaḥpratibuddhataraṁ bhavati, ṣaṣṭhe buddhiḥ, saptame sarvāṅgapratyaṅgavibhāgaḥ pravyaktataraḥ, aṣṭame+asthirībhavatyojaḥ'asthiraṁ bhavati'iti pā+, tatra jātaścenna jīvennirojastvān-nairṛtabhāgatvācca['nairṛtabhāgadheyatvāt'iti pā+], tato baliṁ māṁsaudanamasmai dāpayet? navamadaśamaikādaśadvādaśānāmanyatamasmin jāyate, ato+anyathā vikārī bhavati",
-        "iast_ru": "пан̃чаме манах̣пратибуддхатарам̣ бхавати, ш̣аш̣т̣хе буддхих̣, саптаме сарва̄н̇гапратйан̇гавибха̄гах̣ правйактатарах̣, аш̣т̣аме+астхирӣбхаватйоджах̣'астхирам̣ бхавати'ити па̄+, татра джа̄таш́ченна джӣвеннироджаства̄н-наирр̣табха̄гатва̄чча['наирр̣табха̄гадхейатва̄т'ити па̄+], тато балим̣ ма̄м̣сауданамасмаи да̄пайет? навамадаш́амаика̄даш́адва̄даш́а̄на̄манйатамасмин джа̄йате, ато+анйатха̄ вика̄рӣ бхавати"
+        "iast_ru": "пан̃чаме манах̣пратибуддхатарам̣ бхавати, ш̣аш̣т̣хе буддхих̣, саптаме сарва̄н̇гапратйан̇гавибха̄гах̣ правйактатарах̣, аш̣т̣аме+астхирӣбхаватйоджах̣'астхирам̣ бхавати'ити па̄+, татра джа̄таш́ченна джӣвеннироджаства̄н-наирр̣табха̄гатва̄чча['наирр̣табха̄гадхейатва̄т'ити па̄+], тато балим̣ ма̄м̣сауданамасмаи да̄пайет? навамадаш́амаика̄даш́адва̄даш́а̄на̄манйатамасмин джа̄йате, ато+анйатха̄ вика̄рӣ бхавати",
+        "text_en": "In the fifth month the mind (manas) awakens still more strongly; in the sixth, the intellect (buddhi) develops; in the seventh, the demarcation of all the limbs and parts of the body becomes still more evident; in the eighth, Ojas, the vital essence, becomes unstable, and if the child is born at this time, it will not survive, for it is deprived of stable Ojas and is subject to a destructive influence; therefore at this time protective rites with sacrificial offerings should be performed on its behalf. Birth occurs in the ninth, tenth, eleventh, or twelfth month; otherwise a disorder is to be expected."
       },
       {
         "type": "verse",
@@ -12685,7 +12866,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मातुस्तु खलु रसवहायाꣳ नाड्याꣳ गर्भनाभिनाडी प्रतिबद्धा, सा+अस्य मातुराहाररसवीर्यमभिवहति/ तेनोपस्नेहेनास्याभिवृद्धिर्भवति/ असꣳजाताङ्गप्रत्यङ्गप्रविभागमानिषेकात्[ऽअसञ्जाताङ्गप्रत्यङ्गविभागꣳ तु गर्भे निषेकात् प्रभृतिऽइति पा+] प्रभृति सर्वशरीरावयवानुसारिणीनाꣳ रसवहानाꣳ तिर्यग्गतानाꣳ धमनीनामुपस्नेहो जीवयति",
         "text": "Пуповина зародыша соединена с материнским сосудом, несущим питательный сок (расу); через неё к нему поступает сила пищевого сока матери, и благодаря этому насыщению зародыш растёт. До тех пор пока члены и части его тела ещё не разграничены, начиная с самого момента зачатия, его питает и поддерживает жизнь то насыщение, которое поступает через поперечно расположенные, разносящие сок по всему телу сосуды (дхамани).",
         "iast": "mātustu khalu rasavahāyāṁ nāḍyāṁ garbhanābhināḍī pratibaddhā, sā+asya māturāhārarasavīryamabhivahati/ tenopasnehenāsyābhivṛddhirbhavati/ asaṁjātāṅgapratyaṅgapravibhāgamāniṣekāt['asañjātāṅgapratyaṅgavibhāgaṁ tu garbhe niṣekāt prabhṛti'iti pā+] prabhṛti sarvaśarīrāvayavānusāriṇīnāṁ rasavahānāṁ tiryaggatānāṁ dhamanīnāmupasneho jīvayati",
-        "iast_ru": "ма̄тусту кхалу расаваха̄йа̄м̣ на̄д̣йа̄м̣ гарбхана̄бхина̄д̣ӣ пратибаддха̄, са̄+асйа ма̄тура̄ха̄рарасавӣрйамабхивахати/ тенопаснехена̄сйа̄бхивр̣ддхирбхавати/ асам̣джа̄та̄н̇гапратйан̇гаправибха̄гама̄ниш̣ека̄т['асан̃джа̄та̄н̇гапратйан̇гавибха̄гам̣ ту гарбхе ниш̣ека̄т прабхр̣ти'ити па̄+] прабхр̣ти сарваш́арӣра̄вайава̄нуса̄рин̣ӣна̄м̣ расаваха̄на̄м̣ тирйаггата̄на̄м̣ дхаманӣна̄мупаснехо джӣвайати"
+        "iast_ru": "ма̄тусту кхалу расаваха̄йа̄м̣ на̄д̣йа̄м̣ гарбхана̄бхина̄д̣ӣ пратибаддха̄, са̄+асйа ма̄тура̄ха̄рарасавӣрйамабхивахати/ тенопаснехена̄сйа̄бхивр̣ддхирбхавати/ асам̣джа̄та̄н̇гапратйан̇гаправибха̄гама̄ниш̣ека̄т['асан̃джа̄та̄н̇гапратйан̇гавибха̄гам̣ ту гарбхе ниш̣ека̄т прабхр̣ти'ити па̄+] прабхр̣ти сарваш́арӣра̄вайава̄нуса̄рин̣ӣна̄м̣ расаваха̄на̄м̣ тирйаггата̄на̄м̣ дхаманӣна̄мупаснехо джӣвайати",
+        "text_en": "The fetus's umbilical cord is joined to the maternal vessel that carries the nutritive sap (rasa); through it the strength of the mother's nutritive sap reaches the fetus, and by virtue of this nourishment the fetus grows. As long as the limbs and parts of its body are not yet demarcated, from the very moment of conception, its life is nourished and sustained by the nourishment that arrives through the transversely disposed vessels (dhamani) that distribute the sap throughout the whole body."
       },
       {
         "type": "verse",
@@ -12693,7 +12875,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गर्भस्य खलु सꣳभवतः पूर्वꣳ शिरः सꣳभवतीत्याह शौनकः, शिरोमूलत्वात्-प्रधानेन्द्रियाणाꣳऽदेहेन्द्रियाणाम्ऽइति पा+; हृदयमिति कृतवीर्यो, बुद्धेर्मनसश्च स्थानत्वात्; नाभिरिति पाराशर्यः, ततो हि वर्धते देहो देहिनः; पाणिपादमिति मार्कण्डेयः, तन्मूलत्वाच्चेष्टाया गर्भस्य; मध्यशरीरमिति सुभूतिर्गौतमः, तन्निबद्धत्वात् सर्वगात्रसꣳभवस्य/ तत्तु न सम्यक्, सर्वाण्यङ्गप्रत्यङ्गानि युगपत् सꣳभवन्तीत्याह धन्वन्तरिः, गर्भस्य सूक्ष्मत्वान्नोपलभ्यन्ते वꣳशाङ्कुरवच्चूतफलवच्च; तद्यथा---चूतफले परिपक्वे केशरमाꣳसास्थिमज्जानः पृथक् पृथग् दृश्यन्ते, कालप्रकर्षात्; तान्येव तरुणे नोपलभ्यन्ते, सूक्ष्मत्वात्; तेषाꣳ सूक्ष्माणाꣳ केशरादीनाꣳ कालः प्रव्यक्तताꣳ करोति; एतेनैव वꣳशाङ्कुरो+अपि व्याख्यातः/ एवꣳ गर्भस्य तारुण्ये सर्वेष्वङ्गप्रत्यङ्गेषु सत्स्वपि सौक्ष्म्यादनुपलब्धिः, तान्येव कालप्रकर्षात् प्रव्यक्तानि भवन्ति",
         "text": "О том, что в теле зародыша развивается первым, мнения расходятся: Шаунака утверждает, что первой возникает голова, ибо она есть корень главных органов чувств; Критавирья говорит, что сердце — ибо оно есть вместилище разума и ума; Парашарья говорит, что пупок — ибо от него растёт тело живого существа; Маркандея говорит, что руки и ноги — ибо в них коренится способность зародыша к движению; Субхути Гаутама говорит, что срединная часть тела — ибо от неё зависит образование всех прочих членов. Но всё это не вполне верно: Дханвантари утверждает, что все члены и части тела образуются одновременно, но вследствие тонкости зародыша они пока незаметны — подобно побегу бамбука или плоду манго. Так, в зрелом плоде манго отчётливо различаются волоски, мякоть, косточка и её ядро — благодаря действию времени; в незрелом же плоде их не различить из-за их тонкости; именно время делает эти тонкие части явными. Тем же образом объясняется и побег бамбука. Так и у зародыша в его начальной, тонкой поре все члены и части тела уже присутствуют, но неразличимы по причине их тонкости; лишь с течением времени они становятся явными.",
         "iast": "garbhasya khalu saṁbhavataḥ pūrvaṁ śiraḥ saṁbhavatītyāha śaunakaḥ, śiromūlatvāt-pradhānendriyāṇāṁ'dehendriyāṇām'iti pā+; hṛdayamiti kṛtavīryo, buddhermanasaśca sthānatvāt; nābhiriti pārāśaryaḥ, tato hi vardhate deho dehinaḥ; pāṇipādamiti mārkaṇḍeyaḥ, tanmūlatvācceṣṭāyā garbhasya; madhyaśarīramiti subhūtirgautamaḥ, tannibaddhatvāt sarvagātrasaṁbhavasya/ tattu na samyak, sarvāṇyaṅgapratyaṅgāni yugapat saṁbhavantītyāha dhanvantariḥ, garbhasya sūkṣmatvānnopalabhyante vaṁśāṅkuravaccūtaphalavacca; tadyathā---cūtaphale paripakve keśaramāṁsāsthimajjānaḥ pṛthak pṛthag dṛśyante, kālaprakarṣāt; tānyeva taruṇe nopalabhyante, sūkṣmatvāt; teṣāṁ sūkṣmāṇāṁ keśarādīnāṁ kālaḥ pravyaktatāṁ karoti; etenaiva vaṁśāṅkuro+api vyākhyātaḥ/ evaṁ garbhasya tāruṇye sarveṣvaṅgapratyaṅgeṣu satsvapi saukṣmyādanupalabdhiḥ, tānyeva kālaprakarṣāt pravyaktāni bhavanti",
-        "iast_ru": "гарбхасйа кхалу сам̣бхаватах̣ пӯрвам̣ ш́ирах̣ сам̣бхаватӣтйа̄ха ш́аунаках̣, ш́иромӯлатва̄т-прадха̄нендрийа̄н̣а̄м̣'дехендрийа̄н̣а̄м'ити па̄+; хр̣дайамити кр̣тавӣрйо, буддхерманасаш́ча стха̄натва̄т; на̄бхирити па̄ра̄ш́арйах̣, тато хи вардхате дехо дехинах̣; па̄н̣ипа̄дамити ма̄ркан̣д̣ейах̣, танмӯлатва̄ччеш̣т̣а̄йа̄ гарбхасйа; мадхйаш́арӣрамити субхӯтиргаутамах̣, таннибаддхатва̄т сарвага̄трасам̣бхавасйа/ татту на самйак, сарва̄н̣йан̇гапратйан̇га̄ни йугапат сам̣бхавантӣтйа̄ха дханвантарих̣, гарбхасйа сӯкш̣матва̄ннопалабхйанте вам̣ш́а̄н̇кураваччӯтапхалавачча; тадйатха̄---чӯтапхале парипакве кеш́арама̄м̣са̄стхимаджджа̄нах̣ пр̣тхак пр̣тхаг др̣ш́йанте, ка̄лапракарш̣а̄т; та̄нйева тарун̣е нопалабхйанте, сӯкш̣матва̄т; теш̣а̄м̣ сӯкш̣ма̄н̣а̄м̣ кеш́ара̄дӣна̄м̣ ка̄лах̣ правйактата̄м̣ кароти; етенаива вам̣ш́а̄н̇куро+апи вйа̄кхйа̄тах̣/ евам̣ гарбхасйа та̄рун̣йе сарвеш̣ван̇гапратйан̇геш̣у сатсвапи саукш̣мйа̄данупалабдхих̣, та̄нйева ка̄лапракарш̣а̄т правйакта̄ни бхаванти"
+        "iast_ru": "гарбхасйа кхалу сам̣бхаватах̣ пӯрвам̣ ш́ирах̣ сам̣бхаватӣтйа̄ха ш́аунаках̣, ш́иромӯлатва̄т-прадха̄нендрийа̄н̣а̄м̣'дехендрийа̄н̣а̄м'ити па̄+; хр̣дайамити кр̣тавӣрйо, буддхерманасаш́ча стха̄натва̄т; на̄бхирити па̄ра̄ш́арйах̣, тато хи вардхате дехо дехинах̣; па̄н̣ипа̄дамити ма̄ркан̣д̣ейах̣, танмӯлатва̄ччеш̣т̣а̄йа̄ гарбхасйа; мадхйаш́арӣрамити субхӯтиргаутамах̣, таннибаддхатва̄т сарвага̄трасам̣бхавасйа/ татту на самйак, сарва̄н̣йан̇гапратйан̇га̄ни йугапат сам̣бхавантӣтйа̄ха дханвантарих̣, гарбхасйа сӯкш̣матва̄ннопалабхйанте вам̣ш́а̄н̇кураваччӯтапхалавачча; тадйатха̄---чӯтапхале парипакве кеш́арама̄м̣са̄стхимаджджа̄нах̣ пр̣тхак пр̣тхаг др̣ш́йанте, ка̄лапракарш̣а̄т; та̄нйева тарун̣е нопалабхйанте, сӯкш̣матва̄т; теш̣а̄м̣ сӯкш̣ма̄н̣а̄м̣ кеш́ара̄дӣна̄м̣ ка̄лах̣ правйактата̄м̣ кароти; етенаива вам̣ш́а̄н̇куро+апи вйа̄кхйа̄тах̣/ евам̣ гарбхасйа та̄рун̣йе сарвеш̣ван̇гапратйан̇геш̣у сатсвапи саукш̣мйа̄данупалабдхих̣, та̄нйева ка̄лапракарш̣а̄т правйакта̄ни бхаванти",
+        "text_en": "As to what develops first in the body of the fetus, opinions differ: Shaunaka maintains that the head arises first, for it is the root of the principal sense organs; Kritavirya says it is the heart, for it is the seat of intellect and mind; Parasharya says it is the navel, for from it the body of the living being grows; Markandeya says it is the hands and feet, for in them is rooted the fetus's capacity for movement; Subhuti Gautama says it is the middle part of the body, for upon it depends the formation of all the other limbs. But none of this is entirely correct: Dhanvantari maintains that all the limbs and parts of the body are formed simultaneously, but on account of the subtlety of the fetus they are as yet imperceptible, just as with a bamboo shoot or a mango fruit. Thus, in a ripe mango fruit the fibers, the pulp, the stone, and its kernel are clearly distinguished, owing to the action of time; whereas in the unripe fruit they cannot be distinguished, on account of their subtlety; it is time itself that renders these subtle parts evident. In the same way the bamboo shoot is explained. So too, in the fetus, at its initial, subtle stage, all the limbs and parts of the body are already present, but indistinguishable by reason of their subtlety; only with the passage of time do they become evident."
       },
       {
         "type": "verse",
@@ -12701,7 +12884,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र गर्भस्य पितृजमातृजरसजात्मजसत्त्वजसात्म्यजानि शरीरलक्षणानि व्याख्यास्यामः/ गर्भस्य, केशश्मश्रुलोमास्थिनखदन्तसिरास्नायुधमनीरेतःप्रभृतीनि स्थिराणि पितृजानि, माꣳसशोणितमेदोमज्जहृन्नाभियकृत्प्लीहान्त्रगुदप्रभृतीनि मृदूनि मातृजानि, शरीरोपचयो बलꣳ वर्णः स्थितिर्हानिश्च रसजानि, इन्द्रियाणि ज्ञानꣳ विज्ञानमायुः सुखदुःखादिकꣳ चात्मजानि, सत्त्वजान्युत्तरत्र वक्ष्यामः, वीर्यमारोग्यꣳ बलवर्णौ मेधा च सात्म्यजानि",
         "text": "Теперь мы изложим признаки тела зародыша, происходящие от отца, от матери, от питательного сока, от собственной души, от саттвы и от сатмьи. От отца происходят твёрдые начала: волосы головы, борода, волосы тела, кости, ногти, зубы, вены, сухожилия, артерии, семя и подобные им; от матери происходят мягкие начала: мышцы, кровь, жир, костный мозг, сердце, пупок, печень, селезёнка, кишки, задний проход и подобные им; от питательного сока происходят рост тела, сила, цвет кожи, устойчивость и убыль; от души происходят органы чувств, знание, познание, продолжительность жизни, удовольствие, страдание и подобное; о происходящем от саттвы мы расскажем далее; от сатмьи же происходят мужская доблесть, здоровье, сила, цвет кожи и разумение.",
         "iast": "tatra garbhasya pitṛjamātṛjarasajātmajasattvajasātmyajāni śarīralakṣaṇāni vyākhyāsyāmaḥ/ garbhasya, keśaśmaśrulomāsthinakhadantasirāsnāyudhamanīretaḥprabhṛtīni sthirāṇi pitṛjāni, māṁsaśoṇitamedomajjahṛnnābhiyakṛtplīhāntragudaprabhṛtīni mṛdūni mātṛjāni, śarīropacayo balaṁ varṇaḥ sthitirhāniśca rasajāni, indriyāṇi jñānaṁ vijñānamāyuḥ sukhaduḥkhādikaṁ cātmajāni, sattvajānyuttaratra vakṣyāmaḥ, vīryamārogyaṁ balavarṇau medhā ca sātmyajāni",
-        "iast_ru": "татра гарбхасйа питр̣джама̄тр̣джарасаджа̄тмаджасаттваджаса̄тмйаджа̄ни ш́арӣралакш̣ан̣а̄ни вйа̄кхйа̄сйа̄мах̣/ гарбхасйа, кеш́аш́маш́рулома̄стхинакхадантасира̄сна̄йудхаманӣретах̣прабхр̣тӣни стхира̄н̣и питр̣джа̄ни, ма̄м̣саш́он̣итамедомаджджахр̣нна̄бхийакр̣тплӣха̄нтрагудапрабхр̣тӣни мр̣дӯни ма̄тр̣джа̄ни, ш́арӣропачайо балам̣ варн̣ах̣ стхитирха̄ниш́ча расаджа̄ни, индрийа̄н̣и джн̃а̄нам̣ виджн̃а̄нама̄йух̣ сукхадух̣кха̄дикам̣ ча̄тмаджа̄ни, саттваджа̄нйуттаратра вакш̣йа̄мах̣, вӣрйама̄рогйам̣ балаварн̣ау медха̄ ча са̄тмйаджа̄ни"
+        "iast_ru": "татра гарбхасйа питр̣джама̄тр̣джарасаджа̄тмаджасаттваджаса̄тмйаджа̄ни ш́арӣралакш̣ан̣а̄ни вйа̄кхйа̄сйа̄мах̣/ гарбхасйа, кеш́аш́маш́рулома̄стхинакхадантасира̄сна̄йудхаманӣретах̣прабхр̣тӣни стхира̄н̣и питр̣джа̄ни, ма̄м̣саш́он̣итамедомаджджахр̣нна̄бхийакр̣тплӣха̄нтрагудапрабхр̣тӣни мр̣дӯни ма̄тр̣джа̄ни, ш́арӣропачайо балам̣ варн̣ах̣ стхитирха̄ниш́ча расаджа̄ни, индрийа̄н̣и джн̃а̄нам̣ виджн̃а̄нама̄йух̣ сукхадух̣кха̄дикам̣ ча̄тмаджа̄ни, саттваджа̄нйуттаратра вакш̣йа̄мах̣, вӣрйама̄рогйам̣ балаварн̣ау медха̄ ча са̄тмйаджа̄ни",
+        "text_en": "Now we shall set forth the characteristics of the fetus's body deriving from the father, from the mother, from the nutritive sap, from the individual soul, from sattva, and from satmya. From the father derive the hard elements: the hair of the head, the beard, the body hair, the bones, the nails, the teeth, the veins, the sinews, the arteries, the semen, and the like; from the mother derive the soft elements: the flesh, the blood, the fat, the marrow, the heart, the navel, the liver, the spleen, the intestines, the anus, and the like; from the nutritive sap derive the growth of the body, strength, complexion, stability, and decline; from the soul derive the sense organs, knowledge, cognition, span of life, pleasure, pain, and the like; what derives from sattva we shall relate further on; and from satmya derive manly vigor, health, strength, complexion, and understanding."
       },
       {
         "type": "verse",
@@ -12709,7 +12893,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र यस्या दक्षिणे स्तने प्राक् पयोदर्शनꣳ भवति दक्षिणाक्षिमहत्त्वꣳ च पूर्वꣳ च दक्षिणꣳ सक्थ्युत्कर्षति वाहुल्याच्च पुन्नामधेयेषु द्रव्येषु दौर्हृदमभिध्यायति स्वप्नेषु चोपलभते पद्मोत्पलकुमुदाम्रातकादीनि पुन्नामन्येव प्रसन्नमुखवर्णा च भवति ताꣳ ब्रूयात्ऽविद्य्?आत्ऽइति पा+ पुत्रमियꣳ जनयिष्यतीति, तद्विपर्यये कन्याꣳ, यस्याः पार्श्वद्वयमुन्नतꣳ पुरस्तान्निर्गतमुदरꣳ प्रागभिहितलक्षणꣳ च तस्या नपुꣳसकमिति विद्यात्, यस्या मध्ये निम्नꣳ द्रोणीभूतमुदरꣳ सा युग्मꣳ प्रसूयत इति",
         "text": "Если у беременной прежде в правой груди появляется молоко, правый глаз становится крупнее, правая нога выступает вперёд по преимуществу, если её желание обращено преимущественно к предметам с мужскими наименованиями, а во сне она видит лотосы, кувшинки, водяные лилии, плоды амратаки и другие вещи с мужскими названиями, и лицо её становится ясным и сияющим, — о такой следует сказать: «она родит сына». В противоположном случае — родится дочь. У той, чьи оба бока приподняты, а живот выпячен вперёд, при наличии вышеупомянутых двойственных признаков, следует знать, что родится бесполое существо. У той же, чей живот посередине западает, образуя как бы углубление, — родится двойня.",
         "iast": "tatra yasyā dakṣiṇe stane prāk payodarśanaṁ bhavati dakṣiṇākṣimahattvaṁ ca pūrvaṁ ca dakṣiṇaṁ sakthyutkarṣati vāhulyācca punnāmadheyeṣu dravyeṣu daurhṛdamabhidhyāyati svapneṣu copalabhate padmotpalakumudāmrātakādīni punnāmanyeva prasannamukhavarṇā ca bhavati tāṁ brūyāt'vidy?āt'iti pā+ putramiyaṁ janayiṣyatīti, tadviparyaye kanyāṁ, yasyāḥ pārśvadvayamunnataṁ purastānnirgatamudaraṁ prāgabhihitalakṣaṇaṁ ca tasyā napuṁsakamiti vidyāt, yasyā madhye nimnaṁ droṇībhūtamudaraṁ sā yugmaṁ prasūyata iti",
-        "iast_ru": "татра йасйа̄ дакш̣ин̣е стане пра̄к пайодарш́анам̣ бхавати дакш̣ин̣а̄кш̣имахаттвам̣ ча пӯрвам̣ ча дакш̣ин̣ам̣ сактхйуткарш̣ати ва̄хулйа̄чча пунна̄мадхейеш̣у дравйеш̣у даурхр̣дамабхидхйа̄йати свапнеш̣у чопалабхате падмотпалакумуда̄мра̄така̄дӣни пунна̄манйева прасаннамукхаварн̣а̄ ча бхавати та̄м̣ брӯйа̄т'видй?а̄т'ити па̄+ путрамийам̣ джанайиш̣йатӣти, тадвипарйайе канйа̄м̣, йасйа̄х̣ па̄рш́вадвайамуннатам̣ пураста̄нниргатамударам̣ пра̄габхихиталакш̣ан̣ам̣ ча тасйа̄ напум̣сакамити видйа̄т, йасйа̄ мадхйе нимнам̣ дрон̣ӣбхӯтамударам̣ са̄ йугмам̣ прасӯйата ити"
+        "iast_ru": "татра йасйа̄ дакш̣ин̣е стане пра̄к пайодарш́анам̣ бхавати дакш̣ин̣а̄кш̣имахаттвам̣ ча пӯрвам̣ ча дакш̣ин̣ам̣ сактхйуткарш̣ати ва̄хулйа̄чча пунна̄мадхейеш̣у дравйеш̣у даурхр̣дамабхидхйа̄йати свапнеш̣у чопалабхате падмотпалакумуда̄мра̄така̄дӣни пунна̄манйева прасаннамукхаварн̣а̄ ча бхавати та̄м̣ брӯйа̄т'видй?а̄т'ити па̄+ путрамийам̣ джанайиш̣йатӣти, тадвипарйайе канйа̄м̣, йасйа̄х̣ па̄рш́вадвайамуннатам̣ пураста̄нниргатамударам̣ пра̄габхихиталакш̣ан̣ам̣ ча тасйа̄ напум̣сакамити видйа̄т, йасйа̄ мадхйе нимнам̣ дрон̣ӣбхӯтамударам̣ са̄ йугмам̣ прасӯйата ити",
+        "text_en": "If, in a pregnant woman, milk first appears in the right breast, the right eye becomes larger, the right leg protrudes predominantly forward, if her desire is directed predominantly toward objects with masculine names, and in her dreams she sees lotuses, water-lilies, blue lotuses, amrataka fruits, and other things with masculine names, and her face becomes clear and radiant, of such a woman it should be said: \"she will bear a son.\" In the opposite case, a daughter will be born. In one whose both sides are raised and whose belly protrudes forward, when the aforementioned dual signs are present, it should be known that a sexless being will be born. In one whose belly sinks in the middle, forming as it were a hollow, twins will be born."
       },
       {
         "type": "verse",
@@ -12717,7 +12902,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र देवताब्राह्मणपराः शौचाचारहिते रताः महागुणान् प्रसूयन्ते विपरीतास्तु निर्गुणान्",
         "text": "Об этом говорится так: женщины, преданные почитанию богов и брахманов, приверженные чистоте и благим обычаям, рождают детей, наделённых великими достоинствами; женщины же противоположного нрава — детей, лишённых достоинств.",
         "iast": "bhavanti cātra devatābrāhmaṇaparāḥ śaucācārahite ratāḥ mahāguṇān prasūyante viparītāstu nirguṇān",
-        "iast_ru": "бхаванти ча̄тра девата̄бра̄хман̣апара̄х̣ ш́ауча̄ча̄рахите рата̄х̣ маха̄гун̣а̄н прасӯйанте випарӣта̄сту ниргун̣а̄н"
+        "iast_ru": "бхаванти ча̄тра девата̄бра̄хман̣апара̄х̣ ш́ауча̄ча̄рахите рата̄х̣ маха̄гун̣а̄н прасӯйанте випарӣта̄сту ниргун̣а̄н",
+        "text_en": "Of this it is said thus: women devoted to the worship of the gods and of brahmins, given to purity and to good customs, bear children endowed with great virtues; women of the opposite disposition bear children devoid of virtues."
       },
       {
         "type": "verse",
@@ -12725,7 +12911,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अङ्गप्रत्यङ्गनिर्वृत्तिः स्वभावादेव जायते अङ्गप्रत्यङ्गनिर्वृत्तौ ये भवन्ति गुणागुणाः ते ते गर्भस्य विज्ञेया धर्माधर्मनिमित्तजाः",
         "text": "Формирование членов и частей тела зародыша происходит естественным, самопроизвольным образом; а те достоинства и недостатки, что возникают при этом формировании, следует понимать как проистекающие от причин, коренящихся в дхарме и адхарме — благих и неблагих деяниях самого зародыша в его прежних существованиях.",
         "iast": "aṅgapratyaṅganirvṛttiḥ svabhāvādeva jāyate aṅgapratyaṅganirvṛttau ye bhavanti guṇāguṇāḥ te te garbhasya vijñeyā dharmādharmanimittajāḥ",
-        "iast_ru": "ан̇гапратйан̇ганирвр̣ттих̣ свабха̄ва̄дева джа̄йате ан̇гапратйан̇ганирвр̣ттау йе бхаванти гун̣а̄гун̣а̄х̣ те те гарбхасйа виджн̃ейа̄ дхарма̄дхарманимиттаджа̄х̣"
+        "iast_ru": "ан̇гапратйан̇ганирвр̣ттих̣ свабха̄ва̄дева джа̄йате ан̇гапратйан̇ганирвр̣ттау йе бхаванти гун̣а̄гун̣а̄х̣ те те гарбхасйа виджн̃ейа̄ дхарма̄дхарманимиттаджа̄х̣",
+        "text_en": "The formation of the fetus's limbs and parts of the body occurs in a natural, spontaneous manner; but the merits and defects that arise in the course of this formation should be understood as proceeding from causes rooted in dharma and adharma, the good and evil deeds of the fetus itself in its former existences."
       }
     ]
   },
@@ -12747,7 +12934,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातो गर्भव्याकरणꣳ (नाम) शारीरꣳ व्याख्यास्यामः",
         "text": "Ныне мы изложим раздел Шариры, называемый Гарбхавьякарана — учение о развитии зародыша.",
         "iast": "athāto garbhavyākaraṇaṁ (nāma) śārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄то гарбхавйа̄каран̣ам̣ (на̄ма) ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄то гарбхавйа̄каран̣ам̣ (на̄ма) ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now we shall set forth the section of the Sharirasthana called Garbhavyakarana, the doctrine of the development of the fetus."
       },
       {
         "type": "verse",
@@ -12755,7 +12943,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धवन्तरिः",
         "text": "Так, как поведал об этом Бхагаван Дханвантари.",
         "iast": "yathovāca bhagavān dhavantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дхавантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дхавантарих̣",
+        "text_en": "As it was declared by Bhagavan Dhanvantari."
       },
       {
         "type": "verse",
@@ -12763,7 +12952,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अग्निः सोमो वायुः सत्त्वꣳ रजस्तमः पञ्चेन्द्रियाणि भूतात्मेति प्राणाः",
         "text": "Огонь (Агни), Сома, Ветер (Вайу), Саттва, Раджас и Тамас, пять органов чувств и воплощённая душа (Бхутатма) — таковы носители жизненного начала (Праны).",
         "iast": "agniḥ somo vāyuḥ sattvaṁ rajastamaḥ pañcendriyāṇi bhūtātmeti prāṇāḥ",
-        "iast_ru": "агних̣ сомо ва̄йух̣ саттвам̣ раджастамах̣ пан̃чендрийа̄н̣и бхӯта̄тмети пра̄н̣а̄х̣"
+        "iast_ru": "агних̣ сомо ва̄йух̣ саттвам̣ раджастамах̣ пан̃чендрийа̄н̣и бхӯта̄тмети пра̄н̣а̄х̣",
+        "text_en": "Fire (Agni), Soma, Wind (Vayu), Sattva, Rajas and Tamas, the five sense organs, and the embodied soul (Bhutatma), these are the bearers of the vital principle (Prana)."
       },
       {
         "type": "verse",
@@ -12771,7 +12961,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्य खल्वेवꣳप्रवृत्तस्य शुक्रशोणितस्याभिपच्यमानस्य[ऽशुक्रशोणितस्यऽइति केषुचिद्धस्तलिखितपुस्तकेषु नोपलभ्यते/] मानस्य क्षीरस्येव सन्तानिकाः सप्त त्वचो भवन्ति/ तसाꣳ प्रथमा+अवभासिनी नाम, या सर्ववर्णानवभासयति पञ्चविधाꣳ च छायाꣳ प्रकाशयति, सा व्रीहेरष्टादशभागप्रमाणा, सिद्ध्मपद्मकꣳटकाधिष्ठाना; द्वितीया लोहिता नाम, व्रीहिषोडशभागप्रमाणा, तिलकलकन्यच्छव्यङ्गाधिष्ठाना; तृतीया श्वेता नाम,व्रीहिद्वादशभागप्रमाणा, चर्मदलाजगल्लीमशकाधिष्ठाना; चरुर्थी ताम्रा नाम व्रीहेरष्टभागप्रमाणा, विविधकिलासकुष्ठाधिष्ठाना; पञ्चमी वेदिनी नाम, व्रीहिपञ्चभागप्रमाणा, कुष्ठविसर्पाधिष्ठाना; षष्ठी रोहिणी नाम, व्रीहिप्रमाणा, ग्रन्थ्यपच्यर्बुदश्लीपदगलगण्डाधिष्ठाना; सप्तमी माꣳसधरा नाम, व्रीहिद्वयप्रमाणा, भगन्दरविद्रध्यर्शो+अधिष्ठाना/ यदेतत् प्रमाणꣳ निर्दिष्टꣳ तन्माꣳसलेष्ववकाशेषु, न ललाटे सूक्ष्माङ्गुल्यादिषु; यतो वक्ष्यत्युदरेषु---व्रीहिमुखेनाङ्गुष्ठोदरप्रमाणमवगाढꣳ विध्येदिति [ऽशरीरे षट् त्वचः;-----ऽ(च.शा.अ.७.सू.५)/ ऽषष्ठी तु प्राणधराऽ इति आष्टाङ्गसꣳग्रहे पाठः/ ऽत्वचो नाम---सर्वदेहावरणरूपा भूमिः स्पर्शनेव्द्रियस्य स्रोतसाञ्च स्वेदवहानाꣳ, रोम्णामपि सरोमकूपानाम्/ ताः स्थूलदष्ट्या स्तरद्वयविभक्ताः---बहिस्त्वग्भागो+अन्तरस्त्वग्भागश्चेति/ तत्र बहिस्त्वङ्नामातीव तन्वी कृष्णगौरादिवर्णाधारा वह्निस्पर्शेन प्लोषपिडकाव्यञ्जना च/ अन्तस्त्वड्नाम स्थूला शरीराभिरक्षणी स्नेहादिकर्षणी च/ सैव प्रधानायतनꣳ स्पर्शभूमेः स्वेदस्रुताञ्च मार्गाणाम्ऽ(प्रत्यक्षशारीर प्र. भा.पृ+ ५-६)/]",
         "text": "У семени и крови (Шукра и Шонита), соединившихся и вступивших в созревание, образуются, подобно пенкам на топящемся молоке, семь слоёв-оболочек кожи (Твак). Первая из них называется Авабхасини — она отражает все цвета и являет пятеричный отблеск пяти материальных начал; толщиной она равна одной восемнадцатой зерна Врихи и служит вместилищем Сидхмы, Падмы и Кантаки. Вторая называется Лохита, толщиной в одну шестнадцатую Врихи, вместилище Тилакалаки, Ньяччхи и Вьянги. Третья называется Швета, толщиной в одну двенадцатую Врихи, вместилище Чармадалы, Аджагалли и Машаки. Четвёртая называется Тамра, толщиной в одну восьмую Врихи, вместилище различных видов Киласы и Куштхи. Пятая называется Ведини, толщиной в одну пятую Врихи, вместилище Куштхи и Висарпы. Шестая называется Рохини, толщиной в одно зерно Врихи, вместилище Грантхи, Апачи, Арбуды, Шлипады и Галаганды. Седьмая называется Мансадхара, толщиной в два зерна Врихи, вместилище Бхагандары, Видрадхи и Аршаса. Указанные размеры относятся к местам, где много мяса, а не ко лбу или тонким пальцам, — ведь далее будет сказано об уколе на глубину, равную толщине большого пальца от устья ранки.",
         "iast": "tasya khalvevaṁpravṛttasya śukraśoṇitasyābhipacyamānasya['śukraśoṇitasya'iti keṣuciddhastalikhitapustakeṣu nopalabhyate/] mānasya kṣīrasyeva santānikāḥ sapta tvaco bhavanti/ tasāṁ prathamā+avabhāsinī nāma, yā sarvavarṇānavabhāsayati pañcavidhāṁ ca chāyāṁ prakāśayati, sā vrīheraṣṭādaśabhāgapramāṇā, siddhmapadmakaṁṭakādhiṣṭhānā; dvitīyā lohitā nāma, vrīhiṣoḍaśabhāgapramāṇā, tilakalakanyacchavyaṅgādhiṣṭhānā; tṛtīyā śvetā nāma,vrīhidvādaśabhāgapramāṇā, carmadalājagallīmaśakādhiṣṭhānā; carurthī tāmrā nāma vrīheraṣṭabhāgapramāṇā, vividhakilāsakuṣṭhādhiṣṭhānā; pañcamī vedinī nāma, vrīhipañcabhāgapramāṇā, kuṣṭhavisarpādhiṣṭhānā; ṣaṣṭhī rohiṇī nāma, vrīhipramāṇā, granthyapacyarbudaślīpadagalagaṇḍādhiṣṭhānā; saptamī māṁsadharā nāma, vrīhidvayapramāṇā, bhagandaravidradhyarśo+adhiṣṭhānā/ yadetat pramāṇaṁ nirdiṣṭaṁ tanmāṁsaleṣvavakāśeṣu, na lalāṭe sūkṣmāṅgulyādiṣu; yato vakṣyatyudareṣu---vrīhimukhenāṅguṣṭhodarapramāṇamavagāḍhaṁ vidhyediti ['śarīre ṣaṭ tvacaḥ;-----'(ca.śā.a.7.sū.5)/ 'ṣaṣṭhī tu prāṇadharā' iti āṣṭāṅgasaṁgrahe pāṭhaḥ/ 'tvaco nāma---sarvadehāvaraṇarūpā bhūmiḥ sparśanevdriyasya srotasāñca svedavahānāṁ, romṇāmapi saromakūpānām/ tāḥ sthūladaṣṭyā staradvayavibhaktāḥ---bahistvagbhāgo+antarastvagbhāgaśceti/ tatra bahistvaṅnāmātīva tanvī kṛṣṇagaurādivarṇādhārā vahnisparśena ploṣapiḍakāvyañjanā ca/ antastvaḍnāma sthūlā śarīrābhirakṣaṇī snehādikarṣaṇī ca/ saiva pradhānāyatanaṁ sparśabhūmeḥ svedasrutāñca mārgāṇām'(pratyakṣaśārīra pra. bhā.pṛ+ 5-6)/]",
-        "iast_ru": "тасйа кхалвевам̣правр̣ттасйа ш́украш́он̣итасйа̄бхипачйама̄насйа['ш́украш́он̣итасйа'ити кеш̣учиддхасталикхитапустакеш̣у нопалабхйате/] ма̄насйа кш̣ӣрасйева санта̄ника̄х̣ сапта твачо бхаванти/ таса̄м̣ пратхама̄+авабха̄синӣ на̄ма, йа̄ сарваварн̣а̄навабха̄сайати пан̃чавидха̄м̣ ча чха̄йа̄м̣ прака̄ш́айати, са̄ врӣхераш̣т̣а̄даш́абха̄гапрама̄н̣а̄, сиддхмападмакам̣т̣ака̄дхиш̣т̣ха̄на̄; двитӣйа̄ лохита̄ на̄ма, врӣхиш̣од̣аш́абха̄гапрама̄н̣а̄, тилакалаканйаччхавйан̇га̄дхиш̣т̣ха̄на̄; тр̣тӣйа̄ ш́вета̄ на̄ма,врӣхидва̄даш́абха̄гапрама̄н̣а̄, чармадала̄джагаллӣмаш́ака̄дхиш̣т̣ха̄на̄; чаруртхӣ та̄мра̄ на̄ма врӣхераш̣т̣абха̄гапрама̄н̣а̄, вивидхакила̄сакуш̣т̣ха̄дхиш̣т̣ха̄на̄; пан̃чамӣ вединӣ на̄ма, врӣхипан̃чабха̄гапрама̄н̣а̄, куш̣т̣хависарпа̄дхиш̣т̣ха̄на̄; ш̣аш̣т̣хӣ рохин̣ӣ на̄ма, врӣхипрама̄н̣а̄, грантхйапачйарбудаш́лӣпадагалаган̣д̣а̄дхиш̣т̣ха̄на̄; саптамӣ ма̄м̣садхара̄ на̄ма, врӣхидвайапрама̄н̣а̄, бхагандаравидрадхйарш́о+адхиш̣т̣ха̄на̄/ йадетат прама̄н̣ам̣ нирдиш̣т̣ам̣ танма̄м̣салеш̣вавака̄ш́еш̣у, на лала̄т̣е сӯкш̣ма̄н̇гулйа̄диш̣у; йато вакш̣йатйудареш̣у---врӣхимукхена̄н̇гуш̣т̣ходарапрама̄н̣амавага̄д̣хам̣ видхйедити ['ш́арӣре ш̣ат̣ твачах̣;-----'(ча.ш́а̄.а.7.сӯ.5)/ 'ш̣аш̣т̣хӣ ту пра̄н̣адхара̄' ити а̄ш̣т̣а̄н̇гасам̣грахе па̄т̣хах̣/ 'твачо на̄ма---сарвадеха̄варан̣арӯпа̄ бхӯмих̣ спарш́аневдрийасйа сротаса̄н̃ча сведаваха̄на̄м̣, ромн̣а̄мапи саромакӯпа̄на̄м/ та̄х̣ стхӯладаш̣т̣йа̄ старадвайавибхакта̄х̣---бахиствагбха̄го+антараствагбха̄гаш́чети/ татра бахистван̇на̄ма̄тӣва танвӣ кр̣ш̣н̣агаура̄диварн̣а̄дха̄ра̄ вахниспарш́ена плош̣апид̣ака̄вйан̃джана̄ ча/ антаствад̣на̄ма стхӯла̄ ш́арӣра̄бхиракш̣ан̣ӣ снеха̄дикарш̣ан̣ӣ ча/ саива прадха̄на̄йатанам̣ спарш́абхӯмех̣ сведасрута̄н̃ча ма̄рга̄н̣а̄м'(пратйакш̣аш́а̄рӣра пра. бха̄.пр̣+ 5-6)/]"
+        "iast_ru": "тасйа кхалвевам̣правр̣ттасйа ш́украш́он̣итасйа̄бхипачйама̄насйа['ш́украш́он̣итасйа'ити кеш̣учиддхасталикхитапустакеш̣у нопалабхйате/] ма̄насйа кш̣ӣрасйева санта̄ника̄х̣ сапта твачо бхаванти/ таса̄м̣ пратхама̄+авабха̄синӣ на̄ма, йа̄ сарваварн̣а̄навабха̄сайати пан̃чавидха̄м̣ ча чха̄йа̄м̣ прака̄ш́айати, са̄ врӣхераш̣т̣а̄даш́абха̄гапрама̄н̣а̄, сиддхмападмакам̣т̣ака̄дхиш̣т̣ха̄на̄; двитӣйа̄ лохита̄ на̄ма, врӣхиш̣од̣аш́абха̄гапрама̄н̣а̄, тилакалаканйаччхавйан̇га̄дхиш̣т̣ха̄на̄; тр̣тӣйа̄ ш́вета̄ на̄ма,врӣхидва̄даш́абха̄гапрама̄н̣а̄, чармадала̄джагаллӣмаш́ака̄дхиш̣т̣ха̄на̄; чаруртхӣ та̄мра̄ на̄ма врӣхераш̣т̣абха̄гапрама̄н̣а̄, вивидхакила̄сакуш̣т̣ха̄дхиш̣т̣ха̄на̄; пан̃чамӣ вединӣ на̄ма, врӣхипан̃чабха̄гапрама̄н̣а̄, куш̣т̣хависарпа̄дхиш̣т̣ха̄на̄; ш̣аш̣т̣хӣ рохин̣ӣ на̄ма, врӣхипрама̄н̣а̄, грантхйапачйарбудаш́лӣпадагалаган̣д̣а̄дхиш̣т̣ха̄на̄; саптамӣ ма̄м̣садхара̄ на̄ма, врӣхидвайапрама̄н̣а̄, бхагандаравидрадхйарш́о+адхиш̣т̣ха̄на̄/ йадетат прама̄н̣ам̣ нирдиш̣т̣ам̣ танма̄м̣салеш̣вавака̄ш́еш̣у, на лала̄т̣е сӯкш̣ма̄н̇гулйа̄диш̣у; йато вакш̣йатйудареш̣у---врӣхимукхена̄н̇гуш̣т̣ходарапрама̄н̣амавага̄д̣хам̣ видхйедити ['ш́арӣре ш̣ат̣ твачах̣;-----'(ча.ш́а̄.а.7.сӯ.5)/ 'ш̣аш̣т̣хӣ ту пра̄н̣адхара̄' ити а̄ш̣т̣а̄н̇гасам̣грахе па̄т̣хах̣/ 'твачо на̄ма---сарвадеха̄варан̣арӯпа̄ бхӯмих̣ спарш́аневдрийасйа сротаса̄н̃ча сведаваха̄на̄м̣, ромн̣а̄мапи саромакӯпа̄на̄м/ та̄х̣ стхӯладаш̣т̣йа̄ старадвайавибхакта̄х̣---бахиствагбха̄го+антараствагбха̄гаш́чети/ татра бахистван̇на̄ма̄тӣва танвӣ кр̣ш̣н̣агаура̄диварн̣а̄дха̄ра̄ вахниспарш́ена плош̣апид̣ака̄вйан̃джана̄ ча/ антаствад̣на̄ма стхӯла̄ ш́арӣра̄бхиракш̣ан̣ӣ снеха̄дикарш̣ан̣ӣ ча/ саива прадха̄на̄йатанам̣ спарш́абхӯмех̣ сведасрута̄н̃ча ма̄рга̄н̣а̄м'(пратйакш̣аш́а̄рӣра пра. бха̄.пр̣+ 5-6)/]",
+        "text_en": "From semen and blood (Shukra and Shonita), having united and entered into maturation, there form, like the scum on boiling milk, seven layers of skin-membranes (Twak). The first of these is called Avabhasini; it reflects all colors and displays a fivefold sheen of the five material elements; in thickness it equals one eighteenth of a grain of Vrihi (rice), and it is the seat of Sidhma, Padma, and Kantaka. The second is called Lohita, one sixteenth of a Vrihi in thickness, the seat of Tilakalaka, Nyaccha, and Vyanga. The third is called Shweta, one twelfth of a Vrihi in thickness, the seat of Charmadala, Ajagalli, and Mashaka. The fourth is called Tamra, one eighth of a Vrihi in thickness, the seat of the various kinds of Kilasa and Kushtha. The fifth is called Vedini, one fifth of a Vrihi in thickness, the seat of Kushtha and Visarpa. The sixth is called Rohini, one grain of Vrihi in thickness, the seat of Granthi, Apachi, Arbuda, Shlipada, and Galaganda. The seventh is called Mamsadhara, two grains of Vrihi in thickness, the seat of Bhagandara, Vidradhi, and Arshas. The dimensions given pertain to places abundant in flesh, and not to the forehead or the slender fingers, for it will be said further on that a puncture should be made to a depth equal to the thickness of the thumb, measured from the mouth of the wound."
       },
       {
         "type": "verse",
@@ -12779,7 +12970,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कलाः खल्वपि सप्त सꣳभवन्तिऽभवन्तिऽइति पा+ धात्वाशयान्तरमर्यादाः",
         "text": "Также существует семь Кал — они являются границами между вместилищами отдельных дхату.",
         "iast": "kalāḥ khalvapi sapta saṁbhavanti'bhavanti'iti pā+ dhātvāśayāntaramaryādāḥ",
-        "iast_ru": "кала̄х̣ кхалвапи сапта сам̣бхаванти'бхаванти'ити па̄+ дха̄тва̄ш́айа̄нтарамарйа̄да̄х̣"
+        "iast_ru": "кала̄х̣ кхалвапи сапта сам̣бхаванти'бхаванти'ити па̄+ дха̄тва̄ш́айа̄нтарамарйа̄да̄х̣",
+        "text_en": "There likewise exist seven Kalas, these are the boundaries between the seats of the individual dhatus."
       },
       {
         "type": "verse",
@@ -12787,7 +12979,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवतश्चात्र/[ऽभवन्ति चात्रऽइति पा+] यथा हि सारः काष्ठेषु छिद्यमानेषु दृश्यते तथा धातुर्हि माꣳसेषु छिद्यमानेषु दृश्यते",
         "text": "Памятные стихи об этом: подобно тому как сердцевина обнажается при рассечении дерева, так и дхату становится видимым при рассечении мяса.",
         "iast": "bhavataścātra/['bhavanti cātra'iti pā+] yathā hi sāraḥ kāṣṭheṣu chidyamāneṣu dṛśyate tathā dhāturhi māṁseṣu chidyamāneṣu dṛśyate",
-        "iast_ru": "бхаваташ́ча̄тра/['бхаванти ча̄тра'ити па̄+] йатха̄ хи са̄рах̣ ка̄ш̣т̣хеш̣у чхидйама̄неш̣у др̣ш́йате татха̄ дха̄турхи ма̄м̣сеш̣у чхидйама̄неш̣у др̣ш́йате"
+        "iast_ru": "бхаваташ́ча̄тра/['бхаванти ча̄тра'ити па̄+] йатха̄ хи са̄рах̣ ка̄ш̣т̣хеш̣у чхидйама̄неш̣у др̣ш́йате татха̄ дха̄турхи ма̄м̣сеш̣у чхидйама̄неш̣у др̣ш́йате",
+        "text_en": "Memorial verses on this: just as the pith is laid bare when a tree is cut open, so too a dhatu becomes visible when flesh is dissected."
       },
       {
         "type": "verse",
@@ -12795,7 +12988,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्नायुभिश्च प्रतिच्छन्नान् सन्तताꣳश्च जरायुणा श्लेष्मणा वेष्टिताꣳश्चापि कलाभागाꣳस्तु तान् विदुः [ऽअस्याग्रेऽ+अधात्वाशयान्तरे+अन्नस्य यः क्लेदस्त्वधिष्ठति/ देहोष्मणा विपक्वस्तु सा कलेत्यभिधीयतेऽ इत्यधिकꣳ पठ्यते क्वचित्पुस्तके/]",
         "text": "Эти части Кал, как известно, покрыты сухожилиями (Снаю), связаны с оболочкой зародыша (Джараю) и обвиты слизью (Капхой).",
         "iast": "snāyubhiśca praticchannān santatāṁśca jarāyuṇā śleṣmaṇā veṣṭitāṁścāpi kalābhāgāṁstu tān viduḥ ['asyāgre'+adhātvāśayāntare+annasya yaḥ kledastvadhiṣṭhati/ dehoṣmaṇā vipakvastu sā kaletyabhidhīyate' ityadhikaṁ paṭhyate kvacitpustake/]",
-        "iast_ru": "сна̄йубхиш́ча пратиччханна̄н сантата̄м̣ш́ча джара̄йун̣а̄ ш́леш̣ман̣а̄ веш̣т̣ита̄м̣ш́ча̄пи кала̄бха̄га̄м̣сту та̄н видух̣ ['асйа̄гре'+адха̄тва̄ш́айа̄нтаре+аннасйа йах̣ кледаствадхиш̣т̣хати/ дехош̣ман̣а̄ випаквасту са̄ калетйабхидхӣйате' итйадхикам̣ пат̣хйате квачитпустаке/]"
+        "iast_ru": "сна̄йубхиш́ча пратиччханна̄н сантата̄м̣ш́ча джара̄йун̣а̄ ш́леш̣ман̣а̄ веш̣т̣ита̄м̣ш́ча̄пи кала̄бха̄га̄м̣сту та̄н видух̣ ['асйа̄гре'+адха̄тва̄ш́айа̄нтаре+аннасйа йах̣ кледаствадхиш̣т̣хати/ дехош̣ман̣а̄ випаквасту са̄ калетйабхидхӣйате' итйадхикам̣ пат̣хйате квачитпустаке/]",
+        "text_en": "These portions of the Kalas, it is known, are covered by sinews (Snayu), connected with the fetal membrane (Jarayu), and enveloped in mucus (Kapha)."
       },
       {
         "type": "verse",
@@ -12803,7 +12997,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तासꣳ प्रथमा माꣳसधारा नाम; यस्याꣳ माꣳसे सिरास्नायुधमनीस्रोतसाꣳ प्रताना भवन्ति [ऽमाꣳसगतानाꣳऽइति हाराणचन्द्रसꣳमतः पाठः/ ऽमाꣳससिरास्नायुधमनीस्रोतसाꣳऽ इति वै.पꣳ.हरिप्रपन्नसꣳमतः पाठः/ विशेषविवरणꣳ तु रसयोगसागरस्योपोद्धाते १६४-१६५ पृष्ठयोर्द्रष्टव्यम्/]",
         "text": "Первая из них называется Мансадхара — в заключённом в ней мясе распространяются и разветвляются сети вен (Сира), сухожилий (Снаю), артерий (Дхамани) и прочих каналов (Шротас).",
         "iast": "tāsaṁ prathamā māṁsadhārā nāma; yasyāṁ māṁse sirāsnāyudhamanīsrotasāṁ pratānā bhavanti ['māṁsagatānāṁ'iti hārāṇacandrasaṁmataḥ pāṭhaḥ/ 'māṁsasirāsnāyudhamanīsrotasāṁ' iti vai.paṁ.hariprapannasaṁmataḥ pāṭhaḥ/ viśeṣavivaraṇaṁ tu rasayogasāgarasyopoddhāte 164-165 pṛṣṭhayordraṣṭavyam/]",
-        "iast_ru": "та̄сам̣ пратхама̄ ма̄м̣садха̄ра̄ на̄ма; йасйа̄м̣ ма̄м̣се сира̄сна̄йудхаманӣсротаса̄м̣ прата̄на̄ бхаванти ['ма̄м̣сагата̄на̄м̣'ити ха̄ра̄н̣ачандрасам̣матах̣ па̄т̣хах̣/ 'ма̄м̣сасира̄сна̄йудхаманӣсротаса̄м̣' ити ваи.пам̣.харипрапаннасам̣матах̣ па̄т̣хах̣/ виш́еш̣авиваран̣ам̣ ту расайогаса̄гарасйоподдха̄те 164-165 пр̣ш̣т̣хайордраш̣т̣авйам/]"
+        "iast_ru": "та̄сам̣ пратхама̄ ма̄м̣садха̄ра̄ на̄ма; йасйа̄м̣ ма̄м̣се сира̄сна̄йудхаманӣсротаса̄м̣ прата̄на̄ бхаванти ['ма̄м̣сагата̄на̄м̣'ити ха̄ра̄н̣ачандрасам̣матах̣ па̄т̣хах̣/ 'ма̄м̣сасира̄сна̄йудхаманӣсротаса̄м̣' ити ваи.пам̣.харипрапаннасам̣матах̣ па̄т̣хах̣/ виш́еш̣авиваран̣ам̣ ту расайогаса̄гарасйоподдха̄те 164-165 пр̣ш̣т̣хайордраш̣т̣авйам/]",
+        "text_en": "The first of them is called Mamsadhara; within the flesh enclosed by it spread and branch out the networks of veins (Sira), sinews (Snayu), arteries (Dhamani), and the other channels (Shrotas)."
       },
       {
         "type": "verse",
@@ -12811,7 +13006,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ यथा बिसमृणालानि विवर्धन्ते समन्ततः भूमौ पङ्कोदकस्थानि तथा माꣳसे सिरादयः",
         "text": "Памятные стихи об этом: подобно тому как стебли и корневища лотоса разрастаются повсюду, укоренённые в иле и воде, так и в мясе разрастаются вены и прочие сосуды.",
         "iast": "bhavati cātra/ yathā bisamṛṇālāni vivardhante samantataḥ bhūmau paṅkodakasthāni tathā māṁse sirādayaḥ",
-        "iast_ru": "бхавати ча̄тра/ йатха̄ бисамр̣н̣а̄ла̄ни вивардханте самантатах̣ бхӯмау пан̇кодакастха̄ни татха̄ ма̄м̣се сира̄дайах̣"
+        "iast_ru": "бхавати ча̄тра/ йатха̄ бисамр̣н̣а̄ла̄ни вивардханте самантатах̣ бхӯмау пан̇кодакастха̄ни татха̄ ма̄м̣се сира̄дайах̣",
+        "text_en": "Memorial verses on this: just as the stalks and rhizomes of the lotus spread everywhere, rooted in mud and water, so too the veins and other vessels spread throughout the flesh."
       },
       {
         "type": "verse",
@@ -12819,7 +13015,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "द्वितीया रक्तधरा नाम माꣳसस्याभ्यन्तरतः, तस्याꣳ शोणितꣳ विशेषतश्च सिरासु यकृत्प्लीह्नोश्च भवतिऽस्रवतिऽइति पा+",
         "text": "Вторая Кала называется Рактадхара — она залегает внутри мяса; в ней содержится кровь (Шонита), преимущественно в венах, а также в печени и селезёнке.",
         "iast": "dvitīyā raktadharā nāma māṁsasyābhyantarataḥ, tasyāṁ śoṇitaṁ viśeṣataśca sirāsu yakṛtplīhnośca bhavati'sravati'iti pā+",
-        "iast_ru": "двитӣйа̄ рактадхара̄ на̄ма ма̄м̣сасйа̄бхйантаратах̣, тасйа̄м̣ ш́он̣итам̣ виш́еш̣аташ́ча сира̄су йакр̣тплӣхнош́ча бхавати'сравати'ити па̄+"
+        "iast_ru": "двитӣйа̄ рактадхара̄ на̄ма ма̄м̣сасйа̄бхйантаратах̣, тасйа̄м̣ ш́он̣итам̣ виш́еш̣аташ́ча сира̄су йакр̣тплӣхнош́ча бхавати'сравати'ити па̄+",
+        "text_en": "The second Kala is called Raktadhara; it lies within the flesh; in it is contained the blood (Shonita), chiefly in the veins, as well as in the liver and spleen."
       },
       {
         "type": "verse",
@@ -12827,7 +13024,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ वृक्षाद्यथाभिप्रहतात् क्षीरिणः क्षीरमावहेत्ऽक्षीरमास्रवेत्ऽइति पा+ माꣳसादेवꣳ क्षतात् क्षिप्रꣳ शोणितꣳ सꣳप्रसिच्यतेऽप्रतिरिच्यतेऽइति पा+",
         "text": "Памятные стихи об этом: подобно тому как из надрезанного молочного дерева тотчас изливается млечный сок, так из повреждённого мяса быстро истекает кровь.",
         "iast": "bhavati cātra/ vṛkṣādyathābhiprahatāt kṣīriṇaḥ kṣīramāvahet'kṣīramāsravet'iti pā+ māṁsādevaṁ kṣatāt kṣipraṁ śoṇitaṁ saṁprasicyate'pratiricyate'iti pā+",
-        "iast_ru": "бхавати ча̄тра/ вр̣кш̣а̄дйатха̄бхипрахата̄т кш̣ӣрин̣ах̣ кш̣ӣрама̄вахет'кш̣ӣрама̄сравет'ити па̄+ ма̄м̣са̄девам̣ кш̣ата̄т кш̣ипрам̣ ш́он̣итам̣ сам̣прасичйате'пратиричйате'ити па̄+"
+        "iast_ru": "бхавати ча̄тра/ вр̣кш̣а̄дйатха̄бхипрахата̄т кш̣ӣрин̣ах̣ кш̣ӣрама̄вахет'кш̣ӣрама̄сравет'ити па̄+ ма̄м̣са̄девам̣ кш̣ата̄т кш̣ипрам̣ ш́он̣итам̣ сам̣прасичйате'пратиричйате'ити па̄+",
+        "text_en": "Memorial verses on this: just as, from a milk-tree that has been cut, the milky sap immediately flows forth, so too from injured flesh blood swiftly flows out."
       },
       {
         "type": "verse",
@@ -12835,7 +13033,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तृतीया मेदोधरा नाम; मेदो हि सर्वभूतानामुदरस्थमण्वस्थिषु च, महत्सु च मज्जा भवति [ऽतदेव च शिरसि कपालप्रतिच्छन्नꣳ मस्तिष्काख्यꣳ मस्तुलुङ्गाख्यꣳ चऽ इत्यष्टाङ्गसꣳग्रहे+अधिकः पाठः/ ऽमेदो नाम---सान्द्रसर्पिस्तुल्यः स्नेहधातुः शरीरस्य/ तस्य स्थानमुदरान्तः, त्वचामधश्च/ वसा तु माꣳसान्तरानुप्रविष्टः स्नेहस्तस्या मेदस्यनुप्रवेशस्तुल्योपादानत्वात्/ मज्जा नाम अस्थिमध्यगतः स्नेहः/ स द्विविधः पीतो रक्तश्च/ तत्र पीतो नलकास्थ्नामन्तः, रक्तस्त्नितरास्थिषु, प्रान्तभाहेषु च नलकास्थ्नाम्/ सो+अयꣳ स्थूलस्वरूपेण मेदसो+अभिन्नो+अपिकर्मवैशेष्यात्पृथगेव धातुः,ऽ(प्रत्यक्षाशारीर प्र. भा.पृ.१०/]",
         "text": "Третья Кала называется Медодхара — жир (Меда) присутствует у всех существ в брюшной полости и в мелких костях, а в крупных костях он предстаёт как костный мозг (Маджа).",
         "iast": "tṛtīyā medodharā nāma; medo hi sarvabhūtānāmudarasthamaṇvasthiṣu ca, mahatsu ca majjā bhavati ['tadeva ca śirasi kapālapraticchannaṁ mastiṣkākhyaṁ mastuluṅgākhyaṁ ca' ityaṣṭāṅgasaṁgrahe+adhikaḥ pāṭhaḥ/ 'medo nāma---sāndrasarpistulyaḥ snehadhātuḥ śarīrasya/ tasya sthānamudarāntaḥ, tvacāmadhaśca/ vasā tu māṁsāntarānupraviṣṭaḥ snehastasyā medasyanupraveśastulyopādānatvāt/ majjā nāma asthimadhyagataḥ snehaḥ/ sa dvividhaḥ pīto raktaśca/ tatra pīto nalakāsthnāmantaḥ, raktastnitarāsthiṣu, prāntabhāheṣu ca nalakāsthnām/ so+ayaṁ sthūlasvarūpeṇa medaso+abhinno+apikarmavaiśeṣyātpṛthageva dhātuḥ,'(pratyakṣāśārīra pra. bhā.pṛ.10/]",
-        "iast_ru": "тр̣тӣйа̄ медодхара̄ на̄ма; медо хи сарвабхӯта̄на̄мударастхаман̣вастхиш̣у ча, махатсу ча маджджа̄ бхавати ['тадева ча ш́ираси капа̄лапратиччханнам̣ мастиш̣ка̄кхйам̣ мастулун̇га̄кхйам̣ ча' итйаш̣т̣а̄н̇гасам̣грахе+адхиках̣ па̄т̣хах̣/ 'медо на̄ма---са̄ндрасарпистулйах̣ снехадха̄тух̣ ш́арӣрасйа/ тасйа стха̄намудара̄нтах̣, твача̄мадхаш́ча/ васа̄ ту ма̄м̣са̄нтара̄нуправиш̣т̣ах̣ снехастасйа̄ медасйануправеш́астулйопа̄да̄натва̄т/ маджджа̄ на̄ма астхимадхйагатах̣ снехах̣/ са двивидхах̣ пӣто ракташ́ча/ татра пӣто налака̄стхна̄мантах̣, рактастнитара̄стхиш̣у, пра̄нтабха̄хеш̣у ча налака̄стхна̄м/ со+айам̣ стхӯласварӯпен̣а медасо+абхинно+апикармаваиш́еш̣йа̄тпр̣тхагева дха̄тух̣,'(пратйакш̣а̄ш́а̄рӣра пра. бха̄.пр̣.10/]"
+        "iast_ru": "тр̣тӣйа̄ медодхара̄ на̄ма; медо хи сарвабхӯта̄на̄мударастхаман̣вастхиш̣у ча, махатсу ча маджджа̄ бхавати ['тадева ча ш́ираси капа̄лапратиччханнам̣ мастиш̣ка̄кхйам̣ мастулун̇га̄кхйам̣ ча' итйаш̣т̣а̄н̇гасам̣грахе+адхиках̣ па̄т̣хах̣/ 'медо на̄ма---са̄ндрасарпистулйах̣ снехадха̄тух̣ ш́арӣрасйа/ тасйа стха̄намудара̄нтах̣, твача̄мадхаш́ча/ васа̄ ту ма̄м̣са̄нтара̄нуправиш̣т̣ах̣ снехастасйа̄ медасйануправеш́астулйопа̄да̄натва̄т/ маджджа̄ на̄ма астхимадхйагатах̣ снехах̣/ са двивидхах̣ пӣто ракташ́ча/ татра пӣто налака̄стхна̄мантах̣, рактастнитара̄стхиш̣у, пра̄нтабха̄хеш̣у ча налака̄стхна̄м/ со+айам̣ стхӯласварӯпен̣а медасо+абхинно+апикармаваиш́еш̣йа̄тпр̣тхагева дха̄тух̣,'(пратйакш̣а̄ш́а̄рӣра пра. бха̄.пр̣.10/]",
+        "text_en": "The third Kala is called Medodhara; fat (Meda) is present in all beings in the abdominal cavity and in the small bones, while in the large bones it appears as marrow (Majja)."
       },
       {
         "type": "verse",
@@ -12843,7 +13042,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ स्थूलास्थिषु विशेषेण मज्जा त्वभ्यन्तराश्रितः अथेतरेषु सर्वेषु सरक्तꣳ मेद उच्यते शुद्धमाꣳसस्य यः स्नेहः सा वसा परिकीर्तिता",
         "text": "Памятные стихи об этом: в крупных костях костный мозг залегает преимущественно внутри, а во всех прочих — то, что смешано с кровью, называют Медой; жировое вещество чистого мяса именуют Васой.",
         "iast": "bhavati cātra/ sthūlāsthiṣu viśeṣeṇa majjā tvabhyantarāśritaḥ athetareṣu sarveṣu saraktaṁ meda ucyate śuddhamāṁsasya yaḥ snehaḥ sā vasā parikīrtitā",
-        "iast_ru": "бхавати ча̄тра/ стхӯла̄стхиш̣у виш́еш̣ен̣а маджджа̄ твабхйантара̄ш́ритах̣ атхетареш̣у сарвеш̣у сарактам̣ меда учйате ш́уддхама̄м̣сасйа йах̣ снехах̣ са̄ васа̄ парикӣртита̄"
+        "iast_ru": "бхавати ча̄тра/ стхӯла̄стхиш̣у виш́еш̣ен̣а маджджа̄ твабхйантара̄ш́ритах̣ атхетареш̣у сарвеш̣у сарактам̣ меда учйате ш́уддхама̄м̣сасйа йах̣ снехах̣ са̄ васа̄ парикӣртита̄",
+        "text_en": "Memorial verses on this: in the large bones the marrow lies chiefly within; in all the others, that which is mixed with blood is called Meda; the fatty substance of pure flesh is termed Vasa."
       },
       {
         "type": "verse",
@@ -12851,7 +13051,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "चतुर्थी श्लेष्मधरा नाम; सर्वसन्धिषु प्राणभृताꣳ भवति",
         "text": "Четвёртая Кала называется Шлешмадхара — она находится во всех суставах живых существ.",
         "iast": "caturthī śleṣmadharā nāma; sarvasandhiṣu prāṇabhṛtāṁ bhavati",
-        "iast_ru": "чатуртхӣ ш́леш̣мадхара̄ на̄ма; сарвасандхиш̣у пра̄н̣абхр̣та̄м̣ бхавати"
+        "iast_ru": "чатуртхӣ ш́леш̣мадхара̄ на̄ма; сарвасандхиш̣у пра̄н̣абхр̣та̄м̣ бхавати",
+        "text_en": "The fourth Kala is called Shleshmadhara; it is found in all the joints of living beings."
       },
       {
         "type": "verse",
@@ -12859,7 +13060,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ स्नेहाभ्यक्ते यथा ह्यक्षे चक्रꣳ साधु प्रवर्तते सन्धयः साधु वर्तन्ते सꣳश्लिष्टाः श्लेष्मणा तथा",
         "text": "Памятные стихи об этом: подобно тому как колесо легко катится на смазанной оси, так и суставы, увлажнённые слизью (Капхой), движутся легко.",
         "iast": "bhavati cātra/ snehābhyakte yathā hyakṣe cakraṁ sādhu pravartate sandhayaḥ sādhu vartante saṁśliṣṭāḥ śleṣmaṇā tathā",
-        "iast_ru": "бхавати ча̄тра/ снеха̄бхйакте йатха̄ хйакш̣е чакрам̣ са̄дху правартате сандхайах̣ са̄дху вартанте сам̣ш́лиш̣т̣а̄х̣ ш́леш̣ман̣а̄ татха̄"
+        "iast_ru": "бхавати ча̄тра/ снеха̄бхйакте йатха̄ хйакш̣е чакрам̣ са̄дху правартате сандхайах̣ са̄дху вартанте сам̣ш́лиш̣т̣а̄х̣ ш́леш̣ман̣а̄ татха̄",
+        "text_en": "Memorial verses on this: just as a wheel rolls easily on a lubricated axle, so too the joints, moistened by mucus (Kapha), move easily."
       },
       {
         "type": "verse",
@@ -12867,7 +13069,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पञ्चमी पुरीषधरा नाम; या+अव्तःकोष्ठे मलमभिविभजते पक्वाशयस्था",
         "text": "Пятая Кала называется Пуришадхара — расположенная в нижней части живота, в толстой кишке (Паквашае), она отделяет каловые массы.",
         "iast": "pañcamī purīṣadharā nāma; yā+avtaḥkoṣṭhe malamabhivibhajate pakvāśayasthā",
-        "iast_ru": "пан̃чамӣ пурӣш̣адхара̄ на̄ма; йа̄+автах̣кош̣т̣хе маламабхивибхаджате паква̄ш́айастха̄"
+        "iast_ru": "пан̃чамӣ пурӣш̣адхара̄ на̄ма; йа̄+автах̣кош̣т̣хе маламабхивибхаджате паква̄ш́айастха̄",
+        "text_en": "The fifth Kala is called Purishadhara; situated in the lower part of the belly, in the large intestine (Pakvashaya), it separates out the fecal matter."
       },
       {
         "type": "verse",
@@ -12875,7 +13078,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ यकृत्समन्तात् कोष्ठꣳ च तथा+अन्त्राणि समाश्रिता उण्डुकस्थꣳ विभजते मलꣳ मलधरा कला",
         "text": "Памятные стихи об этом: окружая печень, брюшную полость и кишки, Малахара-Кала отделяет нечистоты, скопившиеся в слепой кишке (Ундуке).",
         "iast": "bhavati cātra/ yakṛtsamantāt koṣṭhaṁ ca tathā+antrāṇi samāśritā uṇḍukasthaṁ vibhajate malaṁ maladharā kalā",
-        "iast_ru": "бхавати ча̄тра/ йакр̣тсаманта̄т кош̣т̣хам̣ ча татха̄+антра̄н̣и сама̄ш́рита̄ ун̣д̣укастхам̣ вибхаджате малам̣ маладхара̄ кала̄"
+        "iast_ru": "бхавати ча̄тра/ йакр̣тсаманта̄т кош̣т̣хам̣ ча татха̄+антра̄н̣и сама̄ш́рита̄ ун̣д̣укастхам̣ вибхаджате малам̣ маладхара̄ кала̄",
+        "text_en": "Memorial verses on this: surrounding the liver, the abdominal cavity, and the intestines, the Malahara-Kala separates the impurities that have accumulated in the caecum (Unduka)."
       },
       {
         "type": "verse",
@@ -12883,7 +13087,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "षष्ठी पित्तधरा नाम; या चतुर्विधमन्नपानमुपभु(यु)क्तमामाशयात् प्रच्युतꣳ पक्वाशयोपस्थितꣳ धारयति [ऽषष्ठी पित्तधरा नाम पक्वामाशयमध्यस्था/ सा ह्यन्तरग्नेरधिष्ठानतया++आमाशयात् पक्वाशयोन्मुखमन्नꣳ बलेन विधार्य पित्ततेजसा शोषयति पचति पक्वꣳ च विमुञ्चति/ दोषाधिष्ठिता तु दौर्बल्यादाममेव/ ततो+असावन्नस्य ग्रहणात् पुनर्ग्रहणीसꣳज्ञा/ बलꣳ च तस्याः पित्तमेवाग्न्यभिधानमतः सा+अग्निनोपस्तब्धोपबृꣳहितैकयोगक्षेमा शरीरꣳ वर्तयति/ऽ (अष्टाङ्गसꣳग्रह शा.स्था.अ.)]",
         "text": "Шестая Кала называется Питтадхара — она удерживает четыре вида принятой пищи и питья после того, как они перешли из желудка (Амашаи) в кишечник (Паквашаю).",
         "iast": "ṣaṣṭhī pittadharā nāma; yā caturvidhamannapānamupabhu(yu)ktamāmāśayāt pracyutaṁ pakvāśayopasthitaṁ dhārayati ['ṣaṣṭhī pittadharā nāma pakvāmāśayamadhyasthā/ sā hyantaragneradhiṣṭhānatayā++āmāśayāt pakvāśayonmukhamannaṁ balena vidhārya pittatejasā śoṣayati pacati pakvaṁ ca vimuñcati/ doṣādhiṣṭhitā tu daurbalyādāmameva/ tato+asāvannasya grahaṇāt punargrahaṇīsaṁjñā/ balaṁ ca tasyāḥ pittamevāgnyabhidhānamataḥ sā+agninopastabdhopabṛṁhitaikayogakṣemā śarīraṁ vartayati/' (aṣṭāṅgasaṁgraha śā.sthā.a.)]",
-        "iast_ru": "ш̣аш̣т̣хӣ питтадхара̄ на̄ма; йа̄ чатурвидхаманнапа̄намупабху(йу)ктама̄ма̄ш́айа̄т прачйутам̣ паква̄ш́айопастхитам̣ дха̄райати ['ш̣аш̣т̣хӣ питтадхара̄ на̄ма паква̄ма̄ш́айамадхйастха̄/ са̄ хйантарагнерадхиш̣т̣ха̄натайа̄++а̄ма̄ш́айа̄т паква̄ш́айонмукхаманнам̣ балена видха̄рйа питтатеджаса̄ ш́ош̣айати пачати паквам̣ ча вимун̃чати/ дош̣а̄дхиш̣т̣хита̄ ту даурбалйа̄да̄мамева/ тато+аса̄ваннасйа грахан̣а̄т пунарграхан̣ӣсам̣джн̃а̄/ балам̣ ча тасйа̄х̣ питтамева̄гнйабхидха̄наматах̣ са̄+агнинопастабдхопабр̣м̣хитаикайогакш̣ема̄ ш́арӣрам̣ вартайати/' (аш̣т̣а̄н̇гасам̣граха ш́а̄.стха̄.а.)]"
+        "iast_ru": "ш̣аш̣т̣хӣ питтадхара̄ на̄ма; йа̄ чатурвидхаманнапа̄намупабху(йу)ктама̄ма̄ш́айа̄т прачйутам̣ паква̄ш́айопастхитам̣ дха̄райати ['ш̣аш̣т̣хӣ питтадхара̄ на̄ма паква̄ма̄ш́айамадхйастха̄/ са̄ хйантарагнерадхиш̣т̣ха̄натайа̄++а̄ма̄ш́айа̄т паква̄ш́айонмукхаманнам̣ балена видха̄рйа питтатеджаса̄ ш́ош̣айати пачати паквам̣ ча вимун̃чати/ дош̣а̄дхиш̣т̣хита̄ ту даурбалйа̄да̄мамева/ тато+аса̄ваннасйа грахан̣а̄т пунарграхан̣ӣсам̣джн̃а̄/ балам̣ ча тасйа̄х̣ питтамева̄гнйабхидха̄наматах̣ са̄+агнинопастабдхопабр̣м̣хитаикайогакш̣ема̄ ш́арӣрам̣ вартайати/' (аш̣т̣а̄н̇гасам̣граха ш́а̄.стха̄.а.)]",
+        "text_en": "The sixth Kala is called Pittadhara; it holds the four kinds of food and drink taken in, after they have passed from the stomach (Amashaya) into the intestines (Pakvashaya)."
       },
       {
         "type": "verse",
@@ -12891,7 +13096,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ अशितꣳ खादितꣳ पीतꣳ कोष्ठगतꣳ नृणाम् तज्जीर्यति यथाकालꣳ शोषितꣳ पित्ततेजसा",
         "text": "Памятные стихи об этом: съеденное, разжёванное и выпитое людьми, попав в живот, переваривается в надлежащий срок, будучи высушено жаром Питты.",
         "iast": "bhavati cātra/ aśitaṁ khāditaṁ pītaṁ koṣṭhagataṁ nṛṇām tajjīryati yathākālaṁ śoṣitaṁ pittatejasā",
-        "iast_ru": "бхавати ча̄тра/ аш́итам̣ кха̄дитам̣ пӣтам̣ кош̣т̣хагатам̣ нр̣н̣а̄м таджджӣрйати йатха̄ка̄лам̣ ш́ош̣итам̣ питтатеджаса̄"
+        "iast_ru": "бхавати ча̄тра/ аш́итам̣ кха̄дитам̣ пӣтам̣ кош̣т̣хагатам̣ нр̣н̣а̄м таджджӣрйати йатха̄ка̄лам̣ ш́ош̣итам̣ питтатеджаса̄",
+        "text_en": "Memorial verses on this: what is eaten, chewed, and drunk by people, having entered the belly, is digested in due time, being dried by the heat of Pitta."
       },
       {
         "type": "verse",
@@ -12899,7 +13105,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सप्तमी शुक्रधरा नाम; या सर्वप्राणिनाꣳ सर्वशरीरव्यापिनी",
         "text": "Седьмая Кала называется Шукрадхара — она пронизывает всё тело всех живых существ.",
         "iast": "saptamī śukradharā nāma; yā sarvaprāṇināṁ sarvaśarīravyāpinī",
-        "iast_ru": "саптамӣ ш́украдхара̄ на̄ма; йа̄ сарвапра̄н̣ина̄м̣ сарваш́арӣравйа̄пинӣ"
+        "iast_ru": "саптамӣ ш́украдхара̄ на̄ма; йа̄ сарвапра̄н̣ина̄м̣ сарваш́арӣравйа̄пинӣ",
+        "text_en": "The seventh Kala is called Shukradhara; it pervades the entire body of all living beings."
       },
       {
         "type": "verse",
@@ -12907,7 +13114,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ यथा पयसि सर्पिस्तु गूढश्चेक्षौऽगुडश्चेक्षरसेऽइति पा+ रसो यथा शरीरेषु तथा शुक्रꣳ नृणाꣳ विद्याद्भिषग्वरः",
         "text": "Памятные стихи об этом: подобно тому как в молоке скрыто масло (Сарпи), а в сахарном тростнике — сладкий сок, так лучший из врачей должен знать, что семя (Шукра) пронизывает тело человека подобно жизненному соку.",
         "iast": "bhavanti cātra/ yathā payasi sarpistu gūḍhaścekṣau'guḍaścekṣarase'iti pā+ raso yathā śarīreṣu tathā śukraṁ nṛṇāṁ vidyādbhiṣagvaraḥ",
-        "iast_ru": "бхаванти ча̄тра/ йатха̄ пайаси сарписту гӯд̣хаш́чекш̣ау'гуд̣аш́чекш̣арасе'ити па̄+ расо йатха̄ ш́арӣреш̣у татха̄ ш́украм̣ нр̣н̣а̄м̣ видйа̄дбхиш̣агварах̣"
+        "iast_ru": "бхаванти ча̄тра/ йатха̄ пайаси сарписту гӯд̣хаш́чекш̣ау'гуд̣аш́чекш̣арасе'ити па̄+ расо йатха̄ ш́арӣреш̣у татха̄ ш́украм̣ нр̣н̣а̄м̣ видйа̄дбхиш̣агварах̣",
+        "text_en": "Memorial verses on this: just as butter (Sarpi) is hidden within milk, and sweet juice within sugarcane, so the best of physicians should know that semen (Shukra) pervades the human body like a vital sap."
       },
       {
         "type": "verse",
@@ -12915,7 +13123,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "द्व्यङ्गुले दक्षिणे पार्श्वे बस्तिद्वारस्य चाप्यधः मूत्रस्रोतःपथाच्च्गुक्रꣳ पुरुषस्य प्रवर्तते [ऽद्व्यङ्गुले दक्षिणे पार्श्वे बस्तिद्वारस्य चाप्यधः/ मूत्रस्रोतःपथाच्छुक्रꣳ पुरुषस्य प्रवर्ततऽ इत्यत्र+अद्व्यङ्गुले दक्षिणे वामऽ इत्येव साधीयान् पाठः, अन्यथा प्रत्यक्षविरोधात् स्वाक्तिविरोधाच्च/ क्षुयते हि+अशुक्रवहे द्वे शुक्रप्रादुर्भावाय, द्वे शुक्रविसर्गाय चऽ इति सुश्रुते एवऽ (प्रत्यक्षशारीर, उपोद्धात, पृष्ठ ७२)/]",
         "text": "На два пальца в сторону от срединной линии, ниже устья мочевого пузыря, через путь мочевых каналов изливается семя мужчины.",
         "iast": "dvyaṅgule dakṣiṇe pārśve bastidvārasya cāpyadhaḥ mūtrasrotaḥpathāccgukraṁ puruṣasya pravartate ['dvyaṅgule dakṣiṇe pārśve bastidvārasya cāpyadhaḥ/ mūtrasrotaḥpathācchukraṁ puruṣasya pravartata' ityatra+advyaṅgule dakṣiṇe vāma' ityeva sādhīyān pāṭhaḥ, anyathā pratyakṣavirodhāt svāktivirodhācca/ kṣuyate hi+aśukravahe dve śukraprādurbhāvāya, dve śukravisargāya ca' iti suśrute eva' (pratyakṣaśārīra, upoddhāta, pṛṣṭha 72)/]",
-        "iast_ru": "двйан̇гуле дакш̣ин̣е па̄рш́ве бастидва̄расйа ча̄пйадхах̣ мӯтрасротах̣патха̄ччгукрам̣ пуруш̣асйа правартате ['двйан̇гуле дакш̣ин̣е па̄рш́ве бастидва̄расйа ча̄пйадхах̣/ мӯтрасротах̣патха̄ччхукрам̣ пуруш̣асйа правартата' итйатра+адвйан̇гуле дакш̣ин̣е ва̄ма' итйева са̄дхӣйа̄н па̄т̣хах̣, анйатха̄ пратйакш̣авиродха̄т сва̄ктивиродха̄чча/ кш̣уйате хи+аш́укравахе две ш́украпра̄дурбха̄ва̄йа, две ш́укрависарга̄йа ча' ити суш́руте ева' (пратйакш̣аш́а̄рӣра, уподдха̄та, пр̣ш̣т̣ха 72)/]"
+        "iast_ru": "двйан̇гуле дакш̣ин̣е па̄рш́ве бастидва̄расйа ча̄пйадхах̣ мӯтрасротах̣патха̄ччгукрам̣ пуруш̣асйа правартате ['двйан̇гуле дакш̣ин̣е па̄рш́ве бастидва̄расйа ча̄пйадхах̣/ мӯтрасротах̣патха̄ччхукрам̣ пуруш̣асйа правартата' итйатра+адвйан̇гуле дакш̣ин̣е ва̄ма' итйева са̄дхӣйа̄н па̄т̣хах̣, анйатха̄ пратйакш̣авиродха̄т сва̄ктивиродха̄чча/ кш̣уйате хи+аш́укравахе две ш́украпра̄дурбха̄ва̄йа, две ш́укрависарга̄йа ча' ити суш́руте ева' (пратйакш̣аш́а̄рӣра, уподдха̄та, пр̣ш̣т̣ха 72)/]",
+        "text_en": "Two fingers' breadth to the side of the median line, below the opening of the bladder, through the path of the urinary channels, a man's semen is discharged."
       },
       {
         "type": "verse",
@@ -12923,7 +13132,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कृत्स्नदेहाश्रितꣳ शुक्रꣳ प्रसन्नमनसस्तथा स्त्रीषु व्यायच्छतश्चापि हर्शात्तत् सꣳप्रवर्तते",
         "text": "Семя, пребывающее во всём теле, при спокойствии духа и при соединении с женщиной в порыве наслаждения устремляется наружу.",
         "iast": "kṛtsnadehāśritaṁ śukraṁ prasannamanasastathā strīṣu vyāyacchataścāpi harśāttat saṁpravartate",
-        "iast_ru": "кр̣тснадеха̄ш́ритам̣ ш́украм̣ прасаннаманасастатха̄ стрӣш̣у вйа̄йаччхаташ́ча̄пи харш́а̄ттат сам̣правартате"
+        "iast_ru": "кр̣тснадеха̄ш́ритам̣ ш́украм̣ прасаннаманасастатха̄ стрӣш̣у вйа̄йаччхаташ́ча̄пи харш́а̄ттат сам̣правартате",
+        "text_en": "Semen, dwelling throughout the whole body, when the mind is at ease and upon union with a woman in a surge of pleasure, rushes outward."
       },
       {
         "type": "verse",
@@ -12931,7 +13141,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गृहीतगर्भाणामार्तववहानाꣳ स्रोतसाꣳ वर्त्मान्यवरुध्यन्त गर्भेण, तस्माद्गृहीतगर्भाणामार्तवꣳ न दृश्यते; ततस्तदधः प्रतिहतमूर्ध्वमागतमपरꣳ चोपचीयमानमपराîत्यभिधीयते; शेषꣳ चोर्ध्वतरमागतꣳ पयोधरावभिप्रतिपद्यते, तस्माद्गर्भिण्यः पीनोन्नतपयोधरा भवन्ति",
         "text": "У зачавших женщин пути каналов, несущих менструальную кровь (Артаву), закрываются зародышем, поэтому у беременных не бывает месячных; удержанная таким образом кровь поднимается вверх, и часть её, скопляясь, образует детское место (Апара, послед), а остальная, поднимаясь ещё выше, устремляется к молочным железам, отчего у беременных грудь становится полной и приподнятой.",
         "iast": "gṛhītagarbhāṇāmārtavavahānāṁ srotasāṁ vartmānyavarudhyanta garbheṇa, tasmādgṛhītagarbhāṇāmārtavaṁ na dṛśyate; tatastadadhaḥ pratihatamūrdhvamāgatamaparaṁ copacīyamānamaparāîtyabhidhīyate; śeṣaṁ cordhvataramāgataṁ payodharāvabhipratipadyate, tasmādgarbhiṇyaḥ pīnonnatapayodharā bhavanti",
-        "iast_ru": "гр̣хӣтагарбха̄н̣а̄ма̄ртававаха̄на̄м̣ сротаса̄м̣ вартма̄нйаварудхйанта гарбхен̣а, тасма̄дгр̣хӣтагарбха̄н̣а̄ма̄ртавам̣ на др̣ш́йате; татастададхах̣ пратихатамӯрдхвама̄гатамапарам̣ чопачӣйама̄намапара̄итйабхидхӣйате; ш́еш̣ам̣ чордхватарама̄гатам̣ пайодхара̄вабхипратипадйате, тасма̄дгарбхин̣йах̣ пӣноннатапайодхара̄ бхаванти"
+        "iast_ru": "гр̣хӣтагарбха̄н̣а̄ма̄ртававаха̄на̄м̣ сротаса̄м̣ вартма̄нйаварудхйанта гарбхен̣а, тасма̄дгр̣хӣтагарбха̄н̣а̄ма̄ртавам̣ на др̣ш́йате; татастададхах̣ пратихатамӯрдхвама̄гатамапарам̣ чопачӣйама̄намапара̄итйабхидхӣйате; ш́еш̣ам̣ чордхватарама̄гатам̣ пайодхара̄вабхипратипадйате, тасма̄дгарбхин̣йах̣ пӣноннатапайодхара̄ бхаванти",
+        "text_en": "In women who have conceived, the passages of the channels carrying menstrual blood (Artava) are closed off by the fetus, and therefore pregnant women do not menstruate; the blood thus retained rises upward, and part of it, accumulating, forms the afterbirth (Apara, the placenta), while the rest, rising still higher, makes its way to the mammary glands, on account of which the breasts of pregnant women become full and raised."
       },
       {
         "type": "verse",
@@ -12939,7 +13150,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गर्भस्य यकृत्प्लीहानौ शोणितजौ, शोणितफेनप्रभभवः फुप्फुसः, शोणिताꣳकट्टप्रभभ्व उण्डुकः ऽउदानवायोराधारः फुप्फुसः प्रोच्यते बुधौःऽइति शार्ङ्गधरः",
         "text": "Печень и селезёнка зародыша образуются из крови; лёгкие возникают из пены крови; слепая кишка (Ундука) — из осадка крови.",
         "iast": "garbhasya yakṛtplīhānau śoṇitajau, śoṇitaphenaprabhabhavaḥ phupphusaḥ, śoṇitāṁkaṭṭaprabhabhva uṇḍukaḥ 'udānavāyorādhāraḥ phupphusaḥ procyate budhauḥ'iti śārṅgadharaḥ",
-        "iast_ru": "гарбхасйа йакр̣тплӣха̄нау ш́он̣итаджау, ш́он̣итапхенапрабхабхавах̣ пхуппхусах̣, ш́он̣ита̄м̣кат̣т̣апрабхабхва ун̣д̣уках̣ 'уда̄нава̄йора̄дха̄рах̣ пхуппхусах̣ прочйате будхаух̣'ити ш́а̄рн̇гадхарах̣"
+        "iast_ru": "гарбхасйа йакр̣тплӣха̄нау ш́он̣итаджау, ш́он̣итапхенапрабхабхавах̣ пхуппхусах̣, ш́он̣ита̄м̣кат̣т̣апрабхабхва ун̣д̣уках̣ 'уда̄нава̄йора̄дха̄рах̣ пхуппхусах̣ прочйате будхаух̣'ити ш́а̄рн̇гадхарах̣",
+        "text_en": "The fetus's liver and spleen are formed from blood; the lungs arise from the froth of blood; the caecum (Unduka) from the sediment of blood."
       },
       {
         "type": "verse",
@@ -12947,7 +13159,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "असृजः श्लेष्मणश्चापि यः प्रसादः परो मतः तꣳ पच्यमानꣳ पित्तेन वायुश्चाप्यनुधावति",
         "text": "Наивысшая, очищенная сущность крови и слизи (Капхи), созревая под действием Питты, увлекается далее Ватой.",
         "iast": "asṛjaḥ śleṣmaṇaścāpi yaḥ prasādaḥ paro mataḥ taṁ pacyamānaṁ pittena vāyuścāpyanudhāvati",
-        "iast_ru": "аср̣джах̣ ш́леш̣ман̣аш́ча̄пи йах̣ праса̄дах̣ паро матах̣ там̣ пачйама̄нам̣ питтена ва̄йуш́ча̄пйанудха̄вати"
+        "iast_ru": "аср̣джах̣ ш́леш̣ман̣аш́ча̄пи йах̣ праса̄дах̣ паро матах̣ там̣ пачйама̄нам̣ питтена ва̄йуш́ча̄пйанудха̄вати",
+        "text_en": "The highest, purified essence of blood and mucus (Kapha), maturing under the action of Pitta, is carried further along by Vata."
       },
       {
         "type": "verse",
@@ -12955,7 +13168,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ततो+अस्यान्त्राणि जायन्ते गुदꣳ बस्तिश्च देहिनः उदरे पच्यमानानामाध्मानाद्रुक्मसारवत्",
         "text": "Из неё возникают кишки, задний проход и мочевой пузырь зародыша — подобно тому как при вздутии переваривающегося в животе вещества образуется чистое золото при плавке руды.",
         "iast": "tato+asyāntrāṇi jāyante gudaṁ bastiśca dehinaḥ udare pacyamānānāmādhmānādrukmasāravat",
-        "iast_ru": "тато+асйа̄нтра̄н̣и джа̄йанте гудам̣ бастиш́ча дехинах̣ ударе пачйама̄на̄на̄ма̄дхма̄на̄друкмаса̄рават"
+        "iast_ru": "тато+асйа̄нтра̄н̣и джа̄йанте гудам̣ бастиш́ча дехинах̣ ударе пачйама̄на̄на̄ма̄дхма̄на̄друкмаса̄рават",
+        "text_en": "From it arise the fetus's intestines, anus, and bladder, just as, when a substance being digested in the belly swells and ferments, pure gold is formed by the smelting of ore."
       },
       {
         "type": "verse",
@@ -12963,7 +13177,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कफशोणितमाꣳसानाꣳ सारो जिह्वा प्रजायते यथार्थमूष्मणा युक्तो वायुः स्रोताꣳसि दारयेत् [ऽतत्रास्य मथ्यमानस्य ध्मायमानस्य रुक्मवत्/ जिह्वा सꣳजायते सौमी यया वेदयते रसान्ऽ इति पा+]",
         "text": "Язык образуется из сущности слизи, крови и мяса; Вата, соединённая надлежащим образом с теплом, прокладывает и раскрывает каналы (Шротас).",
         "iast": "kaphaśoṇitamāṁsānāṁ sāro jihvā prajāyate yathārthamūṣmaṇā yukto vāyuḥ srotāṁsi dārayet ['tatrāsya mathyamānasya dhmāyamānasya rukmavat/ jihvā saṁjāyate saumī yayā vedayate rasān' iti pā+]",
-        "iast_ru": "капхаш́он̣итама̄м̣са̄на̄м̣ са̄ро джихва̄ праджа̄йате йатха̄ртхамӯш̣ман̣а̄ йукто ва̄йух̣ срота̄м̣си да̄райет ['татра̄сйа матхйама̄насйа дхма̄йама̄насйа рукмават/ джихва̄ сам̣джа̄йате саумӣ йайа̄ ведайате раса̄н' ити па̄+]"
+        "iast_ru": "капхаш́он̣итама̄м̣са̄на̄м̣ са̄ро джихва̄ праджа̄йате йатха̄ртхамӯш̣ман̣а̄ йукто ва̄йух̣ срота̄м̣си да̄райет ['татра̄сйа матхйама̄насйа дхма̄йама̄насйа рукмават/ джихва̄ сам̣джа̄йате саумӣ йайа̄ ведайате раса̄н' ити па̄+]",
+        "text_en": "The tongue is formed from the essence of mucus, blood, and flesh; Vata, duly combined with heat, opens up and clears the channels (Shrotas)."
       },
       {
         "type": "verse",
@@ -12971,7 +13186,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अनुप्रविश्य पिशितꣳ पेशीर्विभजते तथा मेदसः स्नेहमादाय सिरास्नायुत्वमाप्नुयात् [वै+ पꣳ+ हरिप्रपन्नशर्मणा तु अयꣳ पाठो+अन्यथा पठितो व्याख्यातश्च,+अमेदः स स्नेहमादाय सिरास्नायुत्वमप्यथ/ सिराणाꣳ तु मृदुः पाकः स्नायूनाꣳ च ततः खरः आशय्याभ्यासयोगेन करोत्याशयसꣳभवम्/ स वायुः कर्ता, अन्नरसात् स्नेहमादाय मेदो विभजते अर्थादुदरे मेदश्चिमोति; अथ एवꣳ सिरास्नायुत्वꣳ विभजते अर्थात् सिरात्वꣳ सिरास्वरूपꣳ, स्नायुत्वꣳ स्नायुस्वरूपꣳ च विभजते/ ननु समवायिकारणस्यैकत्वे+अपि कथमेतद्वेचित्र्यꣳ सꣳजायत इत्याह---सिराणाꣳ तु मृदुः पाक इत्यादि/ ---सिराणामशुद्धरक्तवाहिनानाꣳ, धमनीरसायनीनामप्युपलक्षणमेतत्; अत्र मृदुः पाका भवति निरन्तररससꣳमृतत्वात्; स्नायूनाꣳ च पेशीप्रान्तानाꣳ खरः पाको भवति अल्परसगमनात्/ ----स वायुः माꣳसपेशीषु आशय्य आसमन्तात् निवासꣳ कृत्वा हृदयाद्याशयानाꣳ सꣳभवमुत्पत्तिꣳ करोतिऽ(रसयोगसागर, उपोद्धात, पृ+ ११३-११४)/]",
         "text": "Проникая в мясо, Вата разделяет его на мышцы (Пеши); а взяв маслянистую сущность жира (Меды), она образует из неё вены (Сира) и сухожилия (Снаю).",
         "iast": "anupraviśya piśitaṁ peśīrvibhajate tathā medasaḥ snehamādāya sirāsnāyutvamāpnuyāt [vai+ paṁ+ hariprapannaśarmaṇā tu ayaṁ pāṭho+anyathā paṭhito vyākhyātaśca,+amedaḥ sa snehamādāya sirāsnāyutvamapyatha/ sirāṇāṁ tu mṛduḥ pākaḥ snāyūnāṁ ca tataḥ kharaḥ āśayyābhyāsayogena karotyāśayasaṁbhavam/ sa vāyuḥ kartā, annarasāt snehamādāya medo vibhajate arthādudare medaścimoti; atha evaṁ sirāsnāyutvaṁ vibhajate arthāt sirātvaṁ sirāsvarūpaṁ, snāyutvaṁ snāyusvarūpaṁ ca vibhajate/ nanu samavāyikāraṇasyaikatve+api kathametadvecitryaṁ saṁjāyata ityāha---sirāṇāṁ tu mṛduḥ pāka ityādi/ ---sirāṇāmaśuddharaktavāhinānāṁ, dhamanīrasāyanīnāmapyupalakṣaṇametat; atra mṛduḥ pākā bhavati nirantararasasaṁmṛtatvāt; snāyūnāṁ ca peśīprāntānāṁ kharaḥ pāko bhavati alparasagamanāt/ ----sa vāyuḥ māṁsapeśīṣu āśayya āsamantāt nivāsaṁ kṛtvā hṛdayādyāśayānāṁ saṁbhavamutpattiṁ karoti'(rasayogasāgara, upoddhāta, pṛ+ 113-114)/]",
-        "iast_ru": "ануправиш́йа пиш́итам̣ пеш́ӣрвибхаджате татха̄ медасах̣ снехама̄да̄йа сира̄сна̄йутвама̄пнуйа̄т [ваи+ пам̣+ харипрапаннаш́арман̣а̄ ту айам̣ па̄т̣хо+анйатха̄ пат̣хито вйа̄кхйа̄таш́ча,+амедах̣ са снехама̄да̄йа сира̄сна̄йутвамапйатха/ сира̄н̣а̄м̣ ту мр̣дух̣ па̄ках̣ сна̄йӯна̄м̣ ча татах̣ кхарах̣ а̄ш́аййа̄бхйа̄сайогена каротйа̄ш́айасам̣бхавам/ са ва̄йух̣ карта̄, аннараса̄т снехама̄да̄йа медо вибхаджате артха̄дударе медаш́чимоти; атха евам̣ сира̄сна̄йутвам̣ вибхаджате артха̄т сира̄твам̣ сира̄сварӯпам̣, сна̄йутвам̣ сна̄йусварӯпам̣ ча вибхаджате/ нану самава̄йика̄ран̣асйаикатве+апи катхаметадвечитрйам̣ сам̣джа̄йата итйа̄ха---сира̄н̣а̄м̣ ту мр̣дух̣ па̄ка итйа̄ди/ ---сира̄н̣а̄маш́уддхарактава̄хина̄на̄м̣, дхаманӣраса̄йанӣна̄мапйупалакш̣ан̣аметат; атра мр̣дух̣ па̄ка̄ бхавати нирантарарасасам̣мр̣татва̄т; сна̄йӯна̄м̣ ча пеш́ӣпра̄нта̄на̄м̣ кхарах̣ па̄ко бхавати алпарасагамана̄т/ ----са ва̄йух̣ ма̄м̣сапеш́ӣш̣у а̄ш́аййа а̄саманта̄т нива̄сам̣ кр̣тва̄ хр̣дайа̄дйа̄ш́айа̄на̄м̣ сам̣бхавамутпаттим̣ кароти'(расайогаса̄гара, уподдха̄та, пр̣+ 113-114)/]"
+        "iast_ru": "ануправиш́йа пиш́итам̣ пеш́ӣрвибхаджате татха̄ медасах̣ снехама̄да̄йа сира̄сна̄йутвама̄пнуйа̄т [ваи+ пам̣+ харипрапаннаш́арман̣а̄ ту айам̣ па̄т̣хо+анйатха̄ пат̣хито вйа̄кхйа̄таш́ча,+амедах̣ са снехама̄да̄йа сира̄сна̄йутвамапйатха/ сира̄н̣а̄м̣ ту мр̣дух̣ па̄ках̣ сна̄йӯна̄м̣ ча татах̣ кхарах̣ а̄ш́аййа̄бхйа̄сайогена каротйа̄ш́айасам̣бхавам/ са ва̄йух̣ карта̄, аннараса̄т снехама̄да̄йа медо вибхаджате артха̄дударе медаш́чимоти; атха евам̣ сира̄сна̄йутвам̣ вибхаджате артха̄т сира̄твам̣ сира̄сварӯпам̣, сна̄йутвам̣ сна̄йусварӯпам̣ ча вибхаджате/ нану самава̄йика̄ран̣асйаикатве+апи катхаметадвечитрйам̣ сам̣джа̄йата итйа̄ха---сира̄н̣а̄м̣ ту мр̣дух̣ па̄ка итйа̄ди/ ---сира̄н̣а̄маш́уддхарактава̄хина̄на̄м̣, дхаманӣраса̄йанӣна̄мапйупалакш̣ан̣аметат; атра мр̣дух̣ па̄ка̄ бхавати нирантарарасасам̣мр̣татва̄т; сна̄йӯна̄м̣ ча пеш́ӣпра̄нта̄на̄м̣ кхарах̣ па̄ко бхавати алпарасагамана̄т/ ----са ва̄йух̣ ма̄м̣сапеш́ӣш̣у а̄ш́аййа а̄саманта̄т нива̄сам̣ кр̣тва̄ хр̣дайа̄дйа̄ш́айа̄на̄м̣ сам̣бхавамутпаттим̣ кароти'(расайогаса̄гара, уподдха̄та, пр̣+ 113-114)/]",
+        "text_en": "Penetrating the flesh, Vata divides it into muscles (Peshi); and taking the oily essence of fat (Meda), it forms from it the veins (Sira) and sinews (Snayu)."
       },
       {
         "type": "verse",
@@ -12979,7 +13195,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सिराणाꣳ तु मृदुः पाकः स्नायूनाꣳ च ततः खरः आशय्याभ्यासयोगेन करोत्याशयसꣳभवम्",
         "text": "Созревание вен происходит мягко, а сухожилий — грубее; постоянным пребыванием в определённых местах она образует внутренние вместилища (Ашаи, полости тела).",
         "iast": "sirāṇāṁ tu mṛduḥ pākaḥ snāyūnāṁ ca tataḥ kharaḥ āśayyābhyāsayogena karotyāśayasaṁbhavam",
-        "iast_ru": "сира̄н̣а̄м̣ ту мр̣дух̣ па̄ках̣ сна̄йӯна̄м̣ ча татах̣ кхарах̣ а̄ш́аййа̄бхйа̄сайогена каротйа̄ш́айасам̣бхавам"
+        "iast_ru": "сира̄н̣а̄м̣ ту мр̣дух̣ па̄ках̣ сна̄йӯна̄м̣ ча татах̣ кхарах̣ а̄ш́аййа̄бхйа̄сайогена каротйа̄ш́айасам̣бхавам",
+        "text_en": "The maturation of the veins occurs gently, while that of the sinews is coarser; by constant residence in particular places it forms the internal cavities (Ashaya, the hollow spaces of the body)."
       },
       {
         "type": "verse",
@@ -12987,7 +13204,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रक्तमेदःप्रसादाद्वृक्कौ; माꣳसासृक्कल्हमेदःप्रसादाद्वृषणौ; शोणितकफप्रसादजꣳ हृदयꣳ, यदाश्रया हि धमन्यः प्राणवहाः; तस्याधोऽतस्य वामतःऽइति पा+ वामतः प्लीहा फुप्फुसश्च, दक्षिणतो यकृत् क्लोम च; तद्धृदयꣳ विशेषेण चेतनास्थानम्, अतस्तस्मिꣳस्तमसा++आवृते सर्वप्राणिनः स्वपन्ति [यत्तु+अहृदयस्याधो वामतः प्लीहा फुस्फुसश्च, दक्षिणतो यकृत् क्लोम चऽ इति सौश्रुतः पाठः तत्र प्रमाद एव दरीदृश्यते,+अहृदयस्याधो वामतः प्लीहा, दक्षिणतो यकृत्, उभयतः क्लोम फुस्फुसौ चऽ इति तु साधीयान् पाठः, अन्यथा न केनापि कथमपि शक्यꣳ समाधातुम्,(प्रत्यक्षशारीर, उपोद्धात, पृ+ ६८)/ क्लोम श्वासनलिका---ऽट्रेकिया \"त्रछेअ\"ऽ इति गणनाथसेनः (प्रत्यक्षशारीर, द्वितीयभाग, पृ+ १७८),+अगाल ब्लडर \"गल्ल्-ब्लद्देर्\"ऽ इति रसयोगसागरस्योपोद्धाते(पृ+९६-१०२) वै+ पꣳ+ हरिप्रपन्नशर्मा/ विस्तरस्तु तत्रैव द्रष्टव्यः/]",
         "text": "Почки образуются из сущности крови и жира; яички — из сущности мяса, крови, слизи и жира; сердце образуется из сущности крови и слизи, и на нём основаны артерии (Дхамани), несущие жизненное дыхание; под сердцем слева располагаются селезёнка и лёгкое, а справа — печень и Клома; сердце же есть главное вместилище сознания, и когда оно окутывается мраком, все живые существа погружаются в сон.",
         "iast": "raktamedaḥprasādādvṛkkau; māṁsāsṛkkalhamedaḥprasādādvṛṣaṇau; śoṇitakaphaprasādajaṁ hṛdayaṁ, yadāśrayā hi dhamanyaḥ prāṇavahāḥ; tasyādho'tasya vāmataḥ'iti pā+ vāmataḥ plīhā phupphusaśca, dakṣiṇato yakṛt kloma ca; taddhṛdayaṁ viśeṣeṇa cetanāsthānam, atastasmiṁstamasā++āvṛte sarvaprāṇinaḥ svapanti [yattu+ahṛdayasyādho vāmataḥ plīhā phusphusaśca, dakṣiṇato yakṛt kloma ca' iti sauśrutaḥ pāṭhaḥ tatra pramāda eva darīdṛśyate,+ahṛdayasyādho vāmataḥ plīhā, dakṣiṇato yakṛt, ubhayataḥ kloma phusphusau ca' iti tu sādhīyān pāṭhaḥ, anyathā na kenāpi kathamapi śakyaṁ samādhātum,(pratyakṣaśārīra, upoddhāta, pṛ+ 68)/ kloma śvāsanalikā---'ṭrekiyā \"trachea\"' iti gaṇanāthasenaḥ (pratyakṣaśārīra, dvitīyabhāga, pṛ+ 178),+agāla blaḍara \"gall-bladder\"' iti rasayogasāgarasyopoddhāte(pṛ+96-102) vai+ paṁ+ hariprapannaśarmā/ vistarastu tatraiva draṣṭavyaḥ/]",
-        "iast_ru": "рактамедах̣праса̄да̄двр̣ккау; ма̄м̣са̄ср̣ккалхамедах̣праса̄да̄двр̣ш̣ан̣ау; ш́он̣итакапхапраса̄даджам̣ хр̣дайам̣, йада̄ш́райа̄ хи дхаманйах̣ пра̄н̣аваха̄х̣; тасйа̄дхо'тасйа ва̄матах̣'ити па̄+ ва̄матах̣ плӣха̄ пхуппхусаш́ча, дакш̣ин̣ато йакр̣т клома ча; таддхр̣дайам̣ виш́еш̣ен̣а четана̄стха̄нам, атастасмим̣стамаса̄++а̄вр̣те сарвапра̄н̣инах̣ свапанти [йатту+ахр̣дайасйа̄дхо ва̄матах̣ плӣха̄ пхуспхусаш́ча, дакш̣ин̣ато йакр̣т клома ча' ити сауш́рутах̣ па̄т̣хах̣ татра прама̄да ева дарӣдр̣ш́йате,+ахр̣дайасйа̄дхо ва̄матах̣ плӣха̄, дакш̣ин̣ато йакр̣т, убхайатах̣ клома пхуспхусау ча' ити ту са̄дхӣйа̄н па̄т̣хах̣, анйатха̄ на кена̄пи катхамапи ш́акйам̣ сама̄дха̄тум,(пратйакш̣аш́а̄рӣра, уподдха̄та, пр̣+ 68)/ клома ш́ва̄саналика̄---'т̣рекийа̄ \"трачхеа\"' ити ган̣ана̄тхасенах̣ (пратйакш̣аш́а̄рӣра, двитӣйабха̄га, пр̣+ 178),+ага̄ла блад̣ара \"галл-бладдер\"' ити расайогаса̄гарасйоподдха̄те(пр̣+96-102) ваи+ пам̣+ харипрапаннаш́арма̄/ вистарасту татраива драш̣т̣авйах̣/]"
+        "iast_ru": "рактамедах̣праса̄да̄двр̣ккау; ма̄м̣са̄ср̣ккалхамедах̣праса̄да̄двр̣ш̣ан̣ау; ш́он̣итакапхапраса̄даджам̣ хр̣дайам̣, йада̄ш́райа̄ хи дхаманйах̣ пра̄н̣аваха̄х̣; тасйа̄дхо'тасйа ва̄матах̣'ити па̄+ ва̄матах̣ плӣха̄ пхуппхусаш́ча, дакш̣ин̣ато йакр̣т клома ча; таддхр̣дайам̣ виш́еш̣ен̣а четана̄стха̄нам, атастасмим̣стамаса̄++а̄вр̣те сарвапра̄н̣инах̣ свапанти [йатту+ахр̣дайасйа̄дхо ва̄матах̣ плӣха̄ пхуспхусаш́ча, дакш̣ин̣ато йакр̣т клома ча' ити сауш́рутах̣ па̄т̣хах̣ татра прама̄да ева дарӣдр̣ш́йате,+ахр̣дайасйа̄дхо ва̄матах̣ плӣха̄, дакш̣ин̣ато йакр̣т, убхайатах̣ клома пхуспхусау ча' ити ту са̄дхӣйа̄н па̄т̣хах̣, анйатха̄ на кена̄пи катхамапи ш́акйам̣ сама̄дха̄тум,(пратйакш̣аш́а̄рӣра, уподдха̄та, пр̣+ 68)/ клома ш́ва̄саналика̄---'т̣рекийа̄ \"трачхеа\"' ити ган̣ана̄тхасенах̣ (пратйакш̣аш́а̄рӣра, двитӣйабха̄га, пр̣+ 178),+ага̄ла блад̣ара \"галл-бладдер\"' ити расайогаса̄гарасйоподдха̄те(пр̣+96-102) ваи+ пам̣+ харипрапаннаш́арма̄/ вистарасту татраива драш̣т̣авйах̣/]",
+        "text_en": "The kidneys are formed from the essence of blood and fat; the testicles from the essence of flesh, blood, mucus, and fat; the heart is formed from the essence of blood and mucus, and upon it are based the arteries (Dhamani) that carry the vital breath; below the heart, on the left, are situated the spleen and the lung, and on the right, the liver and the Kloma; the heart is the principal seat of consciousness, and when it becomes enveloped in darkness, all living beings sink into sleep."
       },
       {
         "type": "verse",
@@ -12995,7 +13213,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ पुण्डरीकेण सदृशꣳ हृदयꣳ स्यादधोमुखम् जाग्रतस्तद्विकसति स्वपतश्च निमीलति",
         "text": "Памятные стихи об этом: сердце подобно нераскрытому лотосу и обращено вершиной книзу; при бодрствовании оно раскрывается, а во сне смыкается.",
         "iast": "bhavati cātra/ puṇḍarīkeṇa sadṛśaṁ hṛdayaṁ syādadhomukham jāgratastadvikasati svapataśca nimīlati",
-        "iast_ru": "бхавати ча̄тра/ пун̣д̣арӣкен̣а садр̣ш́ам̣ хр̣дайам̣ сйа̄дадхомукхам джа̄гратастадвикасати свапаташ́ча нимӣлати"
+        "iast_ru": "бхавати ча̄тра/ пун̣д̣арӣкен̣а садр̣ш́ам̣ хр̣дайам̣ сйа̄дадхомукхам джа̄гратастадвикасати свапаташ́ча нимӣлати",
+        "text_en": "Memorial verses on this: the heart resembles an unopened lotus and is turned with its tip downward; in waking it opens, and in sleep it closes."
       },
       {
         "type": "verse",
@@ -13003,7 +13222,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निद्राꣳ तु वैष्णवीꣳ पाप्मानमुपदिशन्ति, सा स्वभावत एव सर्वप्राणिनो+अभिस्पृशति/ तत्र यदा सꣳज्ञावहानि स्रोताꣳसि तमोभूयिष्ठः श्लेष्मा प्रतिपद्यते तदा तामसी नाम निद्रा भवत्यनवबोधिनीऽसꣳभवतिऽइति पा+, सा प्रलयकाले; तमोभूयिष्ठानामहःसु निशासु च भवति, रजोभूयिष्ठानामनिमित्तꣳ, सत्त्वभूयिष्ठानामर्धरात्रे; क्षीणश्लेष्मनिलबहुलानाꣳ मनःशरीराभितापवताꣳ च नैव, सा वैकारिकी भवति",
         "text": "Сон именуют вишнуической иллюзией (Вайшнави-майя), и он естественным образом касается всех живых существ. Когда каналы, несущие ощущения, заполняются преобладающей во мраке слизью, наступает Тамаси-нидра — сон без всякого пробуждения; он бывает во время вселенского растворения; у людей с преобладанием Тамаса он бывает днём и ночью, у людей с преобладанием Раджаса — без определённой причины, у людей с преобладанием Саттвы — в полночь; а у тех, чья слизь и Вата истощены, чей ум и тело измучены, сна не бывает вовсе — это называют Вайкарика-нидрой.",
         "iast": "nidrāṁ tu vaiṣṇavīṁ pāpmānamupadiśanti, sā svabhāvata eva sarvaprāṇino+abhispṛśati/ tatra yadā saṁjñāvahāni srotāṁsi tamobhūyiṣṭhaḥ śleṣmā pratipadyate tadā tāmasī nāma nidrā bhavatyanavabodhinī'saṁbhavati'iti pā+, sā pralayakāle; tamobhūyiṣṭhānāmahaḥsu niśāsu ca bhavati, rajobhūyiṣṭhānāmanimittaṁ, sattvabhūyiṣṭhānāmardharātre; kṣīṇaśleṣmanilabahulānāṁ manaḥśarīrābhitāpavatāṁ ca naiva, sā vaikārikī bhavati",
-        "iast_ru": "нидра̄м̣ ту ваиш̣н̣авӣм̣ па̄пма̄намупадиш́анти, са̄ свабха̄вата ева сарвапра̄н̣ино+абхиспр̣ш́ати/ татра йада̄ сам̣джн̃а̄ваха̄ни срота̄м̣си тамобхӯйиш̣т̣хах̣ ш́леш̣ма̄ пратипадйате тада̄ та̄масӣ на̄ма нидра̄ бхаватйанавабодхинӣ'сам̣бхавати'ити па̄+, са̄ пралайака̄ле; тамобхӯйиш̣т̣ха̄на̄махах̣су ниш́а̄су ча бхавати, раджобхӯйиш̣т̣ха̄на̄манимиттам̣, саттвабхӯйиш̣т̣ха̄на̄мардхара̄тре; кш̣ӣн̣аш́леш̣манилабахула̄на̄м̣ манах̣ш́арӣра̄бхита̄павата̄м̣ ча наива, са̄ ваика̄рикӣ бхавати"
+        "iast_ru": "нидра̄м̣ ту ваиш̣н̣авӣм̣ па̄пма̄намупадиш́анти, са̄ свабха̄вата ева сарвапра̄н̣ино+абхиспр̣ш́ати/ татра йада̄ сам̣джн̃а̄ваха̄ни срота̄м̣си тамобхӯйиш̣т̣хах̣ ш́леш̣ма̄ пратипадйате тада̄ та̄масӣ на̄ма нидра̄ бхаватйанавабодхинӣ'сам̣бхавати'ити па̄+, са̄ пралайака̄ле; тамобхӯйиш̣т̣ха̄на̄махах̣су ниш́а̄су ча бхавати, раджобхӯйиш̣т̣ха̄на̄манимиттам̣, саттвабхӯйиш̣т̣ха̄на̄мардхара̄тре; кш̣ӣн̣аш́леш̣манилабахула̄на̄м̣ манах̣ш́арӣра̄бхита̄павата̄м̣ ча наива, са̄ ваика̄рикӣ бхавати",
+        "text_en": "Sleep is called the illusion of Vishnu (Vaishnavi-maya), and it naturally touches all living beings. When the channels that carry sensation become filled with mucus, in which darkness predominates, there sets in Tamasi-nidra, sleep with no awakening whatsoever; it occurs at the time of universal dissolution; in people in whom Tamas predominates it occurs by day and by night, in people in whom Rajas predominates it occurs without any definite cause, in people in whom Sattva predominates it occurs at midnight; and in those whose mucus and Vata are depleted, whose mind and body are exhausted, there is no sleep at all, this is called Vaikarika-nidra."
       },
       {
         "type": "verse",
@@ -13011,7 +13231,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ हृदयꣳ चेतनास्थानमुक्तꣳ सुश्रुत! देहिनाम् तमोभिभूते तस्मिꣳस्तु निद्रा विशति देहिनम्",
         "text": "Памятные стихи об этом: сердце, о Сушрута, названо вместилищем сознания живых существ; когда оно окутывается мраком, сон входит в тело.",
         "iast": "bhavanti cātra/ hṛdayaṁ cetanāsthānamuktaṁ suśruta! dehinām tamobhibhūte tasmiṁstu nidrā viśati dehinam",
-        "iast_ru": "бхаванти ча̄тра/ хр̣дайам̣ четана̄стха̄намуктам̣ суш́рута! дехина̄м тамобхибхӯте тасмим̣сту нидра̄ виш́ати дехинам"
+        "iast_ru": "бхаванти ча̄тра/ хр̣дайам̣ четана̄стха̄намуктам̣ суш́рута! дехина̄м тамобхибхӯте тасмим̣сту нидра̄ виш́ати дехинам",
+        "text_en": "Memorial verses on this: the heart, O Sushruta, is called the seat of the consciousness of living beings; when it becomes enveloped in darkness, sleep enters the body."
       },
       {
         "type": "verse",
@@ -13019,7 +13240,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निद्राहेतुस्तमः, सत्त्वꣳ बोधने हेतुरुच्यते स्वभाव एव वा हेतुर्गरीयान् परिकीर्त्यते",
         "text": "Причиной сна называют Тамас, причиной пробуждения — Саттву, а иные называют главной причиной саму природу (свабхаву).",
         "iast": "nidrāhetustamaḥ, sattvaṁ bodhane heturucyate svabhāva eva vā heturgarīyān parikīrtyate",
-        "iast_ru": "нидра̄хетустамах̣, саттвам̣ бодхане хетуручйате свабха̄ва ева ва̄ хетургарӣйа̄н парикӣртйате"
+        "iast_ru": "нидра̄хетустамах̣, саттвам̣ бодхане хетуручйате свабха̄ва ева ва̄ хетургарӣйа̄н парикӣртйате",
+        "text_en": "Tamas is called the cause of sleep, Sattva the cause of waking, while others call the primary cause nature itself (svabhava)."
       },
       {
         "type": "verse",
@@ -13027,7 +13249,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पूर्वदेहानुभूताꣳस्तु भूतात्मा स्वपतः प्रभुः रजोयुक्तेन मनसा गृह्णात्यर्थान् शुभाशुभान्",
         "text": "Воплощённая душа (Бхутатма), владыка тела, во время сна воспринимает умом, соединённым с Раджасом, предметы, испытанные в прежних телах, — благие и неблагие.",
         "iast": "pūrvadehānubhūtāṁstu bhūtātmā svapataḥ prabhuḥ rajoyuktena manasā gṛhṇātyarthān śubhāśubhān",
-        "iast_ru": "пӯрвадеха̄нубхӯта̄м̣сту бхӯта̄тма̄ свапатах̣ прабхух̣ раджойуктена манаса̄ гр̣хн̣а̄тйартха̄н ш́убха̄ш́убха̄н"
+        "iast_ru": "пӯрвадеха̄нубхӯта̄м̣сту бхӯта̄тма̄ свапатах̣ прабхух̣ раджойуктена манаса̄ гр̣хн̣а̄тйартха̄н ш́убха̄ш́убха̄н",
+        "text_en": "The embodied soul (Bhutatma), the lord of the body, during sleep, perceives with a mind joined to Rajas the objects experienced in former bodies, both good and evil."
       },
       {
         "type": "verse",
@@ -13035,7 +13258,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "करणानाꣳ तु वैकल्ये[ऽवैगुण्येऽइति पा+] तमसा+अभिप्रवर्धिते अस्वपन्नपि भूतात्मा प्रसुप्त इव चोच्यते",
         "text": "Когда при расстройстве органов чувств Тамас чрезмерно усиливается, воплощённая душа, даже не спя, кажется как бы погружённой в сон.",
         "iast": "karaṇānāṁ tu vaikalye['vaiguṇye'iti pā+] tamasā+abhipravardhite asvapannapi bhūtātmā prasupta iva cocyate",
-        "iast_ru": "каран̣а̄на̄м̣ ту ваикалйе['ваигун̣йе'ити па̄+] тамаса̄+абхиправардхите асвапаннапи бхӯта̄тма̄ прасупта ива чочйате"
+        "iast_ru": "каран̣а̄на̄м̣ ту ваикалйе['ваигун̣йе'ити па̄+] тамаса̄+абхиправардхите асвапаннапи бхӯта̄тма̄ прасупта ива чочйате",
+        "text_en": "When, owing to a disorder of the sense organs, Tamas becomes excessively strong, the embodied soul, even without being asleep, appears as it were plunged into sleep."
       },
       {
         "type": "verse",
@@ -13043,7 +13267,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सर्वर्तुषु दिवास्वापः प्रतिषिद्धो+अन्यत्र ग्रीष्मात्, प्रतिषिद्धेष्वपि तु बालवृद्धस्त्रीकर्शितक्षतक्षीणमद्यनित्ययानवाहनाध्वकर्मपरिश्रान्तानामभुक्तवताꣳ मेदःस्वेदकफरसरक्तक्षीणानामजीर्णिनाꣳ च मुहूर्तꣳ दिवास्वपनमप्रतिषिद्धम्/ रात्रावपि जागरितवताꣳ जागरितकालादर्धमिष्यते दिवास्वपनम्/ विकृतिर्हि दिवास्वप्नो नाम; तत्र स्वपतामधर्मः सर्वदोषप्रकोपश्च, तत्प्रकोपाच्च कासश्वासप्रतिश्यायशिरो-गौरवाङ्गमर्दारोचकज्वराग्निदौर्बल्यानि[ऽगौरवज्वराग्निदौर्बल्यानिऽइति पा+] भवन्ति; रात्रावपि जागरितवताꣳ वातपित्तनिमित्तास्त एवोपद्रवा भवन्ति",
         "text": "Дневной сон запрещён во все времена года, кроме лета; но даже при этом запрете он не воспрещён на короткое время детям, старикам, женщинам, истощённым, раненым, ослабленным, привыкшим к вину, постоянно едущим или идущим, утомлённым дорогой, голодным, а также тем, чей жир, пот, слизь и кровь истощены, и страдающим несварением. Тем же, кто бодрствовал ночью, дозволяется дневной сон продолжительностью в половину времени бодрствования. Ибо дневной сон есть по природе отклонение (Викрити); те, кто спит днём без нужды, совершают беззаконие и провоцируют возбуждение всех Дош, что влечёт кашель, одышку, насморк, тяжесть в голове, ломоту в теле, отсутствие аппетита, жар и слабость пищеварения; те же, кто бодрствует ночью, страдают теми же осложнениями, вызванными расстройством Ваты и Питты.",
         "iast": "sarvartuṣu divāsvāpaḥ pratiṣiddho+anyatra grīṣmāt, pratiṣiddheṣvapi tu bālavṛddhastrīkarśitakṣatakṣīṇamadyanityayānavāhanādhvakarmapariśrāntānāmabhuktavatāṁ medaḥsvedakapharasaraktakṣīṇānāmajīrṇināṁ ca muhūrtaṁ divāsvapanamapratiṣiddham/ rātrāvapi jāgaritavatāṁ jāgaritakālādardhamiṣyate divāsvapanam/ vikṛtirhi divāsvapno nāma; tatra svapatāmadharmaḥ sarvadoṣaprakopaśca, tatprakopācca kāsaśvāsapratiśyāyaśiro-gauravāṅgamardārocakajvarāgnidaurbalyāni['gauravajvarāgnidaurbalyāni'iti pā+] bhavanti; rātrāvapi jāgaritavatāṁ vātapittanimittāsta evopadravā bhavanti",
-        "iast_ru": "сарвартуш̣у дива̄сва̄пах̣ пратиш̣иддхо+анйатра грӣш̣ма̄т, пратиш̣иддхеш̣вапи ту ба̄лавр̣ддхастрӣкарш́итакш̣атакш̣ӣн̣амадйанитйайа̄нава̄хана̄дхвакармапариш́ра̄нта̄на̄мабхуктавата̄м̣ медах̣сведакапхарасарактакш̣ӣн̣а̄на̄маджӣрн̣ина̄м̣ ча мухӯртам̣ дива̄свапанамапратиш̣иддхам/ ра̄тра̄вапи джа̄гаритавата̄м̣ джа̄гаритака̄ла̄дардхамиш̣йате дива̄свапанам/ викр̣тирхи дива̄свапно на̄ма; татра свапата̄мадхармах̣ сарвадош̣апракопаш́ча, татпракопа̄чча ка̄саш́ва̄сапратиш́йа̄йаш́иро-гаурава̄н̇гамарда̄рочакаджвара̄гнидаурбалйа̄ни['гаураваджвара̄гнидаурбалйа̄ни'ити па̄+] бхаванти; ра̄тра̄вапи джа̄гаритавата̄м̣ ва̄тапиттанимитта̄ста евопадрава̄ бхаванти"
+        "iast_ru": "сарвартуш̣у дива̄сва̄пах̣ пратиш̣иддхо+анйатра грӣш̣ма̄т, пратиш̣иддхеш̣вапи ту ба̄лавр̣ддхастрӣкарш́итакш̣атакш̣ӣн̣амадйанитйайа̄нава̄хана̄дхвакармапариш́ра̄нта̄на̄мабхуктавата̄м̣ медах̣сведакапхарасарактакш̣ӣн̣а̄на̄маджӣрн̣ина̄м̣ ча мухӯртам̣ дива̄свапанамапратиш̣иддхам/ ра̄тра̄вапи джа̄гаритавата̄м̣ джа̄гаритака̄ла̄дардхамиш̣йате дива̄свапанам/ викр̣тирхи дива̄свапно на̄ма; татра свапата̄мадхармах̣ сарвадош̣апракопаш́ча, татпракопа̄чча ка̄саш́ва̄сапратиш́йа̄йаш́иро-гаурава̄н̇гамарда̄рочакаджвара̄гнидаурбалйа̄ни['гаураваджвара̄гнидаурбалйа̄ни'ити па̄+] бхаванти; ра̄тра̄вапи джа̄гаритавата̄м̣ ва̄тапиттанимитта̄ста евопадрава̄ бхаванти",
+        "text_en": "Daytime sleep is forbidden at all seasons except summer; but even under this prohibition it is not forbidden for a short time to children, old people, women, the emaciated, the wounded, the enfeebled, those accustomed to wine, those continually riding or walking, those wearied by travel, the hungry, and also those whose fat, sweat, mucus, and blood are depleted, and those suffering from indigestion. Those who have kept vigil at night are permitted daytime sleep for half the duration of their waking. For daytime sleep is by nature an aberration (Vikriti); those who sleep by day without need commit a transgression and provoke the aggravation of all the Doshas, which brings on cough, breathlessness, catarrh, heaviness in the head, aching of the body, loss of appetite, fever, and weak digestion; while those who keep vigil at night suffer the same complications, brought on by disorder of Vata and Pitta."
       },
       {
         "type": "verse",
@@ -13051,7 +13276,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ तस्मान्न जागृयाद्रात्रौ दिवास्वप्नꣳ च वर्जयेत् ज्ञात्वा दोषकरावेतौ बुधः स्वप्नꣳ मितꣳ चरेत्",
         "text": "Памятные стихи об этом: посему не следует бодрствовать ночью и избегать дневного сна; зная, что оба они вредны, мудрый человек должен соблюдать умеренный сон.",
         "iast": "bhavanti cātra/ tasmānna jāgṛyādrātrau divāsvapnaṁ ca varjayet jñātvā doṣakarāvetau budhaḥ svapnaṁ mitaṁ caret",
-        "iast_ru": "бхаванти ча̄тра/ тасма̄нна джа̄гр̣йа̄дра̄трау дива̄свапнам̣ ча варджайет джн̃а̄тва̄ дош̣акара̄ветау будхах̣ свапнам̣ митам̣ чарет"
+        "iast_ru": "бхаванти ча̄тра/ тасма̄нна джа̄гр̣йа̄дра̄трау дива̄свапнам̣ ча варджайет джн̃а̄тва̄ дош̣акара̄ветау будхах̣ свапнам̣ митам̣ чарет",
+        "text_en": "Memorial verses on this: therefore one should not keep vigil at night nor indulge in daytime sleep; knowing that both are harmful, the wise person should observe moderate sleep."
       },
       {
         "type": "verse",
@@ -13059,7 +13285,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अरोगः सुमना ह्येवꣳ बलवर्णान्वितो वृषः नातिस्थूलकृशः श्रीमान् नरो जीवेत् समाः शतम्",
         "text": "Так живущий человек бывает здоров, весел духом, обладает силой, хорошим цветом лица, мужской силой, не слишком тучен и не слишком худ, процветает и живёт сто лет.",
         "iast": "arogaḥ sumanā hyevaṁ balavarṇānvito vṛṣaḥ nātisthūlakṛśaḥ śrīmān naro jīvet samāḥ śatam",
-        "iast_ru": "арогах̣ сумана̄ хйевам̣ балаварн̣а̄нвито вр̣ш̣ах̣ на̄тистхӯлакр̣ш́ах̣ ш́рӣма̄н наро джӣвет сама̄х̣ ш́атам"
+        "iast_ru": "арогах̣ сумана̄ хйевам̣ балаварн̣а̄нвито вр̣ш̣ах̣ на̄тистхӯлакр̣ш́ах̣ ш́рӣма̄н наро джӣвет сама̄х̣ ш́атам",
+        "text_en": "A person living thus is healthy, cheerful in spirit, possesses strength, a good complexion, and manly vigor, is neither too stout nor too thin, prospers, and lives a hundred years."
       },
       {
         "type": "verse",
@@ -13067,7 +13294,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निद्रा सात्म्यीकृता यैस्तु रात्रौ च यदि वा दिवा (दिवारात्रौ च ये नित्यꣳ स्वप्नजागरणोचिताः/) न तेषाꣳ स्वपताꣳ दोषो जाग्रताꣳ वा+अपि जायते [अयमर्धश्लोकः केषुचित्पुस्तकेषु नोपलभ्यते/]",
         "text": "У тех же, кто привык спать в одно и то же время, будь то ночью или днём, ни во сне, ни в бодрствовании не возникает никакого расстройства.",
         "iast": "nidrā sātmyīkṛtā yaistu rātrau ca yadi vā divā (divārātrau ca ye nityaṁ svapnajāgaraṇocitāḥ/) na teṣāṁ svapatāṁ doṣo jāgratāṁ vā+api jāyate [ayamardhaślokaḥ keṣucitpustakeṣu nopalabhyate/]",
-        "iast_ru": "нидра̄ са̄тмйӣкр̣та̄ йаисту ра̄трау ча йади ва̄ дива̄ (дива̄ра̄трау ча йе нитйам̣ свапнаджа̄гаран̣очита̄х̣/) на теш̣а̄м̣ свапата̄м̣ дош̣о джа̄грата̄м̣ ва̄+апи джа̄йате [айамардхаш́локах̣ кеш̣учитпустакеш̣у нопалабхйате/]"
+        "iast_ru": "нидра̄ са̄тмйӣкр̣та̄ йаисту ра̄трау ча йади ва̄ дива̄ (дива̄ра̄трау ча йе нитйам̣ свапнаджа̄гаран̣очита̄х̣/) на теш̣а̄м̣ свапата̄м̣ дош̣о джа̄грата̄м̣ ва̄+апи джа̄йате [айамардхаш́локах̣ кеш̣учитпустакеш̣у нопалабхйате/]",
+        "text_en": "In those who are accustomed to sleep at the same time, whether by night or by day, no disorder whatsoever arises, either in sleep or in waking."
       },
       {
         "type": "verse",
@@ -13075,7 +13303,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निद्रानाशो+अनिलात् पित्तान्मनस्तापात् क्षयादपि सꣳभवत्यभिघाताच्च प्रत्यनीकैः प्रशाम्यति",
         "text": "Потеря сна происходит от Ваты, от Питты, от душевного волнения, а также от истощения и от травмы; она успокаивается противодействующими средствами.",
         "iast": "nidrānāśo+anilāt pittānmanastāpāt kṣayādapi saṁbhavatyabhighātācca pratyanīkaiḥ praśāmyati",
-        "iast_ru": "нидра̄на̄ш́о+анила̄т питта̄нманаста̄па̄т кш̣айа̄дапи сам̣бхаватйабхигха̄та̄чча пратйанӣкаих̣ праш́а̄мйати"
+        "iast_ru": "нидра̄на̄ш́о+анила̄т питта̄нманаста̄па̄т кш̣айа̄дапи сам̣бхаватйабхигха̄та̄чча пратйанӣкаих̣ праш́а̄мйати",
+        "text_en": "Loss of sleep arises from Vata, from Pitta, from mental agitation, as well as from exhaustion and from injury; it is soothed by counteracting remedies."
       },
       {
         "type": "verse",
@@ -13083,7 +13312,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निद्रानाशे+अभ्यङ्गयोगो मूर्ध्नि तैलनिषेवणम् गात्रस्योद्वर्तनꣳ चैव हितꣳ सꣳवाहनानि च",
         "text": "При потере сна полезны умащение тела маслом, втирание масла в голову, растирание тела и массаж.",
         "iast": "nidrānāśe+abhyaṅgayogo mūrdhni tailaniṣevaṇam gātrasyodvartanaṁ caiva hitaṁ saṁvāhanāni ca",
-        "iast_ru": "нидра̄на̄ш́е+абхйан̇гайого мӯрдхни таиланиш̣еван̣ам га̄трасйодвартанам̣ чаива хитам̣ сам̣ва̄хана̄ни ча"
+        "iast_ru": "нидра̄на̄ш́е+абхйан̇гайого мӯрдхни таиланиш̣еван̣ам га̄трасйодвартанам̣ чаива хитам̣ сам̣ва̄хана̄ни ча",
+        "text_en": "For loss of sleep, anointing the body with oil, rubbing oil into the head, massage of the body, and shampooing are beneficial."
       },
       {
         "type": "verse",
@@ -13091,7 +13321,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शालिगोधूमपिष्टान्नभक्ष्यैरैक्षवसꣳस्कृतैः भोजनꣳ मधुरꣳ स्निग्धꣳ क्षीरमाꣳसरसादिभिः",
         "text": "Полезны сладкая и маслянистая пища из рисовой (Шали) и пшеничной муки, выпечка, приготовленная с сахаром, а также молоко и мясной бульон.",
         "iast": "śāligodhūmapiṣṭānnabhakṣyairaikṣavasaṁskṛtaiḥ bhojanaṁ madhuraṁ snigdhaṁ kṣīramāṁsarasādibhiḥ",
-        "iast_ru": "ш́а̄лигодхӯмапиш̣т̣а̄ннабхакш̣йаираикш̣авасам̣скр̣таих̣ бходжанам̣ мадхурам̣ снигдхам̣ кш̣ӣрама̄м̣сараса̄дибхих̣"
+        "iast_ru": "ш́а̄лигодхӯмапиш̣т̣а̄ннабхакш̣йаираикш̣авасам̣скр̣таих̣ бходжанам̣ мадхурам̣ снигдхам̣ кш̣ӣрама̄м̣сараса̄дибхих̣",
+        "text_en": "Sweet and oily foods made from Shali rice flour and wheat flour, pastries prepared with sugar, as well as milk and meat broth, are beneficial."
       },
       {
         "type": "verse",
@@ -13099,7 +13330,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रसैर्बिलेशयानाꣳ च विष्किराणाꣳ तथैव च द्राक्षासितेक्षुद्रव्याणामुपयोगो भवेन्निशि",
         "text": "Ночью полезно употреблять соки мяса норных животных и мяса пернатых, а также виноград, сахар и подобные им сладости.",
         "iast": "rasairbileśayānāṁ ca viṣkirāṇāṁ tathaiva ca drākṣāsitekṣudravyāṇāmupayogo bhavenniśi",
-        "iast_ru": "расаирбилеш́айа̄на̄м̣ ча виш̣кира̄н̣а̄м̣ татхаива ча дра̄кш̣а̄ситекш̣удравйа̄н̣а̄мупайого бхавенниш́и"
+        "iast_ru": "расаирбилеш́айа̄на̄м̣ ча виш̣кира̄н̣а̄м̣ татхаива ча дра̄кш̣а̄ситекш̣удравйа̄н̣а̄мупайого бхавенниш́и",
+        "text_en": "At night it is beneficial to take the juices of the flesh of burrowing animals and of birds, as well as grapes, sugar, and similar sweets."
       },
       {
         "type": "verse",
@@ -13107,7 +13339,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शयनासनयानानि मनोज्ञानि मृदुनि च निद्रानाशे तु कुर्वीत तथा+अन्यान्यपि बुद्धिमान्",
         "text": "Разумный человек должен также устроить приятное и мягкое ложе, сиденье и повозку и принять прочие подобные меры при бессоннице.",
         "iast": "śayanāsanayānāni manojñāni mṛduni ca nidrānāśe tu kurvīta tathā+anyānyapi buddhimān",
-        "iast_ru": "ш́айана̄санайа̄на̄ни маноджн̃а̄ни мр̣дуни ча нидра̄на̄ш́е ту курвӣта татха̄+анйа̄нйапи буддхима̄н"
+        "iast_ru": "ш́айана̄санайа̄на̄ни маноджн̃а̄ни мр̣дуни ча нидра̄на̄ш́е ту курвӣта татха̄+анйа̄нйапи буддхима̄н",
+        "text_en": "The wise person should also arrange a pleasant and soft bed, seat, and carriage, and adopt other similar measures in cases of insomnia."
       },
       {
         "type": "verse",
@@ -13115,7 +13348,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "निद्रातियोगे वमनꣳ हितꣳ सꣳशोधनानि च लङ्घनꣳ रक्तमोक्षश्च मनोव्याकुलनानि च [ऽवमेन्निद्रातियोगे तु कुर्यात्ऽइति पा+]",
         "text": "При чрезмерном сне полезны рвотные средства, очистительные процедуры, пост, кровопускание и занятия, беспокоящие ум.",
         "iast": "nidrātiyoge vamanaṁ hitaṁ saṁśodhanāni ca laṅghanaṁ raktamokṣaśca manovyākulanāni ca ['vamennidrātiyoge tu kuryāt'iti pā+]",
-        "iast_ru": "нидра̄тийоге ваманам̣ хитам̣ сам̣ш́одхана̄ни ча лан̇гханам̣ рактамокш̣аш́ча мановйа̄кулана̄ни ча ['ваменнидра̄тийоге ту курйа̄т'ити па̄+]"
+        "iast_ru": "нидра̄тийоге ваманам̣ хитам̣ сам̣ш́одхана̄ни ча лан̇гханам̣ рактамокш̣аш́ча мановйа̄кулана̄ни ча ['ваменнидра̄тийоге ту курйа̄т'ити па̄+]",
+        "text_en": "For excessive sleep, emetics, purificatory procedures, fasting, bloodletting, and occupations that disturb the mind are beneficial."
       },
       {
         "type": "verse",
@@ -13123,7 +13357,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "कफमेदोविषार्तानाꣳ रात्रौ जागरणꣳ हितम् दिवास्वप्नश्च तृट्शूलहिक्काजीर्णातिसारिणाम्",
         "text": "Ночное бодрствование полезно людям, страдающим от избытка слизи, жира или яда; а дневной сон — страдающим от жажды, колик, икоты, несварения и поноса.",
         "iast": "kaphamedoviṣārtānāṁ rātrau jāgaraṇaṁ hitam divāsvapnaśca tṛṭśūlahikkājīrṇātisāriṇām",
-        "iast_ru": "капхамедовиш̣а̄рта̄на̄м̣ ра̄трау джа̄гаран̣ам̣ хитам дива̄свапнаш́ча тр̣т̣ш́ӯлахикка̄джӣрн̣а̄тиса̄рин̣а̄м"
+        "iast_ru": "капхамедовиш̣а̄рта̄на̄м̣ ра̄трау джа̄гаран̣ам̣ хитам дива̄свапнаш́ча тр̣т̣ш́ӯлахикка̄джӣрн̣а̄тиса̄рин̣а̄м",
+        "text_en": "Keeping vigil at night is beneficial to people suffering from an excess of mucus, fat, or poison; while daytime sleep is beneficial to those suffering from thirst, colic, hiccup, indigestion, and diarrhea."
       },
       {
         "type": "verse",
@@ -13131,7 +13366,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "इन्द्रियार्थेष्वसꣳप्राप्तिर्गौरवꣳ जृम्भणꣳ क्लमः निद्रार्तस्येव यस्येहाऽयस्यैतेऽइति पा+/ तस्य तन्द्राꣳ विनिर्दिशेत्",
         "text": "Неспособность органов чувств воспринимать свои предметы, тяжесть в теле и зевота называются Клама (усталостью), подобной той, что бывает у одолеваемого сном; это состояние следует определять как Тандру (сонливость, дремоту).",
         "iast": "indriyārtheṣvasaṁprāptirgauravaṁ jṛmbhaṇaṁ klamaḥ nidrārtasyeva yasyehā'yasyaite'iti pā+/ tasya tandrāṁ vinirdiśet",
-        "iast_ru": "индрийа̄ртхеш̣васам̣пра̄птиргауравам̣ джр̣мбхан̣ам̣ кламах̣ нидра̄ртасйева йасйеха̄'йасйаите'ити па̄+/ тасйа тандра̄м̣ винирдиш́ет"
+        "iast_ru": "индрийа̄ртхеш̣васам̣пра̄птиргауравам̣ джр̣мбхан̣ам̣ кламах̣ нидра̄ртасйева йасйеха̄'йасйаите'ити па̄+/ тасйа тандра̄м̣ винирдиш́ет",
+        "text_en": "The inability of the sense organs to perceive their objects, heaviness in the body, and yawning are called Klama (weariness), resembling that experienced by one overcome by sleep; this condition should be defined as Tandra (drowsiness, somnolence)."
       },
       {
         "type": "verse",
@@ -13139,7 +13375,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पीत्वैकमनिलोच्छ्वासमुद्वेष्टन् विवृताननः यꣳ मुञ्चति सनेत्रास्रꣳ स जृम्भ इति सꣳज्ञितः",
         "text": "Однократный вдох воздуха с потягиванием, раскрытием рта и последующим выдохом, сопровождаемый слезотечением, называется зевотой (Джримбха).",
         "iast": "pītvaikamanilocchvāsamudveṣṭan vivṛtānanaḥ yaṁ muñcati sanetrāsraṁ sa jṛmbha iti saṁjñitaḥ",
-        "iast_ru": "пӣтваикаманилоччхва̄самудвеш̣т̣ан вивр̣та̄нанах̣ йам̣ мун̃чати санетра̄срам̣ са джр̣мбха ити сам̣джн̃итах̣"
+        "iast_ru": "пӣтваикаманилоччхва̄самудвеш̣т̣ан вивр̣та̄нанах̣ йам̣ мун̃чати санетра̄срам̣ са джр̣мбха ити сам̣джн̃итах̣",
+        "text_en": "A single indrawing of breath accompanied by stretching, opening of the mouth, and a subsequent exhalation, accompanied by watering of the eyes, is called yawning (Jrimbha)."
       },
       {
         "type": "verse",
@@ -13147,7 +13384,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यो+अनायासः श्रमो देहे प्रवृद्धः श्वासवर्जितः क्लमः स इति विज्ञेय इन्द्रियार्थप्रबाधकः",
         "text": "Усталость, возникающая в теле без усилия и без учащённого дыхания, препятствующая восприятию органами чувств своих предметов, называется Кламой.",
         "iast": "yo+anāyāsaḥ śramo dehe pravṛddhaḥ śvāsavarjitaḥ klamaḥ sa iti vijñeya indriyārthaprabādhakaḥ",
-        "iast_ru": "йо+ана̄йа̄сах̣ ш́рамо дехе правр̣ддхах̣ ш́ва̄саварджитах̣ кламах̣ са ити виджн̃ейа индрийа̄ртхапраба̄дхаках̣"
+        "iast_ru": "йо+ана̄йа̄сах̣ ш́рамо дехе правр̣ддхах̣ ш́ва̄саварджитах̣ кламах̣ са ити виджн̃ейа индрийа̄ртхапраба̄дхаках̣",
+        "text_en": "Weariness that arises in the body without exertion and without quickened breathing, hindering the sense organs from perceiving their objects, is called Klama."
       },
       {
         "type": "verse",
@@ -13155,7 +13393,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सुखस्पर्शप्रसङ्गित्वꣳ दुःखद्वेषणलोलता शक्तस्य चाप्यनुत्साहः कर्मस्वालस्यमुच्यते",
         "text": "Пристрастие к приятным ощущениям, отвращение и переменчивость по отношению к неприятному, а также отсутствие усердия у способного к делу человека называются Аласьей (лень, вялость).",
         "iast": "sukhasparśaprasaṅgitvaṁ duḥkhadveṣaṇalolatā śaktasya cāpyanutsāhaḥ karmasvālasyamucyate",
-        "iast_ru": "сукхаспарш́апрасан̇гитвам̣ дух̣кхадвеш̣ан̣алолата̄ ш́актасйа ча̄пйанутса̄хах̣ кармасва̄ласйамучйате"
+        "iast_ru": "сукхаспарш́апрасан̇гитвам̣ дух̣кхадвеш̣ан̣алолата̄ ш́актасйа ча̄пйанутса̄хах̣ кармасва̄ласйамучйате",
+        "text_en": "An attachment to pleasant sensations, aversion and fickleness with regard to the unpleasant, as well as a lack of diligence in a person capable of work, are called Alasya (laziness, sluggishness)."
       },
       {
         "type": "verse",
@@ -13163,7 +13402,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "उत्क्लिश्यान्नꣳ न निर्गच्छेत् प्रसेकष्ठीवनेरितम् हृदयꣳ पीड्यते चास्य तमुत्क्लेशꣳ विनिर्दिशेत् ऽप्राणकोष्ठानिलेरितम्ऽइति पा+",
         "text": "Если пища, поднявшаяся вверх, не выходит наружу, сопровождаясь слюнотечением и отхаркиванием, и при этом теснится сердце, — это состояние называют Утклеша (тошнота).",
         "iast": "utkliśyānnaṁ na nirgacchet prasekaṣṭhīvaneritam hṛdayaṁ pīḍyate cāsya tamutkleśaṁ vinirdiśet 'prāṇakoṣṭhānileritam'iti pā+",
-        "iast_ru": "утклиш́йа̄ннам̣ на ниргаччхет прасекаш̣т̣хӣванеритам хр̣дайам̣ пӣд̣йате ча̄сйа тамутклеш́ам̣ винирдиш́ет 'пра̄н̣акош̣т̣ха̄нилеритам'ити па̄+"
+        "iast_ru": "утклиш́йа̄ннам̣ на ниргаччхет прасекаш̣т̣хӣванеритам хр̣дайам̣ пӣд̣йате ча̄сйа тамутклеш́ам̣ винирдиш́ет 'пра̄н̣акош̣т̣ха̄нилеритам'ити па̄+",
+        "text_en": "If food that has risen upward does not come out, being accompanied by salivation and hawking, and the heart at the same time feels constricted, this condition is called Utklesha (nausea)."
       },
       {
         "type": "verse",
@@ -13171,7 +13411,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वक्त्रे मधुरता तन्द्रा हृदयोद्वेष्टनꣳ भ्रमः न चान्नमभिकाङ्क्षेत ग्लानिꣳ तस्य विनिर्दिशेत्",
         "text": "Сладость во рту, сонливость, стеснение сердца и головокружение при отсутствии желания есть пищу — это следует определять как Глани (изнеможение, слабость).",
         "iast": "vaktre madhuratā tandrā hṛdayodveṣṭanaṁ bhramaḥ na cānnamabhikāṅkṣeta glāniṁ tasya vinirdiśet",
-        "iast_ru": "вактре мадхурата̄ тандра̄ хр̣дайодвеш̣т̣анам̣ бхрамах̣ на ча̄ннамабхика̄н̇кш̣ета гла̄ним̣ тасйа винирдиш́ет"
+        "iast_ru": "вактре мадхурата̄ тандра̄ хр̣дайодвеш̣т̣анам̣ бхрамах̣ на ча̄ннамабхика̄н̇кш̣ета гла̄ним̣ тасйа винирдиш́ет",
+        "text_en": "Sweetness in the mouth, drowsiness, constriction of the heart, and dizziness, in the absence of a desire to eat, this should be defined as Glani (exhaustion, faintness)."
       },
       {
         "type": "verse",
@@ -13179,7 +13420,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आर्द्रचर्भावनद्धꣳ वा(हि)यो गात्रमभिमन्यते तथा गुरु शिरो+अत्यर्थꣳ गौरवꣳ तद्विनिर्दिशेत् ऽगात्रꣳ मन्यते नरःऽइति पा+",
         "text": "Ощущение, будто тело обвито влажной тканью, а также чрезмерная тяжесть в голове — это следует определять как Гаурава (тяжесть).",
         "iast": "ārdracarbhāvanaddhaṁ vā(hi)yo gātramabhimanyate tathā guru śiro+atyarthaṁ gauravaṁ tadvinirdiśet 'gātraṁ manyate naraḥ'iti pā+",
-        "iast_ru": "а̄рдрачарбха̄ванаддхам̣ ва̄(хи)йо га̄трамабхиманйате татха̄ гуру ш́иро+атйартхам̣ гауравам̣ тадвинирдиш́ет 'га̄трам̣ манйате нарах̣'ити па̄+"
+        "iast_ru": "а̄рдрачарбха̄ванаддхам̣ ва̄(хи)йо га̄трамабхиманйате татха̄ гуру ш́иро+атйартхам̣ гауравам̣ тадвинирдиш́ет 'га̄трам̣ манйате нарах̣'ити па̄+",
+        "text_en": "A sensation as though the body were wrapped in a damp cloth, together with excessive heaviness in the head, this should be defined as Gaurava (heaviness)."
       },
       {
         "type": "verse",
@@ -13187,7 +13429,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मूर्च्छा पित्ततमःप्राया, रजःपित्तानिलाद्भ्रमः तमोवातकफात्तन्द्रा, निद्रा श्लेष्मतमोभवा",
         "text": "Обморок (Мурчха) вызывается преимущественно Питтой и Тамасом; головокружение (Бхрама) — Раджасом, Питтой и Ватой; сонливость (Тандра) — Тамасом, Ватой и Капхой; а сон (Нидра) возникает из слизи и Тамаса.",
         "iast": "mūrcchā pittatamaḥprāyā, rajaḥpittānilādbhramaḥ tamovātakaphāttandrā, nidrā śleṣmatamobhavā",
-        "iast_ru": "мӯрччха̄ питтатамах̣пра̄йа̄, раджах̣питта̄нила̄дбхрамах̣ тамова̄такапха̄ттандра̄, нидра̄ ш́леш̣матамобхава̄"
+        "iast_ru": "мӯрччха̄ питтатамах̣пра̄йа̄, раджах̣питта̄нила̄дбхрамах̣ тамова̄такапха̄ттандра̄, нидра̄ ш́леш̣матамобхава̄",
+        "text_en": "Fainting (Murchha) is caused chiefly by Pitta and Tamas; giddiness (Bhrama) by Rajas, Pitta, and Vata; drowsiness (Tandra) by Tamas, Vata, and Kapha; and sleep (Nidra) arises from mucus and Tamas."
       },
       {
         "type": "verse",
@@ -13195,7 +13438,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गर्भस्य खलु रसनिमित्ता मारुताध्माननिमित्ता च परिवृद्धिर्भवति",
         "text": "Рост зародыша происходит благодаря соку (Расе, питательной жидкости) и благодаря наполнению его Ватой.",
         "iast": "garbhasya khalu rasanimittā mārutādhmānanimittā ca parivṛddhirbhavati",
-        "iast_ru": "гарбхасйа кхалу расанимитта̄ ма̄рута̄дхма̄нанимитта̄ ча паривр̣ддхирбхавати"
+        "iast_ru": "гарбхасйа кхалу расанимитта̄ ма̄рута̄дхма̄нанимитта̄ ча паривр̣ддхирбхавати",
+        "text_en": "The growth of the fetus takes place by means of the sap (Rasa, the nutritive fluid) and by means of its being filled with Vata."
       },
       {
         "type": "verse",
@@ -13203,7 +13447,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ तस्यान्तरेण नाभेस्तु ज्योतिःस्थानꣳ ध्रुवꣳ स्मृतम् तदाधमति वातस्तु देहस्तेनास्य वर्धते",
         "text": "Памятные стихи об этом: внутри пупка зародыша неизменно пребывает огненное начало (Джьоти); раздуваемая им Вата наполняет тело, отчего оно и растёт.",
         "iast": "bhavanti cātra/ tasyāntareṇa nābhestu jyotiḥsthānaṁ dhruvaṁ smṛtam tadādhamati vātastu dehastenāsya vardhate",
-        "iast_ru": "бхаванти ча̄тра/ тасйа̄нтарен̣а на̄бхесту джйотих̣стха̄нам̣ дхрувам̣ смр̣там тада̄дхамати ва̄тасту дехастена̄сйа вардхате"
+        "iast_ru": "бхаванти ча̄тра/ тасйа̄нтарен̣а на̄бхесту джйотих̣стха̄нам̣ дхрувам̣ смр̣там тада̄дхамати ва̄тасту дехастена̄сйа вардхате",
+        "text_en": "Memorial verses on this: within the fetus's navel there constantly resides the fiery principle (Jyoti); fanned by it, Vata fills the body, and thereby it grows."
       },
       {
         "type": "verse",
@@ -13211,7 +13456,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ऊष्मणा सहितश्चापि दारयत्यस्य मारुतः ऊर्ध्वꣳ तिर्यगधस्ताच्च स्रोताꣳस्यपि यथा तथा",
         "text": "Эта же Вата, соединённая с теплом, прокладывает в теле зародыша каналы вверх, поперёк и вниз, а также прочие Шротасы.",
         "iast": "ūṣmaṇā sahitaścāpi dārayatyasya mārutaḥ ūrdhvaṁ tiryagadhastācca srotāṁsyapi yathā tathā",
-        "iast_ru": "ӯш̣ман̣а̄ сахиташ́ча̄пи да̄райатйасйа ма̄рутах̣ ӯрдхвам̣ тирйагадхаста̄чча срота̄м̣сйапи йатха̄ татха̄"
+        "iast_ru": "ӯш̣ман̣а̄ сахиташ́ча̄пи да̄райатйасйа ма̄рутах̣ ӯрдхвам̣ тирйагадхаста̄чча срота̄м̣сйапи йатха̄ татха̄",
+        "text_en": "This same Vata, joined with heat, opens up channels in the fetus's body upward, across, and downward, as well as the other Shrotas."
       },
       {
         "type": "verse",
@@ -13219,7 +13465,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दृष्टिश्च रोमकूपाश्च न वर्धन्ते कदाचनऽकथꣳ च नऽइति पा+ ध्रुवाण्येतानि मर्त्यानामिति धन्वन्तरेर्मतम्",
         "text": "Зрачки (отверстие зрения) и волосяные луковицы никогда не увеличиваются в размере — таковы, по мнению Дханвантари, неизменные свойства смертных.",
         "iast": "dṛṣṭiśca romakūpāśca na vardhante kadācana'kathaṁ ca na'iti pā+ dhruvāṇyetāni martyānāmiti dhanvantarermatam",
-        "iast_ru": "др̣ш̣т̣иш́ча ромакӯпа̄ш́ча на вардханте када̄чана'катхам̣ ча на'ити па̄+ дхрува̄н̣йета̄ни мартйа̄на̄мити дханвантарерматам"
+        "iast_ru": "др̣ш̣т̣иш́ча ромакӯпа̄ш́ча на вардханте када̄чана'катхам̣ ча на'ити па̄+ дхрува̄н̣йета̄ни мартйа̄на̄мити дханвантарерматам",
+        "text_en": "The pupils (the aperture of vision) and the hair follicles never increase in size, such, in the view of Dhanvantari, are the unchanging properties of mortal beings."
       },
       {
         "type": "verse",
@@ -13227,7 +13474,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शरीरे क्षीयमाणे+अपि वर्धेते द्वाविमौ सदा स्वभावꣳ प्रकृतिꣳ कृत्वा नखकेशाविति स्थितिः",
         "text": "И даже когда тело истощается, эти двое — ногти и волосы — всегда продолжают расти, следуя своей природе; таково их постоянное свойство.",
         "iast": "śarīre kṣīyamāṇe+api vardhete dvāvimau sadā svabhāvaṁ prakṛtiṁ kṛtvā nakhakeśāviti sthitiḥ",
-        "iast_ru": "ш́арӣре кш̣ӣйама̄н̣е+апи вардхете два̄вимау сада̄ свабха̄вам̣ пракр̣тим̣ кр̣тва̄ накхакеш́а̄вити стхитих̣"
+        "iast_ru": "ш́арӣре кш̣ӣйама̄н̣е+апи вардхете два̄вимау сада̄ свабха̄вам̣ пракр̣тим̣ кр̣тва̄ накхакеш́а̄вити стхитих̣",
+        "text_en": "And even when the body wastes away, these two, the nails and the hair, always continue to grow, following their own nature; such is their constant property."
       },
       {
         "type": "verse",
@@ -13235,7 +13483,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सप्त प्रकृतयो भवन्ति---दोषैः पृथक्, द्विशः, समस्तैश्च",
         "text": "Существует семь видов природных свойств (Пракрити) — образованных отдельными Дошами, парами Дош и всеми тремя Дошами вместе.",
         "iast": "sapta prakṛtayo bhavanti---doṣaiḥ pṛthak, dviśaḥ, samastaiśca",
-        "iast_ru": "сапта пракр̣тайо бхаванти---дош̣аих̣ пр̣тхак, двиш́ах̣, самастаиш́ча"
+        "iast_ru": "сапта пракр̣тайо бхаванти---дош̣аих̣ пр̣тхак, двиш́ах̣, самастаиш́ча",
+        "text_en": "There are seven kinds of natural constitutions (Prakriti), formed by the individual Doshas, by pairs of Doshas, and by all three Doshas together."
       },
       {
         "type": "verse",
@@ -13243,7 +13492,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शुक्रशोणितसꣳयोगे यो भवेद्दोष उत्कटः प्रकृतिर्जायते तेन तस्या मे लक्षणꣳ शृणु",
         "text": "Та Доша, что оказывается преобладающей в момент соединения семени и крови, порождает соответствующую Пракрити; услышь же от меня её признаки.",
         "iast": "śukraśoṇitasaṁyoge yo bhaveddoṣa utkaṭaḥ prakṛtirjāyate tena tasyā me lakṣaṇaṁ śṛṇu",
-        "iast_ru": "ш́украш́он̣итасам̣йоге йо бхаведдош̣а уткат̣ах̣ пракр̣тирджа̄йате тена тасйа̄ ме лакш̣ан̣ам̣ ш́р̣н̣у"
+        "iast_ru": "ш́украш́он̣итасам̣йоге йо бхаведдош̣а уткат̣ах̣ пракр̣тирджа̄йате тена тасйа̄ ме лакш̣ан̣ам̣ ш́р̣н̣у",
+        "text_en": "That Dosha which proves predominant at the moment of the union of semen and blood gives rise to the corresponding Prakriti; hear now from me its characteristics."
       },
       {
         "type": "verse",
@@ -13251,7 +13501,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र यः प्रजागरूकः शीतद्वेषी दुर्भगः स्तेनो मत्सर्यनार्यो गान्धर्वचित्तः स्फुटितकरचरणो+अल्परूक्षश्मश्रुनखकेशः[ऽअतिरूक्षश्मश्रुनखकेशःऽइति पा+] क्राथीऽक्रोधीऽइति पा+ दन्तनखखादी च भवति",
         "text": "Человек с преобладанием Ваты бодрствует по ночам, не любит холод, невезуч, склонен к воровству, завистлив, невоспитан, любит музыку и пение, с потрескавшимися руками и ногами, с редкой и жёсткой бородой, ногтями и волосами, и имеет привычку кусать ногти и зубы.",
         "iast": "tatra yaḥ prajāgarūkaḥ śītadveṣī durbhagaḥ steno matsaryanāryo gāndharvacittaḥ sphuṭitakaracaraṇo+alparūkṣaśmaśrunakhakeśaḥ['atirūkṣaśmaśrunakhakeśaḥ'iti pā+] krāthī'krodhī'iti pā+ dantanakhakhādī ca bhavati",
-        "iast_ru": "татра йах̣ праджа̄гарӯках̣ ш́ӣтадвеш̣ӣ дурбхагах̣ стено матсарйана̄рйо га̄ндхарвачиттах̣ спхут̣итакарачаран̣о+алпарӯкш̣аш́маш́рунакхакеш́ах̣['атирӯкш̣аш́маш́рунакхакеш́ах̣'ити па̄+] кра̄тхӣ'кродхӣ'ити па̄+ дантанакхакха̄дӣ ча бхавати"
+        "iast_ru": "татра йах̣ праджа̄гарӯках̣ ш́ӣтадвеш̣ӣ дурбхагах̣ стено матсарйана̄рйо га̄ндхарвачиттах̣ спхут̣итакарачаран̣о+алпарӯкш̣аш́маш́рунакхакеш́ах̣['атирӯкш̣аш́маш́рунакхакеш́ах̣'ити па̄+] кра̄тхӣ'кродхӣ'ити па̄+ дантанакхакха̄дӣ ча бхавати",
+        "text_en": "A person of Vata predominance keeps vigil at night, dislikes cold, is unlucky, inclined to theft, envious, ill-mannered, fond of music and song, with cracked hands and feet, with sparse and coarse beard, nails, and hair, and has a habit of biting his nails and teeth."
       },
       {
         "type": "verse",
@@ -13259,7 +13510,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अधृतिरदृढसौहृदः कृतघ्नः कृशपरुषो धमनीततः प्रलापी द्रुतगतिरटनो+अनवस्थितात्मा वियति च गच्छति सꣳभ्रमेण सुप्तःऽवियदपिऽइति पा+",
         "text": "Он неустойчив, непрочен в дружбе, неблагодарен, худ и груб, с выступающими сосудами (Дхамани), болтлив, быстр в движениях, беспокоен духом и во сне видит, будто взлетает в небо.",
         "iast": "adhṛtiradṛḍhasauhṛdaḥ kṛtaghnaḥ kṛśaparuṣo dhamanītataḥ pralāpī drutagatiraṭano+anavasthitātmā viyati ca gacchati saṁbhrameṇa suptaḥ'viyadapi'iti pā+",
-        "iast_ru": "адхр̣тирадр̣д̣хасаухр̣дах̣ кр̣тагхнах̣ кр̣ш́апаруш̣о дхаманӣтатах̣ прала̄пӣ друтагатират̣ано+анавастхита̄тма̄ вийати ча гаччхати сам̣бхрамен̣а суптах̣'вийадапи'ити па̄+"
+        "iast_ru": "адхр̣тирадр̣д̣хасаухр̣дах̣ кр̣тагхнах̣ кр̣ш́апаруш̣о дхаманӣтатах̣ прала̄пӣ друтагатират̣ано+анавастхита̄тма̄ вийати ча гаччхати сам̣бхрамен̣а суптах̣'вийадапи'ити па̄+",
+        "text_en": "He is unsteady, unreliable in friendship, ungrateful, thin and rough, with prominent vessels (Dhamani), talkative, quick in his movements, restless in spirit, and in dreams sees himself flying up into the sky."
       },
       {
         "type": "verse",
@@ -13267,7 +13519,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अव्यवस्थितमतिश्चलदृष्टिर्मन्दरत्नधनसꣳचयमित्रः किꣳचिदेव विलपत्यनिबद्धꣳ मारुतप्रकृतिरेष मनुष्यः ऽमारुतप्रकृतिरस्थिरसत्त्वःऽइति पा+",
         "text": "Мысли его непостоянны, взор блуждающий, он копит мало богатств и друзей и говорит понемногу и несвязно — таков человек с природой Ваты.",
         "iast": "avyavasthitamatiścaladṛṣṭirmandaratnadhanasaṁcayamitraḥ kiṁcideva vilapatyanibaddhaṁ mārutaprakṛtireṣa manuṣyaḥ 'mārutaprakṛtirasthirasattvaḥ'iti pā+",
-        "iast_ru": "авйавастхитаматиш́чаладр̣ш̣т̣ирмандаратнадханасам̣чайамитрах̣ ким̣чидева вилапатйанибаддхам̣ ма̄рутапракр̣тиреш̣а мануш̣йах̣ 'ма̄рутапракр̣тирастхирасаттвах̣'ити па̄+"
+        "iast_ru": "авйавастхитаматиш́чаладр̣ш̣т̣ирмандаратнадханасам̣чайамитрах̣ ким̣чидева вилапатйанибаддхам̣ ма̄рутапракр̣тиреш̣а мануш̣йах̣ 'ма̄рутапракр̣тирастхирасаттвах̣'ити па̄+",
+        "text_en": "His thoughts are inconstant, his gaze wandering, he accumulates little wealth and few friends, and he speaks little and incoherently, such is a person of Vata constitution."
       },
       {
         "type": "verse",
@@ -13275,7 +13528,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वातिकाश्चाजगोमायुशशाखूष्ट्रशुनाꣳ तथा गृघ्रकाकखरादीनामनूकैः कीर्तिता नराः",
         "text": "Люди с природой Ваты уподобляются по своим чертам змее, шакалу, зайцу, мыши, верблюду, собаке, коршуну, вороне и ослу.",
         "iast": "vātikāścājagomāyuśaśākhūṣṭraśunāṁ tathā gṛghrakākakharādīnāmanūkaiḥ kīrtitā narāḥ",
-        "iast_ru": "ва̄тика̄ш́ча̄джагома̄йуш́аш́а̄кхӯш̣т̣раш́уна̄м̣ татха̄ гр̣гхрака̄какхара̄дӣна̄манӯкаих̣ кӣртита̄ нара̄х̣"
+        "iast_ru": "ва̄тика̄ш́ча̄джагома̄йуш́аш́а̄кхӯш̣т̣раш́уна̄м̣ татха̄ гр̣гхрака̄какхара̄дӣна̄манӯкаих̣ кӣртита̄ нара̄х̣",
+        "text_en": "People of Vata constitution resemble in their features the snake, the jackal, the hare, the mouse, the camel, the dog, the vulture, the crow, and the ass."
       },
       {
         "type": "verse",
@@ -13283,7 +13537,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्वेदनो दुर्गन्धः पीतशिथिलाङ्गस्ताम्रनखनयनतालुजिह्वौष्ठपाणिपादतलो दुर्भगो वलिपलितखालित्यजुष्टो बहुभुगुष्णद्वेषी क्षिप्रकोपप्रसादो मध्यमषोलो मध्यमायुश्च भवति",
         "text": "Человек с преобладанием Питты сильно потеет, издаёт неприятный запах, имеет рыхлые и желтоватые члены тела, медный оттенок ногтей, глаз, нёба, языка, губ, ладоней и стоп, некрасив из-за морщин, седины и плеши, много ест, не терпит жары, легко впадает в гнев и легко успокаивается, обладает средней силой и средней продолжительностью жизни.",
         "iast": "svedano durgandhaḥ pītaśithilāṅgastāmranakhanayanatālujihvauṣṭhapāṇipādatalo durbhago valipalitakhālityajuṣṭo bahubhuguṣṇadveṣī kṣiprakopaprasādo madhyamaṣolo madhyamāyuśca bhavati",
-        "iast_ru": "сведано дургандхах̣ пӣташ́итхила̄н̇гаста̄мранакханайаната̄луджихвауш̣т̣хапа̄н̣ипа̄датало дурбхаго валипалитакха̄литйаджуш̣т̣о бахубхугуш̣н̣адвеш̣ӣ кш̣ипракопапраса̄до мадхйамаш̣оло мадхйама̄йуш́ча бхавати"
+        "iast_ru": "сведано дургандхах̣ пӣташ́итхила̄н̇гаста̄мранакханайаната̄луджихвауш̣т̣хапа̄н̣ипа̄датало дурбхаго валипалитакха̄литйаджуш̣т̣о бахубхугуш̣н̣адвеш̣ӣ кш̣ипракопапраса̄до мадхйамаш̣оло мадхйама̄йуш́ча бхавати",
+        "text_en": "A person of Pitta predominance sweats profusely, gives off an unpleasant odor, has soft and yellowish limbs, a coppery hue of the nails, eyes, palate, tongue, lips, palms, and soles, is unattractive because of wrinkles, greying hair, and baldness, eats a great deal, cannot bear heat, easily falls into anger and is easily pacified, and possesses moderate strength and a moderate span of life."
       },
       {
         "type": "verse",
@@ -13291,7 +13546,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मेधावी निपुणमतिर्विगृह्य वक्ता तेजस्वी समितिषु दुर्निवारवीर्यः सुप्तः सन् कनकपलाशकर्णिकारान् सꣳपश्येदपि च हुताशविद्युदुल्काः",
         "text": "Он умён, находчив, охотно вступает в споры, красноречив, энергичен на собраниях, обладает непреодолимой доблестью; во сне он видит золото, листву дерева Палаша, цветы Карникары, огонь, молнии и падающие звёзды.",
         "iast": "medhāvī nipuṇamatirvigṛhya vaktā tejasvī samitiṣu durnivāravīryaḥ suptaḥ san kanakapalāśakarṇikārān saṁpaśyedapi ca hutāśavidyudulkāḥ",
-        "iast_ru": "медха̄вӣ нипун̣аматирвигр̣хйа вакта̄ теджасвӣ самитиш̣у дурнива̄равӣрйах̣ суптах̣ сан канакапала̄ш́акарн̣ика̄ра̄н сам̣паш́йедапи ча хута̄ш́авидйудулка̄х̣"
+        "iast_ru": "медха̄вӣ нипун̣аматирвигр̣хйа вакта̄ теджасвӣ самитиш̣у дурнива̄равӣрйах̣ суптах̣ сан канакапала̄ш́акарн̣ика̄ра̄н сам̣паш́йедапи ча хута̄ш́авидйудулка̄х̣",
+        "text_en": "He is intelligent, resourceful, readily enters into disputes, eloquent, energetic in assemblies, possessed of unsurpassable valor; in dreams he sees gold, the foliage of the Palasha tree, the flowers of the Karnikara, fire, lightning, and falling stars."
       },
       {
         "type": "verse",
@@ -13299,7 +13555,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "न भयात् प्रणमेदनतेष्वमृदुः प्रणतेष्वपि सान्त्वनदानरुचिः भवतीह सदा व्यथितास्यगतिः स भवेदिह पित्तकृतप्रकृतिः",
         "text": "Он не склоняется из страха перед высокомерными, но и не суров к смиренным; всегда готов утешить и одарить; его лицо и походка неизменно выдают внутреннее напряжение — таков человек с природой, порождённой Питтой.",
         "iast": "na bhayāt praṇamedanateṣvamṛduḥ praṇateṣvapi sāntvanadānaruciḥ bhavatīha sadā vyathitāsyagatiḥ sa bhavediha pittakṛtaprakṛtiḥ",
-        "iast_ru": "на бхайа̄т пран̣амеданатеш̣вамр̣дух̣ пран̣атеш̣вапи са̄нтванада̄наручих̣ бхаватӣха сада̄ вйатхита̄сйагатих̣ са бхаведиха питтакр̣тапракр̣тих̣"
+        "iast_ru": "на бхайа̄т пран̣амеданатеш̣вамр̣дух̣ пран̣атеш̣вапи са̄нтванада̄наручих̣ бхаватӣха сада̄ вйатхита̄сйагатих̣ са бхаведиха питтакр̣тапракр̣тих̣",
+        "text_en": "He does not bow down out of fear before the arrogant, but neither is he harsh toward the humble; he is always ready to console and to give gifts; his face and gait invariably betray an inner tension, such is a person of the constitution born of Pitta."
       },
       {
         "type": "verse",
@@ -13307,7 +13564,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भुजङ्गोलूकगन्धर्वयक्षमार्जारवानरैः व्याघ्रर्क्षनकुलानूकैः पैत्तिकास्तु नराः स्मृताः",
         "text": "Люди с природой Питты уподобляются по своим чертам змее, сове, гандхарве, якше, кошке, обезьяне, тигру, медведю и мангусту.",
         "iast": "bhujaṅgolūkagandharvayakṣamārjāravānaraiḥ vyāghrarkṣanakulānūkaiḥ paittikāstu narāḥ smṛtāḥ",
-        "iast_ru": "бхуджан̇голӯкагандхарвайакш̣ама̄рджа̄рава̄нараих̣ вйа̄гхраркш̣анакула̄нӯкаих̣ паиттика̄сту нара̄х̣ смр̣та̄х̣"
+        "iast_ru": "бхуджан̇голӯкагандхарвайакш̣ама̄рджа̄рава̄нараих̣ вйа̄гхраркш̣анакула̄нӯкаих̣ паиттика̄сту нара̄х̣ смр̣та̄х̣",
+        "text_en": "People of Pitta constitution resemble in their features the snake, the owl, the gandharva, the yaksha, the cat, the monkey, the tiger, the bear, and the mongoose."
       },
       {
         "type": "verse",
@@ -13315,7 +13573,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दूर्वेन्दीवरनिस्त्रिꣳशार्द्रारिष्टकशरकाण्डानामन्यतमवर्णः सुभगः प्रियदर्शनो मधुरप्रियः कृतज्ञो धृतिमान् सहिष्णुरलोलुपो बलवाꣳश्चिरग्राही दृढवैरश्च भवति",
         "text": "Человек с преобладанием Капхи имеет один из оттенков цвета травы дурва, синего лотоса, меча, свежего дерева Аришта или стебля тростника; он красив, приятен на вид, любит сладкое, благодарен, стоек, терпелив, не жаден, силён, долго удерживает обиду или благодарность и твёрд во вражде.",
         "iast": "dūrvendīvaranistriṁśārdrāriṣṭakaśarakāṇḍānāmanyatamavarṇaḥ subhagaḥ priyadarśano madhurapriyaḥ kṛtajño dhṛtimān sahiṣṇuralolupo balavāṁściragrāhī dṛḍhavairaśca bhavati",
-        "iast_ru": "дӯрвендӣваранистрим̣ш́а̄рдра̄риш̣т̣акаш́арака̄н̣д̣а̄на̄манйатамаварн̣ах̣ субхагах̣ прийадарш́ано мадхураприйах̣ кр̣таджн̃о дхр̣тима̄н сахиш̣н̣уралолупо балава̄м̣ш́чирагра̄хӣ др̣д̣хаваираш́ча бхавати"
+        "iast_ru": "дӯрвендӣваранистрим̣ш́а̄рдра̄риш̣т̣акаш́арака̄н̣д̣а̄на̄манйатамаварн̣ах̣ субхагах̣ прийадарш́ано мадхураприйах̣ кр̣таджн̃о дхр̣тима̄н сахиш̣н̣уралолупо балава̄м̣ш́чирагра̄хӣ др̣д̣хаваираш́ча бхавати",
+        "text_en": "A person of Kapha predominance has one of the hues of durva grass, the blue lotus, a sword, fresh Arishta wood, or a reed stalk; he is handsome, pleasant to look upon, fond of sweets, grateful, steadfast, patient, not greedy, strong, long retains a grudge or a kindness, and is firm in enmity."
       },
       {
         "type": "verse",
@@ -13323,7 +13582,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शुक्लाक्षः स्थिरकुटिलालि(ति)नीलकेशो लक्ष्मीवान् जलदमृदङ्गसिꣳहघोषः सुप्तः सन् सकमलहꣳसचक्रवाकान् सꣳपश्येदपि च जलाशयान् मनोज्ञान्",
         "text": "Глаза его белые, волосы вьющиеся, тёмные и густые, он процветает, голос его подобен грому тучи, звуку мриданги или рыку льва; во сне он видит озёра и водоёмы с лотосами, гусями и утками-чакравака, приятные взору.",
         "iast": "śuklākṣaḥ sthirakuṭilāli(ti)nīlakeśo lakṣmīvān jaladamṛdaṅgasiṁhaghoṣaḥ suptaḥ san sakamalahaṁsacakravākān saṁpaśyedapi ca jalāśayān manojñān",
-        "iast_ru": "ш́укла̄кш̣ах̣ стхиракут̣ила̄ли(ти)нӣлакеш́о лакш̣мӣва̄н джаладамр̣дан̇гасим̣хагхош̣ах̣ суптах̣ сан сакамалахам̣сачакрава̄ка̄н сам̣паш́йедапи ча джала̄ш́айа̄н маноджн̃а̄н"
+        "iast_ru": "ш́укла̄кш̣ах̣ стхиракут̣ила̄ли(ти)нӣлакеш́о лакш̣мӣва̄н джаладамр̣дан̇гасим̣хагхош̣ах̣ суптах̣ сан сакамалахам̣сачакрава̄ка̄н сам̣паш́йедапи ча джала̄ш́айа̄н маноджн̃а̄н",
+        "text_en": "His eyes are white, his hair curly, dark, and thick, he prospers, his voice resembles the thunder of a cloud, the sound of a mridanga drum, or the roar of a lion; in dreams he sees lakes and ponds with lotuses, geese, and chakravaka ducks, pleasing to the eye."
       },
       {
         "type": "verse",
@@ -13331,7 +13591,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रक्तान्तनेत्रः सुविभक्तगात्रः स्निग्धच्छविः सत्त्वगुणोपपन्नः क्लेशक्षमो मानयिता गुरूणाꣳ ज्ञेयो बलासप्रकृतिर्मनुष्यः",
         "text": "Уголки его глаз красноваты, тело хорошо сложено и пропорционально, кожа лощёная, он наделён качеством Саттвы, вынослив к тяготам, почитает старших — таков человек с природой, порождённой слизью (Капхой).",
         "iast": "raktāntanetraḥ suvibhaktagātraḥ snigdhacchaviḥ sattvaguṇopapannaḥ kleśakṣamo mānayitā gurūṇāṁ jñeyo balāsaprakṛtirmanuṣyaḥ",
-        "iast_ru": "ракта̄нтанетрах̣ сувибхактага̄трах̣ снигдхаччхавих̣ саттвагун̣опапаннах̣ клеш́акш̣амо ма̄найита̄ гурӯн̣а̄м̣ джн̃ейо бала̄сапракр̣тирмануш̣йах̣"
+        "iast_ru": "ракта̄нтанетрах̣ сувибхактага̄трах̣ снигдхаччхавих̣ саттвагун̣опапаннах̣ клеш́акш̣амо ма̄найита̄ гурӯн̣а̄м̣ джн̃ейо бала̄сапракр̣тирмануш̣йах̣",
+        "text_en": "The corners of his eyes are reddish, his body is well-formed and proportionate, his skin is glossy, he is endowed with the quality of Sattva, is able to endure hardship, and honors his elders, such is a person of the constitution born of mucus (Kapha)."
       },
       {
         "type": "verse",
@@ -13339,7 +13600,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दृढशास्त्रमतिः स्थिरमित्रधनः परिगण्य चिरात् प्रददाति बहु परिनिश्चितवाक्यपदः सततꣳ गुरुमानकरश्च भवेत्स सदा",
         "text": "Он твёрдо придерживается учения писаний, устойчив в дружбе и богатстве, подаёт много, но лишь после долгого раздумья, речь его выверена и решительна, и он постоянно проявляет почтение к старшим.",
         "iast": "dṛḍhaśāstramatiḥ sthiramitradhanaḥ parigaṇya cirāt pradadāti bahu pariniścitavākyapadaḥ satataṁ gurumānakaraśca bhavetsa sadā",
-        "iast_ru": "др̣д̣хаш́а̄страматих̣ стхирамитрадханах̣ париган̣йа чира̄т прадада̄ти баху париниш́читава̄кйападах̣ сататам̣ гурума̄накараш́ча бхаветса сада̄"
+        "iast_ru": "др̣д̣хаш́а̄страматих̣ стхирамитрадханах̣ париган̣йа чира̄т прадада̄ти баху париниш́читава̄кйападах̣ сататам̣ гурума̄накараш́ча бхаветса сада̄",
+        "text_en": "He adheres firmly to the doctrine of the scriptures, is steadfast in friendship and in wealth, gives generously, but only after long deliberation, his speech is measured and resolute, and he constantly shows respect toward his elders."
       },
       {
         "type": "verse",
@@ -13347,7 +13609,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ब्रह्मरुद्रेन्द्रवरुणैः सिꣳहाश्वगजगोवृषैः तार्क्ष्यहꣳससमानूकाः श्लेष्मप्रकृतयो नराः",
         "text": "Люди с природой Капхи уподобляются по своим чертам Брахме, Рудре, Индре, Варуне, льву, коню, слону, корове, быку, орлу Таркшье и лебедю.",
         "iast": "brahmarudrendravaruṇaiḥ siṁhāśvagajagovṛṣaiḥ tārkṣyahaṁsasamānūkāḥ śleṣmaprakṛtayo narāḥ",
-        "iast_ru": "брахмарудрендраварун̣аих̣ сим̣ха̄ш́вагаджаговр̣ш̣аих̣ та̄ркш̣йахам̣сасама̄нӯка̄х̣ ш́леш̣мапракр̣тайо нара̄х̣"
+        "iast_ru": "брахмарудрендраварун̣аих̣ сим̣ха̄ш́вагаджаговр̣ш̣аих̣ та̄ркш̣йахам̣сасама̄нӯка̄х̣ ш́леш̣мапракр̣тайо нара̄х̣",
+        "text_en": "People of Kapha constitution resemble in their features Brahma, Rudra, Indra, Varuna, the lion, the horse, the elephant, the cow, the bull, the eagle Tarkshya, and the swan."
       },
       {
         "type": "verse",
@@ -13355,7 +13618,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "द्वयोर्वा तिसृणाꣳ वा+अपि प्रकृतीनाꣳ तु लक्षणैः ज्ञात्वा सꣳसर्गजा वैद्यः प्रकृतीरभिनिर्दिशेत्",
         "text": "Зная по признакам сочетание двух или всех трёх Пракрити, врач должен определять смешанные (Самсаргаджа) природы.",
         "iast": "dvayorvā tisṛṇāṁ vā+api prakṛtīnāṁ tu lakṣaṇaiḥ jñātvā saṁsargajā vaidyaḥ prakṛtīrabhinirdiśet",
-        "iast_ru": "двайорва̄ тиср̣н̣а̄м̣ ва̄+апи пракр̣тӣна̄м̣ ту лакш̣ан̣аих̣ джн̃а̄тва̄ сам̣саргаджа̄ ваидйах̣ пракр̣тӣрабхинирдиш́ет"
+        "iast_ru": "двайорва̄ тиср̣н̣а̄м̣ ва̄+апи пракр̣тӣна̄м̣ ту лакш̣ан̣аих̣ джн̃а̄тва̄ сам̣саргаджа̄ ваидйах̣ пракр̣тӣрабхинирдиш́ет",
+        "text_en": "Knowing by their signs the combination of two or of all three Prakritis, the physician should determine the mixed (Samsargaja) constitutions."
       },
       {
         "type": "verse",
@@ -13363,7 +13627,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्रकोपो वा+अन्यभावो वा क्षयो वा नोपजायते प्रकृतीनाꣳ स्वभावेन जायते तु गतायुषःऽवा+अन्यथाभावःऽइति पा+",
         "text": "У людей с чистой единой Пракрити не бывает ни её обострения, ни изменения, ни истощения — она проявляется по своей собственной природе до конца жизни.",
         "iast": "prakopo vā+anyabhāvo vā kṣayo vā nopajāyate prakṛtīnāṁ svabhāvena jāyate tu gatāyuṣaḥ'vā+anyathābhāvaḥ'iti pā+",
-        "iast_ru": "пракопо ва̄+анйабха̄во ва̄ кш̣айо ва̄ нопаджа̄йате пракр̣тӣна̄м̣ свабха̄вена джа̄йате ту гата̄йуш̣ах̣'ва̄+анйатха̄бха̄вах̣'ити па̄+"
+        "iast_ru": "пракопо ва̄+анйабха̄во ва̄ кш̣айо ва̄ нопаджа̄йате пракр̣тӣна̄м̣ свабха̄вена джа̄йате ту гата̄йуш̣ах̣'ва̄+анйатха̄бха̄вах̣'ити па̄+",
+        "text_en": "In people of a pure, single Prakriti there occurs neither its aggravation, nor its alteration, nor its depletion; it manifests according to its own nature until the end of life."
       },
       {
         "type": "verse",
@@ -13371,7 +13636,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "विषजातो यथा कीटो न विषेण विपद्यते तद्वत्प्रकृतयो मर्त्यꣳ शक्नुवन्ति न बाधितुम्",
         "text": "Подобно тому как насекомое, рождённое в яде, не гибнет от него, так и врождённая Пракрити не способна повредить смертному.",
         "iast": "viṣajāto yathā kīṭo na viṣeṇa vipadyate tadvatprakṛtayo martyaṁ śaknuvanti na bādhitum",
-        "iast_ru": "виш̣аджа̄то йатха̄ кӣт̣о на виш̣ен̣а випадйате тадватпракр̣тайо мартйам̣ ш́акнуванти на ба̄дхитум"
+        "iast_ru": "виш̣аджа̄то йатха̄ кӣт̣о на виш̣ен̣а випадйате тадватпракр̣тайо мартйам̣ ш́акнуванти на ба̄дхитум",
+        "text_en": "Just as an insect born in poison does not perish from it, so too an innate Prakriti is incapable of harming the mortal being."
       },
       {
         "type": "verse",
@@ -13379,7 +13645,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्रकृतिमिह नराणाꣳ भौतिकीꣳ केचिदाहुः पवनदहनतोयैः कीर्तितास्तास्तु तिस्रः स्थिरविपुलशरीरः पार्थिवश्च क्षमावान् शुचिरथ चिरजीवी नाभसः खैर्महद्भिः",
         "text": "Некоторые называют это природное свойство людей материальным (Бхаутики) и, соответственно преобладанию Ветра, Огня и Воды, выделяют три его вида; кроме того, человек Партхивы (землистой природы) устойчив и крепок телом, терпелив и чист, а человек Набхасы (природы эфира) долговечен, обладая большими полостями — ушными и прочими.",
         "iast": "prakṛtimiha narāṇāṁ bhautikīṁ kecidāhuḥ pavanadahanatoyaiḥ kīrtitāstāstu tisraḥ sthiravipulaśarīraḥ pārthivaśca kṣamāvān śuciratha cirajīvī nābhasaḥ khairmahadbhiḥ",
-        "iast_ru": "пракр̣тимиха нара̄н̣а̄м̣ бхаутикӣм̣ кечида̄хух̣ паванадаханатойаих̣ кӣртита̄ста̄сту тисрах̣ стхиравипулаш́арӣрах̣ па̄ртхиваш́ча кш̣ама̄ва̄н ш́учиратха чираджӣвӣ на̄бхасах̣ кхаирмахадбхих̣"
+        "iast_ru": "пракр̣тимиха нара̄н̣а̄м̣ бхаутикӣм̣ кечида̄хух̣ паванадаханатойаих̣ кӣртита̄ста̄сту тисрах̣ стхиравипулаш́арӣрах̣ па̄ртхиваш́ча кш̣ама̄ва̄н ш́учиратха чираджӣвӣ на̄бхасах̣ кхаирмахадбхих̣",
+        "text_en": "Some call this natural constitution of people material (Bhautika), and, according to the predominance of Wind, Fire, and Water, distinguish three kinds of it; moreover, a person of Parthiva (earthy) nature is stable and strong of body, patient and pure, while a person of Nabhasa (ethereal) nature is long-lived, possessing large cavities, of the ears and elsewhere."
       },
       {
         "type": "verse",
@@ -13387,7 +13654,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शौचमास्तिक्यमभ्यासो वेदेषु गुरुपूजनम् प्रियातिथित्वमिज्या च ब्रह्मकायस्य लक्षणम्",
         "text": "Чистота, вера в существование богов, постоянное изучение Вед, почитание старших, любовь принимать гостей и совершение жертвоприношений — таковы признаки человека природы Брахмы.",
         "iast": "śaucamāstikyamabhyāso vedeṣu gurupūjanam priyātithitvamijyā ca brahmakāyasya lakṣaṇam",
-        "iast_ru": "ш́аучама̄стикйамабхйа̄со ведеш̣у гурупӯджанам прийа̄титхитвамиджйа̄ ча брахмака̄йасйа лакш̣ан̣ам"
+        "iast_ru": "ш́аучама̄стикйамабхйа̄со ведеш̣у гурупӯджанам прийа̄титхитвамиджйа̄ ча брахмака̄йасйа лакш̣ан̣ам",
+        "text_en": "Purity, faith in the existence of the gods, constant study of the Vedas, veneration of elders, a love of receiving guests, and the performance of sacrifices, these are the marks of a person of Brahma's constitution."
       },
       {
         "type": "verse",
@@ -13395,7 +13663,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "माहात्म्यꣳ शौर्यमाज्ञा च सततꣳ शास्त्रबुद्धिता भृत्यानाꣳ भरणꣳ चापि माहेन्द्रꣳ कायलक्षणम्",
         "text": "Величие, доблесть, повелительность, постоянная склонность к изучению шастр, а также содержание слуг и зависимых — таковы признаки человека природы Махендры.",
         "iast": "māhātmyaṁ śauryamājñā ca satataṁ śāstrabuddhitā bhṛtyānāṁ bharaṇaṁ cāpi māhendraṁ kāyalakṣaṇam",
-        "iast_ru": "ма̄ха̄тмйам̣ ш́аурйама̄джн̃а̄ ча сататам̣ ш́а̄страбуддхита̄ бхр̣тйа̄на̄м̣ бхаран̣ам̣ ча̄пи ма̄хендрам̣ ка̄йалакш̣ан̣ам"
+        "iast_ru": "ма̄ха̄тмйам̣ ш́аурйама̄джн̃а̄ ча сататам̣ ш́а̄страбуддхита̄ бхр̣тйа̄на̄м̣ бхаран̣ам̣ ча̄пи ма̄хендрам̣ ка̄йалакш̣ан̣ам",
+        "text_en": "Grandeur, valor, a commanding nature, a constant inclination toward the study of the treatises, as well as the keeping of servants and dependents, these are the marks of a person of Mahendra's constitution."
       },
       {
         "type": "verse",
@@ -13403,7 +13672,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शीतसेवा सहिष्णुत्वꣳ पैङ्गल्यꣳ हरिकेशता प्रियवादित्वमित्येतद्दारुणꣳ कायलक्षणम्",
         "text": "Любовь к холоду, выносливость, рыжеватый оттенок глаз, золотистые волосы, приятная речь — таковы признаки человека природы Варуны.",
         "iast": "śītasevā sahiṣṇutvaṁ paiṅgalyaṁ harikeśatā priyavāditvamityetaddāruṇaṁ kāyalakṣaṇam",
-        "iast_ru": "ш́ӣтасева̄ сахиш̣н̣утвам̣ паин̇галйам̣ харикеш́ата̄ прийава̄дитвамитйетадда̄рун̣ам̣ ка̄йалакш̣ан̣ам"
+        "iast_ru": "ш́ӣтасева̄ сахиш̣н̣утвам̣ паин̇галйам̣ харикеш́ата̄ прийава̄дитвамитйетадда̄рун̣ам̣ ка̄йалакш̣ан̣ам",
+        "text_en": "A love of cold, endurance, a reddish hue of the eyes, golden hair, pleasant speech, these are the marks of a person of Varuna's constitution."
       },
       {
         "type": "verse",
@@ -13411,7 +13681,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मध्यस्थता सहिष्णुत्वमर्थस्यागमसꣳचयौ महाप्रसवशक्तित्वꣳ कौबेरꣳ कायलक्षणम्",
         "text": "Умеренность, терпение, накопление и приумножение богатства, а также большая плодовитость — таковы признаки человека природы Куберы.",
         "iast": "madhyasthatā sahiṣṇutvamarthasyāgamasaṁcayau mahāprasavaśaktitvaṁ kauberaṁ kāyalakṣaṇam",
-        "iast_ru": "мадхйастхата̄ сахиш̣н̣утвамартхасйа̄гамасам̣чайау маха̄прасаваш́актитвам̣ кауберам̣ ка̄йалакш̣ан̣ам"
+        "iast_ru": "мадхйастхата̄ сахиш̣н̣утвамартхасйа̄гамасам̣чайау маха̄прасаваш́актитвам̣ кауберам̣ ка̄йалакш̣ан̣ам",
+        "text_en": "Moderation, patience, the accumulation and increase of wealth, as well as great fecundity, these are the marks of a person of Kubera's constitution."
       },
       {
         "type": "verse",
@@ -13419,7 +13690,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गन्धमाल्यप्रियत्वꣳ च नृत्यवादित्रकामिता विहारशीलता चैव गान्धर्वꣳ कायलक्षणम्",
         "text": "Любовь к благовониям и гирляндам, увлечение танцем и музыкой, любовь к развлечениям — таковы признаки человека природы Гандхарвы.",
         "iast": "gandhamālyapriyatvaṁ ca nṛtyavāditrakāmitā vihāraśīlatā caiva gāndharvaṁ kāyalakṣaṇam",
-        "iast_ru": "гандхама̄лйаприйатвам̣ ча нр̣тйава̄дитрака̄мита̄ виха̄раш́ӣлата̄ чаива га̄ндхарвам̣ ка̄йалакш̣ан̣ам"
+        "iast_ru": "гандхама̄лйаприйатвам̣ ча нр̣тйава̄дитрака̄мита̄ виха̄раш́ӣлата̄ чаива га̄ндхарвам̣ ка̄йалакш̣ан̣ам",
+        "text_en": "A love of perfumes and garlands, a fondness for dance and music, a love of amusements, these are the marks of a person of Gandharva's constitution."
       },
       {
         "type": "verse",
@@ -13427,7 +13699,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्राप्तकारी दृढोत्थानो निर्भयः स्मृतिमान् शुचिः रागमोहमदद्देषैर्वर्जितो याम्यसत्त्ववान्ऽरागमोहभयद्वेषैर्वर्जितो यमसत्त्ववान्ऽ पा+",
         "text": "Исполнительность, решительность, бесстрашие, хорошая память, чистота и свобода от страсти, заблуждения, гордыни и ненависти — таковы признаки человека природы Ямьи.",
         "iast": "prāptakārī dṛḍhotthāno nirbhayaḥ smṛtimān śuciḥ rāgamohamadaddeṣairvarjito yāmyasattvavān'rāgamohabhayadveṣairvarjito yamasattvavān' pā+",
-        "iast_ru": "пра̄птака̄рӣ др̣д̣хоттха̄но нирбхайах̣ смр̣тима̄н ш́учих̣ ра̄гамохамададдеш̣аирварджито йа̄мйасаттвава̄н'ра̄гамохабхайадвеш̣аирварджито йамасаттвава̄н' па̄+"
+        "iast_ru": "пра̄птака̄рӣ др̣д̣хоттха̄но нирбхайах̣ смр̣тима̄н ш́учих̣ ра̄гамохамададдеш̣аирварджито йа̄мйасаттвава̄н'ра̄гамохабхайадвеш̣аирварджито йамасаттвава̄н' па̄+",
+        "text_en": "Diligence, decisiveness, fearlessness, a good memory, purity, and freedom from passion, delusion, pride, and hatred, these are the marks of a person of Yamya's constitution."
       },
       {
         "type": "verse",
@@ -13435,7 +13708,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "/जपव्रतब्रह्मचर्यहोमाध्ययनसेविनम् ज्ञानविज्ञानसꣳपन्नमृषिसत्त्वꣳ नरꣳ विदुः",
         "text": "Приверженность молитве, обетам, целомудрию (Брахмачарья), жертвенным возлияниям и изучению писаний, обладание знанием и мудростью — таков человек природы Риши.",
         "iast": "/japavratabrahmacaryahomādhyayanasevinam jñānavijñānasaṁpannamṛṣisattvaṁ naraṁ viduḥ",
-        "iast_ru": "/джапавратабрахмачарйахома̄дхйайанасевинам джн̃а̄навиджн̃а̄насам̣паннамр̣ш̣исаттвам̣ нарам̣ видух̣"
+        "iast_ru": "/джапавратабрахмачарйахома̄дхйайанасевинам джн̃а̄навиджн̃а̄насам̣паннамр̣ш̣исаттвам̣ нарам̣ видух̣",
+        "text_en": "Devotion to prayer, to vows, to chastity (Brahmacharya), to sacrificial libations and the study of the scriptures, the possession of knowledge and wisdom, such is a person of the Rishi constitution."
       },
       {
         "type": "verse",
@@ -13443,7 +13717,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सप्तैते सात्त्विकाः काया रजसाꣳस्तु निबोधमे ऐश्वर्यवन्तꣳ रौद्रꣳ च शूरꣳ चण्डमसूयकम्",
         "text": "Таковы семь саттвических природных типов; теперь услышь от меня о раджасических. Человек природы Асуры властолюбив, грозен, доблестен, гневлив и завистлив.",
         "iast": "saptaite sāttvikāḥ kāyā rajasāṁstu nibodhame aiśvaryavantaṁ raudraṁ ca śūraṁ caṇḍamasūyakam",
-        "iast_ru": "саптаите са̄ттвика̄х̣ ка̄йа̄ раджаса̄м̣сту нибодхаме аиш́варйавантам̣ раудрам̣ ча ш́ӯрам̣ чан̣д̣амасӯйакам"
+        "iast_ru": "саптаите са̄ттвика̄х̣ ка̄йа̄ раджаса̄м̣сту нибодхаме аиш́варйавантам̣ раудрам̣ ча ш́ӯрам̣ чан̣д̣амасӯйакам",
+        "text_en": "Such are the seven sattvic natural types; hear now from me of the rajasic ones. A person of the Asura constitution is power-hungry, formidable, valorous, prone to anger, and envious."
       },
       {
         "type": "verse",
@@ -13451,7 +13726,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एकाशिनꣳ चौदरिकमासुरꣳ सत्त्वमीदृशम् तीक्ष्णमायासिनꣳ भीरुꣳ चण्डꣳ मायान्वितꣳ तथा",
         "text": "Он ест один, чревоугодлив — такова природа Асуры; человек природы Сарпы жестокосерден, склонен к обману, труслив, гневлив и коварен.",
         "iast": "ekāśinaṁ caudarikamāsuraṁ sattvamīdṛśam tīkṣṇamāyāsinaṁ bhīruṁ caṇḍaṁ māyānvitaṁ tathā",
-        "iast_ru": "ека̄ш́инам̣ чаударикама̄сурам̣ саттвамӣдр̣ш́ам тӣкш̣н̣ама̄йа̄синам̣ бхӣрум̣ чан̣д̣ам̣ ма̄йа̄нвитам̣ татха̄"
+        "iast_ru": "ека̄ш́инам̣ чаударикама̄сурам̣ саттвамӣдр̣ш́ам тӣкш̣н̣ама̄йа̄синам̣ бхӣрум̣ чан̣д̣ам̣ ма̄йа̄нвитам̣ татха̄",
+        "text_en": "He eats alone, is gluttonous, such is the nature of the Asura; a person of the Sarpa (serpent) constitution is hard-hearted, inclined to deceit, cowardly, quick to anger, and treacherous."
       },
       {
         "type": "verse",
@@ -13459,7 +13735,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "विहाराचारचपलꣳ सर्पसत्त्वꣳ विदुर्नरम् प्रवृद्धकामसेवी चाप्यजस्राहार एव च [ऽअबद्धकामसेवीऽइति पा+]",
         "text": "Он переменчив в поведении и развлечениях — такова природа Сарпы; он же неумеренно предаётся любовным утехам и ест беспрестанно.",
         "iast": "vihārācāracapalaṁ sarpasattvaṁ vidurnaram pravṛddhakāmasevī cāpyajasrāhāra eva ca ['abaddhakāmasevī'iti pā+]",
-        "iast_ru": "виха̄ра̄ча̄рачапалам̣ сарпасаттвам̣ видурнарам правр̣ддхака̄масевӣ ча̄пйаджасра̄ха̄ра ева ча ['абаддхака̄масевӣ'ити па̄+]"
+        "iast_ru": "виха̄ра̄ча̄рачапалам̣ сарпасаттвам̣ видурнарам правр̣ддхака̄масевӣ ча̄пйаджасра̄ха̄ра ева ча ['абаддхака̄масевӣ'ити па̄+]",
+        "text_en": "He is changeable in conduct and in his amusements, such is the nature of the Sarpa; he also indulges immoderately in the pleasures of love and eats without ceasing."
       },
       {
         "type": "verse",
@@ -13467,7 +13744,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अमर्षणो+अनवस्थायी शाकुनꣳ कायलक्षणम् एकान्तग्राहिता रौद्रमसूया धर्मबाह्यता",
         "text": "Нетерпеливость и непостоянство — таковы признаки природы Шакуны; склонность к уединению, свирепость, зависть и пренебрежение долгом —",
         "iast": "amarṣaṇo+anavasthāyī śākunaṁ kāyalakṣaṇam ekāntagrāhitā raudramasūyā dharmabāhyatā",
-        "iast_ru": "амарш̣ан̣о+анавастха̄йӣ ш́а̄кунам̣ ка̄йалакш̣ан̣ам ека̄нтагра̄хита̄ раудрамасӯйа̄ дхармаба̄хйата̄"
+        "iast_ru": "амарш̣ан̣о+анавастха̄йӣ ш́а̄кунам̣ ка̄йалакш̣ан̣ам ека̄нтагра̄хита̄ раудрамасӯйа̄ дхармаба̄хйата̄",
+        "text_en": "Impatience and inconstancy are the marks of the Shakuna (bird) nature; a tendency to solitude, ferocity, envy, and disregard for duty,"
       },
       {
         "type": "verse",
@@ -13475,7 +13753,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भृशमात्मस्तवश्चापि राक्षसꣳ कायलक्षणम् उच्छिष्टाहारता तैक्ष्ण्यꣳ साहसप्रियता तथाऽभृशमात्रꣳ तमश्चापिऽइति पा+",
         "text": "а также чрезмерное самовосхваление — таковы признаки природы Ракшасы; питание чужими остатками пищи, резкость и любовь к безрассудным поступкам —",
         "iast": "bhṛśamātmastavaścāpi rākṣasaṁ kāyalakṣaṇam ucchiṣṭāhāratā taikṣṇyaṁ sāhasapriyatā tathā'bhṛśamātraṁ tamaścāpi'iti pā+",
-        "iast_ru": "бхр̣ш́ама̄тмаставаш́ча̄пи ра̄кш̣асам̣ ка̄йалакш̣ан̣ам уччхиш̣т̣а̄ха̄рата̄ таикш̣н̣йам̣ са̄хасаприйата̄ татха̄'бхр̣ш́ама̄трам̣ тамаш́ча̄пи'ити па̄+"
+        "iast_ru": "бхр̣ш́ама̄тмаставаш́ча̄пи ра̄кш̣асам̣ ка̄йалакш̣ан̣ам уччхиш̣т̣а̄ха̄рата̄ таикш̣н̣йам̣ са̄хасаприйата̄ татха̄'бхр̣ш́ама̄трам̣ тамаш́ча̄пи'ити па̄+",
+        "text_en": "as well as excessive self-praise, these are the marks of the Rakshasa nature; subsisting on others' leftover food, harshness, and a fondness for reckless actions,"
       },
       {
         "type": "verse",
@@ -13483,7 +13762,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्त्रीलोलुपत्वꣳ नैर्लज्ज्यꣳ पैशाचꣳ कायलक्षणम् असꣳविभागमलसꣳ दुःखशीलमसूयकम्",
         "text": "похотливость к женщинам и бесстыдство — таковы признаки природы Пишачи; неумение делиться, лень, пристрастие к страданию и завистливость —",
         "iast": "strīlolupatvaṁ nairlajjyaṁ paiśācaṁ kāyalakṣaṇam asaṁvibhāgamalasaṁ duḥkhaśīlamasūyakam",
-        "iast_ru": "стрӣлолупатвам̣ наирладжджйам̣ паиш́а̄чам̣ ка̄йалакш̣ан̣ам асам̣вибха̄гамаласам̣ дух̣кхаш́ӣламасӯйакам"
+        "iast_ru": "стрӣлолупатвам̣ наирладжджйам̣ паиш́а̄чам̣ ка̄йалакш̣ан̣ам асам̣вибха̄гамаласам̣ дух̣кхаш́ӣламасӯйакам",
+        "text_en": "lustfulness toward women and shamelessness, these are the marks of the Pishacha nature; an inability to share, laziness, an addiction to suffering, and enviousness,"
       },
       {
         "type": "verse",
@@ -13491,7 +13771,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "लोलुपꣳ चाप्यदातारꣳ प्रेतसत्त्वꣳ विदुर्नरम् षडेते राजसाः कायाः, तामसाꣳस्तु निबोध मे",
         "text": "жадность и неспособность отдавать — таков человек природы Прета. Таковы шесть раджасических типов; теперь услышь от меня о тамасических.",
         "iast": "lolupaṁ cāpyadātāraṁ pretasattvaṁ vidurnaram ṣaḍete rājasāḥ kāyāḥ, tāmasāṁstu nibodha me",
-        "iast_ru": "лолупам̣ ча̄пйада̄та̄рам̣ претасаттвам̣ видурнарам ш̣ад̣ете ра̄джаса̄х̣ ка̄йа̄х̣, та̄маса̄м̣сту нибодха ме"
+        "iast_ru": "лолупам̣ ча̄пйада̄та̄рам̣ претасаттвам̣ видурнарам ш̣ад̣ете ра̄джаса̄х̣ ка̄йа̄х̣, та̄маса̄м̣сту нибодха ме",
+        "text_en": "greed and an incapacity to give, such is a person of the Preta nature. Such are the six rajasic types; hear now from me of the tamasic ones."
       },
       {
         "type": "verse",
@@ -13499,7 +13780,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "दुर्मेधस्त्वꣳ मन्दता च स्वप्ने मैथुननित्यता निराकरिष्णुता चैव विज्ञेयाः पाशवा गुणाः",
         "text": "Тупоумие и медлительность, постоянные похотливые сны о совокуплении, а также неспособность к отказу от чего-либо — таковы качества, присущие природе Пашавы (скотоподобной).",
         "iast": "durmedhastvaṁ mandatā ca svapne maithunanityatā nirākariṣṇutā caiva vijñeyāḥ pāśavā guṇāḥ",
-        "iast_ru": "дурмедхаствам̣ мандата̄ ча свапне маитхунанитйата̄ нира̄кариш̣н̣ута̄ чаива виджн̃ейа̄х̣ па̄ш́ава̄ гун̣а̄х̣"
+        "iast_ru": "дурмедхаствам̣ мандата̄ ча свапне маитхунанитйата̄ нира̄кариш̣н̣ута̄ чаива виджн̃ейа̄х̣ па̄ш́ава̄ гун̣а̄х̣",
+        "text_en": "Dullness of mind and slowness, constant lustful dreams of intercourse, as well as an incapacity to renounce anything, these are the qualities proper to the Pashava (bestial) nature."
       },
       {
         "type": "verse",
@@ -13507,7 +13789,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अनवस्थितता मौर्ख्यꣳ भीरुत्वꣳ सलिलार्थिता परस्पराभिमर्दश्च मत्स्यसत्त्वस्य लक्षणम्",
         "text": "Непостоянство, глупость, трусость, тяга к воде и постоянные взаимные столкновения — таковы признаки природы Матсьи (рыбоподобной).",
         "iast": "anavasthitatā maurkhyaṁ bhīrutvaṁ salilārthitā parasparābhimardaśca matsyasattvasya lakṣaṇam",
-        "iast_ru": "анавастхитата̄ мауркхйам̣ бхӣрутвам̣ салила̄ртхита̄ параспара̄бхимардаш́ча матсйасаттвасйа лакш̣ан̣ам"
+        "iast_ru": "анавастхитата̄ мауркхйам̣ бхӣрутвам̣ салила̄ртхита̄ параспара̄бхимардаш́ча матсйасаттвасйа лакш̣ан̣ам",
+        "text_en": "Inconstancy, foolishness, cowardice, an attraction to water, and constant mutual collisions, these are the marks of the Matsya (fish-like) nature."
       },
       {
         "type": "verse",
@@ -13515,7 +13798,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एकस्थानरतिर्नित्यमाहारे केवले रतः वानस्पत्यो नरः सत्त्वधर्मकामार्थवर्जितः",
         "text": "Любовь к пребыванию в одном месте, склонность лишь к принятию пищи — таков человек природы Ванаспатьи (растениеподобной), лишённый качеств Саттвы, долга, желания и выгоды.",
         "iast": "ekasthānaratirnityamāhāre kevale rataḥ vānaspatyo naraḥ sattvadharmakāmārthavarjitaḥ",
-        "iast_ru": "екастха̄наратирнитйама̄ха̄ре кевале ратах̣ ва̄наспатйо нарах̣ саттвадхармака̄ма̄ртхаварджитах̣"
+        "iast_ru": "екастха̄наратирнитйама̄ха̄ре кевале ратах̣ ва̄наспатйо нарах̣ саттвадхармака̄ма̄ртхаварджитах̣",
+        "text_en": "A fondness for remaining in one place, an inclination toward nothing but the taking of food, such is a person of the Vanaspatya (plant-like) nature, devoid of the qualities of Sattva, of duty, of desire, and of gain."
       },
       {
         "type": "verse",
@@ -13523,7 +13807,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "इत्येते त्रिविधाः कायाः प्रोक्ता वै तामसास्तथा कायानाꣳ प्रकृतीर्ज्ञात्वा त्वनुरूपाꣳ क्रियाꣳ चरेत्",
         "text": "Так изложены три вида тамасической природы; познав природные свойства людей, врач должен назначать соответствующее им лечение.",
         "iast": "ityete trividhāḥ kāyāḥ proktā vai tāmasāstathā kāyānāṁ prakṛtīrjñātvā tvanurūpāṁ kriyāṁ caret",
-        "iast_ru": "итйете тривидха̄х̣ ка̄йа̄х̣ прокта̄ ваи та̄маса̄статха̄ ка̄йа̄на̄м̣ пракр̣тӣрджн̃а̄тва̄ тванурӯпа̄м̣ крийа̄м̣ чарет"
+        "iast_ru": "итйете тривидха̄х̣ ка̄йа̄х̣ прокта̄ ваи та̄маса̄статха̄ ка̄йа̄на̄м̣ пракр̣тӣрджн̃а̄тва̄ тванурӯпа̄м̣ крийа̄м̣ чарет",
+        "text_en": "Thus have the three kinds of tamasic nature been set forth; having ascertained the natural constitutions of people, the physician should prescribe treatment corresponding to them."
       },
       {
         "type": "verse",
@@ -13531,7 +13816,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "महाप्रकृतयस्त्वेता रजःसत्त्वतमःकृताः प्रोक्ता लक्षणतः सम्यग्भिषक् ताश्च विभावयेत्",
         "text": "Таковы великие природные типы, порождённые Раджасом, Саттвой и Тамасом, изложенные здесь по своим признакам; врач должен как следует уразуметь их.",
         "iast": "mahāprakṛtayastvetā rajaḥsattvatamaḥkṛtāḥ proktā lakṣaṇataḥ samyagbhiṣak tāśca vibhāvayet",
-        "iast_ru": "маха̄пракр̣тайаствета̄ раджах̣саттватамах̣кр̣та̄х̣ прокта̄ лакш̣ан̣атах̣ самйагбхиш̣ак та̄ш́ча вибха̄вайет"
+        "iast_ru": "маха̄пракр̣тайаствета̄ раджах̣саттватамах̣кр̣та̄х̣ прокта̄ лакш̣ан̣атах̣ самйагбхиш̣ак та̄ш́ча вибха̄вайет",
+        "text_en": "Such are the great natural types, born of Rajas, Sattva, and Tamas, set forth here according to their characteristics; the physician should thoroughly comprehend them."
       }
     ]
   },
@@ -13553,7 +13839,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातः शरीरसꣳख्याव्याकरणꣳ शारीरꣳ व्याख्यास्यामः",
         "text": "Итак, далее мы изложим раздел Шарира-стханы об исчислении и разъяснении частей тела.",
         "iast": "athātaḥ śarīrasaṁkhyāvyākaraṇaṁ śārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄тах̣ ш́арӣрасам̣кхйа̄вйа̄каран̣ам̣ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄тах̣ ш́арӣрасам̣кхйа̄вйа̄каран̣ам̣ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now, next we shall set forth the section of the Sharirasthana on the enumeration and explanation of the parts of the body."
       },
       {
         "type": "verse",
@@ -13561,7 +13848,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "Как о том поведал досточтимый Дханвантари.",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "As it was declared by the venerable Dhanvantari."
       },
       {
         "type": "verse",
@@ -13569,7 +13857,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शुक्रशोणितꣳ गर्भाशयस्थमात्मप्रकृतिविकारसꣳमूर्च्छितꣳ+अगर्भऽइत्युच्यते/ तꣳ चेतनावस्थितꣳ वायुर्विभजति, तेज एनꣳ पचति, आपः क्लेदयन्ति, पृथिवीसꣳहन्ति, आकाशꣳ विवर्धयति; एवꣳ विवर्धितः स यदा हस्तपादजिह्वाघ्राणकर्णनितम्बादिभिरङ्गैरुपेतस्तदा+अशरीरꣳऽइति सꣳज्ञाꣳ लभते/ऽहस्तपादजिह्वाघ्राणकर्णादिभिःऽइति पा+ तच्च षडङ्गꣳ---शाखाश्चतस्रो, मध्यꣳ पञ्चमꣳ, षष्ठꣳ शिर इति",
         "text": "Семя и кровь (шукра-шонита), помещённые в полость матки и претерпевшие смешение с душой, естественными свойствами и их изменениями, называются «агарбха» — то, что ещё не стало зародышем. Когда в них утверждается сознание, Ваю разделяет их на части, Теджас (огонь) варит и созревает их, Апас (вода) увлажняет, Притхиви (земля) придаёт плотность, Акаша (эфир) обеспечивает рост. Выросшее таким образом и наделённое членами — руками, ногами, языком, носом, ушами, ягодицами и прочим, — оно получает имя «шарира» (тело). Тело состоит из шести частей: четырёх конечностей (шакха), туловища как пятой части и головы как шестой.",
         "iast": "śukraśoṇitaṁ garbhāśayasthamātmaprakṛtivikārasaṁmūrcchitaṁ+agarbha'ityucyate/ taṁ cetanāvasthitaṁ vāyurvibhajati, teja enaṁ pacati, āpaḥ kledayanti, pṛthivīsaṁhanti, ākāśaṁ vivardhayati; evaṁ vivardhitaḥ sa yadā hastapādajihvāghrāṇakarṇanitambādibhiraṅgairupetastadā+aśarīraṁ'iti saṁjñāṁ labhate/'hastapādajihvāghrāṇakarṇādibhiḥ'iti pā+ tacca ṣaḍaṅgaṁ---śākhāścatasro, madhyaṁ pañcamaṁ, ṣaṣṭhaṁ śira iti",
-        "iast_ru": "ш́украш́он̣итам̣ гарбха̄ш́айастхама̄тмапракр̣тивика̄расам̣мӯрччхитам̣+агарбха'итйучйате/ там̣ четана̄вастхитам̣ ва̄йурвибхаджати, теджа енам̣ пачати, а̄пах̣ кледайанти, пр̣тхивӣсам̣ханти, а̄ка̄ш́ам̣ вивардхайати; евам̣ вивардхитах̣ са йада̄ хастапа̄даджихва̄гхра̄н̣акарн̣анитамба̄дибхиран̇гаирупетастада̄+аш́арӣрам̣'ити сам̣джн̃а̄м̣ лабхате/'хастапа̄даджихва̄гхра̄н̣акарн̣а̄дибхих̣'ити па̄+ тачча ш̣ад̣ан̇гам̣---ш́а̄кха̄ш́чатасро, мадхйам̣ пан̃чамам̣, ш̣аш̣т̣хам̣ ш́ира ити"
+        "iast_ru": "ш́украш́он̣итам̣ гарбха̄ш́айастхама̄тмапракр̣тивика̄расам̣мӯрччхитам̣+агарбха'итйучйате/ там̣ четана̄вастхитам̣ ва̄йурвибхаджати, теджа енам̣ пачати, а̄пах̣ кледайанти, пр̣тхивӣсам̣ханти, а̄ка̄ш́ам̣ вивардхайати; евам̣ вивардхитах̣ са йада̄ хастапа̄даджихва̄гхра̄н̣акарн̣анитамба̄дибхиран̇гаирупетастада̄+аш́арӣрам̣'ити сам̣джн̃а̄м̣ лабхате/'хастапа̄даджихва̄гхра̄н̣акарн̣а̄дибхих̣'ити па̄+ тачча ш̣ад̣ан̇гам̣---ш́а̄кха̄ш́чатасро, мадхйам̣ пан̃чамам̣, ш̣аш̣т̣хам̣ ш́ира ити",
+        "text_en": "Semen and blood (shukra-shonita), placed within the cavity of the uterus and having undergone mixture with the soul, with the natural qualities and their transformations, are called \"agarbha\", that which has not yet become an embryo. When consciousness becomes established in them, Vayu divides them into parts, Tejas (fire) cooks and matures them, Apas (water) moistens them, Prithivi (earth) confers solidity, Akasha (ether) provides for growth. Having thus grown and being endowed with limbs, hands, feet, tongue, nose, ears, buttocks, and the rest, it receives the name \"sharira\" (body). The body consists of six parts: the four limbs (shakha), the trunk as the fifth part, and the head as the sixth."
       },
       {
         "type": "verse",
@@ -13577,7 +13866,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अतः परꣳ प्रत्यङ्गानि वक्ष्यन्ते---मस्तकोदरपृष्ठनाभिललाटनासाचिबुकबस्तिग्रीवा इत्येता एकैकाः, कर्णनेत्रभ्रूशङ्खाꣳसगण्डकक्षस्तनवृषणपार्श्वस्फिग्जानुबाहूरुप्रभृतयो द्वे द्वे, विꣳशतिरङ्गुलयः, स्रोताꣳसि वक्ष्यमाणानि[ऽवक्ष्यन्तेऽइति पा+], एष प्रत्यङ्गविभाग उक्तः",
         "text": "Далее будут названы пратьянги (второстепенные члены тела): голова, живот, спина, пупок, лоб, нос, подбородок, мочевой пузырь и шея — таковых по одному; уши, глаза, брови, виски, плечи, щёки, подмышки, груди, яички, бока, ягодицы, колени, руки, бёдра и подобные им — таковых по два; пальцев — двадцать; а также сротасы (внутренние каналы), о которых будет сказано далее. Таково распределение пратьянг.",
         "iast": "ataḥ paraṁ pratyaṅgāni vakṣyante---mastakodarapṛṣṭhanābhilalāṭanāsācibukabastigrīvā ityetā ekaikāḥ, karṇanetrabhrūśaṅkhāṁsagaṇḍakakṣastanavṛṣaṇapārśvasphigjānubāhūruprabhṛtayo dve dve, viṁśatiraṅgulayaḥ, srotāṁsi vakṣyamāṇāni['vakṣyante'iti pā+], eṣa pratyaṅgavibhāga uktaḥ",
-        "iast_ru": "атах̣ парам̣ пратйан̇га̄ни вакш̣йанте---мастакодарапр̣ш̣т̣хана̄бхилала̄т̣ана̄са̄чибукабастигрӣва̄ итйета̄ екаика̄х̣, карн̣анетрабхрӯш́ан̇кха̄м̣саган̣д̣акакш̣астанавр̣ш̣ан̣апа̄рш́васпхигджа̄нуба̄хӯрупрабхр̣тайо две две, вим̣ш́атиран̇гулайах̣, срота̄м̣си вакш̣йама̄н̣а̄ни['вакш̣йанте'ити па̄+], еш̣а пратйан̇гавибха̄га уктах̣"
+        "iast_ru": "атах̣ парам̣ пратйан̇га̄ни вакш̣йанте---мастакодарапр̣ш̣т̣хана̄бхилала̄т̣ана̄са̄чибукабастигрӣва̄ итйета̄ екаика̄х̣, карн̣анетрабхрӯш́ан̇кха̄м̣саган̣д̣акакш̣астанавр̣ш̣ан̣апа̄рш́васпхигджа̄нуба̄хӯрупрабхр̣тайо две две, вим̣ш́атиран̇гулайах̣, срота̄м̣си вакш̣йама̄н̣а̄ни['вакш̣йанте'ити па̄+], еш̣а пратйан̇гавибха̄га уктах̣",
+        "text_en": "Next will be named the pratyangas (secondary members of the body): the head, the belly, the back, the navel, the forehead, the nose, the chin, the bladder, and the neck, of these there is one each; the ears, the eyes, the eyebrows, the temples, the shoulders, the cheeks, the armpits, the breasts, the testicles, the flanks, the buttocks, the knees, the arms, the thighs, and the like, of these there are two each; the fingers and toes number twenty; and also the srotas (internal channels), of which more will be said further on. Such is the classification of the pratyangas."
       },
       {
         "type": "verse",
@@ -13585,7 +13875,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्य पुनः सꣳख्यानꣳऽसꣳख्येयानिऽइति पा+---त्वचः कला धातवो मला दोषा यकृत्प्लीहानौ फुप्फुस उण्डुको हृदयमाशया अन्त्राणि वृक्कौ स्रोताꣳसि कण्डरा जालानि कूर्चा रज्जवः सेवन्यः सङ्घाताः सीमन्ता अस्थीनि सन्धयः स्नायवः पेश्यो मर्माणि सैरा धमन्यो योगवहानिऽयोगवाहीनिऽइति पा+ स्रोताꣳसि च",
         "text": "Далее — их число, подлежащее счёту: кожа, оболочки (кала), основные начала тела (дхату), выделения (мала), доши, печень и селезёнка, лёгкое, слепая кишка (ундука), сердце, вместилища (ашая), кишки, обе почки, протоки (сротас), кандары, джалы (сплетения), курчи, раджу (тяжи), севани (швы), сангхаты (соединения костей), симанты, кости, суставы, связки (снайю), мышцы (пеши), жизненно важные точки (марма), вены (сира), артерии (дхамани) и проводящие сротасы.",
         "iast": "tasya punaḥ saṁkhyānaṁ'saṁkhyeyāni'iti pā+---tvacaḥ kalā dhātavo malā doṣā yakṛtplīhānau phupphusa uṇḍuko hṛdayamāśayā antrāṇi vṛkkau srotāṁsi kaṇḍarā jālāni kūrcā rajjavaḥ sevanyaḥ saṅghātāḥ sīmantā asthīni sandhayaḥ snāyavaḥ peśyo marmāṇi sairā dhamanyo yogavahāni'yogavāhīni'iti pā+ srotāṁsi ca",
-        "iast_ru": "тасйа пунах̣ сам̣кхйа̄нам̣'сам̣кхйейа̄ни'ити па̄+---твачах̣ кала̄ дха̄таво мала̄ дош̣а̄ йакр̣тплӣха̄нау пхуппхуса ун̣д̣уко хр̣дайама̄ш́айа̄ антра̄н̣и вр̣ккау срота̄м̣си кан̣д̣ара̄ джа̄ла̄ни кӯрча̄ раджджавах̣ севанйах̣ сан̇гха̄та̄х̣ сӣманта̄ астхӣни сандхайах̣ сна̄йавах̣ пеш́йо марма̄н̣и саира̄ дхаманйо йогаваха̄ни'йогава̄хӣни'ити па̄+ срота̄м̣си ча"
+        "iast_ru": "тасйа пунах̣ сам̣кхйа̄нам̣'сам̣кхйейа̄ни'ити па̄+---твачах̣ кала̄ дха̄таво мала̄ дош̣а̄ йакр̣тплӣха̄нау пхуппхуса ун̣д̣уко хр̣дайама̄ш́айа̄ антра̄н̣и вр̣ккау срота̄м̣си кан̣д̣ара̄ джа̄ла̄ни кӯрча̄ раджджавах̣ севанйах̣ сан̇гха̄та̄х̣ сӣманта̄ астхӣни сандхайах̣ сна̄йавах̣ пеш́йо марма̄н̣и саира̄ дхаманйо йогаваха̄ни'йогава̄хӣни'ити па̄+ срота̄м̣си ча",
+        "text_en": "Next comes their number, to be enumerated: the skin, the membranes (kala), the fundamental principles of the body (dhatu), the excretions (mala), the doshas, the liver and spleen, the lung, the caecum (unduka), the heart, the receptacles (ashaya), the intestines, the two kidneys, the channels (srotas), the kandaras, the jalas (plexuses), the kurchas, the rajju (cords), the sevani (sutures), the sanghatas (bone junctions), the simantas, the bones, the joints, the ligaments (snayu), the muscles (peshi), the vital points (marma), the veins (sira), the arteries (dhamani), and the conducting srotas."
       },
       {
         "type": "verse",
@@ -13593,7 +13884,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "त्वचः सप्त, कलाः सप्त, आशयाः सप्त, धातवः सप्त, सप्त सिराशतानि, पञ्च पेशीशतानि, नव स्नायुशतानि, त्रीण्यस्थिशतानि, द्वे दशोत्तरे सꣳधिशते, सप्तोत्तरꣳ मर्मशतꣳ, चतुर्विꣳशतिर्धमन्यः, त्रयो दोषाः, त्रयो मलाः, नव स्रोताꣳसि,(षोडश कण्डराः, षोडश जालानि, षट् कूर्चाः, चतस्रो रज्जवः, सप्त सेवन्यः, चतुर्दश सङ्घाताः, चतुर्दश सीमन्ताः, द्वाविꣳशतिर्योगवहानि स्रोताꣳसि, द्विकान्यन्त्राणि[द्विकान्यन्त्राणीति सूक्ष्मस्थूलभेदेन/]) चेति समासः[अयꣳ पाठो हस्तलिखितपुस्तके नोपलभ्यते/ हाराणचन्द्रपठितत्वादस्माभिः पठितः/]",
         "text": "Слоёв кожи — семь, кала — семь, ашай (вместилищ) — семь, дхату (начал) — семь, вен (сира) — семьсот, мышц (пеши) — пятьсот, связок (снайю) — девятьсот, костей — триста, суставов — двести десять, жизненно важных точек (марма) — сто семь, артерий (дхамани) — двадцать четыре, дош — три, мал (выделений) — три, сротас — девять (при этом кандар — шестнадцать, джал — шестнадцать, курчей — шесть, раджу — четыре, севани — семь, сангхат — четырнадцать, симант — четырнадцать, проводящих сротас — двадцать два, видов кишок — два). Таков общий итог.",
         "iast": "tvacaḥ sapta, kalāḥ sapta, āśayāḥ sapta, dhātavaḥ sapta, sapta sirāśatāni, pañca peśīśatāni, nava snāyuśatāni, trīṇyasthiśatāni, dve daśottare saṁdhiśate, saptottaraṁ marmaśataṁ, caturviṁśatirdhamanyaḥ, trayo doṣāḥ, trayo malāḥ, nava srotāṁsi,(ṣoḍaśa kaṇḍarāḥ, ṣoḍaśa jālāni, ṣaṭ kūrcāḥ, catasro rajjavaḥ, sapta sevanyaḥ, caturdaśa saṅghātāḥ, caturdaśa sīmantāḥ, dvāviṁśatiryogavahāni srotāṁsi, dvikānyantrāṇi[dvikānyantrāṇīti sūkṣmasthūlabhedena/]) ceti samāsaḥ[ayaṁ pāṭho hastalikhitapustake nopalabhyate/ hārāṇacandrapaṭhitatvādasmābhiḥ paṭhitaḥ/]",
-        "iast_ru": "твачах̣ сапта, кала̄х̣ сапта, а̄ш́айа̄х̣ сапта, дха̄тавах̣ сапта, сапта сира̄ш́ата̄ни, пан̃ча пеш́ӣш́ата̄ни, нава сна̄йуш́ата̄ни, трӣн̣йастхиш́ата̄ни, две даш́оттаре сам̣дхиш́ате, саптоттарам̣ мармаш́атам̣, чатурвим̣ш́атирдхаманйах̣, трайо дош̣а̄х̣, трайо мала̄х̣, нава срота̄м̣си,(ш̣од̣аш́а кан̣д̣ара̄х̣, ш̣од̣аш́а джа̄ла̄ни, ш̣ат̣ кӯрча̄х̣, чатасро раджджавах̣, сапта севанйах̣, чатурдаш́а сан̇гха̄та̄х̣, чатурдаш́а сӣманта̄х̣, два̄вим̣ш́атирйогаваха̄ни срота̄м̣си, двика̄нйантра̄н̣и[двика̄нйантра̄н̣ӣти сӯкш̣мастхӯлабхедена/]) чети сама̄сах̣[айам̣ па̄т̣хо хасталикхитапустаке нопалабхйате/ ха̄ра̄н̣ачандрапат̣хитатва̄дасма̄бхих̣ пат̣хитах̣/]"
+        "iast_ru": "твачах̣ сапта, кала̄х̣ сапта, а̄ш́айа̄х̣ сапта, дха̄тавах̣ сапта, сапта сира̄ш́ата̄ни, пан̃ча пеш́ӣш́ата̄ни, нава сна̄йуш́ата̄ни, трӣн̣йастхиш́ата̄ни, две даш́оттаре сам̣дхиш́ате, саптоттарам̣ мармаш́атам̣, чатурвим̣ш́атирдхаманйах̣, трайо дош̣а̄х̣, трайо мала̄х̣, нава срота̄м̣си,(ш̣од̣аш́а кан̣д̣ара̄х̣, ш̣од̣аш́а джа̄ла̄ни, ш̣ат̣ кӯрча̄х̣, чатасро раджджавах̣, сапта севанйах̣, чатурдаш́а сан̇гха̄та̄х̣, чатурдаш́а сӣманта̄х̣, два̄вим̣ш́атирйогаваха̄ни срота̄м̣си, двика̄нйантра̄н̣и[двика̄нйантра̄н̣ӣти сӯкш̣мастхӯлабхедена/]) чети сама̄сах̣[айам̣ па̄т̣хо хасталикхитапустаке нопалабхйате/ ха̄ра̄н̣ачандрапат̣хитатва̄дасма̄бхих̣ пат̣хитах̣/]",
+        "text_en": "The layers of skin number seven, the kalas seven, the ashayas (receptacles) seven, the dhatus (fundamental principles) seven, the veins (sira) seven hundred, the muscles (peshi) five hundred, the ligaments (snayu) nine hundred, the bones three hundred, the joints two hundred and ten, the vital points (marma) one hundred and seven, the arteries (dhamani) twenty-four, the doshas three, the malas (excretions) three, the srotas nine (of these, the kandaras number sixteen, the jalas sixteen, the kurchas six, the rajju four, the sevani seven, the sanghatas fourteen, the simantas fourteen, the conducting srotas twenty-two, and the kinds of intestines two). Such is the total sum."
       },
       {
         "type": "verse",
@@ -13601,7 +13893,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "विस्तारो+अत ऊर्ध्वꣳ---त्वचो+अभिहिताः कला धातवो मला दोषा यकृत्प्लीहानौ फुप्फुस उण्डुको हृदयꣳ वृक्कौ च",
         "text": "Далее следует подробное изложение. Кожа, кала, дхату, малы, доши, печень, селезёнка, лёгкое, ундука, сердце и обе почки уже были описаны в предыдущей главе.",
         "iast": "vistāro+ata ūrdhvaṁ---tvaco+abhihitāḥ kalā dhātavo malā doṣā yakṛtplīhānau phupphusa uṇḍuko hṛdayaṁ vṛkkau ca",
-        "iast_ru": "виста̄ро+ата ӯрдхвам̣---твачо+абхихита̄х̣ кала̄ дха̄таво мала̄ дош̣а̄ йакр̣тплӣха̄нау пхуппхуса ун̣д̣уко хр̣дайам̣ вр̣ккау ча"
+        "iast_ru": "виста̄ро+ата ӯрдхвам̣---твачо+абхихита̄х̣ кала̄ дха̄таво мала̄ дош̣а̄ йакр̣тплӣха̄нау пхуппхуса ун̣д̣уко хр̣дайам̣ вр̣ккау ча",
+        "text_en": "Next follows the detailed exposition. The skin, the kala, the dhatu, the malas, the doshas, the liver, the spleen, the lung, the unduka, the heart, and the two kidneys have already been described in the preceding chapter."
       },
       {
         "type": "verse",
@@ -13609,7 +13902,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आशयास्तु-वाताशयः, पित्ताशयः, श्लेष्माशयो, रक्ताशय, आमाशयः, पक्वाशयो, मूत्राशयः, स्त्रीणाꣳ गर्भाशयो+अष्टम इति",
         "text": "Ашайи (вместилища) же таковы: вместилище Ваты, вместилище Питты, вместилище Шлешмы (Капхи), вместилище крови, Амашая (вместилище непереваренной пищи), Паквашая (вместилище переваренной пищи) и вместилище мочи; у женщин восьмым является Гарбхашая (матка).",
         "iast": "āśayāstu-vātāśayaḥ, pittāśayaḥ, śleṣmāśayo, raktāśaya, āmāśayaḥ, pakvāśayo, mūtrāśayaḥ, strīṇāṁ garbhāśayo+aṣṭama iti",
-        "iast_ru": "а̄ш́айа̄сту-ва̄та̄ш́айах̣, питта̄ш́айах̣, ш́леш̣ма̄ш́айо, ракта̄ш́айа, а̄ма̄ш́айах̣, паква̄ш́айо, мӯтра̄ш́айах̣, стрӣн̣а̄м̣ гарбха̄ш́айо+аш̣т̣ама ити"
+        "iast_ru": "а̄ш́айа̄сту-ва̄та̄ш́айах̣, питта̄ш́айах̣, ш́леш̣ма̄ш́айо, ракта̄ш́айа, а̄ма̄ш́айах̣, паква̄ш́айо, мӯтра̄ш́айах̣, стрӣн̣а̄м̣ гарбха̄ш́айо+аш̣т̣ама ити",
+        "text_en": "The ashayas (receptacles) are these: the receptacle of Vata, the receptacle of Pitta, the receptacle of Shleshma (Kapha), the receptacle of blood, the Amashaya (receptacle of undigested food), the Pakvashaya (receptacle of digested food), and the receptacle of urine; in women the eighth is the Garbhashaya (uterus)."
       },
       {
         "type": "verse",
@@ -13617,7 +13911,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सार्धत्रिव्यामान्यन्त्राणि पुꣳसाꣳ, स्त्रीणामर्धव्यामहीनानि",
         "text": "Кишечник у мужчин имеет длину три с половиной Вьямы, а у женщин — на половину Вьямы короче.",
         "iast": "sārdhatrivyāmānyantrāṇi puṁsāṁ, strīṇāmardhavyāmahīnāni",
-        "iast_ru": "са̄рдхатривйа̄ма̄нйантра̄н̣и пум̣са̄м̣, стрӣн̣а̄мардхавйа̄махӣна̄ни"
+        "iast_ru": "са̄рдхатривйа̄ма̄нйантра̄н̣и пум̣са̄м̣, стрӣн̣а̄мардхавйа̄махӣна̄ни",
+        "text_en": "The intestine in men has a length of three and a half Vyamas, and in women it is shorter by half a Vyama."
       },
       {
         "type": "verse",
@@ -13625,7 +13920,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "श्रवणनवदनघ्राणगुदमेढ्राणि नव स्रोताꣳसि नराणाꣳ बहिर्मुखानि, एतान्येव स्त्रीणामपराणि च त्रीणि द्वे स्तनयोरधस्ताद्रक्तवहꣳ च",
         "text": "Уши, глаза, рот, нос, задний проход и половой орган — таковы девять наружных отверстий (сротас) у мужчин; у женщин те же девять, а сверх того ещё три: два — под грудями (молочные протоки) и один — выводящий кровь (менструальный).",
         "iast": "śravaṇanavadanaghrāṇagudameḍhrāṇi nava srotāṁsi narāṇāṁ bahirmukhāni, etānyeva strīṇāmaparāṇi ca trīṇi dve stanayoradhastādraktavahaṁ ca",
-        "iast_ru": "ш́раван̣анаваданагхра̄н̣агудамед̣хра̄н̣и нава срота̄м̣си нара̄н̣а̄м̣ бахирмукха̄ни, ета̄нйева стрӣн̣а̄мапара̄н̣и ча трӣн̣и две станайорадхаста̄драктавахам̣ ча"
+        "iast_ru": "ш́раван̣анаваданагхра̄н̣агудамед̣хра̄н̣и нава срота̄м̣си нара̄н̣а̄м̣ бахирмукха̄ни, ета̄нйева стрӣн̣а̄мапара̄н̣и ча трӣн̣и две станайорадхаста̄драктавахам̣ ча",
+        "text_en": "The ears, the eyes, the mouth, the nose, the anus, and the genital organ, these are the nine external apertures (srotas) in men; in women there are the same nine, and beyond these three more: two beneath the breasts (the milk ducts) and one that discharges blood (the menstrual aperture)."
       },
       {
         "type": "verse",
@@ -13633,7 +13929,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "षोडश कण्डराः---तासाꣳ चतस्रः पादयोः, तावत्यो हस्तग्रीवापृष्ठेषु; तत्र हस्तपादगतानाꣳ कण्डराणाꣳ नखा (अग्र)प्ररोहाः, ग्रीवाहृदय-निबन्धिनीनामधोभागगतानाꣳऽसꣳबन्धनीनाꣳऽइति पा+ मेढ्रꣳ, श्रोणिपृष्ठनिबन्धिनीनामधोभागगतानाꣳ बिम्बꣳ[ऽनितम्बःऽइति पा+/हाराणचन्द्रस्तु+अबिम्बःऽइति पठित्वा+अबिम्बः सच्छिद्रꣳ त्रिकास्थि उच्यतेऽइति व्याख्यानयति/], मूर्धोरुवक्षो+असपिण्डादीनाꣳ च [ऽऊरुवक्षो+अक्षपिण्डादिगतानाꣳ च मूर्धाऽइति हाराणचन्द्रः पठति/+अमूर्धोरुवक्षो+अक्षपिण्डादीनाꣳ चऽइति पा+]",
         "text": "Кандар (сухожильных тяжей) — шестнадцать: по четыре на ногах, столько же на руках, шее и спине. Тяжи рук и ног внизу переходят в ногти; тяжи, идущие от шеи к сердцу, оканчиваются внизу у полового органа; тяжи, связывающие таз со спиной, оканчиваются внизу у ягодиц; прочие простираются к голове, бёдрам, груди и плечевым суставам.",
         "iast": "ṣoḍaśa kaṇḍarāḥ---tāsāṁ catasraḥ pādayoḥ, tāvatyo hastagrīvāpṛṣṭheṣu; tatra hastapādagatānāṁ kaṇḍarāṇāṁ nakhā (agra)prarohāḥ, grīvāhṛdaya-nibandhinīnāmadhobhāgagatānāṁ'saṁbandhanīnāṁ'iti pā+ meḍhraṁ, śroṇipṛṣṭhanibandhinīnāmadhobhāgagatānāṁ bimbaṁ['nitambaḥ'iti pā+/hārāṇacandrastu+abimbaḥ'iti paṭhitvā+abimbaḥ sacchidraṁ trikāsthi ucyate'iti vyākhyānayati/], mūrdhoruvakṣo+asapiṇḍādīnāṁ ca ['ūruvakṣo+akṣapiṇḍādigatānāṁ ca mūrdhā'iti hārāṇacandraḥ paṭhati/+amūrdhoruvakṣo+akṣapiṇḍādīnāṁ ca'iti pā+]",
-        "iast_ru": "ш̣од̣аш́а кан̣д̣ара̄х̣---та̄са̄м̣ чатасрах̣ па̄дайох̣, та̄ватйо хастагрӣва̄пр̣ш̣т̣хеш̣у; татра хастапа̄дагата̄на̄м̣ кан̣д̣ара̄н̣а̄м̣ накха̄ (агра)прароха̄х̣, грӣва̄хр̣дайа-нибандхинӣна̄мадхобха̄гагата̄на̄м̣'сам̣бандханӣна̄м̣'ити па̄+ мед̣храм̣, ш́рон̣ипр̣ш̣т̣ханибандхинӣна̄мадхобха̄гагата̄на̄м̣ бимбам̣['нитамбах̣'ити па̄+/ха̄ра̄н̣ачандрасту+абимбах̣'ити пат̣хитва̄+абимбах̣ саччхидрам̣ трика̄стхи учйате'ити вйа̄кхйа̄найати/], мӯрдхорувакш̣о+асапин̣д̣а̄дӣна̄м̣ ча ['ӯрувакш̣о+акш̣апин̣д̣а̄дигата̄на̄м̣ ча мӯрдха̄'ити ха̄ра̄н̣ачандрах̣ пат̣хати/+амӯрдхорувакш̣о+акш̣апин̣д̣а̄дӣна̄м̣ ча'ити па̄+]"
+        "iast_ru": "ш̣од̣аш́а кан̣д̣ара̄х̣---та̄са̄м̣ чатасрах̣ па̄дайох̣, та̄ватйо хастагрӣва̄пр̣ш̣т̣хеш̣у; татра хастапа̄дагата̄на̄м̣ кан̣д̣ара̄н̣а̄м̣ накха̄ (агра)прароха̄х̣, грӣва̄хр̣дайа-нибандхинӣна̄мадхобха̄гагата̄на̄м̣'сам̣бандханӣна̄м̣'ити па̄+ мед̣храм̣, ш́рон̣ипр̣ш̣т̣ханибандхинӣна̄мадхобха̄гагата̄на̄м̣ бимбам̣['нитамбах̣'ити па̄+/ха̄ра̄н̣ачандрасту+абимбах̣'ити пат̣хитва̄+абимбах̣ саччхидрам̣ трика̄стхи учйате'ити вйа̄кхйа̄найати/], мӯрдхорувакш̣о+асапин̣д̣а̄дӣна̄м̣ ча ['ӯрувакш̣о+акш̣апин̣д̣а̄дигата̄на̄м̣ ча мӯрдха̄'ити ха̄ра̄н̣ачандрах̣ пат̣хати/+амӯрдхорувакш̣о+акш̣апин̣д̣а̄дӣна̄м̣ ча'ити па̄+]",
+        "text_en": "The kandaras (sinewy cords) number sixteen: four in the legs, the same number in the arms, in the neck, and in the back. The cords of the arms and legs terminate below at the nails; the cords running from the neck to the heart terminate below at the genital organ; the cords joining the pelvis to the back terminate below at the buttocks; the rest extend to the head, the thighs, the chest, and the shoulder joints."
       },
       {
         "type": "verse",
@@ -13641,7 +13938,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "माꣳससिरास्नाय्वस्थिजालानि प्रत्येकꣳ चत्वारि चत्वारि, तानि मणिबन्धगुल्फसꣳश्रितानि परस्परनोबद्धानि परस्परसꣳश्लिष्टानि परस्परगवाक्षितानि चेति, यैर्गवाक्षितमिदꣳ शरीरम्",
         "text": "Джал (сплетений) — по четыре каждого вида: мышечных, венозных, связочных и костных; они расположены в области запястья и лодыжки, связаны, сплетены и переплетены друг с другом наподобие решётки, чем и образуют пронизанное сетью строение тела.",
         "iast": "māṁsasirāsnāyvasthijālāni pratyekaṁ catvāri catvāri, tāni maṇibandhagulphasaṁśritāni parasparanobaddhāni parasparasaṁśliṣṭāni parasparagavākṣitāni ceti, yairgavākṣitamidaṁ śarīram",
-        "iast_ru": "ма̄м̣сасира̄сна̄йвастхиджа̄ла̄ни пратйекам̣ чатва̄ри чатва̄ри, та̄ни ман̣ибандхагулпхасам̣ш́рита̄ни параспаранобаддха̄ни параспарасам̣ш́лиш̣т̣а̄ни параспарагава̄кш̣ита̄ни чети, йаиргава̄кш̣итамидам̣ ш́арӣрам"
+        "iast_ru": "ма̄м̣сасира̄сна̄йвастхиджа̄ла̄ни пратйекам̣ чатва̄ри чатва̄ри, та̄ни ман̣ибандхагулпхасам̣ш́рита̄ни параспаранобаддха̄ни параспарасам̣ш́лиш̣т̣а̄ни параспарагава̄кш̣ита̄ни чети, йаиргава̄кш̣итамидам̣ ш́арӣрам",
+        "text_en": "The jalas (plexuses) number four of each kind: muscular, venous, ligamentous, and osseous; they are situated in the region of the wrist and the ankle, are joined, interwoven, and interlaced with one another like a lattice, and thereby form the net-like structure of the body."
       },
       {
         "type": "verse",
@@ -13649,7 +13947,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "षट् कूर्चाः, ते हस्तपादग्रीवामेढेषु; हस्तयोर्द्वौ, पादयोर्द्वौ, ग्रीवामेढ्रयोरेकैकः",
         "text": "Курчей (узловых сплетений) — шесть: они находятся в руках, ногах, шее и половом органе — по два в руках и ногах и по одному в шее и половом органе.",
         "iast": "ṣaṭ kūrcāḥ, te hastapādagrīvāmeḍheṣu; hastayordvau, pādayordvau, grīvāmeḍhrayorekaikaḥ",
-        "iast_ru": "ш̣ат̣ кӯрча̄х̣, те хастапа̄дагрӣва̄мед̣хеш̣у; хастайордвау, па̄дайордвау, грӣва̄мед̣храйорекаиках̣"
+        "iast_ru": "ш̣ат̣ кӯрча̄х̣, те хастапа̄дагрӣва̄мед̣хеш̣у; хастайордвау, па̄дайордвау, грӣва̄мед̣храйорекаиках̣",
+        "text_en": "The kurchas (knotted plexuses) number six: they are found in the arms, the legs, the neck, and the genital organ, two in the arms and legs each, and one each in the neck and the genital organ."
       },
       {
         "type": "verse",
@@ -13657,7 +13956,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "महत्यो माꣳसरज्जवश्चतस्रः---पृष्ठवꣳशमुभयतः पेशीनिबन्धनार्थꣳ द्वे बाह्ये, आभ्यन्तरे च द्वे",
         "text": "Больших мышечных тяжей (раджджу) — четыре: они идут по обеим сторонам позвоночного столба, скрепляя мышцы, — по одному наружному и одному внутреннему с каждой стороны.",
         "iast": "mahatyo māṁsarajjavaścatasraḥ---pṛṣṭhavaṁśamubhayataḥ peśīnibandhanārthaṁ dve bāhye, ābhyantare ca dve",
-        "iast_ru": "махатйо ма̄м̣сараджджаваш́чатасрах̣---пр̣ш̣т̣хавам̣ш́амубхайатах̣ пеш́ӣнибандхана̄ртхам̣ две ба̄хйе, а̄бхйантаре ча две"
+        "iast_ru": "махатйо ма̄м̣сараджджаваш́чатасрах̣---пр̣ш̣т̣хавам̣ш́амубхайатах̣ пеш́ӣнибандхана̄ртхам̣ две ба̄хйе, а̄бхйантаре ча две",
+        "text_en": "The large muscular cords (rajju) number four: they run along both sides of the spinal column, binding the muscles together, one external and one internal on each side."
       },
       {
         "type": "verse",
@@ -13665,7 +13965,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सप्त सेवन्यःऽसीवन्यःऽइति पा+; सिरसि विभक्ताः पञ्च, जिह्वाशेफसोरेकैका; ताः परिहर्तव्याः शस्त्रेण",
         "text": "Севани (швов) — семь: пять расположены на голове по линиям её костей, одна — на языке, одна — на половом органе; их следует избегать при рассечении острым инструментом.",
         "iast": "sapta sevanyaḥ'sīvanyaḥ'iti pā+; sirasi vibhaktāḥ pañca, jihvāśephasorekaikā; tāḥ parihartavyāḥ śastreṇa",
-        "iast_ru": "сапта севанйах̣'сӣванйах̣'ити па̄+; сираси вибхакта̄х̣ пан̃ча, джихва̄ш́епхасорекаика̄; та̄х̣ парихартавйа̄х̣ ш́астрен̣а"
+        "iast_ru": "сапта севанйах̣'сӣванйах̣'ити па̄+; сираси вибхакта̄х̣ пан̃ча, джихва̄ш́епхасорекаика̄; та̄х̣ парихартавйа̄х̣ ш́астрен̣а",
+        "text_en": "The sevani (sutures) number seven: five are located on the head along the lines of its bones, one on the tongue, one on the genital organ; these should be avoided when cutting with a sharp instrument."
       },
       {
         "type": "verse",
@@ -13673,7 +13974,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "चतुर्दशास्थ्नाꣳ सꣳघाताः; तेषाꣳ त्रयो गुल्फजानुवङ्क्षणेषु, एतेनेतरसक्थि बाहू च व्याख्यातौ, त्रिकशिरसोरेकैकः",
         "text": "Сангхат (сочленённых скоплений костей) — четырнадцать: три из них находятся в лодыжке, колене и паху одной ноги (то же относится и к другой ноге, а также к обеим рукам); по одному — в крестце и в голове.",
         "iast": "caturdaśāsthnāṁ saṁghātāḥ; teṣāṁ trayo gulphajānuvaṅkṣaṇeṣu, etenetarasakthi bāhū ca vyākhyātau, trikaśirasorekaikaḥ",
-        "iast_ru": "чатурдаш́а̄стхна̄м̣ сам̣гха̄та̄х̣; теш̣а̄м̣ трайо гулпхаджа̄нуван̇кш̣ан̣еш̣у, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау, трикаш́ирасорекаиках̣"
+        "iast_ru": "чатурдаш́а̄стхна̄м̣ сам̣гха̄та̄х̣; теш̣а̄м̣ трайо гулпхаджа̄нуван̇кш̣ан̣еш̣у, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау, трикаш́ирасорекаиках̣",
+        "text_en": "The sanghatas (junctions of assembled bones) number fourteen: three of them are found in the ankle, knee, and groin of one leg (the same holds for the other leg, and for both arms); one each in the sacrum and in the head."
       },
       {
         "type": "verse",
@@ -13681,7 +13983,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "चतुर्दशैव सीमन्ताः; ते चास्थिसङ्घातवद्गणनीयाः, यतस्तैर्युक्ता अस्थिसꣳघाताः; ये ह्युक्ताः सꣳघातास्ते खल्वष्टादशैकेषाम्[वाग्भटस्तु \"गुल्फजानुवꣳक्षणमणिबन्धकूर्परक्स्क्षासु एकैकः, त्रिके एकः, पञ्च शिरसि\" इत्यष्टादश सीमन्तानाः; सꣳघाताꣳस्तु चतुर्दशैव] ऽसीमन्तास्तु खल्वष्टादशकेषाम्ऽइति पा+",
         "text": "Симант (швов-стыков) также четырнадцать; их считают наравне с сангхатами костей, поскольку они соединены с ними; по мнению же некоторых, число сангхат достигает восемнадцати.",
         "iast": "caturdaśaiva sīmantāḥ; te cāsthisaṅghātavadgaṇanīyāḥ, yatastairyuktā asthisaṁghātāḥ; ye hyuktāḥ saṁghātāste khalvaṣṭādaśaikeṣām[vāgbhaṭastu \"gulphajānuvaṁkṣaṇamaṇibandhakūrparakskṣāsu ekaikaḥ, trike ekaḥ, pañca śirasi\" ityaṣṭādaśa sīmantānāḥ; saṁghātāṁstu caturdaśaiva] 'sīmantāstu khalvaṣṭādaśakeṣām'iti pā+",
-        "iast_ru": "чатурдаш́аива сӣманта̄х̣; те ча̄стхисан̇гха̄тавадган̣анӣйа̄х̣, йатастаирйукта̄ астхисам̣гха̄та̄х̣; йе хйукта̄х̣ сам̣гха̄та̄сте кхалваш̣т̣а̄даш́аикеш̣а̄м[ва̄гбхат̣асту \"гулпхаджа̄нувам̣кш̣ан̣аман̣ибандхакӯрпаракскш̣а̄су екаиках̣, трике еках̣, пан̃ча ш́ираси\" итйаш̣т̣а̄даш́а сӣманта̄на̄х̣; сам̣гха̄та̄м̣сту чатурдаш́аива] 'сӣманта̄сту кхалваш̣т̣а̄даш́акеш̣а̄м'ити па̄+"
+        "iast_ru": "чатурдаш́аива сӣманта̄х̣; те ча̄стхисан̇гха̄тавадган̣анӣйа̄х̣, йатастаирйукта̄ астхисам̣гха̄та̄х̣; йе хйукта̄х̣ сам̣гха̄та̄сте кхалваш̣т̣а̄даш́аикеш̣а̄м[ва̄гбхат̣асту \"гулпхаджа̄нувам̣кш̣ан̣аман̣ибандхакӯрпаракскш̣а̄су екаиках̣, трике еках̣, пан̃ча ш́ираси\" итйаш̣т̣а̄даш́а сӣманта̄на̄х̣; сам̣гха̄та̄м̣сту чатурдаш́аива] 'сӣманта̄сту кхалваш̣т̣а̄даш́акеш̣а̄м'ити па̄+",
+        "text_en": "The simantas (suture-joints) likewise number fourteen; they are reckoned together with the sanghatas of the bones, since they are joined with them; according to some, however, the number of sanghatas reaches eighteen."
       },
       {
         "type": "verse",
@@ -13689,7 +13992,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "त्रीणि सषष्टीन्यस्थिशतानिऽषष्ट्यधि(?)कानिऽइति पा+ वेदवादिनो भाषन्ते; शल्यतन्त्रे तु त्रीण्येव शतानि/ तेषाꣳ सविꣳशमस्थिशतꣳ शाखासु, सप्तदशोत्तरꣳ शतꣳ श्रोणिपार्श्वपृष्ठोरःसु, ग्रीवाꣳ प्रत्यूर्ध्वꣳ त्रिषष्टिः, एवमस्थ्नाꣳ त्रीणि शतानि पूर्यन्ते",
         "text": "Знатоки Вед говорят о трёхстах шестидесяти костях, но в Шалья-тантре (настоящем труде) их насчитывают лишь триста: сто двадцать — в четырёх конечностях, сто семнадцать — в области таза, боков, спины и груди, шестьдесят три — в области выше шеи; так составляется общее число трёхсот костей.",
         "iast": "trīṇi saṣaṣṭīnyasthiśatāni'ṣaṣṭyadhi(?)kāni'iti pā+ vedavādino bhāṣante; śalyatantre tu trīṇyeva śatāni/ teṣāṁ saviṁśamasthiśataṁ śākhāsu, saptadaśottaraṁ śataṁ śroṇipārśvapṛṣṭhoraḥsu, grīvāṁ pratyūrdhvaṁ triṣaṣṭiḥ, evamasthnāṁ trīṇi śatāni pūryante",
-        "iast_ru": "трӣн̣и саш̣аш̣т̣ӣнйастхиш́ата̄ни'ш̣аш̣т̣йадхи(?)ка̄ни'ити па̄+ ведава̄дино бха̄ш̣анте; ш́алйатантре ту трӣн̣йева ш́ата̄ни/ теш̣а̄м̣ савим̣ш́амастхиш́атам̣ ш́а̄кха̄су, саптадаш́оттарам̣ ш́атам̣ ш́рон̣ипа̄рш́вапр̣ш̣т̣хорах̣су, грӣва̄м̣ пратйӯрдхвам̣ триш̣аш̣т̣их̣, евамастхна̄м̣ трӣн̣и ш́ата̄ни пӯрйанте"
+        "iast_ru": "трӣн̣и саш̣аш̣т̣ӣнйастхиш́ата̄ни'ш̣аш̣т̣йадхи(?)ка̄ни'ити па̄+ ведава̄дино бха̄ш̣анте; ш́алйатантре ту трӣн̣йева ш́ата̄ни/ теш̣а̄м̣ савим̣ш́амастхиш́атам̣ ш́а̄кха̄су, саптадаш́оттарам̣ ш́атам̣ ш́рон̣ипа̄рш́вапр̣ш̣т̣хорах̣су, грӣва̄м̣ пратйӯрдхвам̣ триш̣аш̣т̣их̣, евамастхна̄м̣ трӣн̣и ш́ата̄ни пӯрйанте",
+        "text_en": "The knowers of the Vedas speak of three hundred and sixty bones, but in the Shalya-tantra (the present treatise) only three hundred are reckoned: one hundred and twenty in the four limbs, one hundred and seventeen in the region of the pelvis, the flanks, the back, and the chest, and sixty-three in the region above the neck; thus the total number of three hundred bones is arrived at."
       },
       {
         "type": "verse",
@@ -13697,7 +14001,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एकैकस्याꣳ तु पादाङ्गुल्याꣳ त्रीणि त्रीणि तानि पञ्चदश, तलकूर्चगुल्फसꣳश्रितानि दश, पार्ष्ण्यामेकꣳ, जङ्घायाꣳ द्वे, जानुन्येकꣳ, एकमूराविति, त्रिꣳशदेवमेकस्मिन् सक्थ्नि भवन्ति, एतेनेतरसक्थि बाहू च व्याख्यातौ; श्रोण्याꣳ पञ्च, तेषाꣳ गुदभगनितम्बेषुऽभगगुदनितम्बेषुऽइति पा+ चत्वारि, त्रिकसꣳश्रितमेकꣳ, पार्श्वे षट्त्रिꣳशदेकस्मिन्[प्रतिपार्श्व द्वादश पशुकाः, द्वादश स्थालकानि, द्वादश स्थालकार्बुदानीति मिलित्वा षट्त्रिꣳशदस्थीनि ज्ञेयानि/], द्वितीये+अप्येवꣳ, पृष्ठे त्रिꣳशत्, अष्टावुरसि[अष्टावुरसीति उरःफलके षट्, अक्षकसꣳज्ञे द्वे; इति मिलित्वा+अष्टावुरस्यस्थीनि ज्ञेयानि/], द्वे अꣳशफलके[ऽद्वे अक्षकसꣳज्ञेऽ इति पा+], ग्रीवायाꣳ नव, कण्ठनाड्याꣳ चत्वारि, द्वे हन्वोः, दन्ता द्वात्रिꣳशत्, नासायाꣳ त्रीणि, एकꣳ तालुनि, गण्डकर्णशङ्खेष्वेकैकꣳ, षट् शिरसीति [अत्र+अकण्ठनाड्याꣳ त्रीणि, एकꣳ हनौ, दन्ता द्वात्रिꣳशत्, नासायाꣳ नव, तालुनि द्वे, गण्डयोर्द्वे, शङ्खयोर्द्वे, कर्णयोः षट्, षट् शिरसिऽ इति पाठो रसयोगसागरस्योपोद्धाते वै. पꣳ. हरिप्रपन्नशर्मणा सꣳशोधितः/]",
         "text": "В каждом пальце стопы — по три кости, всего пятнадцать; в своде стопы, лодыжке и предплюсне — десять; в пятке — одна; в голени — две; в колене — одна; в бедре — одна: итого тридцать костей в одной ноге (столько же в другой ноге и в каждой руке). В тазовой области — пять костей, из которых четыре у заднего прохода, лобка и бёдер и одна крестцовая; в одном боку — тридцать шесть костей (столько же в другом); в спине — тридцать; в груди — восемь; в лопатках — две; в шее — девять; в дыхательном горле — четыре; в челюстях — две; зубов — тридцать два; в носу — три; в нёбе — одна; по одной в каждой щеке, ухе и висках; в черепе — шесть.",
         "iast": "ekaikasyāṁ tu pādāṅgulyāṁ trīṇi trīṇi tāni pañcadaśa, talakūrcagulphasaṁśritāni daśa, pārṣṇyāmekaṁ, jaṅghāyāṁ dve, jānunyekaṁ, ekamūrāviti, triṁśadevamekasmin sakthni bhavanti, etenetarasakthi bāhū ca vyākhyātau; śroṇyāṁ pañca, teṣāṁ gudabhaganitambeṣu'bhagagudanitambeṣu'iti pā+ catvāri, trikasaṁśritamekaṁ, pārśve ṣaṭtriṁśadekasmin[pratipārśva dvādaśa paśukāḥ, dvādaśa sthālakāni, dvādaśa sthālakārbudānīti militvā ṣaṭtriṁśadasthīni jñeyāni/], dvitīye+apyevaṁ, pṛṣṭhe triṁśat, aṣṭāvurasi[aṣṭāvurasīti uraḥphalake ṣaṭ, akṣakasaṁjñe dve; iti militvā+aṣṭāvurasyasthīni jñeyāni/], dve aṁśaphalake['dve akṣakasaṁjñe' iti pā+], grīvāyāṁ nava, kaṇṭhanāḍyāṁ catvāri, dve hanvoḥ, dantā dvātriṁśat, nāsāyāṁ trīṇi, ekaṁ tāluni, gaṇḍakarṇaśaṅkheṣvekaikaṁ, ṣaṭ śirasīti [atra+akaṇṭhanāḍyāṁ trīṇi, ekaṁ hanau, dantā dvātriṁśat, nāsāyāṁ nava, tāluni dve, gaṇḍayordve, śaṅkhayordve, karṇayoḥ ṣaṭ, ṣaṭ śirasi' iti pāṭho rasayogasāgarasyopoddhāte vai. paṁ. hariprapannaśarmaṇā saṁśodhitaḥ/]",
-        "iast_ru": "екаикасйа̄м̣ ту па̄да̄н̇гулйа̄м̣ трӣн̣и трӣн̣и та̄ни пан̃чадаш́а, талакӯрчагулпхасам̣ш́рита̄ни даш́а, па̄рш̣н̣йа̄мекам̣, джан̇гха̄йа̄м̣ две, джа̄нунйекам̣, екамӯра̄вити, трим̣ш́адевамекасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; ш́рон̣йа̄м̣ пан̃ча, теш̣а̄м̣ гудабхаганитамбеш̣у'бхагагуданитамбеш̣у'ити па̄+ чатва̄ри, трикасам̣ш́ритамекам̣, па̄рш́ве ш̣ат̣трим̣ш́адекасмин[пратипа̄рш́ва два̄даш́а паш́ука̄х̣, два̄даш́а стха̄лака̄ни, два̄даш́а стха̄лака̄рбуда̄нӣти милитва̄ ш̣ат̣трим̣ш́адастхӣни джн̃ейа̄ни/], двитӣйе+апйевам̣, пр̣ш̣т̣хе трим̣ш́ат, аш̣т̣а̄вураси[аш̣т̣а̄вурасӣти урах̣пхалаке ш̣ат̣, акш̣акасам̣джн̃е две; ити милитва̄+аш̣т̣а̄вурасйастхӣни джн̃ейа̄ни/], две ам̣ш́апхалаке['две акш̣акасам̣джн̃е' ити па̄+], грӣва̄йа̄м̣ нава, кан̣т̣хана̄д̣йа̄м̣ чатва̄ри, две ханвох̣, данта̄ два̄трим̣ш́ат, на̄са̄йа̄м̣ трӣн̣и, екам̣ та̄луни, ган̣д̣акарн̣аш́ан̇кхеш̣векаикам̣, ш̣ат̣ ш́ирасӣти [атра+акан̣т̣хана̄д̣йа̄м̣ трӣн̣и, екам̣ ханау, данта̄ два̄трим̣ш́ат, на̄са̄йа̄м̣ нава, та̄луни две, ган̣д̣айордве, ш́ан̇кхайордве, карн̣айох̣ ш̣ат̣, ш̣ат̣ ш́ираси' ити па̄т̣хо расайогаса̄гарасйоподдха̄те ваи. пам̣. харипрапаннаш́арман̣а̄ сам̣ш́одхитах̣/]"
+        "iast_ru": "екаикасйа̄м̣ ту па̄да̄н̇гулйа̄м̣ трӣн̣и трӣн̣и та̄ни пан̃чадаш́а, талакӯрчагулпхасам̣ш́рита̄ни даш́а, па̄рш̣н̣йа̄мекам̣, джан̇гха̄йа̄м̣ две, джа̄нунйекам̣, екамӯра̄вити, трим̣ш́адевамекасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; ш́рон̣йа̄м̣ пан̃ча, теш̣а̄м̣ гудабхаганитамбеш̣у'бхагагуданитамбеш̣у'ити па̄+ чатва̄ри, трикасам̣ш́ритамекам̣, па̄рш́ве ш̣ат̣трим̣ш́адекасмин[пратипа̄рш́ва два̄даш́а паш́ука̄х̣, два̄даш́а стха̄лака̄ни, два̄даш́а стха̄лака̄рбуда̄нӣти милитва̄ ш̣ат̣трим̣ш́адастхӣни джн̃ейа̄ни/], двитӣйе+апйевам̣, пр̣ш̣т̣хе трим̣ш́ат, аш̣т̣а̄вураси[аш̣т̣а̄вурасӣти урах̣пхалаке ш̣ат̣, акш̣акасам̣джн̃е две; ити милитва̄+аш̣т̣а̄вурасйастхӣни джн̃ейа̄ни/], две ам̣ш́апхалаке['две акш̣акасам̣джн̃е' ити па̄+], грӣва̄йа̄м̣ нава, кан̣т̣хана̄д̣йа̄м̣ чатва̄ри, две ханвох̣, данта̄ два̄трим̣ш́ат, на̄са̄йа̄м̣ трӣн̣и, екам̣ та̄луни, ган̣д̣акарн̣аш́ан̇кхеш̣векаикам̣, ш̣ат̣ ш́ирасӣти [атра+акан̣т̣хана̄д̣йа̄м̣ трӣн̣и, екам̣ ханау, данта̄ два̄трим̣ш́ат, на̄са̄йа̄м̣ нава, та̄луни две, ган̣д̣айордве, ш́ан̇кхайордве, карн̣айох̣ ш̣ат̣, ш̣ат̣ ш́ираси' ити па̄т̣хо расайогаса̄гарасйоподдха̄те ваи. пам̣. харипрапаннаш́арман̣а̄ сам̣ш́одхитах̣/]",
+        "text_en": "In each toe of the foot there are three bones, fifteen in all; in the arch of the foot, the ankle, and the instep, ten; in the heel, one; in the shin, two; in the knee, one; in the thigh, one: in all thirty bones in one leg (the same number in the other leg and in each arm). In the pelvic region there are five bones, of which four are at the anus, the pubis, and the hips, and one is the sacral bone; in one flank there are thirty-six bones (the same in the other); in the back, thirty; in the chest, eight; in the shoulder blades, two; in the neck, nine; in the windpipe, four; in the jaws, two; the teeth number thirty-two; in the nose, three; in the palate, one; one each in the cheek, the ear, and the temple; in the skull, six."
       },
       {
         "type": "verse",
@@ -13705,7 +14010,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एतानि पञ्चविधानि भवन्ति; तद्यथा---कपालरुचकतरुणवलयनलकसꣳज्ञानि/ तेषाꣳ जानुनितन्बाꣳसगण्डतालुशङ्खशिरःसु कपालानि, दशनास्तु रुचकानि, घ्राणकर्णग्रीवाक्षिकोषेषु तरुणानि, पार्श्वपृष्ठोरःसु वलयानि, शेषाणि नलकसꣳज्ञानि [ऽपाणिपादपार्श्वपृष्ठोदरोरःसु वलयानिऽ इति पाठस्तु न समीचीनः, टीकायामुक्तेन भोजवचनेन सह विरोधात् प्रत्यक्षविरोधाच्च/]",
         "text": "Кости бывают пяти видов: капала (плоские), ручака (зубовидные), таруна (хрящевидные), валая (кольцевидные) и налака (трубчатые). К капала относятся кости колена, ягодиц, плеч, щёк, нёба, висков и черепа; зубы относятся к ручака; к таруна — кости носа, уха, шеи и глазницы; к валая — кости боков, спины и груди; прочие называются налака.",
         "iast": "etāni pañcavidhāni bhavanti; tadyathā---kapālarucakataruṇavalayanalakasaṁjñāni/ teṣāṁ jānunitanbāṁsagaṇḍatāluśaṅkhaśiraḥsu kapālāni, daśanāstu rucakāni, ghrāṇakarṇagrīvākṣikoṣeṣu taruṇāni, pārśvapṛṣṭhoraḥsu valayāni, śeṣāṇi nalakasaṁjñāni ['pāṇipādapārśvapṛṣṭhodaroraḥsu valayāni' iti pāṭhastu na samīcīnaḥ, ṭīkāyāmuktena bhojavacanena saha virodhāt pratyakṣavirodhācca/]",
-        "iast_ru": "ета̄ни пан̃чавидха̄ни бхаванти; тадйатха̄---капа̄ларучакатарун̣авалайаналакасам̣джн̃а̄ни/ теш̣а̄м̣ джа̄нунитанба̄м̣саган̣д̣ата̄луш́ан̇кхаш́ирах̣су капа̄ла̄ни, даш́ана̄сту ручака̄ни, гхра̄н̣акарн̣агрӣва̄кш̣икош̣еш̣у тарун̣а̄ни, па̄рш́вапр̣ш̣т̣хорах̣су валайа̄ни, ш́еш̣а̄н̣и налакасам̣джн̃а̄ни ['па̄н̣ипа̄дапа̄рш́вапр̣ш̣т̣ходарорах̣су валайа̄ни' ити па̄т̣хасту на самӣчӣнах̣, т̣ӣка̄йа̄муктена бходжавачанена саха виродха̄т пратйакш̣авиродха̄чча/]"
+        "iast_ru": "ета̄ни пан̃чавидха̄ни бхаванти; тадйатха̄---капа̄ларучакатарун̣авалайаналакасам̣джн̃а̄ни/ теш̣а̄м̣ джа̄нунитанба̄м̣саган̣д̣ата̄луш́ан̇кхаш́ирах̣су капа̄ла̄ни, даш́ана̄сту ручака̄ни, гхра̄н̣акарн̣агрӣва̄кш̣икош̣еш̣у тарун̣а̄ни, па̄рш́вапр̣ш̣т̣хорах̣су валайа̄ни, ш́еш̣а̄н̣и налакасам̣джн̃а̄ни ['па̄н̣ипа̄дапа̄рш́вапр̣ш̣т̣ходарорах̣су валайа̄ни' ити па̄т̣хасту на самӣчӣнах̣, т̣ӣка̄йа̄муктена бходжавачанена саха виродха̄т пратйакш̣авиродха̄чча/]",
+        "text_en": "Bones are of five kinds: kapala (flat), ruchaka (tooth-like), taruna (cartilaginous), valaya (ring-shaped), and nalaka (tubular). To kapala belong the bones of the knee, the buttocks, the shoulders, the cheeks, the palate, the temples, and the skull; the teeth belong to ruchaka; to taruna belong the bones of the nose, the ear, the neck, and the eye-socket; to valaya belong the bones of the flanks, the back, and the chest; the rest are called nalaka."
       },
       {
         "type": "verse",
@@ -13713,7 +14019,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ अभ्यन्तरगतैः सारैर्यथा तिष्ठन्ति भूरुहाः अस्थिसारैस्तथा देहा ध्रियन्ते देहिनाꣳ ध्रुवम्",
         "text": "И об этом сказано: подобно тому как деревья держатся благодаря внутренней сердцевине, так и тела живых существ несомненно держатся благодаря прочности костей.",
         "iast": "bhavanti cātra/ abhyantaragataiḥ sārairyathā tiṣṭhanti bhūruhāḥ asthisāraistathā dehā dhriyante dehināṁ dhruvam",
-        "iast_ru": "бхаванти ча̄тра/ абхйантарагатаих̣ са̄раирйатха̄ тиш̣т̣ханти бхӯруха̄х̣ астхиса̄раистатха̄ деха̄ дхрийанте дехина̄м̣ дхрувам"
+        "iast_ru": "бхаванти ча̄тра/ абхйантарагатаих̣ са̄раирйатха̄ тиш̣т̣ханти бхӯруха̄х̣ астхиса̄раистатха̄ деха̄ дхрийанте дехина̄м̣ дхрувам",
+        "text_en": "And of this it is said: just as trees stand firm by virtue of their inner core, so too the bodies of living beings undoubtedly stand firm by virtue of the strength of the bones."
       },
       {
         "type": "verse",
@@ -13721,7 +14028,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्माच्चिरविनष्टेषु त्वङ्गाꣳसेषु शरीरिणाम् अस्थीनि न विनश्यन्ति साराण्येतानि देहिनाम्",
         "text": "Поэтому, даже когда кожа и мышцы тела давно истлели, кости — эта опора живых существ — не разрушаются.",
         "iast": "tasmācciravinaṣṭeṣu tvaṅgāṁseṣu śarīriṇām asthīni na vinaśyanti sārāṇyetāni dehinām",
-        "iast_ru": "тасма̄ччиравинаш̣т̣еш̣у тван̇га̄м̣сеш̣у ш́арӣрин̣а̄м астхӣни на винаш́йанти са̄ра̄н̣йета̄ни дехина̄м"
+        "iast_ru": "тасма̄ччиравинаш̣т̣еш̣у тван̇га̄м̣сеш̣у ш́арӣрин̣а̄м астхӣни на винаш́йанти са̄ра̄н̣йета̄ни дехина̄м",
+        "text_en": "Therefore, even when the skin and muscles of the body have long since decayed, the bones, this support of living beings, are not destroyed."
       },
       {
         "type": "verse",
@@ -13729,7 +14037,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "माꣳसान्यत्र निबद्धानि सिराभिः स्नायुभिस्तथा अस्थीन्यालम्बनꣳ कृत्वा न शीर्यन्ते पतन्ति वा",
         "text": "Мышцы же, скреплённые венами и связками и опирающиеся на кости, не рассыпаются и не отпадают.",
         "iast": "māṁsānyatra nibaddhāni sirābhiḥ snāyubhistathā asthīnyālambanaṁ kṛtvā na śīryante patanti vā",
-        "iast_ru": "ма̄м̣са̄нйатра нибаддха̄ни сира̄бхих̣ сна̄йубхистатха̄ астхӣнйа̄ламбанам̣ кр̣тва̄ на ш́ӣрйанте патанти ва̄"
+        "iast_ru": "ма̄м̣са̄нйатра нибаддха̄ни сира̄бхих̣ сна̄йубхистатха̄ астхӣнйа̄ламбанам̣ кр̣тва̄ на ш́ӣрйанте патанти ва̄",
+        "text_en": "The muscles, however, bound together by veins and ligaments and resting upon the bones, do not crumble or fall away."
       },
       {
         "type": "verse",
@@ -13737,7 +14046,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सन्धयस्तु द्विविधाश्चेष्टावन्तः, स्थिराश्च [ऽचेष्टावन्तः सन्धयो द्विविधाः---बहुचेष्टा अल्पचेष्टाश्चेति कृत्वा/ तत्र शाखासु अधो हनुकोट्योश्च बहुचेष्टाः, पृष्ठवꣳशादिष्वल्पचेष्टाः, अन्यत्र पुनरचेष्टाः/ अथात्र चेष्टावत्सु सव्धिष्वस्थिद्वयमस्थित्रयꣳ वा सम्बध्यते सान्द्रमसृणशणगुच्छसमाकाराभिः प्रतानवतीभिः स्वायुरज्जुभिः स्नायुकोषैश्च/ सन्धेयभागाश्च तत्रास्थ्नाꣳ तरुणास्थिसमावृताः सुसꣳश्लिष्टाश्च स्लेष्मधरकलापुटव्यवधानेन सम्यग्वर्तनाय/ अचेष्टाः पुनः सन्धयः प्रतनुस्नायुजालसꣳहता दन्तुरधारादिभिर्निरन्तरसꣳश्लिष्टाश्च, तेषु हि प्रयोजनाभावात् श्लेष्मधरकलाया अभावः/ऽ प्रत्यक्षशारीर, भा. प्र. पृ. ११५-११६.]",
         "text": "Суставы (сандхи) бывают двух видов: подвижные и неподвижные.",
         "iast": "sandhayastu dvividhāśceṣṭāvantaḥ, sthirāśca ['ceṣṭāvantaḥ sandhayo dvividhāḥ---bahuceṣṭā alpaceṣṭāśceti kṛtvā/ tatra śākhāsu adho hanukoṭyośca bahuceṣṭāḥ, pṛṣṭhavaṁśādiṣvalpaceṣṭāḥ, anyatra punaraceṣṭāḥ/ athātra ceṣṭāvatsu savdhiṣvasthidvayamasthitrayaṁ vā sambadhyate sāndramasṛṇaśaṇagucchasamākārābhiḥ pratānavatībhiḥ svāyurajjubhiḥ snāyukoṣaiśca/ sandheyabhāgāśca tatrāsthnāṁ taruṇāsthisamāvṛtāḥ susaṁśliṣṭāśca sleṣmadharakalāpuṭavyavadhānena samyagvartanāya/ aceṣṭāḥ punaḥ sandhayaḥ pratanusnāyujālasaṁhatā danturadhārādibhirnirantarasaṁśliṣṭāśca, teṣu hi prayojanābhāvāt śleṣmadharakalāyā abhāvaḥ/' pratyakṣaśārīra, bhā. pra. pṛ. 115-116.]",
-        "iast_ru": "сандхайасту двивидха̄ш́чеш̣т̣а̄вантах̣, стхира̄ш́ча ['чеш̣т̣а̄вантах̣ сандхайо двивидха̄х̣---бахучеш̣т̣а̄ алпачеш̣т̣а̄ш́чети кр̣тва̄/ татра ш́а̄кха̄су адхо ханукот̣йош́ча бахучеш̣т̣а̄х̣, пр̣ш̣т̣хавам̣ш́а̄диш̣валпачеш̣т̣а̄х̣, анйатра пунарачеш̣т̣а̄х̣/ атха̄тра чеш̣т̣а̄ватсу савдхиш̣вастхидвайамастхитрайам̣ ва̄ самбадхйате са̄ндрамаср̣н̣аш́ан̣агуччхасама̄ка̄ра̄бхих̣ прата̄наватӣбхих̣ сва̄йураджджубхих̣ сна̄йукош̣аиш́ча/ сандхейабха̄га̄ш́ча татра̄стхна̄м̣ тарун̣а̄стхисама̄вр̣та̄х̣ сусам̣ш́лиш̣т̣а̄ш́ча слеш̣мадхаракала̄пут̣авйавадха̄нена самйагвартана̄йа/ ачеш̣т̣а̄х̣ пунах̣ сандхайах̣ пратанусна̄йуджа̄ласам̣хата̄ дантурадха̄ра̄дибхирнирантарасам̣ш́лиш̣т̣а̄ш́ча, теш̣у хи прайоджана̄бха̄ва̄т ш́леш̣мадхаракала̄йа̄ абха̄вах̣/' пратйакш̣аш́а̄рӣра, бха̄. пра. пр̣. 115-116.]"
+        "iast_ru": "сандхайасту двивидха̄ш́чеш̣т̣а̄вантах̣, стхира̄ш́ча ['чеш̣т̣а̄вантах̣ сандхайо двивидха̄х̣---бахучеш̣т̣а̄ алпачеш̣т̣а̄ш́чети кр̣тва̄/ татра ш́а̄кха̄су адхо ханукот̣йош́ча бахучеш̣т̣а̄х̣, пр̣ш̣т̣хавам̣ш́а̄диш̣валпачеш̣т̣а̄х̣, анйатра пунарачеш̣т̣а̄х̣/ атха̄тра чеш̣т̣а̄ватсу савдхиш̣вастхидвайамастхитрайам̣ ва̄ самбадхйате са̄ндрамаср̣н̣аш́ан̣агуччхасама̄ка̄ра̄бхих̣ прата̄наватӣбхих̣ сва̄йураджджубхих̣ сна̄йукош̣аиш́ча/ сандхейабха̄га̄ш́ча татра̄стхна̄м̣ тарун̣а̄стхисама̄вр̣та̄х̣ сусам̣ш́лиш̣т̣а̄ш́ча слеш̣мадхаракала̄пут̣авйавадха̄нена самйагвартана̄йа/ ачеш̣т̣а̄х̣ пунах̣ сандхайах̣ пратанусна̄йуджа̄ласам̣хата̄ дантурадха̄ра̄дибхирнирантарасам̣ш́лиш̣т̣а̄ш́ча, теш̣у хи прайоджана̄бха̄ва̄т ш́леш̣мадхаракала̄йа̄ абха̄вах̣/' пратйакш̣аш́а̄рӣра, бха̄. пра. пр̣. 115-116.]",
+        "text_en": "Joints (sandhi) are of two kinds: movable and immovable."
       },
       {
         "type": "verse",
@@ -13745,7 +14055,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शाखासु हन्वो कट्याꣳ च चेष्टावन्तस्तु सन्धयः शेषास्तु सन्धयः सर्वे विज्ञेया हि स्थिरा बुधैः",
         "text": "Подвижными суставами являются те, что находятся в конечностях, в челюсти и в пояснице; все прочие суставы, как известно знающим, следует считать неподвижными.",
         "iast": "śākhāsu hanvo kaṭyāṁ ca ceṣṭāvantastu sandhayaḥ śeṣāstu sandhayaḥ sarve vijñeyā hi sthirā budhaiḥ",
-        "iast_ru": "ш́а̄кха̄су ханво кат̣йа̄м̣ ча чеш̣т̣а̄вантасту сандхайах̣ ш́еш̣а̄сту сандхайах̣ сарве виджн̃ейа̄ хи стхира̄ будхаих̣"
+        "iast_ru": "ш́а̄кха̄су ханво кат̣йа̄м̣ ча чеш̣т̣а̄вантасту сандхайах̣ ш́еш̣а̄сту сандхайах̣ сарве виджн̃ейа̄ хи стхира̄ будхаих̣",
+        "text_en": "The movable joints are those found in the limbs, in the jaw, and in the lower back; all the other joints, as is known to the learned, should be reckoned immovable."
       },
       {
         "type": "verse",
@@ -13753,7 +14064,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सङ्ख्यातस्तु दशोत्तरे द्वे शते; तेषाꣳ शाखास्वष्टषष्टिः, एकोनषष्टिः कोष्ठे, ग्रीवाꣳ प्रत्यूर्ध्वꣳ त्र्यशीतिः/ एकैकस्याꣳ पादाङ्गुल्याꣳ त्र्यस्त्रयः, द्वावङ्गुष्ठे, ते चतुर्दश; जानुगुल्फवङ्क्षणेष्वेकैकः, एवꣳ सप्तदशैकस्मिन् सक्थ्नि भवन्ति; एतेनेतरसक्थि बाहू च व्याख्यातौ; त्रयः कटीकपालेषु, चतुर्विꣳशतिः पृष्ठवꣳशे, तावन्त एव पार्श्वयोः, उरस्याष्टौ; तावन्त एव ग्रीवायाꣳ, त्रयः कण्ठे, नाडीषु हृदयक्लोमनिबद्धास्वष्टादश,[केचित्त्वत्र+अनाडीषु फुप्फुसक्लोमनिबद्धासुऽइति पठन्ति/+अत्रयः कण्ठे, त्रयः कण्ठनाड्याꣳ, हृदयक्लोमनिबद्धासु नाडीष्वष्टादशऽइति पा+] दन्तपरिमाणा दन्तमूलेषु, एकः काकलके नासायाꣳ च, [ऽनासायाꣳ पञ्च, द्वौ द्वावेव द्वयोर्नेत्रयोर्भवतः, द्वौ वर्त्ममण्डलजौ नेत्राश्रयौऽइति पा+] द्वौ वर्त्ममण्डलजौ नेत्राश्रयौ, गण्डकर्णशङ्खेष्वेकैकः, द्वौ हनुसन्धी, द्वावुपरिष्टाद्भ्रुवोः शङ्खयोश्च, पञ्च शिरःकपालेषु, एको मूर्ध्नि",
         "text": "Общее число суставов — двести десять; из них шестьдесят восемь — в конечностях, пятьдесят девять — в туловище, восемьдесят три — в области от шеи и выше. В каждом пальце ноги — по три сустава, в двух больших пальцах — по одному, всего четырнадцать; в колене, лодыжке и паху — по одному, итого семнадцать в одной ноге (столько же в другой и в каждой руке); в тазовых костях — три; в позвоночнике — двадцать четыре; столько же в боках; в груди — восемь; столько же в шее; в горле — три; в каналах, соединённых с сердцем и лёгкими, — восемнадцать; у корней зубов — по числу зубов; один — в гортани и носу; два — в веках глаз; по одному — в щеках, ушах и висках; два — в сочленениях челюсти; два — над бровями и висками; пять — в костях черепа; один — на макушке.",
         "iast": "saṅkhyātastu daśottare dve śate; teṣāṁ śākhāsvaṣṭaṣaṣṭiḥ, ekonaṣaṣṭiḥ koṣṭhe, grīvāṁ pratyūrdhvaṁ tryaśītiḥ/ ekaikasyāṁ pādāṅgulyāṁ tryastrayaḥ, dvāvaṅguṣṭhe, te caturdaśa; jānugulphavaṅkṣaṇeṣvekaikaḥ, evaṁ saptadaśaikasmin sakthni bhavanti; etenetarasakthi bāhū ca vyākhyātau; trayaḥ kaṭīkapāleṣu, caturviṁśatiḥ pṛṣṭhavaṁśe, tāvanta eva pārśvayoḥ, urasyāṣṭau; tāvanta eva grīvāyāṁ, trayaḥ kaṇṭhe, nāḍīṣu hṛdayaklomanibaddhāsvaṣṭādaśa,[kecittvatra+anāḍīṣu phupphusaklomanibaddhāsu'iti paṭhanti/+atrayaḥ kaṇṭhe, trayaḥ kaṇṭhanāḍyāṁ, hṛdayaklomanibaddhāsu nāḍīṣvaṣṭādaśa'iti pā+] dantaparimāṇā dantamūleṣu, ekaḥ kākalake nāsāyāṁ ca, ['nāsāyāṁ pañca, dvau dvāveva dvayornetrayorbhavataḥ, dvau vartmamaṇḍalajau netrāśrayau'iti pā+] dvau vartmamaṇḍalajau netrāśrayau, gaṇḍakarṇaśaṅkheṣvekaikaḥ, dvau hanusandhī, dvāvupariṣṭādbhruvoḥ śaṅkhayośca, pañca śiraḥkapāleṣu, eko mūrdhni",
-        "iast_ru": "сан̇кхйа̄тасту даш́оттаре две ш́ате; теш̣а̄м̣ ш́а̄кха̄сваш̣т̣аш̣аш̣т̣их̣, еконаш̣аш̣т̣их̣ кош̣т̣хе, грӣва̄м̣ пратйӯрдхвам̣ трйаш́ӣтих̣/ екаикасйа̄м̣ па̄да̄н̇гулйа̄м̣ трйастрайах̣, два̄ван̇гуш̣т̣хе, те чатурдаш́а; джа̄нугулпхаван̇кш̣ан̣еш̣векаиках̣, евам̣ саптадаш́аикасмин сактхни бхаванти; етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; трайах̣ кат̣ӣкапа̄леш̣у, чатурвим̣ш́атих̣ пр̣ш̣т̣хавам̣ш́е, та̄ванта ева па̄рш́вайох̣, урасйа̄ш̣т̣ау; та̄ванта ева грӣва̄йа̄м̣, трайах̣ кан̣т̣хе, на̄д̣ӣш̣у хр̣дайакломанибаддха̄сваш̣т̣а̄даш́а,[кечиттватра+ана̄д̣ӣш̣у пхуппхусакломанибаддха̄су'ити пат̣ханти/+атрайах̣ кан̣т̣хе, трайах̣ кан̣т̣хана̄д̣йа̄м̣, хр̣дайакломанибаддха̄су на̄д̣ӣш̣ваш̣т̣а̄даш́а'ити па̄+] дантапарима̄н̣а̄ дантамӯлеш̣у, еках̣ ка̄калаке на̄са̄йа̄м̣ ча, ['на̄са̄йа̄м̣ пан̃ча, двау два̄вева двайорнетрайорбхаватах̣, двау вартмаман̣д̣аладжау нетра̄ш́райау'ити па̄+] двау вартмаман̣д̣аладжау нетра̄ш́райау, ган̣д̣акарн̣аш́ан̇кхеш̣векаиках̣, двау ханусандхӣ, два̄вупариш̣т̣а̄дбхрувох̣ ш́ан̇кхайош́ча, пан̃ча ш́ирах̣капа̄леш̣у, еко мӯрдхни"
+        "iast_ru": "сан̇кхйа̄тасту даш́оттаре две ш́ате; теш̣а̄м̣ ш́а̄кха̄сваш̣т̣аш̣аш̣т̣их̣, еконаш̣аш̣т̣их̣ кош̣т̣хе, грӣва̄м̣ пратйӯрдхвам̣ трйаш́ӣтих̣/ екаикасйа̄м̣ па̄да̄н̇гулйа̄м̣ трйастрайах̣, два̄ван̇гуш̣т̣хе, те чатурдаш́а; джа̄нугулпхаван̇кш̣ан̣еш̣векаиках̣, евам̣ саптадаш́аикасмин сактхни бхаванти; етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; трайах̣ кат̣ӣкапа̄леш̣у, чатурвим̣ш́атих̣ пр̣ш̣т̣хавам̣ш́е, та̄ванта ева па̄рш́вайох̣, урасйа̄ш̣т̣ау; та̄ванта ева грӣва̄йа̄м̣, трайах̣ кан̣т̣хе, на̄д̣ӣш̣у хр̣дайакломанибаддха̄сваш̣т̣а̄даш́а,[кечиттватра+ана̄д̣ӣш̣у пхуппхусакломанибаддха̄су'ити пат̣ханти/+атрайах̣ кан̣т̣хе, трайах̣ кан̣т̣хана̄д̣йа̄м̣, хр̣дайакломанибаддха̄су на̄д̣ӣш̣ваш̣т̣а̄даш́а'ити па̄+] дантапарима̄н̣а̄ дантамӯлеш̣у, еках̣ ка̄калаке на̄са̄йа̄м̣ ча, ['на̄са̄йа̄м̣ пан̃ча, двау два̄вева двайорнетрайорбхаватах̣, двау вартмаман̣д̣аладжау нетра̄ш́райау'ити па̄+] двау вартмаман̣д̣аладжау нетра̄ш́райау, ган̣д̣акарн̣аш́ан̇кхеш̣векаиках̣, двау ханусандхӣ, два̄вупариш̣т̣а̄дбхрувох̣ ш́ан̇кхайош́ча, пан̃ча ш́ирах̣капа̄леш̣у, еко мӯрдхни",
+        "text_en": "The total number of joints is two hundred and ten; of these, sixty-eight are in the limbs, fifty-nine in the trunk, and eighty-three in the region from the neck upward. In each toe there are three joints, in the two big toes one each, fourteen in all; in the knee, ankle, and groin, one each, seventeen in all in one leg (the same in the other, and in each arm); in the pelvic bones, three; in the spine, twenty-four; the same number in the flanks; in the chest, eight; the same in the neck; in the throat, three; in the channels connected with the heart and lungs, eighteen; at the roots of the teeth, one for each tooth; one in the larynx and nose; two in the eyelids; one each in the cheeks, ears, and temples; two in the joints of the jaw; two above the eyebrows and temples; five in the bones of the skull; one at the crown of the head."
       },
       {
         "type": "verse",
@@ -13761,7 +14073,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "त एते सन्धयो+अष्टविधाः---कोरोलूखलसामुद्गप्रतरतुन्नसेवनीवायसतुण्डमण्डलशङ्खावर्ताः/ तेषामङ्गुलिमणिबन्धगुल्फजानुकूर्परेषु कोराः सन्धयः, कक्षावङ्क्षणदशनेषूलूखलाः, अꣳसपीठगुदभगनितम्बेषु सामुद्गाःऽअꣳसपीठगुदपादनितम्बेषुऽ इति पा+, ग्रीवापृष्ठवꣳशयोः प्रतराः, शिरःकटीकपालेषु तुन्नसेवन्यः, हनोरुभयतस्तु वायसतुण्डःऽहन्वोःऽइति पा+, कण्ठहृदयनेत्रक्लोमनाडीषु मण्डलाः, श्रोत्रशृङ्गाटकेषु शङ्खावर्ताः/ तेषाꣳ नामभिरेवाकृतयः प्रायेण व्याख्याताः [ऽतत्र कोरा नाम सन्धयो बहुवेष्टाः, उत्तानकोरगर्भेष्वस्थिप्रान्तेषु उत्सेधवतामस्थिभागानाꣳ सन्धानरूपाः/ उदूखला नाम सन्धयो+अपि बहुचेष्टाः, उदूखलवद्गभीरप्रायेष्वस्थिभागेषु इतरास्थिमुण्डसन्धानरूपाः/ तेषु हि स्वोदूखलानाश्रित्य अभितो विवर्तन्ते तानि तान्यस्थीनि, यथा---कक्षावङ्क्षणसन्धिषु/ दशनोदूखलास्तु स्थिराः सन्धयः पृथगेव मन्तव्याः/ सामुद्गा नाम समुद्गनिर्मापका इव सन्धयो+अल्पचेष्टाः/ ते च श्रोणिचक्राꣳसचक्रादिषु दृश्याः/ प्रतरा नाम प्रतरणशीलैरिव ईषच्चलैः समतलाꣳशाभ्याꣳ परस्परसꣳहितैरस्थिखण्डैर्निर्मिताः सन्धयः/ तुन्नसेवन्यो नाम---परस्परापीडनैर्दन्तुरधारादिभिर्निर्मिताः कपालान्तरालाः सन्धयः/ ते शिरःकपालेषु दृश्याः, कटिकपालेषु च प्राग्यौवनात्/ वायसतुण्डाख्यस्तु सन्धिः अधोहनुमुण्डयोः शङ्खास्थिगताभ्याꣳ हनुसन्धिस्थालकाभ्याꣳ सन्धानान्मुखव्यादानादिसम्पादकः, स तु कोरसन्धेरेव खल्लकोराख्यो भेदो युग्मरूपः, तस्य कोरग्रहणेनैव ग्रहणमिति सूक्ष्मदृशः/ मण्डलशङ्खावर्ताः पुनः क्रमात् श्वासपथकर्णशष्कुलीगतास्तरुणास्थिसन्धयःऽ(प्रत्यक्षशारीर प्र. भा. पृ. ११४-११७.)/)]",
         "text": "Суставы этого рода бывают восьми видов: кора, улукхала, самудга, пратара, тунна-севани, ваяса-тунда, мандала и шанкхаварта. Кора — суставы пальцев, запястья, лодыжки, колена и локтя; улукхала — суставы подмышки, паха и зубов; самудга — суставы плеча, заднего прохода, лобка и ягодиц; пратара — суставы шеи и позвоночника; тунна-севани — швы черепа и поясничной области; ваяса-тунда — сочленение обеих половин челюсти; мандала — суставы горла, сердца, глаз, лёгких и дыхательных путей; шанкхаварта — суставы уха и височной впадины. Названия эти по большей части соответствуют форме сочленений.",
         "iast": "ta ete sandhayo+aṣṭavidhāḥ---korolūkhalasāmudgaprataratunnasevanīvāyasatuṇḍamaṇḍalaśaṅkhāvartāḥ/ teṣāmaṅgulimaṇibandhagulphajānukūrpareṣu korāḥ sandhayaḥ, kakṣāvaṅkṣaṇadaśaneṣūlūkhalāḥ, aṁsapīṭhagudabhaganitambeṣu sāmudgāḥ'aṁsapīṭhagudapādanitambeṣu' iti pā+, grīvāpṛṣṭhavaṁśayoḥ pratarāḥ, śiraḥkaṭīkapāleṣu tunnasevanyaḥ, hanorubhayatastu vāyasatuṇḍaḥ'hanvoḥ'iti pā+, kaṇṭhahṛdayanetraklomanāḍīṣu maṇḍalāḥ, śrotraśṛṅgāṭakeṣu śaṅkhāvartāḥ/ teṣāṁ nāmabhirevākṛtayaḥ prāyeṇa vyākhyātāḥ ['tatra korā nāma sandhayo bahuveṣṭāḥ, uttānakoragarbheṣvasthiprānteṣu utsedhavatāmasthibhāgānāṁ sandhānarūpāḥ/ udūkhalā nāma sandhayo+api bahuceṣṭāḥ, udūkhalavadgabhīraprāyeṣvasthibhāgeṣu itarāsthimuṇḍasandhānarūpāḥ/ teṣu hi svodūkhalānāśritya abhito vivartante tāni tānyasthīni, yathā---kakṣāvaṅkṣaṇasandhiṣu/ daśanodūkhalāstu sthirāḥ sandhayaḥ pṛthageva mantavyāḥ/ sāmudgā nāma samudganirmāpakā iva sandhayo+alpaceṣṭāḥ/ te ca śroṇicakrāṁsacakrādiṣu dṛśyāḥ/ pratarā nāma prataraṇaśīlairiva īṣaccalaiḥ samatalāṁśābhyāṁ parasparasaṁhitairasthikhaṇḍairnirmitāḥ sandhayaḥ/ tunnasevanyo nāma---parasparāpīḍanairdanturadhārādibhirnirmitāḥ kapālāntarālāḥ sandhayaḥ/ te śiraḥkapāleṣu dṛśyāḥ, kaṭikapāleṣu ca prāgyauvanāt/ vāyasatuṇḍākhyastu sandhiḥ adhohanumuṇḍayoḥ śaṅkhāsthigatābhyāṁ hanusandhisthālakābhyāṁ sandhānānmukhavyādānādisampādakaḥ, sa tu korasandhereva khallakorākhyo bhedo yugmarūpaḥ, tasya koragrahaṇenaiva grahaṇamiti sūkṣmadṛśaḥ/ maṇḍalaśaṅkhāvartāḥ punaḥ kramāt śvāsapathakarṇaśaṣkulīgatāstaruṇāsthisandhayaḥ'(pratyakṣaśārīra pra. bhā. pṛ. 114-117.)/)]",
-        "iast_ru": "та ете сандхайо+аш̣т̣авидха̄х̣---королӯкхаласа̄мудгапратаратуннасеванӣва̄йасатун̣д̣аман̣д̣алаш́ан̇кха̄варта̄х̣/ теш̣а̄ман̇гулиман̣ибандхагулпхаджа̄нукӯрпареш̣у кора̄х̣ сандхайах̣, какш̣а̄ван̇кш̣ан̣адаш́анеш̣ӯлӯкхала̄х̣, ам̣сапӣт̣хагудабхаганитамбеш̣у са̄мудга̄х̣'ам̣сапӣт̣хагудапа̄данитамбеш̣у' ити па̄+, грӣва̄пр̣ш̣т̣хавам̣ш́айох̣ пратара̄х̣, ш́ирах̣кат̣ӣкапа̄леш̣у туннасеванйах̣, ханорубхайатасту ва̄йасатун̣д̣ах̣'ханвох̣'ити па̄+, кан̣т̣хахр̣дайанетракломана̄д̣ӣш̣у ман̣д̣ала̄х̣, ш́ротраш́р̣н̇га̄т̣акеш̣у ш́ан̇кха̄варта̄х̣/ теш̣а̄м̣ на̄мабхирева̄кр̣тайах̣ пра̄йен̣а вйа̄кхйа̄та̄х̣ ['татра кора̄ на̄ма сандхайо бахувеш̣т̣а̄х̣, утта̄накорагарбхеш̣вастхипра̄нтеш̣у утседхавата̄мастхибха̄га̄на̄м̣ сандха̄нарӯпа̄х̣/ удӯкхала̄ на̄ма сандхайо+апи бахучеш̣т̣а̄х̣, удӯкхалавадгабхӣрапра̄йеш̣вастхибха̄геш̣у итара̄стхимун̣д̣асандха̄нарӯпа̄х̣/ теш̣у хи сводӯкхала̄на̄ш́ритйа абхито вивартанте та̄ни та̄нйастхӣни, йатха̄---какш̣а̄ван̇кш̣ан̣асандхиш̣у/ даш́анодӯкхала̄сту стхира̄х̣ сандхайах̣ пр̣тхагева мантавйа̄х̣/ са̄мудга̄ на̄ма самудганирма̄пака̄ ива сандхайо+алпачеш̣т̣а̄х̣/ те ча ш́рон̣ичакра̄м̣сачакра̄диш̣у др̣ш́йа̄х̣/ пратара̄ на̄ма пратаран̣аш́ӣлаирива ӣш̣аччалаих̣ саматала̄м̣ш́а̄бхйа̄м̣ параспарасам̣хитаирастхикхан̣д̣аирнирмита̄х̣ сандхайах̣/ туннасеванйо на̄ма---параспара̄пӣд̣анаирдантурадха̄ра̄дибхирнирмита̄х̣ капа̄ла̄нтара̄ла̄х̣ сандхайах̣/ те ш́ирах̣капа̄леш̣у др̣ш́йа̄х̣, кат̣икапа̄леш̣у ча пра̄гйаувана̄т/ ва̄йасатун̣д̣а̄кхйасту сандхих̣ адхоханумун̣д̣айох̣ ш́ан̇кха̄стхигата̄бхйа̄м̣ ханусандхистха̄лака̄бхйа̄м̣ сандха̄на̄нмукхавйа̄да̄на̄дисампа̄даках̣, са ту корасандхерева кхаллакора̄кхйо бхедо йугмарӯпах̣, тасйа кораграхан̣енаива грахан̣амити сӯкш̣мадр̣ш́ах̣/ ман̣д̣алаш́ан̇кха̄варта̄х̣ пунах̣ крама̄т ш́ва̄сапатхакарн̣аш́аш̣кулӣгата̄старун̣а̄стхисандхайах̣'(пратйакш̣аш́а̄рӣра пра. бха̄. пр̣. 114-117.)/)]"
+        "iast_ru": "та ете сандхайо+аш̣т̣авидха̄х̣---королӯкхаласа̄мудгапратаратуннасеванӣва̄йасатун̣д̣аман̣д̣алаш́ан̇кха̄варта̄х̣/ теш̣а̄ман̇гулиман̣ибандхагулпхаджа̄нукӯрпареш̣у кора̄х̣ сандхайах̣, какш̣а̄ван̇кш̣ан̣адаш́анеш̣ӯлӯкхала̄х̣, ам̣сапӣт̣хагудабхаганитамбеш̣у са̄мудга̄х̣'ам̣сапӣт̣хагудапа̄данитамбеш̣у' ити па̄+, грӣва̄пр̣ш̣т̣хавам̣ш́айох̣ пратара̄х̣, ш́ирах̣кат̣ӣкапа̄леш̣у туннасеванйах̣, ханорубхайатасту ва̄йасатун̣д̣ах̣'ханвох̣'ити па̄+, кан̣т̣хахр̣дайанетракломана̄д̣ӣш̣у ман̣д̣ала̄х̣, ш́ротраш́р̣н̇га̄т̣акеш̣у ш́ан̇кха̄варта̄х̣/ теш̣а̄м̣ на̄мабхирева̄кр̣тайах̣ пра̄йен̣а вйа̄кхйа̄та̄х̣ ['татра кора̄ на̄ма сандхайо бахувеш̣т̣а̄х̣, утта̄накорагарбхеш̣вастхипра̄нтеш̣у утседхавата̄мастхибха̄га̄на̄м̣ сандха̄нарӯпа̄х̣/ удӯкхала̄ на̄ма сандхайо+апи бахучеш̣т̣а̄х̣, удӯкхалавадгабхӣрапра̄йеш̣вастхибха̄геш̣у итара̄стхимун̣д̣асандха̄нарӯпа̄х̣/ теш̣у хи сводӯкхала̄на̄ш́ритйа абхито вивартанте та̄ни та̄нйастхӣни, йатха̄---какш̣а̄ван̇кш̣ан̣асандхиш̣у/ даш́анодӯкхала̄сту стхира̄х̣ сандхайах̣ пр̣тхагева мантавйа̄х̣/ са̄мудга̄ на̄ма самудганирма̄пака̄ ива сандхайо+алпачеш̣т̣а̄х̣/ те ча ш́рон̣ичакра̄м̣сачакра̄диш̣у др̣ш́йа̄х̣/ пратара̄ на̄ма пратаран̣аш́ӣлаирива ӣш̣аччалаих̣ саматала̄м̣ш́а̄бхйа̄м̣ параспарасам̣хитаирастхикхан̣д̣аирнирмита̄х̣ сандхайах̣/ туннасеванйо на̄ма---параспара̄пӣд̣анаирдантурадха̄ра̄дибхирнирмита̄х̣ капа̄ла̄нтара̄ла̄х̣ сандхайах̣/ те ш́ирах̣капа̄леш̣у др̣ш́йа̄х̣, кат̣икапа̄леш̣у ча пра̄гйаувана̄т/ ва̄йасатун̣д̣а̄кхйасту сандхих̣ адхоханумун̣д̣айох̣ ш́ан̇кха̄стхигата̄бхйа̄м̣ ханусандхистха̄лака̄бхйа̄м̣ сандха̄на̄нмукхавйа̄да̄на̄дисампа̄даках̣, са ту корасандхерева кхаллакора̄кхйо бхедо йугмарӯпах̣, тасйа кораграхан̣енаива грахан̣амити сӯкш̣мадр̣ш́ах̣/ ман̣д̣алаш́ан̇кха̄варта̄х̣ пунах̣ крама̄т ш́ва̄сапатхакарн̣аш́аш̣кулӣгата̄старун̣а̄стхисандхайах̣'(пратйакш̣аш́а̄рӣра пра. бха̄. пр̣. 114-117.)/)]",
+        "text_en": "Joints of this kind are of eight varieties: kora, ulukhala, samudga, pratara, tunna-sevani, vayasa-tunda, mandala, and shankhavarta. Kora are the joints of the fingers and toes, the wrist, the ankle, the knee, and the elbow; ulukhala are the joints of the armpit, the groin, and the teeth; samudga are the joints of the shoulder, the anus, the pubis, and the buttocks; pratara are the joints of the neck and the spine; tunna-sevani are the sutures of the skull and of the lumbar region; vayasa-tunda is the junction of the two halves of the jaw; mandala are the joints of the throat, the heart, the eyes, the lungs, and the respiratory passages; shankhavarta are the joints of the ear and the temporal cavity. These names for the most part correspond to the shape of the joints."
       },
       {
         "type": "verse",
@@ -13769,7 +14082,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अस्थ्नाꣳ तु सन्धयो ह्येते केवलाः परिकीर्तिताः पेशीस्नायुसिराणाꣳ तु सन्धिसङ्ख्या न विद्यते",
         "text": "Здесь перечислены только костные суставы; для мышц же, связок и вен число сочленений не установлено.",
         "iast": "asthnāṁ tu sandhayo hyete kevalāḥ parikīrtitāḥ peśīsnāyusirāṇāṁ tu sandhisaṅkhyā na vidyate",
-        "iast_ru": "астхна̄м̣ ту сандхайо хйете кевала̄х̣ парикӣртита̄х̣ пеш́ӣсна̄йусира̄н̣а̄м̣ ту сандхисан̇кхйа̄ на видйате"
+        "iast_ru": "астхна̄м̣ ту сандхайо хйете кевала̄х̣ парикӣртита̄х̣ пеш́ӣсна̄йусира̄н̣а̄м̣ ту сандхисан̇кхйа̄ на видйате",
+        "text_en": "Here only the bony joints have been enumerated; for the muscles, ligaments, and veins the number of junctions has not been established."
       },
       {
         "type": "verse",
@@ -13777,7 +14091,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "नव स्नायुशतानि/ तासाꣳ शाखासु षट्शतानि, द्वे शते त्रिꣳशच्च कोष्ठे, ग्रीवाꣳ प्रत्यूर्ध्वꣳ सप्ततिः/ एकैकस्याꣳ तु पादाङ्गुल्याꣳ षट्ऽषट् षट्ऽ इति पा+ निचिताः, तास्त्रिꣳशत्, तावत्य एव तलकूर्चगुल्फेषु, तावत्य एव जङ्घायाꣳ, दश जानुनि, चत्वारिꣳशदूरौ, दश वङ्क्षणे, शतमध्यर्धमेवमेकस्मिन् सक्थ्नि भवन्ति, एतेनेतरसक्थि बाहू च व्याख्यातौ; षष्टिः कट्याꣳ, पृष्टे+अशीतिः, पार्श्वयोः षष्टिः, उरसि त्रिꣳशत्; षट्त्रिꣳशद्ग्रीवायाꣳ, मूर्ध्नि चतुस्त्रिꣳशत्; एवꣳ नव स्नायुशतानि व्याख्यातानि (भवन्ति)[अस्याग्रे+अमहास्नायोस्तु कण्डरेति सꣳज्ञाऽइत्यधिकꣳ पठ्यते क्वचित्पुस्तके]",
         "text": "Связок (снайю) насчитывается девятьсот: шестьсот — в конечностях, двести тридцать — в туловище, семьдесят — в области выше шеи. В каждом пальце ноги — по шесть, всего тридцать; столько же в своде стопы и лодыжке; столько же в голени; десять — в колене; сорок — в бедре; десять — в паху: всего сто пятьдесят в одной ноге (столько же в другой ноге и в каждой руке); шестьдесят — в пояснице; восемьдесят — в спине; шестьдесят — в боках; тридцать — в груди; тридцать шесть — в шее; тридцать четыре — в голове. Так объяснены девятьсот связок.",
         "iast": "nava snāyuśatāni/ tāsāṁ śākhāsu ṣaṭśatāni, dve śate triṁśacca koṣṭhe, grīvāṁ pratyūrdhvaṁ saptatiḥ/ ekaikasyāṁ tu pādāṅgulyāṁ ṣaṭ'ṣaṭ ṣaṭ' iti pā+ nicitāḥ, tāstriṁśat, tāvatya eva talakūrcagulpheṣu, tāvatya eva jaṅghāyāṁ, daśa jānuni, catvāriṁśadūrau, daśa vaṅkṣaṇe, śatamadhyardhamevamekasmin sakthni bhavanti, etenetarasakthi bāhū ca vyākhyātau; ṣaṣṭiḥ kaṭyāṁ, pṛṣṭe+aśītiḥ, pārśvayoḥ ṣaṣṭiḥ, urasi triṁśat; ṣaṭtriṁśadgrīvāyāṁ, mūrdhni catustriṁśat; evaṁ nava snāyuśatāni vyākhyātāni (bhavanti)[asyāgre+amahāsnāyostu kaṇḍareti saṁjñā'ityadhikaṁ paṭhyate kvacitpustake]",
-        "iast_ru": "нава сна̄йуш́ата̄ни/ та̄са̄м̣ ш́а̄кха̄су ш̣ат̣ш́ата̄ни, две ш́ате трим̣ш́ачча кош̣т̣хе, грӣва̄м̣ пратйӯрдхвам̣ саптатих̣/ екаикасйа̄м̣ ту па̄да̄н̇гулйа̄м̣ ш̣ат̣'ш̣ат̣ ш̣ат̣' ити па̄+ ничита̄х̣, та̄стрим̣ш́ат, та̄ватйа ева талакӯрчагулпхеш̣у, та̄ватйа ева джан̇гха̄йа̄м̣, даш́а джа̄нуни, чатва̄рим̣ш́адӯрау, даш́а ван̇кш̣ан̣е, ш́атамадхйардхамевамекасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; ш̣аш̣т̣их̣ кат̣йа̄м̣, пр̣ш̣т̣е+аш́ӣтих̣, па̄рш́вайох̣ ш̣аш̣т̣их̣, ураси трим̣ш́ат; ш̣ат̣трим̣ш́адгрӣва̄йа̄м̣, мӯрдхни чатустрим̣ш́ат; евам̣ нава сна̄йуш́ата̄ни вйа̄кхйа̄та̄ни (бхаванти)[асйа̄гре+амаха̄сна̄йосту кан̣д̣арети сам̣джн̃а̄'итйадхикам̣ пат̣хйате квачитпустаке]"
+        "iast_ru": "нава сна̄йуш́ата̄ни/ та̄са̄м̣ ш́а̄кха̄су ш̣ат̣ш́ата̄ни, две ш́ате трим̣ш́ачча кош̣т̣хе, грӣва̄м̣ пратйӯрдхвам̣ саптатих̣/ екаикасйа̄м̣ ту па̄да̄н̇гулйа̄м̣ ш̣ат̣'ш̣ат̣ ш̣ат̣' ити па̄+ ничита̄х̣, та̄стрим̣ш́ат, та̄ватйа ева талакӯрчагулпхеш̣у, та̄ватйа ева джан̇гха̄йа̄м̣, даш́а джа̄нуни, чатва̄рим̣ш́адӯрау, даш́а ван̇кш̣ан̣е, ш́атамадхйардхамевамекасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; ш̣аш̣т̣их̣ кат̣йа̄м̣, пр̣ш̣т̣е+аш́ӣтих̣, па̄рш́вайох̣ ш̣аш̣т̣их̣, ураси трим̣ш́ат; ш̣ат̣трим̣ш́адгрӣва̄йа̄м̣, мӯрдхни чатустрим̣ш́ат; евам̣ нава сна̄йуш́ата̄ни вйа̄кхйа̄та̄ни (бхаванти)[асйа̄гре+амаха̄сна̄йосту кан̣д̣арети сам̣джн̃а̄'итйадхикам̣ пат̣хйате квачитпустаке]",
+        "text_en": "The ligaments (snayu) are reckoned at nine hundred: six hundred in the limbs, two hundred and thirty in the trunk, seventy in the region above the neck. In each toe there are six, thirty in all; the same number in the arch of the foot and the ankle; the same number in the shin; ten in the knee; forty in the thigh; ten in the groin: in all one hundred and fifty in one leg (the same in the other leg and in each arm); sixty in the lower back; eighty in the back; sixty in the flanks; thirty in the chest; thirty-six in the neck; thirty-four in the head. Thus are the nine hundred ligaments explained."
       },
       {
         "type": "verse",
@@ -13785,7 +14100,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र / स्नायूश्चतुर्विधा विद्यात्तास्तु सर्वा निबोध मे प्रतानवत्यो वृत्ताश्च पृथ्व्यश्च शुषिरास्तथा",
         "text": "И об этом сказано: знай, что связки бывают четырёх видов — выслушай о них: разветвлённые (пратанавати), круглые (вритта), широкие (притху) и полые (сушира).",
         "iast": "bhavanti cātra / snāyūścaturvidhā vidyāttāstu sarvā nibodha me pratānavatyo vṛttāśca pṛthvyaśca śuṣirāstathā",
-        "iast_ru": "бхаванти ча̄тра / сна̄йӯш́чатурвидха̄ видйа̄тта̄сту сарва̄ нибодха ме прата̄наватйо вр̣тта̄ш́ча пр̣тхвйаш́ча ш́уш̣ира̄статха̄"
+        "iast_ru": "бхаванти ча̄тра / сна̄йӯш́чатурвидха̄ видйа̄тта̄сту сарва̄ нибодха ме прата̄наватйо вр̣тта̄ш́ча пр̣тхвйаш́ча ш́уш̣ира̄статха̄",
+        "text_en": "And of this it is said: know that ligaments are of four kinds, hear of them: branching (pratanavati), round (vritta), broad (prithu), and hollow (sushira)."
       },
       {
         "type": "verse",
@@ -13793,7 +14109,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्रतानवत्यः शाखासु सर्वसन्धिषु चाप्यथ वृत्तास्तु कण्डराः सर्वा बिज्ञेयाः कुशलैरिह",
         "text": "Разветвлённые связки находятся в конечностях и во всех суставах; круглыми же следует считать все кандары (сухожильные тяжи), как учат знающие.",
         "iast": "pratānavatyaḥ śākhāsu sarvasandhiṣu cāpyatha vṛttāstu kaṇḍarāḥ sarvā bijñeyāḥ kuśalairiha",
-        "iast_ru": "прата̄наватйах̣ ш́а̄кха̄су сарвасандхиш̣у ча̄пйатха вр̣тта̄сту кан̣д̣ара̄х̣ сарва̄ биджн̃ейа̄х̣ куш́алаириха"
+        "iast_ru": "прата̄наватйах̣ ш́а̄кха̄су сарвасандхиш̣у ча̄пйатха вр̣тта̄сту кан̣д̣ара̄х̣ сарва̄ биджн̃ейа̄х̣ куш́алаириха",
+        "text_en": "The branching ligaments are found in the limbs and in all the joints; the round ones should be reckoned as all the kandaras (sinewy cords), as the learned teach."
       },
       {
         "type": "verse",
@@ -13801,7 +14118,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आमपक्वाशयान्तेषु बस्तौ च शुषिराः खलु पार्श्वोरसि तथा पृथुलाश्च शिरस्यथ",
         "text": "Полые связки находятся в области амашаи, паквашаи и мочевого пузыря; широкие же — в боках, груди и голове.",
         "iast": "āmapakvāśayānteṣu bastau ca śuṣirāḥ khalu pārśvorasi tathā pṛthulāśca śirasyatha",
-        "iast_ru": "а̄мапаква̄ш́айа̄нтеш̣у бастау ча ш́уш̣ира̄х̣ кхалу па̄рш́вораси татха̄ пр̣тхула̄ш́ча ш́ирасйатха"
+        "iast_ru": "а̄мапаква̄ш́айа̄нтеш̣у бастау ча ш́уш̣ира̄х̣ кхалу па̄рш́вораси татха̄ пр̣тхула̄ш́ча ш́ирасйатха",
+        "text_en": "The hollow ligaments are found in the region of the amashaya, the pakvashaya, and the bladder; the broad ones, in the flanks, the chest, and the head."
       },
       {
         "type": "verse",
@@ -13809,7 +14127,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "नौर्यथा फलकास्तीर्णा बन्धनैर्बहुभिर्युता भारक्षमा भवेदप्सु नृयुक्ता सुसमाहिता",
         "text": "Подобно тому как ладья, сколоченная из досок множеством скреп, надёжно держится на воде и несёт седоков и груз...",
         "iast": "nauryathā phalakāstīrṇā bandhanairbahubhiryutā bhārakṣamā bhavedapsu nṛyuktā susamāhitā",
-        "iast_ru": "наурйатха̄ пхалака̄стӣрн̣а̄ бандханаирбахубхирйута̄ бха̄ракш̣ама̄ бхаведапсу нр̣йукта̄ сусама̄хита̄"
+        "iast_ru": "наурйатха̄ пхалака̄стӣрн̣а̄ бандханаирбахубхирйута̄ бха̄ракш̣ама̄ бхаведапсу нр̣йукта̄ сусама̄хита̄",
+        "text_en": "Just as a boat, joined together from planks by numerous fastenings, holds firm upon the water and bears its passengers and cargo..."
       },
       {
         "type": "verse",
@@ -13817,7 +14136,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एवमेव शरीरे+अस्मिन् यावन्तः सन्धयः स्मृताः/ स्नायुभिर्बहुभिर्बद्धास्तेन भारसहा नराः",
         "text": "...так и в этом теле все известные суставы, скреплённые множеством связок, делают человека способным выносить нагрузку.",
         "iast": "evameva śarīre+asmin yāvantaḥ sandhayaḥ smṛtāḥ/ snāyubhirbahubhirbaddhāstena bhārasahā narāḥ",
-        "iast_ru": "евамева ш́арӣре+асмин йа̄вантах̣ сандхайах̣ смр̣та̄х̣/ сна̄йубхирбахубхирбаддха̄стена бха̄расаха̄ нара̄х̣"
+        "iast_ru": "евамева ш́арӣре+асмин йа̄вантах̣ сандхайах̣ смр̣та̄х̣/ сна̄йубхирбахубхирбаддха̄стена бха̄расаха̄ нара̄х̣",
+        "text_en": "...so too in this body, all the well-known joints, held together by numerous ligaments, render a person capable of bearing weight."
       },
       {
         "type": "verse",
@@ -13825,7 +14145,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "न ह्यस्थीनि न वा पेश्यो न सिरा न च सन्धयः व्यापादितास्तथा हन्युर्यथा स्नायुः शरीरिणम्",
         "text": "Ни повреждение костей, ни мышц, ни вен, ни суставов не губит человека так, как повреждение связки.",
         "iast": "na hyasthīni na vā peśyo na sirā na ca sandhayaḥ vyāpāditāstathā hanyuryathā snāyuḥ śarīriṇam",
-        "iast_ru": "на хйастхӣни на ва̄ пеш́йо на сира̄ на ча сандхайах̣ вйа̄па̄дита̄статха̄ ханйурйатха̄ сна̄йух̣ ш́арӣрин̣ам"
+        "iast_ru": "на хйастхӣни на ва̄ пеш́йо на сира̄ на ча сандхайах̣ вйа̄па̄дита̄статха̄ ханйурйатха̄ сна̄йух̣ ш́арӣрин̣ам",
+        "text_en": "Neither injury to the bones, nor to the muscles, nor to the veins, nor to the joints destroys a person as does injury to a ligament."
       },
       {
         "type": "verse",
@@ -13833,7 +14154,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यः स्नायूः प्रविजानाति बाह्याश्चाभ्यन्तरास्तथा स गूढꣳ शल्यमाहर्तुꣳ देहाच्छक्नोति देहिनाम्",
         "text": "Только тот, кто знает связки — наружные и внутренние, — способен извлечь из тела скрытое инородное тело (шалью).",
         "iast": "yaḥ snāyūḥ pravijānāti bāhyāścābhyantarāstathā sa gūḍhaṁ śalyamāhartuṁ dehācchaknoti dehinām",
-        "iast_ru": "йах̣ сна̄йӯх̣ правиджа̄на̄ти ба̄хйа̄ш́ча̄бхйантара̄статха̄ са гӯд̣хам̣ ш́алйама̄хартум̣ деха̄ччхакноти дехина̄м"
+        "iast_ru": "йах̣ сна̄йӯх̣ правиджа̄на̄ти ба̄хйа̄ш́ча̄бхйантара̄статха̄ са гӯд̣хам̣ ш́алйама̄хартум̣ деха̄ччхакноти дехина̄м",
+        "text_en": "Only one who knows the ligaments, both external and internal, is capable of extracting a hidden foreign body (shalya) from within the body."
       },
       {
         "type": "verse",
@@ -13841,7 +14163,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "पञ्च पेशीशतानि भवन्ति/ तासाꣳ चत्वारि शतानि शाखासु, कोष्ठे षट्षष्टिः, ग्रीवाꣳ प्रत्यूर्ध्वꣳ चतुस्त्रिꣳशत्/ एकैकस्याꣳ तु पादाङ्गुल्याꣳ तिस्रस्तिस्रस्ताः पञ्चदश, दश प्रपदे, पादोपरि कूर्चसन्निविष्टास्तावत्य एव, दश गुल्फतलयोः, गुल्फजान्वन्तरे विꣳशतिः, वञ्च जानुनि, विꣳशतिरूरौ, दश वङ्क्षणे, शतमेवमेकस्मिन् सक्थ्नि भवन्ति, एतेनेतरसक्थि बाहू च व्याख्यातौ; तिस्रः पायौ, एका मेढ्रे, सेवन्याꣳ चापरा, द्वे वृषणयोः, स्फिचोः पञ्च पञ्च, द्वे बस्तिशिरसि, पञ्चोदरे, नाभ्यामेका, पृष्ठोर्ध्वसन्निविष्टाः पञ्च पञ्च दीर्घाः, षट् पार्श्वयोः, दश वक्षसि, अक्षकाꣳसौ प्रति समन्तात् सप्त, द्वे हृदयामाशययोः, षट् यकृत्प्लीहोण्डुकेषु; ग्रीवायाꣳ चतस्रः, अष्टौ हन्वोःऽहनुसमाख्येऽइति हाराणचन्द्रसꣳमतः पाठः, एकैका काकलकगलयोः, द्वे तालुनि, एका जिह्वायाꣳऽजिह्वायाꣳ द्वेऽइति पा+, ओष्ठयोर्द्वे, नासायाꣳ द्वे, द्वे नेत्रयोःऽचतस्रो नेत्रयोःऽइति पा+, गण्डयोश्चतस्रः, कर्णयोर्द्वे, चतस्रो ललाटे, एका शिरसीति[ऽषट् शिरसिऽइति पा+]; एवमेतानि पञ्च पेशीशतानि",
         "text": "Мышц (пеши) насчитывается пятьсот: четыреста — в конечностях, шестьдесят шесть — в туловище, тридцать четыре — в области выше шеи. В каждом пальце ноги — по три, всего пятнадцать; десять — в подъёме стопы; столько же около курчи; десять — в своде стопы и лодыжке; двадцать — между лодыжкой и коленом; столько же в колене; двадцать — в бедре; десять — в паху: сто в одной ноге (столько же в другой и в каждой руке); три — в заднем проходе; одна — в половом органе; одна — в шве промежности; две — в яичках; по пять — в каждой ягодице; две — у основания мочевого пузыря; пять — в животе; одна — у пупка; по пять с каждой стороны вдоль спины; шесть — в боках; десять — в груди; семь — вокруг каждой ключицы; две — в сердце и желудке; шесть — в печени, селезёнке и слепой кишке; четыре — в шее; восемь — в челюстях; по одной — в гортани и глотке; две — в нёбе; одна — в языке; по две — в губах; две — в носу; две — в глазах; четыре — в щеках; две — в ушах; четыре — на лбу; одна — на макушке. Так составляется пятьсот мышц.",
         "iast": "pañca peśīśatāni bhavanti/ tāsāṁ catvāri śatāni śākhāsu, koṣṭhe ṣaṭṣaṣṭiḥ, grīvāṁ pratyūrdhvaṁ catustriṁśat/ ekaikasyāṁ tu pādāṅgulyāṁ tisrastisrastāḥ pañcadaśa, daśa prapade, pādopari kūrcasanniviṣṭāstāvatya eva, daśa gulphatalayoḥ, gulphajānvantare viṁśatiḥ, vañca jānuni, viṁśatirūrau, daśa vaṅkṣaṇe, śatamevamekasmin sakthni bhavanti, etenetarasakthi bāhū ca vyākhyātau; tisraḥ pāyau, ekā meḍhre, sevanyāṁ cāparā, dve vṛṣaṇayoḥ, sphicoḥ pañca pañca, dve bastiśirasi, pañcodare, nābhyāmekā, pṛṣṭhordhvasanniviṣṭāḥ pañca pañca dīrghāḥ, ṣaṭ pārśvayoḥ, daśa vakṣasi, akṣakāṁsau prati samantāt sapta, dve hṛdayāmāśayayoḥ, ṣaṭ yakṛtplīhoṇḍukeṣu; grīvāyāṁ catasraḥ, aṣṭau hanvoḥ'hanusamākhye'iti hārāṇacandrasaṁmataḥ pāṭhaḥ, ekaikā kākalakagalayoḥ, dve tāluni, ekā jihvāyāṁ'jihvāyāṁ dve'iti pā+, oṣṭhayordve, nāsāyāṁ dve, dve netrayoḥ'catasro netrayoḥ'iti pā+, gaṇḍayoścatasraḥ, karṇayordve, catasro lalāṭe, ekā śirasīti['ṣaṭ śirasi'iti pā+]; evametāni pañca peśīśatāni",
-        "iast_ru": "пан̃ча пеш́ӣш́ата̄ни бхаванти/ та̄са̄м̣ чатва̄ри ш́ата̄ни ш́а̄кха̄су, кош̣т̣хе ш̣ат̣ш̣аш̣т̣их̣, грӣва̄м̣ пратйӯрдхвам̣ чатустрим̣ш́ат/ екаикасйа̄м̣ ту па̄да̄н̇гулйа̄м̣ тисрастисраста̄х̣ пан̃чадаш́а, даш́а прападе, па̄допари кӯрчасаннивиш̣т̣а̄ста̄ватйа ева, даш́а гулпхаталайох̣, гулпхаджа̄нвантаре вим̣ш́атих̣, ван̃ча джа̄нуни, вим̣ш́атирӯрау, даш́а ван̇кш̣ан̣е, ш́атамевамекасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; тисрах̣ па̄йау, ека̄ мед̣хре, севанйа̄м̣ ча̄пара̄, две вр̣ш̣ан̣айох̣, спхичох̣ пан̃ча пан̃ча, две бастиш́ираси, пан̃чодаре, на̄бхйа̄мека̄, пр̣ш̣т̣хордхвасаннивиш̣т̣а̄х̣ пан̃ча пан̃ча дӣргха̄х̣, ш̣ат̣ па̄рш́вайох̣, даш́а вакш̣аси, акш̣ака̄м̣сау прати саманта̄т сапта, две хр̣дайа̄ма̄ш́айайох̣, ш̣ат̣ йакр̣тплӣхон̣д̣укеш̣у; грӣва̄йа̄м̣ чатасрах̣, аш̣т̣ау ханвох̣'ханусама̄кхйе'ити ха̄ра̄н̣ачандрасам̣матах̣ па̄т̣хах̣, екаика̄ ка̄калакагалайох̣, две та̄луни, ека̄ джихва̄йа̄м̣'джихва̄йа̄м̣ две'ити па̄+, ош̣т̣хайордве, на̄са̄йа̄м̣ две, две нетрайох̣'чатасро нетрайох̣'ити па̄+, ган̣д̣айош́чатасрах̣, карн̣айордве, чатасро лала̄т̣е, ека̄ ш́ирасӣти['ш̣ат̣ ш́ираси'ити па̄+]; евамета̄ни пан̃ча пеш́ӣш́ата̄ни"
+        "iast_ru": "пан̃ча пеш́ӣш́ата̄ни бхаванти/ та̄са̄м̣ чатва̄ри ш́ата̄ни ш́а̄кха̄су, кош̣т̣хе ш̣ат̣ш̣аш̣т̣их̣, грӣва̄м̣ пратйӯрдхвам̣ чатустрим̣ш́ат/ екаикасйа̄м̣ ту па̄да̄н̇гулйа̄м̣ тисрастисраста̄х̣ пан̃чадаш́а, даш́а прападе, па̄допари кӯрчасаннивиш̣т̣а̄ста̄ватйа ева, даш́а гулпхаталайох̣, гулпхаджа̄нвантаре вим̣ш́атих̣, ван̃ча джа̄нуни, вим̣ш́атирӯрау, даш́а ван̇кш̣ан̣е, ш́атамевамекасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; тисрах̣ па̄йау, ека̄ мед̣хре, севанйа̄м̣ ча̄пара̄, две вр̣ш̣ан̣айох̣, спхичох̣ пан̃ча пан̃ча, две бастиш́ираси, пан̃чодаре, на̄бхйа̄мека̄, пр̣ш̣т̣хордхвасаннивиш̣т̣а̄х̣ пан̃ча пан̃ча дӣргха̄х̣, ш̣ат̣ па̄рш́вайох̣, даш́а вакш̣аси, акш̣ака̄м̣сау прати саманта̄т сапта, две хр̣дайа̄ма̄ш́айайох̣, ш̣ат̣ йакр̣тплӣхон̣д̣укеш̣у; грӣва̄йа̄м̣ чатасрах̣, аш̣т̣ау ханвох̣'ханусама̄кхйе'ити ха̄ра̄н̣ачандрасам̣матах̣ па̄т̣хах̣, екаика̄ ка̄калакагалайох̣, две та̄луни, ека̄ джихва̄йа̄м̣'джихва̄йа̄м̣ две'ити па̄+, ош̣т̣хайордве, на̄са̄йа̄м̣ две, две нетрайох̣'чатасро нетрайох̣'ити па̄+, ган̣д̣айош́чатасрах̣, карн̣айордве, чатасро лала̄т̣е, ека̄ ш́ирасӣти['ш̣ат̣ ш́ираси'ити па̄+]; евамета̄ни пан̃ча пеш́ӣш́ата̄ни",
+        "text_en": "The muscles (peshi) are reckoned at five hundred: four hundred in the limbs, sixty-six in the trunk, thirty-four in the region above the neck. In each toe there are three, fifteen in all; ten in the instep; the same number near the kurcha; ten in the arch of the foot and the ankle; twenty between the ankle and the knee; the same number in the knee; twenty in the thigh; ten in the groin: one hundred in one leg (the same in the other and in each arm); three in the anus; one in the genital organ; one in the perineal seam; two in the testicles; five in each buttock; two at the base of the bladder; five in the belly; one at the navel; five on each side along the back; six in the flanks; ten in the chest; seven around each collarbone; two in the heart and stomach; six in the liver, spleen, and caecum; four in the neck; eight in the jaws; one each in the larynx and pharynx; two in the palate; one in the tongue; two in the lips; two in the nose; two in the eyes; four in the cheeks; two in the ears; four in the forehead; one at the crown of the head. Thus is the total of five hundred muscles arrived at."
       },
       {
         "type": "verse",
@@ -13849,7 +14172,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ सिरास्नाय्वस्थिपर्वाणि सन्धयश्च शरीरिणाम् पेशीभिः सꣳवृतान्यत्र बलवन्ति भवन्त्यतः",
         "text": "И об этом сказано: вены, связки, кости, их сочленения и суставы тела там, где они покрыты мышцами, обретают особую крепость.",
         "iast": "bhavati cātra/ sirāsnāyvasthiparvāṇi sandhayaśca śarīriṇām peśībhiḥ saṁvṛtānyatra balavanti bhavantyataḥ",
-        "iast_ru": "бхавати ча̄тра/ сира̄сна̄йвастхипарва̄н̣и сандхайаш́ча ш́арӣрин̣а̄м пеш́ӣбхих̣ сам̣вр̣та̄нйатра балаванти бхавантйатах̣"
+        "iast_ru": "бхавати ча̄тра/ сира̄сна̄йвастхипарва̄н̣и сандхайаш́ча ш́арӣрин̣а̄м пеш́ӣбхих̣ сам̣вр̣та̄нйатра балаванти бхавантйатах̣",
+        "text_en": "And of this it is said: the veins, ligaments, bones, their junctions and the joints of the body, in the places where they are covered by muscle, acquire a special firmness."
       },
       {
         "type": "verse",
@@ -13857,7 +14181,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्त्रीणाꣳ तु विꣳशतिरधिका/ दश तासाꣳ स्तनयोरेकैकस्मिन् पञ्च पञ्चेति, यौवने तासाꣳ परिवृद्धिः; अपत्यपथेऽभगापत्यपथेऽइति पा+ चतस्रः---तासाꣳ प्रसृते+अभ्यन्तरतो द्वे, मुखाश्रिते बाह्ये च वृत्ते द्वे, गर्भच्छिद्रसꣳश्रितास्तिस्रः, शुक्रार्तवप्रवेशिन्यस्तिस्र एवऽशुक्रार्तवप्रवेशिन्यो गर्भाशये तिस्र एवऽइति पा+/ पित्तक्वाशययोर्मध्ये गर्भशय्या, यत्र गर्भस्तिष्ठति [ऽअत्र+अबस्तिपक्वाशयमध्ये गर्भाशयःऽइति पाठे भवितुमर्हति,+अशरीरे तथैव दर्शनादन्यथा प्रत्यक्षविरोधाच्चऽ इति प्रत्यक्षशारीरोपोद्धाते(पृ. ७२) गणनाथसेनः/]",
         "text": "У женщин же на двадцать мышц больше: десять в грудях — по пять в каждой, — которые увеличиваются в период созревания; и четыре — в родовых путях, из которых две находятся внутри в расширяющейся части, две — округлые, обращённые наружу у входа, а также три, связанные с отверстием, ведущим к зародышу, через которые входят семя и менструальная кровь. Между питтвашаей и паквашаей расположено ложе зародыша (гарбхашая), где помещается плод.",
         "iast": "strīṇāṁ tu viṁśatiradhikā/ daśa tāsāṁ stanayorekaikasmin pañca pañceti, yauvane tāsāṁ parivṛddhiḥ; apatyapathe'bhagāpatyapathe'iti pā+ catasraḥ---tāsāṁ prasṛte+abhyantarato dve, mukhāśrite bāhye ca vṛtte dve, garbhacchidrasaṁśritāstisraḥ, śukrārtavapraveśinyastisra eva'śukrārtavapraveśinyo garbhāśaye tisra eva'iti pā+/ pittakvāśayayormadhye garbhaśayyā, yatra garbhastiṣṭhati ['atra+abastipakvāśayamadhye garbhāśayaḥ'iti pāṭhe bhavitumarhati,+aśarīre tathaiva darśanādanyathā pratyakṣavirodhācca' iti pratyakṣaśārīropoddhāte(pṛ. 72) gaṇanāthasenaḥ/]",
-        "iast_ru": "стрӣн̣а̄м̣ ту вим̣ш́атирадхика̄/ даш́а та̄са̄м̣ станайорекаикасмин пан̃ча пан̃чети, йауване та̄са̄м̣ паривр̣ддхих̣; апатйапатхе'бхага̄патйапатхе'ити па̄+ чатасрах̣---та̄са̄м̣ праср̣те+абхйантарато две, мукха̄ш́рите ба̄хйе ча вр̣тте две, гарбхаччхидрасам̣ш́рита̄стисрах̣, ш́укра̄ртаваправеш́инйастисра ева'ш́укра̄ртаваправеш́инйо гарбха̄ш́айе тисра ева'ити па̄+/ питтаква̄ш́айайормадхйе гарбхаш́аййа̄, йатра гарбхастиш̣т̣хати ['атра+абастипаква̄ш́айамадхйе гарбха̄ш́айах̣'ити па̄т̣хе бхавитумархати,+аш́арӣре татхаива дарш́ана̄данйатха̄ пратйакш̣авиродха̄чча' ити пратйакш̣аш́а̄рӣроподдха̄те(пр̣. 72) ган̣ана̄тхасенах̣/]"
+        "iast_ru": "стрӣн̣а̄м̣ ту вим̣ш́атирадхика̄/ даш́а та̄са̄м̣ станайорекаикасмин пан̃ча пан̃чети, йауване та̄са̄м̣ паривр̣ддхих̣; апатйапатхе'бхага̄патйапатхе'ити па̄+ чатасрах̣---та̄са̄м̣ праср̣те+абхйантарато две, мукха̄ш́рите ба̄хйе ча вр̣тте две, гарбхаччхидрасам̣ш́рита̄стисрах̣, ш́укра̄ртаваправеш́инйастисра ева'ш́укра̄ртаваправеш́инйо гарбха̄ш́айе тисра ева'ити па̄+/ питтаква̄ш́айайормадхйе гарбхаш́аййа̄, йатра гарбхастиш̣т̣хати ['атра+абастипаква̄ш́айамадхйе гарбха̄ш́айах̣'ити па̄т̣хе бхавитумархати,+аш́арӣре татхаива дарш́ана̄данйатха̄ пратйакш̣авиродха̄чча' ити пратйакш̣аш́а̄рӣроподдха̄те(пр̣. 72) ган̣ана̄тхасенах̣/]",
+        "text_en": "In women, there are twenty muscles more: ten in the breasts, five in each, which enlarge at the time of maturity; and four in the birth passage, of which two are within, in the widening part, two are round, turned outward at the entrance, and also three connected with the opening leading to the fetus, through which the semen and menstrual blood enter. Between the pittashaya and the pakvashaya is situated the bed of the fetus (garbhashaya), where the fetus is lodged."
       },
       {
         "type": "verse",
@@ -13865,7 +14190,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तासाꣳ बहलपेलवस्थूलाणुपृथुवृत्तह्रस्वदीर्घास्थिरमृदुश्लक्ष्णकर्कशभावाः सन्ध्यस्थिसिरास्नायुप्रच्छादका यथाप्रदेशꣳ स्वभावत एव भवन्ति",
         "text": "Эти мышцы, покрывающие суставы, кости, вены и связки, по самой своей природе бывают в разных местах тела плотными или нежными, крупными или мелкими, широкими или округлыми, короткими или длинными, твёрдыми или мягкими, гладкими или шероховатыми — в зависимости от места.",
         "iast": "tāsāṁ bahalapelavasthūlāṇupṛthuvṛttahrasvadīrghāsthiramṛduślakṣṇakarkaśabhāvāḥ sandhyasthisirāsnāyupracchādakā yathāpradeśaṁ svabhāvata eva bhavanti",
-        "iast_ru": "та̄са̄м̣ бахалапелавастхӯла̄н̣упр̣тхувр̣ттахрасвадӣргха̄стхирамр̣душ́лакш̣н̣акаркаш́абха̄ва̄х̣ сандхйастхисира̄сна̄йупраччха̄дака̄ йатха̄прадеш́ам̣ свабха̄вата ева бхаванти"
+        "iast_ru": "та̄са̄м̣ бахалапелавастхӯла̄н̣упр̣тхувр̣ттахрасвадӣргха̄стхирамр̣душ́лакш̣н̣акаркаш́абха̄ва̄х̣ сандхйастхисира̄сна̄йупраччха̄дака̄ йатха̄прадеш́ам̣ свабха̄вата ева бхаванти",
+        "text_en": "These muscles, covering the joints, bones, veins, and ligaments, are by their very nature, in different places of the body, dense or delicate, large or small, broad or rounded, short or long, hard or soft, smooth or rough, depending on their location."
       },
       {
         "type": "verse",
@@ -13873,7 +14199,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवति चात्र/ पुꣳसाꣳ पेश्यः पुरस्ताद्याः प्रोक्ता लक्षणमुष्कजाःऽलक्षणमुष्कयोः/ स्त्रीणामाश्रित्यऽइति पा+ स्त्रीणामावृत्य तिष्ठन्ति फलमन्तर्गतꣳ हि ताः",
         "text": "И об этом сказано: у мужчин мышцы, названные выше, расположены в области половых признаков и мошонки; у женщин же они, охватывая, покрывают плод, находящийся внутри.",
         "iast": "bhavati cātra/ puṁsāṁ peśyaḥ purastādyāḥ proktā lakṣaṇamuṣkajāḥ'lakṣaṇamuṣkayoḥ/ strīṇāmāśritya'iti pā+ strīṇāmāvṛtya tiṣṭhanti phalamantargataṁ hi tāḥ",
-        "iast_ru": "бхавати ча̄тра/ пум̣са̄м̣ пеш́йах̣ пураста̄дйа̄х̣ прокта̄ лакш̣ан̣амуш̣каджа̄х̣'лакш̣ан̣амуш̣кайох̣/ стрӣн̣а̄ма̄ш́ритйа'ити па̄+ стрӣн̣а̄ма̄вр̣тйа тиш̣т̣ханти пхаламантаргатам̣ хи та̄х̣"
+        "iast_ru": "бхавати ча̄тра/ пум̣са̄м̣ пеш́йах̣ пураста̄дйа̄х̣ прокта̄ лакш̣ан̣амуш̣каджа̄х̣'лакш̣ан̣амуш̣кайох̣/ стрӣн̣а̄ма̄ш́ритйа'ити па̄+ стрӣн̣а̄ма̄вр̣тйа тиш̣т̣ханти пхаламантаргатам̣ хи та̄х̣",
+        "text_en": "And of this it is said: in men the muscles mentioned above are situated in the region of the sexual organs and the scrotum; in women, however, they envelop and cover the fetus lodged within."
       },
       {
         "type": "verse",
@@ -13881,7 +14208,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मर्मसिराधमनीस्रोतसामन्यत्र प्रविभागः",
         "text": "Распределение марм, вен, артерий и сротас будет изложено в другом месте (отдельной главе).",
         "iast": "marmasirādhamanīsrotasāmanyatra pravibhāgaḥ",
-        "iast_ru": "мармасира̄дхаманӣсротаса̄манйатра правибха̄гах̣"
+        "iast_ru": "мармасира̄дхаманӣсротаса̄манйатра правибха̄гах̣",
+        "text_en": "The distribution of the marmas, veins, arteries, and srotas will be set forth in another place (in a separate chapter)."
       },
       {
         "type": "verse",
@@ -13889,7 +14217,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शङ्खनाभ्याकृतिर्योनिस्त्र्यावर्ता सा प्रकीर्तिता तस्यास्तृतीये त्वावर्ते गर्भशय्या प्रतिष्ठिता",
         "text": "Форма женского лона (йони) подобна раковине или пупу, и в ней различают три извива (аварта); в третьем из этих извивов утверждено ложе зародыша.",
         "iast": "śaṅkhanābhyākṛtiryonistryāvartā sā prakīrtitā tasyāstṛtīye tvāvarte garbhaśayyā pratiṣṭhitā",
-        "iast_ru": "ш́ан̇кхана̄бхйа̄кр̣тирйонистрйа̄варта̄ са̄ пракӣртита̄ тасйа̄стр̣тӣйе тва̄варте гарбхаш́аййа̄ пратиш̣т̣хита̄"
+        "iast_ru": "ш́ан̇кхана̄бхйа̄кр̣тирйонистрйа̄варта̄ са̄ пракӣртита̄ тасйа̄стр̣тӣйе тва̄варте гарбхаш́аййа̄ пратиш̣т̣хита̄",
+        "text_en": "The form of the female womb (yoni) resembles a conch shell or a navel, and in it three convolutions (avarta) are distinguished; in the third of these convolutions is established the bed of the fetus."
       },
       {
         "type": "verse",
@@ -13897,7 +14226,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथा रोहितमत्स्यस्य मुखꣳ भवति रूपतः तत्सꣳस्थानाꣳ तथारूपाꣳ गर्भशय्याꣳ विदुर्बुधाः",
         "text": "Подобно тому как по форме подобен рот рыбы Рохита, таким же по очертанию знающие люди считают и ложе зародыша.",
         "iast": "yathā rohitamatsyasya mukhaṁ bhavati rūpataḥ tatsaṁsthānāṁ tathārūpāṁ garbhaśayyāṁ vidurbudhāḥ",
-        "iast_ru": "йатха̄ рохитаматсйасйа мукхам̣ бхавати рӯпатах̣ татсам̣стха̄на̄м̣ татха̄рӯпа̄м̣ гарбхаш́аййа̄м̣ видурбудха̄х̣"
+        "iast_ru": "йатха̄ рохитаматсйасйа мукхам̣ бхавати рӯпатах̣ татсам̣стха̄на̄м̣ татха̄рӯпа̄м̣ гарбхаш́аййа̄м̣ видурбудха̄х̣",
+        "text_en": "Just as in shape it resembles the mouth of the Rohita fish, so too, in outline, the learned consider the bed of the fetus."
       },
       {
         "type": "verse",
@@ -13905,7 +14235,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "आभुग्नो+अभिमुखः शेते गर्भो गर्भाशये स्त्रियाः स योनिꣳ शिरसा याति स्वभावात् प्रसवꣳ प्रति",
         "text": "Плод лежит в утробе женщины согнутым, лицом внутрь; при родах он естественным образом продвигается к лону головой вперёд.",
         "iast": "ābhugno+abhimukhaḥ śete garbho garbhāśaye striyāḥ sa yoniṁ śirasā yāti svabhāvāt prasavaṁ prati",
-        "iast_ru": "а̄бхугно+абхимукхах̣ ш́ете гарбхо гарбха̄ш́айе стрийа̄х̣ са йоним̣ ш́ираса̄ йа̄ти свабха̄ва̄т прасавам̣ прати"
+        "iast_ru": "а̄бхугно+абхимукхах̣ ш́ете гарбхо гарбха̄ш́айе стрийа̄х̣ са йоним̣ ш́ираса̄ йа̄ти свабха̄ва̄т прасавам̣ прати",
+        "text_en": "The fetus lies in the woman's womb curled up, facing inward; at birth it naturally advances toward the vulva head first."
       },
       {
         "type": "verse",
@@ -13913,7 +14244,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "त्वक्पर्यन्तस्य देहस्य यो+अयमङ्गविनिश्चयः शल्यज्ञानादृते नैशऽनैवऽइति पा+ वर्ण्यते+अङ्गेषु केषुचित्",
         "text": "Это точное знание строения тела, вплоть до кожного покрова, невозможно передать в отношении некоторых частей тела без знания хирургии (шалья-видья).",
         "iast": "tvakparyantasya dehasya yo+ayamaṅgaviniścayaḥ śalyajñānādṛte naiśa'naiva'iti pā+ varṇyate+aṅgeṣu keṣucit",
-        "iast_ru": "твакпарйантасйа дехасйа йо+айаман̇гавиниш́чайах̣ ш́алйаджн̃а̄на̄др̣те наиш́а'наива'ити па̄+ варн̣йате+ан̇геш̣у кеш̣учит"
+        "iast_ru": "твакпарйантасйа дехасйа йо+айаман̇гавиниш́чайах̣ ш́алйаджн̃а̄на̄др̣те наиш́а'наива'ити па̄+ варн̣йате+ан̇геш̣у кеш̣учит",
+        "text_en": "This exact knowledge of the structure of the body, down to the skin, cannot be conveyed with respect to certain parts of the body without knowledge of surgery (shalya-vidya)."
       },
       {
         "type": "verse",
@@ -13921,7 +14253,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्मान्निःसꣳशयꣳ ज्ञानꣳऽज्ञानमिच्छता शल्यजीविनाऽइति पा+ हर्त्रा शल्यस्य वाञ्छता शोधयित्वा मृतꣳ सम्यग्द्रष्टव्ययो+अङ्गविनिश्चयःऽतावत्ऽइति पा+",
         "text": "Поэтому желающий безошибочно знать инородные тела и уметь их извлекать должен, надлежащим образом подготовив труп, внимательно рассмотреть точное строение его членов.",
         "iast": "tasmānniḥsaṁśayaṁ jñānaṁ'jñānamicchatā śalyajīvinā'iti pā+ hartrā śalyasya vāñchatā śodhayitvā mṛtaṁ samyagdraṣṭavyayo+aṅgaviniścayaḥ'tāvat'iti pā+",
-        "iast_ru": "тасма̄нних̣сам̣ш́айам̣ джн̃а̄нам̣'джн̃а̄намиччхата̄ ш́алйаджӣвина̄'ити па̄+ хартра̄ ш́алйасйа ва̄н̃чхата̄ ш́одхайитва̄ мр̣там̣ самйагдраш̣т̣авйайо+ан̇гавиниш́чайах̣'та̄ват'ити па̄+"
+        "iast_ru": "тасма̄нних̣сам̣ш́айам̣ джн̃а̄нам̣'джн̃а̄намиччхата̄ ш́алйаджӣвина̄'ити па̄+ хартра̄ ш́алйасйа ва̄н̃чхата̄ ш́одхайитва̄ мр̣там̣ самйагдраш̣т̣авйайо+ан̇гавиниш́чайах̣'та̄ват'ити па̄+",
+        "text_en": "Therefore one who wishes to know foreign bodies without error and to be able to extract them should, having duly prepared a corpse, carefully examine the exact structure of its members."
       },
       {
         "type": "verse",
@@ -13929,7 +14262,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्रत्यक्षतो हि यद्दृष्टꣳ शास्त्रदृष्टꣳ च यद्भवेत् समासतस्तदुभयꣳऽसमागतꣳ द्वयꣳ तत्तुऽइति पा+ भूयो ज्ञानविवर्धनम्",
         "text": "Ибо то, что познано непосредственным наблюдением, вместе с тем, что познано из писаний (шастры), в совокупности значительно приумножает знание.",
         "iast": "pratyakṣato hi yaddṛṣṭaṁ śāstradṛṣṭaṁ ca yadbhavet samāsatastadubhayaṁ'samāgataṁ dvayaṁ tattu'iti pā+ bhūyo jñānavivardhanam",
-        "iast_ru": "пратйакш̣ато хи йаддр̣ш̣т̣ам̣ ш́а̄страдр̣ш̣т̣ам̣ ча йадбхавет сама̄сатастадубхайам̣'сама̄гатам̣ двайам̣ татту'ити па̄+ бхӯйо джн̃а̄навивардханам"
+        "iast_ru": "пратйакш̣ато хи йаддр̣ш̣т̣ам̣ ш́а̄страдр̣ш̣т̣ам̣ ча йадбхавет сама̄сатастадубхайам̣'сама̄гатам̣ двайам̣ татту'ити па̄+ бхӯйо джн̃а̄навивардханам",
+        "text_en": "For that which is known through direct observation, together with that which is known from the scriptures (shastras), taken together, considerably increases knowledge."
       },
       {
         "type": "verse",
@@ -13937,7 +14271,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्मात् समस्तगात्रमविषोपहतमदीर्घव्याधिपीडितमवर्षशतिकꣳ निःसृष्टान्त्रपुरीषꣳ पुरुषमवहन्त्यामापगायाꣳ निबद्धꣳ पञ्जरस्थꣳ मुञ्जवल्कलकुशशणादीनामन्यतमेनावेष्टिताङ्गप्रत्यङ्गमप्रकाशे[ऽ+बल्वज+ऽइति पा+] देशे कोथयेत्, सम्यक्प्रकुथितꣳ चोद्धृत्य ततो देहꣳ सप्तरात्रादुशीरबालवेणुवल्कलकूर्चानामन्यतमेन शनैः शनैरवघर्षयꣳस्त्वगादीन् सर्वानेव बाह्याभ्यन्तरानङ्गप्रत्यङ्गविशेषान् यथोक्तान् लक्षयेच्चक्षुषा",
         "text": "Поэтому следует взять целое тело — не пострадавшее от яда, не измождённое затяжной болезнью, не старше ста лет, с извлечёнными кишками и калом — и, поместив его в клетку и обвязав травой мунджа, лубом, кушей, пенькой или подобным материалом, погрузить в текучую воду в укромном месте для разложения. По истечении надлежащего срока тело следует извлечь и в течение семи ночей осторожно, шаг за шагом, соскабливать кожу и прочее пучком корня ушира, молодого бамбука, луба или травы курча, наблюдая глазами все, как наружные, так и внутренние, части и члены тела в том виде, как о них было сказано.",
         "iast": "tasmāt samastagātramaviṣopahatamadīrghavyādhipīḍitamavarṣaśatikaṁ niḥsṛṣṭāntrapurīṣaṁ puruṣamavahantyāmāpagāyāṁ nibaddhaṁ pañjarasthaṁ muñjavalkalakuśaśaṇādīnāmanyatamenāveṣṭitāṅgapratyaṅgamaprakāśe['+balvaja+'iti pā+] deśe kothayet, samyakprakuthitaṁ coddhṛtya tato dehaṁ saptarātrāduśīrabālaveṇuvalkalakūrcānāmanyatamena śanaiḥ śanairavagharṣayaṁstvagādīn sarvāneva bāhyābhyantarānaṅgapratyaṅgaviśeṣān yathoktān lakṣayeccakṣuṣā",
-        "iast_ru": "тасма̄т самастага̄трамавиш̣опахатамадӣргхавйа̄дхипӣд̣итамаварш̣аш́атикам̣ них̣ср̣ш̣т̣а̄нтрапурӣш̣ам̣ пуруш̣амавахантйа̄ма̄пага̄йа̄м̣ нибаддхам̣ пан̃джарастхам̣ мун̃джавалкалакуш́аш́ан̣а̄дӣна̄манйатамена̄веш̣т̣ита̄н̇гапратйан̇гамапрака̄ш́е['+балваджа+'ити па̄+] деш́е котхайет, самйакпракутхитам̣ чоддхр̣тйа тато дехам̣ саптара̄тра̄душ́ӣраба̄лавен̣увалкалакӯрча̄на̄манйатамена ш́анаих̣ ш́анаиравагхарш̣айам̣ствага̄дӣн сарва̄нева ба̄хйа̄бхйантара̄нан̇гапратйан̇гавиш́еш̣а̄н йатхокта̄н лакш̣айеччакш̣уш̣а̄"
+        "iast_ru": "тасма̄т самастага̄трамавиш̣опахатамадӣргхавйа̄дхипӣд̣итамаварш̣аш́атикам̣ них̣ср̣ш̣т̣а̄нтрапурӣш̣ам̣ пуруш̣амавахантйа̄ма̄пага̄йа̄м̣ нибаддхам̣ пан̃джарастхам̣ мун̃джавалкалакуш́аш́ан̣а̄дӣна̄манйатамена̄веш̣т̣ита̄н̇гапратйан̇гамапрака̄ш́е['+балваджа+'ити па̄+] деш́е котхайет, самйакпракутхитам̣ чоддхр̣тйа тато дехам̣ саптара̄тра̄душ́ӣраба̄лавен̣увалкалакӯрча̄на̄манйатамена ш́анаих̣ ш́анаиравагхарш̣айам̣ствага̄дӣн сарва̄нева ба̄хйа̄бхйантара̄нан̇гапратйан̇гавиш́еш̣а̄н йатхокта̄н лакш̣айеччакш̣уш̣а̄",
+        "text_en": "Therefore one should take a whole body, one not affected by poison, not wasted by prolonged illness, not older than a hundred years, with the intestines and feces removed, and, having placed it in a cage and bound it with munja grass, bark fiber, kusha grass, hemp, or similar material, submerge it in flowing water in a secluded place for decomposition. After the proper interval has elapsed, the body should be taken out, and over seven nights one should carefully, step by step, scrape away the skin and the rest with a bundle of ushira root, young bamboo, bark fiber, or kurcha grass, observing with the eyes all the parts and members of the body, both external and internal, in the manner described concerning them."
       },
       {
         "type": "verse",
@@ -13945,7 +14280,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "(श्लोकौ चात्र भवतः/)[अयꣳ पाठो हस्तलिखितपुस्तके नोपलभ्यते/]",
         "text": "И об этом есть памятные стихи.",
         "iast": "(ślokau cātra bhavataḥ/)[ayaṁ pāṭho hastalikhitapustake nopalabhyate/]",
-        "iast_ru": "(ш́локау ча̄тра бхаватах̣/)[айам̣ па̄т̣хо хасталикхитапустаке нопалабхйате/]"
+        "iast_ru": "(ш́локау ча̄тра бхаватах̣/)[айам̣ па̄т̣хо хасталикхитапустаке нопалабхйате/]",
+        "text_en": "And on this there are memorial verses."
       },
       {
         "type": "verse",
@@ -13953,7 +14289,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शरीरे चैव शास्त्रे च दृष्टार्थः स्याद्विशारदः दृष्टश्रुताभयाꣳ सन्देहमवापोह्याचरेत् क्रियाः",
         "text": "Искусный врач должен быть сведущ как в непосредственном наблюдении тела, так и в писаниях; отбросив сомнение с помощью того и другого — увиденного и услышанного, — он может приступать к действиям.",
         "iast": "śarīre caiva śāstre ca dṛṣṭārthaḥ syādviśāradaḥ dṛṣṭaśrutābhayāṁ sandehamavāpohyācaret kriyāḥ",
-        "iast_ru": "ш́арӣре чаива ш́а̄стре ча др̣ш̣т̣а̄ртхах̣ сйа̄двиш́а̄радах̣ др̣ш̣т̣аш́рута̄бхайа̄м̣ сандехамава̄похйа̄чарет крийа̄х̣"
+        "iast_ru": "ш́арӣре чаива ш́а̄стре ча др̣ш̣т̣а̄ртхах̣ сйа̄двиш́а̄радах̣ др̣ш̣т̣аш́рута̄бхайа̄м̣ сандехамава̄похйа̄чарет крийа̄х̣",
+        "text_en": "The skillful physician should be versed both in direct observation of the body and in the scriptures; having cast off doubt by means of both, what is seen and what is heard, he may proceed to action."
       }
     ]
   },
@@ -13975,7 +14312,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातः प्रत्येकमर्मनिर्देशꣳ शारीरꣳ व्याख्यास्यामः",
         "text": "Итак, далее мы изложим раздел Шарира-стханы, посвящённый описанию каждой Марны (жизненно важной точки тела) в отдельности.",
         "iast": "athātaḥ pratyekamarmanirdeśaṁ śārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄тах̣ пратйекамарманирдеш́ам̣ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄тах̣ пратйекамарманирдеш́ам̣ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now, next we shall set forth the section of the Sharirasthana devoted to the description of each Marma (vital point of the body) individually."
       },
       {
         "type": "verse",
@@ -13983,7 +14321,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "Как о том поведал досточтимый Дханвантари.",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "As it was declared by the venerable Dhanvantari."
       },
       {
         "type": "verse",
@@ -13991,7 +14330,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सप्तोत्तरꣳ मर्मशतम्/ तानि मर्नाणि पञ्चात्मकानि भवन्ति, तद्यथा---माꣳसमर्माणि, सिरामर्माणि, स्नायुमर्माणि, अस्थिमर्माणि; सन्धिमर्माणि चेति; न खलु माꣳससिरास्नाय्वस्थिसन्धिव्यतिरेकेणान्यानि मर्माणि भवन्ति, यस्मान्नोपलभ्यन्ते",
         "text": "Марм насчитывается сто семь. Они бывают пяти родов: мышечные (манса-марма), венозные (сира-марма), связочные (снаю-марма), костные (астхи-марма) и суставные (сандхи-марма); иных марм, помимо связанных с мышцей, веной, связкой, костью и суставом, не существует, поскольку такие не обнаруживаются.",
         "iast": "saptottaraṁ marmaśatam/ tāni marnāṇi pañcātmakāni bhavanti, tadyathā---māṁsamarmāṇi, sirāmarmāṇi, snāyumarmāṇi, asthimarmāṇi; sandhimarmāṇi ceti; na khalu māṁsasirāsnāyvasthisandhivyatirekeṇānyāni marmāṇi bhavanti, yasmānnopalabhyante",
-        "iast_ru": "саптоттарам̣ мармаш́атам/ та̄ни марна̄н̣и пан̃ча̄тмака̄ни бхаванти, тадйатха̄---ма̄м̣самарма̄н̣и, сира̄марма̄н̣и, сна̄йумарма̄н̣и, астхимарма̄н̣и; сандхимарма̄н̣и чети; на кхалу ма̄м̣сасира̄сна̄йвастхисандхивйатирекен̣а̄нйа̄ни марма̄н̣и бхаванти, йасма̄ннопалабхйанте"
+        "iast_ru": "саптоттарам̣ мармаш́атам/ та̄ни марна̄н̣и пан̃ча̄тмака̄ни бхаванти, тадйатха̄---ма̄м̣самарма̄н̣и, сира̄марма̄н̣и, сна̄йумарма̄н̣и, астхимарма̄н̣и; сандхимарма̄н̣и чети; на кхалу ма̄м̣сасира̄сна̄йвастхисандхивйатирекен̣а̄нйа̄ни марма̄н̣и бхаванти, йасма̄ннопалабхйанте",
+        "text_en": "The Marmas number one hundred and seven. They are of five kinds: muscular (mamsa-marma), venous (sira-marma), ligamentous (snayu-marma), osseous (asthi-marma), and articular (sandhi-marma); no marmas exist apart from those connected with muscle, vein, ligament, bone, and joint, since none such are found."
       },
       {
         "type": "verse",
@@ -13999,7 +14339,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्रैकादश माꣳसमर्माणि, एकचत्वारिꣳशत्सिरामर्माणि, सप्तविꣳशतिः स्नायुमर्माणि, अष्टावस्थिमर्माणि, विꣳशतिः सन्धिमर्माणि चेति/ तदेतत् सप्तोत्तरꣳ मर्मशतम्",
         "text": "Из них мышечных марм — одиннадцать, венозных — сорок одна, связочных — двадцать семь, костных — восемь, суставных — двадцать; в сумме это составляет сто семь марм.",
         "iast": "tatraikādaśa māṁsamarmāṇi, ekacatvāriṁśatsirāmarmāṇi, saptaviṁśatiḥ snāyumarmāṇi, aṣṭāvasthimarmāṇi, viṁśatiḥ sandhimarmāṇi ceti/ tadetat saptottaraṁ marmaśatam",
-        "iast_ru": "татраика̄даш́а ма̄м̣самарма̄н̣и, екачатва̄рим̣ш́атсира̄марма̄н̣и, саптавим̣ш́атих̣ сна̄йумарма̄н̣и, аш̣т̣а̄вастхимарма̄н̣и, вим̣ш́атих̣ сандхимарма̄н̣и чети/ тадетат саптоттарам̣ мармаш́атам"
+        "iast_ru": "татраика̄даш́а ма̄м̣самарма̄н̣и, екачатва̄рим̣ш́атсира̄марма̄н̣и, саптавим̣ш́атих̣ сна̄йумарма̄н̣и, аш̣т̣а̄вастхимарма̄н̣и, вим̣ш́атих̣ сандхимарма̄н̣и чети/ тадетат саптоттарам̣ мармаш́атам",
+        "text_en": "Of these, the muscular marmas number eleven, the venous forty-one, the ligamentous twenty-seven, the osseous eight, and the articular twenty; in sum this amounts to one hundred and seven marmas."
       },
       {
         "type": "verse",
@@ -14007,7 +14348,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तेषामेकादशैकस्मिन् सक्थ्नि भवन्ति, एतेनेतरसक्थि बाहू च व्याख्यातौ, उदरोरसोर्द्वादश, चतुर्दश पृष्ठे, ग्रीवाꣳ प्रत्यूर्ध्वꣳ सप्तत्रिꣳशत्",
         "text": "По их расположению: одиннадцать марм находятся в одной ноге (то же относится и к другой ноге, и к каждой руке); двенадцать — в области живота и груди; четырнадцать — в спине; тридцать семь — в области от шеи и выше.",
         "iast": "teṣāmekādaśaikasmin sakthni bhavanti, etenetarasakthi bāhū ca vyākhyātau, udarorasordvādaśa, caturdaśa pṛṣṭhe, grīvāṁ pratyūrdhvaṁ saptatriṁśat",
-        "iast_ru": "теш̣а̄мека̄даш́аикасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау, ударорасордва̄даш́а, чатурдаш́а пр̣ш̣т̣хе, грӣва̄м̣ пратйӯрдхвам̣ саптатрим̣ш́ат"
+        "iast_ru": "теш̣а̄мека̄даш́аикасмин сактхни бхаванти, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау, ударорасордва̄даш́а, чатурдаш́а пр̣ш̣т̣хе, грӣва̄м̣ пратйӯрдхвам̣ саптатрим̣ш́ат",
+        "text_en": "By their location: eleven marmas are found in one leg (the same holds for the other leg, and for each arm); twelve in the region of the belly and chest; fourteen in the back; thirty-seven in the region from the neck upward."
       },
       {
         "type": "verse",
@@ -14015,7 +14357,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सक्थिमर्माणि क्षिप्रतलहृदयकूर्चकूर्चशिरोगुल्फेन्द्रबस्तिजान्वाण्यूर्वीलोहिताक्षाणि विटपꣳ चेति, एतेनेतरत्सक्थि व्याख्यातम्/ उदरोरसोस्तु गुदबस्तिनाभिहृदयस्तनमूल-स्तनरोहितापलापान्यपस्तम्भौ चेतिऽ+स्तनरोहितापस्तम्भावपलापौ चेतिऽइति पा+/ पृष्ठमर्माणि तु कटीकतरुणकुकुन्दरनितम्बपार्श्वसन्धिबृहत्यꣳसफलकान्यꣳसौ चेति/ बाहुमर्माणि तु क्षिप्रतलहृदयकूर्चकूर्चशिरोमणिबन्धेन्द्रबस्तिकूर्पराण्यूर्वीलोहिताक्षणि कक्षधरꣳ चेति; एतेनेतरो बाहुर्व्याख्यातः/ जत्रुण ऊर्ध्वꣳ (मर्माणि) चतस्रो धमन्यो+अष्टौ मातृका द्वे कृकाटिके द्वे विधुरे द्वे फणे द्वावपाङ्गौ द्वावावर्तौ द्वावुत्क्षेपौ द्वौ शङ्खावेका स्थपनी पञ्च सीमन्ताश्चत्वारि शृङ्गाटकान्येको+अधिपतिरिति",
         "text": "Марны ноги: кшипра, тала-хридая, курча, курча-ширах, гулпха, индраваcти, джану, ани, урви, лохитакша и витапа. Марны живота и груди: гуда, басти, набхи, хридая, обе стана-мула, обе стана-рохита, обе апалапа и оба апастамбха. Марны спины: обе катика-таруна, обе кукундара, обе нитамба, обе паршва-сандхи, обе брихати, обе анса-пхалака и оба анса. Марны руки: кшипра, тала-хридая, курча, курча-ширах, манибандха, индраваcти, курпара, урви, лохитакша и какшадхара — по подобию с ногой (то же относится и к другой руке). Марны выше ключиц: четыре дхамани, восемь матрика, две крикатика, две видхура, две пхана, два апанга, два аварта, два уткшепа, два шанкха, одна стхапани, пять симанта, четыре шрингатака и одна адхипати.",
         "iast": "tatra sakthimarmāṇi kṣipratalahṛdayakūrcakūrcaśirogulphendrabastijānvāṇyūrvīlohitākṣāṇi viṭapaṁ ceti, etenetaratsakthi vyākhyātam/ udarorasostu gudabastinābhihṛdayastanamūla-stanarohitāpalāpānyapastambhau ceti'+stanarohitāpastambhāvapalāpau ceti'iti pā+/ pṛṣṭhamarmāṇi tu kaṭīkataruṇakukundaranitambapārśvasandhibṛhatyaṁsaphalakānyaṁsau ceti/ bāhumarmāṇi tu kṣipratalahṛdayakūrcakūrcaśiromaṇibandhendrabastikūrparāṇyūrvīlohitākṣaṇi kakṣadharaṁ ceti; etenetaro bāhurvyākhyātaḥ/ jatruṇa ūrdhvaṁ (marmāṇi) catasro dhamanyo+aṣṭau mātṛkā dve kṛkāṭike dve vidhure dve phaṇe dvāvapāṅgau dvāvāvartau dvāvutkṣepau dvau śaṅkhāvekā sthapanī pañca sīmantāścatvāri śṛṅgāṭakānyeko+adhipatiriti",
-        "iast_ru": "татра сактхимарма̄н̣и кш̣ипраталахр̣дайакӯрчакӯрчаш́ирогулпхендрабастиджа̄нва̄н̣йӯрвӣлохита̄кш̣а̄н̣и вит̣апам̣ чети, етенетаратсактхи вйа̄кхйа̄там/ ударорасосту гудабастина̄бхихр̣дайастанамӯла-станарохита̄пала̄па̄нйапастамбхау чети'+станарохита̄пастамбха̄вапала̄пау чети'ити па̄+/ пр̣ш̣т̣хамарма̄н̣и ту кат̣ӣкатарун̣акукундаранитамбапа̄рш́васандхибр̣хатйам̣сапхалака̄нйам̣сау чети/ ба̄хумарма̄н̣и ту кш̣ипраталахр̣дайакӯрчакӯрчаш́ироман̣ибандхендрабастикӯрпара̄н̣йӯрвӣлохита̄кш̣ан̣и какш̣адхарам̣ чети; етенетаро ба̄хурвйа̄кхйа̄тах̣/ джатрун̣а ӯрдхвам̣ (марма̄н̣и) чатасро дхаманйо+аш̣т̣ау ма̄тр̣ка̄ две кр̣ка̄т̣ике две видхуре две пхан̣е два̄вапа̄н̇гау два̄ва̄вартау два̄вуткш̣епау двау ш́ан̇кха̄века̄ стхапанӣ пан̃ча сӣманта̄ш́чатва̄ри ш́р̣н̇га̄т̣ака̄нйеко+адхипатирити"
+        "iast_ru": "татра сактхимарма̄н̣и кш̣ипраталахр̣дайакӯрчакӯрчаш́ирогулпхендрабастиджа̄нва̄н̣йӯрвӣлохита̄кш̣а̄н̣и вит̣апам̣ чети, етенетаратсактхи вйа̄кхйа̄там/ ударорасосту гудабастина̄бхихр̣дайастанамӯла-станарохита̄пала̄па̄нйапастамбхау чети'+станарохита̄пастамбха̄вапала̄пау чети'ити па̄+/ пр̣ш̣т̣хамарма̄н̣и ту кат̣ӣкатарун̣акукундаранитамбапа̄рш́васандхибр̣хатйам̣сапхалака̄нйам̣сау чети/ ба̄хумарма̄н̣и ту кш̣ипраталахр̣дайакӯрчакӯрчаш́ироман̣ибандхендрабастикӯрпара̄н̣йӯрвӣлохита̄кш̣ан̣и какш̣адхарам̣ чети; етенетаро ба̄хурвйа̄кхйа̄тах̣/ джатрун̣а ӯрдхвам̣ (марма̄н̣и) чатасро дхаманйо+аш̣т̣ау ма̄тр̣ка̄ две кр̣ка̄т̣ике две видхуре две пхан̣е два̄вапа̄н̇гау два̄ва̄вартау два̄вуткш̣епау двау ш́ан̇кха̄века̄ стхапанӣ пан̃ча сӣманта̄ш́чатва̄ри ш́р̣н̇га̄т̣ака̄нйеко+адхипатирити",
+        "text_en": "The marmas of the leg are: Kshipra, Talahridaya, Kurcha, Kurchashiras, Gulpha, Indravasti, Janu, Ani, Urvi, Lohitaksha, and Vitapa. The marmas of the belly and chest are: Guda, Basti, Nabhi, Hridaya, both Stanamula, both Stanarohita, both Apalapa, and both Apastambha. The marmas of the back are: both Katikataruna, both Kukundara, both Nitamba, both Parshvasandhi, both Brihati, both Amsaphalaka, and both Amsa. The marmas of the arm are: Kshipra, Talahridaya, Kurcha, Kurchashiras, Manibandha, Indravasti, Kurpara, Urvi, Lohitaksha, and Kakshadhara, corresponding to those of the leg (the same holds for the other arm). The marmas above the collarbones are: four Dhamani, eight Matrika, two Krikatika, two Vidhura, two Phana, two Apanga, two Avarta, two Utkshepa, two Shankha, one Sthapani, five Simanta, four Shringataka, and one Adhipati."
       },
       {
         "type": "verse",
@@ -14023,7 +14366,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र तलहृदयेन्द्रबस्तिगुदस्तनरोहितानि माꣳसमर्माणि, नीलधमनीमातृकाशृङ्गाटकापाङ्गस्थपनीफणस्तनमूलापलापापस्तम्भहृदयनाभिपार्श्वसन्धिबृहतीलोहिताक्षोर्व्यः सिरामर्माणि, आणीविटपकक्षधरकूर्चकूर्चशिरोबस्तिक्षिप्राꣳसविधुरोत्क्षेपाः स्नायुमर्माणि, कटीकतरुणनितम्बाꣳसफलकशङ्खास्त्वस्थिमर्माणि, जानुकूर्परसीमन्ताधिपतिगुल्फमणिबन्धकुकुन्दरानर्तकृकाटिकाश्चेति सन्धिमर्माणि [ऽइमे सिरामर्मणी,ऽग्रीवायाꣳ षोडश अव्यध्याःऽ इत्यत्र डल्हणेनैव विधुरयोः षोडशसꣳख्यायामेव परिगणनꣳ कृतꣳ, स्नायुमर्मसु गणनꣳ तु प्रतिसꣳस्कर्तृदोषकूषितꣳ प्रतिभातिऽ(रसयोगसागर,उपोद्धात, पृ+ १५६)/]",
         "text": "К мышечным маркам (манса-марма) относятся: тала-хридая, индраваcти, гуда и стана-рохита. К венозным (сира-марма): нила, дхамани, матрика, шрингатака, апанга, стхапани, пхана, стана-мула, апалапа, апастамбха, хридая, набхи, паршва-сандхи, брихати, лохитакша и урви. К связочным (снаю-марма): ани, витапа, какшадхара, курча, курча-ширах, басти, кшипра, анса, видхура и уткшепа. К костным (астхи-марма): катика-таруна, нитамба, анса-пхалака и шанкха. К суставным (сандхи-марма): джану, курпара, симанта, адхипати, гулпха, манибандха, кукундара, аварта и крикатика.",
         "iast": "tatra talahṛdayendrabastigudastanarohitāni māṁsamarmāṇi, nīladhamanīmātṛkāśṛṅgāṭakāpāṅgasthapanīphaṇastanamūlāpalāpāpastambhahṛdayanābhipārśvasandhibṛhatīlohitākṣorvyaḥ sirāmarmāṇi, āṇīviṭapakakṣadharakūrcakūrcaśirobastikṣiprāṁsavidhurotkṣepāḥ snāyumarmāṇi, kaṭīkataruṇanitambāṁsaphalakaśaṅkhāstvasthimarmāṇi, jānukūrparasīmantādhipatigulphamaṇibandhakukundarānartakṛkāṭikāśceti sandhimarmāṇi ['ime sirāmarmaṇī,'grīvāyāṁ ṣoḍaśa avyadhyāḥ' ityatra ḍalhaṇenaiva vidhurayoḥ ṣoḍaśasaṁkhyāyāmeva parigaṇanaṁ kṛtaṁ, snāyumarmasu gaṇanaṁ tu pratisaṁskartṛdoṣakūṣitaṁ pratibhāti'(rasayogasāgara,upoddhāta, pṛ+ 156)/]",
-        "iast_ru": "татра талахр̣дайендрабастигудастанарохита̄ни ма̄м̣самарма̄н̣и, нӣладхаманӣма̄тр̣ка̄ш́р̣н̇га̄т̣ака̄па̄н̇гастхапанӣпхан̣астанамӯла̄пала̄па̄пастамбхахр̣дайана̄бхипа̄рш́васандхибр̣хатӣлохита̄кш̣орвйах̣ сира̄марма̄н̣и, а̄н̣ӣвит̣апакакш̣адхаракӯрчакӯрчаш́иробастикш̣ипра̄м̣савидхуроткш̣епа̄х̣ сна̄йумарма̄н̣и, кат̣ӣкатарун̣анитамба̄м̣сапхалакаш́ан̇кха̄ствастхимарма̄н̣и, джа̄нукӯрпарасӣманта̄дхипатигулпхаман̣ибандхакукундара̄нартакр̣ка̄т̣ика̄ш́чети сандхимарма̄н̣и ['име сира̄марман̣ӣ,'грӣва̄йа̄м̣ ш̣од̣аш́а авйадхйа̄х̣' итйатра д̣алхан̣енаива видхурайох̣ ш̣од̣аш́асам̣кхйа̄йа̄мева париган̣анам̣ кр̣там̣, сна̄йумармасу ган̣анам̣ ту пратисам̣скартр̣дош̣акӯш̣итам̣ пратибха̄ти'(расайогаса̄гара,уподдха̄та, пр̣+ 156)/]"
+        "iast_ru": "татра талахр̣дайендрабастигудастанарохита̄ни ма̄м̣самарма̄н̣и, нӣладхаманӣма̄тр̣ка̄ш́р̣н̇га̄т̣ака̄па̄н̇гастхапанӣпхан̣астанамӯла̄пала̄па̄пастамбхахр̣дайана̄бхипа̄рш́васандхибр̣хатӣлохита̄кш̣орвйах̣ сира̄марма̄н̣и, а̄н̣ӣвит̣апакакш̣адхаракӯрчакӯрчаш́иробастикш̣ипра̄м̣савидхуроткш̣епа̄х̣ сна̄йумарма̄н̣и, кат̣ӣкатарун̣анитамба̄м̣сапхалакаш́ан̇кха̄ствастхимарма̄н̣и, джа̄нукӯрпарасӣманта̄дхипатигулпхаман̣ибандхакукундара̄нартакр̣ка̄т̣ика̄ш́чети сандхимарма̄н̣и ['име сира̄марман̣ӣ,'грӣва̄йа̄м̣ ш̣од̣аш́а авйадхйа̄х̣' итйатра д̣алхан̣енаива видхурайох̣ ш̣од̣аш́асам̣кхйа̄йа̄мева париган̣анам̣ кр̣там̣, сна̄йумармасу ган̣анам̣ ту пратисам̣скартр̣дош̣акӯш̣итам̣ пратибха̄ти'(расайогаса̄гара,уподдха̄та, пр̣+ 156)/]",
+        "text_en": "To the muscular marmas (mamsa-marma) belong: Talahridaya, Indravasti, Guda, and Stanarohita. To the venous (sira-marma): Nila, Dhamani, Matrika, Shringataka, Apanga, Sthapani, Phana, Stanamula, Apalapa, Apastambha, Hridaya, Nabhi, Parshvasandhi, Brihati, Lohitaksha, and Urvi. To the ligamentous (snayu-marma): Ani, Vitapa, Kakshadhara, Kurcha, Kurchashiras, Basti, Kshipra, Amsa, Vidhura, and Utkshepa. To the osseous (asthi-marma): Katikataruna, Nitamba, Amsaphalaka, and Shankha. To the articular (sandhi-marma): Janu, Kurpara, Simanta, Adhipati, Gulpha, Manibandha, Kukundara, Avarta, and Krikatika."
       },
       {
         "type": "verse",
@@ -14031,7 +14375,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तान्येतानि पञ्चविकल्पानि मर्माणि भवन्ति/ तद्यथा---सद्यःप्राणहराणि, कालान्तरप्राणहराणि, विशल्यघ्नानि, वैकल्यकराणि, रुजाकराणीति/ तत्र सद्यःप्राणहराण्येकोनविꣳशतिः, कालान्तरप्राणहराणि त्रयस्त्रिꣳशत्, त्रीणि विशल्यघ्नानि, चतुश्चत्वारिꣳशद्वैकल्यकराणि, अष्टौ रुजाकराणीति",
         "text": "Все эти марны подразделяются на пять групп по своему действию: садья-пранахара (немедленно смертельные), калантара-пранахара (смертельные спустя срок), вишальягхна (смертельные при извлечении застрявшего инородного тела), вайкальякара (влекущие увечье) и руджакара (причиняющие боль). Из них садья-пранахара — девятнадцать, калантара-пранахара — тридцать три, вишальягхна — три, вайкальякара — сорок четыре, руджакара — восемь.",
         "iast": "tānyetāni pañcavikalpāni marmāṇi bhavanti/ tadyathā---sadyaḥprāṇaharāṇi, kālāntaraprāṇaharāṇi, viśalyaghnāni, vaikalyakarāṇi, rujākarāṇīti/ tatra sadyaḥprāṇaharāṇyekonaviṁśatiḥ, kālāntaraprāṇaharāṇi trayastriṁśat, trīṇi viśalyaghnāni, catuścatvāriṁśadvaikalyakarāṇi, aṣṭau rujākarāṇīti",
-        "iast_ru": "та̄нйета̄ни пан̃чавикалпа̄ни марма̄н̣и бхаванти/ тадйатха̄---садйах̣пра̄н̣ахара̄н̣и, ка̄ла̄нтарапра̄н̣ахара̄н̣и, виш́алйагхна̄ни, ваикалйакара̄н̣и, руджа̄кара̄н̣ӣти/ татра садйах̣пра̄н̣ахара̄н̣йеконавим̣ш́атих̣, ка̄ла̄нтарапра̄н̣ахара̄н̣и трайастрим̣ш́ат, трӣн̣и виш́алйагхна̄ни, чатуш́чатва̄рим̣ш́адваикалйакара̄н̣и, аш̣т̣ау руджа̄кара̄н̣ӣти"
+        "iast_ru": "та̄нйета̄ни пан̃чавикалпа̄ни марма̄н̣и бхаванти/ тадйатха̄---садйах̣пра̄н̣ахара̄н̣и, ка̄ла̄нтарапра̄н̣ахара̄н̣и, виш́алйагхна̄ни, ваикалйакара̄н̣и, руджа̄кара̄н̣ӣти/ татра садйах̣пра̄н̣ахара̄н̣йеконавим̣ш́атих̣, ка̄ла̄нтарапра̄н̣ахара̄н̣и трайастрим̣ш́ат, трӣн̣и виш́алйагхна̄ни, чатуш́чатва̄рим̣ш́адваикалйакара̄н̣и, аш̣т̣ау руджа̄кара̄н̣ӣти",
+        "text_en": "All these marmas are divided into five groups according to their effect: sadya-pranahara (immediately fatal), kalantara-pranahara (fatal after an interval), vishalyaghna (fatal upon extraction of a lodged foreign body), vaikalyakara (leading to deformity or disability), and rujakara (causing pain). Of these, sadya-pranahara number nineteen, kalantara-pranahara thirty-three, vishalyaghna three, vaikalyakara forty-four, and rujakara eight."
       },
       {
         "type": "verse",
@@ -14039,7 +14384,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ शृङ्गाटकान्यधिपतिः शङ्खौ कण्ठसिरा गुदम् हृदयꣳ बस्तिनाभी च घ्नन्ति सद्योऽसद्योहराणिऽइति पा+ हतानि तु",
         "text": "И об этом сказано: шрингатаки, адхипати, оба шанкха, вены горла, задний проход, сердце, мочевой пузырь и пупок — при повреждении убивают немедленно.",
         "iast": "bhavanti cātra/ śṛṅgāṭakānyadhipatiḥ śaṅkhau kaṇṭhasirā gudam hṛdayaṁ bastinābhī ca ghnanti sadyo'sadyoharāṇi'iti pā+ hatāni tu",
-        "iast_ru": "бхаванти ча̄тра/ ш́р̣н̇га̄т̣ака̄нйадхипатих̣ ш́ан̇кхау кан̣т̣хасира̄ гудам хр̣дайам̣ бастина̄бхӣ ча гхнанти садйо'садйохара̄н̣и'ити па̄+ хата̄ни ту"
+        "iast_ru": "бхаванти ча̄тра/ ш́р̣н̇га̄т̣ака̄нйадхипатих̣ ш́ан̇кхау кан̣т̣хасира̄ гудам хр̣дайам̣ бастина̄бхӣ ча гхнанти садйо'садйохара̄н̣и'ити па̄+ хата̄ни ту",
+        "text_en": "And of this it is said: the Shringatakas, the Adhipati, both Shankhas, the veins of the throat, the anus, the heart, the bladder, and the navel, when injured, kill immediately."
       },
       {
         "type": "verse",
@@ -14047,7 +14393,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "वक्षोमर्माणि सीमन्ततलक्षिप्रेन्द्रबस्तयः कटीकतरुणे सन्धी पार्श्वजौ[ऽपार्श्वगौऽइति+अपार्श्वयोःऽइति च पा+] बृहती च या",
         "text": "Марны груди, симанты, тала, кшипра, индраваcти, оба катика-таруна, обе паршва-сандхи и обе брихати...",
         "iast": "vakṣomarmāṇi sīmantatalakṣiprendrabastayaḥ kaṭīkataruṇe sandhī pārśvajau['pārśvagau'iti+apārśvayoḥ'iti ca pā+] bṛhatī ca yā",
-        "iast_ru": "вакш̣омарма̄н̣и сӣмантаталакш̣ипрендрабастайах̣ кат̣ӣкатарун̣е сандхӣ па̄рш́ваджау['па̄рш́вагау'ити+апа̄рш́вайох̣'ити ча па̄+] бр̣хатӣ ча йа̄"
+        "iast_ru": "вакш̣омарма̄н̣и сӣмантаталакш̣ипрендрабастайах̣ кат̣ӣкатарун̣е сандхӣ па̄рш́ваджау['па̄рш́вагау'ити+апа̄рш́вайох̣'ити ча па̄+] бр̣хатӣ ча йа̄",
+        "text_en": "The marmas of the chest, the Simantas, the Tala, the Kshipra, the Indravasti, both Katikataruna, both Parshvasandhi, and both Brihati..."
       },
       {
         "type": "verse",
@@ -14055,7 +14402,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "नितम्बाविति चैतानि कालान्तरहराणि तु उत्क्षेपौ स्थपनी चैव विशल्यघ्नानि निर्दिशेत्",
         "text": "...и обе нитамбы — все эти относятся к калантара-пранахара; а оба уткшепа и стхапани следует относить к вишальягхна.",
         "iast": "nitambāviti caitāni kālāntaraharāṇi tu utkṣepau sthapanī caiva viśalyaghnāni nirdiśet",
-        "iast_ru": "нитамба̄вити чаита̄ни ка̄ла̄нтарахара̄н̣и ту уткш̣епау стхапанӣ чаива виш́алйагхна̄ни нирдиш́ет"
+        "iast_ru": "нитамба̄вити чаита̄ни ка̄ла̄нтарахара̄н̣и ту уткш̣епау стхапанӣ чаива виш́алйагхна̄ни нирдиш́ет",
+        "text_en": "...and both Nitambas, all these belong to kalantara-pranahara; while both Utkshepa and the Sthapani should be classed as vishalyaghna."
       },
       {
         "type": "verse",
@@ -14063,7 +14411,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "लोहिताक्षाणि जानूर्वीकूर्चनिटपकूर्पराः कुकुन्दरे कक्षधरे विधुरे सकृकाटिके",
         "text": "Обе лохитакши, оба джану, обе урви, курча, витапа, курпара, кукундара, какшадхара, видхура и крикатика...",
         "iast": "lohitākṣāṇi jānūrvīkūrcaniṭapakūrparāḥ kukundare kakṣadhare vidhure sakṛkāṭike",
-        "iast_ru": "лохита̄кш̣а̄н̣и джа̄нӯрвӣкӯрчанит̣апакӯрпара̄х̣ кукундаре какш̣адхаре видхуре сакр̣ка̄т̣ике"
+        "iast_ru": "лохита̄кш̣а̄н̣и джа̄нӯрвӣкӯрчанит̣апакӯрпара̄х̣ кукундаре какш̣адхаре видхуре сакр̣ка̄т̣ике",
+        "text_en": "Both Lohitaksha, both Janu, both Urvi, the Kurcha, the Vitapa, the Kurpara, the Kukundara, the Kakshadhara, the Vidhura, and the Krikatika..."
       },
       {
         "type": "verse",
@@ -14071,7 +14420,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अꣳसाꣳसफलकापाङ्गा नीले मन्ये फणे तथा वैकल्यकरणान्याहुरावर्तौ द्वौ तथैव च",
         "text": "...оба анса, оба анса-пхалака, оба апанга, обе нила, обе матрика, оба пхана и оба аварта — таковы марны, называемые вайкальякара.",
         "iast": "aṁsāṁsaphalakāpāṅgā nīle manye phaṇe tathā vaikalyakaraṇānyāhurāvartau dvau tathaiva ca",
-        "iast_ru": "ам̣са̄м̣сапхалака̄па̄н̇га̄ нӣле манйе пхан̣е татха̄ ваикалйакаран̣а̄нйа̄хура̄вартау двау татхаива ча"
+        "iast_ru": "ам̣са̄м̣сапхалака̄па̄н̇га̄ нӣле манйе пхан̣е татха̄ ваикалйакаран̣а̄нйа̄хура̄вартау двау татхаива ча",
+        "text_en": "...both Amsa, both Amsaphalaka, both Apanga, both Nila, both Matrika, both Phana, and both Avarta, these are the marmas called vaikalyakara."
       },
       {
         "type": "verse",
@@ -14079,7 +14429,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "गुल्फौ द्वौ मणिबन्धौ द्वौ द्वे द्वे कूर्चशिराꣳसि च रुजाकराणि जानीयादष्टावेतानि बुद्धिमान् क्षिप्राणि विद्धमात्राणि घ्नन्ति कालान्तरेण च",
         "text": "Обе лодыжки (гулпха), оба запястья (манибандха) и обе курча-ширах — эти восемь мудрый должен признать руджакара. Кшипра-марны при уколе убивают спустя некоторое время.",
         "iast": "gulphau dvau maṇibandhau dvau dve dve kūrcaśirāṁsi ca rujākarāṇi jānīyādaṣṭāvetāni buddhimān kṣiprāṇi viddhamātrāṇi ghnanti kālāntareṇa ca",
-        "iast_ru": "гулпхау двау ман̣ибандхау двау две две кӯрчаш́ира̄м̣си ча руджа̄кара̄н̣и джа̄нӣйа̄даш̣т̣а̄вета̄ни буддхима̄н кш̣ипра̄н̣и виддхама̄тра̄н̣и гхнанти ка̄ла̄нтарен̣а ча"
+        "iast_ru": "гулпхау двау ман̣ибандхау двау две две кӯрчаш́ира̄м̣си ча руджа̄кара̄н̣и джа̄нӣйа̄даш̣т̣а̄вета̄ни буддхима̄н кш̣ипра̄н̣и виддхама̄тра̄н̣и гхнанти ка̄ла̄нтарен̣а ча",
+        "text_en": "Both ankles (Gulpha), both wrists (Manibandha), and both Kurchashiras, these eight the wise should recognize as rujakara. The Kshipra marmas, when punctured, kill after a certain time."
       },
       {
         "type": "verse",
@@ -14087,7 +14438,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मर्माणि नाम माꣳससिरास्नाय्वस्थिसन्धिसन्निपाताः; तेषु स्वभावत एव विशेषेण प्राणास्तिष्ठन्ति; तस्मान्मर्मस्वभिहतास्ताꣳस्तान् भावनापद्यन्ते",
         "text": "Мармами называются места скопления мышц, вен, связок, костей и суставов, в которых по самой их природе особым образом сосредоточена жизненная сила (прана); поэтому при повреждении марм возникают соответствующие тяжёлые состояния.",
         "iast": "marmāṇi nāma māṁsasirāsnāyvasthisandhisannipātāḥ; teṣu svabhāvata eva viśeṣeṇa prāṇāstiṣṭhanti; tasmānmarmasvabhihatāstāṁstān bhāvanāpadyante",
-        "iast_ru": "марма̄н̣и на̄ма ма̄м̣сасира̄сна̄йвастхисандхисаннипа̄та̄х̣; теш̣у свабха̄вата ева виш́еш̣ен̣а пра̄н̣а̄стиш̣т̣ханти; тасма̄нмармасвабхихата̄ста̄м̣ста̄н бха̄вана̄падйанте"
+        "iast_ru": "марма̄н̣и на̄ма ма̄м̣сасира̄сна̄йвастхисандхисаннипа̄та̄х̣; теш̣у свабха̄вата ева виш́еш̣ен̣а пра̄н̣а̄стиш̣т̣ханти; тасма̄нмармасвабхихата̄ста̄м̣ста̄н бха̄вана̄падйанте",
+        "text_en": "Marmas are called the places where muscles, veins, ligaments, bones, and joints converge, in which, by their very nature, the vital force (prana) is concentrated in a special manner; therefore, upon injury to the marmas, correspondingly severe conditions arise."
       },
       {
         "type": "verse",
@@ -14095,7 +14447,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सद्यःप्राणहराण्याग्नेयानि, अग्निगुणेष्वाशु क्षीणेषु क्षपयन्ति; कालान्तरप्राणहराणि सौम्याग्नेयानि, अग्निगुणेष्वाशु क्षीणेषु क्रमेण च सोमगुणेषु कालान्तरेण क्षपयन्ति; विशल्यप्राणहराणि वाय्व्यानि, शल्यमुखावरुद्धो यावदन्तर्वायुस्तिष्ठति तावज्जीवति, उद्धृतमात्रे तु शल्ये मर्मस्थानाश्रितो वायुर्निष्क्रामति, तस्मात् सशल्यो जीवत्युद्धृतशल्यो म्रियते (पाकात्पतितशल्यो वा जीवति)[अयꣳ पाठः केषुचित्पुस्तकेषु नोपलभयते]; वैकल्यकराणि सौम्यानि, सोमो हि स्थिरत्वाच्छैत्याच्च त्राणावलम्बनꣳ करोति; रुजाकराण्यग्निवायुगुणभूयिष्ठानि, विशेषतश्चऽविशेषेणऽइति पा+ तौ रुजाकरौ, पाञ्चभौतिकीꣳ च रुजामाहुरेके",
         "text": "Марны садья-пранахара обладают огненной (агнея) природой и убивают быстро при быстром исчерпании огненных качеств; калантара-пранахара имеют смешанную лунно-огненную природу и убивают спустя срок, по мере истощения огненных, а затем и лунных качеств; вишальягхна имеют природу Ваю: пока инородное тело, закрывающее рану, удерживает внутренний воздух, человек жив, но при его извлечении воздух, скопившийся в марме, выходит, и потому раненый умирает; вайкальякара имеют лунную природу, ибо Сома благодаря устойчивости и охлаждающему свойству оказывает поддерживающее действие; руджакара по преимуществу обладают качествами огня и воздуха, которые и считаются причиной боли, хотя некоторые полагают, что боль вызывается сочетанием всех пяти элементов.",
         "iast": "tatra sadyaḥprāṇaharāṇyāgneyāni, agniguṇeṣvāśu kṣīṇeṣu kṣapayanti; kālāntaraprāṇaharāṇi saumyāgneyāni, agniguṇeṣvāśu kṣīṇeṣu krameṇa ca somaguṇeṣu kālāntareṇa kṣapayanti; viśalyaprāṇaharāṇi vāyvyāni, śalyamukhāvaruddho yāvadantarvāyustiṣṭhati tāvajjīvati, uddhṛtamātre tu śalye marmasthānāśrito vāyurniṣkrāmati, tasmāt saśalyo jīvatyuddhṛtaśalyo mriyate (pākātpatitaśalyo vā jīvati)[ayaṁ pāṭhaḥ keṣucitpustakeṣu nopalabhayate]; vaikalyakarāṇi saumyāni, somo hi sthiratvācchaityācca trāṇāvalambanaṁ karoti; rujākarāṇyagnivāyuguṇabhūyiṣṭhāni, viśeṣataśca'viśeṣeṇa'iti pā+ tau rujākarau, pāñcabhautikīṁ ca rujāmāhureke",
-        "iast_ru": "татра садйах̣пра̄н̣ахара̄н̣йа̄гнейа̄ни, агнигун̣еш̣ва̄ш́у кш̣ӣн̣еш̣у кш̣апайанти; ка̄ла̄нтарапра̄н̣ахара̄н̣и саумйа̄гнейа̄ни, агнигун̣еш̣ва̄ш́у кш̣ӣн̣еш̣у крамен̣а ча сомагун̣еш̣у ка̄ла̄нтарен̣а кш̣апайанти; виш́алйапра̄н̣ахара̄н̣и ва̄йвйа̄ни, ш́алйамукха̄варуддхо йа̄вадантарва̄йустиш̣т̣хати та̄ваджджӣвати, уддхр̣тама̄тре ту ш́алйе мармастха̄на̄ш́рито ва̄йурниш̣кра̄мати, тасма̄т саш́алйо джӣватйуддхр̣таш́алйо мрийате (па̄ка̄тпатиташ́алйо ва̄ джӣвати)[айам̣ па̄т̣хах̣ кеш̣учитпустакеш̣у нопалабхайате]; ваикалйакара̄н̣и саумйа̄ни, сомо хи стхиратва̄ччхаитйа̄чча тра̄н̣а̄валамбанам̣ кароти; руджа̄кара̄н̣йагнива̄йугун̣абхӯйиш̣т̣ха̄ни, виш́еш̣аташ́ча'виш́еш̣ен̣а'ити па̄+ тау руджа̄карау, па̄н̃чабхаутикӣм̣ ча руджа̄ма̄хуреке"
+        "iast_ru": "татра садйах̣пра̄н̣ахара̄н̣йа̄гнейа̄ни, агнигун̣еш̣ва̄ш́у кш̣ӣн̣еш̣у кш̣апайанти; ка̄ла̄нтарапра̄н̣ахара̄н̣и саумйа̄гнейа̄ни, агнигун̣еш̣ва̄ш́у кш̣ӣн̣еш̣у крамен̣а ча сомагун̣еш̣у ка̄ла̄нтарен̣а кш̣апайанти; виш́алйапра̄н̣ахара̄н̣и ва̄йвйа̄ни, ш́алйамукха̄варуддхо йа̄вадантарва̄йустиш̣т̣хати та̄ваджджӣвати, уддхр̣тама̄тре ту ш́алйе мармастха̄на̄ш́рито ва̄йурниш̣кра̄мати, тасма̄т саш́алйо джӣватйуддхр̣таш́алйо мрийате (па̄ка̄тпатиташ́алйо ва̄ джӣвати)[айам̣ па̄т̣хах̣ кеш̣учитпустакеш̣у нопалабхайате]; ваикалйакара̄н̣и саумйа̄ни, сомо хи стхиратва̄ччхаитйа̄чча тра̄н̣а̄валамбанам̣ кароти; руджа̄кара̄н̣йагнива̄йугун̣абхӯйиш̣т̣ха̄ни, виш́еш̣аташ́ча'виш́еш̣ен̣а'ити па̄+ тау руджа̄карау, па̄н̃чабхаутикӣм̣ ча руджа̄ма̄хуреке",
+        "text_en": "The sadya-pranahara marmas possess a fiery (agneya) nature and kill quickly, as the fiery qualities are quickly exhausted; the kalantara-pranahara have a mixed lunar-fiery nature and kill after an interval, as the fiery and then the lunar qualities are gradually depleted; the vishalyaghna have the nature of Vayu: as long as the foreign body closing the wound retains the internal air, the person remains alive, but upon its extraction the air accumulated in the marma escapes, and therefore the wounded person dies; the vaikalyakara have a lunar nature, for Soma, by virtue of its stability and cooling property, exerts a sustaining effect; the rujakara predominantly possess the qualities of fire and air, which are considered the cause of pain, although some hold that pain is caused by the combination of all five elements."
       },
       {
         "type": "verse",
@@ -14103,7 +14456,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "केचिदाहुर्माꣳसादीनाꣳ पञ्चानामपि समस्तानाꣳ विवृद्धानाꣳऽसमवृद्धानाꣳऽइति पा+ च समवायात् सद्यःप्राणहराणि, एकहीनानामल्पानाꣳ वाऽचऽइति पा+ कालान्तरप्राणहराणि, द्विहीनानाꣳ विशल्यप्राणहराणिऽविशल्यघ्नानिऽइति पा+, त्रिहीनानाꣳ वैकल्यकराणि, एकस्मिन्नेव रुजाकराणीति/ नैवꣳ, यतो+अस्थिमर्मस्वप्यभिहतेषुऽयतश्चैवमतोऽइति पा+ शोणिताअमनꣳ भवति",
         "text": "Некоторые говорят, что немедленная смертельность возникает при одновременном обильном скоплении всех пяти начал в марме; при недостатке одного из них — калантара-пранахара; при отсутствии двух — вишальягхна; при отсутствии трёх — вайкальякара; а при наличии лишь одного начала — руджакара. Но это мнение неверно, поскольку даже при повреждении костных марм наблюдается сильное кровотечение.",
         "iast": "kecidāhurmāṁsādīnāṁ pañcānāmapi samastānāṁ vivṛddhānāṁ'samavṛddhānāṁ'iti pā+ ca samavāyāt sadyaḥprāṇaharāṇi, ekahīnānāmalpānāṁ vā'ca'iti pā+ kālāntaraprāṇaharāṇi, dvihīnānāṁ viśalyaprāṇaharāṇi'viśalyaghnāni'iti pā+, trihīnānāṁ vaikalyakarāṇi, ekasminneva rujākarāṇīti/ naivaṁ, yato+asthimarmasvapyabhihateṣu'yataścaivamato'iti pā+ śoṇitāamanaṁ bhavati",
-        "iast_ru": "кечида̄хурма̄м̣са̄дӣна̄м̣ пан̃ча̄на̄мапи самаста̄на̄м̣ вивр̣ддха̄на̄м̣'самавр̣ддха̄на̄м̣'ити па̄+ ча самава̄йа̄т садйах̣пра̄н̣ахара̄н̣и, екахӣна̄на̄малпа̄на̄м̣ ва̄'ча'ити па̄+ ка̄ла̄нтарапра̄н̣ахара̄н̣и, двихӣна̄на̄м̣ виш́алйапра̄н̣ахара̄н̣и'виш́алйагхна̄ни'ити па̄+, трихӣна̄на̄м̣ ваикалйакара̄н̣и, екасминнева руджа̄кара̄н̣ӣти/ наивам̣, йато+астхимармасвапйабхихатеш̣у'йаташ́чаивамато'ити па̄+ ш́он̣ита̄аманам̣ бхавати"
+        "iast_ru": "кечида̄хурма̄м̣са̄дӣна̄м̣ пан̃ча̄на̄мапи самаста̄на̄м̣ вивр̣ддха̄на̄м̣'самавр̣ддха̄на̄м̣'ити па̄+ ча самава̄йа̄т садйах̣пра̄н̣ахара̄н̣и, екахӣна̄на̄малпа̄на̄м̣ ва̄'ча'ити па̄+ ка̄ла̄нтарапра̄н̣ахара̄н̣и, двихӣна̄на̄м̣ виш́алйапра̄н̣ахара̄н̣и'виш́алйагхна̄ни'ити па̄+, трихӣна̄на̄м̣ ваикалйакара̄н̣и, екасминнева руджа̄кара̄н̣ӣти/ наивам̣, йато+астхимармасвапйабхихатеш̣у'йаташ́чаивамато'ити па̄+ ш́он̣ита̄аманам̣ бхавати",
+        "text_en": "Some say that immediate fatality arises when all five elements are simultaneously abundantly concentrated in a marma; when one of them is deficient, kalantara-pranahara results; when two are absent, vishalyaghna; when three are absent, vaikalyakara; and when only one element is present, rujakara. But this view is incorrect, since even upon injury to osseous marmas severe bleeding is observed."
       },
       {
         "type": "verse",
@@ -14111,7 +14465,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ चतुर्विधा यास्तु सिराः शरीरे प्रायेण ता मर्मसु सन्निविष्टाः स्नाय्वस्थिमाꣳसानि तथैव सन्धीन् सन्तर्प्य देहꣳ प्रतिपालयन्तिऽप्रतियापयन्तिऽइति पा+",
         "text": "И об этом сказано: четыре вида вен, имеющихся в теле, преимущественно сосредоточены в марнах и, питая связки, кости, мышцы и суставы, поддерживают тело.",
         "iast": "bhavanti cātra/ caturvidhā yāstu sirāḥ śarīre prāyeṇa tā marmasu sanniviṣṭāḥ snāyvasthimāṁsāni tathaiva sandhīn santarpya dehaṁ pratipālayanti'pratiyāpayanti'iti pā+",
-        "iast_ru": "бхаванти ча̄тра/ чатурвидха̄ йа̄сту сира̄х̣ ш́арӣре пра̄йен̣а та̄ мармасу саннивиш̣т̣а̄х̣ сна̄йвастхима̄м̣са̄ни татхаива сандхӣн сантарпйа дехам̣ пратипа̄лайанти'пратийа̄пайанти'ити па̄+"
+        "iast_ru": "бхаванти ча̄тра/ чатурвидха̄ йа̄сту сира̄х̣ ш́арӣре пра̄йен̣а та̄ мармасу саннивиш̣т̣а̄х̣ сна̄йвастхима̄м̣са̄ни татхаива сандхӣн сантарпйа дехам̣ пратипа̄лайанти'пратийа̄пайанти'ити па̄+",
+        "text_en": "And of this it is said: the four kinds of veins present in the body are chiefly concentrated in the marmas, and, by nourishing the ligaments, bones, muscles, and joints, sustain the body."
       },
       {
         "type": "verse",
@@ -14119,7 +14474,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ततः क्ष्ते मर्मणि ताः प्रवृद्धः समन्ततो वायुरभिस्तृणोतिविवर्धमानस्तु स मातरिश्वा रुजः सुतीव्राः प्रतनोति काये",
         "text": "Поэтому, когда марма повреждена, в ней со всех сторон скапливается возросший Ваю; разрастаясь, он вызывает в теле жестокие боли.",
         "iast": "tataḥ kṣte marmaṇi tāḥ pravṛddhaḥ samantato vāyurabhistṛṇotivivardhamānastu sa mātariśvā rujaḥ sutīvrāḥ pratanoti kāye",
-        "iast_ru": "татах̣ кш̣те марман̣и та̄х̣ правр̣ддхах̣ самантато ва̄йурабхистр̣н̣отививардхама̄насту са ма̄тариш́ва̄ руджах̣ сутӣвра̄х̣ пратаноти ка̄йе"
+        "iast_ru": "татах̣ кш̣те марман̣и та̄х̣ правр̣ддхах̣ самантато ва̄йурабхистр̣н̣отививардхама̄насту са ма̄тариш́ва̄ руджах̣ сутӣвра̄х̣ пратаноти ка̄йе",
+        "text_en": "Therefore, when a marma is injured, aggravated Vata gathers there from all sides; multiplying, it produces severe pains in the body."
       },
       {
         "type": "verse",
@@ -14127,7 +14483,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रुजाभिभूतꣳ तु ततः शरीरꣳ प्रलीयते नश्यति चास्य सꣳज्ञा अतो हि शल्यꣳ विनिहर्तुमिच्छन्मर्माणि यत्नेन परीक्ष्य कर्षेत्",
         "text": "Одолеваемое болью тело слабеет, а сознание больного угасает; поэтому желающий извлечь инородное тело должен тщательно исследовать марны, прежде чем производить извлечение.",
         "iast": "rujābhibhūtaṁ tu tataḥ śarīraṁ pralīyate naśyati cāsya saṁjñā ato hi śalyaṁ vinihartumicchanmarmāṇi yatnena parīkṣya karṣet",
-        "iast_ru": "руджа̄бхибхӯтам̣ ту татах̣ ш́арӣрам̣ пралӣйате наш́йати ча̄сйа сам̣джн̃а̄ ато хи ш́алйам̣ винихартумиччханмарма̄н̣и йатнена парӣкш̣йа карш̣ет"
+        "iast_ru": "руджа̄бхибхӯтам̣ ту татах̣ ш́арӣрам̣ пралӣйате наш́йати ча̄сйа сам̣джн̃а̄ ато хи ш́алйам̣ винихартумиччханмарма̄н̣и йатнена парӣкш̣йа карш̣ет",
+        "text_en": "The body, overcome by pain, grows weak, and the patient's consciousness fades; therefore one who wishes to extract a foreign body should carefully examine the marmas before undertaking the extraction."
       },
       {
         "type": "verse",
@@ -14135,7 +14492,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एतेनशेषꣳ व्याख्यातम्",
         "text": "Этим объяснено и всё остальное.",
         "iast": "etenaśeṣaṁ vyākhyātam",
-        "iast_ru": "етенаш́еш̣ам̣ вйа̄кхйа̄там"
+        "iast_ru": "етенаш́еш̣ам̣ вйа̄кхйа̄там",
+        "text_en": "By this all the rest is likewise explained."
       },
       {
         "type": "verse",
@@ -14143,7 +14501,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सद्यःप्राणहरमन्ते विद्धꣳ कालान्तरेण मारयति, कालान्तरप्राणहरमन्ते विद्धꣳ वैकल्यमापादयति विशल्यप्राणहरꣳ च, वैकल्यकरꣳ कालान्तरꣳ क्लेशयति रुजाꣳ च करोति, रुजाकरमतीव्रवेदनꣳ भवति[ऽविशल्यप्राणहरमन्ते विद्धꣳ क्लेशयति कालान्तरेण च रुजाꣳ करोतिऽ इति पा+]",
         "text": "Марма садья-пранахара, поражённая по краю, убивает лишь спустя время; калантара-пранахара, поражённая по краю, приводит к увечью, как и вишальягхна; вайкальякара, поражённая по краю, долго причиняет страдание и вызывает боль; руджакара же вызывает чрезвычайно сильную боль.",
         "iast": "tatra sadyaḥprāṇaharamante viddhaṁ kālāntareṇa mārayati, kālāntaraprāṇaharamante viddhaṁ vaikalyamāpādayati viśalyaprāṇaharaṁ ca, vaikalyakaraṁ kālāntaraṁ kleśayati rujāṁ ca karoti, rujākaramatīvravedanaṁ bhavati['viśalyaprāṇaharamante viddhaṁ kleśayati kālāntareṇa ca rujāṁ karoti' iti pā+]",
-        "iast_ru": "татра садйах̣пра̄н̣ахараманте виддхам̣ ка̄ла̄нтарен̣а ма̄райати, ка̄ла̄нтарапра̄н̣ахараманте виддхам̣ ваикалйама̄па̄дайати виш́алйапра̄н̣ахарам̣ ча, ваикалйакарам̣ ка̄ла̄нтарам̣ клеш́айати руджа̄м̣ ча кароти, руджа̄караматӣвраведанам̣ бхавати['виш́алйапра̄н̣ахараманте виддхам̣ клеш́айати ка̄ла̄нтарен̣а ча руджа̄м̣ кароти' ити па̄+]"
+        "iast_ru": "татра садйах̣пра̄н̣ахараманте виддхам̣ ка̄ла̄нтарен̣а ма̄райати, ка̄ла̄нтарапра̄н̣ахараманте виддхам̣ ваикалйама̄па̄дайати виш́алйапра̄н̣ахарам̣ ча, ваикалйакарам̣ ка̄ла̄нтарам̣ клеш́айати руджа̄м̣ ча кароти, руджа̄караматӣвраведанам̣ бхавати['виш́алйапра̄н̣ахараманте виддхам̣ клеш́айати ка̄ла̄нтарен̣а ча руджа̄м̣ кароти' ити па̄+]",
+        "text_en": "A sadya-pranahara marma, struck at its edge, kills only after a delay; a kalantara-pranahara marma, struck at its edge, leads to deformity, as does vishalyaghna; a vaikalyakara marma, struck at its edge, causes prolonged suffering and pain; while rujakara causes exceedingly severe pain."
       },
       {
         "type": "verse",
@@ -14151,7 +14510,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सद्यःप्राणहराणि सप्तरात्राभ्यन्तरान्मारयति, कालान्तरप्राणहराणि पक्षान्मासाद्वा, तेष्वपि क्षिप्राणि कदाचिदाशु मारयन्ति, विशल्यप्राणहराणि वैकल्यकराणि च कदाचिदत्यभिहतानि मारयन्ति",
         "text": "Марны садья-пранахара убивают в течение семи суток; калантара-пранахара — в течение двух недель или месяца, хотя быстро действующие среди них могут иногда убить скорее; вишальягхна и вайкальякара при особо тяжёлом повреждении также иногда становятся смертельными.",
         "iast": "tatra sadyaḥprāṇaharāṇi saptarātrābhyantarānmārayati, kālāntaraprāṇaharāṇi pakṣānmāsādvā, teṣvapi kṣiprāṇi kadācidāśu mārayanti, viśalyaprāṇaharāṇi vaikalyakarāṇi ca kadācidatyabhihatāni mārayanti",
-        "iast_ru": "татра садйах̣пра̄н̣ахара̄н̣и саптара̄тра̄бхйантара̄нма̄райати, ка̄ла̄нтарапра̄н̣ахара̄н̣и пакш̣а̄нма̄са̄два̄, теш̣вапи кш̣ипра̄н̣и када̄чида̄ш́у ма̄райанти, виш́алйапра̄н̣ахара̄н̣и ваикалйакара̄н̣и ча када̄чидатйабхихата̄ни ма̄райанти"
+        "iast_ru": "татра садйах̣пра̄н̣ахара̄н̣и саптара̄тра̄бхйантара̄нма̄райати, ка̄ла̄нтарапра̄н̣ахара̄н̣и пакш̣а̄нма̄са̄два̄, теш̣вапи кш̣ипра̄н̣и када̄чида̄ш́у ма̄райанти, виш́алйапра̄н̣ахара̄н̣и ваикалйакара̄н̣и ча када̄чидатйабхихата̄ни ма̄райанти",
+        "text_en": "The sadya-pranahara marmas kill within seven days; the kalantara-pranahara within two weeks or a month, although the more rapidly acting among them may sometimes kill sooner; the vishalyaghna and vaikalyakara, in cases of especially severe injury, also sometimes prove fatal."
       },
       {
         "type": "verse",
@@ -14159,7 +14519,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "उत ऊर्ध्वꣳ प्रत्येकशो मर्मस्थानानि व्याख्यास्यामः---तत्र पादस्याङ्गुष्ठाङ्गुल्योर्मध्ये क्षिप्रꣳऽक्षिप्रमिति मर्मऽइति पा+ नाम मर्म, तत्र विद्धस्याक्षेपकेण मरणꣳ; मध्यमाङ्गुलीमनुपूर्वण मध्ये पादतलस्य तलहृदयꣳ नाम[अत्र+अमामऽइति हस्तलिखितपुस्तके नोपलभ्यते, एवमग्रे+अपि/], तत्रापि रुजाभिर्मरणꣳ; क्षिप्रत्योपरिष्टादुभयतः कूर्चो नाम, तत्र पादस्य भ्रमणवेपने भवतः; गुल्फसन्धेरध उभयतः कूर्चशिरो नाम, तत्र रुजाशोफौ; पादजङ्घयोः सन्धाने गुल्फो नाम, तत्र रुजः स्तब्धपादता खञ्जता वा; पार्ष्णिꣳ प्रति जङ्घामध्ये इन्द्रिबस्तिर्नाम, तत्र शोणितक्षयेण मरणꣳ; जङ्घोर्वोः[ऽमध्यमाङ्गुलीमानुपूर्व्येण जङ्घोर्वोःऽइति पा+] सन्धाने जानु नाम, तत्र खञ्जता; जानुनऽजानुसन्धेरुभयतस्त्र्यङ्गुलेऽइति पा+ ऊर्ध्वमुभयतस्त्र्यङ्गुलमाणी नाम, तत्र शोफाभिवृद्धिः स्तब्धसक्थिता च; ऊरुमध्ये ऊर्वी नाम, तत्र शोणितक्षयात् सक्थिशोषः; ऊर्व्या ऊर्ध्वमधो वङ्क्षणसꣳधेर्-ऊरुमूलेऽऊरुमध्ये लोहिताख्यꣳऽइति पा+ लोहिताक्षꣳ नाम, तत्र लोहितक्षयेण[ऽलोहितक्षयेण मरणꣳ पक्षाघातो वाऽइति पा+] पक्षाघातः सक्थिशोषो वा; वङ्क्षणवृषणयोरन्तरे निटपꣳ नाम, तत्र षाण्ढ्यमल्पशुक्रता वा भवति; एवमेतान्येकादश सक्थिमर्माणि व्याख्यातानि/ एतेनेतरसक्थि बाहू च व्याख्यातौ/ विशेषतस्तु यानि सक्थ्नि गुल्फजानुविटपानि तानि बाहौ मणिबव्धकूर्परकक्षधराणि; यथा वङ्क्षणवृषणयोरन्तरे विटपमेवꣳ वक्षःकक्षयोर्मध्ये कक्षधरꣳ, तस्मिन् विद्धे त एवोपद्रवाः; विशेषतस्तु मणिबन्धे कुण्ठता, कूर्पराख्ये कुणिः, कक्षधरे पक्षाघातः/ एवमेतानि चतुश्चत्वारिꣳशच्छाखासु मर्माणि व्याख्यातानि",
         "text": "Теперь опишем каждую марму отдельно по местоположению. Между большим и вторым пальцем стопы находится кшипра; её повреждение вызывает смерть от судорог. Посередине подошвы, на линии среднего пальца, — тала-хридая; повреждение приводит к смерти от боли. Выше кшипры с обеих сторон стопы — курча; при повреждении стопа дрожит и вращается. Ниже голеностопного сустава с обеих сторон — курча-ширах; повреждение вызывает боль и отёк. В месте соединения стопы и голени — гулпха; при повреждении возникает боль, оцепенение стопы или хромота. Посередине голени, ближе к пятке, — индраваcти; повреждение приводит к смерти от истощения крови. В месте соединения голени и бедра — джану; повреждение вызывает хромоту. На три пальца выше колена с обеих сторон — ани; при повреждении усиливается отёк и возникает оцепенение ноги. Посередине бедра — урви; повреждение из-за потери крови приводит к атрофии ноги. Выше урви, ниже паховой складки, у основания бедра, — лохитакша; повреждение вызывает паралич половины тела или атрофию ноги. Между пахом и мошонкой — витапа; при повреждении наступает бесплодие или ослабление семени. Так объяснены одиннадцать марм ноги (то же для другой ноги). Соответственно гулпхе, джану и витапе на руке находятся манибандха, курпара и какшадхара, вызывающие при повреждении сходные осложнения: в манибандхе — оцепенение кисти, в курпаре — свисание руки, в какшадхаре — паралич. Так объяснены сорок четыре марны конечностей.",
         "iast": "uta ūrdhvaṁ pratyekaśo marmasthānāni vyākhyāsyāmaḥ---tatra pādasyāṅguṣṭhāṅgulyormadhye kṣipraṁ'kṣipramiti marma'iti pā+ nāma marma, tatra viddhasyākṣepakeṇa maraṇaṁ; madhyamāṅgulīmanupūrvaṇa madhye pādatalasya talahṛdayaṁ nāma[atra+amāma'iti hastalikhitapustake nopalabhyate, evamagre+api/], tatrāpi rujābhirmaraṇaṁ; kṣipratyopariṣṭādubhayataḥ kūrco nāma, tatra pādasya bhramaṇavepane bhavataḥ; gulphasandheradha ubhayataḥ kūrcaśiro nāma, tatra rujāśophau; pādajaṅghayoḥ sandhāne gulpho nāma, tatra rujaḥ stabdhapādatā khañjatā vā; pārṣṇiṁ prati jaṅghāmadhye indribastirnāma, tatra śoṇitakṣayeṇa maraṇaṁ; jaṅghorvoḥ['madhyamāṅgulīmānupūrvyeṇa jaṅghorvoḥ'iti pā+] sandhāne jānu nāma, tatra khañjatā; jānuna'jānusandherubhayatastryaṅgule'iti pā+ ūrdhvamubhayatastryaṅgulamāṇī nāma, tatra śophābhivṛddhiḥ stabdhasakthitā ca; ūrumadhye ūrvī nāma, tatra śoṇitakṣayāt sakthiśoṣaḥ; ūrvyā ūrdhvamadho vaṅkṣaṇasaṁdher-ūrumūle'ūrumadhye lohitākhyaṁ'iti pā+ lohitākṣaṁ nāma, tatra lohitakṣayeṇa['lohitakṣayeṇa maraṇaṁ pakṣāghāto vā'iti pā+] pakṣāghātaḥ sakthiśoṣo vā; vaṅkṣaṇavṛṣaṇayorantare niṭapaṁ nāma, tatra ṣāṇḍhyamalpaśukratā vā bhavati; evametānyekādaśa sakthimarmāṇi vyākhyātāni/ etenetarasakthi bāhū ca vyākhyātau/ viśeṣatastu yāni sakthni gulphajānuviṭapāni tāni bāhau maṇibavdhakūrparakakṣadharāṇi; yathā vaṅkṣaṇavṛṣaṇayorantare viṭapamevaṁ vakṣaḥkakṣayormadhye kakṣadharaṁ, tasmin viddhe ta evopadravāḥ; viśeṣatastu maṇibandhe kuṇṭhatā, kūrparākhye kuṇiḥ, kakṣadhare pakṣāghātaḥ/ evametāni catuścatvāriṁśacchākhāsu marmāṇi vyākhyātāni",
-        "iast_ru": "ута ӯрдхвам̣ пратйекаш́о мармастха̄на̄ни вйа̄кхйа̄сйа̄мах̣---татра па̄дасйа̄н̇гуш̣т̣ха̄н̇гулйормадхйе кш̣ипрам̣'кш̣ипрамити марма'ити па̄+ на̄ма марма, татра виддхасйа̄кш̣епакен̣а маран̣ам̣; мадхйама̄н̇гулӣманупӯрван̣а мадхйе па̄даталасйа талахр̣дайам̣ на̄ма[атра+ама̄ма'ити хасталикхитапустаке нопалабхйате, евамагре+апи/], татра̄пи руджа̄бхирмаран̣ам̣; кш̣ипратйопариш̣т̣а̄дубхайатах̣ кӯрчо на̄ма, татра па̄дасйа бхраман̣авепане бхаватах̣; гулпхасандхерадха убхайатах̣ кӯрчаш́иро на̄ма, татра руджа̄ш́опхау; па̄даджан̇гхайох̣ сандха̄не гулпхо на̄ма, татра руджах̣ стабдхапа̄дата̄ кхан̃джата̄ ва̄; па̄рш̣н̣им̣ прати джан̇гха̄мадхйе индрибастирна̄ма, татра ш́он̣итакш̣айен̣а маран̣ам̣; джан̇гхорвох̣['мадхйама̄н̇гулӣма̄нупӯрвйен̣а джан̇гхорвох̣'ити па̄+] сандха̄не джа̄ну на̄ма, татра кхан̃джата̄; джа̄нуна'джа̄нусандхерубхайатастрйан̇гуле'ити па̄+ ӯрдхвамубхайатастрйан̇гулама̄н̣ӣ на̄ма, татра ш́опха̄бхивр̣ддхих̣ стабдхасактхита̄ ча; ӯрумадхйе ӯрвӣ на̄ма, татра ш́он̣итакш̣айа̄т сактхиш́ош̣ах̣; ӯрвйа̄ ӯрдхвамадхо ван̇кш̣ан̣асам̣дхер-ӯрумӯле'ӯрумадхйе лохита̄кхйам̣'ити па̄+ лохита̄кш̣ам̣ на̄ма, татра лохитакш̣айен̣а['лохитакш̣айен̣а маран̣ам̣ пакш̣а̄гха̄то ва̄'ити па̄+] пакш̣а̄гха̄тах̣ сактхиш́ош̣о ва̄; ван̇кш̣ан̣авр̣ш̣ан̣айорантаре нит̣апам̣ на̄ма, татра ш̣а̄н̣д̣хйамалпаш́украта̄ ва̄ бхавати; евамета̄нйека̄даш́а сактхимарма̄н̣и вйа̄кхйа̄та̄ни/ етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау/ виш́еш̣атасту йа̄ни сактхни гулпхаджа̄нувит̣апа̄ни та̄ни ба̄хау ман̣ибавдхакӯрпаракакш̣адхара̄н̣и; йатха̄ ван̇кш̣ан̣авр̣ш̣ан̣айорантаре вит̣апамевам̣ вакш̣ах̣какш̣айормадхйе какш̣адхарам̣, тасмин виддхе та евопадрава̄х̣; виш́еш̣атасту ман̣ибандхе кун̣т̣хата̄, кӯрпара̄кхйе кун̣их̣, какш̣адхаре пакш̣а̄гха̄тах̣/ евамета̄ни чатуш́чатва̄рим̣ш́аччха̄кха̄су марма̄н̣и вйа̄кхйа̄та̄ни"
+        "iast_ru": "ута ӯрдхвам̣ пратйекаш́о мармастха̄на̄ни вйа̄кхйа̄сйа̄мах̣---татра па̄дасйа̄н̇гуш̣т̣ха̄н̇гулйормадхйе кш̣ипрам̣'кш̣ипрамити марма'ити па̄+ на̄ма марма, татра виддхасйа̄кш̣епакен̣а маран̣ам̣; мадхйама̄н̇гулӣманупӯрван̣а мадхйе па̄даталасйа талахр̣дайам̣ на̄ма[атра+ама̄ма'ити хасталикхитапустаке нопалабхйате, евамагре+апи/], татра̄пи руджа̄бхирмаран̣ам̣; кш̣ипратйопариш̣т̣а̄дубхайатах̣ кӯрчо на̄ма, татра па̄дасйа бхраман̣авепане бхаватах̣; гулпхасандхерадха убхайатах̣ кӯрчаш́иро на̄ма, татра руджа̄ш́опхау; па̄даджан̇гхайох̣ сандха̄не гулпхо на̄ма, татра руджах̣ стабдхапа̄дата̄ кхан̃джата̄ ва̄; па̄рш̣н̣им̣ прати джан̇гха̄мадхйе индрибастирна̄ма, татра ш́он̣итакш̣айен̣а маран̣ам̣; джан̇гхорвох̣['мадхйама̄н̇гулӣма̄нупӯрвйен̣а джан̇гхорвох̣'ити па̄+] сандха̄не джа̄ну на̄ма, татра кхан̃джата̄; джа̄нуна'джа̄нусандхерубхайатастрйан̇гуле'ити па̄+ ӯрдхвамубхайатастрйан̇гулама̄н̣ӣ на̄ма, татра ш́опха̄бхивр̣ддхих̣ стабдхасактхита̄ ча; ӯрумадхйе ӯрвӣ на̄ма, татра ш́он̣итакш̣айа̄т сактхиш́ош̣ах̣; ӯрвйа̄ ӯрдхвамадхо ван̇кш̣ан̣асам̣дхер-ӯрумӯле'ӯрумадхйе лохита̄кхйам̣'ити па̄+ лохита̄кш̣ам̣ на̄ма, татра лохитакш̣айен̣а['лохитакш̣айен̣а маран̣ам̣ пакш̣а̄гха̄то ва̄'ити па̄+] пакш̣а̄гха̄тах̣ сактхиш́ош̣о ва̄; ван̇кш̣ан̣авр̣ш̣ан̣айорантаре нит̣апам̣ на̄ма, татра ш̣а̄н̣д̣хйамалпаш́украта̄ ва̄ бхавати; евамета̄нйека̄даш́а сактхимарма̄н̣и вйа̄кхйа̄та̄ни/ етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау/ виш́еш̣атасту йа̄ни сактхни гулпхаджа̄нувит̣апа̄ни та̄ни ба̄хау ман̣ибавдхакӯрпаракакш̣адхара̄н̣и; йатха̄ ван̇кш̣ан̣авр̣ш̣ан̣айорантаре вит̣апамевам̣ вакш̣ах̣какш̣айормадхйе какш̣адхарам̣, тасмин виддхе та евопадрава̄х̣; виш́еш̣атасту ман̣ибандхе кун̣т̣хата̄, кӯрпара̄кхйе кун̣их̣, какш̣адхаре пакш̣а̄гха̄тах̣/ евамета̄ни чатуш́чатва̄рим̣ш́аччха̄кха̄су марма̄н̣и вйа̄кхйа̄та̄ни",
+        "text_en": "Now let us describe each marma individually according to its location. Between the big toe and the second toe of the foot is Kshipra; its injury causes death from convulsions. In the middle of the sole, on the line of the middle toe, is Talahridaya; injury leads to death from pain. Above Kshipra, on both sides of the foot, is Kurcha; upon injury the foot trembles and rotates. Below the ankle joint on both sides is Kurchashiras; injury causes pain and swelling. At the junction of the foot and the shin is Gulpha; upon injury pain, numbness of the foot, or lameness arises. In the middle of the shin, closer to the heel, is Indravasti; injury leads to death from loss of blood. At the junction of the shin and the thigh is Janu; injury causes lameness. Three fingers above the knee on both sides is Ani; upon injury swelling increases and the leg becomes numb. In the middle of the thigh is Urvi; injury, through loss of blood, leads to atrophy of the leg. Above Urvi, below the groin fold, at the base of the thigh, is Lohitaksha; injury causes paralysis of half the body or atrophy of the leg. Between the groin and the scrotum is Vitapa; upon injury infertility or weakening of the semen results. Thus are explained the eleven marmas of the leg (the same for the other leg). Corresponding to Gulpha, Janu, and Vitapa in the arm are Manibandha, Kurpara, and Kakshadhara, which upon injury cause similar complications: in Manibandha, numbness of the hand; in Kurpara, a drooping of the arm; in Kakshadhara, paralysis. Thus are explained the forty-four marmas of the limbs."
       },
       {
         "type": "verse",
@@ -14167,7 +14528,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अत ऊर्ध्वमुदरोरसोर्-मर्माण्यनुव्याख्यास्यामः[ऽमर्मस्धानान्यनुव्याख्यास्यामःऽइति पा+]---तत्र वातवर्चोनिरसनꣳ स्थूलान्त्रप्रतिवद्धꣳ गुदꣳ नाम मर्म, तत्र सद्योमरणꣳ; अल्पमाꣳसशोणितो+भ्यन्तरतः क्ट्याꣳ मुत्राशयो बस्तिर्नाम, तत्रापि सद्योमरꣳअमश्मरीव्रणादृते, तत्राप्युभयतो भिन्ने न जावति, एकतो भिन्ने मूत्रस्रावी व्रणो भवति, स तु यत्नेनोपक्रान्तो रोहति; पक्वामाशययोर्मध्ये सिराप्रभावा नाभिर्नाम, तत्रापि सद्यो मरणꣳ; स्तनयोर्मध्यमधिष्ठायोरस्यामाशयद्वारꣳ[ऽस्तनचूचुकयोर्मध्ये स्तनरोहितौऽइति पा+] सत्त्वरजस्तमसामधिष्ठानꣳ हृदयꣳ नाम, तत्रापि सद्य एव मरणꣳ; स्तनयोरधस्ताद् द्व्यङ्गुलमुभयतः स्तनमूले नाम (मर्मणी)ऽमर्मणीऽइति हस्तलिखितपुस्तके नोपलभ्यते /, तत्र कफपूर्णकोष्ठतया कसश्वासाभ्याꣳ म्रियते; स्तनचूचुकयोरूर्ध्वꣳ द्वङ्गुलमुभयतः स्तनरोहितौ नाम, तत्र लोहितपूर्णकोष्ठतया कासश्वासाभ्याꣳ च म्रियते; अꣳसकूटयोरधस्तात् पार्श्बोपरिभागयोरपलापौ नाम, तत्र रक्तेन पूयभावꣳ गतेन मरणꣳ; उभयत्रोरसो नाड्यौ वातवहे अपस्तम्भौ नाम, तत्र वातपूर्णकोष्ठतया कासश्वासाभ्याꣳ च मरणꣳ; ए अमेतान्युदरोरसोर्द्वादश मर्माणि व्याख्यातानि [स्तनमूललक्षणे+अस्तनयोरूर्ध्वꣳऽइति / स्तनरोहितलक्षणे च+अस्तनचूचुकयोरधस्तात्ऽइति च रसयोगसागरस्योपोद्धाते(पृ.१५८) च सꣳशोधितः पाठः/ विशेषविवरणꣳ तु तत्रैव द्रष्टव्यम्/]",
         "text": "Далее опишем марны живота и груди. Марма, связанная с толстой кишкой и служащая для выведения ветров и кала, — гуда; её повреждение убивает немедленно. Внутри поясницы, где немного мышцы и крови, находится мочевой пузырь, называемый басти; его повреждение также смертельно немедленно, кроме случаев камня или язвы, когда при пробитии с обеих сторон исход неблагоприятен, а при повреждении с одной стороны образуется рана с истечением мочи, которая при тщательном лечении может зарубцеваться. Между паквашаей и амашаей, где сходятся вены, — набхи (пупок); повреждение смертельно немедленно. Между грудями, у входа в амашаю, вместилище саттвы, раджаса и тамаса, — хридая (сердце); повреждение убивает немедленно. На два пальца ниже грудей с обеих сторон — стана-мула; при повреждении грудная полость наполняется слизью, и смерть наступает от кашля и удушья. На два пальца выше сосков — стана-рохита; при повреждении полость наполняется кровью, смерть также от кашля и удушья. Под лопатками, в верхней части боков, — обе апалапы; их повреждение приводит к нагноению скопившейся крови и смерти. По обеим сторонам груди — проводящие Вайю каналы, апастамбха; их повреждение наполняет грудь воздухом, смерть от кашля и удушья. Так объяснены двенадцать марм живота и груди.",
         "iast": "ata ūrdhvamudarorasor-marmāṇyanuvyākhyāsyāmaḥ['marmasdhānānyanuvyākhyāsyāmaḥ'iti pā+]---tatra vātavarconirasanaṁ sthūlāntraprativaddhaṁ gudaṁ nāma marma, tatra sadyomaraṇaṁ; alpamāṁsaśoṇito+bhyantarataḥ kṭyāṁ mutrāśayo bastirnāma, tatrāpi sadyomaraṁamaśmarīvraṇādṛte, tatrāpyubhayato bhinne na jāvati, ekato bhinne mūtrasrāvī vraṇo bhavati, sa tu yatnenopakrānto rohati; pakvāmāśayayormadhye sirāprabhāvā nābhirnāma, tatrāpi sadyo maraṇaṁ; stanayormadhyamadhiṣṭhāyorasyāmāśayadvāraṁ['stanacūcukayormadhye stanarohitau'iti pā+] sattvarajastamasāmadhiṣṭhānaṁ hṛdayaṁ nāma, tatrāpi sadya eva maraṇaṁ; stanayoradhastād dvyaṅgulamubhayataḥ stanamūle nāma (marmaṇī)'marmaṇī'iti hastalikhitapustake nopalabhyate /, tatra kaphapūrṇakoṣṭhatayā kasaśvāsābhyāṁ mriyate; stanacūcukayorūrdhvaṁ dvaṅgulamubhayataḥ stanarohitau nāma, tatra lohitapūrṇakoṣṭhatayā kāsaśvāsābhyāṁ ca mriyate; aṁsakūṭayoradhastāt pārśboparibhāgayorapalāpau nāma, tatra raktena pūyabhāvaṁ gatena maraṇaṁ; ubhayatroraso nāḍyau vātavahe apastambhau nāma, tatra vātapūrṇakoṣṭhatayā kāsaśvāsābhyāṁ ca maraṇaṁ; e ametānyudarorasordvādaśa marmāṇi vyākhyātāni [stanamūlalakṣaṇe+astanayorūrdhvaṁ'iti / stanarohitalakṣaṇe ca+astanacūcukayoradhastāt'iti ca rasayogasāgarasyopoddhāte(pṛ.158) ca saṁśodhitaḥ pāṭhaḥ/ viśeṣavivaraṇaṁ tu tatraiva draṣṭavyam/]",
-        "iast_ru": "ата ӯрдхвамударорасор-марма̄н̣йанувйа̄кхйа̄сйа̄мах̣['мармасдха̄на̄нйанувйа̄кхйа̄сйа̄мах̣'ити па̄+]---татра ва̄таварчонирасанам̣ стхӯла̄нтрапративаддхам̣ гудам̣ на̄ма марма, татра садйомаран̣ам̣; алпама̄м̣саш́он̣ито+бхйантаратах̣ кт̣йа̄м̣ мутра̄ш́айо бастирна̄ма, татра̄пи садйомарам̣амаш́марӣвран̣а̄др̣те, татра̄пйубхайато бхинне на джа̄вати, екато бхинне мӯтрасра̄вӣ вран̣о бхавати, са ту йатненопакра̄нто рохати; паква̄ма̄ш́айайормадхйе сира̄прабха̄ва̄ на̄бхирна̄ма, татра̄пи садйо маран̣ам̣; станайормадхйамадхиш̣т̣ха̄йорасйа̄ма̄ш́айадва̄рам̣['станачӯчукайормадхйе станарохитау'ити па̄+] саттвараджастамаса̄мадхиш̣т̣ха̄нам̣ хр̣дайам̣ на̄ма, татра̄пи садйа ева маран̣ам̣; станайорадхаста̄д двйан̇гуламубхайатах̣ станамӯле на̄ма (марман̣ӣ)'марман̣ӣ'ити хасталикхитапустаке нопалабхйате /, татра капхапӯрн̣акош̣т̣хатайа̄ касаш́ва̄са̄бхйа̄м̣ мрийате; станачӯчукайорӯрдхвам̣ дван̇гуламубхайатах̣ станарохитау на̄ма, татра лохитапӯрн̣акош̣т̣хатайа̄ ка̄саш́ва̄са̄бхйа̄м̣ ча мрийате; ам̣сакӯт̣айорадхаста̄т па̄рш́бопарибха̄гайорапала̄пау на̄ма, татра рактена пӯйабха̄вам̣ гатена маран̣ам̣; убхайатрорасо на̄д̣йау ва̄тавахе апастамбхау на̄ма, татра ва̄тапӯрн̣акош̣т̣хатайа̄ ка̄саш́ва̄са̄бхйа̄м̣ ча маран̣ам̣; е амета̄нйударорасордва̄даш́а марма̄н̣и вйа̄кхйа̄та̄ни [станамӯлалакш̣ан̣е+астанайорӯрдхвам̣'ити / станарохиталакш̣ан̣е ча+астаначӯчукайорадхаста̄т'ити ча расайогаса̄гарасйоподдха̄те(пр̣.158) ча сам̣ш́одхитах̣ па̄т̣хах̣/ виш́еш̣авиваран̣ам̣ ту татраива драш̣т̣авйам/]"
+        "iast_ru": "ата ӯрдхвамударорасор-марма̄н̣йанувйа̄кхйа̄сйа̄мах̣['мармасдха̄на̄нйанувйа̄кхйа̄сйа̄мах̣'ити па̄+]---татра ва̄таварчонирасанам̣ стхӯла̄нтрапративаддхам̣ гудам̣ на̄ма марма, татра садйомаран̣ам̣; алпама̄м̣саш́он̣ито+бхйантаратах̣ кт̣йа̄м̣ мутра̄ш́айо бастирна̄ма, татра̄пи садйомарам̣амаш́марӣвран̣а̄др̣те, татра̄пйубхайато бхинне на джа̄вати, екато бхинне мӯтрасра̄вӣ вран̣о бхавати, са ту йатненопакра̄нто рохати; паква̄ма̄ш́айайормадхйе сира̄прабха̄ва̄ на̄бхирна̄ма, татра̄пи садйо маран̣ам̣; станайормадхйамадхиш̣т̣ха̄йорасйа̄ма̄ш́айадва̄рам̣['станачӯчукайормадхйе станарохитау'ити па̄+] саттвараджастамаса̄мадхиш̣т̣ха̄нам̣ хр̣дайам̣ на̄ма, татра̄пи садйа ева маран̣ам̣; станайорадхаста̄д двйан̇гуламубхайатах̣ станамӯле на̄ма (марман̣ӣ)'марман̣ӣ'ити хасталикхитапустаке нопалабхйате /, татра капхапӯрн̣акош̣т̣хатайа̄ касаш́ва̄са̄бхйа̄м̣ мрийате; станачӯчукайорӯрдхвам̣ дван̇гуламубхайатах̣ станарохитау на̄ма, татра лохитапӯрн̣акош̣т̣хатайа̄ ка̄саш́ва̄са̄бхйа̄м̣ ча мрийате; ам̣сакӯт̣айорадхаста̄т па̄рш́бопарибха̄гайорапала̄пау на̄ма, татра рактена пӯйабха̄вам̣ гатена маран̣ам̣; убхайатрорасо на̄д̣йау ва̄тавахе апастамбхау на̄ма, татра ва̄тапӯрн̣акош̣т̣хатайа̄ ка̄саш́ва̄са̄бхйа̄м̣ ча маран̣ам̣; е амета̄нйударорасордва̄даш́а марма̄н̣и вйа̄кхйа̄та̄ни [станамӯлалакш̣ан̣е+астанайорӯрдхвам̣'ити / станарохиталакш̣ан̣е ча+астаначӯчукайорадхаста̄т'ити ча расайогаса̄гарасйоподдха̄те(пр̣.158) ча сам̣ш́одхитах̣ па̄т̣хах̣/ виш́еш̣авиваран̣ам̣ ту татраива драш̣т̣авйам/]",
+        "text_en": "Next let us describe the marmas of the belly and chest. The marma connected with the large intestine, serving for the expulsion of wind and feces, is Guda; its injury kills immediately. Within the lower back, where there is little muscle and blood, is situated the bladder, called Basti; its injury is likewise immediately fatal, except in cases of a stone or an ulcer, where, if pierced through on both sides, the outcome is unfavorable, while injury on one side alone produces a wound with a discharge of urine, which, with careful treatment, may cicatrize. Between the Pakvashaya and the Amashaya, where the veins converge, is Nabhi (the navel); injury is immediately fatal. Between the breasts, at the entrance to the Amashaya, the seat of sattva, rajas, and tamas, is Hridaya (the heart); injury kills immediately. Two fingers below the breasts on both sides is Stanamula; upon injury the chest cavity fills with mucus, and death follows from cough and suffocation. Two fingers above the nipples is Stanarohita; upon injury the cavity fills with blood, death likewise from cough and suffocation. Beneath the shoulder blades, in the upper part of the flanks, are both Apalapas; their injury leads to suppuration of the accumulated blood and death. On both sides of the chest are the channels conducting Vayu, the Apastambhas; their injury fills the chest with air, death following from cough and suffocation. Thus are explained the twelve marmas of the belly and chest."
       },
       {
         "type": "verse",
@@ -14175,7 +14537,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अत ऊर्ध्वꣳ पृष्ठमर्माणि व्याख्यास्यामःऽअनुव्याख्यास्यामःऽइति पा+---तत्र पृष्ठवꣳशमुभयतः प्रतिश्रोणिकाण्डमस्थिनी कटीकतरुणे नामऽनाम मर्मणीऽइति हस्तलिखितपुस्तके न पठ्यते/ मर्माणी, तत्र शोणितक्षयात् पाण्डुर्विवर्णो हीनरूपश्चऽहीनदेहश्चऽइति पा+ म्रियते, पार्श्वजघनबहिर्भागे पृष्ठवꣳशमुभयतो (नातिनिम्ने) कुकुन्दरे नाम मर्माणिऽनाम मर्मणीऽइतिहस्तलिखितपुस्तके नोपलभ्यते/, तत्र स्पर्शाज्ञानमध्ःकाये चेष्टोपघातश्च; श्रोणीकाण्डयोरुपर्याशयाच्छादनौ पार्श्वान्तरप्रतिबद्धौ नितम्बौ नाम, तत्राधःकायशोषो दौर्बल्याच्च मरणꣳ; अधःपार्श्वान्तरप्रतिबद्धौ जघनपार्श्वमध्ययोस्तिर्यगूर्ध्वꣳ च जघनात् पार्श्वसन्धी नाम, तत्र लोहितपूर्णकोष्ठतया म्रियते; स्तनमूलादृजूभयतेः पृष्ठवꣳशस्य बृहत्यौऽबृहतीऽइति पा+ नाम, तत्र शोणितातिप्रवृत्तिनिमित्तैरुपद्रवैर्म्रियते; पृष्ठोपरि पृष्ठवꣳशमुभयतस्त्रिकसꣳबद्धे अꣳसफलके नाम, तत्र बाह्वोः स्वापशोषौऽस्वापः शोषो वाऽइति पा+; बाहुमूर्धग्रीवामध्ये+असपीठसकन्धनिबन्धनावꣳसौ नाम, तत्र स्तब्धबाहुता; एवमेतानि चतुर्दश पृष्ठमर्माणि व्याख्यातानि",
         "text": "Далее опишем марны спины. По обеим сторонам позвоночника, у костей таза, — катика-таруна; при их повреждении из-за потери крови больной бледнеет, теряет облик и умирает. Немного ниже, в наружной части бока и бедра, — кукундара; их повреждение приводит к потере чувствительности и утрате движения в нижней части тела. Над тазовыми костями, прилегая к бокам, — обе нитамбы; их повреждение вызывает истощение нижней части тела и смерть от слабости. Ниже, между бёдрами и боками, наискось от лобковой области, — обе паршва-сандхи; их повреждение наполняет полость тела кровью и ведёт к смерти. От основания груди по обеим сторонам позвоночника — обе брихати; их повреждение сопровождается осложнениями от чрезмерной кровопотери и смертью. Выше на спине, у крестца, — обе анса-пхалаки; их повреждение приводит к онемению и атрофии рук. Между плечом, головой и шеей — оба анса; их повреждение вызывает оцепенение руки. Так объяснены четырнадцать марм спины.",
         "iast": "ata ūrdhvaṁ pṛṣṭhamarmāṇi vyākhyāsyāmaḥ'anuvyākhyāsyāmaḥ'iti pā+---tatra pṛṣṭhavaṁśamubhayataḥ pratiśroṇikāṇḍamasthinī kaṭīkataruṇe nāma'nāma marmaṇī'iti hastalikhitapustake na paṭhyate/ marmāṇī, tatra śoṇitakṣayāt pāṇḍurvivarṇo hīnarūpaśca'hīnadehaśca'iti pā+ mriyate, pārśvajaghanabahirbhāge pṛṣṭhavaṁśamubhayato (nātinimne) kukundare nāma marmāṇi'nāma marmaṇī'itihastalikhitapustake nopalabhyate/, tatra sparśājñānamadhḥkāye ceṣṭopaghātaśca; śroṇīkāṇḍayoruparyāśayācchādanau pārśvāntarapratibaddhau nitambau nāma, tatrādhaḥkāyaśoṣo daurbalyācca maraṇaṁ; adhaḥpārśvāntarapratibaddhau jaghanapārśvamadhyayostiryagūrdhvaṁ ca jaghanāt pārśvasandhī nāma, tatra lohitapūrṇakoṣṭhatayā mriyate; stanamūlādṛjūbhayateḥ pṛṣṭhavaṁśasya bṛhatyau'bṛhatī'iti pā+ nāma, tatra śoṇitātipravṛttinimittairupadravairmriyate; pṛṣṭhopari pṛṣṭhavaṁśamubhayatastrikasaṁbaddhe aṁsaphalake nāma, tatra bāhvoḥ svāpaśoṣau'svāpaḥ śoṣo vā'iti pā+; bāhumūrdhagrīvāmadhye+asapīṭhasakandhanibandhanāvaṁsau nāma, tatra stabdhabāhutā; evametāni caturdaśa pṛṣṭhamarmāṇi vyākhyātāni",
-        "iast_ru": "ата ӯрдхвам̣ пр̣ш̣т̣хамарма̄н̣и вйа̄кхйа̄сйа̄мах̣'анувйа̄кхйа̄сйа̄мах̣'ити па̄+---татра пр̣ш̣т̣хавам̣ш́амубхайатах̣ пратиш́рон̣ика̄н̣д̣амастхинӣ кат̣ӣкатарун̣е на̄ма'на̄ма марман̣ӣ'ити хасталикхитапустаке на пат̣хйате/ марма̄н̣ӣ, татра ш́он̣итакш̣айа̄т па̄н̣д̣урвиварн̣о хӣнарӯпаш́ча'хӣнадехаш́ча'ити па̄+ мрийате, па̄рш́ваджагханабахирбха̄ге пр̣ш̣т̣хавам̣ш́амубхайато (на̄тинимне) кукундаре на̄ма марма̄н̣и'на̄ма марман̣ӣ'итихасталикхитапустаке нопалабхйате/, татра спарш́а̄джн̃а̄намадхх̣ка̄йе чеш̣т̣опагха̄таш́ча; ш́рон̣ӣка̄н̣д̣айорупарйа̄ш́айа̄ччха̄данау па̄рш́ва̄нтарапратибаддхау нитамбау на̄ма, татра̄дхах̣ка̄йаш́ош̣о даурбалйа̄чча маран̣ам̣; адхах̣па̄рш́ва̄нтарапратибаддхау джагханапа̄рш́вамадхйайостирйагӯрдхвам̣ ча джагхана̄т па̄рш́васандхӣ на̄ма, татра лохитапӯрн̣акош̣т̣хатайа̄ мрийате; станамӯла̄др̣джӯбхайатех̣ пр̣ш̣т̣хавам̣ш́асйа бр̣хатйау'бр̣хатӣ'ити па̄+ на̄ма, татра ш́он̣ита̄типравр̣ттинимиттаирупадраваирмрийате; пр̣ш̣т̣хопари пр̣ш̣т̣хавам̣ш́амубхайатастрикасам̣баддхе ам̣сапхалаке на̄ма, татра ба̄хвох̣ сва̄паш́ош̣ау'сва̄пах̣ ш́ош̣о ва̄'ити па̄+; ба̄хумӯрдхагрӣва̄мадхйе+асапӣт̣хасакандханибандхана̄вам̣сау на̄ма, татра стабдхаба̄хута̄; евамета̄ни чатурдаш́а пр̣ш̣т̣хамарма̄н̣и вйа̄кхйа̄та̄ни"
+        "iast_ru": "ата ӯрдхвам̣ пр̣ш̣т̣хамарма̄н̣и вйа̄кхйа̄сйа̄мах̣'анувйа̄кхйа̄сйа̄мах̣'ити па̄+---татра пр̣ш̣т̣хавам̣ш́амубхайатах̣ пратиш́рон̣ика̄н̣д̣амастхинӣ кат̣ӣкатарун̣е на̄ма'на̄ма марман̣ӣ'ити хасталикхитапустаке на пат̣хйате/ марма̄н̣ӣ, татра ш́он̣итакш̣айа̄т па̄н̣д̣урвиварн̣о хӣнарӯпаш́ча'хӣнадехаш́ча'ити па̄+ мрийате, па̄рш́ваджагханабахирбха̄ге пр̣ш̣т̣хавам̣ш́амубхайато (на̄тинимне) кукундаре на̄ма марма̄н̣и'на̄ма марман̣ӣ'итихасталикхитапустаке нопалабхйате/, татра спарш́а̄джн̃а̄намадхх̣ка̄йе чеш̣т̣опагха̄таш́ча; ш́рон̣ӣка̄н̣д̣айорупарйа̄ш́айа̄ччха̄данау па̄рш́ва̄нтарапратибаддхау нитамбау на̄ма, татра̄дхах̣ка̄йаш́ош̣о даурбалйа̄чча маран̣ам̣; адхах̣па̄рш́ва̄нтарапратибаддхау джагханапа̄рш́вамадхйайостирйагӯрдхвам̣ ча джагхана̄т па̄рш́васандхӣ на̄ма, татра лохитапӯрн̣акош̣т̣хатайа̄ мрийате; станамӯла̄др̣джӯбхайатех̣ пр̣ш̣т̣хавам̣ш́асйа бр̣хатйау'бр̣хатӣ'ити па̄+ на̄ма, татра ш́он̣ита̄типравр̣ттинимиттаирупадраваирмрийате; пр̣ш̣т̣хопари пр̣ш̣т̣хавам̣ш́амубхайатастрикасам̣баддхе ам̣сапхалаке на̄ма, татра ба̄хвох̣ сва̄паш́ош̣ау'сва̄пах̣ ш́ош̣о ва̄'ити па̄+; ба̄хумӯрдхагрӣва̄мадхйе+асапӣт̣хасакандханибандхана̄вам̣сау на̄ма, татра стабдхаба̄хута̄; евамета̄ни чатурдаш́а пр̣ш̣т̣хамарма̄н̣и вйа̄кхйа̄та̄ни",
+        "text_en": "Next let us describe the marmas of the back. On both sides of the spine, at the bones of the pelvis, is Katikataruna; upon their injury, through loss of blood, the patient turns pale, loses his appearance, and dies. A little lower, on the outer part of the flank and thigh, is Kukundara; their injury leads to loss of sensation and loss of movement in the lower part of the body. Above the pelvic bones, adjoining the flanks, are both Nitambas; their injury causes wasting of the lower part of the body and death from weakness. Lower, between the thighs and the flanks, obliquely from the pubic region, are both Parshvasandhis; their injury fills the body cavity with blood and leads to death. From the base of the chest, along both sides of the spine, are both Brihatis; their injury is accompanied by complications from excessive blood loss and death. Higher on the back, at the sacrum, are both Amsaphalakas; their injury leads to numbness and atrophy of the arms. Between the shoulder, the head, and the neck are both Amsas; their injury causes numbness of the arm. Thus are explained the fourteen marmas of the back."
       },
       {
         "type": "verse",
@@ -14183,7 +14546,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अत ऊर्ध्वमूर्ध्वजत्रुगतानि व्याख्यास्यामः---तत्र कण्ठनाडीमुभयतश्चतस्रो धमन्यो द्वे नीले द्वे च मन्ये व्यत्यासेनऽनाम व्यत्ययेनऽइति पा+, तत्र मूकता स्वरवैकृतमरसग्राहिता च; ग्रीवायामुभयतश्-चतस्रःऽचतस्रश्चतस्रःऽइति पा+ सिरा मातृकाः, तत्र सद्योमरणꣳ; शिरोग्रीवयोः सन्धाने कृकाटिके नाम, तत्र चलमूर्धता; कर्णपृष्ठतो+अधःसꣳश्रिते विधुरे नाम, तत्र बाधिर्यꣳ; घ्राणमार्गमुभयतः स्रोतोमार्गप्रतिबद्धे अभ्यन्तरतः फणे नाम, तत्र गन्धाज्ञानꣳ; भ्रूपुच्छान्तयोरधो+अक्ष्णोर्बाह्यतो+अपाङ्गौ नाम, तत्रान्ध्यꣳ दृष्ट्युपघातो वा; भ्रुवोरुपरि निम्नयोरावर्तौ नाम, तत्राप्यान्ध्यꣳ दृष्ट्युपघातो वा; भ्रुवोः पुच्छान्तयोरुपरि[ऽभ्रुवोरन्तोपरिऽइति पा+] कर्णललाटयोर्मध्ये शङ्खौ नाम, तत्र सद्योमरणꣳ; शङ्खयोरुपरि केशान्त उत्क्षेपौ नाम, तत्र सशल्यो जीवति पाकात् पतितशल्यो वा नोद्धृतशल्यः; भ्रुवोर्मध्ये स्थपनी नाम, तत्रोत्क्षेपवत्; पञ्च सन्धयः शिरसि विभक्ताः सीमन्ता नाम, तत्रोन्मादभयचित्तमाशैर्मरणꣳ; घ्राणश्रोत्राक्षिजिह्वासन्तर्पणीनाꣳ सिराणाꣳ मध्ये सिरासन्निपातः शृङ्गाटकानिऽशृङ्गाटकसꣳज्ञश्चतुर्धा, तत्रापिऽइति पा+, तानि चत्वारि मर्माणि, तत्रापि सद्यो मरणꣳ; मस्तकाभ्यन्तरत उपरिष्टात् सिरासव्धिसन्निपातो रोमावर्तो+अधिपतिः, तत्रापि सद्य एवऽसद्योमरणꣳऽइति पा+ / एवमेतानि सप्तत्रिꣳशदूर्ध्वजत्रुगतानि मर्माणि व्याख्यातानि",
         "text": "Далее опишем марны выше ключиц. По обеим сторонам дыхательного горла — по две артерии, нила и манья, всего четыре; их повреждение вызывает немоту, искажение голоса или потерю вкуса. По обеим сторонам шеи — по две вены матрика, всего четыре; повреждение смертельно немедленно. В месте соединения головы и шеи — обе крикатики; повреждение вызывает неконтролируемое качание головы. Позади и ниже уха — оба видхуры; повреждение вызывает глухоту. С обеих сторон носовых ходов изнутри — обе пханы; повреждение вызывает потерю обоняния. Ниже внешних уголков бровей, снаружи глаз, — обе апанги; повреждение вызывает слепоту или иное повреждение зрения. Над бровями, во впадинах, — обе аварты; повреждение также вызывает слепоту или повреждение зрения. Над внешними концами бровей, между ухом и лбом, — оба шанкхи; повреждение убивает немедленно. Выше шанкх, у края волос, — оба уткшепы; раненый жив, пока инородное тело внутри, но умирает при его выпадении или извлечении. Между бровями — стхапани; действует подобно уткшепе. Пять сочленений черепа — симанты; их повреждение вызывает безумие, страх, помрачение сознания и смерть. Там, где сходятся вены носа, уха, глаза и языка, — шрингатаки, четыре марны; повреждение убивает немедленно. Внутри черепа, под завитком волос, где сходятся вены и сустав, — адхипати; повреждение тоже убивает немедленно. Так объяснены тридцать семь марм, расположенных выше ключиц.",
         "iast": "ata ūrdhvamūrdhvajatrugatāni vyākhyāsyāmaḥ---tatra kaṇṭhanāḍīmubhayataścatasro dhamanyo dve nīle dve ca manye vyatyāsena'nāma vyatyayena'iti pā+, tatra mūkatā svaravaikṛtamarasagrāhitā ca; grīvāyāmubhayataś-catasraḥ'catasraścatasraḥ'iti pā+ sirā mātṛkāḥ, tatra sadyomaraṇaṁ; śirogrīvayoḥ sandhāne kṛkāṭike nāma, tatra calamūrdhatā; karṇapṛṣṭhato+adhaḥsaṁśrite vidhure nāma, tatra bādhiryaṁ; ghrāṇamārgamubhayataḥ srotomārgapratibaddhe abhyantarataḥ phaṇe nāma, tatra gandhājñānaṁ; bhrūpucchāntayoradho+akṣṇorbāhyato+apāṅgau nāma, tatrāndhyaṁ dṛṣṭyupaghāto vā; bhruvorupari nimnayorāvartau nāma, tatrāpyāndhyaṁ dṛṣṭyupaghāto vā; bhruvoḥ pucchāntayorupari['bhruvorantopari'iti pā+] karṇalalāṭayormadhye śaṅkhau nāma, tatra sadyomaraṇaṁ; śaṅkhayorupari keśānta utkṣepau nāma, tatra saśalyo jīvati pākāt patitaśalyo vā noddhṛtaśalyaḥ; bhruvormadhye sthapanī nāma, tatrotkṣepavat; pañca sandhayaḥ śirasi vibhaktāḥ sīmantā nāma, tatronmādabhayacittamāśairmaraṇaṁ; ghrāṇaśrotrākṣijihvāsantarpaṇīnāṁ sirāṇāṁ madhye sirāsannipātaḥ śṛṅgāṭakāni'śṛṅgāṭakasaṁjñaścaturdhā, tatrāpi'iti pā+, tāni catvāri marmāṇi, tatrāpi sadyo maraṇaṁ; mastakābhyantarata upariṣṭāt sirāsavdhisannipāto romāvarto+adhipatiḥ, tatrāpi sadya eva'sadyomaraṇaṁ'iti pā+ / evametāni saptatriṁśadūrdhvajatrugatāni marmāṇi vyākhyātāni",
-        "iast_ru": "ата ӯрдхвамӯрдхваджатругата̄ни вйа̄кхйа̄сйа̄мах̣---татра кан̣т̣хана̄д̣ӣмубхайаташ́чатасро дхаманйо две нӣле две ча манйе вйатйа̄сена'на̄ма вйатйайена'ити па̄+, татра мӯката̄ свараваикр̣тамарасагра̄хита̄ ча; грӣва̄йа̄мубхайаташ́-чатасрах̣'чатасраш́чатасрах̣'ити па̄+ сира̄ ма̄тр̣ка̄х̣, татра садйомаран̣ам̣; ш́ирогрӣвайох̣ сандха̄не кр̣ка̄т̣ике на̄ма, татра чаламӯрдхата̄; карн̣апр̣ш̣т̣хато+адхах̣сам̣ш́рите видхуре на̄ма, татра ба̄дхирйам̣; гхра̄н̣ама̄ргамубхайатах̣ сротома̄ргапратибаддхе абхйантаратах̣ пхан̣е на̄ма, татра гандха̄джн̃а̄нам̣; бхрӯпуччха̄нтайорадхо+акш̣н̣орба̄хйато+апа̄н̇гау на̄ма, татра̄ндхйам̣ др̣ш̣т̣йупагха̄то ва̄; бхруворупари нимнайора̄вартау на̄ма, татра̄пйа̄ндхйам̣ др̣ш̣т̣йупагха̄то ва̄; бхрувох̣ пуччха̄нтайорупари['бхруворантопари'ити па̄+] карн̣алала̄т̣айормадхйе ш́ан̇кхау на̄ма, татра садйомаран̣ам̣; ш́ан̇кхайорупари кеш́а̄нта уткш̣епау на̄ма, татра саш́алйо джӣвати па̄ка̄т патиташ́алйо ва̄ ноддхр̣таш́алйах̣; бхрувормадхйе стхапанӣ на̄ма, татроткш̣епават; пан̃ча сандхайах̣ ш́ираси вибхакта̄х̣ сӣманта̄ на̄ма, татронма̄дабхайачиттама̄ш́аирмаран̣ам̣; гхра̄н̣аш́ротра̄кш̣иджихва̄сантарпан̣ӣна̄м̣ сира̄н̣а̄м̣ мадхйе сира̄саннипа̄тах̣ ш́р̣н̇га̄т̣ака̄ни'ш́р̣н̇га̄т̣акасам̣джн̃аш́чатурдха̄, татра̄пи'ити па̄+, та̄ни чатва̄ри марма̄н̣и, татра̄пи садйо маран̣ам̣; мастака̄бхйантарата упариш̣т̣а̄т сира̄савдхисаннипа̄то рома̄варто+адхипатих̣, татра̄пи садйа ева'садйомаран̣ам̣'ити па̄+ / евамета̄ни саптатрим̣ш́адӯрдхваджатругата̄ни марма̄н̣и вйа̄кхйа̄та̄ни"
+        "iast_ru": "ата ӯрдхвамӯрдхваджатругата̄ни вйа̄кхйа̄сйа̄мах̣---татра кан̣т̣хана̄д̣ӣмубхайаташ́чатасро дхаманйо две нӣле две ча манйе вйатйа̄сена'на̄ма вйатйайена'ити па̄+, татра мӯката̄ свараваикр̣тамарасагра̄хита̄ ча; грӣва̄йа̄мубхайаташ́-чатасрах̣'чатасраш́чатасрах̣'ити па̄+ сира̄ ма̄тр̣ка̄х̣, татра садйомаран̣ам̣; ш́ирогрӣвайох̣ сандха̄не кр̣ка̄т̣ике на̄ма, татра чаламӯрдхата̄; карн̣апр̣ш̣т̣хато+адхах̣сам̣ш́рите видхуре на̄ма, татра ба̄дхирйам̣; гхра̄н̣ама̄ргамубхайатах̣ сротома̄ргапратибаддхе абхйантаратах̣ пхан̣е на̄ма, татра гандха̄джн̃а̄нам̣; бхрӯпуччха̄нтайорадхо+акш̣н̣орба̄хйато+апа̄н̇гау на̄ма, татра̄ндхйам̣ др̣ш̣т̣йупагха̄то ва̄; бхруворупари нимнайора̄вартау на̄ма, татра̄пйа̄ндхйам̣ др̣ш̣т̣йупагха̄то ва̄; бхрувох̣ пуччха̄нтайорупари['бхруворантопари'ити па̄+] карн̣алала̄т̣айормадхйе ш́ан̇кхау на̄ма, татра садйомаран̣ам̣; ш́ан̇кхайорупари кеш́а̄нта уткш̣епау на̄ма, татра саш́алйо джӣвати па̄ка̄т патиташ́алйо ва̄ ноддхр̣таш́алйах̣; бхрувормадхйе стхапанӣ на̄ма, татроткш̣епават; пан̃ча сандхайах̣ ш́ираси вибхакта̄х̣ сӣманта̄ на̄ма, татронма̄дабхайачиттама̄ш́аирмаран̣ам̣; гхра̄н̣аш́ротра̄кш̣иджихва̄сантарпан̣ӣна̄м̣ сира̄н̣а̄м̣ мадхйе сира̄саннипа̄тах̣ ш́р̣н̇га̄т̣ака̄ни'ш́р̣н̇га̄т̣акасам̣джн̃аш́чатурдха̄, татра̄пи'ити па̄+, та̄ни чатва̄ри марма̄н̣и, татра̄пи садйо маран̣ам̣; мастака̄бхйантарата упариш̣т̣а̄т сира̄савдхисаннипа̄то рома̄варто+адхипатих̣, татра̄пи садйа ева'садйомаран̣ам̣'ити па̄+ / евамета̄ни саптатрим̣ш́адӯрдхваджатругата̄ни марма̄н̣и вйа̄кхйа̄та̄ни",
+        "text_en": "Next let us describe the marmas above the collarbones. On both sides of the windpipe are two arteries each, Nila and Manya, four in all; their injury causes muteness, distortion of the voice, or loss of taste. On both sides of the neck are two veins each, Matrika, four in all; injury is immediately fatal. At the junction of the head and neck are both Krikatikas; injury causes uncontrollable shaking of the head. Behind and below the ear are both Vidhuras; injury causes deafness. On both sides of the nasal passages, on the inside, are both Phanas; injury causes loss of smell. Below the outer corners of the eyebrows, outside the eyes, are both Apangas; injury causes blindness or other impairment of vision. Above the eyebrows, in the hollows, are both Avartas; injury likewise causes blindness or impairment of vision. Above the outer ends of the eyebrows, between the ear and the forehead, are both Shankhas; injury kills immediately. Above the Shankhas, at the hairline, are both Utkshepas; the wounded person remains alive as long as the foreign body is within, but dies upon its dislodgement or extraction. Between the eyebrows is Sthapani; it acts like Utkshepa. The five sutures of the skull are the Simantas; their injury causes madness, fear, clouding of consciousness, and death. Where the veins of the nose, ear, eye, and tongue converge are the Shringatakas, four marmas; injury kills immediately. Within the skull, beneath the whorl of hair, where the veins and a joint converge, is Adhipati; injury likewise kills immediately. Thus are explained the thirty-seven marmas situated above the collarbones."
       },
       {
         "type": "verse",
@@ -14191,7 +14555,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र/ ऊर्ध्यः शिराꣳसि विटपे च सकक्षपार्श्वे एकैकमङ्गुलमितꣳ स्तनपूर्वमूलम् विद्ध्यङ्गुलद्वयमितꣳ मणिबन्धगुल्फꣳ त्रीण्येव जानु सपरꣳ सह कूर्पराभ्याम्",
         "text": "И об этом сказано в памятных стихах: марны витапа, какшадхара и паршва имеют размер в один палец; марна у основания груди — тоже один палец; манибандха и гулпха — два пальца; джану вместе с курпарой — три пальца.",
         "iast": "bhavanti cātra/ ūrdhyaḥ śirāṁsi viṭape ca sakakṣapārśve ekaikamaṅgulamitaṁ stanapūrvamūlam viddhyaṅguladvayamitaṁ maṇibandhagulphaṁ trīṇyeva jānu saparaṁ saha kūrparābhyām",
-        "iast_ru": "бхаванти ча̄тра/ ӯрдхйах̣ ш́ира̄м̣си вит̣апе ча сакакш̣апа̄рш́ве екаикаман̇гуламитам̣ станапӯрвамӯлам виддхйан̇гуладвайамитам̣ ман̣ибандхагулпхам̣ трӣн̣йева джа̄ну сапарам̣ саха кӯрпара̄бхйа̄м"
+        "iast_ru": "бхаванти ча̄тра/ ӯрдхйах̣ ш́ира̄м̣си вит̣апе ча сакакш̣апа̄рш́ве екаикаман̇гуламитам̣ станапӯрвамӯлам виддхйан̇гуладвайамитам̣ ман̣ибандхагулпхам̣ трӣн̣йева джа̄ну сапарам̣ саха кӯрпара̄бхйа̄м",
+        "text_en": "And of this it is said in memorial verses: the marmas Vitapa, Kakshadhara, and Parshva are one finger's breadth in size; the marma at the base of the chest is likewise one finger's breadth; Manibandha and Gulpha are two fingers' breadth; Janu together with Kurpara are three fingers' breadth."
       },
       {
         "type": "verse",
@@ -14199,7 +14564,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "हृद्बस्तिकूर्चगुदनाभि वदन्ति मूर्ध्नि चत्वारि पञ्च च गले दश यानि च द्वे तानि स्वपाणितलकुञ्चितसꣳमितानि शेषाण्यवेहि परिविस्तरतो+अङ्गुलार्धाम्",
         "text": "Хридаю, басти, курчу, гуду и набхи, а также марны черепа (четыре) и марны горла (пять) считают равными по ширине сжатой в кулак собственной ладони пострадавшего; прочие же марны имеют ширину около половины пальца.",
         "iast": "hṛdbastikūrcagudanābhi vadanti mūrdhni catvāri pañca ca gale daśa yāni ca dve tāni svapāṇitalakuñcitasaṁmitāni śeṣāṇyavehi parivistarato+aṅgulārdhām",
-        "iast_ru": "хр̣дбастикӯрчагудана̄бхи ваданти мӯрдхни чатва̄ри пан̃ча ча гале даш́а йа̄ни ча две та̄ни свапа̄н̣италакун̃читасам̣мита̄ни ш́еш̣а̄н̣йавехи паривистарато+ан̇гула̄рдха̄м"
+        "iast_ru": "хр̣дбастикӯрчагудана̄бхи ваданти мӯрдхни чатва̄ри пан̃ча ча гале даш́а йа̄ни ча две та̄ни свапа̄н̣италакун̃читасам̣мита̄ни ш́еш̣а̄н̣йавехи паривистарато+ан̇гула̄рдха̄м",
+        "text_en": "Hridaya, Basti, Kurcha, Guda, and Nabhi, as well as the marmas of the skull (four) and the marmas of the throat (five), are reckoned equal in breadth to the victim's own clenched fist; the remaining marmas have a breadth of about half a finger."
       },
       {
         "type": "verse",
@@ -14207,7 +14573,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "एतत्प्रमाणमभिवीक्ष्य वदन्ति तज्ज्ञाः शस्त्रेण कर्मकरणꣳ परिहृत्य कार्यम् पार्श्वाभिघातितमपीह निहन्ति मर्म तस्माद्धि मर्मसदनꣳ परिवर्जनीयम्",
         "text": "Учитывая эти размеры, знатоки предписывают выполнять хирургическое действие, минуя саму марму; ведь даже удар, пришедшийся вблизи марны, может её погубить, поэтому область марны следует всячески избегать.",
         "iast": "etatpramāṇamabhivīkṣya vadanti tajjñāḥ śastreṇa karmakaraṇaṁ parihṛtya kāryam pārśvābhighātitamapīha nihanti marma tasmāddhi marmasadanaṁ parivarjanīyam",
-        "iast_ru": "етатпрама̄н̣амабхивӣкш̣йа ваданти таджджн̃а̄х̣ ш́астрен̣а кармакаран̣ам̣ парихр̣тйа ка̄рйам па̄рш́ва̄бхигха̄титамапӣха ниханти марма тасма̄ддхи мармасаданам̣ париварджанӣйам"
+        "iast_ru": "етатпрама̄н̣амабхивӣкш̣йа ваданти таджджн̃а̄х̣ ш́астрен̣а кармакаран̣ам̣ парихр̣тйа ка̄рйам па̄рш́ва̄бхигха̄титамапӣха ниханти марма тасма̄ддхи мармасаданам̣ париварджанӣйам",
+        "text_en": "Taking these dimensions into account, the learned prescribe that a surgical procedure be performed bypassing the marma itself; for even a blow that falls near a marma may destroy it, and therefore the region of the marma should be avoided by every means."
       },
       {
         "type": "verse",
@@ -14215,7 +14582,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "च्छिन्नेषु पाणिचरणेषु सिरा नराणाꣳ सङ्कोचमीयुरसृगल्पमतो निरेति प्राप्यामितव्यसनमुग्रमतो मनुष्याः सꣳच्छिन्निशाखतरुवन्निधनꣳ न यान्ति",
         "text": "Когда у человека отсечены кисть или стопа, вены сжимаются, и крови вытекает мало; поэтому, хотя такое увечье тяжело, люди при этом, подобно дереву с обрубленной ветвью, не погибают.",
         "iast": "cchinneṣu pāṇicaraṇeṣu sirā narāṇāṁ saṅkocamīyurasṛgalpamato nireti prāpyāmitavyasanamugramato manuṣyāḥ saṁcchinniśākhataruvannidhanaṁ na yānti",
-        "iast_ru": "ччхиннеш̣у па̄н̣ичаран̣еш̣у сира̄ нара̄н̣а̄м̣ сан̇кочамӣйураср̣галпамато нирети пра̄пйа̄митавйасанамуграмато мануш̣йа̄х̣ сам̣ччхинниш́а̄кхатаруваннидханам̣ на йа̄нти"
+        "iast_ru": "ччхиннеш̣у па̄н̣ичаран̣еш̣у сира̄ нара̄н̣а̄м̣ сан̇кочамӣйураср̣галпамато нирети пра̄пйа̄митавйасанамуграмато мануш̣йа̄х̣ сам̣ччхинниш́а̄кхатаруваннидханам̣ на йа̄нти",
+        "text_en": "When a person's hand or foot has been severed, the veins contract, and little blood flows out; therefore, although such an injury is severe, people, like a tree with a lopped-off branch, do not perish from it."
       },
       {
         "type": "verse",
@@ -14223,7 +14591,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "क्षिप्रेषु तत्र सतलेषु हतेषु रक्तꣳ गच्छत्यतीव पवनश्च रुजꣳ करोति एवꣳ विनाशमुपयान्ति हि तत्र विद्धा वृक्षा इवायुधविघातनिकृत्तमूलाः[ऽइवायुधनिपातनिकृत्तमूलाःऽइति पा+]",
         "text": "Но при повреждении марм кшипра и тала-хридая кровь уходит чрезмерно, и Ваю вызывает боль, и раненные там гибнут, подобно дереву, чей корень подрублен оружием.",
         "iast": "kṣipreṣu tatra sataleṣu hateṣu raktaṁ gacchatyatīva pavanaśca rujaṁ karoti evaṁ vināśamupayānti hi tatra viddhā vṛkṣā ivāyudhavighātanikṛttamūlāḥ['ivāyudhanipātanikṛttamūlāḥ'iti pā+]",
-        "iast_ru": "кш̣ипреш̣у татра саталеш̣у хатеш̣у рактам̣ гаччхатйатӣва паванаш́ча руджам̣ кароти евам̣ вина̄ш́амупайа̄нти хи татра виддха̄ вр̣кш̣а̄ ива̄йудхавигха̄таникр̣ттамӯла̄х̣['ива̄йудханипа̄таникр̣ттамӯла̄х̣'ити па̄+]"
+        "iast_ru": "кш̣ипреш̣у татра саталеш̣у хатеш̣у рактам̣ гаччхатйатӣва паванаш́ча руджам̣ кароти евам̣ вина̄ш́амупайа̄нти хи татра виддха̄ вр̣кш̣а̄ ива̄йудхавигха̄таникр̣ттамӯла̄х̣['ива̄йудханипа̄таникр̣ттамӯла̄х̣'ити па̄+]",
+        "text_en": "But when the marmas Kshipra and Talahridaya are injured, blood is lost excessively, and Vata produces pain, and those wounded there perish, like a tree whose root has been cut through by a weapon."
       },
       {
         "type": "verse",
@@ -14231,7 +14600,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तस्मात्तयोरभिहतस्य तु पाणिपादꣳ छेत्तव्यमाशु मणिबन्धनगुल्फदेशे मर्माणि शल्यविषयार्धमुदाहरन्ति यस्माच्च मर्मसु हता न भवन्ति सद्यः",
         "text": "Поэтому у пострадавшего в этих марнах кисть или стопу следует немедленно отсечь на уровне манибандхи или гулпхи; марны при этом считаются как бы половиной области поражения острым оружием, поскольку повреждённые не в самом центре они не всегда убивают немедленно.",
         "iast": "tasmāttayorabhihatasya tu pāṇipādaṁ chettavyamāśu maṇibandhanagulphadeśe marmāṇi śalyaviṣayārdhamudāharanti yasmācca marmasu hatā na bhavanti sadyaḥ",
-        "iast_ru": "тасма̄ттайорабхихатасйа ту па̄н̣ипа̄дам̣ чхеттавйама̄ш́у ман̣ибандханагулпхадеш́е марма̄н̣и ш́алйавиш̣айа̄рдхамуда̄харанти йасма̄чча мармасу хата̄ на бхаванти садйах̣"
+        "iast_ru": "тасма̄ттайорабхихатасйа ту па̄н̣ипа̄дам̣ чхеттавйама̄ш́у ман̣ибандханагулпхадеш́е марма̄н̣и ш́алйавиш̣айа̄рдхамуда̄харанти йасма̄чча мармасу хата̄ на бхаванти садйах̣",
+        "text_en": "Therefore, in one injured in these marmas, the hand or foot should be immediately amputated at the level of Manibandha or Gulpha; the marmas are here reckoned as it were half the extent of the region affected by the sharp weapon, since, when injured not at their very center, they do not always kill immediately."
       },
       {
         "type": "verse",
@@ -14239,7 +14609,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "जीवन्ति तत्र यदि वैद्यगुणेन केचित्ते प्राप्नुवन्ति विकलत्वमसꣳशयꣳ हि सꣳभिन्नजर्जरितकोष्ठशिरःकपाला जीवन्ति शस्त्रवि(नि)हतैश्च शरीरदेशैः",
         "text": "Некоторые благодаря искусству врача остаются жить, но, без сомнения, оказываются увеченными; так живут даже те, у кого раздроблена полость груди или кости черепа, а также те, у кого повреждена оружием иная область тела.",
         "iast": "jīvanti tatra yadi vaidyaguṇena kecitte prāpnuvanti vikalatvamasaṁśayaṁ hi saṁbhinnajarjaritakoṣṭhaśiraḥkapālā jīvanti śastravi(ni)hataiśca śarīradeśaiḥ",
-        "iast_ru": "джӣванти татра йади ваидйагун̣ена кечитте пра̄пнуванти викалатвамасам̣ш́айам̣ хи сам̣бхиннаджарджаритакош̣т̣хаш́ирах̣капа̄ла̄ джӣванти ш́астрави(ни)хатаиш́ча ш́арӣрадеш́аих̣"
+        "iast_ru": "джӣванти татра йади ваидйагун̣ена кечитте пра̄пнуванти викалатвамасам̣ш́айам̣ хи сам̣бхиннаджарджаритакош̣т̣хаш́ирах̣капа̄ла̄ джӣванти ш́астрави(ни)хатаиш́ча ш́арӣрадеш́аих̣",
+        "text_en": "Some, thanks to the physician's skill, remain alive, but without doubt end up disabled; thus even those whose chest cavity or skull bones have been shattered survive, as do those whose other regions of the body have been injured by a weapon."
       },
       {
         "type": "verse",
@@ -14247,7 +14618,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "छिन्नैश्च सक्थिभुजपादकरैर्-अशेषैर्येषाꣳऽअशेषꣳऽइति पा+ न मर्मपतिताऽमर्मसु कृताऽइति पा+ विविधाः प्रहाराः सोममारुततेजाꣳसि रजःसत्त्वतमाꣳसि च मर्मसु प्रायशः पुꣳसाꣳ भूतात्मा चावतिष्ठते",
         "text": "Даже с полностью отсечённым бедром, рукой, стопой или кистью, если удары не пришлись на марну, человек выживает; ибо преимущественно именно в марнах у человека сосредоточены Сома, Марут, Теджас, а также раджас, саттва, тамас и сама воплощённая душа.",
         "iast": "chinnaiśca sakthibhujapādakarair-aśeṣairyeṣāṁ'aśeṣaṁ'iti pā+ na marmapatitā'marmasu kṛtā'iti pā+ vividhāḥ prahārāḥ somamārutatejāṁsi rajaḥsattvatamāṁsi ca marmasu prāyaśaḥ puṁsāṁ bhūtātmā cāvatiṣṭhate",
-        "iast_ru": "чхиннаиш́ча сактхибхуджапа̄дакараир-аш́еш̣аирйеш̣а̄м̣'аш́еш̣ам̣'ити па̄+ на мармапатита̄'мармасу кр̣та̄'ити па̄+ вивидха̄х̣ праха̄ра̄х̣ сомама̄рутатеджа̄м̣си раджах̣саттватама̄м̣си ча мармасу пра̄йаш́ах̣ пум̣са̄м̣ бхӯта̄тма̄ ча̄ватиш̣т̣хате"
+        "iast_ru": "чхиннаиш́ча сактхибхуджапа̄дакараир-аш́еш̣аирйеш̣а̄м̣'аш́еш̣ам̣'ити па̄+ на мармапатита̄'мармасу кр̣та̄'ити па̄+ вивидха̄х̣ праха̄ра̄х̣ сомама̄рутатеджа̄м̣си раджах̣саттватама̄м̣си ча мармасу пра̄йаш́ах̣ пум̣са̄м̣ бхӯта̄тма̄ ча̄ватиш̣т̣хате",
+        "text_en": "Even with the thigh, arm, foot, or hand completely severed, if the blows have not struck a marma, the person survives; for it is chiefly in the marmas that Soma, Marut, and Tejas are concentrated in a person, as well as rajas, sattva, tamas, and the embodied soul itself."
       },
       {
         "type": "verse",
@@ -14255,7 +14627,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मर्मस्वभिहतास्तस्मान्न जीवन्ति शरीरिणः इन्द्रियार्थेष्वसꣳप्राप्तिर्मनोबुद्धिविपर्ययः",
         "text": "Поэтому существа, поражённые в марны, не выживают; у них утрачивается восприятие объектов органов чувств, ум и разум приходят в расстройство.",
         "iast": "marmasvabhihatāstasmānna jīvanti śarīriṇaḥ indriyārtheṣvasaṁprāptirmanobuddhiviparyayaḥ",
-        "iast_ru": "мармасвабхихата̄стасма̄нна джӣванти ш́арӣрин̣ах̣ индрийа̄ртхеш̣васам̣пра̄птирманобуддхивипарйайах̣"
+        "iast_ru": "мармасвабхихата̄стасма̄нна джӣванти ш́арӣрин̣ах̣ индрийа̄ртхеш̣васам̣пра̄птирманобуддхивипарйайах̣",
+        "text_en": "Therefore beings struck in the marmas do not survive; in them the perception of the objects of the sense organs is lost, and the mind and intellect fall into disorder."
       },
       {
         "type": "verse",
@@ -14263,7 +14636,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रुजश्च विविधास्तीव्रा भवन्त्याशुहरे हते हते कालान्तरघ्ने तु ध्रुवो धातुक्षयो नृणाम्",
         "text": "При поражении марм, убивающих немедленно, возникают разнообразные жестокие боли; при поражении марм, убивающих спустя срок, у людей неизбежно происходит истощение дхату.",
         "iast": "rujaśca vividhāstīvrā bhavantyāśuhare hate hate kālāntaraghne tu dhruvo dhātukṣayo nṛṇām",
-        "iast_ru": "руджаш́ча вивидха̄стӣвра̄ бхавантйа̄ш́ухаре хате хате ка̄ла̄нтарагхне ту дхруво дха̄тукш̣айо нр̣н̣а̄м"
+        "iast_ru": "руджаш́ча вивидха̄стӣвра̄ бхавантйа̄ш́ухаре хате хате ка̄ла̄нтарагхне ту дхруво дха̄тукш̣айо нр̣н̣а̄м",
+        "text_en": "When marmas that kill immediately are struck, various severe pains arise; when marmas that kill after an interval are struck, a wasting of the dhatus inevitably occurs in the person."
       },
       {
         "type": "verse",
@@ -14271,7 +14645,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "ततो धातुक्षयाज्जन्तुर्वेदनाभिश्च नश्यति हते वैकल्यजनने केवलꣳ वैद्यनैपुणात्",
         "text": "Из-за истощения дхату и от страданий существо погибает; при поражении марм, влекущих увечье, спасти можно лишь искусством врача.",
         "iast": "tato dhātukṣayājjanturvedanābhiśca naśyati hate vaikalyajanane kevalaṁ vaidyanaipuṇāt",
-        "iast_ru": "тато дха̄тукш̣айа̄джджантурведана̄бхиш́ча наш́йати хате ваикалйаджанане кевалам̣ ваидйанаипун̣а̄т"
+        "iast_ru": "тато дха̄тукш̣айа̄джджантурведана̄бхиш́ча наш́йати хате ваикалйаджанане кевалам̣ ваидйанаипун̣а̄т",
+        "text_en": "From the wasting of the dhatus and from suffering the being perishes; when marmas leading to disability are struck, rescue is possible only through the physician's skill."
       },
       {
         "type": "verse",
@@ -14279,7 +14654,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शरीरꣳ क्रियया युक्तꣳ विकलत्वमवाप्नुयात् विशल्यघ्नेषु विज्ञेयꣳ पूर्वोक्तꣳ यच्च कारणम्",
         "text": "Тело, подвергнутое врачебному вмешательству, может всё же остаться увеченным; относительно марм вишальягхна следует помнить сказанную ранее причину — застрявшее инородное тело.",
         "iast": "śarīraṁ kriyayā yuktaṁ vikalatvamavāpnuyāt viśalyaghneṣu vijñeyaṁ pūrvoktaṁ yacca kāraṇam",
-        "iast_ru": "ш́арӣрам̣ крийайа̄ йуктам̣ викалатвамава̄пнуйа̄т виш́алйагхнеш̣у виджн̃ейам̣ пӯрвоктам̣ йачча ка̄ран̣ам"
+        "iast_ru": "ш́арӣрам̣ крийайа̄ йуктам̣ викалатвамава̄пнуйа̄т виш́алйагхнеш̣у виджн̃ейам̣ пӯрвоктам̣ йачча ка̄ран̣ам",
+        "text_en": "A body subjected to medical intervention may nonetheless remain disabled; with regard to the vishalyaghna marmas, one should recall the cause stated earlier, the lodged foreign body."
       },
       {
         "type": "verse",
@@ -14287,7 +14663,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "रुजाकराणि मर्माणि क्षतानि विविधा रुजः कुर्वन्त्यन्ते च वैकल्यꣳ कुवैद्यवशगो यदि",
         "text": "Повреждённые марны руджакара вызывают разнообразные боли, а в дальнейшем и увечье, если больной окажется в руках неумелого врача.",
         "iast": "rujākarāṇi marmāṇi kṣatāni vividhā rujaḥ kurvantyante ca vaikalyaṁ kuvaidyavaśago yadi",
-        "iast_ru": "руджа̄кара̄н̣и марма̄н̣и кш̣ата̄ни вивидха̄ руджах̣ курвантйанте ча ваикалйам̣ куваидйаваш́аго йади"
+        "iast_ru": "руджа̄кара̄н̣и марма̄н̣и кш̣ата̄ни вивидха̄ руджах̣ курвантйанте ча ваикалйам̣ куваидйаваш́аго йади",
+        "text_en": "Injured rujakara marmas cause various pains, and subsequently disability as well, if the patient falls into the hands of an unskilled physician."
       },
       {
         "type": "verse",
@@ -14295,7 +14672,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "छेदभेदाभिघातेभ्यो दहनाद्दारणादपि उपघातꣳ विजानीयान्मर्मणाꣳ तुल्यलक्षणम्",
         "text": "Следует знать, что повреждение марм, вызванное разрезом, разрывом, ушибом, ожогом или расщеплением, проявляется одинаковыми признаками.",
         "iast": "chedabhedābhighātebhyo dahanāddāraṇādapi upaghātaṁ vijānīyānmarmaṇāṁ tulyalakṣaṇam",
-        "iast_ru": "чхедабхеда̄бхигха̄тебхйо дахана̄дда̄ран̣а̄дапи упагха̄там̣ виджа̄нӣйа̄нмарман̣а̄м̣ тулйалакш̣ан̣ам"
+        "iast_ru": "чхедабхеда̄бхигха̄тебхйо дахана̄дда̄ран̣а̄дапи упагха̄там̣ виджа̄нӣйа̄нмарман̣а̄м̣ тулйалакш̣ан̣ам",
+        "text_en": "It should be known that injury to the marmas, caused by a cut, a tear, a bruise, a burn, or a splitting, manifests with the same signs."
       },
       {
         "type": "verse",
@@ -14303,7 +14681,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मर्माभिघातस्तु च कश्चिदस्ति यो+अल्पात्ययो वा+अपि निरत्ययो वा प्रायेण मर्मस्वभिताडितास्तु वैकल्यमृच्छन्त्यथवा म्रियन्ते",
         "text": "Существует, впрочем, и такое поражение марны, которое приводит лишь к незначительному вреду или вовсе безвредно; но по большей части поражённые в марны либо становятся увеченными, либо погибают.",
         "iast": "marmābhighātastu ca kaścidasti yo+alpātyayo vā+api niratyayo vā prāyeṇa marmasvabhitāḍitāstu vaikalyamṛcchantyathavā mriyante",
-        "iast_ru": "марма̄бхигха̄тасту ча каш́чидасти йо+алпа̄тйайо ва̄+апи ниратйайо ва̄ пра̄йен̣а мармасвабхита̄д̣ита̄сту ваикалйамр̣ччхантйатхава̄ мрийанте"
+        "iast_ru": "марма̄бхигха̄тасту ча каш́чидасти йо+алпа̄тйайо ва̄+апи ниратйайо ва̄ пра̄йен̣а мармасвабхита̄д̣ита̄сту ваикалйамр̣ччхантйатхава̄ мрийанте",
+        "text_en": "There exists, however, also an injury to a marma that leads only to minor harm, or is entirely harmless; but for the most part those struck in the marmas either become disabled or perish."
       },
       {
         "type": "verse",
@@ -14311,7 +14690,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "मर्माण्यधिष्ठाय हि ये विकारा मूर्च्छन्ति काये विविधा नराणाम् प्रायेण ते कृच्छ्रतमा भवन्ति नरस्य यत्नैरपि साध्यमानाः",
         "text": "Ибо разнообразные болезненные состояния, гнездящиеся в марнах человеческого тела, как правило, оказываются наиболее трудноизлечимыми, даже когда их пытаются лечить со всем старанием.",
         "iast": "marmāṇyadhiṣṭhāya hi ye vikārā mūrcchanti kāye vividhā narāṇām prāyeṇa te kṛcchratamā bhavanti narasya yatnairapi sādhyamānāḥ",
-        "iast_ru": "марма̄н̣йадхиш̣т̣ха̄йа хи йе вика̄ра̄ мӯрччханти ка̄йе вивидха̄ нара̄н̣а̄м пра̄йен̣а те кр̣ччхратама̄ бхаванти нарасйа йатнаирапи са̄дхйама̄на̄х̣"
+        "iast_ru": "марма̄н̣йадхиш̣т̣ха̄йа хи йе вика̄ра̄ мӯрччханти ка̄йе вивидха̄ нара̄н̣а̄м пра̄йен̣а те кр̣ччхратама̄ бхаванти нарасйа йатнаирапи са̄дхйама̄на̄х̣",
+        "text_en": "For the various painful conditions that lodge in the marmas of the human body generally prove the most difficult to cure, even when treated with the utmost diligence."
       }
     ]
   },
@@ -14333,7 +14713,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अथातः सिरावर्णविभक्तिꣳऽसिरावर्णविभक्तिशारीरꣳऽ इति पा+ नाम शारीरꣳ व्याख्यास्यामः",
         "text": "Теперь мы разъясним раздел Шариры под названием «Сира-варна-вибхакти» — о разделении сосудов (сир) по их цвету.",
         "iast": "athātaḥ sirāvarṇavibhaktiṁ'sirāvarṇavibhaktiśārīraṁ' iti pā+ nāma śārīraṁ vyākhyāsyāmaḥ",
-        "iast_ru": "атха̄тах̣ сира̄варн̣авибхактим̣'сира̄варн̣авибхактиш́а̄рӣрам̣' ити па̄+ на̄ма ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣"
+        "iast_ru": "атха̄тах̣ сира̄варн̣авибхактим̣'сира̄варн̣авибхактиш́а̄рӣрам̣' ити па̄+ на̄ма ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣",
+        "text_en": "Now we shall explain the section of the Sharira called \"Sira-varna-vibhakti\", on the division of the vessels (sira) according to their color."
       },
       {
         "type": "verse",
@@ -14341,7 +14722,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यथोवाच भगवान् धन्वन्तरिः",
         "text": "Как поведал досточтимый Дханвантари:",
         "iast": "yathovāca bhagavān dhanvantariḥ",
-        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣"
+        "iast_ru": "йатхова̄ча бхагава̄н дханвантарих̣",
+        "text_en": "As the venerable Dhanvantari declared:"
       },
       {
         "type": "verse",
@@ -14349,7 +14731,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सप्त सिराशतानि भवन्ति; याभिरिदꣳ शरीरमाराम इव जलहारिणीभिः केदार इव च कुल्याभिरुपस्निह्यते+अनुगृह्यते चाकुञ्चनप्रसारणादिभिर्विशेषैः; द्रुमपत्रसेवनीनामिव च तासाꣳ प्रतानाः; तासाꣳ नाभिर्मूलꣳ, ततश्च प्रसरन्त्यूर्ध्वमधस्तिर्यक् च",
         "text": "Всего в теле насчитывается семьсот сосудов (сир); подобно тому как сад питается водоносными канавками, а поле — оросительными протоками, так и тело поддерживается и снабжается этими сосудами, обеспечивающими такие движения, как сгибание и разгибание. Их ветвления подобны прожилкам древесного листа. Их корень — пупок, оттуда они расходятся вверх, вниз и в стороны.",
         "iast": "sapta sirāśatāni bhavanti; yābhiridaṁ śarīramārāma iva jalahāriṇībhiḥ kedāra iva ca kulyābhirupasnihyate+anugṛhyate cākuñcanaprasāraṇādibhirviśeṣaiḥ; drumapatrasevanīnāmiva ca tāsāṁ pratānāḥ; tāsāṁ nābhirmūlaṁ, tataśca prasarantyūrdhvamadhastiryak ca",
-        "iast_ru": "сапта сира̄ш́ата̄ни бхаванти; йа̄бхиридам̣ ш́арӣрама̄ра̄ма ива джалаха̄рин̣ӣбхих̣ кеда̄ра ива ча кулйа̄бхирупаснихйате+анугр̣хйате ча̄кун̃чанапраса̄ран̣а̄дибхирвиш́еш̣аих̣; друмапатрасеванӣна̄мива ча та̄са̄м̣ прата̄на̄х̣; та̄са̄м̣ на̄бхирмӯлам̣, таташ́ча прасарантйӯрдхвамадхастирйак ча"
+        "iast_ru": "сапта сира̄ш́ата̄ни бхаванти; йа̄бхиридам̣ ш́арӣрама̄ра̄ма ива джалаха̄рин̣ӣбхих̣ кеда̄ра ива ча кулйа̄бхирупаснихйате+анугр̣хйате ча̄кун̃чанапраса̄ран̣а̄дибхирвиш́еш̣аих̣; друмапатрасеванӣна̄мива ча та̄са̄м̣ прата̄на̄х̣; та̄са̄м̣ на̄бхирмӯлам̣, таташ́ча прасарантйӯрдхвамадхастирйак ча",
+        "text_en": "In all, seven hundred vessels (sira) are reckoned in the body; just as a garden is nourished by water-carrying channels, and a field by irrigation ditches, so too the body is sustained and supplied by these vessels, which make possible such movements as flexion and extension. Their branchings resemble the veins of a tree's leaf. Their root is the navel, whence they spread upward, downward, and to the sides."
       },
       {
         "type": "verse",
@@ -14357,7 +14740,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवतश्चात्र यावत्यस्तु सिराः काये सꣳभवन्ति शरीरिणाम् नाभ्याꣳ सर्वा निबद्धास्ताः प्रतन्वन्ति[ऽप्रवर्तन्तेऽ इति पा+] समन्ततः",
         "text": "Есть и такой стих: сколько бы сосудов ни было в теле живого существа, все они соединены с пупком и расходятся оттуда во все стороны.",
         "iast": "bhavataścātra yāvatyastu sirāḥ kāye saṁbhavanti śarīriṇām nābhyāṁ sarvā nibaddhāstāḥ pratanvanti['pravartante' iti pā+] samantataḥ",
-        "iast_ru": "бхаваташ́ча̄тра йа̄ватйасту сира̄х̣ ка̄йе сам̣бхаванти ш́арӣрин̣а̄м на̄бхйа̄м̣ сарва̄ нибаддха̄ста̄х̣ пратанванти['правартанте' ити па̄+] самантатах̣"
+        "iast_ru": "бхаваташ́ча̄тра йа̄ватйасту сира̄х̣ ка̄йе сам̣бхаванти ш́арӣрин̣а̄м на̄бхйа̄м̣ сарва̄ нибаддха̄ста̄х̣ пратанванти['правартанте' ити па̄+] самантатах̣",
+        "text_en": "There is also a verse: however many vessels there may be in the body of a living being, all of them are connected to the navel and spread out from it in every direction."
       },
       {
         "type": "verse",
@@ -14365,7 +14749,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "नाभिस्थाः प्राणिनाꣳ प्राणाः प्राणान्नाभिर्व्युपाश्रिता सिराभिरावृता नाभिश्चक्रनाभिरिवारकैः",
         "text": "Жизненная сила живых существ пребывает в пупке, а сам пупок, в свою очередь, зависит от этой жизненной силы; он окружён сосудами, подобно тому как ступица колеса окружена спицами.",
         "iast": "nābhisthāḥ prāṇināṁ prāṇāḥ prāṇānnābhirvyupāśritā sirābhirāvṛtā nābhiścakranābhirivārakaiḥ",
-        "iast_ru": "на̄бхистха̄х̣ пра̄н̣ина̄м̣ пра̄н̣а̄х̣ пра̄н̣а̄нна̄бхирвйупа̄ш́рита̄ сира̄бхира̄вр̣та̄ на̄бхиш́чакрана̄бхирива̄ракаих̣"
+        "iast_ru": "на̄бхистха̄х̣ пра̄н̣ина̄м̣ пра̄н̣а̄х̣ пра̄н̣а̄нна̄бхирвйупа̄ш́рита̄ сира̄бхира̄вр̣та̄ на̄бхиш́чакрана̄бхирива̄ракаих̣",
+        "text_en": "The vital force of living beings resides in the navel, and the navel itself, in turn, depends on this vital force; it is surrounded by vessels, just as the hub of a wheel is surrounded by spokes."
       },
       {
         "type": "verse",
@@ -14373,7 +14758,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तासाꣳ मूलसिराश्चत्वारिꣳशत्; तासाꣳ वातवाहिन्यो दश, पित्तवाहिन्यो दश, कफवाहिन्यो दश, दश रक्तवाहिन्यः/ तासाꣳ तु वातवाहिनीनाꣳ वातस्थानगतानाꣳ पञ्चसप्ततिशतꣳ भवति, तावत्य एव पित्तवाहिन्यः पित्तस्थाने, कफवाहिन्यश्च कफस्थाने, रक्तवाहिन्यश्च यकृत्प्लीह्नोः, एवमेतानि सप्त सिराशतानि",
         "text": "Из всех сосудов главных (корневых) — сорок: десять несут Ваю, десять — Питту, десять — Капху и десять — кровь. Ваю-несущих сосудов в области Ваю насчитывается сто семьдесят пять; столько же питта-несущих в области Питты, столько же капха-несущих в области Капхи и столько же кровеносных — в области печени и селезёнки. Так и получается семьсот сосудов.",
         "iast": "tāsāṁ mūlasirāścatvāriṁśat; tāsāṁ vātavāhinyo daśa, pittavāhinyo daśa, kaphavāhinyo daśa, daśa raktavāhinyaḥ/ tāsāṁ tu vātavāhinīnāṁ vātasthānagatānāṁ pañcasaptatiśataṁ bhavati, tāvatya eva pittavāhinyaḥ pittasthāne, kaphavāhinyaśca kaphasthāne, raktavāhinyaśca yakṛtplīhnoḥ, evametāni sapta sirāśatāni",
-        "iast_ru": "та̄са̄м̣ мӯласира̄ш́чатва̄рим̣ш́ат; та̄са̄м̣ ва̄тава̄хинйо даш́а, питтава̄хинйо даш́а, капхава̄хинйо даш́а, даш́а рактава̄хинйах̣/ та̄са̄м̣ ту ва̄тава̄хинӣна̄м̣ ва̄тастха̄нагата̄на̄м̣ пан̃часаптатиш́атам̣ бхавати, та̄ватйа ева питтава̄хинйах̣ питтастха̄не, капхава̄хинйаш́ча капхастха̄не, рактава̄хинйаш́ча йакр̣тплӣхнох̣, евамета̄ни сапта сира̄ш́ата̄ни"
+        "iast_ru": "та̄са̄м̣ мӯласира̄ш́чатва̄рим̣ш́ат; та̄са̄м̣ ва̄тава̄хинйо даш́а, питтава̄хинйо даш́а, капхава̄хинйо даш́а, даш́а рактава̄хинйах̣/ та̄са̄м̣ ту ва̄тава̄хинӣна̄м̣ ва̄тастха̄нагата̄на̄м̣ пан̃часаптатиш́атам̣ бхавати, та̄ватйа ева питтава̄хинйах̣ питтастха̄не, капхава̄хинйаш́ча капхастха̄не, рактава̄хинйаш́ча йакр̣тплӣхнох̣, евамета̄ни сапта сира̄ш́ата̄ни",
+        "text_en": "Of all the vessels, the principal (root) ones number forty: ten carry Vayu, ten carry Pitta, ten carry Kapha, and ten carry blood. The Vayu-carrying vessels in the domain of Vayu number one hundred and seventy-five; the same number of Pitta-carrying vessels in the domain of Pitta, the same number of Kapha-carrying vessels in the domain of Kapha, and the same number of blood vessels in the domain of the liver and spleen. Thus the total of seven hundred vessels is arrived at."
       },
       {
         "type": "verse",
@@ -14381,7 +14767,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र वातवाहिन्यः सिरा एकस्मिन् सक्थ्नि पञ्चविꣳशतिः, एतेनेतरसक्थि बाहू च व्याख्यातौ/ विशेषतस्तु कोष्ठे चतुर्स्त्रिꣳशत्; तासाꣳ गुदमेढ्राश्रिताः श्रोण्यामष्टौ, द्वे द्वे पार्श्वयोः, षट् पृष्ठे, तावत्य एव चोदरे, दश वक्षसि/ एकचत्वारिꣳशज्जत्रुण ऊर्ध्वꣳ, तासाꣳ चतुर्दश ग्रीवायाꣳ, कर्णयोश्चतस्रः, नव जिह्वायाꣳ, षट् नासिकायाꣳ, अष्टौ नेत्रयोः, एवमेतत् पञ्चसप्ततिशतꣳ वातवहानाꣳऽवातवाहिनीनाꣳऽ इति पा+ सिराणाꣳ व्याख्यातꣳ भवति/ एष एव विभागः शेषाणामपि/ विशेषतस्तु पित्तवाहिन्यो नेत्रयोर्दश, कर्णयोर्द्वे; एवꣳ रक्तवाहाः कफवहाश्च/ एवमेतानि सप्त सिराशतानि सविभागानि व्याख्यातानि",
         "text": "В одной ноге насчитывается двадцать пять ваю-несущих сосудов, и столько же — в другой ноге и в каждой из рук. В туловище их особо насчитывается тридцать четыре: восемь связаны с задним проходом и половым членом и находятся в тазовой области, по два — на каждом боку, шесть — на спине, столько же — на животе, десять — в груди. Выше ключиц находится сорок один сосуд: четырнадцать в шее, четыре в ушах, девять в языке, шесть в носу и восемь в глазах. Так подробно описаны сто семьдесят пять ваю-несущих сосудов. Такое же деление верно и для остальных: питта-несущих в глазах — десять, в ушах — два; так же распределяются кровеносные и капха-несущие сосуды. Так во всех подробностях описаны все семьсот сосудов.",
         "iast": "tatra vātavāhinyaḥ sirā ekasmin sakthni pañcaviṁśatiḥ, etenetarasakthi bāhū ca vyākhyātau/ viśeṣatastu koṣṭhe caturstriṁśat; tāsāṁ gudameḍhrāśritāḥ śroṇyāmaṣṭau, dve dve pārśvayoḥ, ṣaṭ pṛṣṭhe, tāvatya eva codare, daśa vakṣasi/ ekacatvāriṁśajjatruṇa ūrdhvaṁ, tāsāṁ caturdaśa grīvāyāṁ, karṇayoścatasraḥ, nava jihvāyāṁ, ṣaṭ nāsikāyāṁ, aṣṭau netrayoḥ, evametat pañcasaptatiśataṁ vātavahānāṁ'vātavāhinīnāṁ' iti pā+ sirāṇāṁ vyākhyātaṁ bhavati/ eṣa eva vibhāgaḥ śeṣāṇāmapi/ viśeṣatastu pittavāhinyo netrayordaśa, karṇayordve; evaṁ raktavāhāḥ kaphavahāśca/ evametāni sapta sirāśatāni savibhāgāni vyākhyātāni",
-        "iast_ru": "татра ва̄тава̄хинйах̣ сира̄ екасмин сактхни пан̃чавим̣ш́атих̣, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау/ виш́еш̣атасту кош̣т̣хе чатурстрим̣ш́ат; та̄са̄м̣ гудамед̣хра̄ш́рита̄х̣ ш́рон̣йа̄маш̣т̣ау, две две па̄рш́вайох̣, ш̣ат̣ пр̣ш̣т̣хе, та̄ватйа ева чодаре, даш́а вакш̣аси/ екачатва̄рим̣ш́аджджатрун̣а ӯрдхвам̣, та̄са̄м̣ чатурдаш́а грӣва̄йа̄м̣, карн̣айош́чатасрах̣, нава джихва̄йа̄м̣, ш̣ат̣ на̄сика̄йа̄м̣, аш̣т̣ау нетрайох̣, еваметат пан̃часаптатиш́атам̣ ва̄таваха̄на̄м̣'ва̄тава̄хинӣна̄м̣' ити па̄+ сира̄н̣а̄м̣ вйа̄кхйа̄там̣ бхавати/ еш̣а ева вибха̄гах̣ ш́еш̣а̄н̣а̄мапи/ виш́еш̣атасту питтава̄хинйо нетрайордаш́а, карн̣айордве; евам̣ рактава̄ха̄х̣ капхаваха̄ш́ча/ евамета̄ни сапта сира̄ш́ата̄ни савибха̄га̄ни вйа̄кхйа̄та̄ни"
+        "iast_ru": "татра ва̄тава̄хинйах̣ сира̄ екасмин сактхни пан̃чавим̣ш́атих̣, етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау/ виш́еш̣атасту кош̣т̣хе чатурстрим̣ш́ат; та̄са̄м̣ гудамед̣хра̄ш́рита̄х̣ ш́рон̣йа̄маш̣т̣ау, две две па̄рш́вайох̣, ш̣ат̣ пр̣ш̣т̣хе, та̄ватйа ева чодаре, даш́а вакш̣аси/ екачатва̄рим̣ш́аджджатрун̣а ӯрдхвам̣, та̄са̄м̣ чатурдаш́а грӣва̄йа̄м̣, карн̣айош́чатасрах̣, нава джихва̄йа̄м̣, ш̣ат̣ на̄сика̄йа̄м̣, аш̣т̣ау нетрайох̣, еваметат пан̃часаптатиш́атам̣ ва̄таваха̄на̄м̣'ва̄тава̄хинӣна̄м̣' ити па̄+ сира̄н̣а̄м̣ вйа̄кхйа̄там̣ бхавати/ еш̣а ева вибха̄гах̣ ш́еш̣а̄н̣а̄мапи/ виш́еш̣атасту питтава̄хинйо нетрайордаш́а, карн̣айордве; евам̣ рактава̄ха̄х̣ капхаваха̄ш́ча/ евамета̄ни сапта сира̄ш́ата̄ни савибха̄га̄ни вйа̄кхйа̄та̄ни",
+        "text_en": "In one leg there are reckoned twenty-five Vayu-carrying vessels, and the same number in the other leg and in each of the arms. In the trunk there are specifically thirty-four: eight are connected with the anus and the genital organ and are located in the pelvic region, two on each flank, six in the back, the same number in the belly, and ten in the chest. Above the collarbones there are forty-one vessels: fourteen in the neck, four in the ears, nine in the tongue, six in the nose, and eight in the eyes. Thus in detail are described the one hundred and seventy-five Vayu-carrying vessels. The same division holds for the rest: the Pitta-carrying vessels in the eyes number ten, in the ears two; the blood vessels and the Kapha-carrying vessels are distributed in the same way. Thus in every detail are described all seven hundred vessels."
       },
       {
         "type": "verse",
@@ -14389,7 +14776,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भवन्ति चात्र / क्रियाणामप्रतीघातममोहꣳ बुद्धिकर्मणाम् करोत्यन्यान् गुणाꣳश्चापि सिराः पवनश्चरन्",
         "text": "Есть и такие стихи: Ваю, протекая по своим сосудам, обеспечивает беспрепятственность действий и ясность умственной деятельности, а также иные благотворные качества.",
         "iast": "bhavanti cātra / kriyāṇāmapratīghātamamohaṁ buddhikarmaṇām karotyanyān guṇāṁścāpi sirāḥ pavanaścaran",
-        "iast_ru": "бхаванти ча̄тра / крийа̄н̣а̄мапратӣгха̄тамамохам̣ буддхикарман̣а̄м каротйанйа̄н гун̣а̄м̣ш́ча̄пи сира̄х̣ паванаш́чаран"
+        "iast_ru": "бхаванти ча̄тра / крийа̄н̣а̄мапратӣгха̄тамамохам̣ буддхикарман̣а̄м каротйанйа̄н гун̣а̄м̣ш́ча̄пи сира̄х̣ паванаш́чаран",
+        "text_en": "There are also these verses: Vayu, flowing through its own vessels, ensures the unimpeded performance of actions and clarity of mental activity, as well as other beneficial qualities."
       },
       {
         "type": "verse",
@@ -14397,7 +14785,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यदा तु कुपितो वायुः स्वाः सिराः प्रतिपद्यते तदा+अस्य विविधा रोगा जायन्ते वातसꣳभवाः",
         "text": "Когда же возбуждённый Ваю выходит за пределы своих сосудов, у человека возникают разнообразные болезни, вызванные Ваю.",
         "iast": "yadā tu kupito vāyuḥ svāḥ sirāḥ pratipadyate tadā+asya vividhā rogā jāyante vātasaṁbhavāḥ",
-        "iast_ru": "йада̄ ту купито ва̄йух̣ сва̄х̣ сира̄х̣ пратипадйате тада̄+асйа вивидха̄ рога̄ джа̄йанте ва̄тасам̣бхава̄х̣"
+        "iast_ru": "йада̄ ту купито ва̄йух̣ сва̄х̣ сира̄х̣ пратипадйате тада̄+асйа вивидха̄ рога̄ джа̄йанте ва̄тасам̣бхава̄х̣",
+        "text_en": "But when aggravated Vayu passes beyond the bounds of its own vessels, a person develops various diseases caused by Vayu."
       },
       {
         "type": "verse",
@@ -14405,7 +14794,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "भ्राजिष्णुतामन्नरुचिमग्निदीप्तिमरोगताम् सꣳसर्पत्स्वाः सिराः पित्तꣳ कुर्याच्चान्यान्गुणूनपि",
         "text": "Питта, спокойно текущая по своим сосудам, придаёт коже блеск, вызывает вкус к пище, разжигает огонь пищеварения, поддерживает здоровье и производит другие благоприятные качества.",
         "iast": "bhrājiṣṇutāmannarucimagnidīptimarogatām saṁsarpatsvāḥ sirāḥ pittaṁ kuryāccānyānguṇūnapi",
-        "iast_ru": "бхра̄джиш̣н̣ута̄маннаручимагнидӣптимарогата̄м сам̣сарпатсва̄х̣ сира̄х̣ питтам̣ курйа̄чча̄нйа̄нгун̣ӯнапи"
+        "iast_ru": "бхра̄джиш̣н̣ута̄маннаручимагнидӣптимарогата̄м сам̣сарпатсва̄х̣ сира̄х̣ питтам̣ курйа̄чча̄нйа̄нгун̣ӯнапи",
+        "text_en": "Pitta, flowing calmly through its own vessels, gives luster to the skin, produces relish for food, kindles the fire of digestion, sustains health, and produces other favorable qualities."
       },
       {
         "type": "verse",
@@ -14413,7 +14803,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यदा प्रकुतितꣳ पित्तꣳ सेवते स्ववहाः सिराः तदा+अस्य विविधा रोगा जायन्ते पित्तसꣳभवाः",
         "text": "Когда же возбуждённая Питта переполняет несущие её сосуды, возникают разнообразные болезни, порождённые Питтой.",
         "iast": "yadā prakutitaṁ pittaṁ sevate svavahāḥ sirāḥ tadā+asya vividhā rogā jāyante pittasaṁbhavāḥ",
-        "iast_ru": "йада̄ пракутитам̣ питтам̣ севате сваваха̄х̣ сира̄х̣ тада̄+асйа вивидха̄ рога̄ джа̄йанте питтасам̣бхава̄х̣"
+        "iast_ru": "йада̄ пракутитам̣ питтам̣ севате сваваха̄х̣ сира̄х̣ тада̄+асйа вивидха̄ рога̄ джа̄йанте питтасам̣бхава̄х̣",
+        "text_en": "But when aggravated Pitta overfills the vessels that carry it, various diseases arise, born of Pitta."
       },
       {
         "type": "verse",
@@ -14421,7 +14812,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "स्नेहमङ्गेषु सन्धीनाꣳ स्थैर्यꣳ बलमुदीर्णताम् करोत्यन्यान् गुणाꣳश्चापि बलासः स्वाः सिराश्चरन्",
         "text": "Капха, протекая по своим сосудам, придаёт членам маслянистость, укрепляет суставы, наделяет силой и бодростью, а также производит другие полезные свойства.",
         "iast": "snehamaṅgeṣu sandhīnāṁ sthairyaṁ balamudīrṇatām karotyanyān guṇāṁścāpi balāsaḥ svāḥ sirāścaran",
-        "iast_ru": "снехаман̇геш̣у сандхӣна̄м̣ стхаирйам̣ баламудӣрн̣ата̄м каротйанйа̄н гун̣а̄м̣ш́ча̄пи бала̄сах̣ сва̄х̣ сира̄ш́чаран"
+        "iast_ru": "снехаман̇геш̣у сандхӣна̄м̣ стхаирйам̣ баламудӣрн̣ата̄м каротйанйа̄н гун̣а̄м̣ш́ча̄пи бала̄сах̣ сва̄х̣ сира̄ш́чаран",
+        "text_en": "Kapha, flowing through its own vessels, gives unctuousness to the limbs, strengthens the joints, endows with strength and vigor, and produces other beneficial properties."
       },
       {
         "type": "verse",
@@ -14429,7 +14821,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यदा तु कुपितः श्लेष्मा स्वाः सिराः प्रतिपद्यते तदा+अस्य विविधा रोगा जायन्ते श्लेष्मसꣳभवाः",
         "text": "Когда же возбуждённая Капха выходит за пределы своих сосудов, возникают разнообразные болезни, порождённые Капхой.",
         "iast": "yadā tu kupitaḥ śleṣmā svāḥ sirāḥ pratipadyate tadā+asya vividhā rogā jāyante śleṣmasaṁbhavāḥ",
-        "iast_ru": "йада̄ ту купитах̣ ш́леш̣ма̄ сва̄х̣ сира̄х̣ пратипадйате тада̄+асйа вивидха̄ рога̄ джа̄йанте ш́леш̣масам̣бхава̄х̣"
+        "iast_ru": "йада̄ ту купитах̣ ш́леш̣ма̄ сва̄х̣ сира̄х̣ пратипадйате тада̄+асйа вивидха̄ рога̄ джа̄йанте ш́леш̣масам̣бхава̄х̣",
+        "text_en": "But when aggravated Kapha passes beyond the bounds of its own vessels, various diseases arise, born of Kapha."
       },
       {
         "type": "verse",
@@ -14437,7 +14830,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "धातूनाꣳ पूरणꣳ स्पर्शज्ञानमसꣳशयम् स्वाः सिराः सꣳचरद्रक्तꣳ कुर्याच्चान्यान् गुणानपि",
         "text": "Кровь, циркулирующая по своим сосудам, несомненно питает дхату (телесные начала) и обеспечивает восприятие осязания, а также производит другие полезные свойства.",
         "iast": "dhātūnāṁ pūraṇaṁ sparśajñānamasaṁśayam svāḥ sirāḥ saṁcaradraktaṁ kuryāccānyān guṇānapi",
-        "iast_ru": "дха̄тӯна̄м̣ пӯран̣ам̣ спарш́аджн̃а̄намасам̣ш́айам сва̄х̣ сира̄х̣ сам̣чарадрактам̣ курйа̄чча̄нйа̄н гун̣а̄напи"
+        "iast_ru": "дха̄тӯна̄м̣ пӯран̣ам̣ спарш́аджн̃а̄намасам̣ш́айам сва̄х̣ сира̄х̣ сам̣чарадрактам̣ курйа̄чча̄нйа̄н гун̣а̄напи",
+        "text_en": "Blood, circulating through its own vessels, undoubtedly nourishes the dhatus (bodily tissues) and provides for the perception of touch, as well as producing other beneficial properties."
       },
       {
         "type": "verse",
@@ -14445,7 +14839,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "यदा तु कुपितꣳ रक्तꣳ सेवते स्ववहाः सिराः तदा+अस्य विविधा रोगा जायन्ते रक्तसꣳभवाः",
         "text": "Когда же испорченная кровь переполняет несущие её сосуды, возникают разнообразные болезни, порождённые кровью.",
         "iast": "yadā tu kupitaṁ raktaṁ sevate svavahāḥ sirāḥ tadā+asya vividhā rogā jāyante raktasaṁbhavāḥ",
-        "iast_ru": "йада̄ ту купитам̣ рактам̣ севате сваваха̄х̣ сира̄х̣ тада̄+асйа вивидха̄ рога̄ джа̄йанте рактасам̣бхава̄х̣"
+        "iast_ru": "йада̄ ту купитам̣ рактам̣ севате сваваха̄х̣ сира̄х̣ тада̄+асйа вивидха̄ рога̄ джа̄йанте рактасам̣бхава̄х̣",
+        "text_en": "But when corrupted blood overfills the vessels that carry it, various diseases arise, born of blood."
       },
       {
         "type": "verse",
@@ -14453,7 +14848,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "न हि वातꣳ सिराः काश्चिन्न पित्तꣳ केवलꣳ तथा श्लेष्माणाꣳ वा वहन्त्येता अतः सर्ववहाः स्मृताः",
         "text": "Ни один из сосудов не переносит исключительно только Ваю, или только Питту, или только Капху — поэтому все сосуды считаются переносящими все три начала.",
         "iast": "na hi vātaṁ sirāḥ kāścinna pittaṁ kevalaṁ tathā śleṣmāṇāṁ vā vahantyetā ataḥ sarvavahāḥ smṛtāḥ",
-        "iast_ru": "на хи ва̄там̣ сира̄х̣ ка̄ш́чинна питтам̣ кевалам̣ татха̄ ш́леш̣ма̄н̣а̄м̣ ва̄ вахантйета̄ атах̣ сарваваха̄х̣ смр̣та̄х̣"
+        "iast_ru": "на хи ва̄там̣ сира̄х̣ ка̄ш́чинна питтам̣ кевалам̣ татха̄ ш́леш̣ма̄н̣а̄м̣ ва̄ вахантйета̄ атах̣ сарваваха̄х̣ смр̣та̄х̣",
+        "text_en": "Not one of the vessels carries exclusively Vayu alone, or Pitta alone, or Kapha alone; therefore all the vessels are held to carry all three principles."
       },
       {
         "type": "verse",
@@ -14461,7 +14857,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "प्रदुष्टानाꣳ हि दोषाणाꣳऽदोषाणामुच्छ्रितानाꣳऽइति पा+ मूर्च्छितानाꣳ प्रधावताम् ध्रुवमुन्मारगगमनमतः सर्ववहाः स्मृताः",
         "text": "Ведь испорченные и разбушевавшиеся доши, устремляясь по телу, непременно уклоняются со своего обычного пути — поэтому и считается, что все сосуды переносят все доши.",
         "iast": "praduṣṭānāṁ hi doṣāṇāṁ'doṣāṇāmucchritānāṁ'iti pā+ mūrcchitānāṁ pradhāvatām dhruvamunmāragagamanamataḥ sarvavahāḥ smṛtāḥ",
-        "iast_ru": "прадуш̣т̣а̄на̄м̣ хи дош̣а̄н̣а̄м̣'дош̣а̄н̣а̄муччхрита̄на̄м̣'ити па̄+ мӯрччхита̄на̄м̣ прадха̄вата̄м дхрувамунма̄рагагаманаматах̣ сарваваха̄х̣ смр̣та̄х̣"
+        "iast_ru": "прадуш̣т̣а̄на̄м̣ хи дош̣а̄н̣а̄м̣'дош̣а̄н̣а̄муччхрита̄на̄м̣'ити па̄+ мӯрччхита̄на̄м̣ прадха̄вата̄м дхрувамунма̄рагагаманаматах̣ сарваваха̄х̣ смр̣та̄х̣",
+        "text_en": "For the corrupted and enraged doshas, rushing through the body, inevitably deviate from their customary path; it is for this reason that all the vessels are held to carry all the doshas."
       },
       {
         "type": "verse",
@@ -14469,7 +14866,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्रारुणा वातवहाः पूर्यन्ते वायुना सिराः पित्तादुष्णाश्च नीलाश्च, शीता गौर्यः स्थिराः कफात् असृग्वहास्तु रोहिण्यः सिरा नात्युष्णशीतलाः",
         "text": "Сосуды, переносящие Ваю, наполнены воздухом и имеют рыжевато-красный оттенок; сосуды, наполненные Питтой, тёплые и синеватые; сосуды, наполненные Капхой, холодные, бледные и плотные; а кровеносные сосуды, называемые Рохини, не бывают ни слишком горячими, ни слишком холодными.",
         "iast": "tatrāruṇā vātavahāḥ pūryante vāyunā sirāḥ pittāduṣṇāśca nīlāśca, śītā gauryaḥ sthirāḥ kaphāt asṛgvahāstu rohiṇyaḥ sirā nātyuṣṇaśītalāḥ",
-        "iast_ru": "татра̄рун̣а̄ ва̄таваха̄х̣ пӯрйанте ва̄йуна̄ сира̄х̣ питта̄душ̣н̣а̄ш́ча нӣла̄ш́ча, ш́ӣта̄ гаурйах̣ стхира̄х̣ капха̄т аср̣гваха̄сту рохин̣йах̣ сира̄ на̄тйуш̣н̣аш́ӣтала̄х̣"
+        "iast_ru": "татра̄рун̣а̄ ва̄таваха̄х̣ пӯрйанте ва̄йуна̄ сира̄х̣ питта̄душ̣н̣а̄ш́ча нӣла̄ш́ча, ш́ӣта̄ гаурйах̣ стхира̄х̣ капха̄т аср̣гваха̄сту рохин̣йах̣ сира̄ на̄тйуш̣н̣аш́ӣтала̄х̣",
+        "text_en": "The vessels carrying Vayu are filled with air and have a reddish-tawny hue; the vessels filled with Pitta are warm and bluish; the vessels filled with Kapha are cold, pale, and dense; while the blood vessels, called Rohini, are neither too hot nor too cold."
       },
       {
         "type": "verse",
@@ -14477,7 +14875,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "अत ऊर्ध्वꣳ प्रवक्ष्यामि न विध्येदाः सिरा भिषक् वैक्स्ल्यꣳ मरणꣳ चापि व्यधात्तासाꣳ द्ज्रिवꣳ भवेत्",
         "text": "Далее я расскажу, какие сосуды хирургу не следует вскрывать: их прокол непременно приводит либо к увечью, либо даже к смерти.",
         "iast": "ata ūrdhvaṁ pravakṣyāmi na vidhyedāḥ sirā bhiṣak vaikslyaṁ maraṇaṁ cāpi vyadhāttāsāṁ djrivaṁ bhavet",
-        "iast_ru": "ата ӯрдхвам̣ правакш̣йа̄ми на видхйеда̄х̣ сира̄ бхиш̣ак ваикслйам̣ маран̣ам̣ ча̄пи вйадха̄тта̄са̄м̣ дджривам̣ бхавет"
+        "iast_ru": "ата ӯрдхвам̣ правакш̣йа̄ми на видхйеда̄х̣ сира̄ бхиш̣ак ваикслйам̣ маран̣ам̣ ча̄пи вйадха̄тта̄са̄м̣ дджривам̣ бхавет",
+        "text_en": "Next I shall tell which vessels the surgeon should not open: their puncture inevitably leads either to disability or even to death."
       },
       {
         "type": "verse",
@@ -14485,7 +14884,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "सिराशतानि चत्वारि विद्याच्छाखासु बुद्धिमान् षट्त्रिꣳशच्च शतꣳ कोष्ठे चतुःषष्टिꣳ च मूर्धनि",
         "text": "Пусть разумный хирург знает: четыреста сосудов находятся в конечностях, сто тридцать шесть — в туловище и шестьдесят четыре — в голове.",
         "iast": "sirāśatāni catvāri vidyācchākhāsu buddhimān ṣaṭtriṁśacca śataṁ koṣṭhe catuḥṣaṣṭiṁ ca mūrdhani",
-        "iast_ru": "сира̄ш́ата̄ни чатва̄ри видйа̄ччха̄кха̄су буддхима̄н ш̣ат̣трим̣ш́ачча ш́атам̣ кош̣т̣хе чатух̣ш̣аш̣т̣им̣ ча мӯрдхани"
+        "iast_ru": "сира̄ш́ата̄ни чатва̄ри видйа̄ччха̄кха̄су буддхима̄н ш̣ат̣трим̣ш́ачча ш́атам̣ кош̣т̣хе чатух̣ш̣аш̣т̣им̣ ча мӯрдхани",
+        "text_en": "Let the wise surgeon know: four hundred vessels are found in the limbs, one hundred and thirty-six in the trunk, and sixty-four in the head."
       },
       {
         "type": "verse",
@@ -14493,7 +14893,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "शाखासु षोडश सिराः कोष्ठे द्वात्रिꣳशदेव तु पञ्चाशज्जत्रुणश्चोर्ध्वमव्यध्याः परिकीर्तिताः",
         "text": "Из них непригодными для вскрытия названы: шестнадцать сосудов в конечностях, тридцать два — в туловище и пятьдесят — выше ключиц.",
         "iast": "śākhāsu ṣoḍaśa sirāḥ koṣṭhe dvātriṁśadeva tu pañcāśajjatruṇaścordhvamavyadhyāḥ parikīrtitāḥ",
-        "iast_ru": "ш́а̄кха̄су ш̣од̣аш́а сира̄х̣ кош̣т̣хе два̄трим̣ш́адева ту пан̃ча̄ш́аджджатрун̣аш́чордхвамавйадхйа̄х̣ парикӣртита̄х̣"
+        "iast_ru": "ш́а̄кха̄су ш̣од̣аш́а сира̄х̣ кош̣т̣хе два̄трим̣ш́адева ту пан̃ча̄ш́аджджатрун̣аш́чордхвамавйадхйа̄х̣ парикӣртита̄х̣",
+        "text_en": "Of these, the ones declared unfit for opening are: sixteen vessels in the limbs, thirty-two in the trunk, and fifty above the collarbones."
       },
       {
         "type": "verse",
@@ -14501,7 +14902,8 @@ export const SUSHRUTA_DATA = [
         "sanskrit": "तत्र सिराशतमेकस्मिन् सक्थ्नि भवति; तासाꣳ जालधरा त्वेका, तिस्रश्चाभ्यन्तराः---तत्रोर्वीसꣳज्ञे द्वे, लोहिताक्षसꣳज्ञाऽलोहिताक्षसꣳज्ञैकाऽइति पा+ चैका, एतास्त्वव्यध्याः; एतेनेतरसक्थि बाहू च व्याख्यातौ; एवमशस्त्रकृत्याः षोडश शाखासु/ द्वात्रिꣳशच्छ्रोण्याꣳ, तासामष्टावशस्त्रकृत्याः---द्वे द्वे विटपयोः, कटीकतरुणयोश्च; अष्टावष्टावेकैकस्मिन् पार्श्वे, तासामेकैकामूर्ध्वगाꣳ परिहरेत्, पार्श्वसन्धिगते च द्वे; चतस्रो विꣳशतिश्च पृष्ठेऽपृष्ठेऽइति न पठ्यते केषुचित्पुस्तकेषु पृष्ठवꣳशमुभयतः, तासामूर्ध्वगामिन्यौ द्वे द्वे परिहरेद्बृहतीसिरे; तावत्य एवोदरे, तासाꣳ मेढोपरि रोमराजीमुभयतो द्वे द्वे परिहरेत्; चत्वारिꣳशद्वक्षसि, तासाꣳ चतुर्दशाशस्त्रकृत्याः---हृदये द्वे, द्वे द्वे स्तनमूले, स्तनरोहितापलापस्तम्भेषूभयतो+अष्टौ; एवꣳ द्वात्रिꣳशदशस्त्रकृत्याः पृष्ठोदरोरःसु भवन्ति/ चतुःषष्टिसिराशतꣳ जत्रुण ऊर्ध्वꣳ भवति; तत्र षट्पञ्चाशच्छिरोधरायाꣳऽतत्राष्टपञ्चाशत्ऽइति पा+, तासामष्टौ चतस्रश्च मर्मसꣳज्ञाः परिहरेत्, द्वे कृकाटिकयोः, द्वे विधुरयोः, एवꣳ ग्रीवायाꣳ षोडशाव्यध्याः; हन्वोरुभयतो+अष्टावष्टौ, तासाꣳ तु सन्धिधमन्यौ द्वे द्वे परिहरेत्; षट्त्रिꣳशज्जिह्वायाꣳ, तासामधः षोडशाशस्त्रकृत्याः, रसवहे द्वे, वाग्वहे च द्वे; द्विर्द्वादश नासायाꣳ, तासामौपनासिक्यश्चतस्रः परिहरेत्, तासामेव च तालुन्येकाꣳ मृदावुद्देशे; अष्टत्रिꣳशदुभयोर्नेत्रयोःऽषट्त्रिꣳशदुभयोर्नेत्रयोःऽइति पा+, तासामेकामपाङ्गयोः परिहरेत्; कर्णयोर्दश, तासाꣳ शब्दवाहिनीमेकैकाꣳ परिहरेत्; नासानेत्रगतास्तु ललाटे षष्टिः, तासाꣳ केशान्तानुगताश्चतस्रः (परिहरेत्), आवर्तयोरेकैका, स्थपन्याꣳ चैका, परिहर्तव्या; शङ्खयोर्दश, तासाꣳ शङ्खसन्धिगतामेकैकाꣳ परिहरेत्; (इत्येता नासानेत्रगता बोद्धव्याः) द्वादश मूर्ध्नि, तासामुत्क्षेपयोर्द्वे परिहरेत्, सीमन्तेष्वेकैकाꣳ, एकामधिपताविति; एवमशस्त्रकृत्याः पञ्चाशज्जत्रुण ऊर्ध्वमिति",
         "text": "В одной ноге насчитывается сто сосудов; из них один называется Джаладхара, а три — внутренними: два — Урви и один — Лохитакша; эти четыре непригодны для вскрытия. То же относится к другой ноге и к обеим рукам; итого в конечностях шестнадцать сосудов не подлежат вскрытию. В тазовой области — тридцать два сосуда, из них восемь непригодны: по два в области паха и по два в области Катикатаруна; по восемь на каждом боку, из которых по одному восходящему следует избегать, а также два, связанных с боковым сочленением. На спине по обе стороны хребта — двадцать четыре сосуда, из них по две большие восходящие сиры на каждой стороне следует избегать; столько же на животе, из них по два, идущих по волосяной линии над лобком с обеих сторон, следует избегать. В груди — сорок сосудов, из них четырнадцать непригодны: два в сердце, по два у основания каждой груди и восемь в области Стана-рохита и Апалапа-стамбха с обеих сторон. Так на спине, животе и груди — тридцать два непригодных сосуда. Выше ключиц находится шестьдесят четыре сосуда: пятьдесят шесть в шее и горле, из которых следует избегать двенадцати — восьми, связанных с Мармами, и четырёх иных: по два в области Крикатика и по два в области Видхура; итого в шее непригодны шестнадцать. По сторонам челюстей — по восемь сосудов, из которых по два сочленённых с суставом следует избегать. В языке — тридцать шесть сосудов, из них шестнадцать под языком непригодны: два несут вкус, два — речь. В носу — двадцать четыре сосуда, из них четыре у крыльев носа следует избегать, а также один в мягкой части нёба. В обоих глазах — тридцать восемь сосудов, из них по одному у внешнего угла глаза следует избегать. В ушах — десять сосудов, из них по одному, несущему звук, следует избегать. На лбу, в области носа и глаз — шестьдесят сосудов, из них четыре вдоль границы волос следует избегать, по одному в каждой из двух Аварт и один в Стхапани. В висках — десять сосудов, из них по одному в височном сочленении следует избегать. На своде черепа — двенадцать сосудов, из них два в Уткшепа следует избегать, по одному в каждой из Симант и один в Адхипати. Так выше ключиц насчитывается пятьдесят сосудов, не подлежащих вскрытию.",
         "iast": "tatra sirāśatamekasmin sakthni bhavati; tāsāṁ jāladharā tvekā, tisraścābhyantarāḥ---tatrorvīsaṁjñe dve, lohitākṣasaṁjñā'lohitākṣasaṁjñaikā'iti pā+ caikā, etāstvavyadhyāḥ; etenetarasakthi bāhū ca vyākhyātau; evamaśastrakṛtyāḥ ṣoḍaśa śākhāsu/ dvātriṁśacchroṇyāṁ, tāsāmaṣṭāvaśastrakṛtyāḥ---dve dve viṭapayoḥ, kaṭīkataruṇayośca; aṣṭāvaṣṭāvekaikasmin pārśve, tāsāmekaikāmūrdhvagāṁ pariharet, pārśvasandhigate ca dve; catasro viṁśatiśca pṛṣṭhe'pṛṣṭhe'iti na paṭhyate keṣucitpustakeṣu pṛṣṭhavaṁśamubhayataḥ, tāsāmūrdhvagāminyau dve dve pariharedbṛhatīsire; tāvatya evodare, tāsāṁ meḍhopari romarājīmubhayato dve dve pariharet; catvāriṁśadvakṣasi, tāsāṁ caturdaśāśastrakṛtyāḥ---hṛdaye dve, dve dve stanamūle, stanarohitāpalāpastambheṣūbhayato+aṣṭau; evaṁ dvātriṁśadaśastrakṛtyāḥ pṛṣṭhodaroraḥsu bhavanti/ catuḥṣaṣṭisirāśataṁ jatruṇa ūrdhvaṁ bhavati; tatra ṣaṭpañcāśacchirodharāyāṁ'tatrāṣṭapañcāśat'iti pā+, tāsāmaṣṭau catasraśca marmasaṁjñāḥ pariharet, dve kṛkāṭikayoḥ, dve vidhurayoḥ, evaṁ grīvāyāṁ ṣoḍaśāvyadhyāḥ; hanvorubhayato+aṣṭāvaṣṭau, tāsāṁ tu sandhidhamanyau dve dve pariharet; ṣaṭtriṁśajjihvāyāṁ, tāsāmadhaḥ ṣoḍaśāśastrakṛtyāḥ, rasavahe dve, vāgvahe ca dve; dvirdvādaśa nāsāyāṁ, tāsāmaupanāsikyaścatasraḥ pariharet, tāsāmeva ca tālunyekāṁ mṛdāvuddeśe; aṣṭatriṁśadubhayornetrayoḥ'ṣaṭtriṁśadubhayornetrayoḥ'iti pā+, tāsāmekāmapāṅgayoḥ pariharet; karṇayordaśa, tāsāṁ śabdavāhinīmekaikāṁ pariharet; nāsānetragatāstu lalāṭe ṣaṣṭiḥ, tāsāṁ keśāntānugatāścatasraḥ (pariharet), āvartayorekaikā, sthapanyāṁ caikā, parihartavyā; śaṅkhayordaśa, tāsāṁ śaṅkhasandhigatāmekaikāṁ pariharet; (ityetā nāsānetragatā boddhavyāḥ) dvādaśa mūrdhni, tāsāmutkṣepayordve pariharet, sīmanteṣvekaikāṁ, ekāmadhipatāviti; evamaśastrakṛtyāḥ pañcāśajjatruṇa ūrdhvamiti",
-        "iast_ru": "татра сира̄ш́атамекасмин сактхни бхавати; та̄са̄м̣ джа̄ладхара̄ твека̄, тисраш́ча̄бхйантара̄х̣---татрорвӣсам̣джн̃е две, лохита̄кш̣асам̣джн̃а̄'лохита̄кш̣асам̣джн̃аика̄'ити па̄+ чаика̄, ета̄ствавйадхйа̄х̣; етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; евамаш́астракр̣тйа̄х̣ ш̣од̣аш́а ш́а̄кха̄су/ два̄трим̣ш́аччхрон̣йа̄м̣, та̄са̄маш̣т̣а̄ваш́астракр̣тйа̄х̣---две две вит̣апайох̣, кат̣ӣкатарун̣айош́ча; аш̣т̣а̄ваш̣т̣а̄векаикасмин па̄рш́ве, та̄са̄мекаика̄мӯрдхвага̄м̣ парихарет, па̄рш́васандхигате ча две; чатасро вим̣ш́атиш́ча пр̣ш̣т̣хе'пр̣ш̣т̣хе'ити на пат̣хйате кеш̣учитпустакеш̣у пр̣ш̣т̣хавам̣ш́амубхайатах̣, та̄са̄мӯрдхвага̄минйау две две парихаредбр̣хатӣсире; та̄ватйа еводаре, та̄са̄м̣ мед̣хопари ромара̄джӣмубхайато две две парихарет; чатва̄рим̣ш́адвакш̣аси, та̄са̄м̣ чатурдаш́а̄ш́астракр̣тйа̄х̣---хр̣дайе две, две две станамӯле, станарохита̄пала̄пастамбхеш̣ӯбхайато+аш̣т̣ау; евам̣ два̄трим̣ш́адаш́астракр̣тйа̄х̣ пр̣ш̣т̣ходарорах̣су бхаванти/ чатух̣ш̣аш̣т̣исира̄ш́атам̣ джатрун̣а ӯрдхвам̣ бхавати; татра ш̣ат̣пан̃ча̄ш́аччхиродхара̄йа̄м̣'татра̄ш̣т̣апан̃ча̄ш́ат'ити па̄+, та̄са̄маш̣т̣ау чатасраш́ча мармасам̣джн̃а̄х̣ парихарет, две кр̣ка̄т̣икайох̣, две видхурайох̣, евам̣ грӣва̄йа̄м̣ ш̣од̣аш́а̄вйадхйа̄х̣; ханворубхайато+аш̣т̣а̄ваш̣т̣ау, та̄са̄м̣ ту сандхидхаманйау две две парихарет; ш̣ат̣трим̣ш́аджджихва̄йа̄м̣, та̄са̄мадхах̣ ш̣од̣аш́а̄ш́астракр̣тйа̄х̣, расавахе две, ва̄гвахе ча две; двирдва̄даш́а на̄са̄йа̄м̣, та̄са̄маупана̄сикйаш́чатасрах̣ парихарет, та̄са̄мева ча та̄лунйека̄м̣ мр̣да̄вуддеш́е; аш̣т̣атрим̣ш́адубхайорнетрайох̣'ш̣ат̣трим̣ш́адубхайорнетрайох̣'ити па̄+, та̄са̄мека̄мапа̄н̇гайох̣ парихарет; карн̣айордаш́а, та̄са̄м̣ ш́абдава̄хинӣмекаика̄м̣ парихарет; на̄са̄нетрагата̄сту лала̄т̣е ш̣аш̣т̣их̣, та̄са̄м̣ кеш́а̄нта̄нугата̄ш́чатасрах̣ (парихарет), а̄вартайорекаика̄, стхапанйа̄м̣ чаика̄, парихартавйа̄; ш́ан̇кхайордаш́а, та̄са̄м̣ ш́ан̇кхасандхигата̄мекаика̄м̣ парихарет; (итйета̄ на̄са̄нетрагата̄ боддхавйа̄х̣) два̄даш́а мӯрдхни, та̄са̄муткш̣епайордве парихарет, сӣмантеш̣векаика̄м̣, ека̄мадхипата̄вити; евамаш́астракр̣тйа̄х̣ пан̃ча̄ш́аджджатрун̣а ӯрдхвамити"
+        "iast_ru": "татра сира̄ш́атамекасмин сактхни бхавати; та̄са̄м̣ джа̄ладхара̄ твека̄, тисраш́ча̄бхйантара̄х̣---татрорвӣсам̣джн̃е две, лохита̄кш̣асам̣джн̃а̄'лохита̄кш̣асам̣джн̃аика̄'ити па̄+ чаика̄, ета̄ствавйадхйа̄х̣; етенетарасактхи ба̄хӯ ча вйа̄кхйа̄тау; евамаш́астракр̣тйа̄х̣ ш̣од̣аш́а ш́а̄кха̄су/ два̄трим̣ш́аччхрон̣йа̄м̣, та̄са̄маш̣т̣а̄ваш́астракр̣тйа̄х̣---две две вит̣апайох̣, кат̣ӣкатарун̣айош́ча; аш̣т̣а̄ваш̣т̣а̄векаикасмин па̄рш́ве, та̄са̄мекаика̄мӯрдхвага̄м̣ парихарет, па̄рш́васандхигате ча две; чатасро вим̣ш́атиш́ча пр̣ш̣т̣хе'пр̣ш̣т̣хе'ити на пат̣хйате кеш̣учитпустакеш̣у пр̣ш̣т̣хавам̣ш́амубхайатах̣, та̄са̄мӯрдхвага̄минйау две две парихаредбр̣хатӣсире; та̄ватйа еводаре, та̄са̄м̣ мед̣хопари ромара̄джӣмубхайато две две парихарет; чатва̄рим̣ш́адвакш̣аси, та̄са̄м̣ чатурдаш́а̄ш́астракр̣тйа̄х̣---хр̣дайе две, две две станамӯле, станарохита̄пала̄пастамбхеш̣ӯбхайато+аш̣т̣ау; евам̣ два̄трим̣ш́адаш́астракр̣тйа̄х̣ пр̣ш̣т̣ходарорах̣су бхаванти/ чатух̣ш̣аш̣т̣исира̄ш́атам̣ джатрун̣а ӯрдхвам̣ бхавати; татра ш̣ат̣пан̃ча̄ш́аччхиродхара̄йа̄м̣'татра̄ш̣т̣апан̃ча̄ш́ат'ити па̄+, та̄са̄маш̣т̣ау чатасраш́ча мармасам̣джн̃а̄х̣ парихарет, две кр̣ка̄т̣икайох̣, две видхурайох̣, евам̣ грӣва̄йа̄м̣ ш̣од̣аш́а̄вйадхйа̄х̣; ханворубхайато+аш̣т̣а̄ваш̣т̣ау, та̄са̄м̣ ту сандхидхаманйау две две парихарет; ш̣ат̣трим̣ш́аджджихва̄йа̄м̣, та̄са̄мадхах̣ ш̣од̣аш́а̄ш́астракр̣тйа̄х̣, расавахе две, ва̄гвахе ча две; двирдва̄даш́а на̄са̄йа̄м̣, та̄са̄маупана̄сикйаш́чатасрах̣ парихарет, та̄са̄мева ча та̄лунйека̄м̣ мр̣да̄вуддеш́е; аш̣т̣атрим̣ш́адубхайорнетрайох̣'ш̣ат̣трим̣ш́адубхайорнетрайох̣'ити па̄+, та̄са̄мека̄мапа̄н̇гайох̣ парихарет; карн̣айордаш́а, та̄са̄м̣ ш́абдава̄хинӣмекаика̄м̣ парихарет; на̄са̄нетрагата̄сту лала̄т̣е ш̣аш̣т̣их̣, та̄са̄м̣ кеш́а̄нта̄нугата̄ш́чатасрах̣ (парихарет), а̄вартайорекаика̄, стхапанйа̄м̣ чаика̄, парихартавйа̄; ш́ан̇кхайордаш́а, та̄са̄м̣ ш́ан̇кхасандхигата̄мекаика̄м̣ парихарет; (итйета̄ на̄са̄нетрагата̄ боддхавйа̄х̣) два̄даш́а мӯрдхни, та̄са̄муткш̣епайордве парихарет, сӣмантеш̣векаика̄м̣, ека̄мадхипата̄вити; евамаш́астракр̣тйа̄х̣ пан̃ча̄ш́аджджатрун̣а ӯрдхвамити",
+        "text_en": "In one leg there are reckoned a hundred vessels; of these, one is called Jaladhara, and three are internal: two, Urvi, and one, Lohitaksha; these four are unfit for opening. The same holds for the other leg and for both arms; thus in the limbs a total of sixteen vessels are not to be opened. In the pelvic region there are thirty-two vessels, of which eight are unfit: two in the region of the groin and two in the region of Katikataruna; eight on each flank, of which one ascending vessel should be avoided, as well as two connected with the lateral joint. On the back, on both sides of the spine, there are twenty-four vessels, of which the two large ascending sira on each side should be avoided; the same number in the belly, of which two, running along the hairline above the pubis on both sides, should be avoided. In the chest there are forty vessels, of which fourteen are unfit: two in the heart, two at the base of each breast, and eight in the region of Stanarohita and Apalapastambha on both sides. Thus in the back, the belly, and the chest there are thirty-two unfit vessels. Above the collarbones there are sixty-four vessels: fifty-six in the neck and throat, of which twelve should be avoided, eight connected with the Marmas and four others, two in the region of Krikatika and two in the region of Vidhura; thus in the neck sixteen are unfit. On the sides of the jaws there are eight vessels each, of which two joined to the joint should be avoided. In the tongue there are thirty-six vessels, of which sixteen beneath the tongue are unfit: two carry taste, two carry speech. In the nose there are twenty-four vessels, of which four at the wings of the nose should be avoided, as well as one in the soft part of the palate. In both eyes there are thirty-eight vessels, of which one at the outer corner of each eye should be avoided. In the ears there are ten vessels, of which one carrying sound in each should be avoided. On the forehead, in the region of the nose and eyes, there are sixty vessels, of which four along the hairline should be avoided, one in each of the two Avartas, and one in the Sthapani. In the temples there are ten vessels, of which one in each temporal joint should be avoided. On the crown of the skull there are twelve vessels, of which two in the Utkshepa should be avoided, one in each of the Simantas, and one in the Adhipati. Thus above the collarbones there are reckoned fifty vessels not to be opened."
       },
       {
         "type": "verse",
