@@ -18,7 +18,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "श्रियं स दद्याद्भवतां पुरारिर्यदङ्गतेजःप्रसरे भवानी विराजते निर्मलचन्द्रि कायां महौषधीव ज्वलिता हिमाद्रौ",
         "iast": "śriyaṃ sa dadyādbhavatāṃ purāriryadaṅgatejaḥprasare bhavānī virājate nirmalacandri kāyāṃ mahauṣadhīva jvalitā himādrau",
         "iast_ru": "ш́рийам̣ са дадйа̄дбхавата̄м̣ пура̄рирйадан̇гатеджах̣прасаре бхава̄нӣ вира̄джате нирмалачандри ка̄йа̄м̣ махауш̣адхӣва джвалита̄ хима̄драу",
-        "text": "Да дарует вам благополучие тот Разрушитель Трипуры (Шива), в сиянии тела которого блистает Бхавани — подобно светозарной великой целебной траве, пылающей на снежной Гималайской вершине под чистым лунным светом."
+        "text": "Да дарует вам благополучие тот Разрушитель Трипуры (Шива), в сиянии тела которого блистает Бхавани — подобно светозарной великой целебной траве, пылающей на снежной Гималайской вершине под чистым лунным светом.",
+        "text_en": "May that Destroyer of Tripura (Shiva) grant you well-being, in the radiance of whose body Bhavani gleams — like a luminous, great healing herb, blazing on the snowy peak of the Himalaya beneath the pure light of the moon."
       },
       {
         "type": "verse",
@@ -26,7 +27,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "प्रसिद्धयोगा मुनिभिः प्रयुक्ताश्चिकित्सकैर्ये बहुशोऽनुभूताः विधीयते शार्ङ्गधरेण तेषां सुसंग्रहः सज्जनरञ्जनाय",
         "iast": "prasiddhayogā munibhiḥ prayuktāścikitsakairye bahuśo'nubhūtāḥ vidhīyate śārṅgadhareṇa teṣāṃ susaṃgrahaḥ sajjanarañjanāya",
         "iast_ru": "прасиддхайога̄ мунибхих̣ прайукта̄ш́чикитсакаирйе бахуш́о'нубхӯта̄х̣ видхӣйате ш́а̄рн̇гадхарен̣а теш̣а̄м̣ сусам̣грахах̣ саджджанаран̃джана̄йа",
-        "text": "Прославленные рецептуры, применявшиеся мудрецами и многократно испытанные врачевателями, Шарангадхара сводит воедино — на радость и пользу достойным людям."
+        "text": "Прославленные рецептуры, применявшиеся мудрецами и многократно испытанные врачевателями, Шарангадхара сводит воедино — на радость и пользу достойным людям.",
+        "text_en": "The renowned formulations employed by the sages and repeatedly tested by physicians, Sharangadhara now brings together — for the joy and benefit of worthy people."
       },
       {
         "type": "comment",
@@ -39,7 +41,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "हेत्वादिरूपाकृतिसात्म्यजातिभेदैः समीक्ष्यातुरसर्वरोगान् चिकित्सितं कर्षणबृंहणाख्यं कुर्वीत वैद्यो विधिवत्सुयोगः",
         "iast": "hetvādirūpākṛtisātmyajātibhedaiḥ samīkṣyāturasarvarogān cikitsitaṃ karṣaṇabṛṃhaṇākhyaṃ kurvīta vaidyo vidhivatsuyogaḥ",
         "iast_ru": "хетва̄дирӯпа̄кр̣тиса̄тмйаджа̄тибхедаих̣ самӣкш̣йа̄турасарварога̄н чикитситам̣ карш̣ан̣абр̣м̣хан̣а̄кхйам̣ курвӣта ваидйо видхиватсуйогах̣",
-        "text": "Исследовав все болезни больного по причине, признакам, форме, совместимости (сатмья) и виду, врач должен проводить лечение, именуемое очищающе-иссушающим (каршана) и питающе-укрепляющим (бримхана), по надлежащим правилам."
+        "text": "Исследовав все болезни больного по причине, признакам, форме, совместимости (сатмья) и виду, врач должен проводить лечение, именуемое очищающе-иссушающим (каршана) и питающе-укрепляющим (бримхана), по надлежащим правилам.",
+        "text_en": "Having investigated all the patient's diseases by cause, sign, form, suitability (satmya), and kind, the physician should carry out treatment — called depleting-drying (karshana) and nourishing-strengthening (brimhana) — according to the proper rules."
       },
       {
         "type": "comment",
@@ -52,7 +55,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "दिव्यौषधीनां बहवः प्रभेदा वृन्दारकाणामिव विस्फुरन्ति ज्ञात्वेति संदेहमपास्य धीरैः संभावनीया विविधप्रभावाः",
         "iast": "divyauṣadhīnāṃ bahavaḥ prabhedā vṛndārakāṇāmiva visphuranti jñātveti saṃdehamapāsya dhīraiḥ saṃbhāvanīyā vividhaprabhāvāḥ",
         "iast_ru": "дивйауш̣адхӣна̄м̣ бахавах̣ прабхеда̄ вр̣нда̄рака̄н̣а̄мива виспхуранти джн̃а̄твети сам̣дехамапа̄сйа дхӣраих̣ сам̣бха̄ванӣйа̄ вивидхапрабха̄ва̄х̣",
-        "text": "У божественных лекарственных растений — множество разновидностей, сияющих, словно небожители. Постигнув это, мудрые, отбросив сомнения, должны учитывать их многообразные действия (прабхава)."
+        "text": "У божественных лекарственных растений — множество разновидностей, сияющих, словно небожители. Постигнув это, мудрые, отбросив сомнения, должны учитывать их многообразные действия (прабхава).",
+        "text_en": "Divine medicinal plants have manifold varieties, shining like celestial beings. Having understood this, the wise, casting aside doubt, should take into account their manifold actions (prabhava)."
       },
       {
         "type": "verse",
@@ -60,7 +64,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "स्वाभाविकागन्तुककायिकान्तरा रोगा भवेयुः किल कर्मदोषजाः तच्छेदनार्थं दुरितापहारिणः श्रेयोमयान्योगवरान्नियोजयेत्",
         "iast": "svābhāvikāgantukakāyikāntarā rogā bhaveyuḥ kila karmadoṣajāḥ tacchedanārthaṃ duritāpahāriṇaḥ śreyomayānyogavarānniyojayet",
         "iast_ru": "сва̄бха̄вика̄гантукака̄йика̄нтара̄ рога̄ бхавейух̣ кила кармадош̣аджа̄х̣ таччхедана̄ртхам̣ дурита̄паха̄рин̣ах̣ ш́рейомайа̄нйогавара̄ннийоджайет",
-        "text": "Болезни бывают естественные (свабхавика), пришлые (агантука), телесные (кайика) и внутренние (душевные), а также порождённые последствиями прежних деяний (карма-доша). Ради их устранения врач должен назначать благотворные и превосходные средства, избавляющие от страданий."
+        "text": "Болезни бывают естественные (свабхавика), пришлые (агантука), телесные (кайика) и внутренние (душевные), а также порождённые последствиями прежних деяний (карма-доша). Ради их устранения врач должен назначать благотворные и превосходные средства, избавляющие от страданий.",
+        "text_en": "Diseases are of the following kinds: natural (svabhavika), adventitious (agantuka), bodily (kayika) and mental, as well as those produced as the consequence of past deeds (karma-dosha). To remove them, the physician should prescribe beneficial and excellent remedies that relieve suffering."
       },
       {
         "type": "verse",
@@ -68,7 +73,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "सर्वलोकहितार्थाय वक्ष्याम्यनतिविस्तरात्",
         "iast": "sarvalokahitārthāya vakṣyāmyanativistarāt",
         "iast_ru": "сарвалокахита̄ртха̄йа вакш̣йа̄мйанативистара̄т",
-        "text": "Ради блага всего мира я изложу это кратко, без излишних подробностей."
+        "text": "Ради блага всего мира я изложу это кратко, без излишних подробностей.",
+        "text_en": "For the benefit of the whole world I shall set this forth briefly, without excessive detail."
       },
       {
         "type": "verse",
@@ -76,7 +82,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "प्रथमं परिभाषा स्याद्भैषज्याख्यानकं तथा नाडीपरीक्षाऽदिविधिस्ततोदीपनपाचनम्",
         "iast": "prathamaṃ paribhāṣā syādbhaiṣajyākhyānakaṃ tathā nāḍīparīkṣā'dividhistatodīpanapācanam",
         "iast_ru": "пратхамам̣ парибха̄ш̣а̄ сйа̄дбхаиш̣аджйа̄кхйа̄накам̣ татха̄ на̄д̣ӣпарӣкш̣а̄'дивидхистатодӣпанапа̄чанам",
-        "text": "Сначала — терминология (парибхаша), затем изложение о лекарствах (бхайшаджья), правила исследования пульса (нади-парикша) и прочего, а далее — о разжигании пищеварительного огня и переваривании (дипана-пачана)."
+        "text": "Сначала — терминология (парибхаша), затем изложение о лекарствах (бхайшаджья), правила исследования пульса (нади-парикша) и прочего, а далее — о разжигании пищеварительного огня и переваривании (дипана-пачана).",
+        "text_en": "First, terminology (paribhasha); then an exposition on medicines (bhaishajya), the rules for pulse examination (nadi-pariksha) and the like; and after that, on kindling the digestive fire and digestion (dipana-pachana)."
       },
       {
         "type": "comment",
@@ -89,7 +96,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "ततः कलाऽदिकाख्यानमाहारादिगतिस्तथा रोगाणां गणना चैव पूर्वखण्डोऽयमीरितः",
         "iast": "tataḥ kalā'dikākhyānamāhārādigatistathā rogāṇāṃ gaṇanā caiva pūrvakhaṇḍo'yamīritaḥ",
         "iast_ru": "татах̣ кала̄'дика̄кхйа̄нама̄ха̄ра̄дигатистатха̄ рога̄н̣а̄м̣ ган̣ана̄ чаива пӯрвакхан̣д̣о'йамӣритах̣",
-        "text": "Затем — изложение о мерах (кала и прочих), о путях пищи, а также перечисление болезней. Таков описанный здесь Пурвакханда (первый раздел)."
+        "text": "Затем — изложение о мерах (кала и прочих), о путях пищи, а также перечисление болезней. Таков описанный здесь Пурвакханда (первый раздел).",
+        "text_en": "Then, an exposition on measures (time and the rest), on the pathways of food, as well as an enumeration of diseases. Such is the Purvakhanda (first section) described here."
       },
       {
         "type": "verse",
@@ -97,7 +105,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "स्वरसः क्वाथफाण्टौ च हिमः कल्कश्च चूर्णकम् तथैव गुटिकालेहौ स्नेहाः संधानमेव च धातुशुद्धी रसाश्चैव खण्डोऽय मध्यमः स्मृतः",
         "iast": "svarasaḥ kvāthaphāṇṭau ca himaḥ kalkaśca cūrṇakam tathaiva guṭikālehau snehāḥ saṃdhānameva ca dhātuśuddhī rasāścaiva khaṇḍo'ya madhyamaḥ smṛtaḥ",
         "iast_ru": "сварасах̣ ква̄тхапха̄н̣т̣ау ча химах̣ калкаш́ча чӯрн̣акам татхаива гут̣ика̄лехау снеха̄х̣ сам̣дха̄намева ча дха̄туш́уддхӣ раса̄ш́чаива кхан̣д̣о'йа мадхйамах̣ смр̣тах̣",
-        "text": "Свежий сок (свараса), отвар (кваатха), настой (пхаанта), холодный настой (хима), паста (калка) и порошок (чурна), а также пилюли (гутика) и лехьи (лизуны), масляные препараты (снеха), ферментированные средства (сандхана), очищение металлов (дхату-шуддхи) и препараты ртути (раса) — таков Мадхьямакханда (средний раздел)."
+        "text": "Свежий сок (свараса), отвар (кваатха), настой (пхаанта), холодный настой (хима), паста (калка) и порошок (чурна), а также пилюли (гутика) и лехьи (лизуны), масляные препараты (снеха), ферментированные средства (сандхана), очищение металлов (дхату-шуддхи) и препараты ртути (раса) — таков Мадхьямакханда (средний раздел).",
+        "text_en": "Fresh juice (svarasa), decoction (kvatha), infusion (phanta), cold infusion (hima), paste (kalka), and powder (churna), as well as pills (gutika) and linctuses (lehyas), oleaginous preparations (sneha), fermented remedies (sandhana), purification of metals (dhatu-shuddhi), and mercurial preparations (rasa) — such is the Madhyamakhanda (middle section)."
       },
       {
         "type": "comment",
@@ -110,7 +119,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "स्नेहपानं स्वेदविधिर्वमनं च विरेचनम् ततस्तु स्नेहबस्तिः स्यात्ततश्चापि निरूहणम्",
         "iast": "snehapānaṃ svedavidhirvamanaṃ ca virecanam tatastu snehabastiḥ syāttataścāpi nirūhaṇam",
         "iast_ru": "снехапа̄нам̣ сведавидхирваманам̣ ча виречанам татасту снехабастих̣ сйа̄ттаташ́ча̄пи нирӯхан̣ам",
-        "text": "Питьё масел (снехапана), потовые процедуры (сведана), рвотная (вамана) и послабляющая (виречана) терапии, затем масляная клизма (снеха-басти) и, далее, очистительная клизма (нирухана)."
+        "text": "Питьё масел (снехапана), потовые процедуры (сведана), рвотная (вамана) и послабляющая (виречана) терапии, затем масляная клизма (снеха-басти) и, далее, очистительная клизма (нирухана).",
+        "text_en": "The drinking of oils (snehapana), sudation therapies (svedana), emetic (vamana) and purgative (virechana) therapies, then the oleaginous enema (sneha-basti), and next the cleansing enema (niruhana)."
       },
       {
         "type": "verse",
@@ -118,7 +128,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "ततश्चाप्युत्तरो बस्तिस्ततो नस्यविधिर्मतः धूमपानविधिश्चैव गण्डूषादिविधिस्तथा",
         "iast": "tataścāpyuttaro bastistato nasyavidhirmataḥ dhūmapānavidhiścaiva gaṇḍūṣādividhistathā",
         "iast_ru": "таташ́ча̄пйуттаро бастистато насйавидхирматах̣ дхӯмапа̄навидхиш́чаива ган̣д̣ӯш̣а̄дивидхистатха̄",
-        "text": "Затем — уттара-басти (клизма через нижние пути), правила закапывания в нос (насья), а также правила окуривания (дхумапана) и полоскания рта (гандуша) и подобного."
+        "text": "Затем — уттара-басти (клизма через нижние пути), правила закапывания в нос (насья), а также правила окуривания (дхумапана) и полоскания рта (гандуша) и подобного.",
+        "text_en": "Then, Uttara-basti (an enema administered through the lower/urethral passage), the rules for nasal instillation (nasya), as well as the rules for fumigation (dhumapana) and mouth-rinsing/gargling (gandusha) and the like."
       },
       {
         "type": "verse",
@@ -126,7 +137,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "लेपादीनां विधिः ख्यातस्तथा शोणितविस्रुतिः नेत्रकर्मप्रकारश्च खण्डः स्यादुत्तरस्त्वयम्",
         "iast": "lepādīnāṃ vidhiḥ khyātastathā śoṇitavisrutiḥ netrakarmaprakāraśca khaṇḍaḥ syāduttarastvayam",
         "iast_ru": "лепа̄дӣна̄м̣ видхих̣ кхйа̄тастатха̄ ш́он̣итависрутих̣ нетракармапрака̄раш́ча кхан̣д̣ах̣ сйа̄дуттараствайам",
-        "text": "Изложены правила наложения паст (лепа) и прочего, а также кровопускание (шонита-висрути) и виды глазных процедур (нетра-карма). Таков Уттаракханда (последний раздел)."
+        "text": "Изложены правила наложения паст (лепа) и прочего, а также кровопускание (шонита-висрути) и виды глазных процедур (нетра-карма). Таков Уттаракханда (последний раздел).",
+        "text_en": "The rules for applying pastes (lepa) and the like are set forth, as well as bloodletting (shonita-visruti) and the kinds of ophthalmic procedures (netra-karma). Such is the Uttarakhanda (final section)."
       },
       {
         "type": "verse",
@@ -134,7 +146,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "द्वात्रिंशत्संमिताध्याययुक्तेयं संहिता स्मृता षड्विंशतिशतान्यत्र श्लोकानां गणितानि च",
         "iast": "dvātriṃśatsaṃmitādhyāyayukteyaṃ saṃhitā smṛtā ṣaḍviṃśatiśatānyatra ślokānāṃ gaṇitāni ca",
         "iast_ru": "два̄трим̣ш́атсам̣мита̄дхйа̄йайуктейам̣ сам̣хита̄ смр̣та̄ ш̣ад̣вим̣ш́атиш́ата̄нйатра ш́лока̄на̄м̣ ган̣ита̄ни ча",
-        "text": "Эта самхита насчитывает тридцать две главы, и стихов (шлок) в ней исчислено две тысячи шестьсот."
+        "text": "Эта самхита насчитывает тридцать две главы, и стихов (шлок) в ней исчислено две тысячи шестьсот.",
+        "text_en": "This Samhita comprises thirty-two chapters, and the verses (shlokas) in it are reckoned at two thousand six hundred."
       },
       {
         "type": "verse",
@@ -142,7 +155,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "न मानेन विना युक्तिर्द्र व्याणां जायते क्वचित् अतः प्रयोगकार्यार्थं मानमत्रोच्यते मया",
         "iast": "na mānena vinā yuktirdra vyāṇāṃ jāyate kvacit ataḥ prayogakāryārthaṃ mānamatrocyate mayā",
         "iast_ru": "на ма̄нена вина̄ йуктирдра вйа̄н̣а̄м̣ джа̄йате квачит атах̣ прайогака̄рйа̄ртхам̣ ма̄наматрочйате майа̄",
-        "text": "Без меры нигде не бывает правильного применения лекарственных веществ. Поэтому ради дела применения я излагаю здесь систему мер."
+        "text": "Без меры нигде не бывает правильного применения лекарственных веществ. Поэтому ради дела применения я излагаю здесь систему мер.",
+        "text_en": "Nowhere is the correct application of medicinal substances possible without measure. Therefore, for the purpose of their application, I here set forth the system of measures."
       },
       {
         "type": "comment",
@@ -155,7 +169,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "त्रसरेणुर्बुधैः प्रोक्तस्त्रिंशता परमाणुभिः त्रसरेणुस्तु पर्यायनाम्ना वंशी निगद्यते",
         "iast": "trasareṇurbudhaiḥ proktastriṃśatā paramāṇubhiḥ trasareṇustu paryāyanāmnā vaṃśī nigadyate",
         "iast_ru": "трасарен̣урбудхаих̣ проктастрим̣ш́ата̄ парама̄н̣убхих̣ трасарен̣усту парйа̄йана̄мна̄ вам̣ш́ӣ нигадйате",
-        "text": "Мудрыми сказано, что трасарену состоит из тридцати параману (мельчайших частиц); трасарену иначе, как синоним, называют вамши."
+        "text": "Мудрыми сказано, что трасарену состоит из тридцати параману (мельчайших частиц); трасарену иначе, как синоним, называют вамши.",
+        "text_en": "The wise have said that a Trasarenu consists of thirty Paramanus (minutest particles); Trasarenu is otherwise called, as a synonym, Vamshi."
       },
       {
         "type": "comment",
@@ -168,7 +183,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "जिआ!लान्तरगते भानौ यत्सूक्ष्मं दृश्यते रजः तस्य त्रिंशत्तमो भागः परमाणुः स कथ्यते",
         "iast": "jiā!lāntaragate bhānau yatsūkṣmaṃ dṛśyate rajaḥ tasya triṃśattamo bhāgaḥ paramāṇuḥ sa kathyate",
         "iast_ru": "джиа̄!ла̄нтарагате бха̄нау йатсӯкш̣мам̣ др̣ш́йате раджах̣ тасйа трим̣ш́аттамо бха̄гах̣ парама̄н̣ух̣ са катхйате",
-        "text": "Когда солнечные лучи проникают через отверстие сетки или оконной решётки, видна тонкая пыль (раджас) — тридцатая часть этой пылинки называется параману."
+        "text": "Когда солнечные лучи проникают через отверстие сетки или оконной решётки, видна тонкая пыль (раджас) — тридцатая часть этой пылинки называется параману.",
+        "text_en": "When the sun's rays pass through the opening of a net or a window lattice, fine dust (rajas) is seen — the thirtieth part of such a dust mote is called a Paramanu."
       },
       {
         "type": "verse",
@@ -176,7 +192,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "जालान्तरगतैः सूर्यकरेर्वंशी विलोक्यते",
         "iast": "jālāntaragataiḥ sūryakarervaṃśī vilokyate",
         "iast_ru": "джа̄ла̄нтарагатаих̣ сӯрйакарервам̣ш́ӣ вилокйате",
-        "text": "В лучах солнца, проникающих сквозь отверстие сетки, наблюдается вамши (то есть трасарену)."
+        "text": "В лучах солнца, проникающих сквозь отверстие сетки, наблюдается вамши (то есть трасарену).",
+        "text_en": "In the sun's rays passing through the opening of a net, one observes Vamshi (that is, Trasarenu)."
       },
       {
         "type": "verse",
@@ -184,7 +201,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "षड्वंशीभिर्मरीचिः स्यात्ताभिः षड्भिस्तु राजिका तिसृभी राजिकाभिश्च सर्षपः प्रोच्यते बुधैः",
         "iast": "ṣaḍvaṃśībhirmarīciḥ syāttābhiḥ ṣaḍbhistu rājikā tisṛbhī rājikābhiśca sarṣapaḥ procyate budhaiḥ",
         "iast_ru": "ш̣ад̣вам̣ш́ӣбхирмарӣчих̣ сйа̄тта̄бхих̣ ш̣ад̣бхисту ра̄джика̄ тиср̣бхӣ ра̄джика̄бхиш́ча сарш̣апах̣ прочйате будхаих̣",
-        "text": "Шесть вамши составляют маричи; шесть маричи — раджику; три раджики мудрецы называют сарсапой (горчичным зерном)."
+        "text": "Шесть вамши составляют маричи; шесть маричи — раджику; три раджики мудрецы называют сарсапой (горчичным зерном).",
+        "text_en": "Six Vamshis make up a Marichi; six Marichis make up a Rajika; three Rajikas the sages call a Sarshapa (a mustard seed)."
       },
       {
         "type": "verse",
@@ -192,7 +210,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "यवोऽष्टसर्षपैः प्रोक्तो गुञ्जा स्यात्तच्चतुष्टयम् षड्भिस्तु रक्तिकाभिः स्यान्माषको हेमधान्यकौ",
         "iast": "yavo'ṣṭasarṣapaiḥ prokto guñjā syāttaccatuṣṭayam ṣaḍbhistu raktikābhiḥ syānmāṣako hemadhānyakau",
         "iast_ru": "йаво'ш̣т̣асарш̣апаих̣ прокто гун̃джа̄ сйа̄ттаччатуш̣т̣айам ш̣ад̣бхисту рактика̄бхих̣ сйа̄нма̄ш̣ако хемадха̄нйакау",
-        "text": "Восемь сарсап составляют яву (ячменное зерно); четыре явы — гунджу; шесть гундж составляют машаку, также именуемую хемадханьяка."
+        "text": "Восемь сарсап составляют яву (ячменное зерно); четыре явы — гунджу; шесть гундж составляют машаку, также именуемую хемадханьяка.",
+        "text_en": "Eight Sarshapas make up a Yava (a barley grain); four Yavas make up a Gunja; six Gunjas make up a Mashaka, also called Hemadhanyaka."
       },
       {
         "type": "comment",
@@ -205,7 +224,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "माषैश्चतुर्भिः शाणः स्याद्धरणः स निगद्यते टङ्कः स एव कथितस्तद्द्वयं कोल उच्यते क्षुद्र को वटकश्चैव द्र ङ्क्षणः स निगद्यते",
         "iast": "māṣaiścaturbhiḥ śāṇaḥ syāddharaṇaḥ sa nigadyate ṭaṅkaḥ sa eva kathitastaddvayaṃ kola ucyate kṣudra ko vaṭakaścaiva dra ṅkṣaṇaḥ sa nigadyate",
         "iast_ru": "ма̄ш̣аиш́чатурбхих̣ ш́а̄н̣ах̣ сйа̄ддхаран̣ах̣ са нигадйате т̣ан̇ках̣ са ева катхитастаддвайам̣ кола учйате кш̣удра ко ват̣акаш́чаива дра н̇кш̣ан̣ах̣ са нигадйате",
-        "text": "Четыре маши составляют шану, также называемую харана или танка; два танки именуют кола, а также кшудрака, ватака или дракшана."
+        "text": "Четыре маши составляют шану, также называемую харана или танка; два танки именуют кола, а также кшудрака, ватака или дракшана.",
+        "text_en": "Four Mashas make up a Shana, also called Harana or Tanka; two Tankas are called a Kola, also Kshudraka, Vataka, or Drakshana."
       },
       {
         "type": "verse",
@@ -213,7 +233,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "कोलद्वयं च कर्षः स्यात्स प्रोक्तः पाणिमानिका",
         "iast": "koladvayaṃ ca karṣaḥ syātsa proktaḥ pāṇimānikā",
         "iast_ru": "коладвайам̣ ча карш̣ах̣ сйа̄тса проктах̣ па̄н̣има̄ника̄",
-        "text": "Два кола составляют каршу, также называемую панимаиика (мера, равная горсти)."
+        "text": "Два кола составляют каршу, также называемую панимаиика (мера, равная горсти).",
+        "text_en": "Two Kolas make up a Karsha, also called Panimatrika (a measure equal to a handful)."
       },
       {
         "type": "verse",
@@ -221,7 +242,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "अक्षं पिचुः पाणितलं किञ्चित्पाणिश्च तिन्दुकम् विडालपदकं चैव तथा षोडशिका मता",
         "iast": "akṣaṃ picuḥ pāṇitalaṃ kiñcitpāṇiśca tindukam viḍālapadakaṃ caiva tathā ṣoḍaśikā matā",
         "iast_ru": "акш̣ам̣ пичух̣ па̄н̣италам̣ кин̃читпа̄н̣иш́ча тиндукам вид̣а̄лападакам̣ чаива татха̄ ш̣од̣аш́ика̄ мата̄",
-        "text": "Каршу называют также акша, пичу, панитала, кинчитпани, тиндука, видалападака и шодашика (шестнадцатая часть палы)."
+        "text": "Каршу называют также акша, пичу, панитала, кинчитпани, тиндука, видалападака и шодашика (шестнадцатая часть палы).",
+        "text_en": "A Karsha is also called Aksha, Pichu, Panitala, Kinchitpani, Tinduka, Vidalapadaka, and Shodashika (a sixteenth part of a Pala)."
       },
       {
         "type": "verse",
@@ -229,7 +251,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "करमध्यो हंसपदं सुवर्णं कवलग्रहः उदुम्बरं च पर्यायैः कर्ष एव निगद्यते",
         "iast": "karamadhyo haṃsapadaṃ suvarṇaṃ kavalagrahaḥ udumbaraṃ ca paryāyaiḥ karṣa eva nigadyate",
         "iast_ru": "карамадхйо хам̣сападам̣ суварн̣ам̣ кавалаграхах̣ удумбарам̣ ча парйа̄йаих̣ карш̣а ева нигадйате",
-        "text": "Карамадхья, хамсапада, суварна, кавалаграха и удумбара — этими синонимами также называют каршу."
+        "text": "Карамадхья, хамсапада, суварна, кавалаграха и удумбара — этими синонимами также называют каршу.",
+        "text_en": "Karamadhya, Hamsapada, Suvarna, Kavalagraha, and Udumbara — these synonyms also designate a Karsha."
       },
       {
         "type": "verse",
@@ -237,7 +260,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "स्यात्कर्षाभ्यामर्द्धपलं शुक्तिरष्टमिका तथा शुक्तिभ्यां च पलं ज्ञेयं मुष्टिराम्रं चतुर्थिका प्रकुञ्चः षोडशी बिल्वं पलमेवात्र कीत्तर्यते",
         "iast": "syātkarṣābhyāmarddhapalaṃ śuktiraṣṭamikā tathā śuktibhyāṃ ca palaṃ jñeyaṃ muṣṭirāmraṃ caturthikā prakuñcaḥ ṣoḍaśī bilvaṃ palamevātra kīttaryate",
         "iast_ru": "сйа̄ткарш̣а̄бхйа̄марддхапалам̣ ш́уктираш̣т̣амика̄ татха̄ ш́уктибхйа̄м̣ ча палам̣ джн̃ейам̣ муш̣т̣ира̄мрам̣ чатуртхика̄ пракун̃чах̣ ш̣од̣аш́ӣ билвам̣ паламева̄тра кӣттарйате",
-        "text": "Две карши составляют половину палы, также называемую шукти или аштамика (восьмая часть); две шукти составляют палу, известную также как мушти, амра или чатуртхика (четверть); пракунча, шодаши и бильва также обозначают палу."
+        "text": "Две карши составляют половину палы, также называемую шукти или аштамика (восьмая часть); две шукти составляют палу, известную также как мушти, амра или чатуртхика (четверть); пракунча, шодаши и бильва также обозначают палу.",
+        "text_en": "Two Karshas make up half a Pala, also called Shukti or Ashtamika (an eighth part); two Shuktis make up a Pala, also known as Mushti, Amra, or Chaturthika (a quarter); Prakuncha, Shodashi, and Bilva also denote a Pala."
       },
       {
         "type": "verse",
@@ -245,7 +269,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "पलाभ्यां प्रसृतिर्ज्ञेया प्रसृतश्च निगद्यते प्रसृतिभ्यामञ्जलि स्यात्कुडवोऽद्धशरावकः",
         "iast": "palābhyāṃ prasṛtirjñeyā prasṛtaśca nigadyate prasṛtibhyāmañjali syātkuḍavo'ddhaśarāvakaḥ",
         "iast_ru": "пала̄бхйа̄м̣ праср̣тирджн̃ейа̄ праср̣таш́ча нигадйате праср̣тибхйа̄ман̃джали сйа̄ткуд̣аво'ддхаш́ара̄ваках̣",
-        "text": "Две палы составляют прасрити (также называемую прасрита); две прасрити составляют анджали, также именуемую кудава или ардха-шаравака (половина шаравы)."
+        "text": "Две палы составляют прасрити (также называемую прасрита); две прасрити составляют анджали, также именуемую кудава или ардха-шаравака (половина шаравы).",
+        "text_en": "Two Palas make up a Prasriti (also called Prasrita); two Prasritis make up an Anjali, also called Kudava or Ardha-sharavaka (half a Sharava)."
       },
       {
         "type": "verse",
@@ -253,7 +278,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "अष्टमानं च स ज्ञेयः कुडवाभ्यां च मानिका शरावोऽष्टपलं तद्वज्ज्ञेयमत्र विचक्षणैः",
         "iast": "aṣṭamānaṃ ca sa jñeyaḥ kuḍavābhyāṃ ca mānikā śarāvo'ṣṭapalaṃ tadvajjñeyamatra vicakṣaṇaiḥ",
         "iast_ru": "аш̣т̣ама̄нам̣ ча са джн̃ейах̣ куд̣ава̄бхйа̄м̣ ча ма̄ника̄ ш́ара̄во'ш̣т̣апалам̣ тадваджджн̃ейаматра вичакш̣ан̣аих̣",
-        "text": "Этот же кудава называют аштамана (восьмая мера); две кудавы составляют маника; шарава равна восьми палам — так учат сведущие."
+        "text": "Этот же кудава называют аштамана (восьмая мера); две кудавы составляют маника; шарава равна восьми палам — так учат сведущие.",
+        "text_en": "This same Kudava is called Ashtamana (an eighth measure); two Kudavas make up a Manika; a Sharava equals eight Palas — so the learned teach."
       },
       {
         "type": "verse",
@@ -261,7 +287,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "शरावाभ्यां भवेत्प्रस्थश्चतुः प्रस्थैस्तथाऽढकम् भाजनं कंसपात्रं च चतुःषष्टिपलं च तत्",
         "iast": "śarāvābhyāṃ bhavetprasthaścatuḥ prasthaistathā'ḍhakam bhājanaṃ kaṃsapātraṃ ca catuḥṣaṣṭipalaṃ ca tat",
         "iast_ru": "ш́ара̄ва̄бхйа̄м̣ бхаветпрастхаш́чатух̣ прастхаистатха̄'д̣хакам бха̄джанам̣ кам̣сапа̄трам̣ ча чатух̣ш̣аш̣т̣ипалам̣ ча тат",
-        "text": "Две шаравы составляют прастху; четыре прастхи — адхаку, также называемую бхаджана или камсапатра, равную шестидесяти четырём палам."
+        "text": "Две шаравы составляют прастху; четыре прастхи — адхаку, также называемую бхаджана или камсапатра, равную шестидесяти четырём палам.",
+        "text_en": "Two Sharavas make up a Prastha; four Prasthas make up an Adhaka, also called Bhajana or Kamsapatra, equal to sixty-four Palas."
       },
       {
         "type": "verse",
@@ -269,7 +296,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "चतुर्भिराढकैद्रो र्णः! कलशो नल्वणार्मणौ उन्मानश्च घटो राशिद्रो र्ण!पर्यायसंज्ञकाः",
         "iast": "caturbhirāḍhakaidro rṇaḥ! kalaśo nalvaṇārmaṇau unmānaśca ghaṭo rāśidro rṇa!paryāyasaṃjñakāḥ",
         "iast_ru": "чатурбхира̄д̣хакаидро рн̣ах̣! калаш́о налван̣а̄рман̣ау унма̄наш́ча гхат̣о ра̄ш́идро рн̣а!парйа̄йасам̣джн̃ака̄х̣",
-        "text": "Четыре адхаки составляют дрону, также называемую калаша, налвана, армана, унмана, гхата или раши — это синонимы дроны."
+        "text": "Четыре адхаки составляют дрону, также называемую калаша, налвана, армана, унмана, гхата или раши — это синонимы дроны.",
+        "text_en": "Four Adhakas make up a Drona, also called Kalasha, Nalvana, Armana, Unmana, Ghata, or Rashi — these are synonyms of Drona."
       },
       {
         "type": "verse",
@@ -277,7 +305,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "द्रो णाभ्यां शूर्पकुम्भौ च चतुःषष्टिशरावकः शूर्पाभ्यां च भवेद् द्रो णी वाही गोणी च सा स्मृता",
         "iast": "dro ṇābhyāṃ śūrpakumbhau ca catuḥṣaṣṭiśarāvakaḥ śūrpābhyāṃ ca bhaved dro ṇī vāhī goṇī ca sā smṛtā",
         "iast_ru": "дро н̣а̄бхйа̄м̣ ш́ӯрпакумбхау ча чатух̣ш̣аш̣т̣иш́ара̄ваках̣ ш́ӯрпа̄бхйа̄м̣ ча бхавед дро н̣ӣ ва̄хӣ гон̣ӣ ча са̄ смр̣та̄",
-        "text": "Две дроны составляют шурпу (также кумбху), равную шестидесяти четырём шаравам; две шурпы составляют дрони, также называемую вахи или гони."
+        "text": "Две дроны составляют шурпу (также кумбху), равную шестидесяти четырём шаравам; две шурпы составляют дрони, также называемую вахи или гони.",
+        "text_en": "Two Dronas make up a Shurpa (also Kumbha), equal to sixty-four Sharavas; two Shurpas make up a Droni, also called Vahi or Goni."
       },
       {
         "type": "verse",
@@ -285,7 +314,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "द्रो णीचतुष्टयं खारी कथिता सूक्ष्मबुद्धिभिः चतुःसहस्रपलिका षण्णवत्यधिका च सा",
         "iast": "dro ṇīcatuṣṭayaṃ khārī kathitā sūkṣmabuddhibhiḥ catuḥsahasrapalikā ṣaṇṇavatyadhikā ca sā",
         "iast_ru": "дро н̣ӣчатуш̣т̣айам̣ кха̄рӣ катхита̄ сӯкш̣мабуддхибхих̣ чатух̣сахасрапалика̄ ш̣ан̣н̣аватйадхика̄ ча са̄",
-        "text": "Четыре дрони составляют кхари, как учат тонкие умы, — равную четырём тысячам девяноста шести палам."
+        "text": "Четыре дрони составляют кхари, как учат тонкие умы, — равную четырём тысячам девяноста шести палам.",
+        "text_en": "Four Dronis make up a Khari, as subtle minds teach — equal to four thousand ninety-six Palas."
       },
       {
         "type": "verse",
@@ -293,7 +323,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "पलानां द्विसहस्त्रं च भार एकः प्रकीर्त्तितः तुला पलशतं ज्ञेया सर्वत्रैवैष निश्चयः",
         "iast": "palānāṃ dvisahastraṃ ca bhāra ekaḥ prakīrttitaḥ tulā palaśataṃ jñeyā sarvatraivaiṣa niścayaḥ",
         "iast_ru": "пала̄на̄м̣ двисахастрам̣ ча бха̄ра еках̣ пракӣрттитах̣ тула̄ палаш́атам̣ джн̃ейа̄ сарватраиваиш̣а ниш́чайах̣",
-        "text": "Две тысячи пал составляют один бхара; сто пал именуют тулой — таково повсеместное правило."
+        "text": "Две тысячи пал составляют один бхара; сто пал именуют тулой — таково повсеместное правило.",
+        "text_en": "Two thousand Palas make up one Bhara; one hundred Palas are called a Tula — such is the universal rule."
       },
       {
         "type": "comment",
@@ -306,7 +337,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "माषटङ्काक्षबिल्वानि कुडवः प्रस्थमाढकम् राशिर्गोणीः खारिकेति यथोत्तरचतुर्गुणाः",
         "iast": "māṣaṭaṅkākṣabilvāni kuḍavaḥ prasthamāḍhakam rāśirgoṇīḥ khāriketi yathottaracaturguṇāḥ",
         "iast_ru": "ма̄ш̣ат̣ан̇ка̄кш̣абилва̄ни куд̣авах̣ прастхама̄д̣хакам ра̄ш́иргон̣ӣх̣ кха̄рикети йатхоттарачатургун̣а̄х̣",
-        "text": "Маша, танка, акша, бильва, кудава, прастха, адхака, раши, гони и кхари — каждая следующая мера вчетверо больше предыдущей."
+        "text": "Маша, танка, акша, бильва, кудава, прастха, адхака, раши, гони и кхари — каждая следующая мера вчетверо больше предыдущей.",
+        "text_en": "Masha, Tanka, Aksha, Bilva, Kudava, Prastha, Adhaka, Rashi, Goni, and Khari — each successive measure is four times the preceding one."
       },
       {
         "type": "verse",
@@ -314,7 +346,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "द्र वार्द्र शुष्कद्र व्याणामनुक्तमानपरिभाषा गुज्जाऽदिमानमारभ्य यावत्स्यात्कुडवस्थितिः द्र वार्द्र शुष्कद्र व्याणां तावन्मानं समं मतम्",
         "iast": "dra vārdra śuṣkadra vyāṇāmanuktamānaparibhāṣā gujjā'dimānamārabhya yāvatsyātkuḍavasthitiḥ dra vārdra śuṣkadra vyāṇāṃ tāvanmānaṃ samaṃ matam",
         "iast_ru": "дра ва̄рдра ш́уш̣кадра вйа̄н̣а̄мануктама̄напарибха̄ш̣а̄ гуджджа̄'дима̄нама̄рабхйа йа̄ватсйа̄ткуд̣авастхитих̣ дра ва̄рдра ш́уш̣кадра вйа̄н̣а̄м̣ та̄ванма̄нам̣ самам̣ матам",
-        "text": "Правило для веществ, мера которых не указана отдельно: начиная от гунджи и до кудавы, для жидких, влажных и сухих веществ применяется одна и та же шкала мер."
+        "text": "Правило для веществ, мера которых не указана отдельно: начиная от гунджи и до кудавы, для жидких, влажных и сухих веществ применяется одна и та же шкала мер.",
+        "text_en": "The rule for substances whose measure is not separately specified: from Gunja up to Kudava, the same scale of measures applies to liquid, moist, and dry substances alike."
       },
       {
         "type": "comment",
@@ -327,7 +360,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "द्र वार्द्र योर्द्विगुणग्रहणार्थं परिभाषा प्रस्थादिमानमारभ्य द्विगुणं तत् द्र वार्द्र योः मानं तथा तुलायास्तु द्विगुणं न क्वचित्स्मृतम्",
         "iast": "dra vārdra yordviguṇagrahaṇārthaṃ paribhāṣā prasthādimānamārabhya dviguṇaṃ tat dra vārdra yoḥ mānaṃ tathā tulāyāstu dviguṇaṃ na kvacitsmṛtam",
         "iast_ru": "дра ва̄рдра йордвигун̣аграхан̣а̄ртхам̣ парибха̄ш̣а̄ прастха̄дима̄нама̄рабхйа двигун̣ам̣ тат дра ва̄рдра йох̣ ма̄нам̣ татха̄ тула̄йа̄сту двигун̣ам̣ на квачитсмр̣там",
-        "text": "Правило удвоения при измерении жидких и влажных веществ: начиная от прастхи, для жидких и влажных субстанций мера удваивается, однако удвоение тулы (весовой меры) нигде не предписано."
+        "text": "Правило удвоения при измерении жидких и влажных веществ: начиная от прастхи, для жидких и влажных субстанций мера удваивается, однако удвоение тулы (весовой меры) нигде не предписано.",
+        "text_en": "The rule of doubling in measuring liquid and moist substances: starting from Prastha, for liquid and moist substances the measure is doubled, but a doubling of the Tula (weight measure) is nowhere prescribed."
       },
       {
         "type": "verse",
@@ -335,7 +369,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "द्र वमानार्थकुडवपात्रनिर्माणप्रकारः मृद्वृक्षवेणुलोहादेर्भाण्डं यच्चतुरङ्गुलम् विस्तीर्णं च तथोच्चं च तन्मानं कुडवं वदेत्",
         "iast": "dra vamānārthakuḍavapātranirmāṇaprakāraḥ mṛdvṛkṣaveṇulohāderbhāṇḍaṃ yaccaturaṅgulam vistīrṇaṃ ca tathoccaṃ ca tanmānaṃ kuḍavaṃ vadet",
         "iast_ru": "дра вама̄на̄ртхакуд̣авапа̄транирма̄н̣апрака̄рах̣ мр̣двр̣кш̣авен̣улоха̄дербха̄н̣д̣ам̣ йаччатуран̇гулам вистӣрн̣ам̣ ча татхоччам̣ ча танма̄нам̣ куд̣авам̣ вадет",
-        "text": "Способ изготовления сосуда-кудавы для измерения жидкостей: сосуд из глины, дерева, бамбука или металла шириной в четыре пальца (ангулы) и такой же высоты — эта мера называется кудава."
+        "text": "Способ изготовления сосуда-кудавы для измерения жидкостей: сосуд из глины, дерева, бамбука или металла шириной в четыре пальца (ангулы) и такой же высоты — эта мера называется кудава.",
+        "text_en": "The method of making a Kudava vessel for measuring liquids: a vessel of clay, wood, bamboo, or metal, four finger-widths (angulas) wide and of the same height — this measure is called Kudava."
       },
       {
         "type": "verse",
@@ -343,7 +378,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "यदौषधं तु प्रथमं यस्य योगस्य कथ्यते तन्नाम्नैव स योगो हि कथ्यतेऽत्र विनिश्चयः",
         "iast": "yadauṣadhaṃ tu prathamaṃ yasya yogasya kathyate tannāmnaiva sa yogo hi kathyate'tra viniścayaḥ",
         "iast_ru": "йадауш̣адхам̣ ту пратхамам̣ йасйа йогасйа катхйате танна̄мнаива са його хи катхйате'тра виниш́чайах̣",
-        "text": "Каким лекарством называется первый компонент рецептуры (йоги), тем же именем называется и вся рецептура — таково здесь установленное правило."
+        "text": "Каким лекарством называется первый компонент рецептуры (йоги), тем же именем называется и вся рецептура — таково здесь установленное правило.",
+        "text_en": "Whatever medicine is named as the first ingredient of a formulation (yoga), by that same name the entire formulation is called — such is the rule established here."
       },
       {
         "type": "verse",
@@ -351,7 +387,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "स्थितिर्नास्त्येव मात्रायाः कालमग्निं वयो बलम् प्रकृतिं दोषदेशौ च दृष्ट्वा मात्रां प्रकल्पयेत्",
         "iast": "sthitirnāstyeva mātrāyāḥ kālamagniṃ vayo balam prakṛtiṃ doṣadeśau ca dṛṣṭvā mātrāṃ prakalpayet",
         "iast_ru": "стхитирна̄стйева ма̄тра̄йа̄х̣ ка̄ламагним̣ вайо балам пракр̣тим̣ дош̣адеш́ау ча др̣ш̣т̣ва̄ ма̄тра̄м̣ пракалпайет",
-        "text": "Не существует единой неизменной дозы: врач должен определять дозу, учитывая время (сезон), пищеварительный огонь (агни), возраст, силу, конституцию (пракрити), состояние дош и местность."
+        "text": "Не существует единой неизменной дозы: врач должен определять дозу, учитывая время (сезон), пищеварительный огонь (агни), возраст, силу, конституцию (пракрити), состояние дош и местность.",
+        "text_en": "There is no single fixed dose: the physician must determine the dose by taking into account the time (season), the digestive fire (agni), age, strength, constitution (prakriti), the condition of the doshas, and the region."
       },
       {
         "type": "comment",
@@ -364,7 +401,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "यतो मन्दाग्नयो ह्रस्वा हीनसत्त्वा नराः कलौ अतस्तु मात्रा तद्योग्या प्रोच्यते सुज्ञसंमता",
         "iast": "yato mandāgnayo hrasvā hīnasattvā narāḥ kalau atastu mātrā tadyogyā procyate sujñasaṃmatā",
         "iast_ru": "йато манда̄гнайо храсва̄ хӣнасаттва̄ нара̄х̣ калау атасту ма̄тра̄ тадйогйа̄ прочйате суджн̃асам̣мата̄",
-        "text": "Поскольку в эту Кали-югу люди обладают слабым пищеварительным огнём, малым ростом и сниженной жизненной силой, для них предписывается соответствующая, меньшая доза — так согласны мудрые."
+        "text": "Поскольку в эту Кали-югу люди обладают слабым пищеварительным огнём, малым ростом и сниженной жизненной силой, для них предписывается соответствующая, меньшая доза — так согласны мудрые.",
+        "text_en": "Since in this Kali Yuga people possess a weak digestive fire, small stature, and diminished vital strength, a correspondingly smaller dose is prescribed for them — thus the wise agree."
       },
       {
         "type": "verse",
@@ -372,7 +410,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "यवो द्वादशभिर्गौरसर्षपैः प्रोच्यते बुधैः",
         "iast": "yavo dvādaśabhirgaurasarṣapaiḥ procyate budhaiḥ",
         "iast_ru": "йаво два̄даш́абхиргаурасарш̣апаих̣ прочйате будхаих̣",
-        "text": "Ява (ячменное зерно), по учению мудрецов, равна двенадцати белым горчичным зёрнам."
+        "text": "Ява (ячменное зерно), по учению мудрецов, равна двенадцати белым горчичным зёрнам.",
+        "text_en": "A Yava (barley grain), according to the teaching of the sages, is equal to twelve white mustard seeds."
       },
       {
         "type": "comment",
@@ -385,7 +424,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "यवद्वयेन गुञ्जा स्यात् त्रिगुञ्जो वल्ल उच्यते माषो गुञ्जाभिरष्टाभिः सप्तभिर्वा भवेत्क्वचित्",
         "iast": "yavadvayena guñjā syāt triguñjo valla ucyate māṣo guñjābhiraṣṭābhiḥ saptabhirvā bhavetkvacit",
         "iast_ru": "йавадвайена гун̃джа̄ сйа̄т тригун̃джо валла учйате ма̄ш̣о гун̃джа̄бхираш̣т̣а̄бхих̣ саптабхирва̄ бхаветквачит",
-        "text": "Две явы составляют гунджу; три гунджи называют валла; маша равна восьми, а иногда семи гунджам."
+        "text": "Две явы составляют гунджу; три гунджи называют валла; маша равна восьми, а иногда семи гунджам.",
+        "text_en": "Two Yavas make up a Gunja; three Gunjas are called a Valla; a Masha equals eight, and sometimes seven, Gunjas."
       },
       {
         "type": "verse",
@@ -393,7 +433,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "स्याच्चतुर्माषकः शाणः स निष्कष्टङ्क एव च गद्याणो माषकैः षड्भिः कर्षः स्याद्दशमाषकः",
         "iast": "syāccaturmāṣakaḥ śāṇaḥ sa niṣkaṣṭaṅka eva ca gadyāṇo māṣakaiḥ ṣaḍbhiḥ karṣaḥ syāddaśamāṣakaḥ",
         "iast_ru": "сйа̄ччатурма̄ш̣аках̣ ш́а̄н̣ах̣ са ниш̣каш̣т̣ан̇ка ева ча гадйа̄н̣о ма̄ш̣акаих̣ ш̣ад̣бхих̣ карш̣ах̣ сйа̄ддаш́ама̄ш̣аках̣",
-        "text": "Четыре маши составляют шану, также называемую нишка или танка; гадьяна равна шести машам; карша в этой системе равна десяти машам."
+        "text": "Четыре маши составляют шану, также называемую нишка или танка; гадьяна равна шести машам; карша в этой системе равна десяти машам.",
+        "text_en": "Four Mashas make up a Shana, also called Nishka or Tanka; a Gadyana equals six Mashas; a Karsha in this system equals ten Mashas."
       },
       {
         "type": "verse",
@@ -401,7 +442,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "चतुःकर्षैः पलं प्रोक्तं दशशाणमितं बुधैः चतुष्पलैश्च कुडवं प्रस्थाद्याः पूर्ववन्मताः",
         "iast": "catuḥkarṣaiḥ palaṃ proktaṃ daśaśāṇamitaṃ budhaiḥ catuṣpalaiśca kuḍavaṃ prasthādyāḥ pūrvavanmatāḥ",
         "iast_ru": "чатух̣карш̣аих̣ палам̣ проктам̣ даш́аш́а̄н̣амитам̣ будхаих̣ чатуш̣палаиш́ча куд̣авам̣ прастха̄дйа̄х̣ пӯрваванмата̄х̣",
-        "text": "Четыре карши составляют палу, равную десяти шанам, — так учат мудрецы; четыре палы составляют кудаву; прастха и далее меры соответствуют прежним."
+        "text": "Четыре карши составляют палу, равную десяти шанам, — так учат мудрецы; четыре палы составляют кудаву; прастха и далее меры соответствуют прежним.",
+        "text_en": "Four Karshas make up a Pala, equal to ten Shanas — so the sages teach; four Palas make up a Kudava; from Prastha onward the measures correspond to those given previously."
       },
       {
         "type": "verse",
@@ -409,7 +451,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "कालिङ्गं मागधं चैव द्विविधं मानमुच्यते कालिङ्गान्मागधं श्रेष्ठं मानं मानविदो विदुः",
         "iast": "kāliṅgaṃ māgadhaṃ caiva dvividhaṃ mānamucyate kāliṅgānmāgadhaṃ śreṣṭhaṃ mānaṃ mānavido viduḥ",
         "iast_ru": "ка̄лин̇гам̣ ма̄гадхам̣ чаива двивидхам̣ ма̄намучйате ка̄лин̇га̄нма̄гадхам̣ ш́реш̣т̣хам̣ ма̄нам̣ ма̄навидо видух̣",
-        "text": "Различают два вида мер: калингская и магадхская; знатоки мер считают магадхскую меру более достоверной, чем калингская."
+        "text": "Различают два вида мер: калингская и магадхская; знатоки мер считают магадхскую меру более достоверной, чем калингская.",
+        "text_en": "Two kinds of measures are distinguished: the Kalinga and the Magadha; those learned in measures consider the Magadha measure more reliable than the Kalinga."
       },
       {
         "type": "comment",
@@ -422,7 +465,8 @@ export const SHARANGADHARA_DATA = [
         "sanskrit": "औषधपरिभाषौ तत्र द्र व्याणां युक्तायुक्तविचारः नवान्येव हि योज्यानि द्र व्याण्यखिलकर्मसु विना विडङ्गकृष्णाभ्यां गुडधान्याज्यमाक्षिकैः",
         "iast": "auṣadhaparibhāṣau tatra dra vyāṇāṃ yuktāyuktavicāraḥ navānyeva hi yojyāni dra vyāṇyakhilakarmasu vinā viḍaṅgakṛṣṇābhyāṃ guḍadhānyājyamākṣikaiḥ",
         "iast_ru": "ауш̣адхапарибха̄ш̣ау татра дра вйа̄н̣а̄м̣ йукта̄йуктавича̄рах̣ нава̄нйева хи йоджйа̄ни дра вйа̄н̣йакхилакармасу вина̄ вид̣ан̇гакр̣ш̣н̣а̄бхйа̄м̣ гуд̣адха̄нйа̄джйама̄кш̣икаих̣",
-        "text": "Об уместности веществ в лекарственных составах: во всех процедурах должны применяться девять определённых веществ, за исключением видáнги, кришны (пиппали), гуда (патоки), зерна, гхи и мёда."
+        "text": "Об уместности веществ в лекарственных составах: во всех процедурах должны применяться девять определённых веществ, за исключением видáнги, кришны (пиппали), гуда (патоки), зерна, гхи и мёда.",
+        "text_en": "Regarding the appropriateness of substances in medicinal compounds: in all procedures nine specific substances should be used, with the exception of Vidanga, Krishna (Pippali), Guda (molasses), grain, ghee, and honey."
       },
       {
         "type": "comment",
