@@ -5957,7 +5957,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथोरुस्तम्भनिदाम् शीतोष्णद्र वसंशुष्क गुरुस्निग्धैर्निषेवितैः जीर्णाजीर्णे तथाऽयाससंक्षोभस्वप्नजागरैः",
         "iast": "athorustambhanidām śītoṣṇadra vasaṃśuṣka gurusnigdhairniṣevitaiḥ jīrṇājīrṇe tathā'yāsasaṃkṣobhasvapnajāgaraiḥ",
         "iast_ru": "атхорустамбханида̄м ш́ӣтош̣н̣адра васам̣ш́уш̣ка гуруснигдхаирниш̣евитаих̣ джӣрн̣а̄джӣрн̣е татха̄'йа̄сасам̣кш̣обхасвапнаджа̄гараих̣",
-        "text": "Теперь — распознавание Урустамбхи (ригидности бёдер). От употребления холодного, горячего, жидкого, иссушающего, тяжёлого и маслянистого; при пище, съеденной переваренной и непереваренной, а также при переутомлении, потрясении, чрезмерном сне и бодрствовании."
+        "text": "Теперь — распознавание Урустамбхи (ригидности бёдер). От употребления холодного, горячего, жидкого, иссушающего, тяжёлого и маслянистого; при пище, съеденной переваренной и непереваренной, а также при переутомлении, потрясении, чрезмерном сне и бодрствовании.",
+        "text_en": "Now, the diagnosis of Urustambha (rigidity/stiffness of the thighs). It arises from the use of cold, hot, liquid, drying, heavy, and unctuous substances; from eating food that is both digested and undigested [together]; and from overexertion, shock, excessive sleep, and excessive wakefulness."
       },
       {
         "type": "verse",
@@ -5965,7 +5966,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सश्लेष्ममेदः पवनः साममत्यर्थसंचितम् अभिभूयेतरं दोषमूरू चेत्प्रतिपद्यते",
         "iast": "saśleṣmamedaḥ pavanaḥ sāmamatyarthasaṃcitam abhibhūyetaraṃ doṣamūrū cetpratipadyate",
         "iast_ru": "саш́леш̣мамедах̣ паванах̣ са̄маматйартхасам̣читам абхибхӯйетарам̣ дош̣амӯрӯ четпратипадйате",
-        "text": "Вата вместе со Шлешмой (Капхой) и жировой тканью, чрезмерно накопив непереваренную Аму, подавив другую дошу, если устремляется в бёдра —"
+        "text": "Вата вместе со Шлешмой (Капхой) и жировой тканью, чрезмерно накопив непереваренную Аму, подавив другую дошу, если устремляется в бёдра —",
+        "text_en": "Vata, joined with Shleshma (Kapha) and fat tissue, having excessively accumulated undigested Ama, and having suppressed the other dosha, if it rushes into the thighs —"
       },
       {
         "type": "verse",
@@ -5973,7 +5975,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सक्थ्यस्थिनी प्रपूर्यान्तः लेष्मणा स्तिमितेन च तदा स्तभ्नाति तेनोरू स्तब्धौ शीतावचेतनौ",
         "iast": "sakthyasthinī prapūryāntaḥ leṣmaṇā stimitena ca tadā stabhnāti tenorū stabdhau śītāvacetanau",
         "iast_ru": "сактхйастхинӣ прапӯрйа̄нтах̣ леш̣ман̣а̄ стимитена ча тада̄ стабхна̄ти тенорӯ стабдхау ш́ӣта̄вачетанау",
-        "text": "— наполняя изнутри кости бёдер застоявшейся Капхой, тогда сковывает бёдра. Бёдра становятся ригидными, холодными и нечувствительными."
+        "text": "— наполняя изнутри кости бёдер застоявшейся Капхой, тогда сковывает бёдра. Бёдра становятся ригидными, холодными и нечувствительными.",
+        "text_en": "— filling the bones of the thighs from within with stagnant Kapha, it then binds the thighs. The thighs become rigid, cold, and numb."
       },
       {
         "type": "verse",
@@ -5981,7 +5984,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "परकीयाविव गुरू स्यातामतिभृशव्यथौ ध्यानाङ्गमर्दस्तैमित्य तन्द्रा च्छर्द्यरुचिज्वरैः",
         "iast": "parakīyāviva gurū syātāmatibhṛśavyathau dhyānāṅgamardastaimitya tandrā cchardyarucijvaraiḥ",
         "iast_ru": "паракӣйа̄вива гурӯ сйа̄та̄матибхр̣ш́авйатхау дхйа̄на̄н̇гамардастаимитйа тандра̄ ччхардйаручиджвараих̣",
-        "text": "Тяжёлые, словно чужие, они причиняют чрезмерную боль. Болезнь сопровождается подавленностью, ломотой в теле, оцепенением, сонливостью, рвотой, отвращением к пище и лихорадкой."
+        "text": "Тяжёлые, словно чужие, они причиняют чрезмерную боль. Болезнь сопровождается подавленностью, ломотой в теле, оцепенением, сонливостью, рвотой, отвращением к пище и лихорадкой.",
+        "text_en": "Heavy, as if belonging to someone else, they cause excessive pain. The disease is accompanied by depression, aching of the body, stupor, drowsiness, vomiting, aversion to food, and fever."
       },
       {
         "type": "comment",
@@ -5994,7 +5998,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "संयुक्तौ पादसदनकृच्छ्रोद्धरणसुप्तिभिः तमूरुस्तम्भमित्याहुराढ्य वातमथापरे",
         "iast": "saṃyuktau pādasadanakṛcchroddharaṇasuptibhiḥ tamūrustambhamityāhurāḍhya vātamathāpare",
         "iast_ru": "сам̣йуктау па̄дасаданакр̣ччхроддхаран̣асуптибхих̣ тамӯрустамбхамитйа̄хура̄д̣хйа ва̄таматха̄паре",
-        "text": "Совместно со слабостью стоп, затруднённым поднятием ног и онемением — это именуют Урустамбха, а другие авторы называют Адхьявата."
+        "text": "Совместно со слабостью стоп, затруднённым поднятием ног и онемением — это именуют Урустамбха, а другие авторы называют Адхьявата.",
+        "text_en": "Together with weakness of the feet, difficulty in lifting the legs, and numbness — this is called Urustambha; other authors call it Adhyavata."
       },
       {
         "type": "verse",
@@ -6002,7 +6007,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्राग्रूपं तस्य निद्रा ऽतिध्यानं स्तिमितता ज्वरः रोमहर्षोऽरुचिच्छर्दिर्जङ्घोर्वोः सदनं तथा",
         "iast": "prāgrūpaṃ tasya nidrā 'tidhyānaṃ stimitatā jvaraḥ romaharṣo'rucicchardirjaṅghorvoḥ sadanaṃ tathā",
         "iast_ru": "пра̄грӯпам̣ тасйа нидра̄ 'тидхйа̄нам̣ стимитата̄ джварах̣ ромахарш̣о'ручиччхардирджан̇гхорвох̣ саданам̣ татха̄",
-        "text": "Предвестники её: чрезмерная сонливость, задумчивость, оцепенение, лихорадка, «гусиная кожа», отвращение к пище, рвота, а также слабость в голенях и бёдрах."
+        "text": "Предвестники её: чрезмерная сонливость, задумчивость, оцепенение, лихорадка, «гусиная кожа», отвращение к пище, рвота, а также слабость в голенях и бёдрах.",
+        "text_en": "Its premonitory signs are: excessive drowsiness, brooding, stupor, fever, horripilation (\"goose flesh\"), aversion to food, vomiting, and also weakness in the calves and thighs."
       },
       {
         "type": "verse",
@@ -6010,7 +6016,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातशङ्किभिरज्ञानात्तस्य स्यात्स्नेहनात्पुनः पादयोः सदनं सुप्तिः कृच्छ्रादुद्धरणं तथा",
         "iast": "vātaśaṅkibhirajñānāttasya syātsnehanātpunaḥ pādayoḥ sadanaṃ suptiḥ kṛcchrāduddharaṇaṃ tathā",
         "iast_ru": "ва̄таш́ан̇кибхираджн̃а̄на̄ттасйа сйа̄тснехана̄тпунах̣ па̄дайох̣ саданам̣ суптих̣ кр̣ччхра̄дуддхаран̣ам̣ татха̄",
-        "text": "Теми, кто подозревает простое расстройство Ваты, по незнанию применяется промасливание, от чего в стопах наступает слабость, онемение и затруднённое поднятие ног."
+        "text": "Теми, кто подозревает простое расстройство Ваты, по незнанию применяется промасливание, от чего в стопах наступает слабость, онемение и затруднённое поднятие ног.",
+        "text_en": "Those who suspect a simple Vata disorder apply oleation out of ignorance, from which weakness, numbness, and difficulty in lifting the legs arise in the feet."
       },
       {
         "type": "verse",
@@ -6018,7 +6025,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "जङ्घोरुग्लानिरत्यर्थं शश्वच्चादाहवेदने पादं च व्यथते न्यस्तं शीतस्पर्शं न वेत्ति च",
         "iast": "jaṅghoruglāniratyarthaṃ śaśvaccādāhavedane pādaṃ ca vyathate nyastaṃ śītasparśaṃ na vetti ca",
         "iast_ru": "джан̇гхоругла̄ниратйартхам̣ ш́аш́вачча̄да̄хаведане па̄дам̣ ча вйатхате нйастам̣ ш́ӣтаспарш́ам̣ на ветти ча",
-        "text": "Чрезмерное утомление голеней и бёдер, непрерывные жжение и боль; боль при наступании стопой и неспособность ощущать холодное прикосновение."
+        "text": "Чрезмерное утомление голеней и бёдер, непрерывные жжение и боль; боль при наступании стопой и неспособность ощущать холодное прикосновение.",
+        "text_en": "Excessive fatigue of the calves and thighs, continuous burning and pain; pain on placing the foot down, and inability to feel a cold touch."
       },
       {
         "type": "verse",
@@ -6026,7 +6034,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "संस्थाने पीडने गत्यां चालने चाप्यनीश्वरः अन्यस्येव हि संभाग्नावूरू पादौ च मन्यते",
         "iast": "saṃsthāne pīḍane gatyāṃ cālane cāpyanīśvaraḥ anyasyeva hi saṃbhāgnāvūrū pādau ca manyate",
         "iast_ru": "сам̣стха̄не пӣд̣ане гатйа̄м̣ ча̄лане ча̄пйанӣш́варах̣ анйасйева хи сам̣бха̄гна̄вӯрӯ па̄дау ча манйате",
-        "text": "Неспособность удерживать положение, неспособность сжимать, ходить и двигать конечностями; больной воспринимает бёдра и стопы как принадлежащие другому."
+        "text": "Неспособность удерживать положение, неспособность сжимать, ходить и двигать конечностями; больной воспринимает бёдра и стопы как принадлежащие другому.",
+        "text_en": "Inability to hold a position, inability to grip, walk, and move the limbs; the patient perceives the thighs and feet as belonging to someone else."
       },
       {
         "type": "comment",
@@ -6039,7 +6048,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यदा दाहार्तितोदार्तो वेपनः पुरुषो भवेत् ऊरुस्तम्भस्तदा हन्यात्साधयेदन्यथा नवम्",
         "iast": "yadā dāhārtitodārto vepanaḥ puruṣo bhavet ūrustambhastadā hanyātsādhayedanyathā navam",
         "iast_ru": "йада̄ да̄ха̄ртитода̄рто вепанах̣ пуруш̣о бхавет ӯрустамбхастада̄ ханйа̄тса̄дхайеданйатха̄ навам",
-        "text": "Когда человек страдает от жжения, боли и колющих ощущений и появляется тремор — тогда Урустамбха ведёт к гибели; в ином случае, если болезнь свежая, она излечима."
+        "text": "Когда человек страдает от жжения, боли и колющих ощущений и появляется тремор — тогда Урустамбха ведёт к гибели; в ином случае, если болезнь свежая, она излечима.",
+        "text_en": "When a person suffers from burning, pain, and pricking sensations, and tremor appears — then Urustambha leads to death; otherwise, if the disease is fresh, it is curable."
       },
       {
         "type": "comment",
@@ -6066,7 +6076,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथामवातनिदानम् विरुद्धाहारचेष्टस्य मन्दाग्नेर्निश्चलस्य च स्निग्धं भुक्तवतो ह्यन्नं व्यायामं कुर्वतस्तथा",
         "iast": "athāmavātanidānam viruddhāhāraceṣṭasya mandāgnerniścalasya ca snigdhaṃ bhuktavato hyannaṃ vyāyāmaṃ kurvatastathā",
         "iast_ru": "атха̄мава̄танида̄нам вируддха̄ха̄рачеш̣т̣асйа манда̄гнерниш́чаласйа ча снигдхам̣ бхуктавато хйаннам̣ вйа̄йа̄мам̣ курватастатха̄",
-        "text": "Теперь — распознавание Амаваты. У того, кто питается несовместимой пищей и ведёт неправильный образ жизни, у кого слабый огонь пищеварения и кто малоподвижен, а также у того, кто съел маслянистую пищу и затем предался физическим упражнениям —"
+        "text": "Теперь — распознавание Амаваты. У того, кто питается несовместимой пищей и ведёт неправильный образ жизни, у кого слабый огонь пищеварения и кто малоподвижен, а также у того, кто съел маслянистую пищу и затем предался физическим упражнениям —",
+        "text_en": "Now, the diagnosis of Amavata. In one who eats incompatible food and follows a wrong regimen, whose digestive fire is weak and who is sedentary, and also in one who has eaten unctuous food and then engaged in physical exercise —"
       },
       {
         "type": "verse",
@@ -6074,7 +6085,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वायुना प्रेरितो ह्यामः श्लेष्मस्थानं प्रधावति तेनात्यर्थं विदग्धोऽसौ धमनीः प्रतिपद्यते",
         "iast": "vāyunā prerito hyāmaḥ śleṣmasthānaṃ pradhāvati tenātyarthaṃ vidagdho'sau dhamanīḥ pratipadyate",
         "iast_ru": "ва̄йуна̄ прерито хйа̄мах̣ ш́леш̣мастха̄нам̣ прадха̄вати тена̄тйартхам̣ видагдхо'сау дхаманӣх̣ пратипадйате",
-        "text": "— Ама, побуждаемая Ваю, устремляется к месту Шлешмы (Капхи). Чрезмерно воспалённая там, она проникает в сосуды (дхамани)."
+        "text": "— Ама, побуждаемая Ваю, устремляется к месту Шлешмы (Капхи). Чрезмерно воспалённая там, она проникает в сосуды (дхамани).",
+        "text_en": "— Ama, driven by Vayu, rushes to the seat of Shleshma (Kapha). Excessively inflamed there, it penetrates the vessels (dhamanis)."
       },
       {
         "type": "verse",
@@ -6082,7 +6094,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातपित्तकफैर्भूयो दूषितः सोऽन्नजो रसः स्रोतांस्यभिष्यन्दयति नानावर्णोऽतिपिच्छिलः",
         "iast": "vātapittakaphairbhūyo dūṣitaḥ so'nnajo rasaḥ srotāṃsyabhiṣyandayati nānāvarṇo'tipicchilaḥ",
         "iast_ru": "ва̄тапиттакапхаирбхӯйо дӯш̣итах̣ со'ннаджо расах̣ срота̄м̣сйабхиш̣йандайати на̄на̄варн̣о'типиччхилах̣",
-        "text": "Рас (питательная жидкость), произведённый из пищи, далее испорченный Ватой, Питтой и Капхой, — вязкий и разноцветный — переполняет каналы (шротасы)."
+        "text": "Рас (питательная жидкость), произведённый из пищи, далее испорченный Ватой, Питтой и Капхой, — вязкий и разноцветный — переполняет каналы (шротасы).",
+        "text_en": "Rasa (the nutrient fluid) produced from food, further vitiated by Vata, Pitta, and Kapha — viscous and discolored — overfills the channels (srotas)."
       },
       {
         "type": "verse",
@@ -6090,7 +6103,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "जनयत्याशु दौर्बल्यं गौरवं हृदयस्य च व्याधीनामाश्रयो ह्येष आमसंज्ञोऽतिदारुणः",
         "iast": "janayatyāśu daurbalyaṃ gauravaṃ hṛdayasya ca vyādhīnāmāśrayo hyeṣa āmasaṃjño'tidāruṇaḥ",
         "iast_ru": "джанайатйа̄ш́у даурбалйам̣ гауравам̣ хр̣дайасйа ча вйа̄дхӣна̄ма̄ш́райо хйеш̣а а̄масам̣джн̃о'тида̄рун̣ах̣",
-        "text": "Быстро порождает слабость и тяжесть в области сердца. Этот патологический продукт, именуемый Ама, чрезвычайно опасен и является вместилищем болезней."
+        "text": "Быстро порождает слабость и тяжесть в области сердца. Этот патологический продукт, именуемый Ама, чрезвычайно опасен и является вместилищем болезней.",
+        "text_en": "It quickly produces weakness and heaviness in the region of the heart. This pathological product, called Ama, is extremely dangerous and is the seat/receptacle of diseases."
       },
       {
         "type": "verse",
@@ -6098,7 +6112,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "युगपत्कुपितावन्तस्त्रिक सन्धिप्रवेशकौ स्तब्धं च कुरुतो गात्रमामवातः स उच्यते",
         "iast": "yugapatkupitāvantastrika sandhipraveśakau stabdhaṃ ca kuruto gātramāmavātaḥ sa ucyate",
         "iast_ru": "йугапаткупита̄вантастрика сандхиправеш́акау стабдхам̣ ча куруто га̄трама̄мава̄тах̣ са учйате",
-        "text": "Когда одновременно возбуждённые доши, проникнув внутрь области крестца и суставов, делают тело ригидным — это именуется Амавата."
+        "text": "Когда одновременно возбуждённые доши, проникнув внутрь области крестца и суставов, делают тело ригидным — это именуется Амавата.",
+        "text_en": "When the simultaneously aggravated doshas, penetrating into the region of the sacrum and joints, make the body rigid — this is called Amavata."
       },
       {
         "type": "verse",
@@ -6106,7 +6121,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अङ्गमर्दोऽरुचिस्तृष्णा ह्यालस्यं गौरवं ज्वरः अपाकः शूनताऽङ्गानामामवातस्य लक्षणम्",
         "iast": "aṅgamardo'rucistṛṣṇā hyālasyaṃ gauravaṃ jvaraḥ apākaḥ śūnatā'ṅgānāmāmavātasya lakṣaṇam",
         "iast_ru": "ан̇гамардо'ручистр̣ш̣н̣а̄ хйа̄ласйам̣ гауравам̣ джварах̣ апа̄ках̣ ш́ӯната̄'н̇га̄на̄ма̄мава̄тасйа лакш̣ан̣ам",
-        "text": "Ломота в теле, отвращение к пище, жажда, вялость, тяжесть, лихорадка, несварение и припухлость конечностей — таковы признаки Амаваты."
+        "text": "Ломота в теле, отвращение к пище, жажда, вялость, тяжесть, лихорадка, несварение и припухлость конечностей — таковы признаки Амаваты.",
+        "text_en": "Aching of the body, aversion to food, thirst, lassitude, heaviness, fever, indigestion, and swelling of the limbs — these are the signs of Amavata."
       },
       {
         "type": "comment",
@@ -6119,7 +6135,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स कष्टः सर्वरोगणां यदा प्रकुपितो भवेत् हस्तपादशिरोगुल्फत्रिकजानूरुसन्धिषु",
         "iast": "sa kaṣṭaḥ sarvarogaṇāṃ yadā prakupito bhavet hastapādaśirogulphatrikajānūrusandhiṣu",
         "iast_ru": "са каш̣т̣ах̣ сарвароган̣а̄м̣ йада̄ пракупито бхавет хастапа̄даш́ирогулпхатрикаджа̄нӯрусандхиш̣у",
-        "text": "Она — тягчайшая из всех болезней. Когда она обостряется — в суставах кистей, стоп, головы, голеностопов, крестца, коленей и бёдер —"
+        "text": "Она — тягчайшая из всех болезней. Когда она обостряется — в суставах кистей, стоп, головы, голеностопов, крестца, коленей и бёдер —",
+        "text_en": "It is the most severe of all diseases. When it becomes aggravated — in the joints of the hands, feet, head, ankles, sacrum, knees, and thighs —"
       },
       {
         "type": "verse",
@@ -6127,7 +6144,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "करोति सरुजं शोथं यत्र दोषः प्रपद्यते स देशो रुज्यतेऽत्यर्थं व्याविद्ध इव वृश्चिकैः",
         "iast": "karoti sarujaṃ śothaṃ yatra doṣaḥ prapadyate sa deśo rujyate'tyarthaṃ vyāviddha iva vṛścikaiḥ",
         "iast_ru": "кароти саруджам̣ ш́отхам̣ йатра дош̣ах̣ прападйате са деш́о руджйате'тйартхам̣ вйа̄виддха ива вр̣ш́чикаих̣",
-        "text": "— создаёт болезненную припухлость там, куда устремляется доша. Это место болит чрезвычайно, как будто ужалено скорпионами."
+        "text": "— создаёт болезненную припухлость там, куда устремляется доша. Это место болит чрезвычайно, как будто ужалено скорпионами.",
+        "text_en": "— it creates a painful swelling wherever the dosha rushes. That place aches exceedingly, as though stung by scorpions."
       },
       {
         "type": "verse",
@@ -6135,7 +6153,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "जनयेत्सोऽग्निदौर्बल्यं प्रसेकारुचिगौरवम् उत्साहहानिं वैरस्यं दाहं च बहुमूत्रताम्",
         "iast": "janayetso'gnidaurbalyaṃ prasekārucigauravam utsāhahāniṃ vairasyaṃ dāhaṃ ca bahumūtratām",
         "iast_ru": "джанайетсо'гнидаурбалйам̣ прасека̄ручигауравам утса̄хаха̄ним̣ ваирасйам̣ да̄хам̣ ча бахумӯтрата̄м",
-        "text": "Она порождает слабость пищеварительного огня, слюнотечение, отвращение к пище, тяжесть, утрату бодрости, неприятный привкус, жжение и обильное мочеиспускание."
+        "text": "Она порождает слабость пищеварительного огня, слюнотечение, отвращение к пище, тяжесть, утрату бодрости, неприятный привкус, жжение и обильное мочеиспускание.",
+        "text_en": "It produces weakness of the digestive fire, salivation, aversion to food, heaviness, loss of vigor, a bad taste [in the mouth], burning, and copious urination."
       },
       {
         "type": "verse",
@@ -6143,7 +6162,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुक्षौ कठिनतां शूलं तथा निद्रा विपर्ययम् तृट्छर्दिभ्रममूर्च्छाश्च हृद्ग्रहं विड्विबद्धताम् जाड्यान्त्रकूजमानाहं कष्टांश्चान्यानुपद्र वान्",
         "iast": "kukṣau kaṭhinatāṃ śūlaṃ tathā nidrā viparyayam tṛṭchardibhramamūrcchāśca hṛdgrahaṃ viḍvibaddhatām jāḍyāntrakūjamānāhaṃ kaṣṭāṃścānyānupadra vān",
         "iast_ru": "кукш̣ау кат̣хината̄м̣ ш́ӯлам̣ татха̄ нидра̄ випарйайам тр̣т̣чхардибхрамамӯрччха̄ш́ча хр̣дграхам̣ вид̣вибаддхата̄м джа̄д̣йа̄нтракӯджама̄на̄хам̣ каш̣т̣а̄м̣ш́ча̄нйа̄нупадра ва̄н",
-        "text": "Твёрдость в животе, боль, а также нарушение сна; жажду, рвоту, головокружение и обморок; стеснение в сердце, запор; оцепенение, урчание в кишечнике, вздутие и другие мучительные осложнения."
+        "text": "Твёрдость в животе, боль, а также нарушение сна; жажду, рвоту, головокружение и обморок; стеснение в сердце, запор; оцепенение, урчание в кишечнике, вздутие и другие мучительные осложнения.",
+        "text_en": "Hardness in the abdomen, pain, and also disturbance of sleep; thirst, vomiting, dizziness, and fainting; constriction in the heart, constipation; stupor, rumbling in the intestines, distension, and other distressing complications."
       },
       {
         "type": "verse",
@@ -6151,7 +6171,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पित्तात्सदाहरागं च सशूलं पवनानुगम् स्तिमितं गुरुकण्डूं च कफदुष्टं तमादिशेत्",
         "iast": "pittātsadāharāgaṃ ca saśūlaṃ pavanānugam stimitaṃ gurukaṇḍūṃ ca kaphaduṣṭaṃ tamādiśet",
         "iast_ru": "питта̄тсада̄хара̄гам̣ ча саш́ӯлам̣ павана̄нугам стимитам̣ гурукан̣д̣ӯм̣ ча капхадуш̣т̣ам̣ тама̄диш́ет",
-        "text": "При преобладании Питты — припухлость с жжением, покраснением и болью; следующую за Ваю (ветром). Оцепенелую, тяжёлую и зудящую — следует определять как поражённую Капхой."
+        "text": "При преобладании Питты — припухлость с жжением, покраснением и болью; следующую за Ваю (ветром). Оцепенелую, тяжёлую и зудящую — следует определять как поражённую Капхой.",
+        "text_en": "When Pitta predominates, the swelling is with burning, redness, and pain, following Vayu (wind). One that is numb, heavy, and itchy should be determined as affected by Kapha."
       },
       {
         "type": "verse",
@@ -6159,7 +6180,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "एकदोषानुगः साध्यो द्विदोषो याप्य उच्यते सर्वदेहचरः शोथः सः कृच्छ्रः सान्निपातिकः",
         "iast": "ekadoṣānugaḥ sādhyo dvidoṣo yāpya ucyate sarvadehacaraḥ śothaḥ saḥ kṛcchraḥ sānnipātikaḥ",
         "iast_ru": "екадош̣а̄нугах̣ са̄дхйо двидош̣о йа̄пйа учйате сарвадехачарах̣ ш́отхах̣ сах̣ кр̣ччхрах̣ са̄ннипа̄тиках̣",
-        "text": "Вызванная одной дошей — излечима; двумя дошами — поддаётся лишь поддерживающему лечению. Распространившаяся по всему телу припухлость от сочетания всех трёх дош (саннипатическая) — трудноизлечима."
+        "text": "Вызванная одной дошей — излечима; двумя дошами — поддаётся лишь поддерживающему лечению. Распространившаяся по всему телу припухлость от сочетания всех трёх дош (саннипатическая) — трудноизлечима.",
+        "text_en": "Caused by a single dosha, it is curable; by two doshas, it yields only to palliative treatment. A swelling spread over the whole body, from the combination of all three doshas (sannipatika), is difficult to cure."
       }
     ]
   },
@@ -6181,7 +6203,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ शूलपरिणामशूलान्नद्र वशूलनिदानम् दोषैः पृथक् समस्तामद्वन्द्वैः शूलोऽष्टधा भवेत् सर्वेष्वेतेषु शूलेषु प्रायेण पवनः प्रभुः",
         "iast": "atha śūlapariṇāmaśūlānnadra vaśūlanidānam doṣaiḥ pṛthak samastāmadvandvaiḥ śūlo'ṣṭadhā bhavet sarveṣveteṣu śūleṣu prāyeṇa pavanaḥ prabhuḥ",
         "iast_ru": "атха ш́ӯлапарин̣а̄маш́ӯла̄ннадра ваш́ӯланида̄нам дош̣аих̣ пр̣тхак самаста̄мадвандваих̣ ш́ӯло'ш̣т̣адха̄ бхавет сарвеш̣ветеш̣у ш́ӯлеш̣у пра̄йен̣а паванах̣ прабхух̣",
-        "text": "Далее — распознавание Шулы (колики), Паринама-шулы (колики при переваривании) и Аннадрава-шулы (колики пищевой жидкости). Дошами — по отдельности, совместно или попарно — Шула порождается восьми видов. Во всех этих видах Шулы, как правило, главенствует Вата (Павана)."
+        "text": "Далее — распознавание Шулы (колики), Паринама-шулы (колики при переваривании) и Аннадрава-шулы (колики пищевой жидкости). Дошами — по отдельности, совместно или попарно — Шула порождается восьми видов. Во всех этих видах Шулы, как правило, главенствует Вата (Павана).",
+        "text_en": "Next, the diagnosis of Shula (colic), Parinama-shula (colic of digestion), and Annadrava-shula (colic of food-liquid). By the doshas — singly, jointly, or in pairs — Shula is produced in eight varieties. In all these varieties of Shula, as a rule, Vata (Pavana) predominates."
       },
       {
         "type": "verse",
@@ -6189,7 +6212,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्यायामयानादतिमैथुनाच्च प्रजागराच्छीतजलातिपानात् कलायमुद्गाढकिकोरदूषादत्यर्थरूक्षाध्यशनाभिघातात्",
         "iast": "vyāyāmayānādatimaithunācca prajāgarācchītajalātipānāt kalāyamudgāḍhakikoradūṣādatyartharūkṣādhyaśanābhighātāt",
         "iast_ru": "вйа̄йа̄майа̄на̄датимаитхуна̄чча праджа̄гара̄ччхӣтаджала̄типа̄на̄т кала̄йамудга̄д̣хакикорадӯш̣а̄датйартхарӯкш̣а̄дхйаш́ана̄бхигха̄та̄т",
-        "text": "От чрезмерных упражнений, путешествий, избыточного соития, бодрствования, обильного питья холодной воды, употребления калайи, мудги, адхаки, корадуши, чрезмерно сухой пищи, переедания и телесных повреждений —"
+        "text": "От чрезмерных упражнений, путешествий, избыточного соития, бодрствования, обильного питья холодной воды, употребления калайи, мудги, адхаки, корадуши, чрезмерно сухой пищи, переедания и телесных повреждений —",
+        "text_en": "From excessive exercise, travel, excessive intercourse, wakefulness, drinking an excess of cold water, eating kalaya, mudga, adhaki, koradusha, excessively dry food, overeating, and bodily injuries —"
       },
       {
         "type": "verse",
@@ -6197,7 +6221,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कषायतिक्तातिविरूढजान्नविरुद्धवल्लूरकशुष्कशाकात् विट्शुक्रमूत्रानिलवेगरोधाच्छोकोपवासादतिहास्यभाष्यात्",
         "iast": "kaṣāyatiktātivirūḍhajānnaviruddhavallūrakaśuṣkaśākāt viṭśukramūtrānilavegarodhācchokopavāsādatihāsyabhāṣyāt",
         "iast_ru": "каш̣а̄йатикта̄тивирӯд̣хаджа̄ннавируддхаваллӯракаш́уш̣каш́а̄ка̄т вит̣ш́украмӯтра̄нилавегародха̄ччхокопава̄са̄датиха̄сйабха̄ш̣йа̄т",
-        "text": "— от вяжущей, горькой, чрезмерно пророщенной пищи, несовместимых продуктов, вяленого мяса, сухих овощей, от подавления позывов к испражнению, семяизвержению, мочеиспусканию и отхождению газов, от скорби, голодания, чрезмерного смеха и многословия —"
+        "text": "— от вяжущей, горькой, чрезмерно пророщенной пищи, несовместимых продуктов, вяленого мяса, сухих овощей, от подавления позывов к испражнению, семяизвержению, мочеиспусканию и отхождению газов, от скорби, голодания, чрезмерного смеха и многословия —",
+        "text_en": "— from astringent, bitter, and over-sprouted food, incompatible foods, dried/jerked meat, dry vegetables, from suppressing the urges to defecate, ejaculate, urinate, and pass flatus, from grief, fasting, excessive laughter, and excessive talking —"
       },
       {
         "type": "verse",
@@ -6205,7 +6230,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वायुः प्रवृद्धो जनयेद्धि शूलं हृत्पार्श्वपृष्ठत्रिकबस्तिदेशे जीर्णे प्रदोषे च घनागमे च शीते च कोपं समुपैति गाढम्",
         "iast": "vāyuḥ pravṛddho janayeddhi śūlaṃ hṛtpārśvapṛṣṭhatrikabastideśe jīrṇe pradoṣe ca ghanāgame ca śīte ca kopaṃ samupaiti gāḍham",
         "iast_ru": "ва̄йух̣ правр̣ддхо джанайеддхи ш́ӯлам̣ хр̣тпа̄рш́вапр̣ш̣т̣хатрикабастидеш́е джӣрн̣е прадош̣е ча гхана̄гаме ча ш́ӣте ча копам̣ самупаити га̄д̣хам",
-        "text": "— Вата, возбудившись, порождает колику в области сердца, боковых отделах, спине, крестце и области мочевого пузыря. После переваривания пищи, в сумерках, в сезон дождей и в холодное время она обостряется с особой силой."
+        "text": "— Вата, возбудившись, порождает колику в области сердца, боковых отделах, спине, крестце и области мочевого пузыря. После переваривания пищи, в сумерках, в сезон дождей и в холодное время она обостряется с особой силой.",
+        "text_en": "— Vata, being provoked, produces colic in the region of the heart, the flanks, the back, the sacrum, and the region of the bladder. After the digestion of food, at twilight, in the rainy season, and in cold weather, it becomes aggravated with particular force."
       },
       {
         "type": "verse",
@@ -6213,7 +6239,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मुहुर्मुहुश्चोपशमप्रकोपी विड्वातसंस्तम्भनतोदभेदैः संस्वेदनाभ्यञ्जनमर्दनाद्यैः स्निग्धोष्णभोज्यैश्च शमं प्रयाति",
         "iast": "muhurmuhuścopaśamaprakopī viḍvātasaṃstambhanatodabhedaiḥ saṃsvedanābhyañjanamardanādyaiḥ snigdhoṣṇabhojyaiśca śamaṃ prayāti",
         "iast_ru": "мухурмухуш́чопаш́амапракопӣ вид̣ва̄тасам̣стамбханатодабхедаих̣ сам̣сведана̄бхйан̃джанамардана̄дйаих̣ снигдхош̣н̣абходжйаиш́ча ш́амам̣ прайа̄ти",
-        "text": "Она то вновь и вновь обостряется, то стихает. Проявляется задержкой кала и газов, колющей и распирающей болью. Облегчается припарками, масляным умащением, растиранием и прочими процедурами, а также маслянистой горячей пищей."
+        "text": "Она то вновь и вновь обостряется, то стихает. Проявляется задержкой кала и газов, колющей и распирающей болью. Облегчается припарками, масляным умащением, растиранием и прочими процедурами, а также маслянистой горячей пищей.",
+        "text_en": "It becomes aggravated again and again, then subsides. It manifests with retention of stool and flatus, and piercing, distending pain. It is relieved by poultices, oil application, massage, and similar measures, and also by unctuous, hot food."
       },
       {
         "type": "verse",
@@ -6221,7 +6248,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्षारातितीक्ष्णोष्णविदाहितैलनिष्पावपिण्याककुलत्थयूषैः कट्वम्लसौवीरसुराविकारैः क्रोधानलायासरविप्रतापैः",
         "iast": "kṣārātitīkṣṇoṣṇavidāhitailaniṣpāvapiṇyākakulatthayūṣaiḥ kaṭvamlasauvīrasurāvikāraiḥ krodhānalāyāsaravipratāpaiḥ",
         "iast_ru": "кш̣а̄ра̄титӣкш̣н̣ош̣н̣авида̄хитаиланиш̣па̄вапин̣йа̄какулаттхайӯш̣аих̣ кат̣вамласаувӣрасура̄вика̄раих̣ кродха̄нала̄йа̄саравипрата̄паих̣",
-        "text": "От щелочей, чрезмерно острых, горячих и жгучих веществ, масел, нишпавы, пиньяки, похлёбки из кулаттхи, острой и кислой пищи, саувиры, хмельных напитков, гнева, пребывания на солнце, переутомления и зноя —"
+        "text": "От щелочей, чрезмерно острых, горячих и жгучих веществ, масел, нишпавы, пиньяки, похлёбки из кулаттхи, острой и кислой пищи, саувиры, хмельных напитков, гнева, пребывания на солнце, переутомления и зноя —",
+        "text_en": "From alkalis, excessively pungent, hot, and burning substances, oils, nishpava, pinyaka, kulattha soup, pungent and sour food, sauvira, intoxicating drinks, anger, exposure to the sun, overexertion, and heat —"
       },
       {
         "type": "verse",
@@ -6229,7 +6257,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "ग्राम्यातियोगादशनैर्विदग्धैः पित्तं प्रकुप्याशु करोति शूलम् तृण्मोहदाहातिकरं हि नाभ्यां संस्वेदमूर्च्छाभ्रमचोषयुक्तम्",
         "iast": "grāmyātiyogādaśanairvidagdhaiḥ pittaṃ prakupyāśu karoti śūlam tṛṇmohadāhātikaraṃ hi nābhyāṃ saṃsvedamūrcchābhramacoṣayuktam",
         "iast_ru": "гра̄мйа̄тийога̄даш́анаирвидагдхаих̣ питтам̣ пракупйа̄ш́у кароти ш́ӯлам тр̣н̣мохада̄ха̄тикарам̣ хи на̄бхйа̄м̣ сам̣сведамӯрччха̄бхрамачош̣айуктам",
-        "text": "— от избыточного употребления мяса домашних животных и при несварении Питта, быстро возбудившись, вызывает колику. Она порождает сильную жажду, помрачение сознания, жжение в области пупка и сопровождается потливостью, обмороком, головокружением и сосущей болью."
+        "text": "— от избыточного употребления мяса домашних животных и при несварении Питта, быстро возбудившись, вызывает колику. Она порождает сильную жажду, помрачение сознания, жжение в области пупка и сопровождается потливостью, обмороком, головокружением и сосущей болью.",
+        "text_en": "— from excessive consumption of the meat of domestic animals, and in indigestion, Pitta, becoming quickly provoked, causes colic. It produces intense thirst, clouding of consciousness, burning in the region of the navel, and is accompanied by sweating, fainting, dizziness, and a gnawing pain."
       },
       {
         "type": "verse",
@@ -6237,7 +6266,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मध्यन्दिने कुप्यति चार्धरात्रे विदाहकाले जलदात्यये च शीते च शीतैः समुपैति शान्तिं सुस्वादुशीतैरपि भोजनैश्च",
         "iast": "madhyandine kupyati cārdharātre vidāhakāle jaladātyaye ca śīte ca śītaiḥ samupaiti śāntiṃ susvāduśītairapi bhojanaiśca",
         "iast_ru": "мадхйандине купйати ча̄рдхара̄тре вида̄хака̄ле джалада̄тйайе ча ш́ӣте ча ш́ӣтаих̣ самупаити ш́а̄нтим̣ сусва̄душ́ӣтаирапи бходжанаиш́ча",
-        "text": "Обостряется в полдень, в полночь, в стадии видахи (кислого брожения пищи) и по окончании сезона дождей. Утихает от холодного, а также от сладкой прохладной пищи."
+        "text": "Обостряется в полдень, в полночь, в стадии видахи (кислого брожения пищи) и по окончании сезона дождей. Утихает от холодного, а также от сладкой прохладной пищи.",
+        "text_en": "It is aggravated at noon, at midnight, in the stage of vidaha (acid fermentation of food), and at the end of the rainy season. It is pacified by cold things, and also by sweet, cooling food."
       },
       {
         "type": "verse",
@@ -6245,7 +6275,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आनूपवारिजकिलाटपयोविकारैर्मांसेक्षुपिष्टकृशरातिलशष्कुलीभिः अन्यैर्बलासजनकैरपि हेतुभिश्च श्लेष्मा प्रकोपमुपगम्य करोति शूलम्",
         "iast": "ānūpavārijakilāṭapayovikārairmāṃsekṣupiṣṭakṛśarātilaśaṣkulībhiḥ anyairbalāsajanakairapi hetubhiśca śleṣmā prakopamupagamya karoti śūlam",
         "iast_ru": "а̄нӯпава̄риджакила̄т̣апайовика̄раирма̄м̣секш̣упиш̣т̣акр̣ш́ара̄тилаш́аш̣кулӣбхих̣ анйаирбала̄саджанакаирапи хетубхиш́ча ш́леш̣ма̄ пракопамупагамйа кароти ш́ӯлам",
-        "text": "От мяса болотных и водных животных, килаты (творожных сгустков), молочных продуктов, мяса, сахарного тростника, мучных изделий, кришары, кунжутных сладостей, а также иных факторов, возбуждающих Капху, — Шлешма (Капха), придя в возбуждение, вызывает колику."
+        "text": "От мяса болотных и водных животных, килаты (творожных сгустков), молочных продуктов, мяса, сахарного тростника, мучных изделий, кришары, кунжутных сладостей, а также иных факторов, возбуждающих Капху, — Шлешма (Капха), придя в возбуждение, вызывает колику.",
+        "text_en": "From the meat of marsh and aquatic animals, kilata (curdled milk products), dairy products, meat, sugarcane, flour preparations, krishara, sesame sweets, and other factors that provoke Kapha — Shleshma (Kapha), being provoked, causes colic."
       },
       {
         "type": "verse",
@@ -6253,7 +6284,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हृल्लासकाससदनारुचिसंप्रसेकैरामाशये स्तिमितकोष्ठशिरोगुरुत्वैः भुक्ते सदैव हि रुजं कुरुतेऽतिमात्रं सूर्योदयेऽथ शिशिरे कुसुमागमे च",
         "iast": "hṛllāsakāsasadanārucisaṃprasekairāmāśaye stimitakoṣṭhaśirogurutvaiḥ bhukte sadaiva hi rujaṃ kurute'timātraṃ sūryodaye'tha śiśire kusumāgame ca",
         "iast_ru": "хр̣лла̄сака̄сасадана̄ручисам̣прасекаира̄ма̄ш́айе стимитакош̣т̣хаш́ирогурутваих̣ бхукте садаива хи руджам̣ куруте'тима̄трам̣ сӯрйодайе'тха ш́иш́ире кусума̄гаме ча",
-        "text": "С тошнотой, кашлем, упадком сил, отвращением к пище, слюнотечением, ощущением тяжести в области желудка и головы, вялостью кишечника — эта колика всегда усиливает боль после приёма пищи, на восходе солнца, зимой и весной."
+        "text": "С тошнотой, кашлем, упадком сил, отвращением к пище, слюнотечением, ощущением тяжести в области желудка и головы, вялостью кишечника — эта колика всегда усиливает боль после приёма пищи, на восходе солнца, зимой и весной.",
+        "text_en": "With nausea, cough, loss of strength, aversion to food, salivation, a sensation of heaviness in the stomach and head, and sluggishness of the bowels — this colic always intensifies its pain after eating, at sunrise, in winter, and in spring."
       },
       {
         "type": "verse",
@@ -6261,7 +6293,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सर्वेषु दोषेषु च सर्वलिङ्गं विद्याद्भिषक् सर्वभवं हि शूलम् सुकष्टमेनं विषवज्रकल्पं विवर्जनीयं प्रवदन्ति तज्ज्ञाः",
         "iast": "sarveṣu doṣeṣu ca sarvaliṅgaṃ vidyādbhiṣak sarvabhavaṃ hi śūlam sukaṣṭamenaṃ viṣavajrakalpaṃ vivarjanīyaṃ pravadanti tajjñāḥ",
         "iast_ru": "сарвеш̣у дош̣еш̣у ча сарвалин̇гам̣ видйа̄дбхиш̣ак сарвабхавам̣ хи ш́ӯлам сукаш̣т̣аменам̣ виш̣аваджракалпам̣ виварджанӣйам̣ праваданти таджджн̃а̄х̣",
-        "text": "При возбуждении всех Дош врач должен распознавать колику, происходящую от всех Дош, по совокупности всех признаков. Знатоки говорят, что такая колика крайне мучительна, подобна яду и удару молнии, и лечение её следует отвергнуть как бесперспективное."
+        "text": "При возбуждении всех Дош врач должен распознавать колику, происходящую от всех Дош, по совокупности всех признаков. Знатоки говорят, что такая колика крайне мучительна, подобна яду и удару молнии, и лечение её следует отвергнуть как бесперспективное.",
+        "text_en": "When all the doshas are provoked, the physician should recognize colic arising from all the doshas by the totality of all the signs. The learned say that such colic is extremely agonizing, like poison and like a stroke of lightning, and its treatment should be rejected as hopeless."
       },
       {
         "type": "verse",
@@ -6269,7 +6302,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आटोपहृल्लासवमी गुरुत्वस्तैमित्यकानाह कफप्रसेकैः कफस्य लिङ्गेन समानलिङ्गमामोद्भवं शूलमुदाहरन्ति",
         "iast": "āṭopahṛllāsavamī gurutvastaimityakānāha kaphaprasekaiḥ kaphasya liṅgena samānaliṅgamāmodbhavaṃ śūlamudāharanti",
         "iast_ru": "а̄т̣опахр̣лла̄савамӣ гурутвастаимитйака̄на̄ха капхапрасекаих̣ капхасйа лин̇гена сама̄налин̇гама̄модбхавам̣ ш́ӯламуда̄харанти",
-        "text": "С вздутием, тошнотой, рвотой, тяжестью, вялостью, вспучиванием живота и избыточным слюноотделением — имеющую признаки, сходные с признаками Капхи, колику называют происходящей от Амы (непереваренных веществ)."
+        "text": "С вздутием, тошнотой, рвотой, тяжестью, вялостью, вспучиванием живота и избыточным слюноотделением — имеющую признаки, сходные с признаками Капхи, колику называют происходящей от Амы (непереваренных веществ).",
+        "text_en": "With distension, nausea, vomiting, heaviness, sluggishness, bloating of the abdomen, and excessive salivation — having signs resembling those of Kapha, this colic is called that arising from Ama (undigested matter)."
       },
       {
         "type": "verse",
@@ -6277,7 +6311,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "बस्तौ हृत्पार्श्वपृष्ठेषु स शूलः कफवातिकः कुक्षौ हृन्नाभिमध्येषु स शूलः कफपैत्तिकः",
         "iast": "bastau hṛtpārśvapṛṣṭheṣu sa śūlaḥ kaphavātikaḥ kukṣau hṛnnābhimadhyeṣu sa śūlaḥ kaphapaittikaḥ",
         "iast_ru": "бастау хр̣тпа̄рш́вапр̣ш̣т̣хеш̣у са ш́ӯлах̣ капхава̄тиках̣ кукш̣ау хр̣нна̄бхимадхйеш̣у са ш́ӯлах̣ капхапаиттиках̣",
-        "text": "В области мочевого пузыря, сердца, боков и спины — такая колика именуется Капха-Ватической. В области живота, сердца и пупка — такая колика именуется Капха-Паиттической."
+        "text": "В области мочевого пузыря, сердца, боков и спины — такая колика именуется Капха-Ватической. В области живота, сердца и пупка — такая колика именуется Капха-Паиттической.",
+        "text_en": "In the region of the bladder, heart, flanks, and back — such colic is called Kapha-Vataja. In the region of the abdomen, heart, and navel — such colic is called Kapha-Paittika."
       },
       {
         "type": "verse",
@@ -6285,7 +6320,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दाहज्वरकरो घोरो विज्ञेयो वातपैत्तिकः एकदोषोत्थितः साध्यः कृच्छ्रसाध्यो द्विदोषजः",
         "iast": "dāhajvarakaro ghoro vijñeyo vātapaittikaḥ ekadoṣotthitaḥ sādhyaḥ kṛcchrasādhyo dvidoṣajaḥ",
         "iast_ru": "да̄хаджваракаро гхоро виджн̃ейо ва̄тапаиттиках̣ екадош̣оттхитах̣ са̄дхйах̣ кр̣ччхраса̄дхйо двидош̣аджах̣",
-        "text": "Вызывающая жжение и лихорадку, грозная — колика распознаётся как Вата-Паиттическая. Колика, порождённая одной Дошей, излечима; порождённая двумя Дошами — излечима с трудом."
+        "text": "Вызывающая жжение и лихорадку, грозная — колика распознаётся как Вата-Паиттическая. Колика, порождённая одной Дошей, излечима; порождённая двумя Дошами — излечима с трудом.",
+        "text_en": "Causing burning and fever, and formidable — this colic is recognized as Vata-Paittika. Colic produced by a single dosha is curable; that produced by two doshas is curable with difficulty."
       },
       {
         "type": "verse",
@@ -6293,7 +6329,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सर्वदोषोत्थितो घोरस्त्वसाध्यो भूर्युपद्र वः स्वैर्निदानैः प्रकुपितो वायुः संनिहितस्तदा",
         "iast": "sarvadoṣotthito ghorastvasādhyo bhūryupadra vaḥ svairnidānaiḥ prakupito vāyuḥ saṃnihitastadā",
         "iast_ru": "сарвадош̣оттхито гхорастваса̄дхйо бхӯрйупадра вах̣ сваирнида̄наих̣ пракупито ва̄йух̣ сам̣нихитастада̄",
-        "text": "Порождённая всеми тремя Дошами — грозная, неизлечимая, со множеством осложнений. Вата, возбуждённый своими причинами и ставший приближённым к месту болезни, —"
+        "text": "Порождённая всеми тремя Дошами — грозная, неизлечимая, со множеством осложнений. Вата, возбуждённый своими причинами и ставший приближённым к месту болезни, —",
+        "text_en": "That produced by all three doshas is formidable, incurable, and attended by numerous complications. Vata, provoked by its own causes and having become established near the seat of the disease —"
       },
       {
         "type": "verse",
@@ -6301,7 +6338,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कफपित्ते समावृत्य शूलकारी भवेद्वली भुक्ते जीर्यति यच्छूलं तदेव परिणामजम्",
         "iast": "kaphapitte samāvṛtya śūlakārī bhavedvalī bhukte jīryati yacchūlaṃ tadeva pariṇāmajam",
         "iast_ru": "капхапитте сама̄вр̣тйа ш́ӯлака̄рӣ бхаведвалӣ бхукте джӣрйати йаччхӯлам̣ тадева парин̣а̄маджам",
-        "text": "— обволакивая Капху и Питту, становится причиной колики. Колика, возникающая во время переваривания съеденной пищи, именуется Паринама-шулой (коликой переваривания)."
+        "text": "— обволакивая Капху и Питту, становится причиной колики. Колика, возникающая во время переваривания съеденной пищи, именуется Паринама-шулой (коликой переваривания).",
+        "text_en": "— enveloping Kapha and Pitta, becomes the cause of colic. The colic that arises during the digestion of food that has been eaten is called Parinama-shula (colic of digestion)."
       },
       {
         "type": "verse",
@@ -6309,7 +6347,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तस्य लक्षणमप्येतत्समासेनाभिधीयते आध्मानाटोपविण्मूत्रविबन्धारतिवेपनैः",
         "iast": "tasya lakṣaṇamapyetatsamāsenābhidhīyate ādhmānāṭopaviṇmūtravibandhārativepanaiḥ",
         "iast_ru": "тасйа лакш̣ан̣амапйетатсама̄сена̄бхидхӣйате а̄дхма̄на̄т̣опавин̣мӯтравибандха̄ративепанаих̣",
-        "text": "Её признаки вкратце излагаются следующим образом: вздутие, урчание в животе, задержка кала и мочи, беспокойство, дрожь."
+        "text": "Её признаки вкратце излагаются следующим образом: вздутие, урчание в животе, задержка кала и мочи, беспокойство, дрожь.",
+        "text_en": "Its signs are briefly set forth as follows: distension, rumbling in the abdomen, retention of stool and urine, restlessness, and trembling."
       },
       {
         "type": "verse",
@@ -6317,7 +6356,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्निग्धोष्णोपशमप्रायं वातिकं तद्वदेद्भिषक् तृष्णादाहारतिस्वेदं कट्वम्लवणोत्तरम्",
         "iast": "snigdhoṣṇopaśamaprāyaṃ vātikaṃ tadvadedbhiṣak tṛṣṇādāhāratisvedaṃ kaṭvamlavaṇottaram",
         "iast_ru": "снигдхош̣н̣опаш́амапра̄йам̣ ва̄тикам̣ тадвадедбхиш̣ак тр̣ш̣н̣а̄да̄ха̄ратисведам̣ кат̣вамлаван̣оттарам",
-        "text": "Если колика облегчается преимущественно маслянистыми и горячими средствами, врач должен определить её как Ватическую. Если же она сопровождается жаждой, жжением, беспокойством, потливостью и усиливается от острого, кислого и солёного —"
+        "text": "Если колика облегчается преимущественно маслянистыми и горячими средствами, врач должен определить её как Ватическую. Если же она сопровождается жаждой, жжением, беспокойством, потливостью и усиливается от острого, кислого и солёного —",
+        "text_en": "If the colic is relieved chiefly by unctuous and hot remedies, the physician should determine it as Vataja. But if it is accompanied by thirst, burning, restlessness, and sweating, and is intensified by pungent, sour, and salty foods —"
       },
       {
         "type": "verse",
@@ -6325,7 +6365,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शूलं शीतशमप्रायं पैत्तिकं लक्षयेद् बुधः छर्दिहृल्लाससंमोहं स्वल्परुग्दीर्घसन्तति",
         "iast": "śūlaṃ śītaśamaprāyaṃ paittikaṃ lakṣayed budhaḥ chardihṛllāsasaṃmohaṃ svalparugdīrghasantati",
         "iast_ru": "ш́ӯлам̣ ш́ӣташ́амапра̄йам̣ паиттикам̣ лакш̣айед будхах̣ чхардихр̣лла̄сасам̣мохам̣ свалпаругдӣргхасантати",
-        "text": "— и облегчается преимущественно холодными средствами, мудрый врач должен распознать её как Паиттическую. Если же она сопровождается рвотой, тошнотой, помрачением, слабой, но длительной болью —"
+        "text": "— и облегчается преимущественно холодными средствами, мудрый врач должен распознать её как Паиттическую. Если же она сопровождается рвотой, тошнотой, помрачением, слабой, но длительной болью —",
+        "text_en": "— and is relieved chiefly by cold remedies, the wise physician should recognize it as Paittika. But if it is accompanied by vomiting, nausea, mental clouding, and a mild but prolonged pain —"
       },
       {
         "type": "verse",
@@ -6333,7 +6374,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कटुतिक्तोपशान्तं च तच्च ज्ञेयं कफात्मकम् संसृष्टलक्षणं बुद्ध्वा द्विदोषं परिकल्पयेत्",
         "iast": "kaṭutiktopaśāntaṃ ca tacca jñeyaṃ kaphātmakam saṃsṛṣṭalakṣaṇaṃ buddhvā dvidoṣaṃ parikalpayet",
         "iast_ru": "кат̣утиктопаш́а̄нтам̣ ча тачча джн̃ейам̣ капха̄тмакам сам̣ср̣ш̣т̣алакш̣ан̣ам̣ буддхва̄ двидош̣ам̣ парикалпайет",
-        "text": "— и утихает от острого и горького, её следует считать Капхической. Распознав смешанные признаки, следует определить колику как двудошную."
+        "text": "— и утихает от острого и горького, её следует считать Капхической. Распознав смешанные признаки, следует определить колику как двудошную.",
+        "text_en": "— and subsides with pungent and bitter substances, it should be considered Kaphaja. Having recognized mixed signs, one should determine the colic as caused by two doshas."
       },
       {
         "type": "verse",
@@ -6341,7 +6383,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "त्रिदोषजमसाध्यं तु क्षीणमांसबलानलम् जीर्णे जीर्यत्यजीर्णे वा यच्छूलमुपजायते",
         "iast": "tridoṣajamasādhyaṃ tu kṣīṇamāṃsabalānalam jīrṇe jīryatyajīrṇe vā yacchūlamupajāyate",
         "iast_ru": "тридош̣аджамаса̄дхйам̣ ту кш̣ӣн̣ама̄м̣сабала̄налам джӣрн̣е джӣрйатйаджӣрн̣е ва̄ йаччхӯламупаджа̄йате",
-        "text": "Тридошная же колика неизлечима, возникает при истощении плоти, сил и пищеварительного огня. Колика, возникающая независимо от того, переварена пища, переваривается или ещё не переварена, —"
+        "text": "Тридошная же колика неизлечима, возникает при истощении плоти, сил и пищеварительного огня. Колика, возникающая независимо от того, переварена пища, переваривается или ещё не переварена, —",
+        "text_en": "Tridoshic colic, however, is incurable, arising with depletion of flesh, strength, and digestive fire. The colic that arises regardless of whether food is digested, being digested, or not yet digested —"
       },
       {
         "type": "verse",
@@ -6349,7 +6392,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पथ्यापथ्यप्रयोगेण भोजनाभोजनेन च न शमं याति नियमात्सोऽन्नद्र व उदाहृतः",
         "iast": "pathyāpathyaprayogeṇa bhojanābhojanena ca na śamaṃ yāti niyamātso'nnadra va udāhṛtaḥ",
         "iast_ru": "патхйа̄патхйапрайоген̣а бходжана̄бходжанена ча на ш́амам̣ йа̄ти нийама̄тсо'ннадра ва уда̄хр̣тах̣",
-        "text": "— не утихающая ни от применения полезной или вредной пищи, ни от еды или воздержания от неё, — та неизменно именуется Аннадрава-шулой (коликой пищевой жидкости)."
+        "text": "— не утихающая ни от применения полезной или вредной пищи, ни от еды или воздержания от неё, — та неизменно именуется Аннадрава-шулой (коликой пищевой жидкости).",
+        "text_en": "— which does not subside from the use of either wholesome or unwholesome food, nor from eating or abstaining from it, is invariably called Annadrava-shula (colic of food-liquid)."
       },
       {
         "type": "verse",
@@ -6357,7 +6401,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अन्नद्र वाख्यशूलेषु न तावत्स्वास्थ्यमश्नुते वान्तमात्रे जरत्पित्तं शूलमाशु व्यपोहति २२-",
         "iast": "annadra vākhyaśūleṣu na tāvatsvāsthyamaśnute vāntamātre jaratpittaṃ śūlamāśu vyapohati 22-",
         "iast_ru": "аннадра ва̄кхйаш́ӯлеш̣у на та̄ватсва̄стхйамаш́нуте ва̄нтама̄тре джаратпиттам̣ ш́ӯлама̄ш́у вйапохати 22-",
-        "text": "При Аннадрава-шуле здоровье не восстанавливается легко. Лишь после рвоты застарелая Питта быстро устраняет колику. (22)"
+        "text": "При Аннадрава-шуле здоровье не восстанавливается легко. Лишь после рвоты застарелая Питта быстро устраняет колику. (22)",
+        "text_en": "In Annadrava-shula, health is not easily restored. Only after vomiting does chronic Pitta quickly remove the colic. (22)"
       },
       {
         "type": "comment",
@@ -6384,7 +6429,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथोदावर्त्तानाहनिदानम् वातविण्मूत्रजृम्भाश्रु क्षवोद्गारवमीन्द्रि यैः क्षुत्तृष्णोच्छ्वासनिद्राणां धृत्योदावर्तसंभवः",
         "iast": "athodāvarttānāhanidānam vātaviṇmūtrajṛmbhāśru kṣavodgāravamīndri yaiḥ kṣuttṛṣṇocchvāsanidrāṇāṃ dhṛtyodāvartasaṃbhavaḥ",
         "iast_ru": "атхода̄вартта̄на̄ханида̄нам ва̄тавин̣мӯтраджр̣мбха̄ш́ру кш̣аводга̄равамӣндри йаих̣ кш̣уттр̣ш̣н̣оччхва̄санидра̄н̣а̄м̣ дхр̣тйода̄вартасам̣бхавах̣",
-        "text": "Далее — распознавание Удаварты (обратной перистальтики) и Анахи (вздутия с задержкой газов). Удаварта возникает от подавления естественных позывов: отхождения газов, дефекации, мочеиспускания, зевоты, слёз, чихания, отрыжки, рвоты, чувственных побуждений, голода, жажды, дыхания и сна."
+        "text": "Далее — распознавание Удаварты (обратной перистальтики) и Анахи (вздутия с задержкой газов). Удаварта возникает от подавления естественных позывов: отхождения газов, дефекации, мочеиспускания, зевоты, слёз, чихания, отрыжки, рвоты, чувственных побуждений, голода, жажды, дыхания и сна.",
+        "text_en": "Next, the diagnosis of Udavarta (reverse peristalsis) and Anaha (distension with retention of gas). Udavarta arises from suppressing the natural urges: passing flatus, defecation, urination, yawning, tears, sneezing, belching, vomiting, sexual impulses, hunger, thirst, breathing, and sleep."
       },
       {
         "type": "comment",
@@ -6397,7 +6443,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातमूत्रपुरीषाणां सङ्गो ध्मानं क्लमो रुजा जठरे वातजाश्चान्ये रोगाः स्युर्वातनिग्रहात्",
         "iast": "vātamūtrapurīṣāṇāṃ saṅgo dhmānaṃ klamo rujā jaṭhare vātajāścānye rogāḥ syurvātanigrahāt",
         "iast_ru": "ва̄тамӯтрапурӣш̣а̄н̣а̄м̣ сан̇го дхма̄нам̣ кламо руджа̄ джат̣харе ва̄таджа̄ш́ча̄нйе рога̄х̣ сйурва̄таниграха̄т",
-        "text": "От подавления позыва к отхождению газов возникают: задержка газов, мочи и кала, вздутие живота, утомление, боль в животе, а также прочие расстройства, порождённые Ватой."
+        "text": "От подавления позыва к отхождению газов возникают: задержка газов, мочи и кала, вздутие живота, утомление, боль в животе, а также прочие расстройства, порождённые Ватой.",
+        "text_en": "From suppressing the urge to pass flatus arise: retention of gas, urine, and stool, distension of the abdomen, fatigue, abdominal pain, and other disorders produced by Vata."
       },
       {
         "type": "verse",
@@ -6405,7 +6452,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आटोपशूलौ परिकर्तिका च सङ्गः पुरीषस्य तथोर्ध्ववातः पुरीषमास्यादथवा निरेति पुरीषवेगेऽभिहते नरस्य",
         "iast": "āṭopaśūlau parikartikā ca saṅgaḥ purīṣasya tathordhvavātaḥ purīṣamāsyādathavā nireti purīṣavege'bhihate narasya",
         "iast_ru": "а̄т̣опаш́ӯлау парикартика̄ ча сан̇гах̣ пурӣш̣асйа татхордхвава̄тах̣ пурӣш̣ама̄сйа̄датхава̄ нирети пурӣш̣авеге'бхихате нарасйа",
-        "text": "При подавлении позыва к дефекации у человека возникают: урчание в животе, колика, режущая боль в заднем проходе, задержка кала, восходящее движение газов, а также выход каловых масс через рот."
+        "text": "При подавлении позыва к дефекации у человека возникают: урчание в животе, колика, режущая боль в заднем проходе, задержка кала, восходящее движение газов, а также выход каловых масс через рот.",
+        "text_en": "When the urge to defecate is suppressed, a person develops: rumbling in the abdomen, colic, cutting pain in the anus, retention of stool, an upward movement of gas, and the passage of fecal matter through the mouth."
       },
       {
         "type": "verse",
@@ -6413,7 +6461,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "बस्तिमेहनयोः शूलं मूत्रकृच्छ्रं शिरोरुजा विनामो वङ्क्षणानाहः स्याल्लिङ्गं मूत्रनिग्रहे",
         "iast": "bastimehanayoḥ śūlaṃ mūtrakṛcchraṃ śirorujā vināmo vaṅkṣaṇānāhaḥ syālliṅgaṃ mūtranigrahe",
         "iast_ru": "бастимеханайох̣ ш́ӯлам̣ мӯтракр̣ччхрам̣ ш́ироруджа̄ вина̄мо ван̇кш̣ан̣а̄на̄хах̣ сйа̄ллин̇гам̣ мӯтраниграхе",
-        "text": "Признаки подавления позыва к мочеиспусканию: боль в мочевом пузыре и половом члене, затруднённое мочеиспускание, головная боль, вынужденное сгибание тела, вздутие в паховой области."
+        "text": "Признаки подавления позыва к мочеиспусканию: боль в мочевом пузыре и половом члене, затруднённое мочеиспускание, головная боль, вынужденное сгибание тела, вздутие в паховой области.",
+        "text_en": "Signs of suppressing the urge to urinate: pain in the bladder and penis, difficulty in urination, headache, forced bending of the body, and distension in the groin region."
       },
       {
         "type": "verse",
@@ -6421,7 +6470,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मन्यागलस्तम्भशिरोविकारा जृम्भोपघातात्पवनात्मकाः स्युः तथाऽक्षिनासावदनामयाश्च भवन्ति तीव्राः सह कर्णरोगैः",
         "iast": "manyāgalastambhaśirovikārā jṛmbhopaghātātpavanātmakāḥ syuḥ tathā'kṣināsāvadanāmayāśca bhavanti tīvrāḥ saha karṇarogaiḥ",
         "iast_ru": "манйа̄галастамбхаш́ировика̄ра̄ джр̣мбхопагха̄та̄тпавана̄тмака̄х̣ сйух̣ татха̄'кш̣ина̄са̄вадана̄майа̄ш́ча бхаванти тӣвра̄х̣ саха карн̣арогаих̣",
-        "text": "От подавления зевоты возникают расстройства Вата-природы: ригидность шеи и горла, заболевания головы, а также тяжёлые болезни глаз, носа и ротовой полости наряду с заболеваниями ушей."
+        "text": "От подавления зевоты возникают расстройства Вата-природы: ригидность шеи и горла, заболевания головы, а также тяжёлые болезни глаз, носа и ротовой полости наряду с заболеваниями ушей.",
+        "text_en": "From suppressing yawning arise Vata-natured disorders: rigidity of the neck and throat, diseases of the head, as well as severe diseases of the eyes, nose, and oral cavity, along with diseases of the ears."
       },
       {
         "type": "verse",
@@ -6429,7 +6479,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आनन्दजं वाऽप्यथ शोकजं वा नेत्रोदकं प्राप्तममुञ्चतो हि शिरोगुरुत्वं नयनामयाश्च भवन्ति तीव्राः सह पीनसेन",
         "iast": "ānandajaṃ vā'pyatha śokajaṃ vā netrodakaṃ prāptamamuñcato hi śirogurutvaṃ nayanāmayāśca bhavanti tīvrāḥ saha pīnasena",
         "iast_ru": "а̄нандаджам̣ ва̄'пйатха ш́окаджам̣ ва̄ нетродакам̣ пра̄птамамун̃чато хи ш́ирогурутвам̣ найана̄майа̄ш́ча бхаванти тӣвра̄х̣ саха пӣнасена",
-        "text": "У того, кто удерживает слёзы — будь то слёзы радости или горя, — возникают тяжесть в голове, тяжёлые заболевания глаз и насморк."
+        "text": "У того, кто удерживает слёзы — будь то слёзы радости или горя, — возникают тяжесть в голове, тяжёлые заболевания глаз и насморк.",
+        "text_en": "In one who holds back tears — whether tears of joy or of sorrow — there arise heaviness in the head, severe eye diseases, and coryza."
       },
       {
         "type": "verse",
@@ -6437,7 +6488,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मन्यास्तम्भः शिरःशूलमर्दितार्धावभेदकौ इन्द्रि याणां च दौर्बल्यं क्षवथोः स्याद्विधारणात्",
         "iast": "manyāstambhaḥ śiraḥśūlamarditārdhāvabhedakau indri yāṇāṃ ca daurbalyaṃ kṣavathoḥ syādvidhāraṇāt",
         "iast_ru": "манйа̄стамбхах̣ ш́ирах̣ш́ӯламардита̄рдха̄вабхедакау индри йа̄н̣а̄м̣ ча даурбалйам̣ кш̣аватхох̣ сйа̄двидха̄ран̣а̄т",
-        "text": "От подавления чихания возникают: ригидность шеи, головная боль, паралич лицевых мышц, гемикрания и ослабление органов чувств."
+        "text": "От подавления чихания возникают: ригидность шеи, головная боль, паралич лицевых мышц, гемикрания и ослабление органов чувств.",
+        "text_en": "From suppressing sneezing arise: rigidity of the neck, headache, paralysis of the facial muscles, hemicrania, and weakening of the sense organs."
       },
       {
         "type": "verse",
@@ -6445,7 +6497,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कण्ठास्यपूर्णत्वमतीव तोदः कूजश्च वायोरथवाऽप्रवृत्तिः उद्गारवेगेऽभिहते भवन्ति घोरा विकाराः पवनप्रसूताः",
         "iast": "kaṇṭhāsyapūrṇatvamatīva todaḥ kūjaśca vāyorathavā'pravṛttiḥ udgāravege'bhihate bhavanti ghorā vikārāḥ pavanaprasūtāḥ",
         "iast_ru": "кан̣т̣ха̄сйапӯрн̣атваматӣва тодах̣ кӯджаш́ча ва̄йоратхава̄'правр̣ттих̣ удга̄равеге'бхихате бхаванти гхора̄ вика̄ра̄х̣ паванапрасӯта̄х̣",
-        "text": "При подавлении позыва к отрыжке возникают: ощущение переполнения в горле и во рту, сильная колющая боль, гудение, либо прекращение движения газов — тяжёлые расстройства, порождённые Ватой."
+        "text": "При подавлении позыва к отрыжке возникают: ощущение переполнения в горле и во рту, сильная колющая боль, гудение, либо прекращение движения газов — тяжёлые расстройства, порождённые Ватой.",
+        "text_en": "When the urge to belch is suppressed, there arise: a sensation of fullness in the throat and mouth, severe piercing pain, rumbling, or cessation of the movement of gas — severe disorders produced by Vata."
       },
       {
         "type": "verse",
@@ -6453,7 +6506,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कण्डूकोठारुचिव्यङ्गशोथपाण्ड्वामयज्वराः कुष्ठवीसर्पहृल्लासाश्छर्दिनिग्रहजा गदाः",
         "iast": "kaṇḍūkoṭhārucivyaṅgaśothapāṇḍvāmayajvarāḥ kuṣṭhavīsarpahṛllāsāśchardinigrahajā gadāḥ",
         "iast_ru": "кан̣д̣ӯкот̣ха̄ручивйан̇гаш́отхапа̄н̣д̣ва̄майаджвара̄х̣ куш̣т̣хавӣсарпахр̣лла̄са̄ш́чхардиниграхаджа̄ гада̄х̣",
-        "text": "От подавления рвоты возникают: кожный зуд, крапивница, отвращение к пище, пигментные пятна на лице, отёки, малокровие, лихорадка, кожные болезни, рожистое воспаление и тошнота."
+        "text": "От подавления рвоты возникают: кожный зуд, крапивница, отвращение к пище, пигментные пятна на лице, отёки, малокровие, лихорадка, кожные болезни, рожистое воспаление и тошнота.",
+        "text_en": "From suppressing vomiting arise: skin itching, urticaria, aversion to food, pigmented patches on the face, edema, anemia, fever, skin diseases, erysipelas, and nausea."
       },
       {
         "type": "verse",
@@ -6461,7 +6515,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्राशये वै गुदमुष्कयोश्च शोथो रुजा मूत्रविनिग्रहश्च शुक्राश्मरी तत्स्रवणं भवेच्च ते ते विकारा विहते च शुक्रे",
         "iast": "mūtrāśaye vai gudamuṣkayośca śotho rujā mūtravinigrahaśca śukrāśmarī tatsravaṇaṃ bhavecca te te vikārā vihate ca śukre",
         "iast_ru": "мӯтра̄ш́айе ваи гудамуш̣кайош́ча ш́отхо руджа̄ мӯтравиниграхаш́ча ш́укра̄ш́марӣ татсраван̣ам̣ бхавечча те те вика̄ра̄ вихате ча ш́укре",
-        "text": "От подавления семяизвержения возникают: отёк мочевого пузыря, прямой кишки и мошонки, боль, задержка мочи, семенные конкременты и непроизвольное истечение семени."
+        "text": "От подавления семяизвержения возникают: отёк мочевого пузыря, прямой кишки и мошонки, боль, задержка мочи, семенные конкременты и непроизвольное истечение семени.",
+        "text_en": "From suppressing ejaculation arise: swelling of the bladder, rectum, and scrotum, pain, retention of urine, seminal calculi, and involuntary emission of semen."
       },
       {
         "type": "verse",
@@ -6469,7 +6524,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तन्द्रा ऽङ्गमर्दावरुचिः श्रमश्च क्षुधाभिघातात्कृशता च दृष्टेः कण्ठास्यशोषः श्रवणावरोधस्तृष्णाविघाताद्धृदये व्यथा च",
         "iast": "tandrā 'ṅgamardāvaruciḥ śramaśca kṣudhābhighātātkṛśatā ca dṛṣṭeḥ kaṇṭhāsyaśoṣaḥ śravaṇāvarodhastṛṣṇāvighātāddhṛdaye vyathā ca",
         "iast_ru": "тандра̄ 'н̇гамарда̄варучих̣ ш́рамаш́ча кш̣удха̄бхигха̄та̄ткр̣ш́ата̄ ча др̣ш̣т̣ех̣ кан̣т̣ха̄сйаш́ош̣ах̣ ш́раван̣а̄вародхастр̣ш̣н̣а̄вигха̄та̄ддхр̣дайе вйатха̄ ча",
-        "text": "От подавления голода возникают: сонливость, ломота во всём теле, отвращение к пище, утомление, исхудание и ослабление зрения. От подавления жажды — сухость в горле и во рту, нарушение слуха и боль в области сердца."
+        "text": "От подавления голода возникают: сонливость, ломота во всём теле, отвращение к пище, утомление, исхудание и ослабление зрения. От подавления жажды — сухость в горле и во рту, нарушение слуха и боль в области сердца.",
+        "text_en": "From suppressing hunger arise: drowsiness, aching of the whole body, aversion to food, fatigue, emaciation, and weakening of vision. From suppressing thirst — dryness of the throat and mouth, impairment of hearing, and pain in the region of the heart."
       },
       {
         "type": "comment",
@@ -6482,7 +6538,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्रान्तस्य निःश्वासविनिग्रहेण हृद्रो गमोहावथवाऽपि गुल्मः जृम्भाऽङ्गमर्दोऽक्षिशिरोऽतिजाड्यं निद्रा भिघातादथवाऽपि तन्द्रा",
         "iast": "śrāntasya niḥśvāsavinigraheṇa hṛdro gamohāvathavā'pi gulmaḥ jṛmbhā'ṅgamardo'kṣiśiro'tijāḍyaṃ nidrā bhighātādathavā'pi tandrā",
         "iast_ru": "ш́ра̄нтасйа них̣ш́ва̄савиниграхен̣а хр̣дро гамоха̄ватхава̄'пи гулмах̣ джр̣мбха̄'н̇гамардо'кш̣иш́иро'тиджа̄д̣йам̣ нидра̄ бхигха̄та̄датхава̄'пи тандра̄",
-        "text": "У утомлённого человека от подавления дыхания возникают: болезнь сердца, помрачение сознания или опухолевое образование в брюшной полости. От подавления сна — зевота, ломота в теле, тупость глаз и головы, а также сонливость."
+        "text": "У утомлённого человека от подавления дыхания возникают: болезнь сердца, помрачение сознания или опухолевое образование в брюшной полости. От подавления сна — зевота, ломота в теле, тупость глаз и головы, а также сонливость.",
+        "text_en": "In an exhausted person, suppression of breath produces: heart disease, clouding of consciousness, or a tumorous formation in the abdominal cavity. From suppression of sleep — yawning, aching of the body, dullness of the eyes and head, and also drowsiness."
       },
       {
         "type": "verse",
@@ -6490,7 +6547,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वायुः कोष्ठानुगो रूक्षः कषायकटुतिक्तकैः भोजनैः कुपितः सद्य उदावर्तं करोति हि",
         "iast": "vāyuḥ koṣṭhānugo rūkṣaḥ kaṣāyakaṭutiktakaiḥ bhojanaiḥ kupitaḥ sadya udāvartaṃ karoti hi",
         "iast_ru": "ва̄йух̣ кош̣т̣ха̄нуго рӯкш̣ах̣ каш̣а̄йакат̣утиктакаих̣ бходжанаих̣ купитах̣ садйа уда̄вартам̣ кароти хи",
-        "text": "Вата, пребывающая в брюшной полости, будучи сухой по природе, немедленно порождает Удаварту при возбуждении пищей вяжущего, острого и горького вкусов."
+        "text": "Вата, пребывающая в брюшной полости, будучи сухой по природе, немедленно порождает Удаварту при возбуждении пищей вяжущего, острого и горького вкусов.",
+        "text_en": "Vata, residing in the abdominal cavity, being dry by nature, immediately produces Udavarta when provoked by food of astringent, pungent, and bitter tastes."
       },
       {
         "type": "comment",
@@ -6503,7 +6561,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातमूत्रपुरीषासृक्कफ मेदोवहानि वै स्रोतांस्युदावर्तयति पुरीषं चातिवर्तयेत्",
         "iast": "vātamūtrapurīṣāsṛkkapha medovahāni vai srotāṃsyudāvartayati purīṣaṃ cātivartayet",
         "iast_ru": "ва̄тамӯтрапурӣш̣а̄ср̣ккапха медоваха̄ни ваи срота̄м̣сйуда̄вартайати пурӣш̣ам̣ ча̄тивартайет",
-        "text": "Она обращает вспять каналы, несущие Вату, мочу, кал, кровь, Капху и жир, а также вызывает чрезмерное отхождение каловых масс."
+        "text": "Она обращает вспять каналы, несущие Вату, мочу, кал, кровь, Капху и жир, а также вызывает чрезмерное отхождение каловых масс.",
+        "text_en": "It reverses the channels that carry Vata, urine, stool, blood, Kapha, and fat, and also causes excessive passage of fecal matter."
       },
       {
         "type": "verse",
@@ -6511,7 +6570,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "ततो हृद्बस्तिशूलार्तो हृल्लासारतिपीडितः वातमूत्रपुरीषाणि कृच्छ्रेण लभते नरः",
         "iast": "tato hṛdbastiśūlārto hṛllāsāratipīḍitaḥ vātamūtrapurīṣāṇi kṛcchreṇa labhate naraḥ",
         "iast_ru": "тато хр̣дбастиш́ӯла̄рто хр̣лла̄са̄ратипӣд̣итах̣ ва̄тамӯтрапурӣш̣а̄н̣и кр̣ччхрен̣а лабхате нарах̣",
-        "text": "Вследствие этого человек страдает от колики в области сердца и мочевого пузыря, мучим тошнотой и беспокойством; газы, мочу и кал он отводит лишь с великим трудом."
+        "text": "Вследствие этого человек страдает от колики в области сердца и мочевого пузыря, мучим тошнотой и беспокойством; газы, мочу и кал он отводит лишь с великим трудом.",
+        "text_en": "As a result, a person suffers from colic in the region of the heart and bladder, is tormented by nausea and restlessness; he passes gas, urine, and stool only with great difficulty."
       },
       {
         "type": "verse",
@@ -6519,7 +6579,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्वासकास प्रतिश्याय दाहमोहतृषाज्वरान् वमिहिक्काशिरोरोगमनः श्रवणविभ्रमान् बहूनन्यांश्च लभते विकारान् वातकोपजान्",
         "iast": "śvāsakāsa pratiśyāya dāhamohatṛṣājvarān vamihikkāśirorogamanaḥ śravaṇavibhramān bahūnanyāṃśca labhate vikārān vātakopajān",
         "iast_ru": "ш́ва̄сака̄са пратиш́йа̄йа да̄хамохатр̣ш̣а̄джвара̄н вамихикка̄ш́иророгаманах̣ ш́раван̣авибхрама̄н бахӯнанйа̄м̣ш́ча лабхате вика̄ра̄н ва̄такопаджа̄н",
-        "text": "Он получает одышку, кашель, насморк, жжение, помрачение сознания, жажду, лихорадку, рвоту, икоту, болезни головы, расстройства ума и слуха, а также множество иных заболеваний, порождённых возбуждением Ваты."
+        "text": "Он получает одышку, кашель, насморк, жжение, помрачение сознания, жажду, лихорадку, рвоту, икоту, болезни головы, расстройства ума и слуха, а также множество иных заболеваний, порождённых возбуждением Ваты.",
+        "text_en": "He develops dyspnea, cough, coryza, burning, clouding of consciousness, thirst, fever, vomiting, hiccup, diseases of the head, disturbances of mind and hearing, and many other diseases produced by the provocation of Vata."
       },
       {
         "type": "verse",
@@ -6527,7 +6588,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आमं शकृद्वा निचितं क्रमेण भूयो विबद्धं विगुणानिलेन प्रवर्तमानं न यथास्वमेनं विकारमानाहमुदाहरन्ति",
         "iast": "āmaṃ śakṛdvā nicitaṃ krameṇa bhūyo vibaddhaṃ viguṇānilena pravartamānaṃ na yathāsvamenaṃ vikāramānāhamudāharanti",
         "iast_ru": "а̄мам̣ ш́акр̣два̄ ничитам̣ крамен̣а бхӯйо вибаддхам̣ вигун̣а̄нилена правартама̄нам̣ на йатха̄сваменам̣ вика̄рама̄на̄хамуда̄харанти",
-        "text": "Непереваренные или постепенно скопившиеся каловые массы, дополнительно заблокированные расстроенной Ватой и не отходящие естественным путём, — это состояние именуется Анахой."
+        "text": "Непереваренные или постепенно скопившиеся каловые массы, дополнительно заблокированные расстроенной Ватой и не отходящие естественным путём, — это состояние именуется Анахой.",
+        "text_en": "Undigested or gradually accumulated fecal matter, additionally blocked by disturbed Vata and not passing by the natural route — this condition is called Anaha."
       },
       {
         "type": "comment",
@@ -6540,7 +6602,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तस्मिन् भवन्त्यामसमुद्भवे तु तृष्णाप्रतिश्यायशिरोविदाहाः आमाशये शूलमथो गुरुत्वं हृत्स्तम्भ उद्गारविघातनं च",
         "iast": "tasmin bhavantyāmasamudbhave tu tṛṣṇāpratiśyāyaśirovidāhāḥ āmāśaye śūlamatho gurutvaṃ hṛtstambha udgāravighātanaṃ ca",
         "iast_ru": "тасмин бхавантйа̄масамудбхаве ту тр̣ш̣н̣а̄пратиш́йа̄йаш́ировида̄ха̄х̣ а̄ма̄ш́айе ш́ӯламатхо гурутвам̣ хр̣тстамбха удга̄равигха̄танам̣ ча",
-        "text": "При Анахе, вызванной амой (непереваренными веществами), возникают: жажда, насморк, жжение в голове, колика в области желудка, тяжесть, ригидность в области сердца и подавление отрыжки."
+        "text": "При Анахе, вызванной амой (непереваренными веществами), возникают: жажда, насморк, жжение в голове, колика в области желудка, тяжесть, ригидность в области сердца и подавление отрыжки.",
+        "text_en": "In Anaha caused by Ama (undigested matter), there arise: thirst, coryza, burning in the head, colic in the region of the stomach, heaviness, rigidity in the region of the heart, and suppression of belching."
       },
       {
         "type": "comment",
@@ -6553,7 +6616,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्तम्भः कटीपृष्ठपुरीषमूत्रे शूलोऽथ मूर्च्छा शकृतश्च छर्दिः श्वासश्च पक्वाशयजे भवन्ति तथाऽलसोक्तानि च लक्षणानि",
         "iast": "stambhaḥ kaṭīpṛṣṭhapurīṣamūtre śūlo'tha mūrcchā śakṛtaśca chardiḥ śvāsaśca pakvāśayaje bhavanti tathā'lasoktāni ca lakṣaṇāni",
         "iast_ru": "стамбхах̣ кат̣ӣпр̣ш̣т̣хапурӣш̣амӯтре ш́ӯло'тха мӯрччха̄ ш́акр̣таш́ча чхардих̣ ш́ва̄саш́ча паква̄ш́айадже бхаванти татха̄'ласокта̄ни ча лакш̣ан̣а̄ни",
-        "text": "При Анахе, исходящей из толстого кишечника, возникают: ригидность поясницы и спины, задержка кала и мочи, колика, обморок, каловая рвота, одышка, а также признаки, описанные при аласаке (кишечной атонии)."
+        "text": "При Анахе, исходящей из толстого кишечника, возникают: ригидность поясницы и спины, задержка кала и мочи, колика, обморок, каловая рвота, одышка, а также признаки, описанные при аласаке (кишечной атонии).",
+        "text_en": "In Anaha originating from the large intestine, there arise: rigidity of the loins and back, retention of stool and urine, colic, fainting, fecal vomiting, dyspnea, and the signs described under alasaka (intestinal atony)."
       },
       {
         "type": "comment",
@@ -6566,7 +6630,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तृष्णार्दितं परिक्लिष्टं क्षीणं शूलैरभिद्रुतम् शकृद्वमन्तं मतिमानुदावर्तिनमुत्सृजेत्",
         "iast": "tṛṣṇārditaṃ parikliṣṭaṃ kṣīṇaṃ śūlairabhidrutam śakṛdvamantaṃ matimānudāvartinamutsṛjet",
         "iast_ru": "тр̣ш̣н̣а̄рдитам̣ париклиш̣т̣ам̣ кш̣ӣн̣ам̣ ш́ӯлаирабхидрутам ш́акр̣двамантам̣ матима̄нуда̄вартинамутср̣джет",
-        "text": "Мудрый врач должен признать неизлечимым больного Удавартой, который мучим жаждой, изнурён страданием, истощён, охвачен коликами и извергает каловые массы через рот."
+        "text": "Мудрый врач должен признать неизлечимым больного Удавартой, который мучим жаждой, изнурён страданием, истощён, охвачен коликами и извергает каловые массы через рот.",
+        "text_en": "The wise physician should declare incurable a patient with Udavarta who is tormented by thirst, worn down by suffering, emaciated, seized by colic, and who ejects fecal matter through the mouth."
       }
     ]
   },
@@ -6588,7 +6653,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ गुल्मनिदानम् दुष्टा वातादयोऽत्यर्थं मिथ्याहारविहारतः कुर्वन्ति पञ्चधा गुल्मं कोष्ठान्तर्ग्रन्थिरूपिणम् तस्य पञ्चविधं स्थानं पार्श्वहृन्नाभिवस्तयः",
         "iast": "atha gulmanidānam duṣṭā vātādayo'tyarthaṃ mithyāhāravihārataḥ kurvanti pañcadhā gulmaṃ koṣṭhāntargranthirūpiṇam tasya pañcavidhaṃ sthānaṃ pārśvahṛnnābhivastayaḥ",
         "iast_ru": "атха гулманида̄нам душ̣т̣а̄ ва̄та̄дайо'тйартхам̣ митхйа̄ха̄равиха̄ратах̣ курванти пан̃чадха̄ гулмам̣ кош̣т̣ха̄нтаргрантхирӯпин̣ам тасйа пан̃чавидхам̣ стха̄нам̣ па̄рш́вахр̣нна̄бхивастайах̣",
-        "text": "Итак, распознавание Гулмы. Доши — Вата и прочие, — чрезмерно испорченные неправильным питанием и образом жизни, порождают Гулму пятью способами в виде узловидного образования внутри брюшной полости. Пять мест её локализации: боковые области, область сердца, пупочная область и мочевой пузырь."
+        "text": "Итак, распознавание Гулмы. Доши — Вата и прочие, — чрезмерно испорченные неправильным питанием и образом жизни, порождают Гулму пятью способами в виде узловидного образования внутри брюшной полости. Пять мест её локализации: боковые области, область сердца, пупочная область и мочевой пузырь.",
+        "text_en": "Now, the diagnosis of Gulma. The doshas — Vata and the others — excessively vitiated by improper diet and regimen, produce Gulma in five ways, as a knot-like formation within the abdominal cavity. Its five sites are: the flanks, the region of the heart, the umbilical region, and the bladder."
       },
       {
         "type": "comment",
@@ -6601,7 +6667,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हृन्नाभ्योरन्तरे ग्रन्थिः संचारी यदि वाऽचलः वृत्तश्चयापचयवान् स गुल्म इति कीर्तितः",
         "iast": "hṛnnābhyorantare granthiḥ saṃcārī yadi vā'calaḥ vṛttaścayāpacayavān sa gulma iti kīrtitaḥ",
         "iast_ru": "хр̣нна̄бхйорантаре грантхих̣ сам̣ча̄рӣ йади ва̄'чалах̣ вр̣тташ́чайа̄пачайава̄н са гулма ити кӣртитах̣",
-        "text": "Узловое образование между областью сердца и пупком, подвижное либо неподвижное, округлое, с нарастанием и убыванием — то именуется Гулмой."
+        "text": "Узловое образование между областью сердца и пупком, подвижное либо неподвижное, округлое, с нарастанием и убыванием — то именуется Гулмой.",
+        "text_en": "A knot-like formation between the region of the heart and the navel, movable or immovable, rounded, waxing and waning — that is called Gulma."
       },
       {
         "type": "verse",
@@ -6609,7 +6676,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स व्यस्तैर्जायते दोषैः समस्तैरपि चोच्छ्रितैः पुरुषाणां तथा स्त्रीणां ज्ञेयो रक्तेन चापरः",
         "iast": "sa vyastairjāyate doṣaiḥ samastairapi cocchritaiḥ puruṣāṇāṃ tathā strīṇāṃ jñeyo raktena cāparaḥ",
         "iast_ru": "са вйастаирджа̄йате дош̣аих̣ самастаирапи чоччхритаих̣ пуруш̣а̄н̣а̄м̣ татха̄ стрӣн̣а̄м̣ джн̃ейо рактена ча̄парах̣",
-        "text": "Она возникает от Дош по отдельности или в совокупности, когда они возбуждены, — как у мужчин, так и у женщин; кроме того, следует знать ещё одну разновидность — от крови (ракта)."
+        "text": "Она возникает от Дош по отдельности или в совокупности, когда они возбуждены, — как у мужчин, так и у женщин; кроме того, следует знать ещё одну разновидность — от крови (ракта).",
+        "text_en": "It arises from the doshas singly or in combination when they are provoked, in both men and women; besides this, one should also know another variety — arising from blood (rakta)."
       },
       {
         "type": "verse",
@@ -6617,7 +6685,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उद्गारबाहुल्यपुरीषबन्धतृप्त्यक्षमत्वान्त्रविकूजनानि आटोप आध्मानमपक्तिशक्तिरासन्नगुल्मस्य वदन्ति चिह्वम्",
         "iast": "udgārabāhulyapurīṣabandhatṛptyakṣamatvāntravikūjanāni āṭopa ādhmānamapaktiśaktirāsannagulmasya vadanti cihvam",
         "iast_ru": "удга̄раба̄хулйапурӣш̣абандхатр̣птйакш̣аматва̄нтравикӯджана̄ни а̄т̣опа а̄дхма̄намапактиш́актира̄саннагулмасйа ваданти чихвам",
-        "text": "Обильная отрыжка, задержка кала, неспособность ощутить насыщение, урчание в кишечнике, вздутие, распирание живота и слабость пищеварения — всё это называют признаками приближающейся Гулмы."
+        "text": "Обильная отрыжка, задержка кала, неспособность ощутить насыщение, урчание в кишечнике, вздутие, распирание живота и слабость пищеварения — всё это называют признаками приближающейся Гулмы.",
+        "text_en": "Copious belching, retention of stool, inability to feel satiated, rumbling in the intestines, distension, bloating of the abdomen, and weakness of digestion — all these are called the signs of an approaching Gulma."
       },
       {
         "type": "verse",
@@ -6625,7 +6694,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अरुचिः कृच्छ्रविण्मूत्रवातताऽन्त्रविकूजनम् आनाहश्चोर्ध्ववातत्वं सर्वगुल्मेषु लक्षयेत्",
         "iast": "aruciḥ kṛcchraviṇmūtravātatā'ntravikūjanam ānāhaścordhvavātatvaṃ sarvagulmeṣu lakṣayet",
         "iast_ru": "аручих̣ кр̣ччхравин̣мӯтрава̄тата̄'нтравикӯджанам а̄на̄хаш́чордхвава̄татвам̣ сарвагулмеш̣у лакш̣айет",
-        "text": "Отсутствие аппетита, затруднённое отхождение кала и мочи, метеоризм, урчание в кишечнике, вздутие и восходящее движение газов следует отмечать при всех видах Гулмы."
+        "text": "Отсутствие аппетита, затруднённое отхождение кала и мочи, метеоризм, урчание в кишечнике, вздутие и восходящее движение газов следует отмечать при всех видах Гулмы.",
+        "text_en": "Loss of appetite, difficulty in passing stool and urine, flatulence, rumbling in the intestines, distension, and an upward movement of gas should be noted in all varieties of Gulma."
       },
       {
         "type": "verse",
@@ -6633,7 +6703,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रूक्षान्नपानं विषमातिमात्रं विचेष्टनं वेगविनिग्रहश्च शोकोऽभिघातोऽतिमलक्षयश्च निरन्नता चानिलगुल्महेतुः",
         "iast": "rūkṣānnapānaṃ viṣamātimātraṃ viceṣṭanaṃ vegavinigrahaśca śoko'bhighāto'timalakṣayaśca nirannatā cānilagulmahetuḥ",
         "iast_ru": "рӯкш̣а̄ннапа̄нам̣ виш̣ама̄тима̄трам̣ вичеш̣т̣анам̣ вегавиниграхаш́ча ш́око'бхигха̄то'тималакш̣айаш́ча ниранната̄ ча̄нилагулмахетух̣",
-        "text": "Причины Гулмы Вата-происхождения: сухая пища и питьё, нерегулярный или чрезмерный приём пищи, беспорядочная физическая деятельность, подавление естественных позывов, скорбь, травма, чрезмерное истощение и голодание."
+        "text": "Причины Гулмы Вата-происхождения: сухая пища и питьё, нерегулярный или чрезмерный приём пищи, беспорядочная физическая деятельность, подавление естественных позывов, скорбь, травма, чрезмерное истощение и голодание.",
+        "text_en": "The causes of Gulma of Vata origin: dry food and drink, irregular or excessive eating, disorderly physical activity, suppression of natural urges, grief, injury, excessive exhaustion, and fasting."
       },
       {
         "type": "verse",
@@ -6641,7 +6712,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यः स्थानसंस्थानरुजां विकल्पं विड्वातसङ्गं गलवक्त्रशोषम् श्यावारुणत्वं शिशिरज्वरं च हृत्कुक्षिपार्श्वांसशिरोरुजं च",
         "iast": "yaḥ sthānasaṃsthānarujāṃ vikalpaṃ viḍvātasaṅgaṃ galavaktraśoṣam śyāvāruṇatvaṃ śiśirajvaraṃ ca hṛtkukṣipārśvāṃsaśirorujaṃ ca",
         "iast_ru": "йах̣ стха̄насам̣стха̄наруджа̄м̣ викалпам̣ вид̣ва̄тасан̇гам̣ галавактраш́ош̣ам ш́йа̄ва̄рун̣атвам̣ ш́иш́ираджварам̣ ча хр̣ткукш̣ипа̄рш́ва̄м̣саш́ироруджам̣ ча",
-        "text": "Гулма Вата-происхождения проявляет: изменчивость расположения, формы и характера боли, задержку кала и газов, сухость в горле и во рту, тёмно-бурую окраску кожи, лихорадку с ознобом, а также боль в области сердца, живота, боковых областях, плечах и голове."
+        "text": "Гулма Вата-происхождения проявляет: изменчивость расположения, формы и характера боли, задержку кала и газов, сухость в горле и во рту, тёмно-бурую окраску кожи, лихорадку с ознобом, а также боль в области сердца, живота, боковых областях, плечах и голове.",
+        "text_en": "Gulma of Vata origin manifests: changeability of location, shape, and character of the pain, retention of stool and gas, dryness of the throat and mouth, a dark-brown coloring of the skin, fever with chills, and pain in the region of the heart, abdomen, flanks, shoulders, and head."
       },
       {
         "type": "verse",
@@ -6649,7 +6721,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "करोति जीर्णे त्वधिकं प्रकोपं भुक्ते मृदुत्वं समुपैति यश्च वातात्स गुल्मो न च तत्र रूक्षं कषायतिक्तं कटु चोपशेते",
         "iast": "karoti jīrṇe tvadhikaṃ prakopaṃ bhukte mṛdutvaṃ samupaiti yaśca vātātsa gulmo na ca tatra rūkṣaṃ kaṣāyatiktaṃ kaṭu copaśete",
         "iast_ru": "кароти джӣрн̣е твадхикам̣ пракопам̣ бхукте мр̣дутвам̣ самупаити йаш́ча ва̄та̄тса гулмо на ча татра рӯкш̣ам̣ каш̣а̄йатиктам̣ кат̣у чопаш́ете",
-        "text": "Гулма Вата-происхождения усиливает обострение после переваривания пищи и размягчается после еды. Сухое, вяжущее, горькое и острое при ней не переносится."
+        "text": "Гулма Вата-происхождения усиливает обострение после переваривания пищи и размягчается после еды. Сухое, вяжущее, горькое и острое при ней не переносится.",
+        "text_en": "Gulma of Vata origin intensifies after the digestion of food and softens after eating. Dry, astringent, bitter, and pungent [food] is not tolerated with it."
       },
       {
         "type": "verse",
@@ -6657,7 +6730,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कट्वम्लतीक्ष्णोष्णविदाहि रूक्षक्रोधातिमद्यार्कहुताशसेवा आमाभिघातो रुधिरं च दुष्टं पैत्तस्य गुल्मस्य निमित्तमुक्तम्",
         "iast": "kaṭvamlatīkṣṇoṣṇavidāhi rūkṣakrodhātimadyārkahutāśasevā āmābhighāto rudhiraṃ ca duṣṭaṃ paittasya gulmasya nimittamuktam",
         "iast_ru": "кат̣вамлатӣкш̣н̣ош̣н̣авида̄хи рӯкш̣акродха̄тимадйа̄ркахута̄ш́асева̄ а̄ма̄бхигха̄то рудхирам̣ ча душ̣т̣ам̣ паиттасйа гулмасйа нимиттамуктам",
-        "text": "Причинами Гулмы Питта-происхождения названы: острая, кислая, жгучая, горячая, раздражающая и сухая пища, гнев, злоупотребление вином, воздействие солнца и огня, травма при наличии амы (непереваренных веществ), а также испорченная кровь."
+        "text": "Причинами Гулмы Питта-происхождения названы: острая, кислая, жгучая, горячая, раздражающая и сухая пища, гнев, злоупотребление вином, воздействие солнца и огня, травма при наличии амы (непереваренных веществ), а также испорченная кровь.",
+        "text_en": "The causes of Gulma of Pitta origin are named as: pungent, sour, burning, hot, irritating, and dry food, anger, abuse of wine, exposure to sun and fire, injury in the presence of ama (undigested matter), and vitiated blood."
       },
       {
         "type": "verse",
@@ -6665,7 +6739,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "ज्वरः पिपासा वदनाङ्गरागः शूलं महज्जीर्यति भोजने च स्वेदो विदाहो व्रणवच्च गुल्मः स्पर्शासहः पैत्तिकगुल्मरूपम्",
         "iast": "jvaraḥ pipāsā vadanāṅgarāgaḥ śūlaṃ mahajjīryati bhojane ca svedo vidāho vraṇavacca gulmaḥ sparśāsahaḥ paittikagulmarūpam",
         "iast_ru": "джварах̣ пипа̄са̄ вадана̄н̇гара̄гах̣ ш́ӯлам̣ махаджджӣрйати бходжане ча сведо вида̄хо вран̣авачча гулмах̣ спарш́а̄сахах̣ паиттикагулмарӯпам",
-        "text": "Признаки Гулмы Питта-происхождения: лихорадка, жажда, покраснение лица и тела, сильная колика при переваривании пищи, потливость, жжение, образование, подобное язве, и непереносимость прикосновения."
+        "text": "Признаки Гулмы Питта-происхождения: лихорадка, жажда, покраснение лица и тела, сильная колика при переваривании пищи, потливость, жжение, образование, подобное язве, и непереносимость прикосновения.",
+        "text_en": "The signs of Gulma of Pitta origin: fever, thirst, redness of the face and body, severe colic during the digestion of food, sweating, burning, a formation resembling an ulcer, and intolerance of touch."
       },
       {
         "type": "verse",
@@ -6673,7 +6748,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शीतं गुरु स्निग्धमचेष्टनं च संपूरणं प्रस्वपनं दिवा च गुल्मस्य हेतुः कफसंभवस्य सर्वस्तु दुष्टो निचयात्मकस्य",
         "iast": "śītaṃ guru snigdhamaceṣṭanaṃ ca saṃpūraṇaṃ prasvapanaṃ divā ca gulmasya hetuḥ kaphasaṃbhavasya sarvastu duṣṭo nicayātmakasya",
         "iast_ru": "ш́ӣтам̣ гуру снигдхамачеш̣т̣анам̣ ча сам̣пӯран̣ам̣ прасвапанам̣ дива̄ ча гулмасйа хетух̣ капхасам̣бхавасйа сарвасту душ̣т̣о ничайа̄тмакасйа",
-        "text": "Причины Гулмы Капха-происхождения: холодная, тяжёлая и маслянистая пища, отсутствие физической активности, переедание, дневной сон. Все же Доши, будучи испорчены, вызывают тип Саннипата (тридошный), имеющий свойство накопления."
+        "text": "Причины Гулмы Капха-происхождения: холодная, тяжёлая и маслянистая пища, отсутствие физической активности, переедание, дневной сон. Все же Доши, будучи испорчены, вызывают тип Саннипата (тридошный), имеющий свойство накопления.",
+        "text_en": "The causes of Gulma of Kapha origin: cold, heavy, and unctuous food, lack of physical activity, overeating, daytime sleep. And when all the doshas are vitiated, they produce the sannipatika type (tridoshic), which has the property of accumulation."
       },
       {
         "type": "verse",
@@ -6681,7 +6757,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्तैमित्यशीतज्वरगात्र सादहृल्लासकासारुचिगौरवाणि शैत्यं रुगल्पा कठिनोन्नतत्वं गुल्मस्य रूपाणि कफात्मकस्य",
         "iast": "staimityaśītajvaragātra sādahṛllāsakāsārucigauravāṇi śaityaṃ rugalpā kaṭhinonnatatvaṃ gulmasya rūpāṇi kaphātmakasya",
         "iast_ru": "стаимитйаш́ӣтаджварага̄тра са̄дахр̣лла̄сака̄са̄ручигаурава̄н̣и ш́аитйам̣ ругалпа̄ кат̣хиноннататвам̣ гулмасйа рӯпа̄н̣и капха̄тмакасйа",
-        "text": "Признаки Гулмы Капха-происхождения: вялость, холодная лихорадка, тяжесть в теле, тошнота, кашель, отсутствие аппетита, ощущение тяжести, зябкость, незначительная боль, а также твёрдое и возвышающееся образование."
+        "text": "Признаки Гулмы Капха-происхождения: вялость, холодная лихорадка, тяжесть в теле, тошнота, кашель, отсутствие аппетита, ощущение тяжести, зябкость, незначительная боль, а также твёрдое и возвышающееся образование.",
+        "text_en": "The signs of Gulma of Kapha origin: sluggishness, cold fever, heaviness of the body, nausea, cough, loss of appetite, a sensation of heaviness, chilliness, slight pain, and a hard, raised formation."
       },
       {
         "type": "verse",
@@ -6689,7 +6766,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "निमित्तरूपाण्युपलभ्य गुल्मे द्विदोषजे दोषबलाबलं च व्यामिश्रलिङ्गानपरांश्च गुल्मांस्त्रीनादिशेदौषधकल्पनार्थम्",
         "iast": "nimittarūpāṇyupalabhya gulme dvidoṣaje doṣabalābalaṃ ca vyāmiśraliṅgānaparāṃśca gulmāṃstrīnādiśedauṣadhakalpanārtham",
         "iast_ru": "нимиттарӯпа̄н̣йупалабхйа гулме двидош̣адже дош̣абала̄балам̣ ча вйа̄миш́ралин̇га̄напара̄м̣ш́ча гулма̄м̣стрӣна̄диш́едауш̣адхакалпана̄ртхам",
-        "text": "Распознав при двудошной Гулме причины, признаки и относительную силу и слабость Дош, а также смешанные симптомы, следует назначать лечение для каждого из трёх возможных двудошных сочетаний."
+        "text": "Распознав при двудошной Гулме причины, признаки и относительную силу и слабость Дош, а также смешанные симптомы, следует назначать лечение для каждого из трёх возможных двудошных сочетаний.",
+        "text_en": "Having recognized, in a Gulma of two doshas, the causes, signs, and the relative strength and weakness of the doshas, as well as the mixed symptoms, one should prescribe treatment for each of the three possible two-dosha combinations."
       },
       {
         "type": "verse",
@@ -6697,7 +6775,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "महारुजं दाहपरीतमश्मवद्घनोन्नतं शीघ्रविदाहि दारुणम् मनः शरीराग्निबलापहारिणं त्रिदोषजं गुल्ममसाध्यमादिशेत्",
         "iast": "mahārujaṃ dāhaparītamaśmavadghanonnataṃ śīghravidāhi dāruṇam manaḥ śarīrāgnibalāpahāriṇaṃ tridoṣajaṃ gulmamasādhyamādiśet",
         "iast_ru": "маха̄руджам̣ да̄хапарӣтамаш́мавадгханоннатам̣ ш́ӣгхравида̄хи да̄рун̣ам манах̣ ш́арӣра̄гнибала̄паха̄рин̣ам̣ тридош̣аджам̣ гулмамаса̄дхйама̄диш́ет",
-        "text": "Тридошную Гулму следует признать неизлечимой: она крайне болезненна, охвачена жжением, плотная и возвышающаяся подобно камню, быстро воспаляющаяся, ужасная, истощающая разум, тело, пищеварительный огонь и силы."
+        "text": "Тридошную Гулму следует признать неизлечимой: она крайне болезненна, охвачена жжением, плотная и возвышающаяся подобно камню, быстро воспаляющаяся, ужасная, истощающая разум, тело, пищеварительный огонь и силы.",
+        "text_en": "Tridoshic Gulma should be recognized as incurable: it is extremely painful, seized with burning, dense and raised like a stone, quickly inflaming, dreadful, and it wastes the mind, body, digestive fire, and strength."
       },
       {
         "type": "verse",
@@ -6705,7 +6784,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नवप्रसूताऽहितभोजना या या चामगर्भं विसृजेदृतौ वा वायुर्हि तस्याः परिगृह्य रक्तं करोति गुल्मं सरुजं सदाहम् पैत्तस्य लिङ्गेन समानलिङ्गं विशेषणं चाप्यपरं निबोध",
         "iast": "navaprasūtā'hitabhojanā yā yā cāmagarbhaṃ visṛjedṛtau vā vāyurhi tasyāḥ parigṛhya raktaṃ karoti gulmaṃ sarujaṃ sadāham paittasya liṅgena samānaliṅgaṃ viśeṣaṇaṃ cāpyaparaṃ nibodha",
         "iast_ru": "навапрасӯта̄'хитабходжана̄ йа̄ йа̄ ча̄магарбхам̣ виср̣джедр̣тау ва̄ ва̄йурхи тасйа̄х̣ паригр̣хйа рактам̣ кароти гулмам̣ саруджам̣ сада̄хам паиттасйа лин̇гена сама̄налин̇гам̣ виш́еш̣ан̣ам̣ ча̄пйапарам̣ нибодха",
-        "text": "У женщины — недавно родившей и принимающей неподходящую пищу, либо у той, которая извергает незрелый плод, или теряет кровь в период месячных, — Вата, захватив кровь, порождает болезненную Гулму со жжением, по признакам сходную с Питта-Гулмой. Узнай же её отличительные особенности."
+        "text": "У женщины — недавно родившей и принимающей неподходящую пищу, либо у той, которая извергает незрелый плод, или теряет кровь в период месячных, — Вата, захватив кровь, порождает болезненную Гулму со жжением, по признакам сходную с Питта-Гулмой. Узнай же её отличительные особенности.",
+        "text_en": "In a woman who has recently given birth and takes unsuitable food, or one who expels an immature fetus, or loses blood during her menstrual period — Vata, seizing the blood, produces a painful Gulma with burning, resembling in its signs a Pitta-Gulma. Learn, then, its distinguishing features."
       },
       {
         "type": "verse",
@@ -6713,7 +6793,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यः स्पन्दते पिण्डित एव नाङ्गैश्चिरात्सशूलः समगर्भलिङ्गः स रौधिरः स्त्रीभव एव गुल्मो मासे व्यतीते दशमे चिकित्स्यः",
         "iast": "yaḥ spandate piṇḍita eva nāṅgaiścirātsaśūlaḥ samagarbhaliṅgaḥ sa raudhiraḥ strībhava eva gulmo māse vyatīte daśame cikitsyaḥ",
         "iast_ru": "йах̣ спандате пин̣д̣ита ева на̄н̇гаиш́чира̄тсаш́ӯлах̣ самагарбхалин̇гах̣ са раудхирах̣ стрӣбхава ева гулмо ма̄се вйатӣте даш́аме чикитсйах̣",
-        "text": "Гулма кровяного происхождения: пульсирует, остаётся уплотнённым образованием без различимых частей тела, длительно болезненна, имеет признаки, сходные с беременностью. Она возникает исключительно у женщин, и лечить её следует по истечении десятого месяца."
+        "text": "Гулма кровяного происхождения: пульсирует, остаётся уплотнённым образованием без различимых частей тела, длительно болезненна, имеет признаки, сходные с беременностью. Она возникает исключительно у женщин, и лечить её следует по истечении десятого месяца.",
+        "text_en": "Gulma of blood origin: it pulsates, remains a dense formation without distinguishable body parts, is painful for a prolonged time, and has signs resembling pregnancy. It arises exclusively in women, and it should be treated only after the tenth month has passed."
       },
       {
         "type": "verse",
@@ -6721,7 +6802,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "संचितः क्रमशो गुल्मो महावास्तुपरिग्रहः कृतमूलः सिरानद्धो यदा कूर्म इवोत्थितः",
         "iast": "saṃcitaḥ kramaśo gulmo mahāvāstuparigrahaḥ kṛtamūlaḥ sirānaddho yadā kūrma ivotthitaḥ",
         "iast_ru": "сам̣читах̣ крамаш́о гулмо маха̄ва̄ступариграхах̣ кр̣тамӯлах̣ сира̄наддхо йада̄ кӯрма ивоттхитах̣",
-        "text": "Когда Гулма, постепенно накопившись, достигла большого размера, укоренилась, опутана сосудами и поднимается подобно черепахе..."
+        "text": "Когда Гулма, постепенно накопившись, достигла большого размера, укоренилась, опутана сосудами и поднимается подобно черепахе...",
+        "text_en": "When a Gulma, having gradually accumulated, has reached a large size, become rooted, become entangled with the vessels, and rises up like a tortoise..."
       },
       {
         "type": "verse",
@@ -6729,7 +6811,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दौर्बल्यारुचिहृल्लास कासच्छर्द्यरतिज्वरैः तृष्णातन्द्रा प्रतिश्यायैर्युज्यते स न सिध्यति",
         "iast": "daurbalyārucihṛllāsa kāsacchardyaratijvaraiḥ tṛṣṇātandrā pratiśyāyairyujyate sa na sidhyati",
         "iast_ru": "даурбалйа̄ручихр̣лла̄са ка̄саччхардйаратиджвараих̣ тр̣ш̣н̣а̄тандра̄ пратиш́йа̄йаирйуджйате са на сидхйати",
-        "text": "...и сопровождается слабостью, отсутствием аппетита, тошнотой, кашлем, рвотой, беспокойством, лихорадкой, жаждой, сонливостью и насморком — она неизлечима."
+        "text": "...и сопровождается слабостью, отсутствием аппетита, тошнотой, кашлем, рвотой, беспокойством, лихорадкой, жаждой, сонливостью и насморком — она неизлечима.",
+        "text_en": "...and is accompanied by weakness, loss of appetite, nausea, cough, vomiting, restlessness, fever, thirst, drowsiness, and coryza — it is incurable."
       },
       {
         "type": "verse",
@@ -6737,7 +6820,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गृहीत्वा सज्वरं श्वासच्छर्द्यतीसारपीडितम् हृन्नाभिहस्तपादेषु शोथः कर्षति गुल्मिनम्",
         "iast": "gṛhītvā sajvaraṃ śvāsacchardyatīsārapīḍitam hṛnnābhihastapādeṣu śothaḥ karṣati gulminam",
         "iast_ru": "гр̣хӣтва̄ саджварам̣ ш́ва̄саччхардйатӣса̄рапӣд̣итам хр̣нна̄бхихастапа̄деш̣у ш́отхах̣ карш̣ати гулминам",
-        "text": "Отёк в области сердца, пупка, кистей и стоп, сопровождаемый лихорадкой, одышкой, рвотой и поносом, истощает больного Гулмой."
+        "text": "Отёк в области сердца, пупка, кистей и стоп, сопровождаемый лихорадкой, одышкой, рвотой и поносом, истощает больного Гулмой.",
+        "text_en": "Swelling in the region of the heart, navel, hands, and feet, accompanied by fever, dyspnea, vomiting, and diarrhea, wastes a patient with Gulma."
       },
       {
         "type": "verse",
@@ -6745,7 +6829,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्वासः शूलं पिपासाऽन्नविद्वेषो ग्रन्थिमूढता जायते दुर्बलत्वं च गुल्मिनो मरणाय वै",
         "iast": "śvāsaḥ śūlaṃ pipāsā'nnavidveṣo granthimūḍhatā jāyate durbalatvaṃ ca gulmino maraṇāya vai",
         "iast_ru": "ш́ва̄сах̣ ш́ӯлам̣ пипа̄са̄'ннавидвеш̣о грантхимӯд̣хата̄ джа̄йате дурбалатвам̣ ча гулмино маран̣а̄йа ваи",
-        "text": "Одышка, колика, жажда, отвращение к пище, неясность природы образования и нарастающая слабость — эти признаки возникают у больного Гулмой как предвестники приближающейся смерти."
+        "text": "Одышка, колика, жажда, отвращение к пище, неясность природы образования и нарастающая слабость — эти признаки возникают у больного Гулмой как предвестники приближающейся смерти.",
+        "text_en": "Dyspnea, colic, thirst, aversion to food, obscurity of the nature of the formation, and increasing weakness — these signs, arising in a patient with Gulma, are harbingers of approaching death."
       },
       {
         "type": "comment",
@@ -6772,7 +6857,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ हृद्रोगनिदानम् अत्युष्णगुर्वन्नकषायतिक्तश्रमाभिघाताध्यशनप्रसङ्गैः संचिन्तनैर्वेगविधारणैश्च हृदामयः पञ्चविधः प्रदिष्टः",
         "iast": "atha hṛdroganidānam atyuṣṇagurvannakaṣāyatiktaśramābhighātādhyaśanaprasaṅgaiḥ saṃcintanairvegavidhāraṇaiśca hṛdāmayaḥ pañcavidhaḥ pradiṣṭaḥ",
         "iast_ru": "атха хр̣дроганида̄нам атйуш̣н̣агурваннакаш̣а̄йатикташ́рама̄бхигха̄та̄дхйаш́анапрасан̇гаих̣ сам̣чинтанаирвегавидха̄ран̣аиш́ча хр̣да̄майах̣ пан̃чавидхах̣ прадиш̣т̣ах̣",
-        "text": "Итак, начинается распознавание болезни сердца (хридрога-нидана). От чрезмерно горячей и тяжёлой пищи, вяжущего и горького вкуса, переутомления, травмы, переедания, чрезмерных размышлений и подавления естественных позывов — болезнь сердца объявлена пятивидной."
+        "text": "Итак, начинается распознавание болезни сердца (хридрога-нидана). От чрезмерно горячей и тяжёлой пищи, вяжущего и горького вкуса, переутомления, травмы, переедания, чрезмерных размышлений и подавления естественных позывов — болезнь сердца объявлена пятивидной.",
+        "text_en": "Now begins the diagnosis of heart disease (hridroga-nidana). From excessively hot and heavy food, astringent and bitter taste, overexertion, injury, overeating, excessive brooding, and suppression of natural urges — heart disease is declared to be of five kinds."
       },
       {
         "type": "verse",
@@ -6780,7 +6866,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दूषयित्वा रसं दोषा विगुणा हृदयं गताः हृदि बाधां प्रकुर्वन्ति हृद्रो गं तं प्रचक्षते",
         "iast": "dūṣayitvā rasaṃ doṣā viguṇā hṛdayaṃ gatāḥ hṛdi bādhāṃ prakurvanti hṛdro gaṃ taṃ pracakṣate",
         "iast_ru": "дӯш̣айитва̄ расам̣ дош̣а̄ вигун̣а̄ хр̣дайам̣ гата̄х̣ хр̣ди ба̄дха̄м̣ пракурванти хр̣дро гам̣ там̣ прачакш̣ате",
-        "text": "Доши, выведенные из равновесия, повреждают расу (питательную жидкость) и, достигнув сердца, производят там страдание — это называют болезнью сердца (хридрога)."
+        "text": "Доши, выведенные из равновесия, повреждают расу (питательную жидкость) и, достигнув сердца, производят там страдание — это называют болезнью сердца (хридрога).",
+        "text_en": "The doshas, having been thrown out of balance, damage the rasa (nutrient fluid) and, reaching the heart, produce suffering there — this is called heart disease (hridroga)."
       },
       {
         "type": "comment",
@@ -6793,7 +6880,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आयम्यते मारुतजे हृद्रो गं तुद्यते तथा निर्मथ्यते दीर्यते च स्फोट्यते पाट्यतेऽपि च",
         "iast": "āyamyate mārutaje hṛdro gaṃ tudyate tathā nirmathyate dīryate ca sphoṭyate pāṭyate'pi ca",
         "iast_ru": "а̄йамйате ма̄рутадже хр̣дро гам̣ тудйате татха̄ нирматхйате дӣрйате ча спхот̣йате па̄т̣йате'пи ча",
-        "text": "При болезни сердца, порождённой Ватой, сердце ощущается растянутым, пронзаемым, взбалтываемым, разрываемым, лопающимся и расщепляемым."
+        "text": "При болезни сердца, порождённой Ватой, сердце ощущается растянутым, пронзаемым, взбалтываемым, разрываемым, лопающимся и расщепляемым.",
+        "text_en": "In heart disease produced by Vata, the heart feels stretched, pierced, churned, torn apart, bursting, and split."
       },
       {
         "type": "comment",
@@ -6806,7 +6894,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तृष्णोष्मादाहचोषाः स्युः पैत्तिके हृदयक्लमः धूमायनं च मूर्च्छा च स्वेदः शोषो मुखस्य च",
         "iast": "tṛṣṇoṣmādāhacoṣāḥ syuḥ paittike hṛdayaklamaḥ dhūmāyanaṃ ca mūrcchā ca svedaḥ śoṣo mukhasya ca",
         "iast_ru": "тр̣ш̣н̣ош̣ма̄да̄хачош̣а̄х̣ сйух̣ паиттике хр̣дайакламах̣ дхӯма̄йанам̣ ча мӯрччха̄ ча сведах̣ ш́ош̣о мукхасйа ча",
-        "text": "При питтовидной болезни сердца возникают жажда, жар, жжение, сосущая боль, сердечное изнеможение, ощущение дыма поднимающегося внутри, обморок, потливость и сухость во рту."
+        "text": "При питтовидной болезни сердца возникают жажда, жар, жжение, сосущая боль, сердечное изнеможение, ощущение дыма поднимающегося внутри, обморок, потливость и сухость во рту.",
+        "text_en": "In Pitta-type heart disease there arise thirst, heat, burning, a gnawing pain, cardiac exhaustion, a sensation of smoke rising within, fainting, sweating, and dryness of the mouth."
       },
       {
         "type": "comment",
@@ -6819,7 +6908,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गौरवं कफसंस्रावोऽरुचिः स्तम्भोऽग्निमार्दवम् माधुर्यमपि चास्यस्य बलासावतते हृदि",
         "iast": "gauravaṃ kaphasaṃsrāvo'ruciḥ stambho'gnimārdavam mādhuryamapi cāsyasya balāsāvatate hṛdi",
         "iast_ru": "гауравам̣ капхасам̣сра̄во'ручих̣ стамбхо'гнима̄рдавам ма̄дхурйамапи ча̄сйасйа бала̄са̄ватате хр̣ди",
-        "text": "При капховидной болезни сердца — тяжесть, истечение Капхи, отвращение к пище, скованность, ослабление пищеварительного огня, сладкий привкус во рту; слизь (баласа) распространяется по области сердца."
+        "text": "При капховидной болезни сердца — тяжесть, истечение Капхи, отвращение к пище, скованность, ослабление пищеварительного огня, сладкий привкус во рту; слизь (баласа) распространяется по области сердца.",
+        "text_en": "In Kapha-type heart disease — heaviness, exudation of Kapha, aversion to food, stiffness, weakening of the digestive fire, a sweet taste in the mouth; mucus (balasa) spreads over the region of the heart."
       },
       {
         "type": "verse",
@@ -6827,7 +6917,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विद्यात्त्रिदोषं त्वपि सर्वलिङ्गम् तीव्रार्तितोदं क्रिमिजं सकण्डूम् उत्क्लेदः ष्ठीवनं तोदः शूलं हृल्लासकस्तमः अरुचिः श्यावनेत्रत्वं शोथश्च क्रिमिजे भवेत्",
         "iast": "vidyāttridoṣaṃ tvapi sarvaliṅgam tīvrārtitodaṃ krimijaṃ sakaṇḍūm utkledaḥ ṣṭhīvanaṃ todaḥ śūlaṃ hṛllāsakastamaḥ aruciḥ śyāvanetratvaṃ śothaśca krimije bhavet",
         "iast_ru": "видйа̄ттридош̣ам̣ твапи сарвалин̇гам тӣвра̄ртитодам̣ кримиджам̣ сакан̣д̣ӯм уткледах̣ ш̣т̣хӣванам̣ тодах̣ ш́ӯлам̣ хр̣лла̄сакастамах̣ аручих̣ ш́йа̄ванетратвам̣ ш́отхаш́ча кримидже бхавет",
-        "text": "Тридошовидную болезнь сердца следует распознавать по совокупности всех признаков, с сильной болью и пронзанием. При крими-обусловленной (паразитарной) болезни сердца — интенсивная боль, пронзание, зуд, избыточное увлажнение, отхаркивание, колика, тошнота, помрачение сознания, отвращение к пище, тёмная окраска глаз и отёчность."
+        "text": "Тридошовидную болезнь сердца следует распознавать по совокупности всех признаков, с сильной болью и пронзанием. При крими-обусловленной (паразитарной) болезни сердца — интенсивная боль, пронзание, зуд, избыточное увлажнение, отхаркивание, колика, тошнота, помрачение сознания, отвращение к пище, тёмная окраска глаз и отёчность.",
+        "text_en": "Tridoshic heart disease should be recognized by the totality of all the signs, with severe pain and piercing. In krimi-caused (parasitic) heart disease — intense pain, piercing, itching, excessive moistness, expectoration, colic, nausea, clouding of consciousness, aversion to food, dark discoloration of the eyes, and swelling."
       },
       {
         "type": "verse",
@@ -6835,7 +6926,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्लमः सादो भ्रमः शोषो ज्ञेयास्तेषामुपद्र वाः क्रिमिजे क्रिमिजातीनां श्लैष्मिकाणां च ये मताः",
         "iast": "klamaḥ sādo bhramaḥ śoṣo jñeyāsteṣāmupadra vāḥ krimije krimijātīnāṃ ślaiṣmikāṇāṃ ca ye matāḥ",
         "iast_ru": "кламах̣ са̄до бхрамах̣ ш́ош̣о джн̃ейа̄стеш̣а̄мупадра ва̄х̣ кримидже кримиджа̄тӣна̄м̣ ш́лаиш̣мика̄н̣а̄м̣ ча йе мата̄х̣",
-        "text": "Осложнениями (упадравами) всех видов болезни сердца следует считать изнеможение, упадок сил, головокружение и истощение. При крими-обусловленной форме паразиты относятся к капховидному (шлайшмика) роду."
+        "text": "Осложнениями (упадравами) всех видов болезни сердца следует считать изнеможение, упадок сил, головокружение и истощение. При крими-обусловленной форме паразиты относятся к капховидному (шлайшмика) роду.",
+        "text_en": "Exhaustion, loss of strength, dizziness, and wasting should be regarded as complications (upadravas) of all types of heart disease. In the krimi-caused form, the parasites belong to the Kapha-type (shlaishmika) class."
       },
       {
         "type": "comment",
@@ -6862,7 +6954,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ मूत्रकृच्छ्रनिदानम् व्यायामतीक्ष्णौषध रूक्षमद्यप्रसङ्गनित्यद्रुतपृष्ठयानात् आनूपमांसाध्यशनादजीर्णात्स्युर्मूत्रकृच्छ्राणि नृणां तथाऽष्टौ",
         "iast": "atha mūtrakṛcchranidānam vyāyāmatīkṣṇauṣadha rūkṣamadyaprasaṅganityadrutapṛṣṭhayānāt ānūpamāṃsādhyaśanādajīrṇātsyurmūtrakṛcchrāṇi nṛṇāṃ tathā'ṣṭau",
         "iast_ru": "атха мӯтракр̣ччхранида̄нам вйа̄йа̄матӣкш̣н̣ауш̣адха рӯкш̣амадйапрасан̇ганитйадрутапр̣ш̣т̣хайа̄на̄т а̄нӯпама̄м̣са̄дхйаш́ана̄даджӣрн̣а̄тсйурмӯтракр̣ччхра̄н̣и нр̣н̣а̄м̣ татха̄'ш̣т̣ау",
-        "text": "Далее — диагностика затруднённого мочеиспускания (мутракриччхра нидана). Вследствие чрезмерных физических упражнений, приёма острых лекарств, сухого вина, постоянной стремительной верховой езды, употребления мяса животных болотистых местностей, переедания и несварения у людей возникают восемь видов затруднённого мочеиспускания (мутракриччхра)."
+        "text": "Далее — диагностика затруднённого мочеиспускания (мутракриччхра нидана). Вследствие чрезмерных физических упражнений, приёма острых лекарств, сухого вина, постоянной стремительной верховой езды, употребления мяса животных болотистых местностей, переедания и несварения у людей возникают восемь видов затруднённого мочеиспускания (мутракриччхра).",
+        "text_en": "Next, the diagnosis of difficult urination (mutrakrichchhra-nidana). From excessive physical exercise, taking pungent medicines, dry wine, constant vigorous horseback riding, eating the meat of marsh-dwelling animals, overeating, and indigestion, people develop eight kinds of difficult urination (mutrakrichchhra)."
       },
       {
         "type": "verse",
@@ -6870,7 +6963,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पृथङ्मलाः स्वैः कुपिता निदानैः सर्वेऽथवा कोपमुपेत्य वस्तौ मूत्रस्य मार्गं परिपीडयन्ति यदा तदा मूत्रयतीह कृच्छ्रात्",
         "iast": "pṛthaṅmalāḥ svaiḥ kupitā nidānaiḥ sarve'thavā kopamupetya vastau mūtrasya mārgaṃ paripīḍayanti yadā tadā mūtrayatīha kṛcchrāt",
         "iast_ru": "пр̣тхан̇мала̄х̣ сваих̣ купита̄ нида̄наих̣ сарве'тхава̄ копамупетйа вастау мӯтрасйа ма̄ргам̣ парипӣд̣айанти йада̄ тада̄ мӯтрайатӣха кр̣ччхра̄т",
-        "text": "Когда нечистоты (доши), возбуждённые каждая своими причинами — по отдельности или все вместе, — придя в состояние возбуждения в мочевом пузыре (васти), сдавливают мочевыводящий путь, тогда больной мочится с трудом."
+        "text": "Когда нечистоты (доши), возбуждённые каждая своими причинами — по отдельности или все вместе, — придя в состояние возбуждения в мочевом пузыре (васти), сдавливают мочевыводящий путь, тогда больной мочится с трудом.",
+        "text_en": "When the impurities (doshas), each provoked by its own causes — singly or all together — having become aggravated in the bladder (vasti), compress the urinary passage, then the patient urinates with difficulty."
       },
       {
         "type": "comment",
@@ -6883,7 +6977,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तीव्रार्तिरुग्वङ्क्षणवस्तिमेढ्रेस्वल्पं मुहुर्मूत्रयतीह वातात् पीतं सरक्तं सरुजं सदाहं कृच्छ्रं मुहुर्मूत्रयतीह पित्तात्",
         "iast": "tīvrārtirugvaṅkṣaṇavastimeḍhresvalpaṃ muhurmūtrayatīha vātāt pītaṃ saraktaṃ sarujaṃ sadāhaṃ kṛcchraṃ muhurmūtrayatīha pittāt",
         "iast_ru": "тӣвра̄ртиругван̇кш̣ан̣авастимед̣хресвалпам̣ мухурмӯтрайатӣха ва̄та̄т пӣтам̣ сарактам̣ саруджам̣ сада̄хам̣ кр̣ччхрам̣ мухурмӯтрайатӣха питта̄т",
-        "text": "При ватаджа мутракриччхре — сильная боль в паху, мочевом пузыре и половом члене; мочеиспускание скудное и частое. При питтаджа мутракриччхре — моча жёлтая, с примесью крови, болезненная, со жжением; мочеиспускание затруднённое и частое."
+        "text": "При ватаджа мутракриччхре — сильная боль в паху, мочевом пузыре и половом члене; мочеиспускание скудное и частое. При питтаджа мутракриччхре — моча жёлтая, с примесью крови, болезненная, со жжением; мочеиспускание затруднённое и частое.",
+        "text_en": "In Vataja mutrakrichchhra — severe pain in the groin, bladder, and penis; urination is scanty and frequent. In Pittaja mutrakrichchhra — the urine is yellow, mixed with blood, painful, with burning; urination is difficult and frequent."
       },
       {
         "type": "comment",
@@ -6896,7 +6991,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वस्तेः सलिङ्गस्य गुरुत्वशोथौ मूत्रं सपिच्छं कफमूत्रकृच्छ्रे सर्वाणि रूपाणि तु सान्निपाताद्भवन्ति तत्कृच्छ्रतमं हि कृच्छ्रम्",
         "iast": "vasteḥ saliṅgasya gurutvaśothau mūtraṃ sapicchaṃ kaphamūtrakṛcchre sarvāṇi rūpāṇi tu sānnipātādbhavanti tatkṛcchratamaṃ hi kṛcchram",
         "iast_ru": "вастех̣ салин̇гасйа гурутваш́отхау мӯтрам̣ сапиччхам̣ капхамӯтракр̣ччхре сарва̄н̣и рӯпа̄н̣и ту са̄ннипа̄та̄дбхаванти таткр̣ччхратамам̣ хи кр̣ччхрам",
-        "text": "При капхаджа мутракриччхре — тяжесть и отёк мочевого пузыря и половых органов, моча слизистая (тягучая). При саннипата мутракриччхре (от возбуждения всех трёх дош) наблюдаются все перечисленные симптомы — это наитруднейшее из всех затруднённых мочеиспусканий."
+        "text": "При капхаджа мутракриччхре — тяжесть и отёк мочевого пузыря и половых органов, моча слизистая (тягучая). При саннипата мутракриччхре (от возбуждения всех трёх дош) наблюдаются все перечисленные симптомы — это наитруднейшее из всех затруднённых мочеиспусканий.",
+        "text_en": "In Kaphaja mutrakrichchhra — heaviness and swelling of the bladder and genitals, the urine is mucous (viscid). In Sannipata mutrakrichchhra (from the provocation of all three doshas), all the symptoms listed are observed — this is the most difficult of all forms of difficult urination."
       },
       {
         "type": "comment",
@@ -6909,7 +7005,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रवाहिषु शल्येन क्षतेष्वभिहतेषु वा मूत्रकृच्छ्रं तदाघाताज्जायते भृशदारुणम्",
         "iast": "mūtravāhiṣu śalyena kṣateṣvabhihateṣu vā mūtrakṛcchraṃ tadāghātājjāyate bhṛśadāruṇam",
         "iast_ru": "мӯтрава̄хиш̣у ш́алйена кш̣атеш̣вабхихатеш̣у ва̄ мӯтракр̣ччхрам̣ тада̄гха̄та̄джджа̄йате бхр̣ш́ада̄рун̣ам",
-        "text": "При повреждении мочевыводящих путей инородным телом (шалья) или от ушиба возникает мутракриччхра от травмы (агхата) — крайне тяжёлая."
+        "text": "При повреждении мочевыводящих путей инородным телом (шалья) или от ушиба возникает мутракриччхра от травмы (агхата) — крайне тяжёлая.",
+        "text_en": "When the urinary passages are damaged by a foreign body (shalya) or by a bruise, there arises mutrakrichchhra from injury (aghata) — extremely severe."
       },
       {
         "type": "verse",
@@ -6917,7 +7014,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातकृच्छ्रेण तुल्यानि तस्य लिङ्गानि निर्दिशेत् शकृतस्तु प्रतीघाताद्वायुर्विगुणतां गतः",
         "iast": "vātakṛcchreṇa tulyāni tasya liṅgāni nirdiśet śakṛtastu pratīghātādvāyurviguṇatāṃ gataḥ",
         "iast_ru": "ва̄такр̣ччхрен̣а тулйа̄ни тасйа лин̇га̄ни нирдиш́ет ш́акр̣тасту пратӣгха̄та̄два̄йурвигун̣ата̄м̣ гатах̣",
-        "text": "Её признаки следует определять как сходные с ватаджа мутракриччхрой. Вследствие задержки кала Вата приходит в расстройство."
+        "text": "Её признаки следует определять как сходные с ватаджа мутракриччхрой. Вследствие задержки кала Вата приходит в расстройство.",
+        "text_en": "Its signs should be determined as resembling those of Vataja mutrakrichchhra. As a result of retention of stool, Vata becomes disordered."
       },
       {
         "type": "verse",
@@ -6925,7 +7023,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आध्मानं वातशूलं च मूत्रसङ्गं करोति च अश्मरीहेतु तत्पूर्वं मूत्रकृच्छ्रमुदाहरेत्",
         "iast": "ādhmānaṃ vātaśūlaṃ ca mūtrasaṅgaṃ karoti ca aśmarīhetu tatpūrvaṃ mūtrakṛcchramudāharet",
         "iast_ru": "а̄дхма̄нам̣ ва̄таш́ӯлам̣ ча мӯтрасан̇гам̣ кароти ча аш́марӣхету татпӯрвам̣ мӯтракр̣ччхрамуда̄харет",
-        "text": "Расстроенная Вата вызывает вздутие живота (адхмана), ватаджа колику (шула) и задержку мочи (мутрасанга). Мутракриччхру, предшествующую образованию мочевого камня (ашмари), следует рассматривать как его причину."
+        "text": "Расстроенная Вата вызывает вздутие живота (адхмана), ватаджа колику (шула) и задержку мочи (мутрасанга). Мутракриччхру, предшествующую образованию мочевого камня (ашмари), следует рассматривать как его причину.",
+        "text_en": "Disordered Vata causes distension of the abdomen (adhmana), Vataja colic (shula), and retention of urine (mutrasanga). Mutrakrichchhra that precedes the formation of a urinary stone (ashmari) should be regarded as its cause."
       },
       {
         "type": "comment",
@@ -6938,7 +7037,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शुक्रे दोषैरुपहते मूत्रमार्गं विधाविते सशुक्रं मूत्रयेत्कृच्छ्राद् वस्तिमेहनशूलवान्",
         "iast": "śukre doṣairupahate mūtramārgaṃ vidhāvite saśukraṃ mūtrayetkṛcchrād vastimehanaśūlavān",
         "iast_ru": "ш́укре дош̣аирупахате мӯтрама̄ргам̣ видха̄вите саш́украм̣ мӯтрайеткр̣ччхра̄д вастимеханаш́ӯлава̄н",
-        "text": "Когда семя (шукра), повреждённое дошами, устремляется в мочевыводящий путь, больной мочится с примесью семени, с трудом, испытывая боль в мочевом пузыре и половом члене."
+        "text": "Когда семя (шукра), повреждённое дошами, устремляется в мочевыводящий путь, больной мочится с примесью семени, с трудом, испытывая боль в мочевом пузыре и половом члене.",
+        "text_en": "When semen (shukra), damaged by the doshas, rushes into the urinary passage, the patient urinates mixed with semen, with difficulty, and experiences pain in the bladder and penis."
       },
       {
         "type": "verse",
@@ -6946,7 +7046,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अश्मरी शर्करा चैव तुल्यसंभवलक्षणे विशेषणं शर्करायाः शृणु कीर्तयतो मम",
         "iast": "aśmarī śarkarā caiva tulyasaṃbhavalakṣaṇe viśeṣaṇaṃ śarkarāyāḥ śṛṇu kīrtayato mama",
         "iast_ru": "аш́марӣ ш́аркара̄ чаива тулйасам̣бхавалакш̣ан̣е виш́еш̣ан̣ам̣ ш́аркара̄йа̄х̣ ш́р̣н̣у кӣртайато мама",
-        "text": "Мочевой камень (ашмари) и мочевой песок (шаркара) имеют сходное происхождение и признаки. Выслушай отличительные признаки шаркары, которые я излагаю."
+        "text": "Мочевой камень (ашмари) и мочевой песок (шаркара) имеют сходное происхождение и признаки. Выслушай отличительные признаки шаркары, которые я излагаю.",
+        "text_en": "Urinary stone (ashmari) and urinary gravel (sharkara) have a similar origin and signs. Hear the distinguishing signs of sharkara, which I shall now set forth."
       },
       {
         "type": "verse",
@@ -6954,7 +7055,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पच्यमानाऽश्मरी पित्ताच्छोष्यमाणा च वायुना विभुक्तकफसन्धाना क्षरन्ती शर्करा मता",
         "iast": "pacyamānā'śmarī pittācchoṣyamāṇā ca vāyunā vibhuktakaphasandhānā kṣarantī śarkarā matā",
         "iast_ru": "пачйама̄на̄'ш́марӣ питта̄ччхош̣йама̄н̣а̄ ча ва̄йуна̄ вибхуктакапхасандха̄на̄ кш̣арантӣ ш́аркара̄ мата̄",
-        "text": "Камень (ашмари), растворяемый Питтой, иссушаемый Ватой, с разрушенной капха-связкой, когда он крошится и выходит с мочой, — это называется шаркара (мочевой песок)."
+        "text": "Камень (ашмари), растворяемый Питтой, иссушаемый Ватой, с разрушенной капха-связкой, когда он крошится и выходит с мочой, — это называется шаркара (мочевой песок).",
+        "text_en": "A stone (ashmari) that is dissolved by Pitta, dried by Vata, with its Kapha binding destroyed, when it crumbles and passes out with the urine — this is called sharkara (urinary gravel)."
       },
       {
         "type": "verse",
@@ -6962,7 +7064,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हृत्पीडा वेपथुः शूलं कुक्षावग्निश्च दुर्बलः तथा भवति मूर्च्छा च मूत्रकृच्छ्रं च दारुणम्",
         "iast": "hṛtpīḍā vepathuḥ śūlaṃ kukṣāvagniśca durbalaḥ tathā bhavati mūrcchā ca mūtrakṛcchraṃ ca dāruṇam",
         "iast_ru": "хр̣тпӣд̣а̄ вепатхух̣ ш́ӯлам̣ кукш̣а̄вагниш́ча дурбалах̣ татха̄ бхавати мӯрччха̄ ча мӯтракр̣ччхрам̣ ча да̄рун̣ам",
-        "text": "Признаки мочевого камня: давление в области сердца, дрожь, колика в животе, ослабление пищеварительного огня (агни), обмороки (мурчхча) и тяжёлая мутракриччхра."
+        "text": "Признаки мочевого камня: давление в области сердца, дрожь, колика в животе, ослабление пищеварительного огня (агни), обмороки (мурчхча) и тяжёлая мутракриччхра.",
+        "text_en": "The signs of a urinary stone: pressure in the region of the heart, trembling, colic in the abdomen, weakening of the digestive fire (agni), fainting (murchha), and severe mutrakrichchhra."
       },
       {
         "type": "verse",
@@ -6970,7 +7073,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रवेगनिरस्ताभिः प्रशमं याति वेदना यावदस्याः पुनर्नैति गुडिका स्रोतसो मुखम्",
         "iast": "mūtraveganirastābhiḥ praśamaṃ yāti vedanā yāvadasyāḥ punarnaiti guḍikā srotaso mukham",
         "iast_ru": "мӯтравеганираста̄бхих̣ праш́амам̣ йа̄ти ведана̄ йа̄вадасйа̄х̣ пунарнаити гуд̣ика̄ сротасо мукхам",
-        "text": "Боль стихает, когда крупинки песка выталкиваются напором мочи, — до тех пор, пока камешек (гудика) снова не подступит к устью канала (сротас)."
+        "text": "Боль стихает, когда крупинки песка выталкиваются напором мочи, — до тех пор, пока камешек (гудика) снова не подступит к устью канала (сротас).",
+        "text_en": "The pain subsides when the grains of gravel are expelled by the force of the urine — until the little stone (gudika) again advances toward the mouth of the channel (srotas)."
       }
     ]
   },
@@ -6992,7 +7096,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ मूत्राघातनिदानम् जायन्ते कुपितैर्दोषैर्मूत्राघातास्त्रयोदश प्रायो मूत्रविघाताद्यैर्वातकुण्डलिकादयः",
         "iast": "atha mūtrāghātanidānam jāyante kupitairdoṣairmūtrāghātāstrayodaśa prāyo mūtravighātādyairvātakuṇḍalikādayaḥ",
         "iast_ru": "атха мӯтра̄гха̄танида̄нам джа̄йанте купитаирдош̣аирмӯтра̄гха̄та̄страйодаш́а пра̄йо мӯтравигха̄та̄дйаирва̄такун̣д̣алика̄дайах̣",
-        "text": "Итак, начинается раздел о распознавании задержки мочи (мутрагхата). От возбуждённых дош возникают тринадцать видов задержки мочи, начиная с мутравигхаты, Ватакундалики и прочих."
+        "text": "Итак, начинается раздел о распознавании задержки мочи (мутрагхата). От возбуждённых дош возникают тринадцать видов задержки мочи, начиная с мутравигхаты, Ватакундалики и прочих.",
+        "text_en": "Now begins the section on the diagnosis of urinary retention (mutraghata). From the provoked doshas arise thirteen kinds of urinary retention, beginning with mutravighata, Vatakundalika, and the others."
       },
       {
         "type": "verse",
@@ -7000,7 +7105,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रौक्ष्याद्वेगविघाताद्वा वायुर्वस्तौ सवेदनः मूत्रमाविश्य चरति विगुणः कुण्डलीकृतः",
         "iast": "raukṣyādvegavighātādvā vāyurvastau savedanaḥ mūtramāviśya carati viguṇaḥ kuṇḍalīkṛtaḥ",
         "iast_ru": "раукш̣йа̄двегавигха̄та̄два̄ ва̄йурвастау саведанах̣ мӯтрама̄виш́йа чарати вигун̣ах̣ кун̣д̣алӣкр̣тах̣",
-        "text": "Вследствие сухости либо подавления естественного позыва Вата в мочевом пузыре (васти) становится болезненной, проникает в мочу и движется извилисто, принимая спиралевидную форму."
+        "text": "Вследствие сухости либо подавления естественного позыва Вата в мочевом пузыре (васти) становится болезненной, проникает в мочу и движется извилисто, принимая спиралевидную форму.",
+        "text_en": "As a result of dryness or suppression of the natural urge, Vata in the bladder (vasti) becomes afflicted with pain, enters the urine, and moves in a winding manner, taking a spiral form."
       },
       {
         "type": "comment",
@@ -7013,7 +7119,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रमल्पाल्पमथवा सरुजं स्रंपवर्तते वातकुण्डलिकां तां तु व्याधिं विद्यात्सुदारुणाम्",
         "iast": "mūtramalpālpamathavā sarujaṃ sraṃpavartate vātakuṇḍalikāṃ tāṃ tu vyādhiṃ vidyātsudāruṇām",
         "iast_ru": "мӯтрамалпа̄лпаматхава̄ саруджам̣ срам̣павартате ва̄такун̣д̣алика̄м̣ та̄м̣ ту вйа̄дхим̣ видйа̄тсуда̄рун̣а̄м",
-        "text": "Моча выделяется малыми порциями или с болью. Этот недуг следует знать как Ватакундалику — болезнь крайне тяжёлую."
+        "text": "Моча выделяется малыми порциями или с болью. Этот недуг следует знать как Ватакундалику — болезнь крайне тяжёлую.",
+        "text_en": "Urine is passed in small amounts or with pain. This affliction is to be known as Vatakundalika — an extremely severe disease."
       },
       {
         "type": "verse",
@@ -7021,7 +7128,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आध्मापयन्वस्तिगुदं रुद्ध्वा वायुश्चलोन्नताम् कुर्यात्तीव्रार्तिमष्ठीलां मूत्रविण्मार्गरोधिनीम्",
         "iast": "ādhmāpayanvastigudaṃ ruddhvā vāyuścalonnatām kuryāttīvrārtimaṣṭhīlāṃ mūtraviṇmārgarodhinīm",
         "iast_ru": "а̄дхма̄пайанвастигудам̣ руддхва̄ ва̄йуш́чалонната̄м курйа̄ттӣвра̄ртимаш̣т̣хӣла̄м̣ мӯтравин̣ма̄ргародхинӣм",
-        "text": "Вздувая мочевой пузырь и прямую кишку, заблокированная Вата порождает твёрдое образование (аштхила), причиняющее сильнейшую боль и перекрывающее мочевые и каловые пути."
+        "text": "Вздувая мочевой пузырь и прямую кишку, заблокированная Вата порождает твёрдое образование (аштхила), причиняющее сильнейшую боль и перекрывающее мочевые и каловые пути.",
+        "text_en": "Distending the bladder and rectum, the obstructed Vata produces a hard formation (ashthila), causing very severe pain and blocking the passages of urine and stool."
       },
       {
         "type": "verse",
@@ -7029,7 +7137,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वेगं विधारयेद्यस्तु मूत्रस्याकुशलो नरः निरुणद्धि मुखं तस्य वस्तेर्वस्तिगतोऽनिलः",
         "iast": "vegaṃ vidhārayedyastu mūtrasyākuśalo naraḥ niruṇaddhi mukhaṃ tasya vastervastigato'nilaḥ",
         "iast_ru": "вегам̣ видха̄райедйасту мӯтрасйа̄куш́ало нарах̣ нирун̣аддхи мукхам̣ тасйа вастервастигато'нилах̣",
-        "text": "Неразумный человек, который подавляет позыв к мочеиспусканию, — у него Вата, засевшая в мочевом пузыре, закупоривает его устье."
+        "text": "Неразумный человек, который подавляет позыв к мочеиспусканию, — у него Вата, засевшая в мочевом пузыре, закупоривает его устье.",
+        "text_en": "In the unwise person who suppresses the urge to urinate, Vata, lodging in the bladder, blocks up its opening."
       },
       {
         "type": "comment",
@@ -7042,7 +7151,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रसङ्गो भवेत्तेन वस्तिकुक्षिनिपीडितः वातवस्तिः स विज्ञेयो व्याधिः कृच्छ्रप्रसाधनः",
         "iast": "mūtrasaṅgo bhavettena vastikukṣinipīḍitaḥ vātavastiḥ sa vijñeyo vyādhiḥ kṛcchraprasādhanaḥ",
         "iast_ru": "мӯтрасан̇го бхаветтена вастикукш̣инипӣд̣итах̣ ва̄тавастих̣ са виджн̃ейо вйа̄дхих̣ кр̣ччхрапраса̄дханах̣",
-        "text": "Вследствие этого возникает задержка мочи с давлением в области пузыря и живота. Этот недуг следует знать как Ватавасти — болезнь, трудно поддающуюся лечению."
+        "text": "Вследствие этого возникает задержка мочи с давлением в области пузыря и живота. Этот недуг следует знать как Ватавасти — болезнь, трудно поддающуюся лечению.",
+        "text_en": "As a result, retention of urine arises with pressure in the region of the bladder and abdomen. This affliction is to be known as Vatavasti — a disease difficult to cure."
       },
       {
         "type": "verse",
@@ -7050,7 +7160,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "चिरं धारयतो मूत्रं त्वरया न प्रवर्तते मेहमानस्य मन्दं वा मूत्रातीतः स उच्यते",
         "iast": "ciraṃ dhārayato mūtraṃ tvarayā na pravartate mehamānasya mandaṃ vā mūtrātītaḥ sa ucyate",
         "iast_ru": "чирам̣ дха̄райато мӯтрам̣ тварайа̄ на правартате мехама̄насйа мандам̣ ва̄ мӯтра̄тӣтах̣ са учйате",
-        "text": "У того, кто долго удерживает мочу, она не отходит с напором либо выделяется вяло. Это состояние именуется Мутратита (запоздалая моча)."
+        "text": "У того, кто долго удерживает мочу, она не отходит с напором либо выделяется вяло. Это состояние именуется Мутратита (запоздалая моча).",
+        "text_en": "In one who holds back urine for a long time, it does not pass with force, or is passed sluggishly. This condition is called Mutratita (delayed urine)."
       },
       {
         "type": "verse",
@@ -7058,7 +7169,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रस्य वेगेऽभिहते तदुदावर्तहेतुकः अपानःकुपितो वायुरुदरं पूरयेद् भृशम्",
         "iast": "mūtrasya vege'bhihate tadudāvartahetukaḥ apānaḥkupito vāyurudaraṃ pūrayed bhṛśam",
         "iast_ru": "мӯтрасйа веге'бхихате тадуда̄вартахетуках̣ апа̄нах̣купито ва̄йурударам̣ пӯрайед бхр̣ш́ам",
-        "text": "Когда позыв к мочеиспусканию подавлен, это становится причиной удаварты. Возбуждённая Апана-Ваю чрезмерно наполняет живот."
+        "text": "Когда позыв к мочеиспусканию подавлен, это становится причиной удаварты. Возбуждённая Апана-Ваю чрезмерно наполняет живот.",
+        "text_en": "When the urge to urinate is suppressed, this becomes a cause of udavarta. The provoked Apana-Vayu excessively fills the abdomen."
       },
       {
         "type": "verse",
@@ -7066,7 +7178,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नाभेरधस्तादाध्मानं जनयेत्तीव्रवेदनम् तन्मूत्रजठरं विद्यादधोवस्तिनिरोधनम्",
         "iast": "nābheradhastādādhmānaṃ janayettīvravedanam tanmūtrajaṭharaṃ vidyādadhovastinirodhanam",
         "iast_ru": "на̄бхерадхаста̄да̄дхма̄нам̣ джанайеттӣвраведанам танмӯтраджат̣харам̣ видйа̄дадховастиниродханам",
-        "text": "Ниже пупка возникает вздутие с сильной болью. Это следует знать как Мутра-джатхару (мочевую водянку) — вследствие закупорки нижней части мочевого пузыря."
+        "text": "Ниже пупка возникает вздутие с сильной болью. Это следует знать как Мутра-джатхару (мочевую водянку) — вследствие закупорки нижней части мочевого пузыря.",
+        "text_en": "Below the navel there arises distension with severe pain. This should be known as Mutra-jathara (urinary dropsy) — due to obstruction of the lower part of the bladder."
       },
       {
         "type": "verse",
@@ -7074,7 +7187,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वस्तौ वाऽप्यथवा नाले मणौ वा यस्य देहिनः मूत्रं प्रवृत्तं सज्जेत सरक्तं वा प्रवाहतः",
         "iast": "vastau vā'pyathavā nāle maṇau vā yasya dehinaḥ mūtraṃ pravṛttaṃ sajjeta saraktaṃ vā pravāhataḥ",
         "iast_ru": "вастау ва̄'пйатхава̄ на̄ле ман̣ау ва̄ йасйа дехинах̣ мӯтрам̣ правр̣ттам̣ саджджета сарактам̣ ва̄ права̄хатах̣",
-        "text": "В мочевом пузыре, мочеиспускательном канале или головке полового члена, когда начавшая отходить моча застревает — возможно с кровью — при натуживании,"
+        "text": "В мочевом пузыре, мочеиспускательном канале или головке полового члена, когда начавшая отходить моча застревает — возможно с кровью — при натуживании,",
+        "text_en": "In the bladder, urethra, or glans of the penis, when urine that has begun to pass becomes stuck — possibly with blood — upon straining,"
       },
       {
         "type": "verse",
@@ -7082,7 +7196,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्रवेच्छनैरल्पमल्पं सरुजं वाऽथ नीरुजम् विगुणानिलजो व्याधिः स मूत्रोत्सङ्गसंज्ञितः",
         "iast": "sravecchanairalpamalpaṃ sarujaṃ vā'tha nīrujam viguṇānilajo vyādhiḥ sa mūtrotsaṅgasaṃjñitaḥ",
         "iast_ru": "сравеччханаиралпамалпам̣ саруджам̣ ва̄'тха нӣруджам вигун̣а̄ниладжо вйа̄дхих̣ са мӯтротсан̇гасам̣джн̃итах̣",
-        "text": "Она сочится медленно, малыми порциями, с болью или без боли. Этот недуг, порождённый расстроенной Ватой, именуется Мутротсанга (застой мочи)."
+        "text": "Она сочится медленно, малыми порциями, с болью или без боли. Этот недуг, порождённый расстроенной Ватой, именуется Мутротсанга (застой мочи).",
+        "text_en": "it trickles out slowly, in small amounts, with or without pain. This affliction, produced by disordered Vata, is called Mutrotsanga (stagnation of urine)."
       },
       {
         "type": "verse",
@@ -7090,7 +7205,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रूक्षस्य क्लान्तदेहस्य वस्तिस्थौ पित्तमारुतौ मूत्रक्षयं सरुग्दाहं जनयेतां तदाह्वयम्",
         "iast": "rūkṣasya klāntadehasya vastisthau pittamārutau mūtrakṣayaṃ sarugdāhaṃ janayetāṃ tadāhvayam",
         "iast_ru": "рӯкш̣асйа кла̄нтадехасйа вастистхау питтама̄рутау мӯтракш̣айам̣ саругда̄хам̣ джанайета̄м̣ тада̄хвайам",
-        "text": "У иссушённого, изнурённого человека Питта и Вата, засевшие в мочевом пузыре, вызывают уменьшение мочи с болью и жжением. Это состояние именуется Мутракшая (убыль мочи)."
+        "text": "У иссушённого, изнурённого человека Питта и Вата, засевшие в мочевом пузыре, вызывают уменьшение мочи с болью и жжением. Это состояние именуется Мутракшая (убыль мочи).",
+        "text_en": "In a dried-out, exhausted person, Pitta and Vata, lodging in the bladder, cause a decrease of urine with pain and burning. This condition is called Mutrakshaya (diminution of urine)."
       },
       {
         "type": "comment",
@@ -7103,7 +7219,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अन्तर्वस्तिमुखे वृत्तः स्थिरोऽल्प सहसा भवेत् अश्मरीतुल्यरुग्ग्रन्थिर्मूत्रग्रन्थिः स उच्यते",
         "iast": "antarvastimukhe vṛttaḥ sthiro'lpa sahasā bhavet aśmarītulyaruggranthirmūtragranthiḥ sa ucyate",
         "iast_ru": "антарвастимукхе вр̣ттах̣ стхиро'лпа сахаса̄ бхавет аш́марӣтулйаруггрантхирмӯтрагрантхих̣ са учйате",
-        "text": "У внутреннего устья мочевого пузыря внезапно появляется округлое, плотное, небольшое образование с болью, подобной боли от камня. Оно именуется Мутра-грантхи (узел мочевых путей)."
+        "text": "У внутреннего устья мочевого пузыря внезапно появляется округлое, плотное, небольшое образование с болью, подобной боли от камня. Оно именуется Мутра-грантхи (узел мочевых путей).",
+        "text_en": "At the inner opening of the bladder there suddenly appears a rounded, dense, small formation with pain resembling that of a stone. It is called Mutra-granthi (a knot of the urinary passages)."
       },
       {
         "type": "verse",
@@ -7111,7 +7228,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रितस्य स्त्रियं यातो वायुना शुक्रमुद्धतम् स्थानाच्च्युतं मूत्रयतः प्राक् पश्चाद्वा प्रवर्तते",
         "iast": "mūtritasya striyaṃ yāto vāyunā śukramuddhatam sthānāccyutaṃ mūtrayataḥ prāk paścādvā pravartate",
         "iast_ru": "мӯтритасйа стрийам̣ йа̄то ва̄йуна̄ ш́украмуддхатам стха̄на̄ччйутам̣ мӯтрайатах̣ пра̄к паш́ча̄два̄ правартате",
-        "text": "Когда мужчина, помочившись, сходится с женщиной, Вата смещает семя с его места; оно выделяется до или после мочеиспускания."
+        "text": "Когда мужчина, помочившись, сходится с женщиной, Вата смещает семя с его места; оно выделяется до или после мочеиспускания.",
+        "text_en": "When a man, having urinated, unites with a woman, Vata displaces the semen from its place; it is discharged either before or after urination."
       },
       {
         "type": "verse",
@@ -7119,7 +7237,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्यायामाध्वातपैः पित्तं वस्तिं प्राप्यानिलान्वितम्",
         "iast": "vyāyāmādhvātapaiḥ pittaṃ vastiṃ prāpyānilānvitam",
         "iast_ru": "вйа̄йа̄ма̄дхва̄тапаих̣ питтам̣ вастим̣ пра̄пйа̄нила̄нвитам",
-        "text": "Вследствие физических упражнений, долгой ходьбы и зноя Питта вместе с Ватой достигает мочевого пузыря."
+        "text": "Вследствие физических упражнений, долгой ходьбы и зноя Питта вместе с Ватой достигает мочевого пузыря.",
+        "text_en": "As a result of physical exercise, long walking, and heat, Pitta together with Vata reaches the bladder."
       },
       {
         "type": "verse",
@@ -7127,7 +7246,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वस्तिं मेढ्रं गुदं चैव प्रदहेत्स्रावयेदधः मूत्रं हारिद्र मथवा सरक्तं रक्तमेव वा",
         "iast": "vastiṃ meḍhraṃ gudaṃ caiva pradahetsrāvayedadhaḥ mūtraṃ hāridra mathavā saraktaṃ raktameva vā",
         "iast_ru": "вастим̣ мед̣храм̣ гудам̣ чаива прадахетсра̄вайедадхах̣ мӯтрам̣ ха̄ридра матхава̄ сарактам̣ рактамева ва̄",
-        "text": "Она обжигает мочевой пузырь, половой член и прямую кишку, вызывая истечение мочи книзу — желтоватой, с примесью крови либо чистой крови."
+        "text": "Она обжигает мочевой пузырь, половой член и прямую кишку, вызывая истечение мочи книзу — желтоватой, с примесью крови либо чистой крови.",
+        "text_en": "It scorches the bladder, penis, and rectum, causing the flow of urine downward — yellowish, mixed with blood, or pure blood."
       },
       {
         "type": "verse",
@@ -7135,7 +7255,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृच्छ्रात्पुनः पुनर्जन्तोरुष्णवातं ब्रुवन्ति तम् पित्तं कफो द्वावपि वा संहन्येतेऽनिलेन चेत्",
         "iast": "kṛcchrātpunaḥ punarjantoruṣṇavātaṃ bruvanti tam pittaṃ kapho dvāvapi vā saṃhanyete'nilena cet",
         "iast_ru": "кр̣ччхра̄тпунах̣ пунарджанторуш̣н̣ава̄там̣ бруванти там питтам̣ капхо два̄вапи ва̄ сам̣ханйете'нилена чет",
-        "text": "Моча отходит с трудом и многократно — это именуется Ушнавата (горячий ветер). Если же Питта, Капха или обе доши соединяются с Ватой..."
+        "text": "Моча отходит с трудом и многократно — это именуется Ушнавата (горячий ветер). Если же Питта, Капха или обе доши соединяются с Ватой...",
+        "text_en": "Urine passes with difficulty and repeatedly — this is called Ushnavata (hot wind). But if Pitta, Kapha, or both doshas join with Vata..."
       },
       {
         "type": "verse",
@@ -7143,7 +7264,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृच्छ्रान्मूत्रं तदा पीतं श्वेतं रक्तं घनं सृजेत् सदाहं रोचनाशङ्खचूर्णवर्णं भवेत्तु तत्",
         "iast": "kṛcchrānmūtraṃ tadā pītaṃ śvetaṃ raktaṃ ghanaṃ sṛjet sadāhaṃ rocanāśaṅkhacūrṇavarṇaṃ bhavettu tat",
         "iast_ru": "кр̣ччхра̄нмӯтрам̣ тада̄ пӣтам̣ ш́ветам̣ рактам̣ гханам̣ ср̣джет сада̄хам̣ рочана̄ш́ан̇кхачӯрн̣аварн̣ам̣ бхаветту тат",
-        "text": "...тогда моча выделяется с затруднением — жёлтая, белая, красная, густая, со жжением, цветом подобная горочане или порошку раковины."
+        "text": "...тогда моча выделяется с затруднением — жёлтая, белая, красная, густая, со жжением, цветом подобная горочане или порошку раковины.",
+        "text_en": "...then urine is passed with difficulty — yellow, white, red, thick, with burning, resembling in color gorochana (bile pigment) or powdered conch-shell."
       },
       {
         "type": "verse",
@@ -7151,7 +7273,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शुष्कं समस्तवर्णं वा मूत्रसादं वदन्ति तम् रूक्षदुर्बलयोर्वातेनोदावृत्तं शकृद्यदा",
         "iast": "śuṣkaṃ samastavarṇaṃ vā mūtrasādaṃ vadanti tam rūkṣadurbalayorvātenodāvṛttaṃ śakṛdyadā",
         "iast_ru": "ш́уш̣кам̣ самаставарн̣ам̣ ва̄ мӯтраса̄дам̣ ваданти там рӯкш̣адурбалайорва̄тенода̄вр̣ттам̣ ш́акр̣дйада̄",
-        "text": "Сухая или смешанных цветов — это состояние именуется Мутрасада (осадок в моче). У сухощавых и ослабленных людей, когда кал вытесняется кверху Ватой..."
+        "text": "Сухая или смешанных цветов — это состояние именуется Мутрасада (осадок в моче). У сухощавых и ослабленных людей, когда кал вытесняется кверху Ватой...",
+        "text_en": "Dry or of mixed colors — this condition is called Mutrasada (sediment in the urine). In lean and weakened people, when stool is forced upward by Vata..."
       },
       {
         "type": "verse",
@@ -7159,7 +7282,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रस्रोतोऽनुपद्येत विट्संसृष्टं तदा नरः विड्गन्धं मूत्रयेत्कृच्छ्राद्विड्विघातं विनिर्दिशेत्",
         "iast": "mūtrasroto'nupadyeta viṭsaṃsṛṣṭaṃ tadā naraḥ viḍgandhaṃ mūtrayetkṛcchrādviḍvighātaṃ vinirdiśet",
         "iast_ru": "мӯтрасрото'нупадйета вит̣сам̣ср̣ш̣т̣ам̣ тада̄ нарах̣ вид̣гандхам̣ мӯтрайеткр̣ччхра̄двид̣вигха̄там̣ винирдиш́ет",
-        "text": "...он проникает в мочевой канал, смешиваясь с мочой; тогда человек мочится с каловым запахом, с затруднением. Это определяется как Видвигхата (каловое расстройство)."
+        "text": "...он проникает в мочевой канал, смешиваясь с мочой; тогда человек мочится с каловым запахом, с затруднением. Это определяется как Видвигхата (каловое расстройство).",
+        "text_en": "...it enters the urinary passage, mixing with the urine; then the person urinates with a fecal odor, with difficulty. This is determined as Vidvighata (fecal obstruction disorder)."
       },
       {
         "type": "verse",
@@ -7167,7 +7291,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "द्रुताध्वलङ्घनायासै रभिघातात्प्रपीडनात् स्वस्थानाद्वस्तिरुद्वृत्तः स्थूलस्तिष्ठति गर्भवत्",
         "iast": "drutādhvalaṅghanāyāsai rabhighātātprapīḍanāt svasthānādvastirudvṛttaḥ sthūlastiṣṭhati garbhavat",
         "iast_ru": "друта̄дхвалан̇гхана̄йа̄саи рабхигха̄та̄тпрапӣд̣ана̄т свастха̄на̄двастирудвр̣ттах̣ стхӯластиш̣т̣хати гарбхават",
-        "text": "От стремительного передвижения, голодания, перенапряжения, ударов или сдавления мочевой пузырь выпадает со своего места, увеличивается и выглядит подобно беременности."
+        "text": "От стремительного передвижения, голодания, перенапряжения, ударов или сдавления мочевой пузырь выпадает со своего места, увеличивается и выглядит подобно беременности.",
+        "text_en": "From rapid movement, fasting, overexertion, blows, or compression, the bladder falls out of its place, enlarges, and appears similar to pregnancy."
       },
       {
         "type": "verse",
@@ -7175,7 +7300,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शूलस्पन्दनदाहार्तो विन्दुं बिन्दुं स्रवत्यपि पीडितस्तु सृजेद्धारां संस्तम्भोद्वेष्टनार्तिमान्",
         "iast": "śūlaspandanadāhārto vinduṃ binduṃ sravatyapi pīḍitastu sṛjeddhārāṃ saṃstambhodveṣṭanārtimān",
         "iast_ru": "ш́ӯласпанданада̄ха̄рто виндум̣ биндум̣ сраватйапи пӣд̣итасту ср̣джеддха̄ра̄м̣ сам̣стамбходвеш̣т̣ана̄ртима̄н",
-        "text": "Страдая от колик, пульсации и жжения, больной выделяет мочу по каплям; при надавливании же выходит струя — со скованностью, скручивающей болью."
+        "text": "Страдая от колик, пульсации и жжения, больной выделяет мочу по каплям; при надавливании же выходит струя — со скованностью, скручивающей болью.",
+        "text_en": "Suffering from colic, throbbing, and burning, the patient passes urine drop by drop; but upon pressing, a stream comes out — with stiffness and a twisting pain."
       },
       {
         "type": "verse",
@@ -7183,7 +7309,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वस्तिकुण्डलमाहुस्तं घोरं शस्त्रविषोपमम् पवनप्रबलं प्रायो दुर्निवारमबुद्धिभिः",
         "iast": "vastikuṇḍalamāhustaṃ ghoraṃ śastraviṣopamam pavanaprabalaṃ prāyo durnivāramabuddhibhiḥ",
         "iast_ru": "вастикун̣д̣алама̄хустам̣ гхорам̣ ш́астравиш̣опамам паванапрабалам̣ пра̄йо дурнива̄рамабуддхибхих̣",
-        "text": "Это именуется Вастикундала — грозный недуг, подобный оружию или яду, преимущественно обусловленный Ватой, трудноизлечимый для несведущих врачей."
+        "text": "Это именуется Вастикундала — грозный недуг, подобный оружию или яду, преимущественно обусловленный Ватой, трудноизлечимый для несведущих врачей.",
+        "text_en": "This is called Vastikundala — a formidable affliction, like a weapon or poison, predominantly caused by Vata, difficult to cure for inexperienced physicians."
       },
       {
         "type": "verse",
@@ -7191,7 +7318,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तस्मिन्पित्तान्विते दाहः शूलं मूत्रविवर्णता",
         "iast": "tasminpittānvite dāhaḥ śūlaṃ mūtravivarṇatā",
         "iast_ru": "тасминпитта̄нвите да̄хах̣ ш́ӯлам̣ мӯтравиварн̣ата̄",
-        "text": "При сочетании с Питтой — жжение, колики и изменение цвета мочи."
+        "text": "При сочетании с Питтой — жжение, колики и изменение цвета мочи.",
+        "text_en": "When combined with Pitta — burning, colic, and discoloration of the urine."
       },
       {
         "type": "verse",
@@ -7199,7 +7327,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्लेष्मणा गौरवं शोथः स्निग्धं मूत्रं घनं सितम् श्लेष्मरुद्धबिलो वस्तिः पित्तोदीर्णो न सिध्यति अविभ्रान्तबिलः साध्यो न तु यः कुण्डलीकृतः",
         "iast": "śleṣmaṇā gauravaṃ śothaḥ snigdhaṃ mūtraṃ ghanaṃ sitam śleṣmaruddhabilo vastiḥ pittodīrṇo na sidhyati avibhrāntabilaḥ sādhyo na tu yaḥ kuṇḍalīkṛtaḥ",
         "iast_ru": "ш́леш̣ман̣а̄ гауравам̣ ш́отхах̣ снигдхам̣ мӯтрам̣ гханам̣ ситам ш́леш̣маруддхабило вастих̣ питтодӣрн̣о на сидхйати авибхра̄нтабилах̣ са̄дхйо на ту йах̣ кун̣д̣алӣкр̣тах̣",
-        "text": "При сочетании с Капхой — тяжесть, отёк, моча маслянистая, густая, белая. Мочевой пузырь с устьем, закупоренным Капхой и при возбуждённой Питте, — неизлечим. Если устье не смещено — излечим; но не тот случай, когда пузырь скручен спиралевидно."
+        "text": "При сочетании с Капхой — тяжесть, отёк, моча маслянистая, густая, белая. Мочевой пузырь с устьем, закупоренным Капхой и при возбуждённой Питте, — неизлечим. Если устье не смещено — излечим; но не тот случай, когда пузырь скручен спиралевидно.",
+        "text_en": "When combined with Kapha — heaviness, swelling, the urine oily, thick, and white. A bladder whose opening is blocked by Kapha, with Pitta provoked, is incurable. If the opening is not displaced, it is curable; but not the case where the bladder is twisted spirally."
       },
       {
         "type": "verse",
@@ -7207,7 +7336,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्यादस्तौ कुण्डलीभूते तृण्मोहः श्वास एव च",
         "iast": "syādastau kuṇḍalībhūte tṛṇmohaḥ śvāsa eva ca",
         "iast_ru": "сйа̄дастау кун̣д̣алӣбхӯте тр̣н̣мохах̣ ш́ва̄са ева ча",
-        "text": "Когда мочевой пузырь принимает спиралевидную форму, возникают жажда, потеря сознания и одышка."
+        "text": "Когда мочевой пузырь принимает спиралевидную форму, возникают жажда, потеря сознания и одышка.",
+        "text_en": "When the bladder takes on a spiral form, there arise thirst, loss of consciousness, and dyspnea."
       }
     ]
   },
@@ -7229,7 +7359,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथाश्मरीनिदानम् वातपित्तकफैस्तिस्रश्चतुर्थी शुक्रजाऽपरा प्रायः श्लेष्माश्रयाः सर्वा अश्मर्यः स्युर्यमोपमाः",
         "iast": "athāśmarīnidānam vātapittakaphaistisraścaturthī śukrajā'parā prāyaḥ śleṣmāśrayāḥ sarvā aśmaryaḥ syuryamopamāḥ",
         "iast_ru": "атха̄ш́марӣнида̄нам ва̄тапиттакапхаистисраш́чатуртхӣ ш́украджа̄'пара̄ пра̄йах̣ ш́леш̣ма̄ш́райа̄х̣ сарва̄ аш́марйах̣ сйурйамопама̄х̣",
-        "text": "Итак, начинается раздел о распознавании мочевых камней (ашмари). Три вида — от Ваты, Питты и Капхи, и четвёртый — от семени. Все камни преимущественно имеют Капху своей основой. Мочевые камни смертоносны, подобно богу смерти Яме."
+        "text": "Итак, начинается раздел о распознавании мочевых камней (ашмари). Три вида — от Ваты, Питты и Капхи, и четвёртый — от семени. Все камни преимущественно имеют Капху своей основой. Мочевые камни смертоносны, подобно богу смерти Яме.",
+        "text_en": "Now begins the section on the diagnosis of urinary stones (ashmari). Three kinds — from Vata, Pitta, and Kapha, and a fourth — from semen. All stones have Kapha predominantly as their basis. Urinary stones are deadly, like Yama, the god of death."
       },
       {
         "type": "verse",
@@ -7237,7 +7368,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विशोषयेद्वस्तिगतं सशुक्रं मूत्रं सपित्तं पवनः कफं वा यदा तदाश्मर्युपजायते तु क्रमेण पित्तेष्विव रोचना गोः",
         "iast": "viśoṣayedvastigataṃ saśukraṃ mūtraṃ sapittaṃ pavanaḥ kaphaṃ vā yadā tadāśmaryupajāyate tu krameṇa pitteṣviva rocanā goḥ",
         "iast_ru": "виш́ош̣айедвастигатам̣ саш́украм̣ мӯтрам̣ сапиттам̣ паванах̣ капхам̣ ва̄ йада̄ тада̄ш́марйупаджа̄йате ту крамен̣а питтеш̣вива рочана̄ гох̣",
-        "text": "Когда Вата иссушает мочу в пузыре, смешанную с семенем, Питтой или Капхой, тогда постепенно образуется камень — подобно тому, как возникает горочана в желчи коровы."
+        "text": "Когда Вата иссушает мочу в пузыре, смешанную с семенем, Питтой или Капхой, тогда постепенно образуется камень — подобно тому, как возникает горочана в желчи коровы.",
+        "text_en": "When Vata dries out the urine in the bladder, mixed with semen, Pitta, or Kapha, then a stone gradually forms — just as gorochana forms in the bile of a cow."
       },
       {
         "type": "verse",
@@ -7245,7 +7377,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नैकदोषाश्रयाः सर्वाः -- अथासां पूर्वलक्षणम् बस्त्याध्मानं तदासन्नदेशेषु परितोऽतिरुक्",
         "iast": "naikadoṣāśrayāḥ sarvāḥ -- athāsāṃ pūrvalakṣaṇam bastyādhmānaṃ tadāsannadeśeṣu parito'tiruk",
         "iast_ru": "наикадош̣а̄ш́райа̄х̣ сарва̄х̣ -- атха̄са̄м̣ пӯрвалакш̣ан̣ам бастйа̄дхма̄нам̣ тада̄саннадеш́еш̣у парито'тирук",
-        "text": "Все камни имеют не одну дошу в основе. Далее — их предвестники: вздутие мочевого пузыря, сильнейшая боль в окружающих областях."
+        "text": "Все камни имеют не одну дошу в основе. Далее — их предвестники: вздутие мочевого пузыря, сильнейшая боль в окружающих областях.",
+        "text_en": "All stones do not have a single dosha as their basis. Next, their premonitory signs: distension of the bladder, very severe pain in the surrounding regions."
       },
       {
         "type": "comment",
@@ -7258,7 +7391,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रे बस्तसगन्धत्वं मूत्रकृच्छ्रं ज्वरोऽरुचिः सामान्यलिङ्गं रुङ्नाभिसेवनीबस्तिमूर्धसु",
         "iast": "mūtre bastasagandhatvaṃ mūtrakṛcchraṃ jvaro'ruciḥ sāmānyaliṅgaṃ ruṅnābhisevanībastimūrdhasu",
         "iast_ru": "мӯтре бастасагандхатвам̣ мӯтракр̣ччхрам̣ джваро'ручих̣ са̄ма̄нйалин̇гам̣ рун̇на̄бхисеванӣбастимӯрдхасу",
-        "text": "Козлиный запах мочи, затруднённое мочеиспускание, лихорадка, отвращение к пище. Общие признаки: боль в области пупка, промежности и верхушки мочевого пузыря."
+        "text": "Козлиный запах мочи, затруднённое мочеиспускание, лихорадка, отвращение к пище. Общие признаки: боль в области пупка, промежности и верхушки мочевого пузыря.",
+        "text_en": "A goat-like odor of the urine, difficulty in urination, fever, aversion to food. General signs: pain in the region of the navel, perineum, and the top of the bladder."
       },
       {
         "type": "verse",
@@ -7266,7 +7400,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विशीर्णधारं मूत्रं स्यात्तया मार्गे निरोधिते तद्व्यपायात्सुखं मेहेदच्छं गोमेदकोपमम्",
         "iast": "viśīrṇadhāraṃ mūtraṃ syāttayā mārge nirodhite tadvyapāyātsukhaṃ mehedacchaṃ gomedakopamam",
         "iast_ru": "виш́ӣрн̣адха̄рам̣ мӯтрам̣ сйа̄ттайа̄ ма̄рге ниродхите тадвйапа̄йа̄тсукхам̣ мехедаччхам̣ гомедакопамам",
-        "text": "Струя мочи расщепляется, когда путь перекрыт камнем; при смещении камня моча отходит свободно, прозрачная, подобная цвету камня гомедака."
+        "text": "Струя мочи расщепляется, когда путь перекрыт камнем; при смещении камня моча отходит свободно, прозрачная, подобная цвету камня гомедака.",
+        "text_en": "The stream of urine splits when the path is blocked by the stone; when the stone shifts, the urine passes freely, clear, resembling in color the gomeda stone."
       },
       {
         "type": "verse",
@@ -7274,7 +7409,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तत्संक्षोभात्क्षते सास्रमायासाच्चातिरुग्भवेत् तत्र वाताद् भृशं चार्तो दन्तान् खादति वेपते",
         "iast": "tatsaṃkṣobhātkṣate sāsramāyāsāccātirugbhavet tatra vātād bhṛśaṃ cārto dantān khādati vepate",
         "iast_ru": "татсам̣кш̣обха̄ткш̣ате са̄срама̄йа̄са̄чча̄тиругбхавет татра ва̄та̄д бхр̣ш́ам̣ ча̄рто данта̄н кха̄дати вепате",
-        "text": "От сотрясения камня возникает кровотечение из повреждённого места и сильнейшая боль от напряжения. Из-за Ваты тяжко страдающий больной скрежещет зубами и дрожит."
+        "text": "От сотрясения камня возникает кровотечение из повреждённого места и сильнейшая боль от напряжения. Из-за Ваты тяжко страдающий больной скрежещет зубами и дрожит.",
+        "text_en": "From the jostling of the stone there arises bleeding from the damaged spot and severe pain from the strain. From Vata, the greatly suffering patient grinds his teeth and trembles."
       },
       {
         "type": "comment",
@@ -7287,7 +7423,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गृह्णाति मेहनं नाभिं पीडयत्यनिशं क्कणन् सानिलं मुञ्चति शकृन्मुहुर्मेहति बिन्दुशः",
         "iast": "gṛhṇāti mehanaṃ nābhiṃ pīḍayatyaniśaṃ kkaṇan sānilaṃ muñcati śakṛnmuhurmehati binduśaḥ",
         "iast_ru": "гр̣хн̣а̄ти механам̣ на̄бхим̣ пӣд̣айатйаниш́ам̣ ккан̣ан са̄нилам̣ мун̃чати ш́акр̣нмухурмехати биндуш́ах̣",
-        "text": "Он хватается за половой член, непрестанно давит на область пупка, выделяет кал с газами, многократно мочится по каплям."
+        "text": "Он хватается за половой член, непрестанно давит на область пупка, выделяет кал с газами, многократно мочится по каплям.",
+        "text_en": "He grasps at the penis, presses continually on the region of the navel, passes stool together with gas, and urinates repeatedly, drop by drop."
       },
       {
         "type": "comment",
@@ -7300,7 +7437,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्यावारुणाऽश्मरी चास्य स्याच्चिता कण्टकैरिव पित्तेन दह्यते वस्तिः पच्यमान इवोष्मवान्",
         "iast": "śyāvāruṇā'śmarī cāsya syāccitā kaṇṭakairiva pittena dahyate vastiḥ pacyamāna ivoṣmavān",
         "iast_ru": "ш́йа̄ва̄рун̣а̄'ш́марӣ ча̄сйа сйа̄ччита̄ кан̣т̣акаирива питтена дахйате вастих̣ пачйама̄на ивош̣мава̄н",
-        "text": "Камень его тёмно-красно-бурый, словно покрытый шипами. Из-за Питты мочевой пузырь жжёт, будто варится, с ощущением жара."
+        "text": "Камень его тёмно-красно-бурый, словно покрытый шипами. Из-за Питты мочевой пузырь жжёт, будто варится, с ощущением жара.",
+        "text_en": "His stone is dark reddish-brown, as though covered with thorns. From Pitta, the bladder burns as though being cooked, with a sensation of heat."
       },
       {
         "type": "verse",
@@ -7308,7 +7446,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भल्लातकास्थिसंस्थाना रक्तपीताऽसिताश्मरी वस्तिर्निस्तुद्यत इव श्लेष्मणा शीतलो गुरुः",
         "iast": "bhallātakāsthisaṃsthānā raktapītā'sitāśmarī vastirnistudyata iva śleṣmaṇā śītalo guruḥ",
         "iast_ru": "бхалла̄така̄стхисам̣стха̄на̄ рактапӣта̄'сита̄ш́марӣ вастирнистудйата ива ш́леш̣ман̣а̄ ш́ӣтало гурух̣",
-        "text": "Камень по форме подобен косточке бхаллатаки (семикарпуса), красно-жёлтый или тёмный. Из-за Капхи мочевой пузырь будто пронзается, ощущается холод и тяжесть."
+        "text": "Камень по форме подобен косточке бхаллатаки (семикарпуса), красно-жёлтый или тёмный. Из-за Капхи мочевой пузырь будто пронзается, ощущается холод и тяжесть.",
+        "text_en": "The stone in its shape resembles the seed of bhallataka (semecarpus), reddish-yellow or dark. From Kapha, the bladder feels as though pierced, with a sensation of cold and heaviness."
       },
       {
         "type": "comment",
@@ -7321,7 +7460,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अश्मरी महती श्लक्ष्णा मधुवर्णाऽथवा सिता एता भवन्ति बालानां तेषामेव च भूयसा",
         "iast": "aśmarī mahatī ślakṣṇā madhuvarṇā'thavā sitā etā bhavanti bālānāṃ teṣāmeva ca bhūyasā",
         "iast_ru": "аш́марӣ махатӣ ш́лакш̣н̣а̄ мадхуварн̣а̄'тхава̄ сита̄ ета̄ бхаванти ба̄ла̄на̄м̣ теш̣а̄мева ча бхӯйаса̄",
-        "text": "Камень крупный, гладкий, медового цвета или белый. Такие камни встречаются у детей и преимущественно именно у них."
+        "text": "Камень крупный, гладкий, медового цвета или белый. Такие камни встречаются у детей и преимущественно именно у них.",
+        "text_en": "The stone is large, smooth, honey-colored or white. Such stones occur in children, and predominantly in them."
       },
       {
         "type": "verse",
@@ -7329,7 +7469,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आश्रयोपचयाल्पत्वाद् ग्रहणाहरणे सुखाः शुक्राश्मरी तु महतां जायते शुक्रधारणात्",
         "iast": "āśrayopacayālpatvād grahaṇāharaṇe sukhāḥ śukrāśmarī tu mahatāṃ jāyate śukradhāraṇāt",
         "iast_ru": "а̄ш́райопачайа̄лпатва̄д грахан̣а̄харан̣е сукха̄х̣ ш́укра̄ш́марӣ ту махата̄м̣ джа̄йате ш́украдха̄ран̣а̄т",
-        "text": "Благодаря малому размеру основы и медленному накоплению, их легко захватить и извлечь. Семенной же камень возникает у взрослых вследствие удержания семени."
+        "text": "Благодаря малому размеру основы и медленному накоплению, их легко захватить и извлечь. Семенной же камень возникает у взрослых вследствие удержания семени.",
+        "text_en": "Owing to the small size of the base and the slow accumulation, they are easily grasped and extracted. A seminal stone, however, arises in adults as a result of retention of semen."
       },
       {
         "type": "verse",
@@ -7337,7 +7478,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्थानाच्च्युतममुक्तं हि मुष्कयोरन्तरेऽनिलः शोषयत्युपसंगृह्य शुक्रं तच्छुक्रमश्मरी",
         "iast": "sthānāccyutamamuktaṃ hi muṣkayorantare'nilaḥ śoṣayatyupasaṃgṛhya śukraṃ tacchukramaśmarī",
         "iast_ru": "стха̄на̄ччйутамамуктам̣ хи муш̣кайорантаре'нилах̣ ш́ош̣айатйупасам̣гр̣хйа ш́украм̣ таччхукрамаш́марӣ",
-        "text": "Семя, сместившееся со своего места, но не извергнутое, — между яичками Вата, собрав его, иссушает. Это засохшее семя становится семенным камнем."
+        "text": "Семя, сместившееся со своего места, но не извергнутое, — между яичками Вата, собрав его, иссушает. Это засохшее семя становится семенным камнем.",
+        "text_en": "Semen displaced from its place but not ejaculated is gathered by Vata between the testicles and dried out. This dried-out semen becomes a seminal stone."
       },
       {
         "type": "comment",
@@ -7350,7 +7492,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वस्तिरुङ्मूत्रकृच्छ्रत्वमुष्कश्वयथुकारिणी तस्यामुत्पन्नमात्रायां शुक्रमेति बिलीयते",
         "iast": "vastiruṅmūtrakṛcchratvamuṣkaśvayathukāriṇī tasyāmutpannamātrāyāṃ śukrameti bilīyate",
         "iast_ru": "вастирун̇мӯтракр̣ччхратвамуш̣каш́вайатхука̄рин̣ӣ тасйа̄мутпаннама̄тра̄йа̄м̣ ш́украмети билӣйате",
-        "text": "Он вызывает боль в мочевом пузыре, затруднённое мочеиспускание и припухание яичек. Как только камень образуется, семя убывает и исчезает."
+        "text": "Он вызывает боль в мочевом пузыре, затруднённое мочеиспускание и припухание яичек. Как только камень образуется, семя убывает и исчезает.",
+        "text_en": "It causes pain in the bladder, difficulty in urination, and swelling of the testicles. As soon as the stone forms, the semen diminishes and disappears."
       },
       {
         "type": "verse",
@@ -7358,7 +7501,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पीडिते त्ववकाशेऽस्मिन् अश्मर्येब च शर्करा अणुशो वायुना भिन्ना सा तस्मिन्ननुलोमगे",
         "iast": "pīḍite tvavakāśe'smin aśmaryeba ca śarkarā aṇuśo vāyunā bhinnā sā tasminnanulomage",
         "iast_ru": "пӣд̣ите твавака̄ш́е'смин аш́марйеба ча ш́аркара̄ ан̣уш́о ва̄йуна̄ бхинна̄ са̄ тасминнануломаге",
-        "text": "В этом стеснённом пространстве из самого камня образуется песок (шаркара). Раздробленный Ватой на мелкие частицы, при нисходящем движении Ваты..."
+        "text": "В этом стеснённом пространстве из самого камня образуется песок (шаркара). Раздробленный Ватой на мелкие частицы, при нисходящем движении Ваты...",
+        "text_en": "In this constricted space, gravel (sharkara) forms from the stone itself. Crushed by Vata into fine particles, with the downward movement of Vata..."
       },
       {
         "type": "comment",
@@ -7371,7 +7515,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "निरेति सह मूत्रेण प्रतिलोमे निरुध्यते मूत्रस्रोतः प्रवृत्ता सा सक्ता कुर्यादुपद्र वान्",
         "iast": "nireti saha mūtreṇa pratilome nirudhyate mūtrasrotaḥ pravṛttā sā saktā kuryādupadra vān",
         "iast_ru": "нирети саха мӯтрен̣а пратиломе нирудхйате мӯтрасротах̣ правр̣тта̄ са̄ сакта̄ курйа̄дупадра ва̄н",
-        "text": "...он выходит вместе с мочой; при обратном же движении Ваты задерживается. Этот песок, проникший в мочевой канал и застрявший в нём, вызывает осложнения."
+        "text": "...он выходит вместе с мочой; при обратном же движении Ваты задерживается. Этот песок, проникший в мочевой канал и застрявший в нём, вызывает осложнения.",
+        "text_en": "...it passes out together with the urine; but with the reverse movement of Vata, it is retained. This gravel, having entered the urinary passage and become lodged there, causes complications."
       },
       {
         "type": "verse",
@@ -7379,7 +7524,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दौर्वल्यं सदनं कार्श्यं कुक्षिशूलमथारुचिम् पाण्डुत्वमुष्णवातं च तृष्णां हृत्पीडनं वमिम्",
         "iast": "daurvalyaṃ sadanaṃ kārśyaṃ kukṣiśūlamathārucim pāṇḍutvamuṣṇavātaṃ ca tṛṣṇāṃ hṛtpīḍanaṃ vamim",
         "iast_ru": "даурвалйам̣ саданам̣ ка̄рш́йам̣ кукш̣иш́ӯламатха̄ручим па̄н̣д̣утвамуш̣н̣ава̄там̣ ча тр̣ш̣н̣а̄м̣ хр̣тпӣд̣анам̣ вамим",
-        "text": "Слабость, изнеможение, исхудание, боль в животе, отвращение к пище, бледность, горячие газы, жажда, давление в области сердца, рвота."
+        "text": "Слабость, изнеможение, исхудание, боль в животе, отвращение к пище, бледность, горячие газы, жажда, давление в области сердца, рвота.",
+        "text_en": "Weakness, exhaustion, emaciation, abdominal pain, aversion to food, pallor, hot gas, thirst, pressure in the region of the heart, vomiting."
       },
       {
         "type": "verse",
@@ -7387,7 +7533,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्रशूननाभिवृषणं बद्धमूत्रं रुजातुरम् अश्मरी क्षपयत्याशु सिकता शर्करान्विता",
         "iast": "praśūnanābhivṛṣaṇaṃ baddhamūtraṃ rujāturam aśmarī kṣapayatyāśu sikatā śarkarānvitā",
         "iast_ru": "праш́ӯнана̄бхивр̣ш̣ан̣ам̣ баддхамӯтрам̣ руджа̄турам аш́марӣ кш̣апайатйа̄ш́у сиката̄ ш́аркара̄нвита̄",
-        "text": "Припухание пупка и яичек, задержка мочи, мучение болями — камень с песком и крошкой быстро истощает больного."
+        "text": "Припухание пупка и яичек, задержка мочи, мучение болями — камень с песком и крошкой быстро истощает больного.",
+        "text_en": "Swelling of the navel and testicles, retention of urine, torment from pain — a stone with gravel and grit quickly wastes the patient."
       },
       {
         "type": "comment",
@@ -7400,7 +7547,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "इति श्रीमाधवकरविरचिते माधवनिदानेऽश्मरीनिदानं समाप्तम्",
         "iast": "iti śrīmādhavakaraviracite mādhavanidāne'śmarīnidānaṃ samāptam",
         "iast_ru": "ити ш́рӣма̄дхавакаравирачите ма̄дхаванида̄не'ш́марӣнида̄нам̣ сама̄птам",
-        "text": "Так завершается раздел о распознавании мочевых камней в трактате «Мадхава-нидана», составленном Шри Мадхавакарой."
+        "text": "Так завершается раздел о распознавании мочевых камней в трактате «Мадхава-нидана», составленном Шри Мадхавакарой.",
+        "text_en": "Thus ends the section on the diagnosis of urinary stones in the treatise Madhava-nidana, composed by Sri Madhavakara."
       }
     ]
   },
@@ -7422,7 +7570,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ प्रमेह निदानम् उत्तरार्द्ध आस्यासुखं स्वप्नसुखं दधीनि ग्राम्यौदकानूपरसाः पयांसि न वान्नपानं गुडवैकृतं च प्रमेहहेतुः कफकृच्च सर्वम्",
         "iast": "atha prameha nidānam uttarārddha āsyāsukhaṃ svapnasukhaṃ dadhīni grāmyaudakānūparasāḥ payāṃsi na vānnapānaṃ guḍavaikṛtaṃ ca pramehahetuḥ kaphakṛcca sarvam",
         "iast_ru": "атха прамеха нида̄нам уттара̄рддха а̄сйа̄сукхам̣ свапнасукхам̣ дадхӣни гра̄мйаудака̄нӯпараса̄х̣ пайа̄м̣си на ва̄ннапа̄нам̣ гуд̣аваикр̣там̣ ча прамехахетух̣ капхакр̣чча сарвам",
-        "text": "Начало второй части «Прамеха-ниданам». Сидячий образ жизни, чрезмерный сон, употребление простокваши, мяса домашних, водных и болотных животных, молока, а также пищи и питья из неочищенного сахара (гуда) и всего, что увеличивает Капху, — таковы причины прамехи."
+        "text": "Начало второй части «Прамеха-ниданам». Сидячий образ жизни, чрезмерный сон, употребление простокваши, мяса домашних, водных и болотных животных, молока, а также пищи и питья из неочищенного сахара (гуда) и всего, что увеличивает Капху, — таковы причины прамехи.",
+        "text_en": "Beginning of the second part, \"Prameha-nidanam.\" A sedentary way of life, excessive sleep, consuming curdled milk, the meat of domestic, aquatic, and marsh-dwelling animals, milk, as well as food and drink made from unrefined sugar (guda), and everything that increases Kapha — these are the causes of prameha."
       },
       {
         "type": "verse",
@@ -7430,7 +7579,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदश्च मासं च शरीरजं च क्लेदं कफो वस्तिगतः प्रदूष्य करोति मेहान् समुदीर्णमुष्णैस्तानेव पित्तं परिदूष्य चापि",
         "iast": "medaśca māsaṃ ca śarīrajaṃ ca kledaṃ kapho vastigataḥ pradūṣya karoti mehān samudīrṇamuṣṇaistāneva pittaṃ paridūṣya cāpi",
         "iast_ru": "медаш́ча ма̄сам̣ ча ш́арӣраджам̣ ча кледам̣ капхо вастигатах̣ прадӯш̣йа кароти меха̄н самудӣрн̣амуш̣н̣аиста̄нева питтам̣ паридӯш̣йа ча̄пи",
-        "text": "Капха, проникая в васти (мочевой пузырь), загрязняет медас, мамсу и кледу, порождённые телом, и вызывает прамехи. Точно так же и Питта, будучи возбуждена горячими факторами, загрязняет те же дхату и порождает свои виды прамехи."
+        "text": "Капха, проникая в васти (мочевой пузырь), загрязняет медас, мамсу и кледу, порождённые телом, и вызывает прамехи. Точно так же и Питта, будучи возбуждена горячими факторами, загрязняет те же дхату и порождает свои виды прамехи.",
+        "text_en": "Kapha, entering the vasti (bladder), contaminates the medas, mamsa, and kleda produced by the body, and causes the prameha diseases. Likewise Pitta, being provoked by hot factors, contaminates the same dhatus and produces its own varieties of prameha."
       },
       {
         "type": "comment",
@@ -7443,7 +7593,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्षीणेषु दोषेष्ववकृष्य धातून् संदूष्य मेहान् कुरुतेऽनिलश्च साध्याः कफोत्था दशै पित्तजाः षड्याप्या न साध्यः पवनाच्चतुष्कः",
         "iast": "kṣīṇeṣu doṣeṣvavakṛṣya dhātūn saṃdūṣya mehān kurute'nilaśca sādhyāḥ kaphotthā daśai pittajāḥ ṣaḍyāpyā na sādhyaḥ pavanāccatuṣkaḥ",
         "iast_ru": "кш̣ӣн̣еш̣у дош̣еш̣вавакр̣ш̣йа дха̄тӯн сам̣дӯш̣йа меха̄н куруте'нилаш́ча са̄дхйа̄х̣ капхоттха̄ даш́аи питтаджа̄х̣ ш̣ад̣йа̄пйа̄ на са̄дхйах̣ павана̄ччатуш̣ках̣",
-        "text": "Когда Капха и Питта истощены, Вата, вовлекая и загрязняя дхату, также порождает прамехи. Десять видов, происходящих от Капхи, излечимы; шесть, происходящих от Питты, поддаются лечению с трудом; четыре, вызванные Ватой, неизлечимы."
+        "text": "Когда Капха и Питта истощены, Вата, вовлекая и загрязняя дхату, также порождает прамехи. Десять видов, происходящих от Капхи, излечимы; шесть, происходящих от Питты, поддаются лечению с трудом; четыре, вызванные Ватой, неизлечимы.",
+        "text_en": "When Kapha and Pitta are exhausted, Vata, involving and contaminating the dhatus, also produces varieties of prameha. The ten varieties arising from Kapha are curable; the six arising from Pitta yield to treatment only with difficulty; the four caused by Vata are incurable."
       },
       {
         "type": "verse",
@@ -7451,7 +7602,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "समक्रियत्वाद्विषमक्रियत्वान्महात्ययत्वाच्च यथाक्रमं ते कफः सपित्तः पवनश्च दोषौ मेदोऽस्रशुक्राम्बुवसालसीकाः मज्जारसौजः पिशितं च दूष्यौः प्रमेहिणां विंशतिरेव मेहाः",
         "iast": "samakriyatvādviṣamakriyatvānmahātyayatvācca yathākramaṃ te kaphaḥ sapittaḥ pavanaśca doṣau medo'sraśukrāmbuvasālasīkāḥ majjārasaujaḥ piśitaṃ ca dūṣyauḥ pramehiṇāṃ viṃśatireva mehāḥ",
         "iast_ru": "самакрийатва̄двиш̣амакрийатва̄нмаха̄тйайатва̄чча йатха̄крамам̣ те капхах̣ сапиттах̣ паванаш́ча дош̣ау медо'сраш́укра̄мбуваса̄ласӣка̄х̣ маджджа̄расауджах̣ пиш́итам̣ ча дӯш̣йаух̣ прамехин̣а̄м̣ вим̣ш́атирева меха̄х̣",
-        "text": "Соответственно — по причине однородности воздействия, неоднородности воздействия и чрезвычайной опасности — они классифицируются. Капха вместе с Питтой и Вата суть доши прамехи. Медас, ракта, шукра, амбу, васа, ласика, маджджа, раса, оджас и мамса — таковы дхату, подверженные загрязнению. Всего у страдающих прамехой насчитывается двадцать видов мехи."
+        "text": "Соответственно — по причине однородности воздействия, неоднородности воздействия и чрезвычайной опасности — они классифицируются. Капха вместе с Питтой и Вата суть доши прамехи. Медас, ракта, шукра, амбу, васа, ласика, маджджа, раса, оджас и мамса — таковы дхату, подверженные загрязнению. Всего у страдающих прамехой насчитывается двадцать видов мехи.",
+        "text_en": "Accordingly — owing to the uniformity of the effect, the non-uniformity of the effect, and extreme danger — they are classified. Kapha, together with Pitta and Vata, are the doshas of prameha. Medas, rakta, shukra, ambu, vasa, lasika, majja, rasa, ojas, and mamsa — these are the dhatus subject to contamination. Altogether, twenty varieties of meha are counted among those who suffer from prameha."
       },
       {
         "type": "comment",
@@ -7464,7 +7616,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दन्तादीनां मलाढ्यत्वं प्राग्रूपं पाणिपादयोः दाहश्चिक्कणता देहे तृट् स्वाद्वास्यं च जायते",
         "iast": "dantādīnāṃ malāḍhyatvaṃ prāgrūpaṃ pāṇipādayoḥ dāhaścikkaṇatā dehe tṛṭ svādvāsyaṃ ca jāyate",
         "iast_ru": "данта̄дӣна̄м̣ мала̄д̣хйатвам̣ пра̄грӯпам̣ па̄н̣ипа̄дайох̣ да̄хаш́чиккан̣ата̄ дехе тр̣т̣ сва̄два̄сйам̣ ча джа̄йате",
-        "text": "Продромальные признаки (пурварупа) таковы: избыток налёта на зубах и прочих частях тела, жжение в ладонях и стопах, маслянистость (липкость) тела, жажда и сладкий привкус во рту."
+        "text": "Продромальные признаки (пурварупа) таковы: избыток налёта на зубах и прочих частях тела, жжение в ладонях и стопах, маслянистость (липкость) тела, жажда и сладкий привкус во рту.",
+        "text_en": "The premonitory signs (purvarupa) are as follows: an excess of coating on the teeth and other parts of the body, burning in the palms and soles, an oiliness (stickiness) of the body, thirst, and a sweet taste in the mouth."
       },
       {
         "type": "comment",
@@ -7477,7 +7630,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सामान्यं लक्षणं तेषां प्रभूताबिलमूत्रता दोषदूष्याविशेषेऽपि तत्संयोगविशेषतः",
         "iast": "sāmānyaṃ lakṣaṇaṃ teṣāṃ prabhūtābilamūtratā doṣadūṣyāviśeṣe'pi tatsaṃyogaviśeṣataḥ",
         "iast_ru": "са̄ма̄нйам̣ лакш̣ан̣ам̣ теш̣а̄м̣ прабхӯта̄биламӯтрата̄ дош̣адӯш̣йа̄виш́еш̣е'пи татсам̣йогавиш́еш̣атах̣",
-        "text": "Общий признак всех прамех — обильное и мутное мочеиспускание. Хотя доши и загрязняемые дхату не различаются в целом, именно по особенностям их сочетания —"
+        "text": "Общий признак всех прамех — обильное и мутное мочеиспускание. Хотя доши и загрязняемые дхату не различаются в целом, именно по особенностям их сочетания —",
+        "text_en": "The general sign of all the prameha diseases is copious and turbid urination. Although the doshas and the dhatus that become contaminated do not differ overall, it is precisely by the particulars of their combination —"
       },
       {
         "type": "verse",
@@ -7485,7 +7639,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रवर्णादिभेदेन भेदो मेहेषु कल्प्यते अच्छं बहु सितं शीतं निर्गन्धमुदकोपमम्",
         "iast": "mūtravarṇādibhedena bhedo meheṣu kalpyate acchaṃ bahu sitaṃ śītaṃ nirgandhamudakopamam",
         "iast_ru": "мӯтраварн̣а̄дибхедена бхедо мехеш̣у калпйате аччхам̣ баху ситам̣ ш́ӣтам̣ ниргандхамудакопамам",
-        "text": "— по различиям в цвете мочи и прочих свойствах устанавливается разграничение прамех. При удакамехе моча прозрачна, обильна, бесцветна, холодна, лишена запаха и подобна воде."
+        "text": "— по различиям в цвете мочи и прочих свойствах устанавливается разграничение прамех. При удакамехе моча прозрачна, обильна, бесцветна, холодна, лишена запаха и подобна воде.",
+        "text_en": "— by differences in the color of the urine and other properties, that the distinction among the prameha diseases is established. In udakameha, the urine is clear, copious, colorless, cold, odorless, and resembles water."
       },
       {
         "type": "verse",
@@ -7493,7 +7648,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेहत्युदकमेहेन किंचिदाविलपिच्छिलम् इक्षो रसमिवात्यर्थं मधुरं चेक्षुमेहतः",
         "iast": "mehatyudakamehena kiṃcidāvilapicchilam ikṣo rasamivātyarthaṃ madhuraṃ cekṣumehataḥ",
         "iast_ru": "мехатйудакамехена ким̣чида̄вилапиччхилам икш̣о расамива̄тйартхам̣ мадхурам̣ чекш̣умехатах̣",
-        "text": "При удакамехе больной мочится именно так. При икшумехе моча слегка мутная, вязкая, чрезвычайно сладкая, подобная соку сахарного тростника."
+        "text": "При удакамехе больной мочится именно так. При икшумехе моча слегка мутная, вязкая, чрезвычайно сладкая, подобная соку сахарного тростника.",
+        "text_en": "In udakameha, the patient urinates exactly in this manner. In ikshumeha, the urine is slightly turbid, viscous, extremely sweet, resembling sugarcane juice."
       },
       {
         "type": "comment",
@@ -7506,7 +7662,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सान्द्री भवेत् पर्युषितं सान्द्र मेहेन मेहति सुरामेही सुरातुल्यमुपर्यच्छमधो घनम्",
         "iast": "sāndrī bhavet paryuṣitaṃ sāndra mehena mehati surāmehī surātulyamuparyacchamadho ghanam",
         "iast_ru": "са̄ндрӣ бхавет парйуш̣итам̣ са̄ндра мехена мехати сура̄мехӣ сура̄тулйамупарйаччхамадхо гханам",
-        "text": "При сандрамехе моча, постояв, становится густой (сандра). При сурамехе моча подобна суре (хмельному напитку): сверху прозрачная, внизу плотная."
+        "text": "При сандрамехе моча, постояв, становится густой (сандра). При сурамехе моча подобна суре (хмельному напитку): сверху прозрачная, внизу плотная.",
+        "text_en": "In sandrameha, the urine, upon standing, becomes thick (sandra). In surameha, the urine resembles sura (a fermented drink): clear on top, dense at the bottom."
       },
       {
         "type": "comment",
@@ -7519,7 +7676,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "संहृष्टरोमा पिष्टेन विष्टवद्वहुलं सितम् शुक्राभं शुक्रमिश्रं वा शुक्रमेही प्रमेहति",
         "iast": "saṃhṛṣṭaromā piṣṭena viṣṭavadvahulaṃ sitam śukrābhaṃ śukramiśraṃ vā śukramehī pramehati",
         "iast_ru": "сам̣хр̣ш̣т̣арома̄ пиш̣т̣ена виш̣т̣авадвахулам̣ ситам ш́укра̄бхам̣ ш́украмиш́рам̣ ва̄ ш́украмехӣ прамехати",
-        "text": "При пиштамехе у больного — вздыбленные волоски на теле; моча обильная, белая, похожая на взвесь муки. При шукрамехе моча имеет вид шукры (семени) или содержит её примесь."
+        "text": "При пиштамехе у больного — вздыбленные волоски на теле; моча обильная, белая, похожая на взвесь муки. При шукрамехе моча имеет вид шукры (семени) или содержит её примесь.",
+        "text_en": "In pishtameha, the patient has body hair standing on end; the urine is copious, white, resembling a suspension of flour. In shukrameha, the urine has the appearance of shukra (semen) or is mixed with it."
       },
       {
         "type": "comment",
@@ -7532,7 +7690,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूर्ताणून्सिकतामेही सिकतारूपिणो मलान् शीतमेही सुबहुशो मधुरं भृशशीतलम्",
         "iast": "mūrtāṇūnsikatāmehī sikatārūpiṇo malān śītamehī subahuśo madhuraṃ bhṛśaśītalam",
         "iast_ru": "мӯрта̄н̣ӯнсиката̄мехӣ сиката̄рӯпин̣о мала̄н ш́ӣтамехӣ субахуш́о мадхурам̣ бхр̣ш́аш́ӣталам",
-        "text": "При сикатамехе больной выделяет с мочой мелкие плотные частицы, напоминающие песчинки. При шитамехе моча весьма обильная, сладкая и сильно охлаждённая."
+        "text": "При сикатамехе больной выделяет с мочой мелкие плотные частицы, напоминающие песчинки. При шитамехе моча весьма обильная, сладкая и сильно охлаждённая.",
+        "text_en": "In sikatameha, the patient passes small dense particles with the urine, resembling grains of sand. In shitameha, the urine is very copious, sweet, and markedly cold."
       },
       {
         "type": "verse",
@@ -7540,7 +7699,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शनैः शनैः शनैर्मेही मन्दं मन्दं प्रमेहति लालातन्तुयुतं मूत्रं लालामेहेन पिच्छिलम्",
         "iast": "śanaiḥ śanaiḥ śanairmehī mandaṃ mandaṃ pramehati lālātantuyutaṃ mūtraṃ lālāmehena picchilam",
         "iast_ru": "ш́анаих̣ ш́анаих̣ ш́анаирмехӣ мандам̣ мандам̣ прамехати ла̄ла̄тантуйутам̣ мӯтрам̣ ла̄ла̄мехена пиччхилам",
-        "text": "При шанайрмехе больной мочится очень медленно, понемногу. При лаламехе моча вязкая, пронизанная нитями слюноподобной слизи."
+        "text": "При шанайрмехе больной мочится очень медленно, понемногу. При лаламехе моча вязкая, пронизанная нитями слюноподобной слизи.",
+        "text_en": "In shanairmeha, the patient urinates very slowly, little by little. In lalameha, the urine is viscous, threaded with saliva-like mucus."
       },
       {
         "type": "verse",
@@ -7548,7 +7708,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गन्धवर्णरसस्पर्शैः क्षारेण क्षारतोयवत् नीलमेहेन नीलाभं कालमेही मसीनिभम्",
         "iast": "gandhavarṇarasasparśaiḥ kṣāreṇa kṣāratoyavat nīlamehena nīlābhaṃ kālamehī masīnibham",
         "iast_ru": "гандхаварн̣арасаспарш́аих̣ кш̣а̄рен̣а кш̣а̄ратойават нӣламехена нӣла̄бхам̣ ка̄ламехӣ масӣнибхам",
-        "text": "При кшарамехе моча по запаху, цвету, вкусу и на ощупь напоминает щелочную воду. При ниламехе моча имеет синеватый оттенок. При каламехе — цвет чернил."
+        "text": "При кшарамехе моча по запаху, цвету, вкусу и на ощупь напоминает щелочную воду. При ниламехе моча имеет синеватый оттенок. При каламехе — цвет чернил.",
+        "text_en": "In ksharameha, the urine in odor, color, taste, and to the touch resembles alkaline water. In nilameha, the urine has a bluish tinge. In kalameha — the color of ink."
       },
       {
         "type": "comment",
@@ -7561,7 +7722,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हारिद्र मेही कटुकं हरिद्रा संनिभं दहत् विस्रं माञ्जिष्ठमेहेन मञ्जिष्ठासलिलोपमम्",
         "iast": "hāridra mehī kaṭukaṃ haridrā saṃnibhaṃ dahat visraṃ māñjiṣṭhamehena mañjiṣṭhāsalilopamam",
         "iast_ru": "ха̄ридра мехӣ кат̣укам̣ харидра̄ сам̣нибхам̣ дахат висрам̣ ма̄н̃джиш̣т̣хамехена ман̃джиш̣т̣ха̄салилопамам",
-        "text": "При харидрамехе моча острая на вкус, по виду подобна куркуме и вызывает жжение. При манджиштхамехе моча зловонная и напоминает воду, настоянную на марене (манджиштхе)."
+        "text": "При харидрамехе моча острая на вкус, по виду подобна куркуме и вызывает жжение. При манджиштхамехе моча зловонная и напоминает воду, настоянную на марене (манджиштхе).",
+        "text_en": "In haridrameha, the urine is pungent in taste, in appearance resembles turmeric, and causes burning. In manjishthameha, the urine is foul-smelling and resembles water steeped in madder (manjishtha)."
       },
       {
         "type": "verse",
@@ -7569,7 +7731,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विस्रमुष्णं सलवणं रक्ताभं रक्त मेहतः वसामेही वसामिश्रं वसाभं मूत्रयेन्मुहुः",
         "iast": "visramuṣṇaṃ salavaṇaṃ raktābhaṃ rakta mehataḥ vasāmehī vasāmiśraṃ vasābhaṃ mūtrayenmuhuḥ",
         "iast_ru": "висрамуш̣н̣ам̣ салаван̣ам̣ ракта̄бхам̣ ракта мехатах̣ васа̄мехӣ васа̄миш́рам̣ васа̄бхам̣ мӯтрайенмухух̣",
-        "text": "При рактамехе моча зловонная, горячая, солоноватая и красноватого цвета. При васамехе больной часто мочится мочой, содержащей примесь васы (мышечного жира) или напоминающей её."
+        "text": "При рактамехе моча зловонная, горячая, солоноватая и красноватого цвета. При васамехе больной часто мочится мочой, содержащей примесь васы (мышечного жира) или напоминающей её.",
+        "text_en": "In raktameha, the urine is foul-smelling, hot, brackish, and reddish in color. In vasameha, the patient frequently urinates urine containing an admixture of vasa (muscle fat) or resembling it."
       },
       {
         "type": "verse",
@@ -7577,7 +7740,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मज्जाभं मज्जमिश्रं वा मज्जमेही मुहुर्मुहुः कषायं मधुरं रूक्षं क्षौद्र मेहं वदेद् बुधः",
         "iast": "majjābhaṃ majjamiśraṃ vā majjamehī muhurmuhuḥ kaṣāyaṃ madhuraṃ rūkṣaṃ kṣaudra mehaṃ vaded budhaḥ",
         "iast_ru": "маджджа̄бхам̣ маджджамиш́рам̣ ва̄ маджджамехӣ мухурмухух̣ каш̣а̄йам̣ мадхурам̣ рӯкш̣ам̣ кш̣аудра мехам̣ вадед будхах̣",
-        "text": "При маджджамехе моча напоминает маджджу (костный мозг) или содержит её примесь, и больной мочится весьма часто. Кшаудрамеху, при которой моча вяжущая, сладковатая и сухая (рукша), определяет сведущий врач."
+        "text": "При маджджамехе моча напоминает маджджу (костный мозг) или содержит её примесь, и больной мочится весьма часто. Кшаудрамеху, при которой моча вяжущая, сладковатая и сухая (рукша), определяет сведущий врач.",
+        "text_en": "In majjameha, the urine resembles majja (bone marrow) or contains an admixture of it, and the patient urinates very frequently. Kshaudrameha, in which the urine is astringent, somewhat sweet, and dry (ruksha), is determined by the learned physician."
       },
       {
         "type": "comment",
@@ -7590,7 +7754,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हस्ती मत्त इवाजस्रं मूत्रं वेगविवर्जितम् सलसीकं विबद्धं च हस्तिमेही प्रमेहति",
         "iast": "hastī matta ivājasraṃ mūtraṃ vegavivarjitam salasīkaṃ vibaddhaṃ ca hastimehī pramehati",
         "iast_ru": "хастӣ матта ива̄джасрам̣ мӯтрам̣ вегавиварджитам саласӣкам̣ вибаддхам̣ ча хастимехӣ прамехати",
-        "text": "При хастимехе больной мочится непрерывно, подобно опьянённому слону, без позыва; моча содержит примесь ласики (лимфы) и выделяется с затруднением."
+        "text": "При хастимехе больной мочится непрерывно, подобно опьянённому слону, без позыва; моча содержит примесь ласики (лимфы) и выделяется с затруднением.",
+        "text_en": "In hastimeha, the patient urinates continuously, like a rutting elephant, without an urge; the urine contains an admixture of lasika (lymph) and is passed with difficulty."
       },
       {
         "type": "comment",
@@ -7603,7 +7768,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अविपाकोऽरुचिश्छर्दिर्निद्रा कासः सपीनसः उपद्र वाः प्रजायन्ते मेहानां कफजन्मनाम्",
         "iast": "avipāko'ruciśchardirnidrā kāsaḥ sapīnasaḥ upadra vāḥ prajāyante mehānāṃ kaphajanmanām",
         "iast_ru": "авипа̄ко'ручиш́чхардирнидра̄ ка̄сах̣ сапӣнасах̣ упадра ва̄х̣ праджа̄йанте меха̄на̄м̣ капхаджанмана̄м",
-        "text": "Осложнения (упадравы) прамех, порождённых Капхой, таковы: несварение (авипака), отвращение к пище (аручи), рвота (чхарди), сонливость (нидра), кашель (каса) и насморк (пинаса)."
+        "text": "Осложнения (упадравы) прамех, порождённых Капхой, таковы: несварение (авипака), отвращение к пище (аручи), рвота (чхарди), сонливость (нидра), кашель (каса) и насморк (пинаса).",
+        "text_en": "The complications (upadravas) of the prameha diseases produced by Kapha are as follows: indigestion (avipaka), aversion to food (aruchi), vomiting (chhardi), drowsiness (nidra), cough (kasa), and coryza (pinasa)."
       },
       {
         "type": "verse",
@@ -7611,7 +7777,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "बस्तिमेहनयोस्तोदो मुष्कावदरणं ज्वरः दाहस्तृष्णाऽम्लिका मूर्च्छा विड्भेदः पित्तजन्मनाम्",
         "iast": "bastimehanayostodo muṣkāvadaraṇaṃ jvaraḥ dāhastṛṣṇā'mlikā mūrcchā viḍbhedaḥ pittajanmanām",
         "iast_ru": "бастимеханайостодо муш̣ка̄вадаран̣ам̣ джварах̣ да̄хастр̣ш̣н̣а̄'млика̄ мӯрччха̄ вид̣бхедах̣ питтаджанмана̄м",
-        "text": "Осложнения прамех, порождённых Питтой: колющая боль в васти (мочевом пузыре) и половом члене, чувство растрескивания в мошонке, лихорадка (джвара), жжение, жажда (тришна), кислая отрыжка, обморок (мурччха) и разжижение кала."
+        "text": "Осложнения прамех, порождённых Питтой: колющая боль в васти (мочевом пузыре) и половом члене, чувство растрескивания в мошонке, лихорадка (джвара), жжение, жажда (тришна), кислая отрыжка, обморок (мурччха) и разжижение кала.",
+        "text_en": "The complications of the prameha diseases produced by Pitta: piercing pain in the vasti (bladder) and penis, a sensation of cracking in the scrotum, fever (jvara), burning, thirst (trishna), sour belching, fainting (murchha), and loosening of the stool."
       },
       {
         "type": "verse",
@@ -7619,7 +7786,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातजानामुदावर्तः कम्पहृद्ग्रहलोलताः शूलमुन्निद्र ता शोषः कासः श्वासश्च जायते",
         "iast": "vātajānāmudāvartaḥ kampahṛdgrahalolatāḥ śūlamunnidra tā śoṣaḥ kāsaḥ śvāsaśca jāyate",
         "iast_ru": "ва̄таджа̄на̄муда̄вартах̣ кампахр̣дграхалолата̄х̣ ш́ӯламуннидра та̄ ш́ош̣ах̣ ка̄сах̣ ш́ва̄саш́ча джа̄йате",
-        "text": "Осложнения прамех, порождённых Ватой: удаварта (обратное движение апана-ваю), дрожь, сдавление в области сердца, головокружение, колики (шула), бессонница, истощение (шоша), кашель (каса) и одышка (шваса)."
+        "text": "Осложнения прамех, порождённых Ватой: удаварта (обратное движение апана-ваю), дрожь, сдавление в области сердца, головокружение, колики (шула), бессонница, истощение (шоша), кашель (каса) и одышка (шваса).",
+        "text_en": "The complications of the prameha diseases produced by Vata: udavarta (reverse movement of apana-vayu), trembling, constriction in the region of the heart, dizziness, colic (shula), insomnia, wasting (shosha), cough (kasa), and dyspnea (shvasa)."
       },
       {
         "type": "verse",
@@ -7627,7 +7795,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यथोक्तोपद्र वाविष्टमतिप्रस्रुतमेव च पिडकापीडितं गाढः प्रमेहो हन्ति मानवम्",
         "iast": "yathoktopadra vāviṣṭamatiprasrutameva ca piḍakāpīḍitaṃ gāḍhaḥ prameho hanti mānavam",
         "iast_ru": "йатхоктопадра ва̄виш̣т̣аматипрасрутамева ча пид̣ака̄пӣд̣итам̣ га̄д̣хах̣ прамехо ханти ма̄навам",
-        "text": "Прамеха, отягощённая вышеописанными осложнениями, с чрезмерным мочеотделением, сопровождающаяся гнойничками (пидаками) и протекающая в тяжёлой форме, губит человека."
+        "text": "Прамеха, отягощённая вышеописанными осложнениями, с чрезмерным мочеотделением, сопровождающаяся гнойничками (пидаками) и протекающая в тяжёлой форме, губит человека.",
+        "text_en": "Prameha, burdened by the complications described above, with excessive urination, accompanied by pustules (pidakas), and running a severe course, destroys a person."
       },
       {
         "type": "verse",
@@ -7635,7 +7804,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "जातः प्रमेही मधुमेहिनो वा न साध्य उक्तः स हि बीजदोषात् ये चापि केचित्कुलजा विकारा भवन्ति तांस्तान् प्रवदन्त्यसाध्यान्",
         "iast": "jātaḥ pramehī madhumehino vā na sādhya uktaḥ sa hi bījadoṣāt ye cāpi kecitkulajā vikārā bhavanti tāṃstān pravadantyasādhyān",
         "iast_ru": "джа̄тах̣ прамехӣ мадхумехино ва̄ на са̄дхйа уктах̣ са хи бӣджадош̣а̄т йе ча̄пи кечиткуладжа̄ вика̄ра̄ бхаванти та̄м̣ста̄н правадантйаса̄дхйа̄н",
-        "text": "Рождённый прамехином или мадхумехином объявляется неизлечимым, ибо болезнь его — от порока семени (биджа-доша). Все наследственные заболевания, какие бы они ни были, считаются неизлечимыми."
+        "text": "Рождённый прамехином или мадхумехином объявляется неизлечимым, ибо болезнь его — от порока семени (биджа-доша). Все наследственные заболевания, какие бы они ни были, считаются неизлечимыми.",
+        "text_en": "One born of a prameha or madhumeha patient is declared incurable, for his disease stems from a defect of the seed (bija-dosha). All hereditary diseases, whatever their nature, are regarded as incurable."
       },
       {
         "type": "verse",
@@ -7643,7 +7813,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सर्व एवप्रमेहास्तु कालेनाप्रतिकारिणः मधुमेहत्वमायान्ति तदाऽसाध्या भवन्ति हि",
         "iast": "sarva evapramehāstu kālenāpratikāriṇaḥ madhumehatvamāyānti tadā'sādhyā bhavanti hi",
         "iast_ru": "сарва евапрамеха̄сту ка̄лена̄пратика̄рин̣ах̣ мадхумехатвама̄йа̄нти тада̄'са̄дхйа̄ бхаванти хи",
-        "text": "Все без исключения прамехи, оставленные без лечения, с течением времени переходят в мадхумеху — и тогда становятся неизлечимыми."
+        "text": "Все без исключения прамехи, оставленные без лечения, с течением времени переходят в мадхумеху — и тогда становятся неизлечимыми.",
+        "text_en": "All prameha diseases without exception, if left untreated, in the course of time turn into madhumeha — and then become incurable."
       },
       {
         "type": "verse",
@@ -7651,7 +7822,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मधुमेह मधुसमं जायते स किल द्विधा क्रुद्धे धातुक्षयाद्वायौ दोषावृतपथेऽथवा",
         "iast": "madhumeha madhusamaṃ jāyate sa kila dvidhā kruddhe dhātukṣayādvāyau doṣāvṛtapathe'thavā",
         "iast_ru": "мадхумеха мадхусамам̣ джа̄йате са кила двидха̄ круддхе дха̄тукш̣айа̄два̄йау дош̣а̄вр̣тапатхе'тхава̄",
-        "text": "Мадхумеха, при которой моча подобна мёду, возникает двояко: либо от истощения дхату, когда Вата возбуждена, либо когда путь Ваты перекрыт другими дошами."
+        "text": "Мадхумеха, при которой моча подобна мёду, возникает двояко: либо от истощения дхату, когда Вата возбуждена, либо когда путь Ваты перекрыт другими дошами.",
+        "text_en": "Madhumeha, in which the urine resembles honey, arises in two ways: either from depletion of the dhatus, when Vata is provoked, or when the path of Vata is blocked by the other doshas."
       },
       {
         "type": "verse",
@@ -7659,7 +7831,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आवृतो दोषलिङ्गानि सोऽनिमित्तं प्रदर्शयन् क्षणात्क्षीणः क्षणात्पूर्णो भजते कृच्छ्रसाध्यताम्",
         "iast": "āvṛto doṣaliṅgāni so'nimittaṃ pradarśayan kṣaṇātkṣīṇaḥ kṣaṇātpūrṇo bhajate kṛcchrasādhyatām",
         "iast_ru": "а̄вр̣то дош̣алин̇га̄ни со'нимиттам̣ прадарш́айан кш̣ан̣а̄ткш̣ӣн̣ах̣ кш̣ан̣а̄тпӯрн̣о бхаджате кр̣ччхраса̄дхйата̄м",
-        "text": "Вата, будучи перекрыта дошами, беспричинно проявляет признаки различных дош; больной то мгновенно истощается, то вновь наполняется силой. Такая мадхумеха относится к трудноизлечимым."
+        "text": "Вата, будучи перекрыта дошами, беспричинно проявляет признаки различных дош; больной то мгновенно истощается, то вновь наполняется силой. Такая мадхумеха относится к трудноизлечимым.",
+        "text_en": "Vata, being blocked by the doshas, manifests without apparent cause the signs of the various doshas; the patient at one moment is instantly exhausted, and at the next is again filled with strength. Such madhumeha is among the difficult-to-cure forms."
       },
       {
         "type": "verse",
@@ -7667,7 +7840,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मधुरं यच्च मेहेषु प्रायो मध्विव मेहति सर्वेऽपि मधुमेहाख्या माधुर्याच्च तनोरतः",
         "iast": "madhuraṃ yacca meheṣu prāyo madhviva mehati sarve'pi madhumehākhyā mādhuryācca tanorataḥ",
         "iast_ru": "мадхурам̣ йачча мехеш̣у пра̄йо мадхвива мехати сарве'пи мадхумеха̄кхйа̄ ма̄дхурйа̄чча таноратах̣",
-        "text": "Поскольку при всех прамехах моча в основном сладкая и выделяется подобно мёду, а тело больного также сладкое, все прамехи именуются мадхумехой — по причине сладости."
+        "text": "Поскольку при всех прамехах моча в основном сладкая и выделяется подобно мёду, а тело больного также сладкое, все прамехи именуются мадхумехой — по причине сладости.",
+        "text_en": "Since in all the prameha diseases the urine is mainly sweet and is passed resembling honey, and the patient's body is likewise sweet, all the prameha diseases are called madhumeha — on account of the sweetness."
       },
       {
         "type": "verse",
@@ -7675,7 +7849,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शराविका कच्छपिका जालिनी विनताऽलजी मसूरिका सर्षपिका पुत्रिणी सविदारिका",
         "iast": "śarāvikā kacchapikā jālinī vinatā'lajī masūrikā sarṣapikā putriṇī savidārikā",
         "iast_ru": "ш́ара̄вика̄ каччхапика̄ джа̄линӣ вината̄'ладжӣ масӯрика̄ сарш̣апика̄ путрин̣ӣ савида̄рика̄",
-        "text": "Шаравика, каччхапика, джалини, вината, аладжи, масурика, саршапика, путрини, видарика —"
+        "text": "Шаравика, каччхапика, джалини, вината, аладжи, масурика, саршапика, путрини, видарика —",
+        "text_en": "Sharavika, kacchapika, jalini, vinata, alaji, masurika, sarshapika, putrini, vidarika —"
       },
       {
         "type": "verse",
@@ -7683,7 +7858,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विद्र धिश्चेति पिडकाः प्रमेहोपेक्षया दश सन्धिमर्मसु जायन्ते मांसलेषु च धामसु",
         "iast": "vidra dhiśceti piḍakāḥ pramehopekṣayā daśa sandhimarmasu jāyante māṃsaleṣu ca dhāmasu",
         "iast_ru": "видра дхиш́чети пид̣ака̄х̣ прамехопекш̣айа̄ даш́а сандхимармасу джа̄йанте ма̄м̣салеш̣у ча дха̄масу",
-        "text": "— и видрадхи — таковы десять видов пидак (гнойничков), которые возникают при запущенной прамехе в области сандхи (суставов), марм (жизненно важных точек) и в мясистых участках тела по ходу сосудов (дхаману)."
+        "text": "— и видрадхи — таковы десять видов пидак (гнойничков), которые возникают при запущенной прамехе в области сандхи (суставов), марм (жизненно важных точек) и в мясистых участках тела по ходу сосудов (дхаману).",
+        "text_en": "— and vidradhi — these are the ten kinds of pidakas (pustules) that arise in advanced prameha in the region of the sandhis (joints), the marmas (vital points), and the fleshy areas of the body along the course of the vessels (dhamanis)."
       },
       {
         "type": "verse",
@@ -7691,7 +7867,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अन्तोन्नता तु तद्रू पा निम्नमध्या शराविका गौरसर्षपसंस्थाना तत्प्रमाणा च सर्षपी",
         "iast": "antonnatā tu tadrū pā nimnamadhyā śarāvikā gaurasarṣapasaṃsthānā tatpramāṇā ca sarṣapī",
         "iast_ru": "антонната̄ ту тадрӯ па̄ нимнамадхйа̄ ш́ара̄вика̄ гаурасарш̣апасам̣стха̄на̄ татпрама̄н̣а̄ ча сарш̣апӣ",
-        "text": "Шаравика — пидака, приподнятая по краям и вдавленная посредине, формой напоминающая глиняное блюдце. Саршапика — по форме и размеру подобна жёлтому горчичному зерну."
+        "text": "Шаравика — пидака, приподнятая по краям и вдавленная посредине, формой напоминающая глиняное блюдце. Саршапика — по форме и размеру подобна жёлтому горчичному зерну.",
+        "text_en": "Sharavika is a pidaka raised at the edges and depressed in the middle, resembling in shape a clay saucer. Sarshapika resembles in shape and size a yellow mustard seed."
       },
       {
         "type": "verse",
@@ -7699,7 +7876,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सदाहा कूर्मसंस्थाना ज्ञेया कच्छपिका बुधैः जालिनी तीव्रदाहा तु मांसजालसमावृता",
         "iast": "sadāhā kūrmasaṃsthānā jñeyā kacchapikā budhaiḥ jālinī tīvradāhā tu māṃsajālasamāvṛtā",
         "iast_ru": "сада̄ха̄ кӯрмасам̣стха̄на̄ джн̃ейа̄ каччхапика̄ будхаих̣ джа̄линӣ тӣврада̄ха̄ ту ма̄м̣саджа̄ласама̄вр̣та̄",
-        "text": "Каччхапику, по форме напоминающую панцирь черепахи и сопровождающуюся жжением, распознают сведущие врачи. Джалини — пидака с сильным жжением, покрытая сетью мясных волокон."
+        "text": "Каччхапику, по форме напоминающую панцирь черепахи и сопровождающуюся жжением, распознают сведущие врачи. Джалини — пидака с сильным жжением, покрытая сетью мясных волокон.",
+        "text_en": "Kacchapika, resembling in shape a tortoise's shell and accompanied by burning, is recognized by learned physicians. Jalini is a pidaka with intense burning, covered with a network of fleshy fibers."
       },
       {
         "type": "verse",
@@ -7707,7 +7885,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अवगाढरुजाक्लेदा पृष्ठे वाऽप्युदरेऽपि वा महती पिडका नीला विनता नाम सा स्मृता",
         "iast": "avagāḍharujākledā pṛṣṭhe vā'pyudare'pi vā mahatī piḍakā nīlā vinatā nāma sā smṛtā",
         "iast_ru": "авага̄д̣харуджа̄кледа̄ пр̣ш̣т̣хе ва̄'пйударе'пи ва̄ махатӣ пид̣ака̄ нӣла̄ вината̄ на̄ма са̄ смр̣та̄",
-        "text": "Вината — крупная, синюшная пидака с глубокой болью и мокнутием, появляющаяся на спине или на животе."
+        "text": "Вината — крупная, синюшная пидака с глубокой болью и мокнутием, появляющаяся на спине или на животе.",
+        "text_en": "Vinata is a large, livid pidaka with deep pain and oozing, appearing on the back or the abdomen."
       },
       {
         "type": "verse",
@@ -7715,7 +7894,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "महत्यल्पचिता ज्ञेया पिडका चापि पुत्रिणी मसूराकृतिसंस्थाना विज्ञेया तु मसूरिका",
         "iast": "mahatyalpacitā jñeyā piḍakā cāpi putriṇī masūrākṛtisaṃsthānā vijñeyā tu masūrikā",
         "iast_ru": "махатйалпачита̄ джн̃ейа̄ пид̣ака̄ ча̄пи путрин̣ӣ масӯра̄кр̣тисам̣стха̄на̄ виджн̃ейа̄ ту масӯрика̄",
-        "text": "Путрини — крупная пидака, покрытая мелкими дочерними высыпаниями. Масурика — пидака, по форме подобная зерну чечевицы (масура)."
+        "text": "Путрини — крупная пидака, покрытая мелкими дочерними высыпаниями. Масурика — пидака, по форме подобная зерну чечевицы (масура).",
+        "text_en": "Putrini is a large pidaka covered with small daughter-eruptions. Masurika is a pidaka resembling in shape a lentil (masura) seed."
       },
       {
         "type": "verse",
@@ -7723,7 +7903,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रक्ता सिता स्फोटचिता दारुणात्वलजीभवेत् विदारीकन्दवद् वृत्ता कठिना च विदारिका",
         "iast": "raktā sitā sphoṭacitā dāruṇātvalajībhavet vidārīkandavad vṛttā kaṭhinā ca vidārikā",
         "iast_ru": "ракта̄ сита̄ спхот̣ачита̄ да̄рун̣а̄тваладжӣбхавет вида̄рӣкандавад вр̣тта̄ кат̣хина̄ ча вида̄рика̄",
-        "text": "Аладжи — красная либо белая пидака, покрытая пузырями (спхотами), тяжёлая по течению. Видарика — округлая и твёрдая, подобная клубню видари."
+        "text": "Аладжи — красная либо белая пидака, покрытая пузырями (спхотами), тяжёлая по течению. Видарика — округлая и твёрдая, подобная клубню видари.",
+        "text_en": "Alaji is a red or white pidaka, covered with blisters (sphotas), severe in its course. Vidarika is rounded and hard, resembling the tuber of the vidari plant."
       },
       {
         "type": "verse",
@@ -7731,7 +7912,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विद्र धेर्लक्षणैर्युक्ता ज्ञेया विद्र धिका तु सा ये यन्मयाः स्मृता मेहास्तेषामेतास्तु तन्मया",
         "iast": "vidra dherlakṣaṇairyuktā jñeyā vidra dhikā tu sā ye yanmayāḥ smṛtā mehāsteṣāmetāstu tanmayā",
         "iast_ru": "видра дхерлакш̣ан̣аирйукта̄ джн̃ейа̄ видра дхика̄ ту са̄ йе йанмайа̄х̣ смр̣та̄ меха̄стеш̣а̄мета̄сту танмайа̄",
-        "text": "Видрадхика — пидака, обладающая признаками видрадхи (абсцесса). Какой доше соответствуют те или иные прамехи, той же доше соответствуют и сопутствующие им пидаки."
+        "text": "Видрадхика — пидака, обладающая признаками видрадхи (абсцесса). Какой доше соответствуют те или иные прамехи, той же доше соответствуют и сопутствующие им пидаки.",
+        "text_en": "Vidradhika is a pidaka possessing the signs of vidradhi (abscess). Whatever dosha a given prameha corresponds to, its accompanying pidakas correspond to that same dosha."
       },
       {
         "type": "verse",
@@ -7739,7 +7921,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विना प्रमेहमप्येता जायन्ते दुष्टमेदसः तावच्चैता न लक्ष्यन्ते यावद्वास्तुपरिग्रहः",
         "iast": "vinā pramehamapyetā jāyante duṣṭamedasaḥ tāvaccaitā na lakṣyante yāvadvāstuparigrahaḥ",
         "iast_ru": "вина̄ прамехамапйета̄ джа̄йанте душ̣т̣амедасах̣ та̄ваччаита̄ на лакш̣йанте йа̄вадва̄ступариграхах̣",
-        "text": "Эти пидаки могут возникать и без прамехи — при загрязнённом медасе. Однако они не обнаруживаются до тех пор, пока болезнь не обретёт опору в тканях тела."
+        "text": "Эти пидаки могут возникать и без прамехи — при загрязнённом медасе. Однако они не обнаруживаются до тех пор, пока болезнь не обретёт опору в тканях тела.",
+        "text_en": "These pidakas may also arise without prameha, when the medas is contaminated. However, they do not become apparent until the disease has gained a foothold in the tissues of the body."
       },
       {
         "type": "verse",
@@ -7747,7 +7930,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गुदे हृदि शिरस्यंसे पृष्ठे मर्मसु चोत्थिताः सोपद्र वा दुर्वलाग्नेः पिडकाः परिवर्जयेत्",
         "iast": "gude hṛdi śirasyaṃse pṛṣṭhe marmasu cotthitāḥ sopadra vā durvalāgneḥ piḍakāḥ parivarjayet",
         "iast_ru": "гуде хр̣ди ш́ирасйам̣се пр̣ш̣т̣хе мармасу чоттхита̄х̣ сопадра ва̄ дурвала̄гнех̣ пид̣ака̄х̣ париварджайет",
-        "text": "Пидаки, появившиеся в области заднего прохода, сердца, головы, плеч, спины и марм (жизненно важных точек), сопровождающиеся осложнениями и возникшие у больного с ослабленным агни, следует считать неизлечимыми и подлежащими отказу от лечения."
+        "text": "Пидаки, появившиеся в области заднего прохода, сердца, головы, плеч, спины и марм (жизненно важных точек), сопровождающиеся осложнениями и возникшие у больного с ослабленным агни, следует считать неизлечимыми и подлежащими отказу от лечения.",
+        "text_en": "Pidakas appearing in the region of the anus, heart, head, shoulders, back, and marmas (vital points), accompanied by complications and arising in a patient with weakened agni, should be regarded as incurable and treatment should be refused."
       }
     ]
   },
@@ -7769,7 +7953,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ मेदोरोगनिदानम् अव्यायामदिवास्वप्नश्लेष्मलाहारसेविनः मधुरोऽन्नरसः प्रायः स्नेहान्मेदं प्रवर्धयेत्",
         "iast": "atha medoroganidānam avyāyāmadivāsvapnaśleṣmalāhārasevinaḥ madhuro'nnarasaḥ prāyaḥ snehānmedaṃ pravardhayet",
         "iast_ru": "атха медороганида̄нам авйа̄йа̄мадива̄свапнаш́леш̣мала̄ха̄расевинах̣ мадхуро'ннарасах̣ пра̄йах̣ снеха̄нмедам̣ правардхайет",
-        "text": "Итак, начинается диагностика заболеваний жировой ткани (медорога-нидана). У того, кто избегает физических упражнений, спит днём и потребляет пищу, увеличивающую Капху, сладкий вкус (раса) пищи преимущественно за счёт маслянистости (снеха) увеличивает медас (жировую ткань)."
+        "text": "Итак, начинается диагностика заболеваний жировой ткани (медорога-нидана). У того, кто избегает физических упражнений, спит днём и потребляет пищу, увеличивающую Капху, сладкий вкус (раса) пищи преимущественно за счёт маслянистости (снеха) увеличивает медас (жировую ткань).",
+        "text_en": "Now begins the diagnosis of diseases of the fat tissue (medoroga-nidana). In one who avoids physical exercise, sleeps during the day, and consumes food that increases Kapha, the sweet taste (rasa) of food, chiefly through its unctuousness (sneha), increases the medas (fat tissue)."
       },
       {
         "type": "verse",
@@ -7777,7 +7962,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदसाऽवृतमार्गत्वात् पुष्यन्त्यन्ये न धातवः मेदस्तु चीयते तस्मादशक्तः सर्वकर्मसु",
         "iast": "medasā'vṛtamārgatvāt puṣyantyanye na dhātavaḥ medastu cīyate tasmādaśaktaḥ sarvakarmasu",
         "iast_ru": "медаса̄'вр̣тама̄ргатва̄т пуш̣йантйанйе на дха̄тавах̣ медасту чӣйате тасма̄даш́актах̣ сарвакармасу",
-        "text": "Поскольку пути тканевого питания закрыты медасом, прочие дхату не получают питания. Между тем медас продолжает накапливаться, и потому такой человек становится неспособен к какой-либо деятельности."
+        "text": "Поскольку пути тканевого питания закрыты медасом, прочие дхату не получают питания. Между тем медас продолжает накапливаться, и потому такой человек становится неспособен к какой-либо деятельности.",
+        "text_en": "Since the channels of tissue nourishment are blocked by the medas, the other dhatus do not receive nourishment. Meanwhile the medas continues to accumulate, and so such a person becomes incapable of any activity."
       },
       {
         "type": "verse",
@@ -7785,7 +7971,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्षुद्र श्वासतृषा मोहस्वप्नक्रथनसादनैः युक्तः क्षुत्स्वेददौर्गन्ध्यैरल्पप्राणोऽल्पमैथुनः",
         "iast": "kṣudra śvāsatṛṣā mohasvapnakrathanasādanaiḥ yuktaḥ kṣutsvedadaurgandhyairalpaprāṇo'lpamaithunaḥ",
         "iast_ru": "кш̣удра ш́ва̄сатр̣ш̣а̄ мохасвапнакратханаса̄данаих̣ йуктах̣ кш̣утсведадаургандхйаиралпапра̄н̣о'лпамаитхунах̣",
-        "text": "Он страдает поверхностным дыханием (кшудра-шваса), жаждой (тришна), помрачением сознания, сонливостью, храпом и упадком сил; мучим голодом, чрезмерным потоотделением и дурным запахом тела; обладает малой жизненной силой и слабой половой способностью."
+        "text": "Он страдает поверхностным дыханием (кшудра-шваса), жаждой (тришна), помрачением сознания, сонливостью, храпом и упадком сил; мучим голодом, чрезмерным потоотделением и дурным запахом тела; обладает малой жизненной силой и слабой половой способностью.",
+        "text_en": "He suffers from shallow breathing (kshudra-shvasa), thirst (trishna), clouding of consciousness, drowsiness, snoring, and loss of strength; he is tormented by hunger, excessive sweating, and a foul body odor; he has little vitality and weak sexual capacity."
       },
       {
         "type": "comment",
@@ -7798,7 +7985,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदस्तु सर्वभूतानामुदरेष्वस्थिषु स्थितम् अत एवोदरे वृद्धिः प्रायो मेदस्विनो भवेत्",
         "iast": "medastu sarvabhūtānāmudareṣvasthiṣu sthitam ata evodare vṛddhiḥ prāyo medasvino bhavet",
         "iast_ru": "медасту сарвабхӯта̄на̄мудареш̣вастхиш̣у стхитам ата еводаре вр̣ддхих̣ пра̄йо медасвино бхавет",
-        "text": "Медас у всех живых существ располагается в животе и в костях. Поэтому у тучного человека увеличение жировой ткани происходит преимущественно в области живота."
+        "text": "Медас у всех живых существ располагается в животе и в костях. Поэтому у тучного человека увеличение жировой ткани происходит преимущественно в области живота.",
+        "text_en": "Medas in all living beings is located in the abdomen and in the bones. Therefore, in a corpulent person, the increase of fat tissue occurs predominantly in the region of the abdomen."
       },
       {
         "type": "verse",
@@ -7806,7 +7994,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदसाऽवृतमार्गत्वाद्वायुः कोष्ठे विशेषतः चरन् सन्धुक्षयत्यग्निमाहारं शोषयत्यपि",
         "iast": "medasā'vṛtamārgatvādvāyuḥ koṣṭhe viśeṣataḥ caran sandhukṣayatyagnimāhāraṃ śoṣayatyapi",
         "iast_ru": "медаса̄'вр̣тама̄ргатва̄два̄йух̣ кош̣т̣хе виш́еш̣атах̣ чаран сандхукш̣айатйагнима̄ха̄рам̣ ш́ош̣айатйапи",
-        "text": "Поскольку пути движения закрыты медасом, Вата, перемещаясь преимущественно в полости кишечника (коштха), раздувает огонь пищеварения (агни), а также иссушает принятую пищу."
+        "text": "Поскольку пути движения закрыты медасом, Вата, перемещаясь преимущественно в полости кишечника (коштха), раздувает огонь пищеварения (агни), а также иссушает принятую пищу.",
+        "text_en": "Since the pathways of movement are blocked by the medas, Vata, moving predominantly in the cavity of the bowels (koshtha), fans the digestive fire (agni), and also dries out the food that has been taken."
       },
       {
         "type": "comment",
@@ -7819,7 +8008,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तस्मात् स शीघ्रं जरयत्याहारमभिकाङ्क्षति विकारांश्चाप्नुते घोरान् कांश्चित् कालव्यतिक्रमात्",
         "iast": "tasmāt sa śīghraṃ jarayatyāhāramabhikāṅkṣati vikārāṃścāpnute ghorān kāṃścit kālavyatikramāt",
         "iast_ru": "тасма̄т са ш́ӣгхрам̣ джарайатйа̄ха̄рамабхика̄н̇кш̣ати вика̄ра̄м̣ш́ча̄пнуте гхора̄н ка̄м̣ш́чит ка̄лавйатикрама̄т",
-        "text": "Потому он быстро переваривает пищу и снова желает есть. Со временем он обретает тяжёлые расстройства, возникающие от нарушения нормального течения времени обмена веществ."
+        "text": "Потому он быстро переваривает пищу и снова желает есть. Со временем он обретает тяжёлые расстройства, возникающие от нарушения нормального течения времени обмена веществ.",
+        "text_en": "Therefore he digests food quickly and again wishes to eat. In time he acquires severe disorders arising from a disruption of the normal course of metabolic timing."
       },
       {
         "type": "verse",
@@ -7827,7 +8017,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "एतावुपद्र वकरौ विशेषादग्निमारुतौ एतौ तु दहतः स्थूलं वनदावो वनं यथा",
         "iast": "etāvupadra vakarau viśeṣādagnimārutau etau tu dahataḥ sthūlaṃ vanadāvo vanaṃ yathā",
         "iast_ru": "ета̄вупадра вакарау виш́еш̣а̄дагнима̄рутау етау ту дахатах̣ стхӯлам̣ ванада̄во ванам̣ йатха̄",
-        "text": "Эти два — агни и Вата — являются главными причинами осложнений. Они сжигают тучного человека подобно тому, как лесной пожар сжигает лес."
+        "text": "Эти два — агни и Вата — являются главными причинами осложнений. Они сжигают тучного человека подобно тому, как лесной пожар сжигает лес.",
+        "text_en": "These two — agni and Vata — are the chief causes of complications. They burn up the corpulent person just as a forest fire burns up a forest."
       },
       {
         "type": "verse",
@@ -7835,7 +8026,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदस्यतीव संवृद्धे सहसैवानिलादयः विकारान् दारुणान् कृत्वा नाशयन्त्याशु जीवितम्",
         "iast": "medasyatīva saṃvṛddhe sahasaivānilādayaḥ vikārān dāruṇān kṛtvā nāśayantyāśu jīvitam",
         "iast_ru": "медасйатӣва сам̣вр̣ддхе сахасаива̄нила̄дайах̣ вика̄ра̄н да̄рун̣а̄н кр̣тва̄ на̄ш́айантйа̄ш́у джӣвитам",
-        "text": "Когда медас чрезмерно увеличивается, доши во главе с Ватой (анила) внезапно порождают тяжёлые расстройства и быстро уносят жизнь."
+        "text": "Когда медас чрезмерно увеличивается, доши во главе с Ватой (анила) внезапно порождают тяжёлые расстройства и быстро уносят жизнь.",
+        "text_en": "When the medas increases excessively, the doshas headed by Vata (anila) suddenly produce severe disorders and quickly carry away life."
       },
       {
         "type": "verse",
@@ -7843,7 +8035,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदोमांशाति वृद्धत्वाच्चलस्फिगुदरस्तनः अयथोपचयोत्साहो नरोऽतिस्थूल उच्यते",
         "iast": "medomāṃśāti vṛddhatvāccalasphigudarastanaḥ ayathopacayotsāho naro'tisthūla ucyate",
         "iast_ru": "медома̄м̣ш́а̄ти вр̣ддхатва̄ччаласпхигударастанах̣ айатхопачайотса̄хо наро'тистхӯла учйате",
-        "text": "Вследствие чрезмерного увеличения медаса и мышечной ткани (мамса) у него отвисают ягодицы, живот и грудь; силы его не соответствуют объёму тела, и энергия снижена — такой человек именуется чрезмерно тучным (атистхула)."
+        "text": "Вследствие чрезмерного увеличения медаса и мышечной ткани (мамса) у него отвисают ягодицы, живот и грудь; силы его не соответствуют объёму тела, и энергия снижена — такой человек именуется чрезмерно тучным (атистхула).",
+        "text_en": "As a result of an excessive increase of medas and muscle tissue (mamsa), his buttocks, abdomen, and chest sag; his strength does not correspond to the bulk of his body, and his energy is diminished — such a person is called excessively corpulent (atisthula)."
       },
       {
         "type": "comment",
@@ -7870,7 +8063,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथोदररोगनिदानम् रोगाः सर्वेऽपि मन्देऽग्नौ सुतरामुदराणि च अजीर्णान्मलिनैश्चान्नैर्जायन्ते मलसंचयात्",
         "iast": "athodararoganidānam rogāḥ sarve'pi mande'gnau sutarāmudarāṇi ca ajīrṇānmalinaiścānnairjāyante malasaṃcayāt",
         "iast_ru": "атходарароганида̄нам рога̄х̣ сарве'пи манде'гнау сутара̄мудара̄н̣и ча аджӣрн̣а̄нмалинаиш́ча̄ннаирджа̄йанте маласам̣чайа̄т",
-        "text": "Итак, начинается диагностика заболеваний живота (удара-рога-нидана). Все болезни, а в особенности заболевания живота (удара), возникают при ослабленном агни — вследствие несварения (аджирна), употребления нечистой пищи и накопления отходов (мала)."
+        "text": "Итак, начинается диагностика заболеваний живота (удара-рога-нидана). Все болезни, а в особенности заболевания живота (удара), возникают при ослабленном агни — вследствие несварения (аджирна), употребления нечистой пищи и накопления отходов (мала).",
+        "text_en": "Now begins the diagnosis of diseases of the abdomen (udara-roga-nidana). All diseases, and especially diseases of the abdomen (udara), arise when agni is weakened — as a result of indigestion (ajirna), consumption of impure food, and accumulation of waste products (mala)."
       },
       {
         "type": "verse",
@@ -7878,7 +8072,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रुद्ध्वा स्वेदाम्वुवाहीनि दोषाः स्रोतांसि संचिताः प्राणाग्न्यपानान् संदूष्य जनयन्त्युदरं नृणाम्",
         "iast": "ruddhvā svedāmvuvāhīni doṣāḥ srotāṃsi saṃcitāḥ prāṇāgnyapānān saṃdūṣya janayantyudaraṃ nṛṇām",
         "iast_ru": "руддхва̄ сведа̄мвува̄хӣни дош̣а̄х̣ срота̄м̣си сам̣чита̄х̣ пра̄н̣а̄гнйапа̄на̄н сам̣дӯш̣йа джанайантйударам̣ нр̣н̣а̄м",
-        "text": "Накопившиеся доши, закупорив каналы (сротас), несущие пот и воду, повреждают прану, агни и апану и тем самым порождают удару у людей."
+        "text": "Накопившиеся доши, закупорив каналы (сротас), несущие пот и воду, повреждают прану, агни и апану и тем самым порождают удару у людей.",
+        "text_en": "The accumulated doshas, having blocked the channels (srotas) that carry sweat and water, damage prana, agni, and apana, and thereby produce udara in people."
       },
       {
         "type": "verse",
@@ -7886,7 +8081,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आध्मानं गमनेऽशक्तिर्दौर्बल्यं दुर्बलाग्निता शोथः सदनमङ्गानां सङ्गो वातपुरीषयोः",
         "iast": "ādhmānaṃ gamane'śaktirdaurbalyaṃ durbalāgnitā śothaḥ sadanamaṅgānāṃ saṅgo vātapurīṣayoḥ",
         "iast_ru": "а̄дхма̄нам̣ гамане'ш́актирдаурбалйам̣ дурбала̄гнита̄ ш́отхах̣ саданаман̇га̄на̄м̣ сан̇го ва̄тапурӣш̣айох̣",
-        "text": "Вздутие (адхмана), неспособность к передвижению, слабость, ослабление пищеварительного огня (агни), отёк (шотха), вялость членов тела, задержка газов (Вата) и кала (пуриша) —"
+        "text": "Вздутие (адхмана), неспособность к передвижению, слабость, ослабление пищеварительного огня (агни), отёк (шотха), вялость членов тела, задержка газов (Вата) и кала (пуриша) —",
+        "text_en": "Distension (adhmana), inability to move about, weakness, weakening of the digestive fire (agni), swelling (shotha), sluggishness of the limbs, retention of gas (Vata) and stool (purisha) —"
       },
       {
         "type": "verse",
@@ -7894,7 +8090,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दाहस्तन्द्रा च सर्वेषु जठरेषु भवन्ति हि पृथग्दोषैः समस्तैश्च प्लीहबद्धक्षतोदकैः",
         "iast": "dāhastandrā ca sarveṣu jaṭhareṣu bhavanti hi pṛthagdoṣaiḥ samastaiśca plīhabaddhakṣatodakaiḥ",
         "iast_ru": "да̄хастандра̄ ча сарвеш̣у джат̣хареш̣у бхаванти хи пр̣тхагдош̣аих̣ самастаиш́ча плӣхабаддхакш̣атодакаих̣",
-        "text": "— а также жжение (даха) и сонливость (тандра) — присутствуют при всех видах заболеваний живота. Удара бывает от каждой доши в отдельности, от совокупности всех трёх, а также от увеличения селезёнки (плиха), непроходимости кишечника (баддха), ранения (кшата) и водянки (удака) —"
+        "text": "— а также жжение (даха) и сонливость (тандра) — присутствуют при всех видах заболеваний живота. Удара бывает от каждой доши в отдельности, от совокупности всех трёх, а также от увеличения селезёнки (плиха), непроходимости кишечника (баддха), ранения (кшата) и водянки (удака) —",
+        "text_en": "— as well as burning (daha) and drowsiness (tandra) — are present in all varieties of abdominal disease. Udara occurs from each dosha singly, from the combination of all three, and also from enlargement of the spleen (pliha), intestinal obstruction (baddha), injury (kshata), and dropsy (udaka) —"
       },
       {
         "type": "verse",
@@ -7902,7 +8099,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "संभवन्त्युदराण्यष्टौ तेषां लिङ्गं पृथक् शृणु तत्र वातोदरे शोथः पाणिपान्ना भिकुक्षिषु",
         "iast": "saṃbhavantyudarāṇyaṣṭau teṣāṃ liṅgaṃ pṛthak śṛṇu tatra vātodare śothaḥ pāṇipānnā bhikukṣiṣu",
         "iast_ru": "сам̣бхавантйудара̄н̣йаш̣т̣ау теш̣а̄м̣ лин̇гам̣ пр̣тхак ш́р̣н̣у татра ва̄тодаре ш́отхах̣ па̄н̣ипа̄нна̄ бхикукш̣иш̣у",
-        "text": "— всего возникает восемь видов удары. Выслушай их признаки по отдельности. При ватодаре (удара от Ваты) наблюдается отёк (шотха) кистей рук, стоп и нижней части живота (кукши)."
+        "text": "— всего возникает восемь видов удары. Выслушай их признаки по отдельности. При ватодаре (удара от Ваты) наблюдается отёк (шотха) кистей рук, стоп и нижней части живота (кукши).",
+        "text_en": "— altogether eight varieties of udara arise. Hear their signs separately. In vatodara (udara from Vata) there is observed swelling (shotha) of the hands, feet, and lower abdomen (kukshi)."
       },
       {
         "type": "verse",
@@ -7910,7 +8108,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुक्षिपार्श्वोदरकटी-पृष्ठरुक् पर्वभेदनम् शुष्ककासोऽङ्गमर्दोऽधोगुरुता मलसंग्रहः",
         "iast": "kukṣipārśvodarakaṭī-pṛṣṭharuk parvabhedanam śuṣkakāso'ṅgamardo'dhogurutā malasaṃgrahaḥ",
         "iast_ru": "кукш̣ипа̄рш́водаракат̣ӣ-пр̣ш̣т̣харук парвабхеданам ш́уш̣кака̄со'н̇гамардо'дхогурута̄ маласам̣грахах̣",
-        "text": "Боли в подреберьях (кукши), боках (паршва), животе (удара), пояснице (кати) и спине (приштха); ломота в суставах; сухой кашель (шушка-каса); ломота в теле; тяжесть в нижней части тела; задержка кала."
+        "text": "Боли в подреберьях (кукши), боках (паршва), животе (удара), пояснице (кати) и спине (приштха); ломота в суставах; сухой кашель (шушка-каса); ломота в теле; тяжесть в нижней части тела; задержка кала.",
+        "text_en": "Pain in the hypochondrium (kukshi), flanks (parshva), abdomen (udara), loins (kati), and back (prishtha); aching of the joints; dry cough (shushka-kasa); aching of the body; heaviness in the lower part of the body; retention of stool."
       },
       {
         "type": "verse",
@@ -7918,7 +8117,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्यावारुणत्वगादित्वमक स्मादवृद्धिह्रासवत् सतोदभेदमुदरं तनुकृष्णसिराततम्",
         "iast": "śyāvāruṇatvagāditvamaka smādavṛddhihrāsavat satodabhedamudaraṃ tanukṛṣṇasirātatam",
         "iast_ru": "ш́йа̄ва̄рун̣атвага̄дитвамака сма̄давр̣ддхихра̄сават сатодабхедамударам̣ танукр̣ш̣н̣асира̄татам",
-        "text": "Тёмно-красноватый цвет кожи и прочих покровов; живот то увеличивается, то уменьшается без видимых причин; ощущаются колющие и распирающие боли; живот покрыт сетью тонких тёмных вен (сира)."
+        "text": "Тёмно-красноватый цвет кожи и прочих покровов; живот то увеличивается, то уменьшается без видимых причин; ощущаются колющие и распирающие боли; живот покрыт сетью тонких тёмных вен (сира).",
+        "text_en": "A dark reddish color of the skin and other coverings; the abdomen alternately enlarges and diminishes without apparent cause; piercing and distending pains are felt; the abdomen is covered with a network of fine dark veins (sira)."
       },
       {
         "type": "verse",
@@ -7926,7 +8126,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आध्मातदृतिवच्छब्दमाहतं प्रकरोति च वायुश्चात्र सरुक्शब्दो विचरेत्सर्वतोगतिः",
         "iast": "ādhmātadṛtivacchabdamāhataṃ prakaroti ca vāyuścātra sarukśabdo vicaretsarvatogatiḥ",
         "iast_ru": "а̄дхма̄тадр̣тиваччхабдама̄хатам̣ пракароти ча ва̄йуш́ча̄тра сарукш́абдо вичаретсарватогатих̣",
-        "text": "Вздутый, он издаёт звук подобно надутому кожаному бурдюку при постукивании. Вата при этом движется во всех направлениях, сопровождаясь болью и звуками."
+        "text": "Вздутый, он издаёт звук подобно надутому кожаному бурдюку при постукивании. Вата при этом движется во всех направлениях, сопровождаясь болью и звуками.",
+        "text_en": "Being distended, it produces a sound like an inflated leather bag when tapped. Vata at this time moves in all directions, accompanied by pain and sounds."
       },
       {
         "type": "verse",
@@ -7934,7 +8135,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पित्तोदरे ज्वरो मूर्च्छा दाहस्तृट् कटुकास्यता भ्रमोऽतिसारः पीतत्वं त्वगादावुदरं हरित्",
         "iast": "pittodare jvaro mūrcchā dāhastṛṭ kaṭukāsyatā bhramo'tisāraḥ pītatvaṃ tvagādāvudaraṃ harit",
         "iast_ru": "питтодаре джваро мӯрччха̄ да̄хастр̣т̣ кат̣ука̄сйата̄ бхрамо'тиса̄рах̣ пӣтатвам̣ твага̄да̄вударам̣ харит",
-        "text": "При питтодаре (удара от Питты) наблюдаются: лихорадка (джвара), обморок (мурччха), жжение (даха), жажда (трит), горечь во рту; головокружение (бхрама), понос (атисара); желтоватый цвет кожи и прочих покровов; живот — зеленоватого оттенка (харит)."
+        "text": "При питтодаре (удара от Питты) наблюдаются: лихорадка (джвара), обморок (мурччха), жжение (даха), жажда (трит), горечь во рту; головокружение (бхрама), понос (атисара); желтоватый цвет кожи и прочих покровов; живот — зеленоватого оттенка (харит).",
+        "text_en": "In pittodara (udara from Pitta) there are observed: fever (jvara), fainting (murchha), burning (daha), thirst (trit), bitterness in the mouth; dizziness (bhrama), diarrhea (atisara); a yellowish color of the skin and other coverings; the abdomen has a greenish tinge (harita)."
       },
       {
         "type": "comment",
@@ -7947,7 +8149,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पीतताम्रसिरानद्धं सस्वेदं सोष्म दह्यते धूमायते मृदुस्पर्श क्षिप्रपाकं प्रदूयते",
         "iast": "pītatāmrasirānaddhaṃ sasvedaṃ soṣma dahyate dhūmāyate mṛdusparśa kṣiprapākaṃ pradūyate",
         "iast_ru": "пӣтата̄мрасира̄наддхам̣ сасведам̣ сош̣ма дахйате дхӯма̄йате мр̣дуспарш́а кш̣ипрапа̄кам̣ прадӯйате",
-        "text": "Он пронизан жёлто-медными венами, покрыт потом и горяч на ощупь; дымится; мягок при прикосновении; быстро нагнаивается и источает зловоние."
+        "text": "Он пронизан жёлто-медными венами, покрыт потом и горяч на ощупь; дымится; мягок при прикосновении; быстро нагнаивается и источает зловоние.",
+        "text_en": "It is traversed by yellowish-copper veins, covered with sweat, and hot to the touch; it seems to smoke; it is soft to the touch; it quickly suppurates and gives off a foul odor."
       },
       {
         "type": "verse",
@@ -7955,7 +8158,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्लेष्मोदरेऽङ्गसदनं स्वापः श्वयथुगौरवम् निद्रो त्क्लेशोऽरुचिः श्वासः कासः शुक्लत्वगादिता",
         "iast": "śleṣmodare'ṅgasadanaṃ svāpaḥ śvayathugauravam nidro tkleśo'ruciḥ śvāsaḥ kāsaḥ śuklatvagāditā",
         "iast_ru": "ш́леш̣модаре'н̇гасаданам̣ сва̄пах̣ ш́вайатхугауравам нидро тклеш́о'ручих̣ ш́ва̄сах̣ ка̄сах̣ ш́уклатвага̄дита̄",
-        "text": "При капходаре (удара от Капхи) наблюдаются: вялость членов тела, онемение (свапа), припухлость (шваятху) и тяжесть; затруднение пробуждения, отвращение к пище (аручи), одышка (шваса), кашель (каса); белёсый цвет кожи и прочих покровов."
+        "text": "При капходаре (удара от Капхи) наблюдаются: вялость членов тела, онемение (свапа), припухлость (шваятху) и тяжесть; затруднение пробуждения, отвращение к пище (аручи), одышка (шваса), кашель (каса); белёсый цвет кожи и прочих покровов.",
+        "text_en": "In kaphodara (udara from Kapha) there are observed: sluggishness of the limbs, numbness (svapa), swelling (shvayathu), and heaviness; difficulty in waking, aversion to food (aruchi), dyspnea (shvasa), cough (kasa); a whitish color of the skin and other coverings."
       },
       {
         "type": "verse",
@@ -7963,7 +8167,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उदरं स्तिमितं स्निग्धं शुक्लराजीततं महत् चिराभिवृद्धं कठिनं शीतस्पर्शं गुरु स्थिरम्",
         "iast": "udaraṃ stimitaṃ snigdhaṃ śuklarājītataṃ mahat cirābhivṛddhaṃ kaṭhinaṃ śītasparśaṃ guru sthiram",
         "iast_ru": "ударам̣ стимитам̣ снигдхам̣ ш́уклара̄джӣтатам̣ махат чира̄бхивр̣ддхам̣ кат̣хинам̣ ш́ӣтаспарш́ам̣ гуру стхирам",
-        "text": "Живот — неподвижный, маслянистый (снигдха), покрыт белыми полосами, большой, увеличивается медленно, плотный (катхина), холодный на ощупь, тяжёлый и устойчивый (стхира)."
+        "text": "Живот — неподвижный, маслянистый (снигдха), покрыт белыми полосами, большой, увеличивается медленно, плотный (катхина), холодный на ощупь, тяжёлый и устойчивый (стхира).",
+        "text_en": "The abdomen is immobile, unctuous (snigdha), covered with white streaks, large, enlarges slowly, dense (kathina), cold to the touch, heavy, and stable (sthira)."
       },
       {
         "type": "verse",
@@ -7971,7 +8176,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्त्रियोऽन्नपानं नखलोममूत्रविडार्तवैर्युक्तमसाधुवृत्ताः यस्मै प्रयच्छन्त्यरयो गरांश्च दुष्टाम्बुदूषीविषसेवनाद्वा",
         "iast": "striyo'nnapānaṃ nakhalomamūtraviḍārtavairyuktamasādhuvṛttāḥ yasmai prayacchantyarayo garāṃśca duṣṭāmbudūṣīviṣasevanādvā",
         "iast_ru": "стрийо'ннапа̄нам̣ накхаломамӯтравид̣а̄ртаваирйуктамаса̄дхувр̣тта̄х̣ йасмаи прайаччхантйарайо гара̄м̣ш́ча душ̣т̣а̄мбудӯш̣ӣвиш̣асевана̄два̄",
-        "text": "Женщины дурного поведения подмешивают в пищу и питьё фрагменты ногтей, волос, мочи (мутра), кала и менструальных выделений; враги подмешивают яды (гара); либо удара возникает от употребления испорченной воды и контактных ядов (души-виша)."
+        "text": "Женщины дурного поведения подмешивают в пищу и питьё фрагменты ногтей, волос, мочи (мутра), кала и менструальных выделений; враги подмешивают яды (гара); либо удара возникает от употребления испорченной воды и контактных ядов (души-виша).",
+        "text_en": "Women of ill conduct mix into food and drink fragments of nails, hair, urine (mutra), stool, and menstrual discharge; enemies mix in poisons (gara); or udara arises from consuming contaminated water and contact poisons (dushi-visha)."
       },
       {
         "type": "verse",
@@ -7979,7 +8185,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तेनाशुरक्तं कुपिताश्च दोषाः कुर्युः सुघोरं जठरं त्रिलिङ्गम् तच्छीतवाते भृशदुर्दिने च विशेषतः कुप्यति दह्यते च",
         "iast": "tenāśuraktaṃ kupitāśca doṣāḥ kuryuḥ sughoraṃ jaṭharaṃ triliṅgam tacchītavāte bhṛśadurdine ca viśeṣataḥ kupyati dahyate ca",
         "iast_ru": "тена̄ш́урактам̣ купита̄ш́ча дош̣а̄х̣ курйух̣ сугхорам̣ джат̣харам̣ трилин̇гам таччхӣтава̄те бхр̣ш́адурдине ча виш́еш̣атах̣ купйати дахйате ча",
-        "text": "Тем ядом быстро поражается кровь, и возбуждённые доши вызывают крайне тяжёлое заболевание живота (джатхара) с признаками расстройства всех трёх дош. Оно особенно обостряется в холодный ветер и в ненастье, и живот горит изнутри."
+        "text": "Тем ядом быстро поражается кровь, и возбуждённые доши вызывают крайне тяжёлое заболевание живота (джатхара) с признаками расстройства всех трёх дош. Оно особенно обостряется в холодный ветер и в ненастье, и живот горит изнутри.",
+        "text_en": "By that poison the blood is quickly affected, and the provoked doshas cause an extremely severe disease of the abdomen (jathara) with the signs of disturbance of all three doshas. It is particularly aggravated by cold wind and in bad weather, and the abdomen burns from within."
       },
       {
         "type": "verse",
@@ -7987,7 +8194,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स चातुरो मुह्यति हि प्रसक्तं पाण्डुः मुखं शुष्यति तृष्णया च दूष्योदरं कीर्तितमेतदेव प्लीहोदरं कीर्तयतो निबोध",
         "iast": "sa cāturo muhyati hi prasaktaṃ pāṇḍuḥ mukhaṃ śuṣyati tṛṣṇayā ca dūṣyodaraṃ kīrtitametadeva plīhodaraṃ kīrtayato nibodha",
         "iast_ru": "са ча̄туро мухйати хи прасактам̣ па̄н̣д̣ух̣ мукхам̣ ш́уш̣йати тр̣ш̣н̣айа̄ ча дӯш̣йодарам̣ кӣртитаметадева плӣходарам̣ кӣртайато нибодха",
-        "text": "Он постоянно впадает в помрачение, бледнеет (панду), лицо его пересыхает от жажды (тришна). Это именуется души-удара (удара, вызванная контактным ядом). Теперь выслушай описание плиходары (удара от увеличения селезёнки)."
+        "text": "Он постоянно впадает в помрачение, бледнеет (панду), лицо его пересыхает от жажды (тришна). Это именуется души-удара (удара, вызванная контактным ядом). Теперь выслушай описание плиходары (удара от увеличения селезёнки).",
+        "text_en": "He constantly falls into a clouded state, turns pale (pandu), and his face dries out from thirst (trishna). This is called dushi-udara (udara caused by a contact poison). Now hear the description of plihodara (udara from enlargement of the spleen)."
       },
       {
         "type": "verse",
@@ -7995,7 +8203,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विदाह्यभिष्यन्दिरतस्य जन्तोः प्रदुष्टमत्यर्थमसृक् कफश्च प्लीहाभिवृद्धिं कुरुतः प्रवृद्धौ प्लीहोत्थमेतज्जठरं वदन्ति",
         "iast": "vidāhyabhiṣyandiratasya jantoḥ praduṣṭamatyarthamasṛk kaphaśca plīhābhivṛddhiṃ kurutaḥ pravṛddhau plīhotthametajjaṭharaṃ vadanti",
         "iast_ru": "вида̄хйабхиш̣йандиратасйа джантох̣ прадуш̣т̣аматйартхамаср̣к капхаш́ча плӣха̄бхивр̣ддхим̣ курутах̣ правр̣ддхау плӣхоттхаметаджджат̣харам̣ ваданти",
-        "text": "У того, кто привержен пище, вызывающей жжение (видахи) и закупорку каналов (абхишьянди), сильно портятся кровь (асрик) и Капха; оба, возросши, вызывают увеличение селезёнки (плиха). Это называют удара, происходящей от селезёнки (плиходара)."
+        "text": "У того, кто привержен пище, вызывающей жжение (видахи) и закупорку каналов (абхишьянди), сильно портятся кровь (асрик) и Капха; оба, возросши, вызывают увеличение селезёнки (плиха). Это называют удара, происходящей от селезёнки (плиходара).",
+        "text_en": "In one addicted to food that causes burning (vidahi) and clogs the channels (abhishyandi), the blood (asrik) and Kapha become severely vitiated; both, having increased, cause enlargement of the spleen (pliha). This is called udara arising from the spleen (plihodara)."
       },
       {
         "type": "verse",
@@ -8003,7 +8212,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तद्वामपार्श्वे परवृद्धिमेति विशेषतः सीदति चातुरोऽत्र मन्दज्वराग्निः कफपित्तलिङ्गैरुपद्रुतः क्षीणबलोऽतिपाण्डुः सव्यान्यपार्श्वे यकृति प्रवृद्धे ज्ञेयं यकृद्दाल्युदरं तदेव",
         "iast": "tadvāmapārśve paravṛddhimeti viśeṣataḥ sīdati cāturo'tra mandajvarāgniḥ kaphapittaliṅgairupadrutaḥ kṣīṇabalo'tipāṇḍuḥ savyānyapārśve yakṛti pravṛddhe jñeyaṃ yakṛddālyudaraṃ tadeva",
         "iast_ru": "тадва̄мапа̄рш́ве паравр̣ддхимети виш́еш̣атах̣ сӣдати ча̄туро'тра мандаджвара̄гних̣ капхапитталин̇гаирупадрутах̣ кш̣ӣн̣абало'типа̄н̣д̣ух̣ савйа̄нйапа̄рш́ве йакр̣ти правр̣ддхе джн̃ейам̣ йакр̣дда̄лйударам̣ тадева",
-        "text": "Она разрастается преимущественно в левом боку; больной слабеет; агни и температура тела снижены; он страдает от осложнений с признаками Капхи и Питты; силы истощены, он крайне бледен. Когда же печень (якрит) увеличена в правом боку, это следует знать как якритдалья-удара (удара от печени)."
+        "text": "Она разрастается преимущественно в левом боку; больной слабеет; агни и температура тела снижены; он страдает от осложнений с признаками Капхи и Питты; силы истощены, он крайне бледен. Когда же печень (якрит) увеличена в правом боку, это следует знать как якритдалья-удара (удара от печени).",
+        "text_en": "It grows predominantly on the left side; the patient becomes weak; agni and body temperature are lowered; he suffers from complications with the signs of Kapha and Pitta; his strength is exhausted, and he is extremely pale. But when the liver (yakrit) is enlarged on the right side, this should be known as yakritdalya-udara (udara from the liver)."
       },
       {
         "type": "verse",
@@ -8011,7 +8221,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उदावर्त रुजानाहै र्मोहतृड्दहनज्वरैः गौरवारुचिकाठिन्यैर्विद्यात्तत्र मलान् क्रमात्",
         "iast": "udāvarta rujānāhai rmohatṛḍdahanajvaraiḥ gauravārucikāṭhinyairvidyāttatra malān kramāt",
         "iast_ru": "уда̄варта руджа̄на̄хаи рмохатр̣д̣даханаджвараих̣ гаурава̄ручика̄т̣хинйаирвидйа̄ттатра мала̄н крама̄т",
-        "text": "При ударе от удаварты наблюдаются: боли, вздутие (анаха), помрачение сознания, жажда, жжение, лихорадка (джвара), тяжесть, отвращение к пище (аручи) и уплотнение живота. При этом следует распознавать задержку отходов (мала) последовательно по характерным признакам каждого."
+        "text": "При ударе от удаварты наблюдаются: боли, вздутие (анаха), помрачение сознания, жажда, жжение, лихорадка (джвара), тяжесть, отвращение к пище (аручи) и уплотнение живота. При этом следует распознавать задержку отходов (мала) последовательно по характерным признакам каждого.",
+        "text_en": "In udara from udavarta there are observed: pains, distension (anaha), clouding of consciousness, thirst, burning, fever (jvara), heaviness, aversion to food (aruchi), and hardening of the abdomen. In this case, retention of waste products (mala) should be recognized in sequence by the characteristic signs of each."
       },
       {
         "type": "verse",
@@ -8019,7 +8230,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यस्यान्त्रमन्नैरुपलेपिभिर्वा बालश्मभिर्वा पिहितं यथावत् संचीयते तस्य मलः सदोषः शनैः शनैः संकरवच्च नाड्याम्",
         "iast": "yasyāntramannairupalepibhirvā bālaśmabhirvā pihitaṃ yathāvat saṃcīyate tasya malaḥ sadoṣaḥ śanaiḥ śanaiḥ saṃkaravacca nāḍyām",
         "iast_ru": "йасйа̄нтраманнаирупалепибхирва̄ ба̄лаш́мабхирва̄ пихитам̣ йатха̄ват сам̣чӣйате тасйа малах̣ садош̣ах̣ ш́анаих̣ ш́анаих̣ сам̣каравачча на̄д̣йа̄м",
-        "text": "У того, чья кишка (антра) закупорена клейкой пищей, либо кишечными камнями, кал (мала) вместе с дошами накапливается мало-помалу, подобно мусору в трубе."
+        "text": "У того, чья кишка (антра) закупорена клейкой пищей, либо кишечными камнями, кал (мала) вместе с дошами накапливается мало-помалу, подобно мусору в трубе.",
+        "text_en": "In one whose intestine (antra) is blocked by sticky food or by intestinal concretions, stool (mala) together with the doshas accumulates little by little, like debris in a pipe."
       },
       {
         "type": "verse",
@@ -8027,7 +8239,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "निरुध्यते यस्य गुदे पुरीषं निरेति कृच्छ्रादपि चाल्पमल्पम् हृन्नाभिमध्ये परिवृद्धिमेति तस्योदरं बद्धगुदं वदन्ति",
         "iast": "nirudhyate yasya gude purīṣaṃ nireti kṛcchrādapi cālpamalpam hṛnnābhimadhye parivṛddhimeti tasyodaraṃ baddhagudaṃ vadanti",
         "iast_ru": "нирудхйате йасйа гуде пурӣш̣ам̣ нирети кр̣ччхра̄дапи ча̄лпамалпам хр̣нна̄бхимадхйе паривр̣ддхимети тасйодарам̣ баддхагудам̣ ваданти",
-        "text": "У того, чей кал задерживается в заднем проходе (гуда) и выходит лишь с трудом и в малом количестве, живот увеличивается в области между сердцем и пупком — это называют баддха-гуда-удара (удара от непроходимости заднего прохода)."
+        "text": "У того, чей кал задерживается в заднем проходе (гуда) и выходит лишь с трудом и в малом количестве, живот увеличивается в области между сердцем и пупком — это называют баддха-гуда-удара (удара от непроходимости заднего прохода).",
+        "text_en": "In one whose stool is retained in the anus (guda) and passes only with difficulty and in small amount, the abdomen enlarges in the region between the heart and the navel — this is called baddha-guda-udara (udara from obstruction of the anus)."
       },
       {
         "type": "verse",
@@ -8035,7 +8248,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शल्यं तथाऽन्नोपहितं यदन्त्रं भुक्तं भिनत्त्यागतमन्यथा वा तस्मात्स्रुतोऽन्त्रात्सलिलप्रकाशः स्रावः स्रवेद्वै गुदतस्तु भूयः",
         "iast": "śalyaṃ tathā'nnopahitaṃ yadantraṃ bhuktaṃ bhinattyāgatamanyathā vā tasmātsruto'ntrātsalilaprakāśaḥ srāvaḥ sravedvai gudatastu bhūyaḥ",
         "iast_ru": "ш́алйам̣ татха̄'ннопахитам̣ йадантрам̣ бхуктам̣ бхинаттйа̄гатаманйатха̄ ва̄ тасма̄тсруто'нтра̄тсалилапрака̄ш́ах̣ сра̄вах̣ сраведваи гудатасту бхӯйах̣",
-        "text": "Когда инородное тело (шалья), попавшее в кишечник вместе с пищей, либо иным путём проникшее внутрь, прободает кишку (антра), из неё сочится жидкость, подобная воде, и обильно истекает из заднего прохода (гуда)."
+        "text": "Когда инородное тело (шалья), попавшее в кишечник вместе с пищей, либо иным путём проникшее внутрь, прободает кишку (антра), из неё сочится жидкость, подобная воде, и обильно истекает из заднего прохода (гуда).",
+        "text_en": "When a foreign body (shalya), having entered the intestine together with food or having penetrated inward by another route, perforates the intestine (antra), a fluid resembling water oozes from it and flows copiously from the anus (guda)."
       },
       {
         "type": "verse",
@@ -8043,7 +8257,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नाभेरधश्चोदरमेति वृद्धिं निस्तुद्यते दाल्यति चातिमात्रम् एतत्परिस्राव्युरं प्रदिष्टं दकोदरं कीर्तयतो निबोध",
         "iast": "nābheradhaścodarameti vṛddhiṃ nistudyate dālyati cātimātram etatparisrāvyuraṃ pradiṣṭaṃ dakodaraṃ kīrtayato nibodha",
         "iast_ru": "на̄бхерадхаш́чодарамети вр̣ддхим̣ нистудйате да̄лйати ча̄тима̄трам етатпарисра̄вйурам̣ прадиш̣т̣ам̣ дакодарам̣ кӣртайато нибодха",
-        "text": "Живот увеличивается ниже пупка (набхи); больной испытывает колющие и разрывающие боли чрезмерной силы. Это именуется парисравья-удара (удара от просачивания). Теперь выслушай описание дакодары (водянки)."
+        "text": "Живот увеличивается ниже пупка (набхи); больной испытывает колющие и разрывающие боли чрезмерной силы. Это именуется парисравья-удара (удара от просачивания). Теперь выслушай описание дакодары (водянки).",
+        "text_en": "The abdomen enlarges below the navel (nabhi); the patient experiences piercing and tearing pains of excessive intensity. This is called parisravya-udara (udara from seepage). Now hear the description of dakodara (dropsy)."
       },
       {
         "type": "verse",
@@ -8051,7 +8266,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यः स्नेहपीतोऽत्यनुवासितो वा वान्तो विरिक्तोऽप्यथवा विरूढः पिबेज्जलं शीतलमाशु तस्य स्रोतांसि दुष्यन्ति हि तद्वहानि",
         "iast": "yaḥ snehapīto'tyanuvāsito vā vānto virikto'pyathavā virūḍhaḥ pibejjalaṃ śītalamāśu tasya srotāṃsi duṣyanti hi tadvahāni",
         "iast_ru": "йах̣ снехапӣто'тйанува̄сито ва̄ ва̄нто вирикто'пйатхава̄ вирӯд̣хах̣ пибеджджалам̣ ш́ӣталама̄ш́у тасйа срота̄м̣си душ̣йанти хи тадваха̄ни",
-        "text": "Тот, кто, приняв масляное питьё (снеха) или пройдя избыточную масляную клизму (анувасана), либо после рвоты (вамана) или очищения (виречана), находясь в состоянии, когда доши возобновились, выпьет холодную воду — у него быстро повреждаются каналы (сротас), несущие эти жидкости."
+        "text": "Тот, кто, приняв масляное питьё (снеха) или пройдя избыточную масляную клизму (анувасана), либо после рвоты (вамана) или очищения (виречана), находясь в состоянии, когда доши возобновились, выпьет холодную воду — у него быстро повреждаются каналы (сротас), несущие эти жидкости.",
+        "text_en": "One who, having taken an oil drink (sneha) or undergone an excessive oil enema (anuvasana), or after emesis (vamana) or purgation (virechana), while the doshas have re-formed, drinks cold water — in him the channels (srotas) carrying these fluids are quickly damaged."
       },
       {
         "type": "verse",
@@ -8059,7 +8275,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्नेहोपलिप्तेष्वथवाऽपि तेषु दकोदरं पूर्ववदभ्युपैति स्निग्धं महत्तत्परिवृत्तनाभि समासतं पूर्णमिवाम्बुना च यथा दृतिः क्षुभ्यति कम्पते च शब्दायते चापि दकोदरं तत्",
         "iast": "snehopalipteṣvathavā'pi teṣu dakodaraṃ pūrvavadabhyupaiti snigdhaṃ mahattatparivṛttanābhi samāsataṃ pūrṇamivāmbunā ca yathā dṛtiḥ kṣubhyati kampate ca śabdāyate cāpi dakodaraṃ tat",
         "iast_ru": "снехопалиптеш̣ватхава̄'пи теш̣у дакодарам̣ пӯрвавадабхйупаити снигдхам̣ махаттатпаривр̣ттана̄бхи сама̄сатам̣ пӯрн̣амива̄мбуна̄ ча йатха̄ др̣тих̣ кш̣убхйати кампате ча ш́абда̄йате ча̄пи дакодарам̣ тат",
-        "text": "Либо, когда каналы покрыты остаточной маслянистостью (снеха), возникает дакодара (водянка) как прежде описано. Живот — маслянистый, большой, с вывернутым пупком, наполненный, словно водой; подобно бурдюку (дрити), он колышется, дрожит и издаёт звук — такова дакодара."
+        "text": "Либо, когда каналы покрыты остаточной маслянистостью (снеха), возникает дакодара (водянка) как прежде описано. Живот — маслянистый, большой, с вывернутым пупком, наполненный, словно водой; подобно бурдюку (дрити), он колышется, дрожит и издаёт звук — такова дакодара.",
+        "text_en": "Or, when the channels are coated with residual unctuousness (sneha), dakodara (dropsy) arises as described above. The abdomen is oily, large, with an everted navel, filled as if with water; like a leather bag (driti), it sways, quivers, and produces a sound — such is dakodara."
       },
       {
         "type": "verse",
@@ -8067,7 +8284,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "जन्मनैवोदरं सर्वं प्रायः कूच्छ्रतमं मतम् बलिनस्तदजाताम्बु यत्नसाध्यं नवोत्थितम्",
         "iast": "janmanaivodaraṃ sarvaṃ prāyaḥ kūcchratamaṃ matam balinastadajātāmbu yatnasādhyaṃ navotthitam",
         "iast_ru": "джанманаиводарам̣ сарвам̣ пра̄йах̣ кӯччхратамам̣ матам балинастададжа̄та̄мбу йатнаса̄дхйам̣ навоттхитам",
-        "text": "Всякая удара по своей природе считается крайне трудноизлечимой. Однако у сильного больного, когда удара ещё не образовала воду и является свежей, она поддаётся излечению при надлежащем усилии."
+        "text": "Всякая удара по своей природе считается крайне трудноизлечимой. Однако у сильного больного, когда удара ещё не образовала воду и является свежей, она поддаётся излечению при надлежащем усилии.",
+        "text_en": "Every udara is by its nature considered extremely difficult to cure. However, in a strong patient, when the udara has not yet formed fluid and is fresh, it yields to cure with proper effort."
       },
       {
         "type": "verse",
@@ -8075,7 +8293,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पक्षाद् बद्धगुदं तूर्ध्वं सर्वं जातोदकं तथा प्रायो भवत्यभावाय छिद्रा न्त्रं चोदरं नृणाम्",
         "iast": "pakṣād baddhagudaṃ tūrdhvaṃ sarvaṃ jātodakaṃ tathā prāyo bhavatyabhāvāya chidrā ntraṃ codaraṃ nṛṇām",
         "iast_ru": "пакш̣а̄д баддхагудам̣ тӯрдхвам̣ сарвам̣ джа̄тодакам̣ татха̄ пра̄йо бхаватйабха̄ва̄йа чхидра̄ нтрам̣ чодарам̣ нр̣н̣а̄м",
-        "text": "Баддха-гуда-удара существующая более двух недель (пакша), всякая удара, при которой уже образовалась вода, а также удара с прободением кишки (чхидра-антра) — как правило ведут к гибели."
+        "text": "Баддха-гуда-удара существующая более двух недель (пакша), всякая удара, при которой уже образовалась вода, а также удара с прободением кишки (чхидра-антра) — как правило ведут к гибели.",
+        "text_en": "Baddha-guda-udara existing for more than two weeks (paksha), any udara in which fluid has already formed, and udara with perforation of the intestine (chhidra-antra) — these, as a rule, lead to death."
       },
       {
         "type": "verse",
@@ -8083,7 +8302,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शूनाक्षं कुटिलोपस्थमुपक्लिन्नतनुत्वचम् बलशोणितमांसाग्निपरिक्षीणं च वर्जयेत्",
         "iast": "śūnākṣaṃ kuṭilopasthamupaklinnatanutvacam balaśoṇitamāṃsāgniparikṣīṇaṃ ca varjayet",
         "iast_ru": "ш́ӯна̄кш̣ам̣ кут̣илопастхамупаклиннатанутвачам балаш́он̣итама̄м̣са̄гнипарикш̣ӣн̣ам̣ ча варджайет",
-        "text": "Следует отказаться от лечения больного с отёчными глазами, искривлёнными гениталиями, мокнущей и истончённой кожей, а также с истощением сил, крови, мышечной ткани (мамса) и агни."
+        "text": "Следует отказаться от лечения больного с отёчными глазами, искривлёнными гениталиями, мокнущей и истончённой кожей, а также с истощением сил, крови, мышечной ткани (мамса) и агни.",
+        "text_en": "Treatment should be refused for a patient with swollen eyes, distorted genitals, oozing and thinned skin, and with depletion of strength, blood, muscle tissue (mamsa), and agni."
       },
       {
         "type": "verse",
@@ -8091,7 +8311,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पार्श्वभङ्गान्नविद्वेषशोथातीसारपीडितम् विरिक्तं चाप्युदरिणं पूर्यमाणं विवर्जयेत्",
         "iast": "pārśvabhaṅgānnavidveṣaśothātīsārapīḍitam viriktaṃ cāpyudariṇaṃ pūryamāṇaṃ vivarjayet",
         "iast_ru": "па̄рш́вабхан̇га̄ннавидвеш̣аш́отха̄тӣса̄рапӣд̣итам вириктам̣ ча̄пйударин̣ам̣ пӯрйама̄н̣ам̣ виварджайет",
-        "text": "Также следует отказаться от лечения больного ударой, страдающего болями в боках, отвращением к пище, отёком (шотха) и поносом (атисара), — а равно того, кто после очищения (виречана) вновь наполняется жидкостью."
+        "text": "Также следует отказаться от лечения больного ударой, страдающего болями в боках, отвращением к пище, отёком (шотха) и поносом (атисара), — а равно того, кто после очищения (виречана) вновь наполняется жидкостью.",
+        "text_en": "Treatment should also be refused for a patient with udara who suffers from pain in the flanks, aversion to food, swelling (shotha), and diarrhea (atisara) — and likewise for one who, after purgation (virechana), again fills with fluid."
       }
     ]
   },
@@ -8113,7 +8334,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ शोथनिदाम् रक्तपित्तकफान् वायुर्दुष्टो दुष्टान् बहिःसिराः नीत्वा रुद्धगतिस्तैर्हि कुर्यात्त्वङ्मांससंश्रयम्",
         "iast": "atha śothanidām raktapittakaphān vāyurduṣṭo duṣṭān bahiḥsirāḥ nītvā ruddhagatistairhi kuryāttvaṅmāṃsasaṃśrayam",
         "iast_ru": "атха ш́отханида̄м рактапиттакапха̄н ва̄йурдуш̣т̣о душ̣т̣а̄н бахих̣сира̄х̣ нӣтва̄ руддхагатистаирхи курйа̄ттван̇ма̄м̣сасам̣ш́райам",
-        "text": "Итак, начинается диагностика шотхи (отёка). Вата, будучи испорченной, увлекает испорченные ракту, Питту и Капху наружу через сиры (сосуды) и, встретив препятствие своему движению, вызывает припухлость, локализованную в коже (твак) и мышцах (мамса)."
+        "text": "Итак, начинается диагностика шотхи (отёка). Вата, будучи испорченной, увлекает испорченные ракту, Питту и Капху наружу через сиры (сосуды) и, встретив препятствие своему движению, вызывает припухлость, локализованную в коже (твак) и мышцах (мамса).",
+        "text_en": "Now begins the diagnosis of shotha (swelling/edema). Vata, being vitiated, drags the vitiated rakta, Pitta, and Kapha outward through the siras (vessels), and, meeting an obstruction to its movement, causes a swelling localized in the skin (tvak) and muscles (mamsa)."
       },
       {
         "type": "comment",
@@ -8126,7 +8348,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उत्सेधं संहतं शोथं तमाहुर्निचयादतः सर्वं हेतुविशेषैस्तु रूपभेदान्नवात्मकम्",
         "iast": "utsedhaṃ saṃhataṃ śothaṃ tamāhurnicayādataḥ sarvaṃ hetuviśeṣaistu rūpabhedānnavātmakam",
         "iast_ru": "утседхам̣ сам̣хатам̣ ш́отхам̣ тама̄хурничайа̄датах̣ сарвам̣ хетувиш́еш̣аисту рӯпабхеда̄ннава̄тмакам",
-        "text": "Эту плотную припухлость (утседху) называют шотхой, возникающей вследствие накопления дош. По особенностям причин и различиям проявлений она бывает девяти разновидностей."
+        "text": "Эту плотную припухлость (утседху) называют шотхой, возникающей вследствие накопления дош. По особенностям причин и различиям проявлений она бывает девяти разновидностей.",
+        "text_en": "This dense swelling (utsedha) is called shotha, arising from an accumulation of the doshas. According to the particulars of its causes and the differences in its manifestations, it is of nine varieties."
       },
       {
         "type": "verse",
@@ -8134,7 +8357,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दोषैः पृथग्द्वयैः सर्वैरभिघाताद्विषादपि तत्पूर्वरूपं दवथुः शिरायामोऽङ्गगौरवम्",
         "iast": "doṣaiḥ pṛthagdvayaiḥ sarvairabhighātādviṣādapi tatpūrvarūpaṃ davathuḥ śirāyāmo'ṅgagauravam",
         "iast_ru": "дош̣аих̣ пр̣тхагдвайаих̣ сарваирабхигха̄та̄двиш̣а̄дапи татпӯрварӯпам̣ даватхух̣ ш́ира̄йа̄мо'н̇гагауравам",
-        "text": "Шотха возникает от каждой доши в отдельности, от сочетания двух дош, от всех трёх вместе, от травмы (абхигхата) и от яда (виша). Её предвестники (пурварупа) таковы: ощущение жжения (даватху), тянущие боли в сосудах (шираяма) и тяжесть в теле (ангагаурава)."
+        "text": "Шотха возникает от каждой доши в отдельности, от сочетания двух дош, от всех трёх вместе, от травмы (абхигхата) и от яда (виша). Её предвестники (пурварупа) таковы: ощущение жжения (даватху), тянущие боли в сосудах (шираяма) и тяжесть в теле (ангагаурава).",
+        "text_en": "Shotha arises from each dosha singly, from the combination of two doshas, from all three together, from injury (abhighata), and from poison (visha). Its premonitory signs (purvarupa) are as follows: a sensation of burning (davathu), pulling pains in the vessels (shirayama), and heaviness of the body (angagaurava)."
       },
       {
         "type": "verse",
@@ -8142,7 +8366,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शुद्ध्यामयाभुक्तकृशाबलानां क्षाराम्लतीक्ष्णोष्णगुरूपसेवा दध्याममृच्छाकविरोधिदुष्टगरोपसृष्टान्ननिवेषणं च",
         "iast": "śuddhyāmayābhuktakṛśābalānāṃ kṣārāmlatīkṣṇoṣṇagurūpasevā dadhyāmamṛcchākavirodhiduṣṭagaropasṛṣṭānnaniveṣaṇaṃ ca",
         "iast_ru": "ш́уддхйа̄майа̄бхуктакр̣ш́а̄бала̄на̄м̣ кш̣а̄ра̄млатӣкш̣н̣ош̣н̣агурӯпасева̄ дадхйа̄мамр̣ччха̄кавиродхидуш̣т̣агаропаср̣ш̣т̣а̄ннанивеш̣ан̣ам̣ ча",
-        "text": "У лиц, ослабленных очистительными процедурами, болезнями, голоданием, истощением и бессилием, причинами шотхи являются: употребление щелочного (кшара), кислого (амла), острого (тикшна), горячего (ушна) и тяжёлого (гуру); а также употребление простокваши (дадхи), незрелых продуктов (ама), глины (мрит), зелени (шака), несовместимой пищи (виродхи), испорченной пищи и пищи, отравленной гарой (составным ядом)."
+        "text": "У лиц, ослабленных очистительными процедурами, болезнями, голоданием, истощением и бессилием, причинами шотхи являются: употребление щелочного (кшара), кислого (амла), острого (тикшна), горячего (ушна) и тяжёлого (гуру); а также употребление простокваши (дадхи), незрелых продуктов (ама), глины (мрит), зелени (шака), несовместимой пищи (виродхи), испорченной пищи и пищи, отравленной гарой (составным ядом).",
+        "text_en": "In persons weakened by purificatory procedures, diseases, fasting, exhaustion, and debility, the causes of shotha are: consuming alkaline (kshara), sour (amla), sharp (tikshna), hot (ushna), and heavy (guru) substances; and also consuming curdled milk (dadhi), unripe/unprocessed products (ama), clay (mrit), leafy greens (shaka), incompatible food (virodhi), spoiled food, and food poisoned with gara (a compound poison)."
       },
       {
         "type": "verse",
@@ -8150,7 +8375,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अर्शास्यचेष्टा न च देहशुद्धिर्मर्मोपघातो विषमा प्रसूतिः मिथ्योपचारः प्रतिकर्मणां च निजस्य हेतु श्वयथोः प्रदिष्टः",
         "iast": "arśāsyaceṣṭā na ca dehaśuddhirmarmopaghāto viṣamā prasūtiḥ mithyopacāraḥ pratikarmaṇāṃ ca nijasya hetu śvayathoḥ pradiṣṭaḥ",
         "iast_ru": "арш́а̄сйачеш̣т̣а̄ на ча дехаш́уддхирмармопагха̄то виш̣ама̄ прасӯтих̣ митхйопача̄рах̣ пратикарман̣а̄м̣ ча ниджасйа хету ш́вайатхох̣ прадиш̣т̣ах̣",
-        "text": "Геморрой (аршас), малоподвижный образ жизни, отсутствие очищения тела, повреждение жизненно важных точек (марма), патологические роды, а также неправильное проведение лечебных процедур — таковы указанные причины внутренней (ниджа) шотхи."
+        "text": "Геморрой (аршас), малоподвижный образ жизни, отсутствие очищения тела, повреждение жизненно важных точек (марма), патологические роды, а также неправильное проведение лечебных процедур — таковы указанные причины внутренней (ниджа) шотхи.",
+        "text_en": "Hemorrhoids (arshas), a sedentary lifestyle, absence of bodily purification, injury to vital points (marma), pathological childbirth, and also improper performance of therapeutic procedures — these are the stated causes of internal (nija) shotha."
       },
       {
         "type": "verse",
@@ -8158,7 +8384,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सगौरवं स्यादनवस्थितत्वं सोत्सेधमूष्माऽथ सिरातनुत्वम् सलोमहर्षश्च विवर्णता च सामान्यलिङ्गं श्वयथोः प्रदिष्टम्",
         "iast": "sagauravaṃ syādanavasthitatvaṃ sotsedhamūṣmā'tha sirātanutvam salomaharṣaśca vivarṇatā ca sāmānyaliṅgaṃ śvayathoḥ pradiṣṭam",
         "iast_ru": "сагауравам̣ сйа̄данавастхитатвам̣ сотседхамӯш̣ма̄'тха сира̄танутвам саломахарш̣аш́ча виварн̣ата̄ ча са̄ма̄нйалин̇гам̣ ш́вайатхох̣ прадиш̣т̣ам",
-        "text": "Тяжесть, нестабильность припухлости, выбухание с местным жаром, истончение сосудов (сир), появление «гусиной кожи» (ломахарша) и изменение окраски — таковы указанные общие признаки (саманья-линга) шотхи."
+        "text": "Тяжесть, нестабильность припухлости, выбухание с местным жаром, истончение сосудов (сир), появление «гусиной кожи» (ломахарша) и изменение окраски — таковы указанные общие признаки (саманья-линга) шотхи.",
+        "text_en": "Heaviness, instability of the swelling, a bulging with local heat, thinning of the vessels (siras), the appearance of \"goose flesh\" (lomaharsha), and a change of color — these are the stated general signs (samanya-linga) of shotha."
       },
       {
         "type": "verse",
@@ -8166,7 +8393,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "चलस्तनु त्वक् परुषोऽरुणोऽसितः सुषुप्तिहर्षातियुतोऽनिमित्ततः प्रशाम्यति प्रोन्नमति प्रपीडितो दिवाबली च श्वयथुः समीरणात्",
         "iast": "calastanu tvak paruṣo'ruṇo'sitaḥ suṣuptiharṣātiyuto'nimittataḥ praśāmyati pronnamati prapīḍito divābalī ca śvayathuḥ samīraṇāt",
         "iast_ru": "чаластану твак паруш̣о'рун̣о'ситах̣ суш̣уптихарш̣а̄тийуто'нимиттатах̣ праш́а̄мйати проннамати прапӣд̣ито дива̄балӣ ча ш́вайатхух̣ самӣран̣а̄т",
-        "text": "Подвижный, с истончённой кожей, шероховатый, красноватого или тёмного цвета, сопровождаемый онемением (сушупти) и покалыванием (харша), возникающий без видимой причины, стихающий при надавливании и вновь выпячивающийся после него, усиливающийся днём — таков отёк, вызванный Ватой (самиранат)."
+        "text": "Подвижный, с истончённой кожей, шероховатый, красноватого или тёмного цвета, сопровождаемый онемением (сушупти) и покалыванием (харша), возникающий без видимой причины, стихающий при надавливании и вновь выпячивающийся после него, усиливающийся днём — таков отёк, вызванный Ватой (самиранат).",
+        "text_en": "Mobile, with thinned skin, rough, reddish or dark in color, accompanied by numbness (sushupti) and tingling (harsha), arising without visible cause, subsiding under pressure and bulging out again afterward, and intensifying during the day — such is the swelling caused by Vata (samiranat)."
       },
       {
         "type": "verse",
@@ -8174,7 +8402,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मृदुः सगन्धोऽसितपीतरागवान् भ्रमज्वरस्वेदतृषामदान्वितः य उष्यते स्पष्टरुगक्षिरागकृत् स पित्तशोथो भृशदाहपाकवान्",
         "iast": "mṛduḥ sagandho'sitapītarāgavān bhramajvarasvedatṛṣāmadānvitaḥ ya uṣyate spaṣṭarugakṣirāgakṛt sa pittaśotho bhṛśadāhapākavān",
         "iast_ru": "мр̣дух̣ сагандхо'ситапӣтара̄гава̄н бхрамаджварасведатр̣ш̣а̄мада̄нвитах̣ йа уш̣йате спаш̣т̣аругакш̣ира̄гакр̣т са питташ́отхо бхр̣ш́ада̄хапа̄кава̄н",
-        "text": "Мягкий, с неприятным запахом, тёмно-жёлтого оттенка, сопровождаемый головокружением (бхрама), лихорадкой (джвара), потливостью (сведа), жаждой (тришна) и помрачением, горячий на ощупь, вызывающий выраженную боль и покраснение глаз, с сильным жжением (даха) и нагноением (пака) — таков отёк Питты (питташотха)."
+        "text": "Мягкий, с неприятным запахом, тёмно-жёлтого оттенка, сопровождаемый головокружением (бхрама), лихорадкой (джвара), потливостью (сведа), жаждой (тришна) и помрачением, горячий на ощупь, вызывающий выраженную боль и покраснение глаз, с сильным жжением (даха) и нагноением (пака) — таков отёк Питты (питташотха).",
+        "text_en": "Soft, with an unpleasant odor, of a dark-yellow hue, accompanied by dizziness (bhrama), fever (jvara), sweating (sveda), thirst (trishna), and clouding of mind, hot to the touch, causing marked pain and redness of the eyes, with intense burning (daha) and suppuration (paka) — such is the swelling of Pitta (pittashotha)."
       },
       {
         "type": "comment",
@@ -8187,7 +8416,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गुरुः स्थिरः पाण्डुररोचकान्वितः प्रसेकनिद्रा वमिवह्निमान्द्यकृत् स कृच्छ्रजन्मप्रशमो निपीडितो न चेन्नमेद्रा त्रिबली कफात्मकः",
         "iast": "guruḥ sthiraḥ pāṇḍurarocakānvitaḥ prasekanidrā vamivahnimāndyakṛt sa kṛcchrajanmapraśamo nipīḍito na cennamedrā tribalī kaphātmakaḥ",
         "iast_ru": "гурух̣ стхирах̣ па̄н̣д̣урарочака̄нвитах̣ прасеканидра̄ вамивахнима̄ндйакр̣т са кр̣ччхраджанмапраш́амо нипӣд̣ито на ченнамедра̄ трибалӣ капха̄тмаках̣",
-        "text": "Тяжёлый, неподвижный, бледный (пандура), сопровождаемый отсутствием аппетита (рочака), слюнотечением (прасека), сонливостью (нидра), рвотой (вами) и слабостью пищеварительного огня (вахнимандья), медленно возникающий и медленно стихающий, не вдавливающийся при надавливании, усиливающийся ночью — таков отёк Капхи (капхатмака)."
+        "text": "Тяжёлый, неподвижный, бледный (пандура), сопровождаемый отсутствием аппетита (рочака), слюнотечением (прасека), сонливостью (нидра), рвотой (вами) и слабостью пищеварительного огня (вахнимандья), медленно возникающий и медленно стихающий, не вдавливающийся при надавливании, усиливающийся ночью — таков отёк Капхи (капхатмака).",
+        "text_en": "Heavy, immobile, pale (pandura), accompanied by loss of appetite (rochaka), salivation (praseka), drowsiness (nidra), vomiting (vami), and weakness of the digestive fire (vahnimandya), arising slowly and subsiding slowly, not pitting under pressure, and intensifying at night — such is the swelling of Kapha (kaphatmaka)."
       },
       {
         "type": "verse",
@@ -8195,7 +8425,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "निदानाकृतिसंसर्गाच्छ्वयथुः स्याद् द्विदोषजः सर्वाकृतिः सन्निपाताच्छोथो व्यामिश्रलक्षणः",
         "iast": "nidānākṛtisaṃsargācchvayathuḥ syād dvidoṣajaḥ sarvākṛtiḥ sannipātācchotho vyāmiśralakṣaṇaḥ",
         "iast_ru": "нида̄на̄кр̣тисам̣сарга̄ччхвайатхух̣ сйа̄д двидош̣аджах̣ сарва̄кр̣тих̣ саннипа̄та̄ччхотхо вйа̄миш́ралакш̣ан̣ах̣",
-        "text": "По сочетанию причин и признаков отёк (швайатху) бывает двудошным (двидошаджа). При соединении всех трёх дош (саннипата) шотха имеет смешанные признаки (вьямишра-лакшана)."
+        "text": "По сочетанию причин и признаков отёк (швайатху) бывает двудошным (двидошаджа). При соединении всех трёх дош (саннипата) шотха имеет смешанные признаки (вьямишра-лакшана).",
+        "text_en": "According to the combination of causes and signs, swelling (shvayathu) may be of two doshas (dvidoshaja). When all three doshas unite (sannipata), shotha has mixed signs (vyamishra-lakshana)."
       },
       {
         "type": "comment",
@@ -8208,7 +8439,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अभिघातेन शस्त्रादिच्छेदभेदक्षतादिभिः हिमानिलोदध्यनिलैर्भल्लातकपिकच्छुजैः",
         "iast": "abhighātena śastrādicchedabhedakṣatādibhiḥ himānilodadhyanilairbhallātakapikacchujaiḥ",
         "iast_ru": "абхигха̄тена ш́астра̄диччхедабхедакш̣ата̄дибхих̣ хима̄нилодадхйанилаирбхалла̄такапикаччхуджаих̣",
-        "text": "Вследствие травмы (абхигхата) — рассечения, разрыва, ранения и прочих повреждений оружием (шастра) и подобным; от холода (хима), ветра (анила), а также от контакта с ядовитыми растениями бхаллатака и капикаччху —"
+        "text": "Вследствие травмы (абхигхата) — рассечения, разрыва, ранения и прочих повреждений оружием (шастра) и подобным; от холода (хима), ветра (анила), а также от контакта с ядовитыми растениями бхаллатака и капикаччху —",
+        "text_en": "As a result of injury (abhighata) — cutting, tearing, wounding, and other damage by a weapon (shastra) and the like; from cold (hima), wind (anila), and also from contact with the poisonous plants bhallataka and kapikacchu —"
       },
       {
         "type": "verse",
@@ -8216,7 +8448,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रसैः शूकैश्च संस्पर्शाच्छ्वयथुः स्याद्विसर्पवान् भृशोष्मा लोहिताभासः प्रायशः पित्तलक्षणः",
         "iast": "rasaiḥ śūkaiśca saṃsparśācchvayathuḥ syādvisarpavān bhṛśoṣmā lohitābhāsaḥ prāyaśaḥ pittalakṣaṇaḥ",
         "iast_ru": "расаих̣ ш́ӯкаиш́ча сам̣спарш́а̄ччхвайатхух̣ сйа̄двисарпава̄н бхр̣ш́ош̣ма̄ лохита̄бха̄сах̣ пра̄йаш́ах̣ питталакш̣ан̣ах̣",
-        "text": "— от их соков (раса) и колючих волосков (шука), при соприкосновении с ними возникает отёк (швайатху), сопровождаемый рожистым воспалением (висарпа), сильным жаром, красным оттенком и, как правило, признаками Питты."
+        "text": "— от их соков (раса) и колючих волосков (шука), при соприкосновении с ними возникает отёк (швайатху), сопровождаемый рожистым воспалением (висарпа), сильным жаром, красным оттенком и, как правило, признаками Питты.",
+        "text_en": "— from their sap (rasa) and irritant hairs (shuka), contact with them produces a swelling (shvayathu) accompanied by erysipelas (visarpa), intense heat, a red hue, and, as a rule, the signs of Pitta."
       },
       {
         "type": "verse",
@@ -8224,7 +8457,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विषजः सविषप्राणिपरिसर्पणमूत्रणात् दंष्ट्रादन्तनखा घातादविष प्राणिनामपि",
         "iast": "viṣajaḥ saviṣaprāṇiparisarpaṇamūtraṇāt daṃṣṭrādantanakhā ghātādaviṣa prāṇināmapi",
         "iast_ru": "виш̣аджах̣ савиш̣апра̄н̣ипарисарпан̣амӯтран̣а̄т дам̣ш̣т̣ра̄дантанакха̄ гха̄та̄давиш̣а пра̄н̣ина̄мапи",
-        "text": "Отёк, вызванный ядом (виша), возникает от ползания, мочеиспускания ядовитых существ, а также от укуса клыками, зубами и когтями — даже неядовитых животных."
+        "text": "Отёк, вызванный ядом (виша), возникает от ползания, мочеиспускания ядовитых существ, а также от укуса клыками, зубами и когтями — даже неядовитых животных.",
+        "text_en": "Swelling caused by poison (visha) arises from the crawling and urination of poisonous creatures, and also from bites by fangs, teeth, and claws — even of non-poisonous animals."
       },
       {
         "type": "verse",
@@ -8232,7 +8466,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विण्मूत्रशुक्रो पहतमलवद्वस्त्रसंकरात् विषवृक्षानिलस्पर्शाद्गर योगावचूर्णनात्",
         "iast": "viṇmūtraśukro pahatamalavadvastrasaṃkarāt viṣavṛkṣānilasparśādgara yogāvacūrṇanāt",
         "iast_ru": "вин̣мӯтраш́укро пахатамалавадвастрасам̣кара̄т виш̣авр̣кш̣а̄ниласпарш́а̄дгара йога̄вачӯрн̣ана̄т",
-        "text": "Отёк возникает также от загрязнения калом (вит), мочой (мутра) и семенем (шукра), от контакта с нечистой одеждой, от ветра с ядовитых деревьев (вишаврикша) и от применения составного яда (гара), подмешанного путём подсыпания в порошки."
+        "text": "Отёк возникает также от загрязнения калом (вит), мочой (мутра) и семенем (шукра), от контакта с нечистой одеждой, от ветра с ядовитых деревьев (вишаврикша) и от применения составного яда (гара), подмешанного путём подсыпания в порошки.",
+        "text_en": "Swelling also arises from contamination by stool (vit), urine (mutra), and semen (shukra), from contact with unclean clothing, from wind coming off poisonous trees (vishavriksha), and from the use of a compound poison (gara) mixed in by sprinkling it into powders."
       },
       {
         "type": "verse",
@@ -8240,7 +8475,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मृदुश्चलोऽवलम्बी च शीघ्रो दाहरुजाकरः दोषाः श्वयथुमूर्ध्वं हि कुर्वन्त्यामाशयस्थिताः",
         "iast": "mṛduścalo'valambī ca śīghro dāharujākaraḥ doṣāḥ śvayathumūrdhvaṃ hi kurvantyāmāśayasthitāḥ",
         "iast_ru": "мр̣душ́чало'валамбӣ ча ш́ӣгхро да̄харуджа̄карах̣ дош̣а̄х̣ ш́вайатхумӯрдхвам̣ хи курвантйа̄ма̄ш́айастхита̄х̣",
-        "text": "Мягкий, подвижный, свисающий, быстро развивающийся, причиняющий жжение (даха) и боль (руджа) — такой отёк (швайатху) доши вызывают в верхней части тела, когда они расположены в амашае (желудке)."
+        "text": "Мягкий, подвижный, свисающий, быстро развивающийся, причиняющий жжение (даха) и боль (руджа) — такой отёк (швайатху) доши вызывают в верхней части тела, когда они расположены в амашае (желудке).",
+        "text_en": "Soft, mobile, pendulous, rapidly developing, causing burning (daha) and pain (ruja) — such a swelling (shvayathu) is produced by the doshas in the upper part of the body when they are located in the amashaya (stomach)."
       },
       {
         "type": "verse",
@@ -8248,7 +8484,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पक्वाशयस्था मध्ये तु वर्चःस्थानगतास्त्वधः कृत्स्नदेहमनुप्राप्ताः कुर्युः सर्वसरं तथा",
         "iast": "pakvāśayasthā madhye tu varcaḥsthānagatāstvadhaḥ kṛtsnadehamanuprāptāḥ kuryuḥ sarvasaraṃ tathā",
         "iast_ru": "паква̄ш́айастха̄ мадхйе ту варчах̣стха̄нагата̄ствадхах̣ кр̣тснадехаманупра̄пта̄х̣ курйух̣ сарвасарам̣ татха̄",
-        "text": "Когда доши расположены в паквашае (толстой кишке) — отёк возникает в средней части тела; когда они находятся в месте скопления кала — в нижней части. Когда же доши распространяются по всему телу, они вызывают отёк повсеместно (сарвасара)."
+        "text": "Когда доши расположены в паквашае (толстой кишке) — отёк возникает в средней части тела; когда они находятся в месте скопления кала — в нижней части. Когда же доши распространяются по всему телу, они вызывают отёк повсеместно (сарвасара).",
+        "text_en": "When the doshas are located in the pakvashaya (large intestine), the swelling arises in the middle part of the body; when they are in the place where stool collects, in the lower part. And when the doshas spread throughout the whole body, they cause swelling everywhere (sarvasara)."
       },
       {
         "type": "verse",
@@ -8256,7 +8493,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यो मध्यदेशे श्वयथुः स कष्टः सर्वगश्च यः अर्धाङ्गे रिष्टभूतः स्याद्यश्चोर्ध्वं परिसर्पति",
         "iast": "yo madhyadeśe śvayathuḥ sa kaṣṭaḥ sarvagaśca yaḥ ardhāṅge riṣṭabhūtaḥ syādyaścordhvaṃ parisarpati",
         "iast_ru": "йо мадхйадеш́е ш́вайатхух̣ са каш̣т̣ах̣ сарвагаш́ча йах̣ ардха̄н̇ге риш̣т̣абхӯтах̣ сйа̄дйаш́чордхвам̣ парисарпати",
-        "text": "Отёк (швайатху), локализованный в средней части тела, считается тяжёлым (каштха); также тяжёл тот, что охватывает всё тело (сарвага). Отёк на одной половине тела является грозным предвестником (ришта), как и тот, что распространяется вверх."
+        "text": "Отёк (швайатху), локализованный в средней части тела, считается тяжёлым (каштха); также тяжёл тот, что охватывает всё тело (сарвага). Отёк на одной половине тела является грозным предвестником (ришта), как и тот, что распространяется вверх.",
+        "text_en": "Swelling (shvayathu) localized in the middle part of the body is considered severe (kashtha); one that involves the whole body (sarvaga) is likewise severe. Swelling on one half of the body is a grave portent (arishta), as is one that spreads upward."
       },
       {
         "type": "comment",
@@ -8269,7 +8507,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्वासः पिपासा छर्दिश्च दौर्बल्यं ज्वर एव च यस्य चान्ने रुचिर्नास्ति श्वयथुं तं विवर्जयेत्",
         "iast": "śvāsaḥ pipāsā chardiśca daurbalyaṃ jvara eva ca yasya cānne rucirnāsti śvayathuṃ taṃ vivarjayet",
         "iast_ru": "ш́ва̄сах̣ пипа̄са̄ чхардиш́ча даурбалйам̣ джвара ева ча йасйа ча̄нне ручирна̄сти ш́вайатхум̣ там̣ виварджайет",
-        "text": "При наличии одышки (шваса), жажды (пипаса), рвоты (чхарди), слабости (даурбалья) и лихорадки (джвара), а также при отсутствии аппетита — от такого отёка (швайатху) следует отказаться от лечения как от неизлечимого."
+        "text": "При наличии одышки (шваса), жажды (пипаса), рвоты (чхарди), слабости (даурбалья) и лихорадки (джвара), а также при отсутствии аппетита — от такого отёка (швайатху) следует отказаться от лечения как от неизлечимого.",
+        "text_en": "In the presence of dyspnea (shvasa), thirst (pipasa), vomiting (chhardi), weakness (daurbalya), and fever (jvara), and also in the absence of appetite — such a swelling (shvayathu) should be refused treatment as incurable."
       },
       {
         "type": "verse",
@@ -8277,7 +8516,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अनन्योपद्र वकृतः शोथः पादसमुत्थितः पुरुषं हन्ति नारीं च मुखजो गुह्यजो द्वयम् नवोऽनुपद्र वः शोथः साध्योऽसाध्यः पुरेरितः",
         "iast": "ananyopadra vakṛtaḥ śothaḥ pādasamutthitaḥ puruṣaṃ hanti nārīṃ ca mukhajo guhyajo dvayam navo'nupadra vaḥ śothaḥ sādhyo'sādhyaḥ pureritaḥ",
         "iast_ru": "ананйопадра вакр̣тах̣ ш́отхах̣ па̄дасамуттхитах̣ пуруш̣ам̣ ханти на̄рӣм̣ ча мукхаджо гухйаджо двайам наво'нупадра вах̣ ш́отхах̣ са̄дхйо'са̄дхйах̣ пуреритах̣",
-        "text": "Шотха, не вызванная другими осложнениями (упадрава), начинающаяся со стоп, убивает мужчину; начинающаяся с лица — женщину; начинающаяся с промежности — обоих. Свежая (нава) шотха без осложнений излечима (садхья); застарелая ранее описанная — неизлечима (асадхья)."
+        "text": "Шотха, не вызванная другими осложнениями (упадрава), начинающаяся со стоп, убивает мужчину; начинающаяся с лица — женщину; начинающаяся с промежности — обоих. Свежая (нава) шотха без осложнений излечима (садхья); застарелая ранее описанная — неизлечима (асадхья).",
+        "text_en": "Shotha not caused by other complications (upadravas), beginning at the feet, kills a man; beginning at the face, kills a woman; beginning at the perineum, kills both. Fresh (nava) shotha without complications is curable (sadhya); a chronic one of the kind described above is incurable (asadhya)."
       },
       {
         "type": "verse",
@@ -8285,7 +8525,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विवर्जयेत् कुक्ष्युदराश्रितं च तथा गले मर्मणि संश्रितं च स्थूलः खरश्चापि भवेद्विवर्ज्यो यश्चापि बालस्थविराबलानाम्",
         "iast": "vivarjayet kukṣyudarāśritaṃ ca tathā gale marmaṇi saṃśritaṃ ca sthūlaḥ kharaścāpi bhavedvivarjyo yaścāpi bālasthavirābalānām",
         "iast_ru": "виварджайет кукш̣йудара̄ш́ритам̣ ча татха̄ гале марман̣и сам̣ш́ритам̣ ча стхӯлах̣ кхараш́ча̄пи бхаведвиварджйо йаш́ча̄пи ба̄ластхавира̄бала̄на̄м",
-        "text": "Следует отказаться от лечения отёка, расположенного в полости живота (кукши-удара), в горле (гала) и в области жизненно важных точек (марма). Также неизлечим плотный (стхула) и шероховатый (кхара) отёк, а также отёк, возникающий у детей, стариков и ослабленных."
+        "text": "Следует отказаться от лечения отёка, расположенного в полости живота (кукши-удара), в горле (гала) и в области жизненно важных точек (марма). Также неизлечим плотный (стхула) и шероховатый (кхара) отёк, а также отёк, возникающий у детей, стариков и ослабленных.",
+        "text_en": "Treatment should be refused for swelling located in the abdominal cavity (kukshi-udara), in the throat (gala), and in the region of vital points (marma). Also incurable is dense (sthula) and rough (khara) swelling, and swelling arising in children, the elderly, and the debilitated."
       },
       {
         "type": "comment",
@@ -8312,7 +8553,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ वृद्धिनिदानम् वृद्धोऽनूर्ध्वगतिर्वायुः शोथशूलकरश्चरन् मुष्कौ वङ्क्षणतः प्राप्य फलकोषाभिवाहिनीः",
         "iast": "atha vṛddhinidānam vṛddho'nūrdhvagatirvāyuḥ śothaśūlakaraścaran muṣkau vaṅkṣaṇataḥ prāpya phalakoṣābhivāhinīḥ",
         "iast_ru": "атха вр̣ддхинида̄нам вр̣ддхо'нӯрдхвагатирва̄йух̣ ш́отхаш́ӯлакараш́чаран муш̣кау ван̇кш̣ан̣атах̣ пра̄пйа пхалакош̣а̄бхива̄хинӣх̣",
-        "text": "Начало главы о диагностике Вриддхи (мошоночной грыжи). Вайю (ветер), имеющий нисходящее движение, вызывающий отёк и боль, достигая обоих яичек из области паха, проникает в оболочки мошонки (пхалакоша)."
+        "text": "Начало главы о диагностике Вриддхи (мошоночной грыжи). Вайю (ветер), имеющий нисходящее движение, вызывающий отёк и боль, достигая обоих яичек из области паха, проникает в оболочки мошонки (пхалакоша).",
+        "text_en": "Beginning of the chapter on the diagnosis of Vriddhi (scrotal hernia/swelling). Vayu (wind), moving in a downward direction, causing swelling and pain, reaching both testicles from the region of the groin, penetrates into the coverings of the scrotum (phalakosha)."
       },
       {
         "type": "verse",
@@ -8320,7 +8562,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्रपीड्य धमनीबृद्धिं करोति फलकोषयोः दोषास्रमेदोमूत्रान्त्रैः स वृद्धिः सप्तधा गदः",
         "iast": "prapīḍya dhamanībṛddhiṃ karoti phalakoṣayoḥ doṣāsramedomūtrāntraiḥ sa vṛddhiḥ saptadhā gadaḥ",
         "iast_ru": "прапӣд̣йа дхаманӣбр̣ддхим̣ кароти пхалакош̣айох̣ дош̣а̄срамедомӯтра̄нтраих̣ са вр̣ддхих̣ саптадха̄ гадах̣",
-        "text": "Сдавливая сосуды (дхамани), он вызывает увеличение (вриддхи) обеих оболочек мошонки. Обусловленная нарушениями дош, крови, жира (медас), мочи и кишечника, эта болезнь — Вриддхи — бывает семи видов."
+        "text": "Сдавливая сосуды (дхамани), он вызывает увеличение (вриддхи) обеих оболочек мошонки. Обусловленная нарушениями дош, крови, жира (медас), мочи и кишечника, эта болезнь — Вриддхи — бывает семи видов.",
+        "text_en": "Compressing the vessels (dhamanis), it causes an enlargement (vriddhi) of both coverings of the scrotum. Caused by disturbances of the doshas, blood, fat (medas), urine, and the intestine, this disease — Vriddhi — is of seven kinds."
       },
       {
         "type": "verse",
@@ -8328,7 +8571,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रान्त्रजावप्यनिलाद्धेतुभेदस्तु केवलम् वातपूर्णदृतिस्पर्शो रूक्षो वातादहेतुरुक्",
         "iast": "mūtrāntrajāvapyanilāddhetubhedastu kevalam vātapūrṇadṛtisparśo rūkṣo vātādaheturuk",
         "iast_ru": "мӯтра̄нтраджа̄вапйанила̄ддхетубхедасту кевалам ва̄тапӯрн̣адр̣тиспарш́о рӯкш̣о ва̄та̄дахетурук",
-        "text": "Виды, вызванные мочой и кишечником, также возникают вследствие нарушения Анила (Ваты) — различие лишь в причине. Вриддхи, обусловленная Ватой, на ощупь подобна бурдюку, наполненному воздухом, шершавая и болезненная без видимой внешней причины."
+        "text": "Виды, вызванные мочой и кишечником, также возникают вследствие нарушения Анила (Ваты) — различие лишь в причине. Вриддхи, обусловленная Ватой, на ощупь подобна бурдюку, наполненному воздухом, шершавая и болезненная без видимой внешней причины.",
+        "text_en": "The varieties caused by urine and the intestine likewise arise as a result of disturbance of Anila (Vata) — the difference lies only in the cause. Vriddhi caused by Vata feels to the touch like a bag filled with air, is rough, and painful without any visible external cause."
       },
       {
         "type": "comment",
@@ -8341,7 +8585,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पक्वोदुम्बरसंकाशः पित्तद्दाहोष्मपाकवान् कफाच्छीतो गुरुः स्निग्धः कण्डूमान् कठिनोऽल्परुक्",
         "iast": "pakvodumbarasaṃkāśaḥ pittaddāhoṣmapākavān kaphācchīto guruḥ snigdhaḥ kaṇḍūmān kaṭhino'lparuk",
         "iast_ru": "пакводумбарасам̣ка̄ш́ах̣ питтадда̄хош̣мапа̄кава̄н капха̄ччхӣто гурух̣ снигдхах̣ кан̣д̣ӯма̄н кат̣хино'лпарук",
-        "text": "Вриддхи, вызванная Питтой, по виду подобна спелому плоду удумбара (фикуса), сопровождается жжением, жаром и нагноением. Вриддхи от Капхи — холодная, тяжёлая, маслянистая, с зудом, твёрдая и малоболезненная."
+        "text": "Вриддхи, вызванная Питтой, по виду подобна спелому плоду удумбара (фикуса), сопровождается жжением, жаром и нагноением. Вриддхи от Капхи — холодная, тяжёлая, маслянистая, с зудом, твёрдая и малоболезненная.",
+        "text_en": "Vriddhi caused by Pitta resembles in appearance a ripe udumbara (fig) fruit, and is accompanied by burning, heat, and suppuration. Vriddhi from Kapha is cold, heavy, unctuous, itchy, hard, and only slightly painful."
       },
       {
         "type": "verse",
@@ -8349,7 +8594,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृष्णस्फोटावृतः पित्तवृद्धिर्लिङ्गश्च रक्तजः कफवन्मेदसा वृद्धिर्मृदुस्तालफलोपमः",
         "iast": "kṛṣṇasphoṭāvṛtaḥ pittavṛddhirliṅgaśca raktajaḥ kaphavanmedasā vṛddhirmṛdustālaphalopamaḥ",
         "iast_ru": "кр̣ш̣н̣аспхот̣а̄вр̣тах̣ питтавр̣ддхирлин̇гаш́ча рактаджах̣ капхаванмедаса̄ вр̣ддхирмр̣дуста̄лапхалопамах̣",
-        "text": "Вриддхи, вызванная кровью (ракта), покрыта тёмными пузырями и по признакам подобна Питта-вриддхи. Вриддхи от жира (медас) подобна Капха-вриддхи, мягкая и напоминает плод пальмиры (тала)."
+        "text": "Вриддхи, вызванная кровью (ракта), покрыта тёмными пузырями и по признакам подобна Питта-вриддхи. Вриддхи от жира (медас) подобна Капха-вриддхи, мягкая и напоминает плод пальмиры (тала).",
+        "text_en": "Vriddhi caused by blood (rakta) is covered with dark blisters and in its signs resembles Pitta-vriddhi. Vriddhi from fat (medas) resembles Kapha-vriddhi, is soft, and resembles the fruit of the palmyra (tala) palm."
       },
       {
         "type": "verse",
@@ -8357,7 +8603,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रधारणशीलस्य मूत्रजः स तु गच्छतः अम्भोभिः पूर्णदृतिवत् क्षोभं याति सरुङ्मृदुः",
         "iast": "mūtradhāraṇaśīlasya mūtrajaḥ sa tu gacchataḥ ambhobhiḥ pūrṇadṛtivat kṣobhaṃ yāti saruṅmṛduḥ",
         "iast_ru": "мӯтрадха̄ран̣аш́ӣласйа мӯтраджах̣ са ту гаччхатах̣ амбхобхих̣ пӯрн̣адр̣тиват кш̣обхам̣ йа̄ти сарун̇мр̣дух̣",
-        "text": "Мочевая Вриддхи возникает у того, кто привычно задерживает мочу. Она колышется при ходьбе, подобно бурдюку, наполненному водой, мягкая и сопровождается болью."
+        "text": "Мочевая Вриддхи возникает у того, кто привычно задерживает мочу. Она колышется при ходьбе, подобно бурдюку, наполненному водой, мягкая и сопровождается болью.",
+        "text_en": "Urinary Vriddhi arises in one who habitually retains urine. It sways when walking, like a bag filled with water, is soft, and is accompanied by pain."
       },
       {
         "type": "comment",
@@ -8370,7 +8617,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूत्रकृच्छ्रमधः स्याच्च चालयन् फलकोषयोः वातकोपिभिराहरैः शीततोयावगाहनैः",
         "iast": "mūtrakṛcchramadhaḥ syācca cālayan phalakoṣayoḥ vātakopibhirāharaiḥ śītatoyāvagāhanaiḥ",
         "iast_ru": "мӯтракр̣ччхрамадхах̣ сйа̄чча ча̄лайан пхалакош̣айох̣ ва̄такопибхира̄хараих̣ ш́ӣтатойа̄вага̄ханаих̣",
-        "text": "Затруднение мочеиспускания (мутракриччхра) возникает внизу, вызывая колебание в обеих оболочках мошонки. Кишечная Вриддхи возникает вследствие пищи, возбуждающей Вату, погружения в холодную воду,"
+        "text": "Затруднение мочеиспускания (мутракриччхра) возникает внизу, вызывая колебание в обеих оболочках мошонки. Кишечная Вриддхи возникает вследствие пищи, возбуждающей Вату, погружения в холодную воду,",
+        "text_en": "Difficulty in urination (mutrakrichchhra) arises below, causing a fluctuation in both coverings of the scrotum. Intestinal Vriddhi arises as a result of food that provokes Vata, immersion in cold water,"
       },
       {
         "type": "verse",
@@ -8378,7 +8626,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "धारणेरणभाराध्व विषमान्नप्रवर्तनैः क्षोभणैः क्षोमितोऽन्यैश्च क्षुद्रा न्त्रावयवं यदा",
         "iast": "dhāraṇeraṇabhārādhva viṣamānnapravartanaiḥ kṣobhaṇaiḥ kṣomito'nyaiśca kṣudrā ntrāvayavaṃ yadā",
         "iast_ru": "дха̄ран̣еран̣абха̄ра̄дхва виш̣ама̄ннаправартанаих̣ кш̣обхан̣аих̣ кш̣омито'нйаиш́ча кш̣удра̄ нтра̄вайавам̣ йада̄",
-        "text": "Задержки естественных позывов, верховой езды, поднятия тяжестей, длительной ходьбы, неправильного питания и иных сотрясающих воздействий. Когда часть кишечника (антра) приходит в расстройство,"
+        "text": "Задержки естественных позывов, верховой езды, поднятия тяжестей, длительной ходьбы, неправильного питания и иных сотрясающих воздействий. Когда часть кишечника (антра) приходит в расстройство,",
+        "text_en": "suppression of natural urges, horseback riding, lifting heavy weights, prolonged walking, improper diet, and other jolting influences. When a portion of the intestine (antra) becomes disordered,"
       },
       {
         "type": "verse",
@@ -8386,7 +8635,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पवनो विगुणीकृत्य स्वनिदेशादधो नयेत् कुर्याद्वङ्क्षणसन्धिस्थो ग्रन्थ्याभं श्वयथुं तदा",
         "iast": "pavano viguṇīkṛtya svanideśādadho nayet kuryādvaṅkṣaṇasandhistho granthyābhaṃ śvayathuṃ tadā",
         "iast_ru": "павано вигун̣ӣкр̣тйа сванидеш́а̄дадхо найет курйа̄дван̇кш̣ан̣асандхистхо грантхйа̄бхам̣ ш́вайатхум̣ тада̄",
-        "text": "Павана (ветер), нарушив его естественное положение, смещает кишку вниз из её собственного места. Находясь в области пахового сочленения (ванкшана-сандхи), он вызывает припухлость, подобную узлу (грантхи)."
+        "text": "Павана (ветер), нарушив его естественное положение, смещает кишку вниз из её собственного места. Находясь в области пахового сочленения (ванкшана-сандхи), он вызывает припухлость, подобную узлу (грантхи).",
+        "text_en": "Pavana (wind), having disturbed its natural position, displaces the intestine downward from its own place. Being located in the region of the inguinal junction (vankshana-sandhi), it causes a swelling resembling a knot (granthi)."
       },
       {
         "type": "verse",
@@ -8394,7 +8644,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उपेक्षमाणस्य च मुष्कवृद्धिमाध्मानरुक्स्तम्भवतीं स वायुः प्रपीडितोऽन्त स्वनवान् प्रयाति प्रध्मापयन्नेति पुनश्च मुक्तः",
         "iast": "upekṣamāṇasya ca muṣkavṛddhimādhmānarukstambhavatīṃ sa vāyuḥ prapīḍito'nta svanavān prayāti pradhmāpayanneti punaśca muktaḥ",
         "iast_ru": "упекш̣ама̄н̣асйа ча муш̣кавр̣ддхима̄дхма̄нарукстамбхаватӣм̣ са ва̄йух̣ прапӣд̣ито'нта сванава̄н прайа̄ти прадхма̄пайаннети пунаш́ча муктах̣",
-        "text": "У того, кто пренебрегает лечением, увеличение яичка (мушка-вриддхи) сопровождается вздутием, болью и ригидностью. Вайю, будучи сдавленным, со звуком перемещается внутри, производя раздувание, и вновь появляется, будучи выпущенным."
+        "text": "У того, кто пренебрегает лечением, увеличение яичка (мушка-вриддхи) сопровождается вздутием, болью и ригидностью. Вайю, будучи сдавленным, со звуком перемещается внутри, производя раздувание, и вновь появляется, будучи выпущенным.",
+        "text_en": "In one who neglects treatment, enlargement of the testicle (mushka-vriddhi) is accompanied by distension, pain, and rigidity. Vayu, being compressed, moves within with a sound, producing a bulging, and reappears once it is released."
       },
       {
         "type": "comment",
@@ -8421,7 +8672,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ गलगण्डमालाऽपचीग्रन्थ्यर्बुदनिदानम् निबद्धः श्वयथुर्यस्य मुष्कवल्लम्बते गले महान् वा यदि वा ह्रस्वो गलगण्डं तमादिशेत्",
         "iast": "atha galagaṇḍamālā'pacīgranthyarbudanidānam nibaddhaḥ śvayathuryasya muṣkavallambate gale mahān vā yadi vā hrasvo galagaṇḍaṃ tamādiśet",
         "iast_ru": "атха галаган̣д̣ама̄ла̄'пачӣгрантхйарбуданида̄нам нибаддхах̣ ш́вайатхурйасйа муш̣кавалламбате гале маха̄н ва̄ йади ва̄ храсво галаган̣д̣ам̣ тама̄диш́ет",
-        "text": "Начало главы о диагностике Галаганды (зоба), Гандамалы (шейного лимфаденита), Апачи (скрофулёза), Грантхи (узловых образований) и Арбуды (опухолей). Припухлость (шваятху), которая, подобно мошонке, свисает на шее — будь она большой или малой — именуется Галагандой (зобом)."
+        "text": "Начало главы о диагностике Галаганды (зоба), Гандамалы (шейного лимфаденита), Апачи (скрофулёза), Грантхи (узловых образований) и Арбуды (опухолей). Припухлость (шваятху), которая, подобно мошонке, свисает на шее — будь она большой или малой — именуется Галагандой (зобом).",
+        "text_en": "Beginning of the chapter on the diagnosis of Galaganda (goiter), Gandamala (cervical lymphadenitis), Apachi (scrofula), Granthi (nodular formations), and Arbuda (tumors). A swelling (shvayathu) that hangs from the neck like a scrotum — whether large or small — is called Galaganda (goiter)."
       },
       {
         "type": "verse",
@@ -8429,7 +8681,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातः कफश्चापि गले प्रदुष्टो मन्ये च संश्रित्य तथैव मेदः कुर्वन्ति गण्डं क्रमशः स्वलिङ्गैः समन्वितं तं गलगण्डमाहुः",
         "iast": "vātaḥ kaphaścāpi gale praduṣṭo manye ca saṃśritya tathaiva medaḥ kurvanti gaṇḍaṃ kramaśaḥ svaliṅgaiḥ samanvitaṃ taṃ galagaṇḍamāhuḥ",
         "iast_ru": "ва̄тах̣ капхаш́ча̄пи гале прадуш̣т̣о манйе ча сам̣ш́ритйа татхаива медах̣ курванти ган̣д̣ам̣ крамаш́ах̣ свалин̇гаих̣ саманвитам̣ там̣ галаган̣д̣ама̄хух̣",
-        "text": "Вата и Капха, испорченные в области шеи и гортани (манья), а также жир (медас), поочерёдно образуют вздутие (ганда) со свойственными каждому признаками. Его именуют Галагандой (зобом)."
+        "text": "Вата и Капха, испорченные в области шеи и гортани (манья), а также жир (медас), поочерёдно образуют вздутие (ганда) со свойственными каждому признаками. Его именуют Галагандой (зобом).",
+        "text_en": "Vata and Kapha, vitiated in the region of the neck and throat (manya), together with fat (medas), by turns form a swelling (ganda) with signs characteristic of each. This is called Galaganda (goiter)."
       },
       {
         "type": "verse",
@@ -8437,7 +8690,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तोदान्वितः कृष्णसिरावनद्धः श्यावोऽरुणो वा पवनात्मकस्तु पारुष्ययुक्तश्चिरवृद्ध्यपाको यदृच्छया पाकमियात् कदाचित्",
         "iast": "todānvitaḥ kṛṣṇasirāvanaddhaḥ śyāvo'ruṇo vā pavanātmakastu pāruṣyayuktaściravṛddhyapāko yadṛcchayā pākamiyāt kadācit",
         "iast_ru": "тода̄нвитах̣ кр̣ш̣н̣асира̄ванаддхах̣ ш́йа̄во'рун̣о ва̄ павана̄тмакасту па̄руш̣йайукташ́чиравр̣ддхйапа̄ко йадр̣ччхайа̄ па̄камийа̄т када̄чит",
-        "text": "Галаганда, обусловленная Ватой, сопровождается колющей болью, окутана тёмными венами, тёмно-серого или красноватого цвета, с шероховатой поверхностью, длительно растущая, обычно не нагнаивающаяся, однако иногда может случайно нагноиться."
+        "text": "Галаганда, обусловленная Ватой, сопровождается колющей болью, окутана тёмными венами, тёмно-серого или красноватого цвета, с шероховатой поверхностью, длительно растущая, обычно не нагнаивающаяся, однако иногда может случайно нагноиться.",
+        "text_en": "Galaganda caused by Vata is accompanied by piercing pain, enveloped by dark veins, of a dark-gray or reddish color, with a rough surface, growing slowly over a long time, usually not suppurating, though it may occasionally suppurate by chance."
       },
       {
         "type": "verse",
@@ -8445,7 +8699,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वैरस्यमास्यस्य च तस्य जन्तोर्भवेत्तथा तालुगलप्रशोषः स्थिरः सवर्णो गुरुरुग्रकण्डूः शीतो महांश्चापि कफात्मकस्तु",
         "iast": "vairasyamāsyasya ca tasya jantorbhavettathā tālugalapraśoṣaḥ sthiraḥ savarṇo gururugrakaṇḍūḥ śīto mahāṃścāpi kaphātmakastu",
         "iast_ru": "ваирасйама̄сйасйа ча тасйа джанторбхаветтатха̄ та̄лугалапраш́ош̣ах̣ стхирах̣ саварн̣о гуруругракан̣д̣ӯх̣ ш́ӣто маха̄м̣ш́ча̄пи капха̄тмакасту",
-        "text": "У такого больного появляется дурной привкус во рту и сухость нёба и горла. Галаганда, обусловленная Капхой, плотная, одного цвета с кожей, тяжёлая, с сильным зудом, холодная и большая."
+        "text": "У такого больного появляется дурной привкус во рту и сухость нёба и горла. Галаганда, обусловленная Капхой, плотная, одного цвета с кожей, тяжёлая, с сильным зудом, холодная и большая.",
+        "text_en": "In such a patient there appears a bad taste in the mouth and dryness of the palate and throat. Galaganda caused by Kapha is dense, of the same color as the skin, heavy, with intense itching, cold, and large."
       },
       {
         "type": "verse",
@@ -8453,7 +8708,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "चिराभिवृद्धिं भजते चिराद्वा प्रपच्यते मन्दरुजः कदाचित् माधुर्यमास्यस्य च तस्य जन्तोर्भवेत्तथा तालुगलप्रलेपः",
         "iast": "cirābhivṛddhiṃ bhajate cirādvā prapacyate mandarujaḥ kadācit mādhuryamāsyasya ca tasya jantorbhavettathā tālugalapralepaḥ",
         "iast_ru": "чира̄бхивр̣ддхим̣ бхаджате чира̄два̄ прапачйате мандаруджах̣ када̄чит ма̄дхурйама̄сйасйа ча тасйа джанторбхаветтатха̄ та̄лугалапралепах̣",
-        "text": "Она растёт медленно, со временем может нагноиться, сопровождается слабой болью. У такого больного возникает сладковатый привкус во рту и ощущение налёта (прапелха) на нёбе и горле."
+        "text": "Она растёт медленно, со временем может нагноиться, сопровождается слабой болью. У такого больного возникает сладковатый привкус во рту и ощущение налёта (прапелха) на нёбе и горле.",
+        "text_en": "It grows slowly, may in time suppurate, and is accompanied by mild pain. Such a patient develops a sweetish taste in the mouth and a sensation of a coating (prapelha) on the palate and throat."
       },
       {
         "type": "verse",
@@ -8461,7 +8717,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्निग्धो गुरुः पाण्डुरनिष्टगन्धो मेदोभवः कन्डुयुतोऽल्परुक् च प्रलम्बतेऽलाबुवदल्पमूलौ देहानुरूपक्षयवृद्धियुक्तः",
         "iast": "snigdho guruḥ pāṇḍuraniṣṭagandho medobhavaḥ kanḍuyuto'lparuk ca pralambate'lābuvadalpamūlau dehānurūpakṣayavṛddhiyuktaḥ",
         "iast_ru": "снигдхо гурух̣ па̄н̣д̣ураниш̣т̣агандхо медобхавах̣ канд̣уйуто'лпарук ча праламбате'ла̄бувадалпамӯлау деха̄нурӯпакш̣айавр̣ддхийуктах̣",
-        "text": "Галаганда, обусловленная жиром (медас), маслянистая, тяжёлая, бледная, дурно пахнущая, с зудом и малоболезненная. Она свисает подобно тыкве-горлянке (алабу), на тонком основании, увеличиваясь и уменьшаясь соразмерно телу больного."
+        "text": "Галаганда, обусловленная жиром (медас), маслянистая, тяжёлая, бледная, дурно пахнущая, с зудом и малоболезненная. Она свисает подобно тыкве-горлянке (алабу), на тонком основании, увеличиваясь и уменьшаясь соразмерно телу больного.",
+        "text_en": "Galaganda caused by fat (medas) is oily, heavy, pale, foul-smelling, itchy, and only slightly painful. It hangs down like a bottle-gourd (alabu), on a thin base, waxing and waning in proportion to the patient's body."
       },
       {
         "type": "comment",
@@ -8474,7 +8731,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्निग्धास्यता तस्य भवेच्च जन्तोर्गलेऽनुशब्दं कुरुते च नित्यम् कृच्छ्राच्छ्वसन्तं मृदुसर्वगात्रं संवत्सरातीतमरोचकार्तम्",
         "iast": "snigdhāsyatā tasya bhavecca jantorgale'nuśabdaṃ kurute ca nityam kṛcchrācchvasantaṃ mṛdusarvagātraṃ saṃvatsarātītamarocakārtam",
         "iast_ru": "снигдха̄сйата̄ тасйа бхавечча джанторгале'нуш́абдам̣ куруте ча нитйам кр̣ччхра̄ччхвасантам̣ мр̣дусарвага̄трам̣ сам̣ватсара̄тӣтамарочака̄ртам",
-        "text": "У такого больного во рту ощущается маслянистость, в горле постоянно слышен хрип. Больной дышит с трудом, все его члены расслаблены, по прошествии года он страдает отсутствием аппетита (арочака)."
+        "text": "У такого больного во рту ощущается маслянистость, в горле постоянно слышен хрип. Больной дышит с трудом, все его члены расслаблены, по прошествии года он страдает отсутствием аппетита (арочака).",
+        "text_en": "Such a patient feels oiliness in the mouth, and a wheezing sound is continually heard in the throat. The patient breathes with difficulty, all his limbs are relaxed, and after a year he suffers from loss of appetite (arochaka)."
       },
       {
         "type": "verse",
@@ -8482,7 +8740,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्षीणं च वैद्यो गलगण्डयुक्तं भिन्नस्वरं चापि विवर्जयेच्च कर्कन्धुकोलामलकप्रमाणैः कक्षांसमन्यागलवङ्क्षणेषु",
         "iast": "kṣīṇaṃ ca vaidyo galagaṇḍayuktaṃ bhinnasvaraṃ cāpi vivarjayecca karkandhukolāmalakapramāṇaiḥ kakṣāṃsamanyāgalavaṅkṣaṇeṣu",
         "iast_ru": "кш̣ӣн̣ам̣ ча ваидйо галаган̣д̣айуктам̣ бхиннасварам̣ ча̄пи виварджайечча каркандхукола̄малакапрама̄н̣аих̣ какш̣а̄м̣саманйа̄галаван̇кш̣ан̣еш̣у",
-        "text": "Врачу надлежит отказаться от лечения истощённого, страдающего зобом больного с изменённым голосом. Гандамала проявляется узлами размером с плод каркандху, колы или амалаки в подмышках, плечах, шее, горле и паху."
+        "text": "Врачу надлежит отказаться от лечения истощённого, страдающего зобом больного с изменённым голосом. Гандамала проявляется узлами размером с плод каркандху, колы или амалаки в подмышках, плечах, шее, горле и паху.",
+        "text_en": "The physician should refuse treatment to an emaciated patient with goiter whose voice has changed. Gandamala manifests as nodules the size of the fruit of karkandhu, kola, or amalaki, in the armpits, shoulders, neck, throat, and groin."
       },
       {
         "type": "verse",
@@ -8490,7 +8749,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मेदःकफाभ्यां चिरमन्दपाकैः स्याद् गण्डमालाबहुभिश्चगण्डैः ते ग्रन्थयः केचिदवाप्तपाकाः स्रवन्ति नश्यन्ति भवन्ति चान्ये",
         "iast": "medaḥkaphābhyāṃ ciramandapākaiḥ syād gaṇḍamālābahubhiścagaṇḍaiḥ te granthayaḥ kecidavāptapākāḥ sravanti naśyanti bhavanti cānye",
         "iast_ru": "медах̣капха̄бхйа̄м̣ чирамандапа̄каих̣ сйа̄д ган̣д̣ама̄ла̄бахубхиш́чаган̣д̣аих̣ те грантхайах̣ кечидава̄птапа̄ка̄х̣ сраванти наш́йанти бхаванти ча̄нйе",
-        "text": "От испорченных жира (медас) и Капхи возникает Гандамала (шейный лимфаденит) — множественные узлы, медленно и вяло нагнаивающиеся. Некоторые из этих узлов, достигнув нагноения, истекают, другие исчезают, а на их месте появляются новые."
+        "text": "От испорченных жира (медас) и Капхи возникает Гандамала (шейный лимфаденит) — множественные узлы, медленно и вяло нагнаивающиеся. Некоторые из этих узлов, достигнув нагноения, истекают, другие исчезают, а на их месте появляются новые.",
+        "text_en": "From vitiated fat (medas) and Kapha arises Gandamala (cervical lymphadenitis) — multiple nodules that suppurate slowly and sluggishly. Some of these nodules, having reached suppuration, discharge, while others disappear, and new ones appear in their place."
       },
       {
         "type": "verse",
@@ -8498,7 +8758,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कालानुबन्धं चिरमादधाति सैवापचीति प्रवदन्ति तज्ज्ञाः साध्याः स्मृताः पीनसपार्श्वशूलकासज्वरच्छर्दियुतास्त्वसाध्याः",
         "iast": "kālānubandhaṃ ciramādadhāti saivāpacīti pravadanti tajjñāḥ sādhyāḥ smṛtāḥ pīnasapārśvaśūlakāsajvaracchardiyutāstvasādhyāḥ",
         "iast_ru": "ка̄ла̄нубандхам̣ чирама̄дадха̄ти саива̄пачӣти праваданти таджджн̃а̄х̣ са̄дхйа̄х̣ смр̣та̄х̣ пӣнасапа̄рш́ваш́ӯлака̄саджвараччхардийута̄стваса̄дхйа̄х̣",
-        "text": "Когда болезнь длительно не проходит и затягивается на долгий срок, сведущие врачи именуют её Апачи (скрофулёз). Излечимыми считаются простые формы; те же, что сопровождаются насморком (пинаса), болью в боку, кашлем, лихорадкой и рвотой, — неизлечимы."
+        "text": "Когда болезнь длительно не проходит и затягивается на долгий срок, сведущие врачи именуют её Апачи (скрофулёз). Излечимыми считаются простые формы; те же, что сопровождаются насморком (пинаса), болью в боку, кашлем, лихорадкой и рвотой, — неизлечимы.",
+        "text_en": "When the disease fails to resolve for a long time and drags on for a long period, learned physicians call it Apachi (scrofula). Simple forms are considered curable; those accompanied by coryza (pinasa), pain in the side, cough, fever, and vomiting are incurable."
       },
       {
         "type": "comment",
@@ -8511,7 +8772,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातादयो मांसमसृक् प्रदुष्टाः संदूष्य मेदश्च तथा सिराश्च वृत्तोन्नतं विग्रथितं च शोथं कुर्वन्त्यतो ग्रन्थिरिति प्रदिष्टः",
         "iast": "vātādayo māṃsamasṛk praduṣṭāḥ saṃdūṣya medaśca tathā sirāśca vṛttonnataṃ vigrathitaṃ ca śothaṃ kurvantyato granthiriti pradiṣṭaḥ",
         "iast_ru": "ва̄та̄дайо ма̄м̣самаср̣к прадуш̣т̣а̄х̣ сам̣дӯш̣йа медаш́ча татха̄ сира̄ш́ча вр̣ттоннатам̣ вигратхитам̣ ча ш́отхам̣ курвантйато грантхирити прадиш̣т̣ах̣",
-        "text": "Вата и прочие доши, испортив мышечную ткань (мамса) и кровь, а также жир (медас) и вены (сиры), вызывают округлую, возвышенную и плотно спаянную припухлость (шотха) — потому она именуется Грантхи (узловое образование)."
+        "text": "Вата и прочие доши, испортив мышечную ткань (мамса) и кровь, а также жир (медас) и вены (сиры), вызывают округлую, возвышенную и плотно спаянную припухлость (шотха) — потому она именуется Грантхи (узловое образование).",
+        "text_en": "Vata and the other doshas, having vitiated the muscle tissue (mamsa) and blood, as well as the fat (medas) and veins (siras), produce a rounded, raised, and firmly fixed swelling (shotha) — hence it is called Granthi (a nodular formation)."
       },
       {
         "type": "verse",
@@ -8519,7 +8781,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आयम्यते वृश्च्यति तुद्यते च प्रत्यस्यते मथ्यति भिद्यते च कृष्णो मृदुर्बस्तिरिवाततश्च भिन्नः स्रवेच्चानिलजोऽस्रमच्छम्",
         "iast": "āyamyate vṛścyati tudyate ca pratyasyate mathyati bhidyate ca kṛṣṇo mṛdurbastirivātataśca bhinnaḥ sraveccānilajo'sramaccham",
         "iast_ru": "а̄йамйате вр̣ш́чйати тудйате ча пратйасйате матхйати бхидйате ча кр̣ш̣н̣о мр̣дурбастирива̄таташ́ча бхиннах̣ сравечча̄ниладжо'срамаччхам",
-        "text": "Грантхи от Ваты тянет, режет, колет, выталкивает, мнёт и раскалывает. Он тёмного цвета, мягкий, напоминает раздутый пузырь (басти); при вскрытии из него вытекает жидкая прозрачная кровь."
+        "text": "Грантхи от Ваты тянет, режет, колет, выталкивает, мнёт и раскалывает. Он тёмного цвета, мягкий, напоминает раздутый пузырь (басти); при вскрытии из него вытекает жидкая прозрачная кровь.",
+        "text_en": "Granthi from Vata pulls, cuts, pierces, pushes out, kneads, and splits. It is dark in color, soft, resembles a distended bladder (basti); when opened, thin, clear blood flows out of it."
       },
       {
         "type": "verse",
@@ -8527,7 +8790,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दन्दह्यते धूप्यति वृश्च्यते च पापच्यते प्रज्वलतीव चापि रक्तः सपीतोऽप्यथवाऽपि पित्ताद्भिन्नः स्रवेदुष्णमतीव चास्रम्",
         "iast": "dandahyate dhūpyati vṛścyate ca pāpacyate prajvalatīva cāpi raktaḥ sapīto'pyathavā'pi pittādbhinnaḥ sraveduṣṇamatīva cāsram",
         "iast_ru": "дандахйате дхӯпйати вр̣ш́чйате ча па̄пачйате праджвалатӣва ча̄пи рактах̣ сапӣто'пйатхава̄'пи питта̄дбхиннах̣ сраведуш̣н̣аматӣва ча̄срам",
-        "text": "Грантхи от Питты жжёт, дымит, режет, нагнаивается и словно пылает. Он красного или желтоватого цвета; при вскрытии из него вытекает горячая и весьма обильная кровь."
+        "text": "Грантхи от Питты жжёт, дымит, режет, нагнаивается и словно пылает. Он красного или желтоватого цвета; при вскрытии из него вытекает горячая и весьма обильная кровь.",
+        "text_en": "Granthi from Pitta burns, smokes, cuts, suppurates, and seems to blaze. It is red or yellowish in color; when opened, hot and quite copious blood flows out of it."
       },
       {
         "type": "verse",
@@ -8535,7 +8799,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शीतोऽविवर्णोऽल्परुजोऽतिकण्डुः पाषाणवत् संहननोपपन्नः चिराभिवृद्धश्च कफप्रकोपाद्भिन्नः स्रवेच्छुक्लघनं च पूयम्",
         "iast": "śīto'vivarṇo'lparujo'tikaṇḍuḥ pāṣāṇavat saṃhananopapannaḥ cirābhivṛddhaśca kaphaprakopādbhinnaḥ sravecchuklaghanaṃ ca pūyam",
         "iast_ru": "ш́ӣто'виварн̣о'лпаруджо'тикан̣д̣ух̣ па̄ш̣а̄н̣ават сам̣хананопапаннах̣ чира̄бхивр̣ддхаш́ча капхапракопа̄дбхиннах̣ сравеччхуклагханам̣ ча пӯйам",
-        "text": "Грантхи от Капхи холодный, неизменённого цвета, малоболезненный, с сильным зудом, каменистой плотности, медленно растущий; при вскрытии из него вытекает белый густой гной."
+        "text": "Грантхи от Капхи холодный, неизменённого цвета, малоболезненный, с сильным зудом, каменистой плотности, медленно растущий; при вскрытии из него вытекает белый густой гной.",
+        "text_en": "Granthi from Kapha is cold, of unchanged color, only slightly painful, with intense itching, of stony hardness, and grows slowly; when opened, thick white pus flows out of it."
       },
       {
         "type": "verse",
@@ -8543,7 +8808,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शरीरवृद्धिक्षयवृद्धिहानिः स्निग्धो महान् कण्डुयुतोऽरुजश्च मेदःकृतो गच्छति चात्र भिन्नपिण्याकसर्पिःप्रतिमं तु मेदः",
         "iast": "śarīravṛddhikṣayavṛddhihāniḥ snigdho mahān kaṇḍuyuto'rujaśca medaḥkṛto gacchati cātra bhinnapiṇyākasarpiḥpratimaṃ tu medaḥ",
         "iast_ru": "ш́арӣравр̣ддхикш̣айавр̣ддхиха̄них̣ снигдхо маха̄н кан̣д̣уйуто'руджаш́ча медах̣кр̣то гаччхати ча̄тра бхиннапин̣йа̄касарпих̣пратимам̣ ту медах̣",
-        "text": "Грантхи от жира (медас) увеличивается и уменьшается с ростом и похуданием тела, маслянистый, большой, с зудом и безболезненный. При вскрытии из него выделяется жир, подобный жмыху (пиньяка), смешанному с топлёным маслом."
+        "text": "Грантхи от жира (медас) увеличивается и уменьшается с ростом и похуданием тела, маслянистый, большой, с зудом и безболезненный. При вскрытии из него выделяется жир, подобный жмыху (пиньяка), смешанному с топлёным маслом.",
+        "text_en": "Granthi from fat (medas) waxes and wanes with the growth and loss of weight of the body; it is oily, large, itchy, and painless. When opened, it discharges fat resembling oil-cake (pinyaka) mixed with clarified butter."
       },
       {
         "type": "verse",
@@ -8551,7 +8817,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्यायामजातैरबलस्य तैस्तैराक्षिप्य वायुस्तु सिराप्रतानम् संकुच्य संपीड्य विशोष्य चापि ग्रन्थिं करोत्युन्नतमाशु वृत्तम्",
         "iast": "vyāyāmajātairabalasya taistairākṣipya vāyustu sirāpratānam saṃkucya saṃpīḍya viśoṣya cāpi granthiṃ karotyunnatamāśu vṛttam",
         "iast_ru": "вйа̄йа̄маджа̄таирабаласйа таистаира̄кш̣ипйа ва̄йусту сира̄прата̄нам сам̣кучйа сам̣пӣд̣йа виш́ош̣йа ча̄пи грантхим̣ каротйуннатама̄ш́у вр̣ттам",
-        "text": "У ослабленного человека вследствие различных чрезмерных физических нагрузок Вайю, захватив сплетения вен (сира-пратана), стягивая, сдавливая и высушивая их, быстро образует округлое возвышенное уплотнение — Грантхи."
+        "text": "У ослабленного человека вследствие различных чрезмерных физических нагрузок Вайю, захватив сплетения вен (сира-пратана), стягивая, сдавливая и высушивая их, быстро образует округлое возвышенное уплотнение — Грантхи.",
+        "text_en": "In a debilitated person, as a result of various forms of excessive physical strain, Vayu, seizing the plexuses of veins (sira-pratana), constricting, compressing, and drying them out, quickly forms a rounded, raised induration — Granthi."
       },
       {
         "type": "verse",
@@ -8559,7 +8826,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "ग्रन्थिः सिराजः स तु कृच्छ्रसाध्यो भवेद्यदि स्यात् सरुजश्चलश्च अरुक्स एवाप्य चलो महांश्च मर्मोत्थितश्चापि विवर्जनीयः",
         "iast": "granthiḥ sirājaḥ sa tu kṛcchrasādhyo bhavedyadi syāt sarujaścalaśca aruksa evāpya calo mahāṃśca marmotthitaścāpi vivarjanīyaḥ",
         "iast_ru": "грантхих̣ сира̄джах̣ са ту кр̣ччхраса̄дхйо бхаведйади сйа̄т саруджаш́чалаш́ча арукса ева̄пйа чало маха̄м̣ш́ча мармоттхиташ́ча̄пи виварджанӣйах̣",
-        "text": "Этот Грантхи, происходящий из вен (сираджа), труднолечим, если подвижен и болезнен. Если же он безболезнен, неподвижен, велик и расположен на жизненно важной точке (марма) — его следует считать неизлечимым."
+        "text": "Этот Грантхи, происходящий из вен (сираджа), труднолечим, если подвижен и болезнен. Если же он безболезнен, неподвижен, велик и расположен на жизненно важной точке (марма) — его следует считать неизлечимым.",
+        "text_en": "This Granthi, arising from the veins (siraja), is difficult to treat if it is mobile and painful. But if it is painless, immobile, large, and situated on a vital point (marma), it should be regarded as incurable."
       },
       {
         "type": "verse",
@@ -8567,7 +8835,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गात्रप्रदेशे क्कचिदेव दोषाः संमूर्च्छिता मांसमसृक् प्रदूष्य वृत्तं स्थिरं मन्दरुजं महान्तमनल्पमूलं चिरवृद्ध्यपाकम्",
         "iast": "gātrapradeśe kkacideva doṣāḥ saṃmūrcchitā māṃsamasṛk pradūṣya vṛttaṃ sthiraṃ mandarujaṃ mahāntamanalpamūlaṃ ciravṛddhyapākam",
         "iast_ru": "га̄трапрадеш́е ккачидева дош̣а̄х̣ сам̣мӯрччхита̄ ма̄м̣самаср̣к прадӯш̣йа вр̣ттам̣ стхирам̣ мандаруджам̣ маха̄нтаманалпамӯлам̣ чиравр̣ддхйапа̄кам",
-        "text": "В какой-либо части тела доши, придя в возбуждение, испортив мышечную ткань (мамса) и кровь, образуют округлое, плотное, малоболезненное, большое, с широким основанием, медленно растущее и не нагнаивающееся образование —"
+        "text": "В какой-либо части тела доши, придя в возбуждение, испортив мышечную ткань (мамса) и кровь, образуют округлое, плотное, малоболезненное, большое, с широким основанием, медленно растущее и не нагнаивающееся образование —",
+        "text_en": "In some part of the body, the doshas, becoming provoked and vitiating the muscle tissue (mamsa) and blood, form a rounded, dense, only slightly painful, large formation with a broad base, growing slowly and not suppurating —"
       },
       {
         "type": "verse",
@@ -8575,7 +8844,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुर्वन्ति मांसोच्छ्रयमत्यगाधं तदर्बुदं शास्त्रविदो वदन्ति वातेन पित्तेन कफेन चापि रक्तेन मांसेन च मेदसा वा",
         "iast": "kurvanti māṃsocchrayamatyagādhaṃ tadarbudaṃ śāstravido vadanti vātena pittena kaphena cāpi raktena māṃsena ca medasā vā",
         "iast_ru": "курванти ма̄м̣соччхрайаматйага̄дхам̣ тадарбудам̣ ш́а̄стравидо ваданти ва̄тена питтена капхена ча̄пи рактена ма̄м̣сена ча медаса̄ ва̄",
-        "text": "Разрастание плоти (мамса), глубоко укоренённое. Его знатоки шастр именуют Арбуда (опухолью). Она бывает от Ваты, Питты, Капхи, крови (ракта), мышечной ткани (мамса) и жира (медас)."
+        "text": "Разрастание плоти (мамса), глубоко укоренённое. Его знатоки шастр именуют Арбуда (опухолью). Она бывает от Ваты, Питты, Капхи, крови (ракта), мышечной ткани (мамса) и жира (медас).",
+        "text_en": "a proliferation of flesh (mamsa), deeply rooted. This the experts in the shastras call Arbuda (a tumor). It occurs from Vata, Pitta, Kapha, blood (rakta), muscle tissue (mamsa), and fat (medas)."
       },
       {
         "type": "verse",
@@ -8583,7 +8853,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तज्जायते तस्य च लक्षणानि ग्रन्थे समानानि सदा भवन्ति दोषः प्रदुष्टो रुधिरं सिराश्च संकुच्य संपिण्ड्य ततस्त्वपाकम्",
         "iast": "tajjāyate tasya ca lakṣaṇāni granthe samānāni sadā bhavanti doṣaḥ praduṣṭo rudhiraṃ sirāśca saṃkucya saṃpiṇḍya tatastvapākam",
         "iast_ru": "таджджа̄йате тасйа ча лакш̣ан̣а̄ни грантхе сама̄на̄ни сада̄ бхаванти дош̣ах̣ прадуш̣т̣о рудхирам̣ сира̄ш́ча сам̣кучйа сам̣пин̣д̣йа татаствапа̄кам",
-        "text": "Она возникает от каждой из них, и признаки её всегда подобны признакам соответствующего Грантхи. Испорченная доша, взаимодействуя с кровью и венами, стягивает и уплотняет ткани, при этом нагноение не наступает."
+        "text": "Она возникает от каждой из них, и признаки её всегда подобны признакам соответствующего Грантхи. Испорченная доша, взаимодействуя с кровью и венами, стягивает и уплотняет ткани, при этом нагноение не наступает.",
+        "text_en": "It arises from each of these, and its signs are always similar to the signs of the corresponding Granthi. The vitiated dosha, interacting with blood and veins, constricts and hardens the tissues, and in this case suppuration does not occur."
       },
       {
         "type": "verse",
@@ -8591,7 +8862,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सास्रावमुन्नह्यति मांसपिण्डं मांसाङ्कुरैराचितमाशुवृद्धम् करोत्यजस्रं रुधिरप्रवृत्तिमसाध्यमेतद्रुधिरात्मकं तु",
         "iast": "sāsrāvamunnahyati māṃsapiṇḍaṃ māṃsāṅkurairācitamāśuvṛddham karotyajasraṃ rudhirapravṛttimasādhyametadrudhirātmakaṃ tu",
         "iast_ru": "са̄сра̄вамуннахйати ма̄м̣сапин̣д̣ам̣ ма̄м̣са̄н̇кураира̄читама̄ш́увр̣ддхам каротйаджасрам̣ рудхираправр̣ттимаса̄дхйаметадрудхира̄тмакам̣ ту",
-        "text": "Арбуда от крови с кровотечением, образует мясистый ком (мамса-пинда), усеянный мясными отростками (мамсанкура), быстро растущий, непрестанно кровоточащий. Эта кровяная опухоль (рудхиратмака) неизлечима."
+        "text": "Арбуда от крови с кровотечением, образует мясистый ком (мамса-пинда), усеянный мясными отростками (мамсанкура), быстро растущий, непрестанно кровоточащий. Эта кровяная опухоль (рудхиратмака) неизлечима.",
+        "text_en": "Arbuda from blood, with bleeding, forms a fleshy mass (mamsa-pinda) studded with fleshy outgrowths (mamsankura), growing rapidly, bleeding continually. This blood-natured tumor (rudhiratmaka) is incurable."
       },
       {
         "type": "verse",
@@ -8599,7 +8871,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रक्तक्षयोपद्र वपीडितत्वात् पाण्डुर्भवेदर्बुदपीडितस्तु मुष्ठिप्रहारादिभिरर्दितेऽङ्गे मांसं प्रदुष्टं जनयेद्धि शोथम्",
         "iast": "raktakṣayopadra vapīḍitatvāt pāṇḍurbhavedarbudapīḍitastu muṣṭhiprahārādibhirardite'ṅge māṃsaṃ praduṣṭaṃ janayeddhi śotham",
         "iast_ru": "рактакш̣айопадра вапӣд̣итатва̄т па̄н̣д̣урбхаведарбудапӣд̣итасту муш̣т̣хипраха̄ра̄дибхирардите'н̇ге ма̄м̣сам̣ прадуш̣т̣ам̣ джанайеддхи ш́отхам",
-        "text": "Вследствие истощения крови и поражения осложнениями страдающий Арбудой становится бледным. Когда в какой-либо части тела, травмированной ударом кулака и подобными воздействиями, мышечная ткань (мамса) приходит в порчу, она порождает припухлость (шотха)."
+        "text": "Вследствие истощения крови и поражения осложнениями страдающий Арбудой становится бледным. Когда в какой-либо части тела, травмированной ударом кулака и подобными воздействиями, мышечная ткань (мамса) приходит в порчу, она порождает припухлость (шотха).",
+        "text_en": "As a result of loss of blood and affliction by complications, one suffering from Arbuda becomes pale. When, in some part of the body injured by a blow of the fist or similar impact, the muscle tissue (mamsa) becomes vitiated, it produces a swelling (shotha)."
       },
       {
         "type": "verse",
@@ -8607,7 +8880,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अवेदनं स्निग्धमनन्य वर्णमपाकमश्मोपममप्रचाल्यम् प्रदुष्टमांसस्य नरस्य गाढमेतद्भवेन्मांसपरायणस्य",
         "iast": "avedanaṃ snigdhamananya varṇamapākamaśmopamamapracālyam praduṣṭamāṃsasya narasya gāḍhametadbhavenmāṃsaparāyaṇasya",
         "iast_ru": "аведанам̣ снигдхамананйа варн̣амапа̄камаш́мопамамапрача̄лйам прадуш̣т̣ама̄м̣сасйа нарасйа га̄д̣хаметадбхавенма̄м̣сапара̄йан̣асйа",
-        "text": "Эта припухлость безболезненная, маслянистая, неизменённого цвета, не нагнаивающаяся, каменистой плотности, неподвижная, глубоко залегающая. Она возникает у человека, чья мышечная ткань (мамса) испорчена и кто чрезмерно употребляет мясо."
+        "text": "Эта припухлость безболезненная, маслянистая, неизменённого цвета, не нагнаивающаяся, каменистой плотности, неподвижная, глубоко залегающая. Она возникает у человека, чья мышечная ткань (мамса) испорчена и кто чрезмерно употребляет мясо.",
+        "text_en": "This swelling is painless, oily, of unchanged color, non-suppurating, of stony hardness, immobile, and deep-seated. It arises in a person whose muscle tissue (mamsa) is vitiated and who consumes an excess of meat."
       },
       {
         "type": "verse",
@@ -8615,7 +8889,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मांसार्बुदं त्वेतदसाध्यमुक्तं साध्येष्वपीमानि तु वर्जयेच्च संप्रस्रुतं मर्मणि यच्च जातं स्रोतःसु वा यच्च भवेदचाल्यम्",
         "iast": "māṃsārbudaṃ tvetadasādhyamuktaṃ sādhyeṣvapīmāni tu varjayecca saṃprasrutaṃ marmaṇi yacca jātaṃ srotaḥsu vā yacca bhavedacālyam",
         "iast_ru": "ма̄м̣са̄рбудам̣ тветадаса̄дхйамуктам̣ са̄дхйеш̣вапӣма̄ни ту варджайечча сам̣прасрутам̣ марман̣и йачча джа̄там̣ сротах̣су ва̄ йачча бхаведача̄лйам",
-        "text": "Эта мышечная Арбуда (мамса-арбуда) объявлена неизлечимой. Даже среди излечимых Арбуд следует отвергнуть: ту, что кровоточит, ту, что расположена на жизненно важной точке (марма), ту, что находится в полостях (сротас), и ту, что неподвижна."
+        "text": "Эта мышечная Арбуда (мамса-арбуда) объявлена неизлечимой. Даже среди излечимых Арбуд следует отвергнуть: ту, что кровоточит, ту, что расположена на жизненно важной точке (марма), ту, что находится в полостях (сротас), и ту, что неподвижна.",
+        "text_en": "This muscular Arbuda (mamsa-arbuda) is declared incurable. Even among curable Arbudas, one should reject: one that bleeds, one situated on a vital point (marma), one situated within the channels (srotas), and one that is immobile."
       },
       {
         "type": "verse",
@@ -8623,7 +8898,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यज्जायतेऽन्यत् खलु पूर्वजाते ज्ञेयं तदध्यर्बुदमर्बुदज्ञैः यद् द्वन्द्वजातं युगपत् क्रमाद्वा द्विरर्बुदं तच्च भवेदसाध्यम्",
         "iast": "yajjāyate'nyat khalu pūrvajāte jñeyaṃ tadadhyarbudamarbudajñaiḥ yad dvandvajātaṃ yugapat kramādvā dvirarbudaṃ tacca bhavedasādhyam",
         "iast_ru": "йаджджа̄йате'нйат кхалу пӯрваджа̄те джн̃ейам̣ тададхйарбудамарбудаджн̃аих̣ йад двандваджа̄там̣ йугапат крама̄два̄ двирарбудам̣ тачча бхаведаса̄дхйам",
-        "text": "Если на месте ранее возникшей опухоли появляется новая, знатоки Арбуд называют её Адхьярбуда (вторичная опухоль). Если опухоль возникает парно — одновременно или последовательно, — это Двирарбуда (двойная опухоль), и она неизлечима."
+        "text": "Если на месте ранее возникшей опухоли появляется новая, знатоки Арбуд называют её Адхьярбуда (вторичная опухоль). Если опухоль возникает парно — одновременно или последовательно, — это Двирарбуда (двойная опухоль), и она неизлечима.",
+        "text_en": "If a new tumor appears in the place of one that arose earlier, experts in Arbudas call it Adhyarbuda (a secondary tumor). If a tumor arises in pairs — simultaneously or successively — this is Dvirarbuda (a double tumor), and it is incurable."
       },
       {
         "type": "verse",
@@ -8631,7 +8907,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "न पाकमायान्ति कफाधिकत्वान्मेदोबहुत्वाच्च विशेषतस्तु दोषस्थिरत्वाद् ग्रथनाच्च तेषां सर्वार्वुदान्येव निसर्गतस्तु",
         "iast": "na pākamāyānti kaphādhikatvānmedobahutvācca viśeṣatastu doṣasthiratvād grathanācca teṣāṃ sarvārvudānyeva nisargatastu",
         "iast_ru": "на па̄кама̄йа̄нти капха̄дхикатва̄нмедобахутва̄чча виш́еш̣атасту дош̣астхиратва̄д гратхана̄чча теш̣а̄м̣ сарва̄рвуда̄нйева нисаргатасту",
-        "text": "Все Арбуды по своей природе не нагнаиваются — вследствие преобладания Капхи и особенно обилия жира (медас), стойкости дош и плотности сплетения тканей."
+        "text": "Все Арбуды по своей природе не нагнаиваются — вследствие преобладания Капхи и особенно обилия жира (медас), стойкости дош и плотности сплетения тканей.",
+        "text_en": "All Arbudas by their nature do not suppurate — owing to the predominance of Kapha, and especially the abundance of fat (medas), the persistence of the doshas, and the density of the interwoven tissues."
       }
     ]
   },
@@ -8653,7 +8930,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ श्लीपदनिदानम् यः सज्वरो वङ्क्षणजो भृशार्तिः शोथो नृणां पादगतः क्रमेण तच्छ्लीपदं स्यात् करकर्णनेत्रशिश्नौष्ठनासास्वपि केचिदाहुः",
         "iast": "atha ślīpadanidānam yaḥ sajvaro vaṅkṣaṇajo bhṛśārtiḥ śotho nṛṇāṃ pādagataḥ krameṇa tacchlīpadaṃ syāt karakarṇanetraśiśnauṣṭhanāsāsvapi kecidāhuḥ",
         "iast_ru": "атха ш́лӣпаданида̄нам йах̣ саджваро ван̇кш̣ан̣аджо бхр̣ш́а̄ртих̣ ш́отхо нр̣н̣а̄м̣ па̄дагатах̣ крамен̣а таччхлӣпадам̣ сйа̄т каракарн̣анетраш́иш́науш̣т̣хана̄са̄свапи кечида̄хух̣",
-        "text": "Далее — диагностика слоновости (шлипада нидана). Отёк, возникающий в паху, сопровождающийся лихорадкой и сильной болью, постепенно опускающийся к стопам, — это шлипада (слоновость). Некоторые учёные утверждают, что она возникает также на руках, ушах, глазах, половом члене, губах и носу."
+        "text": "Далее — диагностика слоновости (шлипада нидана). Отёк, возникающий в паху, сопровождающийся лихорадкой и сильной болью, постепенно опускающийся к стопам, — это шлипада (слоновость). Некоторые учёные утверждают, что она возникает также на руках, ушах, глазах, половом члене, губах и носу.",
+        "text_en": "Next, the diagnosis of elephantiasis (shlipada-nidana). A swelling that arises in the groin, accompanied by fever and severe pain, gradually descending to the feet, is shlipada (elephantiasis). Some scholars maintain that it also arises on the hands, ears, eyes, penis, lips, and nose."
       },
       {
         "type": "comment",
@@ -8666,7 +8944,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातजं कृष्णरूक्षं च स्फुटितं तीव्रवेदनम् अनिमित्तरुजं तस्य बहुशो ज्वर एव च",
         "iast": "vātajaṃ kṛṣṇarūkṣaṃ ca sphuṭitaṃ tīvravedanam animittarujaṃ tasya bahuśo jvara eva ca",
         "iast_ru": "ва̄таджам̣ кр̣ш̣н̣арӯкш̣ам̣ ча спхут̣итам̣ тӣвраведанам анимиттаруджам̣ тасйа бахуш́о джвара ева ча",
-        "text": "Шлипада, вызванная Ватой, — чёрного цвета, сухая, с трещинами и сильной болью; боль возникает без видимой причины, и часто сопровождается лихорадкой."
+        "text": "Шлипада, вызванная Ватой, — чёрного цвета, сухая, с трещинами и сильной болью; боль возникает без видимой причины, и часто сопровождается лихорадкой.",
+        "text_en": "Shlipada caused by Vata is black in color, dry, cracked, and severely painful; the pain arises without visible cause, and it is often accompanied by fever."
       },
       {
         "type": "verse",
@@ -8674,7 +8953,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पित्तजं पीतसङ्काशं दाहज्वरयुतं मृदु श्लैष्मिकं स्निग्धवर्णं च श्वेतं पाण्डु गुरु स्थिरम्",
         "iast": "pittajaṃ pītasaṅkāśaṃ dāhajvarayutaṃ mṛdu ślaiṣmikaṃ snigdhavarṇaṃ ca śvetaṃ pāṇḍu guru sthiram",
         "iast_ru": "питтаджам̣ пӣтасан̇ка̄ш́ам̣ да̄хаджварайутам̣ мр̣ду ш́лаиш̣микам̣ снигдхаварн̣ам̣ ча ш́ветам̣ па̄н̣д̣у гуру стхирам",
-        "text": "Шлипада, вызванная Питтой, — желтоватого цвета, мягкая, с жжением и лихорадкой. Шлипада, вызванная Капхой, — маслянистая по цвету, белая, бледная, тяжёлая и плотная."
+        "text": "Шлипада, вызванная Питтой, — желтоватого цвета, мягкая, с жжением и лихорадкой. Шлипада, вызванная Капхой, — маслянистая по цвету, белая, бледная, тяжёлая и плотная.",
+        "text_en": "Shlipada caused by Pitta is yellowish in color, soft, with burning and fever. Shlipada caused by Kapha is oily in color, white, pale, heavy, and dense."
       },
       {
         "type": "comment",
@@ -8687,7 +8967,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वल्मीकमिव संजातं कण्टकैरुपचीयते अब्दात्मकं महत्तच्च वर्जनीयं विशेषतः",
         "iast": "valmīkamiva saṃjātaṃ kaṇṭakairupacīyate abdātmakaṃ mahattacca varjanīyaṃ viśeṣataḥ",
         "iast_ru": "валмӣкамива сам̣джа̄там̣ кан̣т̣акаирупачӣйате абда̄тмакам̣ махаттачча варджанӣйам̣ виш́еш̣атах̣",
-        "text": "Шлипада Капхи возникает подобно термитнику и обрастает шиповидными наростами. Имеющая водянистую природу и большой размер, она особенно трудно поддаётся лечению."
+        "text": "Шлипада Капхи возникает подобно термитнику и обрастает шиповидными наростами. Имеющая водянистую природу и большой размер, она особенно трудно поддаётся лечению.",
+        "text_en": "Shlipada of Kapha arises resembling a termite mound and becomes overgrown with thorn-like excrescences. Having a watery nature and a large size, it is especially difficult to cure."
       },
       {
         "type": "verse",
@@ -8695,7 +8976,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "त्रीण्यप्येतानि जानीयाच्छ्लीपदानि कफोच्छ्रयात् गुरुत्वं च महत्वं च यस्मान्नास्ति कफं विना",
         "iast": "trīṇyapyetāni jānīyācchlīpadāni kaphocchrayāt gurutvaṃ ca mahatvaṃ ca yasmānnāsti kaphaṃ vinā",
         "iast_ru": "трӣн̣йапйета̄ни джа̄нӣйа̄ччхлӣпада̄ни капхоччхрайа̄т гурутвам̣ ча махатвам̣ ча йасма̄нна̄сти капхам̣ вина̄",
-        "text": "Все три разновидности шлипады следует распознавать как связанные с преобладанием Капхи, ибо без Капхи не бывает ни тяжести, ни увеличения в объёме."
+        "text": "Все три разновидности шлипады следует распознавать как связанные с преобладанием Капхи, ибо без Капхи не бывает ни тяжести, ни увеличения в объёме.",
+        "text_en": "All three varieties of shlipada should be recognized as connected with the predominance of Kapha, for without Kapha there is neither heaviness nor increase in volume."
       },
       {
         "type": "comment",
@@ -8708,7 +8990,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पुराणोदकभूयिष्ठाः सर्वर्तुषु च शीतलाः ये देशास्तेषु जायन्ते श्लीपदानि विशेषतः",
         "iast": "purāṇodakabhūyiṣṭhāḥ sarvartuṣu ca śītalāḥ ye deśāsteṣu jāyante ślīpadāni viśeṣataḥ",
         "iast_ru": "пура̄н̣одакабхӯйиш̣т̣ха̄х̣ сарвартуш̣у ча ш́ӣтала̄х̣ йе деш́а̄стеш̣у джа̄йанте ш́лӣпада̄ни виш́еш̣атах̣",
-        "text": "В местностях, изобилующих застоялой водой и холодных во все времена года, слоновость возникает особенно часто."
+        "text": "В местностях, изобилующих застоялой водой и холодных во все времена года, слоновость возникает особенно часто.",
+        "text_en": "In regions abounding in stagnant water and cold at all seasons, elephantiasis arises especially often."
       },
       {
         "type": "verse",
@@ -8716,7 +8999,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यच्छ्लेष्मलाहारविहारजातं पुंसः प्रकृत्याऽपि कफात्मकस्य सास्रावमत्युन्नतसर्वलिङ्गं सकण्डुरं श्लेष्मयुतं विवर्ज्यम्",
         "iast": "yacchleṣmalāhāravihārajātaṃ puṃsaḥ prakṛtyā'pi kaphātmakasya sāsrāvamatyunnatasarvaliṅgaṃ sakaṇḍuraṃ śleṣmayutaṃ vivarjyam",
         "iast_ru": "йаччхлеш̣мала̄ха̄равиха̄раджа̄там̣ пум̣сах̣ пракр̣тйа̄'пи капха̄тмакасйа са̄сра̄ваматйуннатасарвалин̇гам̣ сакан̣д̣урам̣ ш́леш̣майутам̣ виварджйам",
-        "text": "Шлипада, возникшая вследствие слизеобразующей пищи и образа жизни у человека с врождённым преобладанием Капхи, — с обильным отделяемым, чрезмерно возвышающаяся, со всеми перечисленными признаками, сопровождающаяся зудом и отягощённая Капхой, — признаётся неизлечимой."
+        "text": "Шлипада, возникшая вследствие слизеобразующей пищи и образа жизни у человека с врождённым преобладанием Капхи, — с обильным отделяемым, чрезмерно возвышающаяся, со всеми перечисленными признаками, сопровождающаяся зудом и отягощённая Капхой, — признаётся неизлечимой.",
+        "text_en": "Shlipada arising as a result of mucus-forming food and regimen in a person with an inborn predominance of Kapha — with copious discharge, excessively raised, having all the signs listed, accompanied by itching, and burdened with Kapha — is recognized as incurable."
       },
       {
         "type": "comment",
@@ -8743,7 +9027,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ विद्रधिनिदानम् त्वग्रक्तमांसमेदासि संदूष्यास्थिसमाश्रिताः दोषाः शोथं शनैर्घोरं जनयन्त्युच्छ्रिता भृशम्",
         "iast": "atha vidradhinidānam tvagraktamāṃsamedāsi saṃdūṣyāsthisamāśritāḥ doṣāḥ śothaṃ śanairghoraṃ janayantyucchritā bhṛśam",
         "iast_ru": "атха видрадхинида̄нам тваграктама̄м̣самеда̄си сам̣дӯш̣йа̄стхисама̄ш́рита̄х̣ дош̣а̄х̣ ш́отхам̣ ш́анаиргхорам̣ джанайантйуччхрита̄ бхр̣ш́ам",
-        "text": "Далее — диагностика внутреннего абсцесса (видрадхи нидана). Доши, загрязняя кожу, кровь, мышцы, жир и поражая кости, постепенно порождают грозный, сильно выступающий отёк."
+        "text": "Далее — диагностика внутреннего абсцесса (видрадхи нидана). Доши, загрязняя кожу, кровь, мышцы, жир и поражая кости, постепенно порождают грозный, сильно выступающий отёк.",
+        "text_en": "Next, the diagnosis of internal abscess (vidradhi-nidana). The doshas, contaminating the skin, blood, muscles, and fat, and afflicting the bones, gradually produce a formidable, strongly protruding swelling."
       },
       {
         "type": "comment",
@@ -8756,7 +9041,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "महामूलं रुजावन्तं वृत्तं वाऽप्यथवाऽयतम् स विद्र धिरिति ख्यातो विज्ञेयः षड्विधश्च सः",
         "iast": "mahāmūlaṃ rujāvantaṃ vṛttaṃ vā'pyathavā'yatam sa vidra dhiriti khyāto vijñeyaḥ ṣaḍvidhaśca saḥ",
         "iast_ru": "маха̄мӯлам̣ руджа̄вантам̣ вр̣ттам̣ ва̄'пйатхава̄'йатам са видра дхирити кхйа̄то виджн̃ейах̣ ш̣ад̣видхаш́ча сах̣",
-        "text": "Имеющий широкое основание, болезненный, округлый или продолговатый — он известен как видрадхи (внутренний абсцесс); и он бывает шести видов."
+        "text": "Имеющий широкое основание, болезненный, округлый или продолговатый — он известен как видрадхи (внутренний абсцесс); и он бывает шести видов.",
+        "text_en": "Having a broad base, painful, rounded or elongated — it is known as vidradhi (internal abscess); and it is of six kinds."
       },
       {
         "type": "verse",
@@ -8764,7 +9050,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पृथग्दोषैः समस्तैश्च क्षतेनाप्यसृजा तथा षण्णामपि हि तेषां तु लक्षणं संप्रवक्ष्यते",
         "iast": "pṛthagdoṣaiḥ samastaiśca kṣatenāpyasṛjā tathā ṣaṇṇāmapi hi teṣāṃ tu lakṣaṇaṃ saṃpravakṣyate",
         "iast_ru": "пр̣тхагдош̣аих̣ самастаиш́ча кш̣атена̄пйаср̣джа̄ татха̄ ш̣ан̣н̣а̄мапи хи теш̣а̄м̣ ту лакш̣ан̣ам̣ сам̣правакш̣йате",
-        "text": "Видрадхи возникает от каждой доши в отдельности, от их совокупности, от травмы и от загрязнённой крови — таковы шесть видов. Признаки каждого из них будут изложены далее."
+        "text": "Видрадхи возникает от каждой доши в отдельности, от их совокупности, от травмы и от загрязнённой крови — таковы шесть видов. Признаки каждого из них будут изложены далее.",
+        "text_en": "Vidradhi arises from each dosha singly, from their combination, from injury, and from contaminated blood — these are the six kinds. The signs of each will be set forth below."
       },
       {
         "type": "verse",
@@ -8772,7 +9059,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृष्णोऽरुणो वा विषमो भृशमत्यर्थवेदनः चित्रोत्थानप्रपाकश्च विद्र धिर्वातसंभवः",
         "iast": "kṛṣṇo'ruṇo vā viṣamo bhṛśamatyarthavedanaḥ citrotthānaprapākaśca vidra dhirvātasaṃbhavaḥ",
         "iast_ru": "кр̣ш̣н̣о'рун̣о ва̄ виш̣амо бхр̣ш́аматйартхаведанах̣ читроттха̄напрапа̄каш́ча видра дхирва̄тасам̣бхавах̣",
-        "text": "Видрадхи, порождённый Ватой, — чёрного или красно-коричневого цвета, неровный, чрезвычайно болезненный; созревает и вскрывается неравномерно."
+        "text": "Видрадхи, порождённый Ватой, — чёрного или красно-коричневого цвета, неровный, чрезвычайно болезненный; созревает и вскрывается неравномерно.",
+        "text_en": "Vidradhi produced by Vata is black or reddish-brown in color, uneven, extremely painful; it matures and opens irregularly."
       },
       {
         "type": "verse",
@@ -8780,7 +9068,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पक्वोदुम्बरसंकाशः श्यावो वा ज्वरदाहवान् क्षिप्रोत्थानप्रपाकश्च विद्र धिः पित्तसंभवः",
         "iast": "pakvodumbarasaṃkāśaḥ śyāvo vā jvaradāhavān kṣiprotthānaprapākaśca vidra dhiḥ pittasaṃbhavaḥ",
         "iast_ru": "пакводумбарасам̣ка̄ш́ах̣ ш́йа̄во ва̄ джварада̄хава̄н кш̣ипроттха̄напрапа̄каш́ча видра дхих̣ питтасам̣бхавах̣",
-        "text": "Видрадхи, порождённый Питтой, — похож на спелый плод удумбара, тёмно-бурого цвета, сопровождается лихорадкой и жжением; быстро созревает и вскрывается."
+        "text": "Видрадхи, порождённый Питтой, — похож на спелый плод удумбара, тёмно-бурого цвета, сопровождается лихорадкой и жжением; быстро созревает и вскрывается.",
+        "text_en": "Vidradhi produced by Pitta resembles a ripe udumbara fruit, is dark-brown in color, is accompanied by fever and burning; it matures and opens quickly."
       },
       {
         "type": "verse",
@@ -8788,7 +9077,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शरावसदृशः पाण्डुः शीतः स्निग्धोऽल्पवेदनः चिरोत्थानप्रपाकश्च विद्र धिः कफसंभवः",
         "iast": "śarāvasadṛśaḥ pāṇḍuḥ śītaḥ snigdho'lpavedanaḥ cirotthānaprapākaśca vidra dhiḥ kaphasaṃbhavaḥ",
         "iast_ru": "ш́ара̄васадр̣ш́ах̣ па̄н̣д̣ух̣ ш́ӣтах̣ снигдхо'лпаведанах̣ чироттха̄напрапа̄каш́ча видра дхих̣ капхасам̣бхавах̣",
-        "text": "Видрадхи, порождённый Капхой, — подобен перевёрнутому глиняному черепку, бледный, холодный на ощупь, маслянистый, с незначительной болью; медленно созревает и вскрывается."
+        "text": "Видрадхи, порождённый Капхой, — подобен перевёрнутому глиняному черепку, бледный, холодный на ощупь, маслянистый, с незначительной болью; медленно созревает и вскрывается.",
+        "text_en": "Vidradhi produced by Kapha resembles an upturned clay shard, is pale, cold to the touch, oily, with slight pain; it matures and opens slowly."
       },
       {
         "type": "verse",
@@ -8796,7 +9086,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तनुपीतसिताश्चैषामास्रावाः क्रमशः स्मृताः नानावर्णरुजास्रावो घाटालो विषमो महान्",
         "iast": "tanupītasitāścaiṣāmāsrāvāḥ kramaśaḥ smṛtāḥ nānāvarṇarujāsrāvo ghāṭālo viṣamo mahān",
         "iast_ru": "танупӣтасита̄ш́чаиш̣а̄ма̄сра̄ва̄х̣ крамаш́ах̣ смр̣та̄х̣ на̄на̄варн̣аруджа̄сра̄во гха̄т̣а̄ло виш̣амо маха̄н",
-        "text": "Выделения из этих трёх видов описываются соответственно как жидкие, желтоватые и белёсые. Саннипатический видрадхи — разнообразной окраски, с болью, выделениями разного цвета, бугристый, неровный и большой."
+        "text": "Выделения из этих трёх видов описываются соответственно как жидкие, желтоватые и белёсые. Саннипатический видрадхи — разнообразной окраски, с болью, выделениями разного цвета, бугристый, неровный и большой.",
+        "text_en": "The discharges from these three types are described respectively as thin, yellowish, and whitish. Sannipatika vidradhi is of varied coloring, painful, with discharges of mixed color, uneven, lumpy, and large."
       },
       {
         "type": "comment",
@@ -8809,7 +9100,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विषमं पच्यते चापि विद्र धिः सान्निपातिकः तैस्तैर्भावैरभिहते क्षते वाऽपथ्यकारिणः",
         "iast": "viṣamaṃ pacyate cāpi vidra dhiḥ sānnipātikaḥ taistairbhāvairabhihate kṣate vā'pathyakāriṇaḥ",
         "iast_ru": "виш̣амам̣ пачйате ча̄пи видра дхих̣ са̄ннипа̄тиках̣ таистаирбха̄ваирабхихате кш̣ате ва̄'патхйака̄рин̣ах̣",
-        "text": "Саннипатический видрадхи созревает неравномерно. У того, кто получил травму в жизненно важное место и нарушает правильный образ жизни..."
+        "text": "Саннипатический видрадхи созревает неравномерно. У того, кто получил травму в жизненно важное место и нарушает правильный образ жизни...",
+        "text_en": "Sannipatika vidradhi matures irregularly. In one who has received an injury to a vital point and violates the proper regimen..."
       },
       {
         "type": "verse",
@@ -8817,7 +9109,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्षतोष्मा वायुविसृतः सरक्तं पित्तमीरयेत् ज्वरस्तृष्णा च दाहश्च जायते तस्य देहिनः",
         "iast": "kṣatoṣmā vāyuvisṛtaḥ saraktaṃ pittamīrayet jvarastṛṣṇā ca dāhaśca jāyate tasya dehinaḥ",
         "iast_ru": "кш̣атош̣ма̄ ва̄йувиср̣тах̣ сарактам̣ питтамӣрайет джварастр̣ш̣н̣а̄ ча да̄хаш́ча джа̄йате тасйа дехинах̣",
-        "text": "...жар раны, распространяемый Ватой, приводит в движение Питту вместе с кровью; у такого человека возникают лихорадка, жажда и жжение."
+        "text": "...жар раны, распространяемый Ватой, приводит в движение Питту вместе с кровью; у такого человека возникают лихорадка, жажда и жжение.",
+        "text_en": "...the heat of the wound, propagated by Vata, sets Pitta together with blood into motion; in such a person there arise fever, thirst, and burning."
       },
       {
         "type": "verse",
@@ -8825,7 +9118,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आगन्तुर्विद्र धिर्ह्येष पित्तविद्र धिलक्षणः कृष्णस्फोटावृतः श्यावस्तीव्रदाहरुजाकरः",
         "iast": "āganturvidra dhirhyeṣa pittavidra dhilakṣaṇaḥ kṛṣṇasphoṭāvṛtaḥ śyāvastīvradāharujākaraḥ",
         "iast_ru": "а̄гантурвидра дхирхйеш̣а питтавидра дхилакш̣ан̣ах̣ кр̣ш̣н̣аспхот̣а̄вр̣тах̣ ш́йа̄вастӣврада̄харуджа̄карах̣",
-        "text": "Это — агантуджа видрадхи (внешний, травматический абсцесс); по признакам он подобен питтаджа видрадхи. Окружён чёрными пузырями, тёмно-бурого цвета, вызывает сильное жжение и боль."
+        "text": "Это — агантуджа видрадхи (внешний, травматический абсцесс); по признакам он подобен питтаджа видрадхи. Окружён чёрными пузырями, тёмно-бурого цвета, вызывает сильное жжение и боль.",
+        "text_en": "This is agantuja vidradhi (an external, traumatic abscess); in its signs it resembles pittaja vidradhi. It is surrounded by black blisters, of a dark-brown color, and causes intense burning and pain."
       },
       {
         "type": "verse",
@@ -8833,7 +9127,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पित्तविद्र धिलिङ्गस्तु रक्तविद्र धिरुच्यते पृथक् संभूय वा दोषाः कुपिता गुल्मरूपिणम्",
         "iast": "pittavidra dhiliṅgastu raktavidra dhirucyate pṛthak saṃbhūya vā doṣāḥ kupitā gulmarūpiṇam",
         "iast_ru": "питтавидра дхилин̇гасту рактавидра дхиручйате пр̣тхак сам̣бхӯйа ва̄ дош̣а̄х̣ купита̄ гулмарӯпин̣ам",
-        "text": "По признакам питтаджа видрадхи описывается также ракта видрадхи (кровяной абсцесс). Доши, возбуждённые по отдельности или совместно, образуют опухолевидный абсцесс."
+        "text": "По признакам питтаджа видрадхи описывается также ракта видрадхи (кровяной абсцесс). Доши, возбуждённые по отдельности или совместно, образуют опухолевидный абсцесс.",
+        "text_en": "By the signs of pittaja vidradhi, rakta vidradhi (a blood abscess) is also described. The doshas, provoked singly or jointly, form a tumor-like abscess."
       },
       {
         "type": "verse",
@@ -8841,7 +9136,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वल्मीकवत् समुन्नद्धमन्तः कुर्वन्ति विद्र धिम् गुदे बस्तिमुखे नाभ्यां कुक्षौ वङ्क्षणयोस्तथा",
         "iast": "valmīkavat samunnaddhamantaḥ kurvanti vidra dhim gude bastimukhe nābhyāṃ kukṣau vaṅkṣaṇayostathā",
         "iast_ru": "валмӣкават самуннаддхамантах̣ курванти видра дхим гуде бастимукхе на̄бхйа̄м̣ кукш̣ау ван̇кш̣ан̣айостатха̄",
-        "text": "Подобно термитнику возвышаясь, доши создают внутренний видрадхи — в области заднего прохода, шейки мочевого пузыря, пупка, в подреберье и в паху."
+        "text": "Подобно термитнику возвышаясь, доши создают внутренний видрадхи — в области заднего прохода, шейки мочевого пузыря, пупка, в подреберье и в паху.",
+        "text_en": "Rising up like a termite mound, the doshas create an internal vidradhi — in the region of the anus, the neck of the bladder, the navel, the hypochondrium, and the groin."
       },
       {
         "type": "verse",
@@ -8849,7 +9145,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वृक्कयोः प्लीह्नि यकृति हृदि वा क्लोम्नि वाऽप्यथ तेषामुक्तानि लिङ्गानि वाह्य विद्र धि लक्षणैः",
         "iast": "vṛkkayoḥ plīhni yakṛti hṛdi vā klomni vā'pyatha teṣāmuktāni liṅgāni vāhya vidra dhi lakṣaṇaiḥ",
         "iast_ru": "вр̣ккайох̣ плӣхни йакр̣ти хр̣ди ва̄ кломни ва̄'пйатха теш̣а̄мукта̄ни лин̇га̄ни ва̄хйа видра дхи лакш̣ан̣аих̣",
-        "text": "Видрадхи может возникать в почках, селезёнке, печени, сердце или поджелудочной железе (кломан). Признаки внутренних видрадхи описываются по аналогии с внешними."
+        "text": "Видрадхи может возникать в почках, селезёнке, печени, сердце или поджелудочной железе (кломан). Признаки внутренних видрадхи описываются по аналогии с внешними.",
+        "text_en": "Vidradhi may arise in the kidneys, spleen, liver, heart, or the pancreas (kloman). The signs of the internal vidradhis are described by analogy with the external ones."
       },
       {
         "type": "verse",
@@ -8857,7 +9154,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अधिष्ठानविशेषेण लिङ्गंशृणुविशेषतः गुदे वातनिरोधश्च बस्तौ कृच्छ्राल्पमूत्रता",
         "iast": "adhiṣṭhānaviśeṣeṇa liṅgaṃśṛṇuviśeṣataḥ gude vātanirodhaśca bastau kṛcchrālpamūtratā",
         "iast_ru": "адхиш̣т̣ха̄навиш́еш̣ен̣а лин̇гам̣ш́р̣н̣увиш́еш̣атах̣ гуде ва̄таниродхаш́ча бастау кр̣ччхра̄лпамӯтрата̄",
-        "text": "По особенностям расположения выслушай отличительные признаки: при видрадхи в области заднего прохода — задержка газов; при видрадхи в мочевом пузыре — затруднённое и скудное мочеиспускание."
+        "text": "По особенностям расположения выслушай отличительные признаки: при видрадхи в области заднего прохода — задержка газов; при видрадхи в мочевом пузыре — затруднённое и скудное мочеиспускание.",
+        "text_en": "According to the particulars of location, hear the distinguishing signs: in vidradhi in the region of the anus — retention of gas; in vidradhi in the bladder — difficult and scanty urination."
       },
       {
         "type": "verse",
@@ -8865,7 +9163,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नाभ्यां हिक्का तथाऽटोपः कुक्षौ मारुतकोपनम् कटीपृष्ठग्रहस्तीव्रो वङ्क्षणोत्थे तु विद्र धौ",
         "iast": "nābhyāṃ hikkā tathā'ṭopaḥ kukṣau mārutakopanam kaṭīpṛṣṭhagrahastīvro vaṅkṣaṇotthe tu vidra dhau",
         "iast_ru": "на̄бхйа̄м̣ хикка̄ татха̄'т̣опах̣ кукш̣ау ма̄рутакопанам кат̣ӣпр̣ш̣т̣хаграхастӣвро ван̇кш̣ан̣оттхе ту видра дхау",
-        "text": "При видрадхи в области пупка — икота и урчание в животе; в подреберье — возбуждение Ваты; при видрадхи, возникшем в паху, — сильная скованность поясницы и спины."
+        "text": "При видрадхи в области пупка — икота и урчание в животе; в подреберье — возбуждение Ваты; при видрадхи, возникшем в паху, — сильная скованность поясницы и спины.",
+        "text_en": "In vidradhi in the region of the navel — hiccup and rumbling in the abdomen; in the hypochondrium — provocation of Vata; in vidradhi arising in the groin — severe stiffness of the loins and back."
       },
       {
         "type": "verse",
@@ -8873,7 +9172,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वृक्कयोः पार्श्वसंकोचः प्लीह्न्युच्छ्वासावरोधनम् सर्वाङ्गप्रग्रहस्तीव्रो हृदि कासश्च जायते श्वासो यकृति हिक्का च क्लोम्नि पेपीयते पयः",
         "iast": "vṛkkayoḥ pārśvasaṃkocaḥ plīhnyucchvāsāvarodhanam sarvāṅgapragrahastīvro hṛdi kāsaśca jāyate śvāso yakṛti hikkā ca klomni pepīyate payaḥ",
         "iast_ru": "вр̣ккайох̣ па̄рш́васам̣кочах̣ плӣхнйуччхва̄са̄вародханам сарва̄н̇гапраграхастӣвро хр̣ди ка̄саш́ча джа̄йате ш́ва̄со йакр̣ти хикка̄ ча кломни пепӣйате пайах̣",
-        "text": "При видрадхи в почках — стягивание в боку; в селезёнке — затруднение дыхания; при видрадхи в сердце — сильная скованность всего тела и кашель; в печени — одышка; в поджелудочной железе (кломан) — икота и неутолимая жажда молока."
+        "text": "При видрадхи в почках — стягивание в боку; в селезёнке — затруднение дыхания; при видрадхи в сердце — сильная скованность всего тела и кашель; в печени — одышка; в поджелудочной железе (кломан) — икота и неутолимая жажда молока.",
+        "text_en": "In vidradhi of the kidneys — constriction in the side; of the spleen — difficulty in breathing; in vidradhi of the heart — severe stiffness of the whole body and cough; of the liver — dyspnea; of the pancreas (kloman) — hiccup and an unquenchable thirst for milk."
       },
       {
         "type": "verse",
@@ -8881,7 +9181,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नाभेरुपरिजाः पक्वा यान्त्यूर्ध्वमितरे त्वधः अधः स्रुतेषु जीवेत्तु स्रुतेषूर्ध्वं न जीवति",
         "iast": "nābheruparijāḥ pakvā yāntyūrdhvamitare tvadhaḥ adhaḥ sruteṣu jīvettu sruteṣūrdhvaṃ na jīvati",
         "iast_ru": "на̄бхерупариджа̄х̣ паква̄ йа̄нтйӯрдхвамитаре твадхах̣ адхах̣ срутеш̣у джӣветту срутеш̣ӯрдхвам̣ на джӣвати",
-        "text": "Созревшие абсцессы, расположенные выше пупка, прорываются вверх, а прочие — вниз. При прорыве вниз больной выживает; при прорыве вверх — не выживает."
+        "text": "Созревшие абсцессы, расположенные выше пупка, прорываются вверх, а прочие — вниз. При прорыве вниз больной выживает; при прорыве вверх — не выживает.",
+        "text_en": "Matured abscesses located above the navel burst upward, while the others burst downward. When it bursts downward, the patient survives; when it bursts upward, he does not survive."
       },
       {
         "type": "verse",
@@ -8889,7 +9190,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हृन्नाभिबस्तिवर्ज्या ये तेषु भिन्नेषु बाह्यतः जीवेत् कदाचित् पुरुषो नेतरेषु कदाचन",
         "iast": "hṛnnābhibastivarjyā ye teṣu bhinneṣu bāhyataḥ jīvet kadācit puruṣo netareṣu kadācana",
         "iast_ru": "хр̣нна̄бхибастиварджйа̄ йе теш̣у бхиннеш̣у ба̄хйатах̣ джӣвет када̄чит пуруш̣о нетареш̣у када̄чана",
-        "text": "За исключением абсцессов сердца, пупка и мочевого пузыря, при прорыве наружу человек иногда выживает; при прочих локализациях — никогда."
+        "text": "За исключением абсцессов сердца, пупка и мочевого пузыря, при прорыве наружу человек иногда выживает; при прочих локализациях — никогда.",
+        "text_en": "With the exception of abscesses of the heart, navel, and bladder, when bursting outward a person sometimes survives; in other locations — never."
       },
       {
         "type": "verse",
@@ -8897,7 +9199,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "साध्या विद्र धयः पञ्च विवर्ज्यः सान्निपातिकः आमपक्वविदग्धत्वं तेषां शोथवदादिशेत्",
         "iast": "sādhyā vidra dhayaḥ pañca vivarjyaḥ sānnipātikaḥ āmapakvavidagdhatvaṃ teṣāṃ śothavadādiśet",
         "iast_ru": "са̄дхйа̄ видра дхайах̣ пан̃ча виварджйах̣ са̄ннипа̄тиках̣ а̄мапаквавидагдхатвам̣ теш̣а̄м̣ ш́отхавада̄диш́ет",
-        "text": "Пять видов видрадхи излечимы; саннипатический следует считать неизлечимым. Состояния незрелости, созревания и перезревания определяются так же, как при отёках (шотха)."
+        "text": "Пять видов видрадхи излечимы; саннипатический следует считать неизлечимым. Состояния незрелости, созревания и перезревания определяются так же, как при отёках (шотха).",
+        "text_en": "Five kinds of vidradhi are curable; the sannipatika kind should be considered incurable. The stages of immaturity, maturation, and overripeness are determined in the same way as for swellings (shotha)."
       },
       {
         "type": "verse",
@@ -8905,7 +9208,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आध्मातं बद्धनिष्यन्दं छर्दिहिक्कातृषान्वितम् रुजाश्वाससमायुक्तं विद्र धिर्नाशयेन्नरम्",
         "iast": "ādhmātaṃ baddhaniṣyandaṃ chardihikkātṛṣānvitam rujāśvāsasamāyuktaṃ vidra dhirnāśayennaram",
         "iast_ru": "а̄дхма̄там̣ баддханиш̣йандам̣ чхардихикка̄тр̣ш̣а̄нвитам руджа̄ш́ва̄сасама̄йуктам̣ видра дхирна̄ш́айеннарам",
-        "text": "Видрадхи, который вздут, с закупоренным оттоком, сопровождается рвотой, икотой и жаждой, болью и одышкой, — убивает человека."
+        "text": "Видрадхи, который вздут, с закупоренным оттоком, сопровождается рвотой, икотой и жаждой, болью и одышкой, — убивает человека.",
+        "text_en": "A vidradhi that is distended, with blocked drainage, accompanied by vomiting, hiccup, and thirst, pain, and dyspnea, kills a person."
       }
     ]
   },
@@ -8927,7 +9231,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ व्रणशोथनिदानम् एकदेशोत्थितः शोथो व्रणानां पूर्वलक्षणम् षड्विधः स्यात् पृथक्सर्वरक्तागन्तुनिमित्तजः",
         "iast": "atha vraṇaśothanidānam ekadeśotthitaḥ śotho vraṇānāṃ pūrvalakṣaṇam ṣaḍvidhaḥ syāt pṛthaksarvaraktāgantunimittajaḥ",
         "iast_ru": "атха вран̣аш́отханида̄нам екадеш́оттхитах̣ ш́отхо вран̣а̄на̄м̣ пӯрвалакш̣ан̣ам ш̣ад̣видхах̣ сйа̄т пр̣тхаксарваракта̄гантунимиттаджах̣",
-        "text": "Далее — диагностика отёков, предшествующих ранам (врана-шотха нидана). Отёк, возникающий в одном месте, является предвестником ран (вран). Он бывает шести видов: от каждой доши в отдельности, от их совокупности, от загрязнённой крови и от внешних причин."
+        "text": "Далее — диагностика отёков, предшествующих ранам (врана-шотха нидана). Отёк, возникающий в одном месте, является предвестником ран (вран). Он бывает шести видов: от каждой доши в отдельности, от их совокупности, от загрязнённой крови и от внешних причин.",
+        "text_en": "Next, the diagnosis of swellings preceding wounds (vrana-shotha-nidana). A swelling arising in one place is a precursor of wounds (vranas). It is of six kinds: from each dosha singly, from their combination, from contaminated blood, and from external causes."
       },
       {
         "type": "verse",
@@ -8935,7 +9240,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शोथाः षडेते विज्ञेयाः प्रागुक्तैः शोथलक्षणैः विशेषः कथ्यते चैषां पक्वापक्वादिनिश्चये",
         "iast": "śothāḥ ṣaḍete vijñeyāḥ prāguktaiḥ śothalakṣaṇaiḥ viśeṣaḥ kathyate caiṣāṃ pakvāpakvādiniścaye",
         "iast_ru": "ш́отха̄х̣ ш̣ад̣ете виджн̃ейа̄х̣ пра̄гуктаих̣ ш́отхалакш̣ан̣аих̣ виш́еш̣ах̣ катхйате чаиш̣а̄м̣ паква̄паква̄диниш́чайе",
-        "text": "Эти шесть видов отёков распознаются по ранее описанным признакам шотхи. Далее излагаются особенности определения их зрелости и незрелости."
+        "text": "Эти шесть видов отёков распознаются по ранее описанным признакам шотхи. Далее излагаются особенности определения их зрелости и незрелости.",
+        "text_en": "These six kinds of swellings are recognized by the signs of shotha described earlier. Next are set forth the particulars for determining their immaturity and maturity."
       },
       {
         "type": "verse",
@@ -8943,7 +9249,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विषमं पच्यते वातात् पित्तोत्थश्चाचिराच्चिरम् कफजः पित्तवच्छोथो रक्तागन्तुसमुद्भवः",
         "iast": "viṣamaṃ pacyate vātāt pittotthaścācirācciram kaphajaḥ pittavacchotho raktāgantusamudbhavaḥ",
         "iast_ru": "виш̣амам̣ пачйате ва̄та̄т питтоттхаш́ча̄чира̄ччирам капхаджах̣ питтаваччхотхо ракта̄гантусамудбхавах̣",
-        "text": "Отёк от Ваты созревает неравномерно; питтаджа — быстро; капхаджа — долго. Отёк от загрязнённой крови и от внешних причин — подобен питтаджа по созреванию."
+        "text": "Отёк от Ваты созревает неравномерно; питтаджа — быстро; капхаджа — долго. Отёк от загрязнённой крови и от внешних причин — подобен питтаджа по созреванию.",
+        "text_en": "A swelling from Vata matures irregularly; a Pittaja one matures quickly; a Kaphaja one matures slowly. A swelling from contaminated blood and from external causes is similar to a Pittaja one in its maturation."
       },
       {
         "type": "verse",
@@ -8951,7 +9258,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मन्दोष्मताऽल्पशोथत्वं काठिन्यं त्वक्सवर्णता मन्दवेदनता चैतच्छोथानामामलक्षणम्",
         "iast": "mandoṣmatā'lpaśothatvaṃ kāṭhinyaṃ tvaksavarṇatā mandavedanatā caitacchothānāmāmalakṣaṇam",
         "iast_ru": "мандош̣мата̄'лпаш́отхатвам̣ ка̄т̣хинйам̣ тваксаварн̣ата̄ мандаведаната̄ чаитаччхотха̄на̄ма̄малакш̣ан̣ам",
-        "text": "Слабый жар, незначительный отёк, твёрдость, неизменённый цвет кожи и умеренная болезненность — таковы признаки незрелого (ама) отёка."
+        "text": "Слабый жар, незначительный отёк, твёрдость, неизменённый цвет кожи и умеренная болезненность — таковы признаки незрелого (ама) отёка.",
+        "text_en": "Mild heat, slight swelling, hardness, unchanged skin color, and moderate tenderness — these are the signs of an immature (ama) swelling."
       },
       {
         "type": "comment",
@@ -8964,7 +9272,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दह्यते दहनेनेव क्षारेणेव च पच्यते पिपीलिकागणेनेव दश्यते छिद्यते तथा",
         "iast": "dahyate dahaneneva kṣāreṇeva ca pacyate pipīlikāgaṇeneva daśyate chidyate tathā",
         "iast_ru": "дахйате даханенева кш̣а̄рен̣ева ча пачйате пипӣлика̄ган̣енева даш́йате чхидйате татха̄",
-        "text": "Больной ощущает, будто поражённое место обжигается огнём, разъедается щёлочью, кусается стаей муравьёв и рассекается;"
+        "text": "Больной ощущает, будто поражённое место обжигается огнём, разъедается щёлочью, кусается стаей муравьёв и рассекается;",
+        "text_en": "The patient feels as though the affected spot were being scorched by fire, corroded by alkali, bitten by a swarm of ants, and cut apart;"
       },
       {
         "type": "verse",
@@ -8972,7 +9281,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भिद्यते चैव शस्त्रेण दण्डेनेव च ताड्यते पीड्यते पाणिनेवान्तः सूचिभिरिव तुद्यते",
         "iast": "bhidyate caiva śastreṇa daṇḍeneva ca tāḍyate pīḍyate pāṇinevāntaḥ sūcibhiriva tudyate",
         "iast_ru": "бхидйате чаива ш́астрен̣а дан̣д̣енева ча та̄д̣йате пӣд̣йате па̄н̣инева̄нтах̣ сӯчибхирива тудйате",
-        "text": "Рассекается оружием, ударяется палкой, сдавливается рукой изнутри, прокалывается иглами;"
+        "text": "Рассекается оружием, ударяется палкой, сдавливается рукой изнутри, прокалывается иглами;",
+        "text_en": "cut apart by a weapon, struck by a stick, pressed by a hand from within, pierced by needles;"
       },
       {
         "type": "verse",
@@ -8980,7 +9290,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सोषाचोषो विवर्णः स्यादङ्गुल्येवावघट्यते आसने शयने स्थाने शान्तिं वृश्चिकविद्धवत्",
         "iast": "soṣācoṣo vivarṇaḥ syādaṅgulyevāvaghaṭyate āsane śayane sthāne śāntiṃ vṛścikaviddhavat",
         "iast_ru": "сош̣а̄чош̣о виварн̣ах̣ сйа̄дан̇гулйева̄вагхат̣йате а̄сане ш́айане стха̄не ш́а̄нтим̣ вр̣ш́чикавиддхават",
-        "text": "Отёк то с жаром, то без жара, с изменённым цветом кожи; при надавливании пальцем образуется ямка; ни в положении сидя, ни лёжа, ни стоя больной не находит покоя — подобно ужаленному скорпионом."
+        "text": "Отёк то с жаром, то без жара, с изменённым цветом кожи; при надавливании пальцем образуется ямка; ни в положении сидя, ни лёжа, ни стоя больной не находит покоя — подобно ужаленному скорпионом.",
+        "text_en": "the swelling is at times hot, at times without heat, with altered skin color; pressing with a finger leaves a pit; the patient finds no rest whether sitting, lying, or standing — as though stung by a scorpion."
       },
       {
         "type": "verse",
@@ -8988,7 +9299,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "न गच्छेदाततः शोथो भवेदाध्मातबस्तिवत् ज्वरस्तृष्णाऽरुचिश्चैव पच्यमानस्य लक्षणम्",
         "iast": "na gacchedātataḥ śotho bhavedādhmātabastivat jvarastṛṣṇā'ruciścaiva pacyamānasya lakṣaṇam",
         "iast_ru": "на гаччхеда̄татах̣ ш́отхо бхаведа̄дхма̄табастиват джварастр̣ш̣н̣а̄'ручиш́чаива пачйама̄насйа лакш̣ан̣ам",
-        "text": "Напряжённый отёк, подобный раздутому мочевому пузырю, не спадающий, лихорадка, жажда и отвращение к пище — таковы признаки созревающего отёка."
+        "text": "Напряжённый отёк, подобный раздутому мочевому пузырю, не спадающий, лихорадка, жажда и отвращение к пище — таковы признаки созревающего отёка.",
+        "text_en": "A tense swelling, resembling a distended bladder, that does not subside, fever, thirst, and aversion to food — these are the signs of a maturing swelling."
       },
       {
         "type": "verse",
@@ -8996,7 +9308,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वेदनोपशमः शोथोऽलोहितोऽल्पो न चोन्नतः प्रादुर्भावो वलीनां च तोदः कण्डूर्मुहुर्मुहुः",
         "iast": "vedanopaśamaḥ śotho'lohito'lpo na connataḥ prādurbhāvo valīnāṃ ca todaḥ kaṇḍūrmuhurmuhuḥ",
         "iast_ru": "веданопаш́амах̣ ш́отхо'лохито'лпо на чоннатах̣ пра̄дурбха̄во валӣна̄м̣ ча тодах̣ кан̣д̣ӯрмухурмухух̣",
-        "text": "Стихание боли; отёк — без покраснения, небольшой, не возвышающийся; появление складок; покалывание и зуд, возникающие снова и снова;"
+        "text": "Стихание боли; отёк — без покраснения, небольшой, не возвышающийся; появление складок; покалывание и зуд, возникающие снова и снова;",
+        "text_en": "Subsiding of pain; the swelling without redness, small, not raised; the appearance of folds; tingling and itching arising again and again;"
       },
       {
         "type": "verse",
@@ -9004,7 +9317,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उपद्र वाणां प्रशमो निम्नता स्फुटनं त्वचाम् वस्ताविवाम्बुसंचारः स्याच्छोथेऽङ्गुलिपीडिते",
         "iast": "upadra vāṇāṃ praśamo nimnatā sphuṭanaṃ tvacām vastāvivāmbusaṃcāraḥ syācchothe'ṅgulipīḍite",
         "iast_ru": "упадра ва̄н̣а̄м̣ праш́амо нимната̄ спхут̣анам̣ твача̄м васта̄вива̄мбусам̣ча̄рах̣ сйа̄ччхотхе'н̇гулипӣд̣ите",
-        "text": "Стихание осложнений, западение поверхности, растрескивание кожи; при надавливании пальцем ощущается перемещение жидкости, как в бурдюке;"
+        "text": "Стихание осложнений, западение поверхности, растрескивание кожи; при надавливании пальцем ощущается перемещение жидкости, как в бурдюке;",
+        "text_en": "subsiding of the complications, sinking of the surface, cracking of the skin; on pressing with a finger, a movement of fluid is felt, as in a leather bag;"
       },
       {
         "type": "comment",
@@ -9017,7 +9331,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पूयस्य पीडयत्येकमन्तमन्ते च पीडिते भक्ताकाङ्क्षा भवेच्चैतच्छोथानां पक्वलक्षणम्",
         "iast": "pūyasya pīḍayatyekamantamante ca pīḍite bhaktākāṅkṣā bhaveccaitacchothānāṃ pakvalakṣaṇam",
         "iast_ru": "пӯйасйа пӣд̣айатйекамантаманте ча пӣд̣ите бхакта̄ка̄н̇кш̣а̄ бхавеччаитаччхотха̄на̄м̣ паквалакш̣ан̣ам",
-        "text": "При надавливании на один край гной перемещается к другому; появление аппетита — таковы признаки созревшего (паква) отёка."
+        "text": "При надавливании на один край гной перемещается к другому; появление аппетита — таковы признаки созревшего (паква) отёка.",
+        "text_en": "when one edge is pressed, the pus shifts to the other; the return of appetite — these are the signs of a matured (pakva) swelling."
       },
       {
         "type": "verse",
@@ -9025,7 +9340,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नर्तेऽनिलाद्रुङ्न विना च पित्तं पाकः कफं चापि विना न पूयः तस्माद्धि सर्वान् परिपाककाले पचन्ति शोथांस्त्रय एव दोषाः",
         "iast": "narte'nilādruṅna vinā ca pittaṃ pākaḥ kaphaṃ cāpi vinā na pūyaḥ tasmāddhi sarvān paripākakāle pacanti śothāṃstraya eva doṣāḥ",
         "iast_ru": "нарте'нила̄друн̇на вина̄ ча питтам̣ па̄ках̣ капхам̣ ча̄пи вина̄ на пӯйах̣ тасма̄ддхи сарва̄н парипа̄кака̄ле пачанти ш́отха̄м̣страйа ева дош̣а̄х̣",
-        "text": "Без Ваты нет боли, без Питты нет нагноения, без Капхи нет гноя. Поэтому в период созревания все отёки созревают именно тремя дошами."
+        "text": "Без Ваты нет боли, без Питты нет нагноения, без Капхи нет гноя. Поэтому в период созревания все отёки созревают именно тремя дошами.",
+        "text_en": "Without Vata there is no pain, without Pitta there is no suppuration, without Kapha there is no pus. Therefore, in the period of maturation, all swellings mature precisely by the three doshas."
       },
       {
         "type": "verse",
@@ -9033,7 +9349,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कक्षं समासाद्य यथैव वह्निर्वाय्वीरितः सन्दहति प्रसह्य तथैव पूयो ह्यविनिःसृता हि मांसं सिराः स्नायु च खादतीह",
         "iast": "kakṣaṃ samāsādya yathaiva vahnirvāyvīritaḥ sandahati prasahya tathaiva pūyo hyaviniḥsṛtā hi māṃsaṃ sirāḥ snāyu ca khādatīha",
         "iast_ru": "какш̣ам̣ сама̄са̄дйа йатхаива вахнирва̄йвӣритах̣ сандахати прасахйа татхаива пӯйо хйавиних̣ср̣та̄ хи ма̄м̣сам̣ сира̄х̣ сна̄йу ча кха̄датӣха",
-        "text": "Подобно тому, как огонь, раздуваемый ветром, достигнув сухой травы, неудержимо сжигает её, — так и гной, не выпущенный наружу, разъедает мышцы, сосуды и сухожилия."
+        "text": "Подобно тому, как огонь, раздуваемый ветром, достигнув сухой травы, неудержимо сжигает её, — так и гной, не выпущенный наружу, разъедает мышцы, сосуды и сухожилия.",
+        "text_en": "Just as fire, fanned by the wind, upon reaching dry grass, burns it uncontrollably, so too pus that is not released outward corrodes the muscles, vessels, and tendons."
       },
       {
         "type": "verse",
@@ -9041,7 +9358,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आमं विदह्यमानं च सम्यक् पक्वं च यो भिषक् जानीयात् स भवेद्वैद्यः शेषास्तस्करवृत्तयः",
         "iast": "āmaṃ vidahyamānaṃ ca samyak pakvaṃ ca yo bhiṣak jānīyāt sa bhavedvaidyaḥ śeṣāstaskaravṛttayaḥ",
         "iast_ru": "а̄мам̣ видахйама̄нам̣ ча самйак паквам̣ ча йо бхиш̣ак джа̄нӣйа̄т са бхаведваидйах̣ ш́еш̣а̄стаскаравр̣ттайах̣",
-        "text": "Врач, который умеет распознать незрелый, созревающий и правильно созревший отёк, — тот является истинным вайдьей; прочие же — подобны ворам."
+        "text": "Врач, который умеет распознать незрелый, созревающий и правильно созревший отёк, — тот является истинным вайдьей; прочие же — подобны ворам.",
+        "text_en": "The physician who is able to recognize an immature, a maturing, and a properly matured swelling is a true vaidya (physician); others are like thieves."
       },
       {
         "type": "verse",
@@ -9049,7 +9367,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यश्छिनत्त्याममज्ञानाद्यो वा पक्वमुपेक्षते श्वपचाविव मन्तव्यौ तावनिश्चितकारिणौ",
         "iast": "yaśchinattyāmamajñānādyo vā pakvamupekṣate śvapacāviva mantavyau tāvaniścitakāriṇau",
         "iast_ru": "йаш́чхинаттйа̄мамаджн̃а̄на̄дйо ва̄ паквамупекш̣ате ш́вапача̄вива мантавйау та̄ваниш́читака̄рин̣ау",
-        "text": "Кто по невежеству вскрывает незрелый отёк или оставляет без внимания созревший — оба они, действующие без различения, должны считаться подобными презренным шва-пачам."
+        "text": "Кто по невежеству вскрывает незрелый отёк или оставляет без внимания созревший — оба они, действующие без различения, должны считаться подобными презренным шва-пачам.",
+        "text_en": "Whoever, out of ignorance, opens an immature swelling, or neglects a matured one — both, acting without discernment, should be considered comparable to despised shva-pachas (outcastes)."
       },
       {
         "type": "comment",
@@ -9076,7 +9395,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ शारीरव्रणनिदाम् द्विधा व्रणः स विज्ञेयः शारीरागन्तुभेदतः दोषैराद्यस्तयोरन्यः शस्त्रादिक्षतसंभवः",
         "iast": "atha śārīravraṇanidām dvidhā vraṇaḥ sa vijñeyaḥ śārīrāgantubhedataḥ doṣairādyastayoranyaḥ śastrādikṣatasaṃbhavaḥ",
         "iast_ru": "атха ш́а̄рӣравран̣анида̄м двидха̄ вран̣ах̣ са виджн̃ейах̣ ш́а̄рӣра̄гантубхедатах̣ дош̣аира̄дйастайоранйах̣ ш́астра̄дикш̣атасам̣бхавах̣",
-        "text": "Далее — диагностика телесных ран (шарира-врана нидана). Раны (враны) следует знать двух видов: телесные (шарира) и внешние (агантуджа). Первые вызваны дошами, вторые — повреждением оружием и подобным."
+        "text": "Далее — диагностика телесных ран (шарира-врана нидана). Раны (враны) следует знать двух видов: телесные (шарира) и внешние (агантуджа). Первые вызваны дошами, вторые — повреждением оружием и подобным.",
+        "text_en": "Next, the diagnosis of bodily wounds (sharira-vrana-nidana). Wounds (vranas) should be known to be of two kinds: bodily (sharira) and external (agantuja). The former are caused by the doshas, the latter by injury from a weapon and the like."
       },
       {
         "type": "verse",
@@ -9084,7 +9404,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्तब्धः कठिनसंस्पर्शो मन्दस्रावो महारुजः तद्यते स्फुरति श्यावो व्रणो मारुतसंभवः",
         "iast": "stabdhaḥ kaṭhinasaṃsparśo mandasrāvo mahārujaḥ tadyate sphurati śyāvo vraṇo mārutasaṃbhavaḥ",
         "iast_ru": "стабдхах̣ кат̣хинасам̣спарш́о мандасра̄во маха̄руджах̣ тадйате спхурати ш́йа̄во вран̣о ма̄рутасам̣бхавах̣",
-        "text": "Рана, порождённая Ватой, — ригидная, жёсткая на ощупь, со скудным отделяемым и сильной болью; ноющая, пульсирующая, тёмно-бурого цвета."
+        "text": "Рана, порождённая Ватой, — ригидная, жёсткая на ощупь, со скудным отделяемым и сильной болью; ноющая, пульсирующая, тёмно-бурого цвета.",
+        "text_en": "A wound produced by Vata is rigid, hard to the touch, with scanty discharge and severe pain; aching, throbbing, and dark-brown in color."
       },
       {
         "type": "verse",
@@ -9092,7 +9413,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तृष्णामोहज्वरक्लेद दाहदुष्ट्यवदारणैः व्रणं पित्तकृतं विद्याद्गन्धैः स्रावैश्च पूतिकैः",
         "iast": "tṛṣṇāmohajvarakleda dāhaduṣṭyavadāraṇaiḥ vraṇaṃ pittakṛtaṃ vidyādgandhaiḥ srāvaiśca pūtikaiḥ",
         "iast_ru": "тр̣ш̣н̣а̄мохаджваракледа да̄хадуш̣т̣йавада̄ран̣аих̣ вран̣ам̣ питтакр̣там̣ видйа̄дгандхаих̣ сра̄ваиш́ча пӯтикаих̣",
-        "text": "Рану, вызванную Питтой, распознают по жажде, помрачению сознания, лихорадке, мокнутию, жжению, изъязвлению и разъеданию, а также по зловонному, гнилостному отделяемому."
+        "text": "Рану, вызванную Питтой, распознают по жажде, помрачению сознания, лихорадке, мокнутию, жжению, изъязвлению и разъеданию, а также по зловонному, гнилостному отделяемому.",
+        "text_en": "A wound caused by Pitta is recognized by thirst, clouding of consciousness, fever, oozing, burning, ulceration and corrosion, and by a foul, putrid discharge."
       },
       {
         "type": "verse",
@@ -9100,7 +9422,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "बहुपिच्छो गुरुः स्निग्धः स्तिमितो मन्दवेदनः पाण्डुवर्णोऽल्पसंक्लेदश्चिरपाकी कफव्रणः",
         "iast": "bahupiccho guruḥ snigdhaḥ stimito mandavedanaḥ pāṇḍuvarṇo'lpasaṃkledaścirapākī kaphavraṇaḥ",
         "iast_ru": "бахупиччхо гурух̣ снигдхах̣ стимито мандаведанах̣ па̄н̣д̣уварн̣о'лпасам̣кледаш́чирапа̄кӣ капхавран̣ах̣",
-        "text": "Рана от Капхи — с обильной слизью, тяжёлая, маслянистая, вялая, с незначительной болью, бледного цвета, с малым мокнутием и длительным созреванием."
+        "text": "Рана от Капхи — с обильной слизью, тяжёлая, маслянистая, вялая, с незначительной болью, бледного цвета, с малым мокнутием и длительным созреванием.",
+        "text_en": "A wound from Kapha has copious mucus, is heavy, oily, sluggish, with slight pain, of a pale color, with little oozing and a prolonged maturation."
       },
       {
         "type": "verse",
@@ -9108,7 +9431,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रक्तो रक्तस्रुती रक्तात् द्वित्रिजः स्यत्तदन्वयैः त्वङ्मांसजः सुखे देशे तरुणस्यानुपद्र वः",
         "iast": "rakto raktasrutī raktāt dvitrijaḥ syattadanvayaiḥ tvaṅmāṃsajaḥ sukhe deśe taruṇasyānupadra vaḥ",
         "iast_ru": "ракто рактасрутӣ ракта̄т двитриджах̣ сйаттаданвайаих̣ тван̇ма̄м̣саджах̣ сукхе деш́е тарун̣асйа̄нупадра вах̣",
-        "text": "Рана от загрязнённой крови — красного цвета, с кровянистым отделяемым. Рана от двух или трёх дош распознаётся по соответствующим признакам. Рана, расположенная на коже и в мышцах, в благоприятном месте, у молодого пациента, без осложнений —"
+        "text": "Рана от загрязнённой крови — красного цвета, с кровянистым отделяемым. Рана от двух или трёх дош распознаётся по соответствующим признакам. Рана, расположенная на коже и в мышцах, в благоприятном месте, у молодого пациента, без осложнений —",
+        "text_en": "A wound from contaminated blood is red in color, with a bloody discharge. A wound from two or three doshas is recognized by the corresponding signs. A wound located in the skin and muscles, in a favorable site, in a young patient, without complications —"
       },
       {
         "type": "verse",
@@ -9116,7 +9440,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "धीमतोऽभिनवः काले सुखे साध्वः सुखं व्रणः गुणैरन्यतमैर्हीनस्ततः कृच्छ्रो ब्रणः स्मृतः",
         "iast": "dhīmato'bhinavaḥ kāle sukhe sādhvaḥ sukhaṃ vraṇaḥ guṇairanyatamairhīnastataḥ kṛcchro braṇaḥ smṛtaḥ",
         "iast_ru": "дхӣмато'бхинавах̣ ка̄ле сукхе са̄дхвах̣ сукхам̣ вран̣ах̣ гун̣аиранйатамаирхӣнастатах̣ кр̣ччхро бран̣ах̣ смр̣тах̣",
-        "text": "— у разумного больного, свежая, леченная своевременно, в благоприятный сезон, правильно обработанная — такая рана легко излечима. Рана, лишённая того или иного из этих достоинств, считается трудноизлечимой."
+        "text": "— у разумного больного, свежая, леченная своевременно, в благоприятный сезон, правильно обработанная — такая рана легко излечима. Рана, лишённая того или иного из этих достоинств, считается трудноизлечимой.",
+        "text_en": "— in a sensible patient, fresh, treated promptly, in a favorable season, properly managed — such a wound is easily curable. A wound lacking one or another of these favorable qualities is considered difficult to cure."
       },
       {
         "type": "verse",
@@ -9124,7 +9449,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सर्वैर्विहीनो विज्ञेयस्त्वसाध्यो भूर्युपद्र वः पूतिः पूयातिदुष्टासृक्स्राव्युत्सङ्गो चिरस्थितिः",
         "iast": "sarvairvihīno vijñeyastvasādhyo bhūryupadra vaḥ pūtiḥ pūyātiduṣṭāsṛksrāvyutsaṅgo cirasthitiḥ",
         "iast_ru": "сарваирвихӣно виджн̃ейастваса̄дхйо бхӯрйупадра вах̣ пӯтих̣ пӯйа̄тидуш̣т̣а̄ср̣ксра̄вйутсан̇го чирастхитих̣",
-        "text": "Лишённая всех благоприятных качеств, со множеством осложнений — признаётся неизлечимой. Зловоние, обильный гнойно-кровянистый поток, застой отделяемого и длительное существование —"
+        "text": "Лишённая всех благоприятных качеств, со множеством осложнений — признаётся неизлечимой. Зловоние, обильный гнойно-кровянистый поток, застой отделяемого и длительное существование —",
+        "text_en": "One lacking all the favorable qualities, with many complications, is recognized as incurable. Foul odor, an abundant flow of pus and blood, stagnation of the discharge, and prolonged persistence —"
       },
       {
         "type": "verse",
@@ -9132,7 +9458,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दुष्टो व्रणोऽतिगन्धादिः शुद्धलिङ्गविपर्ययः जिह्वातलाभोऽतिमृदुः श्लक्ष्णः स्निग्धोऽल्पवेदनः",
         "iast": "duṣṭo vraṇo'tigandhādiḥ śuddhaliṅgaviparyayaḥ jihvātalābho'timṛduḥ ślakṣṇaḥ snigdho'lpavedanaḥ",
         "iast_ru": "душ̣т̣о вран̣о'тигандха̄дих̣ ш́уддхалин̇гавипарйайах̣ джихва̄тала̄бхо'тимр̣дух̣ ш́лакш̣н̣ах̣ снигдхо'лпаведанах̣",
-        "text": "— таковы признаки загрязнённой (душта) раны. Чистая (шуддха) рана имеет противоположные признаки: гладкая, подобная языку, крайне мягкая, ровная, маслянистая, с незначительной болью."
+        "text": "— таковы признаки загрязнённой (душта) раны. Чистая (шуддха) рана имеет противоположные признаки: гладкая, подобная языку, крайне мягкая, ровная, маслянистая, с незначительной болью.",
+        "text_en": "— these are the signs of a contaminated (dushta) wound. A clean (shuddha) wound has the opposite signs: smooth, resembling a tongue, extremely soft, even, oily, with slight pain."
       },
       {
         "type": "verse",
@@ -9140,7 +9467,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सुव्यवस्थो निरास्रावः शुद्धो व्रण इति स्मृतः कपोतवर्णप्रतिमा यस्यान्ताः क्लेदवर्जिताः",
         "iast": "suvyavastho nirāsrāvaḥ śuddho vraṇa iti smṛtaḥ kapotavarṇapratimā yasyāntāḥ kledavarjitāḥ",
         "iast_ru": "сувйавастхо нира̄сра̄вах̣ ш́уддхо вран̣а ити смр̣тах̣ капотаварн̣апратима̄ йасйа̄нта̄х̣ кледаварджита̄х̣",
-        "text": "Правильно расположенная, без отделяемого — такая рана считается чистой (шуддха). Края её подобны окраске голубиного оперения, лишены мокнутия."
+        "text": "Правильно расположенная, без отделяемого — такая рана считается чистой (шуддха). Края её подобны окраске голубиного оперения, лишены мокнутия.",
+        "text_en": "Properly situated, without discharge — such a wound is considered clean (shuddha). Its edges resemble the coloring of a pigeon's plumage and are free of oozing."
       },
       {
         "type": "verse",
@@ -9148,7 +9476,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्थिराश्च पिडकावन्तो रोहतीति तमादिशेत् रुढवर्त्मानमग्रन्थिमशूनमरुजं व्रणम्",
         "iast": "sthirāśca piḍakāvanto rohatīti tamādiśet ruḍhavartmānamagranthimaśūnamarujaṃ vraṇam",
         "iast_ru": "стхира̄ш́ча пид̣ака̄ванто рохатӣти тама̄диш́ет руд̣хавартма̄намагрантхимаш́ӯнамаруджам̣ вран̣ам",
-        "text": "Плотные, с мелкими грануляциями — о такой ране говорят: «Заживает». Рану с закрытым краем, без уплотнений, без отёка, без боли,"
+        "text": "Плотные, с мелкими грануляциями — о такой ране говорят: «Заживает». Рану с закрытым краем, без уплотнений, без отёка, без боли,",
+        "text_en": "Dense, with fine granulations — of such a wound it is said: \"It is healing.\" A wound with a closed edge, without indurations, without swelling, without pain,"
       },
       {
         "type": "verse",
@@ -9156,7 +9485,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "त्वक्सवर्णं समतलं सम्यग्रूढं विनिर्दिशेत् कुष्ठिनां विषयुष्टानां शोषिणां मधुमेहिनाम्",
         "iast": "tvaksavarṇaṃ samatalaṃ samyagrūḍhaṃ vinirdiśet kuṣṭhināṃ viṣayuṣṭānāṃ śoṣiṇāṃ madhumehinām",
         "iast_ru": "тваксаварн̣ам̣ саматалам̣ самйагрӯд̣хам̣ винирдиш́ет куш̣т̣хина̄м̣ виш̣айуш̣т̣а̄на̄м̣ ш́ош̣ин̣а̄м̣ мадхумехина̄м",
-        "text": "Одного цвета с окружающей кожей, ровную, гладкую — следует считать полностью зажившей (рудха). У страдающих кожными болезнями (куштха), отравленных ядом, истощённых (шошинов) и больных сахарным мочеизнурением (мадхумеха)"
+        "text": "Одного цвета с окружающей кожей, ровную, гладкую — следует считать полностью зажившей (рудха). У страдающих кожными болезнями (куштха), отравленных ядом, истощённых (шошинов) и больных сахарным мочеизнурением (мадхумеха)",
+        "text_en": "of the same color as the surrounding skin, even, smooth — should be considered fully healed (rudha). In those suffering from skin diseases (kushtha), poisoned by venom, wasted (shoshins), and afflicted with diabetes (madhumeha)"
       },
       {
         "type": "verse",
@@ -9164,7 +9494,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्रणाः कृच्छ्रेण सिध्यन्ति येषां चापि व्रणे व्रणाः वसां मेदोऽथ मज्जानं मस्तुलुङ्गं च यः स्रवेत्",
         "iast": "vraṇāḥ kṛcchreṇa sidhyanti yeṣāṃ cāpi vraṇe vraṇāḥ vasāṃ medo'tha majjānaṃ mastuluṅgaṃ ca yaḥ sravet",
         "iast_ru": "вран̣а̄х̣ кр̣ччхрен̣а сидхйанти йеш̣а̄м̣ ча̄пи вран̣е вран̣а̄х̣ васа̄м̣ медо'тха маджджа̄нам̣ мастулун̇гам̣ ча йах̣ сравет",
-        "text": "Раны заживают с трудом. Также трудноизлечимы раны, на которых возникают новые раны. Рана, из которой истекают жир (васа), сало (медас), костный мозг (маджжа) и мозговое вещество (мастулунга),"
+        "text": "Раны заживают с трудом. Также трудноизлечимы раны, на которых возникают новые раны. Рана, из которой истекают жир (васа), сало (медас), костный мозг (маджжа) и мозговое вещество (мастулунга),",
+        "text_en": "wounds heal with difficulty. Also difficult to cure are wounds on which new wounds arise. A wound from which fat (vasa), tallow (medas), bone marrow (majja), and brain substance (mastulunga) flow out —"
       },
       {
         "type": "verse",
@@ -9172,7 +9503,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आगन्तुजो व्रणः सिद्ध्येन्न सिद्ध्येद्दोषसंभवः मद्यागुर्वाज्यसुमनः पद्मचन्दनचम्पकैः",
         "iast": "āgantujo vraṇaḥ siddhyenna siddhyeddoṣasaṃbhavaḥ madyāgurvājyasumanaḥ padmacandanacampakaiḥ",
         "iast_ru": "а̄гантуджо вран̣ах̣ сиддхйенна сиддхйеддош̣асам̣бхавах̣ мадйа̄гурва̄джйасуманах̣ падмачанданачампакаих̣",
-        "text": "— если она вызвана внешней причиной — может излечиться; если порождена дошами — не излечится. Раны умирающих, пахнущие вином, агуру, топлёным маслом, жасмином, лотосом, сандалом и чампакой,"
+        "text": "— если она вызвана внешней причиной — может излечиться; если порождена дошами — не излечится. Раны умирающих, пахнущие вином, агуру, топлёным маслом, жасмином, лотосом, сандалом и чампакой,",
+        "text_en": "— if caused by an external agent, may be cured; if produced by the doshas, it will not be cured. The wounds of the dying, smelling of wine, agaru, clarified butter, jasmine, lotus, sandalwood, and champaka,"
       },
       {
         "type": "verse",
@@ -9180,7 +9512,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सगन्धा दिव्यगन्धाश्च मुमूर्षूणां व्रणाः स्मृताः ये च मर्मस्वसंभूता भवन्त्यत्यर्थवेदनाः",
         "iast": "sagandhā divyagandhāśca mumūrṣūṇāṃ vraṇāḥ smṛtāḥ ye ca marmasvasaṃbhūtā bhavantyatyarthavedanāḥ",
         "iast_ru": "сагандха̄ дивйагандха̄ш́ча мумӯрш̣ӯн̣а̄м̣ вран̣а̄х̣ смр̣та̄х̣ йе ча мармасвасам̣бхӯта̄ бхавантйатйартхаведана̄х̣",
-        "text": "— благоуханные и с божественным ароматом — считаются ранами умирающих (мумуршу). Также неизлечимы раны, возникшие на жизненно важных точках (марма), сопровождающиеся чрезвычайно сильной болью."
+        "text": "— благоуханные и с божественным ароматом — считаются ранами умирающих (мумуршу). Также неизлечимы раны, возникшие на жизненно важных точках (марма), сопровождающиеся чрезвычайно сильной болью.",
+        "text_en": "— fragrant and possessing a divine aroma — are considered the wounds of the dying (mumurshu). Also incurable are wounds arising at vital points (marmas), accompanied by extremely intense pain."
       },
       {
         "type": "verse",
@@ -9188,7 +9521,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दह्यन्ते चान्तरत्यर्थं बहिः शीताश्च ये व्रणाः दह्यन्ते बहिरत्यर्थं भवन्त्यन्तश्च शीतलाः",
         "iast": "dahyante cāntaratyarthaṃ bahiḥ śītāśca ye vraṇāḥ dahyante bahiratyarthaṃ bhavantyantaśca śītalāḥ",
         "iast_ru": "дахйанте ча̄нтаратйартхам̣ бахих̣ ш́ӣта̄ш́ча йе вран̣а̄х̣ дахйанте бахиратйартхам̣ бхавантйанташ́ча ш́ӣтала̄х̣",
-        "text": "Раны, которые внутри горят невыносимо, а снаружи холодны, и раны, которые снаружи горят невыносимо, а внутри остаются холодными, —"
+        "text": "Раны, которые внутри горят невыносимо, а снаружи холодны, и раны, которые снаружи горят невыносимо, а внутри остаются холодными, —",
+        "text_en": "Wounds that burn unbearably within while remaining cold on the outside, and wounds that burn unbearably on the outside while remaining cold within,"
       },
       {
         "type": "comment",
@@ -9201,7 +9535,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्राणमांसक्षयश्वासकासा रोचकपीडिताः प्रवृद्धपूयरुधिरा व्रणा येषां च मर्मसु",
         "iast": "prāṇamāṃsakṣayaśvāsakāsā rocakapīḍitāḥ pravṛddhapūyarudhirā vraṇā yeṣāṃ ca marmasu",
         "iast_ru": "пра̄н̣ама̄м̣сакш̣айаш́ва̄сака̄са̄ рочакапӣд̣ита̄х̣ правр̣ддхапӯйарудхира̄ вран̣а̄ йеш̣а̄м̣ ча мармасу",
-        "text": "А также раны, сопровождающиеся истощением жизненной силы и мышечной ткани, одышкой, кашлем, потерей аппетита, с обильным гноем и кровью, расположенные на жизненно важных точках (марма), —"
+        "text": "А также раны, сопровождающиеся истощением жизненной силы и мышечной ткани, одышкой, кашлем, потерей аппетита, с обильным гноем и кровью, расположенные на жизненно важных точках (марма), —",
+        "text_en": "and also wounds accompanied by wasting of vital force and muscle tissue, dyspnea, cough, loss of appetite, copious pus and blood, and located at vital points (marmas),"
       },
       {
         "type": "verse",
@@ -9209,7 +9544,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्रियाभिः सम्यगारब्धा न सिध्यन्ति च ये व्रणाः वर्जयेदपि तान् वैद्यः संरक्षन्नात्मनो यशः",
         "iast": "kriyābhiḥ samyagārabdhā na sidhyanti ca ye vraṇāḥ varjayedapi tān vaidyaḥ saṃrakṣannātmano yaśaḥ",
         "iast_ru": "крийа̄бхих̣ самйага̄рабдха̄ на сидхйанти ча йе вран̣а̄х̣ варджайедапи та̄н ваидйах̣ сам̣ракш̣анна̄тмано йаш́ах̣",
-        "text": "Раны, которые при правильно начатом лечении не заживают, — таких больных врач должен оставить, оберегая собственную репутацию."
+        "text": "Раны, которые при правильно начатом лечении не заживают, — таких больных врач должен оставить, оберегая собственную репутацию.",
+        "text_en": "wounds that fail to heal even with properly initiated treatment — such patients the physician should relinquish, in order to safeguard his own reputation."
       }
     ]
   },
@@ -9231,7 +9567,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ सद्योव्रणनिदानम् नानाधारमुखैः शस्त्रैर्नानास्थाननिपातितैः भवन्ति नानाकृतयो व्रणास्तांस्तान्निबोध मे",
         "iast": "atha sadyovraṇanidānam nānādhāramukhaiḥ śastrairnānāsthānanipātitaiḥ bhavanti nānākṛtayo vraṇāstāṃstānnibodha me",
         "iast_ru": "атха садйовран̣анида̄нам на̄на̄дха̄рамукхаих̣ ш́астраирна̄на̄стха̄нанипа̄титаих̣ бхаванти на̄на̄кр̣тайо вран̣а̄ста̄м̣ста̄ннибодха ме",
-        "text": "Далее — диагностика свежих ран (садьо-врана нидана). Различным оружием с различными формами лезвий, нанесённым в различные места, причиняются раны различной формы — узнай о них от меня."
+        "text": "Далее — диагностика свежих ран (садьо-врана нидана). Различным оружием с различными формами лезвий, нанесённым в различные места, причиняются раны различной формы — узнай о них от меня.",
+        "text_en": "Next, the diagnosis of fresh wounds (sadyo-vrana-nidana). By different weapons with different blade shapes, inflicted on different parts of the body, wounds of different shapes are caused — learn of them from me."
       },
       {
         "type": "verse",
@@ -9239,7 +9576,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "छिन्नं भिन्नं तथा विद्धं क्षतं पिच्चितमेव च घृष्टमाहुस्तथा षष्ठं तेषां वक्ष्यामि लक्षणम्",
         "iast": "chinnaṃ bhinnaṃ tathā viddhaṃ kṣataṃ piccitameva ca ghṛṣṭamāhustathā ṣaṣṭhaṃ teṣāṃ vakṣyāmi lakṣaṇam",
         "iast_ru": "чхиннам̣ бхиннам̣ татха̄ виддхам̣ кш̣атам̣ пиччитамева ча гхр̣ш̣т̣ама̄хустатха̄ ш̣аш̣т̣хам̣ теш̣а̄м̣ вакш̣йа̄ми лакш̣ан̣ам",
-        "text": "Отрубленная (чхинна), проникающая (бхинна), колотая (виддха), ушибленная (кшата), размозжённая (пиччита) и ссадина (гхришта) — шестой вид. Изложу их признаки."
+        "text": "Отрубленная (чхинна), проникающая (бхинна), колотая (виддха), ушибленная (кшата), размозжённая (пиччита) и ссадина (гхришта) — шестой вид. Изложу их признаки.",
+        "text_en": "Chhinna (severed), bhinna (penetrating), viddha (pierced/punctured), kshata (bruised/lacerated), pichchita (crushed), and ghrishta (abraded) — the sixth kind. I shall set forth their signs."
       },
       {
         "type": "verse",
@@ -9247,7 +9585,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तिर्यक् छिन्न ॠजुर्वाऽपि यो व्रणस्त्वायतो भवेत् गात्रस्य पातनं तच्च छिन्नमित्यभिधीयते",
         "iast": "tiryak chinna ṝjurvā'pi yo vraṇastvāyato bhavet gātrasya pātanaṃ tacca chinnamityabhidhīyate",
         "iast_ru": "тирйак чхинна р̣̄джурва̄'пи йо вран̣аства̄йато бхавет га̄трасйа па̄танам̣ тачча чхиннамитйабхидхӣйате",
-        "text": "Рана, нанесённая поперечно или прямо, продолговатой формы, с отсечением части тела, — именуется чхинна (отрубленная)."
+        "text": "Рана, нанесённая поперечно или прямо, продолговатой формы, с отсечением части тела, — именуется чхинна (отрубленная).",
+        "text_en": "A wound inflicted transversely or straight, of elongated shape, with severance of a part of the body, is called chhinna (severed)."
       },
       {
         "type": "verse",
@@ -9255,7 +9594,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शक्तिर्दन्तेषुखड्गाग्रविषाणैराशयो हतः यत्किंचित् प्रस्रवेत्तद्धि भिन्नलक्षणमुच्यते",
         "iast": "śaktirdanteṣukhaḍgāgraviṣāṇairāśayo hataḥ yatkiṃcit prasravettaddhi bhinnalakṣaṇamucyate",
         "iast_ru": "ш́актирдантеш̣укхад̣га̄гравиш̣а̄н̣аира̄ш́айо хатах̣ йатким̣чит прасраветтаддхи бхинналакш̣ан̣амучйате",
-        "text": "Когда полость тела поражена копьём, клыком, остриём меча или рогом и из неё истекает что-либо содержимое полости, — это бхинна (проникающая рана)."
+        "text": "Когда полость тела поражена копьём, клыком, остриём меча или рогом и из неё истекает что-либо содержимое полости, — это бхинна (проникающая рана).",
+        "text_en": "When a body cavity is struck by a spear, a tusk, the point of a sword, or a horn, and some of the cavity's contents flow out from it, this is bhinna (a penetrating wound)."
       },
       {
         "type": "verse",
@@ -9263,7 +9603,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्थानान्यामाग्निपक्वानां मूत्रस्य रुधिरस्य च हृदुण्डुकः फुफ्फुसश्च कोष्ठ इत्यभिधीयते",
         "iast": "sthānānyāmāgnipakvānāṃ mūtrasya rudhirasya ca hṛduṇḍukaḥ phuphphusaśca koṣṭha ityabhidhīyate",
         "iast_ru": "стха̄на̄нйа̄ма̄гнипаква̄на̄м̣ мӯтрасйа рудхирасйа ча хр̣дун̣д̣уках̣ пхупхпхусаш́ча кош̣т̣ха итйабхидхӣйате",
-        "text": "Вместилищами непереваренной и переваренной пищи, мочи и крови являются сердце, двенадцатиперстная кишка (ундука), лёгкие (пхуппхуса) — всё это именуется коштхой (полостью тела)."
+        "text": "Вместилищами непереваренной и переваренной пищи, мочи и крови являются сердце, двенадцатиперстная кишка (ундука), лёгкие (пхуппхуса) — всё это именуется коштхой (полостью тела).",
+        "text_en": "The receptacles of undigested and digested food, of urine, and of blood are the heart, the duodenum (unduka), and the lungs (phupphusa) — all these are called the koshtha (body cavity)."
       },
       {
         "type": "verse",
@@ -9271,7 +9612,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तस्मिन् भिन्ने रक्तपूर्णे ज्वरो दाहश्च जायते मूत्रमार्गगुदास्येभ्यो रक्तं घ्राणाच्च गच्छति",
         "iast": "tasmin bhinne raktapūrṇe jvaro dāhaśca jāyate mūtramārgagudāsyebhyo raktaṃ ghrāṇācca gacchati",
         "iast_ru": "тасмин бхинне рактапӯрн̣е джваро да̄хаш́ча джа̄йате мӯтрама̄ргагуда̄сйебхйо рактам̣ гхра̄н̣а̄чча гаччхати",
-        "text": "При ранении переполненной кровью полости возникают лихорадка и жжение; кровь истекает через мочевые пути, задний проход, рот и нос."
+        "text": "При ранении переполненной кровью полости возникают лихорадка и жжение; кровь истекает через мочевые пути, задний проход, рот и нос.",
+        "text_en": "When a cavity engorged with blood is wounded, fever and burning arise; blood flows out through the urinary passages, the anus, the mouth, and the nose."
       },
       {
         "type": "verse",
@@ -9279,7 +9621,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मूर्च्छाश्वासस्तृषाऽध्मानमभक्तच्छन्द एव च विण्मूत्रवातसङ्गश्च स्वेदास्रावोऽक्षिरक्तता",
         "iast": "mūrcchāśvāsastṛṣā'dhmānamabhaktacchanda eva ca viṇmūtravātasaṅgaśca svedāsrāvo'kṣiraktatā",
         "iast_ru": "мӯрччха̄ш́ва̄састр̣ш̣а̄'дхма̄намабхактаччханда ева ча вин̣мӯтрава̄тасан̇гаш́ча сведа̄сра̄во'кш̣ирактата̄",
-        "text": "Обморок, одышка, жажда, вздутие, отвращение к пище, задержка кала, мочи и газов, потливость с кровянистым потом и покраснение глаз,"
+        "text": "Обморок, одышка, жажда, вздутие, отвращение к пище, задержка кала, мочи и газов, потливость с кровянистым потом и покраснение глаз,",
+        "text_en": "Fainting, dyspnea, thirst, distension, aversion to food, retention of stool, urine, and gas, sweating with bloody sweat, and redness of the eyes,"
       },
       {
         "type": "comment",
@@ -9292,7 +9635,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "लोहगन्धित्वमास्यस्य गात्रदौर्गन्ध्यमेव च हृच्छूलं पार्श्वयोश्चापि विशेषं चात्र मे शृणु",
         "iast": "lohagandhitvamāsyasya gātradaurgandhyameva ca hṛcchūlaṃ pārśvayoścāpi viśeṣaṃ cātra me śṛṇu",
         "iast_ru": "лохагандхитвама̄сйасйа га̄традаургандхйамева ча хр̣ччхӯлам̣ па̄рш́вайош́ча̄пи виш́еш̣ам̣ ча̄тра ме ш́р̣н̣у",
-        "text": "Металлический привкус во рту, зловоние тела, боль в области сердца и в боках — выслушай и частные отличия."
+        "text": "Металлический привкус во рту, зловоние тела, боль в области сердца и в боках — выслушай и частные отличия.",
+        "text_en": "a metallic taste in the mouth, foulness of the body's odor, pain in the region of the heart and in the flanks — hear now also the particular distinctions."
       },
       {
         "type": "comment",
@@ -9305,7 +9649,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आमाशयस्थे रुधिरे रुधिरं छर्दयत्यपि आध्मानमतिमात्रं च शूलं च भृशदारुणम्",
         "iast": "āmāśayasthe rudhire rudhiraṃ chardayatyapi ādhmānamatimātraṃ ca śūlaṃ ca bhṛśadāruṇam",
         "iast_ru": "а̄ма̄ш́айастхе рудхире рудхирам̣ чхардайатйапи а̄дхма̄наматима̄трам̣ ча ш́ӯлам̣ ча бхр̣ш́ада̄рун̣ам",
-        "text": "Когда кровь скапливается в верхнем отделе пищеварительного тракта (амашая), больной извергает кровь рвотой; также наблюдаются чрезмерное вздутие и крайне мучительная колика."
+        "text": "Когда кровь скапливается в верхнем отделе пищеварительного тракта (амашая), больной извергает кровь рвотой; также наблюдаются чрезмерное вздутие и крайне мучительная колика.",
+        "text_en": "When blood collects in the upper part of the digestive tract (amashaya), the patient vomits blood; excessive distension and extremely agonizing colic are also observed."
       },
       {
         "type": "comment",
@@ -9318,7 +9663,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पक्वाशयगते चापि रुजा गौरवमेव च अधः काये विशेषेण शीतता च भवेदिह",
         "iast": "pakvāśayagate cāpi rujā gauravameva ca adhaḥ kāye viśeṣeṇa śītatā ca bhavediha",
         "iast_ru": "паква̄ш́айагате ча̄пи руджа̄ гауравамева ча адхах̣ ка̄йе виш́еш̣ен̣а ш́ӣтата̄ ча бхаведиха",
-        "text": "При скоплении крови в нижнем отделе (паквашая) — боль и тяжесть, особенно в нижней части тела, а также похолодание конечностей."
+        "text": "При скоплении крови в нижнем отделе (паквашая) — боль и тяжесть, особенно в нижней части тела, а также похолодание конечностей.",
+        "text_en": "When blood collects in the lower part (pakvashaya), there is pain and heaviness, especially in the lower part of the body, and also coldness of the extremities."
       },
       {
         "type": "verse",
@@ -9326,7 +9672,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सूक्ष्मास्यशल्याभिहतं यदङ्गं त्वाशयं विना उत्तुण्डितं निर्गतं वा तद्विद्धमिति निर्दिशेत्",
         "iast": "sūkṣmāsyaśalyābhihataṃ yadaṅgaṃ tvāśayaṃ vinā uttuṇḍitaṃ nirgataṃ vā tadviddhamiti nirdiśet",
         "iast_ru": "сӯкш̣ма̄сйаш́алйа̄бхихатам̣ йадан̇гам̣ тва̄ш́айам̣ вина̄ уттун̣д̣итам̣ ниргатам̣ ва̄ тадвиддхамити нирдиш́ет",
-        "text": "Часть тела, поражённая тонким остроконечным инородным телом (шальей), но без повреждения полости, — с торчащим или вышедшим наконечником — определяется как виддха (колотая рана)."
+        "text": "Часть тела, поражённая тонким остроконечным инородным телом (шальей), но без повреждения полости, — с торчащим или вышедшим наконечником — определяется как виддха (колотая рана).",
+        "text_en": "A part of the body struck by a thin, sharp-pointed foreign body (shalya), but without injury to a cavity — with the point protruding or having come out — is determined to be viddha (a punctured wound)."
       },
       {
         "type": "verse",
@@ -9334,7 +9681,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नातिच्छिन्नं नातिभिन्नमुभयोर्लक्षणान्वितम् विषमं व्रणमङ्गे यत्तत् क्षतं त्वभिधीयते",
         "iast": "nāticchinnaṃ nātibhinnamubhayorlakṣaṇānvitam viṣamaṃ vraṇamaṅge yattat kṣataṃ tvabhidhīyate",
         "iast_ru": "на̄тиччхиннам̣ на̄тибхиннамубхайорлакш̣ан̣а̄нвитам виш̣амам̣ вран̣аман̇ге йаттат кш̣атам̣ твабхидхӣйате",
-        "text": "Рана, не полностью отрубленная и не полностью проникающая, несущая признаки обоих видов, неровная — называется кшата (ушибленная рана)."
+        "text": "Рана, не полностью отрубленная и не полностью проникающая, несущая признаки обоих видов, неровная — называется кшата (ушибленная рана).",
+        "text_en": "A wound that is neither fully severed nor fully penetrating, bearing the signs of both kinds, and uneven, is called kshata (a bruised/lacerated wound)."
       },
       {
         "type": "comment",
@@ -9347,7 +9695,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्रहारपीडनाभ्यां तु यदङ्गं पृथुतां गतम् सास्थि तत् पिच्चितं विद्यान्मज्जरक्तपरिप्लुतम्",
         "iast": "prahārapīḍanābhyāṃ tu yadaṅgaṃ pṛthutāṃ gatam sāsthi tat piccitaṃ vidyānmajjaraktapariplutam",
         "iast_ru": "праха̄рапӣд̣ана̄бхйа̄м̣ ту йадан̇гам̣ пр̣тхута̄м̣ гатам са̄стхи тат пиччитам̣ видйа̄нмаджджарактапариплутам",
-        "text": "Часть тела, расплющенная от удара или сдавления, с повреждением кости, залитая костным мозгом и кровью, — определяется как пиччита (размозжённая рана)."
+        "text": "Часть тела, расплющенная от удара или сдавления, с повреждением кости, залитая костным мозгом и кровью, — определяется как пиччита (размозжённая рана).",
+        "text_en": "A part of the body flattened by a blow or by compression, with damage to the bone, suffused with marrow and blood, is determined to be pichchita (a crushed wound)."
       },
       {
         "type": "comment",
@@ -9360,7 +9709,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "घर्षणादभिघाताद्वा यदङ्गं विगतत्वचम् उषास्रावान्वितं तच्च घृष्टमित्यभिधीयते",
         "iast": "gharṣaṇādabhighātādvā yadaṅgaṃ vigatatvacam uṣāsrāvānvitaṃ tacca ghṛṣṭamityabhidhīyate",
         "iast_ru": "гхарш̣ан̣а̄дабхигха̄та̄два̄ йадан̇гам̣ вигататвачам уш̣а̄сра̄ва̄нвитам̣ тачча гхр̣ш̣т̣амитйабхидхӣйате",
-        "text": "Часть тела, лишённая кожи от трения или удара, с жаром и кровянистым отделяемым, — именуется гхришта (ссадина)."
+        "text": "Часть тела, лишённая кожи от трения или удара, с жаром и кровянистым отделяемым, — именуется гхришта (ссадина).",
+        "text_en": "A part of the body stripped of skin by friction or a blow, with heat and a bloody discharge, is called ghrishta (an abrasion)."
       },
       {
         "type": "verse",
@@ -9368,7 +9718,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्यावंसशोथं पिडकाचितं चमुहुर्मुहुः शोणितवाहिनं च मृदूद्गतं बुद्वुदतुल्यमांसं व्रणं सशल्यं सरुजं वदन्ति",
         "iast": "śyāvaṃsaśothaṃ piḍakācitaṃ camuhurmuhuḥ śoṇitavāhinaṃ ca mṛdūdgataṃ budvudatulyamāṃsaṃ vraṇaṃ saśalyaṃ sarujaṃ vadanti",
         "iast_ru": "ш́йа̄вам̣саш́отхам̣ пид̣ака̄читам̣ чамухурмухух̣ ш́он̣итава̄хинам̣ ча мр̣дӯдгатам̣ будвудатулйама̄м̣сам̣ вран̣ам̣ саш́алйам̣ саруджам̣ ваданти",
-        "text": "Рану с инородным телом (шалья) распознают так: тёмно-бурая, с отёком, усеянная пузырьками, непрерывно кровоточащая, мягко приподнятая, с мясистыми разрастаниями, подобными пузырям, и болезненная."
+        "text": "Рану с инородным телом (шалья) распознают так: тёмно-бурая, с отёком, усеянная пузырьками, непрерывно кровоточащая, мягко приподнятая, с мясистыми разрастаниями, подобными пузырям, и болезненная.",
+        "text_en": "A wound with a foreign body (shalya) is recognized as follows: dark-brown, with swelling, studded with small vesicles, continually bleeding, softly raised, with fleshy outgrowths resembling blisters, and painful."
       },
       {
         "type": "verse",
@@ -9376,7 +9727,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "त्वचोऽतीत्य सिरादीनि भित्त्वा वा परिहृत्य वा कोष्ठे प्रतिष्ठितं शल्यं कुर्यादुक्तानुपद्र वान्",
         "iast": "tvaco'tītya sirādīni bhittvā vā parihṛtya vā koṣṭhe pratiṣṭhitaṃ śalyaṃ kuryāduktānupadra vān",
         "iast_ru": "твачо'тӣтйа сира̄дӣни бхиттва̄ ва̄ парихр̣тйа ва̄ кош̣т̣хе пратиш̣т̣хитам̣ ш́алйам̣ курйа̄дукта̄нупадра ва̄н",
-        "text": "Инородное тело, пройдя сквозь кожу, рассекая или минуя сосуды и прочие ткани, застревает в полости тела и вызывает вышеописанные осложнения."
+        "text": "Инородное тело, пройдя сквозь кожу, рассекая или минуя сосуды и прочие ткани, застревает в полости тела и вызывает вышеописанные осложнения.",
+        "text_en": "A foreign body, having passed through the skin, cutting through or passing by the vessels and other tissues, becomes lodged in a body cavity and causes the complications described above."
       },
       {
         "type": "verse",
@@ -9384,7 +9736,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तत्रान्तर्लोहितं पाण्डुशीतपादकराननम् शीतोच्छासं रक्तनेत्रमानद्धं च विवर्जयेत्",
         "iast": "tatrāntarlohitaṃ pāṇḍuśītapādakarānanam śītocchāsaṃ raktanetramānaddhaṃ ca vivarjayet",
         "iast_ru": "татра̄нтарлохитам̣ па̄н̣д̣уш́ӣтапа̄дакара̄нанам ш́ӣточчха̄сам̣ рактанетрама̄наддхам̣ ча виварджайет",
-        "text": "При этом рану с внутренним кровоизлиянием, когда больной бледный, обесцвеченный, с холодными стопами, руками и лицом, с холодным дыханием, красными глазами и вздутием, — следует считать неизлечимой."
+        "text": "При этом рану с внутренним кровоизлиянием, когда больной бледный, обесцвеченный, с холодными стопами, руками и лицом, с холодным дыханием, красными глазами и вздутием, — следует считать неизлечимой.",
+        "text_en": "In this case, a wound with internal hemorrhage, when the patient is pale, discolored, with cold feet, hands, and face, cold breath, red eyes, and distension, should be considered incurable."
       },
       {
         "type": "comment",
@@ -9397,7 +9750,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भ्रमः प्रलापः पतनं प्रमोहो विचेष्टनं ग्लानिरथोष्णता च स्नस्ताङ्गता मूर्च्छनमूर्ध्ववातस्तीव्रा रुजो वातकृताश्च तास्ताः",
         "iast": "bhramaḥ pralāpaḥ patanaṃ pramoho viceṣṭanaṃ glānirathoṣṇatā ca snastāṅgatā mūrcchanamūrdhvavātastīvrā rujo vātakṛtāśca tāstāḥ",
         "iast_ru": "бхрамах̣ прала̄пах̣ патанам̣ прамохо вичеш̣т̣анам̣ гла̄ниратхош̣н̣ата̄ ча снаста̄н̇гата̄ мӯрччханамӯрдхвава̄тастӣвра̄ руджо ва̄такр̣та̄ш́ча та̄ста̄х̣",
-        "text": "Головокружение, бред, падение, потеря сознания, судороги, вялость, жар, оцепенение конечностей, обморок, отхождение газов вверх и сильные боли, вызванные Ватой, — таковы дурные признаки."
+        "text": "Головокружение, бред, падение, потеря сознания, судороги, вялость, жар, оцепенение конечностей, обморок, отхождение газов вверх и сильные боли, вызванные Ватой, — таковы дурные признаки.",
+        "text_en": "Dizziness, delirium, falling, loss of consciousness, convulsions, lethargy, heat, numbness of the limbs, fainting, an upward passage of gas, and severe pains caused by Vata — these are unfavorable signs."
       },
       {
         "type": "verse",
@@ -9405,7 +9759,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मांसोदकाभं रुधिरं च गच्छेत् सर्वेन्द्रि यार्थोपरमस्तथैव दशार्धसंख्येष्वथ विक्षतेषु सामान्यतो मर्मसु लिङ्गमुक्तम्",
         "iast": "māṃsodakābhaṃ rudhiraṃ ca gacchet sarvendri yārthoparamastathaiva daśārdhasaṃkhyeṣvatha vikṣateṣu sāmānyato marmasu liṅgamuktam",
         "iast_ru": "ма̄м̣содака̄бхам̣ рудхирам̣ ча гаччхет сарвендри йа̄ртхопарамастатхаива даш́а̄рдхасам̣кхйеш̣ватха викш̣атеш̣у са̄ма̄нйато мармасу лин̇гамуктам",
-        "text": "Кровь, подобная мясным помоям, истекающая из раны, прекращение деятельности всех органов чувств — таковы общие признаки ранений пятнадцати жизненно важных точек (марма)."
+        "text": "Кровь, подобная мясным помоям, истекающая из раны, прекращение деятельности всех органов чувств — таковы общие признаки ранений пятнадцати жизненно важных точек (марма).",
+        "text_en": "Blood resembling meat-washings flowing from the wound, and the cessation of the function of all the sense organs — these are the general signs of injuries to the fifteen vital points (marmas)."
       },
       {
         "type": "verse",
@@ -9413,7 +9768,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सुरेन्द्र गोपप्रतिमं प्रभूतं रक्तं स्रवेत्तत्क्षतजश्च वायुः करोति रोगान्विविधान्यथोक्तान् सिरासु विद्धास्वथ वा क्षतासु",
         "iast": "surendra gopapratimaṃ prabhūtaṃ raktaṃ sravettatkṣatajaśca vāyuḥ karoti rogānvividhānyathoktān sirāsu viddhāsvatha vā kṣatāsu",
         "iast_ru": "сурендра гопапратимам̣ прабхӯтам̣ рактам̣ сраветтаткш̣атаджаш́ча ва̄йух̣ кароти рога̄нвивидха̄нйатхокта̄н сира̄су виддха̄сватха ва̄ кш̣ата̄су",
-        "text": "Из повреждённых или рассечённых сосудов (сира) обильно истекает кровь, подобная окраске божьей коровки; а Вата, высвобождённая из раны, вызывает разнообразные заболевания, как было описано."
+        "text": "Из повреждённых или рассечённых сосудов (сира) обильно истекает кровь, подобная окраске божьей коровки; а Вата, высвобождённая из раны, вызывает разнообразные заболевания, как было описано.",
+        "text_en": "From damaged or severed vessels (siras), blood flows copiously, resembling in color a ladybird; and Vata, released from the wound, causes various diseases, as described above."
       },
       {
         "type": "verse",
@@ -9421,7 +9777,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कौब्ज्यं शरीरावयवावसादः क्रियास्वशक्तिस्तुमुला रुजश्च चिराद् व्रणो रोहति यस्य चापि तं स्नायुविद्धं पुरुषं व्यवस्येत्",
         "iast": "kaubjyaṃ śarīrāvayavāvasādaḥ kriyāsvaśaktistumulā rujaśca cirād vraṇo rohati yasya cāpi taṃ snāyuviddhaṃ puruṣaṃ vyavasyet",
         "iast_ru": "каубджйам̣ ш́арӣра̄вайава̄васа̄дах̣ крийа̄сваш́актистумула̄ руджаш́ча чира̄д вран̣о рохати йасйа ча̄пи там̣ сна̄йувиддхам̣ пуруш̣ам̣ вйавасйет",
-        "text": "Искривление, утрата функции части тела, неспособность к действию, сильные боли, а также медленное заживление раны — по этим признакам следует заключить, что у человека повреждено сухожилие (снаю)."
+        "text": "Искривление, утрата функции части тела, неспособность к действию, сильные боли, а также медленное заживление раны — по этим признакам следует заключить, что у человека повреждено сухожилие (снаю).",
+        "text_en": "Distortion, loss of function of a body part, inability to move it, severe pain, and also slow healing of the wound — from these signs it should be concluded that the person's tendon (snayu) is injured."
       },
       {
         "type": "verse",
@@ -9429,7 +9786,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शोथाभिवृद्धिस्तुमुला रुजश्च बलक्षयः सर्वत एव शोथः क्षतेषु सन्धिष्वचलाचलेषु स्यात् सर्वकर्मोपरमश्च लिङ्गम्",
         "iast": "śothābhivṛddhistumulā rujaśca balakṣayaḥ sarvata eva śothaḥ kṣateṣu sandhiṣvacalācaleṣu syāt sarvakarmoparamaśca liṅgam",
         "iast_ru": "ш́отха̄бхивр̣ддхистумула̄ руджаш́ча балакш̣айах̣ сарвата ева ш́отхах̣ кш̣атеш̣у сандхиш̣вачала̄чалеш̣у сйа̄т сарвакармопарамаш́ча лин̇гам",
-        "text": "Нарастание отёка, сильные боли, потеря сил и распространённый отёк повсюду — при ранениях подвижных и неподвижных суставов наступает полное прекращение всех функций — таков отличительный признак."
+        "text": "Нарастание отёка, сильные боли, потеря сил и распространённый отёк повсюду — при ранениях подвижных и неподвижных суставов наступает полное прекращение всех функций — таков отличительный признак.",
+        "text_en": "Increasing swelling, severe pain, loss of strength, and widespread swelling everywhere — with injuries to movable and immovable joints, a complete cessation of all functions occurs — this is the distinguishing sign."
       },
       {
         "type": "verse",
@@ -9437,7 +9795,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "घोरा रुजो यस्य निशादिनेषु सर्वास्ववस्थासु च नैति शान्तिम् भिषग्विपश्चिद्विदितार्थसूत्रस्तमस्थिविद्धं पुरुषं वयवस्येत्",
         "iast": "ghorā rujo yasya niśādineṣu sarvāsvavasthāsu ca naiti śāntim bhiṣagvipaścidviditārthasūtrastamasthividdhaṃ puruṣaṃ vayavasyet",
         "iast_ru": "гхора̄ руджо йасйа ниш́а̄динеш̣у сарва̄свавастха̄су ча наити ш́а̄нтим бхиш̣агвипаш́чидвидита̄ртхасӯтрастамастхивиддхам̣ пуруш̣ам̣ вайавасйет",
-        "text": "Мучительные боли, не стихающие ни днём ни ночью, ни в каком положении, — искусный и учёный врач должен определить такого человека как имеющего повреждение кости (астхи)."
+        "text": "Мучительные боли, не стихающие ни днём ни ночью, ни в каком положении, — искусный и учёный врач должен определить такого человека как имеющего повреждение кости (астхи).",
+        "text_en": "Agonizing pains that do not subside by day or by night, in any position — a skilled and learned physician should determine such a person as having an injury to the bone (asthi)."
       },
       {
         "type": "verse",
@@ -9445,7 +9804,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यथास्वमेतानि विभावयेच्च लिङ्गानि मर्मस्वभिताडितेषु पाण्डुर्विवर्णः स्पृशति न वेत्ति यो मांसमर्मण्यभिपीडितः स्यात्",
         "iast": "yathāsvametāni vibhāvayecca liṅgāni marmasvabhitāḍiteṣu pāṇḍurvivarṇaḥ spṛśati na vetti yo māṃsamarmaṇyabhipīḍitaḥ syāt",
         "iast_ru": "йатха̄свамета̄ни вибха̄вайечча лин̇га̄ни мармасвабхита̄д̣итеш̣у па̄н̣д̣урвиварн̣ах̣ спр̣ш́ати на ветти йо ма̄м̣самарман̣йабхипӣд̣итах̣ сйа̄т",
-        "text": "Эти признаки следует оценивать каждый по отдельности при ранениях жизненно важных точек (марма). Бледный, обесцвеченный, ощущающий прикосновение, но не распознающий его, — таков больной при поражении мышечной мармы."
+        "text": "Эти признаки следует оценивать каждый по отдельности при ранениях жизненно важных точек (марма). Бледный, обесцвеченный, ощущающий прикосновение, но не распознающий его, — таков больной при поражении мышечной мармы.",
+        "text_en": "These signs should be assessed each separately in injuries to vital points (marmas). Pale, discolored, feeling touch but not recognizing it — such is the patient in an injury to a fleshy marma."
       },
       {
         "type": "verse",
@@ -9453,7 +9813,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विसर्पः पक्षघातश्च सिरास्तम्भोऽपतानकः मोहोन्मादव्रणरुजो ज्वरस्तृष्णा हनुग्रहः",
         "iast": "visarpaḥ pakṣaghātaśca sirāstambho'patānakaḥ mohonmādavraṇarujo jvarastṛṣṇā hanugrahaḥ",
         "iast_ru": "висарпах̣ пакш̣агха̄таш́ча сира̄стамбхо'пата̄наках̣ мохонма̄давран̣аруджо джварастр̣ш̣н̣а̄ хануграхах̣",
-        "text": "Рожистое воспаление (висарпа), паралич половины тела, ригидность сосудов, опистотонус, помрачение сознания, безумие, боль в ране, лихорадка, жажда и тризм (сведение челюстей),"
+        "text": "Рожистое воспаление (висарпа), паралич половины тела, ригидность сосудов, опистотонус, помрачение сознания, безумие, боль в ране, лихорадка, жажда и тризм (сведение челюстей),",
+        "text_en": "Erysipelas (visarpa), paralysis of half the body, rigidity of the vessels, opisthotonos, clouding of consciousness, madness, pain in the wound, fever, thirst, and trismus (lockjaw),"
       },
       {
         "type": "verse",
@@ -9461,7 +9822,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कासश्छर्दिरतीसारो हिक्का श्वासः सवेपथुः षोडशोपद्र वाः प्रोक्ता व्रणानां व्रणचिन्तकैः",
         "iast": "kāsaśchardiratīsāro hikkā śvāsaḥ savepathuḥ ṣoḍaśopadra vāḥ proktā vraṇānāṃ vraṇacintakaiḥ",
         "iast_ru": "ка̄саш́чхардиратӣса̄ро хикка̄ ш́ва̄сах̣ савепатхух̣ ш̣од̣аш́опадра ва̄х̣ прокта̄ вран̣а̄на̄м̣ вран̣ачинтакаих̣",
-        "text": "Кашель, рвота, понос, икота, одышка и дрожь — таковы шестнадцать осложнений ран, описанных знатоками ран."
+        "text": "Кашель, рвота, понос, икота, одышка и дрожь — таковы шестнадцать осложнений ран, описанных знатоками ран.",
+        "text_en": "cough, vomiting, diarrhea, hiccup, dyspnea, and trembling — these are the sixteen complications of wounds described by experts on wounds."
       }
     ]
   },
@@ -9483,7 +9845,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ भग्ननिदानम् भग्नं समासाद् द्विविधं हुताश काण्डे च सन्धौ च हि तत्र सन्धौ उत्पिष्टविश्लिष्टविवर्तितं च तिर्यग्गतं क्षिप्तमधश्च षट् च",
         "iast": "atha bhagnanidānam bhagnaṃ samāsād dvividhaṃ hutāśa kāṇḍe ca sandhau ca hi tatra sandhau utpiṣṭaviśliṣṭavivartitaṃ ca tiryaggataṃ kṣiptamadhaśca ṣaṭ ca",
         "iast_ru": "атха бхагнанида̄нам бхагнам̣ сама̄са̄д двивидхам̣ хута̄ш́а ка̄н̣д̣е ча сандхау ча хи татра сандхау утпиш̣т̣авиш́лиш̣т̣авивартитам̣ ча тирйаггатам̣ кш̣иптамадхаш́ча ш̣ат̣ ча",
-        "text": "Далее — диагностика переломов (бхагна нидана). Перелом в целом бывает двух видов: в трубчатой части кости (канда) и в суставе (сандхи). В суставе различаются: раздавленный (утпишта), разъединённый (вишлишта), вывернутый (вивартита), поперечный (тирьяггата), смещённый (кшипта) и вдавленный книзу (адхаш) — всего шесть."
+        "text": "Далее — диагностика переломов (бхагна нидана). Перелом в целом бывает двух видов: в трубчатой части кости (канда) и в суставе (сандхи). В суставе различаются: раздавленный (утпишта), разъединённый (вишлишта), вывернутый (вивартита), поперечный (тирьяггата), смещённый (кшипта) и вдавленный книзу (адхаш) — всего шесть.",
+        "text_en": "Next, the diagnosis of fractures (bhagna-nidana). A fracture as a whole is of two kinds: in the shaft of a bone (kanda) and at a joint (sandhi). At a joint the following are distinguished: crushed (utpishta), disjointed (vishlishta), twisted out (vivartita), transverse (tiryaggata), displaced (kshipta), and depressed downward (adhah) — six in all."
       },
       {
         "type": "comment",
@@ -9496,7 +9859,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्रसारणाकुञ्चनवर्तनोग्रा रुक् स्पर्शविद्वेषणमेतदुक्तम् सामान्यतः सन्धिगतस्य लिङ्गम् उत्पिष्टसन्धेः श्वयथुः समन्तात्",
         "iast": "prasāraṇākuñcanavartanogrā ruk sparśavidveṣaṇametaduktam sāmānyataḥ sandhigatasya liṅgam utpiṣṭasandheḥ śvayathuḥ samantāt",
         "iast_ru": "праса̄ран̣а̄кун̃чанавартаногра̄ рук спарш́авидвеш̣ан̣аметадуктам са̄ма̄нйатах̣ сандхигатасйа лин̇гам утпиш̣т̣асандхех̣ ш́вайатхух̣ саманта̄т",
-        "text": "Сильная боль при разгибании, сгибании и вращении, непереносимость прикосновения — таковы общие признаки повреждения сустава. При раздавленном суставе — отёк со всех сторон;"
+        "text": "Сильная боль при разгибании, сгибании и вращении, непереносимость прикосновения — таковы общие признаки повреждения сустава. При раздавленном суставе — отёк со всех сторон;",
+        "text_en": "Severe pain on extension, flexion, and rotation, and intolerance of touch — these are the general signs of a joint injury. In a crushed joint — swelling on all sides;"
       },
       {
         "type": "verse",
@@ -9504,7 +9868,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विशेषतो रात्रिभवा रुजा च विश्लिष्टजे तौ च रुजा च नित्यम् विवर्तिते पार्श्वरुजश्च तीव्रास्तिर्यग्गते तीव्ररुजो भवन्ति",
         "iast": "viśeṣato rātribhavā rujā ca viśliṣṭaje tau ca rujā ca nityam vivartite pārśvarujaśca tīvrāstiryaggate tīvrarujo bhavanti",
         "iast_ru": "виш́еш̣ато ра̄трибхава̄ руджа̄ ча виш́лиш̣т̣адже тау ча руджа̄ ча нитйам вивартите па̄рш́варуджаш́ча тӣвра̄стирйаггате тӣвраруджо бхаванти",
-        "text": "В частности — ночные боли. При разъединённом суставе — отёк и постоянная боль. При вывернутом — сильная боль в боку; при поперечном — резкие боли."
+        "text": "В частности — ночные боли. При разъединённом суставе — отёк и постоянная боль. При вывернутом — сильная боль в боку; при поперечном — резкие боли.",
+        "text_en": "in particular, nocturnal pain. In a disjointed joint — swelling and constant pain. In a twisted-out joint — severe pain in the side; in a transverse one — sharp pains."
       },
       {
         "type": "comment",
@@ -9517,7 +9882,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "काण्डे त्वतः कर्कटकाश्वकर्णविचूर्णितं पिच्चितमस्थिछल्लिका",
         "iast": "kāṇḍe tvataḥ karkaṭakāśvakarṇavicūrṇitaṃ piccitamasthichallikā",
         "iast_ru": "ка̄н̣д̣е тватах̣ каркат̣ака̄ш́вакарн̣авичӯрн̣итам̣ пиччитамастхичхаллика̄",
-        "text": "В трубчатой части кости переломы бывают: клешневидный (каркатака), ушковидный (ашвакарна), раздроблённый (вичурнита), размозжённый (пиччита) и оскольчатый (астхи-чхаллика) —"
+        "text": "В трубчатой части кости переломы бывают: клешневидный (каркатака), ушковидный (ашвакарна), раздроблённый (вичурнита), размозжённый (пиччита) и оскольчатый (астхи-чхаллика) —",
+        "text_en": "In the shaft of a bone, fractures are of the following kinds: pincer-like (karkataka), ear-shaped (ashvakarna), pulverized (vichurnita), crushed (pichchita), and splintered (asthi-challika) —"
       },
       {
         "type": "comment",
@@ -9530,7 +9896,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "काण्डेषु भग्नं ह्यतिपातितं च मज्जागतं च स्फुटितं च वक्रम् छिन्नं द्विधा द्वादशधाऽपि काण्डे स्रस्ताङ्गता शोथरुजाऽतिवृद्धिः",
         "iast": "kāṇḍeṣu bhagnaṃ hyatipātitaṃ ca majjāgataṃ ca sphuṭitaṃ ca vakram chinnaṃ dvidhā dvādaśadhā'pi kāṇḍe srastāṅgatā śotharujā'tivṛddhiḥ",
         "iast_ru": "ка̄н̣д̣еш̣у бхагнам̣ хйатипа̄титам̣ ча маджджа̄гатам̣ ча спхут̣итам̣ ча вакрам чхиннам̣ двидха̄ два̄даш́адха̄'пи ка̄н̣д̣е сраста̄н̇гата̄ ш́отхаруджа̄'тивр̣ддхих̣",
-        "text": "— а также собственно перелом (бхагна), надлом (атипатита), проникающий в мозговой канал (маджжагата), расщеплённый (спхутита), искривлённый (вакра), рассечённый пополам (чхинна двидха) — итого двенадцать видов в трубчатой кости. Вялость конечностей, сильное нарастание отёка и боли —"
+        "text": "— а также собственно перелом (бхагна), надлом (атипатита), проникающий в мозговой канал (маджжагата), расщеплённый (спхутита), искривлённый (вакра), рассечённый пополам (чхинна двидха) — итого двенадцать видов в трубчатой кости. Вялость конечностей, сильное нарастание отёка и боли —",
+        "text_en": "— and also a simple fracture (bhagna), a hairline crack (atipatita), one penetrating to the marrow canal (majjagata), a split fracture (sphutita), a bent fracture (vakra), one severed clean in two (chhinna dvidha) — twelve varieties in all in the bone shaft. Sluggishness of the limb, marked increase of swelling and pain —"
       },
       {
         "type": "verse",
@@ -9538,7 +9905,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सम्पीड्यमाने भवतीह शब्दः स्पर्शासहं स्पन्दनतोदशूलाः सर्वास्ववस्थासु न शर्मलाभो भग्नस्य काण्डे खलु चिह्नमेतत्",
         "iast": "sampīḍyamāne bhavatīha śabdaḥ sparśāsahaṃ spandanatodaśūlāḥ sarvāsvavasthāsu na śarmalābho bhagnasya kāṇḍe khalu cihnametat",
         "iast_ru": "сампӣд̣йама̄не бхаватӣха ш́абдах̣ спарш́а̄сахам̣ спанданатодаш́ӯла̄х̣ сарва̄свавастха̄су на ш́армала̄бхо бхагнасйа ка̄н̣д̣е кхалу чихнаметат",
-        "text": "— при надавливании слышен хруст; непереносимость прикосновения; пульсация, покалывание и острая боль; ни в каком положении нет облегчения — таковы признаки перелома трубчатой кости."
+        "text": "— при надавливании слышен хруст; непереносимость прикосновения; пульсация, покалывание и острая боль; ни в каком положении нет облегчения — таковы признаки перелома трубчатой кости.",
+        "text_en": "— a crackling sound heard on pressing; intolerance of touch; throbbing, tingling, and sharp pain; no position brings relief — these are the signs of a fracture of the bone shaft."
       },
       {
         "type": "verse",
@@ -9546,7 +9914,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भग्नं तु काण्डे बहुधा प्रयाति समासतो नामभिरेव तुल्यम्",
         "iast": "bhagnaṃ tu kāṇḍe bahudhā prayāti samāsato nāmabhireva tulyam",
         "iast_ru": "бхагнам̣ ту ка̄н̣д̣е бахудха̄ прайа̄ти сама̄сато на̄мабхирева тулйам",
-        "text": "Перелом в трубчатой кости принимает многообразные формы; в целом они соответствуют своим наименованиям."
+        "text": "Перелом в трубчатой кости принимает многообразные формы; в целом они соответствуют своим наименованиям.",
+        "text_en": "A fracture of the bone shaft takes on manifold forms; on the whole, they correspond to their names."
       },
       {
         "type": "verse",
@@ -9554,7 +9923,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अल्पाशिनोऽनात्मवतो जन्तोर्वातात्मकस्य च उपद्र वैर्वा जुष्टस्य भग्नं कृच्छ्रेण सिद्ध्यति",
         "iast": "alpāśino'nātmavato jantorvātātmakasya ca upadra vairvā juṣṭasya bhagnaṃ kṛcchreṇa siddhyati",
         "iast_ru": "алпа̄ш́ино'на̄тмавато джанторва̄та̄тмакасйа ча упадра ваирва̄ джуш̣т̣асйа бхагнам̣ кр̣ччхрен̣а сиддхйати",
-        "text": "У человека, мало питающегося, невоздержного, с преобладанием Ваты по конституции, а также отягощённого осложнениями — перелом заживает с трудом."
+        "text": "У человека, мало питающегося, невоздержного, с преобладанием Ваты по конституции, а также отягощённого осложнениями — перелом заживает с трудом.",
+        "text_en": "In a person who eats little, is intemperate, has a constitution with a predominance of Vata, and is also burdened with complications, a fracture heals with difficulty."
       },
       {
         "type": "verse",
@@ -9562,7 +9932,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भिन्नं कपालं कट्यां तु सन्धिमुक्तं तथा च्युतम् जघनं प्रतिपिष्टं च वर्जयेद्धि विचक्षणः",
         "iast": "bhinnaṃ kapālaṃ kaṭyāṃ tu sandhimuktaṃ tathā cyutam jaghanaṃ pratipiṣṭaṃ ca varjayeddhi vicakṣaṇaḥ",
         "iast_ru": "бхиннам̣ капа̄лам̣ кат̣йа̄м̣ ту сандхимуктам̣ татха̄ чйутам джагханам̣ пратипиш̣т̣ам̣ ча варджайеддхи вичакш̣ан̣ах̣",
-        "text": "Перелом свода черепа, перелом с вывихом в тазобедренном суставе, размозжённый перелом бедра — опытный врач должен считать неизлечимыми."
+        "text": "Перелом свода черепа, перелом с вывихом в тазобедренном суставе, размозжённый перелом бедра — опытный врач должен считать неизлечимыми.",
+        "text_en": "A fracture of the skull vault, a fracture with dislocation at the hip joint, and a crushed fracture of the thigh — the experienced physician should consider these incurable."
       },
       {
         "type": "verse",
@@ -9570,7 +9941,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "असंश्लिष्टकपालं च ललाटे चूर्णितं च यत् भग्नं स्तनान्तरे पृष्ठे शङ्खे मूर्ध्नि च वर्जयेत्",
         "iast": "asaṃśliṣṭakapālaṃ ca lalāṭe cūrṇitaṃ ca yat bhagnaṃ stanāntare pṛṣṭhe śaṅkhe mūrdhni ca varjayet",
         "iast_ru": "асам̣ш́лиш̣т̣акапа̄лам̣ ча лала̄т̣е чӯрн̣итам̣ ча йат бхагнам̣ стана̄нтаре пр̣ш̣т̣хе ш́ан̇кхе мӯрдхни ча варджайет",
-        "text": "Также: несросшиеся кости черепа, раздроблённый перелом лобной кости, перелом грудины, позвоночника, височной кости и темени — следует считать неизлечимыми."
+        "text": "Также: несросшиеся кости черепа, раздроблённый перелом лобной кости, перелом грудины, позвоночника, височной кости и темени — следует считать неизлечимыми.",
+        "text_en": "Also: ununited bones of the skull, a shattered fracture of the frontal bone, a fracture of the sternum, the spine, the temporal bone, and the crown of the head — should be considered incurable."
       },
       {
         "type": "comment",
@@ -9583,7 +9955,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सम्यक् सन्धितमप्यस्थि दुर्निक्षेपनिबन्धनात् संक्षोभाद्वाऽपि यद्गच्छेद्विक्रियां तच्च वर्जयेत्",
         "iast": "samyak sandhitamapyasthi durnikṣepanibandhanāt saṃkṣobhādvā'pi yadgacchedvikriyāṃ tacca varjayet",
         "iast_ru": "самйак сандхитамапйастхи дурникш̣епанибандхана̄т сам̣кш̣обха̄два̄'пи йадгаччхедвикрийа̄м̣ тачча варджайет",
-        "text": "Даже правильно сопоставленная кость из-за неправильного наложения повязки или смещения, если приобретает деформацию, — также считается неизлечимой."
+        "text": "Даже правильно сопоставленная кость из-за неправильного наложения повязки или смещения, если приобретает деформацию, — также считается неизлечимой.",
+        "text_en": "Even a bone that has been correctly set, but which, due to improper application of the bandage or displacement, acquires a deformity, is likewise considered incurable."
       },
       {
         "type": "comment",
@@ -9596,7 +9969,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तरुणास्थीनि नम्यन्ते भिद्यन्ते नलकानि च कपालानि विभज्यन्ते स्फुटन्ति रुचकानि च",
         "iast": "taruṇāsthīni namyante bhidyante nalakāni ca kapālāni vibhajyante sphuṭanti rucakāni ca",
         "iast_ru": "тарун̣а̄стхӣни намйанте бхидйанте налака̄ни ча капа̄ла̄ни вибхаджйанте спхут̣анти ручака̄ни ча",
-        "text": "Мягкие хрящевые кости (тарунастхи) сгибаются; трубчатые кости (налака) раскалываются; плоские кости черепа (капала) расходятся; зубы (ручака) ломаются."
+        "text": "Мягкие хрящевые кости (тарунастхи) сгибаются; трубчатые кости (налака) раскалываются; плоские кости черепа (капала) расходятся; зубы (ручака) ломаются.",
+        "text_en": "Soft cartilaginous bones (tarunasthi) bend; long bones (nalaka) split; the flat bones of the skull (kapala) separate; teeth (rachaka) break."
       },
       {
         "type": "comment",
@@ -9623,7 +9997,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ नाडीव्रणनिदानम् यः शोथमाम मतिपक्कमुपेक्षतेऽज्ञो यो वा व्रणं प्रचुरपूयमसाधुवृत्तः अभ्यन्तरं प्रविशति प्रविदार्य तस्य स्थानानि पूर्वविहितानि ततः स पूयः",
         "iast": "atha nāḍīvraṇanidānam yaḥ śothamāma matipakkamupekṣate'jño yo vā vraṇaṃ pracurapūyamasādhuvṛttaḥ abhyantaraṃ praviśati pravidārya tasya sthānāni pūrvavihitāni tataḥ sa pūyaḥ",
         "iast_ru": "атха на̄д̣ӣвран̣анида̄нам йах̣ ш́отхама̄ма матипаккамупекш̣ате'джн̃о йо ва̄ вран̣ам̣ прачурапӯйамаса̄дхувр̣ттах̣ абхйантарам̣ правиш́ати правида̄рйа тасйа стха̄на̄ни пӯрвавихита̄ни татах̣ са пӯйах̣",
-        "text": "Далее — диагностика свищевых ходов (нади-врана нидана). Невежда, который оставляет без внимания незрелый или перезрелый отёк, либо рану с обильным гноем при неправильном образе жизни, — гной такого больного, проникнув внутрь, прокладывает себе пути через ранее указанные ткани."
+        "text": "Далее — диагностика свищевых ходов (нади-врана нидана). Невежда, который оставляет без внимания незрелый или перезрелый отёк, либо рану с обильным гноем при неправильном образе жизни, — гной такого больного, проникнув внутрь, прокладывает себе пути через ранее указанные ткани.",
+        "text_en": "Next, the diagnosis of fistulous tracts (nadi-vrana-nidana). An ignorant person who neglects an immature or overripe swelling, or a wound with copious pus, along with an improper regimen — the pus of such a patient, penetrating within, carves out passages for itself through the tissues mentioned earlier."
       },
       {
         "type": "verse",
@@ -9631,7 +10006,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तस्यातिमात्र गमनाद्गतिरिष्यते तु नाडीव यद्वहति तेन मता तु नाडी दोषैस्त्रिभिर्भवति सा पृथगेकशश्च संमूर्च्छितैरपि च शल्यनिमित्ततोऽन्या",
         "iast": "tasyātimātra gamanādgatiriṣyate tu nāḍīva yadvahati tena matā tu nāḍī doṣaistribhirbhavati sā pṛthagekaśaśca saṃmūrcchitairapi ca śalyanimittato'nyā",
         "iast_ru": "тасйа̄тима̄тра гамана̄дгатириш̣йате ту на̄д̣ӣва йадвахати тена мата̄ ту на̄д̣ӣ дош̣аистрибхирбхавати са̄ пр̣тхагекаш́аш́ча сам̣мӯрччхитаирапи ча ш́алйанимиттато'нйа̄",
-        "text": "Вследствие чрезмерного распространения гноя образуется канал; поскольку он подобен трубке (нади) и переносит отделяемое, он именуется нади (свищевой ход). Свищи возникают от трёх дош — от каждой в отдельности и от их совокупности, а также от инородного тела (шалья) — таков пятый вид."
+        "text": "Вследствие чрезмерного распространения гноя образуется канал; поскольку он подобен трубке (нади) и переносит отделяемое, он именуется нади (свищевой ход). Свищи возникают от трёх дош — от каждой в отдельности и от их совокупности, а также от инородного тела (шалья) — таков пятый вид.",
+        "text_en": "As a result of the excessive spread of pus, a channel forms; since it resembles a tube (nadi) and conveys the discharge, it is called nadi (a fistulous tract). Fistulas arise from the three doshas — from each singly and from their combination — and also from a foreign body (shalya) — this is the fifth kind."
       },
       {
         "type": "verse",
@@ -9639,7 +10015,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तत्रानिलात् परुषसूक्ष्ममुखी सशूला फेनानुविद्धमधिकं स्रवति क्षपासु पित्तात्तृषाज्वरकरी परिदाहयुक्ता पीतं स्रवत्यधिकमुष्णमहःसुचापि",
         "iast": "tatrānilāt paruṣasūkṣmamukhī saśūlā phenānuviddhamadhikaṃ sravati kṣapāsu pittāttṛṣājvarakarī paridāhayuktā pītaṃ sravatyadhikamuṣṇamahaḥsucāpi",
         "iast_ru": "татра̄нила̄т паруш̣асӯкш̣мамукхӣ саш́ӯла̄ пхена̄нувиддхамадхикам̣ сравати кш̣апа̄су питта̄ттр̣ш̣а̄джваракарӣ парида̄хайукта̄ пӣтам̣ сраватйадхикамуш̣н̣амахах̣суча̄пи",
-        "text": "Свищ от Ваты — шершавый, с узким устьем, болезненный; отделяемое — пенистое, обильное; усиливается по ночам. Свищ от Питты — вызывает жажду и лихорадку, с жжением; отделяемое — жёлтое, обильное, горячее; усиливается в дневное время."
+        "text": "Свищ от Ваты — шершавый, с узким устьем, болезненный; отделяемое — пенистое, обильное; усиливается по ночам. Свищ от Питты — вызывает жажду и лихорадку, с жжением; отделяемое — жёлтое, обильное, горячее; усиливается в дневное время.",
+        "text_en": "A fistula from Vata is rough, with a narrow opening, painful; the discharge is frothy and copious; it intensifies at night. A fistula from Pitta causes thirst and fever, with burning; the discharge is yellow, copious, and hot; it intensifies during the day."
       },
       {
         "type": "verse",
@@ -9647,7 +10024,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "ज्ञेया कफाद्वहुघनार्जुनपिच्छिलास्रा स्तब्धा सकण्डुररुजा रजनीप्रवृद्धा दाहज्वरश्वसन मूर्च्छनवक्त्रशोषा यस्यां भवन्त्यभिहितानि च लक्षणानि",
         "iast": "jñeyā kaphādvahughanārjunapicchilāsrā stabdhā sakaṇḍurarujā rajanīpravṛddhā dāhajvaraśvasana mūrcchanavaktraśoṣā yasyāṃ bhavantyabhihitāni ca lakṣaṇāni",
         "iast_ru": "джн̃ейа̄ капха̄двахугхана̄рджунапиччхила̄сра̄ стабдха̄ сакан̣д̣ураруджа̄ раджанӣправр̣ддха̄ да̄хаджвараш́васана мӯрччханавактраш́ош̣а̄ йасйа̄м̣ бхавантйабхихита̄ни ча лакш̣ан̣а̄ни",
-        "text": "Свищ от Капхи — с обильным, густым, белёсым, слизистым отделяемым; ригидный, зудящий, безболезненный; усиливается по ночам. Свищ, при котором возникают жжение, лихорадка, одышка, обморок и сухость во рту,"
+        "text": "Свищ от Капхи — с обильным, густым, белёсым, слизистым отделяемым; ригидный, зудящий, безболезненный; усиливается по ночам. Свищ, при котором возникают жжение, лихорадка, одышка, обморок и сухость во рту,",
+        "text_en": "A fistula from Kapha has a copious, thick, whitish, mucous discharge; it is rigid, itchy, painless; it intensifies at night. A fistula in which burning, fever, dyspnea, fainting, and dryness of the mouth arise,"
       },
       {
         "type": "verse",
@@ -9655,7 +10033,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तमादिशेत् पवनपित्तकफप्रकोपाद्- घोरामसुक्षयकरीमिव कालरात्रिम् नष्टं कथंचिदनु मार्गमुदीरितेषु स्थानेषु शल्यमचिरेण गतिं करोति",
         "iast": "tamādiśet pavanapittakaphaprakopād- ghorāmasukṣayakarīmiva kālarātrim naṣṭaṃ kathaṃcidanu mārgamudīriteṣu sthāneṣu śalyamacireṇa gatiṃ karoti",
         "iast_ru": "тама̄диш́ет паванапиттакапхапракопа̄д- гхора̄масукш̣айакарӣмива ка̄лара̄трим наш̣т̣ам̣ катхам̣чидану ма̄ргамудӣритеш̣у стха̄неш̣у ш́алйамачирен̣а гатим̣ кароти",
-        "text": "А также указанные ранее признаки всех трёх дош, — следует считать грозным, подобным ночи смерти (каларатри), губительным для жизни и вызванным возбуждением всех трёх дош (Ваты, Питты и Капхи). Инородное тело (шалья), оставшееся незамеченным, прокладывает себе путь в описанных тканях."
+        "text": "А также указанные ранее признаки всех трёх дош, — следует считать грозным, подобным ночи смерти (каларатри), губительным для жизни и вызванным возбуждением всех трёх дош (Ваты, Питты и Капхи). Инородное тело (шалья), оставшееся незамеченным, прокладывает себе путь в описанных тканях.",
+        "text_en": "along with the previously mentioned signs of all three doshas, should be regarded as formidable, resembling the night of death (kalaratri), destructive to life, and caused by the provocation of all three doshas (Vata, Pitta, and Kapha). A foreign body (shalya) that has gone unnoticed carves out a path for itself through the tissues described above."
       },
       {
         "type": "verse",
@@ -9663,7 +10042,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "साफेनिलं मथितमुष्णमसृग्विमिश्रं स्रावं करोति सहसा सरुजा च नित्यम् नाडी त्रिदोषप्रभवा न सिध्ये- च्छेषाश्चतस्रः खलु यत्नसाध्याः",
         "iast": "sāphenilaṃ mathitamuṣṇamasṛgvimiśraṃ srāvaṃ karoti sahasā sarujā ca nityam nāḍī tridoṣaprabhavā na sidhye- ccheṣāścatasraḥ khalu yatnasādhyāḥ",
         "iast_ru": "са̄пхенилам̣ матхитамуш̣н̣амаср̣гвимиш́рам̣ сра̄вам̣ кароти сахаса̄ саруджа̄ ча нитйам на̄д̣ӣ тридош̣апрабхава̄ на сидхйе- ччхеш̣а̄ш́чатасрах̣ кхалу йатнаса̄дхйа̄х̣",
-        "text": "Такой свищ даёт пенистое, взбитое, горячее отделяемое, смешанное с кровью, — внезапно, постоянно и с болью. Свищ, вызванный тремя дошами, неизлечим; остальные четыре вида — излечимы, но с трудом."
+        "text": "Такой свищ даёт пенистое, взбитое, горячее отделяемое, смешанное с кровью, — внезапно, постоянно и с болью. Свищ, вызванный тремя дошами, неизлечим; остальные четыре вида — излечимы, но с трудом.",
+        "text_en": "Such a fistula produces a frothy, whipped-looking, hot discharge mixed with blood — suddenly, continuously, and with pain. A fistula caused by all three doshas is incurable; the remaining four kinds are curable, but with difficulty."
       },
       {
         "type": "comment",
@@ -9690,7 +10070,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ भगन्दरनिदानम् गुदस्य द्व्यङ्गुले क्षेत्रे पार्श्वतः पिडकाऽतिकृत् भिन्ना भगन्दरो ज्ञेयः स च पञ्चविधो मतः",
         "iast": "atha bhagandaranidānam gudasya dvyaṅgule kṣetre pārśvataḥ piḍakā'tikṛt bhinnā bhagandaro jñeyaḥ sa ca pañcavidho mataḥ",
         "iast_ru": "атха бхагандаранида̄нам гудасйа двйан̇гуле кш̣етре па̄рш́ватах̣ пид̣ака̄'тикр̣т бхинна̄ бхагандаро джн̃ейах̣ са ча пан̃чавидхо матах̣",
-        "text": "Далее — диагностика свища заднего прохода (бхагандара нидана). В области на расстоянии двух пальцев от заднего прохода возникает болезненная гнойничковая припухлость (пидака); при её прорыве образуется бхагандара (свищ заднего прохода); он бывает пяти видов."
+        "text": "Далее — диагностика свища заднего прохода (бхагандара нидана). В области на расстоянии двух пальцев от заднего прохода возникает болезненная гнойничковая припухлость (пидака); при её прорыве образуется бхагандара (свищ заднего прохода); он бывает пяти видов.",
+        "text_en": "Next, the diagnosis of anal fistula (bhagandara-nidana). In the region two finger-widths from the anus, a painful pustular swelling (pidaka) arises; when it bursts, bhagandara (anal fistula) is formed; it is of five kinds."
       },
       {
         "type": "verse",
@@ -9698,7 +10079,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कषायरूक्षैस्त्वतिकोपितोऽनिलस्त्वपानदेशे पिडकां करोति याम् उपेक्षणात् पाकमुपैति दारुणं रुजा च भिन्नाऽरुणफेनवाहिनी",
         "iast": "kaṣāyarūkṣaistvatikopito'nilastvapānadeśe piḍakāṃ karoti yām upekṣaṇāt pākamupaiti dāruṇaṃ rujā ca bhinnā'ruṇaphenavāhinī",
         "iast_ru": "каш̣а̄йарӯкш̣аистватикопито'ниластвапа̄надеш́е пид̣ака̄м̣ кароти йа̄м упекш̣ан̣а̄т па̄камупаити да̄рун̣ам̣ руджа̄ ча бхинна̄'рун̣апхенава̄хинӣ",
-        "text": "Чрезмерно возбуждённая вяжущей и сухой пищей Вата образует в промежности гнойничковую припухлость; при отсутствии лечения она переходит в тяжёлое нагноение с болью; при прорыве — с красновато-пенистым отделяемым."
+        "text": "Чрезмерно возбуждённая вяжущей и сухой пищей Вата образует в промежности гнойничковую припухлость; при отсутствии лечения она переходит в тяжёлое нагноение с болью; при прорыве — с красновато-пенистым отделяемым.",
+        "text_en": "Vata, excessively provoked by astringent and dry food, forms a pustular swelling in the perineum; if untreated, it progresses to severe suppuration with pain; upon bursting, it discharges a reddish, frothy exudate."
       },
       {
         "type": "comment",
@@ -9711,7 +10093,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तत्रागमो मूत्रपुरीषरेतसांव्रणैरनेकैः शतपोनकं वदेत् प्रकोपणैः पित्तमतिप्रकोपितंकरोक्ति रक्तां पिडकां गुदाश्रिताम्",
         "iast": "tatrāgamo mūtrapurīṣaretasāṃvraṇairanekaiḥ śataponakaṃ vadet prakopaṇaiḥ pittamatiprakopitaṃkarokti raktāṃ piḍakāṃ gudāśritām",
         "iast_ru": "татра̄гамо мӯтрапурӣш̣аретаса̄м̣вран̣аиранекаих̣ ш́атапонакам̣ вадет пракопан̣аих̣ питтаматипракопитам̣карокти ракта̄м̣ пид̣ака̄м̣ гуда̄ш́рита̄м",
-        "text": "При этом из свища выделяются моча, кал и семя через множественные отверстия — такой свищ именуется шатапонака (стоустный). Чрезмерно возбуждённая горячей пищей Питта образует красную припухлость в области заднего прохода."
+        "text": "При этом из свища выделяются моча, кал и семя через множественные отверстия — такой свищ именуется шатапонака (стоустный). Чрезмерно возбуждённая горячей пищей Питта образует красную припухлость в области заднего прохода.",
+        "text_en": "In this case, urine, stool, and semen are discharged from the fistula through multiple openings — such a fistula is called shatapanaka (hundred-mouthed). Pitta, excessively provoked by hot food, forms a red swelling in the region of the anus."
       },
       {
         "type": "verse",
@@ -9719,7 +10102,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तदाऽशुपाकाहिमपूतिवाहिनीं भगन्दरं उष्ट्रशिरोधरं वदेत्",
         "iast": "tadā'śupākāhimapūtivāhinīṃ bhagandaraṃ uṣṭraśirodharaṃ vadet",
         "iast_ru": "тада̄'ш́упа̄ка̄химапӯтива̄хинӣм̣ бхагандарам̣ уш̣т̣раш́иродхарам̣ вадет",
-        "text": "Быстро нагнаивающуюся, с горячим зловонным отделяемым — такой свищ именуется уштра-широдхара (верблюжья шея)."
+        "text": "Быстро нагнаивающуюся, с горячим зловонным отделяемым — такой свищ именуется уштра-широдхара (верблюжья шея).",
+        "text_en": "Quickly suppurating, with a hot, foul-smelling discharge — such a fistula is called ushtra-shirodhara (camel's-neck)."
       },
       {
         "type": "verse",
@@ -9727,7 +10111,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कण्डूयनो घनस्रावी कठिनो मन्दवेदनः श्वेतावभासः कफजः परिस्रावी भगन्दरः",
         "iast": "kaṇḍūyano ghanasrāvī kaṭhino mandavedanaḥ śvetāvabhāsaḥ kaphajaḥ parisrāvī bhagandaraḥ",
         "iast_ru": "кан̣д̣ӯйано гханасра̄вӣ кат̣хино мандаведанах̣ ш́вета̄вабха̄сах̣ капхаджах̣ парисра̄вӣ бхагандарах̣",
-        "text": "Свищ, вызванный Капхой, — зудящий, с густым отделяемым, твёрдый, малоболезненный, белёсый, с постоянным истечением."
+        "text": "Свищ, вызванный Капхой, — зудящий, с густым отделяемым, твёрдый, малоболезненный, белёсый, с постоянным истечением.",
+        "text_en": "A fistula caused by Kapha is itchy, with a thick discharge, hard, only slightly painful, whitish, with a constant flow."
       },
       {
         "type": "comment",
@@ -9740,7 +10125,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "बहुवर्णरुजास्रावा पिडका गोस्तनोपमा शम्बूकावर्तवन्नाडी शम्बूकावर्तको मतः",
         "iast": "bahuvarṇarujāsrāvā piḍakā gostanopamā śambūkāvartavannāḍī śambūkāvartako mataḥ",
         "iast_ru": "бахуварн̣аруджа̄сра̄ва̄ пид̣ака̄ гостанопама̄ ш́амбӯка̄вартаванна̄д̣ӣ ш́амбӯка̄вартако матах̣",
-        "text": "Припухлость с разноцветным отделяемым и болью, подобная коровьему соску, со свищевым ходом, извитым подобно раковине, — именуется шамбукаварта (спиралевидный)."
+        "text": "Припухлость с разноцветным отделяемым и болью, подобная коровьему соску, со свищевым ходом, извитым подобно раковине, — именуется шамбукаварта (спиралевидный).",
+        "text_en": "A swelling with a discharge of varied color and with pain, resembling a cow's teat, with a fistulous tract coiled like a conch shell, is called shambukavarta (spiral-shaped)."
       },
       {
         "type": "comment",
@@ -9753,7 +10139,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्षताद्गतिः पायुगता विवर्धतेह्यपेक्षणात् स्युः क्रिमयो विदार्य ते प्रकुर्वते मार्गमनेकधा मुखैव्रणैस्तदुन्मार्गि भगन्दरं वदेत्",
         "iast": "kṣatādgatiḥ pāyugatā vivardhatehyapekṣaṇāt syuḥ krimayo vidārya te prakurvate mārgamanekadhā mukhaivraṇaistadunmārgi bhagandaraṃ vadet",
         "iast_ru": "кш̣ата̄дгатих̣ па̄йугата̄ вивардхатехйапекш̣ан̣а̄т сйух̣ кримайо вида̄рйа те пракурвате ма̄ргаманекадха̄ мукхаивран̣аистадунма̄рги бхагандарам̣ вадет",
-        "text": "Свищевой ход, проникающий из раны в задний проход, при отсутствии лечения разрастается; появляются черви (кримы), которые, прогрызая ткани, образуют множественные ходы с многочисленными отверстиями — такой свищ именуется унмарги (идущий ложным путём) бхагандара."
+        "text": "Свищевой ход, проникающий из раны в задний проход, при отсутствии лечения разрастается; появляются черви (кримы), которые, прогрызая ткани, образуют множественные ходы с многочисленными отверстиями — такой свищ именуется унмарги (идущий ложным путём) бхагандара.",
+        "text_en": "A fistulous tract passing from the wound into the anus, if left untreated, enlarges; worms (krimis) appear, which, gnawing through the tissues, form multiple tracts with numerous openings — such a fistula is called unmargi (going astray) bhagandara."
       },
       {
         "type": "verse",
@@ -9761,7 +10148,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "घोराः साधयितुं दुःखाः सर्व एव भगन्दराः तेष्वसाध्यस्त्रिदोषोत्थः क्षतजश्च विशेषतः",
         "iast": "ghorāḥ sādhayituṃ duḥkhāḥ sarva eva bhagandarāḥ teṣvasādhyastridoṣotthaḥ kṣatajaśca viśeṣataḥ",
         "iast_ru": "гхора̄х̣ са̄дхайитум̣ дух̣кха̄х̣ сарва ева бхагандара̄х̣ теш̣васа̄дхйастридош̣оттхах̣ кш̣атаджаш́ча виш́еш̣атах̣",
-        "text": "Все свищи заднего прохода грозны и трудно излечимы. Среди них неизлечимым считается тридошаджа (вызванный тремя дошами), а также кшатаджа (травматический) — в особенности."
+        "text": "Все свищи заднего прохода грозны и трудно излечимы. Среди них неизлечимым считается тридошаджа (вызванный тремя дошами), а также кшатаджа (травматический) — в особенности.",
+        "text_en": "All anal fistulas are formidable and difficult to cure. Among them, the tridoshaja (caused by all three doshas) is considered incurable, as is the kshataja (traumatic) one — especially."
       },
       {
         "type": "verse",
@@ -9769,7 +10157,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातमूत्रपुरीषाणि क्रिमयः शुक्रमेव च भगन्दरात् स्रवन्तस्तु नाशयन्ति तमातुरम्",
         "iast": "vātamūtrapurīṣāṇi krimayaḥ śukrameva ca bhagandarāt sravantastu nāśayanti tamāturam",
         "iast_ru": "ва̄тамӯтрапурӣш̣а̄н̣и кримайах̣ ш́украмева ча бхагандара̄т сравантасту на̄ш́айанти тама̄турам",
-        "text": "Газы, моча, кал, черви (кримы) и семя, истекающие из свища заднего прохода, постепенно губят больного."
+        "text": "Газы, моча, кал, черви (кримы) и семя, истекающие из свища заднего прохода, постепенно губят больного.",
+        "text_en": "Gas, urine, stool, worms (krimis), and semen flowing from an anal fistula gradually destroy the patient."
       }
     ]
   },
@@ -9791,7 +10180,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथोपदंशनिदानम् हस्ताभिघातान्नखदन्त पातादधा वनाद्र त्यतिसेवनाद्वा योनिप्रदोषाच्च भवन्ति शिश्ने पञ्चोपदंशा विविधोपचारैः",
         "iast": "athopadaṃśanidānam hastābhighātānnakhadanta pātādadhā vanādra tyatisevanādvā yonipradoṣācca bhavanti śiśne pañcopadaṃśā vividhopacāraiḥ",
         "iast_ru": "атхопадам̣ш́анида̄нам хаста̄бхигха̄та̄ннакхаданта па̄та̄дадха̄ вана̄дра тйатисевана̄два̄ йонипрадош̣а̄чча бхаванти ш́иш́не пан̃чопадам̣ш́а̄ вивидхопача̄раих̣",
-        "text": "Далее — диагностика поражений полового члена (упаданша нидана). От ударов руками, царапин ногтями и укусов зубами, от чрезмерного полового сношения, а также от заражения через больное влагалище на половом члене возникают пять видов упаданши, требующих различного лечения."
+        "text": "Далее — диагностика поражений полового члена (упаданша нидана). От ударов руками, царапин ногтями и укусов зубами, от чрезмерного полового сношения, а также от заражения через больное влагалище на половом члене возникают пять видов упаданши, требующих различного лечения.",
+        "text_en": "Next, the diagnosis of afflictions of the penis (upadansha-nidana). From blows of the hands, scratches of the nails, and bites of the teeth, from excessive sexual intercourse, and also from infection through a diseased vagina, five kinds of upadansha arise on the penis, each requiring different treatment."
       },
       {
         "type": "verse",
@@ -9799,7 +10189,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सतोदभेदैः स्फुरणैः सकृष्णैः स्फोटैर्व्यवस्येत् पवनोपदंशम् पीतैर्वहुक्लेदयुतैः सदाहैः पित्तेन रक्तात् पिशितावभासैः",
         "iast": "satodabhedaiḥ sphuraṇaiḥ sakṛṣṇaiḥ sphoṭairvyavasyet pavanopadaṃśam pītairvahukledayutaiḥ sadāhaiḥ pittena raktāt piśitāvabhāsaiḥ",
         "iast_ru": "сатодабхедаих̣ спхуран̣аих̣ сакр̣ш̣н̣аих̣ спхот̣аирвйавасйет паванопадам̣ш́ам пӣтаирвахукледайутаих̣ сада̄хаих̣ питтена ракта̄т пиш́ита̄вабха̄саих̣",
-        "text": "По колющим, распирающим, пульсирующим болям и чёрным пузырькам распознают упаданшу от Ваты. Упаданша от Питты — с жёлтыми пузырьками, обильным мокнутием и жжением. От крови — с пузырьками телесного красного цвета."
+        "text": "По колющим, распирающим, пульсирующим болям и чёрным пузырькам распознают упаданшу от Ваты. Упаданша от Питты — с жёлтыми пузырьками, обильным мокнутием и жжением. От крови — с пузырьками телесного красного цвета.",
+        "text_en": "By piercing, distending, throbbing pains and black vesicles, upadansha from Vata is recognized. Upadansha from Pitta has yellow vesicles, copious oozing, and burning. From blood — vesicles of a flesh-red color."
       },
       {
         "type": "verse",
@@ -9807,7 +10198,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्फोटैः सकृष्णै रुधिरं स्रवन्तं रक्तात्मकं पित्तसमानलिङ्गम् सकण्डुरैः शोथयुतैर्महद्भिः शुक्लैर्घनैः स्रावयुतैः कफेन",
         "iast": "sphoṭaiḥ sakṛṣṇai rudhiraṃ sravantaṃ raktātmakaṃ pittasamānaliṅgam sakaṇḍuraiḥ śothayutairmahadbhiḥ śuklairghanaiḥ srāvayutaiḥ kaphena",
         "iast_ru": "спхот̣аих̣ сакр̣ш̣н̣аи рудхирам̣ сравантам̣ ракта̄тмакам̣ питтасама̄налин̇гам сакан̣д̣ураих̣ ш́отхайутаирмахадбхих̣ ш́уклаиргханаих̣ сра̄вайутаих̣ капхена",
-        "text": "Упаданша от крови — с чёрными пузырьками, из которых сочится кровь, по признакам подобна питтаджа. Упаданша от Капхи — с зудящими, отёчными, крупными, белыми, плотными пузырьками и обильным отделяемым."
+        "text": "Упаданша от крови — с чёрными пузырьками, из которых сочится кровь, по признакам подобна питтаджа. Упаданша от Капхи — с зудящими, отёчными, крупными, белыми, плотными пузырьками и обильным отделяемым.",
+        "text_en": "Upadansha from blood has black vesicles from which blood oozes, and in its signs resembles the Pittaja type. Upadansha from Kapha has itchy, swollen, large, white, dense vesicles with a copious discharge."
       },
       {
         "type": "verse",
@@ -9815,7 +10207,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नानाविधस्रावरुजोपपन्नम साध्यमाहुस्त्रिमलोपदंशम् विशीर्णमांसं कृमिभिः प्रजग्धं मुष्कावशेषं परिवर्जयेच्च",
         "iast": "nānāvidhasrāvarujopapannama sādhyamāhustrimalopadaṃśam viśīrṇamāṃsaṃ kṛmibhiḥ prajagdhaṃ muṣkāvaśeṣaṃ parivarjayecca",
         "iast_ru": "на̄на̄видхасра̄варуджопапаннама са̄дхйама̄хустрималопадам̣ш́ам виш́ӣрн̣ама̄м̣сам̣ кр̣мибхих̣ праджагдхам̣ муш̣ка̄ваш́еш̣ам̣ париварджайечча",
-        "text": "Упаданша с разнообразными выделениями и болями, вызванная тремя дошами (тримала), считается неизлечимой. Когда мышечная ткань полового члена разрушена и изъедена червями (кримами), а от органа остались лишь яички, — такого больного следует оставить."
+        "text": "Упаданша с разнообразными выделениями и болями, вызванная тремя дошами (тримала), считается неизлечимой. Когда мышечная ткань полового члена разрушена и изъедена червями (кримами), а от органа остались лишь яички, — такого больного следует оставить.",
+        "text_en": "Upadansha with varied discharges and pains, caused by all three doshas (trimala), is considered incurable. When the muscle tissue of the penis is destroyed and eaten away by worms (krimis), and only the testicles remain of the organ, such a patient should be relinquished."
       },
       {
         "type": "verse",
@@ -9823,7 +10216,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "संजातमात्रे न करोति मूढः क्रियां नरो यो विषये प्रसक्तः कालेन शोथक्रिमिदाहपाकैर्विशीर्णशिश्नो म्रियते स तेन",
         "iast": "saṃjātamātre na karoti mūḍhaḥ kriyāṃ naro yo viṣaye prasaktaḥ kālena śothakrimidāhapākairviśīrṇaśiśno mriyate sa tena",
         "iast_ru": "сам̣джа̄тама̄тре на кароти мӯд̣хах̣ крийа̄м̣ наро йо виш̣айе прасактах̣ ка̄лена ш́отхакримида̄хапа̄каирвиш́ӣрн̣аш́иш́но мрийате са тена",
-        "text": "Глупец, который не предпринимает лечения при первом появлении упаданши, предаваясь чувственным наслаждениям, — со временем от отёка, червей, жжения и нагноения его половой член разрушается, и он умирает от этого."
+        "text": "Глупец, который не предпринимает лечения при первом появлении упаданши, предаваясь чувственным наслаждениям, — со временем от отёка, червей, жжения и нагноения его половой член разрушается, и он умирает от этого.",
+        "text_en": "The fool who, indulging in sensual pleasures, fails to undertake treatment at the first appearance of upadansha — in time, from swelling, worms, burning, and suppuration, his penis is destroyed, and he dies from it."
       },
       {
         "type": "comment",
@@ -9836,7 +10230,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अङ्कुरैरिव सङ्घातैरुपर्युपरि संस्थितैः क्रमेण जायते वर्तिस्ताम्रचूडशिखोपमा",
         "iast": "aṅkurairiva saṅghātairuparyupari saṃsthitaiḥ krameṇa jāyate vartistāmracūḍaśikhopamā",
         "iast_ru": "ан̇кураирива сан̇гха̄таирупарйупари сам̣стхитаих̣ крамен̣а джа̄йате вартиста̄мрачӯд̣аш́икхопама̄",
-        "text": "Подобно побегам, нарастающим слоями один поверх другого, постепенно образуется разрастание (варти), подобное гребню петуха."
+        "text": "Подобно побегам, нарастающим слоями один поверх другого, постепенно образуется разрастание (варти), подобное гребню петуха.",
+        "text_en": "Like shoots growing layer upon layer, one on top of another, a proliferation (varti) gradually forms, resembling a cock's comb."
       },
       {
         "type": "comment",
@@ -9849,7 +10244,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कोषस्याभ्यन्तरे सन्धौ सर्वसन्धिगताऽपि वा सवेदना पिच्छिला च दुश्चिकित्स्या त्रिदोषजा लिङ्गवर्तिरभिख्याता लिङ्गार्श इति चापरे",
         "iast": "koṣasyābhyantare sandhau sarvasandhigatā'pi vā savedanā picchilā ca duścikitsyā tridoṣajā liṅgavartirabhikhyātā liṅgārśa iti cāpare",
         "iast_ru": "кош̣асйа̄бхйантаре сандхау сарвасандхигата̄'пи ва̄ саведана̄ пиччхила̄ ча душ́чикитсйа̄ тридош̣аджа̄ лин̇гавартирабхикхйа̄та̄ лин̇га̄рш́а ити ча̄паре",
-        "text": "Внутри крайней плоти, на уздечке или на всей поверхности полового члена, — болезненное, слизистое, трудноизлечимое образование, вызванное тремя дошами, — известно как линга-варти; другие авторы именуют его линга-арша (полипы полового члена)."
+        "text": "Внутри крайней плоти, на уздечке или на всей поверхности полового члена, — болезненное, слизистое, трудноизлечимое образование, вызванное тремя дошами, — известно как линга-варти; другие авторы именуют его линга-арша (полипы полового члена).",
+        "text_en": "Within the foreskin, on the frenulum, or over the entire surface of the penis, a painful, mucous, difficult-to-cure formation caused by all three doshas is known as linga-varti; other authors call it linga-arsha (penile polyps)."
       },
       {
         "type": "comment",
@@ -9876,7 +10272,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ शूकदोषनिदानम् अक्रमाच्छेफसो वृद्धिं योऽभिवाञ्छति मूढधीः व्याधयस्तस्य जायन्ते दश चाष्टौ च शूकजाः",
         "iast": "atha śūkadoṣanidānam akramācchephaso vṛddhiṃ yo'bhivāñchati mūḍhadhīḥ vyādhayastasya jāyante daśa cāṣṭau ca śūkajāḥ",
         "iast_ru": "атха ш́ӯкадош̣анида̄нам акрама̄ччхепхасо вр̣ддхим̣ йо'бхива̄н̃чхати мӯд̣хадхӣх̣ вйа̄дхайастасйа джа̄йанте даш́а ча̄ш̣т̣ау ча ш́ӯкаджа̄х̣",
-        "text": "Теперь излагается распознавание болезней, вызванных шукой. Тот неразумный, кто стремится к увеличению полового члена неподобающими способами, — у него возникают восемнадцать болезней, порождённых шукой."
+        "text": "Теперь излагается распознавание болезней, вызванных шукой. Тот неразумный, кто стремится к увеличению полового члена неподобающими способами, — у него возникают восемнадцать болезней, порождённых шукой.",
+        "text_en": "Now the diagnosis of diseases caused by shuka (barbed bristles/awns) is set forth. The unwise man who seeks to enlarge his penis by improper means develops eighteen diseases caused by shuka."
       },
       {
         "type": "verse",
@@ -9884,7 +10281,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गौरसर्षपसंस्थाना शूकदुर्भुग्नहेतुका पिडका श्लेष्मवाताभ्यां ज्ञेया सर्षपिका तु सा",
         "iast": "gaurasarṣapasaṃsthānā śūkadurbhugnahetukā piḍakā śleṣmavātābhyāṃ jñeyā sarṣapikā tu sā",
         "iast_ru": "гаурасарш̣апасам̣стха̄на̄ ш́ӯкадурбхугнахетука̄ пид̣ака̄ ш́леш̣мава̄та̄бхйа̄м̣ джн̃ейа̄ сарш̣апика̄ ту са̄",
-        "text": "Высыпание, по виду подобное семенам жёлтой горчицы, возникающее от Капхи и Ваты вследствие повреждения дурно согнутыми шуками, — его следует знать как сарсапику."
+        "text": "Высыпание, по виду подобное семенам жёлтой горчицы, возникающее от Капхи и Ваты вследствие повреждения дурно согнутыми шуками, — его следует знать как сарсапику.",
+        "text_en": "An eruption resembling in appearance the seeds of yellow mustard, arising from Kapha and Vata as a result of injury by badly bent shukas, should be known as sarshapika."
       },
       {
         "type": "verse",
@@ -9892,7 +10290,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कठिना विषमैर्भुग्नैर्वायुनाऽष्ठीलिका भवेत् शूकैर्यत् पूरितं शश्वद् ग्रथितं नाम तत् कफात्",
         "iast": "kaṭhinā viṣamairbhugnairvāyunā'ṣṭhīlikā bhavet śūkairyat pūritaṃ śaśvad grathitaṃ nāma tat kaphāt",
         "iast_ru": "кат̣хина̄ виш̣амаирбхугнаирва̄йуна̄'ш̣т̣хӣлика̄ бхавет ш́ӯкаирйат пӯритам̣ ш́аш́вад гратхитам̣ на̄ма тат капха̄т",
-        "text": "От Ваты, действующей посредством неровных, искривлённых шук, образуется твёрдое уплотнение — аштхилика. То, что постоянно наполнено шуками и уплотнено, называется гратхитам — оно возникает от Капхи."
+        "text": "От Ваты, действующей посредством неровных, искривлённых шук, образуется твёрдое уплотнение — аштхилика. То, что постоянно наполнено шуками и уплотнено, называется гратхитам — оно возникает от Капхи.",
+        "text_en": "From Vata, acting by means of uneven, bent shukas, a hard induration forms — ashthilika. That which is constantly filled with shukas and hardened is called grathitam — it arises from Kapha."
       },
       {
         "type": "verse",
@@ -9900,7 +10299,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुम्भिका रक्तपित्तोत्था जाम्बवास्थिनिभाऽशुभा तुल्यजां त्वलजीं विद्याद्यथाप्रोक्तां विचक्षणः",
         "iast": "kumbhikā raktapittotthā jāmbavāsthinibhā'śubhā tulyajāṃ tvalajīṃ vidyādyathāproktāṃ vicakṣaṇaḥ",
         "iast_ru": "кумбхика̄ рактапиттоттха̄ джа̄мбава̄стхинибха̄'ш́убха̄ тулйаджа̄м̣ тваладжӣм̣ видйа̄дйатха̄прокта̄м̣ вичакш̣ан̣ах̣",
-        "text": "Кумбхика, порождённая кровью и Питтой, неблагоприятная, подобная косточке джамбу. Сведущий врач должен распознавать аладжи как принадлежащую к тому же типу, согласно описанному."
+        "text": "Кумбхика, порождённая кровью и Питтой, неблагоприятная, подобная косточке джамбу. Сведущий врач должен распознавать аладжи как принадлежащую к тому же типу, согласно описанному.",
+        "text_en": "Kumbhika, produced by blood and Pitta, is unfavorable, resembling the seed of the jambu fruit. The learned physician should recognize alaji as belonging to the same type, as described."
       },
       {
         "type": "comment",
@@ -9913,7 +10313,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नृदितं पीडितं यच्च संरब्धं वातकोपतः पाणिभ्यां भृशसंमूढे संमूढपिडका भवेत्",
         "iast": "nṛditaṃ pīḍitaṃ yacca saṃrabdhaṃ vātakopataḥ pāṇibhyāṃ bhṛśasaṃmūḍhe saṃmūḍhapiḍakā bhavet",
         "iast_ru": "нр̣дитам̣ пӣд̣итам̣ йачча сам̣рабдхам̣ ва̄такопатах̣ па̄н̣ибхйа̄м̣ бхр̣ш́асам̣мӯд̣хе сам̣мӯд̣хапид̣ака̄ бхавет",
-        "text": "Когда член, сдавленный и сжатый обеими руками при сильном помрачении рассудка, воспаляется вследствие возбуждения Ваты, — возникает высыпание, именуемое саммудха-пидака."
+        "text": "Когда член, сдавленный и сжатый обеими руками при сильном помрачении рассудка, воспаляется вследствие возбуждения Ваты, — возникает высыпание, именуемое саммудха-пидака.",
+        "text_en": "When the organ, pressed and squeezed by both hands in a state of intense mental derangement, becomes inflamed as a result of the provocation of Vata, an eruption arises called sammudha-pidaka."
       },
       {
         "type": "verse",
@@ -9921,7 +10322,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दीर्घा बह्व्यश्च पिडका दीर्यन्ते मध्यतस्तु याः सोऽधिमन्थः कफासृग्भ्यां वेदनारोमहर्षकृत्",
         "iast": "dīrghā bahvyaśca piḍakā dīryante madhyatastu yāḥ so'dhimanthaḥ kaphāsṛgbhyāṃ vedanāromaharṣakṛt",
         "iast_ru": "дӣргха̄ бахвйаш́ча пид̣ака̄ дӣрйанте мадхйатасту йа̄х̣ со'дхимантхах̣ капха̄ср̣гбхйа̄м̣ ведана̄ромахарш̣акр̣т",
-        "text": "Длинные и многочисленные высыпания, которые растрескиваются посередине, — это адхимантха, возникающий от Капхи и крови, вызывающий боль и поднятие волосков."
+        "text": "Длинные и многочисленные высыпания, которые растрескиваются посередине, — это адхимантха, возникающий от Капхи и крови, вызывающий боль и поднятие волосков.",
+        "text_en": "Long and numerous eruptions that crack in the middle — this is adhimantha, arising from Kapha and blood, causing pain and horripilation."
       },
       {
         "type": "verse",
@@ -9929,7 +10331,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पिडका पिडकाव्याप्ता पित्तशोणितसंभवा पद्मकर्णिकसंस्थाना ज्ञेया पुष्करिका तु सा",
         "iast": "piḍakā piḍakāvyāptā pittaśoṇitasaṃbhavā padmakarṇikasaṃsthānā jñeyā puṣkarikā tu sā",
         "iast_ru": "пид̣ака̄ пид̣ака̄вйа̄пта̄ питташ́он̣итасам̣бхава̄ падмакарн̣икасам̣стха̄на̄ джн̃ейа̄ пуш̣карика̄ ту са̄",
-        "text": "Высыпание, покрытое другими высыпаниями, порождённое Питтой и кровью, по виду подобное семенной коробочке лотоса, — его следует знать как пушкарику."
+        "text": "Высыпание, покрытое другими высыпаниями, порождённое Питтой и кровью, по виду подобное семенной коробочке лотоса, — его следует знать как пушкарику.",
+        "text_en": "An eruption covered with other eruptions, produced by Pitta and blood, resembling in appearance the seed-pod of a lotus, should be known as pushkarika."
       },
       {
         "type": "comment",
@@ -9942,7 +10345,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्पर्शहानिं तु जनयेच्छोणितं शूकदूषितम् मुद्गमाषोपमा रक्ता रक्तपित्तोद्भवा तु या",
         "iast": "sparśahāniṃ tu janayecchoṇitaṃ śūkadūṣitam mudgamāṣopamā raktā raktapittodbhavā tu yā",
         "iast_ru": "спарш́аха̄ним̣ ту джанайеччхон̣итам̣ ш́ӯкадӯш̣итам мудгама̄ш̣опама̄ ракта̄ рактапиттодбхава̄ ту йа̄",
-        "text": "Кровь, испорченная шукой, вызывает утрату чувствительности. Красноватое высыпание, подобное зёрнам мунга или маша, порождённое кровью и Питтой, —"
+        "text": "Кровь, испорченная шукой, вызывает утрату чувствительности. Красноватое высыпание, подобное зёрнам мунга или маша, порождённое кровью и Питтой, —",
+        "text_en": "Blood vitiated by shuka causes loss of sensation. A reddish eruption, resembling grains of mung or masha beans, produced by blood and Pitta —"
       },
       {
         "type": "verse",
@@ -9950,7 +10354,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्याधिरेषोत्तमा नाम शूकाजीर्णनिमित्तजा छिद्रै रणुमुखैर्लिङ्गं चितं यस्य समन्ततः",
         "iast": "vyādhireṣottamā nāma śūkājīrṇanimittajā chidrai raṇumukhairliṅgaṃ citaṃ yasya samantataḥ",
         "iast_ru": "вйа̄дхиреш̣оттама̄ на̄ма ш́ӯка̄джӣрн̣анимиттаджа̄ чхидраи ран̣умукхаирлин̇гам̣ читам̣ йасйа самантатах̣",
-        "text": "— эта болезнь называется уттама; она возникает от шуки и несварения. Член, у которого поверхность повсюду усеяна мелкими отверстиями, —"
+        "text": "— эта болезнь называется уттама; она возникает от шуки и несварения. Член, у которого поверхность повсюду усеяна мелкими отверстиями, —",
+        "text_en": "— this disease is called uttama; it arises from shuka and indigestion. An organ whose surface is studded all over with small openings —"
       },
       {
         "type": "verse",
@@ -9958,7 +10363,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातशोणितजो व्याधिः स ज्ञेयः शतपोनकः वातपित्तकृतो ज्ञेयस्त्वक्पाको ज्वरदाहकृत्",
         "iast": "vātaśoṇitajo vyādhiḥ sa jñeyaḥ śataponakaḥ vātapittakṛto jñeyastvakpāko jvaradāhakṛt",
         "iast_ru": "ва̄таш́он̣итаджо вйа̄дхих̣ са джн̃ейах̣ ш́атапонаках̣ ва̄тапиттакр̣то джн̃ейаствакпа̄ко джварада̄хакр̣т",
-        "text": "— эту болезнь, порождённую Ватой и кровью, следует знать как шатапонаку. Твакпаку — воспаление кожи, вызванное Ватой и Питтой, причиняющее лихорадку и жжение, — следует распознавать отдельно."
+        "text": "— эту болезнь, порождённую Ватой и кровью, следует знать как шатапонаку. Твакпаку — воспаление кожи, вызванное Ватой и Питтой, причиняющее лихорадку и жжение, — следует распознавать отдельно.",
+        "text_en": "— this disease, produced by Vata and blood, should be known as shatapanaka. Tvakpaka — inflammation of the skin caused by Vata and Pitta, producing fever and burning — should be recognized separately."
       },
       {
         "type": "verse",
@@ -9966,7 +10372,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृष्णैः स्फोटैः सरक्ताभिः पिडकाभिर्निपीडितम् यस्य वास्तुरुजश्चोग्रा ज्ञेयं तच्छोणितार्बुदम्",
         "iast": "kṛṣṇaiḥ sphoṭaiḥ saraktābhiḥ piḍakābhirnipīḍitam yasya vāsturujaścogrā jñeyaṃ tacchoṇitārbudam",
         "iast_ru": "кр̣ш̣н̣аих̣ спхот̣аих̣ саракта̄бхих̣ пид̣ака̄бхирнипӣд̣итам йасйа ва̄стуруджаш́чогра̄ джн̃ейам̣ таччхон̣ита̄рбудам",
-        "text": "Член, покрытый чёрными пузырями и красноватыми высыпаниями, при котором ощущается сильная боль, — это следует знать как шонитарбуду (кровяную опухоль)."
+        "text": "Член, покрытый чёрными пузырями и красноватыми высыпаниями, при котором ощущается сильная боль, — это следует знать как шонитарбуду (кровяную опухоль).",
+        "text_en": "An organ covered with black blisters and reddish eruptions, in which severe pain is felt, should be known as shonitarbuda (a blood tumor)."
       },
       {
         "type": "verse",
@@ -9974,7 +10381,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मांसदोषेण जानीयादर्बुदं मांससंभवम् शीर्यन्ते यस्य मांसानि यस्य सर्वाश्च वेदनाः",
         "iast": "māṃsadoṣeṇa jānīyādarbudaṃ māṃsasaṃbhavam śīryante yasya māṃsāni yasya sarvāśca vedanāḥ",
         "iast_ru": "ма̄м̣садош̣ен̣а джа̄нӣйа̄дарбудам̣ ма̄м̣сасам̣бхавам ш́ӣрйанте йасйа ма̄м̣са̄ни йасйа сарва̄ш́ча ведана̄х̣",
-        "text": "По повреждению мышечной ткани следует распознавать арбуду (опухоль), порождённую из мышечной ткани. Состояние, при котором мышечные ткани распадаются и присутствуют все виды болей, —"
+        "text": "По повреждению мышечной ткани следует распознавать арбуду (опухоль), порождённую из мышечной ткани. Состояние, при котором мышечные ткани распадаются и присутствуют все виды болей, —",
+        "text_en": "By the damage to the muscle tissue, one should recognize arbuda (a tumor) arising from the muscle tissue. The condition in which the muscle tissues disintegrate and every kind of pain is present —"
       },
       {
         "type": "verse",
@@ -9982,7 +10390,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विद्यात्तं मांसपाकं तु सर्वदोषकृतं भिषक् विद्र धिं सन्निपातेन यथोक्तमिति निर्दिशेत्",
         "iast": "vidyāttaṃ māṃsapākaṃ tu sarvadoṣakṛtaṃ bhiṣak vidra dhiṃ sannipātena yathoktamiti nirdiśet",
         "iast_ru": "видйа̄ттам̣ ма̄м̣сапа̄кам̣ ту сарвадош̣акр̣там̣ бхиш̣ак видра дхим̣ саннипа̄тена йатхоктамити нирдиш́ет",
-        "text": "— врач должен знать как мамсапаку (нагноение мышечной ткани), вызванное расстройством всех Дош. Видрадхи (абсцесс), возникающий от саннипаты (сочетания всех трёх Дош), следует определять согласно описанному."
+        "text": "— врач должен знать как мамсапаку (нагноение мышечной ткани), вызванное расстройством всех Дош. Видрадхи (абсцесс), возникающий от саннипаты (сочетания всех трёх Дош), следует определять согласно описанному.",
+        "text_en": "— the physician should know as mamsapaka (suppuration of the muscle tissue), caused by disturbance of all the doshas. Vidradhi (an abscess) arising from sannipata (the combination of all three doshas) should be determined as described earlier."
       },
       {
         "type": "verse",
@@ -9990,7 +10399,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृष्णानि चित्राण्यथवा शूकानि सविषाणि वा पातितानि पचन्त्याशु मेढ्रं निरवशेषतः",
         "iast": "kṛṣṇāni citrāṇyathavā śūkāni saviṣāṇi vā pātitāni pacantyāśu meḍhraṃ niravaśeṣataḥ",
         "iast_ru": "кр̣ш̣н̣а̄ни читра̄н̣йатхава̄ ш́ӯка̄ни савиш̣а̄н̣и ва̄ па̄тита̄ни пачантйа̄ш́у мед̣храм̣ нираваш́еш̣атах̣",
-        "text": "Чёрные или пёстрые шуки, а также ядовитые, будучи внедрены в ткани, быстро разрушают половой член без остатка."
+        "text": "Чёрные или пёстрые шуки, а также ядовитые, будучи внедрены в ткани, быстро разрушают половой член без остатка.",
+        "text_en": "Black or mottled shukas, as well as poisonous ones, once lodged in the tissues, quickly destroy the penis entirely, leaving nothing behind."
       },
       {
         "type": "verse",
@@ -9998,7 +10408,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कालानि भूत्वा मांसानि शीर्यन्ते यस्य देहिनः सन्निपातसमुत्थांस्तु तान् विद्यात्तिलकालकान्",
         "iast": "kālāni bhūtvā māṃsāni śīryante yasya dehinaḥ sannipātasamutthāṃstu tān vidyāttilakālakān",
         "iast_ru": "ка̄ла̄ни бхӯтва̄ ма̄м̣са̄ни ш́ӣрйанте йасйа дехинах̣ саннипа̄тасамуттха̄м̣сту та̄н видйа̄ттилака̄лака̄н",
-        "text": "Мышечные ткани, став чёрными, распадаются у такого человека — эти состояния, возникающие от саннипаты (сочетания всех трёх Дош), следует знать как тилакалаки."
+        "text": "Мышечные ткани, став чёрными, распадаются у такого человека — эти состояния, возникающие от саннипаты (сочетания всех трёх Дош), следует знать как тилакалаки.",
+        "text_en": "The muscle tissues, having turned black, disintegrate in such a person — these conditions, arising from sannipata (the combination of all three doshas), should be known as tilakalaka."
       },
       {
         "type": "verse",
@@ -10006,7 +10417,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तत्र मांसार्बुदं यच्च मांसपाकश्च यः स्मृतः विद्र धिश्च न सिद्ध्यन्ति ये च स्युस्तिकालकाः",
         "iast": "tatra māṃsārbudaṃ yacca māṃsapākaśca yaḥ smṛtaḥ vidra dhiśca na siddhyanti ye ca syustikālakāḥ",
         "iast_ru": "татра ма̄м̣са̄рбудам̣ йачча ма̄м̣сапа̄каш́ча йах̣ смр̣тах̣ видра дхиш́ча на сиддхйанти йе ча сйустика̄лака̄х̣",
-        "text": "Из них мамсарбуда (мышечная опухоль), мамсапака (нагноение мышечной ткани), видрадхи (абсцесс) и тилакалаки — неизлечимы."
+        "text": "Из них мамсарбуда (мышечная опухоль), мамсапака (нагноение мышечной ткани), видрадхи (абсцесс) и тилакалаки — неизлечимы.",
+        "text_en": "Among these, mamsarbuda (muscular tumor), mamsapaka (suppuration of muscle tissue), vidradhi (abscess), and tilakalaka are incurable."
       }
     ]
   },
@@ -10028,7 +10440,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ कुष्ठनिदानम् विरोधीन्यन्नपानानि द्र वस्निग्धगुरूणि च भजतामागतां छर्दिं वेगाश्चान्यान् प्रतिघ्नताम्",
         "iast": "atha kuṣṭhanidānam virodhīnyannapānāni dra vasnigdhagurūṇi ca bhajatāmāgatāṃ chardiṃ vegāścānyān pratighnatām",
         "iast_ru": "атха куш̣т̣ханида̄нам виродхӣнйаннапа̄на̄ни дра васнигдхагурӯн̣и ча бхаджата̄ма̄гата̄м̣ чхардим̣ вега̄ш́ча̄нйа̄н пратигхната̄м",
-        "text": "Итак, начинается раздел о распознавании куштхи (кожных болезней). У тех, кто употребляет несовместимые между собой пищу и питьё, пищу жидкую, маслянистую и тяжёлую, а также подавляет возникшую рвоту и другие естественные позывы, —"
+        "text": "Итак, начинается раздел о распознавании куштхи (кожных болезней). У тех, кто употребляет несовместимые между собой пищу и питьё, пищу жидкую, маслянистую и тяжёлую, а также подавляет возникшую рвоту и другие естественные позывы, —",
+        "text_en": "Now begins the section on the diagnosis of kushtha (skin diseases). In those who consume mutually incompatible food and drink, food that is liquid, oily, and heavy, and who suppress vomiting that has arisen and other natural urges,"
       },
       {
         "type": "verse",
@@ -10036,7 +10449,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्यायाममतिसन्तापमतिभुक्त्वा निषेविणाम् घर्मश्रमभयार्तानां युतं शीताम्वु सेविनाम्",
         "iast": "vyāyāmamatisantāpamatibhuktvā niṣeviṇām gharmaśramabhayārtānāṃ yutaṃ śītāmvu sevinām",
         "iast_ru": "вйа̄йа̄маматисанта̄паматибхуктва̄ ниш̣евин̣а̄м гхармаш́рамабхайа̄рта̄на̄м̣ йутам̣ ш́ӣта̄мву севина̄м",
-        "text": "— у тех, кто предаётся чрезмерным физическим упражнениям, перегреву, принимает пищу сверх меры, а также у утомлённых зноем, напряжением и страхом, кто пьёт холодную воду после этого, —"
+        "text": "— у тех, кто предаётся чрезмерным физическим упражнениям, перегреву, принимает пищу сверх меры, а также у утомлённых зноем, напряжением и страхом, кто пьёт холодную воду после этого, —",
+        "text_en": "— in those who indulge in excessive physical exercise, overheating, and eat beyond measure, and in those exhausted by heat, exertion, and fear, who then drink cold water,"
       },
       {
         "type": "verse",
@@ -10044,7 +10458,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अजीर्णाध्यशिनां चैव पञ्चकर्मापचारिणाम् नवान्न दधि मत्स्यातिलवणाम्ल निषेविणाम्",
         "iast": "ajīrṇādhyaśināṃ caiva pañcakarmāpacāriṇām navānna dadhi matsyātilavaṇāmla niṣeviṇām",
         "iast_ru": "аджӣрн̣а̄дхйаш́ина̄м̣ чаива пан̃чакарма̄пача̄рин̣а̄м нава̄нна дадхи матсйа̄тилаван̣а̄мла ниш̣евин̣а̄м",
-        "text": "— а также у тех, кто ест при несварении (аджирна), поверх непереваренной пищи (адхьяшана), нарушает правила Панчакармы, постоянно употребляет свежесобранное зерно, кислое молоко (дадхи), рыбу, кунжут и чрезмерно солёное и кислое, —"
+        "text": "— а также у тех, кто ест при несварении (аджирна), поверх непереваренной пищи (адхьяшана), нарушает правила Панчакармы, постоянно употребляет свежесобранное зерно, кислое молоко (дадхи), рыбу, кунжут и чрезмерно солёное и кислое, —",
+        "text_en": "— and also in those who eat during indigestion (ajirna), who eat on top of undigested food (adhyashana), who violate the rules of Panchakarma, who constantly consume freshly harvested grain, sour milk (dadhi), fish, sesame, and excessively salty and sour food,"
       },
       {
         "type": "comment",
@@ -10057,7 +10472,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "माषमूलकपिष्टान्नतिलक्षीर गुडाशिनाम् व्यवायं चाप्यजीर्णेन्ने निद्रा ं! च भजतां दिवा",
         "iast": "māṣamūlakapiṣṭānnatilakṣīra guḍāśinām vyavāyaṃ cāpyajīrṇenne nidrā ṃ! ca bhajatāṃ divā",
         "iast_ru": "ма̄ш̣амӯлакапиш̣т̣а̄ннатилакш̣ӣра гуд̣а̄ш́ина̄м вйава̄йам̣ ча̄пйаджӣрн̣енне нидра̄ м̣! ча бхаджата̄м̣ дива̄",
-        "text": "— у тех, кто питается машой (чёрной чечевицей), редькой (мулака), мучными изделиями (пиштанна), кунжутом, молоком и пальмовым сахаром (гуда), кто предаётся половым сношениям при несварении и дневному сну, —"
+        "text": "— у тех, кто питается машой (чёрной чечевицей), редькой (мулака), мучными изделиями (пиштанна), кунжутом, молоком и пальмовым сахаром (гуда), кто предаётся половым сношениям при несварении и дневному сну, —",
+        "text_en": "— in those who eat masha (black gram), radish (mulaka), flour preparations (pishtanna), sesame, milk, and palm sugar (guda), who indulge in sexual intercourse during indigestion and in daytime sleep,"
       },
       {
         "type": "verse",
@@ -10065,7 +10481,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विप्रान् गुरून् धर्षयतां पापं कर्म च कुर्वताम् वातादयस्त्रयो दुष्टास्त्वग्रक्तं मांसमम्बु च",
         "iast": "viprān gurūn dharṣayatāṃ pāpaṃ karma ca kurvatām vātādayastrayo duṣṭāstvagraktaṃ māṃsamambu ca",
         "iast_ru": "випра̄н гурӯн дхарш̣айата̄м̣ па̄пам̣ карма ча курвата̄м ва̄та̄дайастрайо душ̣т̣а̄стваграктам̣ ма̄м̣самамбу ча",
-        "text": "— у тех, кто оскорбляет брахманов и наставников и совершает греховные деяния, — у всех них три доши (Вата и прочие), придя в возбуждение, поражают кожу (твак), кровь (ракта), мышечную ткань (мамса) и жидкость (амбу)."
+        "text": "— у тех, кто оскорбляет брахманов и наставников и совершает греховные деяния, — у всех них три доши (Вата и прочие), придя в возбуждение, поражают кожу (твак), кровь (ракта), мышечную ткань (мамса) и жидкость (амбу).",
+        "text_en": "— in those who insult brahmins and teachers and commit sinful acts — in all of them, the three doshas (Vata and the others), becoming provoked, afflict the skin (tvak), blood (rakta), muscle tissue (mamsa), and fluid (ambu)."
       },
       {
         "type": "comment",
@@ -10078,7 +10495,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दूषयन्ति स कुष्ठानां सप्तको द्र व्यसंग्रहः अतः कुष्ठानि जायन्ते सप्त चैकादशैव च",
         "iast": "dūṣayanti sa kuṣṭhānāṃ saptako dra vyasaṃgrahaḥ ataḥ kuṣṭhāni jāyante sapta caikādaśaiva ca",
         "iast_ru": "дӯш̣айанти са куш̣т̣ха̄на̄м̣ саптако дра вйасам̣грахах̣ атах̣ куш̣т̣ха̄ни джа̄йанте сапта чаика̄даш́аива ча",
-        "text": "Таков семеричный набор субстанций куштхи три доши и четыре ткани. От этого возникают кожные болезни — семь тяжёлых, маха-куштха и одиннадцать малых, кшудра-куштха."
+        "text": "Таков семеричный набор субстанций куштхи три доши и четыре ткани. От этого возникают кожные болезни — семь тяжёлых, маха-куштха и одиннадцать малых, кшудра-куштха.",
+        "text_en": "Such is the sevenfold set of substances of kushtha: the three doshas and the four tissues. From this arise the skin diseases — seven severe ones, maha-kushtha, and eleven minor ones, kshudra-kushtha."
       },
       {
         "type": "verse",
@@ -10086,7 +10504,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुष्ठानि सप्तधा दोषैः पृथग्द्वन्द्वैः समागतैः सर्वेष्वपि त्रिदोषेषु व्यपदेशोऽधिकत्वतः",
         "iast": "kuṣṭhāni saptadhā doṣaiḥ pṛthagdvandvaiḥ samāgataiḥ sarveṣvapi tridoṣeṣu vyapadeśo'dhikatvataḥ",
         "iast_ru": "куш̣т̣ха̄ни саптадха̄ дош̣аих̣ пр̣тхагдвандваих̣ сама̄гатаих̣ сарвеш̣вапи тридош̣еш̣у вйападеш́о'дхикатватах̣",
-        "text": "Куштхи бывают семивидовыми по доша: от каждой доши порознь, от двойных сочетаний и от соединения всех трёх. Хотя во всех куштхах присутствуют три доши, название даётся по преобладающей."
+        "text": "Куштхи бывают семивидовыми по доша: от каждой доши порознь, от двойных сочетаний и от соединения всех трёх. Хотя во всех куштхах присутствуют три доши, название даётся по преобладающей.",
+        "text_en": "Kushthas are of seven kinds by dosha: from each dosha separately, from combinations of two, and from the union of all three. Although all kushthas contain the three doshas, the name is given according to the predominant one."
       },
       {
         "type": "comment",
@@ -10099,7 +10518,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अतिश्लक्ष्णखरस्पर्श स्वेदास्वेदविवर्णताः दाहः कण्डूस्त्वचि स्वापस्तोदः कोठोन्नतिर्भ्रमः",
         "iast": "atiślakṣṇakharasparśa svedāsvedavivarṇatāḥ dāhaḥ kaṇḍūstvaci svāpastodaḥ koṭhonnatirbhramaḥ",
         "iast_ru": "атиш́лакш̣н̣акхараспарш́а сведа̄сведавиварн̣ата̄х̣ да̄хах̣ кан̣д̣ӯствачи сва̄пастодах̣ кот̣хоннатирбхрамах̣",
-        "text": "Чрезмерная гладкость или шероховатость на ощупь, избыточное потоотделение или его отсутствие, изменение цвета кожи, жжение, зуд, онемение кожи, колющая боль, появление высыпаний (котха) и припухлостей, головокружение —"
+        "text": "Чрезмерная гладкость или шероховатость на ощупь, избыточное потоотделение или его отсутствие, изменение цвета кожи, жжение, зуд, онемение кожи, колющая боль, появление высыпаний (котха) и припухлостей, головокружение —",
+        "text_en": "Excessive smoothness or roughness to the touch, excessive sweating or its absence, a change in skin color, burning, itching, numbness of the skin, piercing pain, the appearance of eruptions (kotha) and swellings, dizziness —"
       },
       {
         "type": "comment",
@@ -10112,7 +10532,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "व्रणानामधिकं मूलं शीघ्रोत्पत्तिश्चिरस्थितिः रूढानामपि रूक्षत्वं निमित्तेऽल्पेऽपिकोपनम्",
         "iast": "vraṇānāmadhikaṃ mūlaṃ śīghrotpattiścirasthitiḥ rūḍhānāmapi rūkṣatvaṃ nimitte'lpe'pikopanam",
         "iast_ru": "вран̣а̄на̄мадхикам̣ мӯлам̣ ш́ӣгхротпаттиш́чирастхитих̣ рӯд̣ха̄на̄мапи рӯкш̣атвам̣ нимитте'лпе'пикопанам",
-        "text": "— чрезмерное разрастание корней язв, быстрое возникновение и длительное сохранение, сухость даже зарубцевавшихся ран, обострение от ничтожной причины —"
+        "text": "— чрезмерное разрастание корней язв, быстрое возникновение и длительное сохранение, сухость даже зарубцевавшихся ран, обострение от ничтожной причины —",
+        "text_en": "— excessive growth at the roots of ulcers, rapid onset and prolonged persistence, dryness even of scarred wounds, aggravation from a trivial cause —"
       },
       {
         "type": "comment",
@@ -10125,7 +10546,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रोमहर्षोऽसृजः कार्ष्ण्यं कुष्ठलक्षणमग्रजम् कृष्णारुणकपालाभं यद्रू क्षं परुषं तनु",
         "iast": "romaharṣo'sṛjaḥ kārṣṇyaṃ kuṣṭhalakṣaṇamagrajam kṛṣṇāruṇakapālābhaṃ yadrū kṣaṃ paruṣaṃ tanu",
         "iast_ru": "ромахарш̣о'ср̣джах̣ ка̄рш̣н̣йам̣ куш̣т̣халакш̣ан̣амаграджам кр̣ш̣н̣а̄рун̣акапа̄ла̄бхам̣ йадрӯ кш̣ам̣ паруш̣ам̣ тану",
-        "text": "— «гусиная кожа» (ромахарша) и потемнение крови — таковы начальные признаки куштхи. Куштха, имеющая тёмно-красный, подобный черепку цвет, сухая, шершавая и тонкая, —"
+        "text": "— «гусиная кожа» (ромахарша) и потемнение крови — таковы начальные признаки куштхи. Куштха, имеющая тёмно-красный, подобный черепку цвет, сухая, шершавая и тонкая, —",
+        "text_en": "— \"goose flesh\" (romaharsha) and darkening of the blood — these are the initial signs of kushtha. A kushtha having a dark-red color resembling a potsherd, dry, rough, and thin,"
       },
       {
         "type": "comment",
@@ -10138,7 +10560,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कापालं तोदबहुलं तत् कुष्ठं विषमं स्मृतम् रुग्दाहरागकण्डूभिः परीतं रोमपिञ्जरम्",
         "iast": "kāpālaṃ todabahulaṃ tat kuṣṭhaṃ viṣamaṃ smṛtam rugdāharāgakaṇḍūbhiḥ parītaṃ romapiñjaram",
         "iast_ru": "ка̄па̄лам̣ тодабахулам̣ тат куш̣т̣хам̣ виш̣амам̣ смр̣там ругда̄хара̄гакан̣д̣ӯбхих̣ парӣтам̣ ромапин̃джарам",
-        "text": "— именуется Капала-куштха («черепковая»); она сопровождается обильной колющей болью и считается трудноизлечимой. Куштха, окружённая болью, жжением, покраснением и зудом, с побуревшими волосками, —"
+        "text": "— именуется Капала-куштха («черепковая»); она сопровождается обильной колющей болью и считается трудноизлечимой. Куштха, окружённая болью, жжением, покраснением и зудом, с побуревшими волосками, —",
+        "text_en": "— is called Kapala-kushtha (\"potsherd-like\"); it is accompanied by intense piercing pain and is considered difficult to cure. A kushtha surrounded by pain, burning, redness, and itching, with browned body hairs,"
       },
       {
         "type": "verse",
@@ -10146,7 +10569,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उदुम्बरफलाभासं कुष्ठमौदुम्बरं वदेत् श्वेतं रक्तं स्थिरं स्त्यानं स्निग्धमुत्सन्नमण्डलम्",
         "iast": "udumbaraphalābhāsaṃ kuṣṭhamaudumbaraṃ vadet śvetaṃ raktaṃ sthiraṃ styānaṃ snigdhamutsannamaṇḍalam",
         "iast_ru": "удумбарапхала̄бха̄сам̣ куш̣т̣хамаудумбарам̣ вадет ш́ветам̣ рактам̣ стхирам̣ стйа̄нам̣ снигдхамутсаннаман̣д̣алам",
-        "text": "— похожая по виду на плод удумбары (Ficus glomerata), именуется Удумбара-куштха. Белая, красная, плотная, густая, маслянистая, с выпуклыми округлыми очагами, —"
+        "text": "— похожая по виду на плод удумбары (Ficus glomerata), именуется Удумбара-куштха. Белая, красная, плотная, густая, маслянистая, с выпуклыми округлыми очагами, —",
+        "text_en": "— resembling in appearance the fruit of udumbara (Ficus glomerata), is called Udumbara-kushtha. White, red, dense, thick, oily, with raised rounded patches,"
       },
       {
         "type": "comment",
@@ -10159,7 +10583,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कृच्छ्रमन्योन्यसंयुक्तं कुष्ठं मण्डलमुच्यते कर्कशं रक्तपर्यन्तमन्तःश्याव सवेदनम्",
         "iast": "kṛcchramanyonyasaṃyuktaṃ kuṣṭhaṃ maṇḍalamucyate karkaśaṃ raktaparyantamantaḥśyāva savedanam",
         "iast_ru": "кр̣ччхраманйонйасам̣йуктам̣ куш̣т̣хам̣ ман̣д̣аламучйате каркаш́ам̣ рактапарйантамантах̣ш́йа̄ва саведанам",
-        "text": "— трудноизлечимая при взаимном слиянии очагов — именуется Мандала-куштха («кольцевидная»). Шероховатая, с красной каймой по краям, внутри тёмно-синяя, болезненная, —"
+        "text": "— трудноизлечимая при взаимном слиянии очагов — именуется Мандала-куштха («кольцевидная»). Шероховатая, с красной каймой по краям, внутри тёмно-синяя, болезненная, —",
+        "text_en": "— difficult to cure when the patches merge together — is called Mandala-kushtha (\"ring-shaped\"). Rough, with a red border at the edges, dark-blue within, painful,"
       },
       {
         "type": "verse",
@@ -10167,7 +10592,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यदृष्यजिह्वसंस्थानमृष्यजिह्वं यदुच्यते सश्वेतं रक्तपर्यन्तं पुण्डरीकदलोपमम्",
         "iast": "yadṛṣyajihvasaṃsthānamṛṣyajihvaṃ yaducyate saśvetaṃ raktaparyantaṃ puṇḍarīkadalopamam",
         "iast_ru": "йадр̣ш̣йаджихвасам̣стха̄намр̣ш̣йаджихвам̣ йадучйате саш́ветам̣ рактапарйантам̣ пун̣д̣арӣкадалопамам",
-        "text": "— по форме напоминающая язык медведя — именуется Ришьяджихва-куштха («язык антилопы»). Белая с красной каймой, подобная лепестку лотоса Пундарика, —"
+        "text": "— по форме напоминающая язык медведя — именуется Ришьяджихва-куштха («язык антилопы»). Белая с красной каймой, подобная лепестку лотоса Пундарика, —",
+        "text_en": "— resembling in shape a bear's tongue, is called Rishyajihva-kushtha (\"antelope's tongue\"). White with a red border, resembling the petal of a Pundarika lotus,"
       },
       {
         "type": "verse",
@@ -10175,7 +10601,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सोत्सेधं च सरागं च पुण्डरीकं तदुच्यते श्वेतं ताम्रं तनु च यद्र जो घृष्टं विमुञ्चति",
         "iast": "sotsedhaṃ ca sarāgaṃ ca puṇḍarīkaṃ taducyate śvetaṃ tāmraṃ tanu ca yadra jo ghṛṣṭaṃ vimuñcati",
         "iast_ru": "сотседхам̣ ча сара̄гам̣ ча пун̣д̣арӣкам̣ тадучйате ш́ветам̣ та̄мрам̣ тану ча йадра джо гхр̣ш̣т̣ам̣ вимун̃чати",
-        "text": "— приподнятая и окрашенная в красный — именуется Пундарика-куштха. Белая, медного оттенка, тонкая, при растирании выделяющая чешуйки, подобные пыльце, —"
+        "text": "— приподнятая и окрашенная в красный — именуется Пундарика-куштха. Белая, медного оттенка, тонкая, при растирании выделяющая чешуйки, подобные пыльце, —",
+        "text_en": "— raised and colored red, is called Pundarika-kushtha. White, of a copper hue, thin, shedding scales resembling pollen when rubbed,"
       },
       {
         "type": "comment",
@@ -10188,7 +10615,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्रायश्चोरसि तत् सिध्ममलावुकुसुमोपमम् यत्काकणन्तिकावर्णं सपाकं तीव्रवेदनम्",
         "iast": "prāyaścorasi tat sidhmamalāvukusumopamam yatkākaṇantikāvarṇaṃ sapākaṃ tīvravedanam",
         "iast_ru": "пра̄йаш́чораси тат сидхмамала̄вукусумопамам йатка̄кан̣антика̄варн̣ам̣ сапа̄кам̣ тӣвраведанам",
-        "text": "— возникающая преимущественно на груди, подобная цветку тыквы (алабу), — именуется Сидхма. Куштха, имеющая цвет семян гунджи (Abrus precatorius), с нагноением и сильной болью, —"
+        "text": "— возникающая преимущественно на груди, подобная цветку тыквы (алабу), — именуется Сидхма. Куштха, имеющая цвет семян гунджи (Abrus precatorius), с нагноением и сильной болью, —",
+        "text_en": "— arising predominantly on the chest, resembling the flower of a bottle-gourd (alabu), is called Sidhma. A kushtha having the color of gunja seeds (Abrus precatorius), with suppuration and severe pain,"
       },
       {
         "type": "comment",
@@ -10201,7 +10629,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "त्रिदोषलिङ्गं तत्कुष्ठं काकणं नैव सिध्यति अस्वेदनं महावास्तु यन्मत्स्यशकलोपमम्",
         "iast": "tridoṣaliṅgaṃ tatkuṣṭhaṃ kākaṇaṃ naiva sidhyati asvedanaṃ mahāvāstu yanmatsyaśakalopamam",
         "iast_ru": "тридош̣алин̇гам̣ таткуш̣т̣хам̣ ка̄кан̣ам̣ наива сидхйати асведанам̣ маха̄ва̄сту йанматсйаш́акалопамам",
-        "text": "— обладающая признаками всех трёх дош — именуется Какана-куштха и считается неизлечимой. Без потоотделения, обширная, подобная чешуе рыбы, —"
+        "text": "— обладающая признаками всех трёх дош — именуется Какана-куштха и считается неизлечимой. Без потоотделения, обширная, подобная чешуе рыбы, —",
+        "text_en": "— possessing the signs of all three doshas — is called Kakana-kushtha and is considered incurable. Without sweating, extensive, resembling fish scales,"
       },
       {
         "type": "verse",
@@ -10209,7 +10638,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यदेककुष्ठं चर्माख्यं बहलं हस्तिचर्मवत् श्यावं किणखरस्पर्शं परुषं किटिभं स्मृतम्",
         "iast": "yadekakuṣṭhaṃ carmākhyaṃ bahalaṃ hasticarmavat śyāvaṃ kiṇakharasparśaṃ paruṣaṃ kiṭibhaṃ smṛtam",
         "iast_ru": "йадекакуш̣т̣хам̣ чарма̄кхйам̣ бахалам̣ хастичармават ш́йа̄вам̣ кин̣акхараспарш́ам̣ паруш̣ам̣ кит̣ибхам̣ смр̣там",
-        "text": "— Эка-куштха, также называемая Чарма, толстая, как слоновья кожа. Серо-синяя, с мозолистой шершавой поверхностью, грубая — именуется Китибха-куштха."
+        "text": "— Эка-куштха, также называемая Чарма, толстая, как слоновья кожа. Серо-синяя, с мозолистой шершавой поверхностью, грубая — именуется Китибха-куштха.",
+        "text_en": "— Eka-kushtha, also called Charma, thick like an elephant's hide. Gray-blue, with a callused rough surface, coarse — is called Kitibha-kushtha."
       },
       {
         "type": "verse",
@@ -10217,7 +10647,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वैपादिकं पाणिपादस्फुटनं तीव्रवेदनम् कण्डूमद्भिः सरागैश्च गण्डैरलसकं चितम्",
         "iast": "vaipādikaṃ pāṇipādasphuṭanaṃ tīvravedanam kaṇḍūmadbhiḥ sarāgaiśca gaṇḍairalasakaṃ citam",
         "iast_ru": "ваипа̄дикам̣ па̄н̣ипа̄даспхут̣анам̣ тӣвраведанам кан̣д̣ӯмадбхих̣ сара̄гаиш́ча ган̣д̣аираласакам̣ читам",
-        "text": "Вайпадика — растрескивание кожи ладоней и стоп с сильной болью. Аласака — куштха, покрытая зудящими, окрашенными в красный узелками (ганда)."
+        "text": "Вайпадика — растрескивание кожи ладоней и стоп с сильной болью. Аласака — куштха, покрытая зудящими, окрашенными в красный узелками (ганда).",
+        "text_en": "Vaipadika is cracking of the skin of the palms and soles with severe pain. Alasaka is a kushtha covered with itchy, red-colored nodules (ganda)."
       },
       {
         "type": "verse",
@@ -10225,7 +10656,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सकण्डूरागपिडकं दद्रुमण्डलमुद्गतम् रक्तं सशूलं कण्डूमत् सस्फोटं यद्गलत्यपि तच्चर्मदलमाख्यातं संस्पर्शासहमुच्यते",
         "iast": "sakaṇḍūrāgapiḍakaṃ dadrumaṇḍalamudgatam raktaṃ saśūlaṃ kaṇḍūmat sasphoṭaṃ yadgalatyapi taccarmadalamākhyātaṃ saṃsparśāsahamucyate",
         "iast_ru": "сакан̣д̣ӯра̄гапид̣акам̣ дадруман̣д̣аламудгатам рактам̣ саш́ӯлам̣ кан̣д̣ӯмат саспхот̣ам̣ йадгалатйапи таччармадалама̄кхйа̄там̣ сам̣спарш́а̄сахамучйате",
-        "text": "Дадру — куштха с зудящими, окрашенными узелками (пидака), округлая, приподнятая, красная, болезненная, зудящая, с пузырьками; куштха, которая мокнет и при которой кожа отслаивается, именуется Чармадала («расщепление кожи»); она невыносима при прикосновении."
+        "text": "Дадру — куштха с зудящими, окрашенными узелками (пидака), округлая, приподнятая, красная, болезненная, зудящая, с пузырьками; куштха, которая мокнет и при которой кожа отслаивается, именуется Чармадала («расщепление кожи»); она невыносима при прикосновении.",
+        "text_en": "Dadru is a kushtha with itchy, colored nodules (pidaka), rounded, raised, red, painful, itchy, with vesicles; a kushtha that oozes and in which the skin peels off is called Charmadala (\"splitting of the skin\"); it is unbearable to the touch."
       },
       {
         "type": "verse",
@@ -10233,7 +10665,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सूक्ष्मा वह्व्यः पिडकः स्राववत्यः पामेत्युक्ताः कण्डुमत्यः सदाहाः सैव स्फोटैस्ती व्रदाहैरुपेता ज्ञेया पाण्योः कच्छुरुग्रा स्फिचोश्च",
         "iast": "sūkṣmā vahvyaḥ piḍakaḥ srāvavatyaḥ pāmetyuktāḥ kaṇḍumatyaḥ sadāhāḥ saiva sphoṭaistī vradāhairupetā jñeyā pāṇyoḥ kacchurugrā sphicośca",
         "iast_ru": "сӯкш̣ма̄ вахвйах̣ пид̣аках̣ сра̄ваватйах̣ па̄метйукта̄х̣ кан̣д̣уматйах̣ сада̄ха̄х̣ саива спхот̣аистӣ врада̄хаирупета̄ джн̃ейа̄ па̄н̣йох̣ каччхуругра̄ спхичош́ча",
-        "text": "Мелкие, многочисленные, мокнущие, зудящие пузырьки (пидака) со жжением — именуются Пама. Та же болезнь с крупными пузырями (спхота) и сильным жжением, локализующаяся на ладонях и ягодицах, — именуется тяжёлой Каччху."
+        "text": "Мелкие, многочисленные, мокнущие, зудящие пузырьки (пидака) со жжением — именуются Пама. Та же болезнь с крупными пузырями (спхота) и сильным жжением, локализующаяся на ладонях и ягодицах, — именуется тяжёлой Каччху.",
+        "text_en": "Small, numerous, oozing, itchy vesicles (pidakas) with burning are called Pama. The same disease with large blisters (sphota) and intense burning, localized on the palms and buttocks, is called severe Kacchu."
       },
       {
         "type": "verse",
@@ -10241,7 +10674,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "स्फोटाः श्यावरुणाभासा विस्फोटाः स्युस्तनुत्वचः रक्तं श्यावं सदाहार्ति शतारुः स्याद्वहुव्रणम्",
         "iast": "sphoṭāḥ śyāvaruṇābhāsā visphoṭāḥ syustanutvacaḥ raktaṃ śyāvaṃ sadāhārti śatāruḥ syādvahuvraṇam",
         "iast_ru": "спхот̣а̄х̣ ш́йа̄варун̣а̄бха̄са̄ виспхот̣а̄х̣ сйустанутвачах̣ рактам̣ ш́йа̄вам̣ сада̄ха̄рти ш́ата̄рух̣ сйа̄двахувран̣ам",
-        "text": "Серо-красные пузыри (спхота), тонкокожие, именуются Вispхота. Красная и тёмная сыпь со жжением и болью, с множеством язв — именуется Шатаруш."
+        "text": "Серо-красные пузыри (спхота), тонкокожие, именуются Вispхота. Красная и тёмная сыпь со жжением и болью, с множеством язв — именуется Шатаруш.",
+        "text_en": "Gray-red blisters (sphota) with thin skin are called Visphota. Red and dark eruptions with burning and pain, with numerous ulcers, are called Shatarush."
       },
       {
         "type": "verse",
@@ -10249,7 +10683,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सकण्डूः पिडका श्यावा बहुस्रावा विचर्चिका खरं श्यावारुणं रुक्षं वातात् कुष्ठं सवेदनम्",
         "iast": "sakaṇḍūḥ piḍakā śyāvā bahusrāvā vicarcikā kharaṃ śyāvāruṇaṃ rukṣaṃ vātāt kuṣṭhaṃ savedanam",
         "iast_ru": "сакан̣д̣ӯх̣ пид̣ака̄ ш́йа̄ва̄ бахусра̄ва̄ вичарчика̄ кхарам̣ ш́йа̄ва̄рун̣ам̣ рукш̣ам̣ ва̄та̄т куш̣т̣хам̣ саведанам",
-        "text": "Зудящие, тёмные пузырьки (пидака) с обильным отделяемым — Вичарчика. Куштха от Ваты — шероховатая, серо-красная, сухая, болезненная."
+        "text": "Зудящие, тёмные пузырьки (пидака) с обильным отделяемым — Вичарчика. Куштха от Ваты — шероховатая, серо-красная, сухая, болезненная.",
+        "text_en": "Itchy, dark vesicles (pidakas) with copious discharge are called Vicharchika. Kushtha from Vata is rough, gray-red, dry, and painful."
       },
       {
         "type": "verse",
@@ -10257,7 +10692,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पित्तात् प्रक्वथितं दाहरागस्रावान्वितं मतम् कफात् क्लेदि घनं स्निग्धं सकण्डूशैत्यगौरवम्",
         "iast": "pittāt prakvathitaṃ dāharāgasrāvānvitaṃ matam kaphāt kledi ghanaṃ snigdhaṃ sakaṇḍūśaityagauravam",
         "iast_ru": "питта̄т пракватхитам̣ да̄хара̄гасра̄ва̄нвитам̣ матам капха̄т кледи гханам̣ снигдхам̣ сакан̣д̣ӯш́аитйагауравам",
-        "text": "Куштха от Питты считается воспалённой, со жжением, покраснением и выделениями. Куштха от Капхи — мокнущая, плотная, маслянистая, зудящая, с ощущением холода и тяжести."
+        "text": "Куштха от Питты считается воспалённой, со жжением, покраснением и выделениями. Куштха от Капхи — мокнущая, плотная, маслянистая, зудящая, с ощущением холода и тяжести.",
+        "text_en": "Kushtha from Pitta is regarded as inflamed, with burning, redness, and discharge. Kushtha from Kapha is oozing, dense, oily, itchy, with a sensation of cold and heaviness."
       },
       {
         "type": "verse",
@@ -10265,7 +10701,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "द्विलिङ्गं द्वन्द्वजंकुष्ठं त्रिलिङ्गं सान्निपातिकम् त्वक्स्थे वैवर्ण्यमङ्गेषु कुष्ठे रौक्ष्यं च जायते",
         "iast": "dviliṅgaṃ dvandvajaṃkuṣṭhaṃ triliṅgaṃ sānnipātikam tvaksthe vaivarṇyamaṅgeṣu kuṣṭhe raukṣyaṃ ca jāyate",
         "iast_ru": "двилин̇гам̣ двандваджам̣куш̣т̣хам̣ трилин̇гам̣ са̄ннипа̄тикам твакстхе ваиварн̣йаман̇геш̣у куш̣т̣хе раукш̣йам̣ ча джа̄йате",
-        "text": "Куштха, возникшая от двух дош, имеет двойные признаки; от трёх дош (саннипатика) — тройные. При локализации в коже (твак) возникает изменение цвета и сухость поражённых участков."
+        "text": "Куштха, возникшая от двух дош, имеет двойные признаки; от трёх дош (саннипатика) — тройные. При локализации в коже (твак) возникает изменение цвета и сухость поражённых участков.",
+        "text_en": "A kushtha arising from two doshas has the signs of both; one from three doshas (sannipatika) has all three sets of signs. When localized in the skin (tvak), a change of color and dryness of the affected areas occurs."
       },
       {
         "type": "verse",
@@ -10273,7 +10710,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "त्वक्स्वापो रोमहर्षश्च स्वेदस्यातिप्रवर्तनम् कण्डूर्विपूयकश्चैव कुष्ठे शोणितसंश्रिते",
         "iast": "tvaksvāpo romaharṣaśca svedasyātipravartanam kaṇḍūrvipūyakaścaiva kuṣṭhe śoṇitasaṃśrite",
         "iast_ru": "тваксва̄по ромахарш̣аш́ча сведасйа̄типравартанам кан̣д̣ӯрвипӯйакаш́чаива куш̣т̣хе ш́он̣итасам̣ш́рите",
-        "text": "Онемение кожи, «гусиная кожа» (ромахарша) и чрезмерное потоотделение — признаки куштхи, локализованной в коже. Зуд и гнойнички (випуяка) — признаки куштхи, локализованной в крови (шонита)."
+        "text": "Онемение кожи, «гусиная кожа» (ромахарша) и чрезмерное потоотделение — признаки куштхи, локализованной в коже. Зуд и гнойнички (випуяка) — признаки куштхи, локализованной в крови (шонита).",
+        "text_en": "Numbness of the skin, \"goose flesh\" (romaharsha), and excessive sweating are the signs of kushtha localized in the skin. Itching and small pustules (vipuyaka) are the signs of kushtha localized in the blood (shonita)."
       },
       {
         "type": "verse",
@@ -10281,7 +10719,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "बाहुल्यं वक्त्रशोषश्च कार्कश्यं पिडकोद्गमः तोदः स्फोटः स्थिरत्वं च कुष्ठे मांससमाश्रिते",
         "iast": "bāhulyaṃ vaktraśoṣaśca kārkaśyaṃ piḍakodgamaḥ todaḥ sphoṭaḥ sthiratvaṃ ca kuṣṭhe māṃsasamāśrite",
         "iast_ru": "ба̄хулйам̣ вактраш́ош̣аш́ча ка̄ркаш́йам̣ пид̣акодгамах̣ тодах̣ спхот̣ах̣ стхиратвам̣ ча куш̣т̣хе ма̄м̣сасама̄ш́рите",
-        "text": "Утолщение поражённых участков, сухость во рту, огрубение, появление узелков (пидака), колющая боль, пузыри (спхота) и уплотнение — признаки куштхи, локализованной в мышечной ткани (мамса)."
+        "text": "Утолщение поражённых участков, сухость во рту, огрубение, появление узелков (пидака), колющая боль, пузыри (спхота) и уплотнение — признаки куштхи, локализованной в мышечной ткани (мамса).",
+        "text_en": "Thickening of the affected areas, dryness of the mouth, coarsening, the appearance of nodules (pidaka), piercing pain, blisters (sphota), and induration are the signs of kushtha localized in the muscle tissue (mamsa)."
       },
       {
         "type": "verse",
@@ -10289,7 +10728,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कौण्यं गतिक्षयोऽङ्गानां संभेदः क्षतसर्पणम् भेदः स्थानगते लिङ्गं प्रागुक्तानि तथैव च",
         "iast": "kauṇyaṃ gatikṣayo'ṅgānāṃ saṃbhedaḥ kṣatasarpaṇam bhedaḥ sthānagate liṅgaṃ prāguktāni tathaiva ca",
         "iast_ru": "каун̣йам̣ гатикш̣айо'н̇га̄на̄м̣ сам̣бхедах̣ кш̣атасарпан̣ам бхедах̣ стха̄нагате лин̇гам̣ пра̄гукта̄ни татхаива ча",
-        "text": "Искривление конечностей, утрата подвижности, расщепление тканей, распространение болезни по язвам, растрескивание — признаки куштхи, локализованной в подкожном жире (медас); к ним прибавляются и ранее перечисленные."
+        "text": "Искривление конечностей, утрата подвижности, расщепление тканей, распространение болезни по язвам, растрескивание — признаки куштхи, локализованной в подкожном жире (медас); к ним прибавляются и ранее перечисленные.",
+        "text_en": "Distortion of the limbs, loss of mobility, splitting of the tissues, spread of the disease through the ulcers, and cracking are the signs of kushtha localized in the subcutaneous fat (medas); to these are added the signs listed earlier."
       },
       {
         "type": "verse",
@@ -10297,7 +10737,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "नासाभङ्गोऽक्षिरागश्च क्षतेषु क्रिमिसंभवः स्वरोपघातश्च भवेदस्थिमज्जसमाश्रिते",
         "iast": "nāsābhaṅgo'kṣirāgaśca kṣateṣu krimisaṃbhavaḥ svaropaghātaśca bhavedasthimajjasamāśrite",
         "iast_ru": "на̄са̄бхан̇го'кш̣ира̄гаш́ча кш̣атеш̣у кримисам̣бхавах̣ сваропагха̄таш́ча бхаведастхимаджджасама̄ш́рите",
-        "text": "Разрушение носа, покраснение глаз, появление червей (крими) в язвах и нарушение голоса — признаки куштхи, локализованной в костях (астхи) и костном мозге (маджа)."
+        "text": "Разрушение носа, покраснение глаз, появление червей (крими) в язвах и нарушение голоса — признаки куштхи, локализованной в костях (астхи) и костном мозге (маджа).",
+        "text_en": "Destruction of the nose, redness of the eyes, the appearance of worms (krimi) in the ulcers, and disturbance of the voice are the signs of kushtha localized in the bones (asthi) and bone marrow (majja)."
       },
       {
         "type": "verse",
@@ -10305,7 +10746,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दम्पत्योः कुष्ठबाहुल्याद् दुष्टशोणितशुक्रयोः यदपत्यं तयोर्जातं ज्ञेयं तदपि कुष्ठितम्",
         "iast": "dampatyoḥ kuṣṭhabāhulyād duṣṭaśoṇitaśukrayoḥ yadapatyaṃ tayorjātaṃ jñeyaṃ tadapi kuṣṭhitam",
         "iast_ru": "дампатйох̣ куш̣т̣хаба̄хулйа̄д душ̣т̣аш́он̣иташ́украйох̣ йадапатйам̣ тайорджа̄там̣ джн̃ейам̣ тадапи куш̣т̣хитам",
-        "text": "Если у обоих супругов имеется множественная куштха с порчей крови (шонита) и семени (шукра), то рождённое от них потомство также должно считаться поражённым куштхой."
+        "text": "Если у обоих супругов имеется множественная куштха с порчей крови (шонита) и семени (шукра), то рождённое от них потомство также должно считаться поражённым куштхой.",
+        "text_en": "If both spouses have extensive kushtha with contamination of the blood (shonita) and semen (shukra), then the offspring born to them should also be regarded as afflicted with kushtha."
       },
       {
         "type": "verse",
@@ -10313,7 +10755,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "साध्यं त्वग्रक्तमांसस्थं वातश्लेष्माधिकं च यत् मेदसि द्वन्द्वजं याप्यं वर्ज्यं मज्जास्थिसंश्रितम्",
         "iast": "sādhyaṃ tvagraktamāṃsasthaṃ vātaśleṣmādhikaṃ ca yat medasi dvandvajaṃ yāpyaṃ varjyaṃ majjāsthisaṃśritam",
         "iast_ru": "са̄дхйам̣ тваграктама̄м̣састхам̣ ва̄таш́леш̣ма̄дхикам̣ ча йат медаси двандваджам̣ йа̄пйам̣ варджйам̣ маджджа̄стхисам̣ш́ритам",
-        "text": "Излечимой (садхья) считается куштха, локализованная в коже, крови и мышцах, а также та, в которой преобладают Вата и Капха. Локализованная в жировой ткани и возникшая от двух дош — поддерживаемая (япья). Локализованная в костях и костном мозге — неизлечимая (варджья)."
+        "text": "Излечимой (садхья) считается куштха, локализованная в коже, крови и мышцах, а также та, в которой преобладают Вата и Капха. Локализованная в жировой ткани и возникшая от двух дош — поддерживаемая (япья). Локализованная в костях и костном мозге — неизлечимая (варджья).",
+        "text_en": "A kushtha localized in the skin, blood, and muscles, and one in which Vata and Kapha predominate, is considered curable (sadhya). One localized in the fat tissue and arising from two doshas is palliable (yapya). One localized in the bones and bone marrow is to be rejected as incurable (varjya)."
       },
       {
         "type": "verse",
@@ -10321,7 +10764,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "क्रिमितृड्दाहमन्दाग्निसंयुक्तं यत्त्रिदोषजम् प्रभिन्नं प्रस्रुताङ्गं च रक्तनेत्रं हतस्वरम्",
         "iast": "krimitṛḍdāhamandāgnisaṃyuktaṃ yattridoṣajam prabhinnaṃ prasrutāṅgaṃ ca raktanetraṃ hatasvaram",
         "iast_ru": "кримитр̣д̣да̄хаманда̄гнисам̣йуктам̣ йаттридош̣аджам прабхиннам̣ прасрута̄н̇гам̣ ча рактанетрам̣ хатасварам",
-        "text": "Та куштха, что возникла от трёх дош и сопровождается червями (крими), жаждой, жжением и ослаблением пищеварительного огня (мандагни), — а также та, при которой ткани разрушены, тело истекает гноем, глаза покраснели и голос утрачен, —"
+        "text": "Та куштха, что возникла от трёх дош и сопровождается червями (крими), жаждой, жжением и ослаблением пищеварительного огня (мандагни), — а также та, при которой ткани разрушены, тело истекает гноем, глаза покраснели и голос утрачен, —",
+        "text_en": "A kushtha that has arisen from all three doshas and is accompanied by worms (krimi), thirst, burning, and weakness of the digestive fire (mandagni) — and also one in which the tissues are destroyed, the body oozes pus, the eyes have reddened, and the voice is lost —"
       },
       {
         "type": "verse",
@@ -10329,7 +10773,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पञ्चकर्मगुणातीतं कुष्ठं हन्तीह मानवम् वातेन कुष्ठं कापालं पित्तेनौदुम्बरं कफात्",
         "iast": "pañcakarmaguṇātītaṃ kuṣṭhaṃ hantīha mānavam vātena kuṣṭhaṃ kāpālaṃ pittenaudumbaraṃ kaphāt",
         "iast_ru": "пан̃чакармагун̣а̄тӣтам̣ куш̣т̣хам̣ хантӣха ма̄навам ва̄тена куш̣т̣хам̣ ка̄па̄лам̣ питтенаудумбарам̣ капха̄т",
-        "text": "— куштха, не поддающаяся Панчакарме, — губит человека. От Ваты — Капала-куштха; от Питты — Удумбара; от Капхи —"
+        "text": "— куштха, не поддающаяся Панчакарме, — губит человека. От Ваты — Капала-куштха; от Питты — Удумбара; от Капхи —",
+        "text_en": "— a kushtha that does not respond to Panchakarma destroys a person. From Vata — Kapala-kushtha; from Pitta — Udumbara; from Kapha —"
       },
       {
         "type": "verse",
@@ -10337,7 +10782,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मण्डलाख्यं विचर्ची च ॠष्याख्यं वातपित्तजम् चर्मैककुष्ठं किटिभं सिध्मालसविपादिकाः",
         "iast": "maṇḍalākhyaṃ vicarcī ca ṝṣyākhyaṃ vātapittajam carmaikakuṣṭhaṃ kiṭibhaṃ sidhmālasavipādikāḥ",
         "iast_ru": "ман̣д̣ала̄кхйам̣ вичарчӣ ча р̣̄ш̣йа̄кхйам̣ ва̄тапиттаджам чармаикакуш̣т̣хам̣ кит̣ибхам̣ сидхма̄ласавипа̄дика̄х̣",
-        "text": "— Мандала и Вичарчика. От Ваты и Питты — Ришьяджихва. От Ваты и Капхи — Чарма (Эка-куштха), Китибха, Сидхма, Аласака и Вайпадика."
+        "text": "— Мандала и Вичарчика. От Ваты и Питты — Ришьяджихва. От Ваты и Капхи — Чарма (Эка-куштха), Китибха, Сидхма, Аласака и Вайпадика.",
+        "text_en": "— Mandala and Vicharchika. From Vata and Pitta — Rishyajihva. From Vata and Kapha — Charma (Eka-kushtha), Kitibha, Sidhma, Alasaka, and Vaipadika."
       },
       {
         "type": "verse",
@@ -10345,7 +10791,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातश्लेष्मोद्भवाः श्लेष्मपित्ताद्दद्रुशतारुषी पुण्डरीकं सविस्फोटं पामा चर्मदलं तथा",
         "iast": "vātaśleṣmodbhavāḥ śleṣmapittāddadruśatāruṣī puṇḍarīkaṃ savisphoṭaṃ pāmā carmadalaṃ tathā",
         "iast_ru": "ва̄таш́леш̣модбхава̄х̣ ш́леш̣мапитта̄ддадруш́ата̄руш̣ӣ пун̣д̣арӣкам̣ сависпхот̣ам̣ па̄ма̄ чармадалам̣ татха̄",
-        "text": "Эти перечисленные порождены Ватой и Капхой. От Капхи и Питты — Дадру и Шатаруш. От Капхи и Питты также Пундарика, Виспхота, Пама и Чармадала."
+        "text": "Эти перечисленные порождены Ватой и Капхой. От Капхи и Питты — Дадру и Шатаруш. От Капхи и Питты также Пундарика, Виспхота, Пама и Чармадала.",
+        "text_en": "These listed ones are produced by Vata and Kapha. From Kapha and Pitta — Dadru and Shatarush. From Kapha and Pitta also Pundarika, Visphota, Pama, and Charmadala."
       },
       {
         "type": "verse",
@@ -10353,7 +10800,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सर्वैः स्यात्काकणं पूर्वत्रिकं दद्रु सकाकणम् पुण्डरीकर्ष्यजिह्वे च महाकुष्ठानि सप्त तु",
         "iast": "sarvaiḥ syātkākaṇaṃ pūrvatrikaṃ dadru sakākaṇam puṇḍarīkarṣyajihve ca mahākuṣṭhāni sapta tu",
         "iast_ru": "сарваих̣ сйа̄тка̄кан̣ам̣ пӯрватрикам̣ дадру сака̄кан̣ам пун̣д̣арӣкарш̣йаджихве ча маха̄куш̣т̣ха̄ни сапта ту",
-        "text": "От всех трёх дош — Какана. Первые три Капала, Удумбара, Мандала вместе с Дадру и Какана, Пундарика и Ришьяджихва — составляют семь маха-куштх (тяжёлых кожных болезней)."
+        "text": "От всех трёх дош — Какана. Первые три Капала, Удумбара, Мандала вместе с Дадру и Какана, Пундарика и Ришьяджихва — составляют семь маха-куштх (тяжёлых кожных болезней).",
+        "text_en": "From all three doshas — Kakana. The first three, Kapala, Udumbara, Mandala, together with Dadru and Kakana, Pundarika, and Rishyajihva, make up the seven maha-kushthas (severe skin diseases)."
       },
       {
         "type": "verse",
@@ -10361,7 +10809,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुष्ठैकसम्भवं श्वित्रं किलासं वारुणं भवेत् निर्दिष्टमपरिस्रावि त्रिधातूद्भवसंश्रयम्",
         "iast": "kuṣṭhaikasambhavaṃ śvitraṃ kilāsaṃ vāruṇaṃ bhavet nirdiṣṭamaparisrāvi tridhātūdbhavasaṃśrayam",
         "iast_ru": "куш̣т̣хаикасамбхавам̣ ш́витрам̣ кила̄сам̣ ва̄рун̣ам̣ бхавет нирдиш̣т̣амапарисра̄ви тридха̄тӯдбхавасам̣ш́райам",
-        "text": "Швитра (лейкодерма), единообразная по происхождению с куштхой, именуется также Киласа и Варуна. Она определяется как не мокнущая, связанная с поражением трёх тканей (дхату)."
+        "text": "Швитра (лейкодерма), единообразная по происхождению с куштхой, именуется также Киласа и Варуна. Она определяется как не мокнущая, связанная с поражением трёх тканей (дхату).",
+        "text_en": "Shvitra (leukoderma), uniform in origin with kushtha, is also called Kilasa and Varuna. It is determined to be non-oozing, and associated with affliction of three tissues (dhatus)."
       },
       {
         "type": "verse",
@@ -10369,7 +10818,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वाताद्रू क्षारुणं पित्तात्ताम्रं कमलपत्रवत् सदाहं रोमविध्वंसि कफाच्छ्वेतं घनं गुरु",
         "iast": "vātādrū kṣāruṇaṃ pittāttāmraṃ kamalapatravat sadāhaṃ romavidhvaṃsi kaphācchvetaṃ ghanaṃ guru",
         "iast_ru": "ва̄та̄дрӯ кш̣а̄рун̣ам̣ питта̄тта̄мрам̣ камалапатрават сада̄хам̣ ромавидхвам̣си капха̄ччхветам̣ гханам̣ гуру",
-        "text": "От Ваты — сухая и красновато-бурая; от Питты — медного цвета, подобная лепестку лотоса, со жжением, с выпадением волос; от Капхи — белая, плотная и тяжёлая."
+        "text": "От Ваты — сухая и красновато-бурая; от Питты — медного цвета, подобная лепестку лотоса, со жжением, с выпадением волос; от Капхи — белая, плотная и тяжёлая.",
+        "text_en": "From Vata — dry and reddish-brown; from Pitta — of a copper hue, resembling a lotus petal, with burning and loss of hair; from Kapha — white, dense, and heavy."
       },
       {
         "type": "verse",
@@ -10377,7 +10827,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सकण्डुरं क्रमाद्र क्तमांसमेदःसु चादिशेत् वर्णेनैवेदृगुभयं कृच्छ्रं तच्चोत्तरोत्तरम्",
         "iast": "sakaṇḍuraṃ kramādra ktamāṃsamedaḥsu cādiśet varṇenaivedṛgubhayaṃ kṛcchraṃ taccottarottaram",
         "iast_ru": "сакан̣д̣урам̣ крама̄дра ктама̄м̣самедах̣су ча̄диш́ет варн̣енаиведр̣губхайам̣ кр̣ччхрам̣ таччоттароттарам",
-        "text": "С зудом; последовательно локализуется в крови, мышечной и жировой ткани. По указанным признакам швитру следует определять; каждая последующая стадия труднее предыдущей."
+        "text": "С зудом; последовательно локализуется в крови, мышечной и жировой ткани. По указанным признакам швитру следует определять; каждая последующая стадия труднее предыдущей.",
+        "text_en": "With itching; it becomes localized successively in the blood, muscle, and fat tissue. By these signs shvitra should be determined; each successive stage is more difficult than the one before."
       },
       {
         "type": "verse",
@@ -10385,7 +10836,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अशुक्लरोमाऽबहुलमसंश्लिष्टमथो नवम् अनग्निदग्धजं साध्यं श्वित्रं वर्ज्यमतोऽन्यथा",
         "iast": "aśuklaromā'bahulamasaṃśliṣṭamatho navam anagnidagdhajaṃ sādhyaṃ śvitraṃ varjyamato'nyathā",
         "iast_ru": "аш́укларома̄'бахуламасам̣ш́лиш̣т̣аматхо навам анагнидагдхаджам̣ са̄дхйам̣ ш́витрам̣ варджйамато'нйатха̄",
-        "text": "Швитра считается излечимой, если волосы на ней не обесцвечены, очаг невелик, не сливается с другими, является свежим и не возник на месте ожога. В противном случае — неизлечима."
+        "text": "Швитра считается излечимой, если волосы на ней не обесцвечены, очаг невелик, не сливается с другими, является свежим и не возник на месте ожога. В противном случае — неизлечима.",
+        "text_en": "Shvitra is considered curable if the hair over it is not discolored, the patch is small, does not merge with others, is fresh, and has not arisen at the site of a burn. Otherwise, it is incurable."
       },
       {
         "type": "verse",
@@ -10393,7 +10845,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गुह्यपाणितलौष्ठेषु जातमप्यचिरन्तनम् वर्जनीयं विशेषेण किलासं सिद्धिमिच्छता",
         "iast": "guhyapāṇitalauṣṭheṣu jātamapyacirantanam varjanīyaṃ viśeṣeṇa kilāsaṃ siddhimicchatā",
         "iast_ru": "гухйапа̄н̣италауш̣т̣хеш̣у джа̄тамапйачирантанам варджанӣйам̣ виш́еш̣ен̣а кила̄сам̣ сиддхимиччхата̄",
-        "text": "Киласа, возникшая на половых органах, ладонях, губах, — даже свежая, должна быть отвергнута как неизлечимая тем, кто желает успеха в лечении."
+        "text": "Киласа, возникшая на половых органах, ладонях, губах, — даже свежая, должна быть отвергнута как неизлечимая тем, кто желает успеха в лечении.",
+        "text_en": "Kilasa arising on the genitals, palms, or lips — even if fresh — should be rejected as incurable by one who desires success in treatment."
       },
       {
         "type": "verse",
@@ -10401,7 +10854,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "प्रसङ्गाद्गात्रसंस्पर्शान्निःश्वासात् सहभोजनात् एकशय्यासनाच्चैव वस्त्रमाल्यानुलेपनात्",
         "iast": "prasaṅgādgātrasaṃsparśānniḥśvāsāt sahabhojanāt ekaśayyāsanāccaiva vastramālyānulepanāt",
         "iast_ru": "прасан̇га̄дга̄трасам̣спарш́а̄нних̣ш́ва̄са̄т сахабходжана̄т екаш́аййа̄сана̄ччаива вастрама̄лйа̄нулепана̄т",
-        "text": "Через общение, соприкосновение тел, дыхание, совместную трапезу, общее ложе и сиденье, а также через одежду, гирлянды и притирания —"
+        "text": "Через общение, соприкосновение тел, дыхание, совместную трапезу, общее ложе и сиденье, а также через одежду, гирлянды и притирания —",
+        "text_en": "Through association, bodily contact, breathing together, eating together, sharing a bed or seat, and also through clothing, garlands, and unguents —"
       },
       {
         "type": "verse",
@@ -10409,7 +10863,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कुष्ठं ज्वरश्च शोषश्च नेत्राभिष्यन्द एव च औपसर्गिकरोगाश्च संक्रामन्ति नरान्नरम्",
         "iast": "kuṣṭhaṃ jvaraśca śoṣaśca netrābhiṣyanda eva ca aupasargikarogāśca saṃkrāmanti narānnaram",
         "iast_ru": "куш̣т̣хам̣ джвараш́ча ш́ош̣аш́ча нетра̄бхиш̣йанда ева ча аупасаргикарога̄ш́ча сам̣кра̄манти нара̄ннарам",
-        "text": "— куштха, лихорадка (джвара), чахотка (шоша), воспаление глаз (нетрабхишьянда) и другие заразные болезни (аупасаргика рога) передаются от человека к человеку."
+        "text": "— куштха, лихорадка (джвара), чахотка (шоша), воспаление глаз (нетрабхишьянда) и другие заразные болезни (аупасаргика рога) передаются от человека к человеку.",
+        "text_en": "— kushtha, fever (jvara), consumption (shosha), inflammation of the eyes (netrabhishyanda), and other contagious diseases (aupasargika rogas) are transmitted from person to person."
       }
     ]
   },
@@ -10431,7 +10886,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ शीतपित्तोदर्दकोठनिदानम् शीतमारुतसंस्पर्शात्प्रदुष्टौ कफमारुतौ पित्तेनसह सम्भूय बहिरन्तर्विसर्पतः",
         "iast": "atha śītapittodardakoṭhanidānam śītamārutasaṃsparśātpraduṣṭau kaphamārutau pittenasaha sambhūya bahirantarvisarpataḥ",
         "iast_ru": "атха ш́ӣтапиттодардакот̣ханида̄нам ш́ӣтама̄рутасам̣спарш́а̄тпрадуш̣т̣ау капхама̄рутау питтенасаха самбхӯйа бахирантарвисарпатах̣",
-        "text": "Итак, начинается глава о распознавании шитапитты, ударды и котхи. От соприкосновения с холодным ветром возбуждённые Капха и Вата, соединившись с Питтой, распространяются снаружи и внутри тела."
+        "text": "Итак, начинается глава о распознавании шитапитты, ударды и котхи. От соприкосновения с холодным ветром возбуждённые Капха и Вата, соединившись с Питтой, распространяются снаружи и внутри тела.",
+        "text_en": "Now begins the chapter on the diagnosis of shitapitta, udarda, and kotha. From contact with cold wind, the provoked Kapha and Vata, joining with Pitta, spread outward and within the body."
       },
       {
         "type": "verse",
@@ -10439,7 +10895,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पिपासाऽरुचिहृल्लासदेहसादाङ्गगौरवम् रक्तलोचनता तेषांपूर्वरूपस्य लक्षणम्",
         "iast": "pipāsā'rucihṛllāsadehasādāṅgagauravam raktalocanatā teṣāṃpūrvarūpasya lakṣaṇam",
         "iast_ru": "пипа̄са̄'ручихр̣лла̄садехаса̄да̄н̇гагауравам ракталочаната̄ теш̣а̄м̣пӯрварӯпасйа лакш̣ан̣ам",
-        "text": "Жажда, отвращение к пище, тошнота, упадок сил, тяжесть в теле и покраснение глаз — таковы признаки продромального периода этих заболеваний."
+        "text": "Жажда, отвращение к пище, тошнота, упадок сил, тяжесть в теле и покраснение глаз — таковы признаки продромального периода этих заболеваний.",
+        "text_en": "Thirst, aversion to food, nausea, loss of strength, heaviness of the body, and redness of the eyes are the premonitory signs of these diseases."
       },
       {
         "type": "verse",
@@ -10447,7 +10904,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वरटीदष्टसंस्थानः शोथः संजायते बहिः सकण्डूस्तोदबहुलश्छर्दिज्वरविदाहवान्",
         "iast": "varaṭīdaṣṭasaṃsthānaḥ śothaḥ saṃjāyate bahiḥ sakaṇḍūstodabahulaśchardijvaravidāhavān",
         "iast_ru": "варат̣ӣдаш̣т̣асам̣стха̄нах̣ ш́отхах̣ сам̣джа̄йате бахих̣ сакан̣д̣ӯстодабахулаш́чхардиджваравида̄хава̄н",
-        "text": "Снаружи на коже возникает припухлость, по виду напоминающая укус осы, сопровождающаяся сильным зудом и колющей болью, а также рвотой, лихорадкой и жжением."
+        "text": "Снаружи на коже возникает припухлость, по виду напоминающая укус осы, сопровождающаяся сильным зудом и колющей болью, а также рвотой, лихорадкой и жжением.",
+        "text_en": "Externally on the skin arises a swelling resembling in appearance a wasp sting, accompanied by intense itching and piercing pain, as well as vomiting, fever, and burning."
       },
       {
         "type": "verse",
@@ -10455,7 +10913,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उदर्दमिति तं विद्याच्छीतपित्तमथापरे वाताधिकं शीतपित्तमुदर्दस्तु कफाधिकः",
         "iast": "udardamiti taṃ vidyācchītapittamathāpare vātādhikaṃ śītapittamudardastu kaphādhikaḥ",
         "iast_ru": "удардамити там̣ видйа̄ччхӣтапиттаматха̄паре ва̄та̄дхикам̣ ш́ӣтапиттамудардасту капха̄дхиках̣",
-        "text": "Это состояние следует знать как ударду; другие же именуют его шитапиттой. Шитапитта — форма с преобладанием Ваты, ударда же — с преобладанием Капхи."
+        "text": "Это состояние следует знать как ударду; другие же именуют его шитапиттой. Шитапитта — форма с преобладанием Ваты, ударда же — с преобладанием Капхи.",
+        "text_en": "This condition should be known as udarda; others, however, call it shitapitta. Shitapitta is the form with a predominance of Vata, while udarda has a predominance of Kapha."
       },
       {
         "type": "verse",
@@ -10463,7 +10922,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सोत्सङ्गैश्च सरागैश्च कण्डूमद्भिश्च मण्डलैः शैशिरः कफजो व्याधिरुदर्द इति कीर्तितः",
         "iast": "sotsaṅgaiśca sarāgaiśca kaṇḍūmadbhiśca maṇḍalaiḥ śaiśiraḥ kaphajo vyādhirudarda iti kīrtitaḥ",
         "iast_ru": "сотсан̇гаиш́ча сара̄гаиш́ча кан̣д̣ӯмадбхиш́ча ман̣д̣алаих̣ ш́аиш́ирах̣ капхаджо вйа̄дхирударда ити кӣртитах̣",
-        "text": "С приподнятыми, покрасневшими и зудящими волдырями, это зимнее заболевание капхического происхождения именуется удардой."
+        "text": "С приподнятыми, покрасневшими и зудящими волдырями, это зимнее заболевание капхического происхождения именуется удардой.",
+        "text_en": "With raised, reddened, and itchy welts, this wintertime disease of Kapha origin is called udarda."
       },
       {
         "type": "verse",
@@ -10471,7 +10931,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "असम्यग्वमनोदीर्ण पित्तश्लेष्मान्ननिग्रहैः मण्डलानि सकण्डूनि रागवन्ति बहूनि च उत्कोठः सानुबन्धश्च कोठ इत्यभिधीयते",
         "iast": "asamyagvamanodīrṇa pittaśleṣmānnanigrahaiḥ maṇḍalāni sakaṇḍūni rāgavanti bahūni ca utkoṭhaḥ sānubandhaśca koṭha ityabhidhīyate",
         "iast_ru": "асамйагваманодӣрн̣а питташ́леш̣ма̄ннаниграхаих̣ ман̣д̣ала̄ни сакан̣д̣ӯни ра̄гаванти бахӯни ча уткот̣хах̣ са̄нубандхаш́ча кот̣ха итйабхидхӣйате",
-        "text": "Вследствие неправильно проведённой рвотной терапии, возбуждения Питты и Капхи, а также подавления позывов к еде появляются многочисленные зудящие и покрасневшие пятна; это состояние, сопровождающееся осложнениями, называется котхой."
+        "text": "Вследствие неправильно проведённой рвотной терапии, возбуждения Питты и Капхи, а также подавления позывов к еде появляются многочисленные зудящие и покрасневшие пятна; это состояние, сопровождающееся осложнениями, называется котхой.",
+        "text_en": "As a result of improperly administered emetic therapy, provocation of Pitta and Kapha, and suppression of the urge to eat, numerous itchy, reddened patches appear; this condition, accompanied by complications, is called kotha."
       },
       {
         "type": "comment",
@@ -10498,7 +10959,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथाम्लपित्तनिदानम् विरुद्धदुष्टाम्लविदाहिपित्तप्रकोपिपानान्नभुजो विदग्धम् पित्तं स्वहेतूपचितं पुरा यत्तदम्लपित्तं प्रवदन्ति सन्तः",
         "iast": "athāmlapittanidānam viruddhaduṣṭāmlavidāhipittaprakopipānānnabhujo vidagdham pittaṃ svahetūpacitaṃ purā yattadamlapittaṃ pravadanti santaḥ",
         "iast_ru": "атха̄млапиттанида̄нам вируддхадуш̣т̣а̄млавида̄хипиттапракопипа̄на̄ннабхуджо видагдхам питтам̣ свахетӯпачитам̣ пура̄ йаттадамлапиттам̣ праваданти сантах̣",
-        "text": "Теперь излагается глава о распознавании кислой Питты (амлапитта). У того, кто употребляет пищу и питьё несовместимые, испорченные, кислые, жгучие и возбуждающие Питту, переваренная ненадлежащим образом Питта, прежде накопленная своими причинами, — её мудрецы называют кислой Питтой (амлапитта)."
+        "text": "Теперь излагается глава о распознавании кислой Питты (амлапитта). У того, кто употребляет пищу и питьё несовместимые, испорченные, кислые, жгучие и возбуждающие Питту, переваренная ненадлежащим образом Питта, прежде накопленная своими причинами, — её мудрецы называют кислой Питтой (амлапитта).",
+        "text_en": "Now the chapter on the diagnosis of sour Pitta (amlapitta) is set forth. In one who consumes food and drink that are incompatible, spoiled, sour, burning, and provocative of Pitta, Pitta that has been improperly digested and previously accumulated by its own causes — the sages call this sour Pitta (amlapitta)."
       },
       {
         "type": "verse",
@@ -10506,7 +10968,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अविपाकक्लमोत्क्ले शतिक्ताम्लोद्गारगौरवैः हृत्कण्ठदाहारुचिभिश्चाम्लपित्तं वदेद्भिषक्",
         "iast": "avipākaklamotkle śatiktāmlodgāragauravaiḥ hṛtkaṇṭhadāhārucibhiścāmlapittaṃ vadedbhiṣak",
         "iast_ru": "авипа̄какламоткле ш́атикта̄млодга̄рагаураваих̣ хр̣ткан̣т̣хада̄ха̄ручибхиш́ча̄млапиттам̣ вадедбхиш̣ак",
-        "text": "По несварению, утомлению, тошноте, горькой и кислой отрыжке, тяжести, жжению в области сердца и горла, а также отвращению к пище врач должен распознать кислую Питту (амлапитта)."
+        "text": "По несварению, утомлению, тошноте, горькой и кислой отрыжке, тяжести, жжению в области сердца и горла, а также отвращению к пище врач должен распознать кислую Питту (амлапитта).",
+        "text_en": "By indigestion, fatigue, nausea, bitter and sour belching, heaviness, burning in the region of the heart and throat, and also aversion to food, the physician should recognize sour Pitta (amlapitta)."
       },
       {
         "type": "verse",
@@ -10514,7 +10977,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "तृड्दाहमूर्च्छाभ्रममोहकारि प्रयात्यधो वा विविधप्रकारम् हृल्लासकोठानलसादहर्षस्वेदाङ्गपीतत्वकरं कदाचित्",
         "iast": "tṛḍdāhamūrcchābhramamohakāri prayātyadho vā vividhaprakāram hṛllāsakoṭhānalasādaharṣasvedāṅgapītatvakaraṃ kadācit",
         "iast_ru": "тр̣д̣да̄хамӯрччха̄бхрамамохака̄ри прайа̄тйадхо ва̄ вивидхапрака̄рам хр̣лла̄сакот̣ха̄наласа̄дахарш̣асведа̄н̇гапӣтатвакарам̣ када̄чит",
-        "text": "Она вызывает жажду, жжение, обморок, головокружение и помрачение сознания; извергнутое выходит вниз либо вверх в разнообразных видах; порой порождает тошноту, крапивницу (котха), угасание пищеварительного огня, упадок сил, возбуждение, потливость и желтушную окраску тела."
+        "text": "Она вызывает жажду, жжение, обморок, головокружение и помрачение сознания; извергнутое выходит вниз либо вверх в разнообразных видах; порой порождает тошноту, крапивницу (котха), угасание пищеварительного огня, упадок сил, возбуждение, потливость и желтушную окраску тела.",
+        "text_en": "It causes thirst, burning, fainting, dizziness, and clouding of consciousness; what is ejected comes out downward or upward in various forms; it sometimes produces nausea, urticaria (kotha), extinguishing of the digestive fire, loss of strength, agitation, sweating, and a jaundiced coloring of the body."
       },
       {
         "type": "verse",
@@ -10522,7 +10986,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वान्तं हरित्पीतकनीलकृष्णमारक्तरक्ताभमतीव चाम्लम् मांसोदकाभं त्वतिपिच्छिलाच्छं श्लेष्मानुजातं विविधं रसेन",
         "iast": "vāntaṃ haritpītakanīlakṛṣṇamāraktaraktābhamatīva cāmlam māṃsodakābhaṃ tvatipicchilācchaṃ śleṣmānujātaṃ vividhaṃ rasena",
         "iast_ru": "ва̄нтам̣ харитпӣтаканӣлакр̣ш̣н̣ама̄рактаракта̄бхаматӣва ча̄млам ма̄м̣содака̄бхам̣ тватипиччхила̄ччхам̣ ш́леш̣ма̄нуджа̄там̣ вивидхам̣ расена",
-        "text": "Рвотные массы бывают зелёного, жёлтого, синего, чёрного, тёмно-красного или ярко-красного цвета, чрезвычайно кислые, напоминающие мясной отвар, либо весьма слизистые и прозрачные, сопровождаемые слизью (Капха), разнообразные по вкусу."
+        "text": "Рвотные массы бывают зелёного, жёлтого, синего, чёрного, тёмно-красного или ярко-красного цвета, чрезвычайно кислые, напоминающие мясной отвар, либо весьма слизистые и прозрачные, сопровождаемые слизью (Капха), разнообразные по вкусу.",
+        "text_en": "The vomited matter is green, yellow, blue, black, dark-red, or bright-red in color, extremely sour, resembling a meat broth, or quite mucous and clear, accompanied by mucus (Kapha), and varied in taste."
       },
       {
         "type": "comment",
@@ -10535,7 +11000,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भुक्ते विदग्धे त्वथवाऽप्यभुक्ते करोति तिक्ताम्लवमिं कदाचित् उद्गारमेवंविधमेव कण्ठहृत्कुक्षिदाहं शिरसो रुजं च",
         "iast": "bhukte vidagdhe tvathavā'pyabhukte karoti tiktāmlavamiṃ kadācit udgāramevaṃvidhameva kaṇṭhahṛtkukṣidāhaṃ śiraso rujaṃ ca",
         "iast_ru": "бхукте видагдхе тватхава̄'пйабхукте кароти тикта̄млавамим̣ када̄чит удга̄рамевам̣видхамева кан̣т̣хахр̣ткукш̣ида̄хам̣ ш́ирасо руджам̣ ча",
-        "text": "Когда съеденная пища переварена ненадлежащим образом или даже натощак болезнь порой вызывает горькую и кислую рвоту, отрыжку подобного же свойства, жжение в горле, области сердца и животе, а также головную боль."
+        "text": "Когда съеденная пища переварена ненадлежащим образом или даже натощак болезнь порой вызывает горькую и кислую рвоту, отрыжку подобного же свойства, жжение в горле, области сердца и животе, а также головную боль.",
+        "text_en": "When food that has been eaten is improperly digested, or even on an empty stomach, the disease sometimes causes bitter and sour vomiting, belching of a similar nature, burning in the throat, the region of the heart, and the abdomen, as well as headache."
       },
       {
         "type": "verse",
@@ -10543,7 +11009,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "करचरणदाहमौष्ण्यं महतीमरुचिं ज्वरं च कफपित्तम् जनयति कण्डूमण्डलपिण्डकाशतनिचितगात्ररोगचयम्",
         "iast": "karacaraṇadāhamauṣṇyaṃ mahatīmaruciṃ jvaraṃ ca kaphapittam janayati kaṇḍūmaṇḍalapiṇḍakāśatanicitagātrarogacayam",
         "iast_ru": "карачаран̣ада̄хамауш̣н̣йам̣ махатӣмаручим̣ джварам̣ ча капхапиттам джанайати кан̣д̣ӯман̣д̣алапин̣д̣ака̄ш́атаничитага̄трарогачайам",
-        "text": "Болезнь порождает жжение и жар в кистях и стопах, сильнейшее отвращение к пище, лихорадку, расстройства Капхи и Питты, зуд, кольцевидные высыпания, узелки (пиндака), сотни язвочек и скопление болезней тела."
+        "text": "Болезнь порождает жжение и жар в кистях и стопах, сильнейшее отвращение к пище, лихорадку, расстройства Капхи и Питты, зуд, кольцевидные высыпания, узелки (пиндака), сотни язвочек и скопление болезней тела.",
+        "text_en": "The disease produces burning and heat in the hands and feet, intense aversion to food, fever, disturbances of Kapha and Pitta, itching, ring-shaped eruptions, nodules (pindaka), hundreds of small sores, and a cluster of bodily ailments."
       },
       {
         "type": "comment",
@@ -10556,7 +11023,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "रोगोऽयमम्लपित्ताख्यो यत्नात् संसाध्यते नवः चिरोत्थितो भवेद्याप्यः कृच्छ्रसाध्यः स कस्यचित्",
         "iast": "rogo'yamamlapittākhyo yatnāt saṃsādhyate navaḥ cirotthito bhavedyāpyaḥ kṛcchrasādhyaḥ sa kasyacit",
         "iast_ru": "рого'йамамлапитта̄кхйо йатна̄т сам̣са̄дхйате навах̣ чироттхито бхаведйа̄пйах̣ кр̣ччхраса̄дхйах̣ са касйачит",
-        "text": "Эта болезнь, именуемая кислой Питтой (амлапитта), при усердном лечении излечима, пока она свежая. Застарелая же становится затяжной (япья), а у некоторых — трудноизлечимой."
+        "text": "Эта болезнь, именуемая кислой Питтой (амлапитта), при усердном лечении излечима, пока она свежая. Застарелая же становится затяжной (япья), а у некоторых — трудноизлечимой.",
+        "text_en": "This disease, called sour Pitta (amlapitta), is curable with diligent treatment while it is fresh. A chronic case, however, becomes protracted (yapya), and in some persons difficult to cure."
       },
       {
         "type": "verse",
@@ -10564,7 +11032,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "सानिलं सानिलकफं सकफं तच्च लक्षयेत् दोषलिङ्गेन मतिमान् भिषङ्मोहकरं हि तत्",
         "iast": "sānilaṃ sānilakaphaṃ sakaphaṃ tacca lakṣayet doṣaliṅgena matimān bhiṣaṅmohakaraṃ hi tat",
         "iast_ru": "са̄нилам̣ са̄нилакапхам̣ сакапхам̣ тачча лакш̣айет дош̣алин̇гена матима̄н бхиш̣ан̇мохакарам̣ хи тат",
-        "text": "Разумный врач должен распознавать её разновидности: с преобладанием Ваты, с Ватой и Капхой, с Капхой — по признакам соответствующих Дош, ибо эта болезнь способна ввести в заблуждение даже врача."
+        "text": "Разумный врач должен распознавать её разновидности: с преобладанием Ваты, с Ватой и Капхой, с Капхой — по признакам соответствующих Дош, ибо эта болезнь способна ввести в заблуждение даже врача.",
+        "text_en": "The wise physician should recognize its varieties: with a predominance of Vata, of Vata and Kapha, and of Kapha — by the signs of the corresponding doshas, for this disease is capable of misleading even a physician."
       },
       {
         "type": "verse",
@@ -10572,7 +11041,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कम्पप्रलापमूर्च्छाचिमिगात्रावसादशूलानि तमसो दर्शनविभ्रमविमोहहर्षाण्यनिलकोपात्",
         "iast": "kampapralāpamūrcchācimigātrāvasādaśūlāni tamaso darśanavibhramavimohaharṣāṇyanilakopāt",
         "iast_ru": "кампапрала̄памӯрччха̄чимига̄тра̄васа̄даш́ӯла̄ни тамасо дарш́анавибхрамавимохахарш̣а̄н̣йанилакопа̄т",
-        "text": "При возбуждении Ваты возникают: дрожь, бред, обморок, резь в кишечнике, упадок сил в теле, колющие боли, потемнение в глазах, расстройство зрения, помрачение сознания и нервное возбуждение."
+        "text": "При возбуждении Ваты возникают: дрожь, бред, обморок, резь в кишечнике, упадок сил в теле, колющие боли, потемнение в глазах, расстройство зрения, помрачение сознания и нервное возбуждение.",
+        "text_en": "When Vata is provoked, there arise: trembling, delirium, fainting, cutting pain in the intestines, loss of bodily strength, piercing pains, dimness of vision, disturbance of eyesight, clouding of consciousness, and nervous agitation."
       },
       {
         "type": "verse",
@@ -10580,7 +11050,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कफनिष्ठीवनगौरवजडतारुचिशीतसादवमिलेपाः दहनबलसादकण्डूनिद्रा श्चिह्नं कफानुगते",
         "iast": "kaphaniṣṭhīvanagauravajaḍatāruciśītasādavamilepāḥ dahanabalasādakaṇḍūnidrā ścihnaṃ kaphānugate",
         "iast_ru": "капханиш̣т̣хӣванагаураваджад̣ата̄ручиш́ӣтаса̄давамилепа̄х̣ даханабаласа̄дакан̣д̣ӯнидра̄ ш́чихнам̣ капха̄нугате",
-        "text": "При сопутствующей Капхе признаками являются: отхаркивание слизи, тяжесть, оцепенение, отвращение к пище, ощущение холода, упадок сил, слюнотечение, ослабление пищеварительного огня, зуд и сонливость."
+        "text": "При сопутствующей Капхе признаками являются: отхаркивание слизи, тяжесть, оцепенение, отвращение к пище, ощущение холода, упадок сил, слюнотечение, ослабление пищеварительного огня, зуд и сонливость.",
+        "text_en": "When Kapha is concurrently involved, the signs are: expectoration of mucus, heaviness, stupor, aversion to food, a sensation of cold, loss of strength, salivation, weakening of the digestive fire, itching, and drowsiness."
       },
       {
         "type": "verse",
@@ -10588,7 +11059,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "उभयमिदमेव चिह्नं मारुतकफसंभवे भवत्यम्ले तिक्ताम्लकटुकोद्गारहृत्कुक्षिकण्ठदाहकृत्",
         "iast": "ubhayamidameva cihnaṃ mārutakaphasaṃbhave bhavatyamle tiktāmlakaṭukodgārahṛtkukṣikaṇṭhadāhakṛt",
         "iast_ru": "убхайамидамева чихнам̣ ма̄рутакапхасам̣бхаве бхаватйамле тикта̄млакат̣укодга̄рахр̣ткукш̣икан̣т̣хада̄хакр̣т",
-        "text": "При кислой Питте, обусловленной совместным возбуждением Ваты и Капхи, проявляются оба эти комплекса признаков; она вызывает горькую, кислую и едкую отрыжку, а также жжение в области сердца, живота и горла."
+        "text": "При кислой Питте, обусловленной совместным возбуждением Ваты и Капхи, проявляются оба эти комплекса признаков; она вызывает горькую, кислую и едкую отрыжку, а также жжение в области сердца, живота и горла.",
+        "text_en": "In sour Pitta caused by the joint provocation of Vata and Kapha, both these sets of signs are manifested; it causes bitter, sour, and acrid belching, as well as burning in the region of the heart, abdomen, and throat."
       },
       {
         "type": "verse",
@@ -10596,7 +11068,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "भ्रमो मूर्च्छारुचिश्छर्दिरालस्यं च शिरोरुजा प्रसेको मुखमाधुर्यं श्लेष्मपित्तस्य लक्षणम्",
         "iast": "bhramo mūrcchāruciśchardirālasyaṃ ca śirorujā praseko mukhamādhuryaṃ śleṣmapittasya lakṣaṇam",
         "iast_ru": "бхрамо мӯрччха̄ручиш́чхардира̄ласйам̣ ча ш́ироруджа̄ прасеко мукхама̄дхурйам̣ ш́леш̣мапиттасйа лакш̣ан̣ам",
-        "text": "Головокружение, обморок, отвращение к пище, рвота, вялость и головная боль, слюнотечение и сладковатый привкус во рту — таковы признаки кислой Питты с преобладанием слизи (Капха) и Питты."
+        "text": "Головокружение, обморок, отвращение к пище, рвота, вялость и головная боль, слюнотечение и сладковатый привкус во рту — таковы признаки кислой Питты с преобладанием слизи (Капха) и Питты.",
+        "text_en": "Dizziness, fainting, aversion to food, vomiting, lethargy and headache, salivation, and a sweetish taste in the mouth are the signs of sour Pitta with a predominance of mucus (Kapha) and Pitta."
       }
     ]
   },
@@ -10618,7 +11091,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अथ विसर्पनिदानम् लवणाम्लकटूष्णादि संसेवादोषकोपतः विसर्पः सप्तधा ज्ञेयः सर्वतः परिसर्पणात्",
         "iast": "atha visarpanidānam lavaṇāmlakaṭūṣṇādi saṃsevādoṣakopataḥ visarpaḥ saptadhā jñeyaḥ sarvataḥ parisarpaṇāt",
         "iast_ru": "атха висарпанида̄нам лаван̣а̄млакат̣ӯш̣н̣а̄ди сам̣сева̄дош̣акопатах̣ висарпах̣ саптадха̄ джн̃ейах̣ сарватах̣ парисарпан̣а̄т",
-        "text": "Теперь излагается раздел о распознавании висарпы. Вследствие чрезмерного употребления солёного, кислого, острого, горячего и прочего возникает возбуждение дош; висарпа бывает семи видов и именуется так из-за распространения поражения во все стороны."
+        "text": "Теперь излагается раздел о распознавании висарпы. Вследствие чрезмерного употребления солёного, кислого, острого, горячего и прочего возникает возбуждение дош; висарпа бывает семи видов и именуется так из-за распространения поражения во все стороны.",
+        "text_en": "Now the section on the diagnosis of visarpa is set forth. As a result of excessive consumption of salty, sour, pungent, hot, and similar substances, provocation of the doshas arises; visarpa is of seven kinds and is so named because of the spread of the affliction in all directions."
       },
       {
         "type": "verse",
@@ -10626,7 +11100,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पृथक् त्रयस्त्रिभिश्चैको विसर्पा द्वन्द्वजास्त्रयः वातिकः पैत्तिकश्चैव कफजः सन्निपातिकः",
         "iast": "pṛthak trayastribhiścaiko visarpā dvandvajāstrayaḥ vātikaḥ paittikaścaiva kaphajaḥ sannipātikaḥ",
         "iast_ru": "пр̣тхак трайастрибхиш́чаико висарпа̄ двандваджа̄страйах̣ ва̄тиках̣ паиттикаш́чаива капхаджах̣ саннипа̄тиках̣",
-        "text": "Три вида висарпы вызваны каждой дошей по отдельности, и один — совокупностью трёх; ещё три висарпы происходят от сочетания двух дош: ватическая, паиттическая, капхаджа и саннипатическая."
+        "text": "Три вида висарпы вызваны каждой дошей по отдельности, и один — совокупностью трёх; ещё три висарпы происходят от сочетания двух дош: ватическая, паиттическая, капхаджа и саннипатическая.",
+        "text_en": "Three kinds of visarpa are caused by each dosha separately, and one by the combination of all three; three further kinds of visarpa arise from combinations of two doshas: vataja, paittika, kaphaja, and sannipatika."
       },
       {
         "type": "comment",
@@ -10639,7 +11114,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "चत्वार एते वीसर्पा वक्ष्यन्ते द्वन्द्वजास्त्रयः आग्नेयो वातपित्ताभ्यां ग्रन्थ्याख्यः कफवातजः",
         "iast": "catvāra ete vīsarpā vakṣyante dvandvajāstrayaḥ āgneyo vātapittābhyāṃ granthyākhyaḥ kaphavātajaḥ",
         "iast_ru": "чатва̄ра ете вӣсарпа̄ вакш̣йанте двандваджа̄страйах̣ а̄гнейо ва̄тапитта̄бхйа̄м̣ грантхйа̄кхйах̣ капхава̄таджах̣",
-        "text": "Эти четыре висарпы будут описаны, а также три, возникающие от сочетания двух дош: агнея — от Ваты и Питты, грантхи-висарпа — от Капхи и Ваты."
+        "text": "Эти четыре висарпы будут описаны, а также три, возникающие от сочетания двух дош: агнея — от Ваты и Питты, грантхи-висарпа — от Капхи и Ваты.",
+        "text_en": "These four visarpas will be described, as well as the three arising from combinations of two doshas: agneya — from Vata and Pitta, granthi-visarpa — from Kapha and Vata."
       },
       {
         "type": "verse",
@@ -10647,7 +11123,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "यस्तु कर्दमको घोरः स पित्तकफसंभवः रक्तं लसीका त्वङ्मांसं दूष्यं दोषास्त्रयो मलाः",
         "iast": "yastu kardamako ghoraḥ sa pittakaphasaṃbhavaḥ raktaṃ lasīkā tvaṅmāṃsaṃ dūṣyaṃ doṣāstrayo malāḥ",
         "iast_ru": "йасту кардамако гхорах̣ са питтакапхасам̣бхавах̣ рактам̣ ласӣка̄ тван̇ма̄м̣сам̣ дӯш̣йам̣ дош̣а̄страйо мала̄х̣",
-        "text": "А грозная кардама-висарпа порождается Питтой и Капхой. Кровь, лимфа, кожа и мышечная ткань являются поражаемыми субстратами; три доши — патологические отходы."
+        "text": "А грозная кардама-висарпа порождается Питтой и Капхой. Кровь, лимфа, кожа и мышечная ткань являются поражаемыми субстратами; три доши — патологические отходы.",
+        "text_en": "And the formidable kardama-visarpa is produced by Pitta and Kapha. Blood, lymph, skin, and muscle tissue are the affected substrates; the three doshas are the pathological agents."
       },
       {
         "type": "verse",
@@ -10655,7 +11132,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "विसर्पाणां समुत्पत्तौ विज्ञेयाः सप्त धातवः तत्र वातात् स वीसर्पो वातज्वरसमव्यथः",
         "iast": "visarpāṇāṃ samutpattau vijñeyāḥ sapta dhātavaḥ tatra vātāt sa vīsarpo vātajvarasamavyathaḥ",
         "iast_ru": "висарпа̄н̣а̄м̣ самутпаттау виджн̃ейа̄х̣ сапта дха̄тавах̣ татра ва̄та̄т са вӣсарпо ва̄таджварасамавйатхах̣",
-        "text": "При возникновении висарп следует знать семь вовлечённых тканей. Из них висарпа от Ваты сопровождается страданием, подобным вата-лихорадке."
+        "text": "При возникновении висарп следует знать семь вовлечённых тканей. Из них висарпа от Ваты сопровождается страданием, подобным вата-лихорадке.",
+        "text_en": "In the occurrence of the visarpas, the seven tissues involved should be known. Among these, visarpa from Vata is accompanied by suffering resembling that of Vata fever."
       },
       {
         "type": "verse",
@@ -10663,7 +11141,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शोथस्फुरणनिस्तोद भेदायासार्तिहर्षवान् पित्ताद्द्रुतगतिः पित्तज्वरलिङ्गोऽतिलोहितः",
         "iast": "śothasphuraṇanistoda bhedāyāsārtiharṣavān pittāddrutagatiḥ pittajvaraliṅgo'tilohitaḥ",
         "iast_ru": "ш́отхаспхуран̣анистода бхеда̄йа̄са̄ртихарш̣ава̄н питта̄ддрутагатих̣ питтаджваралин̇го'тилохитах̣",
-        "text": "Она проявляется отёком, подёргиванием, колющей болью, ощущением разламывания, утомлением, болезненностью и мурашками. От Питты — висарпа быстро распространяется, имеет признаки питта-лихорадки и выраженную красноту."
+        "text": "Она проявляется отёком, подёргиванием, колющей болью, ощущением разламывания, утомлением, болезненностью и мурашками. От Питты — висарпа быстро распространяется, имеет признаки питта-лихорадки и выраженную красноту.",
+        "text_en": "It manifests with swelling, twitching, piercing pain, a sensation of breaking, fatigue, tenderness, and horripilation. From Pitta — visarpa spreads rapidly, has the signs of Pitta fever, and marked redness."
       },
       {
         "type": "verse",
@@ -10671,7 +11150,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कफात् कण्डूयुतः स्निग्धः कफज्वरसमानरुक् सन्निपातसमुत्थश्च सर्वलिङ्गसमन्वितः",
         "iast": "kaphāt kaṇḍūyutaḥ snigdhaḥ kaphajvarasamānaruk sannipātasamutthaśca sarvaliṅgasamanvitaḥ",
         "iast_ru": "капха̄т кан̣д̣ӯйутах̣ снигдхах̣ капхаджварасама̄нарук саннипа̄тасамуттхаш́ча сарвалин̇гасаманвитах̣",
-        "text": "От Капхи — висарпа сопровождается зудом, маслянистая, с болью, подобной капха-лихорадке. Возникающая же от саннипаты совокупности трёх дош наделена всеми перечисленными признаками."
+        "text": "От Капхи — висарпа сопровождается зудом, маслянистая, с болью, подобной капха-лихорадке. Возникающая же от саннипаты совокупности трёх дош наделена всеми перечисленными признаками.",
+        "text_en": "From Kapha — visarpa is accompanied by itching, is oily, with pain resembling that of Kapha fever. That arising from sannipata, the combination of all three doshas, possesses all the signs listed."
       },
       {
         "type": "comment",
@@ -10684,7 +11164,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "वातपित्ताज्ज्वरच्छर्दि मूर्च्छातीसारतृड्भ्रमैः ग्रन्थिभेदाग्नि सदनतमकारोचकैर्युतः",
         "iast": "vātapittājjvaracchardi mūrcchātīsāratṛḍbhramaiḥ granthibhedāgni sadanatamakārocakairyutaḥ",
         "iast_ru": "ва̄тапитта̄джджвараччхарди мӯрччха̄тӣса̄ратр̣д̣бхрамаих̣ грантхибхеда̄гни саданатамака̄рочакаирйутах̣",
-        "text": "Висарпа от Ваты и Питты сопровождается лихорадкой, рвотой, обмороком, поносом, жаждой и головокружением, а также вскрытием узлов, угасанием пищеварительного огня, удушьем и отвращением к пище."
+        "text": "Висарпа от Ваты и Питты сопровождается лихорадкой, рвотой, обмороком, поносом, жаждой и головокружением, а также вскрытием узлов, угасанием пищеварительного огня, удушьем и отвращением к пище.",
+        "text_en": "Visarpa from Vata and Pitta is accompanied by fever, vomiting, fainting, diarrhea, thirst, and dizziness, as well as the opening of nodules, extinguishing of the digestive fire, suffocation, and aversion to food."
       },
       {
         "type": "verse",
@@ -10692,7 +11173,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "करोति सर्वमङ्गं च दीप्ताङ्गारावकीर्णवत् यं यं देशं विसर्पश्च विसर्पति भवेत् स सः",
         "iast": "karoti sarvamaṅgaṃ ca dīptāṅgārāvakīrṇavat yaṃ yaṃ deśaṃ visarpaśca visarpati bhavet sa saḥ",
         "iast_ru": "кароти сарваман̇гам̣ ча дӣпта̄н̇га̄ра̄вакӣрн̣ават йам̣ йам̣ деш́ам̣ висарпаш́ча висарпати бхавет са сах̣",
-        "text": "Она поражает всё тело, делая его подобным осыпанному горящими углями. В какую бы область висарпа ни распространялась — именно там она и проявляется."
+        "text": "Она поражает всё тело, делая его подобным осыпанному горящими углями. В какую бы область висарпа ни распространялась — именно там она и проявляется.",
+        "text_en": "It afflicts the entire body, making it appear as though strewn with burning coals. Whatever region visarpa spreads to, it manifests precisely there."
       },
       {
         "type": "verse",
@@ -10700,7 +11182,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "शान्ताङ्गारासितो नीलो रक्तो वाऽशु च चीयते अग्निदग्ध इव स्फोटैः शीघ्रगत्वाद् द्रुतं च सः",
         "iast": "śāntāṅgārāsito nīlo rakto vā'śu ca cīyate agnidagdha iva sphoṭaiḥ śīghragatvād drutaṃ ca saḥ",
         "iast_ru": "ш́а̄нта̄н̇га̄ра̄сито нӣло ракто ва̄'ш́у ча чӣйате агнидагдха ива спхот̣аих̣ ш́ӣгхрагатва̄д друтам̣ ча сах̣",
-        "text": "Кожа становится подобной потухшим углям — тёмной, синюшной или красной — и быстро поражение нарастает. Подобно ожогу от огня, она покрывается пузырями; из-за стремительности распространения этот вид называется быстрым."
+        "text": "Кожа становится подобной потухшим углям — тёмной, синюшной или красной — и быстро поражение нарастает. Подобно ожогу от огня, она покрывается пузырями; из-за стремительности распространения этот вид называется быстрым.",
+        "text_en": "The skin becomes like burnt-out embers — dark, livid, or red — and the affliction spreads rapidly. Like a burn from fire, it becomes covered with blisters; because of the rapidity of its spread, this type is called the swift one."
       },
       {
         "type": "verse",
@@ -10708,7 +11191,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "मर्मानुसारी वीसर्पः स्याद्वातोऽतिबलस्ततः व्यथतेऽङ्ग हरेत्संज्ञां निद्रा ं! च श्वासमीरयेत्",
         "iast": "marmānusārī vīsarpaḥ syādvāto'tibalastataḥ vyathate'ṅga haretsaṃjñāṃ nidrā ṃ! ca śvāsamīrayet",
         "iast_ru": "марма̄нуса̄рӣ вӣсарпах̣ сйа̄два̄то'тибаластатах̣ вйатхате'н̇га харетсам̣джн̃а̄м̣ нидра̄ м̣! ча ш́ва̄самӣрайет",
-        "text": "Висарпа, проникающая в жизненно важные точки (марма), возникает при чрезмерно усиленной Вате. Больной испытывает мучительную боль в теле, утрачивает сознание и сон, у него возникает одышка."
+        "text": "Висарпа, проникающая в жизненно важные точки (марма), возникает при чрезмерно усиленной Вате. Больной испытывает мучительную боль в теле, утрачивает сознание и сон, у него возникает одышка.",
+        "text_en": "Visarpa that penetrates the vital points (marmas) arises when Vata is excessively aggravated. The patient experiences agonizing pain in the body, loses consciousness and sleep, and develops dyspnea."
       },
       {
         "type": "verse",
@@ -10716,7 +11200,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "हिक्कां च स गतोऽवस्थामीदृशीं लभते न ना क्वचिच्छर्मारतिग्रस्तो भूमिशय्यासनादिषु",
         "iast": "hikkāṃ ca sa gato'vasthāmīdṛśīṃ labhate na nā kvaciccharmāratigrasto bhūmiśayyāsanādiṣu",
         "iast_ru": "хикка̄м̣ ча са гато'вастха̄мӣдр̣ш́ӣм̣ лабхате на на̄ квачиччхарма̄ратиграсто бхӯмиш́аййа̄сана̄диш̣у",
-        "text": "Появляется также икота; достигнув подобного состояния, больной не находит покоя нигде — ни лёжа на ложе, ни в положении сидя, ни в иных позах, будучи охвачен страданием кожи и беспокойством."
+        "text": "Появляется также икота; достигнув подобного состояния, больной не находит покоя нигде — ни лёжа на ложе, ни в положении сидя, ни в иных позах, будучи охвачен страданием кожи и беспокойством.",
+        "text_en": "Hiccup also appears; having reached such a state, the patient finds no rest anywhere — neither lying on a bed, nor sitting, nor in any other position, being seized by the suffering of the skin and by restlessness."
       },
       {
         "type": "verse",
@@ -10724,7 +11209,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "चेष्टमानस्ततः क्लिष्टो मनोदेहप्रमोहवान् दुस्प्रबोधोऽश्नुते निद्रा ं! सोऽग्निवीसर्प उच्यते",
         "iast": "ceṣṭamānastataḥ kliṣṭo manodehapramohavān dusprabodho'śnute nidrā ṃ! so'gnivīsarpa ucyate",
         "iast_ru": "чеш̣т̣ама̄настатах̣ клиш̣т̣о манодехапрамохава̄н дуспрабодхо'ш́нуте нидра̄ м̣! со'гнивӣсарпа учйате",
-        "text": "Больной, мечущийся от боли, измождённый, с помрачением ума и тела, с трудом пробуждаемый, впадает в тяжёлый сон — такая висарпа именуется агни-висарпой (огненной висарпой)."
+        "text": "Больной, мечущийся от боли, измождённый, с помрачением ума и тела, с трудом пробуждаемый, впадает в тяжёлый сон — такая висарпа именуется агни-висарпой (огненной висарпой).",
+        "text_en": "The patient, tossing about from pain, exhausted, with his mind and body clouded, roused with difficulty, falls into a heavy sleep — such visarpa is called agni-visarpa (fiery visarpa)."
       },
       {
         "type": "verse",
@@ -10732,7 +11218,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "कफेन रुद्धः पवनो भित्त्वा तं बहुधा कफम् रक्तं वा बृद्धरक्तस्य त्वक्सिरास्नायुमांसगम्",
         "iast": "kaphena ruddhaḥ pavano bhittvā taṃ bahudhā kapham raktaṃ vā bṛddharaktasya tvaksirāsnāyumāṃsagam",
         "iast_ru": "капхена руддхах̣ павано бхиттва̄ там̣ бахудха̄ капхам рактам̣ ва̄ бр̣ддхарактасйа тваксира̄сна̄йума̄м̣сагам",
-        "text": "Вата, заблокированная Капхой, прорывает эту Капху во многих местах; затем, у больного с избытком крови, поражает кровь, проникающую в кожу, сосуды, связки и мышцы."
+        "text": "Вата, заблокированная Капхой, прорывает эту Капху во многих местах; затем, у больного с избытком крови, поражает кровь, проникающую в кожу, сосуды, связки и мышцы.",
+        "text_en": "Vata, blocked by Kapha, breaks through this Kapha in many places; then, in a patient with an excess of blood, it afflicts the blood, penetrating into the skin, vessels, ligaments, and muscles."
       },
       {
         "type": "verse",
@@ -10740,7 +11227,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "दूषयित्वा तु दीर्घाणुवृत्तस्थूलखरात्मनाम् ग्रन्थीनां कुरुते मालां सरक्तां तीव्ररुग्ज्वराम्",
         "iast": "dūṣayitvā tu dīrghāṇuvṛttasthūlakharātmanām granthīnāṃ kurute mālāṃ saraktāṃ tīvrarugjvarām",
         "iast_ru": "дӯш̣айитва̄ ту дӣргха̄н̣увр̣ттастхӯлакхара̄тмана̄м грантхӣна̄м̣ куруте ма̄ла̄м̣ саракта̄м̣ тӣвраругджвара̄м",
-        "text": "Повредив ткани, она образует цепочку узлов — продолговатых, округлых, крупных и шероховатых, — с примесью крови, с сильной болью и лихорадкой."
+        "text": "Повредив ткани, она образует цепочку узлов — продолговатых, округлых, крупных и шероховатых, — с примесью крови, с сильной болью и лихорадкой.",
+        "text_en": "Having damaged the tissues, it forms a chain of nodules — elongated, rounded, large, and rough — mixed with blood, with severe pain and fever."
       },
       {
         "type": "verse",
@@ -10748,7 +11236,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "श्वासकासातिसारास्य शोषहिक्कावमिभ्रमैः मोहवैवर्ण्यमूर्च्छाङ्ग भङ्गाग्निसदनैर्युताम्",
         "iast": "śvāsakāsātisārāsya śoṣahikkāvamibhramaiḥ mohavaivarṇyamūrcchāṅga bhaṅgāgnisadanairyutām",
         "iast_ru": "ш́ва̄сака̄са̄тиса̄ра̄сйа ш́ош̣ахикка̄вамибхрамаих̣ мохаваиварн̣йамӯрччха̄н̇га бхан̇га̄гнисаданаирйута̄м",
-        "text": "Эта висарпа сопровождается одышкой, кашлем, поносом, истощением, икотой, рвотой, головокружением, помрачением сознания, изменением цвета кожи, обмороком, ломотой в теле и угасанием пищеварительного огня."
+        "text": "Эта висарпа сопровождается одышкой, кашлем, поносом, истощением, икотой, рвотой, головокружением, помрачением сознания, изменением цвета кожи, обмороком, ломотой в теле и угасанием пищеварительного огня.",
+        "text_en": "This visarpa is accompanied by dyspnea, cough, diarrhea, wasting, hiccup, vomiting, dizziness, clouding of consciousness, discoloration of the skin, fainting, aching of the body, and extinguishing of the digestive fire."
       },
       {
         "type": "verse",
@@ -10756,7 +11245,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "इत्ययं ग्रन्थिवीसर्पः कफमारुतकोपजः कफपित्ताज्ज्वरः स्तम्भो निद्रा तन्द्रा शिरोरुजा",
         "iast": "ityayaṃ granthivīsarpaḥ kaphamārutakopajaḥ kaphapittājjvaraḥ stambho nidrā tandrā śirorujā",
         "iast_ru": "итйайам̣ грантхивӣсарпах̣ капхама̄рутакопаджах̣ капхапитта̄джджварах̣ стамбхо нидра̄ тандра̄ ш́ироруджа̄",
-        "text": "Таковая есть грантхи-висарпа (узловая висарпа), возникающая от возбуждения Капхи и Ваты. От сочетания Капхи и Питты появляются лихорадка, скованность, сонливость, вялость и головная боль."
+        "text": "Таковая есть грантхи-висарпа (узловая висарпа), возникающая от возбуждения Капхи и Ваты. От сочетания Капхи и Питты появляются лихорадка, скованность, сонливость, вялость и головная боль.",
+        "text_en": "This is granthi-visarpa (nodular visarpa), arising from the provocation of Kapha and Vata. From the combination of Kapha and Pitta there arise fever, stiffness, drowsiness, lethargy, and headache."
       },
       {
         "type": "verse",
@@ -10764,7 +11254,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "अङ्गावसादविक्षेपौ प्रलेपारोचकभ्रमाः मूर्च्छाग्निहानिर्भेदोऽस्थ्ना पिपासेन्द्रि यगौरवम्",
         "iast": "aṅgāvasādavikṣepau pralepārocakabhramāḥ mūrcchāgnihānirbhedo'sthnā pipāsendri yagauravam",
         "iast_ru": "ан̇га̄васа̄давикш̣епау пралепа̄рочакабхрама̄х̣ мӯрччха̄гниха̄нирбхедо'стхна̄ пипа̄сендри йагауравам",
-        "text": "Также возникают упадок сил в конечностях и их непроизвольные движения, ощущение обмазанности тела, отвращение к пище, головокружение, обморок, угасание пищеварительного огня, боль в костях, жажда и тяжесть в органах чувств."
+        "text": "Также возникают упадок сил в конечностях и их непроизвольные движения, ощущение обмазанности тела, отвращение к пище, головокружение, обморок, угасание пищеварительного огня, боль в костях, жажда и тяжесть в органах чувств.",
+        "text_en": "There also arise loss of strength in the limbs and their involuntary movements, a sensation of the body being smeared over, aversion to food, dizziness, fainting, extinguishing of the digestive fire, pain in the bones, thirst, and heaviness of the sense organs."
       },
       {
         "type": "verse",
@@ -10772,7 +11263,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "आमोपवेशनं लेपः स्रोतसां स च सर्पति प्रायेणामाशयं गृह्णन्नेकदेशं न चातिरुक्",
         "iast": "āmopaveśanaṃ lepaḥ srotasāṃ sa ca sarpati prāyeṇāmāśayaṃ gṛhṇannekadeśaṃ na cātiruk",
         "iast_ru": "а̄мопавеш́анам̣ лепах̣ сротаса̄м̣ са ча сарпати пра̄йен̣а̄ма̄ш́айам̣ гр̣хн̣аннекадеш́ам̣ на ча̄тирук",
-        "text": "Незрелая патологическая субстанция оседает в тканях и закупоривает каналы (сротасы); висарпа распространяется, преимущественно захватывая область желудка (амашая), поражая отдельные участки; боль при этом не чрезмерна."
+        "text": "Незрелая патологическая субстанция оседает в тканях и закупоривает каналы (сротасы); висарпа распространяется, преимущественно захватывая область желудка (амашая), поражая отдельные участки; боль при этом не чрезмерна.",
+        "text_en": "The immature pathological substance settles in the tissues and blocks the channels (srotas); visarpa spreads, predominantly involving the region of the stomach (amashaya), affecting separate areas; the pain in this case is not excessive."
       },
       {
         "type": "verse",
@@ -10780,7 +11272,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "पिडकैरवकीर्णोऽतिपीत लोहितपाण्डुरैः स्निग्धोऽसितो मेचकाभो मलिनः शोथवान् गुरुः",
         "iast": "piḍakairavakīrṇo'tipīta lohitapāṇḍuraiḥ snigdho'sito mecakābho malinaḥ śothavān guruḥ",
         "iast_ru": "пид̣акаиравакӣрн̣о'типӣта лохитапа̄н̣д̣ураих̣ снигдхо'сито мечака̄бхо малинах̣ ш́отхава̄н гурух̣",
-        "text": "Поражённая область усеяна высыпаниями — чрезмерно жёлтыми, красными и бледными; кожа маслянистая, тёмная, серовато-синяя, тусклая, с отёком и ощущением тяжести."
+        "text": "Поражённая область усеяна высыпаниями — чрезмерно жёлтыми, красными и бледными; кожа маслянистая, тёмная, серовато-синяя, тусклая, с отёком и ощущением тяжести.",
+        "text_en": "The affected area is studded with eruptions — excessively yellow, red, and pale; the skin is oily, dark, grayish-blue, dull, with swelling and a sensation of heaviness."
       },
       {
         "type": "verse",
@@ -10788,7 +11281,8 @@ export const MADHAVA_DATA = [
         "sanskrit": "गम्भीरपाकः प्राज्योष्मा स्पृष्टः क्लिन्नोऽवदीर्यते पङ्कवच्छीर्णमांसश्च स्पष्टस्नायुसिरागणः",
         "iast": "gambhīrapākaḥ prājyoṣmā spṛṣṭaḥ klinno'vadīryate paṅkavacchīrṇamāṃsaśca spaṣṭasnāyusirāgaṇaḥ",
         "iast_ru": "гамбхӣрапа̄ках̣ пра̄джйош̣ма̄ спр̣ш̣т̣ах̣ клинно'вадӣрйате пан̇каваччхӣрн̣ама̄м̣саш́ча спаш̣т̣асна̄йусира̄ган̣ах̣",
-        "text": "Висарпа отличается глубоким нагноением и обильным жаром; при прикосновении ткань влажная и распадается; мышечная ткань разрушается подобно грязи, отчётливо обнажая сухожилия и сосуды."
+        "text": "Висарпа отличается глубоким нагноением и обильным жаром; при прикосновении ткань влажная и распадается; мышечная ткань разрушается подобно грязи, отчётливо обнажая сухожилия и сосуды.",
+        "text_en": "This visarpa is distinguished by deep suppuration and copious heat; on touch, the tissue is moist and disintegrating; the muscle tissue breaks down like mud, plainly exposing the tendons and vessels."
       },
       {
         "type": "verse",
