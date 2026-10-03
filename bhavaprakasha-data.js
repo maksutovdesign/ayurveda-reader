@@ -24267,7 +24267,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अलर्ककुसुमं वृष्यं लघु दीपनपाचनम् अरोचकप्रसेकार्शः कासश्वासनिवारणम्",
         "iast": "alarkakusumaṃ vṛṣyaṃ laghu dīpanapācanam arocakaprasekārśaḥ kāsaśvāsanivāraṇam",
         "iast_ru": "аларкакусумам̣ вр̣ш̣йам̣ лагху дӣпанапа̄чанам арочакапрасека̄рш́ах̣ ка̄саш́ва̄санива̄ран̣ам",
-        "text": "Цветок белой арки способствует мужской силе, лёгкий, разжигающий, переваривающий; устраняет отсутствие аппетита, слюнотечение, геморрой, кашель и одышку."
+        "text": "Цветок белой арки способствует мужской силе, лёгкий, разжигающий, переваривающий; устраняет отсутствие аппетита, слюнотечение, геморрой, кашель и одышку.",
+        "text_en": "The flower of the white Arka promotes virility; it is light, appetizing and digestive; it removes anorexia, salivation, piles, cough and dyspnea."
       },
       {
         "type": "verse",
@@ -24275,7 +24276,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तार्कपुष्पं मधुरं सतिक्तं कुष्ठकृमिघ्नं कफनाशनञ्च अर्शो विषं हन्ति च रक्तपित्तं संग्राहि गुल्मे श्वयथौ हितं तत्",
         "iast": "raktārkapuṣpaṃ madhuraṃ satiktaṃ kuṣṭhakṛmighnaṃ kaphanāśanañca arśo viṣaṃ hanti ca raktapittaṃ saṃgrāhi gulme śvayathau hitaṃ tat",
         "iast_ru": "ракта̄ркапуш̣пам̣ мадхурам̣ сатиктам̣ куш̣т̣хакр̣мигхнам̣ капхана̄ш́анан̃ча арш́о виш̣ам̣ ханти ча рактапиттам̣ сам̣гра̄хи гулме ш́вайатхау хитам̣ тат",
-        "text": "Цветок красной арки сладкий и горький, устраняет куштху и паразитов, устраняет Капху; устраняет геморрой, яд, кровопитта-расстройства, закрепляющий, полезен при гульме и отёке."
+        "text": "Цветок красной арки сладкий и горький, устраняет куштху и паразитов, устраняет Капху; устраняет геморрой, яд, кровопитта-расстройства, закрепляющий, полезен при гульме и отёке.",
+        "text_en": "The flower of the red Arka is sweet and bitter; it removes kushtha and worms, pacifies Kapha; it removes piles and poison, and the disorders of blood and Pitta; it is astringent, and beneficial in gulma and edema."
       },
       {
         "type": "verse",
@@ -24283,7 +24285,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षीरमर्कस्य तिक्तोष्णं स्निग्धं सलवणं लघु कुष्ठगुल्मोदरहरं श्रेष्ठमेतद्विरेचनम्",
         "iast": "kṣīramarkasya tiktoṣṇaṃ snigdhaṃ salavaṇaṃ laghu kuṣṭhagulmodaraharaṃ śreṣṭhametadvirecanam",
         "iast_ru": "кш̣ӣрамаркасйа тиктош̣н̣ам̣ снигдхам̣ салаван̣ам̣ лагху куш̣т̣хагулмодарахарам̣ ш́реш̣т̣хаметадвиречанам",
-        "text": "Молочный сок арки горький, горячий, маслянистый, солёный, лёгкий; устраняет куштху, гульму, водянку живота — лучшее слабительное."
+        "text": "Молочный сок арки горький, горячий, маслянистый, солёный, лёгкий; устраняет куштху, гульму, водянку живота — лучшее слабительное.",
+        "text_en": "The milky latex of Arka is bitter, hot, unctuous, salty and light; it removes kushtha, gulma and ascites — it is the best purgative."
       },
       {
         "type": "verse",
@@ -24291,7 +24294,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सेहुण्डः सिंहतुण्डः स्याद्वज्री वज्रद्रुमोऽपि च सुधासमन्तदुग्धा च स्नुक्स्त्रियां स्यात्स्नुही गुडा",
         "iast": "sehuṇḍaḥ siṃhatuṇḍaḥ syādvajrī vajradrumo'pi ca sudhāsamantadugdhā ca snukstriyāṃ syātsnuhī guḍā",
         "iast_ru": "сехун̣д̣ах̣ сим̣хатун̣д̣ах̣ сйа̄дваджрӣ ваджрадрумо'пи ча судха̄самантадугдха̄ ча снукстрийа̄м̣ сйа̄тснухӣ гуд̣а̄",
-        "text": "Молочай (сехунда) — симхатунда, ваджри, ваджрадрума, «подобный извести», «дающий молоко повсюду», снук, тройственная, снухи, гуда."
+        "text": "Молочай (сехунда) — симхатунда, ваджри, ваджрадрума, «подобный извести», «дающий молоко повсюду», снук, тройственная, снухи, гуда.",
+        "text_en": "Snuhi (Euphorbia) has the synonyms: Sihunda, Simhatunda, Vajri, Vajradruma, \"lime-like\", \"yielding milk everywhere\", Snuk, Tridhara, Snuhi, Guda."
       },
       {
         "type": "verse",
@@ -24299,7 +24303,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सेहुण्डो रेचनस्तीक्ष्णो दीपनः कटुको गुरुः शूलामाष्ठीलिकाऽध्मानकफगुल्मोदरानिलान्",
         "iast": "sehuṇḍo recanastīkṣṇo dīpanaḥ kaṭuko guruḥ śūlāmāṣṭhīlikā'dhmānakaphagulmodarānilān",
         "iast_ru": "сехун̣д̣о речанастӣкш̣н̣о дӣпанах̣ кат̣уко гурух̣ ш́ӯла̄ма̄ш̣т̣хӣлика̄'дхма̄накапхагулмодара̄нила̄н",
-        "text": "Сехунда послабляющий, острый, разжигающий, острый, тяжёлый; устраняет колику, вздутие живота, Капху, гульму, водянку живота и Вату,"
+        "text": "Сехунда послабляющий, острый, разжигающий, острый, тяжёлый; устраняет колику, вздутие живота, Капху, гульму, водянку живота и Вату,",
+        "text_en": "Snuhi is purgative, pungent, appetizing, sharp and heavy; it removes colic, abdominal distension, Kapha, gulma, ascites and Vata,"
       },
       {
         "type": "verse",
@@ -24307,7 +24312,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उन्मादमोहकुष्ठार्शः शोथमेदोऽश्मपाण्डुताः व्रणशोथज्वरप्लीहविषदूषीविषं हरेत्",
         "iast": "unmādamohakuṣṭhārśaḥ śothamedo'śmapāṇḍutāḥ vraṇaśothajvaraplīhaviṣadūṣīviṣaṃ haret",
         "iast_ru": "унма̄дамохакуш̣т̣ха̄рш́ах̣ ш́отхамедо'ш́мапа̄н̣д̣ута̄х̣ вран̣аш́отхаджвараплӣхавиш̣адӯш̣ӣвиш̣ам̣ харет",
-        "text": "устраняет безумие, помрачение, куштху, геморрой, отёк, жир, мочекаменную болезнь, бледную немочь; устраняет раневой отёк, лихорадку, увеличение селезёнки, яд и отравление."
+        "text": "устраняет безумие, помрачение, куштху, геморрой, отёк, жир, мочекаменную болезнь, бледную немочь; устраняет раневой отёк, лихорадку, увеличение селезёнки, яд и отравление.",
+        "text_en": "it removes insanity, delusion, kushtha, piles, edema, obesity, urinary calculus and anemia; it removes wound-swelling, fever, enlargement of the spleen, poison and toxicity."
       },
       {
         "type": "verse",
@@ -24315,7 +24321,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णवीर्यं स्नुहीक्षीरं स्निग्धञ्च कटुकं लघु गुल्मिनां कुष्ठिनाञ्चापि तथैवोदररोगिणाम्",
         "iast": "uṣṇavīryaṃ snuhīkṣīraṃ snigdhañca kaṭukaṃ laghu gulmināṃ kuṣṭhināñcāpi tathaivodararogiṇām",
         "iast_ru": "уш̣н̣авӣрйам̣ снухӣкш̣ӣрам̣ снигдхан̃ча кат̣укам̣ лагху гулмина̄м̣ куш̣т̣хина̄н̃ча̄пи татхаиводарарогин̣а̄м",
-        "text": "Молочный сок снухи горячий по энергии, маслянистый, острый, лёгкий; полезен для страдающих гульмой, куштхой, а также водянкой живота."
+        "text": "Молочный сок снухи горячий по энергии, маслянистый, острый, лёгкий; полезен для страдающих гульмой, куштхой, а также водянкой живота.",
+        "text_en": "The milky latex of Snuhi is hot in potency, unctuous, pungent and light; it is beneficial for those suffering from gulma, kushtha and also ascites."
       },
       {
         "type": "verse",
@@ -24323,7 +24330,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हितमेतद्विरेकार्थं ये चान्ये दीर्घरोगिणः",
         "iast": "hitametadvirekārthaṃ ye cānye dīrgharogiṇaḥ",
         "iast_ru": "хитаметадвирека̄ртхам̣ йе ча̄нйе дӣргхарогин̣ах̣",
-        "text": "Это полезно для целей слабительного и для других страдающих затяжными болезнями."
+        "text": "Это полезно для целей слабительного и для других страдающих затяжными болезнями.",
+        "text_en": "This is useful for purgation and for others suffering from chronic diseases."
       },
       {
         "type": "verse",
@@ -24331,7 +24339,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शातला सप्तला सारा विमला विदुला च सा तथा निगदिता भूरिफेना चर्मकषेत्यपि",
         "iast": "śātalā saptalā sārā vimalā vidulā ca sā tathā nigaditā bhūriphenā carmakaṣetyapi",
         "iast_ru": "ш́а̄тала̄ саптала̄ са̄ра̄ вимала̄ видула̄ ча са̄ татха̄ нигадита̄ бхӯрипхена̄ чармакаш̣етйапи",
-        "text": "Шатала — саптала, сара, вимала, видула; так же провозглашена «обильнопенистой», чармакаша."
+        "text": "Шатала — саптала, сара, вимала, видула; так же провозглашена «обильнопенистой», чармакаша.",
+        "text_en": "Shatala has the synonyms: Saptala, Sara, Vimala, Vidula; likewise it is declared to be \"profusely frothy\" and Charmakasha."
       },
       {
         "type": "verse",
@@ -24339,7 +24348,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शातला कटुका पाके वातला शीतला लघुः तिक्ता शोथकफानाहपित्तोदावर्त्तरक्तजित्",
         "iast": "śātalā kaṭukā pāke vātalā śītalā laghuḥ tiktā śothakaphānāhapittodāvarttaraktajit",
         "iast_ru": "ш́а̄тала̄ кат̣ука̄ па̄ке ва̄тала̄ ш́ӣтала̄ лагхух̣ тикта̄ ш́отхакапха̄на̄хапиттода̄варттарактаджит",
-        "text": "Шатала острая по вкусу после переваривания, вызывает Вату, холодная, лёгкая; горькая, устраняет отёк, Капху, вздутие, Питту и обратный ход крови."
+        "text": "Шатала острая по вкусу после переваривания, вызывает Вату, холодная, лёгкая; горькая, устраняет отёк, Капху, вздутие, Питту и обратный ход крови.",
+        "text_en": "Shatala is pungent in taste after digestion, aggravates Vata, is cold and light; it is bitter, and removes edema, Kapha, flatulence, Pitta and upward movement of blood."
       },
       {
         "type": "verse",
@@ -24347,7 +24357,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कलिहारी तु हलिनी लाङ्गली शक्रपुष्प्यपि विशल्याऽग्निशिखाऽनन्तावह्निवक्त्रा च गर्भनुत् कलिहारी सरा कुष्ठशोफार्शोव्रणशूलजित्",
         "iast": "kalihārī tu halinī lāṅgalī śakrapuṣpyapi viśalyā'gniśikhā'nantāvahnivaktrā ca garbhanut kalihārī sarā kuṣṭhaśophārśovraṇaśūlajit",
         "iast_ru": "калиха̄рӣ ту халинӣ ла̄н̇галӣ ш́акрапуш̣пйапи виш́алйа̄'гниш́икха̄'нанта̄вахнивактра̄ ча гарбханут калиха̄рӣ сара̄ куш̣т̣хаш́опха̄рш́овран̣аш́ӯладжит",
-        "text": "Калихари — халини, лангали, шакрапушпи; вишалья, агнишикха, ананта, вахнивактра, вызывает выкидыш;"
+        "text": "Калихари — халини, лангали, шакрапушпи; вишалья, агнишикха, ананта, вахнивактра, вызывает выкидыш;",
+        "text_en": "Kalihari has the synonyms: Halini, Langali, Shakrapushpi; Vishalya, Agnishikha, Ananta, Vahnivaktra; it causes abortion;"
       },
       {
         "type": "verse",
@@ -24355,7 +24366,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सक्षारा श्लेष्मजित्तिक्ताकटुका तुवराऽपि च तीक्ष्णोष्णा कृमिहृल्लघ्वी पित्तलागर्भपातिनी",
         "iast": "sakṣārā śleṣmajittiktākaṭukā tuvarā'pi ca tīkṣṇoṣṇā kṛmihṛllaghvī pittalāgarbhapātinī",
         "iast_ru": "сакш̣а̄ра̄ ш́леш̣маджиттикта̄кат̣ука̄ тувара̄'пи ча тӣкш̣н̣ош̣н̣а̄ кр̣михр̣ллагхвӣ питтала̄гарбхапа̄тинӣ",
-        "text": "калихари послабляющая, со щёлочью, устраняет Капху, горькая, острая, вяжущая; острая, горячая, устраняет паразитов, лёгкая, порождает Питту, вызывает выкидыш, устраняет куштху, отёк, геморрой, раны и колику."
+        "text": "калихари послабляющая, со щёлочью, устраняет Капху, горькая, острая, вяжущая; острая, горячая, устраняет паразитов, лёгкая, порождает Питту, вызывает выкидыш, устраняет куштху, отёк, геморрой, раны и колику.",
+        "text_en": "Kalihari is purgative, alkaline, removes Kapha; it is bitter, pungent and astringent; pungent, hot, destroys worms, light, produces Pitta, causes abortion, and removes kushtha, edema, piles, wounds and colic."
       },
       {
         "type": "verse",
@@ -24363,7 +24375,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करवीरः श्वेतपुष्पः शतकुम्भोऽश्वमारकः द्वितीयो रक्तपुष्पश्च चण्डातो लगुडस्तथा",
         "iast": "karavīraḥ śvetapuṣpaḥ śatakumbho'śvamārakaḥ dvitīyo raktapuṣpaśca caṇḍāto laguḍastathā",
         "iast_ru": "каравӣрах̣ ш́ветапуш̣пах̣ ш́атакумбхо'ш́вама̄раках̣ двитӣйо рактапуш̣паш́ча чан̣д̣а̄то лагуд̣астатха̄",
-        "text": "Олеандр (каравира) — белоцветковый, шатакумбха, ашвамарака; второй, с красным цветком, — чандата, лагуда."
+        "text": "Олеандр (каравира) — белоцветковый, шатакумбха, ашвамарака; второй, с красным цветком, — чандата, лагуда.",
+        "text_en": "Oleander (Karavira) — the white-flowered one is Shatakumbha, Ashvamaraka; the second, with red flowers, is Chandata, Laguda."
       },
       {
         "type": "verse",
@@ -24371,7 +24384,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करवीरद्वयं तिक्तं कषायं कटुकञ्च तत् व्रणलाघवकृन्नेत्रकोपकुष्ठव्रणापहम्",
         "iast": "karavīradvayaṃ tiktaṃ kaṣāyaṃ kaṭukañca tat vraṇalāghavakṛnnetrakopakuṣṭhavraṇāpaham",
         "iast_ru": "каравӣрадвайам̣ тиктам̣ каш̣а̄йам̣ кат̣укан̃ча тат вран̣ала̄гхавакр̣ннетракопакуш̣т̣хавран̣а̄пахам",
-        "text": "Оба вида каравиры горькие, вяжущие, острые; устраняют тяжесть раны, глазные расстройства, куштху и раны, горячие по энергии, устраняют паразитов и зуд,"
+        "text": "Оба вида каравиры горькие, вяжущие, острые; устраняют тяжесть раны, глазные расстройства, куштху и раны, горячие по энергии, устраняют паразитов и зуд,",
+        "text_en": "Both kinds of Karavira are bitter, astringent and pungent; they remove heaviness of wounds, eye disorders, kushtha and wounds; they are hot in potency, and remove worms and itching,"
       },
       {
         "type": "verse",
@@ -24379,7 +24393,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वीर्योष्णं कृमिकण्डूघ्नं भक्षितं विषवन्मतम्",
         "iast": "vīryoṣṇaṃ kṛmikaṇḍūghnaṃ bhakṣitaṃ viṣavanmatam",
         "iast_ru": "вӣрйош̣н̣ам̣ кр̣микан̣д̣ӯгхнам̣ бхакш̣итам̣ виш̣аванматам",
-        "text": "[но] съеденные считаются подобными яду."
+        "text": "[но] съеденные считаются подобными яду.",
+        "text_en": "[but] when eaten they are regarded as akin to poison."
       },
       {
         "type": "verse",
@@ -24387,7 +24402,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धत्तूरधूर्त्तधुत्तूरा उन्मत्तः कनकाह्वयः देवता कितवस्तूरी महामोही शिवप्रियः",
         "iast": "dhattūradhūrttadhuttūrā unmattaḥ kanakāhvayaḥ devatā kitavastūrī mahāmohī śivapriyaḥ",
         "iast_ru": "дхаттӯрадхӯрттадхуттӯра̄ унматтах̣ канака̄хвайах̣ девата̄ китавастӯрӣ маха̄мохӣ ш́иваприйах̣",
-        "text": "Дурман (дхаттура) — дхуртта, дхуттура, унматта, «золотое имя», девата, китава, тури, «великая помрачающая», «любимая Шивой»,"
+        "text": "Дурман (дхаттура) — дхуртта, дхуттура, унматта, «золотое имя», девата, китава, тури, «великая помрачающая», «любимая Шивой»,",
+        "text_en": "Datura (Dhattura) has the synonyms: Dhurtta, Dhutura, Unmatta, \"golden-named\", Devata, Kitava, Turi, \"great intoxicant\", \"beloved of Shiva\","
       },
       {
         "type": "verse",
@@ -24395,7 +24411,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मातुलो मदनश्चास्य फले मातुलपुत्रकः धत्तूरो मदवर्णाग्निवातकृज्ज्वरकुष्ठनुत्",
         "iast": "mātulo madanaścāsya phale mātulaputrakaḥ dhattūro madavarṇāgnivātakṛjjvarakuṣṭhanut",
         "iast_ru": "ма̄туло маданаш́ча̄сйа пхале ма̄тулапутраках̣ дхаттӯро мадаварн̣а̄гнива̄такр̣джджваракуш̣т̣ханут",
-        "text": "матула, мадана, а его плод — «сын мадана»; дхаттура устраняет опьянение, изменение цвета, вызывает Вату, лихорадку и куштху,"
+        "text": "матула, мадана, а его плод — «сын мадана»; дхаттура устраняет опьянение, изменение цвета, вызывает Вату, лихорадку и куштху,",
+        "text_en": "Matula, Madana, and its fruit is called \"son of Madana\"; Dhattura removes intoxication and discoloration, aggravates Vata, and removes fever and kushtha;"
       },
       {
         "type": "verse",
@@ -24403,7 +24420,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कषायो मधुरस्तिक्तो यूकालिक्षाविनाशकः उष्णो गुरुर्व्रणश्लेष्मकण्डूकृमिविषापहः",
         "iast": "kaṣāyo madhurastikto yūkālikṣāvināśakaḥ uṣṇo gururvraṇaśleṣmakaṇḍūkṛmiviṣāpahaḥ",
         "iast_ru": "каш̣а̄йо мадхурастикто йӯка̄ликш̣а̄вина̄ш́аках̣ уш̣н̣о гурурвран̣аш́леш̣макан̣д̣ӯкр̣мивиш̣а̄пахах̣",
-        "text": "вяжущий, сладкий, горький, устраняет вшей и гнид, горячий, тяжёлый, устраняет раны, Капху, зуд, паразитов и яд."
+        "text": "вяжущий, сладкий, горький, устраняет вшей и гнид, горячий, тяжёлый, устраняет раны, Капху, зуд, паразитов и яд.",
+        "text_en": "it is astringent, sweet and bitter, destroys lice and nits, is hot and heavy, and removes wounds, Kapha, itching, worms and poison."
       },
       {
         "type": "verse",
@@ -24411,7 +24429,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वासको वासिका वासा भिषङ्माता च सिंहिका सिंहास्यो वाजिदन्ता स्यादाटरूषोऽटरूषकः",
         "iast": "vāsako vāsikā vāsā bhiṣaṅmātā ca siṃhikā siṃhāsyo vājidantā syādāṭarūṣo'ṭarūṣakaḥ",
         "iast_ru": "ва̄сако ва̄сика̄ ва̄са̄ бхиш̣ан̇ма̄та̄ ча сим̣хика̄ сим̣ха̄сйо ва̄джиданта̄ сйа̄да̄т̣арӯш̣о'т̣арӯш̣аках̣",
-        "text": "Адхатода (васака) — васика, васа, «мать врачей», симхика,"
+        "text": "Адхатода (васака) — васика, васа, «мать врачей», симхика,",
+        "text_en": "Adhatoda (Vasaka) has the synonyms: Vasika, Vasa, \"mother of physicians\", Simhika,"
       },
       {
         "type": "verse",
@@ -24419,7 +24438,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अटरूषो वृषस्ताम्रः सिंहपर्णश्च स स्मृतः वासको वातकृत्स्वर्यः कफपित्तास्रनाशनः",
         "iast": "aṭarūṣo vṛṣastāmraḥ siṃhaparṇaśca sa smṛtaḥ vāsako vātakṛtsvaryaḥ kaphapittāsranāśanaḥ",
         "iast_ru": "ат̣арӯш̣о вр̣ш̣аста̄мрах̣ сим̣хапарн̣аш́ча са смр̣тах̣ ва̄сако ва̄такр̣тсварйах̣ капхапитта̄срана̄ш́анах̣",
-        "text": "симхасья, ваджиданта, атаруша, атарушака; атаруша — врша, тамра, симхапарна."
+        "text": "симхасья, ваджиданта, атаруша, атарушака; атаруша — врша, тамра, симхапарна.",
+        "text_en": "Simhasya, Vajidanta, Atarusha, Atarushaka; Atarusha is also Vrisha, Tamra, Simhaparna."
       },
       {
         "type": "verse",
@@ -24427,7 +24447,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिक्तस्तुवरको हृद्यो लघुशीतस्तृडर्त्तिहृत् श्वासकासज्वरच्छर्दिमेहकुष्ठक्षयापहः",
         "iast": "tiktastuvarako hṛdyo laghuśītastṛḍarttihṛt śvāsakāsajvaracchardimehakuṣṭhakṣayāpahaḥ",
         "iast_ru": "тиктастуварако хр̣дйо лагхуш́ӣтастр̣д̣арттихр̣т ш́ва̄сака̄саджвараччхардимехакуш̣т̣хакш̣айа̄пахах̣",
-        "text": "Васака устраняет Вату, но способствует голосу, устраняет Капху, Питту и кровь,"
+        "text": "Васака устраняет Вату, но способствует голосу, устраняет Капху, Питту и кровь,",
+        "text_en": "Vasaka removes Vata, yet benefits the voice; it removes Kapha, Pitta and blood disorders,"
       },
       {
         "type": "verse",
@@ -24435,7 +24456,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पर्पटो वरतिक्तश्च स्मृतः पर्पटकश्च सः कथितः पांशुपर्यायस्तथा कवचनामकः",
         "iast": "parpaṭo varatiktaśca smṛtaḥ parpaṭakaśca saḥ kathitaḥ pāṃśuparyāyastathā kavacanāmakaḥ",
         "iast_ru": "парпат̣о варатикташ́ча смр̣тах̣ парпат̣акаш́ча сах̣ катхитах̣ па̄м̣ш́упарйа̄йастатха̄ кавачана̄маках̣",
-        "text": "горькая, вяжущая, приятна сердцу, лёгкая, холодная, устраняет жажду и страдание; устраняет одышку, кашель, лихорадку, рвоту, мочеизнурение, куштху и истощение."
+        "text": "горькая, вяжущая, приятна сердцу, лёгкая, холодная, устраняет жажду и страдание; устраняет одышку, кашель, лихорадку, рвоту, мочеизнурение, куштху и истощение.",
+        "text_en": "it is bitter, astringent, pleasant to the heart, light and cold; it removes thirst and distress; it removes dyspnea, cough, fever, vomiting, diabetes (prameha), kushtha and emaciation."
       },
       {
         "type": "verse",
@@ -24443,7 +24465,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पर्पटो हन्ति पित्तास्रभ्रमतृष्णाकफज्वरान् संग्राही शीतलस्तिक्तो दाहनुद्वातलो लघुः",
         "iast": "parpaṭo hanti pittāsrabhramatṛṣṇākaphajvarān saṃgrāhī śītalastikto dāhanudvātalo laghuḥ",
         "iast_ru": "парпат̣о ханти питта̄срабхраматр̣ш̣н̣а̄капхаджвара̄н сам̣гра̄хӣ ш́ӣталастикто да̄ханудва̄тало лагхух̣",
-        "text": "Парпата — вара-тикта, парпатака; провозглашён также «пепельным именем», кавачанамака."
+        "text": "Парпата — вара-тикта, парпатака; провозглашён также «пепельным именем», кавачанамака.",
+        "text_en": "Parpata has the synonyms: Vara-tikta, Parpataka; it is also declared to have the \"ash-name\" and Kavachanamaka."
       },
       {
         "type": "verse",
@@ -24451,7 +24474,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बः स्यात्पिचुमर्दश्च पिचुमन्दश्च तिक्तकः अरिष्टः पारिभद्र श्च हिङ्गुनिर्यास इत्यपि",
         "iast": "nimbaḥ syātpicumardaśca picumandaśca tiktakaḥ ariṣṭaḥ pāribhadra śca hiṅguniryāsa ityapi",
         "iast_ru": "нимбах̣ сйа̄тпичумардаш́ча пичумандаш́ча тиктаках̣ ариш̣т̣ах̣ па̄рибхадра ш́ча хин̇гунирйа̄са итйапи",
-        "text": "Парпата устраняет Питту, кровь, головокружение, жажду, Капху и лихорадку, закрепляющий, холодный, горький, устраняет жжение, вызывает Вату, лёгкий."
+        "text": "Парпата устраняет Питту, кровь, головокружение, жажду, Капху и лихорадку, закрепляющий, холодный, горький, устраняет жжение, вызывает Вату, лёгкий.",
+        "text_en": "Parpata removes Pitta, blood disorders, vertigo, thirst, Kapha and fever; it is astringent, cold and bitter, removes burning sensation, aggravates Vata, and is light."
       },
       {
         "type": "verse",
@@ -24459,7 +24483,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बः शीतो लघुर्ग्राही कटुपाकोऽग्निवातनुत् अहृद्यः श्रमतृट्कासज्वरारुचिकृमिप्रणुत् व्रणपित्तकफच्छर्दिकुष्ठहृल्लासमेहनुत्",
         "iast": "nimbaḥ śīto laghurgrāhī kaṭupāko'gnivātanut ahṛdyaḥ śramatṛṭkāsajvarārucikṛmipraṇut vraṇapittakaphacchardikuṣṭhahṛllāsamehanut",
         "iast_ru": "нимбах̣ ш́ӣто лагхургра̄хӣ кат̣упа̄ко'гнива̄танут ахр̣дйах̣ ш́раматр̣т̣ка̄саджвара̄ручикр̣мипран̣ут вран̣апиттакапхаччхардикуш̣т̣хахр̣лла̄самеханут",
-        "text": "Ним — пичумарда, пичуманда, горький, аришта, парибхадра, «истечение асафетиды»."
+        "text": "Ним — пичумарда, пичуманда, горький, аришта, парибхадра, «истечение асафетиды».",
+        "text_en": "Neem has the synonyms: Pichumarda, Pichumanda, Tikta, Arishta, Paribhadra, \"exudation of asafoetida\"."
       },
       {
         "type": "verse",
@@ -24467,7 +24492,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बपत्रं स्मृतं नेत्र्! यं कृमिपित्तविषप्रणुत् वातलं कटुपाकञ्च सर्वारोचककुष्ठनुत्",
         "iast": "nimbapatraṃ smṛtaṃ netr! yaṃ kṛmipittaviṣapraṇut vātalaṃ kaṭupākañca sarvārocakakuṣṭhanut",
         "iast_ru": "нимбапатрам̣ смр̣там̣ нетр! йам̣ кр̣мипиттавиш̣апран̣ут ва̄талам̣ кат̣упа̄кан̃ча сарва̄рочакакуш̣т̣ханут",
-        "text": "Ним холодный, лёгкий, закрепляющий, острый по вкусу после переваривания, устраняет пищеварение и Вату,"
+        "text": "Ним холодный, лёгкий, закрепляющий, острый по вкусу после переваривания, устраняет пищеварение и Вату,",
+        "text_en": "Neem is cold, light and astringent, pungent in taste after digestion, and removes indigestion and Vata,"
       },
       {
         "type": "verse",
@@ -24475,7 +24501,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बफलं रसे तिक्तं पाके तु कटुभेदनम् स्निग्धं लघूष्णं कुष्ठघ्नं गुल्मार्शःकृमिमेहनुत्",
         "iast": "nimbaphalaṃ rase tiktaṃ pāke tu kaṭubhedanam snigdhaṃ laghūṣṇaṃ kuṣṭhaghnaṃ gulmārśaḥkṛmimehanut",
         "iast_ru": "нимбапхалам̣ расе тиктам̣ па̄ке ту кат̣убхеданам снигдхам̣ лагхӯш̣н̣ам̣ куш̣т̣хагхнам̣ гулма̄рш́ах̣кр̣мимеханут",
-        "text": "неприятен сердцу, устраняет усталость, жажду, кашель, лихорадку, отсутствие аппетита и паразитов; устраняет раны, Питту, Капху, рвоту, куштху, сердечную тошноту и мочеизнурение."
+        "text": "неприятен сердцу, устраняет усталость, жажду, кашель, лихорадку, отсутствие аппетита и паразитов; устраняет раны, Питту, Капху, рвоту, куштху, сердечную тошноту и мочеизнурение.",
+        "text_en": "it is not pleasant to the heart; it removes fatigue, thirst, cough, fever, anorexia and worms; it removes wounds, Pitta, Kapha, vomiting, kushtha, nausea and diabetes (prameha)."
       },
       {
         "type": "verse",
@@ -24483,7 +24510,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "महानिम्बः स्मृतो द्रे का रम्यको विषमुष्टिकः केशमुष्टिर्निम्बकश्च कार्मुको जीव इत्यपि",
         "iast": "mahānimbaḥ smṛto dre kā ramyako viṣamuṣṭikaḥ keśamuṣṭirnimbakaśca kārmuko jīva ityapi",
         "iast_ru": "маха̄нимбах̣ смр̣то дре ка̄ рамйако виш̣амуш̣т̣иках̣ кеш́амуш̣т̣ирнимбакаш́ча ка̄рмуко джӣва итйапи",
-        "text": "Лист нима полезен для глаз, устраняет паразитов, Питту и яд; вызывает Вату, острый по вкусу после переваривания, устраняет все виды отсутствия аппетита и куштху."
+        "text": "Лист нима полезен для глаз, устраняет паразитов, Питту и яд; вызывает Вату, острый по вкусу после переваривания, устраняет все виды отсутствия аппетита и куштху.",
+        "text_en": "The leaf of Neem is beneficial for the eyes, removes worms, Pitta and poison; it aggravates Vata, is pungent in taste after digestion, and removes all kinds of anorexia and kushtha."
       },
       {
         "type": "verse",
@@ -24491,7 +24519,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "महानिम्बो हिमो रूक्षस्तिक्तो ग्राही कषायकः",
         "iast": "mahānimbo himo rūkṣastikto grāhī kaṣāyakaḥ",
         "iast_ru": "маха̄нимбо химо рӯкш̣астикто гра̄хӣ каш̣а̄йаках̣",
-        "text": "Плод нима на вкус горький, после переваривания острый, рассекающий; маслянистый, лёгкий, горячий, устраняет куштху, гульму, геморрой, паразитов и мочеизнурение."
+        "text": "Плод нима на вкус горький, после переваривания острый, рассекающий; маслянистый, лёгкий, горячий, устраняет куштху, гульму, геморрой, паразитов и мочеизнурение.",
+        "text_en": "The fruit of Neem is bitter in taste, pungent after digestion, and scraping; it is unctuous, light and hot, and removes kushtha, gulma, piles, worms and diabetes (prameha)."
       },
       {
         "type": "verse",
@@ -24499,7 +24528,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रमेहश्वासगुल्मार्शोमूषिकाविषनाशनः",
         "iast": "pramehaśvāsagulmārśomūṣikāviṣanāśanaḥ",
         "iast_ru": "прамехаш́ва̄сагулма̄рш́омӯш̣ика̄виш̣ана̄ш́анах̣",
-        "text": "Большой ним (маханим) — дрека, рамьяка, вишамуштика,"
+        "text": "Большой ним (маханим) — дрека, рамьяка, вишамуштика,",
+        "text_en": "Mahanimba (Melia) has the synonyms: Dreka, Ramyaka, Vishamushtika,"
       },
       {
         "type": "verse",
@@ -24507,7 +24537,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पारिभद्रो निम्बतरुर्मन्दारः पारिजातकः पारिभद्रो ऽनिलश्लेष्मशोथमेदः कृमिप्रणुत् तत्पत्रं पित्तरोगघ्नं कर्णव्याधिविनाशनम्",
         "iast": "pāribhadro nimbatarurmandāraḥ pārijātakaḥ pāribhadro 'nilaśleṣmaśothamedaḥ kṛmipraṇut tatpatraṃ pittarogaghnaṃ karṇavyādhivināśanam",
         "iast_ru": "па̄рибхадро нимбатарурманда̄рах̣ па̄риджа̄таках̣ па̄рибхадро 'нилаш́леш̣маш́отхамедах̣ кр̣мипран̣ут татпатрам̣ питтарогагхнам̣ карн̣авйа̄дхивина̄ш́анам",
-        "text": "кешамушти, нимбака, кармука, а также джива; большой ним холодный, сухой, горький, закрепляющий, вяжущий,"
+        "text": "кешамушти, нимбака, кармука, а также джива; большой ним холодный, сухой, горький, закрепляющий, вяжущий,",
+        "text_en": "Keshamushti, Nimbaka, Karmuka, and also Jiva; Mahanimba is cold, dry, bitter, astringent and puckering,"
       },
       {
         "type": "verse",
@@ -24515,7 +24546,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काञ्चनारः काञ्चनको गण्डारिः शोणपुष्पकः",
         "iast": "kāñcanāraḥ kāñcanako gaṇḍāriḥ śoṇapuṣpakaḥ",
         "iast_ru": "ка̄н̃чана̄рах̣ ка̄н̃чанако ган̣д̣а̄рих̣ ш́он̣апуш̣паках̣",
-        "text": "устраняет мочеизнурение, одышку, гульму, геморрой, устраняет яд от укуса мыши."
+        "text": "устраняет мочеизнурение, одышку, гульму, геморрой, устраняет яд от укуса мыши.",
+        "text_en": "it removes diabetes (prameha), dyspnea, gulma, piles, and removes the poison of a mouse bite."
       },
       {
         "type": "verse",
@@ -24523,7 +24555,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोविदारश्च मरिकः कुद्दालो युगपत्रकः कुण्डली ताम्रपुष्पश्चाश्मन्तकः स्वल्पकेशरी",
         "iast": "kovidāraśca marikaḥ kuddālo yugapatrakaḥ kuṇḍalī tāmrapuṣpaścāśmantakaḥ svalpakeśarī",
         "iast_ru": "ковида̄раш́ча мариках̣ кудда̄ло йугапатраках̣ кун̣д̣алӣ та̄мрапуш̣паш́ча̄ш́мантаках̣ свалпакеш́арӣ",
-        "text": "Парибхадра — нимба-дерево, мандара, париджатака; парибхадра устраняет Вату, Капху, отёк, жир и паразитов; его лист устраняет питтовую болезнь и болезни уха."
+        "text": "Парибхадра — нимба-дерево, мандара, париджатака; парибхадра устраняет Вату, Капху, отёк, жир и паразитов; его лист устраняет питтовую болезнь и болезни уха.",
+        "text_en": "Paribhadra (Indian coral tree) has the synonyms: Nimba-tree, Mandara, Parijataka; Paribhadra removes Vata, Kapha, edema, obesity and worms; its leaf removes Pitta disease and diseases of the ear."
       },
       {
         "type": "verse",
@@ -24531,7 +24564,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काञ्चनारो हिमो ग्राही तुवरः श्लेष्मपित्तनुत् कृमिकुष्ठगुदभ्रंशगण्डमालाव्रणापहः",
         "iast": "kāñcanāro himo grāhī tuvaraḥ śleṣmapittanut kṛmikuṣṭhagudabhraṃśagaṇḍamālāvraṇāpahaḥ",
         "iast_ru": "ка̄н̃чана̄ро химо гра̄хӣ туварах̣ ш́леш̣мапиттанут кр̣микуш̣т̣хагудабхрам̣ш́аган̣д̣ама̄ла̄вран̣а̄пахах̣",
-        "text": "Канчанара — канчанака, гандари, шонапушпака,"
+        "text": "Канчанара — канчанака, гандари, шонапушпака,",
+        "text_en": "Kanchanara has the synonyms: Kanchanaka, Gandari, Shonapushpaka,"
       },
       {
         "type": "verse",
@@ -24539,7 +24573,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोविदारोऽपि तद्वत्स्यात्तयोः पुष्पं लघु स्मृतम् रूक्षं संग्राहि पित्तास्रप्रदरक्षयकासनुत्",
         "iast": "kovidāro'pi tadvatsyāttayoḥ puṣpaṃ laghu smṛtam rūkṣaṃ saṃgrāhi pittāsrapradarakṣayakāsanut",
         "iast_ru": "ковида̄ро'пи тадватсйа̄ттайох̣ пуш̣пам̣ лагху смр̣там рӯкш̣ам̣ сам̣гра̄хи питта̄срапрадаракш̣айака̄санут",
-        "text": "ковидара, марика, куддала, югапатрака, кундали, тамрапушпи, ашмантака, «малорыльцевая»."
+        "text": "ковидара, марика, куддала, югапатрака, кундали, тамрапушпи, ашмантака, «малорыльцевая».",
+        "text_en": "Kovidara, Marika, Kuddala, Yugapatraka, Kundali, Tamrapushpi, Ashmantaka, \"small-beaked\"."
       },
       {
         "type": "verse",
@@ -24547,7 +24582,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोभाञ्जनः शिग्रुतीक्ष्णगन्धकाक्षीवमोचकाः तद्बीजं श्वेतमरिचंमधुशिग्रुः सलोहितः शिग्रुः कटुः कटुः पाके तीक्ष्णोष्णो मधुरो लघुः",
         "iast": "śobhāñjanaḥ śigrutīkṣṇagandhakākṣīvamocakāḥ tadbījaṃ śvetamaricaṃmadhuśigruḥ salohitaḥ śigruḥ kaṭuḥ kaṭuḥ pāke tīkṣṇoṣṇo madhuro laghuḥ",
         "iast_ru": "ш́обха̄н̃джанах̣ ш́игрутӣкш̣н̣агандхака̄кш̣ӣвамочака̄х̣ тадбӣджам̣ ш́ветамаричам̣мадхуш́игрух̣ салохитах̣ ш́игрух̣ кат̣ух̣ кат̣ух̣ па̄ке тӣкш̣н̣ош̣н̣о мадхуро лагхух̣",
-        "text": "Канчанара холодная, закрепляющая, вяжущая, устраняет Капху и Питту; устраняет паразитов, куштху, выпадение прямой кишки, золотуху и раны."
+        "text": "Канчанара холодная, закрепляющая, вяжущая, устраняет Капху и Питту; устраняет паразитов, куштху, выпадение прямой кишки, золотуху и раны.",
+        "text_en": "Kanchanara is cold, astringent and puckering, and removes Kapha and Pitta; it removes worms, kushtha, rectal prolapse, scrofula and wounds."
       },
       {
         "type": "verse",
@@ -24555,7 +24591,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दीपनो रोचनो रूक्षः क्षारस्तिक्तो विदाहकृत् संग्राही शुक्रलो हृद्यः पित्तरक्तप्रकोपणः",
         "iast": "dīpano rocano rūkṣaḥ kṣārastikto vidāhakṛt saṃgrāhī śukralo hṛdyaḥ pittaraktaprakopaṇaḥ",
         "iast_ru": "дӣпано рочано рӯкш̣ах̣ кш̣а̄растикто вида̄хакр̣т сам̣гра̄хӣ ш́украло хр̣дйах̣ питтарактапракопан̣ах̣",
-        "text": "Ковидара также обладает такими же [свойствами]; их цветок лёгкий, сухой, закрепляющий, устраняет питтовое кровотечение, кровотечение при родах, истощение и кашель."
+        "text": "Ковидара также обладает такими же [свойствами]; их цветок лёгкий, сухой, закрепляющий, устраняет питтовое кровотечение, кровотечение при родах, истощение и кашель.",
+        "text_en": "Kovidara also possesses the same [properties]; their flower is light, dry and astringent, and removes bleeding due to Pitta, bleeding in childbirth, emaciation and cough."
       },
       {
         "type": "verse",
@@ -24563,7 +24600,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चक्षुष्यः कफवातघ्नो विद्र धिश्वयथुक्रिमीन् मेदोऽपचीविषप्लीहगुल्मगण्डव्रणान्हरेत्",
         "iast": "cakṣuṣyaḥ kaphavātaghno vidra dhiśvayathukrimīn medo'pacīviṣaplīhagulmagaṇḍavraṇānharet",
         "iast_ru": "чакш̣уш̣йах̣ капхава̄тагхно видра дхиш́вайатхукримӣн медо'пачӣвиш̣аплӣхагулмаган̣д̣авран̣а̄нхарет",
-        "text": "Моринга (шигру) — «острый», «пахнущая как кака», «плюющаяся», мочака; её семя — белый перец, «медовая моринга», а также красная моринга; моринга острая, острая по вкусу после переваривания, резкая, горячая, сладкая, лёгкая,"
+        "text": "Моринга (шигру) — «острый», «пахнущая как кака», «плюющаяся», мочака; её семя — белый перец, «медовая моринга», а также красная моринга; моринга острая, острая по вкусу после переваривания, резкая, горячая, сладкая, лёгкая,",
+        "text_en": "Moringa (Shigru) has the synonyms: \"pungent\", \"smelling like a crow\", \"spitting\", Mochaka; its seed is white pepper-like, \"honey moringa\", and also the red moringa; Moringa is pungent, pungent in taste after digestion, sharp, hot, sweet and light,"
       },
       {
         "type": "verse",
@@ -24571,7 +24609,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतः प्रोक्तगुणो ज्ञेयो विशेषाद्दाहकृद्भवेत् प्लीहानं विद्र धिं हन्ति व्रणघ्नः पित्तरक्तहृत् मधुशिग्रुः प्रोक्तगुणो विशेषाद्दीपनः सरः",
         "iast": "śvetaḥ proktaguṇo jñeyo viśeṣāddāhakṛdbhavet plīhānaṃ vidra dhiṃ hanti vraṇaghnaḥ pittaraktahṛt madhuśigruḥ proktaguṇo viśeṣāddīpanaḥ saraḥ",
         "iast_ru": "ш́ветах̣ проктагун̣о джн̃ейо виш́еш̣а̄дда̄хакр̣дбхавет плӣха̄нам̣ видра дхим̣ ханти вран̣агхнах̣ питтарактахр̣т мадхуш́игрух̣ проктагун̣о виш́еш̣а̄ддӣпанах̣ сарах̣",
-        "text": "разжигающая, вызывающая аппетит, сухая, щелочная, горькая, вызывающая жжение,"
+        "text": "разжигающая, вызывающая аппетит, сухая, щелочная, горькая, вызывающая жжение,",
+        "text_en": "it is appetizing, stimulates hunger, dry, alkaline, bitter, and causes burning sensation,"
       },
       {
         "type": "verse",
@@ -24579,7 +24618,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिग्रुवल्कलपत्राणां स्वरसः परमार्त्तिहृत्",
         "iast": "śigruvalkalapatrāṇāṃ svarasaḥ paramārttihṛt",
         "iast_ru": "ш́игрувалкалапатра̄н̣а̄м̣ сварасах̣ парама̄рттихр̣т",
-        "text": "закрепляющая, способствует семени, приятна сердцу, обостряет Питту и кровь; полезна для глаз, устраняет Капху и Вату, устраняет абсцесс, отёк, паразитов; устраняет жировые расстройства, апачи, яд, увеличение селезёнки, гульму, зоб и раны."
+        "text": "закрепляющая, способствует семени, приятна сердцу, обостряет Питту и кровь; полезна для глаз, устраняет Капху и Вату, устраняет абсцесс, отёк, паразитов; устраняет жировые расстройства, апачи, яд, увеличение селезёнки, гульму, зоб и раны.",
+        "text_en": "it is astringent, promotes semen, is pleasant to the heart, aggravates Pitta and blood; it is beneficial for the eyes, removes Kapha and Vata, abscess, edema and worms; it removes disorders of fat, apachi, poison, enlargement of the spleen, gulma, goiter and wounds."
       },
       {
         "type": "verse",
@@ -24587,7 +24627,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चक्षुष्यं शिग्रुजं बीजं तीक्ष्णोष्णं विषनाशनम् अवृष्यं कफवातघ्नं तन्नस्येन शिरोऽत्तिनुत्",
         "iast": "cakṣuṣyaṃ śigrujaṃ bījaṃ tīkṣṇoṣṇaṃ viṣanāśanam avṛṣyaṃ kaphavātaghnaṃ tannasyena śiro'ttinut",
         "iast_ru": "чакш̣уш̣йам̣ ш́игруджам̣ бӣджам̣ тӣкш̣н̣ош̣н̣ам̣ виш̣ана̄ш́анам авр̣ш̣йам̣ капхава̄тагхнам̣ таннасйена ш́иро'ттинут",
-        "text": "Белая моринга обладает указанными свойствами, особенно вызывает жжение; устраняет увеличение селезёнки, абсцесс, заживляет раны, устраняет Питту и кровь; медовая моринга обладает указанными свойствами, особенно разжигающая, послабляющая."
+        "text": "Белая моринга обладает указанными свойствами, особенно вызывает жжение; устраняет увеличение селезёнки, абсцесс, заживляет раны, устраняет Питту и кровь; медовая моринга обладает указанными свойствами, особенно разжигающая, послабляющая.",
+        "text_en": "White Moringa possesses the properties stated, and especially causes burning sensation; it removes enlargement of the spleen and abscess, heals wounds, and removes Pitta and blood disorders; honey Moringa possesses the properties stated, and is especially appetizing and purgative."
       },
       {
         "type": "verse",
@@ -24595,7 +24636,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आस्फोता गिरिकर्णीस्याद्विष्णुक्रान्ताऽपराजिता अपराजिते कटू मेध्ये शीते कण्ठ्येसुदृष्टिदे",
         "iast": "āsphotā girikarṇīsyādviṣṇukrāntā'parājitā aparājite kaṭū medhye śīte kaṇṭhyesudṛṣṭide",
         "iast_ru": "а̄спхота̄ гирикарн̣ӣсйа̄двиш̣н̣укра̄нта̄'пара̄джита̄ апара̄джите кат̣ӯ медхйе ш́ӣте кан̣т̣хйесудр̣ш̣т̣иде",
-        "text": "Сок коры и листьев моринги — превосходное средство от боли."
+        "text": "Сок коры и листьев моринги — превосходное средство от боли.",
+        "text_en": "The juice of the bark and leaves of Moringa is an excellent remedy for pain."
       },
       {
         "type": "verse",
@@ -24603,7 +24645,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कषाये कटुके पाके तिक्ते च स्मृतिबुद्धिदे",
         "iast": "kaṣāye kaṭuke pāke tikte ca smṛtibuddhide",
         "iast_ru": "каш̣а̄йе кат̣уке па̄ке тикте ча смр̣тибуддхиде",
-        "text": "Семя моринги полезно для глаз, острое по вкусу после переваривания, горячее, устраняет яд; не способствует мужской силе, устраняет Капху и Вату, как насья устраняет боль в голове."
+        "text": "Семя моринги полезно для глаз, острое по вкусу после переваривания, горячее, устраняет яд; не способствует мужской силе, устраняет Капху и Вату, как насья устраняет боль в голове.",
+        "text_en": "The seed of Moringa is beneficial for the eyes, pungent in taste after digestion and hot; it removes poison; it does not promote virility, it removes Kapha and Vata, and as nasya it removes headache."
       },
       {
         "type": "verse",
@@ -24611,7 +24654,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिन्दुवारः श्वेतपुष्पः सिन्दुकः सिन्दुवारकः नीलपुष्पी तु निर्गुण्डी शेफाली सुवहा च सा",
         "iast": "sinduvāraḥ śvetapuṣpaḥ sindukaḥ sinduvārakaḥ nīlapuṣpī tu nirguṇḍī śephālī suvahā ca sā",
         "iast_ru": "синдува̄рах̣ ш́ветапуш̣пах̣ синдуках̣ синдува̄раках̣ нӣлапуш̣пӣ ту ниргун̣д̣ӣ ш́епха̄лӣ суваха̄ ча са̄",
-        "text": "Асфота — гирикарни, вишнукранта, апараджита; апараджита острая, укрепляет разум, холодная, полезна для горла, дарует хорошее зрение,"
+        "text": "Асфота — гирикарни, вишнукранта, апараджита; апараджита острая, укрепляет разум, холодная, полезна для горла, дарует хорошее зрение,",
+        "text_en": "Asphota has the synonyms: Girikarni, Vishnukranta, Aparajita; Aparajita is pungent, strengthens the intellect, is cold, beneficial for the throat, and grants good vision,"
       },
       {
         "type": "verse",
@@ -24619,7 +24663,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिन्दुकः स्मृतिदस्तिक्तः कषायः कटुको लघुः केश्यो नेत्रहितो हन्ति शूलशोथाममारुतान् कृमिकुष्ठारुचिश्लेष्मज्वरान्नीलापि तद्विधा",
         "iast": "sindukaḥ smṛtidastiktaḥ kaṣāyaḥ kaṭuko laghuḥ keśyo netrahito hanti śūlaśothāmamārutān kṛmikuṣṭhāruciśleṣmajvarānnīlāpi tadvidhā",
         "iast_ru": "синдуках̣ смр̣тидастиктах̣ каш̣а̄йах̣ кат̣уко лагхух̣ кеш́йо нетрахито ханти ш́ӯлаш́отха̄мама̄рута̄н кр̣микуш̣т̣ха̄ручиш́леш̣маджвара̄ннӣла̄пи тадвидха̄",
-        "text": "вяжущая, острая по вкусу после переваривания, горькая, укрепляет память и разум."
+        "text": "вяжущая, острая по вкусу после переваривания, горькая, укрепляет память и разум.",
+        "text_en": "it is astringent, pungent in taste after digestion and bitter, and strengthens memory and intellect."
       },
       {
         "type": "verse",
@@ -24627,7 +24672,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिन्दुवारदलं जन्तुवातश्लेष्महरं लघु",
         "iast": "sinduvāradalaṃ jantuvātaśleṣmaharaṃ laghu",
         "iast_ru": "синдува̄радалам̣ джантува̄таш́леш̣махарам̣ лагху",
-        "text": "Синдувара (витекс) — белоцветковый, синдука, синдуварака,"
+        "text": "Синдувара (витекс) — белоцветковый, синдука, синдуварака,",
+        "text_en": "Sinduvara (Vitex) — the white-flowered one is Sinduka, Sinduvaraka,"
       },
       {
         "type": "verse",
@@ -24635,7 +24681,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुटजः कूटजः कौटो वत्सको गिरिमल्लिका",
         "iast": "kuṭajaḥ kūṭajaḥ kauṭo vatsako girimallikā",
         "iast_ru": "кут̣аджах̣ кӯт̣аджах̣ каут̣о ватсако гирималлика̄",
-        "text": "синевоцветковая — ниргунди, шефхали, «легко переносимая»; синдука укрепляет память, горький, вяжущий, острый, лёгкий,"
+        "text": "синевоцветковая — ниргунди, шефхали, «легко переносимая»; синдука укрепляет память, горький, вяжущий, острый, лёгкий,",
+        "text_en": "the blue-flowered one is Nirgundi, Shephali, \"easily tolerated\"; Sinduka strengthens memory, and is bitter, astringent, pungent and light,"
       },
       {
         "type": "verse",
@@ -24643,7 +24690,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कालिङ्गः शक्रशाखी च मल्लिकापुष्प इत्यपि इन्द्रो यवफलः प्रोक्तो वृक्षकः पाण्डुरद्रुमः",
         "iast": "kāliṅgaḥ śakraśākhī ca mallikāpuṣpa ityapi indro yavaphalaḥ prokto vṛkṣakaḥ pāṇḍuradrumaḥ",
         "iast_ru": "ка̄лин̇гах̣ ш́акраш́а̄кхӣ ча маллика̄пуш̣па итйапи индро йавапхалах̣ прокто вр̣кш̣аках̣ па̄н̣д̣урадрумах̣",
-        "text": "полезен для волос, полезен для глаз, устраняет колику, отёк и незрелую вата-болезнь; устраняет паразитов, куштху, отсутствие аппетита, Капху и лихорадку; синяя разновидность обладает теми же свойствами."
+        "text": "полезен для волос, полезен для глаз, устраняет колику, отёк и незрелую вата-болезнь; устраняет паразитов, куштху, отсутствие аппетита, Капху и лихорадку; синяя разновидность обладает теми же свойствами.",
+        "text_en": "it is beneficial for the hair and the eyes, and removes colic, edema and immature (ama) Vata disease; it removes worms, kushtha, anorexia, Kapha and fever; the blue variety possesses the same properties."
       },
       {
         "type": "verse",
@@ -24651,7 +24699,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुटजः कटुको रूक्षो दीपनस्तुवरो हिमः अर्शोऽतिसारपित्तास्नकफतृष्णाऽमकुष्ठनुत्",
         "iast": "kuṭajaḥ kaṭuko rūkṣo dīpanastuvaro himaḥ arśo'tisārapittāsnakaphatṛṣṇā'makuṣṭhanut",
         "iast_ru": "кут̣аджах̣ кат̣уко рӯкш̣о дӣпанастуваро химах̣ арш́о'тиса̄рапитта̄снакапхатр̣ш̣н̣а̄'макуш̣т̣ханут",
-        "text": "Лист синдувары лёгкий, устраняет паразитов, Вату и Капху."
+        "text": "Лист синдувары лёгкий, устраняет паразитов, Вату и Капху.",
+        "text_en": "The leaf of Sinduvara is light, and removes worms, Vata and Kapha."
       },
       {
         "type": "verse",
@@ -24659,7 +24708,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करञ्जो नक्तमालश्च करजश्चिरबिल्वकः घृतपूर्णकरञ्जोऽन्य प्रकीर्यः पूतिकोऽपि च",
         "iast": "karañjo naktamālaśca karajaścirabilvakaḥ ghṛtapūrṇakarañjo'nya prakīryaḥ pūtiko'pi ca",
         "iast_ru": "каран̃джо нактама̄лаш́ча караджаш́чирабилваках̣ гхр̣тапӯрн̣акаран̃джо'нйа пракӣрйах̣ пӯтико'пи ча",
-        "text": "Кутаджа — куташа, каута, ватсака, гирималлика,"
+        "text": "Кутаджа — куташа, каута, ватсака, гирималлика,",
+        "text_en": "Kutaja has the synonyms: Kutasha, Kauta, Vatsaka, Girimallika,"
       },
       {
         "type": "verse",
@@ -24667,7 +24717,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स चोक्तः पूतिकरञ्जः सोमवल्कश्च स स्मृतः करञ्जः कटुकस्तीक्ष्णो वीर्योष्णो योनिदोषहृत् कुष्ठोदावर्त्तगुल्मार्शोव्रणक्रिमिकफापहः",
         "iast": "sa coktaḥ pūtikarañjaḥ somavalkaśca sa smṛtaḥ karañjaḥ kaṭukastīkṣṇo vīryoṣṇo yonidoṣahṛt kuṣṭhodāvarttagulmārśovraṇakrimikaphāpahaḥ",
         "iast_ru": "са чоктах̣ пӯтикаран̃джах̣ сомавалкаш́ча са смр̣тах̣ каран̃джах̣ кат̣укастӣкш̣н̣о вӣрйош̣н̣о йонидош̣ахр̣т куш̣т̣хода̄варттагулма̄рш́овран̣акримикапха̄пахах̣",
-        "text": "калинга, шакрашакхи, «жасминоцветковая»; индраяваплода, вркшака, паньдурадрума."
+        "text": "калинга, шакрашакхи, «жасминоцветковая»; индраяваплода, вркшака, паньдурадрума.",
+        "text_en": "Kalinga, Shakrashakha, \"jasmine-flowered\"; Indrayava is its fruit; Vrikshaka, Pandurudruma."
       },
       {
         "type": "verse",
@@ -24675,7 +24726,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्पत्रं कफवातार्शः कृमिशोथहरं परम् भेदनं कटुकं पाके वीर्योष्णं पित्तलं लघुः",
         "iast": "tatpatraṃ kaphavātārśaḥ kṛmiśothaharaṃ param bhedanaṃ kaṭukaṃ pāke vīryoṣṇaṃ pittalaṃ laghuḥ",
         "iast_ru": "татпатрам̣ капхава̄та̄рш́ах̣ кр̣миш́отхахарам̣ парам бхеданам̣ кат̣укам̣ па̄ке вӣрйош̣н̣ам̣ питталам̣ лагхух̣",
-        "text": "Кутаджа острая, сухая, разжигающая, вяжущая, холодная; устраняет геморрой, понос, кровопитта-Капху, жажду и незрелую куштху."
+        "text": "Кутаджа острая, сухая, разжигающая, вяжущая, холодная; устраняет геморрой, понос, кровопитта-Капху, жажду и незрелую куштху.",
+        "text_en": "Kutaja is pungent, dry, appetizing, astringent and cold; it removes piles, diarrhea, blood-Pitta-Kapha disorders, thirst and immature kushtha."
       },
       {
         "type": "verse",
@@ -24683,7 +24735,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्फलं कफवातघ्नं मेहार्शःकृमिकुष्ठजित् घृतपूर्णकरञ्जोऽपि करञ्जसदृशो गुणैः",
         "iast": "tatphalaṃ kaphavātaghnaṃ mehārśaḥkṛmikuṣṭhajit ghṛtapūrṇakarañjo'pi karañjasadṛśo guṇaiḥ",
         "iast_ru": "татпхалам̣ капхава̄тагхнам̣ меха̄рш́ах̣кр̣микуш̣т̣хаджит гхр̣тапӯрн̣акаран̃джо'пи каран̃джасадр̣ш́о гун̣аих̣",
-        "text": "Карандж — нактамала, караджа, чирабилвака; иной, «наполненный гхи» карандж, пракирья, а также путика."
+        "text": "Карандж — нактамала, караджа, чирабилвака; иной, «наполненный гхи» карандж, пракирья, а также путика.",
+        "text_en": "Karanja has the synonyms: Naktamala, Karaja, Chirabilvaka; another, the \"ghee-filled\" Karanja, is Prakirya, and also Putika."
       },
       {
         "type": "verse",
@@ -24691,7 +24744,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उदकीर्यस्तृतीयोऽन्य षड्ग्रन्था हस्तिवारुणी मर्कटी वायसी चापि करञ्जी करभञ्जिका",
         "iast": "udakīryastṛtīyo'nya ṣaḍgranthā hastivāruṇī markaṭī vāyasī cāpi karañjī karabhañjikā",
         "iast_ru": "удакӣрйастр̣тӣйо'нйа ш̣ад̣грантха̄ хастива̄рун̣ӣ маркат̣ӣ ва̄йасӣ ча̄пи каран̃джӣ карабхан̃джика̄",
-        "text": "Он же называется путикаранджа и сомавалка; карандж острый, резкий, горячий по энергии, устраняет болезни влагалища; устраняет куштху, обратный ход, гульму, геморрой, раны, паразитов и Капху."
+        "text": "Он же называется путикаранджа и сомавалка; карандж острый, резкий, горячий по энергии, устраняет болезни влагалища; устраняет куштху, обратный ход, гульму, геморрой, раны, паразитов и Капху.",
+        "text_en": "It is also called Putikaranja and Somavalka; Karanja is pungent, sharp and hot in potency, and removes diseases of the vagina; it removes kushtha, upward movement of the doshas, gulma, piles, wounds, worms and Kapha."
       },
       {
         "type": "verse",
@@ -24699,7 +24753,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करञ्जी स्तम्भनी तिक्ता तुवरा कटुपाकिनी वीर्योष्णा वमिपित्तार्शः कृमिकुष्ठप्रमेहजित्",
         "iast": "karañjī stambhanī tiktā tuvarā kaṭupākinī vīryoṣṇā vamipittārśaḥ kṛmikuṣṭhapramehajit",
         "iast_ru": "каран̃джӣ стамбханӣ тикта̄ тувара̄ кат̣упа̄кинӣ вӣрйош̣н̣а̄ вамипитта̄рш́ах̣ кр̣микуш̣т̣хапрамехаджит",
-        "text": "Его лист устраняет капха-ватный геморрой, паразитов, отёк; рассекающий, острый по вкусу после переваривания, горячий по энергии, порождает Питту, лёгкий."
+        "text": "Его лист устраняет капха-ватный геморрой, паразитов, отёк; рассекающий, острый по вкусу после переваривания, горячий по энергии, порождает Питту, лёгкий.",
+        "text_en": "Its leaf removes Kapha-Vata piles, worms and edema; it is scraping, pungent in taste after digestion, hot in potency, produces Pitta, and is light."
       },
       {
         "type": "verse",
@@ -24707,7 +24762,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेता गुञ्जोच्चटा प्रोक्ता कृष्णला चापि सा स्मृता रक्ता सा काकचिञ्ची स्यात्काकणन्ती च रक्तिका",
         "iast": "śvetā guñjoccaṭā proktā kṛṣṇalā cāpi sā smṛtā raktā sā kākaciñcī syātkākaṇantī ca raktikā",
         "iast_ru": "ш́вета̄ гун̃джоччат̣а̄ прокта̄ кр̣ш̣н̣ала̄ ча̄пи са̄ смр̣та̄ ракта̄ са̄ ка̄качин̃чӣ сйа̄тка̄кан̣антӣ ча рактика̄",
-        "text": "Его плод устраняет Капху и Вату, мочеизнурение, геморрой, паразитов и куштху; «карандж с гхи» также подобен каранджу по свойствам."
+        "text": "Его плод устраняет Капху и Вату, мочеизнурение, геморрой, паразитов и куштху; «карандж с гхи» также подобен каранджу по свойствам.",
+        "text_en": "Its fruit removes Kapha and Vata, diabetes (prameha), piles, worms and kushtha; the \"ghee Karanja\" is likewise similar to Karanja in properties."
       },
       {
         "type": "verse",
@@ -24715,7 +24771,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकादनी काकपीलुः सा स्मृता काकवल्लरी गुञ्जाद्वयन्तु केश्यं स्याद्वातपित्तज्वरापहम्",
         "iast": "kākādanī kākapīluḥ sā smṛtā kākavallarī guñjādvayantu keśyaṃ syādvātapittajvarāpaham",
         "iast_ru": "ка̄ка̄данӣ ка̄капӣлух̣ са̄ смр̣та̄ ка̄кавалларӣ гун̃джа̄двайанту кеш́йам̣ сйа̄два̄тапиттаджвара̄пахам",
-        "text": "Водяной карандж (третий вид) — шадгрантха, «слоновья лоза», маркати, ваяси, каранджи, карабханджика."
+        "text": "Водяной карандж (третий вид) — шадгрантха, «слоновья лоза», маркати, ваяси, каранджи, карабханджика.",
+        "text_en": "Water Karanja (the third kind) has the synonyms: Shadgrantha, \"elephant creeper\", Markati, Vayasi, Karanji, Karabhanjika."
       },
       {
         "type": "verse",
@@ -24723,7 +24780,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नेत्रामयहरं वृष्यं बल्यं कण्डूं व्रणं हरेत्",
         "iast": "netrāmayaharaṃ vṛṣyaṃ balyaṃ kaṇḍūṃ vraṇaṃ haret",
         "iast_ru": "нетра̄майахарам̣ вр̣ш̣йам̣ балйам̣ кан̣д̣ӯм̣ вран̣ам̣ харет",
-        "text": "Каранджи закрепляющая, горькая, вяжущая, острая по вкусу после переваривания; горячая по энергии, устраняет рвоту, Питту, геморрой, паразитов, куштху и мочеизнурение."
+        "text": "Каранджи закрепляющая, горькая, вяжущая, острая по вкусу после переваривания; горячая по энергии, устраняет рвоту, Питту, геморрой, паразитов, куштху и мочеизнурение.",
+        "text_en": "Karanji is astringent, bitter and puckering, pungent in taste after digestion; hot in potency, it removes vomiting, Pitta, piles, worms, kushtha and diabetes (prameha)."
       },
       {
         "type": "verse",
@@ -24731,7 +24789,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृमीन्द्र लुप्तकुष्ठानि रक्ता च धवलाऽपि च",
         "iast": "kṛmīndra luptakuṣṭhāni raktā ca dhavalā'pi ca",
         "iast_ru": "кр̣мӣндра луптакуш̣т̣ха̄ни ракта̄ ча дхавала̄'пи ча",
-        "text": "Гунджа (четочный горошек, белая) — уччата, а также кришнала; красная называется какачинчи, какананти, а также ратика,"
+        "text": "Гунджа (четочный горошек, белая) — уччата, а также кришнала; красная называется какачинчи, какананти, а также ратика,",
+        "text_en": "Gunja (rosary pea, white) has the synonyms: Uchchata, and also Krishnala; the red one is called Kakachinchi, Kakananti, and also Raktika,"
       },
       {
         "type": "verse",
@@ -24739,7 +24798,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कपिच्छूरात्मगुप्ता वृष्या प्रोक्ता च मर्कटी अजडा कण्डुरा व्यङ्गा दुःस्पर्शा प्रावृषायणी",
         "iast": "kapicchūrātmaguptā vṛṣyā proktā ca markaṭī ajaḍā kaṇḍurā vyaṅgā duḥsparśā prāvṛṣāyaṇī",
         "iast_ru": "капиччхӯра̄тмагупта̄ вр̣ш̣йа̄ прокта̄ ча маркат̣ӣ аджад̣а̄ кан̣д̣ура̄ вйан̇га̄ дух̣спарш́а̄ пра̄вр̣ш̣а̄йан̣ӣ",
-        "text": "какадани, какапилу, какаваллари; оба вида гунджи полезны для волос, устраняют ватно-питтовую лихорадку,"
+        "text": "какадани, какапилу, какаваллари; оба вида гунджи полезны для волос, устраняют ватно-питтовую лихорадку,",
+        "text_en": "Kakadani, Kakapilu, Kakavallari; both kinds of Gunja are beneficial for the hair, and remove Vata-Pitta fever,"
       },
       {
         "type": "verse",
@@ -24747,7 +24807,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लाङ्गली शूकशिम्बी च सैव प्रोक्ता महर्षिभिः कपिकच्छूर्भृशं वृष्या मधुरा बृंहणी गुरुः तिक्ता वातहरी बल्या कफपित्तास्रनाशिनी",
         "iast": "lāṅgalī śūkaśimbī ca saiva proktā maharṣibhiḥ kapikacchūrbhṛśaṃ vṛṣyā madhurā bṛṃhaṇī guruḥ tiktā vātaharī balyā kaphapittāsranāśinī",
         "iast_ru": "ла̄н̇галӣ ш́ӯкаш́имбӣ ча саива прокта̄ махарш̣ибхих̣ капикаччхӯрбхр̣ш́ам̣ вр̣ш̣йа̄ мадхура̄ бр̣м̣хан̣ӣ гурух̣ тикта̄ ва̄тахарӣ балйа̄ капхапитта̄срана̄ш́инӣ",
-        "text": "устраняют глазные болезни, способствуют мужской силе, придают силу, устраняют зуд и раны."
+        "text": "устраняют глазные болезни, способствуют мужской силе, придают силу, устраняют зуд и раны.",
+        "text_en": "they remove eye diseases, promote virility, impart strength, and remove itching and wounds."
       },
       {
         "type": "verse",
@@ -24755,7 +24816,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तद्बीजं वातशमनं स्मृतं वाजीकरं परम्",
         "iast": "tadbījaṃ vātaśamanaṃ smṛtaṃ vājīkaraṃ param",
         "iast_ru": "тадбӣджам̣ ва̄таш́аманам̣ смр̣там̣ ва̄джӣкарам̣ парам",
-        "text": "Устраняет паразитов, индралупту (гнездную плешивость) и куштху; красная и белая [разновидности одинаково]."
+        "text": "Устраняет паразитов, индралупту (гнездную плешивость) и куштху; красная и белая [разновидности одинаково].",
+        "text_en": "It removes worms, indralupta (alopecia areata) and kushtha; the red and white [varieties are alike in this]."
       },
       {
         "type": "verse",
@@ -24763,7 +24825,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मांसरोहिण्यतिरुहा वृत्ता चर्मकषा वसा प्रहारवल्ली विकशा वीरवत्यपि कथ्यते स्यान्मांसरोहिणी वृष्या सरा दोषत्रयापहा",
         "iast": "māṃsarohiṇyatiruhā vṛttā carmakaṣā vasā prahāravallī vikaśā vīravatyapi kathyate syānmāṃsarohiṇī vṛṣyā sarā doṣatrayāpahā",
         "iast_ru": "ма̄м̣сарохин̣йатируха̄ вр̣тта̄ чармакаш̣а̄ васа̄ праха̄раваллӣ викаш́а̄ вӣраватйапи катхйате сйа̄нма̄м̣сарохин̣ӣ вр̣ш̣йа̄ сара̄ дош̣атрайа̄паха̄",
-        "text": "Капикаччху (крапива-бобовые, атмагупта) — способствующая мужской силе, маркати; аджада, кандура, вьянга, «непереносимая на ощупь», «созревающая в сезон дождей»,"
+        "text": "Капикаччху (крапива-бобовые, атмагупта) — способствующая мужской силе, маркати; аджада, кандура, вьянга, «непереносимая на ощупь», «созревающая в сезон дождей»,",
+        "text_en": "Kapikacchu (cowhage, Atmagupta) — promotes virility, Markati; Ajada, Kandura, Vyanga, \"unbearable to the touch\", \"ripening in the rainy season\","
       },
       {
         "type": "verse",
@@ -24771,7 +24834,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चिह्लकोवातनिर्हारः श्लेष्मघ्नो धातुपुष्टिकृत् आग्नेयो विषवद्यस्य फलं मत्स्यनिषूदनम्",
         "iast": "cihlakovātanirhāraḥ śleṣmaghno dhātupuṣṭikṛt āgneyo viṣavadyasya phalaṃ matsyaniṣūdanam",
         "iast_ru": "чихлакова̄танирха̄рах̣ ш́леш̣магхно дха̄тупуш̣т̣икр̣т а̄гнейо виш̣авадйасйа пхалам̣ матсйаниш̣ӯданам",
-        "text": "лангали, «зерновой стручок» — так же провозглашена великими мудрецами; капикаччху весьма способствует мужской силе, сладкая, питающая, тяжёлая; горькая, устраняет Вату, придаёт силу, устраняет Капху, Питту и кровь."
+        "text": "лангали, «зерновой стручок» — так же провозглашена великими мудрецами; капикаччху весьма способствует мужской силе, сладкая, питающая, тяжёлая; горькая, устраняет Вату, придаёт силу, устраняет Капху, Питту и кровь.",
+        "text_en": "Langali, \"grain-pod\" — thus it is declared by the great sages; Kapikacchu greatly promotes virility, is sweet, nourishing and heavy; bitter, it removes Vata, imparts strength, and removes Kapha, Pitta and blood disorders."
       },
       {
         "type": "verse",
@@ -24779,7 +24843,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "टङ्कारी वातजित्तिक्ता श्लेष्मघ्नी दीपनी लघुः शोथोदरव्यथाहन्त्री हिता पीठविसर्पिणाम्",
         "iast": "ṭaṅkārī vātajittiktā śleṣmaghnī dīpanī laghuḥ śothodaravyathāhantrī hitā pīṭhavisarpiṇām",
         "iast_ru": "т̣ан̇ка̄рӣ ва̄таджиттикта̄ ш́леш̣магхнӣ дӣпанӣ лагхух̣ ш́отходаравйатха̄хантрӣ хита̄ пӣт̣хависарпин̣а̄м",
-        "text": "Её семя успокаивает Вату, известно как превосходное афродизиакальное средство."
+        "text": "Её семя успокаивает Вату, известно как превосходное афродизиакальное средство.",
+        "text_en": "Its seed pacifies Vata and is known as an excellent aphrodisiac."
       },
       {
         "type": "verse",
@@ -24787,7 +24852,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वेतसो नम्रकः प्रोक्तो वानीरो वञ्जुलस्तथा अभ्रपुष्पश्च विदुलो रथः शीतश्च कीर्त्तितः",
         "iast": "vetaso namrakaḥ prokto vānīro vañjulastathā abhrapuṣpaśca vidulo rathaḥ śītaśca kīrttitaḥ",
         "iast_ru": "ветасо намраках̣ прокто ва̄нӣро ван̃джуластатха̄ абхрапуш̣паш́ча видуло ратхах̣ ш́ӣташ́ча кӣрттитах̣",
-        "text": "Мясорохини (мамсарохини) — атируха, круглая, чармакаша, васа, прахаравалли, викаша, вираватья; мясорохини способствует мужской силе, послабляющая, устраняет все три доши."
+        "text": "Мясорохини (мамсарохини) — атируха, круглая, чармакаша, васа, прахаравалли, викаша, вираватья; мясорохини способствует мужской силе, послабляющая, устраняет все три доши.",
+        "text_en": "Mamsarohini has the synonyms: Atiruha, Vritta, Charmakasha, Vasa, Praharavalli, Vikasha, Viravatya; Mamsarohini promotes virility, is purgative, and removes all three doshas."
       },
       {
         "type": "verse",
@@ -24795,7 +24861,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वेतसः शीतलो दाहशोथार्शोयोनिरुक्प्रणुत् हन्ति वीसर्पकृच्छ्रास्रपित्ताश्मरिकफानिलान्",
         "iast": "vetasaḥ śītalo dāhaśothārśoyonirukpraṇut hanti vīsarpakṛcchrāsrapittāśmarikaphānilān",
         "iast_ru": "ветасах̣ ш́ӣтало да̄хаш́отха̄рш́ойонирукпран̣ут ханти вӣсарпакр̣ччхра̄срапитта̄ш́марикапха̄нила̄н",
-        "text": "Чихлака — «извлекающий Вату», устраняет незрелую слизь, взращивает начала тела; огненной природы, его плод подобен яду, губит рыб."
+        "text": "Чихлака — «извлекающий Вату», устраняет незрелую слизь, взращивает начала тела; огненной природы, его плод подобен яду, губит рыб.",
+        "text_en": "Chihlaka — \"extractor of Vata\", removes immature mucus (ama), and nourishes the bodily elements; it is fiery in nature, its fruit is like poison, and kills fish."
       },
       {
         "type": "verse",
@@ -24803,7 +24870,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निकुञ्जकः परिव्याधो नादेयो जलवेतसः जलजो वेतसः शीतः कुष्ठहृद्वातकोपनः",
         "iast": "nikuñjakaḥ parivyādho nādeyo jalavetasaḥ jalajo vetasaḥ śītaḥ kuṣṭhahṛdvātakopanaḥ",
         "iast_ru": "никун̃джаках̣ паривйа̄дхо на̄дейо джалаветасах̣ джаладжо ветасах̣ ш́ӣтах̣ куш̣т̣хахр̣два̄такопанах̣",
-        "text": "Танкари устраняет Вату, горькая, устраняет незрелую слизь, разжигающая, лёгкая; устраняет отёк, водянку живота, боль, полезна страдающим кожными нарывами."
+        "text": "Танкари устраняет Вату, горькая, устраняет незрелую слизь, разжигающая, лёгкая; устраняет отёк, водянку живота, боль, полезна страдающим кожными нарывами.",
+        "text_en": "Tankari removes Vata; it is bitter, removes immature mucus (ama), is appetizing and light; it removes edema, ascites and pain, and is beneficial for those suffering from skin boils."
       },
       {
         "type": "verse",
@@ -24811,7 +24879,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इज्जलो हिज्जलश्चापि निचुलश्चाम्बुजस्तथा जलवेतसवद्वेद्यो हिज्जलोऽय विषापहः",
         "iast": "ijjalo hijjalaścāpi niculaścāmbujastathā jalavetasavadvedyo hijjalo'ya viṣāpahaḥ",
         "iast_ru": "иджджало хиджджалаш́ча̄пи ничулаш́ча̄мбуджастатха̄ джалаветасавадведйо хиджджало'йа виш̣а̄пахах̣",
-        "text": "Ветас (тростник ротанга) — намрака, ванира, ванджула; абхрапушпа, видула, ратха, «холодный»."
+        "text": "Ветас (тростник ротанга) — намрака, ванира, ванджула; абхрапушпа, видула, ратха, «холодный».",
+        "text_en": "Vetasa (rattan cane) has the synonyms: Namraka, Vanira, Vanjula; Abhrapushpa, Vidula, Ratha, \"cold\"."
       },
       {
         "type": "verse",
@@ -24819,7 +24888,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अङ्कोटो दीर्घकीलः स्यादङ्कोलश्च निकोचकः अङ्कोटकः कटुस्तीक्ष्णः स्निग्धोष्णस्तुवरो लघुः",
         "iast": "aṅkoṭo dīrghakīlaḥ syādaṅkolaśca nikocakaḥ aṅkoṭakaḥ kaṭustīkṣṇaḥ snigdhoṣṇastuvaro laghuḥ",
         "iast_ru": "ан̇кот̣о дӣргхакӣлах̣ сйа̄дан̇колаш́ча никочаках̣ ан̇кот̣аках̣ кат̣устӣкш̣н̣ах̣ снигдхош̣н̣астуваро лагхух̣",
-        "text": "Ветас холодный, устраняет жжение, отёк, геморрой и боль во влагалище; устраняет рожистое воспаление, затруднённые состояния, кровяные расстройства, мочекаменную болезнь, Капху и Вату."
+        "text": "Ветас холодный, устраняет жжение, отёк, геморрой и боль во влагалище; устраняет рожистое воспаление, затруднённые состояния, кровяные расстройства, мочекаменную болезнь, Капху и Вату.",
+        "text_en": "Vetasa is cold, removes burning sensation, edema, piles and pain in the vagina; it removes erysipelas, difficult conditions, blood disorders, urinary calculus, Kapha and Vata."
       },
       {
         "type": "verse",
@@ -24827,7 +24897,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रेचनः कृमिशूलामशोफग्रहविषापहः विसर्पकफपित्तास्रमूषकाहिविषापहः",
         "iast": "recanaḥ kṛmiśūlāmaśophagrahaviṣāpahaḥ visarpakaphapittāsramūṣakāhiviṣāpahaḥ",
         "iast_ru": "речанах̣ кр̣миш́ӯла̄маш́опхаграхавиш̣а̄пахах̣ висарпакапхапитта̄срамӯш̣ака̄хивиш̣а̄пахах̣",
-        "text": "Никунджака, паривьядха, надейя, водяной ветас,"
+        "text": "Никунджака, паривьядха, надейя, водяной ветас,",
+        "text_en": "Nikunjaka, Parivyadha, Nadeya, water Vetasa,"
       },
       {
         "type": "verse",
@@ -24835,7 +24906,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्फलं शीतलं स्वादु श्लेष्मघ्नं बृंहणं गुरु बल्यं विरेचनं वातपित्तदाहक्षयास्रजित्",
         "iast": "tatphalaṃ śītalaṃ svādu śleṣmaghnaṃ bṛṃhaṇaṃ guru balyaṃ virecanaṃ vātapittadāhakṣayāsrajit",
         "iast_ru": "татпхалам̣ ш́ӣталам̣ сва̄ду ш́леш̣магхнам̣ бр̣м̣хан̣ам̣ гуру балйам̣ виречанам̣ ва̄тапиттада̄хакш̣айа̄сраджит",
-        "text": "водный ветас холодный, устраняет куштху, сердечную болезнь, обостряет Вату."
+        "text": "водный ветас холодный, устраняет куштху, сердечную болезнь, обостряет Вату.",
+        "text_en": "the water Vetasa is cold, removes kushtha and heart disease, and aggravates Vata."
       },
       {
         "type": "verse",
@@ -24843,7 +24915,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलावाट्यालिका वाट्या सैव वाट्यालकाऽपि च महाबला पीतपुष्पा सहदेवी च सा स्मृता",
         "iast": "balāvāṭyālikā vāṭyā saiva vāṭyālakā'pi ca mahābalā pītapuṣpā sahadevī ca sā smṛtā",
         "iast_ru": "бала̄ва̄т̣йа̄лика̄ ва̄т̣йа̄ саива ва̄т̣йа̄лака̄'пи ча маха̄бала̄ пӣтапуш̣па̄ сахадевӣ ча са̄ смр̣та̄",
-        "text": "Хиджджала — иджджала, никула, водный; хиджджала известна как подобная водному ветасу, устраняет яд."
+        "text": "Хиджджала — иджджала, никула, водный; хиджджала известна как подобная водному ветасу, устраняет яд.",
+        "text_en": "Hijjala has the synonyms: Ijjala, Nikula, aquatic; Hijjala is known to be similar to water Vetasa, and removes poison."
       },
       {
         "type": "verse",
@@ -24851,7 +24924,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततोऽन्याऽतिबला ऋष्यप्रोक्ता कङ्कतिका च सा गाङ्गेरुकी नागबला झषा ह्रस्वगवेधुका",
         "iast": "tato'nyā'tibalā ṛṣyaproktā kaṅkatikā ca sā gāṅgerukī nāgabalā jhaṣā hrasvagavedhukā",
         "iast_ru": "тато'нйа̄'тибала̄ р̣ш̣йапрокта̄ кан̇катика̄ ча са̄ га̄н̇герукӣ на̄габала̄ джхаш̣а̄ храсвагаведхука̄",
-        "text": "Анкота — диргхакила, анкола, никочака; анкотака острый, резкий, маслянистый, горячий, вяжущий, лёгкий,"
+        "text": "Анкота — диргхакила, анкола, никочака; анкотака острый, резкий, маслянистый, горячий, вяжущий, лёгкий,",
+        "text_en": "Ankota has the synonyms: Dirghakila, Ankola, Nikochaka; Ankotaka is pungent, sharp, unctuous, hot, astringent and light,"
       },
       {
         "type": "verse",
@@ -24859,7 +24933,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलाचतुष्टयं शीतं मधुरं बलकान्तिकृत् स्निग्धं ग्राहि समीरास्रपित्तास्रक्षतनाशनम्",
         "iast": "balācatuṣṭayaṃ śītaṃ madhuraṃ balakāntikṛt snigdhaṃ grāhi samīrāsrapittāsrakṣatanāśanam",
         "iast_ru": "бала̄чатуш̣т̣айам̣ ш́ӣтам̣ мадхурам̣ балака̄нтикр̣т снигдхам̣ гра̄хи самӣра̄срапитта̄сракш̣атана̄ш́анам",
-        "text": "послабляющий, устраняет паразитов, колику, незрелость, отёк, одержимость духами и яд; устраняет рожистое воспаление, капха-питта-кровь, мышиный и змеиный яд."
+        "text": "послабляющий, устраняет паразитов, колику, незрелость, отёк, одержимость духами и яд; устраняет рожистое воспаление, капха-питта-кровь, мышиный и змеиный яд.",
+        "text_en": "purgative, removes worms, colic, immaturity (ama), edema, possession by spirits and poison; it removes erysipelas, Kapha-Pitta-blood disorders, and the poison of mice and snakes."
       },
       {
         "type": "verse",
@@ -24867,7 +24942,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलामूलत्वचश्चूर्णं पीतं सक्षीरशर्करम् मूत्रातिसारं हरति दृष्टमेतन्न संशयः",
         "iast": "balāmūlatvacaścūrṇaṃ pītaṃ sakṣīraśarkaram mūtrātisāraṃ harati dṛṣṭametanna saṃśayaḥ",
         "iast_ru": "бала̄мӯлатвачаш́чӯрн̣ам̣ пӣтам̣ сакш̣ӣраш́аркарам мӯтра̄тиса̄рам̣ харати др̣ш̣т̣аметанна сам̣ш́айах̣",
-        "text": "Его плод холодный, сладкий, устраняет Капху, питающий, тяжёлый; придаёт силу, послабляющий, устраняет Вату, Питту, жжение, истощение и кровь."
+        "text": "Его плод холодный, сладкий, устраняет Капху, питающий, тяжёлый; придаёт силу, послабляющий, устраняет Вату, Питту, жжение, истощение и кровь.",
+        "text_en": "Its fruit is cold, sweet, removes Kapha, is nourishing and heavy; it imparts strength, is purgative, and removes Vata, Pitta, burning sensation, emaciation and blood disorders."
       },
       {
         "type": "verse",
@@ -24875,7 +24951,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हरेन्महाबला कृच्छ्रम् भवेद्वातानुलोमिनी हन्यादतिवला मेहं पयसा सितया समम्",
         "iast": "harenmahābalā kṛcchram bhavedvātānulominī hanyādativalā mehaṃ payasā sitayā samam",
         "iast_ru": "харенмаха̄бала̄ кр̣ччхрам бхаведва̄та̄нуломинӣ ханйа̄дативала̄ мехам̣ пайаса̄ ситайа̄ самам",
-        "text": "Бала (мохнатый паслён шерстистый) — ватья, ватьяла, ватьялака, великая бала, желтоцветковая, сахадеви;"
+        "text": "Бала (мохнатый паслён шерстистый) — ватья, ватьяла, ватьялака, великая бала, желтоцветковая, сахадеви;",
+        "text_en": "Bala (Sida cordifolia) has the synonyms: Vatya, Vatyala, Vatyalaka, Mahabala, \"yellow-flowered\", Sahadevi;"
       },
       {
         "type": "verse",
@@ -24883,7 +24960,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुत्रकाकाररक्ताल्पबिन्दुभिर्लाञ्छितच्छदा",
         "iast": "putrakākāraraktālpabindubhirlāñchitacchadā",
         "iast_ru": "путрака̄ка̄раракта̄лпабиндубхирла̄н̃чхитаччхада̄",
-        "text": "иная — атибала, называемая риши, канкатика, гангеруки, нагабала, джхаша, короткий гаведхука."
+        "text": "иная — атибала, называемая риши, канкатика, гангеруки, нагабала, джхаша, короткий гаведхука.",
+        "text_en": "the other one, Atibala, is called Rishya, Kankatika, Gangeruki, Nagabala, Jhasha, short Gavedhuka."
       },
       {
         "type": "verse",
@@ -24891,7 +24969,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लक्ष्मणा पुत्रजननी वस्तगन्धाकृतिर्भवेत् कथिता पुत्रदाऽवश्या लक्ष्मणा मुनिपुङ्गवैः",
         "iast": "lakṣmaṇā putrajananī vastagandhākṛtirbhavet kathitā putradā'vaśyā lakṣmaṇā munipuṅgavaiḥ",
         "iast_ru": "лакш̣ман̣а̄ путраджананӣ вастагандха̄кр̣тирбхавет катхита̄ путрада̄'ваш́йа̄ лакш̣ман̣а̄ мунипун̇гаваих̣",
-        "text": "Все четыре балы холодные, сладкие, придают силу и красоту; маслянистые, закрепляющие; устраняют ветреное кровяное расстройство, Питту, рану и истощение."
+        "text": "Все четыре балы холодные, сладкие, придают силу и красоту; маслянистые, закрепляющие; устраняют ветреное кровяное расстройство, Питту, рану и истощение.",
+        "text_en": "All four Balas are cold and sweet, and impart strength and beauty; they are unctuous and astringent; they remove windy blood disorders, Pitta, wounds and emaciation."
       },
       {
         "type": "verse",
@@ -24899,7 +24978,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वर्णवल्लीरक्तफला काकायुः काकवल्लरी स्वर्णवल्ली शिरः पीडां त्रिदोषान्हन्ति दुग्धदा",
         "iast": "svarṇavallīraktaphalā kākāyuḥ kākavallarī svarṇavallī śiraḥ pīḍāṃ tridoṣānhanti dugdhadā",
         "iast_ru": "сварн̣аваллӣрактапхала̄ ка̄ка̄йух̣ ка̄кавалларӣ сварн̣аваллӣ ш́ирах̣ пӣд̣а̄м̣ тридош̣а̄нханти дугдхада̄",
-        "text": "Порошок корневой коры балы, выпитый с молоком и сахаром, устраняет мочевой понос — это проверено и не подлежит сомнению."
+        "text": "Порошок корневой коры балы, выпитый с молоком и сахаром, устраняет мочевой понос — это проверено и не подлежит сомнению.",
+        "text_en": "The powder of the root bark of Bala, taken with milk and sugar, removes urinary diarrhea (atisara of urine) — this is proven and beyond doubt."
       },
       {
         "type": "verse",
@@ -24907,7 +24987,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कार्पासी तुण्डकेशी च समुद्रा न्ता चकथ्यते कर्पासकी लघु कोष्णा मधुरा वातनाशिनी",
         "iast": "kārpāsī tuṇḍakeśī ca samudrā ntā cakathyate karpāsakī laghu koṣṇā madhurā vātanāśinī",
         "iast_ru": "ка̄рпа̄сӣ тун̣д̣акеш́ӣ ча самудра̄ нта̄ чакатхйате карпа̄сакӣ лагху кош̣н̣а̄ мадхура̄ ва̄тана̄ш́инӣ",
-        "text": "Великая бала устраняет затруднённые состояния, налаживает движение Ваты вниз; атибала же, [выпитая] с молоком и сахаром поровну, устраняет мочеизнурение."
+        "text": "Великая бала устраняет затруднённые состояния, налаживает движение Ваты вниз; атибала же, [выпитая] с молоком и сахаром поровну, устраняет мочеизнурение.",
+        "text_en": "Mahabala removes difficult conditions and regulates the downward movement of Vata; Atibala, [taken] with milk and sugar in equal parts, removes diabetes (prameha)."
       },
       {
         "type": "verse",
@@ -24915,7 +24996,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्द्धनम् तत्कर्णपिडकानादपूयास्रावविनाशनम्",
         "iast": "tatpalāśaṃ samīraghnaṃ raktakṛnmūtravarddhanam tatkarṇapiḍakānādapūyāsrāvavināśanam",
         "iast_ru": "татпала̄ш́ам̣ самӣрагхнам̣ рактакр̣нмӯтраварддханам таткарн̣апид̣ака̄на̄дапӯйа̄сра̄вавина̄ш́анам",
-        "text": "Лакшмана отмечена листьями с красными точками-каплями, напоминающими сына."
+        "text": "Лакшмана отмечена листьями с красными точками-каплями, напоминающими сына.",
+        "text_en": "Lakshmana is marked by leaves with red dots like drops, resembling a son."
       },
       {
         "type": "verse",
@@ -24923,7 +25005,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तद्बीजं स्तन्यदं वृष्यं स्निग्धं कफकरं गुरु",
         "iast": "tadbījaṃ stanyadaṃ vṛṣyaṃ snigdhaṃ kaphakaraṃ guru",
         "iast_ru": "тадбӣджам̣ станйадам̣ вр̣ш̣йам̣ снигдхам̣ капхакарам̣ гуру",
-        "text": "Лакшмана дарует сыновей, подобна по форме козьей морде; лакшмана провозглашена великими мудрецами дарующей сыновей, непременно."
+        "text": "Лакшмана дарует сыновей, подобна по форме козьей морде; лакшмана провозглашена великими мудрецами дарующей сыновей, непременно.",
+        "text_en": "Lakshmana bestows sons and is similar in form to a goat's face; Lakshmana is declared by the great sages to be certainly a bestower of sons."
       },
       {
         "type": "verse",
@@ -24931,7 +25014,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतपर्वा यवफलो वेणुमस्करतेजनाः",
         "iast": "śataparvā yavaphalo veṇumaskaratejanāḥ",
         "iast_ru": "ш́атапарва̄ йавапхало вен̣умаскаратеджана̄х̣",
-        "text": "Сварнавалли (золотая лиана) — красноплодная, какаю, какаваллари; сварнавалли устраняет боль в голове и все три доши, вызывает молоко."
+        "text": "Сварнавалли (золотая лиана) — красноплодная, какаю, какаваллари; сварнавалли устраняет боль в голове и все три доши, вызывает молоко.",
+        "text_en": "Svarnavalli (golden creeper) — red-fruited, Kakayu, Kakavallari; Svarnavalli removes headache and all three doshas, and promotes lactation."
       },
       {
         "type": "verse",
@@ -24939,7 +25023,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वंशः सरो हिमः स्वादुः कषायो वस्तिशोधनः छेदनः कफपित्तघ्नः कुष्ठास्रव्रणशोथजित्",
         "iast": "vaṃśaḥ saro himaḥ svāduḥ kaṣāyo vastiśodhanaḥ chedanaḥ kaphapittaghnaḥ kuṣṭhāsravraṇaśothajit",
         "iast_ru": "вам̣ш́ах̣ саро химах̣ сва̄дух̣ каш̣а̄йо вастиш́одханах̣ чхеданах̣ капхапиттагхнах̣ куш̣т̣ха̄сравран̣аш́отхаджит",
-        "text": "Хлопчатник (карпаси) — тундакеши, «границы океана»; карпасаки лёгкий, приятно тёплый, сладкий, устраняет Вату."
+        "text": "Хлопчатник (карпаси) — тундакеши, «границы океана»; карпасаки лёгкий, приятно тёплый, сладкий, устраняет Вату.",
+        "text_en": "Cotton (Karpasi) — Tundakeshi, \"boundaries of the ocean\"; Karpasaki is light, pleasantly warm and sweet, and removes Vata."
       },
       {
         "type": "verse",
@@ -24947,7 +25032,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्करीरः कटुः पाके रसे रूक्षो गुरुः सरः कषायः कफकृत्स्वादुर्विदाही वातपित्तलः",
         "iast": "tatkarīraḥ kaṭuḥ pāke rase rūkṣo guruḥ saraḥ kaṣāyaḥ kaphakṛtsvādurvidāhī vātapittalaḥ",
         "iast_ru": "таткарӣрах̣ кат̣ух̣ па̄ке расе рӯкш̣о гурух̣ сарах̣ каш̣а̄йах̣ капхакр̣тсва̄дурвида̄хӣ ва̄тапитталах̣",
-        "text": "Его лист устраняет Вату, вызывает кровь и увеличивает мочу; устраняет гнойники в ушах, шум и истечение гноя и крови."
+        "text": "Его лист устраняет Вату, вызывает кровь и увеличивает мочу; устраняет гнойники в ушах, шум и истечение гноя и крови.",
+        "text_en": "Its leaf removes Vata, promotes blood and increases urine; it removes abscesses in the ears, tinnitus, and discharge of pus and blood."
       },
       {
         "type": "verse",
@@ -24955,7 +25041,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तद्यवास्तु सरा रूक्षाः कषायाः कटुपाकिनः वातपित्तकरा उष्णा बद्धमूत्राः कफापहाः",
         "iast": "tadyavāstu sarā rūkṣāḥ kaṣāyāḥ kaṭupākinaḥ vātapittakarā uṣṇā baddhamūtrāḥ kaphāpahāḥ",
         "iast_ru": "тадйава̄сту сара̄ рӯкш̣а̄х̣ каш̣а̄йа̄х̣ кат̣упа̄кинах̣ ва̄тапиттакара̄ уш̣н̣а̄ баддхамӯтра̄х̣ капха̄паха̄х̣",
-        "text": "Его семя вызывает грудное молоко, способствует мужской силе, маслянистое, вызывает Капху, тяжёлое."
+        "text": "Его семя вызывает грудное молоко, способствует мужской силе, маслянистое, вызывает Капху, тяжёлое.",
+        "text_en": "Its seed promotes breast milk and virility; it is unctuous, aggravates Kapha, and is heavy."
       },
       {
         "type": "verse",
@@ -24963,7 +25050,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नलः पोटगलः शून्यमध्यश्च धमनस्तथा नलस्तुमधुरस्तिक्तः कषायः कफरक्तजित् उष्णो हृद्वस्तियोन्यर्त्तिदाहपित्तविसर्पहृत्",
         "iast": "nalaḥ poṭagalaḥ śūnyamadhyaśca dhamanastathā nalastumadhurastiktaḥ kaṣāyaḥ kapharaktajit uṣṇo hṛdvastiyonyarttidāhapittavisarpahṛt",
         "iast_ru": "налах̣ пот̣агалах̣ ш́ӯнйамадхйаш́ча дхаманастатха̄ наластумадхурастиктах̣ каш̣а̄йах̣ капхарактаджит уш̣н̣о хр̣двастийонйарттида̄хапиттависарпахр̣т",
-        "text": "Бамбук (вамша) — «стосуставный», «зерноплодный», венумаскара, теджана."
+        "text": "Бамбук (вамша) — «стосуставный», «зерноплодный», венумаскара, теджана.",
+        "text_en": "Bamboo (Vamsha) — \"hundred-jointed\", \"grain-bearing\", Venumaskara, Tejana."
       },
       {
         "type": "verse",
@@ -24971,7 +25059,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भद्र मुञ्जः शरो बाणस्तेजनश्चेक्षुवेष्टनः",
         "iast": "bhadra muñjaḥ śaro bāṇastejanaścekṣuveṣṭanaḥ",
         "iast_ru": "бхадра мун̃джах̣ ш́аро ба̄н̣астеджанаш́чекш̣увеш̣т̣анах̣",
-        "text": "Бамбук послабляющий, холодный, сладкий, вяжущий, очищает мочевой пузырь, рассекающий, устраняет Капху и Питту, устраняет куштху, кровь, раны и отёк."
+        "text": "Бамбук послабляющий, холодный, сладкий, вяжущий, очищает мочевой пузырь, рассекающий, устраняет Капху и Питту, устраняет куштху, кровь, раны и отёк.",
+        "text_en": "Bamboo is purgative, cold, sweet and astringent; it cleanses the urinary bladder, is scraping, removes Kapha and Pitta, and removes kushtha, blood disorders, wounds and edema."
       },
       {
         "type": "verse",
@@ -24979,7 +25068,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुञ्जो मुञ्जातको बाणः स्थूलदर्भः सुमेखलः मुञ्जद्वयन्तु मधुरं तुवरं शिशिरं तथा",
         "iast": "muñjo muñjātako bāṇaḥ sthūladarbhaḥ sumekhalaḥ muñjadvayantu madhuraṃ tuvaraṃ śiśiraṃ tathā",
         "iast_ru": "мун̃джо мун̃джа̄тако ба̄н̣ах̣ стхӯладарбхах̣ сумекхалах̣ мун̃джадвайанту мадхурам̣ туварам̣ ш́иш́ирам̣ татха̄",
-        "text": "Молодые побеги бамбука (карира) острые по вкусу после переваривания, на вкус сухие, тяжёлые, послабляющие, вяжущие, вызывают Капху, сладкие, вызывают жжение, порождают Вату и Питту."
+        "text": "Молодые побеги бамбука (карира) острые по вкусу после переваривания, на вкус сухие, тяжёлые, послабляющие, вяжущие, вызывают Капху, сладкие, вызывают жжение, порождают Вату и Питту.",
+        "text_en": "The young shoots of bamboo (Karira) are pungent in taste after digestion, dry in taste, heavy, purgative and astringent; they aggravate Kapha, are sweet, cause burning sensation, and produce Vata and Pitta."
       },
       {
         "type": "verse",
@@ -24987,7 +25077,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दोषत्रयहरं वृष्यं मेखलासूपयुज्यते",
         "iast": "doṣatrayaharaṃ vṛṣyaṃ mekhalāsūpayujyate",
         "iast_ru": "дош̣атрайахарам̣ вр̣ш̣йам̣ мекхала̄сӯпайуджйате",
-        "text": "Зёрна бамбука послабляющие, сухие, вяжущие, острые по вкусу после переваривания, порождают Вату и Питту, горячие, задерживают мочу, устраняют Капху."
+        "text": "Зёрна бамбука послабляющие, сухие, вяжущие, острые по вкусу после переваривания, порождают Вату и Питту, горячие, задерживают мочу, устраняют Капху.",
+        "text_en": "The grains of bamboo are purgative, dry, astringent and pungent in taste after digestion; they produce Vata and Pitta, are hot, retain urine, and remove Kapha."
       },
       {
         "type": "verse",
@@ -24995,7 +25086,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कासः कासेक्षुरुद्दिष्टः स स्यादिक्षुरसस्तथा इक्ष्वालिकेक्षुगन्धा च तथा पोटगलः स्मृतः",
         "iast": "kāsaḥ kāsekṣuruddiṣṭaḥ sa syādikṣurasastathā ikṣvālikekṣugandhā ca tathā poṭagalaḥ smṛtaḥ",
         "iast_ru": "ка̄сах̣ ка̄секш̣уруддиш̣т̣ах̣ са сйа̄дикш̣урасастатха̄ икш̣ва̄ликекш̣угандха̄ ча татха̄ пот̣агалах̣ смр̣тах̣",
-        "text": "Тростник (нала) — потагала, «полый внутри», дхамана; нала сладкий, горький, вяжущий, устраняет Капху и кровь, горячий, устраняет сердечную и мочеполовую боль, жжение, Питту и рожистое воспаление."
+        "text": "Тростник (нала) — потагала, «полый внутри», дхамана; нала сладкий, горький, вяжущий, устраняет Капху и кровь, горячий, устраняет сердечную и мочеполовую боль, жжение, Питту и рожистое воспаление.",
+        "text_en": "Reed (Nala) — Potagala, \"hollow inside\", Dhamana; Nala is sweet, bitter and astringent, removes Kapha and blood disorders, is hot, and removes heart and urogenital pain, burning sensation, Pitta and erysipelas."
       },
       {
         "type": "verse",
@@ -25003,7 +25095,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कासः स्यान्मधुरस्तिक्तः स्वादुपाको हिमः खरः मूत्रकृच्छ्राश्मदाहास्रक्षयपित्तजरोगजित्",
         "iast": "kāsaḥ syānmadhurastiktaḥ svādupāko himaḥ kharaḥ mūtrakṛcchrāśmadāhāsrakṣayapittajarogajit",
         "iast_ru": "ка̄сах̣ сйа̄нмадхурастиктах̣ сва̄дупа̄ко химах̣ кхарах̣ мӯтракр̣ччхра̄ш́мада̄ха̄сракш̣айапиттаджарогаджит",
-        "text": "Бхадрамунджа — шара, бана, теджана, «обвивающая сахарный тростник»."
+        "text": "Бхадрамунджа — шара, бана, теджана, «обвивающая сахарный тростник».",
+        "text_en": "Bhadramunja — Shara, Bana, Tejana, \"twining around the sugarcane\"."
       },
       {
         "type": "verse",
@@ -25011,7 +25104,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुन्द्र ः! पटेरको गुल्मः शृङ्गवेराभमूलकः गुन्द्र ः! कषायो मधुरः शिशिरः पित्तरक्तजित् स्तन्यशुक्ररजोमूत्रशोधनो मूत्रकृच्छ्रहृत्",
         "iast": "gundra ḥ! paṭerako gulmaḥ śṛṅgaverābhamūlakaḥ gundra ḥ! kaṣāyo madhuraḥ śiśiraḥ pittaraktajit stanyaśukrarajomūtraśodhano mūtrakṛcchrahṛt",
         "iast_ru": "гундра х̣! пат̣ерако гулмах̣ ш́р̣н̇гавера̄бхамӯлаках̣ гундра х̣! каш̣а̄йо мадхурах̣ ш́иш́ирах̣ питтарактаджит станйаш́украраджомӯтраш́одхано мӯтракр̣ччхрахр̣т",
-        "text": "Мунджа — мунджатака, бана, стхуладарбха, сумекхала; оба вида мунджи сладкие, вяжущие, прохладные,"
+        "text": "Мунджа — мунджатака, бана, стхуладарбха, сумекхала; оба вида мунджи сладкие, вяжущие, прохладные,",
+        "text_en": "Munja — Munjataka, Bana, Sthuladarbha, Sumekhala; both kinds of Munja are sweet, astringent and cooling,"
       },
       {
         "type": "verse",
@@ -25019,7 +25113,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एरका गुन्द्र मूला च शिविर्गुन्द्रा शरीति च एरका शिशिरा वृष्या चक्षुष्या वातकोपिनी मूत्रकृच्छ्राश्मरीदाहपित्तशोणितनाशिनी",
         "iast": "erakā gundra mūlā ca śivirgundrā śarīti ca erakā śiśirā vṛṣyā cakṣuṣyā vātakopinī mūtrakṛcchrāśmarīdāhapittaśoṇitanāśinī",
         "iast_ru": "ерака̄ гундра мӯла̄ ча ш́ивиргундра̄ ш́арӣти ча ерака̄ ш́иш́ира̄ вр̣ш̣йа̄ чакш̣уш̣йа̄ ва̄такопинӣ мӯтракр̣ччхра̄ш́марӣда̄хапитташ́он̣итана̄ш́инӣ",
-        "text": "устраняют все три доши, способствуют мужской силе, применяются для поясов подвижников."
+        "text": "устраняют все три доши, способствуют мужской силе, применяются для поясов подвижников.",
+        "text_en": "they remove all three doshas, promote virility, and are used for the girdles of ascetics."
       },
       {
         "type": "verse",
@@ -25027,7 +25122,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुशो दर्भस्तथा बर्हिः सूच्यग्रो यज्ञभूषणः ततोऽन्यो दीर्घपत्रः स्यात्क्षुरपत्रस्तथैव च",
         "iast": "kuśo darbhastathā barhiḥ sūcyagro yajñabhūṣaṇaḥ tato'nyo dīrghapatraḥ syātkṣurapatrastathaiva ca",
         "iast_ru": "куш́о дарбхастатха̄ бархих̣ сӯчйагро йаджн̃абхӯш̣ан̣ах̣ тато'нйо дӣргхапатрах̣ сйа̄ткш̣урапатрастатхаива ча",
-        "text": "Сахарный тростник дикий (каса) — «сахарнотростниковый», а также «сок сахарного тростника»; икшвалика, «пахнущая сахарным тростником», а также потагала."
+        "text": "Сахарный тростник дикий (каса) — «сахарнотростниковый», а также «сок сахарного тростника»; икшвалика, «пахнущая сахарным тростником», а также потагала.",
+        "text_en": "Wild sugarcane (Kasa) — \"sugarcane-like\", and also \"sugarcane juice\"; Ikshvalika, \"smelling of sugarcane\", and also Potagala."
       },
       {
         "type": "verse",
@@ -25035,7 +25131,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दर्भद्वयं त्रिदोषघ्नं मधुरं तुवरं हिमम् मूत्रकृच्छ्राश्मरीतृष्णावस्तिरुक्प्रदरास्रजित्",
         "iast": "darbhadvayaṃ tridoṣaghnaṃ madhuraṃ tuvaraṃ himam mūtrakṛcchrāśmarītṛṣṇāvastirukpradarāsrajit",
         "iast_ru": "дарбхадвайам̣ тридош̣агхнам̣ мадхурам̣ туварам̣ химам мӯтракр̣ччхра̄ш́марӣтр̣ш̣н̣а̄вастирукпрадара̄сраджит",
-        "text": "Каса сладкая, горькая, сладкая по вкусу после переваривания, холодная, резкая; устраняет затруднённое мочеиспускание, мочекаменную болезнь, жжение, кровь, истощение и лихорадку от Питты."
+        "text": "Каса сладкая, горькая, сладкая по вкусу после переваривания, холодная, резкая; устраняет затруднённое мочеиспускание, мочекаменную болезнь, жжение, кровь, истощение и лихорадку от Питты.",
+        "text_en": "Kasa is sweet, bitter, sweet in taste after digestion, cold and sharp; it removes difficult urination, urinary calculus, burning sensation, blood disorders, emaciation and fever due to Pitta."
       },
       {
         "type": "verse",
@@ -25043,7 +25140,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कत्तृणं रौहिषं देवजग्धं सौगन्धिकं तथा भूतिकं ध्यामपौरञ्च श्यामकं धूपगन्धिकम्",
         "iast": "kattṛṇaṃ rauhiṣaṃ devajagdhaṃ saugandhikaṃ tathā bhūtikaṃ dhyāmapaurañca śyāmakaṃ dhūpagandhikam",
         "iast_ru": "каттр̣н̣ам̣ раухиш̣ам̣ деваджагдхам̣ саугандхикам̣ татха̄ бхӯтикам̣ дхйа̄мапауран̃ча ш́йа̄макам̣ дхӯпагандхикам",
-        "text": "Гундра — патерака, гульма, «корнем подобный имбирю»; гундра вяжущая, сладкая, прохладная, устраняет питта-кровяные расстройства; очищает грудное молоко, семя, менструальную кровь и мочу, устраняет затруднённое мочеиспускание."
+        "text": "Гундра — патерака, гульма, «корнем подобный имбирю»; гундра вяжущая, сладкая, прохладная, устраняет питта-кровяные расстройства; очищает грудное молоко, семя, менструальную кровь и мочу, устраняет затруднённое мочеиспускание.",
+        "text_en": "Gundra — Paterika, Gulma, \"root like ginger\"; Gundra is astringent, sweet and cooling, and removes Pitta-blood disorders; it purifies breast milk, semen, menstrual blood and urine, and removes difficult urination."
       },
       {
         "type": "verse",
@@ -25051,7 +25149,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रौहिषं तुवरं तिक्तं कटुपाकं व्यपोहति हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान्",
         "iast": "rauhiṣaṃ tuvaraṃ tiktaṃ kaṭupākaṃ vyapohati hṛtkaṇṭhavyādhipittāsraśūlakāsakaphajvarān",
         "iast_ru": "раухиш̣ам̣ туварам̣ тиктам̣ кат̣упа̄кам̣ вйапохати хр̣ткан̣т̣хавйа̄дхипитта̄сраш́ӯлака̄сакапхаджвара̄н",
-        "text": "Эрака — «с корнем гундры», шивир, гундрашари; эрака прохладная, способствует мужской силе, полезна для глаз, обостряет Вату; устраняет затруднённое мочеиспускание, мочекаменную болезнь, жжение, Питту и кровь."
+        "text": "Эрака — «с корнем гундры», шивир, гундрашари; эрака прохладная, способствует мужской силе, полезна для глаз, обостряет Вату; устраняет затруднённое мочеиспускание, мочекаменную болезнь, жжение, Питту и кровь.",
+        "text_en": "Eraka — \"with the root of Gundra\", Shivira, Gundrashari; Eraka is cooling, promotes virility, is beneficial for the eyes, and aggravates Vata; it removes difficult urination, urinary calculus, burning sensation, Pitta and blood disorders."
       },
       {
         "type": "verse",
@@ -25059,7 +25158,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुह्यबीजं तु भूतीकं सुगन्धं जम्बुकप्रियम् भूतृणं तु भवेच्छत्रा मालातृणकमित्यपि",
         "iast": "guhyabījaṃ tu bhūtīkaṃ sugandhaṃ jambukapriyam bhūtṛṇaṃ tu bhavecchatrā mālātṛṇakamityapi",
         "iast_ru": "гухйабӣджам̣ ту бхӯтӣкам̣ сугандхам̣ джамбукаприйам бхӯтр̣н̣ам̣ ту бхавеччхатра̄ ма̄ла̄тр̣н̣акамитйапи",
-        "text": "Куша — дарбха, бархис, «остроконечная», украшение жертвоприношений; иной вид — «длиннолистая», а также «острый лист»."
+        "text": "Куша — дарбха, бархис, «остроконечная», украшение жертвоприношений; иной вид — «длиннолистая», а также «острый лист».",
+        "text_en": "Kusha — Darbha, Barhis, \"pointed\", the ornament of sacrifices; another kind is \"long-leaved\", and also \"sharp-leaved\"."
       },
       {
         "type": "verse",
@@ -25067,7 +25167,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूतृणं कटुकं तिक्तं तीक्ष्णोष्णं रेचनं लघु विदाहि दीपनं रूक्षमनेत्र्! यं मुखशोधनम्",
         "iast": "bhūtṛṇaṃ kaṭukaṃ tiktaṃ tīkṣṇoṣṇaṃ recanaṃ laghu vidāhi dīpanaṃ rūkṣamanetr! yaṃ mukhaśodhanam",
         "iast_ru": "бхӯтр̣н̣ам̣ кат̣укам̣ тиктам̣ тӣкш̣н̣ош̣н̣ам̣ речанам̣ лагху вида̄хи дӣпанам̣ рӯкш̣аманетр! йам̣ мукхаш́одханам",
-        "text": "Оба вида дарбхи устраняют все три доши, сладкие, вяжущие, холодные; устраняют затруднённое мочеиспускание, мочекаменную болезнь, жажду, боль мочевого пузыря и кровотечение при родах."
+        "text": "Оба вида дарбхи устраняют все три доши, сладкие, вяжущие, холодные; устраняют затруднённое мочеиспускание, мочекаменную болезнь, жажду, боль мочевого пузыря и кровотечение при родах.",
+        "text_en": "Both kinds of Darbha remove all three doshas, and are sweet, astringent and cold; they remove difficult urination, urinary calculus, thirst, pain of the bladder and bleeding in childbirth."
       },
       {
         "type": "verse",
@@ -25075,7 +25176,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अवृष्यं बहुविट्कञ्च पित्तरक्तप्रदूषणम्",
         "iast": "avṛṣyaṃ bahuviṭkañca pittaraktapradūṣaṇam",
         "iast_ru": "авр̣ш̣йам̣ бахувит̣кан̃ча питтарактапрадӯш̣ан̣ам",
-        "text": "Каттрина — раухиша, «пожираемая богами», благоуханная,"
+        "text": "Каттрина — раухиша, «пожираемая богами», благоуханная,",
+        "text_en": "Kattrina — Rauhisha, \"devoured by the gods\", fragrant,"
       },
       {
         "type": "verse",
@@ -25083,7 +25185,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नीलदूर्बा रुहाऽनन्ता भार्गवी शतपर्विका शष्पं सहस्रवीर्या च शतवल्ली च कीर्त्तिता",
         "iast": "nīladūrbā ruhā'nantā bhārgavī śataparvikā śaṣpaṃ sahasravīryā ca śatavallī ca kīrttitā",
         "iast_ru": "нӣладӯрба̄ руха̄'нанта̄ бха̄ргавӣ ш́атапарвика̄ ш́аш̣пам̣ сахасравӣрйа̄ ча ш́атаваллӣ ча кӣрттита̄",
-        "text": "бхутика, дхьямапаура, шьямака, «благовонная»; раухиша вяжущая, горькая, устраняет острым вкусом после переваривания сердечные, горловые, питта-кровяные, колические, кашлевые и капховые лихорадки."
+        "text": "бхутика, дхьямапаура, шьямака, «благовонная»; раухиша вяжущая, горькая, устраняет острым вкусом после переваривания сердечные, горловые, питта-кровяные, колические, кашлевые и капховые лихорадки.",
+        "text_en": "Bhutika, Dhyamapaura, Shyamaka, \"sweet-smelling\"; Rauhisha is astringent and bitter, and by its pungent taste after digestion removes cardiac, throat, Pitta-blood, colicky, cough and Kapha fevers."
       },
       {
         "type": "verse",
@@ -25091,7 +25194,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नीलदूर्वा हिमा तिक्ता मधुरा तुवरा हरेत् कफपित्तास्रवीसर्पतृष्णादाहत्वगामयान्",
         "iast": "nīladūrvā himā tiktā madhurā tuvarā haret kaphapittāsravīsarpatṛṣṇādāhatvagāmayān",
         "iast_ru": "нӣладӯрва̄ хима̄ тикта̄ мадхура̄ тувара̄ харет капхапитта̄сравӣсарпатр̣ш̣н̣а̄да̄хатвага̄майа̄н",
-        "text": "Скрытое семя, благовонное, любимое шакалами;"
+        "text": "Скрытое семя, благовонное, любимое шакалами;",
+        "text_en": "Hidden seed, fragrant, beloved of jackals;"
       },
       {
         "type": "verse",
@@ -25099,7 +25203,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दूर्वा शुक्ला तु गोलोमी शतवीर्या च कथ्यते श्वेता दूर्वा कषाया स्यात्स्वाद्वी व्रण्या च जीवनी तिक्ता हिमा विसर्पास्रतृट्पित्तकफदाहहृत्",
         "iast": "dūrvā śuklā tu golomī śatavīryā ca kathyate śvetā dūrvā kaṣāyā syātsvādvī vraṇyā ca jīvanī tiktā himā visarpāsratṛṭpittakaphadāhahṛt",
         "iast_ru": "дӯрва̄ ш́укла̄ ту голомӣ ш́атавӣрйа̄ ча катхйате ш́вета̄ дӯрва̄ каш̣а̄йа̄ сйа̄тсва̄двӣ вран̣йа̄ ча джӣванӣ тикта̄ хима̄ висарпа̄сратр̣т̣питтакапхада̄хахр̣т",
-        "text": "бхутрина — чхатра, малатринака; бхутрина острая, горькая, резкая, горячая, послабляющая, лёгкая, вызывающая жжение, разжигающая, сухая, не полезная для глаз, очищает рот,"
+        "text": "бхутрина — чхатра, малатринака; бхутрина острая, горькая, резкая, горячая, послабляющая, лёгкая, вызывающая жжение, разжигающая, сухая, не полезная для глаз, очищает рот,",
+        "text_en": "Bhutrina — Chhatra, Malatrinaka; Bhutrina is pungent, bitter, sharp, hot, purgative, light, causes burning sensation, is appetizing and dry, not beneficial for the eyes, and cleanses the mouth,"
       },
       {
         "type": "verse",
@@ -25107,7 +25212,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गण्डदूर्वा तु गण्डाली मत्स्याक्षी शकुलादनी गण्डदूर्वा हिमा लोहद्रा विणी ग्राहिणी लघुः",
         "iast": "gaṇḍadūrvā tu gaṇḍālī matsyākṣī śakulādanī gaṇḍadūrvā himā lohadrā viṇī grāhiṇī laghuḥ",
         "iast_ru": "ган̣д̣адӯрва̄ ту ган̣д̣а̄лӣ матсйа̄кш̣ӣ ш́акула̄данӣ ган̣д̣адӯрва̄ хима̄ лохадра̄ вин̣ӣ гра̄хин̣ӣ лагхух̣",
-        "text": "не способствует мужской силе, вызывает обильный кал, портит Питту и кровь."
+        "text": "не способствует мужской силе, вызывает обильный кал, портит Питту и кровь.",
+        "text_en": "it does not promote virility, causes copious stool, and vitiates Pitta and blood."
       },
       {
         "type": "verse",
@@ -25115,7 +25221,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिक्ता कषाया मधुरा वातकृत्कटुपाकिनी दाहतृष्णाबलासास्रकुष्ठपित्तज्वरापहा",
         "iast": "tiktā kaṣāyā madhurā vātakṛtkaṭupākinī dāhatṛṣṇābalāsāsrakuṣṭhapittajvarāpahā",
         "iast_ru": "тикта̄ каш̣а̄йа̄ мадхура̄ ва̄такр̣ткат̣упа̄кинӣ да̄хатр̣ш̣н̣а̄бала̄са̄сракуш̣т̣хапиттаджвара̄паха̄",
-        "text": "Синяя дурва (полевица) — руха, ананта, бхаргави, «стосуставная»; молодая трава, «тысячесильная», а также «стократная лиана»."
+        "text": "Синяя дурва (полевица) — руха, ананта, бхаргави, «стосуставная»; молодая трава, «тысячесильная», а также «стократная лиана».",
+        "text_en": "Blue Durva (bent grass) — Rukha, Ananta, Bhargavi, \"hundred-jointed\"; young grass, \"thousand-powered\", and also \"hundredfold creeper\"."
       },
       {
         "type": "verse",
@@ -25123,7 +25230,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वाराहीकन्दसंज्ञस्तु पश्चिमे गृष्टिसंज्ञकः वाराहीकन्द एवान्यैश्चर्मकारालुको मतः",
         "iast": "vārāhīkandasaṃjñastu paścime gṛṣṭisaṃjñakaḥ vārāhīkanda evānyaiścarmakārāluko mataḥ",
         "iast_ru": "ва̄ра̄хӣкандасам̣джн̃асту паш́чиме гр̣ш̣т̣исам̣джн̃аках̣ ва̄ра̄хӣканда ева̄нйаиш́чармака̄ра̄луко матах̣",
-        "text": "Синяя дурва холодная, горькая, сладкая, вяжущая, устраняет капха-питта-рожистое воспаление, жажду, жжение и кожные болезни."
+        "text": "Синяя дурва холодная, горькая, сладкая, вяжущая, устраняет капха-питта-рожистое воспаление, жажду, жжение и кожные болезни.",
+        "text_en": "Blue Durva is cold, bitter, sweet and astringent; it removes Kapha-Pitta-erysipelas, thirst, burning sensation and skin diseases."
       },
       {
         "type": "verse",
@@ -25131,7 +25239,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अनूपसम्भवे देशे वराह इव लोमवान् वाराहवदना गृष्टिर्वरदेत्यपि कथ्यते",
         "iast": "anūpasambhave deśe varāha iva lomavān vārāhavadanā gṛṣṭirvaradetyapi kathyate",
         "iast_ru": "анӯпасамбхаве деш́е вара̄ха ива ломава̄н ва̄ра̄хавадана̄ гр̣ш̣т̣ирварадетйапи катхйате",
-        "text": "Дурва белая — «пчелиная волосистая», «стосильная»; белая дурва вяжущая, сладкая, заживляет раны, оживляющая, горькая, холодная, устраняет рожистое воспаление, кровь, жажду, Питту, Капху и жжение."
+        "text": "Дурва белая — «пчелиная волосистая», «стосильная»; белая дурва вяжущая, сладкая, заживляет раны, оживляющая, горькая, холодная, устраняет рожистое воспаление, кровь, жажду, Питту, Капху и жжение.",
+        "text_en": "White Durva — \"bee-haired\", \"hundred-powered\"; white Durva is astringent and sweet, heals wounds, is reviving, bitter and cold, and removes erysipelas, blood disorders, thirst, Pitta, Kapha and burning sensation."
       },
       {
         "type": "verse",
@@ -25139,7 +25248,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वाराही तु रसे स्वाद्वी तिक्ता पाके पुनः कटुः शुक्रायुःस्वरवर्णाग्निबलपित्तविवर्द्धिनी कफकुष्ठमरुन्मेहकृमिहृच्च रसायनी",
         "iast": "vārāhī tu rase svādvī tiktā pāke punaḥ kaṭuḥ śukrāyuḥsvaravarṇāgnibalapittavivarddhinī kaphakuṣṭhamarunmehakṛmihṛcca rasāyanī",
         "iast_ru": "ва̄ра̄хӣ ту расе сва̄двӣ тикта̄ па̄ке пунах̣ кат̣ух̣ ш́укра̄йух̣свараварн̣а̄гнибалапиттавиварддхинӣ капхакуш̣т̣хамарунмехакр̣михр̣чча раса̄йанӣ",
-        "text": "Гандадурва — гандали, матсьякши, шакуладани; гандадурва холодная, разжигающая, закрепляющая, лёгкая,"
+        "text": "Гандадурва — гандали, матсьякши, шакуладани; гандадурва холодная, разжигающая, закрепляющая, лёгкая,",
+        "text_en": "Gandadurva — Gandali, Matsyakshi, Shakuladani; Gandadurva is cold, appetizing, astringent and light,"
       },
       {
         "type": "verse",
@@ -25147,7 +25257,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विदारी स्वादुकन्दा च सा तु क्रोष्ट्रीसिता स्मृता इक्षुगन्धा क्षीरवल्ली क्षीरशुक्ला पयस्विनी",
         "iast": "vidārī svādukandā ca sā tu kroṣṭrīsitā smṛtā ikṣugandhā kṣīravallī kṣīraśuklā payasvinī",
         "iast_ru": "вида̄рӣ сва̄дуканда̄ ча са̄ ту крош̣т̣рӣсита̄ смр̣та̄ икш̣угандха̄ кш̣ӣраваллӣ кш̣ӣраш́укла̄ пайасвинӣ",
-        "text": "горькая, вяжущая, сладкая, вызывает Вату, острая по вкусу после переваривания; устраняет жжение, жажду, незрелую слизь, кровь, куштху и питта-лихорадку."
+        "text": "горькая, вяжущая, сладкая, вызывает Вату, острая по вкусу после переваривания; устраняет жжение, жажду, незрелую слизь, кровь, куштху и питта-лихорадку.",
+        "text_en": "bitter, astringent and sweet, aggravates Vata, and is pungent in taste after digestion; it removes burning sensation, thirst, immature mucus (ama), blood disorders, kushtha and Pitta fever."
       },
       {
         "type": "verse",
@@ -25155,7 +25266,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विदारी मधुरा स्निग्धा बृंहणी स्तन्यशुक्रदा",
         "iast": "vidārī madhurā snigdhā bṛṃhaṇī stanyaśukradā",
         "iast_ru": "вида̄рӣ мадхура̄ снигдха̄ бр̣м̣хан̣ӣ станйаш́украда̄",
-        "text": "Клубень варахи (кабаний клубень) на западе называется гриштхи; клубень варахи иначе называется чармакаралука,"
+        "text": "Клубень варахи (кабаний клубень) на западе называется гриштхи; клубень варахи иначе называется чармакаралука,",
+        "text_en": "The tuber of Varahi (boar tuber) is called Grishti in the west; the tuber of Varahi is otherwise called Charmakaraluka,"
       },
       {
         "type": "verse",
@@ -25163,7 +25275,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीता स्वर्या मूत्रला च जीवनी बलवर्णदा गुरुः पित्तास्रपवनदाहान् हन्ति रसायनी",
         "iast": "śītā svaryā mūtralā ca jīvanī balavarṇadā guruḥ pittāsrapavanadāhān hanti rasāyanī",
         "iast_ru": "ш́ӣта̄ сварйа̄ мӯтрала̄ ча джӣванӣ балаварн̣ада̄ гурух̣ питта̄срапаванада̄ха̄н ханти раса̄йанӣ",
-        "text": "произрастающий в болотистой местности, подобный кабану, покрытый волосками, — так называется гриштхи, с мордой, подобной кабаньей, а также варада."
+        "text": "произрастающий в болотистой местности, подобный кабану, покрытый волосками, — так называется гриштхи, с мордой, подобной кабаньей, а также варада.",
+        "text_en": "growing in marshy ground, resembling a boar, covered with hairs — thus it is called Grishti, with a snout like a boar's, and also Varada."
       },
       {
         "type": "verse",
@@ -25171,7 +25284,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालमूली तु विद्वद्भिर्मुशली परिकीर्त्तिता मुशली मधुरा वृष्या वीर्योष्णा बृंहणी गुरुः तिक्ता रसायनी हन्ति गुदजान्यनिलं तथा",
         "iast": "tālamūlī tu vidvadbhirmuśalī parikīrttitā muśalī madhurā vṛṣyā vīryoṣṇā bṛṃhaṇī guruḥ tiktā rasāyanī hanti gudajānyanilaṃ tathā",
         "iast_ru": "та̄ламӯлӣ ту видвадбхирмуш́алӣ парикӣрттита̄ муш́алӣ мадхура̄ вр̣ш̣йа̄ вӣрйош̣н̣а̄ бр̣м̣хан̣ӣ гурух̣ тикта̄ раса̄йанӣ ханти гудаджа̄нйанилам̣ татха̄",
-        "text": "Варахи на вкус сладкая, после переваривания опять острая; взращивает семя, долголетие, голос, цвет лица, пищеварительный огонь, силу и Питту; устраняет Капху, куштху, ветреное мочеизнурение и паразитов, служит расаяной."
+        "text": "Варахи на вкус сладкая, после переваривания опять острая; взращивает семя, долголетие, голос, цвет лица, пищеварительный огонь, силу и Питту; устраняет Капху, куштху, ветреное мочеизнурение и паразитов, служит расаяной.",
+        "text_en": "Varahi is sweet in taste, again pungent after digestion; it nourishes semen, longevity, voice, complexion, digestive fire, strength and Pitta; it removes Kapha, kushtha, windy diabetes (prameha) and worms, and acts as a rasayana."
       },
       {
         "type": "verse",
@@ -25179,7 +25293,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतावरी बुहसुता भीरुरिन्दीवरी वरी नारायणी शतपदी शतवीर्या च पीवरी",
         "iast": "śatāvarī buhasutā bhīrurindīvarī varī nārāyaṇī śatapadī śatavīryā ca pīvarī",
         "iast_ru": "ш́ата̄варӣ бухасута̄ бхӣруриндӣварӣ варӣ на̄ра̄йан̣ӣ ш́атападӣ ш́атавӣрйа̄ ча пӣварӣ",
-        "text": "Видари (клубень со сладкой мякотью) известна также как белая крошту-видари, «пахнущая сахарным тростником», «молочная лиана», «молочно-белая», паясвини."
+        "text": "Видари (клубень со сладкой мякотью) известна также как белая крошту-видари, «пахнущая сахарным тростником», «молочная лиана», «молочно-белая», паясвини.",
+        "text_en": "Vidari (the tuber with sweet pulp) is also known as white Kroshtu-vidari, \"smelling of sugarcane\", \"milk creeper\", \"milk-white\", Payasvini."
       },
       {
         "type": "verse",
@@ -25187,7 +25302,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "महाशतावरी चान्या शतमूल्यूर्ध्वकण्टिका सहस्रवीर्या हेतुश्च ऋष्यप्रोक्ता महोदरी",
         "iast": "mahāśatāvarī cānyā śatamūlyūrdhvakaṇṭikā sahasravīryā hetuśca ṛṣyaproktā mahodarī",
         "iast_ru": "маха̄ш́ата̄варӣ ча̄нйа̄ ш́атамӯлйӯрдхвакан̣т̣ика̄ сахасравӣрйа̄ хетуш́ча р̣ш̣йапрокта̄ маходарӣ",
-        "text": "Видари сладкая, маслянистая, питающая, вызывает грудное молоко и семя, холодная, способствует голосу, мочегонная, оживляющая, даёт силу и цвет лица, тяжёлая; устраняет Питту, кровь, Вату и жжение, служит расаяной."
+        "text": "Видари сладкая, маслянистая, питающая, вызывает грудное молоко и семя, холодная, способствует голосу, мочегонная, оживляющая, даёт силу и цвет лица, тяжёлая; устраняет Питту, кровь, Вату и жжение, служит расаяной.",
+        "text_en": "Vidari is sweet, unctuous and nourishing; it promotes breast milk and semen, is cold, benefits the voice, is diuretic, reviving, imparts strength and complexion, and is heavy; it removes Pitta, blood disorders, Vata and burning sensation, and acts as a rasayana."
       },
       {
         "type": "verse",
@@ -25195,7 +25311,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतावरी गुरुः शीता तिक्ता स्वाद्वी रसायनी मेधाऽग्निपुष्टिदा स्निग्धा नेत्र्! या गुल्मातिसारजित्",
         "iast": "śatāvarī guruḥ śītā tiktā svādvī rasāyanī medhā'gnipuṣṭidā snigdhā netr! yā gulmātisārajit",
         "iast_ru": "ш́ата̄варӣ гурух̣ ш́ӣта̄ тикта̄ сва̄двӣ раса̄йанӣ медха̄'гнипуш̣т̣ида̄ снигдха̄ нетр! йа̄ гулма̄тиса̄раджит",
-        "text": "Тала-мула (пальмовый корень) знатоками провозглашена мушали; мушали сладкая, способствует мужской силе, горячая по энергии, питающая, тяжёлая, горькая, служит расаяной, устраняет ветер в заднем проходе."
+        "text": "Тала-мула (пальмовый корень) знатоками провозглашена мушали; мушали сладкая, способствует мужской силе, горячая по энергии, питающая, тяжёлая, горькая, служит расаяной, устраняет ветер в заднем проходе.",
+        "text_en": "Tala-mula (palm root) is declared by the knowledgeable to be Musali; Musali is sweet, promotes virility, hot in potency, nourishing and heavy, bitter, acts as a rasayana, and removes wind in the anus."
       },
       {
         "type": "verse",
@@ -25203,7 +25320,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुक्रस्तन्यकरी बल्या वातपित्तास्रशोथजित् महाशतावरी मेध्या हृद्या वृष्या रसायनी",
         "iast": "śukrastanyakarī balyā vātapittāsraśothajit mahāśatāvarī medhyā hṛdyā vṛṣyā rasāyanī",
         "iast_ru": "ш́украстанйакарӣ балйа̄ ва̄тапитта̄сраш́отхаджит маха̄ш́ата̄варӣ медхйа̄ хр̣дйа̄ вр̣ш̣йа̄ раса̄йанӣ",
-        "text": "Шатавари — «дочь Буддхи», бхиру, индивари, вари, нараяни, шатапади, шатавирья, пивари."
+        "text": "Шатавари — «дочь Буддхи», бхиру, индивари, вари, нараяни, шатапади, шатавирья, пивари.",
+        "text_en": "Shatavari — \"daughter of Buddhi\", Bhiru, Indivari, Vari, Narayani, Shatapadi, Shatavirya, Pivari."
       },
       {
         "type": "verse",
@@ -25211,7 +25329,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीतवीर्या निहन्त्यर्शोग्रहणीनयनामयान् तदङ्कुरस्रिदोषघ्नो लघुरर्शःक्षयापहा",
         "iast": "śītavīryā nihantyarśograhaṇīnayanāmayān tadaṅkurasridoṣaghno laghurarśaḥkṣayāpahā",
         "iast_ru": "ш́ӣтавӣрйа̄ нихантйарш́ограхан̣ӣнайана̄майа̄н тадан̇курасридош̣агхно лагхурарш́ах̣кш̣айа̄паха̄",
-        "text": "Другой вид — великая шатавари, «стокорневая», «шипы вверх», «тысячесильная», причина, называемая мудрецами «великонутробная»."
+        "text": "Другой вид — великая шатавари, «стокорневая», «шипы вверх», «тысячесильная», причина, называемая мудрецами «великонутробная».",
+        "text_en": "Another kind is Mahashatavari, \"hundred-rooted\", \"thorns upward\", \"thousand-powered\", the cause called by the sages \"great-wombed\"."
       },
       {
         "type": "verse",
@@ -25219,7 +25338,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गन्धान्ता वाजिनामादिरश्वगन्धा हयाह्वया वराहकर्णी वरदा बलदा कुष्ठगन्धिनी",
         "iast": "gandhāntā vājināmādiraśvagandhā hayāhvayā varāhakarṇī varadā baladā kuṣṭhagandhinī",
         "iast_ru": "гандха̄нта̄ ва̄джина̄ма̄дираш́вагандха̄ хайа̄хвайа̄ вара̄хакарн̣ӣ варада̄ балада̄ куш̣т̣хагандхинӣ",
-        "text": "Шатавари тяжёлая, холодная, горькая, сладкая, служит расаяной, укрепляет разум, разжигает пищеварение, питает, маслянистая, полезна для глаз, устраняет гульму и понос."
+        "text": "Шатавари тяжёлая, холодная, горькая, сладкая, служит расаяной, укрепляет разум, разжигает пищеварение, питает, маслянистая, полезна для глаз, устраняет гульму и понос.",
+        "text_en": "Shatavari is heavy, cold, bitter and sweet, acts as a rasayana, strengthens the intellect, kindles digestion, nourishes, is unctuous and beneficial for the eyes, and removes gulma and diarrhea."
       },
       {
         "type": "verse",
@@ -25227,7 +25347,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बल्या रसायनी तिक्ता कषायोष्णाऽतिशुक्रला",
         "iast": "balyā rasāyanī tiktā kaṣāyoṣṇā'tiśukralā",
         "iast_ru": "балйа̄ раса̄йанӣ тикта̄ каш̣а̄йош̣н̣а̄'тиш́украла̄",
-        "text": "Способствует семени и молоку, придаёт силу, устраняет Вату, Питту, кровь и отёк; великая шатавари укрепляет разум, приятна сердцу, способствует мужской силе, служит расаяной."
+        "text": "Способствует семени и молоку, придаёт силу, устраняет Вату, Питту, кровь и отёк; великая шатавари укрепляет разум, приятна сердцу, способствует мужской силе, служит расаяной.",
+        "text_en": "It promotes semen and milk, imparts strength, and removes Vata, Pitta, blood disorders and edema; Mahashatavari strengthens the intellect, is pleasant to the heart, promotes virility, and acts as a rasayana."
       },
       {
         "type": "verse",
@@ -25235,7 +25356,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पाठाऽम्बष्ठाऽम्बष्ठकी च प्राचीना पापचेलिका एकाष्ठीला रसा प्रोक्ता पाठिका वरतिक्तिका",
         "iast": "pāṭhā'mbaṣṭhā'mbaṣṭhakī ca prācīnā pāpacelikā ekāṣṭhīlā rasā proktā pāṭhikā varatiktikā",
         "iast_ru": "па̄т̣ха̄'мбаш̣т̣ха̄'мбаш̣т̣хакӣ ча пра̄чӣна̄ па̄пачелика̄ ека̄ш̣т̣хӣла̄ раса̄ прокта̄ па̄т̣хика̄ варатиктика̄",
-        "text": "Патха — амбаштха, амбаштхаки, прачина, папачелика, экаштхила, раса, патхика, «превосходно горькая» — так провозглашена."
+        "text": "Патха — амбаштха, амбаштхаки, прачина, папачелика, экаштхила, раса, патхика, «превосходно горькая» — так провозглашена.",
+        "text_en": "Patha — Ambashtha, Ambashthaki, Prachina, Papachelika, Ekashthila, Rasa, Pathika, \"excellently bitter\" — thus it is declared."
       },
       {
         "type": "verse",
@@ -25243,7 +25365,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पाठोष्णा कटुका तीक्ष्णा वातश्लेष्महरी लघुः हन्ति शूलज्वरच्छर्दिकुष्ठातीसारहृद्रुजः दाहकण्डूविषश्वासकृमिगुल्मगरव्रणान्",
         "iast": "pāṭhoṣṇā kaṭukā tīkṣṇā vātaśleṣmaharī laghuḥ hanti śūlajvaracchardikuṣṭhātīsārahṛdrujaḥ dāhakaṇḍūviṣaśvāsakṛmigulmagaravraṇān",
         "iast_ru": "па̄т̣хош̣н̣а̄ кат̣ука̄ тӣкш̣н̣а̄ ва̄таш́леш̣махарӣ лагхух̣ ханти ш́ӯладжвараччхардикуш̣т̣ха̄тӣса̄рахр̣друджах̣ да̄хакан̣д̣ӯвиш̣аш́ва̄сакр̣мигулмагаравран̣а̄н",
-        "text": "Патха горячая, острая, резкая, устраняет Вату и Капху, лёгкая; устраняет колику, лихорадку, рвоту, куштху, понос и сердечную боль; устраняет жжение, зуд, яд, одышку, паразитов, гульму, отравление и раны."
+        "text": "Патха горячая, острая, резкая, устраняет Вату и Капху, лёгкая; устраняет колику, лихорадку, рвоту, куштху, понос и сердечную боль; устраняет жжение, зуд, яд, одышку, паразитов, гульму, отравление и раны.",
+        "text_en": "Patha is hot, pungent and sharp, removes Vata and Kapha, and is light; it removes colic, fever, vomiting, kushtha, diarrhea and heart pain; it removes burning sensation, itching, poison, dyspnea, worms, gulma, toxicity and wounds."
       },
       {
         "type": "comment",
@@ -25256,7 +25379,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेता त्रिर्वृत् त्रिभण्डी स्यात् त्रिवृतात्रिपुटाऽपि च सर्वानुभूतिः सरला निशोत्रा रेचनीति च",
         "iast": "śvetā trirvṛt tribhaṇḍī syāt trivṛtātripuṭā'pi ca sarvānubhūtiḥ saralā niśotrā recanīti ca",
         "iast_ru": "ш́вета̄ трирвр̣т трибхан̣д̣ӣ сйа̄т тривр̣та̄трипут̣а̄'пи ча сарва̄нубхӯтих̣ сарала̄ ниш́отра̄ речанӣти ча",
-        "text": "Белый тривит — трибхандика, тривита, трипута, «всеиспытанная», сарала, нишотра, «слабительная»."
+        "text": "Белый тривит — трибхандика, тривита, трипута, «всеиспытанная», сарала, нишотра, «слабительная».",
+        "text_en": "White Trivrit — Tribhandika, Trivrita, Triputa, \"tested by all\", Sarala, Nishotra, \"laxative\"."
       },
       {
         "type": "verse",
@@ -25264,7 +25388,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेता त्रिवृद्रे चनी स्यात्स्वादुरुष्णा समीरहृत् रूक्षा पित्तज्वरश्लेष्मपित्तशोथोदरापहा",
         "iast": "śvetā trivṛdre canī syātsvāduruṣṇā samīrahṛt rūkṣā pittajvaraśleṣmapittaśothodarāpahā",
         "iast_ru": "ш́вета̄ тривр̣дре чанӣ сйа̄тсва̄дуруш̣н̣а̄ самӣрахр̣т рӯкш̣а̄ питтаджвараш́леш̣мапитташ́отходара̄паха̄",
-        "text": "Белый тривит послабляющий, сладкий, горячий, устраняет Вату, сухой; устраняет питта-лихорадку, капха-питта-отёк и водянку живота."
+        "text": "Белый тривит послабляющий, сладкий, горячий, устраняет Вату, сухой; устраняет питта-лихорадку, капха-питта-отёк и водянку живота.",
+        "text_en": "White Trivrit is purgative, sweet, hot, removes Vata, and is dry; it removes Pitta fever, Kapha-Pitta edema and ascites."
       },
       {
         "type": "verse",
@@ -25272,7 +25397,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिवृच्छ्यामाऽद्धचन्द्रा च पालिन्दी च सुषेणिका मसूरविदला काली कैषिका कालमेषिका",
         "iast": "trivṛcchyāmā'ddhacandrā ca pālindī ca suṣeṇikā masūravidalā kālī kaiṣikā kālameṣikā",
         "iast_ru": "тривр̣ччхйа̄ма̄'ддхачандра̄ ча па̄линдӣ ча суш̣ен̣ика̄ масӯравидала̄ ка̄лӣ каиш̣ика̄ ка̄ламеш̣ика̄",
-        "text": "Тривит чёрный (шьяма) — «половина луны», палинди, сушеника, масуравидала, кали, каишика, каламешика."
+        "text": "Тривит чёрный (шьяма) — «половина луны», палинди, сушеника, масуравидала, кали, каишика, каламешика.",
+        "text_en": "Black Trivrit (Shyama) — \"half moon\", Palindi, Sushenika, Masuravidala, Kali, Kaishika, Kalameshika."
       },
       {
         "type": "verse",
@@ -25280,7 +25406,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्यामा त्रिवृत्ततो हीनगुणा तीव्रविरेचिनी मूर्च्छादाहमदभ्रान्तिकण्ठोत्कर्षणकारिणी",
         "iast": "śyāmā trivṛttato hīnaguṇā tīvravirecinī mūrcchādāhamadabhrāntikaṇṭhotkarṣaṇakāriṇī",
         "iast_ru": "ш́йа̄ма̄ тривр̣ттато хӣнагун̣а̄ тӣвравиречинӣ мӯрччха̄да̄хамадабхра̄нтикан̣т̣хоткарш̣ан̣ака̄рин̣ӣ",
-        "text": "Шьяма обладает меньшими качествами, чем тривит, весьма сильное слабительное; вызывает обморок, жжение, опьянение, помрачение и стягивание горла."
+        "text": "Шьяма обладает меньшими качествами, чем тривит, весьма сильное слабительное; вызывает обморок, жжение, опьянение, помрачение и стягивание горла.",
+        "text_en": "Shyama has fewer qualities than Trivrit and is a very strong purgative; it causes fainting, burning sensation, intoxication, delusion and constriction of the throat."
       },
       {
         "type": "verse",
@@ -25288,7 +25415,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लघुदन्ती विशल्या च स्यादुदुम्बरपर्ण्यपि तथैरण्डफला शीघ्रा श्वेतघण्टा घुणप्रिया",
         "iast": "laghudantī viśalyā ca syādudumbaraparṇyapi tathairaṇḍaphalā śīghrā śvetaghaṇṭā ghuṇapriyā",
         "iast_ru": "лагхудантӣ виш́алйа̄ ча сйа̄дудумбарапарн̣йапи татхаиран̣д̣апхала̄ ш́ӣгхра̄ ш́ветагхан̣т̣а̄ гхун̣априйа̄",
-        "text": "Малая данти — вишалья, «лист смоковницы» (удумбарапарни), также «касторовоплодная», быстрая (шигхра), «белый колокольчик», любимая жуками (гхунаприя)."
+        "text": "Малая данти — вишалья, «лист смоковницы» (удумбарапарни), также «касторовоплодная», быстрая (шигхра), «белый колокольчик», любимая жуками (гхунаприя).",
+        "text_en": "Small Danti — Vishalya, \"fig-leaf\" (Udumbaraparni), also \"castor-fruited\", swift (Shighra), \"white bell\", beloved of beetles (Ghunapriya)."
       },
       {
         "type": "comment",
@@ -25301,7 +25429,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वाराहाङ्गी च कथिता निकुम्भश्च मकूलकः द्र वन्ती शम्बरी चित्रा प्रत्यक्पर्ण्याखुपर्ण्यपि",
         "iast": "vārāhāṅgī ca kathitā nikumbhaśca makūlakaḥ dra vantī śambarī citrā pratyakparṇyākhuparṇyapi",
         "iast_ru": "ва̄ра̄ха̄н̇гӣ ча катхита̄ никумбхаш́ча макӯлаках̣ дра вантӣ ш́амбарӣ читра̄ пратйакпарн̣йа̄кхупарн̣йапи",
-        "text": "Также называется вараханги («кабанье тело»), никумбха, макулака, драванти, шамбари, читра, пратьякпарни («обратный лист»), а также акхупарни («мышиный лист»)."
+        "text": "Также называется вараханги («кабанье тело»), никумбха, макулака, драванти, шамбари, читра, пратьякпарни («обратный лист»), а также акхупарни («мышиный лист»).",
+        "text_en": "It is also called Varahangi (\"boar-bodied\"), Nikumbha, Makulaka, Dravanti, Shambari, Chitra, Pratyakparni (\"reverse leaf\"), and also Akhuparni (\"mouse leaf\")."
       },
       {
         "type": "verse",
@@ -25309,7 +25438,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उपचित्रा श्रुतश्रोणी न्यग्रोधी च तथा वृषा दन्तीद्वयं सरं पाकं रसे च कटु दीपनम्",
         "iast": "upacitrā śrutaśroṇī nyagrodhī ca tathā vṛṣā dantīdvayaṃ saraṃ pākaṃ rase ca kaṭu dīpanam",
         "iast_ru": "упачитра̄ ш́руташ́рон̣ӣ нйагродхӣ ча татха̄ вр̣ш̣а̄ дантӣдвайам̣ сарам̣ па̄кам̣ расе ча кат̣у дӣпанам",
-        "text": "Упачитра, шруташрони, ньягродхи, а также вриша; оба вида данти послабляющие, острые на вкус и после переваривания, разжигающие,"
+        "text": "Упачитра, шруташрони, ньягродхи, а также вриша; оба вида данти послабляющие, острые на вкус и после переваривания, разжигающие,",
+        "text_en": "Upachitra, Shrutashroni, Nyagrodhi, and also Vrisha; both kinds of Danti are purgative, pungent in taste and after digestion, and appetizing,"
       },
       {
         "type": "verse",
@@ -25317,7 +25447,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तीक्ष्णोष्णं हन्ति पित्तास्रकफशोथोदरक्रिमीन्",
         "iast": "tīkṣṇoṣṇaṃ hanti pittāsrakaphaśothodarakrimīn",
         "iast_ru": "тӣкш̣н̣ош̣н̣ам̣ ханти питта̄сракапхаш́отходаракримӣн",
-        "text": "резкие, горячие; устраняют Питту, кровь, Капху, отёк, водянку живота и паразитов."
+        "text": "резкие, горячие; устраняют Питту, кровь, Капху, отёк, водянку живота и паразитов.",
+        "text_en": "sharp and hot; they remove Pitta, blood disorders, Kapha, edema, ascites and worms."
       },
       {
         "type": "verse",
@@ -25325,7 +25456,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षुद्र दन्तीफलं तु स्यान्मधुरं रसपाकयोः शीतलं सृष्टविण्मूत्रं गरशोथकफापहम्",
         "iast": "kṣudra dantīphalaṃ tu syānmadhuraṃ rasapākayoḥ śītalaṃ sṛṣṭaviṇmūtraṃ garaśothakaphāpaham",
         "iast_ru": "кш̣удра дантӣпхалам̣ ту сйа̄нмадхурам̣ расапа̄кайох̣ ш́ӣталам̣ ср̣ш̣т̣авин̣мӯтрам̣ гараш́отхакапха̄пахам",
-        "text": "Плод малой данти сладкий на вкус и после переваривания, холодный, освобождает кал и мочу, устраняет отравление, отёк и Капху."
+        "text": "Плод малой данти сладкий на вкус и после переваривания, холодный, освобождает кал и мочу, устраняет отравление, отёк и Капху.",
+        "text_en": "The fruit of small Danti is sweet in taste and after digestion, cold, releases stool and urine, and removes toxicity, edema and Kapha."
       },
       {
         "type": "verse",
@@ -25333,7 +25465,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जयपालो दन्तिबीजं विख्यातं तिन्तिडीफलम् जयपालो गुरुः स्निग्धो रेची पित्तकफापहः",
         "iast": "jayapālo dantibījaṃ vikhyātaṃ tintiḍīphalam jayapālo guruḥ snigdho recī pittakaphāpahaḥ",
         "iast_ru": "джайапа̄ло дантибӣджам̣ викхйа̄там̣ тинтид̣ӣпхалам джайапа̄ло гурух̣ снигдхо речӣ питтакапха̄пахах̣",
-        "text": "Джаяпала — семя данти, известное как «плод тамаринда»; джаяпала тяжёлый, маслянистый, послабляющий, устраняет Питту и Капху."
+        "text": "Джаяпала — семя данти, известное как «плод тамаринда»; джаяпала тяжёлый, маслянистый, послабляющий, устраняет Питту и Капху.",
+        "text_en": "Jayapala — the seed of Danti, known as the \"tamarind fruit\"; Jayapala is heavy, unctuous and purgative, and removes Pitta and Kapha."
       },
       {
         "type": "verse",
@@ -25341,7 +25474,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथेन्द्र वारुणी महेन्द्र वारुणी च एन्द्री न्द्र वारुणी चित्रा गवाक्षी च गवादनी वारुणी च पराऽप्युक्ता सा विशाला महाफला",
         "iast": "athendra vāruṇī mahendra vāruṇī ca endrī ndra vāruṇī citrā gavākṣī ca gavādanī vāruṇī ca parā'pyuktā sā viśālā mahāphalā",
         "iast_ru": "атхендра ва̄рун̣ӣ махендра ва̄рун̣ӣ ча ендрӣ ндра ва̄рун̣ӣ читра̄ гава̄кш̣ӣ ча гава̄данӣ ва̄рун̣ӣ ча пара̄'пйукта̄ са̄ виш́а̄ла̄ маха̄пхала̄",
-        "text": "Индраваруни (колоцинт) — великая индраваруни, эндри, читра, гавакши, гавадани, варуни; иная провозглашена вишала, «крупноплодная»,"
+        "text": "Индраваруни (колоцинт) — великая индраваруни, эндри, читра, гавакши, гавадани, варуни; иная провозглашена вишала, «крупноплодная»,",
+        "text_en": "Indravaruni (colocynth) — Mahendravaruni, Aindri, Chitra, Gavakshi, Gavadani, Varuni; another is declared to be Vishala, \"large-fruited\","
       },
       {
         "type": "comment",
@@ -25354,7 +25488,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतपुष्पा मृगाक्षी च मृगैर्वारुर्मृगादनी गवादनीद्वयं तिक्तं पाके कटु सरं लघु",
         "iast": "śvetapuṣpā mṛgākṣī ca mṛgairvārurmṛgādanī gavādanīdvayaṃ tiktaṃ pāke kaṭu saraṃ laghu",
         "iast_ru": "ш́ветапуш̣па̄ мр̣га̄кш̣ӣ ча мр̣гаирва̄рурмр̣га̄данӣ гава̄данӣдвайам̣ тиктам̣ па̄ке кат̣у сарам̣ лагху",
-        "text": "белоцветковая, мригакши, мригаиравару, мригадани; оба вида гавадани горькие, острые на вкус после переваривания, послабляющие, лёгкие,"
+        "text": "белоцветковая, мригакши, мригаиравару, мригадани; оба вида гавадани горькие, острые на вкус после переваривания, послабляющие, лёгкие,",
+        "text_en": "white-flowered, Mrigakshi, Mrigairavaru, Mrigadani; both kinds of Gavadani are bitter, pungent in taste after digestion, purgative and light,"
       },
       {
         "type": "verse",
@@ -25362,7 +25497,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वीर्योष्णं कामलापित्तकफप्लीहोदरापहम्",
         "iast": "vīryoṣṇaṃ kāmalāpittakaphaplīhodarāpaham",
         "iast_ru": "вӣрйош̣н̣ам̣ ка̄мала̄питтакапхаплӣходара̄пахам",
-        "text": "горячие по энергии, устраняют желтуху, Питту, Капху, увеличение селезёнки и водянку живота."
+        "text": "горячие по энергии, устраняют желтуху, Питту, Капху, увеличение селезёнки и водянку живота.",
+        "text_en": "hot in potency, and remove jaundice, Pitta, Kapha, enlargement of the spleen and ascites."
       },
       {
         "type": "verse",
@@ -25370,7 +25506,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वासकासापहं कुष्ठगुल्मग्रन्थिव्रणप्रणुत् प्रमेहमूढगर्भामगण्डामयविषापहम्",
         "iast": "śvāsakāsāpahaṃ kuṣṭhagulmagranthivraṇapraṇut pramehamūḍhagarbhāmagaṇḍāmayaviṣāpaham",
         "iast_ru": "ш́ва̄сака̄са̄пахам̣ куш̣т̣хагулмагрантхивран̣апран̣ут прамехамӯд̣хагарбха̄маган̣д̣а̄майавиш̣а̄пахам",
-        "text": "Устраняют одышку и кашель, куштху, гульму, узлы и раны; устраняют мочеизнурение, замершую беременность, незрелую золотуху и яд."
+        "text": "Устраняют одышку и кашель, куштху, гульму, узлы и раны; устраняют мочеизнурение, замершую беременность, незрелую золотуху и яд.",
+        "text_en": "They remove dyspnea and cough, kushtha, gulma, nodules and wounds; they remove diabetes (prameha), missed abortion, immature scrofula and poison."
       },
       {
         "type": "verse",
@@ -25378,7 +25515,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नीली तु नीलिनी तूणी काला दोला च नीलिका रञ्जनी श्रीफली तुच्छा ग्रामीणा मधुपर्णिका",
         "iast": "nīlī tu nīlinī tūṇī kālā dolā ca nīlikā rañjanī śrīphalī tucchā grāmīṇā madhuparṇikā",
         "iast_ru": "нӣлӣ ту нӣлинӣ тӯн̣ӣ ка̄ла̄ дола̄ ча нӣлика̄ ран̃джанӣ ш́рӣпхалӣ туччха̄ гра̄мӣн̣а̄ мадхупарн̣ика̄",
-        "text": "Нили (индиго) — нилини, туни, кала, дола, ниликā, ранджани, шрипхали, тучха, грамина, мадхупарника."
+        "text": "Нили (индиго) — нилини, туни, кала, дола, ниликā, ранджани, шрипхали, тучха, грамина, мадхупарника.",
+        "text_en": "Nili (indigo) — Nilini, Tuni, Kala, Dola, Nilika, Ranjani, Shriphali, Tuchha, Gramina, Madhuparnika."
       },
       {
         "type": "comment",
@@ -25391,7 +25529,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्लीतका कालकेशी च नीलपुष्पा च सा स्मृता नीलिनी रेचनी तिक्ता केश्या मोहभ्रमापहा",
         "iast": "klītakā kālakeśī ca nīlapuṣpā ca sā smṛtā nīlinī recanī tiktā keśyā mohabhramāpahā",
         "iast_ru": "клӣтака̄ ка̄лакеш́ӣ ча нӣлапуш̣па̄ ча са̄ смр̣та̄ нӣлинӣ речанӣ тикта̄ кеш́йа̄ мохабхрама̄паха̄",
-        "text": "Клитака, калакеши, а также нилапушпа — так называется она; нилини послабляющая, горькая, полезна для волос, устраняет помрачение и головокружение."
+        "text": "Клитака, калакеши, а также нилапушпа — так называется она; нилини послабляющая, горькая, полезна для волос, устраняет помрачение и головокружение.",
+        "text_en": "Klitaka, Kalakeshi, and also Nilapushpa — thus it is called; Nilini is purgative, bitter, beneficial for the hair, and removes delusion and vertigo."
       },
       {
         "type": "verse",
@@ -25399,7 +25538,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णा हन्त्युदरप्लीहवातरक्तकफानिलान् आमवातमुदावर्त्तं मदं च विषमुद्धतम्",
         "iast": "uṣṇā hantyudaraplīhavātaraktakaphānilān āmavātamudāvarttaṃ madaṃ ca viṣamuddhatam",
         "iast_ru": "уш̣н̣а̄ хантйудараплӣхава̄тарактакапха̄нила̄н а̄мава̄тамуда̄варттам̣ мадам̣ ча виш̣амуддхатам",
-        "text": "Горячая, устраняет водянку живота, увеличение селезёнки, вата-кровяные расстройства и Капху; устраняет незрелую вата-болезнь, обратный ход Ваты, опьянение и сильный яд."
+        "text": "Горячая, устраняет водянку живота, увеличение селезёнки, вата-кровяные расстройства и Капху; устраняет незрелую вата-болезнь, обратный ход Ваты, опьянение и сильный яд.",
+        "text_en": "It is hot, and removes ascites, enlargement of the spleen, Vata-blood disorders and Kapha; it removes immature (ama) Vata disease, upward movement of Vata, intoxication and severe poison."
       },
       {
         "type": "verse",
@@ -25407,7 +25547,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शरपुङ्खः प्लीहशत्रुर्नीलीवृक्षाकृतिश्च सः शरपुङ्खो यकृत्प्लीहगुल्मव्रणविषापहः तिक्तः कषायः कासास्रश्वासज्वरहरो लघुः",
         "iast": "śarapuṅkhaḥ plīhaśatrurnīlīvṛkṣākṛtiśca saḥ śarapuṅkho yakṛtplīhagulmavraṇaviṣāpahaḥ tiktaḥ kaṣāyaḥ kāsāsraśvāsajvaraharo laghuḥ",
         "iast_ru": "ш́арапун̇кхах̣ плӣхаш́атрурнӣлӣвр̣кш̣а̄кр̣тиш́ча сах̣ ш́арапун̇кхо йакр̣тплӣхагулмавран̣авиш̣а̄пахах̣ тиктах̣ каш̣а̄йах̣ ка̄са̄сраш́ва̄саджварахаро лагхух̣",
-        "text": "Шарапункха — «враг селезёнки», по виду подобна дереву нили; шарапункха устраняет болезни печени, селезёнки, гульму, раны и яд, горькая, вяжущая, устраняет кашель, кровь, одышку и лихорадку, лёгкая."
+        "text": "Шарапункха — «враг селезёнки», по виду подобна дереву нили; шарапункха устраняет болезни печени, селезёнки, гульму, раны и яд, горькая, вяжущая, устраняет кашель, кровь, одышку и лихорадку, лёгкая.",
+        "text_en": "Sharapunkha — \"enemy of the spleen\", resembling the Nili tree in appearance; Sharapunkha removes diseases of the liver and spleen, gulma, wounds and poison; it is bitter, astringent, removes cough, blood disorders, dyspnea and fever, and is light."
       },
       {
         "type": "verse",
@@ -25415,7 +25556,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विऋ!द्धदारुक आवेगी छागान्त्री वृष्यगन्धिका वृद्धद्वारुः कषायोष्णः कटुस्तिक्तो रसायनः",
         "iast": "viṛ!ddhadāruka āvegī chāgāntrī vṛṣyagandhikā vṛddhadvāruḥ kaṣāyoṣṇaḥ kaṭustikto rasāyanaḥ",
         "iast_ru": "вир̣!ддхада̄рука а̄вегӣ чха̄га̄нтрӣ вр̣ш̣йагандхика̄ вр̣ддхадва̄рух̣ каш̣а̄йош̣н̣ах̣ кат̣устикто раса̄йанах̣",
-        "text": "Вриддхадарука — авеги, чхагантри, «пахнущая как способствующее семени»; вриддхадару вяжущая, горячая, острая, горькая, служит расаяной,"
+        "text": "Вриддхадарука — авеги, чхагантри, «пахнущая как способствующее семени»; вриддхадару вяжущая, горячая, острая, горькая, служит расаяной,",
+        "text_en": "Vriddhadaruka — Avegi, Chhagantri, \"smelling like an aphrodisiac\"; Vriddhadaru is astringent, hot, pungent and bitter, and acts as a rasayana,"
       },
       {
         "type": "verse",
@@ -25423,7 +25565,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वृष्यो वातामवातार्शः शोथमेहकफप्रणुत् शुक्रायुर्बलमेधाऽग्निस्वरकान्तिकरःसरः",
         "iast": "vṛṣyo vātāmavātārśaḥ śothamehakaphapraṇut śukrāyurbalamedhā'gnisvarakāntikaraḥsaraḥ",
         "iast_ru": "вр̣ш̣йо ва̄та̄мава̄та̄рш́ах̣ ш́отхамехакапхапран̣ут ш́укра̄йурбаламедха̄'гнисварака̄нтикарах̣сарах̣",
-        "text": "способствует мужской силе, устраняет незрелую вата-болезнь, геморрой, отёк, мочеизнурение и Капху; взращивает семя, долголетие, силу, разум, огонь, голос и красоту, послабляющая."
+        "text": "способствует мужской силе, устраняет незрелую вата-болезнь, геморрой, отёк, мочеизнурение и Капху; взращивает семя, долголетие, силу, разум, огонь, голос и красоту, послабляющая.",
+        "text_en": "it promotes virility, removes immature (ama) Vata disease, piles, edema, diabetes (prameha) and Kapha; it nourishes semen, longevity, strength, intellect, digestive fire, voice and beauty, and is purgative."
       },
       {
         "type": "verse",
@@ -25431,7 +25574,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "थासो यवासो दुःस्पर्शो धन्वयासः कुनाशकः दुरालभा दुरालम्भा समुद्रा न्ता च रोदिनी",
         "iast": "thāso yavāso duḥsparśo dhanvayāsaḥ kunāśakaḥ durālabhā durālambhā samudrā ntā ca rodinī",
         "iast_ru": "тха̄со йава̄со дух̣спарш́о дханвайа̄сах̣ куна̄ш́аках̣ дура̄лабха̄ дура̄ламбха̄ самудра̄ нта̄ ча родинӣ",
-        "text": "Тхаса — яваса, «неприятная на ощупь», дханваяса, кунашака, дуралабха, дуралямбха, «границы океана», родини."
+        "text": "Тхаса — яваса, «неприятная на ощупь», дханваяса, кунашака, дуралабха, дуралямбха, «границы океана», родини.",
+        "text_en": "Dhasa — Yavasa, \"unpleasant to the touch\", Dhanvayasa, Kunashaka, Duralabha, Duralambha, \"boundaries of the ocean\", Rodini."
       },
       {
         "type": "comment",
@@ -25444,7 +25588,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गान्धारी कच्छुराऽनन्ता काषाया हरिविग्रहा यासः स्वादुः सरस्तिक्तस्तुवरः शीतलो लघुः",
         "iast": "gāndhārī kacchurā'nantā kāṣāyā harivigrahā yāsaḥ svāduḥ sarastiktastuvaraḥ śītalo laghuḥ",
         "iast_ru": "га̄ндха̄рӣ каччхура̄'нанта̄ ка̄ш̣а̄йа̄ харивиграха̄ йа̄сах̣ сва̄дух̣ сарастиктастуварах̣ ш́ӣтало лагхух̣",
-        "text": "Гандхари, каччхура, ананта, кашая, харивиграха; яса сладкая, послабляющая, горькая, вяжущая, холодная, лёгкая,"
+        "text": "Гандхари, каччхура, ананта, кашая, харивиграха; яса сладкая, послабляющая, горькая, вяжущая, холодная, лёгкая,",
+        "text_en": "Gandhari, Kachchhura, Ananta, Kashaya, Harivigraha; Yasa is sweet, purgative, bitter, astringent, cold and light,"
       },
       {
         "type": "verse",
@@ -25452,7 +25597,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तृष्णाविसर्पवातास्रवमिज्वरहरः स्मृतः",
         "iast": "tṛṣṇāvisarpavātāsravamijvaraharaḥ smṛtaḥ",
         "iast_ru": "тр̣ш̣н̣а̄висарпава̄та̄сравамиджварахарах̣ смр̣тах̣",
-        "text": "устраняет жажду, рожистое воспаление, ватно-кровяные расстройства, рвоту и лихорадку."
+        "text": "устраняет жажду, рожистое воспаление, ватно-кровяные расстройства, рвоту и лихорадку.",
+        "text_en": "it removes thirst, erysipelas, Vata-blood disorders, vomiting and fever."
       },
       {
         "type": "verse",
@@ -25460,7 +25606,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यवासस्य गुर्णैस्तुल्या बुधैरुक्ता दुरालभा",
         "iast": "yavāsasya gurṇaistulyā budhairuktā durālabhā",
         "iast_ru": "йава̄сасйа гурн̣аистулйа̄ будхаирукта̄ дура̄лабха̄",
-        "text": "Дуралабха провозглашена мудрыми равной явасе по качествам."
+        "text": "Дуралабха провозглашена мудрыми равной явасе по качествам.",
+        "text_en": "Duralabha is declared by the wise to be equal to Yavasa in qualities."
       },
       {
         "type": "verse",
@@ -25468,7 +25615,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुण्डी भिक्षुरपि प्रोक्ता श्रावणी च तपोधना श्रवणाह्वा मुण्डतिका तथा श्रवणशीर्षका",
         "iast": "muṇḍī bhikṣurapi proktā śrāvaṇī ca tapodhanā śravaṇāhvā muṇḍatikā tathā śravaṇaśīrṣakā",
         "iast_ru": "мун̣д̣ӣ бхикш̣урапи прокта̄ ш́ра̄ван̣ӣ ча таподхана̄ ш́раван̣а̄хва̄ мун̣д̣атика̄ татха̄ ш́раван̣аш́ӣрш̣ака̄",
-        "text": "Мунди — бхикшу, шравани, тападхана, шраванахва, мундатика, а также шраванаширшака."
+        "text": "Мунди — бхикшу, шравани, тападхана, шраванахва, мундатика, а также шраванаширшака.",
+        "text_en": "Mundi — Bhikshu, Shravani, Tapadhana, Shravanahva, Mundatika, and also Shravanashirshaka."
       },
       {
         "type": "verse",
@@ -25476,7 +25624,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "महाश्रावणिकाऽन्या तु सा स्मृता भूकदम्बिका कदम्बपुष्पिका च स्यादव्यथाऽतितपस्विनी",
         "iast": "mahāśrāvaṇikā'nyā tu sā smṛtā bhūkadambikā kadambapuṣpikā ca syādavyathā'titapasvinī",
         "iast_ru": "маха̄ш́ра̄ван̣ика̄'нйа̄ ту са̄ смр̣та̄ бхӯкадамбика̄ кадамбапуш̣пика̄ ча сйа̄давйатха̄'титапасвинӣ",
-        "text": "Иная, великая шраваника, считается бхукадамбикой, кадамбапушпикой, «безболезненной», весьма подвижнической."
+        "text": "Иная, великая шраваника, считается бхукадамбикой, кадамбапушпикой, «безболезненной», весьма подвижнической.",
+        "text_en": "Another, the great Shravanika, is considered to be Bhukadambika, Kadambapushpika, \"painless\", very ascetic."
       },
       {
         "type": "verse",
@@ -25484,7 +25633,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुण्डतिका कटुः पाके वीर्योष्णा मधुरा लघुः मेध्या गण्डापचीकृच्छ्रकृमियोन्यर्त्तिपाण्डुनुत्",
         "iast": "muṇḍatikā kaṭuḥ pāke vīryoṣṇā madhurā laghuḥ medhyā gaṇḍāpacīkṛcchrakṛmiyonyarttipāṇḍunut",
         "iast_ru": "мун̣д̣атика̄ кат̣ух̣ па̄ке вӣрйош̣н̣а̄ мадхура̄ лагхух̣ медхйа̄ ган̣д̣а̄пачӣкр̣ччхракр̣мийонйарттипа̄н̣д̣унут",
-        "text": "Мундатика острая по вкусу после переваривания, горячая по энергии, сладкая, лёгкая; укрепляет разум, устраняет зоб, апачи, затруднённые состояния, паразитов, боль во влагалище и бледную немочь."
+        "text": "Мундатика острая по вкусу после переваривания, горячая по энергии, сладкая, лёгкая; укрепляет разум, устраняет зоб, апачи, затруднённые состояния, паразитов, боль во влагалище и бледную немочь.",
+        "text_en": "Mundatika is pungent in taste after digestion, hot in potency, sweet and light; it strengthens the intellect, and removes goiter, apachi, difficult conditions, worms, pain in the vagina and anemia."
       },
       {
         "type": "verse",
@@ -25492,7 +25642,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "महामुण्डी च तत्तुल्या गुणैरुक्ता महर्षिभिः",
         "iast": "mahāmuṇḍī ca tattulyā guṇairuktā maharṣibhiḥ",
         "iast_ru": "маха̄мун̣д̣ӣ ча таттулйа̄ гун̣аирукта̄ махарш̣ибхих̣",
-        "text": "Великая мунди провозглашена великими мудрецами равной ей по качествам."
+        "text": "Великая мунди провозглашена великими мудрецами равной ей по качествам.",
+        "text_en": "The great Mundi is declared by the great sages to be equal to it in qualities."
       },
       {
         "type": "verse",
@@ -25500,7 +25651,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपामार्गस्तु शिखरी ह्यधः शल्यो मयूरकः मर्कटी दुर्ग्रहा चापि किणिही खरमञ्जरी",
         "iast": "apāmārgastu śikharī hyadhaḥ śalyo mayūrakaḥ markaṭī durgrahā cāpi kiṇihī kharamañjarī",
         "iast_ru": "апа̄ма̄ргасту ш́икхарӣ хйадхах̣ ш́алйо майӯраках̣ маркат̣ӣ дурграха̄ ча̄пи кин̣ихӣ кхараман̃джарӣ",
-        "text": "Апамарга — шикхари, адхахшалья, майюрака, маркати, дурграха, кинихи, кхарамандж ари."
+        "text": "Апамарга — шикхари, адхахшалья, майюрака, маркати, дурграха, кинихи, кхарамандж ари.",
+        "text_en": "Apamarga — Shikhari, Adhahshalya, Mayuraka, Markati, Durgraha, Kinihi, Kharamanjari."
       },
       {
         "type": "verse",
@@ -25508,7 +25660,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपामार्गः सरस्तीक्ष्णो दीपनस्तिक्तकः कटुः पाचनो रोचनश्छर्दिकफमेदोऽनिलापहः निहन्ति हृद्रुजाध्मार्शः कण्डूशूलोदरापचीः",
         "iast": "apāmārgaḥ sarastīkṣṇo dīpanastiktakaḥ kaṭuḥ pācano rocanaśchardikaphamedo'nilāpahaḥ nihanti hṛdrujādhmārśaḥ kaṇḍūśūlodarāpacīḥ",
         "iast_ru": "апа̄ма̄ргах̣ сарастӣкш̣н̣о дӣпанастиктаках̣ кат̣ух̣ па̄чано рочанаш́чхардикапхамедо'нила̄пахах̣ ниханти хр̣друджа̄дхма̄рш́ах̣ кан̣д̣ӯш́ӯлодара̄пачӣх̣",
-        "text": "Апамарга послабляющая, резкая, разжигающая, горькая, острая; переваривающая, вызывающая аппетит, устраняет рвоту, Капху, жир и Вату; устраняет сердечную боль, вздутие, геморрой, зуд, колику, водянку живота и апачи."
+        "text": "Апамарга послабляющая, резкая, разжигающая, горькая, острая; переваривающая, вызывающая аппетит, устраняет рвоту, Капху, жир и Вату; устраняет сердечную боль, вздутие, геморрой, зуд, колику, водянку живота и апачи.",
+        "text_en": "Apamarga is purgative, sharp, appetizing, bitter and pungent; it is digestive and stimulates appetite, and removes vomiting, Kapha, obesity and Vata; it removes heart pain, distension, piles, itching, colic, ascites and apachi."
       },
       {
         "type": "verse",
@@ -25516,7 +25669,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तोऽन्यो वशिरो वृत्तफलो धामार्गवोऽपि च प्रत्यक्पर्णी केशपर्णी कथिता कपिपिप्पली",
         "iast": "rakto'nyo vaśiro vṛttaphalo dhāmārgavo'pi ca pratyakparṇī keśaparṇī kathitā kapipippalī",
         "iast_ru": "ракто'нйо ваш́иро вр̣ттапхало дха̄ма̄ргаво'пи ча пратйакпарн̣ӣ кеш́апарн̣ӣ катхита̄ капипиппалӣ",
-        "text": "Другой, красный вид — вашира, круглоплодный, дхамаргава; пратьякпарни, кешапарни, капипиппали."
+        "text": "Другой, красный вид — вашира, круглоплодный, дхамаргава; пратьякпарни, кешапарни, капипиппали.",
+        "text_en": "The other, red kind is Vashira, round-fruited, Dhamargava; Pratyakparni, Keshaparni, Kapipippali."
       },
       {
         "type": "verse",
@@ -25524,7 +25678,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपामार्गोऽरुणो वातविष्टम्भी कफहृद्धिमः रूक्षः पूर्वगुणैर्न्यूनः कथितो गुणवेदिभिः",
         "iast": "apāmārgo'ruṇo vātaviṣṭambhī kaphahṛddhimaḥ rūkṣaḥ pūrvaguṇairnyūnaḥ kathito guṇavedibhiḥ",
         "iast_ru": "апа̄ма̄рго'рун̣о ва̄тавиш̣т̣амбхӣ капхахр̣ддхимах̣ рӯкш̣ах̣ пӯрвагун̣аирнйӯнах̣ катхито гун̣аведибхих̣",
-        "text": "Красноватая апамарга вызывает застой Ваты, устраняет Капху, холодная, сухая; провозглашена знатоками свойств с меньшими качествами, чем прежний вид."
+        "text": "Красноватая апамарга вызывает застой Ваты, устраняет Капху, холодная, сухая; провозглашена знатоками свойств с меньшими качествами, чем прежний вид.",
+        "text_en": "The reddish Apamarga causes stagnation of Vata, removes Kapha, and is cold and dry; it is declared by the knowers of properties to have fewer qualities than the former kind."
       },
       {
         "type": "verse",
@@ -25532,7 +25687,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपामार्गफलं स्वादु रसे पाके च दुर्जरम् विष्टम्भि वातलं रूक्षं रक्तपित्तप्रसादनम्",
         "iast": "apāmārgaphalaṃ svādu rase pāke ca durjaram viṣṭambhi vātalaṃ rūkṣaṃ raktapittaprasādanam",
         "iast_ru": "апа̄ма̄ргапхалам̣ сва̄ду расе па̄ке ча дурджарам виш̣т̣амбхи ва̄талам̣ рӯкш̣ам̣ рактапиттапраса̄данам",
-        "text": "Плод апамарги сладкий на вкус и после переваривания, трудно переваривается, вызывает застой и Вату, сухой, успокаивает кровопитта-расстройства."
+        "text": "Плод апамарги сладкий на вкус и после переваривания, трудно переваривается, вызывает застой и Вату, сухой, успокаивает кровопитта-расстройства.",
+        "text_en": "The fruit of Apamarga is sweet in taste and after digestion, difficult to digest, causes stagnation and Vata, is dry, and pacifies blood-Pitta disorders."
       },
       {
         "type": "verse",
@@ -25540,7 +25696,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोकिलाक्षस्तु काकेक्षुरिक्षुरः क्षुरकः क्षुरः भिक्षुः काण्डेक्षुरप्युक्त इक्षुगन्धेक्षुबालिका",
         "iast": "kokilākṣastu kākekṣurikṣuraḥ kṣurakaḥ kṣuraḥ bhikṣuḥ kāṇḍekṣurapyukta ikṣugandhekṣubālikā",
         "iast_ru": "кокила̄кш̣асту ка̄кекш̣урикш̣урах̣ кш̣ураках̣ кш̣урах̣ бхикш̣ух̣ ка̄н̣д̣екш̣урапйукта икш̣угандхекш̣уба̄лика̄",
-        "text": "Кокилакша — какекшу, кшурака, кшура, бхикшу, кандекшу, «пахнущая сахарным тростником», икшубалика."
+        "text": "Кокилакша — какекшу, кшурака, кшура, бхикшу, кандекшу, «пахнущая сахарным тростником», икшубалика.",
+        "text_en": "Kokilaksha — Kakekshu, Kshuraka, Kshura, Bhikshu, Kandekshu, \"smelling of sugarcane\", Ikshubalika."
       },
       {
         "type": "comment",
@@ -25553,7 +25710,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षुरकः शीतलो वृप्यः स्वाद्वम्लः पिच्छिलस्तथा तिक्तो वातामशोथाश्मतृष्णादृष्ट्यनिलास्रजित्",
         "iast": "kṣurakaḥ śītalo vṛpyaḥ svādvamlaḥ picchilastathā tikto vātāmaśothāśmatṛṣṇādṛṣṭyanilāsrajit",
         "iast_ru": "кш̣ураках̣ ш́ӣтало вр̣пйах̣ сва̄двамлах̣ пиччхиластатха̄ тикто ва̄та̄маш́отха̄ш́матр̣ш̣н̣а̄др̣ш̣т̣йанила̄сраджит",
-        "text": "Кшурака холодная, способствует мужской силе, сладкая, кислая, слизистая, горькая; устраняет ватную незрелость, отёк, мочекаменную болезнь, жажду, [расстройства] зрения, Вату и кровь."
+        "text": "Кшурака холодная, способствует мужской силе, сладкая, кислая, слизистая, горькая; устраняет ватную незрелость, отёк, мочекаменную болезнь, жажду, [расстройства] зрения, Вату и кровь.",
+        "text_en": "Kshuraka is cold, promotes virility, and is sweet, sour, slimy and bitter; it removes Vata immaturity (ama), edema, urinary calculus, thirst, [disorders] of vision, Vata and blood disorders."
       },
       {
         "type": "verse",
@@ -25561,7 +25719,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अस्थिसंहारकः प्रोक्तो वातश्लेष्महरोऽस्थियुक्",
         "iast": "asthisaṃhārakaḥ prokto vātaśleṣmaharo'sthiyuk",
         "iast_ru": "астхисам̣ха̄раках̣ прокто ва̄таш́леш̣махаро'стхийук",
-        "text": "Астхисанхарака (костносращивающая) провозглашена устраняющей Вату и Капху, содержащая [образ] костей [в узлах]."
+        "text": "Астхисанхарака (костносращивающая) провозглашена устраняющей Вату и Капху, содержащая [образ] костей [в узлах].",
+        "text_en": "Asthisanharaka (bone-joiner) is declared to remove Vata and Kapha, bearing [the form] of bones [in its nodes]."
       },
       {
         "type": "verse",
@@ -25569,7 +25728,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णः सरः कृमिघ्नश्चदुर्नामघ्नोऽक्षिरोगजित् रूक्षः स्वादुर्लघुर्वृष्यः पाचनः पित्तलः स्मृतः",
         "iast": "uṣṇaḥ saraḥ kṛmighnaścadurnāmaghno'kṣirogajit rūkṣaḥ svādurlaghurvṛṣyaḥ pācanaḥ pittalaḥ smṛtaḥ",
         "iast_ru": "уш̣н̣ах̣ сарах̣ кр̣мигхнаш́чадурна̄магхно'кш̣ирогаджит рӯкш̣ах̣ сва̄дурлагхурвр̣ш̣йах̣ па̄чанах̣ питталах̣ смр̣тах̣",
-        "text": "Горячая, послабляющая, устраняет паразитов и геморрой, устраняет глазные болезни; сухая, сладкая, лёгкая, способствует мужской силе, переваривающая, порождает Питту."
+        "text": "Горячая, послабляющая, устраняет паразитов и геморрой, устраняет глазные болезни; сухая, сладкая, лёгкая, способствует мужской силе, переваривающая, порождает Питту.",
+        "text_en": "It is hot, purgative, removes worms and piles, and removes eye diseases; it is dry, sweet and light, promotes virility, is digestive, and produces Pitta."
       },
       {
         "type": "verse",
@@ -25577,7 +25737,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काण्डं त्वग्विरहितमस्थिशृङ्खलायामाषार्द्र द्विदलमकञ्चुकं तदर्द्धम् संपिष्टं सुतनु ततस्तिलस्य तैलेसंपक्वं वटकमतीव वातहारि",
         "iast": "kāṇḍaṃ tvagvirahitamasthiśṛṅkhalāyāmāṣārdra dvidalamakañcukaṃ tadarddham saṃpiṣṭaṃ sutanu tatastilasya tailesaṃpakvaṃ vaṭakamatīva vātahāri",
         "iast_ru": "ка̄н̣д̣ам̣ твагвирахитамастхиш́р̣н̇кхала̄йа̄ма̄ш̣а̄рдра двидаламакан̃чукам̣ тадарддхам сам̣пиш̣т̣ам̣ сутану татастиласйа таилесам̣паквам̣ ват̣акаматӣва ва̄таха̄ри",
-        "text": "Стебель астхисанхаракайи, очищенный от кожуры, растёртый с расколотым свежим горохом без оболочки, в равной доле, сваренный в кунжутном масле в виде шарика, — весьма устраняет Вату."
+        "text": "Стебель астхисанхаракайи, очищенный от кожуры, растёртый с расколотым свежим горохом без оболочки, в равной доле, сваренный в кунжутном масле в виде шарика, — весьма устраняет Вату.",
+        "text_en": "The stalk of Asthisanharaka, peeled, ground with split fresh peas without husks in equal portion, and boiled in sesame oil in the form of a ball — greatly removes Vata."
       },
       {
         "type": "verse",
@@ -25585,7 +25746,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुमारी गृहकन्या च कन्या घृतकुमारिका कुमारी भेदनी शीता तिक्ता नेत्र्! या रसायनी",
         "iast": "kumārī gṛhakanyā ca kanyā ghṛtakumārikā kumārī bhedanī śītā tiktā netr! yā rasāyanī",
         "iast_ru": "кума̄рӣ гр̣хаканйа̄ ча канйа̄ гхр̣такума̄рика̄ кума̄рӣ бхеданӣ ш́ӣта̄ тикта̄ нетр! йа̄ раса̄йанӣ",
-        "text": "Алоэ (кумари) — грихаканья, канья, гхритакумарика; кумари рассекающая, холодная, горькая, полезна для глаз, служит расаяной,"
+        "text": "Алоэ (кумари) — грихаканья, канья, гхритакумарика; кумари рассекающая, холодная, горькая, полезна для глаз, служит расаяной,",
+        "text_en": "Aloe (Kumari) — Grihakanya, Kanya, Ghritakumarika; Kumari is scraping, cold and bitter, beneficial for the eyes, and acts as a rasayana,"
       },
       {
         "type": "comment",
@@ -25598,7 +25760,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधुरा बृंहणी बल्या वृष्या वातविषप्रणुत् गुल्मप्लीहयकृद्वृद्धिकफज्वरहरी हरेत् ग्रन्थ्यग्निदग्धविस्फोटपित्तरक्तत्वगामयान्",
         "iast": "madhurā bṛṃhaṇī balyā vṛṣyā vātaviṣapraṇut gulmaplīhayakṛdvṛddhikaphajvaraharī haret granthyagnidagdhavisphoṭapittaraktatvagāmayān",
         "iast_ru": "мадхура̄ бр̣м̣хан̣ӣ балйа̄ вр̣ш̣йа̄ ва̄тавиш̣апран̣ут гулмаплӣхайакр̣двр̣ддхикапхаджварахарӣ харет грантхйагнидагдхависпхот̣апиттарактатвага̄майа̄н",
-        "text": "сладкая, питающая, придаёт силу, способствует мужской силе, устраняет Вату и яд; устраняет гульму, увеличение селезёнки и печени, Капху и лихорадку; устраняет узлы, ожоги, волдыри и кожные болезни от Питты и крови."
+        "text": "сладкая, питающая, придаёт силу, способствует мужской силе, устраняет Вату и яд; устраняет гульму, увеличение селезёнки и печени, Капху и лихорадку; устраняет узлы, ожоги, волдыри и кожные болезни от Питты и крови.",
+        "text_en": "sweet, nourishing, imparts strength, promotes virility, and removes Vata and poison; it removes gulma, enlargement of the spleen and liver, Kapha and fever; it removes nodules, burns, blisters and skin diseases due to Pitta and blood."
       },
       {
         "type": "verse",
@@ -25606,7 +25769,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुनर्नवा श्वेतमूला शोथघ्नी दीर्घपत्रिका कटु कषायानुरसा पाण्डुघ्नी दीपनी परा शोफानिलगरश्लेष्महरी ब्रघ्नोदरप्रणुत्",
         "iast": "punarnavā śvetamūlā śothaghnī dīrghapatrikā kaṭu kaṣāyānurasā pāṇḍughnī dīpanī parā śophānilagaraśleṣmaharī braghnodarapraṇut",
         "iast_ru": "пунарнава̄ ш́ветамӯла̄ ш́отхагхнӣ дӣргхапатрика̄ кат̣у каш̣а̄йа̄нураса̄ па̄н̣д̣угхнӣ дӣпанӣ пара̄ ш́опха̄нилагараш́леш̣махарӣ брагхнодарапран̣ут",
-        "text": "Пунарнава — «белый корень», устраняющая отёк, «длиннолистая», острая, с вяжущим послевкусием, устраняющая бледную немочь, отлично разжигающая; устраняет отёк, Вату, отравление, Капху и водянку живота."
+        "text": "Пунарнава — «белый корень», устраняющая отёк, «длиннолистая», острая, с вяжущим послевкусием, устраняющая бледную немочь, отлично разжигающая; устраняет отёк, Вату, отравление, Капху и водянку живота.",
+        "text_en": "Punarnava — \"white root\", the remover of edema, \"long-leaved\", pungent with an astringent aftertaste, the remover of anemia, an excellent appetizer; it removes edema, Vata, toxicity, Kapha and ascites."
       },
       {
         "type": "verse",
@@ -25614,7 +25778,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुनर्नवाऽपरा रक्ता रक्तपुष्पा शिलाटिका शोथघ्नी क्षुद्र वर्षाभूर्वर्षकेतुः कठिल्लकः",
         "iast": "punarnavā'parā raktā raktapuṣpā śilāṭikā śothaghnī kṣudra varṣābhūrvarṣaketuḥ kaṭhillakaḥ",
         "iast_ru": "пунарнава̄'пара̄ ракта̄ рактапуш̣па̄ ш́ила̄т̣ика̄ ш́отхагхнӣ кш̣удра варш̣а̄бхӯрварш̣акетух̣ кат̣хиллаках̣",
-        "text": "Другая пунарнава — красная, с красным цветком, шилатика, устраняющая отёк, малая варшабху, варшакету, катхиллака."
+        "text": "Другая пунарнава — красная, с красным цветком, шилатика, устраняющая отёк, малая варшабху, варшакету, катхиллака.",
+        "text_en": "The other Punarnava is red, with red flowers, Shilatika, remover of edema, small Varshabhu, Varshaketu, Kathillaka."
       },
       {
         "type": "verse",
@@ -25622,7 +25787,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुनर्नवाऽरुणा तिक्ता कटुपाका हिमा लघुः वातला ग्राहिणी श्लेष्मपित्तरक्तविनाशिनी",
         "iast": "punarnavā'ruṇā tiktā kaṭupākā himā laghuḥ vātalā grāhiṇī śleṣmapittaraktavināśinī",
         "iast_ru": "пунарнава̄'рун̣а̄ тикта̄ кат̣упа̄ка̄ хима̄ лагхух̣ ва̄тала̄ гра̄хин̣ӣ ш́леш̣мапиттарактавина̄ш́инӣ",
-        "text": "Красноватая пунарнава горькая, острая по вкусу после переваривания, холодная, лёгкая; вызывает Вату, закрепляющая, устраняет Капху, Питту и кровь."
+        "text": "Красноватая пунарнава горькая, острая по вкусу после переваривания, холодная, лёгкая; вызывает Вату, закрепляющая, устраняет Капху, Питту и кровь.",
+        "text_en": "The reddish Punarnava is bitter, pungent in taste after digestion, cold and light; it aggravates Vata, is astringent, and removes Kapha, Pitta and blood disorders."
       },
       {
         "type": "verse",
@@ -25630,7 +25796,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रसारणी राजबला भद्र पर्णी प्रतानिनी सरणी सारणी भद्रा बला चापि कटम्भरा",
         "iast": "prasāraṇī rājabalā bhadra parṇī pratāninī saraṇī sāraṇī bhadrā balā cāpi kaṭambharā",
         "iast_ru": "праса̄ран̣ӣ ра̄джабала̄ бхадра парн̣ӣ прата̄нинӣ саран̣ӣ са̄ран̣ӣ бхадра̄ бала̄ ча̄пи кат̣амбхара̄",
-        "text": "Прасарани — раджабала, бхадрапарни, пратанини, сарани, сарани, бхадра, бала, катамбхара."
+        "text": "Прасарани — раджабала, бхадрапарни, пратанини, сарани, сарани, бхадра, бала, катамбхара.",
+        "text_en": "Prasarani — Rajabala, Bhadraparni, Pratanini, Sarani, Sarani, Bhadra, Bala, Katambhara."
       },
       {
         "type": "verse",
@@ -25638,7 +25805,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रसारणी गुरुर्वृष्या वलसन्धानकृत्सरा वीर्योष्णा वातहृत्तिक्ता वातरक्तकफापहा",
         "iast": "prasāraṇī gururvṛṣyā valasandhānakṛtsarā vīryoṣṇā vātahṛttiktā vātaraktakaphāpahā",
         "iast_ru": "праса̄ран̣ӣ гурурвр̣ш̣йа̄ валасандха̄накр̣тсара̄ вӣрйош̣н̣а̄ ва̄тахр̣ттикта̄ ва̄тарактакапха̄паха̄",
-        "text": "Прасарани тяжёлая, способствует мужской силе, срастанию переломов, послабляющая; горячая по энергии, устраняет Вату, горькая, устраняет вата-кровяные расстройства и Капху."
+        "text": "Прасарани тяжёлая, способствует мужской силе, срастанию переломов, послабляющая; горячая по энергии, устраняет Вату, горькая, устраняет вата-кровяные расстройства и Капху.",
+        "text_en": "Prasarani is heavy, promotes virility and the knitting of fractures, and is purgative; it is hot in potency, removes Vata, is bitter, and removes Vata-blood disorders and Kapha."
       },
       {
         "type": "verse",
@@ -25646,7 +25814,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृष्णा तु शारिवा श्यामा गोपी गोपवधूश्च सा",
         "iast": "kṛṣṇā tu śārivā śyāmā gopī gopavadhūśca sā",
         "iast_ru": "кр̣ш̣н̣а̄ ту ш́а̄рива̄ ш́йа̄ма̄ гопӣ гопавадхӯш́ча са̄",
-        "text": "Чёрная сарива — шьяма, гопи, гопавадху."
+        "text": "Чёрная сарива — шьяма, гопи, гопавадху.",
+        "text_en": "Black Sariva — Shyama, Gopi, Gopavadhu."
       },
       {
         "type": "verse",
@@ -25654,7 +25823,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धवला शारिवा गोपा गोपकन्या कृशोदरी स्फोटा श्यामा गोपवल्ली लताऽस्फोता च चन्दना",
         "iast": "dhavalā śārivā gopā gopakanyā kṛśodarī sphoṭā śyāmā gopavallī latā'sphotā ca candanā",
         "iast_ru": "дхавала̄ ш́а̄рива̄ гопа̄ гопаканйа̄ кр̣ш́одарӣ спхот̣а̄ ш́йа̄ма̄ гопаваллӣ лата̄'спхота̄ ча чандана̄",
-        "text": "Белая сарива — гопа, гопаканья, кришодари, сфота, шьяма, гопавалли, лата-сфота, чандана."
+        "text": "Белая сарива — гопа, гопаканья, кришодари, сфота, шьяма, гопавалли, лата-сфота, чандана.",
+        "text_en": "White Sariva — Gopa, Gopakanya, Krishodari, Sphota, Shyama, Gopavalli, Lata-sphota, Chandana."
       },
       {
         "type": "verse",
@@ -25662,7 +25832,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सारिवायुगलं स्वादु स्निग्धं शुक्रकरं गुरु अग्निमान्द्यारुचिश्वासकासामविषनाशनम् दोषत्रयास्रप्रदरज्वरातीसारनाशनम्",
         "iast": "sārivāyugalaṃ svādu snigdhaṃ śukrakaraṃ guru agnimāndyāruciśvāsakāsāmaviṣanāśanam doṣatrayāsrapradarajvarātīsāranāśanam",
         "iast_ru": "са̄рива̄йугалам̣ сва̄ду снигдхам̣ ш́укракарам̣ гуру агнима̄ндйа̄ручиш́ва̄сака̄са̄мавиш̣ана̄ш́анам дош̣атрайа̄срапрадараджвара̄тӣса̄рана̄ш́анам",
-        "text": "Оба вида саривы сладкие, маслянистые, способствуют семени, тяжёлые; устраняют слабость пищеварения, отсутствие аппетита, одышку, кашель, незрелость и яд; устраняют все три доши, кровь, маточное кровотечение, лихорадку и понос."
+        "text": "Оба вида саривы сладкие, маслянистые, способствуют семени, тяжёлые; устраняют слабость пищеварения, отсутствие аппетита, одышку, кашель, незрелость и яд; устраняют все три доши, кровь, маточное кровотечение, лихорадку и понос.",
+        "text_en": "Both kinds of Sariva are sweet, unctuous, promote semen, and are heavy; they remove weak digestion, anorexia, dyspnea, cough, immaturity (ama) and poison; they remove all three doshas, blood disorders, uterine bleeding, fever and diarrhea."
       },
       {
         "type": "verse",
@@ -25670,7 +25841,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भृङ्गराजो भृङ्गरजो मार्कवो भृङ्ग एव च अङ्गारकः केशराजो भृङ्गारः केशरञ्जनः",
         "iast": "bhṛṅgarājo bhṛṅgarajo mārkavo bhṛṅga eva ca aṅgārakaḥ keśarājo bhṛṅgāraḥ keśarañjanaḥ",
         "iast_ru": "бхр̣н̇гара̄джо бхр̣н̇гараджо ма̄ркаво бхр̣н̇га ева ча ан̇га̄раках̣ кеш́ара̄джо бхр̣н̇га̄рах̣ кеш́аран̃джанах̣",
-        "text": "Бхрингарадж — бхрингараджа, маркава, бхринга, ангарака, кешараджа, бхрингара, «красящий волосы»."
+        "text": "Бхрингарадж — бхрингараджа, маркава, бхринга, ангарака, кешараджа, бхрингара, «красящий волосы».",
+        "text_en": "Bhringaraj — Bhringaraja, Markava, Bhringa, Angaraka, Kesharaja, Bhringara, \"hair-dyeing\"."
       },
       {
         "type": "comment",
@@ -25683,7 +25855,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भृङ्गारः कटुकस्तीक्ष्णो रूक्षोष्णः कफवातनुत्",
         "iast": "bhṛṅgāraḥ kaṭukastīkṣṇo rūkṣoṣṇaḥ kaphavātanut",
         "iast_ru": "бхр̣н̇га̄рах̣ кат̣укастӣкш̣н̣о рӯкш̣ош̣н̣ах̣ капхава̄танут",
-        "text": "Бхрингара острая, резкая, сухая, горячая, устраняет Капху и Вату,"
+        "text": "Бхрингара острая, резкая, сухая, горячая, устраняет Капху и Вату,",
+        "text_en": "Bhringara is pungent, sharp, dry and hot, and removes Kapha and Vata,"
       },
       {
         "type": "verse",
@@ -25691,7 +25864,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "केश्यस्त्वच्यः कृमिश्वासकासशोथामपाण्डुनुत् दन्त्यो रसायनो बल्यः कुष्ठनेत्रशिरोऽत्तिनुत्",
         "iast": "keśyastvacyaḥ kṛmiśvāsakāsaśothāmapāṇḍunut dantyo rasāyano balyaḥ kuṣṭhanetraśiro'ttinut",
         "iast_ru": "кеш́йаствачйах̣ кр̣миш́ва̄сака̄саш́отха̄мапа̄н̣д̣унут дантйо раса̄йано балйах̣ куш̣т̣ханетраш́иро'ттинут",
-        "text": "полезна для волос и кожи, устраняет паразитов, одышку, кашель, отёк, незрелость и бледную немочь; полезна для зубов, служит расаяной, придаёт силу, устраняет куштху и боль в глазах и голове."
+        "text": "полезна для волос и кожи, устраняет паразитов, одышку, кашель, отёк, незрелость и бледную немочь; полезна для зубов, служит расаяной, придаёт силу, устраняет куштху и боль в глазах и голове.",
+        "text_en": "it is beneficial for the hair and skin, and removes worms, dyspnea, cough, edema, immaturity (ama) and anemia; it is beneficial for the teeth, acts as a rasayana, imparts strength, and removes kushtha and pain in the eyes and head."
       },
       {
         "type": "verse",
@@ -25699,7 +25873,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शणपुष्पी स्मृता घण्टा शणपुष्पसमाकृतिः शणपुष्पी कटुस्तिक्ता वामिनी कफपित्तजित्",
         "iast": "śaṇapuṣpī smṛtā ghaṇṭā śaṇapuṣpasamākṛtiḥ śaṇapuṣpī kaṭustiktā vāminī kaphapittajit",
         "iast_ru": "ш́ан̣апуш̣пӣ смр̣та̄ гхан̣т̣а̄ ш́ан̣апуш̣пасама̄кр̣тих̣ ш́ан̣апуш̣пӣ кат̣устикта̄ ва̄минӣ капхапиттаджит",
-        "text": "Шанапушпи — гханта, подобная по форме цветку конопли; шанапушпи острая, горькая, рвотная, устраняет Капху и Питту."
+        "text": "Шанапушпи — гханта, подобная по форме цветку конопли; шанапушпи острая, горькая, рвотная, устраняет Капху и Питту.",
+        "text_en": "Shanapushpi — Ghanta, resembling a hemp flower in form; Shanapushpi is pungent, bitter and emetic, and removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -25707,7 +25882,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलभद्रा त्रायमाणा त्रायन्ती गिरिजाऽनुजा त्रायन्ती तुवरा तिक्ता सरा पित्तकफापहा ज्वरहृद्रो गगुल्मार्शोभ्रमशूलविषप्रणुत्",
         "iast": "balabhadrā trāyamāṇā trāyantī girijā'nujā trāyantī tuvarā tiktā sarā pittakaphāpahā jvarahṛdro gagulmārśobhramaśūlaviṣapraṇut",
         "iast_ru": "балабхадра̄ тра̄йама̄н̣а̄ тра̄йантӣ гириджа̄'нуджа̄ тра̄йантӣ тувара̄ тикта̄ сара̄ питтакапха̄паха̄ джварахр̣дро гагулма̄рш́обхрамаш́ӯлавиш̣апран̣ут",
-        "text": "Балабхадра — траямана, траянти, «горная младшая»; траянти вяжущая, горькая, послабляющая, устраняет Питту и Капху; устраняет лихорадку, сердечную болезнь, гульму, геморрой, головокружение, колику и яд."
+        "text": "Балабхадра — траямана, траянти, «горная младшая»; траянти вяжущая, горькая, послабляющая, устраняет Питту и Капху; устраняет лихорадку, сердечную болезнь, гульму, геморрой, головокружение, колику и яд.",
+        "text_en": "Balabhadra — Trayamana, Trayanti, \"mountain younger one\"; Trayanti is astringent, bitter and purgative, and removes Pitta and Kapha; it removes fever, heart disease, gulma, piles, vertigo, colic and poison."
       },
       {
         "type": "verse",
@@ -25715,7 +25891,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूर्वा मधुरसा देवी मोरटा तेजनी स्रुवा मधुलिका मधुश्रेणी गोकर्णी पीलुपर्ण्यपि",
         "iast": "mūrvā madhurasā devī moraṭā tejanī sruvā madhulikā madhuśreṇī gokarṇī pīluparṇyapi",
         "iast_ru": "мӯрва̄ мадхураса̄ девӣ морат̣а̄ теджанӣ срува̄ мадхулика̄ мадхуш́рен̣ӣ гокарн̣ӣ пӣлупарн̣йапи",
-        "text": "Мурва — «сладкий сок», деви, мората, теджани, срува, мадхулика, мадхушрени, гокарни, пилупарни."
+        "text": "Мурва — «сладкий сок», деви, мората, теджани, срува, мадхулика, мадхушрени, гокарни, пилупарни.",
+        "text_en": "Murva — \"sweet juice\", Devi, Morata, Tejani, Sruva, Madhulika, Madhushreni, Gokarni, Piluparni."
       },
       {
         "type": "verse",
@@ -25723,7 +25900,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत् त्रिदोषतृष्णाहृद्रो गकण्डूकुष्ठज्वरापहाः",
         "iast": "mūrvā sarā guruḥ svādustiktā pittāsramehanut tridoṣatṛṣṇāhṛdro gakaṇḍūkuṣṭhajvarāpahāḥ",
         "iast_ru": "мӯрва̄ сара̄ гурух̣ сва̄дустикта̄ питта̄срамеханут тридош̣атр̣ш̣н̣а̄хр̣дро гакан̣д̣ӯкуш̣т̣хаджвара̄паха̄х̣",
-        "text": "Мурва послабляющая, тяжёлая, сладкая, горькая, устраняет Питту, кровь и мочеизнурение; устраняет все три доши, жажду, сердечную болезнь, зуд, куштху и лихорадку."
+        "text": "Мурва послабляющая, тяжёлая, сладкая, горькая, устраняет Питту, кровь и мочеизнурение; устраняет все три доши, жажду, сердечную болезнь, зуд, куштху и лихорадку.",
+        "text_en": "Murva is purgative, heavy, sweet and bitter, and removes Pitta, blood disorders and diabetes (prameha); it removes all three doshas, thirst, heart disease, itching, kushtha and fever."
       },
       {
         "type": "verse",
@@ -25731,7 +25909,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकमाची ध्वाङ्क्षमाची काकाह्वा चैव वायसी काकमाची त्रिदोषघ्नी स्निग्धोष्णा स्वरशुक्रदा",
         "iast": "kākamācī dhvāṅkṣamācī kākāhvā caiva vāyasī kākamācī tridoṣaghnī snigdhoṣṇā svaraśukradā",
         "iast_ru": "ка̄кама̄чӣ дхва̄н̇кш̣ама̄чӣ ка̄ка̄хва̄ чаива ва̄йасӣ ка̄кама̄чӣ тридош̣агхнӣ снигдхош̣н̣а̄ свараш́украда̄",
-        "text": "Какамачи (паслён чёрный) — дхванкшамачи, какахва, ваяси; какамачи устраняет все три доши, маслянистая, горячая, способствует голосу и семени,"
+        "text": "Какамачи (паслён чёрный) — дхванкшамачи, какахва, ваяси; какамачи устраняет все три доши, маслянистая, горячая, способствует голосу и семени,",
+        "text_en": "Kakamachi (black nightshade) — Dhvankshamachi, Kakahva, Vayasi; Kakamachi removes all three doshas, is unctuous, hot, and benefits the voice and semen,"
       },
       {
         "type": "verse",
@@ -25739,7 +25918,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिक्ता रसायनी शोथकुष्टार्शोज्वरमेहजित् कटुर्नेत्रहिता हिक्काच्छर्दिहृद्रो गनाशिनी",
         "iast": "tiktā rasāyanī śothakuṣṭārśojvaramehajit kaṭurnetrahitā hikkācchardihṛdro ganāśinī",
         "iast_ru": "тикта̄ раса̄йанӣ ш́отхакуш̣т̣а̄рш́оджварамехаджит кат̣урнетрахита̄ хикка̄ччхардихр̣дро гана̄ш́инӣ",
-        "text": "горькая, служит расаяной, устраняет отёк, куштху, геморрой, лихорадку и мочеизнурение; острая, полезна для глаз, устраняет икоту, рвоту и сердечную болезнь."
+        "text": "горькая, служит расаяной, устраняет отёк, куштху, геморрой, лихорадку и мочеизнурение; острая, полезна для глаз, устраняет икоту, рвоту и сердечную болезнь.",
+        "text_en": "it is bitter, acts as a rasayana, and removes edema, kushtha, piles, fever and diabetes (prameha); it is pungent, beneficial for the eyes, and removes hiccup, vomiting and heart disease."
       },
       {
         "type": "verse",
@@ -25747,7 +25927,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकनासा तु काकाङ्गी काकतुण्डफला च सा",
         "iast": "kākanāsā tu kākāṅgī kākatuṇḍaphalā ca sā",
         "iast_ru": "ка̄кана̄са̄ ту ка̄ка̄н̇гӣ ка̄катун̣д̣апхала̄ ча са̄",
-        "text": "Каканаса — каканги, «плод вороньего клюва»."
+        "text": "Каканаса — каканги, «плод вороньего клюва».",
+        "text_en": "Kakanasa — Kakangi, \"fruit of the crow's beak\"."
       },
       {
         "type": "verse",
@@ -25755,7 +25936,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकनासा कषायोष्णा कटुका रसपाकयोः कफघ्नी वामनी तिक्ता शोथार्शश्वित्रकुष्ठहृत्",
         "iast": "kākanāsā kaṣāyoṣṇā kaṭukā rasapākayoḥ kaphaghnī vāmanī tiktā śothārśaśvitrakuṣṭhahṛt",
         "iast_ru": "ка̄кана̄са̄ каш̣а̄йош̣н̣а̄ кат̣ука̄ расапа̄кайох̣ капхагхнӣ ва̄манӣ тикта̄ ш́отха̄рш́аш́витракуш̣т̣хахр̣т",
-        "text": "Каканаса вяжущая, горячая, острая на вкус и после переваривания, устраняет Капху, рвотная, горькая; устраняет отёк, геморрой, витилиго и куштху."
+        "text": "Каканаса вяжущая, горячая, острая на вкус и после переваривания, устраняет Капху, рвотная, горькая; устраняет отёк, геморрой, витилиго и куштху.",
+        "text_en": "Kakanasa is astringent, hot, pungent in taste and after digestion, removes Kapha, is emetic and bitter; it removes edema, piles, vitiligo and kushtha."
       },
       {
         "type": "verse",
@@ -25763,7 +25945,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकजङ्घा नदीकान्ता काकतिक्ता सुलोमशा पारावतपदी दासी काका चापि प्रकीर्त्तिता",
         "iast": "kākajaṅghā nadīkāntā kākatiktā sulomaśā pārāvatapadī dāsī kākā cāpi prakīrttitā",
         "iast_ru": "ка̄каджан̇гха̄ надӣка̄нта̄ ка̄катикта̄ суломаш́а̄ па̄ра̄ватападӣ да̄сӣ ка̄ка̄ ча̄пи пракӣрттита̄",
-        "text": "Какаджангха — надиканта, какатикта, суломаша, паравата-пади, даси, кака."
+        "text": "Какаджангха — надиканта, какатикта, суломаша, паравата-пади, даси, кака.",
+        "text_en": "Kakajangha — Nadikanta, Kakatikta, Sulomasha, Paravatapadi, Dasi, Kaka."
       },
       {
         "type": "verse",
@@ -25771,7 +25954,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकजंघा हिमा तिक्ता कषाया कफपित्तजित् निहन्ति ज्वरपित्तास्रव्रणकण्डूविषक्रिमीन्",
         "iast": "kākajaṃghā himā tiktā kaṣāyā kaphapittajit nihanti jvarapittāsravraṇakaṇḍūviṣakrimīn",
         "iast_ru": "ка̄каджам̣гха̄ хима̄ тикта̄ каш̣а̄йа̄ капхапиттаджит ниханти джварапитта̄сравран̣акан̣д̣ӯвиш̣акримӣн",
-        "text": "Какаджангха холодная, горькая, вяжущая, устраняет Капху и Питту; устраняет лихорадку, питта-кровяные расстройства, раны, зуд, яд и паразитов."
+        "text": "Какаджангха холодная, горькая, вяжущая, устраняет Капху и Питту; устраняет лихорадку, питта-кровяные расстройства, раны, зуд, яд и паразитов.",
+        "text_en": "Kakajangha is cold, bitter and astringent, and removes Kapha and Pitta; it removes fever, Pitta-blood disorders, wounds, itching, poison and worms."
       },
       {
         "type": "verse",
@@ -25779,7 +25963,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नागपुष्पी श्वेत पुष्पा नागिनी रामदूतिका नागिनी रोचनी तिक्ता तीक्ष्णोष्णा कफपित्तनुत् विनिहन्ति विषं शूलं योनिदोषवमिक्रिमीन्",
         "iast": "nāgapuṣpī śveta puṣpā nāginī rāmadūtikā nāginī rocanī tiktā tīkṣṇoṣṇā kaphapittanut vinihanti viṣaṃ śūlaṃ yonidoṣavamikrimīn",
         "iast_ru": "на̄гапуш̣пӣ ш́вета пуш̣па̄ на̄гинӣ ра̄мадӯтика̄ на̄гинӣ рочанӣ тикта̄ тӣкш̣н̣ош̣н̣а̄ капхапиттанут виниханти виш̣ам̣ ш́ӯлам̣ йонидош̣авамикримӣн",
-        "text": "Нагапушпи — белоцветковая, нагини, «посланница Рамы»; нагини вызывает аппетит, горькая, резкая, горячая, устраняет Капху и Питту; устраняет яд, колику, болезни влагалища, рвоту и паразитов."
+        "text": "Нагапушпи — белоцветковая, нагини, «посланница Рамы»; нагини вызывает аппетит, горькая, резкая, горячая, устраняет Капху и Питту; устраняет яд, колику, болезни влагалища, рвоту и паразитов.",
+        "text_en": "Nagapushpi — white-flowered, Nagini, \"messenger of Rama\"; Nagini stimulates appetite, is bitter, sharp and hot, and removes Kapha and Pitta; it removes poison, colic, diseases of the vagina, vomiting and worms."
       },
       {
         "type": "verse",
@@ -25787,7 +25972,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मेषशृङ्गी विषाणी स्यान्मेषवल्ल्यजशृङ्गिका मेषशृङ्गी रसे तिक्ता वातला श्वासकासहृत्",
         "iast": "meṣaśṛṅgī viṣāṇī syānmeṣavallyajaśṛṅgikā meṣaśṛṅgī rase tiktā vātalā śvāsakāsahṛt",
         "iast_ru": "меш̣аш́р̣н̇гӣ виш̣а̄н̣ӣ сйа̄нмеш̣аваллйаджаш́р̣н̇гика̄ меш̣аш́р̣н̇гӣ расе тикта̄ ва̄тала̄ ш́ва̄сака̄сахр̣т",
-        "text": "Мешашринги — вишани, мешавалли, аджашрингика; мешашринги на вкус горькая, вызывает Вату, устраняет одышку и кашель,"
+        "text": "Мешашринги — вишани, мешавалли, аджашрингика; мешашринги на вкус горькая, вызывает Вату, устраняет одышку и кашель,",
+        "text_en": "Meshashringi — Vishani, Meshavalli, Ajashringika; Meshashringi is bitter in taste, aggravates Vata, and removes dyspnea and cough,"
       },
       {
         "type": "verse",
@@ -25795,7 +25981,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रूक्षा पाके कटुः पित्तव्रणश्लेष्माक्षिशूलनुत्",
         "iast": "rūkṣā pāke kaṭuḥ pittavraṇaśleṣmākṣiśūlanut",
         "iast_ru": "рӯкш̣а̄ па̄ке кат̣ух̣ питтавран̣аш́леш̣ма̄кш̣иш́ӯланут",
-        "text": "сухая, острая по вкусу после переваривания, устраняет Питту, раны, Капху, глазную боль и колику."
+        "text": "сухая, острая по вкусу после переваривания, устраняет Питту, раны, Капху, глазную боль и колику.",
+        "text_en": "it is dry, pungent in taste after digestion, and removes Pitta, wounds, Kapha, eye pain and colic."
       },
       {
         "type": "verse",
@@ -25803,7 +25990,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मेषशृङ्गीफलं तिक्तं कुष्ठमेहकफप्रणुत् दीपनं स्रंसनं कासक्रिमिव्रणविषापहम्",
         "iast": "meṣaśṛṅgīphalaṃ tiktaṃ kuṣṭhamehakaphapraṇut dīpanaṃ sraṃsanaṃ kāsakrimivraṇaviṣāpaham",
         "iast_ru": "меш̣аш́р̣н̇гӣпхалам̣ тиктам̣ куш̣т̣хамехакапхапран̣ут дӣпанам̣ срам̣санам̣ ка̄сакримивран̣авиш̣а̄пахам",
-        "text": "Плод мешашринги горький, устраняет куштху, мочеизнурение и Капху; разжигающий, расслабляющий, устраняет кашель, паразитов, раны и яд."
+        "text": "Плод мешашринги горький, устраняет куштху, мочеизнурение и Капху; разжигающий, расслабляющий, устраняет кашель, паразитов, раны и яд.",
+        "text_en": "The fruit of Meshashringi is bitter, and removes kushtha, diabetes (prameha) and Kapha; it is appetizing and relaxing, and removes cough, worms, wounds and poison."
       },
       {
         "type": "verse",
@@ -25811,7 +25999,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हंसपादी हंसपदी कीटमाता त्रिपादिका हंसपादी गुरुः शीता हन्ति रक्तविषव्रणान् विसर्पदाहातीसारलूताभूताग्निरोहिणीः",
         "iast": "haṃsapādī haṃsapadī kīṭamātā tripādikā haṃsapādī guruḥ śītā hanti raktaviṣavraṇān visarpadāhātīsāralūtābhūtāgnirohiṇīḥ",
         "iast_ru": "хам̣сапа̄дӣ хам̣сападӣ кӣт̣ама̄та̄ трипа̄дика̄ хам̣сапа̄дӣ гурух̣ ш́ӣта̄ ханти рактавиш̣авран̣а̄н висарпада̄ха̄тӣса̄ралӯта̄бхӯта̄гнирохин̣ӣх̣",
-        "text": "Хансапади — хансапади, китамата, трипадика; хансапади тяжёлая, холодная, устраняет кровяные болезни, яд и раны; устраняет рожистое воспаление, жжение, понос, паучий яд, одержимость духами и рожу (агнирохини)."
+        "text": "Хансапади — хансапади, китамата, трипадика; хансапади тяжёлая, холодная, устраняет кровяные болезни, яд и раны; устраняет рожистое воспаление, жжение, понос, паучий яд, одержимость духами и рожу (агнирохини).",
+        "text_en": "Hamsapadi — Hamsapadi, Kitamata, Tripadika; Hamsapadi is heavy and cold, and removes blood diseases, poison and wounds; it removes erysipelas, burning sensation, diarrhea, spider poison, possession by spirits and agnirohini (a type of erysipelas)."
       },
       {
         "type": "verse",
@@ -25819,7 +26008,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सोमवल्ली सोमलता सोमक्षीरी द्विजप्रिया सोमवल्ली त्रिदोषघ्नी कटुस्तिक्ता रसायनी",
         "iast": "somavallī somalatā somakṣīrī dvijapriyā somavallī tridoṣaghnī kaṭustiktā rasāyanī",
         "iast_ru": "сомаваллӣ сомалата̄ сомакш̣ӣрӣ двиджаприйа̄ сомаваллӣ тридош̣агхнӣ кат̣устикта̄ раса̄йанӣ",
-        "text": "Сомавалли — сомалата, сомакшири, «любимая брахманами»; сомавалли устраняет все три доши, острая, горькая, служит расаяной."
+        "text": "Сомавалли — сомалата, сомакшири, «любимая брахманами»; сомавалли устраняет все три доши, острая, горькая, служит расаяной.",
+        "text_en": "Somavalli — Somalata, Somakshiri, \"beloved of Brahmins\"; Somavalli removes all three doshas, is pungent and bitter, and acts as a rasayana."
       },
       {
         "type": "verse",
@@ -25827,7 +26017,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आकाशवल्ली तु बुधैः कथिताऽमरवल्लरी",
         "iast": "ākāśavallī tu budhaiḥ kathitā'maravallarī",
         "iast_ru": "а̄ка̄ш́аваллӣ ту будхаих̣ катхита̄'маравалларӣ",
-        "text": "Акашавалли (повилика) мудрыми называется «бессмертной лианой»."
+        "text": "Акашавалли (повилика) мудрыми называется «бессмертной лианой».",
+        "text_en": "Akashavalli (dodder) is called by the wise the \"immortal creeper\"."
       },
       {
         "type": "verse",
@@ -25835,7 +26026,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खवल्ली ग्राहिणी तिक्ता पिच्छिलाऽक्ष्यामयापहा तुवराऽग्निकरी हृद्या पित्तश्लेष्मामनाशिनी",
         "iast": "khavallī grāhiṇī tiktā picchilā'kṣyāmayāpahā tuvarā'gnikarī hṛdyā pittaśleṣmāmanāśinī",
         "iast_ru": "кхаваллӣ гра̄хин̣ӣ тикта̄ пиччхила̄'кш̣йа̄майа̄паха̄ тувара̄'гникарӣ хр̣дйа̄ питташ́леш̣ма̄мана̄ш́инӣ",
-        "text": "Кхавалли закрепляющая, горькая, слизистая, устраняет глазные болезни; вяжущая, разжигающая, приятна сердцу, устраняет незрелые Питту и Капху."
+        "text": "Кхавалли закрепляющая, горькая, слизистая, устраняет глазные болезни; вяжущая, разжигающая, приятна сердцу, устраняет незрелые Питту и Капху.",
+        "text_en": "Khavalli is astringent, bitter and slimy, and removes eye diseases; it is puckering, appetizing, pleasant to the heart, and removes immature (ama) Pitta and Kapha."
       },
       {
         "type": "verse",
@@ -25843,7 +26035,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "छिलिहिण्टो महामूलःपातालगरुडाह्वयः छिलिहिण्टः परं वृष्यः कफघ्नः पवनापहः",
         "iast": "chilihiṇṭo mahāmūlaḥpātālagaruḍāhvayaḥ chilihiṇṭaḥ paraṃ vṛṣyaḥ kaphaghnaḥ pavanāpahaḥ",
         "iast_ru": "чхилихин̣т̣о маха̄мӯлах̣па̄та̄лагаруд̣а̄хвайах̣ чхилихин̣т̣ах̣ парам̣ вр̣ш̣йах̣ капхагхнах̣ павана̄пахах̣",
-        "text": "Чилихинта — «великий корень», называемая «Гарудой преисподней»; чилихинта весьма способствует мужской силе, устраняет Капху и Вату."
+        "text": "Чилихинта — «великий корень», называемая «Гарудой преисподней»; чилихинта весьма способствует мужской силе, устраняет Капху и Вату.",
+        "text_en": "Chilihinta — \"great root\", called \"Garuda of the netherworld\"; Chilihinta greatly promotes virility, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -25851,7 +26044,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वन्दा वृक्षादनी वृक्षभक्ष्या वृक्षरुहाऽपि च वन्दाकः स्याद्धिमस्तिक्तः कषायो मधुरो रसे मङ्गल्यः कफवातास्ररक्षोव्रणविषापहः",
         "iast": "vandā vṛkṣādanī vṛkṣabhakṣyā vṛkṣaruhā'pi ca vandākaḥ syāddhimastiktaḥ kaṣāyo madhuro rase maṅgalyaḥ kaphavātāsrarakṣovraṇaviṣāpahaḥ",
         "iast_ru": "ванда̄ вр̣кш̣а̄данӣ вр̣кш̣абхакш̣йа̄ вр̣кш̣аруха̄'пи ча ванда̄ках̣ сйа̄ддхимастиктах̣ каш̣а̄йо мадхуро расе ман̇галйах̣ капхава̄та̄сраракш̣овран̣авиш̣а̄пахах̣",
-        "text": "Ванда (эпифитная орхидея) — вркшадани, вркшабхакшья, вркшаруха; ванда холодная, горькая, вяжущая, сладкая на вкус, благоприятная; устраняет Капху, Вату, кровь, злых духов, раны и яд."
+        "text": "Ванда (эпифитная орхидея) — вркшадани, вркшабхакшья, вркшаруха; ванда холодная, горькая, вяжущая, сладкая на вкус, благоприятная; устраняет Капху, Вату, кровь, злых духов, раны и яд.",
+        "text_en": "Vanda (epiphytic orchid) — Vrikshadani, Vrikshabhakshya, Vriksharuha; Vanda is cold, bitter, astringent, sweet in taste and auspicious; it removes Kapha, Vata, blood disorders, evil spirits, wounds and poison."
       },
       {
         "type": "verse",
@@ -25859,7 +26053,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वटपत्री तु कथिता मोहिन्यैरावती बुधैः वटपत्री कषायोष्णा योनिमूत्रगदापहा",
         "iast": "vaṭapatrī tu kathitā mohinyairāvatī budhaiḥ vaṭapatrī kaṣāyoṣṇā yonimūtragadāpahā",
         "iast_ru": "ват̣апатрӣ ту катхита̄ мохинйаира̄ватӣ будхаих̣ ват̣апатрӣ каш̣а̄йош̣н̣а̄ йонимӯтрагада̄паха̄",
-        "text": "Ватапатри называется мохини, айравати мудрецами; ватапатри вяжущая, горячая, устраняет болезни влагалища и мочи."
+        "text": "Ватапатри называется мохини, айравати мудрецами; ватапатри вяжущая, горячая, устраняет болезни влагалища и мочи.",
+        "text_en": "Vatapatri is called Mohini, Airavati by the sages; Vatapatri is astringent and hot, and removes diseases of the vagina and urine."
       },
       {
         "type": "verse",
@@ -25867,7 +26062,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हिङ्गुपत्री तु कवरी पृथ्वीका पृथुका पृथुः",
         "iast": "hiṅgupatrī tu kavarī pṛthvīkā pṛthukā pṛthuḥ",
         "iast_ru": "хин̇гупатрӣ ту каварӣ пр̣тхвӣка̄ пр̣тхука̄ пр̣тхух̣",
-        "text": "Хингупатри — кавари, притхвика, притхука, притху."
+        "text": "Хингупатри — кавари, притхвика, притхука, притху.",
+        "text_en": "Hingupatri — Kavari, Prithvika, Prithuka, Prithu."
       },
       {
         "type": "verse",
@@ -25875,7 +26071,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हिङ्गुपत्री भवेद्रुच्या तीक्ष्णोष्णा पाचनी कटुः हृद्बस्तिरुग्विबन्धार्शःश्लेष्मगुल्मानिलापहा",
         "iast": "hiṅgupatrī bhavedrucyā tīkṣṇoṣṇā pācanī kaṭuḥ hṛdbastirugvibandhārśaḥśleṣmagulmānilāpahā",
         "iast_ru": "хин̇гупатрӣ бхаведручйа̄ тӣкш̣н̣ош̣н̣а̄ па̄чанӣ кат̣ух̣ хр̣дбастиругвибандха̄рш́ах̣ш́леш̣магулма̄нила̄паха̄",
-        "text": "Хингупатри приятна вкусу, резкая, горячая, переваривающая, острая; устраняет сердечную и мочевую боль, запор, геморрой, Капху, гульму и Вату."
+        "text": "Хингупатри приятна вкусу, резкая, горячая, переваривающая, острая; устраняет сердечную и мочевую боль, запор, геморрой, Капху, гульму и Вату.",
+        "text_en": "Hingupatri is pleasant to the taste, sharp, hot, digestive and pungent; it removes heart and urinary pain, constipation, piles, Kapha, gulma and Vata."
       },
       {
         "type": "verse",
@@ -25883,7 +26080,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वंशपत्री वेणुपत्री पिण्डा हिङ्गुशिवाटिका हिङ्गुपत्रीगुणा विज्ञैर्वंशपत्री च कीर्त्तिता",
         "iast": "vaṃśapatrī veṇupatrī piṇḍā hiṅguśivāṭikā hiṅgupatrīguṇā vijñairvaṃśapatrī ca kīrttitā",
         "iast_ru": "вам̣ш́апатрӣ вен̣упатрӣ пин̣д̣а̄ хин̇гуш́ива̄т̣ика̄ хин̇гупатрӣгун̣а̄ виджн̃аирвам̣ш́апатрӣ ча кӣрттита̄",
-        "text": "Вамшапатри — венупатри, пинда, хингушиватика; вамшапатри провозглашена знающими обладающей качествами хингупатри."
+        "text": "Вамшапатри — венупатри, пинда, хингушиватика; вамшапатри провозглашена знающими обладающей качествами хингупатри.",
+        "text_en": "Vamshapatri — Venupatri, Pinda, Hingushivatika; Vamshapatri is declared by the knowledgeable to possess the qualities of Hingupatri."
       },
       {
         "type": "verse",
@@ -25891,7 +26089,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मत्स्याक्षी बाह्लिका मत्स्यगन्धा मत्स्यादनीति च मत्स्याक्षी ग्राहिणी शीतकुष्ठपित्तकफास्रजित् लघुस्तिक्ता कषाया च स्वाद्वी कटुविपाकिनी",
         "iast": "matsyākṣī bāhlikā matsyagandhā matsyādanīti ca matsyākṣī grāhiṇī śītakuṣṭhapittakaphāsrajit laghustiktā kaṣāyā ca svādvī kaṭuvipākinī",
         "iast_ru": "матсйа̄кш̣ӣ ба̄хлика̄ матсйагандха̄ матсйа̄данӣти ча матсйа̄кш̣ӣ гра̄хин̣ӣ ш́ӣтакуш̣т̣хапиттакапха̄сраджит лагхустикта̄ каш̣а̄йа̄ ча сва̄двӣ кат̣увипа̄кинӣ",
-        "text": "Матсьякши — бахлика, матсьягандха, матсьядани; матсьякши закрепляющая, холодная, устраняет куштху, Питту, Капху и кровь, лёгкая, горькая, вяжущая, сладкая, острая по вкусу после переваривания."
+        "text": "Матсьякши — бахлика, матсьягандха, матсьядани; матсьякши закрепляющая, холодная, устраняет куштху, Питту, Капху и кровь, лёгкая, горькая, вяжущая, сладкая, острая по вкусу после переваривания.",
+        "text_en": "Matsyakshi — Bahlika, Matsyagandha, Matsyadani; Matsyakshi is astringent and cold, removes kushtha, Pitta, Kapha and blood disorders, and is light, bitter, astringent, sweet, and pungent in taste after digestion."
       },
       {
         "type": "verse",
@@ -25899,7 +26098,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्पाक्षी स्यात्तु गण्डाली तथा नाडीकलापकः",
         "iast": "sarpākṣī syāttu gaṇḍālī tathā nāḍīkalāpakaḥ",
         "iast_ru": "сарпа̄кш̣ӣ сйа̄тту ган̣д̣а̄лӣ татха̄ на̄д̣ӣкала̄паках̣",
-        "text": "Сарпакши — гандали, а также надикалапака."
+        "text": "Сарпакши — гандали, а также надикалапака.",
+        "text_en": "Sarpakshi — Gandali, and also Nadikalapaka."
       },
       {
         "type": "verse",
@@ -25907,7 +26107,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्पाक्षी कटुका तिक्ता सोष्णा कृमिनिकृन्तनी वृश्चिकोन्दुरुसर्पाणां विषघ्नी व्रणरोपिणी",
         "iast": "sarpākṣī kaṭukā tiktā soṣṇā kṛminikṛntanī vṛścikondurusarpāṇāṃ viṣaghnī vraṇaropiṇī",
         "iast_ru": "сарпа̄кш̣ӣ кат̣ука̄ тикта̄ сош̣н̣а̄ кр̣миникр̣нтанӣ вр̣ш́чикондурусарпа̄н̣а̄м̣ виш̣агхнӣ вран̣аропин̣ӣ",
-        "text": "Сарпакши острая, горькая, горячая, уничтожает паразитов; устраняет яд скорпиона, мыши и змеи, заживляет раны."
+        "text": "Сарпакши острая, горькая, горячая, уничтожает паразитов; устраняет яд скорпиона, мыши и змеи, заживляет раны.",
+        "text_en": "Sarpakshi is pungent, bitter and hot, and destroys worms; it removes the poison of scorpion, mouse and snake, and heals wounds."
       },
       {
         "type": "verse",
@@ -25915,7 +26116,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शङ्ख्नपुष्पी तु शङ्खाह्वा मङ्गल्यकुसुमाऽपि च शङ्खपुष्पी सरा मेध्या वृष्या मानसरोगहृत्",
         "iast": "śaṅkhnapuṣpī tu śaṅkhāhvā maṅgalyakusumā'pi ca śaṅkhapuṣpī sarā medhyā vṛṣyā mānasarogahṛt",
         "iast_ru": "ш́ан̇кхнапуш̣пӣ ту ш́ан̇кха̄хва̄ ман̇галйакусума̄'пи ча ш́ан̇кхапуш̣пӣ сара̄ медхйа̄ вр̣ш̣йа̄ ма̄насарогахр̣т",
-        "text": "Шанкхапушпи — шанкхахва, «благословенноцветковая»; шанкхапушпи послабляющая, укрепляет разум, способствует мужской силе, устраняет психические болезни,"
+        "text": "Шанкхапушпи — шанкхахва, «благословенноцветковая»; шанкхапушпи послабляющая, укрепляет разум, способствует мужской силе, устраняет психические болезни,",
+        "text_en": "Shankhapushpi — Shankhahva, \"blessed-flowered\"; Shankhapushpi is purgative, strengthens the intellect, promotes virility, and removes psychic diseases,"
       },
       {
         "type": "comment",
@@ -25928,7 +26130,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसायनी कषायोष्णा स्मृतिकान्तिबलाग्निदा दोषापस्मारभूताश्रीकुष्ठक्रिमिविषप्रणुत्",
         "iast": "rasāyanī kaṣāyoṣṇā smṛtikāntibalāgnidā doṣāpasmārabhūtāśrīkuṣṭhakrimiviṣapraṇut",
         "iast_ru": "раса̄йанӣ каш̣а̄йош̣н̣а̄ смр̣тика̄нтибала̄гнида̄ дош̣а̄пасма̄рабхӯта̄ш́рӣкуш̣т̣хакримивиш̣апран̣ут",
-        "text": "служит расаяной, вяжущая, горячая, взращивает память, красоту, силу и огонь; устраняет доши, эпилепсию, одержимость духами, куштху, паразитов и яд."
+        "text": "служит расаяной, вяжущая, горячая, взращивает память, красоту, силу и огонь; устраняет доши, эпилепсию, одержимость духами, куштху, паразитов и яд.",
+        "text_en": "it acts as a rasayana, is astringent and hot, and nourishes memory, beauty, strength and digestive fire; it removes the doshas, epilepsy, possession by spirits, kushtha, worms and poison."
       },
       {
         "type": "verse",
@@ -25936,7 +26139,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अर्कपुष्पी क्रूरकर्मा पयस्या जलकामुका अर्कपुष्पी कृमिश्लेष्ममेहपित्तविकारजित्",
         "iast": "arkapuṣpī krūrakarmā payasyā jalakāmukā arkapuṣpī kṛmiśleṣmamehapittavikārajit",
         "iast_ru": "аркапуш̣пӣ крӯракарма̄ пайасйа̄ джалака̄мука̄ аркапуш̣пӣ кр̣миш́леш̣мамехапиттавика̄раджит",
-        "text": "Аркапушпи — «жестокая по действию», паясья, джалакамука; аркапушпи устраняет паразитов, Капху, мочеизнурение и питтовые расстройства."
+        "text": "Аркапушпи — «жестокая по действию», паясья, джалакамука; аркапушпи устраняет паразитов, Капху, мочеизнурение и питтовые расстройства.",
+        "text_en": "Arkapushpi — \"cruel in action\", Payasya, Jalakamuka; Arkapushpi removes worms, Kapha, diabetes (prameha) and Pitta disorders."
       },
       {
         "type": "verse",
@@ -25944,7 +26148,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लज्जालुः स्वाच्छमीपत्रा समङ्गा जलकारिका रक्तपादी नमस्कारी नाम्ना खदिरकेत्यपि",
         "iast": "lajjāluḥ svācchamīpatrā samaṅgā jalakārikā raktapādī namaskārī nāmnā khadiraketyapi",
         "iast_ru": "ладжджа̄лух̣ сва̄ччхамӣпатра̄ саман̇га̄ джалака̄рика̄ рактапа̄дӣ намаска̄рӣ на̄мна̄ кхадиракетйапи",
-        "text": "Мимоза стыдливая (ладжалу) — «чистолистая шами», саманга, джалакарика, рактапади, намаскари, называемая также кхадираке."
+        "text": "Мимоза стыдливая (ладжалу) — «чистолистая шами», саманга, джалакарика, рактапади, намаскари, называемая также кхадираке.",
+        "text_en": "Mimosa pudica (Lajjalu) — \"pure-leaved Shami\", Samanga, Jalakarika, Raktapadi, Namaskari, also called Khadiraka."
       },
       {
         "type": "verse",
@@ -25952,7 +26157,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लज्जालुः शीतला तिक्ता कषाया कफपित्तजित् रक्तपित्तमतीसारं योनिरोगान् विनाशयेत्",
         "iast": "lajjāluḥ śītalā tiktā kaṣāyā kaphapittajit raktapittamatīsāraṃ yonirogān vināśayet",
         "iast_ru": "ладжджа̄лух̣ ш́ӣтала̄ тикта̄ каш̣а̄йа̄ капхапиттаджит рактапиттаматӣса̄рам̣ йонирога̄н вина̄ш́айет",
-        "text": "Ладжалу холодная, горькая, вяжущая, устраняет Капху и Питту; устраняет кровопитта-расстройства, тяжёлый понос и болезни влагалища."
+        "text": "Ладжалу холодная, горькая, вяжущая, устраняет Капху и Питту; устраняет кровопитта-расстройства, тяжёлый понос и болезни влагалища.",
+        "text_en": "Lajjalu is cold, bitter and astringent, and removes Kapha and Pitta; it removes blood-Pitta disorders, severe diarrhea and diseases of the vagina."
       },
       {
         "type": "verse",
@@ -25960,7 +26166,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अलम्बुषा खरत्वक् च तथा मेदोगला स्मृता अलम्बुषा लघुः स्वादुः क्रिमिपित्तकफापहा",
         "iast": "alambuṣā kharatvak ca tathā medogalā smṛtā alambuṣā laghuḥ svāduḥ krimipittakaphāpahā",
         "iast_ru": "аламбуш̣а̄ кхаратвак ча татха̄ медогала̄ смр̣та̄ аламбуш̣а̄ лагхух̣ сва̄дух̣ кримипиттакапха̄паха̄",
-        "text": "Аламбуша — «шершавокожая», медогала; аламбуша лёгкая, сладкая, устраняет паразитов, Питту и Капху."
+        "text": "Аламбуша — «шершавокожая», медогала; аламбуша лёгкая, сладкая, устраняет паразитов, Питту и Капху.",
+        "text_en": "Alambusha — \"rough-skinned\", Medogala; Alambusha is light and sweet, and removes worms, Pitta and Kapha."
       },
       {
         "type": "verse",
@@ -25968,7 +26175,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दुग्धिका स्वादुपर्णी स्यात्क्षीरा विक्षीरिणी तथा दुग्धिकोष्णा गुरू रूक्षा वातलागर्भकारिणी",
         "iast": "dugdhikā svāduparṇī syātkṣīrā vikṣīriṇī tathā dugdhikoṣṇā gurū rūkṣā vātalāgarbhakāriṇī",
         "iast_ru": "дугдхика̄ сва̄дупарн̣ӣ сйа̄ткш̣ӣра̄ викш̣ӣрин̣ӣ татха̄ дугдхикош̣н̣а̄ гурӯ рӯкш̣а̄ ва̄тала̄гарбхака̄рин̣ӣ",
-        "text": "Дугдхика — «сладколистая», кшира, вакширини; дугдхика горячая, тяжёлая, сухая, вызывает Вату, способствует зачатию."
+        "text": "Дугдхика — «сладколистая», кшира, вакширини; дугдхика горячая, тяжёлая, сухая, вызывает Вату, способствует зачатию.",
+        "text_en": "Dugdhika — \"sweet-leaved\", Kshira, Vakshirini; Dugdhika is hot, heavy and dry, aggravates Vata, and promotes conception."
       },
       {
         "type": "verse",
@@ -25976,7 +26184,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वादुक्षीरा कटुस्तिक्ता सृष्टमूत्रा मलापहा स्वादुविष्टम्भिनी वृष्या कफकुष्ठक्रिमिप्रणुत्",
         "iast": "svādukṣīrā kaṭustiktā sṛṣṭamūtrā malāpahā svāduviṣṭambhinī vṛṣyā kaphakuṣṭhakrimipraṇut",
         "iast_ru": "сва̄дукш̣ӣра̄ кат̣устикта̄ ср̣ш̣т̣амӯтра̄ мала̄паха̄ сва̄дувиш̣т̣амбхинӣ вр̣ш̣йа̄ капхакуш̣т̣хакримипран̣ут",
-        "text": "Свадукшира острая, горькая, освобождает мочу, устраняет отходы; сладкая, вызывает застой, способствует мужской силе, устраняет Капху, куштху и паразитов."
+        "text": "Свадукшира острая, горькая, освобождает мочу, устраняет отходы; сладкая, вызывает застой, способствует мужской силе, устраняет Капху, куштху и паразитов.",
+        "text_en": "Svadukshira is pungent and bitter, releases urine, and removes waste; it is sweet, causes stagnation, promotes virility, and removes Kapha, kushtha and worms."
       },
       {
         "type": "verse",
@@ -25984,7 +26193,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूम्यामलकिका प्रोक्ता शिवा तामलकीति च बहुपत्रा बहुफला बहुवीर्याऽजटाऽपि च",
         "iast": "bhūmyāmalakikā proktā śivā tāmalakīti ca bahupatrā bahuphalā bahuvīryā'jaṭā'pi ca",
         "iast_ru": "бхӯмйа̄малакика̄ прокта̄ ш́ива̄ та̄малакӣти ча бахупатра̄ бахупхала̄ бахувӣрйа̄'джат̣а̄'пи ча",
-        "text": "Бхумьямалаки — шива, тамалаки, «многолистая», «многоплодная», «многосильная», «нескрученная»."
+        "text": "Бхумьямалаки — шива, тамалаки, «многолистая», «многоплодная», «многосильная», «нескрученная».",
+        "text_en": "Bhumyamalaki — Shiva, Tamalaki, \"many-leaved\", \"many-fruited\", \"many-powered\", \"unwound\"."
       },
       {
         "type": "comment",
@@ -25997,7 +26207,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूधात्री वातकृत्तिक्ता कषाया मधुरा हिमा पिपासाकासपितास्रकफकण्डूक्षतापहा",
         "iast": "bhūdhātrī vātakṛttiktā kaṣāyā madhurā himā pipāsākāsapitāsrakaphakaṇḍūkṣatāpahā",
         "iast_ru": "бхӯдха̄трӣ ва̄такр̣ттикта̄ каш̣а̄йа̄ мадхура̄ хима̄ пипа̄са̄ка̄сапита̄сракапхакан̣д̣ӯкш̣ата̄паха̄",
-        "text": "Бхудхатри вызывает Вату, горькая, вяжущая, сладкая, холодная; устраняет жажду, кашель, Питту, кровь, Капху, зуд и повреждения."
+        "text": "Бхудхатри вызывает Вату, горькая, вяжущая, сладкая, холодная; устраняет жажду, кашель, Питту, кровь, Капху, зуд и повреждения.",
+        "text_en": "Bhudhatri aggravates Vata; it is bitter, astringent, sweet and cold; it removes thirst, cough, Pitta, blood disorders, Kapha, itching and injuries."
       },
       {
         "type": "verse",
@@ -26005,7 +26216,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ब्राह्मी कपोतवङ्का च सोमवल्ली सरस्वती मण्डूकपर्णी माण्डूकी त्वाष्ट्री दिव्या महौषधी",
         "iast": "brāhmī kapotavaṅkā ca somavallī sarasvatī maṇḍūkaparṇī māṇḍūkī tvāṣṭrī divyā mahauṣadhī",
         "iast_ru": "бра̄хмӣ капотаван̇ка̄ ча сомаваллӣ сарасватӣ ман̣д̣ӯкапарн̣ӣ ма̄н̣д̣ӯкӣ тва̄ш̣т̣рӣ дивйа̄ махауш̣адхӣ",
-        "text": "Брахми — «голубиный изгиб», сомавалли, сарасвати, мандукапарни, мандуки, тваштри, дивья, «великое лекарство»."
+        "text": "Брахми — «голубиный изгиб», сомавалли, сарасвати, мандукапарни, мандуки, тваштри, дивья, «великое лекарство».",
+        "text_en": "Brahmi — \"dove's curve\", Somavalli, Sarasvati, Mandukaparni, Manduki, Tvashtri, Divya, \"great medicine\"."
       },
       {
         "type": "verse",
@@ -26013,7 +26225,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ब्राह्मी हिमा सरा तिक्ता लघुर्मध्या च शीतला कषाया मधुरा स्वादुपाकाऽयुष्या रसायनी",
         "iast": "brāhmī himā sarā tiktā laghurmadhyā ca śītalā kaṣāyā madhurā svādupākā'yuṣyā rasāyanī",
         "iast_ru": "бра̄хмӣ хима̄ сара̄ тикта̄ лагхурмадхйа̄ ча ш́ӣтала̄ каш̣а̄йа̄ мадхура̄ сва̄дупа̄ка̄'йуш̣йа̄ раса̄йанӣ",
-        "text": "Брахми холодная, послабляющая, горькая, лёгкая, средняя, прохладная, вяжущая, сладкая, сладкая по вкусу после переваривания, продлевает жизнь, служит расаяной,"
+        "text": "Брахми холодная, послабляющая, горькая, лёгкая, средняя, прохладная, вяжущая, сладкая, сладкая по вкусу после переваривания, продлевает жизнь, служит расаяной,",
+        "text_en": "Brahmi is cold, purgative, bitter, light, moderate, cooling, astringent, sweet, sweet in taste after digestion, prolongs life, and acts as a rasayana,"
       },
       {
         "type": "verse",
@@ -26021,7 +26234,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वर्या स्मृतिप्रद्रा कुष्ठपाण्डुमेहास्रकासजित् विषशोथज्वरहरी तद्वन्मण्डूकपर्णिनी",
         "iast": "svaryā smṛtipradrā kuṣṭhapāṇḍumehāsrakāsajit viṣaśothajvaraharī tadvanmaṇḍūkaparṇinī",
         "iast_ru": "сварйа̄ смр̣типрадра̄ куш̣т̣хапа̄н̣д̣умеха̄срака̄саджит виш̣аш́отхаджварахарӣ тадванман̣д̣ӯкапарн̣инӣ",
-        "text": "способствует голосу, дарует память, устраняет куштху, бледную немочь, мочеизнурение, кровь и кашель; устраняет яд, отёк и лихорадку — мандукапарни обладает теми же свойствами."
+        "text": "способствует голосу, дарует память, устраняет куштху, бледную немочь, мочеизнурение, кровь и кашель; устраняет яд, отёк и лихорадку — мандукапарни обладает теми же свойствами.",
+        "text_en": "it benefits the voice, bestows memory, and removes kushtha, anemia, diabetes (prameha), blood disorders and cough; it removes poison, edema and fever — Mandukaparni possesses the same properties."
       },
       {
         "type": "verse",
@@ -26029,7 +26243,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्रो णा च द्रो णपुष्पी च फलेपुष्पा च कीर्त्तिता द्रो णपुष्पी गुरुः स्वादू रूक्षोष्णा वातपित्तकृत्",
         "iast": "dro ṇā ca dro ṇapuṣpī ca phalepuṣpā ca kīrttitā dro ṇapuṣpī guruḥ svādū rūkṣoṣṇā vātapittakṛt",
         "iast_ru": "дро н̣а̄ ча дро н̣апуш̣пӣ ча пхалепуш̣па̄ ча кӣрттита̄ дро н̣апуш̣пӣ гурух̣ сва̄дӯ рӯкш̣ош̣н̣а̄ ва̄тапиттакр̣т",
-        "text": "Дрона — дронапушпи, «плодоцветковая»; дронапушпи тяжёлая, сладкая, сухая, горячая, порождает Вату и Питту,"
+        "text": "Дрона — дронапушпи, «плодоцветковая»; дронапушпи тяжёлая, сладкая, сухая, горячая, порождает Вату и Питту,",
+        "text_en": "Drona — Dronapushpi, \"fruit-flowered\"; Dronapushpi is heavy, sweet, dry and hot, and produces Vata and Pitta,"
       },
       {
         "type": "verse",
@@ -26037,7 +26252,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सतीक्ष्णलवणा स्वादुपाका कट्वी च भेदिनी कफामकामलाशोथतमकश्वासजन्तुजित्",
         "iast": "satīkṣṇalavaṇā svādupākā kaṭvī ca bhedinī kaphāmakāmalāśothatamakaśvāsajantujit",
         "iast_ru": "сатӣкш̣н̣алаван̣а̄ сва̄дупа̄ка̄ кат̣вӣ ча бхединӣ капха̄мака̄мала̄ш́отхатамакаш́ва̄саджантуджит",
-        "text": "резкая, солёная, сладкая по вкусу после переваривания, острая, рассекающая; устраняет Капху, незрелость, желтуху, отёк, тяжёлую одышку и паразитов."
+        "text": "резкая, солёная, сладкая по вкусу после переваривания, острая, рассекающая; устраняет Капху, незрелость, желтуху, отёк, тяжёлую одышку и паразитов.",
+        "text_en": "it is sharp, salty, sweet in taste after digestion, pungent and scraping; it removes Kapha, immaturity (ama), jaundice, edema, severe dyspnea and worms."
       },
       {
         "type": "verse",
@@ -26045,7 +26261,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुवर्चला सूर्यभक्ता वरदा बदराऽपि च सूर्यावर्त्ता रविप्रीताऽपरा ब्रह्मसुदुर्लभा",
         "iast": "suvarcalā sūryabhaktā varadā badarā'pi ca sūryāvarttā raviprītā'parā brahmasudurlabhā",
         "iast_ru": "суварчала̄ сӯрйабхакта̄ варада̄ бадара̄'пи ча сӯрйа̄вартта̄ равипрӣта̄'пара̄ брахмасудурлабха̄",
-        "text": "Суварчала — «преданная солнцу», варада, бадара; сурьяварта, «любимая солнцем» — иная, «труднодоступная даже Брахме»."
+        "text": "Суварчала — «преданная солнцу», варада, бадара; сурьяварта, «любимая солнцем» — иная, «труднодоступная даже Брахме».",
+        "text_en": "Suvarchala — \"devoted to the sun\", Varada, Badara; Suryavarta, \"beloved of the sun\" — another kind, \"difficult of access even to Brahma\"."
       },
       {
         "type": "verse",
@@ -26053,7 +26270,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुवर्चला हिमा रूक्षा स्वादुपाका सरा गुरुः अपित्तला कटुः क्षारा विष्टम्भकफवातजित्",
         "iast": "suvarcalā himā rūkṣā svādupākā sarā guruḥ apittalā kaṭuḥ kṣārā viṣṭambhakaphavātajit",
         "iast_ru": "суварчала̄ хима̄ рӯкш̣а̄ сва̄дупа̄ка̄ сара̄ гурух̣ апиттала̄ кат̣ух̣ кш̣а̄ра̄ виш̣т̣амбхакапхава̄таджит",
-        "text": "Суварчала холодная, сухая, сладкая по вкусу после переваривания, послабляющая, тяжёлая; не питтогенная, острая, щелочная, устраняет застой, Капху и Вату."
+        "text": "Суварчала холодная, сухая, сладкая по вкусу после переваривания, послабляющая, тяжёлая; не питтогенная, острая, щелочная, устраняет застой, Капху и Вату.",
+        "text_en": "Suvarchala is cold, dry, sweet in taste after digestion, purgative and heavy; it does not produce Pitta, is pungent and alkaline, and removes stagnation, Kapha and Vata."
       },
       {
         "type": "verse",
@@ -26061,7 +26279,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अन्या तिक्ता कषायोष्णा सरा रुक्षा लघुः कटुः निहन्ति कफपित्तास्रश्वासकासारुचिज्वरान् विस्फोटकुष्ठमेहास्रयोनिरुक्कृमिपाण्डुताः",
         "iast": "anyā tiktā kaṣāyoṣṇā sarā rukṣā laghuḥ kaṭuḥ nihanti kaphapittāsraśvāsakāsārucijvarān visphoṭakuṣṭhamehāsrayonirukkṛmipāṇḍutāḥ",
         "iast_ru": "анйа̄ тикта̄ каш̣а̄йош̣н̣а̄ сара̄ рукш̣а̄ лагхух̣ кат̣ух̣ ниханти капхапитта̄сраш́ва̄сака̄са̄ручиджвара̄н виспхот̣акуш̣т̣хамеха̄срайонируккр̣мипа̄н̣д̣ута̄х̣",
-        "text": "Иная (сурьяварта) горькая, вяжущая, горячая, послабляющая, сухая, лёгкая, острая; устраняет Капху, Питту, кровь, одышку, кашель, отсутствие аппетита и лихорадку; устраняет волдыри, куштху, мочеизнурение, боль во влагалище, паразитов и бледную немочь."
+        "text": "Иная (сурьяварта) горькая, вяжущая, горячая, послабляющая, сухая, лёгкая, острая; устраняет Капху, Питту, кровь, одышку, кашель, отсутствие аппетита и лихорадку; устраняет волдыри, куштху, мочеизнурение, боль во влагалище, паразитов и бледную немочь.",
+        "text_en": "The other (Suryavarta) is bitter, astringent, hot, purgative, dry, light and pungent; it removes Kapha, Pitta, blood disorders, dyspnea, cough, anorexia and fever; it removes blisters, kushtha, diabetes (prameha), pain in the vagina, worms and anemia."
       },
       {
         "type": "verse",
@@ -26069,7 +26288,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वन्ध्याकर्कोटकी देवी कन्या योगीश्वरीति च नागरिर्नक्रदमनी विषकण्टकिनी तथा",
         "iast": "vandhyākarkoṭakī devī kanyā yogīśvarīti ca nāgarirnakradamanī viṣakaṇṭakinī tathā",
         "iast_ru": "вандхйа̄каркот̣акӣ девӣ канйа̄ йогӣш́варӣти ча на̄гарирнакрадаманӣ виш̣акан̣т̣акинӣ татха̄",
-        "text": "Вандхьякаркотаки — деви, канья, йогишвари; нагари, накрадамани, вишакантакини."
+        "text": "Вандхьякаркотаки — деви, канья, йогишвари; нагари, накрадамани, вишакантакини.",
+        "text_en": "Vandhyakarkotaki — Devi, Kanya, Yogishvari; Nagari, Nakradamani, Vishakantakini."
       },
       {
         "type": "verse",
@@ -26077,7 +26297,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बन्ध्याकर्कोटकी लघ्वी कफनुद् व्रणशोधिनी सर्पदर्पहरी तीक्ष्णा विसर्पविषहारिणी",
         "iast": "bandhyākarkoṭakī laghvī kaphanud vraṇaśodhinī sarpadarpaharī tīkṣṇā visarpaviṣahāriṇī",
         "iast_ru": "бандхйа̄каркот̣акӣ лагхвӣ капхануд вран̣аш́одхинӣ сарпадарпахарӣ тӣкш̣н̣а̄ висарпавиш̣аха̄рин̣ӣ",
-        "text": "Вандхьякаркотаки лёгкая, устраняет Капху, очищает раны; резкая, устраняет змеиную гордыню (яд), рожистое воспаление и яд."
+        "text": "Вандхьякаркотаки лёгкая, устраняет Капху, очищает раны; резкая, устраняет змеиную гордыню (яд), рожистое воспаление и яд.",
+        "text_en": "Vandhyakarkotaki is light, removes Kapha, and cleanses wounds; it is sharp, removes the \"pride of snakes\" (poison), erysipelas and poison."
       },
       {
         "type": "verse",
@@ -26085,7 +26306,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मार्कण्डिका भूमिवल्ली मार्कण्डी मृदुरेचनी",
         "iast": "mārkaṇḍikā bhūmivallī mārkaṇḍī mṛdurecanī",
         "iast_ru": "ма̄ркан̣д̣ика̄ бхӯмиваллӣ ма̄ркан̣д̣ӣ мр̣дуречанӣ",
-        "text": "Маркандика — бхумивалли, марканди, мягкое слабительное."
+        "text": "Маркандика — бхумивалли, марканди, мягкое слабительное.",
+        "text_en": "Markandika — Bhumivalli, Markandi, a mild purgative."
       },
       {
         "type": "verse",
@@ -26093,7 +26315,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मार्कण्डिका कुष्ठहरी ऊर्ध्वाधःकायशोधिनी विषदुर्गंन्धकासघ्नी गुल्मोदरविनाशिनी",
         "iast": "mārkaṇḍikā kuṣṭhaharī ūrdhvādhaḥkāyaśodhinī viṣadurgaṃndhakāsaghnī gulmodaravināśinī",
         "iast_ru": "ма̄ркан̣д̣ика̄ куш̣т̣хахарӣ ӯрдхва̄дхах̣ка̄йаш́одхинӣ виш̣адургам̣ндхака̄сагхнӣ гулмодаравина̄ш́инӣ",
-        "text": "Маркандика устраняет куштху, очищает тело сверху и снизу; устраняет яд, дурной запах и кашель, устраняет гульму и водянку живота."
+        "text": "Маркандика устраняет куштху, очищает тело сверху и снизу; устраняет яд, дурной запах и кашель, устраняет гульму и водянку живота.",
+        "text_en": "Markandika removes kushtha and cleanses the body above and below; it removes poison, foul odor and cough, and removes gulma and ascites."
       },
       {
         "type": "verse",
@@ -26101,7 +26324,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "देवदाली यु वेणी स्यात्कर्कटी च गरागरी देवताडो वृत्तकोशस्तथा जीमूत इत्यपि",
         "iast": "devadālī yu veṇī syātkarkaṭī ca garāgarī devatāḍo vṛttakośastathā jīmūta ityapi",
         "iast_ru": "девада̄лӣ йу вен̣ӣ сйа̄ткаркат̣ӣ ча гара̄гарӣ девата̄д̣о вр̣ттакош́астатха̄ джӣмӯта итйапи",
-        "text": "Девадали — югавени, каркати, гарагари, деватада, вриттакоша, а также джимута."
+        "text": "Девадали — югавени, каркати, гарагари, деватада, вриттакоша, а также джимута.",
+        "text_en": "Devadali — Yugaveni, Karkati, Garagari, Devatada, Vrittakosha, and also Jimuta."
       },
       {
         "type": "verse",
@@ -26109,7 +26333,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पीता परा खरस्पर्श विषघ्नी गरनाशिनी देवदाली रसे तिक्ता कफार्शःशोफपाण्डुताः नाशयेद्वामनी तीक्ष्णा क्षयहिक्काकृमिज्वरान्",
         "iast": "pītā parā kharasparśa viṣaghnī garanāśinī devadālī rase tiktā kaphārśaḥśophapāṇḍutāḥ nāśayedvāmanī tīkṣṇā kṣayahikkākṛmijvarān",
         "iast_ru": "пӣта̄ пара̄ кхараспарш́а виш̣агхнӣ гарана̄ш́инӣ девада̄лӣ расе тикта̄ капха̄рш́ах̣ш́опхапа̄н̣д̣ута̄х̣ на̄ш́айедва̄манӣ тӣкш̣н̣а̄ кш̣айахикка̄кр̣миджвара̄н",
-        "text": "Жёлтая — иной вид, «шершавая на ощупь», устраняет яд, устраняет отравление; девадали на вкус горькая, устраняет Капху, геморрой, отёк, бледную немочь; рвотная, резкая, устраняет истощение, икоту, паразитов и лихорадку."
+        "text": "Жёлтая — иной вид, «шершавая на ощупь», устраняет яд, устраняет отравление; девадали на вкус горькая, устраняет Капху, геморрой, отёк, бледную немочь; рвотная, резкая, устраняет истощение, икоту, паразитов и лихорадку.",
+        "text_en": "The yellow one — another kind, \"rough to the touch\" — removes poison and toxicity; Devadali is bitter in taste, removes Kapha, piles, edema and anemia; it is emetic and sharp, and removes emaciation, hiccup, worms and fever."
       },
       {
         "type": "verse",
@@ -26117,7 +26342,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "देवदालीफलं तिक्तं कृमिश्लेष्मविनाशनम् स्रंसनं गुल्मशूलघ्नमर्शोघ्नं वातजित्परम्",
         "iast": "devadālīphalaṃ tiktaṃ kṛmiśleṣmavināśanam sraṃsanaṃ gulmaśūlaghnamarśoghnaṃ vātajitparam",
         "iast_ru": "девада̄лӣпхалам̣ тиктам̣ кр̣миш́леш̣мавина̄ш́анам срам̣санам̣ гулмаш́ӯлагхнамарш́огхнам̣ ва̄таджитпарам",
-        "text": "Плод девадали горький, устраняет паразитов и Капху, расслабляющий, устраняет гульму, колику и геморрой, весьма устраняет Вату."
+        "text": "Плод девадали горький, устраняет паразитов и Капху, расслабляющий, устраняет гульму, колику и геморрой, весьма устраняет Вату.",
+        "text_en": "The fruit of Devadali is bitter, removes worms and Kapha, is relaxing, removes gulma, colic and piles, and greatly removes Vata."
       },
       {
         "type": "verse",
@@ -26125,7 +26351,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जलपिप्पल्यभिहिता शारदी शकुलादनी मत्स्यादनी मत्स्यगन्धा लाङ्गलीत्यपि कीर्त्तिता",
         "iast": "jalapippalyabhihitā śāradī śakulādanī matsyādanī matsyagandhā lāṅgalītyapi kīrttitā",
         "iast_ru": "джалапиппалйабхихита̄ ш́а̄радӣ ш́акула̄данӣ матсйа̄данӣ матсйагандха̄ ла̄н̇галӣтйапи кӣрттита̄",
-        "text": "Джалапиппали (водяной перец) называется шаради, шакуладани, матсьядани, матсьягандха, а также лангали."
+        "text": "Джалапиппали (водяной перец) называется шаради, шакуладани, матсьядани, матсьягандха, а также лангали.",
+        "text_en": "Jalapippali (water pepper) is called Sharadi, Shakuladani, Matsyadani, Matsyagandha, and also Langali."
       },
       {
         "type": "verse",
@@ -26133,7 +26360,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जलपिप्पलिका हृद्या चक्षुष्या शुक्रला लघुः",
         "iast": "jalapippalikā hṛdyā cakṣuṣyā śukralā laghuḥ",
         "iast_ru": "джалапиппалика̄ хр̣дйа̄ чакш̣уш̣йа̄ ш́украла̄ лагхух̣",
-        "text": "Джалапиппалика приятна сердцу, полезна для глаз, способствует семени, лёгкая,"
+        "text": "Джалапиппалика приятна сердцу, полезна для глаз, способствует семени, лёгкая,",
+        "text_en": "Jalapippalika is pleasant to the heart, beneficial for the eyes, promotes semen, and is light,"
       },
       {
         "type": "verse",
@@ -26141,7 +26369,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संग्राहिणी हिमा रूक्षा रक्तदाहव्रणापहा कटुपाकरसा रुच्या कषाया वह्निवर्द्धिनी",
         "iast": "saṃgrāhiṇī himā rūkṣā raktadāhavraṇāpahā kaṭupākarasā rucyā kaṣāyā vahnivarddhinī",
         "iast_ru": "сам̣гра̄хин̣ӣ хима̄ рӯкш̣а̄ рактада̄хавран̣а̄паха̄ кат̣упа̄караса̄ ручйа̄ каш̣а̄йа̄ вахниварддхинӣ",
-        "text": "закрепляющая, холодная, сухая, устраняет кровь, жжение и раны; острая по вкусу после переваривания, приятна вкусу, вяжущая, разжигает пищеварение."
+        "text": "закрепляющая, холодная, сухая, устраняет кровь, жжение и раны; острая по вкусу после переваривания, приятна вкусу, вяжущая, разжигает пищеварение.",
+        "text_en": "astringent, cold and dry, and removes blood disorders, burning sensation and wounds; it is pungent in taste after digestion, pleasant to the taste, puckering, and kindles digestion."
       },
       {
         "type": "verse",
@@ -26149,7 +26378,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गोजिह्वा गोजिका गोभी दार्विका खरपर्णिनी गोजिह्वा वातला शीता ग्राहिणी कफपित्तनुत्",
         "iast": "gojihvā gojikā gobhī dārvikā kharaparṇinī gojihvā vātalā śītā grāhiṇī kaphapittanut",
         "iast_ru": "годжихва̄ годжика̄ гобхӣ да̄рвика̄ кхарапарн̣инӣ годжихва̄ ва̄тала̄ ш́ӣта̄ гра̄хин̣ӣ капхапиттанут",
-        "text": "Годжихва («коровий язык») — годжика, гобхи, дарвика, кхарапарнини; годжихва вызывает Вату, холодная, закрепляющая, устраняет Капху и Питту,"
+        "text": "Годжихва («коровий язык») — годжика, гобхи, дарвика, кхарапарнини; годжихва вызывает Вату, холодная, закрепляющая, устраняет Капху и Питту,",
+        "text_en": "Gojihva (\"cow's tongue\") — Gojika, Gobhi, Darvika, Kharaparnini; Gojihva aggravates Vata, is cold and astringent, and removes Kapha and Pitta,"
       },
       {
         "type": "verse",
@@ -26157,7 +26387,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हृद्या प्रमेहकासास्रव्रणज्वरहरी लघुः कोमला तुवरा तिक्ता स्वादुपाकरसा स्मृता",
         "iast": "hṛdyā pramehakāsāsravraṇajvaraharī laghuḥ komalā tuvarā tiktā svādupākarasā smṛtā",
         "iast_ru": "хр̣дйа̄ прамехака̄са̄сравран̣аджварахарӣ лагхух̣ комала̄ тувара̄ тикта̄ сва̄дупа̄караса̄ смр̣та̄",
-        "text": "приятна сердцу, устраняет мочеизнурение, кашель, кровь, раны и лихорадку, лёгкая; мягкая, вяжущая, горькая, сладкая по вкусу после переваривания."
+        "text": "приятна сердцу, устраняет мочеизнурение, кашель, кровь, раны и лихорадку, лёгкая; мягкая, вяжущая, горькая, сладкая по вкусу после переваривания.",
+        "text_en": "it is pleasant to the heart, removes diabetes (prameha), cough, blood disorders, wounds and fever, and is light; it is soft, astringent, bitter, and sweet in taste after digestion."
       },
       {
         "type": "verse",
@@ -26165,7 +26396,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विज्ञेया नागदमनी बलमोदा विषापहा नागपुष्पी नागपत्रा महायोगेश्वरीति च",
         "iast": "vijñeyā nāgadamanī balamodā viṣāpahā nāgapuṣpī nāgapatrā mahāyogeśvarīti ca",
         "iast_ru": "виджн̃ейа̄ на̄гадаманӣ баламода̄ виш̣а̄паха̄ на̄гапуш̣пӣ на̄гапатра̄ маха̄йогеш́варӣти ча",
-        "text": "Известна как «укротительница нагов» (нагадамани), баламода, устраняющая яд; нагапушпи, нагапатра, а также «великая владычица йогов»."
+        "text": "Известна как «укротительница нагов» (нагадамани), баламода, устраняющая яд; нагапушпи, нагапатра, а также «великая владычица йогов».",
+        "text_en": "Known as the \"subduer of nagas\" (Nagadamani), Balamoda, the remover of poison; Nagapushpi, Nagapatra, and also \"great mistress of yogis\"."
       },
       {
         "type": "verse",
@@ -26173,7 +26405,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलामोटा कटुस्तिक्ता लघुः पित्तकफापहा मूत्रकृच्छ्रव्रणान् रक्षो नाशयेज्जालगर्दभम्",
         "iast": "balāmoṭā kaṭustiktā laghuḥ pittakaphāpahā mūtrakṛcchravraṇān rakṣo nāśayejjālagardabham",
         "iast_ru": "бала̄мот̣а̄ кат̣устикта̄ лагхух̣ питтакапха̄паха̄ мӯтракр̣ччхравран̣а̄н ракш̣о на̄ш́айеджджа̄лагардабхам",
-        "text": "Баламота острая, горькая, лёгкая, устраняет Питту и Капху; устраняет затруднённое мочеиспускание, раны, злых духов, а также кожную болезнь «сетчатый осёл»."
+        "text": "Баламота острая, горькая, лёгкая, устраняет Питту и Капху; устраняет затруднённое мочеиспускание, раны, злых духов, а также кожную болезнь «сетчатый осёл».",
+        "text_en": "Balamota is pungent, bitter and light, and removes Pitta and Kapha; it removes difficult urination, wounds, evil spirits, and also the skin disease called \"reticulated donkey\"."
       },
       {
         "type": "verse",
@@ -26181,7 +26414,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्वग्रहप्रशमनी निःशेषविषनाशिनी जयं सर्वत्र कुरुते धनदासुमतिप्रदा",
         "iast": "sarvagrahapraśamanī niḥśeṣaviṣanāśinī jayaṃ sarvatra kurute dhanadāsumatipradā",
         "iast_ru": "сарваграхапраш́аманӣ них̣ш́еш̣авиш̣ана̄ш́инӣ джайам̣ сарватра куруте дханада̄суматипрада̄",
-        "text": "Полностью успокаивает захватчиков-духов, устраняет весь яд без остатка; повсюду приносит победу, дарует богатство и благоразумие."
+        "text": "Полностью успокаивает захватчиков-духов, устраняет весь яд без остатка; повсюду приносит победу, дарует богатство и благоразумие.",
+        "text_en": "It completely pacifies seizing spirits and removes all poison without remainder; it brings victory everywhere, and bestows wealth and prudence."
       },
       {
         "type": "verse",
@@ -26189,7 +26423,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वेल्लन्तरो जगति वीरतरुः प्रसिद्धः श्वेतासितारुणविलोहितनीलपुष्पः स्याज्जातितुल्यकुसुमः शमिसूक्ष्मपत्रः स्यात्कण्टकी विजलदेशज एव वृक्षः",
         "iast": "vellantaro jagati vīrataruḥ prasiddhaḥ śvetāsitāruṇavilohitanīlapuṣpaḥ syājjātitulyakusumaḥ śamisūkṣmapatraḥ syātkaṇṭakī vijaladeśaja eva vṛkṣaḥ",
         "iast_ru": "веллантаро джагати вӣратарух̣ прасиддхах̣ ш́вета̄сита̄рун̣авилохитанӣлапуш̣пах̣ сйа̄джджа̄титулйакусумах̣ ш́амисӯкш̣мапатрах̣ сйа̄ткан̣т̣акӣ виджаладеш́аджа ева вр̣кш̣ах̣",
-        "text": "Веллантара, известное в мире как «дерево героя» (виратару), с белыми, чёрными, красноватыми, тёмно-красными и синими цветками, с цветками, подобными жасмину, с тонкими, как у шами, листьями, колючее дерево, произрастающее в безводных местностях."
+        "text": "Веллантара, известное в мире как «дерево героя» (виратару), с белыми, чёрными, красноватыми, тёмно-красными и синими цветками, с цветками, подобными жасмину, с тонкими, как у шами, листьями, колючее дерево, произрастающее в безводных местностях.",
+        "text_en": "Vellantara, known in the world as the \"hero tree\" (Viratara), with white, black, reddish, dark red and blue flowers, with flowers like jasmine, with fine leaves like Shami, a thorny tree growing in waterless regions."
       },
       {
         "type": "comment",
@@ -26202,7 +26437,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वेल्लन्तरो रसे पाके तिक्तस्तृष्णाकफापहः मूत्राघाताश्मजिद्ग्राही योनिमूत्रानिलार्त्तिजित्",
         "iast": "vellantaro rase pāke tiktastṛṣṇākaphāpahaḥ mūtrāghātāśmajidgrāhī yonimūtrānilārttijit",
         "iast_ru": "веллантаро расе па̄ке тиктастр̣ш̣н̣а̄капха̄пахах̣ мӯтра̄гха̄та̄ш́маджидгра̄хӣ йонимӯтра̄нила̄рттиджит",
-        "text": "Веллантара горькая на вкус и после переваривания, устраняет жажду и Капху; устраняет задержку мочи и мочекаменную болезнь, закрепляющая, устраняет боль во влагалище, мочевую и ватную боль."
+        "text": "Веллантара горькая на вкус и после переваривания, устраняет жажду и Капху; устраняет задержку мочи и мочекаменную болезнь, закрепляющая, устраняет боль во влагалище, мочевую и ватную боль.",
+        "text_en": "Vellantara is bitter in taste and after digestion, and removes thirst and Kapha; it removes retention of urine and urinary calculus, is astringent, and removes pain in the vagina, urinary pain and Vata pain."
       },
       {
         "type": "verse",
@@ -26210,7 +26446,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "छिक्क्नी क्षवकृत्तीक्ष्णा छिक्किका घ्राणदुःखदा छिक्कनी कटुका रुक्ष्या तीक्ष्णोष्णावह्निपित्तकृत् वातरक्तहरी कुष्ठक्रिमिवातकफापहा",
         "iast": "chikknī kṣavakṛttīkṣṇā chikkikā ghrāṇaduḥkhadā chikkanī kaṭukā rukṣyā tīkṣṇoṣṇāvahnipittakṛt vātaraktaharī kuṣṭhakrimivātakaphāpahā",
         "iast_ru": "чхиккнӣ кш̣авакр̣ттӣкш̣н̣а̄ чхиккика̄ гхра̄н̣адух̣кхада̄ чхикканӣ кат̣ука̄ рукш̣йа̄ тӣкш̣н̣ош̣н̣а̄вахнипиттакр̣т ва̄тарактахарӣ куш̣т̣хакримива̄такапха̄паха̄",
-        "text": "Чикни (чихательная трава) — вызывающая чихание, резкая, чиккика, причиняющая страдание носу; чиккани острая, сухая, резкая, горячая, порождает пищеварение и Питту; устраняет вата-кровяные расстройства, куштху, паразитов, Вату и Капху."
+        "text": "Чикни (чихательная трава) — вызывающая чихание, резкая, чиккика, причиняющая страдание носу; чиккани острая, сухая, резкая, горячая, порождает пищеварение и Питту; устраняет вата-кровяные расстройства, куштху, паразитов, Вату и Капху.",
+        "text_en": "Chikni (sneezewort) — causing sneezing, sharp, Chikkika, causing distress to the nose; Chikkani is pungent, dry, sharp and hot, and produces digestion and Pitta; it removes Vata-blood disorders, kushtha, worms, Vata and Kapha."
       },
       {
         "type": "verse",
@@ -26218,7 +26455,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुकुन्दर स्ताम्रचूडः सूक्ष्मपत्रो मृदुच्छदः",
         "iast": "kukundara stāmracūḍaḥ sūkṣmapatro mṛducchadaḥ",
         "iast_ru": "кукундара ста̄мрачӯд̣ах̣ сӯкш̣мапатро мр̣дуччхадах̣",
-        "text": "Кукундара — «медногребневая», с тонкими листьями, мягколистая."
+        "text": "Кукундара — «медногребневая», с тонкими листьями, мягколистая.",
+        "text_en": "Kukundara — \"copper-crested\", with fine leaves, soft-leaved."
       },
       {
         "type": "verse",
@@ -26226,7 +26464,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुकुन्दरः कटुस्तिक्तो ज्वररक्तकफापहः तन्मूलमाद्र रं! निक्षिप्तं वदने मुखशोषहृत्",
         "iast": "kukundaraḥ kaṭustikto jvararaktakaphāpahaḥ tanmūlamādra raṃ! nikṣiptaṃ vadane mukhaśoṣahṛt",
         "iast_ru": "кукундарах̣ кат̣устикто джварарактакапха̄пахах̣ танмӯлама̄дра рам̣! никш̣иптам̣ вадане мукхаш́ош̣ахр̣т",
-        "text": "Кукундара острая, горькая, устраняет лихорадку, кровь и Капху; её свежий корень, помещённый в рот, устраняет сухость рта."
+        "text": "Кукундара острая, горькая, устраняет лихорадку, кровь и Капху; её свежий корень, помещённый в рот, устраняет сухость рта.",
+        "text_en": "Kukundara is pungent and bitter, and removes fever, blood disorders and Kapha; its fresh root, placed in the mouth, removes dryness of the mouth."
       },
       {
         "type": "verse",
@@ -26234,7 +26473,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुदर्शना सोमवल्ली चक्राह्वा मधुपर्णिका सुदर्शना स्वादुरुष्णा कफशोथास्रवातजित्",
         "iast": "sudarśanā somavallī cakrāhvā madhuparṇikā sudarśanā svāduruṣṇā kaphaśothāsravātajit",
         "iast_ru": "сударш́ана̄ сомаваллӣ чакра̄хва̄ мадхупарн̣ика̄ сударш́ана̄ сва̄дуруш̣н̣а̄ капхаш́отха̄срава̄таджит",
-        "text": "Сударшана — сомавалли, чакрахва, мадхупарника; сударшана сладкая, горячая, устраняет Капху, отёк, кровь и Вату."
+        "text": "Сударшана — сомавалли, чакрахва, мадхупарника; сударшана сладкая, горячая, устраняет Капху, отёк, кровь и Вату.",
+        "text_en": "Sudarshana — Somavalli, Chakrahva, Madhuparnika; Sudarshana is sweet and hot, and removes Kapha, edema, blood disorders and Vata."
       },
       {
         "type": "verse",
@@ -26242,7 +26482,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आखुकर्णी त्वाखुपर्णी पर्णिका भूदरीभवा आखुकर्णी कटुस्तिक्ता कषाया शीतला लघुः विपाके कटुका मूत्रकफामयकृमिप्रणुत्",
         "iast": "ākhukarṇī tvākhuparṇī parṇikā bhūdarībhavā ākhukarṇī kaṭustiktā kaṣāyā śītalā laghuḥ vipāke kaṭukā mūtrakaphāmayakṛmipraṇut",
         "iast_ru": "а̄кхукарн̣ӣ тва̄кхупарн̣ӣ парн̣ика̄ бхӯдарӣбхава̄ а̄кхукарн̣ӣ кат̣устикта̄ каш̣а̄йа̄ ш́ӣтала̄ лагхух̣ випа̄ке кат̣ука̄ мӯтракапха̄майакр̣мипран̣ут",
-        "text": "Акхукарни — акхупарни, парника, произрастающая из земляной расщелины; акхукарни острая, горькая, вяжущая, холодная, лёгкая, острая по вкусу после переваривания; устраняет мочевую болезнь, Капху и паразитов."
+        "text": "Акхукарни — акхупарни, парника, произрастающая из земляной расщелины; акхукарни острая, горькая, вяжущая, холодная, лёгкая, острая по вкусу после переваривания; устраняет мочевую болезнь, Капху и паразитов.",
+        "text_en": "Akhukarni — Akhuparni, Parnika, growing from a crevice in the earth; Akhukarni is pungent, bitter, astringent, cold, light, and pungent in taste after digestion; it removes urinary disease, Kapha and worms."
       },
       {
         "type": "verse",
@@ -26250,7 +26491,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मयूराह्वशिखा प्रोक्ता सहस्राहिर्मधुच्छदा नीलकण्ठशिखा लघ्वी पित्तश्लेष्मातिसारजित्",
         "iast": "mayūrāhvaśikhā proktā sahasrāhirmadhucchadā nīlakaṇṭhaśikhā laghvī pittaśleṣmātisārajit",
         "iast_ru": "майӯра̄хваш́икха̄ прокта̄ сахасра̄хирмадхуччхада̄ нӣлакан̣т̣хаш́икха̄ лагхвӣ питташ́леш̣ма̄тиса̄раджит",
-        "text": "Майюрахвашикха провозглашена сахасрахи, мадхуччхада; нилакантхашикха лёгкая, устраняет Питту, Капху и понос."
+        "text": "Майюрахвашикха провозглашена сахасрахи, мадхуччхада; нилакантхашикха лёгкая, устраняет Питту, Капху и понос.",
+        "text_en": "Mayurahvashikha is declared to be Sahasrakshi, Madhuchchhada; Nilakanthashikha is light, and removes Pitta, Kapha and diarrhea."
       },
       {
         "type": "verse",
@@ -26258,7 +26500,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति श्रीमिश्रलटकनतनयश्रीमिश्रभावविरचिते भावप्रकाशे पूर्वखण्डे मिश्रप्रकरणे चतुर्थो गुडूच्यादिवर्गः समाप्तः",
         "iast": "iti śrīmiśralaṭakanatanayaśrīmiśrabhāvaviracite bhāvaprakāśe pūrvakhaṇḍe miśraprakaraṇe caturtho guḍūcyādivargaḥ samāptaḥ",
         "iast_ru": "ити ш́рӣмиш́ралат̣аканатанайаш́рӣмиш́рабха̄вавирачите бха̄вапрака̄ш́е пӯрвакхан̣д̣е миш́рапракаран̣е чатуртхо гуд̣ӯчйа̄диваргах̣ сама̄птах̣",
-        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаки, в разделе о смешанных предметах завершается четвёртая группа — «Гудучьяди-варга»."
+        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаки, в разделе о смешанных предметах завершается четвёртая группа — «Гудучьяди-варга».",
+        "text_en": "Thus ends the fourth group, the \"Guduchyadi-varga\", in the section on mixed substances of the Bhavaprakasha, composed by the venerable Bhava, son of the venerable Mishra Latak."
       }
     ]
   },
@@ -26276,7 +26519,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वा पुंसि पद्मं नलिनमरविन्दं महोत्पलम् सहस्रपत्रं कमलं शतपत्रं कुशेशयम्",
         "iast": "vā puṃsi padmaṃ nalinamaravindaṃ mahotpalam sahasrapatraṃ kamalaṃ śatapatraṃ kuśeśayam",
         "iast_ru": "ва̄ пум̣си падмам̣ налинамаравиндам̣ махотпалам сахасрапатрам̣ камалам̣ ш́атапатрам̣ куш́еш́айам",
-        "text": "Или (в мужском роде): падма, налина, аравинда, махотпала, сахасрапатра, камала, ш́атапатра, куш́еш́айа — [таковы синонимы] лотоса."
+        "text": "Или (в мужском роде): падма, налина, аравинда, махотпала, сахасрапатра, камала, ш́атапатра, куш́еш́айа — [таковы синонимы] лотоса.",
+        "text_en": "Or (in the masculine): Padma, Nalina, Aravinda, Mahotpala, Sahasrapatra, Kamala, Shatapatra, Kusheshaya — [such are the synonyms] of the lotus."
       },
       {
         "type": "verse",
@@ -26284,7 +26528,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पङ्केरुहं तामरसं सारसं सरसीरुहम् बिसप्रसूनराजीवपुष्कराम्भोरुहाणि च",
         "iast": "paṅkeruhaṃ tāmarasaṃ sārasaṃ sarasīruham bisaprasūnarājīvapuṣkarāmbhoruhāṇi ca",
         "iast_ru": "пан̇керухам̣ та̄марасам̣ са̄расам̣ сарасӣрухам бисапрасӯнара̄джӣвапуш̣кара̄мбхоруха̄н̣и ча",
-        "text": "Панкеруха («рождённый в иле»), тамараса, сараса, сарасируха, а также биса-прасуна, раджива, пушкара, амбхоруха — также его имена."
+        "text": "Панкеруха («рождённый в иле»), тамараса, сараса, сарасируха, а также биса-прасуна, раджива, пушкара, амбхоруха — также его имена.",
+        "text_en": "Pankeruha (\"born in mud\"), Tamarasa, Sarasa, Sarasiruha, and also Bisa-prasuna, Rajiva, Pushkara, Ambhoruha — are also its names."
       },
       {
         "type": "verse",
@@ -26292,7 +26537,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कमलं शीतलं वर्ण्यं मधुरं कफपित्तजित् तृष्णादाहास्रविस्फोटविषवीसर्पनाशनम्",
         "iast": "kamalaṃ śītalaṃ varṇyaṃ madhuraṃ kaphapittajit tṛṣṇādāhāsravisphoṭaviṣavīsarpanāśanam",
         "iast_ru": "камалам̣ ш́ӣталам̣ варн̣йам̣ мадхурам̣ капхапиттаджит тр̣ш̣н̣а̄да̄ха̄срависпхот̣авиш̣авӣсарпана̄ш́анам",
-        "text": "Лотос (камала) холоден, улучшает цвет кожи, сладок; устраняет капху и питту; уничтожает жажду, жжение, кровотечения, волдыри (виспхота), яд и висарпу (рожистое воспаление)."
+        "text": "Лотос (камала) холоден, улучшает цвет кожи, сладок; устраняет капху и питту; уничтожает жажду, жжение, кровотечения, волдыри (виспхота), яд и висарпу (рожистое воспаление).",
+        "text_en": "The lotus (Kamala) is cold, improves the complexion, and is sweet; it removes Kapha and Pitta; it destroys thirst, burning sensation, bleeding disorders, blisters (visphota), poison and visarpa (erysipelas)."
       },
       {
         "type": "verse",
@@ -26300,7 +26546,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विशेषतः सितं पद्मं पुण्डरीकमिति स्मृतम् रक्तं कोकनदं ज्ञेयं नीलमिन्दीवरं स्मृतम्",
         "iast": "viśeṣataḥ sitaṃ padmaṃ puṇḍarīkamiti smṛtam raktaṃ kokanadaṃ jñeyaṃ nīlamindīvaraṃ smṛtam",
         "iast_ru": "виш́еш̣атах̣ ситам̣ падмам̣ пун̣д̣арӣкамити смр̣там рактам̣ коканадам̣ джн̃ейам̣ нӣламиндӣварам̣ смр̣там",
-        "text": "В частности, белый лотос называется пундарика; красный именуется коканада; синий известен как индивара."
+        "text": "В частности, белый лотос называется пундарика; красный именуется коканада; синий известен как индивара.",
+        "text_en": "In particular, the white lotus is called Pundarika; the red is named Kokanada; the blue is known as Indivara."
       },
       {
         "type": "verse",
@@ -26308,7 +26555,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धवलं कमलं शीतं मधुरं कफपित्तजित् तस्मादल्पगुणं किञ्चिदन्यद्र क्तोत्पलादिकम्",
         "iast": "dhavalaṃ kamalaṃ śītaṃ madhuraṃ kaphapittajit tasmādalpaguṇaṃ kiñcidanyadra ktotpalādikam",
         "iast_ru": "дхавалам̣ камалам̣ ш́ӣтам̣ мадхурам̣ капхапиттаджит тасма̄далпагун̣ам̣ кин̃чиданйадра ктотпала̄дикам",
-        "text": "Белый лотос холоден, сладок, устраняет капху и питту; в сравнении с ним несколько менее полезны красный лотос (утпала) и подобные ему."
+        "text": "Белый лотос холоден, сладок, устраняет капху и питту; в сравнении с ним несколько менее полезны красный лотос (утпала) и подобные ему.",
+        "text_en": "The white lotus is cold and sweet, and removes Kapha and Pitta; compared with it, the red lotus (Utpala) and the like are somewhat less beneficial."
       },
       {
         "type": "verse",
@@ -26316,7 +26564,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूलनालदलोत्फुल्लफलैः समुदिता पुनः पद्मिनी प्रोच्यते प्राज्ञैर्बिसिन्यादि च सा स्मृता",
         "iast": "mūlanāladalotphullaphalaiḥ samuditā punaḥ padminī procyate prājñairbisinyādi ca sā smṛtā",
         "iast_ru": "мӯлана̄ладалотпхуллапхалаих̣ самудита̄ пунах̣ падминӣ прочйате пра̄джн̃аирбисинйа̄ди ча са̄ смр̣та̄",
-        "text": "Совокупность растения с корнем, стеблем, листьями, распустившимся цветком и плодом мудрецы называют «падмини» (лотосовое растение целиком); она же именуется бисини и другими именами."
+        "text": "Совокупность растения с корнем, стеблем, листьями, распустившимся цветком и плодом мудрецы называют «падмини» (лотосовое растение целиком); она же именуется бисини и другими именами.",
+        "text_en": "The whole plant, with root, stalk, leaves, fully opened flower and fruit, is called by the sages \"Padmini\" (the entire lotus plant); it is also named Bisini and by other names."
       },
       {
         "type": "verse",
@@ -26324,7 +26573,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पद्मिनी शीतला गुर्वी मधुरा लवणा च सा पित्तासृक्कफनुद्रू क्षा वातविष्टम्भकारिणी",
         "iast": "padminī śītalā gurvī madhurā lavaṇā ca sā pittāsṛkkaphanudrū kṣā vātaviṣṭambhakāriṇī",
         "iast_ru": "падминӣ ш́ӣтала̄ гурвӣ мадхура̄ лаван̣а̄ ча са̄ питта̄ср̣ккапханудрӯ кш̣а̄ ва̄тавиш̣т̣амбхака̄рин̣ӣ",
-        "text": "Падмини холодна, тяжела, сладка и солона; устраняет питту, кровь и капху; суховата и вызывает вздутие от ватхи."
+        "text": "Падмини холодна, тяжела, сладка и солона; устраняет питту, кровь и капху; суховата и вызывает вздутие от ватхи.",
+        "text_en": "Padmini is cold, heavy, sweet and salty; it removes Pitta, blood disorders and Kapha; it is somewhat dry and causes distension due to Vata."
       },
       {
         "type": "verse",
@@ -26332,7 +26582,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संवर्त्तिका नवदलं बीजकोशस्तु कर्णिका किञ्जल्कः केशरः प्रोक्तो मकरन्दो रसः स्मृतः पद्मनालं मृणालं स्यात्तथा बिसमिति स्मृतम्",
         "iast": "saṃvarttikā navadalaṃ bījakośastu karṇikā kiñjalkaḥ keśaraḥ prokto makarando rasaḥ smṛtaḥ padmanālaṃ mṛṇālaṃ syāttathā bisamiti smṛtam",
         "iast_ru": "сам̣варттика̄ навадалам̣ бӣджакош́асту карн̣ика̄ кин̃джалках̣ кеш́арах̣ прокто макарандо расах̣ смр̣тах̣ падмана̄лам̣ мр̣н̣а̄лам̣ сйа̄ттатха̄ бисамити смр̣там",
-        "text": "Самвартика — нераспустившийся молодой лист; семенная коробочка называется карника; тычинки именуются кинджалка или кешара; сок — макаранда; стебель лотоса — мринала, он же называется биса."
+        "text": "Самвартика — нераспустившийся молодой лист; семенная коробочка называется карника; тычинки именуются кинджалка или кешара; сок — макаранда; стебель лотоса — мринала, он же называется биса.",
+        "text_en": "Samvartika is the unopened young leaf; the seed pod is called Karnika; the stamens are called Kinjalka or Keshara; the nectar is Makaranda; the lotus stalk is Mrinala, also called Bisa."
       },
       {
         "type": "verse",
@@ -26340,7 +26591,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संवर्त्तिका हिमा तिक्ता कषाया दाहतृट्प्रणुत् मूत्रकृच्छ्रगुदव्याधिरक्तपित्तविनाशिनी",
         "iast": "saṃvarttikā himā tiktā kaṣāyā dāhatṛṭpraṇut mūtrakṛcchragudavyādhiraktapittavināśinī",
         "iast_ru": "сам̣варттика̄ хима̄ тикта̄ каш̣а̄йа̄ да̄хатр̣т̣пран̣ут мӯтракр̣ччхрагудавйа̄дхирактапиттавина̄ш́инӣ",
-        "text": "Самвартика (нераспустившийся лист) холодна, горька, вяжуща, устраняет жжение и жажду; уничтожает дизурию, болезни заднего прохода и кровяную питту."
+        "text": "Самвартика (нераспустившийся лист) холодна, горька, вяжуща, устраняет жжение и жажду; уничтожает дизурию, болезни заднего прохода и кровяную питту.",
+        "text_en": "Samvartika (the unopened leaf) is cold, bitter and astringent, and removes burning sensation and thirst; it destroys dysuria, diseases of the anus and blood-Pitta disorders."
       },
       {
         "type": "verse",
@@ -26348,7 +26600,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पद्मस्य कर्णिका तिक्ता कषाया मधुरा हिमा मुखवैशद्यकृल्लघ्वी तृष्णाऽस्रकफपित्तनुत्",
         "iast": "padmasya karṇikā tiktā kaṣāyā madhurā himā mukhavaiśadyakṛllaghvī tṛṣṇā'srakaphapittanut",
         "iast_ru": "падмасйа карн̣ика̄ тикта̄ каш̣а̄йа̄ мадхура̄ хима̄ мукхаваиш́адйакр̣ллагхвӣ тр̣ш̣н̣а̄'сракапхапиттанут",
-        "text": "Семенная коробочка лотоса горька, вяжуща, сладка, холодна, легка, придаёт свежесть во рту; устраняет жажду, кровь, капху и питту."
+        "text": "Семенная коробочка лотоса горька, вяжуща, сладка, холодна, легка, придаёт свежесть во рту; устраняет жажду, кровь, капху и питту.",
+        "text_en": "The seed pod of the lotus is bitter, astringent, sweet, cold and light, and imparts freshness to the mouth; it removes thirst, blood disorders, Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -26356,7 +26609,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "किञ्जल्कः शीतलो वृष्यः कषायो ग्राहकोऽपिसः कफपित्ततृषादाहरक्तार्शोविषशोथजित्",
         "iast": "kiñjalkaḥ śītalo vṛṣyaḥ kaṣāyo grāhako'pisaḥ kaphapittatṛṣādāharaktārśoviṣaśothajit",
         "iast_ru": "кин̃джалках̣ ш́ӣтало вр̣ш̣йах̣ каш̣а̄йо гра̄хако'писах̣ капхапиттатр̣ш̣а̄да̄характа̄рш́овиш̣аш́отхаджит",
-        "text": "Тычинки (кинджалка) холодны, усиливают половую силу, вяжущи, закрепляющи; устраняют капху, питту, жажду, жжение, кровоточащий геморрой, яд и отёк."
+        "text": "Тычинки (кинджалка) холодны, усиливают половую силу, вяжущи, закрепляющи; устраняют капху, питту, жажду, жжение, кровоточащий геморрой, яд и отёк.",
+        "text_en": "The stamens (Kinjalka) are cold, enhance sexual potency, and are astringent and constipating; they remove Kapha, Pitta, thirst, burning sensation, bleeding piles, poison and edema."
       },
       {
         "type": "verse",
@@ -26364,7 +26618,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मृणालं शीतलं वृष्यं पित्तदाहास्रजिद् गुरु",
         "iast": "mṛṇālaṃ śītalaṃ vṛṣyaṃ pittadāhāsrajid guru",
         "iast_ru": "мр̣н̣а̄лам̣ ш́ӣталам̣ вр̣ш̣йам̣ питтада̄ха̄сраджид гуру",
-        "text": "Стебель лотоса (мринала) холоден, усиливает половую силу, устраняет питту, жжение и кровяные расстройства; тяжёл."
+        "text": "Стебель лотоса (мринала) холоден, усиливает половую силу, устраняет питту, жжение и кровяные расстройства; тяжёл.",
+        "text_en": "The lotus stalk (Mrinala) is cold, enhances sexual potency, and removes Pitta, burning sensation and blood disorders; it is heavy."
       },
       {
         "type": "verse",
@@ -26372,7 +26627,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दुर्जरं स्वादुपाकञ्च स्तन्यानिलकफप्रदम् संग्राहि मधुरं रूक्षं शालूकमपि तद्गुणम्",
         "iast": "durjaraṃ svādupākañca stanyānilakaphapradam saṃgrāhi madhuraṃ rūkṣaṃ śālūkamapi tadguṇam",
         "iast_ru": "дурджарам̣ сва̄дупа̄кан̃ча станйа̄нилакапхапрадам сам̣гра̄хи мадхурам̣ рӯкш̣ам̣ ш́а̄лӯкамапи тадгун̣ам",
-        "text": "Он трудноперевариваем, сладок после переваривания, увеличивает молоко, ватху и капху; закрепляющ. Шалука (корневище лотоса) сладко, суховато и обладает теми же свойствами."
+        "text": "Он трудноперевариваем, сладок после переваривания, увеличивает молоко, ватху и капху; закрепляющ. Шалука (корневище лотоса) сладко, суховато и обладает теми же свойствами.",
+        "text_en": "It is difficult to digest, sweet after digestion, and increases milk, Vata and Kapha; it is constipating. Shaluka (the lotus rhizome) is sweet, somewhat dry, and has the same properties."
       },
       {
         "type": "verse",
@@ -26380,7 +26636,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पद्मचारिण्यतिचराऽव्यथा पद्मा च शारदा पद्माऽनुष्णा कटुस्तिक्ता कषाया कफवातजित् मूत्रकृच्छ्श्मशूलघ्नो श्वासकासविषापहा",
         "iast": "padmacāriṇyaticarā'vyathā padmā ca śāradā padmā'nuṣṇā kaṭustiktā kaṣāyā kaphavātajit mūtrakṛcchśmaśūlaghno śvāsakāsaviṣāpahā",
         "iast_ru": "падмача̄рин̣йатичара̄'вйатха̄ падма̄ ча ш́а̄рада̄ падма̄'нуш̣н̣а̄ кат̣устикта̄ каш̣а̄йа̄ капхава̄таджит мӯтракр̣ччхш́маш́ӯлагхно ш́ва̄сака̄савиш̣а̄паха̄",
-        "text": "Синонимы: падма-чарини, атичара, авьятха, падма, шарада; это растение не горячее, острое, горькое, вяжущее, устраняет капху и ватху; излечивает дизурию и боль в мочевом пузыре, устраняет одышку, кашель и яд."
+        "text": "Синонимы: падма-чарини, атичара, авьятха, падма, шарада; это растение не горячее, острое, горькое, вяжущее, устраняет капху и ватху; излечивает дизурию и боль в мочевом пузыре, устраняет одышку, кашель и яд.",
+        "text_en": "Synonyms: Padma-charini, Atichara, Avyatha, Padma, Sharada; this plant is not hot; it is pungent, bitter and astringent, and removes Kapha and Vata; it cures dysuria and pain in the bladder, and removes dyspnea, cough and poison."
       },
       {
         "type": "verse",
@@ -26388,7 +26645,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतं कुवलयं प्रोक्तं कुमुदं कैरवं तथा कुमुदं पिच्छिलं स्निग्धं मधुरं ह्लादि शीतलम्",
         "iast": "śvetaṃ kuvalayaṃ proktaṃ kumudaṃ kairavaṃ tathā kumudaṃ picchilaṃ snigdhaṃ madhuraṃ hlādi śītalam",
         "iast_ru": "ш́ветам̣ кувалайам̣ проктам̣ кумудам̣ каиравам̣ татха̄ кумудам̣ пиччхилам̣ снигдхам̣ мадхурам̣ хла̄ди ш́ӣталам",
-        "text": "Белый ночной лотос называется кувалая, кумуда, а также каирава; кумуда слизиста, масляниста, сладка, приятна и холодна."
+        "text": "Белый ночной лотос называется кувалая, кумуда, а также каирава; кумуда слизиста, масляниста, сладка, приятна и холодна.",
+        "text_en": "The white night lotus is called Kuvalaya, Kumuda, and also Kairava; Kumuda is slimy, unctuous, sweet, pleasant and cold."
       },
       {
         "type": "verse",
@@ -26396,7 +26654,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुमुद्वती कैरविका तथा कुमुदिनीति च",
         "iast": "kumudvatī kairavikā tathā kumudinīti ca",
         "iast_ru": "кумудватӣ каиравика̄ татха̄ кумудинӣти ча",
-        "text": "Заросль кумуды называется кумудвати, каиравика, а также кумудини."
+        "text": "Заросль кумуды называется кумудвати, каиравика, а также кумудини.",
+        "text_en": "A thicket of Kumuda is called Kumudvati, Kairavika, and also Kumudini."
       },
       {
         "type": "verse",
@@ -26404,7 +26663,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सा तु मूलादिसर्वाङ्गैरुक्ता समुदिता बुधैः पद्मिन्या ये गुणाः प्रोक्ताः कुमुदिन्याश्च ते स्मृताः",
         "iast": "sā tu mūlādisarvāṅgairuktā samuditā budhaiḥ padminyā ye guṇāḥ proktāḥ kumudinyāśca te smṛtāḥ",
         "iast_ru": "са̄ ту мӯла̄дисарва̄н̇гаирукта̄ самудита̄ будхаих̣ падминйа̄ йе гун̣а̄х̣ прокта̄х̣ кумудинйа̄ш́ча те смр̣та̄х̣",
-        "text": "Она (кумудини), со всеми частями от корня и далее, описывается мудрецами так же; какие свойства были названы для падмини, те же признаются и для кумудини."
+        "text": "Она (кумудини), со всеми частями от корня и далее, описывается мудрецами так же; какие свойства были названы для падмини, те же признаются и для кумудини.",
+        "text_en": "It (Kumudini), with all parts from the root onward, is described by the sages in the same way; whatever properties were stated for Padmini are recognized also for Kumudini."
       },
       {
         "type": "verse",
@@ -26412,7 +26672,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सौगन्धिकं तु कल्हारं हल्लकं रक्तसन्ध्यकम् कल्हारं शीतलं ग्राहि विष्टम्भि गुरु रूक्षणम्",
         "iast": "saugandhikaṃ tu kalhāraṃ hallakaṃ raktasandhyakam kalhāraṃ śītalaṃ grāhi viṣṭambhi guru rūkṣaṇam",
         "iast_ru": "саугандхикам̣ ту калха̄рам̣ халлакам̣ рактасандхйакам калха̄рам̣ ш́ӣталам̣ гра̄хи виш̣т̣амбхи гуру рӯкш̣ан̣ам",
-        "text": "Саугандхика — это калхара (красная водяная лилия), халлака, ракта-сандхьяка. Калхара холодна, закрепляюща, вызывает вздутие, тяжела и суховата."
+        "text": "Саугандхика — это калхара (красная водяная лилия), халлака, ракта-сандхьяка. Калхара холодна, закрепляюща, вызывает вздутие, тяжела и суховата.",
+        "text_en": "Saugandhika is Kalhara (the red water lily), Hallaka, Rakta-sandhyaka. Kalhara is cold, constipating, causes distension, and is heavy and somewhat dry."
       },
       {
         "type": "verse",
@@ -26420,7 +26681,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वारिपर्णी कुम्भिका स्याद्वारिमूली खमूलिका शैवालं जलनीली स्याच्छैवलं जलजञ्च तत्",
         "iast": "vāriparṇī kumbhikā syādvārimūlī khamūlikā śaivālaṃ jalanīlī syācchaivalaṃ jalajañca tat",
         "iast_ru": "ва̄рипарн̣ӣ кумбхика̄ сйа̄два̄римӯлӣ кхамӯлика̄ ш́аива̄лам̣ джаланӣлӣ сйа̄ччхаивалам̣ джаладжан̃ча тат",
-        "text": "Варипарни называется также кумбхика, варимули, кхамулика. Шайвала (водоросль) — это джаланили, шайвала, а также джаладжа."
+        "text": "Варипарни называется также кумбхика, варимули, кхамулика. Шайвала (водоросль) — это джаланили, шайвала, а также джаладжа.",
+        "text_en": "Variparni is also called Kumbhika, Varimuli, Khamulika. Shaivala (algae) is Jalanili, Shaivala, and also Jalaja."
       },
       {
         "type": "verse",
@@ -26428,7 +26690,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वारिपर्णी हिमा तिक्ता लघ्वी स्वाद्वी सरा कटुः दोषत्रयहरी रूक्षा शोणितज्वरशोषकृत्",
         "iast": "vāriparṇī himā tiktā laghvī svādvī sarā kaṭuḥ doṣatrayaharī rūkṣā śoṇitajvaraśoṣakṛt",
         "iast_ru": "ва̄рипарн̣ӣ хима̄ тикта̄ лагхвӣ сва̄двӣ сара̄ кат̣ух̣ дош̣атрайахарӣ рӯкш̣а̄ ш́он̣итаджвараш́ош̣акр̣т",
-        "text": "Варипарни холодна, горька, легка, сладковата, слабительна, остра; устраняет все три доши; суховата; при избытке вызывает кровяную лихорадку и истощение."
+        "text": "Варипарни холодна, горька, легка, сладковата, слабительна, остра; устраняет все три доши; суховата; при избытке вызывает кровяную лихорадку и истощение.",
+        "text_en": "Variparni is cold, bitter, light, slightly sweet, purgative and pungent; it removes all three doshas; it is somewhat dry; in excess it causes blood fever and emaciation."
       },
       {
         "type": "verse",
@@ -26436,7 +26699,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शैवालं तुवरं तिक्तं मधुरं शीतलं लघु स्निग्धं दाहतृषापित्तरक्तज्वरहरं परम्",
         "iast": "śaivālaṃ tuvaraṃ tiktaṃ madhuraṃ śītalaṃ laghu snigdhaṃ dāhatṛṣāpittaraktajvaraharaṃ param",
         "iast_ru": "ш́аива̄лам̣ туварам̣ тиктам̣ мадхурам̣ ш́ӣталам̣ лагху снигдхам̣ да̄хатр̣ш̣а̄питтарактаджварахарам̣ парам",
-        "text": "Шайвала (водоросль) вяжуща, горька, сладка, холодна, легка, масляниста; отлично устраняет жжение, жажду, питту, кровяные расстройства и лихорадку."
+        "text": "Шайвала (водоросль) вяжуща, горька, сладка, холодна, легка, масляниста; отлично устраняет жжение, жажду, питту, кровяные расстройства и лихорадку.",
+        "text_en": "Shaivala (algae) is astringent, bitter, sweet, cold, light and unctuous; it excellently removes burning sensation, thirst, Pitta, blood disorders and fever."
       },
       {
         "type": "verse",
@@ -26444,7 +26708,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतपत्री तरुण्युक्ता कर्णिका चारुकेशरा महाकुमारी गन्धाढ्या लाक्षापुष्पा ऽतिमञ्जुला",
         "iast": "śatapatrī taruṇyuktā karṇikā cārukeśarā mahākumārī gandhāḍhyā lākṣāpuṣpā 'timañjulā",
         "iast_ru": "ш́атапатрӣ тарун̣йукта̄ карн̣ика̄ ча̄рукеш́ара̄ маха̄кума̄рӣ гандха̄д̣хйа̄ ла̄кш̣а̄пуш̣па̄ 'тиман̃джула̄",
-        "text": "Шатапатри называется также таруни, карника-чару-кешара, маха-кумари, гандхадхья, лакша-пушпа, атиманджула."
+        "text": "Шатапатри называется также таруни, карника-чару-кешара, маха-кумари, гандхадхья, лакша-пушпа, атиманджула.",
+        "text_en": "Shatapatri is also called Taruni, Karnika-charu-keshara, Maha-kumari, Gandhadhya, Laksha-pushpa, Atimanjula."
       },
       {
         "type": "verse",
@@ -26452,7 +26717,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतपत्री हिमा हृद्या ग्राहिणी शुक्रला लघुः दोषत्रयास्रजिद्वर्ण्या कट्वी तिक्ता च पाचनी",
         "iast": "śatapatrī himā hṛdyā grāhiṇī śukralā laghuḥ doṣatrayāsrajidvarṇyā kaṭvī tiktā ca pācanī",
         "iast_ru": "ш́атапатрӣ хима̄ хр̣дйа̄ гра̄хин̣ӣ ш́украла̄ лагхух̣ дош̣атрайа̄сраджидварн̣йа̄ кат̣вӣ тикта̄ ча па̄чанӣ",
-        "text": "Шатапатри холодна, приятна для сердца, закрепляюща, усиливает семя, легка; устраняет все три доши и расстройства крови; улучшает цвет кожи; остра, горька и способствует пищеварению."
+        "text": "Шатапатри холодна, приятна для сердца, закрепляюща, усиливает семя, легка; устраняет все три доши и расстройства крови; улучшает цвет кожи; остра, горька и способствует пищеварению.",
+        "text_en": "Shatapatri is cold, pleasant to the heart, constipating, enhances semen, and is light; it removes all three doshas and blood disorders; it improves the complexion, and is pungent, bitter and promotes digestion."
       },
       {
         "type": "verse",
@@ -26460,7 +26726,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नेपाली कथिता तज्ज्ञैः सप्तला नवमालिका वासन्ती शीतला लघ्वी तिक्ता दोषत्रयास्रजित्",
         "iast": "nepālī kathitā tajjñaiḥ saptalā navamālikā vāsantī śītalā laghvī tiktā doṣatrayāsrajit",
         "iast_ru": "непа̄лӣ катхита̄ таджджн̃аих̣ саптала̄ навама̄лика̄ ва̄сантӣ ш́ӣтала̄ лагхвӣ тикта̄ дош̣атрайа̄сраджит",
-        "text": "Знатоками она называется непали, саптала, навамалика, васанти; она холодна, легка, горька, устраняет все три доши и расстройства крови."
+        "text": "Знатоками она называется непали, саптала, навамалика, васанти; она холодна, легка, горька, устраняет все три доши и расстройства крови.",
+        "text_en": "By the knowledgeable it is called Nepali, Saptala, Navamalika, Vasanti; it is cold, light and bitter, and removes all three doshas and blood disorders."
       },
       {
         "type": "verse",
@@ -26468,7 +26735,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्रीपदी षट्पदानन्दा वार्षिकी मुक्तबन्धना",
         "iast": "śrīpadī ṣaṭpadānandā vārṣikī muktabandhanā",
         "iast_ru": "ш́рӣпадӣ ш̣ат̣пада̄нанда̄ ва̄рш̣икӣ муктабандхана̄",
-        "text": "Она же называется шрипади, шатпадананда, варшики, мукта-бандхана."
+        "text": "Она же называется шрипади, шатпадананда, варшики, мукта-бандхана.",
+        "text_en": "It is also called Shripadi, Shatpadananda, Varshiki, Mukta-bandhana."
       },
       {
         "type": "verse",
@@ -26476,7 +26744,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वार्षिकी शीतला लघ्वी तिक्ता दोषत्रयापहा कर्णाक्षिमुखरोगघ्नी तत्तैलं तद्गुणं स्मृतम्",
         "iast": "vārṣikī śītalā laghvī tiktā doṣatrayāpahā karṇākṣimukharogaghnī tattailaṃ tadguṇaṃ smṛtam",
         "iast_ru": "ва̄рш̣икӣ ш́ӣтала̄ лагхвӣ тикта̄ дош̣атрайа̄паха̄ карн̣а̄кш̣имукхарогагхнӣ таттаилам̣ тадгун̣ам̣ смр̣там",
-        "text": "Варшики холодна, легка, горька, устраняет все три доши; излечивает болезни ушей, глаз и рта; масло из неё обладает теми же свойствами."
+        "text": "Варшики холодна, легка, горька, устраняет все три доши; излечивает болезни ушей, глаз и рта; масло из неё обладает теми же свойствами.",
+        "text_en": "Varshiki is cold, light and bitter, and removes all three doshas; it cures diseases of the ears, eyes and mouth; the oil prepared from it has the same properties."
       },
       {
         "type": "verse",
@@ -26484,7 +26753,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जातिर्जाती च सुमना मालती राजपुत्रिका चेतिका हृद्यगन्धा च सा पीता स्वर्णजातिका",
         "iast": "jātirjātī ca sumanā mālatī rājaputrikā cetikā hṛdyagandhā ca sā pītā svarṇajātikā",
         "iast_ru": "джа̄тирджа̄тӣ ча сумана̄ ма̄латӣ ра̄джапутрика̄ четика̄ хр̣дйагандха̄ ча са̄ пӣта̄ сварн̣аджа̄тика̄",
-        "text": "Жасмин (джати) называется джати, сумана, малати, раджапутрика, четика, приятно пахнущий; жёлтый его вид — сварна-джатика."
+        "text": "Жасмин (джати) называется джати, сумана, малати, раджапутрика, четика, приятно пахнущий; жёлтый его вид — сварна-джатика.",
+        "text_en": "Jasmine (Jati) is called Jati, Sumana, Malati, Rajaputrika, Cheti, sweet-smelling; its yellow variety is Svarna-jatika."
       },
       {
         "type": "verse",
@@ -26492,7 +26762,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जातीयुगं तिक्तमुष्णं तुवरं लघु दोषजित् शिरोऽक्षिमुखदन्तार्त्तिविषकुष्ठानिलास्रजित्",
         "iast": "jātīyugaṃ tiktamuṣṇaṃ tuvaraṃ laghu doṣajit śiro'kṣimukhadantārttiviṣakuṣṭhānilāsrajit",
         "iast_ru": "джа̄тӣйугам̣ тиктамуш̣н̣ам̣ туварам̣ лагху дош̣аджит ш́иро'кш̣имукхаданта̄рттивиш̣акуш̣т̣ха̄нила̄сраджит",
-        "text": "Оба вида жасмина горьки, горячи, вяжущи, легки, устраняют доши; избавляют от боли в голове, глазах, во рту и зубах, от яда, кожных болезней, ватхи и расстройств крови."
+        "text": "Оба вида жасмина горьки, горячи, вяжущи, легки, устраняют доши; избавляют от боли в голове, глазах, во рту и зубах, от яда, кожных болезней, ватхи и расстройств крови.",
+        "text_en": "Both kinds of jasmine are bitter, hot, astringent and light, and remove the doshas; they relieve pain in the head, eyes, mouth and teeth, and remove poison, skin diseases, Vata and blood disorders."
       },
       {
         "type": "verse",
@@ -26500,7 +26771,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यूथिका गणिकाऽम्बष्ठा सा पीता हेमपुष्पिका यूथीयुगं हिमं तिक्तं कटुपाकरसं लघु",
         "iast": "yūthikā gaṇikā'mbaṣṭhā sā pītā hemapuṣpikā yūthīyugaṃ himaṃ tiktaṃ kaṭupākarasaṃ laghu",
         "iast_ru": "йӯтхика̄ ган̣ика̄'мбаш̣т̣ха̄ са̄ пӣта̄ хемапуш̣пика̄ йӯтхӣйугам̣ химам̣ тиктам̣ кат̣упа̄карасам̣ лагху",
-        "text": "Ютхика называется ганика, амбаштха; жёлтая её разновидность — хема-пушпика. Оба вида ютхи холодны, горьки, после переваривания дают острый вкус, легки."
+        "text": "Ютхика называется ганика, амбаштха; жёлтая её разновидность — хема-пушпика. Оба вида ютхи холодны, горьки, после переваривания дают острый вкус, легки.",
+        "text_en": "Yuthika is called Ganika, Ambashtha; its yellow variety is Hema-pushpika. Both kinds of Yuthi are cold, bitter, pungent in taste after digestion, and light."
       },
       {
         "type": "verse",
@@ -26508,7 +26780,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधुरं तुवरं हृद्यं पित्तघ्नं कफवातलम् व्रणास्रमुखदन्ताक्षिशिरोरोगविषापहम्",
         "iast": "madhuraṃ tuvaraṃ hṛdyaṃ pittaghnaṃ kaphavātalam vraṇāsramukhadantākṣiśirorogaviṣāpaham",
         "iast_ru": "мадхурам̣ туварам̣ хр̣дйам̣ питтагхнам̣ капхава̄талам вран̣а̄срамукхаданта̄кш̣иш́иророгавиш̣а̄пахам",
-        "text": "Также сладки, вяжущи, приятны для сердца, устраняют питту, но увеличивают капху и ватху; излечивают раны, кровяные расстройства, болезни рта, зубов, глаз и головы, а также яд."
+        "text": "Также сладки, вяжущи, приятны для сердца, устраняют питту, но увеличивают капху и ватху; излечивают раны, кровяные расстройства, болезни рта, зубов, глаз и головы, а также яд.",
+        "text_en": "They are also sweet, astringent and pleasant to the heart; they remove Pitta but increase Kapha and Vata; they cure wounds, blood disorders, diseases of the mouth, teeth, eyes and head, and also poison."
       },
       {
         "type": "verse",
@@ -26516,7 +26789,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चाम्पेयश्चम्पकः प्रोक्तोहेमपुष्पश्च स स्मृतः एतस्य कलिका गन्धफलेति कथिता बुधैः",
         "iast": "cāmpeyaścampakaḥ proktohemapuṣpaśca sa smṛtaḥ etasya kalikā gandhaphaleti kathitā budhaiḥ",
         "iast_ru": "ча̄мпейаш́чампаках̣ проктохемапуш̣паш́ча са смр̣тах̣ етасйа калика̄ гандхапхалети катхита̄ будхаих̣",
-        "text": "Чампака называется чампейа, хема-пушпа; его бутон мудрецы называют гандха-пхала."
+        "text": "Чампака называется чампейа, хема-пушпа; его бутон мудрецы называют гандха-пхала.",
+        "text_en": "Champaka is called Champeya, Hema-pushpa; its bud is called by the sages Gandha-phala."
       },
       {
         "type": "verse",
@@ -26524,7 +26798,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चम्पकः कटुकस्तिक्तः कषायो मधुरो हिमः विषक्रिमिहरः कृच्छ्रकफवातास्नपित्तजित्",
         "iast": "campakaḥ kaṭukastiktaḥ kaṣāyo madhuro himaḥ viṣakrimiharaḥ kṛcchrakaphavātāsnapittajit",
         "iast_ru": "чампаках̣ кат̣укастиктах̣ каш̣а̄йо мадхуро химах̣ виш̣акримихарах̣ кр̣ччхракапхава̄та̄снапиттаджит",
-        "text": "Чампака остр, горек, вяжущ, сладок, холоден; уничтожает яд и паразитов; устраняет дизурию, капху, ватху, расстройства крови и питту."
+        "text": "Чампака остр, горек, вяжущ, сладок, холоден; уничтожает яд и паразитов; устраняет дизурию, капху, ватху, расстройства крови и питту.",
+        "text_en": "Champaka is pungent, bitter, astringent, sweet and cold; it destroys poison and worms; it removes dysuria, Kapha, Vata, blood disorders and Pitta."
       },
       {
         "type": "verse",
@@ -26532,7 +26807,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बकुलो मधुगन्धश्च सिंहकेसरकस्तथा बकुलस्तुवरोऽनुष्णः कटुपाकरसो गुरुः कफपित्तविषश्वित्रकृमिदन्तगदापहः",
         "iast": "bakulo madhugandhaśca siṃhakesarakastathā bakulastuvaro'nuṣṇaḥ kaṭupākaraso guruḥ kaphapittaviṣaśvitrakṛmidantagadāpahaḥ",
         "iast_ru": "бакуло мадхугандхаш́ча сим̣хакесаракастатха̄ бакуластуваро'нуш̣н̣ах̣ кат̣упа̄карасо гурух̣ капхапиттавиш̣аш́витракр̣мидантагада̄пахах̣",
-        "text": "Бакула называется мадху-гандха, симха-кесарака; вяжущ, не горяч, после переваривания даёт острый вкус, тяжёл; устраняет капху, питту, яд, витилиго, паразитов и болезни зубов."
+        "text": "Бакула называется мадху-гандха, симха-кесарака; вяжущ, не горяч, после переваривания даёт острый вкус, тяжёл; устраняет капху, питту, яд, витилиго, паразитов и болезни зубов.",
+        "text_en": "Bakula is called Madhu-gandha, Simha-kesaraka; it is astringent, not hot, pungent in taste after digestion, and heavy; it removes Kapha, Pitta, poison, vitiligo, worms and diseases of the teeth."
       },
       {
         "type": "verse",
@@ -26540,7 +26816,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिवमल्ली पाशुपत एकाष्ठीलो वको वसुः",
         "iast": "śivamallī pāśupata ekāṣṭhīlo vako vasuḥ",
         "iast_ru": "ш́ивамаллӣ па̄ш́упата ека̄ш̣т̣хӣло вако васух̣",
-        "text": "Растение вака называется шивамалли, пашупата, экаштхила, васу."
+        "text": "Растение вака называется шивамалли, пашупата, экаштхила, васу.",
+        "text_en": "The plant Vaka is called Shivamalli, Pashupata, Ekashthila, Vasu."
       },
       {
         "type": "verse",
@@ -26548,7 +26825,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वकोऽनुष्णः कटुस्तिक्तः कफपित्तविषापहः योनिशूलतृषादाहकुष्ठशोथास्रनाशनः",
         "iast": "vako'nuṣṇaḥ kaṭustiktaḥ kaphapittaviṣāpahaḥ yoniśūlatṛṣādāhakuṣṭhaśothāsranāśanaḥ",
         "iast_ru": "вако'нуш̣н̣ах̣ кат̣устиктах̣ капхапиттавиш̣а̄пахах̣ йониш́ӯлатр̣ш̣а̄да̄хакуш̣т̣хаш́отха̄срана̄ш́анах̣",
-        "text": "Вака не горяч, остр, горек; устраняет капху, питту и яд; уничтожает боль в матке, жажду, жжение, кожные болезни, отёки и расстройства крови."
+        "text": "Вака не горяч, остр, горек; устраняет капху, питту и яд; уничтожает боль в матке, жажду, жжение, кожные болезни, отёки и расстройства крови.",
+        "text_en": "Vaka is not hot; it is pungent and bitter; it removes Kapha, Pitta and poison; it destroys pain in the uterus, thirst, burning sensation, skin diseases, edema and blood disorders."
       },
       {
         "type": "verse",
@@ -26556,7 +26834,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कदम्बः प्रियको नीपो वृत्तपुष्पो हलिप्रियः कदम्बो मधुरः शीतः कषायो लवणो गुरुः सरो विष्टम्भकृद्रू क्षः कफस्तन्यानिलप्रदः",
         "iast": "kadambaḥ priyako nīpo vṛttapuṣpo halipriyaḥ kadambo madhuraḥ śītaḥ kaṣāyo lavaṇo guruḥ saro viṣṭambhakṛdrū kṣaḥ kaphastanyānilapradaḥ",
         "iast_ru": "кадамбах̣ прийако нӣпо вр̣ттапуш̣по халиприйах̣ кадамбо мадхурах̣ ш́ӣтах̣ каш̣а̄йо лаван̣о гурух̣ саро виш̣т̣амбхакр̣дрӯ кш̣ах̣ капхастанйа̄нилапрадах̣",
-        "text": "Кадамба называется прийака, нипа, вритта-пушпа, халиприя; кадамба сладок, холоден, вяжущ, солон, тяжёл, слабителен, вызывает вздутие, суховат, увеличивает капху, молоко и ватху."
+        "text": "Кадамба называется прийака, нипа, вритта-пушпа, халиприя; кадамба сладок, холоден, вяжущ, солон, тяжёл, слабителен, вызывает вздутие, суховат, увеличивает капху, молоко и ватху.",
+        "text_en": "Kadamba is called Priyaka, Nipa, Vritta-pushpa, Halipriya; Kadamba is sweet, cold, astringent, salty, heavy and purgative, causes distension, is somewhat dry, and increases Kapha, milk and Vata."
       },
       {
         "type": "verse",
@@ -26564,7 +26843,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुब्जको भद्र तरुणी वृत्तपुष्पोऽतिकेसरः महासहा कण्टकाढ्या नीलालिकुलसंकुला",
         "iast": "kubjako bhadra taruṇī vṛttapuṣpo'tikesaraḥ mahāsahā kaṇṭakāḍhyā nīlālikulasaṃkulā",
         "iast_ru": "кубджако бхадра тарун̣ӣ вр̣ттапуш̣по'тикесарах̣ маха̄саха̄ кан̣т̣ака̄д̣хйа̄ нӣла̄ликуласам̣кула̄",
-        "text": "Кубджака называется бхадра-таруни, вритта-пушпа, атикешара, маха-саха, кантакадхья, нилали-кула-санкула."
+        "text": "Кубджака называется бхадра-таруни, вритта-пушпа, атикешара, маха-саха, кантакадхья, нилали-кула-санкула.",
+        "text_en": "Kubjaka is called Bhadra-taruni, Vritta-pushpa, Atikeshara, Maha-saha, Kantakadhya, Nilali-kula-sankula."
       },
       {
         "type": "verse",
@@ -26572,7 +26852,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुब्जकः सुरभिः स्वादुः कषायानुरसः सरः त्रिदोषशमनो वृष्यः शीतहर्त्ता च स स्मृतः",
         "iast": "kubjakaḥ surabhiḥ svāduḥ kaṣāyānurasaḥ saraḥ tridoṣaśamano vṛṣyaḥ śītaharttā ca sa smṛtaḥ",
         "iast_ru": "кубджаках̣ сурабхих̣ сва̄дух̣ каш̣а̄йа̄нурасах̣ сарах̣ тридош̣аш́амано вр̣ш̣йах̣ ш́ӣтахартта̄ ча са смр̣тах̣",
-        "text": "Кубджака ароматен, сладок, с вяжущим послевкусием, слабителен; успокаивает три доши, усиливает половую силу, устраняет ощущение холода."
+        "text": "Кубджака ароматен, сладок, с вяжущим послевкусием, слабителен; успокаивает три доши, усиливает половую силу, устраняет ощущение холода.",
+        "text_en": "Kubjaka is fragrant, sweet, with an astringent aftertaste, and purgative; it pacifies the three doshas, enhances sexual potency, and removes the sensation of cold."
       },
       {
         "type": "verse",
@@ -26580,7 +26861,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मल्लिका मदयन्ती च शीतभीरुश्च भूपदी",
         "iast": "mallikā madayantī ca śītabhīruśca bhūpadī",
         "iast_ru": "маллика̄ мадайантӣ ча ш́ӣтабхӣруш́ча бхӯпадӣ",
-        "text": "Растение маллика называется мадаянти, шитабхиру, бхупади."
+        "text": "Растение маллика называется мадаянти, шитабхиру, бхупади.",
+        "text_en": "The plant Mallika is called Madayanti, Shitabhiru, Bhupadi."
       },
       {
         "type": "verse",
@@ -26588,7 +26870,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मल्लिकोष्णा लघुर्वृष्या तिक्ता च कटुका हरेत् वातपित्तास्यदृग्व्याधिकुष्ठारुचिविषव्रणान्",
         "iast": "mallikoṣṇā laghurvṛṣyā tiktā ca kaṭukā haret vātapittāsyadṛgvyādhikuṣṭhāruciviṣavraṇān",
         "iast_ru": "малликош̣н̣а̄ лагхурвр̣ш̣йа̄ тикта̄ ча кат̣ука̄ харет ва̄тапитта̄сйадр̣гвйа̄дхикуш̣т̣ха̄ручивиш̣авран̣а̄н",
-        "text": "Маллика горяча, легка, усиливает половую силу, горька и остра; устраняет ватху, питту, болезни рта и глаз, кожные болезни, потерю аппетита, яд и раны."
+        "text": "Маллика горяча, легка, усиливает половую силу, горька и остра; устраняет ватху, питту, болезни рта и глаз, кожные болезни, потерю аппетита, яд и раны.",
+        "text_en": "Mallika is hot and light, enhances sexual potency, and is bitter and pungent; it removes Vata, Pitta, diseases of the mouth and eyes, skin diseases, loss of appetite, poison and wounds."
       },
       {
         "type": "verse",
@@ -26596,7 +26879,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "माधवी स्यात्तु वासन्ती पुण्ड्रको मण्डकोऽपि च अतिमुक्तो विमुक्तश्च कामुको भ्रमरोत्सवः माधवी मधुरा शीता लघ्वी दोषत्रयापहा",
         "iast": "mādhavī syāttu vāsantī puṇḍrako maṇḍako'pi ca atimukto vimuktaśca kāmuko bhramarotsavaḥ mādhavī madhurā śītā laghvī doṣatrayāpahā",
         "iast_ru": "ма̄дхавӣ сйа̄тту ва̄сантӣ пун̣д̣рако ман̣д̣ако'пи ча атимукто вимукташ́ча ка̄муко бхрамаротсавах̣ ма̄дхавӣ мадхура̄ ш́ӣта̄ лагхвӣ дош̣атрайа̄паха̄",
-        "text": "Мадхави называется васанти, пундрака, мандака, атимукта, вимукта, камука, бхрамаротсава; мадхави сладка, холодна, легка, устраняет все три доши."
+        "text": "Мадхави называется васанти, пундрака, мандака, атимукта, вимукта, камука, бхрамаротсава; мадхави сладка, холодна, легка, устраняет все три доши.",
+        "text_en": "Madhavi is called Vasanti, Pundraka, Mandaka, Atimukta, Vimukta, Kamuka, Bhramarotsava; Madhavi is sweet, cold and light, and removes all three doshas."
       },
       {
         "type": "verse",
@@ -26604,7 +26888,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "केतकः सूचिकापुष्पो जम्बुकः क्रकचच्छदः सुवर्णकेतकी त्वन्या लघुपुष्पा सुगन्धिनी",
         "iast": "ketakaḥ sūcikāpuṣpo jambukaḥ krakacacchadaḥ suvarṇaketakī tvanyā laghupuṣpā sugandhinī",
         "iast_ru": "кетаках̣ сӯчика̄пуш̣по джамбуках̣ кракачаччхадах̣ суварн̣акетакӣ тванйа̄ лагхупуш̣па̄ сугандхинӣ",
-        "text": "Кетака называется сучика-пушпа, джамбука, кракача-чхада; иной вид — суварна-кетаки, с мелкими цветками, благоуханный."
+        "text": "Кетака называется сучика-пушпа, джамбука, кракача-чхада; иной вид — суварна-кетаки, с мелкими цветками, благоуханный.",
+        "text_en": "Ketaka is called Suchika-pushpa, Jambuka, Krakacha-chhada; another kind is Suvarna-ketaki, with small flowers, fragrant."
       },
       {
         "type": "verse",
@@ -26612,7 +26897,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "केतकः कटुकः स्वादुर्लघुस्तिक्तः कफापहः उष्णा तिक्तरसा ज्ञेया चक्षुष्या हेमकेतकी",
         "iast": "ketakaḥ kaṭukaḥ svādurlaghustiktaḥ kaphāpahaḥ uṣṇā tiktarasā jñeyā cakṣuṣyā hemaketakī",
         "iast_ru": "кетаках̣ кат̣уках̣ сва̄дурлагхустиктах̣ капха̄пахах̣ уш̣н̣а̄ тиктараса̄ джн̃ейа̄ чакш̣уш̣йа̄ хемакетакӣ",
-        "text": "Кетака остр, сладок, легок, горек, устраняет капху; хема-кетаки же известна как горячая, с горьким вкусом, полезная для глаз."
+        "text": "Кетака остр, сладок, легок, горек, устраняет капху; хема-кетаки же известна как горячая, с горьким вкусом, полезная для глаз.",
+        "text_en": "Ketaka is pungent, sweet, light and bitter, and removes Kapha; Hema-ketaki, however, is known to be hot, with a bitter taste, beneficial for the eyes."
       },
       {
         "type": "verse",
@@ -26620,7 +26906,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "किङ्किरातो हेमगौरः पीतकः पीतभद्र कः",
         "iast": "kiṅkirāto hemagauraḥ pītakaḥ pītabhadra kaḥ",
         "iast_ru": "кин̇кира̄то хемагаурах̣ пӣтаках̣ пӣтабхадра ках̣",
-        "text": "Кинкирата называется хема-гаура, питака, пита-бхадрака."
+        "text": "Кинкирата называется хема-гаура, питака, пита-бхадрака.",
+        "text_en": "Kinkirata is called Hema-gaura, Pitaka, Pita-bhadraka."
       },
       {
         "type": "verse",
@@ -26628,7 +26915,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "किङ्किरातो हिमस्तिक्तः कषायश्च हरेदसौ कफपित्तपिपासाऽस्रदाहशोषवमिक्रिमीन्",
         "iast": "kiṅkirāto himastiktaḥ kaṣāyaśca haredasau kaphapittapipāsā'sradāhaśoṣavamikrimīn",
         "iast_ru": "кин̇кира̄то химастиктах̣ каш̣а̄йаш́ча харедасау капхапиттапипа̄са̄'срада̄хаш́ош̣авамикримӣн",
-        "text": "Кинкирата холоден, горек, вяжущ; устраняет капху, питту, жажду, кровяные расстройства, жжение, истощение, рвоту и паразитов."
+        "text": "Кинкирата холоден, горек, вяжущ; устраняет капху, питту, жажду, кровяные расстройства, жжение, истощение, рвоту и паразитов.",
+        "text_en": "Kinkirata is cold, bitter and astringent; it removes Kapha, Pitta, thirst, blood disorders, burning sensation, emaciation, vomiting and worms."
       },
       {
         "type": "verse",
@@ -26636,7 +26924,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णिकारः परिव्याधः पादपोत्पल इत्यपि कर्णिकारः कटुस्तिक्तस्तुवरो शोधनो लघुः रञ्जनः सुखदः शोथश्लेष्मास्रव्रणकुष्ठजित्",
         "iast": "karṇikāraḥ parivyādhaḥ pādapotpala ityapi karṇikāraḥ kaṭustiktastuvaro śodhano laghuḥ rañjanaḥ sukhadaḥ śothaśleṣmāsravraṇakuṣṭhajit",
         "iast_ru": "карн̣ика̄рах̣ паривйа̄дхах̣ па̄дапотпала итйапи карн̣ика̄рах̣ кат̣устиктастуваро ш́одхано лагхух̣ ран̃джанах̣ сукхадах̣ ш́отхаш́леш̣ма̄сравран̣акуш̣т̣хаджит",
-        "text": "Карникара называется паривьядха, падапотпала; остр, горек, вяжущ, очищающ, легок, окрашивающ, приятен; устраняет отёки, капху, расстройства крови, раны и кожные болезни."
+        "text": "Карникара называется паривьядха, падапотпала; остр, горек, вяжущ, очищающ, легок, окрашивающ, приятен; устраняет отёки, капху, расстройства крови, раны и кожные болезни.",
+        "text_en": "Karnikara is called Parivyadha, Padapotpala; it is pungent, bitter, astringent, cleansing, light, coloring and pleasant; it removes edema, Kapha, blood disorders, wounds and skin diseases."
       },
       {
         "type": "verse",
@@ -26644,7 +26933,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अशोको हेमपुष्पश्च वञ्जुलस्ताम्रपल्लवः कङ्केलि पिण्डपुष्पश्च गन्धपुष्पो नटस्तथा",
         "iast": "aśoko hemapuṣpaśca vañjulastāmrapallavaḥ kaṅkeli piṇḍapuṣpaśca gandhapuṣpo naṭastathā",
         "iast_ru": "аш́око хемапуш̣паш́ча ван̃джуласта̄мрапаллавах̣ кан̇кели пин̣д̣апуш̣паш́ча гандхапуш̣по нат̣астатха̄",
-        "text": "Ашока называется хема-пушпа, ванджула, тамра-паллава, канкели, пинда-пушпа, гандха-пушпа, ната."
+        "text": "Ашока называется хема-пушпа, ванджула, тамра-паллава, канкели, пинда-пушпа, гандха-пушпа, ната.",
+        "text_en": "Ashoka is called Hema-pushpa, Vanjula, Tamra-pallava, Kankeli, Pinda-pushpa, Gandha-pushpa, Nata."
       },
       {
         "type": "verse",
@@ -26652,7 +26942,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अशोकः शीतलस्तिक्तो ग्राही वर्ण्यः कषायकः दोषापचीतृषादाहकृमिशोषविषास्रजित्",
         "iast": "aśokaḥ śītalastikto grāhī varṇyaḥ kaṣāyakaḥ doṣāpacītṛṣādāhakṛmiśoṣaviṣāsrajit",
         "iast_ru": "аш́оках̣ ш́ӣталастикто гра̄хӣ варн̣йах̣ каш̣а̄йаках̣ дош̣а̄пачӣтр̣ш̣а̄да̄хакр̣миш́ош̣авиш̣а̄сраджит",
-        "text": "Ашока холоден, горек, закрепляющ, улучшает цвет кожи, вяжущ; устраняет доши, лимфаденит, жажду, жжение, паразитов, истощение, яд и расстройства крови."
+        "text": "Ашока холоден, горек, закрепляющ, улучшает цвет кожи, вяжущ; устраняет доши, лимфаденит, жажду, жжение, паразитов, истощение, яд и расстройства крови.",
+        "text_en": "Ashoka is cold, bitter, constipating, improves the complexion, and is astringent; it removes the doshas, lymphadenitis, thirst, burning sensation, worms, emaciation, poison and blood disorders."
       },
       {
         "type": "verse",
@@ -26660,7 +26951,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अम्लातोऽम्लाटनः प्रोक्तस्तथाऽम्लातक इत्यपि",
         "iast": "amlāto'mlāṭanaḥ proktastathā'mlātaka ityapi",
         "iast_ru": "амла̄то'мла̄т̣анах̣ проктастатха̄'мла̄така итйапи",
-        "text": "Амлата называется амлатана, а также амлатака."
+        "text": "Амлата называется амлатана, а также амлатака.",
+        "text_en": "Amlata is called Amlatana, and also Amlataka."
       },
       {
         "type": "verse",
@@ -26668,7 +26960,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुरण्टको वर्णपुष्पः स एवोक्तो महासहः अम्लाटनः कषायोष्णः स्निग्धः स्वादुश्च तिक्तकः",
         "iast": "kuraṇṭako varṇapuṣpaḥ sa evokto mahāsahaḥ amlāṭanaḥ kaṣāyoṣṇaḥ snigdhaḥ svāduśca tiktakaḥ",
         "iast_ru": "куран̣т̣ако варн̣апуш̣пах̣ са евокто маха̄сахах̣ амла̄т̣анах̣ каш̣а̄йош̣н̣ах̣ снигдхах̣ сва̄душ́ча тиктаках̣",
-        "text": "Курантака называется варна-пушпа, маха-саха; амлатана вяжущ, горяч, маслянист, сладок и горек."
+        "text": "Курантака называется варна-пушпа, маха-саха; амлатана вяжущ, горяч, маслянист, сладок и горек.",
+        "text_en": "Kurantaka is called Varna-pushpa, Maha-saha; Amlatana is astringent, hot, unctuous, sweet and bitter."
       },
       {
         "type": "verse",
@@ -26676,7 +26969,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सैरेयकः श्वेतपुष्पः सैरेयः कटसारिका सहाचरः सहचरः स च भिन्द्यपि कथ्यते",
         "iast": "saireyakaḥ śvetapuṣpaḥ saireyaḥ kaṭasārikā sahācaraḥ sahacaraḥ sa ca bhindyapi kathyate",
         "iast_ru": "саирейаках̣ ш́ветапуш̣пах̣ саирейах̣ кат̣аса̄рика̄ саха̄чарах̣ сахачарах̣ са ча бхиндйапи катхйате",
-        "text": "Сайрейака называется белоцветковым сайреей, катасарикой; сахачара называется сахачара, а также бхинди."
+        "text": "Сайрейака называется белоцветковым сайреей, катасарикой; сахачара называется сахачара, а также бхинди.",
+        "text_en": "Saireyaka is called the white-flowered Saireya, Katasarika; Sahachara is called Sahachara, and also Bhindi."
       },
       {
         "type": "verse",
@@ -26684,7 +26978,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुरण्टकोऽत्रपीते स्याद्र क्त कुरबकः स्मृतः नीले बाणा द्वयोरुक्तो दासी चार्त्तगलश्च सः",
         "iast": "kuraṇṭako'trapīte syādra kta kurabakaḥ smṛtaḥ nīle bāṇā dvayorukto dāsī cārttagalaśca saḥ",
         "iast_ru": "куран̣т̣ако'трапӣте сйа̄дра кта курабаках̣ смр̣тах̣ нӣле ба̄н̣а̄ двайорукто да̄сӣ ча̄рттагалаш́ча сах̣",
-        "text": "Курантака в жёлтом виде — курантака; в красном виде называется куравака; в синем — бана; у обоих видов также встречаются названия даси и артагала."
+        "text": "Курантака в жёлтом виде — курантака; в красном виде называется куравака; в синем — бана; у обоих видов также встречаются названия даси и артагала.",
+        "text_en": "Kurantaka in its yellow form is Kurantaka; in its red form it is called Kuravaka; in its blue form, Bana; in both kinds the names Dasi and Artagala are also found."
       },
       {
         "type": "verse",
@@ -26692,7 +26987,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "र्स्यैः! कुष्ठवातास्रकफकण्डूविषापहः तिक्तोष्णो मधुरोऽनम्लः सुस्निग्धः केशरञ्जनः",
         "iast": "rsyaiḥ! kuṣṭhavātāsrakaphakaṇḍūviṣāpahaḥ tiktoṣṇo madhuro'namlaḥ susnigdhaḥ keśarañjanaḥ",
         "iast_ru": "рсйаих̣! куш̣т̣хава̄та̄сракапхакан̣д̣ӯвиш̣а̄пахах̣ тиктош̣н̣о мадхуро'намлах̣ суснигдхах̣ кеш́аран̃джанах̣",
-        "text": "...устраняет кожные болезни, ватху, расстройства крови, капху, зуд и яд; горек, горяч, сладок, не кисл, весьма маслянист; окрашивает волосы."
+        "text": "...устраняет кожные болезни, ватху, расстройства крови, капху, зуд и яд; горек, горяч, сладок, не кисл, весьма маслянист; окрашивает волосы.",
+        "text_en": "...it removes skin diseases, Vata, blood disorders, Kapha, itching and poison; it is bitter, hot, sweet, not sour, very unctuous; it dyes the hair."
       },
       {
         "type": "comment",
@@ -26705,7 +27001,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुन्दं तु कथितं माध्यं सदापुष्पञ्च तत्स्मृतम् कुन्दं शीतं लघु श्लेष्मशिरोरुग्विषपित्तहृत्",
         "iast": "kundaṃ tu kathitaṃ mādhyaṃ sadāpuṣpañca tatsmṛtam kundaṃ śītaṃ laghu śleṣmaśirorugviṣapittahṛt",
         "iast_ru": "кундам̣ ту катхитам̣ ма̄дхйам̣ сада̄пуш̣пан̃ча татсмр̣там кундам̣ ш́ӣтам̣ лагху ш́леш̣маш́ироругвиш̣апиттахр̣т",
-        "text": "Кунда называется мадхья, а также сада-пушпа («вечноцветущий»); кунда холоден, лёгок, устраняет капху, головную боль, яд и питту."
+        "text": "Кунда называется мадхья, а также сада-пушпа («вечноцветущий»); кунда холоден, лёгок, устраняет капху, головную боль, яд и питту.",
+        "text_en": "Kunda is called Madhya, and also Sada-pushpa (\"ever-flowering\"); Kunda is cold and light, and removes Kapha, headache, poison and Pitta."
       },
       {
         "type": "verse",
@@ -26713,7 +27010,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुचुकुन्दः क्षत्रवृक्षश्चित्रकः प्रतिविष्णुकः मुचुकुन्दः शिरःपीडापित्तास्रविषनाशनः",
         "iast": "mucukundaḥ kṣatravṛkṣaścitrakaḥ prativiṣṇukaḥ mucukundaḥ śiraḥpīḍāpittāsraviṣanāśanaḥ",
         "iast_ru": "мучукундах̣ кш̣атравр̣кш̣аш́читраках̣ пративиш̣н̣уках̣ мучукундах̣ ш́ирах̣пӣд̣а̄питта̄сравиш̣ана̄ш́анах̣",
-        "text": "Мучукунда называется кшатра-вркша, читрака, пративишнука; устраняет головную боль, питту, расстройства крови и яд."
+        "text": "Мучукунда называется кшатра-вркша, читрака, пративишнука; устраняет головную боль, питту, расстройства крови и яд.",
+        "text_en": "Muchukunda is called Kshatra-vriksha, Chitraka, Prativishnuka; it removes headache, Pitta, blood disorders and poison."
       },
       {
         "type": "verse",
@@ -26721,7 +27019,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिलकः क्षुरकः श्रीमान्पुरुषश्छिन्नपुष्पकः तिलकः कटुकः पाके रसे चोष्णो रसायनः कफकुष्ठक्रिमीन्वस्तिमुखदन्तगदान्हरेत्",
         "iast": "tilakaḥ kṣurakaḥ śrīmānpuruṣaśchinnapuṣpakaḥ tilakaḥ kaṭukaḥ pāke rase coṣṇo rasāyanaḥ kaphakuṣṭhakrimīnvastimukhadantagadānharet",
         "iast_ru": "тилаках̣ кш̣ураках̣ ш́рӣма̄нпуруш̣аш́чхиннапуш̣паках̣ тилаках̣ кат̣уках̣ па̄ке расе чош̣н̣о раса̄йанах̣ капхакуш̣т̣хакримӣнвастимукхадантагада̄нхарет",
-        "text": "Тилака называется кшурака, шриман, пуруша, чхинна-пушпака; тилака остр после переваривания, горяч, омолаживающ; устраняет капху, кожные болезни, паразитов, болезни мочевого пузыря, рта и зубов."
+        "text": "Тилака называется кшурака, шриман, пуруша, чхинна-пушпака; тилака остр после переваривания, горяч, омолаживающ; устраняет капху, кожные болезни, паразитов, болезни мочевого пузыря, рта и зубов.",
+        "text_en": "Tilaka is called Kshuraka, Shriman, Purusha, Chhinna-pushpaka; Tilaka is pungent after digestion, hot, and rejuvenating; it removes Kapha, skin diseases, worms, and diseases of the bladder, mouth and teeth."
       },
       {
         "type": "verse",
@@ -26729,7 +27028,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बन्धूको बन्धुजीवश्च रक्तो माध्याह्निकोऽपि च बन्धूकः कफकृद् ग्राही वातपित्तहरो लघुः",
         "iast": "bandhūko bandhujīvaśca rakto mādhyāhniko'pi ca bandhūkaḥ kaphakṛd grāhī vātapittaharo laghuḥ",
         "iast_ru": "бандхӯко бандхуджӣваш́ча ракто ма̄дхйа̄хнико'пи ча бандхӯках̣ капхакр̣д гра̄хӣ ва̄тапиттахаро лагхух̣",
-        "text": "Бандхука называется бандху-джива, ракта, мадхьяхника; бандхука увеличивает капху, закрепляющ, устраняет ватху и питту, лёгок."
+        "text": "Бандхука называется бандху-джива, ракта, мадхьяхника; бандхука увеличивает капху, закрепляющ, устраняет ватху и питту, лёгок.",
+        "text_en": "Bandhuka is called Bandhu-jiva, Rakta, Madhyahnika; Bandhuka increases Kapha, is constipating, removes Vata and Pitta, and is light."
       },
       {
         "type": "verse",
@@ -26737,7 +27037,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ओड्रपुष्पं जपा चाथ त्रिसन्ध्या साऽरुणा सिता जपा संग्राहिणी केश्या त्रिसन्ध्या कफवातजित्",
         "iast": "oḍrapuṣpaṃ japā cātha trisandhyā sā'ruṇā sitā japā saṃgrāhiṇī keśyā trisandhyā kaphavātajit",
         "iast_ru": "од̣рапуш̣пам̣ джапа̄ ча̄тха трисандхйа̄ са̄'рун̣а̄ сита̄ джапа̄ сам̣гра̄хин̣ӣ кеш́йа̄ трисандхйа̄ капхава̄таджит",
-        "text": "Одра-пушпа, джапа (гибискус), трисандхья — синонимы; она бывает алой и белой; джапа закрепляюща и полезна для волос; трисандхья устраняет капху и ватху."
+        "text": "Одра-пушпа, джапа (гибискус), трисандхья — синонимы; она бывает алой и белой; джапа закрепляюща и полезна для волос; трисандхья устраняет капху и ватху.",
+        "text_en": "Odra-pushpa, Japa (hibiscus), Trisandhya are synonyms; it is scarlet and white; Japa is constipating and beneficial for the hair; Trisandhya removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -26745,7 +27046,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिन्दूरी रक्तबीजा च रक्तपुष्पा सुकोमला सिन्दूरी विषपित्तास्रतृष्णावान्तिहरी हिमा",
         "iast": "sindūrī raktabījā ca raktapuṣpā sukomalā sindūrī viṣapittāsratṛṣṇāvāntiharī himā",
         "iast_ru": "синдӯрӣ рактабӣджа̄ ча рактапуш̣па̄ сукомала̄ синдӯрӣ виш̣апитта̄сратр̣ш̣н̣а̄ва̄нтихарӣ хима̄",
-        "text": "Синдури называется ракта-биджа, ракта-пушпа; нежна; холодна и устраняет яд, питту, расстройства крови, жажду и рвоту."
+        "text": "Синдури называется ракта-биджа, ракта-пушпа; нежна; холодна и устраняет яд, питту, расстройства крови, жажду и рвоту.",
+        "text_en": "Sinduri is called Rakta-bija, Rakta-pushpa; it is delicate and cold, and removes poison, Pitta, blood disorders, thirst and vomiting."
       },
       {
         "type": "verse",
@@ -26753,7 +27055,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथागस्त्यो वङ्गसेनो मुनिपुष्पो मुनिद्रुमः",
         "iast": "athāgastyo vaṅgaseno munipuṣpo munidrumaḥ",
         "iast_ru": "атха̄гастйо ван̇гасено мунипуш̣по мунидрумах̣",
-        "text": "Агастья называется вангасена, муни-пушпа, муни-друма."
+        "text": "Агастья называется вангасена, муни-пушпа, муни-друма.",
+        "text_en": "Agastya is called Vangasena, Muni-pushpa, Muni-druma."
       },
       {
         "type": "verse",
@@ -26761,7 +27064,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अगस्तिः पित्तकफजिच्चातुर्थिकहरो हिमः रूक्षो वातकरस्तिक्तः प्रतिश्यायनिवारणः",
         "iast": "agastiḥ pittakaphajiccāturthikaharo himaḥ rūkṣo vātakarastiktaḥ pratiśyāyanivāraṇaḥ",
         "iast_ru": "агастих̣ питтакапхаджичча̄туртхикахаро химах̣ рӯкш̣о ва̄такарастиктах̣ пратиш́йа̄йанива̄ран̣ах̣",
-        "text": "Агастья устраняет питту и капху, а также четырёхдневную лихорадку; холоден, суховат, увеличивает ватху, горек; предотвращает насморк."
+        "text": "Агастья устраняет питту и капху, а также четырёхдневную лихорадку; холоден, суховат, увеличивает ватху, горек; предотвращает насморк.",
+        "text_en": "Agastya removes Pitta and Kapha, and also quartan fever; it is cold, somewhat dry, increases Vata, and is bitter; it prevents rhinitis."
       },
       {
         "type": "verse",
@@ -26769,7 +27073,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तुलसी सुरसा ग्राम्या सुलभा बहुमञ्जरी अपेतराक्षसी गौरी भूतघ्नी देवदुन्दभिः",
         "iast": "tulasī surasā grāmyā sulabhā bahumañjarī apetarākṣasī gaurī bhūtaghnī devadundabhiḥ",
         "iast_ru": "туласӣ сураса̄ гра̄мйа̄ сулабха̄ бахуман̃джарӣ апетара̄кш̣асӣ гаурӣ бхӯтагхнӣ девадундабхих̣",
-        "text": "Туласи называется сураса, грамья, сулабха, баху-манджари, апетаракшаси, гаури, бхутагхни, девадундабхи."
+        "text": "Туласи называется сураса, грамья, сулабха, баху-манджари, апетаракшаси, гаури, бхутагхни, девадундабхи.",
+        "text_en": "Tulasi is called Surasa, Gramya, Sulabha, Bahu-manjari, Apetarakshasi, Gauri, Bhutaghni, Devadundubhi."
       },
       {
         "type": "verse",
@@ -26777,7 +27082,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तुलसी कटुका तिक्ता हृद्योष्णा दाहपित्तकृत् दीपनी कुष्ठकृच्छ्रास्रपार्श्वरुक्कफवातजित् शुक्ला कृष्णा च तुलसी गुणैस्तुल्या प्रकीर्त्तिता",
         "iast": "tulasī kaṭukā tiktā hṛdyoṣṇā dāhapittakṛt dīpanī kuṣṭhakṛcchrāsrapārśvarukkaphavātajit śuklā kṛṣṇā ca tulasī guṇaistulyā prakīrttitā",
         "iast_ru": "туласӣ кат̣ука̄ тикта̄ хр̣дйош̣н̣а̄ да̄хапиттакр̣т дӣпанӣ куш̣т̣хакр̣ччхра̄срапа̄рш́варуккапхава̄таджит ш́укла̄ кр̣ш̣н̣а̄ ча туласӣ гун̣аистулйа̄ пракӣрттита̄",
-        "text": "Туласи остра, горька, приятна для сердца, горяча, вызывает жжение и питту; возбуждает пищеварительный огонь; устраняет кожные болезни, дизурию, расстройства крови, боль в боку, капху и ватху. Белая и чёрная туласи объявлены равными по свойствам."
+        "text": "Туласи остра, горька, приятна для сердца, горяча, вызывает жжение и питту; возбуждает пищеварительный огонь; устраняет кожные болезни, дизурию, расстройства крови, боль в боку, капху и ватху. Белая и чёрная туласи объявлены равными по свойствам.",
+        "text_en": "Tulasi is pungent, bitter, pleasant to the heart, hot, and causes burning sensation and Pitta; it kindles the digestive fire; it removes skin diseases, dysuria, blood disorders, pain in the flank, Kapha and Vata. White and black Tulasi are declared equal in properties."
       },
       {
         "type": "verse",
@@ -26785,7 +27091,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मारुतोऽसौ मरुबको मरुन्मरुरपि स्मृतः फणी फणिज्जकश्चापि प्रस्थपुष्पः समीरणः",
         "iast": "māruto'sau marubako marunmarurapi smṛtaḥ phaṇī phaṇijjakaścāpi prasthapuṣpaḥ samīraṇaḥ",
         "iast_ru": "ма̄руто'сау марубако марунмарурапи смр̣тах̣ пхан̣ӣ пхан̣иджджакаш́ча̄пи прастхапуш̣пах̣ самӣран̣ах̣",
-        "text": "Марубака называется марут, марун, мару, пхани, пханиджджака, прастха-пушпа, самирана."
+        "text": "Марубака называется марут, марун, мару, пхани, пханиджджака, прастха-пушпа, самирана.",
+        "text_en": "Marubaka is called Marut, Marun, Maru, Phani, Phanijjaka, Prastha-pushpa, Samirana."
       },
       {
         "type": "verse",
@@ -26793,7 +27100,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मरुदग्निप्रदो हृद्यस्तीक्ष्णोष्णः पित्तलो लघुः",
         "iast": "marudagniprado hṛdyastīkṣṇoṣṇaḥ pittalo laghuḥ",
         "iast_ru": "марудагнипрадо хр̣дйастӣкш̣н̣ош̣н̣ах̣ питтало лагхух̣",
-        "text": "Марубака усиливает пищеварительный огонь, приятен для сердца, остр и горяч, увеличивает питту, лёгок."
+        "text": "Марубака усиливает пищеварительный огонь, приятен для сердца, остр и горяч, увеличивает питту, лёгок.",
+        "text_en": "Marubaka enhances the digestive fire, is pleasant to the heart, pungent and hot, increases Pitta, and is light."
       },
       {
         "type": "verse",
@@ -26801,7 +27109,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कटुपाकरसो रुच्यस्तिक्तो रूक्षः सुगन्धिकः",
         "iast": "kaṭupākaraso rucyastikto rūkṣaḥ sugandhikaḥ",
         "iast_ru": "кат̣упа̄карасо ручйастикто рӯкш̣ах̣ сугандхиках̣",
-        "text": "После переваривания даёт острый вкус, приятен, горек, суховат, благоуханен."
+        "text": "После переваривания даёт острый вкус, приятен, горек, суховат, благоуханен.",
+        "text_en": "It is pungent in taste after digestion, pleasant, bitter, somewhat dry and fragrant."
       },
       {
         "type": "verse",
@@ -26809,7 +27118,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उक्तो दमनको दान्तो मुनिपुत्रस्तपोधनः गन्धोत्कटो ब्रह्मजटो विनीतः कलपत्रकः",
         "iast": "ukto damanako dānto muniputrastapodhanaḥ gandhotkaṭo brahmajaṭo vinītaḥ kalapatrakaḥ",
         "iast_ru": "укто даманако да̄нто мунипутрастаподханах̣ гандхоткат̣о брахмаджат̣о винӣтах̣ калапатраках̣",
-        "text": "Даманака называется данта, муни-путра, тапо-дхана, гандхотката, брахма-джата, винита, калапатрака."
+        "text": "Даманака называется данта, муни-путра, тапо-дхана, гандхотката, брахма-джата, винита, калапатрака.",
+        "text_en": "Damanaka is called Danta, Muni-putra, Tapo-dhana, Gandhotkata, Brahma-jata, Vinita, Kalapatraka."
       },
       {
         "type": "verse",
@@ -26817,7 +27127,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दमनस्तुवरस्तिक्तो हृद्यो वृष्यः सुगन्धिकः ग्रहणाद् विषकुष्ठास्रक्लेदकण्डूत्रिदोषजित्",
         "iast": "damanastuvarastikto hṛdyo vṛṣyaḥ sugandhikaḥ grahaṇād viṣakuṣṭhāsrakledakaṇḍūtridoṣajit",
         "iast_ru": "даманастуварастикто хр̣дйо вр̣ш̣йах̣ сугандхиках̣ грахан̣а̄д виш̣акуш̣т̣ха̄сракледакан̣д̣ӯтридош̣аджит",
-        "text": "Даманака вяжущ, горек, приятен для сердца, усиливает половую силу, благоуханен; при приёме внутрь устраняет яд, кожные болезни, расстройства крови, влажность, зуд и все три доши."
+        "text": "Даманака вяжущ, горек, приятен для сердца, усиливает половую силу, благоуханен; при приёме внутрь устраняет яд, кожные болезни, расстройства крови, влажность, зуд и все три доши.",
+        "text_en": "Damanaka is astringent, bitter, pleasant to the heart, enhances sexual potency, and is fragrant; taken internally, it removes poison, skin diseases, blood disorders, moisture, itching and all three doshas."
       },
       {
         "type": "verse",
@@ -26825,7 +27136,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बर्बरी तुवरी तुङ्गी खरपुष्पाऽजगन्धिका पर्णाशस्तत्र कृष्णे तु कठिल्लककुठेरकौ",
         "iast": "barbarī tuvarī tuṅgī kharapuṣpā'jagandhikā parṇāśastatra kṛṣṇe tu kaṭhillakakuṭherakau",
         "iast_ru": "барбарӣ туварӣ тун̇гӣ кхарапуш̣па̄'джагандхика̄ парн̣а̄ш́астатра кр̣ш̣н̣е ту кат̣хиллакакут̣херакау",
-        "text": "Барбари называется тувари, тунги, кхара-пушпа, аджагандхика, парнаша; чёрная её разновидность называется катхиллака или кутхерака."
+        "text": "Барбари называется тувари, тунги, кхара-пушпа, аджагандхика, парнаша; чёрная её разновидность называется катхиллака или кутхерака.",
+        "text_en": "Barbari is called Tuvari, Tungi, Khara-pushpa, Ajagandhika, Parnasha; its black variety is called Kathillaka or Kuttherka."
       },
       {
         "type": "verse",
@@ -26833,7 +27145,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्र शुक्लेऽजकः प्रोक्तो वटपत्रस्ततोऽपरः बर्बरीत्रितयं रूक्षं शीतं कटु विदाहि च",
         "iast": "tatra śukle'jakaḥ prokto vaṭapatrastato'paraḥ barbarītritayaṃ rūkṣaṃ śītaṃ kaṭu vidāhi ca",
         "iast_ru": "татра ш́укле'джаках̣ прокто ват̣апатрастато'парах̣ барбарӣтритайам̣ рӯкш̣ам̣ ш́ӣтам̣ кат̣у вида̄хи ча",
-        "text": "Белая её разновидность называется аджака, а иная — ватапатра; все три вида барбари суховаты, холодны, остры и вызывают жжение при переваривании."
+        "text": "Белая её разновидность называется аджака, а иная — ватапатра; все три вида барбари суховаты, холодны, остры и вызывают жжение при переваривании.",
+        "text_en": "Its white variety is called Ajaka, and another is Vatapatra; all three kinds of Barbari are somewhat dry, cold and pungent, and cause burning sensation on digestion."
       },
       {
         "type": "verse",
@@ -26841,7 +27154,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तीक्ष्णं रुचिकरं हृद्यं दीपनं लघुपाकि च पित्तलं कफवातास्रकण्डूकृमिविषापहम्",
         "iast": "tīkṣṇaṃ rucikaraṃ hṛdyaṃ dīpanaṃ laghupāki ca pittalaṃ kaphavātāsrakaṇḍūkṛmiviṣāpaham",
         "iast_ru": "тӣкш̣н̣ам̣ ручикарам̣ хр̣дйам̣ дӣпанам̣ лагхупа̄ки ча питталам̣ капхава̄та̄сракан̣д̣ӯкр̣мивиш̣а̄пахам",
-        "text": "Остры, возбуждают аппетит, приятны для сердца, усиливают пищеварительный огонь, легко перевариваются; увеличивают питту; устраняют капху, ватху, расстройства крови, зуд, паразитов и яд."
+        "text": "Остры, возбуждают аппетит, приятны для сердца, усиливают пищеварительный огонь, легко перевариваются; увеличивают питту; устраняют капху, ватху, расстройства крови, зуд, паразитов и яд.",
+        "text_en": "They are pungent, stimulate appetite, are pleasant to the heart, enhance the digestive fire, and are easily digested; they increase Pitta; they remove Kapha, Vata, blood disorders, itching, worms and poison."
       },
       {
         "type": "verse",
@@ -26849,7 +27163,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति श्रीमिश्रलटकन तनय श्रीमिश्रभाव विरचिते भावप्रकाशे मिश्रप्रकरणे पञ्चमः पुष्पवर्गः समाप्तः",
         "iast": "iti śrīmiśralaṭakana tanaya śrīmiśrabhāva viracite bhāvaprakāśe miśraprakaraṇe pañcamaḥ puṣpavargaḥ samāptaḥ",
         "iast_ru": "ити ш́рӣмиш́ралат̣акана танайа ш́рӣмиш́рабха̄ва вирачите бха̄вапрака̄ш́е миш́рапракаран̣е пан̃чамах̣ пуш̣паваргах̣ сама̄птах̣",
-        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаканы, в разделе о смешанных веществах (мишра-пракаране) завершается пятая группа — «Пушпа-варга» (группа цветов)."
+        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаканы, в разделе о смешанных веществах (мишра-пракаране) завершается пятая группа — «Пушпа-варга» (группа цветов).",
+        "text_en": "Thus ends the fifth group, the \"Pushpa-varga\" (group of flowers), in the section on mixed substances (mishra-prakarana) of the Bhavaprakasha, composed by the venerable Bhava, son of the venerable Mishra Latakana."
       }
     ]
   },
@@ -26867,7 +27182,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वटो रक्तफलः शृङ्गीन्यग्रोधः स्कन्धजो ध्रुवः क्षीरी वैश्रवणो वासो बहुपादो वनस्पतिः",
         "iast": "vaṭo raktaphalaḥ śṛṅgīnyagrodhaḥ skandhajo dhruvaḥ kṣīrī vaiśravaṇo vāso bahupādo vanaspatiḥ",
         "iast_ru": "ват̣о рактапхалах̣ ш́р̣н̇гӣнйагродхах̣ скандхаджо дхрувах̣ кш̣ӣрӣ ваиш́раван̣о ва̄со бахупа̄до ванаспатих̣",
-        "text": "Вата (баньян) называется рактапхала, шринги, ньягродха, скандхаджа, дхрува, кшири, вайшравана, васа, бахупада, ванаспати."
+        "text": "Вата (баньян) называется рактапхала, шринги, ньягродха, скандхаджа, дхрува, кшири, вайшравана, васа, бахупада, ванаспати.",
+        "text_en": "Vata (banyan) is called Raktaphala, Shringi, Nyagrodha, Skandhaja, Dhruva, Kshiri, Vaishravana, Vasa, Bahupada, Vanaspati."
       },
       {
         "type": "verse",
@@ -26875,7 +27191,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वटः शीतो गुरुर्ग्राही कफपित्तव्रणापहः वर्ण्यो विसर्पदाहघ्नः कषायो योनिदोषहृत्",
         "iast": "vaṭaḥ śīto gururgrāhī kaphapittavraṇāpahaḥ varṇyo visarpadāhaghnaḥ kaṣāyo yonidoṣahṛt",
         "iast_ru": "ват̣ах̣ ш́ӣто гурургра̄хӣ капхапиттавран̣а̄пахах̣ варн̣йо висарпада̄хагхнах̣ каш̣а̄йо йонидош̣ахр̣т",
-        "text": "Вата холодна, тяжела, закрепляюща; устраняет капху, питту и раны; улучшает цвет кожи, устраняет висарпу и жжение; вяжуща, устраняет болезни женских половых органов."
+        "text": "Вата холодна, тяжела, закрепляюща; устраняет капху, питту и раны; улучшает цвет кожи, устраняет висарпу и жжение; вяжуща, устраняет болезни женских половых органов.",
+        "text_en": "Vata is cold, heavy and constipating; it removes Kapha, Pitta and wounds; it improves the complexion, removes visarpa and burning sensation; it is astringent and removes diseases of the female genital organs."
       },
       {
         "type": "verse",
@@ -26883,7 +27200,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बोधिद्रुः पिप्पलोऽश्वत्थश्चलपत्रो गजाशनः पिप्पलो दुर्जरः शीतःपित्तश्लेष्मव्रणास्रजित् गुरुस्तुवरको रूक्षो वर्ण्यो योनिविशोधनः",
         "iast": "bodhidruḥ pippalo'śvatthaścalapatro gajāśanaḥ pippalo durjaraḥ śītaḥpittaśleṣmavraṇāsrajit gurustuvarako rūkṣo varṇyo yoniviśodhanaḥ",
         "iast_ru": "бодхидрух̣ пиппало'ш́ваттхаш́чалапатро гаджа̄ш́анах̣ пиппало дурджарах̣ ш́ӣтах̣питташ́леш̣мавран̣а̄сраджит гурустуварако рӯкш̣о варн̣йо йонивиш́одханах̣",
-        "text": "Бодхидру (священная фига) называется пиппала, ашваттха, чалапатра, гаджашана; трудноперевариваема, холодна, устраняет питту, капху, раны и расстройства крови; тяжела, вяжуща, суховата, улучшает цвет кожи, очищает женские половые органы."
+        "text": "Бодхидру (священная фига) называется пиппала, ашваттха, чалапатра, гаджашана; трудноперевариваема, холодна, устраняет питту, капху, раны и расстройства крови; тяжела, вяжуща, суховата, улучшает цвет кожи, очищает женские половые органы.",
+        "text_en": "Bodhidru (sacred fig) is called Pippala, Ashvattha, Chalapatra, Gajashana; it is difficult to digest, cold, and removes Pitta, Kapha, wounds and blood disorders; it is heavy, astringent, somewhat dry, improves the complexion, and cleanses the female genital organs."
       },
       {
         "type": "verse",
@@ -26891,7 +27209,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पारीषोऽन्य पलाशश्च कपिचूतः कमण्डलुः गर्दभाण्डः कन्दरालः कपीतनसुपार्श्वकौ",
         "iast": "pārīṣo'nya palāśaśca kapicūtaḥ kamaṇḍaluḥ gardabhāṇḍaḥ kandarālaḥ kapītanasupārśvakau",
         "iast_ru": "па̄рӣш̣о'нйа пала̄ш́аш́ча капичӯтах̣ каман̣д̣алух̣ гардабха̄н̣д̣ах̣ кандара̄лах̣ капӣтанасупа̄рш́вакау",
-        "text": "Париша называется иначе паласа, капичута, камандалу, гардабханда, кандарала, капитана, супаршвака."
+        "text": "Париша называется иначе паласа, капичута, камандалу, гардабханда, кандарала, капитана, супаршвака.",
+        "text_en": "Parisha is otherwise called Palasha, Kapichuta, Kamandalu, Gardabhanda, Kandarala, Kapitana, Suparshvaka."
       },
       {
         "type": "verse",
@@ -26899,7 +27218,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पारीषो दुर्जरः स्निग्धः कृमिशुक्रकफप्रदः फलेऽम्लो मधुरो मूले कषायस्वादुमज्जकः",
         "iast": "pārīṣo durjaraḥ snigdhaḥ kṛmiśukrakaphapradaḥ phale'mlo madhuro mūle kaṣāyasvādumajjakaḥ",
         "iast_ru": "па̄рӣш̣о дурджарах̣ снигдхах̣ кр̣миш́укракапхапрадах̣ пхале'мло мадхуро мӯле каш̣а̄йасва̄думаджджаках̣",
-        "text": "Париша трудноперевариваема, масляниста, увеличивает паразитов, семя и капху; кисла на вкус плодом, сладка корнем; мякоть её вяжуще-сладкая."
+        "text": "Париша трудноперевариваема, масляниста, увеличивает паразитов, семя и капху; кисла на вкус плодом, сладка корнем; мякоть её вяжуще-сладкая.",
+        "text_en": "Parisha is difficult to digest and unctuous, and increases worms, semen and Kapha; it is sour in taste in the fruit, sweet in the root; its pulp is astringent-sweet."
       },
       {
         "type": "verse",
@@ -26907,7 +27227,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नन्दीवृक्षोऽश्वत्थभेदः प्ररोही गजपादपः स्थालीवृक्षः क्षयतरुः क्षीरी च स्याद्वनस्पतिः",
         "iast": "nandīvṛkṣo'śvatthabhedaḥ prarohī gajapādapaḥ sthālīvṛkṣaḥ kṣayataruḥ kṣīrī ca syādvanaspatiḥ",
         "iast_ru": "нандӣвр̣кш̣о'ш́ваттхабхедах̣ прарохӣ гаджапа̄дапах̣ стха̄лӣвр̣кш̣ах̣ кш̣айатарух̣ кш̣ӣрӣ ча сйа̄дванаспатих̣",
-        "text": "Нандивркша — разновидность ашваттхи; называется прарохи, гаджападапа, стхаливркша, кшаятару, кшири, ванаспати."
+        "text": "Нандивркша — разновидность ашваттхи; называется прарохи, гаджападапа, стхаливркша, кшаятару, кшири, ванаспати.",
+        "text_en": "Nandivriksha is a variety of Ashvattha; it is called Prarohi, Gajapadapa, Sthalivriksha, Kshayataru, Kshiri, Vanaspati."
       },
       {
         "type": "verse",
@@ -26915,7 +27236,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नन्दीवृक्षो लघुः स्वादुस्तिक्तस्तुवर उष्णकः कटुपाकरसो ग्राही विषपित्तकफास्रजित्",
         "iast": "nandīvṛkṣo laghuḥ svādustiktastuvara uṣṇakaḥ kaṭupākaraso grāhī viṣapittakaphāsrajit",
         "iast_ru": "нандӣвр̣кш̣о лагхух̣ сва̄дустиктастувара уш̣н̣аках̣ кат̣упа̄карасо гра̄хӣ виш̣апиттакапха̄сраджит",
-        "text": "Нандивркша легка, сладка, горька, вяжуща, горяча; после переваривания даёт острый вкус; закрепляюща; устраняет яд, питту, капху и расстройства крови."
+        "text": "Нандивркша легка, сладка, горька, вяжуща, горяча; после переваривания даёт острый вкус; закрепляюща; устраняет яд, питту, капху и расстройства крови.",
+        "text_en": "Nandivriksha is light, sweet, bitter, astringent and hot; it is pungent in taste after digestion; it is constipating; it removes poison, Pitta, Kapha and blood disorders."
       },
       {
         "type": "verse",
@@ -26923,7 +27245,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उदुम्बरो जन्तुफलो यज्ञाङ्गो हेमदुग्धकः",
         "iast": "udumbaro jantuphalo yajñāṅgo hemadugdhakaḥ",
         "iast_ru": "удумбаро джантупхало йаджн̃а̄н̇го хемадугдхаках̣",
-        "text": "Удумбара (фикус) называется джантупхала, яджнянга, хемадугдхака."
+        "text": "Удумбара (фикус) называется джантупхала, яджнянга, хемадугдхака.",
+        "text_en": "Udumbara (fig) is called Jantuphala, Yajnyanga, Hemadugdhaka."
       },
       {
         "type": "verse",
@@ -26931,7 +27254,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उदुम्बरो हिमो रूक्षो गुरुः पित्तकफास्रजित् मधुरस्तुवरो वर्ण्यो व्रणशोधनरोपणः",
         "iast": "udumbaro himo rūkṣo guruḥ pittakaphāsrajit madhurastuvaro varṇyo vraṇaśodhanaropaṇaḥ",
         "iast_ru": "удумбаро химо рӯкш̣о гурух̣ питтакапха̄сраджит мадхурастуваро варн̣йо вран̣аш́одханаропан̣ах̣",
-        "text": "Удумбара холодна, суховата, тяжела, устраняет питту, капху и расстройства крови; сладко-вяжуща, улучшает цвет кожи, очищает и заживляет раны."
+        "text": "Удумбара холодна, суховата, тяжела, устраняет питту, капху и расстройства крови; сладко-вяжуща, улучшает цвет кожи, очищает и заживляет раны.",
+        "text_en": "Udumbara is cold, somewhat dry and heavy, and removes Pitta, Kapha and blood disorders; it is sweet-astringent, improves the complexion, and cleanses and heals wounds."
       },
       {
         "type": "verse",
@@ -26939,7 +27263,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काकोदुम्बरिका फल्गुर्मलयूर्जघनेफला मलयुः स्तम्भकृत्तिक्ता शीतला तुवरा जयेत् कफपित्तव्रणश्वित्रकुष्ठपाण्ड्वर्शकामलाः",
         "iast": "kākodumbarikā phalgurmalayūrjaghanephalā malayuḥ stambhakṛttiktā śītalā tuvarā jayet kaphapittavraṇaśvitrakuṣṭhapāṇḍvarśakāmalāḥ",
         "iast_ru": "ка̄кодумбарика̄ пхалгурмалайӯрджагханепхала̄ малайух̣ стамбхакр̣ттикта̄ ш́ӣтала̄ тувара̄ джайет капхапиттавран̣аш́витракуш̣т̣хапа̄н̣д̣варш́ака̄мала̄х̣",
-        "text": "Какодумбарика называется пхалгу, малаю, джагханепхала; малаю закрепляет, горька, холодна, вяжуща; побеждает капху, питту, раны, витилиго, кожные болезни, анемию, геморрой и желтуху."
+        "text": "Какодумбарика называется пхалгу, малаю, джагханепхала; малаю закрепляет, горька, холодна, вяжуща; побеждает капху, питту, раны, витилиго, кожные болезни, анемию, геморрой и желтуху.",
+        "text_en": "Kakodumbarika is called Phalgu, Malayu, Jaghanephala; Malayu is constipating, bitter, cold and astringent; it overcomes Kapha, Pitta, wounds, vitiligo, skin diseases, anemia, piles and jaundice."
       },
       {
         "type": "verse",
@@ -26947,7 +27272,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्लक्षो जटी पर्करी च पर्कटी च स्त्रियामपि",
         "iast": "plakṣo jaṭī parkarī ca parkaṭī ca striyāmapi",
         "iast_ru": "плакш̣о джат̣ӣ паркарӣ ча паркат̣ӣ ча стрийа̄мапи",
-        "text": "Плакша (баньян/фикус) называется джати; в женском роде — паркари и паркати."
+        "text": "Плакша (баньян/фикус) называется джати; в женском роде — паркари и паркати.",
+        "text_en": "Plaksha (wavy-leaf fig) is called Jati; in the feminine, Parkari and Parkati."
       },
       {
         "type": "verse",
@@ -26955,7 +27281,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्लक्षः कषायः शिशिरो व्रणयोनिगदापहः दाहपित्तकफास्रघ्नः शोथहा रक्तपित्तहृत्",
         "iast": "plakṣaḥ kaṣāyaḥ śiśiro vraṇayonigadāpahaḥ dāhapittakaphāsraghnaḥ śothahā raktapittahṛt",
         "iast_ru": "плакш̣ах̣ каш̣а̄йах̣ ш́иш́иро вран̣айонигада̄пахах̣ да̄хапиттакапха̄срагхнах̣ ш́отхаха̄ рактапиттахр̣т",
-        "text": "Плакша вяжуща, холодна, устраняет раны и болезни женских половых органов; устраняет жжение, питту, капху и расстройства крови; устраняет отёк и кровяную питту."
+        "text": "Плакша вяжуща, холодна, устраняет раны и болезни женских половых органов; устраняет жжение, питту, капху и расстройства крови; устраняет отёк и кровяную питту.",
+        "text_en": "Plaksha is astringent and cold, and removes wounds and diseases of the female genital organs; it removes burning sensation, Pitta, Kapha and blood disorders; it removes edema and blood-Pitta disorders."
       },
       {
         "type": "verse",
@@ -26963,7 +27290,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरीषो भण्डिलो भण्डी भण्डीरश्च कपीतनः शुकपुष्पः शुकतरुर्मृदुपुष्पः शुकप्रियः",
         "iast": "śirīṣo bhaṇḍilo bhaṇḍī bhaṇḍīraśca kapītanaḥ śukapuṣpaḥ śukatarurmṛdupuṣpaḥ śukapriyaḥ",
         "iast_ru": "ш́ирӣш̣о бхан̣д̣ило бхан̣д̣ӣ бхан̣д̣ӣраш́ча капӣтанах̣ ш́укапуш̣пах̣ ш́укатарурмр̣дупуш̣пах̣ ш́укаприйах̣",
-        "text": "Шириша называется бхандила, бханди, бхандира, капитана, шукапушпа, шукатару, мридупушпа, шукаприя."
+        "text": "Шириша называется бхандила, бханди, бхандира, капитана, шукапушпа, шукатару, мридупушпа, шукаприя.",
+        "text_en": "Shirisha is called Bhandila, Bhandi, Bhandira, Kapitana, Shukapushpa, Shukataru, Mridupushpa, Shukapriya."
       },
       {
         "type": "verse",
@@ -26971,7 +27299,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरीषो मधुरोऽनुष्णस्तिक्तश्च तुवरो लघुः दोषशोथविसर्पघ्नः कासव्रणविषापहः",
         "iast": "śirīṣo madhuro'nuṣṇastiktaśca tuvaro laghuḥ doṣaśothavisarpaghnaḥ kāsavraṇaviṣāpahaḥ",
         "iast_ru": "ш́ирӣш̣о мадхуро'нуш̣н̣астикташ́ча туваро лагхух̣ дош̣аш́отхависарпагхнах̣ ка̄савран̣авиш̣а̄пахах̣",
-        "text": "Шириша сладка, не горяча, горька, вяжуща, легка; устраняет доши, отёк и висарпу; устраняет кашель, раны и яд."
+        "text": "Шириша сладка, не горяча, горька, вяжуща, легка; устраняет доши, отёк и висарпу; устраняет кашель, раны и яд.",
+        "text_en": "Shirisha is sweet, not hot, bitter, astringent and light; it removes the doshas, edema and visarpa; it removes cough, wounds and poison."
       },
       {
         "type": "verse",
@@ -26979,7 +27308,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथ क्षीरिवृक्षपञ्चकं त्वक्पञ्चकञ्च न्यग्रोधोदुम्बराश्वत्थपारीषप्लक्षपादपाः पञ्चैते क्षीरिणो वृक्षास्तेषां त्वक्पञ्चवल्कलम्",
         "iast": "atha kṣīrivṛkṣapañcakaṃ tvakpañcakañca nyagrodhodumbarāśvatthapārīṣaplakṣapādapāḥ pañcaite kṣīriṇo vṛkṣāsteṣāṃ tvakpañcavalkalam",
         "iast_ru": "атха кш̣ӣривр̣кш̣апан̃чакам̣ твакпан̃чакан̃ча нйагродходумбара̄ш́ваттхапа̄рӣш̣аплакш̣апа̄дапа̄х̣ пан̃чаите кш̣ӣрин̣о вр̣кш̣а̄стеш̣а̄м̣ твакпан̃чавалкалам",
-        "text": "Далее — пятёрка млечных деревьев (кширивркша-панчака) и пятёрка их кор (твак-панчака): ньягродха, удумбара, ашваттха, париша и плакша — эти пять млечных деревьев; кора этих пяти составляет «панчавалкалу»."
+        "text": "Далее — пятёрка млечных деревьев (кширивркша-панчака) и пятёрка их кор (твак-панчака): ньягродха, удумбара, ашваттха, париша и плакша — эти пять млечных деревьев; кора этих пяти составляет «панчавалкалу».",
+        "text_en": "Next — the group of five milky trees (Kshirivriksha-panchaka) and the group of their five barks (Tvak-panchaka): Nyagrodha, Udumbara, Ashvattha, Parisha and Plaksha — these five are the milky trees; the bark of these five constitutes the \"Panchavalkala\"."
       },
       {
         "type": "verse",
@@ -26987,7 +27317,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षीरिवृक्षा हिमा वर्ण्या योनिरोगव्रणापहाः रूक्षाः कषाया मेदोघ्ना विसर्पामथनाशनाः",
         "iast": "kṣīrivṛkṣā himā varṇyā yonirogavraṇāpahāḥ rūkṣāḥ kaṣāyā medoghnā visarpāmathanāśanāḥ",
         "iast_ru": "кш̣ӣривр̣кш̣а̄ хима̄ варн̣йа̄ йонирогавран̣а̄паха̄х̣ рӯкш̣а̄х̣ каш̣а̄йа̄ медогхна̄ висарпа̄матхана̄ш́ана̄х̣",
-        "text": "Млечные деревья холодны, улучшают цвет кожи, устраняют болезни женских половых органов и раны; суховаты, вяжущи, устраняют жировую ткань, висарпу и брожение."
+        "text": "Млечные деревья холодны, улучшают цвет кожи, устраняют болезни женских половых органов и раны; суховаты, вяжущи, устраняют жировую ткань, висарпу и брожение.",
+        "text_en": "The milky trees are cold, improve the complexion, and remove diseases of the female genital organs and wounds; they are somewhat dry and astringent, and remove fat tissue, visarpa and fermentation."
       },
       {
         "type": "verse",
@@ -26995,7 +27326,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोथपित्तकफास्रघ्नाः स्तन्या भग्नास्थियोजकः त्वक्पञ्चकं हिमं ग्राहि व्रणशोथविसर्पजित्",
         "iast": "śothapittakaphāsraghnāḥ stanyā bhagnāsthiyojakaḥ tvakpañcakaṃ himaṃ grāhi vraṇaśothavisarpajit",
         "iast_ru": "ш́отхапиттакапха̄срагхна̄х̣ станйа̄ бхагна̄стхийоджаках̣ твакпан̃чакам̣ химам̣ гра̄хи вран̣аш́отхависарпаджит",
-        "text": "Устраняют отёк, питту, капху и расстройства крови; увеличивают молоко; способствуют сращиванию сломанных костей. Пятёрка кор холодна, закрепляюща; устраняет раны, отёк и висарпу."
+        "text": "Устраняют отёк, питту, капху и расстройства крови; увеличивают молоко; способствуют сращиванию сломанных костей. Пятёрка кор холодна, закрепляюща; устраняет раны, отёк и висарпу.",
+        "text_en": "They remove edema, Pitta, Kapha and blood disorders; they increase milk; they promote the knitting of broken bones. The group of five barks is cold and constipating; it removes wounds, edema and visarpa."
       },
       {
         "type": "verse",
@@ -27003,7 +27335,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तेषां पत्रं हिमं ग्राहि कफवातास्रनुल्लघु विष्टम्भाघ्मानजित्तिक्तं कषायं लघु लेखनम्",
         "iast": "teṣāṃ patraṃ himaṃ grāhi kaphavātāsranullaghu viṣṭambhāghmānajittiktaṃ kaṣāyaṃ laghu lekhanam",
         "iast_ru": "теш̣а̄м̣ патрам̣ химам̣ гра̄хи капхава̄та̄срануллагху виш̣т̣амбха̄гхма̄наджиттиктам̣ каш̣а̄йам̣ лагху лекханам",
-        "text": "Их листья холодны, закрепляющи, устраняют капху, ватху и расстройства крови, легки; устраняют вздутие и метеоризм; горьки, вяжущи, легки, соскабливающи."
+        "text": "Их листья холодны, закрепляющи, устраняют капху, ватху и расстройства крови, легки; устраняют вздутие и метеоризм; горьки, вяжущи, легки, соскабливающи.",
+        "text_en": "Their leaves are cold and constipating, remove Kapha, Vata and blood disorders, and are light; they remove distension and flatulence; they are bitter, astringent, light and scraping."
       },
       {
         "type": "verse",
@@ -27011,7 +27344,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शालस्तु सर्जकार्श्याश्वकर्णकाः शस्यशम्बरः अश्वकर्णः कषायः स्याद् व्रणस्वेदकफक्रिमीन् ब्रध्नविद्र धिबाधिर्ययोनिकर्णगदान् हरेत्",
         "iast": "śālastu sarjakārśyāśvakarṇakāḥ śasyaśambaraḥ aśvakarṇaḥ kaṣāyaḥ syād vraṇasvedakaphakrimīn bradhnavidra dhibādhiryayonikarṇagadān haret",
         "iast_ru": "ш́а̄ласту сарджака̄рш́йа̄ш́вакарн̣ака̄х̣ ш́асйаш́амбарах̣ аш́вакарн̣ах̣ каш̣а̄йах̣ сйа̄д вран̣асведакапхакримӣн брадхнавидра дхиба̄дхирйайоникарн̣агада̄н харет",
-        "text": "Шала (сал) называется сарджа, аршья, ашвакарнака, шасья-шамбара; ашвакарна вяжуща; устраняет раны, потливость, капху и паразитов; устраняет грыжу, абсцессы, глухоту и болезни женских половых органов и ушей."
+        "text": "Шала (сал) называется сарджа, аршья, ашвакарнака, шасья-шамбара; ашвакарна вяжуща; устраняет раны, потливость, капху и паразитов; устраняет грыжу, абсцессы, глухоту и болезни женских половых органов и ушей.",
+        "text_en": "Shala (sal) is called Sarja, Arshya, Ashvakarnaka, Shasya-shambara; Ashvakarna is astringent; it removes wounds, perspiration, Kapha and worms; it removes hernia, abscesses, deafness and diseases of the female genital organs and ears."
       },
       {
         "type": "verse",
@@ -27019,7 +27353,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्जकोऽन्योऽजकर्णः स्याच्छालो मरिचपत्रकः",
         "iast": "sarjako'nyo'jakarṇaḥ syācchālo maricapatrakaḥ",
         "iast_ru": "сарджако'нйо'джакарн̣ах̣ сйа̄ччха̄ло маричапатраках̣",
-        "text": "Иной сарджака называется аджакарна, шала, марича-патрака."
+        "text": "Иной сарджака называется аджакарна, шала, марича-патрака.",
+        "text_en": "Another Sarjaka is called Ajakarna, Shala, Marichapatraka."
       },
       {
         "type": "verse",
@@ -27027,7 +27362,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अजकर्णः कटुस्तिक्तः कषायोष्णो व्यपोहति कफपाण्डुश्रुतिगदान् मेहकुष्ठविषव्रणान्",
         "iast": "ajakarṇaḥ kaṭustiktaḥ kaṣāyoṣṇo vyapohati kaphapāṇḍuśrutigadān mehakuṣṭhaviṣavraṇān",
         "iast_ru": "аджакарн̣ах̣ кат̣устиктах̣ каш̣а̄йош̣н̣о вйапохати капхапа̄н̣д̣уш́рутигада̄н мехакуш̣т̣хавиш̣авран̣а̄н",
-        "text": "Аджакарна остра, горька, вяжуща, горяча; устраняет капху, анемию, болезни ушей, мочеизнурение, кожные болезни, яд и раны."
+        "text": "Аджакарна остра, горька, вяжуща, горяча; устраняет капху, анемию, болезни ушей, мочеизнурение, кожные болезни, яд и раны.",
+        "text_en": "Ajakarna is pungent, bitter, astringent and hot; it removes Kapha, anemia, diseases of the ears, diabetes (prameha), skin diseases, poison and wounds."
       },
       {
         "type": "verse",
@@ -27035,7 +27371,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शल्लकी गजभक्ष्या च सुवहा सुरभी रसा महेरुणा कुन्दुरुकी वल्लकी च बहुस्रवा",
         "iast": "śallakī gajabhakṣyā ca suvahā surabhī rasā maheruṇā kundurukī vallakī ca bahusravā",
         "iast_ru": "ш́аллакӣ гаджабхакш̣йа̄ ча суваха̄ сурабхӣ раса̄ махерун̣а̄ кундурукӣ валлакӣ ча бахусрава̄",
-        "text": "Шаллаки называется гаджабхакшья, суваха, сурабхи, раса, махеруна, кундуруки, валлаки, бахусрава."
+        "text": "Шаллаки называется гаджабхакшья, суваха, сурабхи, раса, махеруна, кундуруки, валлаки, бахусрава.",
+        "text_en": "Shallaki is called Gajabhakshya, Suvaha, Surabhi, Rasa, Maheruna, Kunduruki, Vallaki, Bahusrava."
       },
       {
         "type": "verse",
@@ -27043,7 +27380,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शल्लकी तुवरा शीता पित्तश्लेष्मातिसारजित् रक्तपित्तव्रणहरी पुष्टिकृत्समुदीरिता",
         "iast": "śallakī tuvarā śītā pittaśleṣmātisārajit raktapittavraṇaharī puṣṭikṛtsamudīritā",
         "iast_ru": "ш́аллакӣ тувара̄ ш́ӣта̄ питташ́леш̣ма̄тиса̄раджит рактапиттавран̣ахарӣ пуш̣т̣икр̣тсамудӣрита̄",
-        "text": "Шаллаки вяжуща, холодна; устраняет питту, капху и понос; устраняет кровяную питту и раны; провозглашена питательной."
+        "text": "Шаллаки вяжуща, холодна; устраняет питту, капху и понос; устраняет кровяную питту и раны; провозглашена питательной.",
+        "text_en": "Shallaki is astringent and cold; it removes Pitta, Kapha and diarrhea; it removes blood-Pitta disorders and wounds; it is declared to be nourishing."
       },
       {
         "type": "verse",
@@ -27051,7 +27389,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिंशपा पिच्छिला श्यामा कृष्णसारा च सा गुरु कपिला सैव मुनिभिर्भस्मगर्भेतिकीर्त्तिता",
         "iast": "śiṃśapā picchilā śyāmā kṛṣṇasārā ca sā guru kapilā saiva munibhirbhasmagarbhetikīrttitā",
         "iast_ru": "ш́им̣ш́апа̄ пиччхила̄ ш́йа̄ма̄ кр̣ш̣н̣аса̄ра̄ ча са̄ гуру капила̄ саива мунибхирбхасмагарбхетикӣрттита̄",
-        "text": "Шимшапа (дальбергия) слизиста, называется шьяма, кришнасара; тяжела; она же названа мудрецами капила, бхасмагарбха."
+        "text": "Шимшапа (дальбергия) слизиста, называется шьяма, кришнасара; тяжела; она же названа мудрецами капила, бхасмагарбха.",
+        "text_en": "Shimshapa (Dalbergia) is slimy, called Shyama, Krishnasara; it is heavy; it is also named by the sages Kapila, Bhasmagarbha."
       },
       {
         "type": "verse",
@@ -27059,7 +27398,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिंशपा कटुका तिक्ता कषाया शोषहारिणी उष्णवीर्या हरेन्मेदः कुष्ठश्वित्रवमिक्रिमीन् बस्तिरुग्व्रणदाहास्रबलासान् गर्भपातिनी",
         "iast": "śiṃśapā kaṭukā tiktā kaṣāyā śoṣahāriṇī uṣṇavīryā harenmedaḥ kuṣṭhaśvitravamikrimīn bastirugvraṇadāhāsrabalāsān garbhapātinī",
         "iast_ru": "ш́им̣ш́апа̄ кат̣ука̄ тикта̄ каш̣а̄йа̄ ш́ош̣аха̄рин̣ӣ уш̣н̣авӣрйа̄ харенмедах̣ куш̣т̣хаш́витравамикримӣн бастиругвран̣ада̄ха̄срабала̄са̄н гарбхапа̄тинӣ",
-        "text": "Шимшапа остра, горька, вяжуща, устраняет истощение; горяча по энергии; устраняет жировую ткань, кожные болезни, витилиго, рвоту и паразитов; устраняет боль в мочевом пузыре, раны, жжение, расстройства крови и слизь; вызывает выкидыш."
+        "text": "Шимшапа остра, горька, вяжуща, устраняет истощение; горяча по энергии; устраняет жировую ткань, кожные болезни, витилиго, рвоту и паразитов; устраняет боль в мочевом пузыре, раны, жжение, расстройства крови и слизь; вызывает выкидыш.",
+        "text_en": "Shimshapa is pungent, bitter and astringent, and removes emaciation; it is hot in potency; it removes fat tissue, skin diseases, vitiligo, vomiting and worms; it removes pain in the bladder, wounds, burning sensation, blood disorders and mucus; it causes abortion."
       },
       {
         "type": "verse",
@@ -27067,7 +27407,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ककुभोऽजुननामाख्यो नदीसर्जश्च कीर्त्तितः इन्द्र द्रुर्वीरवृक्षश्च वीरश्च धवलः स्मृतः",
         "iast": "kakubho'junanāmākhyo nadīsarjaśca kīrttitaḥ indra drurvīravṛkṣaśca vīraśca dhavalaḥ smṛtaḥ",
         "iast_ru": "какубхо'джунана̄ма̄кхйо надӣсарджаш́ча кӣрттитах̣ индра друрвӣравр̣кш̣аш́ча вӣраш́ча дхавалах̣ смр̣тах̣",
-        "text": "Какубха провозглашена именем арджуна; называется надисарджа, индрадру, вирвркша, вира, дхавала."
+        "text": "Какубха провозглашена именем арджуна; называется надисарджа, индрадру, вирвркша, вира, дхавала.",
+        "text_en": "Kakubha is declared to have the name Arjuna; it is called Nadisarja, Indradru, Virvriksha, Vira, Dhavala."
       },
       {
         "type": "verse",
@@ -27075,7 +27416,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुकुभः शीतलो हृद्यः क्षतक्षयविषास्रजित् मेदोमेहव्रणान् हन्ति तुवरः कफपित्तहृत्",
         "iast": "kukubhaḥ śītalo hṛdyaḥ kṣatakṣayaviṣāsrajit medomehavraṇān hanti tuvaraḥ kaphapittahṛt",
         "iast_ru": "кукубхах̣ ш́ӣтало хр̣дйах̣ кш̣атакш̣айавиш̣а̄сраджит медомехавран̣а̄н ханти туварах̣ капхапиттахр̣т",
-        "text": "Кукубха (арджуна) холодна, приятна для сердца; устраняет травмы, истощение, яд и расстройства крови; уничтожает жировую ткань, мочеизнурение и раны; вяжуща, устраняет капху и питту."
+        "text": "Кукубха (арджуна) холодна, приятна для сердца; устраняет травмы, истощение, яд и расстройства крови; уничтожает жировую ткань, мочеизнурение и раны; вяжуща, устраняет капху и питту.",
+        "text_en": "Kakubha (Arjuna) is cold and pleasant to the heart; it removes injuries, emaciation, poison and blood disorders; it destroys fat tissue, diabetes (prameha) and wounds; it is astringent, and removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -27083,7 +27425,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बीजकः पीतसारश्च पीतशालक इत्यपि बन्धूकपुष्पः प्रियकः सर्जकश्चासनः स्मृतः",
         "iast": "bījakaḥ pītasāraśca pītaśālaka ityapi bandhūkapuṣpaḥ priyakaḥ sarjakaścāsanaḥ smṛtaḥ",
         "iast_ru": "бӣджаках̣ пӣтаса̄раш́ча пӣташ́а̄лака итйапи бандхӯкапуш̣пах̣ прийаках̣ сарджакаш́ча̄санах̣ смр̣тах̣",
-        "text": "Биджака называется питасара, питашалака, бандхукапушпа, прияка, сарджака, асана."
+        "text": "Биджака называется питасара, питашалака, бандхукапушпа, прияка, сарджака, асана.",
+        "text_en": "Bijaka is called Pitasara, Pitashalaka, Bandhukapushpa, Priyaka, Sarjaka, Asana."
       },
       {
         "type": "verse",
@@ -27091,7 +27434,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बीजकः कुष्ठवीसर्पश्वित्रमेहगुद क्रिमीन् हन्ति श्लेष्मास्रपित्तञ्च त्वच्यः केश्यो रसायनः",
         "iast": "bījakaḥ kuṣṭhavīsarpaśvitramehaguda krimīn hanti śleṣmāsrapittañca tvacyaḥ keśyo rasāyanaḥ",
         "iast_ru": "бӣджаках̣ куш̣т̣хавӣсарпаш́витрамехагуда кримӣн ханти ш́леш̣ма̄срапиттан̃ча твачйах̣ кеш́йо раса̄йанах̣",
-        "text": "Биджака уничтожает кожные болезни, висарпу, витилиго, мочеизнурение, паразитов заднего прохода; устраняет капху, расстройства крови и питту; полезна для кожи и волос, омолаживающа."
+        "text": "Биджака уничтожает кожные болезни, висарпу, витилиго, мочеизнурение, паразитов заднего прохода; устраняет капху, расстройства крови и питту; полезна для кожи и волос, омолаживающа.",
+        "text_en": "Bijaka destroys skin diseases, visarpa, vitiligo, diabetes (prameha) and worms of the anus; it removes Kapha, blood disorders and Pitta; it is beneficial for the skin and hair, and rejuvenating."
       },
       {
         "type": "verse",
@@ -27099,7 +27443,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खदिरो रक्तसारश्च गायत्री दन्तधावनः कण्टकी बालपत्रश्च बहुशल्यश्च यज्ञियः",
         "iast": "khadiro raktasāraśca gāyatrī dantadhāvanaḥ kaṇṭakī bālapatraśca bahuśalyaśca yajñiyaḥ",
         "iast_ru": "кхадиро рактаса̄раш́ча га̄йатрӣ дантадха̄ванах̣ кан̣т̣акӣ ба̄лапатраш́ча бахуш́алйаш́ча йаджн̃ийах̣",
-        "text": "Кхадира (акация катеху) называется рактасара, гаятри, дантадхавана, кантаки, балапатра, бахушалья, яджния."
+        "text": "Кхадира (акация катеху) называется рактасара, гаятри, дантадхавана, кантаки, балапатра, бахушалья, яджния.",
+        "text_en": "Khadira (catechu acacia) is called Raktasara, Gayatri, Dantadhavana, Kantaki, Balapatra, Bahushalya, Yajnya."
       },
       {
         "type": "verse",
@@ -27107,7 +27452,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खदिरः शीतलो दन्त्यः कण्डूकासारुचिप्रणुत्",
         "iast": "khadiraḥ śītalo dantyaḥ kaṇḍūkāsārucipraṇut",
         "iast_ru": "кхадирах̣ ш́ӣтало дантйах̣ кан̣д̣ӯка̄са̄ручипран̣ут",
-        "text": "Кхадира холодна, полезна для зубов; устраняет зуд, кашель и отсутствие аппетита."
+        "text": "Кхадира холодна, полезна для зубов; устраняет зуд, кашель и отсутствие аппетита.",
+        "text_en": "Khadira is cold and beneficial for the teeth; it removes itching, cough and anorexia."
       },
       {
         "type": "verse",
@@ -27115,7 +27461,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिक्तः कषायो मेदोघ्नः कृमिमेहज्वरव्रणान् श्वित्रशोथामपित्तास्रपाण्डुकुष्ठकफान् हरेत्",
         "iast": "tiktaḥ kaṣāyo medoghnaḥ kṛmimehajvaravraṇān śvitraśothāmapittāsrapāṇḍukuṣṭhakaphān haret",
         "iast_ru": "тиктах̣ каш̣а̄йо медогхнах̣ кр̣мимехаджваравран̣а̄н ш́витраш́отха̄мапитта̄срапа̄н̣д̣укуш̣т̣хакапха̄н харет",
-        "text": "Горька, вяжуща, устраняет жировую ткань; уничтожает паразитов, мочеизнурение, лихорадку и раны; устраняет витилиго, отёк, аму, питту, расстройства крови, анемию, кожные болезни и капху."
+        "text": "Горька, вяжуща, устраняет жировую ткань; уничтожает паразитов, мочеизнурение, лихорадку и раны; устраняет витилиго, отёк, аму, питту, расстройства крови, анемию, кожные болезни и капху.",
+        "text_en": "It is bitter and astringent, and removes fat tissue; it destroys worms, diabetes (prameha), fever and wounds; it removes vitiligo, edema, ama, Pitta, blood disorders, anemia, skin diseases and Kapha."
       },
       {
         "type": "verse",
@@ -27123,7 +27470,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खदिरः श्वेतसारोऽन्य कदरः सोमवल्कलः कदरो विशदो वर्ण्यो मुखरोगकफास्रजित्",
         "iast": "khadiraḥ śvetasāro'nya kadaraḥ somavalkalaḥ kadaro viśado varṇyo mukharogakaphāsrajit",
         "iast_ru": "кхадирах̣ ш́ветаса̄ро'нйа кадарах̣ сомавалкалах̣ кадаро виш́адо варн̣йо мукхарогакапха̄сраджит",
-        "text": "Иная кхадира с белой сердцевиной называется кадара, сомавалкала; кадара прозрачна, улучшает цвет кожи, устраняет болезни рта, капху и расстройства крови."
+        "text": "Иная кхадира с белой сердцевиной называется кадара, сомавалкала; кадара прозрачна, улучшает цвет кожи, устраняет болезни рта, капху и расстройства крови.",
+        "text_en": "Another Khadira with a white heartwood is called Kadara, Somavalkala; Kadara is clear, improves the complexion, and removes diseases of the mouth, Kapha and blood disorders."
       },
       {
         "type": "verse",
@@ -27131,7 +27479,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इरिमेदो विट्खदिरः कालस्कन्धोऽरिमेदकः इरिमेदः कषायोष्णो मुखदन्तगदास्रजित् हन्ति कण्डूविषश्लेष्मकृमिकुष्ठविषव्रणान्",
         "iast": "irimedo viṭkhadiraḥ kālaskandho'rimedakaḥ irimedaḥ kaṣāyoṣṇo mukhadantagadāsrajit hanti kaṇḍūviṣaśleṣmakṛmikuṣṭhaviṣavraṇān",
         "iast_ru": "иримедо вит̣кхадирах̣ ка̄ласкандхо'римедаках̣ иримедах̣ каш̣а̄йош̣н̣о мукхадантагада̄сраджит ханти кан̣д̣ӯвиш̣аш́леш̣макр̣микуш̣т̣хавиш̣авран̣а̄н",
-        "text": "Иримеда называется вит-кхадира, каласкандха, аримедака; иримеда вяжуща, горяча; устраняет болезни рта, зубов и расстройства крови; уничтожает зуд, яд, капху, паразитов, кожные болезни, яд и раны."
+        "text": "Иримеда называется вит-кхадира, каласкандха, аримедака; иримеда вяжуща, горяча; устраняет болезни рта, зубов и расстройства крови; уничтожает зуд, яд, капху, паразитов, кожные болезни, яд и раны.",
+        "text_en": "Irimeda is called Vit-khadira, Kalaskandha, Arimedaka; Irimeda is astringent and hot; it removes diseases of the mouth, teeth and blood disorders; it destroys itching, poison, Kapha, worms, skin diseases, poison and wounds."
       },
       {
         "type": "verse",
@@ -27139,7 +27488,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रोहीतको रोहितको रोही दाडिमपुष्पकः रोहीतकः प्लीहघाती रुच्यो रक्तप्रसादनः",
         "iast": "rohītako rohitako rohī dāḍimapuṣpakaḥ rohītakaḥ plīhaghātī rucyo raktaprasādanaḥ",
         "iast_ru": "рохӣтако рохитако рохӣ да̄д̣имапуш̣паках̣ рохӣтаках̣ плӣхагха̄тӣ ручйо рактапраса̄данах̣",
-        "text": "Рохитака называется рохитака, рохи, дадимапушпака; рохитака уничтожает болезни селезёнки, возбуждает аппетит, очищает кровь."
+        "text": "Рохитака называется рохитака, рохи, дадимапушпака; рохитака уничтожает болезни селезёнки, возбуждает аппетит, очищает кровь.",
+        "text_en": "Rohitaka is called Rohitaka, Rohi, Dadimapushpaka; Rohitaka destroys diseases of the spleen, stimulates appetite, and purifies the blood."
       },
       {
         "type": "verse",
@@ -27147,7 +27497,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बब्बूलः किङ्किरातः स्यात्किङ्किराटः सपीतकः",
         "iast": "babbūlaḥ kiṅkirātaḥ syātkiṅkirāṭaḥ sapītakaḥ",
         "iast_ru": "баббӯлах̣ кин̇кира̄тах̣ сйа̄ткин̇кира̄т̣ах̣ сапӣтаках̣",
-        "text": "Баббула (акация) называется кинкирата, кинкирата с жёлтым оттенком."
+        "text": "Баббула (акация) называется кинкирата, кинкирата с жёлтым оттенком.",
+        "text_en": "Babbula (acacia) is called Kinkirata, Kinkirata with a yellow tint."
       },
       {
         "type": "verse",
@@ -27155,7 +27506,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स एव कथितस्तज्ज्ञैराभाषट्पदमोदिनी बब्बूलः कफनुद् ग्राही कुष्ठक्रिमिविषापहः",
         "iast": "sa eva kathitastajjñairābhāṣaṭpadamodinī babbūlaḥ kaphanud grāhī kuṣṭhakrimiviṣāpahaḥ",
         "iast_ru": "са ева катхитастаджджн̃аира̄бха̄ш̣ат̣падамодинӣ баббӯлах̣ капхануд гра̄хӣ куш̣т̣хакримивиш̣а̄пахах̣",
-        "text": "Она же названа знатоками шатпадамодини; баббула устраняет капху, закрепляюща, устраняет кожные болезни, паразитов и яд."
+        "text": "Она же названа знатоками шатпадамодини; баббула устраняет капху, закрепляюща, устраняет кожные болезни, паразитов и яд.",
+        "text_en": "It is also named by the knowledgeable Shatpadamodini; Babbula removes Kapha, is constipating, and removes skin diseases, worms and poison."
       },
       {
         "type": "verse",
@@ -27163,7 +27515,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अरिष्टकस्तु मङ्गल्यः कृष्णवर्णोऽथसाधनः रक्तबीजः पीतफेनः फेनिलो गर्भपातनः अरिष्टकस्त्रिदोषघ्नो ग्रहजिद् गर्भपातनः",
         "iast": "ariṣṭakastu maṅgalyaḥ kṛṣṇavarṇo'thasādhanaḥ raktabījaḥ pītaphenaḥ phenilo garbhapātanaḥ ariṣṭakastridoṣaghno grahajid garbhapātanaḥ",
         "iast_ru": "ариш̣т̣акасту ман̇галйах̣ кр̣ш̣н̣аварн̣о'тхаса̄дханах̣ рактабӣджах̣ пӣтапхенах̣ пхенило гарбхапа̄танах̣ ариш̣т̣акастридош̣агхно грахаджид гарбхапа̄танах̣",
-        "text": "Ариштака (мыльное дерево) называется мангалья, кришнаварна, садхана, рактабиджа, питапхена, фенила; вызывает выкидыш; устраняет все три доши, злых духов, вызывает выкидыш."
+        "text": "Ариштака (мыльное дерево) называется мангалья, кришнаварна, садхана, рактабиджа, питапхена, фенила; вызывает выкидыш; устраняет все три доши, злых духов, вызывает выкидыш.",
+        "text_en": "Arishtaka (soapnut tree) is called Mangalya, Krishnavarna, Sadhana, Raktabija, Pitaphena, Phenila; it causes abortion; it removes all three doshas and evil spirits."
       },
       {
         "type": "verse",
@@ -27171,7 +27524,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुत्रजीवो गर्भकरो यष्टीपुष्पोऽथसाधकः",
         "iast": "putrajīvo garbhakaro yaṣṭīpuṣpo'thasādhakaḥ",
         "iast_ru": "путраджӣво гарбхакаро йаш̣т̣ӣпуш̣по'тхаса̄дхаках̣",
-        "text": "Путраджива называется гарбхакара, яштипушпа, садхака."
+        "text": "Путраджива называется гарбхакара, яштипушпа, садхака.",
+        "text_en": "Putrajiva is called Garbhakara, Yashtipushpa, Sadhaka."
       },
       {
         "type": "verse",
@@ -27179,7 +27533,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुत्रजीवी गुरुर्वृष्यो गर्भदः श्लेष्मवातहृत् सृष्टमूत्रमलो रूक्षो हिमः स्वादुः पटुः कटुः",
         "iast": "putrajīvī gururvṛṣyo garbhadaḥ śleṣmavātahṛt sṛṣṭamūtramalo rūkṣo himaḥ svāduḥ paṭuḥ kaṭuḥ",
         "iast_ru": "путраджӣвӣ гурурвр̣ш̣йо гарбхадах̣ ш́леш̣мава̄тахр̣т ср̣ш̣т̣амӯтрамало рӯкш̣о химах̣ сва̄дух̣ пат̣ух̣ кат̣ух̣",
-        "text": "Путраджива тяжела, усиливает половую силу, способствует зачатию, устраняет капху и ватху; облегчает выделение мочи и кала; суховата, холодна, сладка, солона и остра."
+        "text": "Путраджива тяжела, усиливает половую силу, способствует зачатию, устраняет капху и ватху; облегчает выделение мочи и кала; суховата, холодна, сладка, солона и остра.",
+        "text_en": "Putrajiva is heavy, enhances sexual potency, promotes conception, and removes Kapha and Vata; it facilitates the passage of urine and stool; it is somewhat dry, cold, sweet, salty and pungent."
       },
       {
         "type": "verse",
@@ -27187,7 +27542,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इङ्गुदोऽङ्गारवृक्षश्च तिक्तकस्तापसद्रुमः इङ्गुदः कुष्ठभूतादिग्रहव्रणविषक्रिमीन् हन्त्युष्णः श्वित्रशूलघ्नस्तिक्तकः कटुपाकवान्",
         "iast": "iṅgudo'ṅgāravṛkṣaśca tiktakastāpasadrumaḥ iṅgudaḥ kuṣṭhabhūtādigrahavraṇaviṣakrimīn hantyuṣṇaḥ śvitraśūlaghnastiktakaḥ kaṭupākavān",
         "iast_ru": "ин̇гудо'н̇га̄равр̣кш̣аш́ча тиктакаста̄пасадрумах̣ ин̇гудах̣ куш̣т̣хабхӯта̄диграхавран̣авиш̣акримӣн хантйуш̣н̣ах̣ ш́витраш́ӯлагхнастиктаках̣ кат̣упа̄кава̄н",
-        "text": "Ингуда называется ангаравркша, тиктака, тапасадрума; ингуда горяча; уничтожает кожные болезни, злых духов, раны, яд и паразитов; устраняет витилиго и боль; горька, после переваривания даёт острый вкус."
+        "text": "Ингуда называется ангаравркша, тиктака, тапасадрума; ингуда горяча; уничтожает кожные болезни, злых духов, раны, яд и паразитов; устраняет витилиго и боль; горька, после переваривания даёт острый вкус.",
+        "text_en": "Ingudi is called Angaravriksha, Tiktaka, Tapasadruma; Ingudi is hot; it destroys skin diseases, evil spirits, wounds, poison and worms; it removes vitiligo and pain; it is bitter, and pungent in taste after digestion."
       },
       {
         "type": "verse",
@@ -27195,7 +27551,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिङ्गिनी झिङ्गिनी झिङ्गी सुनिर्यासा प्रमोदिनी",
         "iast": "jiṅginī jhiṅginī jhiṅgī suniryāsā pramodinī",
         "iast_ru": "джин̇гинӣ джхин̇гинӣ джхин̇гӣ сунирйа̄са̄ прамодинӣ",
-        "text": "Джингини называется джхингини, джхинги, сунирьяса, прамодини."
+        "text": "Джингини называется джхингини, джхинги, сунирьяса, прамодини.",
+        "text_en": "Jingini is called Jhingini, Jhingi, Sunirvasa, Pramodini."
       },
       {
         "type": "verse",
@@ -27203,7 +27560,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिङ्गिनी मधुरा सोष्णा कषाया योनिशोधिनी कटुका व्रणहृद्रो गवातातीसारहृत् पटुः",
         "iast": "jiṅginī madhurā soṣṇā kaṣāyā yoniśodhinī kaṭukā vraṇahṛdro gavātātīsārahṛt paṭuḥ",
         "iast_ru": "джин̇гинӣ мадхура̄ сош̣н̣а̄ каш̣а̄йа̄ йониш́одхинӣ кат̣ука̄ вран̣ахр̣дро гава̄та̄тӣса̄рахр̣т пат̣ух̣",
-        "text": "Джингини сладка, горяча, вяжуща; очищает женские половые органы; остра; устраняет раны, болезни сердца, ватху и понос; солона."
+        "text": "Джингини сладка, горяча, вяжуща; очищает женские половые органы; остра; устраняет раны, болезни сердца, ватху и понос; солона.",
+        "text_en": "Jingini is sweet, hot and astringent; it cleanses the female genital organs; it is pungent; it removes wounds, heart diseases, Vata and diarrhea; it is salty."
       },
       {
         "type": "verse",
@@ -27211,7 +27569,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तमाल उक्तस्तापिच्छः कालस्कन्धोऽमितद्रुमः लोकस्कन्धो नीलध्वजो नीलतालश्च स स्मृतः तमालः शालवद्वेद्यो दाहविस्फोटहृत् पुनः",
         "iast": "tamāla uktastāpicchaḥ kālaskandho'mitadrumaḥ lokaskandho nīladhvajo nīlatālaśca sa smṛtaḥ tamālaḥ śālavadvedyo dāhavisphoṭahṛt punaḥ",
         "iast_ru": "тама̄ла уктаста̄пиччхах̣ ка̄ласкандхо'митадрумах̣ локаскандхо нӣладхваджо нӣлата̄лаш́ча са смр̣тах̣ тама̄лах̣ ш́а̄лавадведйо да̄хависпхот̣ахр̣т пунах̣",
-        "text": "Тамала называется тапиччха, каласкандха, амитадрума, локаскандха, ниладхваджа, нилатала; тамала должна пониматься как обладающая свойствами, подобными шале; устраняет жжение и волдыри."
+        "text": "Тамала называется тапиччха, каласкандха, амитадрума, локаскандха, ниладхваджа, нилатала; тамала должна пониматься как обладающая свойствами, подобными шале; устраняет жжение и волдыри.",
+        "text_en": "Tamala is called Tapichchha, Kalaskandha, Amitadruma, Lokaskandha, Niladhvaja, Nilatala; Tamala should be understood to have properties similar to Shala; it removes burning sensation and blisters."
       },
       {
         "type": "verse",
@@ -27219,7 +27578,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तूणी तुन्नक आपीनस्तुणिकः कच्छकस्तथा कुठेरकः कान्तलको नन्दीवृक्षश्च नन्दकः",
         "iast": "tūṇī tunnaka āpīnastuṇikaḥ kacchakastathā kuṭherakaḥ kāntalako nandīvṛkṣaśca nandakaḥ",
         "iast_ru": "тӯн̣ӣ туннака а̄пӣнастун̣иках̣ каччхакастатха̄ кут̣хераках̣ ка̄нталако нандӣвр̣кш̣аш́ча нандаках̣",
-        "text": "Туни называется туннака, апина, туника, каччхака, кутхерака, кантала, нандивркша, нандака."
+        "text": "Туни называется туннака, апина, туника, каччхака, кутхерака, кантала, нандивркша, нандака.",
+        "text_en": "Tuni is called Tunnaka, Apina, Tunika, Kachchhaka, Kuttherka, Kantala, Nandivriksha, Nandaka."
       },
       {
         "type": "verse",
@@ -27227,7 +27587,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तूणी रक्तः कटुः पाके कषायो मधुरो लघुः तिक्तो ग्राही हिमो वृष्यो व्रणकुष्ठास्रपित्तजित्",
         "iast": "tūṇī raktaḥ kaṭuḥ pāke kaṣāyo madhuro laghuḥ tikto grāhī himo vṛṣyo vraṇakuṣṭhāsrapittajit",
         "iast_ru": "тӯн̣ӣ рактах̣ кат̣ух̣ па̄ке каш̣а̄йо мадхуро лагхух̣ тикто гра̄хӣ химо вр̣ш̣йо вран̣акуш̣т̣ха̄срапиттаджит",
-        "text": "Туни красна, остра после переваривания, вяжуща, сладка, легка; горька, закрепляюща, холодна, усиливает половую силу; устраняет раны, кожные болезни, расстройства крови и питту."
+        "text": "Туни красна, остра после переваривания, вяжуща, сладка, легка; горька, закрепляюща, холодна, усиливает половую силу; устраняет раны, кожные болезни, расстройства крови и питту.",
+        "text_en": "Tuni is red, pungent after digestion, astringent, sweet and light; it is bitter, constipating and cold, and enhances sexual potency; it removes wounds, skin diseases, blood disorders and Pitta."
       },
       {
         "type": "verse",
@@ -27235,7 +27596,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूर्जपत्रः स्मृतो भूर्जश्चर्मी बहुलवल्कलः भूर्जो भूतग्रहश्लेष्मकर्णरुक्पित्तरक्तजित्",
         "iast": "bhūrjapatraḥ smṛto bhūrjaścarmī bahulavalkalaḥ bhūrjo bhūtagrahaśleṣmakarṇarukpittaraktajit",
         "iast_ru": "бхӯрджапатрах̣ смр̣то бхӯрджаш́чармӣ бахулавалкалах̣ бхӯрджо бхӯтаграхаш́леш̣макарн̣арукпиттарактаджит",
-        "text": "Бхурджа (берёза) называется бхурджапатра, чарми, бахулавалкала; бхурджа устраняет злых духов, капху, боль в ушах, питту и расстройства крови."
+        "text": "Бхурджа (берёза) называется бхурджапатра, чарми, бахулавалкала; бхурджа устраняет злых духов, капху, боль в ушах, питту и расстройства крови.",
+        "text_en": "Bhurja (birch) is called Bhurjapatra, Charmi, Bahulavalkala; Bhurja removes evil spirits, Kapha, ear pain, Pitta and blood disorders."
       },
       {
         "type": "verse",
@@ -27243,7 +27605,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कषायो राक्षसघ्नश्च मेदोविषहरः परः",
         "iast": "kaṣāyo rākṣasaghnaśca medoviṣaharaḥ paraḥ",
         "iast_ru": "каш̣а̄йо ра̄кш̣асагхнаш́ча медовиш̣ахарах̣ парах̣",
-        "text": "Вяжуща, уничтожает ракшасов, отлично устраняет жировую ткань и яд."
+        "text": "Вяжуща, уничтожает ракшасов, отлично устраняет жировую ткань и яд.",
+        "text_en": "It is astringent, destroys rakshasas, and excellently removes fat tissue and poison."
       },
       {
         "type": "verse",
@@ -27251,7 +27614,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पलाशः किंशुकः पर्णो यज्ञियो रक्तपुष्पकः क्षारश्रेष्ठो वातपोथो ब्रह्मवृक्षः समिद्वरः",
         "iast": "palāśaḥ kiṃśukaḥ parṇo yajñiyo raktapuṣpakaḥ kṣāraśreṣṭho vātapotho brahmavṛkṣaḥ samidvaraḥ",
         "iast_ru": "пала̄ш́ах̣ ким̣ш́уках̣ парн̣о йаджн̃ийо рактапуш̣паках̣ кш̣а̄раш́реш̣т̣хо ва̄тапотхо брахмавр̣кш̣ах̣ самидварах̣",
-        "text": "Паласа называется киншука, парна, яджния, рактапушпака, кшарашрештха, ватапотха, брахмавркша, самидвара."
+        "text": "Паласа называется киншука, парна, яджния, рактапушпака, кшарашрештха, ватапотха, брахмавркша, самидвара.",
+        "text_en": "Palasha is called Kimshuka, Parna, Yajnya, Raktapushpaka, Ksharashreshtha, Vatapotha, Brahmavriksha, Samidvara."
       },
       {
         "type": "verse",
@@ -27259,7 +27623,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पलाशो दीपनो वृष्यः सरोष्णो व्रणगुल्मजित् भग्नसंधानकृद् दोषग्रहण्यर्शः क्रिमीन् हरेत्",
         "iast": "palāśo dīpano vṛṣyaḥ saroṣṇo vraṇagulmajit bhagnasaṃdhānakṛd doṣagrahaṇyarśaḥ krimīn haret",
         "iast_ru": "пала̄ш́о дӣпано вр̣ш̣йах̣ сарош̣н̣о вран̣агулмаджит бхагнасам̣дха̄накр̣д дош̣аграхан̣йарш́ах̣ кримӣн харет",
-        "text": "Паласа возбуждает пищеварительный огонь, усиливает половую силу, слабительна, горяча; устраняет раны и опухоли; способствует сращиванию переломов; устраняет доши, дизентерию, геморрой и паразитов."
+        "text": "Паласа возбуждает пищеварительный огонь, усиливает половую силу, слабительна, горяча; устраняет раны и опухоли; способствует сращиванию переломов; устраняет доши, дизентерию, геморрой и паразитов.",
+        "text_en": "Palasha kindles the digestive fire, enhances sexual potency, is purgative and hot; it removes wounds and tumors; it promotes the knitting of fractures; it removes the doshas, dysentery, piles and worms."
       },
       {
         "type": "verse",
@@ -27267,7 +27632,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्पुष्पं स्वादु पाके तु कटु तिक्तं कषायकम्",
         "iast": "tatpuṣpaṃ svādu pāke tu kaṭu tiktaṃ kaṣāyakam",
         "iast_ru": "татпуш̣пам̣ сва̄ду па̄ке ту кат̣у тиктам̣ каш̣а̄йакам",
-        "text": "Её цветок сладок, а после переваривания остр, горек и вяжущ."
+        "text": "Её цветок сладок, а после переваривания остр, горек и вяжущ.",
+        "text_en": "Its flower is sweet, and after digestion pungent, bitter and astringent."
       },
       {
         "type": "verse",
@@ -27275,7 +27641,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातलं कफपित्तास्रकृच्छ्रजिद् ग्राहि शीतलम् तृड्दाहशमकं वातरक्तकुष्ठहरं परम्",
         "iast": "vātalaṃ kaphapittāsrakṛcchrajid grāhi śītalam tṛḍdāhaśamakaṃ vātaraktakuṣṭhaharaṃ param",
         "iast_ru": "ва̄талам̣ капхапитта̄сракр̣ччхраджид гра̄хи ш́ӣталам тр̣д̣да̄хаш́амакам̣ ва̄тарактакуш̣т̣хахарам̣ парам",
-        "text": "Увеличивает ватху; устраняет капху, питту, расстройства крови и дизурию; закрепляющ, холоден; успокаивает жажду и жжение; отлично устраняет вата-ракту (подагру) и кожные болезни."
+        "text": "Увеличивает ватху; устраняет капху, питту, расстройства крови и дизурию; закрепляющ, холоден; успокаивает жажду и жжение; отлично устраняет вата-ракту (подагру) и кожные болезни.",
+        "text_en": "It increases Vata; it removes Kapha, Pitta, blood disorders and dysuria; it is constipating and cold; it allays thirst and burning sensation; it excellently removes vata-rakta (gout) and skin diseases."
       },
       {
         "type": "verse",
@@ -27283,7 +27650,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलं लघूष्णं मेहार्शःकृमिवातकफापहम् विपाके कटुकं रूक्षं कुष्ठं गुल्मोदरप्रणुत्",
         "iast": "phalaṃ laghūṣṇaṃ mehārśaḥkṛmivātakaphāpaham vipāke kaṭukaṃ rūkṣaṃ kuṣṭhaṃ gulmodarapraṇut",
         "iast_ru": "пхалам̣ лагхӯш̣н̣ам̣ меха̄рш́ах̣кр̣мива̄такапха̄пахам випа̄ке кат̣укам̣ рӯкш̣ам̣ куш̣т̣хам̣ гулмодарапран̣ут",
-        "text": "Плод лёгок, горяч; устраняет мочеизнурение, геморрой, паразитов, ватху и капху; после переваривания остр, суховат; устраняет кожные болезни, опухоли и вздутие живота."
+        "text": "Плод лёгок, горяч; устраняет мочеизнурение, геморрой, паразитов, ватху и капху; после переваривания остр, суховат; устраняет кожные болезни, опухоли и вздутие живота.",
+        "text_en": "The fruit is light and hot; it removes diabetes (prameha), piles, worms, Vata and Kapha; it is pungent after digestion and somewhat dry; it removes skin diseases, tumors and abdominal distension."
       },
       {
         "type": "verse",
@@ -27291,7 +27659,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शाल्मलिस्तु भवेन्मोचा पिच्छिला पूरणीति च रक्तपुष्पा स्थिरायुश्च कण्टकाढ्या च तूलिनी",
         "iast": "śālmalistu bhavenmocā picchilā pūraṇīti ca raktapuṣpā sthirāyuśca kaṇṭakāḍhyā ca tūlinī",
         "iast_ru": "ш́а̄лмалисту бхавенмоча̄ пиччхила̄ пӯран̣ӣти ча рактапуш̣па̄ стхира̄йуш́ча кан̣т̣ака̄д̣хйа̄ ча тӯлинӣ",
-        "text": "Шалмали (хлопковое дерево) называется моча, слизиста, пурани; с красными цветками, стхираю, полна колючек, тулини (пуховая)."
+        "text": "Шалмали (хлопковое дерево) называется моча, слизиста, пурани; с красными цветками, стхираю, полна колючек, тулини (пуховая).",
+        "text_en": "Shalmali (silk-cotton tree) is called Mocha, slimy, Purani; with red flowers, Sthirayu, full of thorns, Tulini (downy)."
       },
       {
         "type": "verse",
@@ -27299,7 +27668,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शाल्मली शीतला स्वाद्वी रसे पाके रसायनी श्लेष्मला पित्तवातास्रहारिणी रक्तपित्तजित्",
         "iast": "śālmalī śītalā svādvī rase pāke rasāyanī śleṣmalā pittavātāsrahāriṇī raktapittajit",
         "iast_ru": "ш́а̄лмалӣ ш́ӣтала̄ сва̄двӣ расе па̄ке раса̄йанӣ ш́леш̣мала̄ питтава̄та̄сраха̄рин̣ӣ рактапиттаджит",
-        "text": "Шалмали холодна, сладка на вкус и после переваривания, омолаживающа; увеличивает капху; устраняет питту, ватху и расстройства крови; устраняет кровяную питту."
+        "text": "Шалмали холодна, сладка на вкус и после переваривания, омолаживающа; увеличивает капху; устраняет питту, ватху и расстройства крови; устраняет кровяную питту.",
+        "text_en": "Shalmali is cold, sweet in taste and after digestion, and rejuvenating; it increases Kapha; it removes Pitta, Vata and blood disorders; it removes blood-Pitta disorders."
       },
       {
         "type": "verse",
@@ -27307,7 +27677,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निर्यासः शाल्मलेः पिच्छा शाल्मलीवेष्टकोऽपि च मोचास्रावोमोचरसो मोचनिर्यास इत्यपि",
         "iast": "niryāsaḥ śālmaleḥ picchā śālmalīveṣṭako'pi ca mocāsrāvomocaraso mocaniryāsa ityapi",
         "iast_ru": "нирйа̄сах̣ ш́а̄лмалех̣ пиччха̄ ш́а̄лмалӣвеш̣т̣ако'пи ча моча̄сра̄вомочарасо мочанирйа̄са итйапи",
-        "text": "Смола шалмали называется пиччха, шалмали-вештака, мочасрава, моча-раса, моча-нирьяса."
+        "text": "Смола шалмали называется пиччха, шалмали-вештака, мочасрава, моча-раса, моча-нирьяса.",
+        "text_en": "The gum of Shalmali is called Pichchha, Shalmali-veshtaka, Mochasrava, Mocha-rasa, Mocha-niryasa."
       },
       {
         "type": "verse",
@@ -27315,7 +27686,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मोचास्रावो हिमो ग्राही स्निग्धो वृष्यः कषायकः प्रवाहिकाऽतिसारामकफपित्तास्रदाहनुत्",
         "iast": "mocāsrāvo himo grāhī snigdho vṛṣyaḥ kaṣāyakaḥ pravāhikā'tisārāmakaphapittāsradāhanut",
         "iast_ru": "моча̄сра̄во химо гра̄хӣ снигдхо вр̣ш̣йах̣ каш̣а̄йаках̣ права̄хика̄'тиса̄ра̄макапхапитта̄срада̄ханут",
-        "text": "Мочасрава (смола) холодна, закрепляюща, масляниста, усиливает половую силу, вяжуща; устраняет дизентерию, понос, аму, капху, питту, расстройства крови и жжение."
+        "text": "Мочасрава (смола) холодна, закрепляюща, масляниста, усиливает половую силу, вяжуща; устраняет дизентерию, понос, аму, капху, питту, расстройства крови и жжение.",
+        "text_en": "Mochasrava (the gum) is cold, constipating, unctuous, enhances sexual potency, and is astringent; it removes dysentery, diarrhea, ama, Kapha, Pitta, blood disorders and burning sensation."
       },
       {
         "type": "verse",
@@ -27323,7 +27695,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुत्सितः शाल्मलि प्रोक्तो रोचनः कूटशाल्मलि कूटशाल्मलिकस्तिक्तः कटुकः कफवातनुत्",
         "iast": "kutsitaḥ śālmali prokto rocanaḥ kūṭaśālmali kūṭaśālmalikastiktaḥ kaṭukaḥ kaphavātanut",
         "iast_ru": "кутситах̣ ш́а̄лмали прокто рочанах̣ кӯт̣аш́а̄лмали кӯт̣аш́а̄лмаликастиктах̣ кат̣уках̣ капхава̄танут",
-        "text": "Худшая разновидность шалмали называется рочана, кута-шалмали; кута-шалмалика горька, остра, устраняет капху и ватху."
+        "text": "Худшая разновидность шалмали называется рочана, кута-шалмали; кута-шалмалика горька, остра, устраняет капху и ватху.",
+        "text_en": "The inferior variety of Shalmali is called Rochana, Kuta-shalmali; Kuta-shalmalika is bitter and pungent, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -27331,7 +27704,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भेद्युष्णः प्लीहजठरयकृद्गुल्मविषापहः भूतानाहविबन्धास्रमेदः शूलकफापहः",
         "iast": "bhedyuṣṇaḥ plīhajaṭharayakṛdgulmaviṣāpahaḥ bhūtānāhavibandhāsramedaḥ śūlakaphāpahaḥ",
         "iast_ru": "бхедйуш̣н̣ах̣ плӣхаджат̣харайакр̣дгулмавиш̣а̄пахах̣ бхӯта̄на̄хавибандха̄срамедах̣ ш́ӯлакапха̄пахах̣",
-        "text": "Слабительна, горяча; устраняет болезни селезёнки, живота, печени, опухоли и яд; устраняет одержимость злыми духами, вздутие, запор, расстройства крови, жировую ткань, боль и капху."
+        "text": "Слабительна, горяча; устраняет болезни селезёнки, живота, печени, опухоли и яд; устраняет одержимость злыми духами, вздутие, запор, расстройства крови, жировую ткань, боль и капху.",
+        "text_en": "It is purgative and hot; it removes diseases of the spleen, abdomen and liver, tumors and poison; it removes possession by evil spirits, distension, constipation, blood disorders, fat tissue, pain and Kapha."
       },
       {
         "type": "verse",
@@ -27339,7 +27713,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धवो धटो नन्दितरुः स्थिरो गौरो धुरन्धरः धवः शीतः प्रमेहार्शः पाण्डुपित्तकफापहः मधुरस्तुवरस्तस्य फलञ्च मधुरं मनाक्",
         "iast": "dhavo dhaṭo nanditaruḥ sthiro gauro dhurandharaḥ dhavaḥ śītaḥ pramehārśaḥ pāṇḍupittakaphāpahaḥ madhurastuvarastasya phalañca madhuraṃ manāk",
         "iast_ru": "дхаво дхат̣о нандитарух̣ стхиро гауро дхурандхарах̣ дхавах̣ ш́ӣтах̣ прамеха̄рш́ах̣ па̄н̣д̣упиттакапха̄пахах̣ мадхурастуварастасйа пхалан̃ча мадхурам̣ мана̄к",
-        "text": "Дхава называется дхата, нандитару, стхира, гаура, дхурандхара; дхава холодна, устраняет мочеизнурение, геморрой, анемию, питту и капху; сладко-вяжуща, а плод её слегка сладок."
+        "text": "Дхава называется дхата, нандитару, стхира, гаура, дхурандхара; дхава холодна, устраняет мочеизнурение, геморрой, анемию, питту и капху; сладко-вяжуща, а плод её слегка сладок.",
+        "text_en": "Dhava is called Dhata, Nanditaru, Sthira, Gaura, Dhurandhara; Dhava is cold, and removes diabetes (prameha), piles, anemia, Pitta and Kapha; it is sweet-astringent, and its fruit is slightly sweet."
       },
       {
         "type": "verse",
@@ -27347,7 +27722,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धन्वङ्गस्तु धनुर्वृक्षो गोत्रवृक्षः सुतेजनः",
         "iast": "dhanvaṅgastu dhanurvṛkṣo gotravṛkṣaḥ sutejanaḥ",
         "iast_ru": "дханван̇гасту дханурвр̣кш̣о готравр̣кш̣ах̣ сутеджанах̣",
-        "text": "Дханванга называется дханурвркша, готравркша, сутеджана."
+        "text": "Дханванга называется дханурвркша, готравркша, сутеджана.",
+        "text_en": "Dhanvanga is called Dhanurvriksha, Gotravriksha, Sutejana."
       },
       {
         "type": "verse",
@@ -27355,7 +27731,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धन्वङ्गः कफपित्तास्रकासहृत्तुवरो लघुः बृंहणो बलकृद्रू क्षः सन्धिकृद् व्रणरोपणः",
         "iast": "dhanvaṅgaḥ kaphapittāsrakāsahṛttuvaro laghuḥ bṛṃhaṇo balakṛdrū kṣaḥ sandhikṛd vraṇaropaṇaḥ",
         "iast_ru": "дханван̇гах̣ капхапитта̄срака̄сахр̣ттуваро лагхух̣ бр̣м̣хан̣о балакр̣дрӯ кш̣ах̣ сандхикр̣д вран̣аропан̣ах̣",
-        "text": "Дханванга устраняет капху, питту, расстройства крови и кашель; вяжуща, легка; питательна, придаёт силу, суховата; способствует сращиванию суставов; заживляет раны."
+        "text": "Дханванга устраняет капху, питту, расстройства крови и кашель; вяжуща, легка; питательна, придаёт силу, суховата; способствует сращиванию суставов; заживляет раны.",
+        "text_en": "Dhanvanga removes Kapha, Pitta, blood disorders and cough; it is astringent and light; it is nourishing, imparts strength, and is somewhat dry; it promotes the knitting of joints; it heals wounds."
       },
       {
         "type": "verse",
@@ -27363,7 +27740,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करीरः क्रकरीपत्रो ग्रन्थिलो मरुभूरुहः करीरः कटुकस्तिक्त स्वेद्युष्णो भेदनः स्मृतः दुर्नामकफवातामगरशोथव्रणप्रणुत्",
         "iast": "karīraḥ krakarīpatro granthilo marubhūruhaḥ karīraḥ kaṭukastikta svedyuṣṇo bhedanaḥ smṛtaḥ durnāmakaphavātāmagaraśothavraṇapraṇut",
         "iast_ru": "карӣрах̣ кракарӣпатро грантхило марубхӯрухах̣ карӣрах̣ кат̣укастикта сведйуш̣н̣о бхеданах̣ смр̣тах̣ дурна̄макапхава̄та̄магараш́отхавран̣апран̣ут",
-        "text": "Карира называется кракарипатра, грантхила, марубхуруха; карира остра, горька, вызывает потоотделение, горяча, слабительна; устраняет геморрой, капху, ватху, аму, яд, отёк и раны."
+        "text": "Карира называется кракарипатра, грантхила, марубхуруха; карира остра, горька, вызывает потоотделение, горяча, слабительна; устраняет геморрой, капху, ватху, аму, яд, отёк и раны.",
+        "text_en": "Karira is called Krakaripatra, Granthila, Marubhuruha; Karira is pungent and bitter, induces perspiration, and is hot and purgative; it removes piles, Kapha, Vata, ama, poison, edema and wounds."
       },
       {
         "type": "verse",
@@ -27371,7 +27749,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शाखोटः पीतफलको भूतावासः खरच्छदः शाखोटो रक्तपित्तार्शोवातश्लेष्मातिसारजित्",
         "iast": "śākhoṭaḥ pītaphalako bhūtāvāsaḥ kharacchadaḥ śākhoṭo raktapittārśovātaśleṣmātisārajit",
         "iast_ru": "ш́а̄кхот̣ах̣ пӣтапхалако бхӯта̄ва̄сах̣ кхараччхадах̣ ш́а̄кхот̣о рактапитта̄рш́ова̄таш́леш̣ма̄тиса̄раджит",
-        "text": "Шакхота называется питапхалака, бхутаваса, кхарачхада; шакхота устраняет кровяную питту, геморрой, ватху, капху и понос."
+        "text": "Шакхота называется питапхалака, бхутаваса, кхарачхада; шакхота устраняет кровяную питту, геморрой, ватху, капху и понос.",
+        "text_en": "Shakhota is called Pitaphalaka, Bhutavasa, Kharachhada; Shakhota removes blood-Pitta disorders, piles, Vata, Kapha and diarrhea."
       },
       {
         "type": "verse",
@@ -27379,7 +27758,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वरुणो वरणः सेतुस्तिक्तशाकः कुमारकः वरुणः पित्तलो भेदीश्लेष्मकृच्छ्राश्ममारुतान्",
         "iast": "varuṇo varaṇaḥ setustiktaśākaḥ kumārakaḥ varuṇaḥ pittalo bhedīśleṣmakṛcchrāśmamārutān",
         "iast_ru": "варун̣о варан̣ах̣ сетустикташ́а̄ках̣ кума̄раках̣ варун̣ах̣ питтало бхедӣш́леш̣макр̣ччхра̄ш́мама̄рута̄н",
-        "text": "Варуна называется варана, сету, тиктащака, кумарака; варуна увеличивает питту, слабительна; устраняет капху, дизурию, камни и болезни ватхи."
+        "text": "Варуна называется варана, сету, тиктащака, кумарака; варуна увеличивает питту, слабительна; устраняет капху, дизурию, камни и болезни ватхи.",
+        "text_en": "Varuna is called Varana, Setu, Tiktashaka, Kumaraka; Varuna increases Pitta and is purgative; it removes Kapha, dysuria, stones and Vata diseases."
       },
       {
         "type": "verse",
@@ -27387,7 +27767,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निहन्ति गुल्मवातास्रकृमींश्चोष्णोऽग्निदीपनः कषायो मधुरस्तिक्तः कटुकोरूक्षको लघुः",
         "iast": "nihanti gulmavātāsrakṛmīṃścoṣṇo'gnidīpanaḥ kaṣāyo madhurastiktaḥ kaṭukorūkṣako laghuḥ",
         "iast_ru": "ниханти гулмава̄та̄сракр̣мӣм̣ш́чош̣н̣о'гнидӣпанах̣ каш̣а̄йо мадхурастиктах̣ кат̣укорӯкш̣ако лагхух̣",
-        "text": "Уничтожает опухоли, ватху, расстройства крови и паразитов; горяча, возбуждает пищеварительный огонь; вяжуще-сладко-горькая, остра, суховата, легка."
+        "text": "Уничтожает опухоли, ватху, расстройства крови и паразитов; горяча, возбуждает пищеварительный огонь; вяжуще-сладко-горькая, остра, суховата, легка.",
+        "text_en": "It destroys tumors, Vata, blood disorders and worms; it is hot, kindles the digestive fire; it is astringent-sweet-bitter, pungent, somewhat dry and light."
       },
       {
         "type": "verse",
@@ -27395,7 +27776,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कटभी स्वादुपुष्पश्च मधुरेणुः कटम्भरः कटभी तु प्रमेहार्शोनाडीव्रणविषक्रिमीन्",
         "iast": "kaṭabhī svādupuṣpaśca madhureṇuḥ kaṭambharaḥ kaṭabhī tu pramehārśonāḍīvraṇaviṣakrimīn",
         "iast_ru": "кат̣абхӣ сва̄дупуш̣паш́ча мадхурен̣ух̣ кат̣амбхарах̣ кат̣абхӣ ту прамеха̄рш́она̄д̣ӣвран̣авиш̣акримӣн",
-        "text": "Катабхи со сладкими цветками называется мадхурену, катамбхара; катабхи устраняет мочеизнурение, геморрой, свищи, раны, яд и паразитов."
+        "text": "Катабхи со сладкими цветками называется мадхурену, катамбхара; катабхи устраняет мочеизнурение, геморрой, свищи, раны, яд и паразитов.",
+        "text_en": "Katabhi with sweet flowers is called Madhurenu, Katambhara; Katabhi removes diabetes (prameha), piles, fistulas, wounds, poison and worms."
       },
       {
         "type": "verse",
@@ -27403,7 +27785,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हन्त्युष्णा कफकुष्ठघ्नी कटू रूक्षा च कीर्तिता तत्फलं तुवरं ज्ञेयं विशेषात्कफशुक्रहृत्",
         "iast": "hantyuṣṇā kaphakuṣṭhaghnī kaṭū rūkṣā ca kīrtitā tatphalaṃ tuvaraṃ jñeyaṃ viśeṣātkaphaśukrahṛt",
         "iast_ru": "хантйуш̣н̣а̄ капхакуш̣т̣хагхнӣ кат̣ӯ рӯкш̣а̄ ча кӣртита̄ татпхалам̣ туварам̣ джн̃ейам̣ виш́еш̣а̄ткапхаш́украхр̣т",
-        "text": "Горяча, устраняет капху и кожные болезни; остра, суховата. Её плод вяжущ; в особенности устраняет капху и семя."
+        "text": "Горяча, устраняет капху и кожные болезни; остра, суховата. Её плод вяжущ; в особенности устраняет капху и семя.",
+        "text_en": "It is hot, and removes Kapha and skin diseases; it is pungent and somewhat dry. Its fruit is astringent; it especially removes Kapha and semen."
       },
       {
         "type": "verse",
@@ -27411,7 +27794,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मोक्षस्तु मोक्षकोऽपि स्याद् गोलीढोगोलिहस्तथा क्षारश्रेष्ठः क्षारवृक्षो द्विविधः श्वेतकृष्णकः",
         "iast": "mokṣastu mokṣako'pi syād golīḍhogolihastathā kṣāraśreṣṭhaḥ kṣāravṛkṣo dvividhaḥ śvetakṛṣṇakaḥ",
         "iast_ru": "мокш̣асту мокш̣ако'пи сйа̄д голӣд̣хоголихастатха̄ кш̣а̄раш́реш̣т̣хах̣ кш̣а̄равр̣кш̣о двивидхах̣ ш́ветакр̣ш̣н̣аках̣",
-        "text": "Мокша называется мокшака, голидха, голиха, кшарашрештха, кшаравркша; бывает двух видов — белый и чёрный."
+        "text": "Мокша называется мокшака, голидха, голиха, кшарашрештха, кшаравркша; бывает двух видов — белый и чёрный.",
+        "text_en": "Moksha is called Mokshaka, Golidha, Goliha, Ksharashreshtha, Ksharavriksha; it is of two kinds — white and black."
       },
       {
         "type": "verse",
@@ -27419,7 +27803,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मोक्षकः कटुकस्तिक्तो ग्राह्युष्णः कफवातहृत् विषमेदोगुल्मकण्डूबस्तिरुक्कृमिशुक्रनुत्",
         "iast": "mokṣakaḥ kaṭukastikto grāhyuṣṇaḥ kaphavātahṛt viṣamedogulmakaṇḍūbastirukkṛmiśukranut",
         "iast_ru": "мокш̣аках̣ кат̣укастикто гра̄хйуш̣н̣ах̣ капхава̄тахр̣т виш̣амедогулмакан̣д̣ӯбастируккр̣миш́укранут",
-        "text": "Мокшака остра, горька, закрепляюща, горяча; устраняет капху и ватху; устраняет яд, жировую ткань, опухоли, зуд, боль в мочевом пузыре, паразитов и семя."
+        "text": "Мокшака остра, горька, закрепляюща, горяча; устраняет капху и ватху; устраняет яд, жировую ткань, опухоли, зуд, боль в мочевом пузыре, паразитов и семя.",
+        "text_en": "Mokshaka is pungent, bitter, constipating and hot; it removes Kapha and Vata; it removes poison, fat tissue, tumors, itching, pain in the bladder, worms and semen."
       },
       {
         "type": "verse",
@@ -27427,7 +27812,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरीषिका टिण्टिनिका दुर्बलाऽम्बुशिरीषिका त्रिदोषविषकुष्ठार्शोहरी वारिशिरीषिका",
         "iast": "śirīṣikā ṭiṇṭinikā durbalā'mbuśirīṣikā tridoṣaviṣakuṣṭhārśoharī vāriśirīṣikā",
         "iast_ru": "ш́ирӣш̣ика̄ т̣ин̣т̣иника̄ дурбала̄'мбуш́ирӣш̣ика̄ тридош̣авиш̣акуш̣т̣ха̄рш́охарӣ ва̄риш́ирӣш̣ика̄",
-        "text": "Ширишика называется тинтиника, дурбала, амбу-ширишика; вари-ширишика устраняет все три доши, яд, кожные болезни и геморрой."
+        "text": "Ширишика называется тинтиника, дурбала, амбу-ширишика; вари-ширишика устраняет все три доши, яд, кожные болезни и геморрой.",
+        "text_en": "Shirishika is called Tintinika, Durbala, Ambu-shirishika; Vari-shirishika removes all three doshas, poison, skin diseases and piles."
       },
       {
         "type": "verse",
@@ -27435,7 +27821,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शमी शक्तुफला तुङ्गा केशहन्त्री शिवाफला मंगल्या च तथा लक्ष्मीः शमीरः साऽल्पिका स्मृता",
         "iast": "śamī śaktuphalā tuṅgā keśahantrī śivāphalā maṃgalyā ca tathā lakṣmīḥ śamīraḥ sā'lpikā smṛtā",
         "iast_ru": "ш́амӣ ш́актупхала̄ тун̇га̄ кеш́ахантрӣ ш́ива̄пхала̄ мам̣галйа̄ ча татха̄ лакш̣мӣх̣ ш́амӣрах̣ са̄'лпика̄ смр̣та̄",
-        "text": "Шами называется шактупхала, тунга, кешахантри, шивапхала, мангалья, лакшми, шамира, алпика."
+        "text": "Шами называется шактупхала, тунга, кешахантри, шивапхала, мангалья, лакшми, шамира, алпика.",
+        "text_en": "Shami is called Shaktuphala, Tunga, Keshahantri, Shivaphala, Mangalya, Lakshmi, Shamira, Alpika."
       },
       {
         "type": "verse",
@@ -27443,7 +27830,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शमी तिक्ता कटुः शीता कषाया रेचनी लघुः कफकासभ्रमश्वासकुष्ठार्शः कृमिजित् स्मृता",
         "iast": "śamī tiktā kaṭuḥ śītā kaṣāyā recanī laghuḥ kaphakāsabhramaśvāsakuṣṭhārśaḥ kṛmijit smṛtā",
         "iast_ru": "ш́амӣ тикта̄ кат̣ух̣ ш́ӣта̄ каш̣а̄йа̄ речанӣ лагхух̣ капхака̄сабхрамаш́ва̄сакуш̣т̣ха̄рш́ах̣ кр̣миджит смр̣та̄",
-        "text": "Шами горька, остра, холодна, вяжуща, слабительна, легка; провозглашена устраняющей капху, кашель, головокружение, одышку, кожные болезни, геморрой и паразитов."
+        "text": "Шами горька, остра, холодна, вяжуща, слабительна, легка; провозглашена устраняющей капху, кашель, головокружение, одышку, кожные болезни, геморрой и паразитов.",
+        "text_en": "Shami is bitter, pungent, cold, astringent, purgative and light; it is declared to remove Kapha, cough, vertigo, dyspnea, skin diseases, piles and worms."
       },
       {
         "type": "verse",
@@ -27451,7 +27839,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सप्तपर्णो विशालत्वक् शारदो विषमच्छदः",
         "iast": "saptaparṇo viśālatvak śārado viṣamacchadaḥ",
         "iast_ru": "саптапарн̣о виш́а̄латвак ш́а̄радо виш̣амаччхадах̣",
-        "text": "Саптапарна называется вишалатвак, шарада, вишамачхада."
+        "text": "Саптапарна называется вишалатвак, шарада, вишамачхада.",
+        "text_en": "Saptaparna is called Vishalatvak, Sharada, Vishamachchhada."
       },
       {
         "type": "verse",
@@ -27459,7 +27848,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सप्तपर्णो व्रणश्लेष्मवातकुष्ठास्रजन्तुजित् दीपनः श्वासगुल्मघ्नः स्निग्धोष्णस्तुवरः सरः",
         "iast": "saptaparṇo vraṇaśleṣmavātakuṣṭhāsrajantujit dīpanaḥ śvāsagulmaghnaḥ snigdhoṣṇastuvaraḥ saraḥ",
         "iast_ru": "саптапарн̣о вран̣аш́леш̣мава̄такуш̣т̣ха̄сраджантуджит дӣпанах̣ ш́ва̄сагулмагхнах̣ снигдхош̣н̣астуварах̣ сарах̣",
-        "text": "Саптапарна устраняет раны, капху, ватху, кожные болезни, расстройства крови и паразитов; возбуждает пищеварительный огонь; устраняет одышку и опухоли; маслянист, горяч, вяжущ, слабителен."
+        "text": "Саптапарна устраняет раны, капху, ватху, кожные болезни, расстройства крови и паразитов; возбуждает пищеварительный огонь; устраняет одышку и опухоли; маслянист, горяч, вяжущ, слабителен.",
+        "text_en": "Saptaparna removes wounds, Kapha, Vata, skin diseases, blood disorders and worms; it kindles the digestive fire; it removes dyspnea and tumors; it is unctuous, hot, astringent and purgative."
       },
       {
         "type": "verse",
@@ -27467,7 +27857,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिनिशः स्यन्दनो नेमी रथद्रुर्वञ्जुलस्तथा तिनिशः श्लेष्मपित्तास्रमेदःकुष्ठप्रमेहजित् तुवरः श्वित्रदाहघ्नो व्रणपाण्डुकृमिप्रणुत्",
         "iast": "tiniśaḥ syandano nemī rathadrurvañjulastathā tiniśaḥ śleṣmapittāsramedaḥkuṣṭhapramehajit tuvaraḥ śvitradāhaghno vraṇapāṇḍukṛmipraṇut",
         "iast_ru": "тиниш́ах̣ сйандано немӣ ратхадрурван̃джуластатха̄ тиниш́ах̣ ш́леш̣мапитта̄срамедах̣куш̣т̣хапрамехаджит туварах̣ ш́витрада̄хагхно вран̣апа̄н̣д̣укр̣мипран̣ут",
-        "text": "Тиниша называется сьяндана, неми, ратхадру, ванджула; тиниша устраняет капху, питту, расстройства крови, жировую ткань, кожные болезни и мочеизнурение; вяжуща; устраняет витилиго и жжение; устраняет раны, анемию и паразитов."
+        "text": "Тиниша называется сьяндана, неми, ратхадру, ванджула; тиниша устраняет капху, питту, расстройства крови, жировую ткань, кожные болезни и мочеизнурение; вяжуща; устраняет витилиго и жжение; устраняет раны, анемию и паразитов.",
+        "text_en": "Tinisha is called Syandana, Nemi, Ratha-dru, Vanjula; Tinisha removes Kapha, Pitta, blood disorders, fat tissue, skin diseases and diabetes (prameha); it is astringent; it removes vitiligo and burning sensation; it removes wounds, anemia and worms."
       },
       {
         "type": "verse",
@@ -27475,7 +27866,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूमीसहो द्वारदारुर्वरदारुः खरच्छदः भूमीसहस्तु शिशिरो रक्तपित्तप्रसादनः",
         "iast": "bhūmīsaho dvāradārurvaradāruḥ kharacchadaḥ bhūmīsahastu śiśiro raktapittaprasādanaḥ",
         "iast_ru": "бхӯмӣсахо два̄рада̄рурварада̄рух̣ кхараччхадах̣ бхӯмӣсахасту ш́иш́иро рактапиттапраса̄данах̣",
-        "text": "Бхумисаха называется дварадару, варадару, кхарачхада; бхумисаха холодна, очищает кровь и питту."
+        "text": "Бхумисаха называется дварадару, варадару, кхарачхада; бхумисаха холодна, очищает кровь и питту.",
+        "text_en": "Bhumisaha is called Dvaradaru, Varadaru, Kharachhada; Bhumisaha is cold, and purifies the blood and Pitta."
       },
       {
         "type": "verse",
@@ -27483,7 +27875,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति श्रीमिश्रलटकन तनय श्रीमिश्रभाव विरचिते भावप्रकाशे मिश्रप्रकरणे षष्ठो वटादिवर्गः समाप्तः",
         "iast": "iti śrīmiśralaṭakana tanaya śrīmiśrabhāva viracite bhāvaprakāśe miśraprakaraṇe ṣaṣṭho vaṭādivargaḥ samāptaḥ",
         "iast_ru": "ити ш́рӣмиш́ралат̣акана танайа ш́рӣмиш́рабха̄ва вирачите бха̄вапрака̄ш́е миш́рапракаран̣е ш̣аш̣т̣хо ват̣а̄диваргах̣ сама̄птах̣",
-        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаканы, в разделе о смешанных веществах завершается шестая группа — «Ватади-варга» (группа деревьев, начинающаяся с баньяна)."
+        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаканы, в разделе о смешанных веществах завершается шестая группа — «Ватади-варга» (группа деревьев, начинающаяся с баньяна).",
+        "text_en": "Thus ends the sixth group, the \"Vatadi-varga\" (group of trees beginning with the banyan), in the section on mixed substances of the Bhavaprakasha, composed by the venerable Bhava, son of the venerable Mishra Latakana."
       }
     ]
   },
@@ -27501,7 +27894,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रश्चूतो रसालश्च सहकारोऽतिसौरभः कामाङ्गो मधुदूतश्च माकन्दः पिकवल्लभः",
         "iast": "āmraścūto rasālaśca sahakāro'tisaurabhaḥ kāmāṅgo madhudūtaśca mākandaḥ pikavallabhaḥ",
         "iast_ru": "а̄мраш́чӯто раса̄лаш́ча сахака̄ро'тисаурабхах̣ ка̄ма̄н̇го мадхудӯташ́ча ма̄кандах̣ пикаваллабхах̣",
-        "text": "Манго (амра) называется чута, расала, сахакара («благоуханнейший»), камáнга, мадхудута, маканда, пикаваллабха («любимец кукушки»)."
+        "text": "Манго (амра) называется чута, расала, сахакара («благоуханнейший»), камáнга, мадхудута, маканда, пикаваллабха («любимец кукушки»).",
+        "text_en": "Mango (Amra) is called Chuta, Rasala, Sahakara (\"most fragrant\"), Kamanga, Madhuduta, Makanda, Pikavallabha (\"beloved of the cuckoo\")."
       },
       {
         "type": "verse",
@@ -27509,7 +27903,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "असृग्दुष्टिहरं शीतं रुचिकृद् ग्राहि वातलम्",
         "iast": "asṛgduṣṭiharaṃ śītaṃ rucikṛd grāhi vātalam",
         "iast_ru": "аср̣гдуш̣т̣ихарам̣ ш́ӣтам̣ ручикр̣д гра̄хи ва̄талам",
-        "text": "Устраняет расстройства крови, холоден, возбуждает аппетит, закрепляющ, увеличивает ватху."
+        "text": "Устраняет расстройства крови, холоден, возбуждает аппетит, закрепляющ, увеличивает ватху.",
+        "text_en": "It removes blood disorders, is cold, stimulates appetite, is constipating, and increases Vata."
       },
       {
         "type": "verse",
@@ -27517,7 +27912,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आमं बालं कषायाम्लं रुच्यं मारुतपित्तकृत् तरुणं तु तदत्यम्लं रूक्षं दोषत्रयास्रकृत्",
         "iast": "āmaṃ bālaṃ kaṣāyāmlaṃ rucyaṃ mārutapittakṛt taruṇaṃ tu tadatyamlaṃ rūkṣaṃ doṣatrayāsrakṛt",
         "iast_ru": "а̄мам̣ ба̄лам̣ каш̣а̄йа̄млам̣ ручйам̣ ма̄рутапиттакр̣т тарун̣ам̣ ту тадатйамлам̣ рӯкш̣ам̣ дош̣атрайа̄сракр̣т",
-        "text": "Неспелый юный плод манго вяжуще-кислый, возбуждает аппетит, увеличивает ватху и питту; более зрелый, но ещё неспелый — очень кислый, суховатый, увеличивает все три доши и расстройства крови."
+        "text": "Неспелый юный плод манго вяжуще-кислый, возбуждает аппетит, увеличивает ватху и питту; более зрелый, но ещё неспелый — очень кислый, суховатый, увеличивает все три доши и расстройства крови.",
+        "text_en": "The unripe young fruit of the mango is astringent-sour, stimulates appetite, and increases Vata and Pitta; the more mature but still unripe one is very sour, somewhat dry, and increases all three doshas and blood disorders."
       },
       {
         "type": "verse",
@@ -27525,7 +27921,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रमामं त्वचाहीनमातपेऽतिविशोषितम् अम्लं स्वादु कषायं स्याद्भेदनं कफवातजित्",
         "iast": "āmramāmaṃ tvacāhīnamātape'tiviśoṣitam amlaṃ svādu kaṣāyaṃ syādbhedanaṃ kaphavātajit",
         "iast_ru": "а̄мрама̄мам̣ твача̄хӣнама̄тапе'тивиш́ош̣итам амлам̣ сва̄ду каш̣а̄йам̣ сйа̄дбхеданам̣ капхава̄таджит",
-        "text": "Неспелое манго без кожуры, тщательно высушенное на солнце, кисло-сладко-вяжущее, слабительное, устраняет капху и ватху."
+        "text": "Неспелое манго без кожуры, тщательно высушенное на солнце, кисло-сладко-вяжущее, слабительное, устраняет капху и ватху.",
+        "text_en": "The unripe mango without its peel, thoroughly dried in the sun, is sour-sweet-astringent, purgative, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -27533,7 +27930,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वं तु मधुरं वृष्यं स्निग्धं बलसुखप्रदम् गुरु वातहरं हृद्यं वर्ण्यं शीतमपित्तलम् कषायानुरसं वह्निश्लेश्मशुक्रविवर्द्धनम्",
         "iast": "pakvaṃ tu madhuraṃ vṛṣyaṃ snigdhaṃ balasukhapradam guru vātaharaṃ hṛdyaṃ varṇyaṃ śītamapittalam kaṣāyānurasaṃ vahniśleśmaśukravivarddhanam",
         "iast_ru": "паквам̣ ту мадхурам̣ вр̣ш̣йам̣ снигдхам̣ баласукхапрадам гуру ва̄тахарам̣ хр̣дйам̣ варн̣йам̣ ш́ӣтамапитталам каш̣а̄йа̄нурасам̣ вахниш́леш́маш́укравиварддханам",
-        "text": "Спелое же манго сладко, усиливает половую силу, маслянисто, придаёт силу и удовольствие; тяжело, устраняет ватху, приятно для сердца, улучшает цвет кожи, холодно, не увеличивает питту; с вяжущим послевкусием; увеличивает пищеварительный огонь, капху и семя."
+        "text": "Спелое же манго сладко, усиливает половую силу, маслянисто, придаёт силу и удовольствие; тяжело, устраняет ватху, приятно для сердца, улучшает цвет кожи, холодно, не увеличивает питту; с вяжущим послевкусием; увеличивает пищеварительный огонь, капху и семя.",
+        "text_en": "The ripe mango, however, is sweet, enhances sexual potency, is unctuous, and imparts strength and pleasure; it is heavy, removes Vata, is pleasant to the heart, improves the complexion, is cold, and does not increase Pitta; it has an astringent aftertaste; it increases the digestive fire, Kapha and semen."
       },
       {
         "type": "verse",
@@ -27541,7 +27939,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तदेव वृक्षसम्पक्वं गुरु वातहरं परम् मधुराम्लरसं किञ्चिद्भवेत्पित्तप्रकोपणम्",
         "iast": "tadeva vṛkṣasampakvaṃ guru vātaharaṃ param madhurāmlarasaṃ kiñcidbhavetpittaprakopaṇam",
         "iast_ru": "тадева вр̣кш̣асампаквам̣ гуру ва̄тахарам̣ парам мадхура̄мларасам̣ кин̃чидбхаветпиттапракопан̣ам",
-        "text": "То же самое манго, дозревшее на дереве, весьма тяжело и устраняет ватху; на вкус сладко-кисловато, немного возбуждает питту."
+        "text": "То же самое манго, дозревшее на дереве, весьма тяжело и устраняет ватху; на вкус сладко-кисловато, немного возбуждает питту.",
+        "text_en": "The same mango, ripened on the tree, is very heavy and removes Vata; in taste it is sweet-slightly sour, and slightly provokes Pitta."
       },
       {
         "type": "verse",
@@ -27549,7 +27948,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रं कृत्रिमपक्वञ्च तद्भवेत्पित्तनाशनम् रसस्याम्लस्य हीनस्तु माधुर्याच्च विशेषतः",
         "iast": "āmraṃ kṛtrimapakvañca tadbhavetpittanāśanam rasasyāmlasya hīnastu mādhuryācca viśeṣataḥ",
         "iast_ru": "а̄мрам̣ кр̣тримапакван̃ча тадбхаветпиттана̄ш́анам расасйа̄мласйа хӣнасту ма̄дхурйа̄чча виш́еш̣атах̣",
-        "text": "Манго, дозревшее искусственно, устраняет питту; в нём меньше кислого вкуса, и оно в особенности слаще."
+        "text": "Манго, дозревшее искусственно, устраняет питту; в нём меньше кислого вкуса, и оно в особенности слаще.",
+        "text_en": "The mango ripened artificially removes Pitta; it has less sour taste, and is especially sweeter."
       },
       {
         "type": "verse",
@@ -27557,7 +27957,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चूषितं तत्परं रुच्यं बलवीर्यकरं लघु शीतलं शीघ्रपाकि स्याद्वातपित्तहरं सरम्",
         "iast": "cūṣitaṃ tatparaṃ rucyaṃ balavīryakaraṃ laghu śītalaṃ śīghrapāki syādvātapittaharaṃ saram",
         "iast_ru": "чӯш̣итам̣ татпарам̣ ручйам̣ балавӣрйакарам̣ лагху ш́ӣталам̣ ш́ӣгхрапа̄ки сйа̄два̄тапиттахарам̣ сарам",
-        "text": "Высосанное через кожуру манго особенно вкусно, придаёт силу и энергию, легко, холодно, быстро переваривается, устраняет ватху и питту, слабительно."
+        "text": "Высосанное через кожуру манго особенно вкусно, придаёт силу и энергию, легко, холодно, быстро переваривается, устраняет ватху и питту, слабительно.",
+        "text_en": "The mango sucked through its peel is especially tasty, imparts strength and energy, is light, cold, quickly digested, removes Vata and Pitta, and is purgative."
       },
       {
         "type": "verse",
@@ -27565,7 +27966,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तद्र सो गालितो बल्यो गुरुर्वातहरः सरः अहृद्यस्तर्पणोऽतीव बृंहणः कफवर्द्धनः",
         "iast": "tadra so gālito balyo gururvātaharaḥ saraḥ ahṛdyastarpaṇo'tīva bṛṃhaṇaḥ kaphavarddhanaḥ",
         "iast_ru": "тадра со га̄лито балйо гурурва̄тахарах̣ сарах̣ ахр̣дйастарпан̣о'тӣва бр̣м̣хан̣ах̣ капхаварддханах̣",
-        "text": "Его процеженный сок придаёт силу, тяжёл, устраняет ватху, слабителен; не слишком приятен для сердца, весьма питателен, укрепляющ, увеличивает капху."
+        "text": "Его процеженный сок придаёт силу, тяжёл, устраняет ватху, слабителен; не слишком приятен для сердца, весьма питателен, укрепляющ, увеличивает капху.",
+        "text_en": "Its strained juice imparts strength, is heavy, removes Vata, and is purgative; it is not very pleasant to the heart, very nourishing, strengthening, and increases Kapha."
       },
       {
         "type": "verse",
@@ -27573,7 +27975,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तस्य खण्डं गुरु परं रोचनं चिरपाकि च मधुरं बृंहणं बल्यं शीतलं वातनाशनम्",
         "iast": "tasya khaṇḍaṃ guru paraṃ rocanaṃ cirapāki ca madhuraṃ bṛṃhaṇaṃ balyaṃ śītalaṃ vātanāśanam",
         "iast_ru": "тасйа кхан̣д̣ам̣ гуру парам̣ рочанам̣ чирапа̄ки ча мадхурам̣ бр̣м̣хан̣ам̣ балйам̣ ш́ӣталам̣ ва̄тана̄ш́анам",
-        "text": "Кусок манго весьма тяжёл, возбуждает аппетит, долго переваривается; сладок, питателен, придаёт силу, холоден, устраняет ватху."
+        "text": "Кусок манго весьма тяжёл, возбуждает аппетит, долго переваривается; сладок, питателен, придаёт силу, холоден, устраняет ватху.",
+        "text_en": "A piece of mango is very heavy, stimulates appetite, and is slowly digested; it is sweet, nourishing, imparts strength, is cold, and removes Vata."
       },
       {
         "type": "verse",
@@ -27581,7 +27984,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातपित्तहरं रुच्यं बृंहणं बलवर्द्धनम् वृष्यं वर्णकरं स्वादु दुग्धाम्र गुरु शीतलम्",
         "iast": "vātapittaharaṃ rucyaṃ bṛṃhaṇaṃ balavarddhanam vṛṣyaṃ varṇakaraṃ svādu dugdhāmra guru śītalam",
         "iast_ru": "ва̄тапиттахарам̣ ручйам̣ бр̣м̣хан̣ам̣ балаварддханам вр̣ш̣йам̣ варн̣акарам̣ сва̄ду дугдха̄мра гуру ш́ӣталам",
-        "text": "Манго с молоком устраняет ватху и питту, вкусно, питательно, увеличивает силу; усиливает половую силу, улучшает цвет кожи, сладко; тяжело и холодно."
+        "text": "Манго с молоком устраняет ватху и питту, вкусно, питательно, увеличивает силу; усиливает половую силу, улучшает цвет кожи, сладко; тяжело и холодно.",
+        "text_en": "Mango with milk removes Vata and Pitta, is tasty, nourishing, and increases strength; it enhances sexual potency, improves the complexion, and is sweet, heavy and cold."
       },
       {
         "type": "verse",
@@ -27589,7 +27993,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मन्दानलत्वं विषमज्वरं च रक्तामयं बद्धगुदोदरं च आम्रातियोगो नयनामयं वा करोति तस्मादति तानि नाद्यात्",
         "iast": "mandānalatvaṃ viṣamajvaraṃ ca raktāmayaṃ baddhagudodaraṃ ca āmrātiyogo nayanāmayaṃ vā karoti tasmādati tāni nādyāt",
         "iast_ru": "манда̄налатвам̣ виш̣амаджварам̣ ча ракта̄майам̣ баддхагудодарам̣ ча а̄мра̄тийого найана̄майам̣ ва̄ кароти тасма̄дати та̄ни на̄дйа̄т",
-        "text": "Избыточное употребление манго вызывает ослабление пищеварительного огня, неправильную лихорадку, болезни крови, запор и вздутие живота, а также болезни глаз; поэтому не следует есть его в избытке."
+        "text": "Избыточное употребление манго вызывает ослабление пищеварительного огня, неправильную лихорадку, болезни крови, запор и вздутие живота, а также болезни глаз; поэтому не следует есть его в избытке.",
+        "text_en": "Excessive use of mango causes weakening of the digestive fire, irregular fever, diseases of the blood, constipation and abdominal distension, as well as eye diseases; therefore it should not be eaten in excess."
       },
       {
         "type": "verse",
@@ -27597,7 +28002,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एतदम्लाम्रविषयं मधुराम्लपरं न तु मधुरस्य परं नेत्रहितत्वाद्या गुणा यतः",
         "iast": "etadamlāmraviṣayaṃ madhurāmlaparaṃ na tu madhurasya paraṃ netrahitatvādyā guṇā yataḥ",
         "iast_ru": "етадамла̄мравиш̣айам̣ мадхура̄млапарам̣ на ту мадхурасйа парам̣ нетрахитатва̄дйа̄ гун̣а̄ йатах̣",
-        "text": "Сказанное относится к кислому манго и преимущественно кисло-сладкому, но не к чисто сладкому, поскольку у последнего есть такие свойства, как польза для глаз."
+        "text": "Сказанное относится к кислому манго и преимущественно кисло-сладкому, но не к чисто сладкому, поскольку у последнего есть такие свойства, как польза для глаз.",
+        "text_en": "What has been said applies to the sour mango and predominantly sour-sweet, but not to the purely sweet one, since the latter has properties such as being beneficial for the eyes."
       },
       {
         "type": "verse",
@@ -27605,7 +28011,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुण्ठ्यम्भसोऽनुपानं स्यादाम्राणामतिभक्षणे जीरकं वा प्रयोक्तव्यं सह सौवर्चलेन च",
         "iast": "śuṇṭhyambhaso'nupānaṃ syādāmrāṇāmatibhakṣaṇe jīrakaṃ vā prayoktavyaṃ saha sauvarcalena ca",
         "iast_ru": "ш́ун̣т̣хйамбхасо'нупа̄нам̣ сйа̄да̄мра̄н̣а̄матибхакш̣ан̣е джӣракам̣ ва̄ прайоктавйам̣ саха сауварчалена ча",
-        "text": "При избыточном употреблении манго в качестве питья после еды следует использовать воду с имбирём, либо тмин вместе с соварчала-солью."
+        "text": "При избыточном употреблении манго в качестве питья после еды следует использовать воду с имбирём, либо тмин вместе с соварчала-солью.",
+        "text_en": "After excessive consumption of mango, water with ginger, or cumin together with sauvarchala salt, should be used as a drink after the meal."
       },
       {
         "type": "verse",
@@ -27613,7 +28020,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वस्य सहकारस्य पटे विस्तारितो रसः घर्मशुष्को मुहुर्दत्त आम्रावर्त्त इति स्मृतः",
         "iast": "pakvasya sahakārasya paṭe vistārito rasaḥ gharmaśuṣko muhurdatta āmrāvartta iti smṛtaḥ",
         "iast_ru": "паквасйа сахака̄расйа пат̣е виста̄рито расах̣ гхармаш́уш̣ко мухурдатта а̄мра̄вартта ити смр̣тах̣",
-        "text": "Сок спелого манго, растянутый на ткани и многократно высушенный на солнце, называется амраварта (манговая пастила)."
+        "text": "Сок спелого манго, растянутый на ткани и многократно высушенный на солнце, называется амраварта (манговая пастила).",
+        "text_en": "The juice of the ripe mango, spread on cloth and repeatedly dried in the sun, is called Amravarta (mango leather)."
       },
       {
         "type": "verse",
@@ -27621,7 +28029,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रावर्त्तस्तृषाच्छर्दि वातपित्तहरः सरः रुच्यः सूर्यांशुभिः पाकाल्लघुश्च स हि कीर्त्तितः",
         "iast": "āmrāvarttastṛṣācchardi vātapittaharaḥ saraḥ rucyaḥ sūryāṃśubhiḥ pākāllaghuśca sa hi kīrttitaḥ",
         "iast_ru": "а̄мра̄варттастр̣ш̣а̄ччхарди ва̄тапиттахарах̣ сарах̣ ручйах̣ сӯрйа̄м̣ш́убхих̣ па̄ка̄ллагхуш́ча са хи кӣрттитах̣",
-        "text": "Амраварта устраняет жажду и рвоту, устраняет ватху и питту, слабительна, вкусна; поскольку она обработана солнечными лучами, провозглашена лёгкой."
+        "text": "Амраварта устраняет жажду и рвоту, устраняет ватху и питту, слабительна, вкусна; поскольку она обработана солнечными лучами, провозглашена лёгкой.",
+        "text_en": "Amravarta removes thirst and vomiting, removes Vata and Pitta, is purgative and tasty; since it is processed by the rays of the sun, it is declared to be light."
       },
       {
         "type": "verse",
@@ -27629,7 +28038,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रबीजं कषायं स्याच्छर्द्यतीसारनाशनम् ईषदम्लञ्च मधुरं तथा हृदयदाहनुत्",
         "iast": "āmrabījaṃ kaṣāyaṃ syācchardyatīsāranāśanam īṣadamlañca madhuraṃ tathā hṛdayadāhanut",
         "iast_ru": "а̄мрабӣджам̣ каш̣а̄йам̣ сйа̄ччхардйатӣса̄рана̄ш́анам ӣш̣адамлан̃ча мадхурам̣ татха̄ хр̣дайада̄ханут",
-        "text": "Косточка манго вяжуща, устраняет рвоту и понос; слегка кисло-сладка, а также устраняет жжение в сердце."
+        "text": "Косточка манго вяжуща, устраняет рвоту и понос; слегка кисло-сладка, а также устраняет жжение в сердце.",
+        "text_en": "The mango kernel is astringent, removes vomiting and diarrhea; it is slightly sour-sweet, and also removes burning sensation in the heart."
       },
       {
         "type": "verse",
@@ -27637,7 +28047,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रस्य पल्लवो रुच्यः कफपित्तविनाशनः",
         "iast": "āmrasya pallavo rucyaḥ kaphapittavināśanaḥ",
         "iast_ru": "а̄мрасйа паллаво ручйах̣ капхапиттавина̄ш́анах̣",
-        "text": "Молодой лист манго вкусен, устраняет капху и питту."
+        "text": "Молодой лист манго вкусен, устраняет капху и питту.",
+        "text_en": "The young leaf of the mango is tasty, and removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -27645,7 +28056,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रातकः पीतनश्च मर्कटाम्रः कपीतनः आम्रातमम्लं वातघ्नं गुरूष्णं रुचिकृत्सरम्",
         "iast": "āmrātakaḥ pītanaśca markaṭāmraḥ kapītanaḥ āmrātamamlaṃ vātaghnaṃ gurūṣṇaṃ rucikṛtsaram",
         "iast_ru": "а̄мра̄таках̣ пӣтанаш́ча маркат̣а̄мрах̣ капӣтанах̣ а̄мра̄тамамлам̣ ва̄тагхнам̣ гурӯш̣н̣ам̣ ручикр̣тсарам",
-        "text": "Амратака называется питана, маркатамра, капитана; амратака кисла, устраняет ватху, тяжела, горяча, возбуждает аппетит, слабительна."
+        "text": "Амратака называется питана, маркатамра, капитана; амратака кисла, устраняет ватху, тяжела, горяча, возбуждает аппетит, слабительна.",
+        "text_en": "Amrataka is called Pitana, Markatamra, Kapitana; Amrataka is sour, removes Vata, is heavy, hot, stimulates appetite, and is purgative."
       },
       {
         "type": "verse",
@@ -27653,7 +28065,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वन्तु तुवरं स्वादु रसे पाके हिमं स्मृतम् तर्पणं श्लेष्मलं स्निग्धं वृष्यं विष्टम्भि बृंहणम् गुरु बल्यं मरुत्पित्तक्षतदाहक्षयास्रजित्",
         "iast": "pakvantu tuvaraṃ svādu rase pāke himaṃ smṛtam tarpaṇaṃ śleṣmalaṃ snigdhaṃ vṛṣyaṃ viṣṭambhi bṛṃhaṇam guru balyaṃ marutpittakṣatadāhakṣayāsrajit",
         "iast_ru": "пакванту туварам̣ сва̄ду расе па̄ке химам̣ смр̣там тарпан̣ам̣ ш́леш̣малам̣ снигдхам̣ вр̣ш̣йам̣ виш̣т̣амбхи бр̣м̣хан̣ам гуру балйам̣ марутпиттакш̣атада̄хакш̣айа̄сраджит",
-        "text": "Спелая же вяжуще-сладка на вкус, а после переваривания холодна; питательна, увеличивает капху, масляниста, усиливает половую силу, вызывает вздутие, укрепляюща; тяжела, придаёт силу; устраняет ватху, питту, травмы, жжение, истощение и расстройства крови."
+        "text": "Спелая же вяжуще-сладка на вкус, а после переваривания холодна; питательна, увеличивает капху, масляниста, усиливает половую силу, вызывает вздутие, укрепляюща; тяжела, придаёт силу; устраняет ватху, питту, травмы, жжение, истощение и расстройства крови.",
+        "text_en": "The ripe one is astringent-sweet in taste, and cold after digestion; it is nourishing, increases Kapha, is unctuous, enhances sexual potency, causes distension, and is strengthening; it is heavy and imparts strength; it removes Vata, Pitta, injuries, burning sensation, emaciation and blood disorders."
       },
       {
         "type": "verse",
@@ -27661,7 +28074,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "राजाम्रष्टङ्क आम्रातः कामाह्वो राजपुत्रकः",
         "iast": "rājāmraṣṭaṅka āmrātaḥ kāmāhvo rājaputrakaḥ",
         "iast_ru": "ра̄джа̄мраш̣т̣ан̇ка а̄мра̄тах̣ ка̄ма̄хво ра̄джапутраках̣",
-        "text": "Раджамра называется штанка, амрата, камахва, раджапутрака."
+        "text": "Раджамра называется штанка, амрата, камахва, раджапутрака.",
+        "text_en": "Rajamra is called Shtanka, Amrata, Kamahva, Rajaputraka."
       },
       {
         "type": "verse",
@@ -27669,7 +28083,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "राजाम्रं तुवरं स्वादु विशदं शीतलं गुरु ग्राहि रूक्षं विबन्धाध्मवातकृत्कफपित्तनुत्",
         "iast": "rājāmraṃ tuvaraṃ svādu viśadaṃ śītalaṃ guru grāhi rūkṣaṃ vibandhādhmavātakṛtkaphapittanut",
         "iast_ru": "ра̄джа̄мрам̣ туварам̣ сва̄ду виш́адам̣ ш́ӣталам̣ гуру гра̄хи рӯкш̣ам̣ вибандха̄дхмава̄такр̣ткапхапиттанут",
-        "text": "Раджамра вяжуще-сладка, прозрачна, холодна, тяжела, закрепляюща, суховата; вызывает запор, вздутие и ватху, устраняет капху и питту."
+        "text": "Раджамра вяжуще-сладка, прозрачна, холодна, тяжела, закрепляюща, суховата; вызывает запор, вздутие и ватху, устраняет капху и питту.",
+        "text_en": "Rajamra is astringent-sweet, clear, cold, heavy, constipating and somewhat dry; it causes constipation, distension and Vata, and removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -27677,7 +28092,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोशाम्र उक्तः क्षुद्रा म्रः कृमिवृक्षः सुकोशकः कोशाम्रः कुष्ठशोथास्रपित्तव्रणकफापहः",
         "iast": "kośāmra uktaḥ kṣudrā mraḥ kṛmivṛkṣaḥ sukośakaḥ kośāmraḥ kuṣṭhaśothāsrapittavraṇakaphāpahaḥ",
         "iast_ru": "кош́а̄мра уктах̣ кш̣удра̄ мрах̣ кр̣мивр̣кш̣ах̣ сукош́аках̣ кош́а̄мрах̣ куш̣т̣хаш́отха̄срапиттавран̣акапха̄пахах̣",
-        "text": "Кошамра называется кшудрамра, кримивркша, сукошака; кошамра устраняет кожные болезни, отёк, расстройства крови, питту, раны и капху."
+        "text": "Кошамра называется кшудрамра, кримивркша, сукошака; кошамра устраняет кожные болезни, отёк, расстройства крови, питту, раны и капху.",
+        "text_en": "Koshamra is called Kshudramra, Krimivriksha, Sukoshaka; Koshamra removes skin diseases, edema, blood disorders, Pitta, wounds and Kapha."
       },
       {
         "type": "verse",
@@ -27685,7 +28101,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्फलं ग्राहि वातघ्नमम्लोष्णं गुरु पित्तलम् पक्वन्तु दीपनं रुच्यं लघूष्णं कफवातनुत्",
         "iast": "tatphalaṃ grāhi vātaghnamamloṣṇaṃ guru pittalam pakvantu dīpanaṃ rucyaṃ laghūṣṇaṃ kaphavātanut",
         "iast_ru": "татпхалам̣ гра̄хи ва̄тагхнамамлош̣н̣ам̣ гуру питталам пакванту дӣпанам̣ ручйам̣ лагхӯш̣н̣ам̣ капхава̄танут",
-        "text": "Её плод закрепляющ, устраняет ватху, кисло-горяч, тяжёл, увеличивает питту; спелый же возбуждает пищеварительный огонь, вкусен, лёгок, горяч, устраняет капху и ватху."
+        "text": "Её плод закрепляющ, устраняет ватху, кисло-горяч, тяжёл, увеличивает питту; спелый же возбуждает пищеварительный огонь, вкусен, лёгок, горяч, устраняет капху и ватху.",
+        "text_en": "Its fruit is constipating, removes Vata, is sour-hot, heavy, and increases Pitta; the ripe one, however, kindles the digestive fire, is tasty, light and hot, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -27693,7 +28110,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पनशः कण्टकिफलः पलसोऽतिबृहत्फलः पनसं शीतलं पक्वं स्निग्धं पित्तानिलापहम्",
         "iast": "panaśaḥ kaṇṭakiphalaḥ palaso'tibṛhatphalaḥ panasaṃ śītalaṃ pakvaṃ snigdhaṃ pittānilāpaham",
         "iast_ru": "панаш́ах̣ кан̣т̣акипхалах̣ паласо'тибр̣хатпхалах̣ панасам̣ ш́ӣталам̣ паквам̣ снигдхам̣ питта̄нила̄пахам",
-        "text": "Панаса (джекфрут) называется кантакипхала, паласа («с очень крупными плодами»); спелая панаса холодна, масляниста, устраняет питту и ватху."
+        "text": "Панаса (джекфрут) называется кантакипхала, паласа («с очень крупными плодами»); спелая панаса холодна, масляниста, устраняет питту и ватху.",
+        "text_en": "Panasa (jackfruit) is called Kantakiphala, Palasha (\"with very large fruits\"); the ripe Panasa is cold, unctuous, and removes Pitta and Vata."
       },
       {
         "type": "verse",
@@ -27701,7 +28119,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तर्पणं बृंहणं स्वादु मांसलं श्लेष्मलंभृशम् बल्यं शुक्रपदं हन्ति रक्तपित्तक्षतव्रणान्",
         "iast": "tarpaṇaṃ bṛṃhaṇaṃ svādu māṃsalaṃ śleṣmalaṃbhṛśam balyaṃ śukrapadaṃ hanti raktapittakṣatavraṇān",
         "iast_ru": "тарпан̣ам̣ бр̣м̣хан̣ам̣ сва̄ду ма̄м̣салам̣ ш́леш̣малам̣бхр̣ш́ам балйам̣ ш́укрападам̣ ханти рактапиттакш̣атавран̣а̄н",
-        "text": "Питательна, укрепляюща, сладка, мясиста, весьма увеличивает капху; придаёт силу, способствует образованию семени; уничтожает кровяную питту, травмы и раны."
+        "text": "Питательна, укрепляюща, сладка, мясиста, весьма увеличивает капху; придаёт силу, способствует образованию семени; уничтожает кровяную питту, травмы и раны.",
+        "text_en": "It is nourishing, strengthening, sweet and fleshy, and greatly increases Kapha; it imparts strength and promotes the formation of semen; it destroys blood-Pitta disorders, injuries and wounds."
       },
       {
         "type": "verse",
@@ -27709,7 +28128,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आमं तदेव विष्टम्भि वातलं तुवरं गुरु दाहकृन्मधुरं बल्यं कफमेदोविवर्द्धनम्",
         "iast": "āmaṃ tadeva viṣṭambhi vātalaṃ tuvaraṃ guru dāhakṛnmadhuraṃ balyaṃ kaphamedovivarddhanam",
         "iast_ru": "а̄мам̣ тадева виш̣т̣амбхи ва̄талам̣ туварам̣ гуру да̄хакр̣нмадхурам̣ балйам̣ капхамедовиварддханам",
-        "text": "Незрелая же панаса вызывает вздутие, увеличивает ватху, вяжуще-тяжела; вызывает жжение, сладка, придаёт силу, увеличивает капху и жировую ткань."
+        "text": "Незрелая же панаса вызывает вздутие, увеличивает ватху, вяжуще-тяжела; вызывает жжение, сладка, придаёт силу, увеличивает капху и жировую ткань.",
+        "text_en": "The unripe Panasa, however, causes distension, increases Vata, and is astringent and heavy; it causes burning sensation, is sweet, imparts strength, and increases Kapha and fat tissue."
       },
       {
         "type": "verse",
@@ -27717,7 +28137,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पनसोद्भूतबीजानि वृष्याणि मधुराणि च गुरूणि बद्धविट्कानि सृष्टमूत्राणि संवदेत्",
         "iast": "panasodbhūtabījāni vṛṣyāṇi madhurāṇi ca gurūṇi baddhaviṭkāni sṛṣṭamūtrāṇi saṃvadet",
         "iast_ru": "панасодбхӯтабӣджа̄ни вр̣ш̣йа̄н̣и мадхура̄н̣и ча гурӯн̣и баддхавит̣ка̄ни ср̣ш̣т̣амӯтра̄н̣и сам̣вадет",
-        "text": "Семена, произведённые панасой, усиливают половую силу и сладки, тяжелы, вызывают запор кала, но облегчают выделение мочи, как утверждают."
+        "text": "Семена, произведённые панасой, усиливают половую силу и сладки, тяжелы, вызывают запор кала, но облегчают выделение мочи, как утверждают.",
+        "text_en": "The seeds produced by Panasa enhance sexual potency, are sweet and heavy, and cause constipation of stool but facilitate the passage of urine, as is stated."
       },
       {
         "type": "verse",
@@ -27725,7 +28146,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मज्जा पनसजो वृष्यो वातपित्तकफापहः विशेषात्पनसो वर्ज्यो गुल्मिभिर्मन्दवह्निभिः",
         "iast": "majjā panasajo vṛṣyo vātapittakaphāpahaḥ viśeṣātpanaso varjyo gulmibhirmandavahnibhiḥ",
         "iast_ru": "маджджа̄ панасаджо вр̣ш̣йо ва̄тапиттакапха̄пахах̣ виш́еш̣а̄тпанасо варджйо гулмибхирмандавахнибхих̣",
-        "text": "Мякоть семян панасы усиливает половую силу, устраняет ватху, питту и капху; в особенности панаса противопоказана страдающим опухолями и слабым пищеварительным огнём."
+        "text": "Мякоть семян панасы усиливает половую силу, устраняет ватху, питту и капху; в особенности панаса противопоказана страдающим опухолями и слабым пищеварительным огнём.",
+        "text_en": "The kernel of the seeds of Panasa enhances sexual potency, and removes Vata, Pitta and Kapha; Panasa in particular is contraindicated for those suffering from tumors and weak digestive fire."
       },
       {
         "type": "verse",
@@ -27733,7 +28155,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लकुचः छुद्र पनसो लिकुचो डहुर्रित्यपि आमं लकुचमुष्णञ्च गुरु विष्टम्भकृत्तथा",
         "iast": "lakucaḥ chudra panaso likuco ḍahurrityapi āmaṃ lakucamuṣṇañca guru viṣṭambhakṛttathā",
         "iast_ru": "лакучах̣ чхудра панасо ликучо д̣ахурритйапи а̄мам̣ лакучамуш̣н̣ан̃ча гуру виш̣т̣амбхакр̣ттатха̄",
-        "text": "Лакуча называется кшудра-панаса, ликуча, дахура; незрелая лакуча горяча, тяжела и вызывает вздутие."
+        "text": "Лакуча называется кшудра-панаса, ликуча, дахура; незрелая лакуча горяча, тяжела и вызывает вздутие.",
+        "text_en": "Lakucha is called Kshudra-panasa, Likucha, Dahura; the unripe Lakucha is hot, heavy and causes distension."
       },
       {
         "type": "verse",
@@ -27741,7 +28164,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधुरश्च तथाऽम्लञ्च दोषत्रितयरक्तकृत् शुक्राग्निनाशनं वाऽपि नेत्रयोरहितं स्मृतम्",
         "iast": "madhuraśca tathā'mlañca doṣatritayaraktakṛt śukrāgnināśanaṃ vā'pi netrayorahitaṃ smṛtam",
         "iast_ru": "мадхураш́ча татха̄'млан̃ча дош̣атритайарактакр̣т ш́укра̄гнина̄ш́анам̣ ва̄'пи нетрайорахитам̣ смр̣там",
-        "text": "Она сладка и кисла, увеличивает все три доши и кровь; разрушает семя и пищеварительный огонь, а также, как считается, вредна для глаз."
+        "text": "Она сладка и кисла, увеличивает все три доши и кровь; разрушает семя и пищеварительный огонь, а также, как считается, вредна для глаз.",
+        "text_en": "It is sweet and sour, increases all three doshas and the blood; it destroys semen and the digestive fire, and is also considered harmful for the eyes."
       },
       {
         "type": "verse",
@@ -27749,7 +28173,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुपक्वं तत्तु मधुरमम्लं चानिलपित्तहृत् कफवह्निकरं रुच्यं वृष्यं विष्टम्भकञ्च तत्",
         "iast": "supakvaṃ tattu madhuramamlaṃ cānilapittahṛt kaphavahnikaraṃ rucyaṃ vṛṣyaṃ viṣṭambhakañca tat",
         "iast_ru": "супаквам̣ татту мадхурамамлам̣ ча̄нилапиттахр̣т капхавахникарам̣ ручйам̣ вр̣ш̣йам̣ виш̣т̣амбхакан̃ча тат",
-        "text": "Вполне созревшая же сладка и кисла, устраняет ватху и питту, увеличивает капху и пищеварительный огонь; вкусна, усиливает половую силу, вызывает вздутие."
+        "text": "Вполне созревшая же сладка и кисла, устраняет ватху и питту, увеличивает капху и пищеварительный огонь; вкусна, усиливает половую силу, вызывает вздутие.",
+        "text_en": "The fully ripe one, however, is sweet and sour, removes Vata and Pitta, and increases Kapha and the digestive fire; it is tasty, enhances sexual potency, and causes distension."
       },
       {
         "type": "verse",
@@ -27757,7 +28182,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कदली वारणा मोचाऽम्बुसारांऽशुमतीफला मोचाफलं स्वादु शीतं विष्टम्भि कफकृद् गुरु",
         "iast": "kadalī vāraṇā mocā'mbusārāṃ'śumatīphalā mocāphalaṃ svādu śītaṃ viṣṭambhi kaphakṛd guru",
         "iast_ru": "кадалӣ ва̄ран̣а̄ моча̄'мбуса̄ра̄м̣'ш́уматӣпхала̄ моча̄пхалам̣ сва̄ду ш́ӣтам̣ виш̣т̣амбхи капхакр̣д гуру",
-        "text": "Кадали (банан) называется варана, моча, амбусара, амшуматипхала; плод бананового дерева сладок, холоден, вызывает вздутие, увеличивает капху, тяжёл."
+        "text": "Кадали (банан) называется варана, моча, амбусара, амшуматипхала; плод бананового дерева сладок, холоден, вызывает вздутие, увеличивает капху, тяжёл.",
+        "text_en": "Kadali (banana) is called Varana, Mocha, Ambusara, Amshumatiphala; the fruit of the banana tree is sweet, cold, causes distension, increases Kapha, and is heavy."
       },
       {
         "type": "verse",
@@ -27765,7 +28191,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्निग्धं पित्तास्रतृड्दाहक्षतक्षयसमीरजित् पक्वं स्वादु हिमं पाके स्वादु वृष्यञ्च बृंहणम् क्षुत्तृष्णानेत्रगदहृन्मेहघ्नं रुचिमांसकृत्",
         "iast": "snigdhaṃ pittāsratṛḍdāhakṣatakṣayasamīrajit pakvaṃ svādu himaṃ pāke svādu vṛṣyañca bṛṃhaṇam kṣuttṛṣṇānetragadahṛnmehaghnaṃ rucimāṃsakṛt",
         "iast_ru": "снигдхам̣ питта̄сратр̣д̣да̄хакш̣атакш̣айасамӣраджит паквам̣ сва̄ду химам̣ па̄ке сва̄ду вр̣ш̣йан̃ча бр̣м̣хан̣ам кш̣уттр̣ш̣н̣а̄нетрагадахр̣нмехагхнам̣ ручима̄м̣сакр̣т",
-        "text": "Маслянист, устраняет питту, расстройства крови, жажду, жжение, травмы, истощение и ватху; спелый банан сладок и холоден, сладок после переваривания, усиливает половую силу и укрепляющ; устраняет голод, жажду и болезни глаз; уничтожает мочеизнурение; способствует аппетиту и наращиванию мышечной ткани."
+        "text": "Маслянист, устраняет питту, расстройства крови, жажду, жжение, травмы, истощение и ватху; спелый банан сладок и холоден, сладок после переваривания, усиливает половую силу и укрепляющ; устраняет голод, жажду и болезни глаз; уничтожает мочеизнурение; способствует аппетиту и наращиванию мышечной ткани.",
+        "text_en": "It is unctuous, and removes Pitta, blood disorders, thirst, burning sensation, injuries, emaciation and Vata; the ripe banana is sweet and cold, sweet after digestion, enhances sexual potency, and is strengthening; it removes hunger, thirst and eye diseases; it destroys diabetes (prameha); it promotes appetite and the building of muscle tissue."
       },
       {
         "type": "verse",
@@ -27773,7 +28200,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "माणिक्यमर्त्यामृतचम्पकाद्या भेदाः कदल्या बहवोऽपि सन्ति उक्ता गुणास्तेष्वधिका भवन्ति निर्दोषता स्याल्लघुता च तेषाम्",
         "iast": "māṇikyamartyāmṛtacampakādyā bhedāḥ kadalyā bahavo'pi santi uktā guṇāsteṣvadhikā bhavanti nirdoṣatā syāllaghutā ca teṣām",
         "iast_ru": "ма̄н̣икйамартйа̄мр̣тачампака̄дйа̄ бхеда̄х̣ кадалйа̄ бахаво'пи санти укта̄ гун̣а̄стеш̣вадхика̄ бхаванти нирдош̣ата̄ сйа̄ллагхута̄ ча теш̣а̄м",
-        "text": "Существует множество разновидностей банана — маникья, мартья, амрита, чампака и другие; названные свойства усилены в них, а также присуща безупречность и лёгкость."
+        "text": "Существует множество разновидностей банана — маникья, мартья, амрита, чампака и другие; названные свойства усилены в них, а также присуща безупречность и лёгкость.",
+        "text_en": "There are many varieties of banana — Manikya, Martya, Amrita, Champaka and others; the stated properties are intensified in them, and they are also flawless and light."
       },
       {
         "type": "verse",
@@ -27781,7 +28209,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चिर्भिटं धेनुदुग्धं च तथा गोरक्षकर्कटी",
         "iast": "cirbhiṭaṃ dhenudugdhaṃ ca tathā gorakṣakarkaṭī",
         "iast_ru": "чирбхит̣ам̣ дхенудугдхам̣ ча татха̄ горакш̣акаркат̣ӣ",
-        "text": "Чирбхита называется дхену-дугдха, а также горакша-каркати (огурец)."
+        "text": "Чирбхита называется дхену-дугдха, а также горакша-каркати (огурец).",
+        "text_en": "Chirbhita is called Dhenu-dugdha, and also Gorakshakarkati (cucumber)."
       },
       {
         "type": "verse",
@@ -27789,7 +28218,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चिर्भिटं मधुरं रूक्षं गुरु पित्तकफापहम् अनुष्णं ग्राहि विष्टम्भि पक्वं तूष्णञ्च पित्तलम्",
         "iast": "cirbhiṭaṃ madhuraṃ rūkṣaṃ guru pittakaphāpaham anuṣṇaṃ grāhi viṣṭambhi pakvaṃ tūṣṇañca pittalam",
         "iast_ru": "чирбхит̣ам̣ мадхурам̣ рӯкш̣ам̣ гуру питтакапха̄пахам ануш̣н̣ам̣ гра̄хи виш̣т̣амбхи паквам̣ тӯш̣н̣ан̃ча питталам",
-        "text": "Чирбхита сладка, суховата, тяжела, устраняет питту и капху; не горяча, закрепляюща, вызывает вздутие; спелая же горяча и увеличивает питту."
+        "text": "Чирбхита сладка, суховата, тяжела, устраняет питту и капху; не горяча, закрепляюща, вызывает вздутие; спелая же горяча и увеличивает питту.",
+        "text_en": "Chirbhita is sweet, somewhat dry and heavy, and removes Pitta and Kapha; it is not hot, is constipating, and causes distension; the ripe one, however, is hot and increases Pitta."
       },
       {
         "type": "verse",
@@ -27797,7 +28227,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नारिकेलो दृढफलो लाङ्गली कूर्चर्श्षकः तुङ्गः स्कन्धफलश्चैव तृणराजः सदाफलः",
         "iast": "nārikelo dṛḍhaphalo lāṅgalī kūrcarśṣakaḥ tuṅgaḥ skandhaphalaścaiva tṛṇarājaḥ sadāphalaḥ",
         "iast_ru": "на̄рикело др̣д̣хапхало ла̄н̇галӣ кӯрчарш́ш̣аках̣ тун̇гах̣ скандхапхалаш́чаива тр̣н̣ара̄джах̣ сада̄пхалах̣",
-        "text": "Кокос называется дридхапхала, лангали, курчаршака, тунга, скандхапхала, тринараджа («царь трав»), садапхала («вечноплодный»)."
+        "text": "Кокос называется дридхапхала, лангали, курчаршака, тунга, скандхапхала, тринараджа («царь трав»), садапхала («вечноплодный»).",
+        "text_en": "Coconut is called Dridhaphala, Langali, Kurcharshaka, Tunga, Skandhaphala, Trinaraja (\"king of grasses\"), Sadaphala (\"ever-fruiting\")."
       },
       {
         "type": "verse",
@@ -27805,7 +28236,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नारिकेलफलं शीतं दुर्जरं बस्तिशोधनम् विष्टम्भि बृंहणं बल्यं वातपित्तास्रदाहनुत्",
         "iast": "nārikelaphalaṃ śītaṃ durjaraṃ bastiśodhanam viṣṭambhi bṛṃhaṇaṃ balyaṃ vātapittāsradāhanut",
         "iast_ru": "на̄рикелапхалам̣ ш́ӣтам̣ дурджарам̣ бастиш́одханам виш̣т̣амбхи бр̣м̣хан̣ам̣ балйам̣ ва̄тапитта̄срада̄ханут",
-        "text": "Кокосовый плод холоден, трудноперевариваем, очищает мочевой пузырь; вызывает вздутие, укрепляющ, придаёт силу; устраняет ватху, питту, расстройства крови и жжение."
+        "text": "Кокосовый плод холоден, трудноперевариваем, очищает мочевой пузырь; вызывает вздутие, укрепляющ, придаёт силу; устраняет ватху, питту, расстройства крови и жжение.",
+        "text_en": "The coconut fruit is cold, difficult to digest, and cleanses the bladder; it causes distension, is strengthening, and imparts strength; it removes Vata, Pitta, blood disorders and burning sensation."
       },
       {
         "type": "verse",
@@ -27813,7 +28245,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विशेषतः कोमलनारिकेलं निहन्ति पित्तज्वरपित्तदोषान् तदेव जीर्णं गुरु पित्तकारि विदाहि विष्टम्भि मतं भिषग्भिः",
         "iast": "viśeṣataḥ komalanārikelaṃ nihanti pittajvarapittadoṣān tadeva jīrṇaṃ guru pittakāri vidāhi viṣṭambhi mataṃ bhiṣagbhiḥ",
         "iast_ru": "виш́еш̣атах̣ комалана̄рикелам̣ ниханти питтаджварапиттадош̣а̄н тадева джӣрн̣ам̣ гуру питтака̄ри вида̄хи виш̣т̣амбхи матам̣ бхиш̣агбхих̣",
-        "text": "В особенности мягкий (молодой) кокос уничтожает питта-лихорадку и болезни питты; зрелый же тяжёл, увеличивает питту, вызывает жжение при переваривании и вздутие, по мнению врачей."
+        "text": "В особенности мягкий (молодой) кокос уничтожает питта-лихорадку и болезни питты; зрелый же тяжёл, увеличивает питту, вызывает жжение при переваривании и вздутие, по мнению врачей.",
+        "text_en": "In particular, the tender (young) coconut destroys Pitta fever and Pitta diseases; the mature one, however, is heavy, increases Pitta, and causes burning sensation on digestion and distension, in the opinion of physicians."
       },
       {
         "type": "verse",
@@ -27821,7 +28254,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तस्याम्भः शीतलं हृद्यं दीपनं शुक्रलं लघु पिपासापित्तजित्स्वादु बस्तिशुद्धिकरं परम्",
         "iast": "tasyāmbhaḥ śītalaṃ hṛdyaṃ dīpanaṃ śukralaṃ laghu pipāsāpittajitsvādu bastiśuddhikaraṃ param",
         "iast_ru": "тасйа̄мбхах̣ ш́ӣталам̣ хр̣дйам̣ дӣпанам̣ ш́укралам̣ лагху пипа̄са̄питтаджитсва̄ду бастиш́уддхикарам̣ парам",
-        "text": "Его вода (кокосовая вода) холодна, приятна для сердца, возбуждает пищеварительный огонь, увеличивает семя, легка; устраняет жажду и питту, сладка, отлично очищает мочевой пузырь."
+        "text": "Его вода (кокосовая вода) холодна, приятна для сердца, возбуждает пищеварительный огонь, увеличивает семя, легка; устраняет жажду и питту, сладка, отлично очищает мочевой пузырь.",
+        "text_en": "Its water (coconut water) is cold, pleasant to the heart, kindles the digestive fire, increases semen, and is light; it removes thirst and Pitta, is sweet, and excellently cleanses the bladder."
       },
       {
         "type": "verse",
@@ -27829,7 +28263,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नारिकेलस्य तालस्य खर्जूरस्य शिरांसि तु कषायस्निग्धमधुरबृंहणानि गुरूणि च",
         "iast": "nārikelasya tālasya kharjūrasya śirāṃsi tu kaṣāyasnigdhamadhurabṛṃhaṇāni gurūṇi ca",
         "iast_ru": "на̄рикеласйа та̄ласйа кхарджӯрасйа ш́ира̄м̣си ту каш̣а̄йаснигдхамадхурабр̣м̣хан̣а̄ни гурӯн̣и ча",
-        "text": "Верхушки (сердцевины) кокосовой пальмы, пальмиры и финиковой пальмы вяжуще-масляно-сладки, укрепляющи и тяжелы."
+        "text": "Верхушки (сердцевины) кокосовой пальмы, пальмиры и финиковой пальмы вяжуще-масляно-сладки, укрепляющи и тяжелы.",
+        "text_en": "The tops (hearts) of the coconut palm, palmyra palm and date palm are astringent-unctuous-sweet, strengthening and heavy."
       },
       {
         "type": "verse",
@@ -27837,7 +28272,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कालिन्दं कृष्णबीजं स्यात्कालिङ्गञ्च सुवर्त्तुलम् कालिन्दं ग्राहि दृक्पित्त शुक्र हृच्छीतलं गुरु पक्वन्तु सोष्णं सक्षारं पित्तलं कफवातजित्",
         "iast": "kālindaṃ kṛṣṇabījaṃ syātkāliṅgañca suvarttulam kālindaṃ grāhi dṛkpitta śukra hṛcchītalaṃ guru pakvantu soṣṇaṃ sakṣāraṃ pittalaṃ kaphavātajit",
         "iast_ru": "ка̄линдам̣ кр̣ш̣н̣абӣджам̣ сйа̄тка̄лин̇ган̃ча суварттулам ка̄линдам̣ гра̄хи др̣кпитта ш́укра хр̣ччхӣталам̣ гуру пакванту сош̣н̣ам̣ сакш̣а̄рам̣ питталам̣ капхава̄таджит",
-        "text": "Калинда (арбуз) называется кришнабиджа, калинга, сувартула; калинда закрепляюща, полезна для зрения, увеличивает питту и семя, приятна для сердца, холодна, тяжела; спелая же слегка горяча, содержит щёлочь, увеличивает питту, устраняет капху и ватху."
+        "text": "Калинда (арбуз) называется кришнабиджа, калинга, сувартула; калинда закрепляюща, полезна для зрения, увеличивает питту и семя, приятна для сердца, холодна, тяжела; спелая же слегка горяча, содержит щёлочь, увеличивает питту, устраняет капху и ватху.",
+        "text_en": "Kalinda (watermelon) is called Krishnabija, Kalinga, Suvartula; Kalinda is constipating, beneficial for vision, increases Pitta and semen, is pleasant to the heart, cold and heavy; the ripe one, however, is slightly hot, contains alkali, increases Pitta, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -27845,7 +28281,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दशाङ्गुलं तु खर्बूजं कथ्यन्ते तद्गुणा अथ",
         "iast": "daśāṅgulaṃ tu kharbūjaṃ kathyante tadguṇā atha",
         "iast_ru": "даш́а̄н̇гулам̣ ту кхарбӯджам̣ катхйанте тадгун̣а̄ атха",
-        "text": "Дыня (кхарбуджа) размером в десять пальцев; далее описываются её свойства."
+        "text": "Дыня (кхарбуджа) размером в десять пальцев; далее описываются её свойства.",
+        "text_en": "The melon (Kharbuja) is ten fingers in size; its properties are described further."
       },
       {
         "type": "verse",
@@ -27853,7 +28290,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खर्बूजं मूत्रलं बल्यं कोष्ठशुद्धिकरं गुरु स्निग्धं स्वादुतरं शीतं वृष्यं पित्तानिलापहम्",
         "iast": "kharbūjaṃ mūtralaṃ balyaṃ koṣṭhaśuddhikaraṃ guru snigdhaṃ svādutaraṃ śītaṃ vṛṣyaṃ pittānilāpaham",
         "iast_ru": "кхарбӯджам̣ мӯтралам̣ балйам̣ кош̣т̣хаш́уддхикарам̣ гуру снигдхам̣ сва̄дутарам̣ ш́ӣтам̣ вр̣ш̣йам̣ питта̄нила̄пахам",
-        "text": "Дыня мочегонна, придаёт силу, очищает кишечник, тяжела, масляниста, весьма сладка, холодна, усиливает половую силу, устраняет питту и ватху."
+        "text": "Дыня мочегонна, придаёт силу, очищает кишечник, тяжела, масляниста, весьма сладка, холодна, усиливает половую силу, устраняет питту и ватху.",
+        "text_en": "The melon is diuretic, imparts strength, cleanses the intestines, is heavy, unctuous, very sweet and cold, enhances sexual potency, and removes Pitta and Vata."
       },
       {
         "type": "verse",
@@ -27861,7 +28299,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तेषु यच्चाम्लमधुरं सक्षारञ्च रसाद्भवेत् रक्तपित्तकरं तत्तु मूत्रकृच्छ्रकरं परम्",
         "iast": "teṣu yaccāmlamadhuraṃ sakṣārañca rasādbhavet raktapittakaraṃ tattu mūtrakṛcchrakaraṃ param",
         "iast_ru": "теш̣у йачча̄мламадхурам̣ сакш̣а̄ран̃ча раса̄дбхавет рактапиттакарам̣ татту мӯтракр̣ччхракарам̣ парам",
-        "text": "Среди них та дыня, что на вкус кисло-сладкая и содержит щёлочь, вызывает кровяную питту и особенно способствует дизурии."
+        "text": "Среди них та дыня, что на вкус кисло-сладкая и содержит щёлочь, вызывает кровяную питту и особенно способствует дизурии.",
+        "text_en": "Among them, the melon that is sour-sweet in taste and contains alkali causes blood-Pitta disorders and especially promotes dysuria."
       },
       {
         "type": "verse",
@@ -27869,7 +28308,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रपुसं कण्टकिफलं सुधावासः सुशीतलम् त्रपुसं लघु नीलञ्च नवं तृट्क्लमदाहजित्",
         "iast": "trapusaṃ kaṇṭakiphalaṃ sudhāvāsaḥ suśītalam trapusaṃ laghu nīlañca navaṃ tṛṭklamadāhajit",
         "iast_ru": "трапусам̣ кан̣т̣акипхалам̣ судха̄ва̄сах̣ суш́ӣталам трапусам̣ лагху нӣлан̃ча навам̣ тр̣т̣кламада̄хаджит",
-        "text": "Трапуса (огурец) называется кантакипхала, судхаваса, сушитала; трапуса легка, зелена; свежая устраняет жажду, усталость и жжение."
+        "text": "Трапуса (огурец) называется кантакипхала, судхаваса, сушитала; трапуса легка, зелена; свежая устраняет жажду, усталость и жжение.",
+        "text_en": "Trapusa (cucumber) is called Kantakiphala, Sudhavasa, Sushitala; Trapusa is light and green; when fresh it removes thirst, fatigue and burning sensation."
       },
       {
         "type": "verse",
@@ -27877,7 +28317,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वादु पित्तापहं शीतं रक्तपित्तहरं परम् तत्पक्वमम्लमुष्णं स्यात्पित्तलं कफवातनुत् तद्बीजं मूत्रलं शीतं रूक्षं पित्तास्रकृच्छ्रजित्",
         "iast": "svādu pittāpahaṃ śītaṃ raktapittaharaṃ param tatpakvamamlamuṣṇaṃ syātpittalaṃ kaphavātanut tadbījaṃ mūtralaṃ śītaṃ rūkṣaṃ pittāsrakṛcchrajit",
         "iast_ru": "сва̄ду питта̄пахам̣ ш́ӣтам̣ рактапиттахарам̣ парам татпаквамамламуш̣н̣ам̣ сйа̄тпитталам̣ капхава̄танут тадбӣджам̣ мӯтралам̣ ш́ӣтам̣ рӯкш̣ам̣ питта̄сракр̣ччхраджит",
-        "text": "Сладка, устраняет питту, холодна, отлично устраняет кровяную питту; спелая же кисла и горяча, увеличивает питту, устраняет капху и ватху; её семя мочегонно, холодно, суховато, устраняет питту, расстройства крови и дизурию."
+        "text": "Сладка, устраняет питту, холодна, отлично устраняет кровяную питту; спелая же кисла и горяча, увеличивает питту, устраняет капху и ватху; её семя мочегонно, холодно, суховато, устраняет питту, расстройства крови и дизурию.",
+        "text_en": "It is sweet, removes Pitta, is cold, and excellently removes blood-Pitta disorders; the ripe one, however, is sour and hot, increases Pitta, and removes Kapha and Vata; its seed is diuretic, cold and somewhat dry, and removes Pitta, blood disorders and dysuria."
       },
       {
         "type": "verse",
@@ -27885,7 +28326,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घोरण्टः पूगी पूगश्च गुवाकः क्रमुकोऽस्य तु फलं पूगीफलं प्रोक्तमुद्वेगं च तदीरितम्",
         "iast": "ghoraṇṭaḥ pūgī pūgaśca guvākaḥ kramuko'sya tu phalaṃ pūgīphalaṃ proktamudvegaṃ ca tadīritam",
         "iast_ru": "гхоран̣т̣ах̣ пӯгӣ пӯгаш́ча гува̄ках̣ крамуко'сйа ту пхалам̣ пӯгӣпхалам̣ проктамудвегам̣ ча тадӣритам",
-        "text": "Гхоранта называется пуги, пуга, гувака, крамука; его плод именуется пугипхала (бетелевый орех), а также удвега."
+        "text": "Гхоранта называется пуги, пуга, гувака, крамука; его плод именуется пугипхала (бетелевый орех), а также удвега.",
+        "text_en": "Ghoranta is called Pugi, Puga, Guvaka, Kramuka; its fruit is named Pugiphala (betel nut), and also Udvega."
       },
       {
         "type": "verse",
@@ -27893,7 +28335,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पूगं गुरु हिमं रूक्षं कषायं कफपित्तजित् मोहनं दीपनं रुच्यमास्यवैरस्यनाशनम्",
         "iast": "pūgaṃ guru himaṃ rūkṣaṃ kaṣāyaṃ kaphapittajit mohanaṃ dīpanaṃ rucyamāsyavairasyanāśanam",
         "iast_ru": "пӯгам̣ гуру химам̣ рӯкш̣ам̣ каш̣а̄йам̣ капхапиттаджит моханам̣ дӣпанам̣ ручйама̄сйаваирасйана̄ш́анам",
-        "text": "Бетелевый орех тяжёл, холоден, суховат, вяжущ, устраняет капху и питту; опьяняющ, возбуждает пищеварительный огонь, вкусен, устраняет неприятный вкус во рту."
+        "text": "Бетелевый орех тяжёл, холоден, суховат, вяжущ, устраняет капху и питту; опьяняющ, возбуждает пищеварительный огонь, вкусен, устраняет неприятный вкус во рту.",
+        "text_en": "The betel nut is heavy, cold, somewhat dry and astringent, and removes Kapha and Pitta; it is intoxicating, kindles the digestive fire, is tasty, and removes unpleasant taste in the mouth."
       },
       {
         "type": "verse",
@@ -27901,7 +28344,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आद्र रं! तद् गुर्वभिष्यन्दि वह्निदृष्टिहरं स्मृतम् स्विन्नं दोषत्रयच्छेदि दृढमध्यं तदुत्तमम्",
         "iast": "ādra raṃ! tad gurvabhiṣyandi vahnidṛṣṭiharaṃ smṛtam svinnaṃ doṣatrayacchedi dṛḍhamadhyaṃ taduttamam",
         "iast_ru": "а̄дра рам̣! тад гурвабхиш̣йанди вахнидр̣ш̣т̣ихарам̣ смр̣там свиннам̣ дош̣атрайаччхеди др̣д̣хамадхйам̣ тадуттамам",
-        "text": "Свежий (недозрелый) орех тяжёл, вызывает застой, устраняет пищеварительный огонь и повреждает зрение. Проваренный на пару устраняет все три доши; наилучшим считается тот, что с плотной сердцевиной."
+        "text": "Свежий (недозрелый) орех тяжёл, вызывает застой, устраняет пищеварительный огонь и повреждает зрение. Проваренный на пару устраняет все три доши; наилучшим считается тот, что с плотной сердцевиной.",
+        "text_en": "The fresh (unripe) nut is heavy, causes stagnation, suppresses the digestive fire and damages vision. When steamed, it removes all three doshas; the best is considered to be the one with a dense core."
       },
       {
         "type": "comment",
@@ -27914,7 +28358,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालस्तु लेख्यपत्रः स्यात्तृणराजो महोन्नतः",
         "iast": "tālastu lekhyapatraḥ syāttṛṇarājo mahonnataḥ",
         "iast_ru": "та̄ласту лекхйапатрах̣ сйа̄ттр̣н̣ара̄джо махоннатах̣",
-        "text": "Тала (пальмира) называется лекхьяпатра («с листьями для письма»), тринараджа, махоннати («весьма высокий»)."
+        "text": "Тала (пальмира) называется лекхьяпатра («с листьями для письма»), тринараджа, махоннати («весьма высокий»).",
+        "text_en": "Tala (palmyra palm) is called Lekhyapatra (\"with leaves for writing\"), Trinaraja, Mahonnati (\"very tall\")."
       },
       {
         "type": "verse",
@@ -27922,7 +28367,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वं तालफलं पित्तरक्तश्लेष्मविवर्द्धनम् दुर्जरं बहुमूत्रञ्च तन्द्रा ऽभिष्यन्दशुक्रदम्",
         "iast": "pakvaṃ tālaphalaṃ pittaraktaśleṣmavivarddhanam durjaraṃ bahumūtrañca tandrā 'bhiṣyandaśukradam",
         "iast_ru": "паквам̣ та̄лапхалам̣ питтаракташ́леш̣мавиварддханам дурджарам̣ бахумӯтран̃ча тандра̄ 'бхиш̣йандаш́украдам",
-        "text": "Спелый плод пальмиры увеличивает питту, кровь и капху; трудноперевариваем, вызывает обильное мочеиспускание, сонливость, застой и способствует семени."
+        "text": "Спелый плод пальмиры увеличивает питту, кровь и капху; трудноперевариваем, вызывает обильное мочеиспускание, сонливость, застой и способствует семени.",
+        "text_en": "The ripe fruit of the palmyra increases Pitta, blood and Kapha; it is difficult to digest, causes copious urination, drowsiness and stagnation, and promotes semen."
       },
       {
         "type": "verse",
@@ -27930,7 +28376,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालमज्जा तु तरुणः किञ्चिन्मदकरो लघुः श्लेष्मलो वातपित्तघ्नः सस्नेहो मधुरः सरः",
         "iast": "tālamajjā tu taruṇaḥ kiñcinmadakaro laghuḥ śleṣmalo vātapittaghnaḥ sasneho madhuraḥ saraḥ",
         "iast_ru": "та̄ламаджджа̄ ту тарун̣ах̣ кин̃чинмадакаро лагхух̣ ш́леш̣мало ва̄тапиттагхнах̣ саснехо мадхурах̣ сарах̣",
-        "text": "Молодая же мякоть пальмиры слегка опьяняюща, легка, увеличивает капху, устраняет ватху и питту, масляниста, сладка, слабительна."
+        "text": "Молодая же мякоть пальмиры слегка опьяняюща, легка, увеличивает капху, устраняет ватху и питту, масляниста, сладка, слабительна.",
+        "text_en": "The young pulp of the palmyra, however, is slightly intoxicating, light, increases Kapha, removes Vata and Pitta, and is unctuous, sweet and purgative."
       },
       {
         "type": "verse",
@@ -27938,7 +28385,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालजं तरुणं तोयमतीव मदकृन्मतम् अम्लीभूतं तदा तु स्यात्पित्तकृद्वातदोषहृत्",
         "iast": "tālajaṃ taruṇaṃ toyamatīva madakṛnmatam amlībhūtaṃ tadā tu syātpittakṛdvātadoṣahṛt",
         "iast_ru": "та̄ладжам̣ тарун̣ам̣ тойаматӣва мадакр̣нматам амлӣбхӯтам̣ тада̄ ту сйа̄тпиттакр̣два̄тадош̣ахр̣т",
-        "text": "Молодой сок пальмиры весьма опьяняющ, как считается; став же кислым (перебродившим), он увеличивает питту и устраняет болезни ватхи."
+        "text": "Молодой сок пальмиры весьма опьяняющ, как считается; став же кислым (перебродившим), он увеличивает питту и устраняет болезни ватхи.",
+        "text_en": "The young sap of the palmyra is considered very intoxicating; when it becomes sour (fermented), it increases Pitta and removes Vata diseases."
       },
       {
         "type": "verse",
@@ -27946,7 +28394,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बिल्वः शाण्डिल्यशैलूषौ मालूरश्रीफलावपि बालं बिल्बफलं बिल्वकर्कटी बिल्वपेशिका ग्राहिणी कफवातामशूलघ्नी बिल्वपेषिका",
         "iast": "bilvaḥ śāṇḍilyaśailūṣau mālūraśrīphalāvapi bālaṃ bilbaphalaṃ bilvakarkaṭī bilvapeśikā grāhiṇī kaphavātāmaśūlaghnī bilvapeṣikā",
         "iast_ru": "билвах̣ ш́а̄н̣д̣илйаш́аилӯш̣ау ма̄лӯраш́рӣпхала̄вапи ба̄лам̣ билбапхалам̣ билвакаркат̣ӣ билвапеш́ика̄ гра̄хин̣ӣ капхава̄та̄маш́ӯлагхнӣ билвапеш̣ика̄",
-        "text": "Бильва называется шандилья, шайлуша, малура, шрипхала; юный плод бильвы называется бильва-каркати, бильва-пешика; она закрепляюща, устраняет капху, ватху, аму и боль."
+        "text": "Бильва называется шандилья, шайлуша, малура, шрипхала; юный плод бильвы называется бильва-каркати, бильва-пешика; она закрепляюща, устраняет капху, ватху, аму и боль.",
+        "text_en": "Bilva is called Shandilya, Shailusha, Malura, Shriphala; the young fruit of Bilva is called Bilva-karkati, Bilva-peshika; it is constipating, and removes Kapha, Vata, ama and pain."
       },
       {
         "type": "verse",
@@ -27954,7 +28403,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बालं बिल्वफलं ग्राहि दीपनं पाचनं कटु कषायोष्णं लघु स्निग्धं तिक्तं वातकफापहम्",
         "iast": "bālaṃ bilvaphalaṃ grāhi dīpanaṃ pācanaṃ kaṭu kaṣāyoṣṇaṃ laghu snigdhaṃ tiktaṃ vātakaphāpaham",
         "iast_ru": "ба̄лам̣ билвапхалам̣ гра̄хи дӣпанам̣ па̄чанам̣ кат̣у каш̣а̄йош̣н̣ам̣ лагху снигдхам̣ тиктам̣ ва̄такапха̄пахам",
-        "text": "Юный плод бильвы закрепляющ, возбуждает пищеварительный огонь, способствует пищеварению, остр, вяжуще-горяч, лёгок, маслянист, горек, устраняет ватху и капху."
+        "text": "Юный плод бильвы закрепляющ, возбуждает пищеварительный огонь, способствует пищеварению, остр, вяжуще-горяч, лёгок, маслянист, горек, устраняет ватху и капху.",
+        "text_en": "The young fruit of Bilva is constipating, kindles the digestive fire, aids digestion, and is pungent, astringent-hot, light, unctuous and bitter; it removes Vata and Kapha."
       },
       {
         "type": "verse",
@@ -27962,7 +28412,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वं गुरु त्रिदोषं स्याद् दुर्जरं पूतिमारुतम् विदाहि विष्टम्भकरं मधुरं वह्निमान्द्यकृत्",
         "iast": "pakvaṃ guru tridoṣaṃ syād durjaraṃ pūtimārutam vidāhi viṣṭambhakaraṃ madhuraṃ vahnimāndyakṛt",
         "iast_ru": "паквам̣ гуру тридош̣ам̣ сйа̄д дурджарам̣ пӯтима̄рутам вида̄хи виш̣т̣амбхакарам̣ мадхурам̣ вахнима̄ндйакр̣т",
-        "text": "Спелый же тяжёл, увеличивает все три доши, трудноперевариваем, вызывает зловонные газы; вызывает жжение при переваривании и вздутие; сладок, ослабляет пищеварительный огонь."
+        "text": "Спелый же тяжёл, увеличивает все три доши, трудноперевариваем, вызывает зловонные газы; вызывает жжение при переваривании и вздутие; сладок, ослабляет пищеварительный огонь.",
+        "text_en": "The ripe one, however, is heavy, increases all three doshas, is difficult to digest, and causes foul-smelling gases; it causes burning sensation on digestion and distension; it is sweet, and weakens the digestive fire."
       },
       {
         "type": "verse",
@@ -27970,7 +28421,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलेषु परिपक्वं यद् गुणवत्तदुदाहृतम्",
         "iast": "phaleṣu paripakvaṃ yad guṇavattadudāhṛtam",
         "iast_ru": "пхалеш̣у парипаквам̣ йад гун̣аваттадуда̄хр̣там",
-        "text": "Среди плодов провозглашается наилучшим тот, что вполне созрел."
+        "text": "Среди плодов провозглашается наилучшим тот, что вполне созрел.",
+        "text_en": "Among fruits, the best is declared to be the one that is fully ripe."
       },
       {
         "type": "verse",
@@ -27978,7 +28430,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बिल्वादन्यत्र विज्ञेयमामं तद्धि गुणाधिकम् द्रा क्षाबिल्वशिवाऽदीनां फलं शुष्कं गुणाधिकम्",
         "iast": "bilvādanyatra vijñeyamāmaṃ taddhi guṇādhikam drā kṣābilvaśivā'dīnāṃ phalaṃ śuṣkaṃ guṇādhikam",
         "iast_ru": "билва̄данйатра виджн̃ейама̄мам̣ таддхи гун̣а̄дхикам дра̄ кш̣а̄билваш́ива̄'дӣна̄м̣ пхалам̣ ш́уш̣кам̣ гун̣а̄дхикам",
-        "text": "За исключением бильвы, следует знать, что незрелый плод обладает бо́льшими достоинствами; но для винограда, бильвы, харитаки и подобных сушёный плод обладает бо́льшими достоинствами."
+        "text": "За исключением бильвы, следует знать, что незрелый плод обладает бо́льшими достоинствами; но для винограда, бильвы, харитаки и подобных сушёный плод обладает бо́льшими достоинствами.",
+        "text_en": "With the exception of Bilva, it should be known that the unripe fruit has greater merits; but for grapes, Bilva, Haritaki and the like, the dried fruit has greater merits."
       },
       {
         "type": "verse",
@@ -27986,7 +28439,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कपित्थस्तु दधित्थः स्यात्तथा पुष्पफलः स्मृतः कपिप्रियो दधिफलस्तथा दन्तशठोऽपि च",
         "iast": "kapitthastu dadhitthaḥ syāttathā puṣpaphalaḥ smṛtaḥ kapipriyo dadhiphalastathā dantaśaṭho'pi ca",
         "iast_ru": "капиттхасту дадхиттхах̣ сйа̄ттатха̄ пуш̣папхалах̣ смр̣тах̣ капиприйо дадхипхаластатха̄ данташ́ат̣хо'пи ча",
-        "text": "Капиттха (вуд-эппл) называется дадхиттха, пушпапхала, капиприя, дадхипхала, а также дантащатха."
+        "text": "Капиттха (вуд-эппл) называется дадхиттха, пушпапхала, капиприя, дадхипхала, а также дантащатха.",
+        "text_en": "Kapittha (wood apple) is called Dadhittha, Pushpaphala, Kapipriya, Dadhiphala, and also Dantashatha."
       },
       {
         "type": "verse",
@@ -27994,7 +28448,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कपित्थमामं संग्राहि कषायं लघु लेखनम् पक्वं गुरु तृषाहिक्काशमनं वातपित्तजित् स्यादम्लं तुवरं कण्ठशोधनं ग्राहि दुर्जरम्",
         "iast": "kapitthamāmaṃ saṃgrāhi kaṣāyaṃ laghu lekhanam pakvaṃ guru tṛṣāhikkāśamanaṃ vātapittajit syādamlaṃ tuvaraṃ kaṇṭhaśodhanaṃ grāhi durjaram",
         "iast_ru": "капиттхама̄мам̣ сам̣гра̄хи каш̣а̄йам̣ лагху лекханам паквам̣ гуру тр̣ш̣а̄хикка̄ш́аманам̣ ва̄тапиттаджит сйа̄дамлам̣ туварам̣ кан̣т̣хаш́одханам̣ гра̄хи дурджарам",
-        "text": "Незрелая капиттха закрепляюща, вяжуща, легка, соскабливающа; спелая же тяжела, устраняет жажду и икоту, устраняет ватху и питту; кисло-вяжуща, очищает горло, закрепляюща, трудноперевариваема."
+        "text": "Незрелая капиттха закрепляюща, вяжуща, легка, соскабливающа; спелая же тяжела, устраняет жажду и икоту, устраняет ватху и питту; кисло-вяжуща, очищает горло, закрепляюща, трудноперевариваема.",
+        "text_en": "The unripe Kapittha is constipating, astringent, light and scraping; the ripe one, however, is heavy, removes thirst and hiccup, and removes Vata and Pitta; it is sour-astringent, cleanses the throat, is constipating, and difficult to digest."
       },
       {
         "type": "verse",
@@ -28002,7 +28457,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नारङ्गो नागरङ्गः स्यात्त्वक्सुगन्धो मुखप्रियः",
         "iast": "nāraṅgo nāgaraṅgaḥ syāttvaksugandho mukhapriyaḥ",
         "iast_ru": "на̄ран̇го на̄гаран̇гах̣ сйа̄ттваксугандхо мукхаприйах̣",
-        "text": "Апельсин (наранга) называется нагаранга, тваксугандха («благоуханная кожура»), мукхаприя («приятный на вкус»)."
+        "text": "Апельсин (наранга) называется нагаранга, тваксугандха («благоуханная кожура»), мукхаприя («приятный на вкус»).",
+        "text_en": "Orange (Naranga) is called Nagaranga, Tvaksugandha (\"fragrant peel\"), Mukhapriya (\"pleasant to the taste\")."
       },
       {
         "type": "verse",
@@ -28010,7 +28466,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नारङ्गो मधुराम्लः स्याद्रो चनो वातनाशनः अपरं त्वम्लमत्युष्णं दुर्जरं वातहृत् सरम्",
         "iast": "nāraṅgo madhurāmlaḥ syādro cano vātanāśanaḥ aparaṃ tvamlamatyuṣṇaṃ durjaraṃ vātahṛt saram",
         "iast_ru": "на̄ран̇го мадхура̄млах̣ сйа̄дро чано ва̄тана̄ш́анах̣ апарам̣ твамламатйуш̣н̣ам̣ дурджарам̣ ва̄тахр̣т сарам",
-        "text": "Апельсин сладко-кисл, возбуждает аппетит, устраняет ватху; иная же разновидность очень кисла и горяча, трудноперевариваема, устраняет ватху, слабительна."
+        "text": "Апельсин сладко-кисл, возбуждает аппетит, устраняет ватху; иная же разновидность очень кисла и горяча, трудноперевариваема, устраняет ватху, слабительна.",
+        "text_en": "The orange is sweet-sour, stimulates appetite, and removes Vata; another variety is very sour and hot, difficult to digest, removes Vata, and is purgative."
       },
       {
         "type": "verse",
@@ -28018,7 +28475,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिन्दुकः स्फूर्जकः कालस्कन्धश्चासितकारकः स्यादामं तिन्दुकं ग्राहि वातलं शीतलं लघु पक्वं पित्तप्रमेहास्रश्लेष्मघ्नं मधुरं गुरु",
         "iast": "tindukaḥ sphūrjakaḥ kālaskandhaścāsitakārakaḥ syādāmaṃ tindukaṃ grāhi vātalaṃ śītalaṃ laghu pakvaṃ pittapramehāsraśleṣmaghnaṃ madhuraṃ guru",
         "iast_ru": "тиндуках̣ спхӯрджаках̣ ка̄ласкандхаш́ча̄ситака̄раках̣ сйа̄да̄мам̣ тиндукам̣ гра̄хи ва̄талам̣ ш́ӣталам̣ лагху паквам̣ питтапрамеха̄сраш́леш̣магхнам̣ мадхурам̣ гуру",
-        "text": "Тиндука (хурма) называется спхурджака, каласкандха, аситакарака; незрелая тиндука закрепляюща, увеличивает ватху, холодна, легка; спелая устраняет питту, мочеизнурение, расстройства крови и капху; сладка и тяжела."
+        "text": "Тиндука (хурма) называется спхурджака, каласкандха, аситакарака; незрелая тиндука закрепляюща, увеличивает ватху, холодна, легка; спелая устраняет питту, мочеизнурение, расстройства крови и капху; сладка и тяжела.",
+        "text_en": "Tinduka (persimmon) is called Sphurjaka, Kalaskandha, Asitakaraka; the unripe Tinduka is constipating, increases Vata, and is cold and light; the ripe one removes Pitta, diabetes (prameha), blood disorders and Kapha; it is sweet and heavy."
       },
       {
         "type": "verse",
@@ -28026,7 +28484,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिन्दुको यस्तु कथितो जलदो दीर्घपत्रकः",
         "iast": "tinduko yastu kathito jalado dīrghapatrakaḥ",
         "iast_ru": "тиндуко йасту катхито джаладо дӣргхапатраках̣",
-        "text": "Та тиндука, что называется джалада, обладает длинными листьями."
+        "text": "Та тиндука, что называется джалада, обладает длинными листьями.",
+        "text_en": "The Tinduka that is called Jalada has long leaves."
       },
       {
         "type": "verse",
@@ -28034,7 +28493,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुपीलुः कुलकः काकतिन्दुकः काकपीलुकः काकेन्दुर्विषतिन्दुश्च तथा मर्कटतिन्दुकः",
         "iast": "kupīluḥ kulakaḥ kākatindukaḥ kākapīlukaḥ kākendurviṣatinduśca tathā markaṭatindukaḥ",
         "iast_ru": "купӣлух̣ кулаках̣ ка̄катиндуках̣ ка̄капӣлуках̣ ка̄кендурвиш̣атиндуш́ча татха̄ маркат̣атиндуках̣",
-        "text": "Купилу называется кулака, какатиндука, какапилука, какенду, вишатиндука, а также маркататиндука."
+        "text": "Купилу называется кулака, какатиндука, какапилука, какенду, вишатиндука, а также маркататиндука.",
+        "text_en": "Kupilu is called Kulaka, Kakatinduka, Kakapiluka, Kakendu, Vishatinduka, and also Markatatinduka."
       },
       {
         "type": "verse",
@@ -28042,7 +28502,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुपीलुः शीतलं तिक्तं वातलं मदकृल्लघु परं व्यथाहरं ग्राहि कफपित्तास्रनाशनम्",
         "iast": "kupīluḥ śītalaṃ tiktaṃ vātalaṃ madakṛllaghu paraṃ vyathāharaṃ grāhi kaphapittāsranāśanam",
         "iast_ru": "купӣлух̣ ш́ӣталам̣ тиктам̣ ва̄талам̣ мадакр̣ллагху парам̣ вйатха̄харам̣ гра̄хи капхапитта̄срана̄ш́анам",
-        "text": "Купилу холодна, горька, увеличивает ватху, слегка опьяняюща, легка; отлично устраняет боль, закрепляюща, уничтожает капху, питту и расстройства крови."
+        "text": "Купилу холодна, горька, увеличивает ватху, слегка опьяняюща, легка; отлично устраняет боль, закрепляюща, уничтожает капху, питту и расстройства крови.",
+        "text_en": "Kupilu is cold and bitter, increases Vata, is slightly intoxicating and light; it excellently removes pain, is constipating, and destroys Kapha, Pitta and blood disorders."
       },
       {
         "type": "verse",
@@ -28050,7 +28511,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलेन्द्रा कथिता नन्दी राजजम्बूर्महाफला तथा सुरभिपत्रा च महाजम्बूरपि स्मृता राजजम्बूफलं स्वादु विष्टम्भि गुरु रोचनम्",
         "iast": "phalendrā kathitā nandī rājajambūrmahāphalā tathā surabhipatrā ca mahājambūrapi smṛtā rājajambūphalaṃ svādu viṣṭambhi guru rocanam",
         "iast_ru": "пхалендра̄ катхита̄ нандӣ ра̄джаджамбӯрмаха̄пхала̄ татха̄ сурабхипатра̄ ча маха̄джамбӯрапи смр̣та̄ ра̄джаджамбӯпхалам̣ сва̄ду виш̣т̣амбхи гуру рочанам",
-        "text": "Пхалендра (царь плодов) называется нанди, раджа-джамбу, махапхала, а также сурабхипатра, маха-джамбу; плод раджа-джамбу сладок, вызывает вздутие, тяжёл, возбуждает аппетит."
+        "text": "Пхалендра (царь плодов) называется нанди, раджа-джамбу, махапхала, а также сурабхипатра, маха-джамбу; плод раджа-джамбу сладок, вызывает вздутие, тяжёл, возбуждает аппетит.",
+        "text_en": "Phalendra (king of fruits) is called Nandi, Raja-jambu, Mahaphala, and also Surabhipatra, Maha-jambu; the fruit of Raja-jambu is sweet, causes distension, is heavy, and stimulates appetite."
       },
       {
         "type": "verse",
@@ -28058,7 +28520,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षुद्र जम्बुः सूक्ष्मपत्रा नादेयी जलजम्बुका जम्बूः संग्राहिणी रूक्षा कफपित्तास्रदाहजित्",
         "iast": "kṣudra jambuḥ sūkṣmapatrā nādeyī jalajambukā jambūḥ saṃgrāhiṇī rūkṣā kaphapittāsradāhajit",
         "iast_ru": "кш̣удра джамбух̣ сӯкш̣мапатра̄ на̄дейӣ джаладжамбука̄ джамбӯх̣ сам̣гра̄хин̣ӣ рӯкш̣а̄ капхапитта̄срада̄хаджит",
-        "text": "Малая джамбу (розовое яблоко) с мелкими листьями называется надейи, джала-джамбука; джамбу закрепляюща, суховата, устраняет капху, питту, расстройства крови и жжение."
+        "text": "Малая джамбу (розовое яблоко) с мелкими листьями называется надейи, джала-джамбука; джамбу закрепляюща, суховата, устраняет капху, питту, расстройства крови и жжение.",
+        "text_en": "The small Jambu (rose apple) with small leaves is called Nadeyi, Jala-jambuka; Jambu is constipating, somewhat dry, and removes Kapha, Pitta, blood disorders and burning sensation."
       },
       {
         "type": "verse",
@@ -28066,7 +28529,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुंसि स्त्रियाञ्च कर्कन्धूर्बदरी कोलमित्यपि",
         "iast": "puṃsi striyāñca karkandhūrbadarī kolamityapi",
         "iast_ru": "пум̣си стрийа̄н̃ча каркандхӯрбадарӣ коламитйапи",
-        "text": "В мужском и женском роде: каркандху, бадари, кола — синонимы ююбы."
+        "text": "В мужском и женском роде: каркандху, бадари, кола — синонимы ююбы.",
+        "text_en": "In masculine and feminine: Karkandhu, Badari, Kola — are synonyms of the jujube."
       },
       {
         "type": "verse",
@@ -28074,7 +28538,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फेनिलं कुवलं घोण्टा सौवीरं बदरं महत् अजप्रिया कुहा कोली विषमोभयकण्टका",
         "iast": "phenilaṃ kuvalaṃ ghoṇṭā sauvīraṃ badaraṃ mahat ajapriyā kuhā kolī viṣamobhayakaṇṭakā",
         "iast_ru": "пхенилам̣ кувалам̣ гхон̣т̣а̄ саувӣрам̣ бадарам̣ махат аджаприйа̄ куха̄ колӣ виш̣амобхайакан̣т̣ака̄",
-        "text": "Пхенила, кувала, гхонта, саувира — крупная ююба; аджаприя, куха, коли — растение с неравномерными шипами на обеих сторонах."
+        "text": "Пхенила, кувала, гхонта, саувира — крупная ююба; аджаприя, куха, коли — растение с неравномерными шипами на обеих сторонах.",
+        "text_en": "Phenila, Kuvala, Ghonta, Sauvira — the large jujube; Ajapriya, Kuha, Koli — the plant with unequal thorns on both sides."
       },
       {
         "type": "verse",
@@ -28082,7 +28547,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पच्यमानं सुमधुरं सौवीरं बदरं महत् सौवीरं बदरं शीतं भेदनं गुरु शुक्रलम्",
         "iast": "pacyamānaṃ sumadhuraṃ sauvīraṃ badaraṃ mahat sauvīraṃ badaraṃ śītaṃ bhedanaṃ guru śukralam",
         "iast_ru": "пачйама̄нам̣ сумадхурам̣ саувӣрам̣ бадарам̣ махат саувӣрам̣ бадарам̣ ш́ӣтам̣ бхеданам̣ гуру ш́укралам",
-        "text": "Дозревая, она становится весьма сладкой; крупная ююба называется саувира; саувира холодна, слабительна, тяжела, увеличивает семя."
+        "text": "Дозревая, она становится весьма сладкой; крупная ююба называется саувира; саувира холодна, слабительна, тяжела, увеличивает семя.",
+        "text_en": "On ripening it becomes very sweet; the large jujube is called Sauvira; Sauvira is cold, purgative, heavy, and increases semen."
       },
       {
         "type": "verse",
@@ -28090,7 +28556,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बृंहणं पित्तदाहास्रक्षयतृष्णानिवारणम् सौवीरं लघु सम्पक्वं मधुरं कोलमुच्यते",
         "iast": "bṛṃhaṇaṃ pittadāhāsrakṣayatṛṣṇānivāraṇam sauvīraṃ laghu sampakvaṃ madhuraṃ kolamucyate",
         "iast_ru": "бр̣м̣хан̣ам̣ питтада̄ха̄сракш̣айатр̣ш̣н̣а̄нива̄ран̣ам саувӣрам̣ лагху сампаквам̣ мадхурам̣ коламучйате",
-        "text": "Укрепляюща, устраняет питту, жжение, расстройства крови, истощение и жажду. Полностью созревшая же саувира легка и сладка, называется кола."
+        "text": "Укрепляюща, устраняет питту, жжение, расстройства крови, истощение и жажду. Полностью созревшая же саувира легка и сладка, называется кола.",
+        "text_en": "It is strengthening, and removes Pitta, burning sensation, blood disorders, emaciation and thirst. The fully ripe Sauvira, however, is light and sweet, and is called Kola."
       },
       {
         "type": "verse",
@@ -28098,7 +28565,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोलन्तु बदरं ग्राहि रुच्यमुष्णञ्च वातहृत् कफपित्तकरं चापि गुरु सारकमीरितम्",
         "iast": "kolantu badaraṃ grāhi rucyamuṣṇañca vātahṛt kaphapittakaraṃ cāpi guru sārakamīritam",
         "iast_ru": "коланту бадарам̣ гра̄хи ручйамуш̣н̣ан̃ча ва̄тахр̣т капхапиттакарам̣ ча̄пи гуру са̄ракамӣритам",
-        "text": "Кола-ююба закрепляюща, вкусна, горяча, устраняет ватху; но увеличивает капху и питту, тяжела, провозглашена слабительной."
+        "text": "Кола-ююба закрепляюща, вкусна, горяча, устраняет ватху; но увеличивает капху и питту, тяжела, провозглашена слабительной.",
+        "text_en": "The Kola jujube is constipating, tasty and hot, and removes Vata; but it increases Kapha and Pitta, is heavy, and is declared to be purgative."
       },
       {
         "type": "verse",
@@ -28106,7 +28574,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्कन्धूः क्षुद्र वदरं कथितं पूर्वसूरिभिः अम्लं स्यात्क्षुद्र वदरं कषायं मधुरं मनाक्",
         "iast": "karkandhūḥ kṣudra vadaraṃ kathitaṃ pūrvasūribhiḥ amlaṃ syātkṣudra vadaraṃ kaṣāyaṃ madhuraṃ manāk",
         "iast_ru": "каркандхӯх̣ кш̣удра вадарам̣ катхитам̣ пӯрвасӯрибхих̣ амлам̣ сйа̄ткш̣удра вадарам̣ каш̣а̄йам̣ мадхурам̣ мана̄к",
-        "text": "Каркандху названа древними мудрецами малой ююбой; малая ююба кисла, слегка вяжуще-сладка."
+        "text": "Каркандху названа древними мудрецами малой ююбой; малая ююба кисла, слегка вяжуще-сладка.",
+        "text_en": "Karkandhu is called by the ancient sages the small jujube; the small jujube is sour, slightly astringent-sweet."
       },
       {
         "type": "verse",
@@ -28114,7 +28583,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्निग्धं गुरु च तिक्तञ्च वातपित्तापहं स्मृतम् शुष्कं भेद्यग्निकृत्सर्वं लघु तृष्णाक्लमास्रजित्",
         "iast": "snigdhaṃ guru ca tiktañca vātapittāpahaṃ smṛtam śuṣkaṃ bhedyagnikṛtsarvaṃ laghu tṛṣṇāklamāsrajit",
         "iast_ru": "снигдхам̣ гуру ча тиктан̃ча ва̄тапитта̄пахам̣ смр̣там ш́уш̣кам̣ бхедйагникр̣тсарвам̣ лагху тр̣ш̣н̣а̄клама̄сраджит",
-        "text": "Масляниста, тяжела и горька, провозглашена устраняющей ватху и питту; высушенная же слабительна, возбуждает пищеварительный огонь, легка; вся сушёная ююба устраняет жажду, усталость и расстройства крови."
+        "text": "Масляниста, тяжела и горька, провозглашена устраняющей ватху и питту; высушенная же слабительна, возбуждает пищеварительный огонь, легка; вся сушёная ююба устраняет жажду, усталость и расстройства крови.",
+        "text_en": "It is unctuous, heavy and bitter, and is declared to remove Vata and Pitta; when dried, it is purgative, kindles the digestive fire, and is light; all dried jujube removes thirst, fatigue and blood disorders."
       },
       {
         "type": "verse",
@@ -28122,7 +28592,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्राचीनामलकं लोके पानीयामलकं स्मृतम् प्राचीनामलकं दोषत्रयजिज्ज्वरघाति च",
         "iast": "prācīnāmalakaṃ loke pānīyāmalakaṃ smṛtam prācīnāmalakaṃ doṣatrayajijjvaraghāti ca",
         "iast_ru": "пра̄чӣна̄малакам̣ локе па̄нӣйа̄малакам̣ смр̣там пра̄чӣна̄малакам̣ дош̣атрайаджиджджварагха̄ти ча",
-        "text": "Прачинамалака (звёздный крыжовник) в мире называется панияамалака; прачинамалака устраняет все три доши и уничтожает лихорадку."
+        "text": "Прачинамалака (звёздный крыжовник) в мире называется панияамалака; прачинамалака устраняет все три доши и уничтожает лихорадку.",
+        "text_en": "Prachinamalaka (star gooseberry) is called in the world Paniyamalaka; Prachinamalaka removes all three doshas and destroys fever."
       },
       {
         "type": "verse",
@@ -28130,7 +28601,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुगन्धमूला लवली पाण्डुः कोमलवल्कला",
         "iast": "sugandhamūlā lavalī pāṇḍuḥ komalavalkalā",
         "iast_ru": "сугандхамӯла̄ лавалӣ па̄н̣д̣ух̣ комалавалкала̄",
-        "text": "Лавали (эмблика) благоуханнокоренна, бледна, с мягкой корой."
+        "text": "Лавали (эмблика) благоуханнокоренна, бледна, с мягкой корой.",
+        "text_en": "Lavali (emblica) is fragrant-rooted, pale, with soft bark."
       },
       {
         "type": "verse",
@@ -28138,7 +28610,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लवलीफलमश्मार्शःकफपित्तहरं गुरु विशदं रोचनं रूक्षं स्वाद्वम्लं तुवरं रसे",
         "iast": "lavalīphalamaśmārśaḥkaphapittaharaṃ guru viśadaṃ rocanaṃ rūkṣaṃ svādvamlaṃ tuvaraṃ rase",
         "iast_ru": "лавалӣпхаламаш́ма̄рш́ах̣капхапиттахарам̣ гуру виш́адам̣ рочанам̣ рӯкш̣ам̣ сва̄двамлам̣ туварам̣ расе",
-        "text": "Плод лавали устраняет мочевые камни, геморрой, капху и питту; тяжёл, прозрачен, возбуждает аппетит, суховат; на вкус сладко-кисло-вяжущ."
+        "text": "Плод лавали устраняет мочевые камни, геморрой, капху и питту; тяжёл, прозрачен, возбуждает аппетит, суховат; на вкус сладко-кисло-вяжущ.",
+        "text_en": "The fruit of Lavali removes urinary stones, piles, Kapha and Pitta; it is heavy, clear, stimulates appetite, and is somewhat dry; in taste it is sweet-sour-astringent."
       },
       {
         "type": "verse",
@@ -28146,7 +28619,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करमर्दः सुषेणः स्यात्कृष्णपाकफलस्तथा तस्माल्लघुफला या तु सा ज्ञेया करमर्दिका",
         "iast": "karamardaḥ suṣeṇaḥ syātkṛṣṇapākaphalastathā tasmāllaghuphalā yā tu sā jñeyā karamardikā",
         "iast_ru": "карамардах̣ суш̣ен̣ах̣ сйа̄ткр̣ш̣н̣апа̄капхаластатха̄ тасма̄ллагхупхала̄ йа̄ ту са̄ джн̃ейа̄ карамардика̄",
-        "text": "Карамарда (карунда) называется сушена, кришнапакапхала («чернеющий при созревании»); разновидность с более мелкими плодами известна как карамардика."
+        "text": "Карамарда (карунда) называется сушена, кришнапакапхала («чернеющий при созревании»); разновидность с более мелкими плодами известна как карамардика.",
+        "text_en": "Karamarda (karonda) is called Sushena, Krishnapakaphala (\"blackening on ripening\"); the variety with smaller fruits is known as Karamardika."
       },
       {
         "type": "verse",
@@ -28154,7 +28628,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "करमर्दद्वयं त्वाममम्लं गुरु तृषाहरम् उष्णं रुचिकरं प्रोक्तं रक्तपित्तकफप्रदम् तत्पक्वं मधुरं रुच्यं लघु पित्तसमीरजित्",
         "iast": "karamardadvayaṃ tvāmamamlaṃ guru tṛṣāharam uṣṇaṃ rucikaraṃ proktaṃ raktapittakaphapradam tatpakvaṃ madhuraṃ rucyaṃ laghu pittasamīrajit",
         "iast_ru": "карамардадвайам̣ тва̄мамамлам̣ гуру тр̣ш̣а̄харам уш̣н̣ам̣ ручикарам̣ проктам̣ рактапиттакапхапрадам татпаквам̣ мадхурам̣ ручйам̣ лагху питтасамӣраджит",
-        "text": "Оба вида карамарды в незрелом виде кислы, тяжелы, устраняют жажду; провозглашены горячими, возбуждающими аппетит, увеличивающими кровяную питту и капху; спелые же сладки, вкусны, легки, устраняют питту и ватху."
+        "text": "Оба вида карамарды в незрелом виде кислы, тяжелы, устраняют жажду; провозглашены горячими, возбуждающими аппетит, увеличивающими кровяную питту и капху; спелые же сладки, вкусны, легки, устраняют питту и ватху.",
+        "text_en": "Both kinds of Karamarda, when unripe, are sour and heavy, and remove thirst; they are declared to be hot, to stimulate appetite, and to increase blood-Pitta disorders and Kapha; the ripe ones, however, are sweet, tasty and light, and remove Pitta and Vata."
       },
       {
         "type": "verse",
@@ -28162,7 +28637,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रियालस्तु खरस्कन्धश्चारो बहुलवल्कलः राजादनस्तापसेष्टः सन्नकद्रुर्धनुष्पटः",
         "iast": "priyālastu kharaskandhaścāro bahulavalkalaḥ rājādanastāpaseṣṭaḥ sannakadrurdhanuṣpaṭaḥ",
         "iast_ru": "прийа̄ласту кхараскандхаш́ча̄ро бахулавалкалах̣ ра̄джа̄данаста̄пасеш̣т̣ах̣ саннакадрурдхануш̣пат̣ах̣",
-        "text": "Прияла называется кхараскандха, чара, бахулавалкала, раджадана, тапасешта, саннакадру, дханушпата."
+        "text": "Прияла называется кхараскандха, чара, бахулавалкала, раджадана, тапасешта, саннакадру, дханушпата.",
+        "text_en": "Priyala is called Kharaskandha, Chara, Bahulavalkala, Rajadana, Tapaseshta, Sannakadru, Dhanushpata."
       },
       {
         "type": "verse",
@@ -28170,7 +28646,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चारः पित्तकफास्रघ्नस्तत्फलं मधुरं गुरु स्निग्धं सरं मरुत्पित्तदाहज्वरतृषाऽपहम्",
         "iast": "cāraḥ pittakaphāsraghnastatphalaṃ madhuraṃ guru snigdhaṃ saraṃ marutpittadāhajvaratṛṣā'paham",
         "iast_ru": "ча̄рах̣ питтакапха̄срагхнастатпхалам̣ мадхурам̣ гуру снигдхам̣ сарам̣ марутпиттада̄хаджваратр̣ш̣а̄'пахам",
-        "text": "Чара устраняет питту, капху и расстройства крови; её плод сладок, тяжёл, маслянист, слабителен; устраняет ватху, питту, жжение, лихорадку и жажду."
+        "text": "Чара устраняет питту, капху и расстройства крови; её плод сладок, тяжёл, маслянист, слабителен; устраняет ватху, питту, жжение, лихорадку и жажду.",
+        "text_en": "Chara removes Pitta, Kapha and blood disorders; its fruit is sweet, heavy, unctuous and purgative; it removes Vata, Pitta, burning sensation, fever and thirst."
       },
       {
         "type": "verse",
@@ -28178,7 +28655,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रियालमज्जा मधुरो वृष्यः पित्तानिलापहः हृद्योऽतिदुर्जरः स्निग्धो विष्टम्भी चामवर्द्धनः",
         "iast": "priyālamajjā madhuro vṛṣyaḥ pittānilāpahaḥ hṛdyo'tidurjaraḥ snigdho viṣṭambhī cāmavarddhanaḥ",
         "iast_ru": "прийа̄ламаджджа̄ мадхуро вр̣ш̣йах̣ питта̄нила̄пахах̣ хр̣дйо'тидурджарах̣ снигдхо виш̣т̣амбхӣ ча̄маварддханах̣",
-        "text": "Мякоть семени приялы сладка, усиливает половую силу, устраняет питту и ватху; приятна для сердца, весьма трудноперевариваема, масляниста, вызывает вздутие и увеличивает аму."
+        "text": "Мякоть семени приялы сладка, усиливает половую силу, устраняет питту и ватху; приятна для сердца, весьма трудноперевариваема, масляниста, вызывает вздутие и увеличивает аму.",
+        "text_en": "The kernel of the seed of Priyala is sweet, enhances sexual potency, and removes Pitta and Vata; it is pleasant to the heart, very difficult to digest, unctuous, causes distension, and increases ama."
       },
       {
         "type": "verse",
@@ -28186,7 +28664,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "राजादनः फलाध्यक्षो राजन्या क्षीरिकाऽपि च",
         "iast": "rājādanaḥ phalādhyakṣo rājanyā kṣīrikā'pi ca",
         "iast_ru": "ра̄джа̄данах̣ пхала̄дхйакш̣о ра̄джанйа̄ кш̣ӣрика̄'пи ча",
-        "text": "Раджадана называется пхаладхьякша; в женском роде — раджанья, а также кширика."
+        "text": "Раджадана называется пхаладхьякша; в женском роде — раджанья, а также кширика.",
+        "text_en": "Rajadana is called Phaladhyaksha; in the feminine, Rajanya, and also Kshirika."
       },
       {
         "type": "verse",
@@ -28194,7 +28673,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षीरिकायाः फलं वृष्यं बल्यं स्निग्धं हिमं गुरु तृष्णामूर्च्छामदभ्रान्तिक्षयदोषत्रयास्रजित्",
         "iast": "kṣīrikāyāḥ phalaṃ vṛṣyaṃ balyaṃ snigdhaṃ himaṃ guru tṛṣṇāmūrcchāmadabhrāntikṣayadoṣatrayāsrajit",
         "iast_ru": "кш̣ӣрика̄йа̄х̣ пхалам̣ вр̣ш̣йам̣ балйам̣ снигдхам̣ химам̣ гуру тр̣ш̣н̣а̄мӯрччха̄мадабхра̄нтикш̣айадош̣атрайа̄сраджит",
-        "text": "Плод кширики усиливает половую силу, придаёт силу, маслянист, холоден, тяжёл; устраняет жажду, обморок, опьянение, головокружение, истощение, все три доши и расстройства крови."
+        "text": "Плод кширики усиливает половую силу, придаёт силу, маслянист, холоден, тяжёл; устраняет жажду, обморок, опьянение, головокружение, истощение, все три доши и расстройства крови.",
+        "text_en": "The fruit of Kshirika enhances sexual potency, imparts strength, and is unctuous, cold and heavy; it removes thirst, fainting, intoxication, vertigo, emaciation, all three doshas and blood disorders."
       },
       {
         "type": "verse",
@@ -28202,7 +28682,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विकङ्कतः स्रुवावृक्षो ग्रन्थिलः स्वादुकण्टकः स एव यक्षवृक्षश्च कण्टकी व्याघ्रपादपि विकङ्कतफलं पक्वं मधुरं सर्वदोषजित्",
         "iast": "vikaṅkataḥ sruvāvṛkṣo granthilaḥ svādukaṇṭakaḥ sa eva yakṣavṛkṣaśca kaṇṭakī vyāghrapādapi vikaṅkataphalaṃ pakvaṃ madhuraṃ sarvadoṣajit",
         "iast_ru": "викан̇катах̣ срува̄вр̣кш̣о грантхилах̣ сва̄дукан̣т̣аках̣ са ева йакш̣авр̣кш̣аш́ча кан̣т̣акӣ вйа̄гхрапа̄дапи викан̇катапхалам̣ паквам̣ мадхурам̣ сарвадош̣аджит",
-        "text": "Виканката называется срувавркша, грантхила, свадукантака; она же — якшавркша, кантаки, вьягхрапада; спелый плод виканкаты сладок, устраняет все доши."
+        "text": "Виканката называется срувавркша, грантхила, свадукантака; она же — якшавркша, кантаки, вьягхрапада; спелый плод виканкаты сладок, устраняет все доши.",
+        "text_en": "Vikankata is called Sruvavriksha, Granthila, Svadukantaka; it is also Yakshavriksha, Kantaki, Vyaghrapada; the ripe fruit of Vikankata is sweet, and removes all the doshas."
       },
       {
         "type": "verse",
@@ -28210,7 +28691,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पद्मबीजं तु पद्माक्षं गालोड्यं पद्मकर्कटी पद्मबीजं हिमं स्वादु कषायं तिक्तकं गुरु",
         "iast": "padmabījaṃ tu padmākṣaṃ gāloḍyaṃ padmakarkaṭī padmabījaṃ himaṃ svādu kaṣāyaṃ tiktakaṃ guru",
         "iast_ru": "падмабӣджам̣ ту падма̄кш̣ам̣ га̄лод̣йам̣ падмакаркат̣ӣ падмабӣджам̣ химам̣ сва̄ду каш̣а̄йам̣ тиктакам̣ гуру",
-        "text": "Семя лотоса называется падмакша, галодья, падма-каркати; семя лотоса холодно, сладко, вяжуще, слегка горько, тяжело."
+        "text": "Семя лотоса называется падмакша, галодья, падма-каркати; семя лотоса холодно, сладко, вяжуще, слегка горько, тяжело.",
+        "text_en": "The seed of the lotus is called Padmaksha, Galodya, Padma-karkati; the lotus seed is cold, sweet, astringent, slightly bitter and heavy."
       },
       {
         "type": "verse",
@@ -28218,7 +28700,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विष्टम्भि वृष्यं रूक्षञ्च गर्भसंस्थापकं परम् कफवातकरं बल्यं ग्राहि पित्तास्रदाहनुत्",
         "iast": "viṣṭambhi vṛṣyaṃ rūkṣañca garbhasaṃsthāpakaṃ param kaphavātakaraṃ balyaṃ grāhi pittāsradāhanut",
         "iast_ru": "виш̣т̣амбхи вр̣ш̣йам̣ рӯкш̣ан̃ча гарбхасам̣стха̄пакам̣ парам капхава̄такарам̣ балйам̣ гра̄хи питта̄срада̄ханут",
-        "text": "Вызывает вздутие, усиливает половую силу, суховато, отлично поддерживает беременность; увеличивает капху и ватху, придаёт силу, закрепляюще, устраняет питту, расстройства крови и жжение."
+        "text": "Вызывает вздутие, усиливает половую силу, суховато, отлично поддерживает беременность; увеличивает капху и ватху, придаёт силу, закрепляюще, устраняет питту, расстройства крови и жжение.",
+        "text_en": "It causes distension, enhances sexual potency, is somewhat dry, and excellently sustains pregnancy; it increases Kapha and Vata, imparts strength, is constipating, and removes Pitta, blood disorders and burning sensation."
       },
       {
         "type": "verse",
@@ -28226,7 +28709,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मखान्नं पद्मबीजाभं पानीयफलमित्यपि मखान्नं पद्मबीजस्य गुणैस्तुल्यं विनिर्दिशेत्",
         "iast": "makhānnaṃ padmabījābhaṃ pānīyaphalamityapi makhānnaṃ padmabījasya guṇaistulyaṃ vinirdiśet",
         "iast_ru": "макха̄ннам̣ падмабӣджа̄бхам̣ па̄нӣйапхаламитйапи макха̄ннам̣ падмабӣджасйа гун̣аистулйам̣ винирдиш́ет",
-        "text": "Макханна (плод фокса-ореха) похожа на семя лотоса, называется панийапхала; следует признать, что макханна равна семени лотоса по свойствам."
+        "text": "Макханна (плод фокса-ореха) похожа на семя лотоса, называется панийапхала; следует признать, что макханна равна семени лотоса по свойствам.",
+        "text_en": "Makhanna (the fruit of the fox nut) resembles the lotus seed and is called Paniyaphala; it should be recognized that Makhanna is equal to the lotus seed in properties."
       },
       {
         "type": "verse",
@@ -28234,7 +28718,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शृङ्गाटकं जलफलं त्रिकोणफलमित्यपि",
         "iast": "śṛṅgāṭakaṃ jalaphalaṃ trikoṇaphalamityapi",
         "iast_ru": "ш́р̣н̇га̄т̣акам̣ джалапхалам̣ трикон̣апхаламитйапи",
-        "text": "Шрингатака (водяной орех) называется джалапхала, триконапхала («треугольный плод»)."
+        "text": "Шрингатака (водяной орех) называется джалапхала, триконапхала («треугольный плод»).",
+        "text_en": "Shringataka (water chestnut) is called Jalaphala, Trikonaphala (\"triangular fruit\")."
       },
       {
         "type": "verse",
@@ -28242,7 +28727,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शृङ्गाटकं हिमं स्वादु गुरु वृष्यं कषायकम् ग्राही शुक्रानिलश्लेष्मप्रदं पित्तास्रदाहनुत्",
         "iast": "śṛṅgāṭakaṃ himaṃ svādu guru vṛṣyaṃ kaṣāyakam grāhī śukrānilaśleṣmapradaṃ pittāsradāhanut",
         "iast_ru": "ш́р̣н̇га̄т̣акам̣ химам̣ сва̄ду гуру вр̣ш̣йам̣ каш̣а̄йакам гра̄хӣ ш́укра̄нилаш́леш̣мапрадам̣ питта̄срада̄ханут",
-        "text": "Шрингатака холодна, сладка, тяжела, усиливает половую силу, вяжуща; закрепляюща, увеличивает семя, ватху и капху; устраняет питту, расстройства крови и жжение."
+        "text": "Шрингатака холодна, сладка, тяжела, усиливает половую силу, вяжуща; закрепляюща, увеличивает семя, ватху и капху; устраняет питту, расстройства крови и жжение.",
+        "text_en": "Shringataka is cold, sweet and heavy, enhances sexual potency, and is astringent; it is constipating, increases semen, Vata and Kapha; it removes Pitta, blood disorders and burning sensation."
       },
       {
         "type": "verse",
@@ -28250,7 +28736,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उक्तं कुमुदबीजन्तु बुधैः कैरविणीफलम् भवेत्कुमुद्वतीबीजं स्वादु रूक्षं हिमं गुरु",
         "iast": "uktaṃ kumudabījantu budhaiḥ kairaviṇīphalam bhavetkumudvatībījaṃ svādu rūkṣaṃ himaṃ guru",
         "iast_ru": "уктам̣ кумудабӣджанту будхаих̣ каиравин̣ӣпхалам бхаветкумудватӣбӣджам̣ сва̄ду рӯкш̣ам̣ химам̣ гуру",
-        "text": "Семя кумуды названо мудрецами каиравини-пхала; семя кумудвати сладко, суховато, холодно, тяжело."
+        "text": "Семя кумуды названо мудрецами каиравини-пхала; семя кумудвати сладко, суховато, холодно, тяжело.",
+        "text_en": "The seed of Kumuda is named by the sages Kairavini-phala; the seed of Kumudvati is sweet, somewhat dry, cold and heavy."
       },
       {
         "type": "verse",
@@ -28258,7 +28745,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधूको गुडपुष्पः स्यान्मधुपुष्पो मधुस्रवः वानप्रस्थो मधुष्ठीलो जलजेऽत्र मधूलकः",
         "iast": "madhūko guḍapuṣpaḥ syānmadhupuṣpo madhusravaḥ vānaprastho madhuṣṭhīlo jalaje'tra madhūlakaḥ",
         "iast_ru": "мадхӯко гуд̣апуш̣пах̣ сйа̄нмадхупуш̣по мадхусравах̣ ва̄напрастхо мадхуш̣т̣хӣло джаладже'тра мадхӯлаках̣",
-        "text": "Мадхука называется гудапушпа, мадхупушпа, мадхусрава, ванапрастха, мадхуштхила; водный же вид — мадхулака."
+        "text": "Мадхука называется гудапушпа, мадхупушпа, мадхусрава, ванапрастха, мадхуштхила; водный же вид — мадхулака.",
+        "text_en": "Madhuka is called Gudapushpa, Madhupushpa, Madhusrava, Vanaprastha, Madhushthila; the aquatic kind is Madhulaka."
       },
       {
         "type": "verse",
@@ -28266,7 +28754,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधूकपुष्पं मधुरं शीतलं गुरु बृंहणम् बलशुक्रकरं प्रोक्तं वातपित्तविनाशनम्",
         "iast": "madhūkapuṣpaṃ madhuraṃ śītalaṃ guru bṛṃhaṇam balaśukrakaraṃ proktaṃ vātapittavināśanam",
         "iast_ru": "мадхӯкапуш̣пам̣ мадхурам̣ ш́ӣталам̣ гуру бр̣м̣хан̣ам балаш́укракарам̣ проктам̣ ва̄тапиттавина̄ш́анам",
-        "text": "Цветок мадхуки сладок, холоден, тяжёл, укрепляющ; провозглашён придающим силу и увеличивающим семя, устраняющим ватху и питту."
+        "text": "Цветок мадхуки сладок, холоден, тяжёл, укрепляющ; провозглашён придающим силу и увеличивающим семя, устраняющим ватху и питту.",
+        "text_en": "The flower of Madhuka is sweet, cold, heavy and strengthening; it is declared to impart strength and to increase semen, and to remove Vata and Pitta."
       },
       {
         "type": "verse",
@@ -28274,7 +28763,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलं शीतं गुरु स्वादु शुक्रलं वातपित्तनुत् अहृद्यं हन्ति तृष्णाऽस्रदाहश्वासक्षतक्षयान्",
         "iast": "phalaṃ śītaṃ guru svādu śukralaṃ vātapittanut ahṛdyaṃ hanti tṛṣṇā'sradāhaśvāsakṣatakṣayān",
         "iast_ru": "пхалам̣ ш́ӣтам̣ гуру сва̄ду ш́укралам̣ ва̄тапиттанут ахр̣дйам̣ ханти тр̣ш̣н̣а̄'срада̄хаш́ва̄сакш̣атакш̣айа̄н",
-        "text": "Плод холоден, тяжёл, сладок, увеличивает семя, устраняет ватху и питту; не приятен для сердца; уничтожает жажду, расстройства крови, жжение, одышку, травмы и истощение."
+        "text": "Плод холоден, тяжёл, сладок, увеличивает семя, устраняет ватху и питту; не приятен для сердца; уничтожает жажду, расстройства крови, жжение, одышку, травмы и истощение.",
+        "text_en": "The fruit is cold, heavy and sweet, increases semen, and removes Vata and Pitta; it is not pleasant to the heart; it destroys thirst, blood disorders, burning sensation, dyspnea, injuries and emaciation."
       },
       {
         "type": "verse",
@@ -28282,7 +28772,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "परूषकं तु परुषमल्पास्थि च परापरम् परूषकं कषायाम्लमामं पित्तकरं लघु",
         "iast": "parūṣakaṃ tu paruṣamalpāsthi ca parāparam parūṣakaṃ kaṣāyāmlamāmaṃ pittakaraṃ laghu",
         "iast_ru": "парӯш̣акам̣ ту паруш̣амалпа̄стхи ча пара̄парам парӯш̣акам̣ каш̣а̄йа̄млама̄мам̣ питтакарам̣ лагху",
-        "text": "Парушака (гревия) грубовата, с малой косточкой, разных видов; незрелая парушака вяжуще-кисла, увеличивает питту, легка."
+        "text": "Парушака (гревия) грубовата, с малой косточкой, разных видов; незрелая парушака вяжуще-кисла, увеличивает питту, легка.",
+        "text_en": "Parushaka (Grewia) is somewhat coarse, with a small stone, of various kinds; the unripe Parushaka is astringent-sour, increases Pitta, and is light."
       },
       {
         "type": "verse",
@@ -28290,7 +28781,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्पक्वं मधुरं पाके शीतं विष्टम्भि बृंहणम् हृद्यन्तु पित्तदाहास्रज्वरक्षयसमीरहृत्",
         "iast": "tatpakvaṃ madhuraṃ pāke śītaṃ viṣṭambhi bṛṃhaṇam hṛdyantu pittadāhāsrajvarakṣayasamīrahṛt",
         "iast_ru": "татпаквам̣ мадхурам̣ па̄ке ш́ӣтам̣ виш̣т̣амбхи бр̣м̣хан̣ам хр̣дйанту питтада̄ха̄сраджваракш̣айасамӣрахр̣т",
-        "text": "Спелая же сладка и после переваривания холодна, вызывает вздутие, укрепляюща; приятна для сердца; устраняет питту, жжение, расстройства крови, лихорадку, истощение и ватху."
+        "text": "Спелая же сладка и после переваривания холодна, вызывает вздутие, укрепляюща; приятна для сердца; устраняет питту, жжение, расстройства крови, лихорадку, истощение и ватху.",
+        "text_en": "The ripe one, however, is sweet and cold after digestion, causes distension, and is strengthening; it is pleasant to the heart; it removes Pitta, burning sensation, blood disorders, fever, emaciation and Vata."
       },
       {
         "type": "verse",
@@ -28298,7 +28790,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तूतस्तूलश्च पूगश्च क्रमुको ब्रह्मदारु च तूतं पक्वं गुरु स्वादु हिमं पित्तानिलापहम् तदेवामं गुरु सरमम्लोष्णं रक्तपित्तकृत्",
         "iast": "tūtastūlaśca pūgaśca kramuko brahmadāru ca tūtaṃ pakvaṃ guru svādu himaṃ pittānilāpaham tadevāmaṃ guru saramamloṣṇaṃ raktapittakṛt",
         "iast_ru": "тӯтастӯлаш́ча пӯгаш́ча крамуко брахмада̄ру ча тӯтам̣ паквам̣ гуру сва̄ду химам̣ питта̄нила̄пахам тадева̄мам̣ гуру сарамамлош̣н̣ам̣ рактапиттакр̣т",
-        "text": "Тута (шелковица) называется тула, пуга, крамука, брахмадару; спелая тута тяжела, сладка, холодна, устраняет питту и ватху; та же незрелая тяжела, слабительна, кисло-горяча, увеличивает кровяную питту."
+        "text": "Тута (шелковица) называется тула, пуга, крамука, брахмадару; спелая тута тяжела, сладка, холодна, устраняет питту и ватху; та же незрелая тяжела, слабительна, кисло-горяча, увеличивает кровяную питту.",
+        "text_en": "Tuta (mulberry) is called Tula, Puga, Kramuka, Brahmadaru; the ripe Tuta is heavy, sweet and cold, and removes Pitta and Vata; the same unripe is heavy, purgative, sour-hot, and increases blood-Pitta disorders."
       },
       {
         "type": "verse",
@@ -28306,7 +28799,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दाडिमः करको दन्तबीजो लोहितपुष्पकः तत्फलं त्रिविधं स्वादु स्वाद्वम्लं केवलाम्लकम्",
         "iast": "dāḍimaḥ karako dantabījo lohitapuṣpakaḥ tatphalaṃ trividhaṃ svādu svādvamlaṃ kevalāmlakam",
         "iast_ru": "да̄д̣имах̣ карако дантабӣджо лохитапуш̣паках̣ татпхалам̣ тривидхам̣ сва̄ду сва̄двамлам̣ кевала̄млакам",
-        "text": "Гранат (дадима) называется карака, дантабиджа, лохитапушпака; его плод бывает трёх видов: сладкий, сладко-кислый и чисто кислый."
+        "text": "Гранат (дадима) называется карака, дантабиджа, лохитапушпака; его плод бывает трёх видов: сладкий, сладко-кислый и чисто кислый.",
+        "text_en": "Pomegranate (Dadima) is called Karaka, Dantabija, Lohitapushpaka; its fruit is of three kinds: sweet, sweet-sour and purely sour."
       },
       {
         "type": "verse",
@@ -28314,7 +28808,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्तु स्वादु त्रिदोषघ्नं तृड्दाहज्वरनाशनम् हृत्कण्ठमुखगन्धघ्नं तर्पणं शुक्रलं लघु",
         "iast": "tattu svādu tridoṣaghnaṃ tṛḍdāhajvaranāśanam hṛtkaṇṭhamukhagandhaghnaṃ tarpaṇaṃ śukralaṃ laghu",
         "iast_ru": "татту сва̄ду тридош̣агхнам̣ тр̣д̣да̄хаджварана̄ш́анам хр̣ткан̣т̣хамукхагандхагхнам̣ тарпан̣ам̣ ш́укралам̣ лагху",
-        "text": "Сладкий гранат устраняет все три доши, уничтожает жажду, жжение и лихорадку; устраняет неприятный запах сердца, горла и рта; питателен, увеличивает семя, лёгок."
+        "text": "Сладкий гранат устраняет все три доши, уничтожает жажду, жжение и лихорадку; устраняет неприятный запах сердца, горла и рта; питателен, увеличивает семя, лёгок.",
+        "text_en": "The sweet pomegranate removes all three doshas, destroys thirst, burning sensation and fever; it removes foul odor of the heart, throat and mouth; it is nourishing, increases semen, and is light."
       },
       {
         "type": "verse",
@@ -28322,7 +28817,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कषायानुरसं ग्राहि स्निग्धं मेधाबलावहम्",
         "iast": "kaṣāyānurasaṃ grāhi snigdhaṃ medhābalāvaham",
         "iast_ru": "каш̣а̄йа̄нурасам̣ гра̄хи снигдхам̣ медха̄бала̄вахам",
-        "text": "С вяжущим послевкусием, закрепляющ, маслянист, придаёт разум и силу."
+        "text": "С вяжущим послевкусием, закрепляющ, маслянист, придаёт разум и силу.",
+        "text_en": "It has an astringent aftertaste, is constipating and unctuous, and bestows intellect and strength."
       },
       {
         "type": "verse",
@@ -28330,7 +28826,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वाद्वम्लं दीपनं रुच्यं किञ्चित्पित्तकरं लघु अम्लन्तु पित्तजनकमामं वातकफापहम्",
         "iast": "svādvamlaṃ dīpanaṃ rucyaṃ kiñcitpittakaraṃ laghu amlantu pittajanakamāmaṃ vātakaphāpaham",
         "iast_ru": "сва̄двамлам̣ дӣпанам̣ ручйам̣ кин̃читпиттакарам̣ лагху амланту питтаджанакама̄мам̣ ва̄такапха̄пахам",
-        "text": "Сладко-кислый гранат возбуждает пищеварительный огонь, вкусен, слегка увеличивает питту, лёгок; чисто кислый же увеличивает питту; незрелый же устраняет ватху и капху."
+        "text": "Сладко-кислый гранат возбуждает пищеварительный огонь, вкусен, слегка увеличивает питту, лёгок; чисто кислый же увеличивает питту; незрелый же устраняет ватху и капху.",
+        "text_en": "The sweet-sour pomegranate kindles the digestive fire, is tasty, slightly increases Pitta, and is light; the purely sour one increases Pitta; the unripe one, however, removes Vata and Kapha."
       },
       {
         "type": "verse",
@@ -28338,7 +28835,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथ बहुवारः इ!लिसोडांइ! तस्य नामानि बहुवारस्तु शीतः स्यादुद्दालो बहुवारकः शेलुः श्लेष्मातकश्चापि पिच्छिलो भूतवृक्षकः",
         "iast": "atha bahuvāraḥ i!lisoḍāṃi! tasya nāmāni bahuvārastu śītaḥ syāduddālo bahuvārakaḥ śeluḥ śleṣmātakaścāpi picchilo bhūtavṛkṣakaḥ",
         "iast_ru": "атха бахува̄рах̣ и!лисод̣а̄м̣и! тасйа на̄ма̄ни бахува̄расту ш́ӣтах̣ сйа̄дудда̄ло бахува̄раках̣ ш́елух̣ ш́леш̣ма̄такаш́ча̄пи пиччхило бхӯтавр̣кш̣аках̣",
-        "text": "Далее — бахувара; вот его имена: бахувара холоден, называется уддала, бахуварака, шелу, шлешматака, пиччхила, бхутавркшака."
+        "text": "Далее — бахувара; вот его имена: бахувара холоден, называется уддала, бахуварака, шелу, шлешматака, пиччхила, бхутавркшака.",
+        "text_en": "Next — Bahuvara; here are its names: Bahuvara is cold, called Uddala, Bahuvaraka, Shelu, Shleshmataka, Pichchhila, Bhutavrikshaka."
       },
       {
         "type": "comment",
@@ -28351,7 +28849,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बहुवारो विषस्फोटव्रणवीसर्पकुष्ठनुत् मधुरस्तुवरस्तिक्तः केश्यश्च कफपित्तहृत्",
         "iast": "bahuvāro viṣasphoṭavraṇavīsarpakuṣṭhanut madhurastuvarastiktaḥ keśyaśca kaphapittahṛt",
         "iast_ru": "бахува̄ро виш̣аспхот̣авран̣авӣсарпакуш̣т̣ханут мадхурастуварастиктах̣ кеш́йаш́ча капхапиттахр̣т",
-        "text": "Бахувара устраняет яд, волдыри, раны, висарпу и кожные болезни; сладко-вяжуще-горек, полезен для волос, устраняет капху и питту."
+        "text": "Бахувара устраняет яд, волдыри, раны, висарпу и кожные болезни; сладко-вяжуще-горек, полезен для волос, устраняет капху и питту.",
+        "text_en": "Bahuvara removes poison, blisters, wounds, visarpa and skin diseases; it is sweet-astringent-bitter, beneficial for the hair, and removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -28359,7 +28858,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलमामन्तु विष्टम्भि रूक्षं पित्तकफास्रजित् तत्पक्वं मधुरं स्निग्धं श्लेष्मलं शीतलं गुरु",
         "iast": "phalamāmantu viṣṭambhi rūkṣaṃ pittakaphāsrajit tatpakvaṃ madhuraṃ snigdhaṃ śleṣmalaṃ śītalaṃ guru",
         "iast_ru": "пхалама̄манту виш̣т̣амбхи рӯкш̣ам̣ питтакапха̄сраджит татпаквам̣ мадхурам̣ снигдхам̣ ш́леш̣малам̣ ш́ӣталам̣ гуру",
-        "text": "Незрелый плод вызывает вздутие, суховат, устраняет питту, капху и расстройства крови; спелый же сладок, маслянист, увеличивает капху, холоден, тяжёл."
+        "text": "Незрелый плод вызывает вздутие, суховат, устраняет питту, капху и расстройства крови; спелый же сладок, маслянист, увеличивает капху, холоден, тяжёл.",
+        "text_en": "The unripe fruit causes distension, is somewhat dry, and removes Pitta, Kapha and blood disorders; the ripe one, however, is sweet, unctuous, increases Kapha, and is cold and heavy."
       },
       {
         "type": "verse",
@@ -28367,7 +28867,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पयः प्रसादी कतकः कतकं तत्फलं च तत् कतकस्य फलं नेत्र्! यं जलनिर्मलताकरम् वातश्लेष्महरं शीतं मधुरं तुवरं गुरु",
         "iast": "payaḥ prasādī katakaḥ katakaṃ tatphalaṃ ca tat katakasya phalaṃ netr! yaṃ jalanirmalatākaram vātaśleṣmaharaṃ śītaṃ madhuraṃ tuvaraṃ guru",
         "iast_ru": "пайах̣ праса̄дӣ катаках̣ катакам̣ татпхалам̣ ча тат катакасйа пхалам̣ нетр! йам̣ джаланирмалата̄карам ва̄таш́леш̣махарам̣ ш́ӣтам̣ мадхурам̣ туварам̣ гуру",
-        "text": "Катака (клиринговый орех) очищает воду; катака — это и её плод; плод катаки полезен для глаз, очищает воду; устраняет ватху и капху, холоден, сладко-вяжущ, тяжёл."
+        "text": "Катака (клиринговый орех) очищает воду; катака — это и её плод; плод катаки полезен для глаз, очищает воду; устраняет ватху и капху, холоден, сладко-вяжущ, тяжёл.",
+        "text_en": "Kataka (clearing nut) purifies water; Kataka is also the name of its fruit; the fruit of Kataka is beneficial for the eyes and purifies water; it removes Vata and Kapha, and is cold, sweet-astringent and heavy."
       },
       {
         "type": "verse",
@@ -28375,7 +28876,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्रा क्षास्वादुफला प्रोक्ता तथा मधुरसाऽपि च मृद्वीका हारहूरा च गोस्तनी चापि कीर्त्तिता",
         "iast": "drā kṣāsvāduphalā proktā tathā madhurasā'pi ca mṛdvīkā hārahūrā ca gostanī cāpi kīrttitā",
         "iast_ru": "дра̄ кш̣а̄сва̄дупхала̄ прокта̄ татха̄ мадхураса̄'пи ча мр̣двӣка̄ ха̄рахӯра̄ ча гостанӣ ча̄пи кӣрттита̄",
-        "text": "Виноград (дракша) провозглашён сладкоплодным, называется мадхураса, мридвика, харахура, а также гостани."
+        "text": "Виноград (дракша) провозглашён сладкоплодным, называется мадхураса, мридвика, харахура, а также гостани.",
+        "text_en": "Grape (Draksha) is declared to be sweet-fruited, and is called Madhurasa, Mridvika, Harahura, and also Gostani."
       },
       {
         "type": "verse",
@@ -28383,7 +28885,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्रा क्षा पक्वा सरा शीता चक्षुष्या बृंहणी गुरुः स्वादुपाकरसा स्वर्या तुवरा सृष्टमूत्रविट्",
         "iast": "drā kṣā pakvā sarā śītā cakṣuṣyā bṛṃhaṇī guruḥ svādupākarasā svaryā tuvarā sṛṣṭamūtraviṭ",
         "iast_ru": "дра̄ кш̣а̄ паква̄ сара̄ ш́ӣта̄ чакш̣уш̣йа̄ бр̣м̣хан̣ӣ гурух̣ сва̄дупа̄караса̄ сварйа̄ тувара̄ ср̣ш̣т̣амӯтравит̣",
-        "text": "Спелый виноград слабителен, холоден, полезен для глаз, укрепляющ, тяжёл; сладок и после переваривания, улучшает голос, вяжущ, облегчает выделение мочи и кала."
+        "text": "Спелый виноград слабителен, холоден, полезен для глаз, укрепляющ, тяжёл; сладок и после переваривания, улучшает голос, вяжущ, облегчает выделение мочи и кала.",
+        "text_en": "The ripe grape is purgative, cold, beneficial for the eyes, strengthening and heavy; it is sweet also after digestion, improves the voice, is astringent, and facilitates the passage of urine and stool."
       },
       {
         "type": "verse",
@@ -28391,7 +28894,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोष्ठमारुतकृद् वृष्या कफपुष्टिरुचिप्रदा",
         "iast": "koṣṭhamārutakṛd vṛṣyā kaphapuṣṭirucipradā",
         "iast_ru": "кош̣т̣хама̄рутакр̣д вр̣ш̣йа̄ капхапуш̣т̣иручипрада̄",
-        "text": "Устраняет вздутие кишечника, усиливает половую силу, увеличивает капху, питание и аппетит."
+        "text": "Устраняет вздутие кишечника, усиливает половую силу, увеличивает капху, питание и аппетит.",
+        "text_en": "It removes intestinal distension, enhances sexual potency, and increases Kapha, nourishment and appetite."
       },
       {
         "type": "verse",
@@ -28399,7 +28903,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हन्ति तृष्णाज्चरश्वासवातवातास्रकामलाः कृच्छ्रास्रपित्तसंमोहदाहशोषमदात्ययान्",
         "iast": "hanti tṛṣṇājcaraśvāsavātavātāsrakāmalāḥ kṛcchrāsrapittasaṃmohadāhaśoṣamadātyayān",
         "iast_ru": "ханти тр̣ш̣н̣а̄джчараш́ва̄сава̄тава̄та̄срака̄мала̄х̣ кр̣ччхра̄срапиттасам̣мохада̄хаш́ош̣амада̄тйайа̄н",
-        "text": "Уничтожает жажду, лихорадку, одышку, ватху, вата-ракту (подагру) и желтуху; устраняет дизурию, расстройства крови, питту, помрачение сознания, жжение, истощение и опьянение."
+        "text": "Уничтожает жажду, лихорадку, одышку, ватху, вата-ракту (подагру) и желтуху; устраняет дизурию, расстройства крови, питту, помрачение сознания, жжение, истощение и опьянение.",
+        "text_en": "It destroys thirst, fever, dyspnea, Vata, vata-rakta (gout) and jaundice; it removes dysuria, blood disorders, Pitta, clouding of consciousness, burning sensation, emaciation and intoxication."
       },
       {
         "type": "verse",
@@ -28407,7 +28912,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आमा स्वल्पगुणा गुर्वी सैवाम्ला रक्तपित्तकृत् वृष्या स्याद् गोस्तनी द्रा क्षा गुर्वी च कफपित्तनुत्",
         "iast": "āmā svalpaguṇā gurvī saivāmlā raktapittakṛt vṛṣyā syād gostanī drā kṣā gurvī ca kaphapittanut",
         "iast_ru": "а̄ма̄ свалпагун̣а̄ гурвӣ саива̄мла̄ рактапиттакр̣т вр̣ш̣йа̄ сйа̄д гостанӣ дра̄ кш̣а̄ гурвӣ ча капхапиттанут",
-        "text": "Незрелый виноград обладает меньшими достоинствами, тяжёл; он же, будучи кислым, вызывает кровяную питту. Гостани-виноград усиливает половую силу, тяжёл, устраняет капху и питту."
+        "text": "Незрелый виноград обладает меньшими достоинствами, тяжёл; он же, будучи кислым, вызывает кровяную питту. Гостани-виноград усиливает половую силу, тяжёл, устраняет капху и питту.",
+        "text_en": "The unripe grape has lesser merits and is heavy; being sour, it causes blood-Pitta disorders. The Gostani grape enhances sexual potency, is heavy, and removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -28415,7 +28921,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अबीजाऽन्या स्वल्पतरा गोस्तनीसदृशी गुणैः द्रा क्षा पर्वतजा लघ्वी साऽम्ला श्लेष्माम्लपित्तकृत् द्रा क्षा पर्वतजा यादृक् तादृशी करमर्दिका",
         "iast": "abījā'nyā svalpatarā gostanīsadṛśī guṇaiḥ drā kṣā parvatajā laghvī sā'mlā śleṣmāmlapittakṛt drā kṣā parvatajā yādṛk tādṛśī karamardikā",
         "iast_ru": "абӣджа̄'нйа̄ свалпатара̄ гостанӣсадр̣ш́ӣ гун̣аих̣ дра̄ кш̣а̄ парватаджа̄ лагхвӣ са̄'мла̄ ш́леш̣ма̄млапиттакр̣т дра̄ кш̣а̄ парватаджа̄ йа̄др̣к та̄др̣ш́ӣ карамардика̄",
-        "text": "Бессемянный виноград — иная разновидность, меньшая, схожая по свойствам с гостани. Горный же виноград лёгок, кисл, увеличивает капху и питту. Как горный виноград, так и карамардика."
+        "text": "Бессемянный виноград — иная разновидность, меньшая, схожая по свойствам с гостани. Горный же виноград лёгок, кисл, увеличивает капху и питту. Как горный виноград, так и карамардика.",
+        "text_en": "The seedless grape is another, smaller variety, similar in properties to Gostani. The mountain grape, however, is light and sour, and increases Kapha and Pitta. As is the mountain grape, so is Karamardika."
       },
       {
         "type": "verse",
@@ -28423,7 +28930,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूमिखर्जूरीका स्वाद्वी दुरारोहाः मृदुच्छदा तथा स्कन्धफला काककर्कटी स्वादुमस्तका",
         "iast": "bhūmikharjūrīkā svādvī durārohāḥ mṛducchadā tathā skandhaphalā kākakarkaṭī svādumastakā",
         "iast_ru": "бхӯмикхарджӯрӣка̄ сва̄двӣ дура̄роха̄х̣ мр̣дуччхада̄ татха̄ скандхапхала̄ ка̄какаркат̣ӣ сва̄думастака̄",
-        "text": "Земляная финиковая пальма сладка, труднодоступна, с мягкими листьями, а также скандхапхала, какакаркати, свадумастака."
+        "text": "Земляная финиковая пальма сладка, труднодоступна, с мягкими листьями, а также скандхапхала, какакаркати, свадумастака.",
+        "text_en": "The ground date palm is sweet, hard to obtain, with soft leaves, and also called Skandhaphala, Kakakarkati, Svadumastaka."
       },
       {
         "type": "verse",
@@ -28431,7 +28939,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पिण्डखर्जूरिका त्वन्या सा देशे पश्चिमे भवेत् खर्जुरी गोस्तनाकारा परद्वीपादिहागता",
         "iast": "piṇḍakharjūrikā tvanyā sā deśe paścime bhavet kharjurī gostanākārā paradvīpādihāgatā",
         "iast_ru": "пин̣д̣акхарджӯрика̄ тванйа̄ са̄ деш́е паш́чиме бхавет кхарджурӣ гостана̄ка̄ра̄ парадвӣпа̄диха̄гата̄",
-        "text": "Пиндакхарджурика же — иная разновидность, произрастающая в западных землях; финиковая пальма формы гостана, привезённая с других островов."
+        "text": "Пиндакхарджурика же — иная разновидность, произрастающая в западных землях; финиковая пальма формы гостана, привезённая с других островов.",
+        "text_en": "Pindakharjurika, however, is another variety, growing in the western lands; the date palm of the Gostana type, brought from other islands."
       },
       {
         "type": "verse",
@@ -28439,7 +28948,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जायते पश्चिमे देशे सा छोहारेति कीत्तर्यते खर्जूरीत्रितयं शीतं मधुरं रसपाकयोः",
         "iast": "jāyate paścime deśe sā chohāreti kīttaryate kharjūrītritayaṃ śītaṃ madhuraṃ rasapākayoḥ",
         "iast_ru": "джа̄йате паш́чиме деш́е са̄ чхоха̄рети кӣттарйате кхарджӯрӣтритайам̣ ш́ӣтам̣ мадхурам̣ расапа̄кайох̣",
-        "text": "Она произрастает в западных землях и называется чхохара; все три вида фиников холодны и сладки на вкус и после переваривания."
+        "text": "Она произрастает в западных землях и называется чхохара; все три вида фиников холодны и сладки на вкус и после переваривания.",
+        "text_en": "It grows in the western lands and is called Chhohara; all three kinds of dates are cold and sweet in taste and after digestion."
       },
       {
         "type": "verse",
@@ -28447,7 +28957,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्निग्धं रुचिकरं हृद्यं क्षतक्षयहरं गुरु तर्पणं रक्तपित्तघ्नं पुष्टिविष्टम्भशुक्रदम्",
         "iast": "snigdhaṃ rucikaraṃ hṛdyaṃ kṣatakṣayaharaṃ guru tarpaṇaṃ raktapittaghnaṃ puṣṭiviṣṭambhaśukradam",
         "iast_ru": "снигдхам̣ ручикарам̣ хр̣дйам̣ кш̣атакш̣айахарам̣ гуру тарпан̣ам̣ рактапиттагхнам̣ пуш̣т̣ивиш̣т̣амбхаш́украдам",
-        "text": "Маслянисты, возбуждают аппетит, приятны для сердца, устраняют травмы и истощение, тяжелы; питательны, устраняют кровяную питту, способствуют питанию, вздутию и семени."
+        "text": "Маслянисты, возбуждают аппетит, приятны для сердца, устраняют травмы и истощение, тяжелы; питательны, устраняют кровяную питту, способствуют питанию, вздутию и семени.",
+        "text_en": "They are unctuous, stimulate appetite, are pleasant to the heart, remove injuries and emaciation, and are heavy; they are nourishing, remove blood-Pitta disorders, and promote nourishment, distension and semen."
       },
       {
         "type": "verse",
@@ -28455,7 +28966,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोष्ठमारुतहृद् बल्यं वान्तिवातकफापहम् ज्वरातिसारक्षुत्तृष्णाकासश्वासनिवारकम्",
         "iast": "koṣṭhamārutahṛd balyaṃ vāntivātakaphāpaham jvarātisārakṣuttṛṣṇākāsaśvāsanivārakam",
         "iast_ru": "кош̣т̣хама̄рутахр̣д балйам̣ ва̄нтива̄такапха̄пахам джвара̄тиса̄ракш̣уттр̣ш̣н̣а̄ка̄саш́ва̄санива̄ракам",
-        "text": "Устраняют вздутие кишечника, придают силу, устраняют рвоту, ватху и капху; предотвращают лихорадку, понос, голод, жажду, кашель и одышку."
+        "text": "Устраняют вздутие кишечника, придают силу, устраняют рвоту, ватху и капху; предотвращают лихорадку, понос, голод, жажду, кашель и одышку.",
+        "text_en": "They remove intestinal distension, impart strength, remove vomiting, Vata and Kapha; they prevent fever, diarrhea, hunger, thirst, cough and dyspnea."
       },
       {
         "type": "verse",
@@ -28463,7 +28975,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "महतीभ्यां गुणैरल्पास्वल्पखर्जूरिका स्मृता",
         "iast": "mahatībhyāṃ guṇairalpāsvalpakharjūrikā smṛtā",
         "iast_ru": "махатӣбхйа̄м̣ гун̣аиралпа̄свалпакхарджӯрика̄ смр̣та̄",
-        "text": "Малая финиковая пальма провозглашена обладающей меньшими свойствами, чем две крупные разновидности."
+        "text": "Малая финиковая пальма провозглашена обладающей меньшими свойствами, чем две крупные разновидности.",
+        "text_en": "The small date palm is declared to have lesser properties than the two large varieties."
       },
       {
         "type": "verse",
@@ -28471,7 +28984,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खर्जूरीतरुतोयं तु मदपित्तकरं भवेत् वातश्लेष्महरं रुच्यं दीपनं बलशुक्रकृत्",
         "iast": "kharjūrītarutoyaṃ tu madapittakaraṃ bhavet vātaśleṣmaharaṃ rucyaṃ dīpanaṃ balaśukrakṛt",
         "iast_ru": "кхарджӯрӣтарутойам̣ ту мадапиттакарам̣ бхавет ва̄таш́леш̣махарам̣ ручйам̣ дӣпанам̣ балаш́укракр̣т",
-        "text": "Сок финиковой пальмы вызывает опьянение и увеличивает питту; устраняет ватху и капху, вкусен, возбуждает пищеварительный огонь, придаёт силу и увеличивает семя."
+        "text": "Сок финиковой пальмы вызывает опьянение и увеличивает питту; устраняет ватху и капху, вкусен, возбуждает пищеварительный огонь, придаёт силу и увеличивает семя.",
+        "text_en": "The sap of the date palm causes intoxication and increases Pitta; it removes Vata and Kapha, is tasty, kindles the digestive fire, imparts strength and increases semen."
       },
       {
         "type": "verse",
@@ -28479,7 +28993,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुलेमानी तु मृदुला दलहीनफला च सा सुलेमानी श्रमभ्रान्तिदाहमूर्च्छाऽस्रपित्तहृत्",
         "iast": "sulemānī tu mṛdulā dalahīnaphalā ca sā sulemānī śramabhrāntidāhamūrcchā'srapittahṛt",
         "iast_ru": "сулема̄нӣ ту мр̣дула̄ далахӣнапхала̄ ча са̄ сулема̄нӣ ш́рамабхра̄нтида̄хамӯрччха̄'срапиттахр̣т",
-        "text": "Сулемани (разновидность финика) мягка, без косточки в плоде; сулемани устраняет усталость, головокружение, жжение, обморок, расстройства крови и питту."
+        "text": "Сулемани (разновидность финика) мягка, без косточки в плоде; сулемани устраняет усталость, головокружение, жжение, обморок, расстройства крови и питту.",
+        "text_en": "Sulemani (a variety of date) is soft, with no stone in the fruit; Sulemani removes fatigue, vertigo, burning sensation, fainting, blood disorders and Pitta."
       },
       {
         "type": "verse",
@@ -28487,7 +29002,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातादौ वातवैरी स्यान्नेत्रोपमफलस्तथा वातादः उष्णः सुस्निग्धो वातघ्नः शुक्रकृद् गुरुः",
         "iast": "vātādau vātavairī syānnetropamaphalastathā vātādaḥ uṣṇaḥ susnigdho vātaghnaḥ śukrakṛd guruḥ",
         "iast_ru": "ва̄та̄дау ва̄таваирӣ сйа̄ннетропамапхаластатха̄ ва̄та̄дах̣ уш̣н̣ах̣ суснигдхо ва̄тагхнах̣ ш́укракр̣д гурух̣",
-        "text": "Ватада (миндаль) называется ватаваири, а также нетропамапхала («плод с формой глаза»); ватада горяч, весьма маслянист, устраняет ватху, увеличивает семя, тяжёл."
+        "text": "Ватада (миндаль) называется ватаваири, а также нетропамапхала («плод с формой глаза»); ватада горяч, весьма маслянист, устраняет ватху, увеличивает семя, тяжёл.",
+        "text_en": "Vatada (almond) is called Vatavairi, and also Netropamaphala (\"fruit shaped like an eye\"); Vatada is hot, very unctuous, removes Vata, increases semen, and is heavy."
       },
       {
         "type": "verse",
@@ -28495,7 +29011,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातादमज्जा मधुरो वृष्यः पित्तानिलापहः स्निग्धोष्णः कफकृन्नेष्टो रक्तपित्तविकारिणाम्",
         "iast": "vātādamajjā madhuro vṛṣyaḥ pittānilāpahaḥ snigdhoṣṇaḥ kaphakṛnneṣṭo raktapittavikāriṇām",
         "iast_ru": "ва̄та̄дамаджджа̄ мадхуро вр̣ш̣йах̣ питта̄нила̄пахах̣ снигдхош̣н̣ах̣ капхакр̣ннеш̣т̣о рактапиттавика̄рин̣а̄м",
-        "text": "Мякоть миндаля сладка, усиливает половую силу, устраняет питту и ватху; масляниста, горяча, увеличивает капху; не рекомендуется страдающим расстройствами кровяной питты."
+        "text": "Мякоть миндаля сладка, усиливает половую силу, устраняет питту и ватху; масляниста, горяча, увеличивает капху; не рекомендуется страдающим расстройствами кровяной питты.",
+        "text_en": "The kernel of the almond is sweet, enhances sexual potency, and removes Pitta and Vata; it is unctuous, hot, and increases Kapha; it is not recommended for those suffering from blood-Pitta disorders."
       },
       {
         "type": "verse",
@@ -28503,7 +29020,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुष्टिप्रमाणं बदरं सेवं सिवितिकाफलम्",
         "iast": "muṣṭipramāṇaṃ badaraṃ sevaṃ sivitikāphalam",
         "iast_ru": "муш̣т̣ипрама̄н̣ам̣ бадарам̣ севам̣ сивитика̄пхалам",
-        "text": "Ююба размером с кулак называется сева, сивитика-пхала."
+        "text": "Ююба размером с кулак называется сева, сивитика-пхала.",
+        "text_en": "The jujube the size of a fist is called Seva, Sivitika-phala."
       },
       {
         "type": "verse",
@@ -28511,7 +29029,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सेवं समीरपित्तघ्नं बृंहणं कफकृद् गुरु रसे पाके च मधुरं शिशिरं रुचिशुक्रकृत्",
         "iast": "sevaṃ samīrapittaghnaṃ bṛṃhaṇaṃ kaphakṛd guru rase pāke ca madhuraṃ śiśiraṃ ruciśukrakṛt",
         "iast_ru": "севам̣ самӣрапиттагхнам̣ бр̣м̣хан̣ам̣ капхакр̣д гуру расе па̄ке ча мадхурам̣ ш́иш́ирам̣ ручиш́укракр̣т",
-        "text": "Сева устраняет ватху и питту, укрепляюща, увеличивает капху, тяжела; сладка на вкус и после переваривания, холодна, увеличивает аппетит и семя."
+        "text": "Сева устраняет ватху и питту, укрепляюща, увеличивает капху, тяжела; сладка на вкус и после переваривания, холодна, увеличивает аппетит и семя.",
+        "text_en": "Seva removes Vata and Pitta, is strengthening, increases Kapha, and is heavy; it is sweet in taste and after digestion, cold, and increases appetite and semen."
       },
       {
         "type": "verse",
@@ -28519,7 +29038,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अमृतफलं लघु वृष्यं सुस्वादु त्रीन्हरेद्दोषान् देशेषु मुद्गलानां-बहुलं तल्लभ्यते लोकैः",
         "iast": "amṛtaphalaṃ laghu vṛṣyaṃ susvādu trīnhareddoṣān deśeṣu mudgalānāṃ-bahulaṃ tallabhyate lokaiḥ",
         "iast_ru": "амр̣тапхалам̣ лагху вр̣ш̣йам̣ сусва̄ду трӣнхареддош̣а̄н деш́еш̣у мудгала̄на̄м̣-бахулам̣ таллабхйате локаих̣",
-        "text": "Амритапхала легка, усиливает половую силу, весьма сладка, устраняет все три доши; в землях мугалов она в изобилии доступна людям."
+        "text": "Амритапхала легка, усиливает половую силу, весьма сладка, устраняет все три доши; в землях мугалов она в изобилии доступна людям.",
+        "text_en": "Amritaphala is light, enhances sexual potency, is very sweet, and removes all three doshas; in the lands of the Mughals it is available in abundance to the people."
       },
       {
         "type": "verse",
@@ -28527,7 +29047,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पीलुर्गुडफलः स्रंसी तथा शीतफलोऽपि च पीलु श्लेष्मसमीरघ्नं पित्तलं भेदि गुल्मनुत् स्वादु तिक्तञ्च यत्पीलु तन्नात्युष्णं त्रिदोषहृत्",
         "iast": "pīlurguḍaphalaḥ sraṃsī tathā śītaphalo'pi ca pīlu śleṣmasamīraghnaṃ pittalaṃ bhedi gulmanut svādu tiktañca yatpīlu tannātyuṣṇaṃ tridoṣahṛt",
         "iast_ru": "пӣлургуд̣апхалах̣ срам̣сӣ татха̄ ш́ӣтапхало'пи ча пӣлу ш́леш̣масамӣрагхнам̣ питталам̣ бхеди гулманут сва̄ду тиктан̃ча йатпӣлу танна̄тйуш̣н̣ам̣ тридош̣ахр̣т",
-        "text": "Пилу называется гудапхала, срамси, а также шитапхала; пилу устраняет капху и ватху, увеличивает питту, слабительна, устраняет опухоли; та пилу, что сладко-горька, не слишком горяча, устраняет все три доши."
+        "text": "Пилу называется гудапхала, срамси, а также шитапхала; пилу устраняет капху и ватху, увеличивает питту, слабительна, устраняет опухоли; та пилу, что сладко-горька, не слишком горяча, устраняет все три доши.",
+        "text_en": "Pilu is called Gudaphala, Sramsi, and also Shitaphala; Pilu removes Kapha and Vata, increases Pitta, is purgative, and removes tumors; the Pilu that is sweet-bitter and not very hot removes all three doshas."
       },
       {
         "type": "verse",
@@ -28535,7 +29056,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पीलुः शैलभवोऽक्षोटः कर्परालश्च कीर्तितः अक्षोटकोपि वातादसदृशः कफपित्तकृत्",
         "iast": "pīluḥ śailabhavo'kṣoṭaḥ karparālaśca kīrtitaḥ akṣoṭakopi vātādasadṛśaḥ kaphapittakṛt",
         "iast_ru": "пӣлух̣ ш́аилабхаво'кш̣от̣ах̣ карпара̄лаш́ча кӣртитах̣ акш̣от̣акопи ва̄та̄дасадр̣ш́ах̣ капхапиттакр̣т",
-        "text": "Горная пилу называется акшота (грецкий орех), карпарала; акшотака подобен ватаде по свойствам, увеличивает капху и питту."
+        "text": "Горная пилу называется акшота (грецкий орех), карпарала; акшотака подобен ватаде по свойствам, увеличивает капху и питту.",
+        "text_en": "The mountain Pilu is called Akshota (walnut), Karparala; Akshotaka is similar to Vatada in properties, and increases Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -28543,7 +29065,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बीजपूरो मातुलुङ्गो रुचकः फलपूरकः बीजपूरफलं स्वादु रसेऽम्ल दीपनं लघु",
         "iast": "bījapūro mātuluṅgo rucakaḥ phalapūrakaḥ bījapūraphalaṃ svādu rase'mla dīpanaṃ laghu",
         "iast_ru": "бӣджапӯро ма̄тулун̇го ручаках̣ пхалапӯраках̣ бӣджапӯрапхалам̣ сва̄ду расе'мла дӣпанам̣ лагху",
-        "text": "Биджапура (цитрон) называется матулунга, ручака, пхалапурака; плод биджапуры сладок и кисл на вкус, возбуждает пищеварительный огонь, лёгок."
+        "text": "Биджапура (цитрон) называется матулунга, ручака, пхалапурака; плод биджапуры сладок и кисл на вкус, возбуждает пищеварительный огонь, лёгок.",
+        "text_en": "Bijapura (citron) is called Matulunga, Ruchaka, Phalapuraka; the fruit of Bijapura is sweet and sour in taste, kindles the digestive fire, and is light."
       },
       {
         "type": "verse",
@@ -28551,7 +29074,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तपित्तहरं कण्ठजिह्वाहृदयशोधनम् श्वासकासारुचिहरं हृद्यं तृष्णाहरं स्मृतम्",
         "iast": "raktapittaharaṃ kaṇṭhajihvāhṛdayaśodhanam śvāsakāsāruciharaṃ hṛdyaṃ tṛṣṇāharaṃ smṛtam",
         "iast_ru": "рактапиттахарам̣ кан̣т̣хаджихва̄хр̣дайаш́одханам ш́ва̄сака̄са̄ручихарам̣ хр̣дйам̣ тр̣ш̣н̣а̄харам̣ смр̣там",
-        "text": "Устраняет кровяную питту, очищает горло, язык и сердце; устраняет одышку, кашель и отсутствие аппетита; приятен для сердца, провозглашён устраняющим жажду."
+        "text": "Устраняет кровяную питту, очищает горло, язык и сердце; устраняет одышку, кашель и отсутствие аппетита; приятен для сердца, провозглашён устраняющим жажду.",
+        "text_en": "It removes blood-Pitta disorders, cleanses the throat, tongue and heart; it removes dyspnea, cough and anorexia; it is pleasant to the heart, and is declared to remove thirst."
       },
       {
         "type": "verse",
@@ -28559,7 +29083,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बीजपूरोऽपरः प्रोक्तो मधुरो मधुकर्कटी",
         "iast": "bījapūro'paraḥ prokto madhuro madhukarkaṭī",
         "iast_ru": "бӣджапӯро'парах̣ прокто мадхуро мадхукаркат̣ӣ",
-        "text": "Иной биджапура называется сладким, мадхукаркати."
+        "text": "Иной биджапура называется сладким, мадхукаркати.",
+        "text_en": "Another Bijapura is called the sweet one, Madhukarkati."
       },
       {
         "type": "verse",
@@ -28567,7 +29092,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधुकर्कटिका स्वाद्वी रोचनी शीतला गुरुः रक्तपित्तक्षयश्वासकासहिक्काभ्रमापहा",
         "iast": "madhukarkaṭikā svādvī rocanī śītalā guruḥ raktapittakṣayaśvāsakāsahikkābhramāpahā",
         "iast_ru": "мадхукаркат̣ика̄ сва̄двӣ рочанӣ ш́ӣтала̄ гурух̣ рактапиттакш̣айаш́ва̄сака̄сахикка̄бхрама̄паха̄",
-        "text": "Мадхукаркатика сладка, возбуждает аппетит, холодна, тяжела; устраняет кровяную питту, истощение, одышку, кашель, икоту и головокружение."
+        "text": "Мадхукаркатика сладка, возбуждает аппетит, холодна, тяжела; устраняет кровяную питту, истощение, одышку, кашель, икоту и головокружение.",
+        "text_en": "Madhukarkatika is sweet, stimulates appetite, and is cold and heavy; it removes blood-Pitta disorders, emaciation, dyspnea, cough, hiccup and vertigo."
       },
       {
         "type": "verse",
@@ -28575,7 +29101,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्याज्जम्बीरो दन्तशठो जम्भजम्भीरजम्भलाः जम्बीरमुष्णं गुर्वम्लं वातश्लेष्मविबन्धनुत्",
         "iast": "syājjambīro dantaśaṭho jambhajambhīrajambhalāḥ jambīramuṣṇaṃ gurvamlaṃ vātaśleṣmavibandhanut",
         "iast_ru": "сйа̄джджамбӣро данташ́ат̣хо джамбхаджамбхӣраджамбхала̄х̣ джамбӣрамуш̣н̣ам̣ гурвамлам̣ ва̄таш́леш̣мавибандханут",
-        "text": "Джамбира (лимон) называется дантащатха, джамбха, джамбхира, джамбхала; джамбира горяча, тяжело-кисла, устраняет ватху, капху и запор."
+        "text": "Джамбира (лимон) называется дантащатха, джамбха, джамбхира, джамбхала; джамбира горяча, тяжело-кисла, устраняет ватху, капху и запор.",
+        "text_en": "Jambira (lemon) is called Dantashatha, Jambha, Jambhira, Jambhala; Jambira is hot, heavy-sour, and removes Vata, Kapha and constipation."
       },
       {
         "type": "verse",
@@ -28583,7 +29110,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आस्यवैरस्यहृत्पीडावह्निमान्द्यक्रिमीन् हरेत् स्वल्पजम्बीरिका तद्वत्तृष्णाच्छर्दिनिवारिणी",
         "iast": "āsyavairasyahṛtpīḍāvahnimāndyakrimīn haret svalpajambīrikā tadvattṛṣṇācchardinivāriṇī",
         "iast_ru": "а̄сйаваирасйахр̣тпӣд̣а̄вахнима̄ндйакримӣн харет свалпаджамбӣрика̄ тадваттр̣ш̣н̣а̄ччхардинива̄рин̣ӣ",
-        "text": "Устраняет неприятный вкус во рту, боль, слабость пищеварительного огня и паразитов. Малая же джамбирика подобна ей, но также устраняет жажду и рвоту."
+        "text": "Устраняет неприятный вкус во рту, боль, слабость пищеварительного огня и паразитов. Малая же джамбирика подобна ей, но также устраняет жажду и рвоту.",
+        "text_en": "It removes unpleasant taste in the mouth, pain, weakness of the digestive fire and worms. The small Jambirika, however, is similar to it, but also removes thirst and vomiting."
       },
       {
         "type": "verse",
@@ -28591,7 +29119,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बूः स्त्री निम्बुकं क्लीबे निम्बूकमपि कीर्त्तितम् निम्बूकमम्लं वातघ्नं दीपनं पाचनं लघु",
         "iast": "nimbūḥ strī nimbukaṃ klībe nimbūkamapi kīrttitam nimbūkamamlaṃ vātaghnaṃ dīpanaṃ pācanaṃ laghu",
         "iast_ru": "нимбӯх̣ стрӣ нимбукам̣ клӣбе нимбӯкамапи кӣрттитам нимбӯкамамлам̣ ва̄тагхнам̣ дӣпанам̣ па̄чанам̣ лагху",
-        "text": "В женском роде — нимбу, в среднем — нимбука, а также провозглашается нимбукам; нимбука кисла, устраняет ватху, возбуждает пищеварительный огонь, способствует пищеварению, легка."
+        "text": "В женском роде — нимбу, в среднем — нимбука, а также провозглашается нимбукам; нимбука кисла, устраняет ватху, возбуждает пищеварительный огонь, способствует пищеварению, легка.",
+        "text_en": "In the feminine, Nimbu; in the neuter, Nimbuka, and it is also declared to be Nimbukam; Nimbuka is sour, removes Vata, kindles the digestive fire, aids digestion, and is light."
       },
       {
         "type": "verse",
@@ -28599,7 +29128,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बुकं कृमिसमूहनाशनं तीक्ष्णमम्लमुदरग्रहापहम् वातपित्तकफशूलिने हितं कष्टनष्टरुचिरोचनं परम्",
         "iast": "nimbukaṃ kṛmisamūhanāśanaṃ tīkṣṇamamlamudaragrahāpaham vātapittakaphaśūline hitaṃ kaṣṭanaṣṭarucirocanaṃ param",
         "iast_ru": "нимбукам̣ кр̣мисамӯхана̄ш́анам̣ тӣкш̣н̣амамламудараграха̄пахам ва̄тапиттакапхаш́ӯлине хитам̣ каш̣т̣анаш̣т̣аручирочанам̣ парам",
-        "text": "Нимбука уничтожает скопления паразитов, остра, кисла, устраняет спазмы живота; полезна для страдающих от боли ватхи, питты и капхи; отлично восстанавливает утраченный аппетит при тяжёлых состояниях."
+        "text": "Нимбука уничтожает скопления паразитов, остра, кисла, устраняет спазмы живота; полезна для страдающих от боли ватхи, питты и капхи; отлично восстанавливает утраченный аппетит при тяжёлых состояниях.",
+        "text_en": "Nimbuka destroys colonies of worms, is pungent and sour, and removes abdominal spasms; it is beneficial for those suffering from pain due to Vata, Pitta and Kapha; it excellently restores lost appetite in severe conditions."
       },
       {
         "type": "verse",
@@ -28607,7 +29137,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिदोषवह्निक्षयवातरोगनिपीडितानां विषविह्वलानाम् मन्दानले बद्धगुदे प्रदेयं विषूचिकायां मुनयो वदन्ति",
         "iast": "tridoṣavahnikṣayavātaroganipīḍitānāṃ viṣavihvalānām mandānale baddhagude pradeyaṃ viṣūcikāyāṃ munayo vadanti",
         "iast_ru": "тридош̣авахникш̣айава̄тароганипӣд̣ита̄на̄м̣ виш̣авихвала̄на̄м манда̄нале баддхагуде прадейам̣ виш̣ӯчика̄йа̄м̣ мунайо ваданти",
-        "text": "Мудрецы говорят, что её следует давать страждущим от всех трёх дош, ослабления пищеварительного огня, истощения и болезней ватхи, а также отравленным ядом, при слабом пищеварительном огне, запоре и при висучике (холере)."
+        "text": "Мудрецы говорят, что её следует давать страждущим от всех трёх дош, ослабления пищеварительного огня, истощения и болезней ватхи, а также отравленным ядом, при слабом пищеварительном огне, запоре и при висучике (холере).",
+        "text_en": "The sages say that it should be given to those afflicted with all three doshas, weakening of the digestive fire, emaciation and Vata diseases, as well as to those poisoned, and in cases of weak digestive fire, constipation and vishuchika (cholera)."
       },
       {
         "type": "verse",
@@ -28615,7 +29146,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मिष्टनिम्बूफलं स्वादु गुरु मारुतपित्तनुत्",
         "iast": "miṣṭanimbūphalaṃ svādu guru mārutapittanut",
         "iast_ru": "миш̣т̣анимбӯпхалам̣ сва̄ду гуру ма̄рутапиттанут",
-        "text": "Сладкий плод лимона сладок, тяжёл, устраняет ватху и питту."
+        "text": "Сладкий плод лимона сладок, тяжёл, устраняет ватху и питту.",
+        "text_en": "The sweet fruit of the lemon is sweet, heavy, and removes Vata and Pitta."
       },
       {
         "type": "verse",
@@ -28623,7 +29155,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गलरोगविषध्वंसिकफोत्क्लेशि च रक्तहृत् शोषारुचितृषाच्छर्दिहरं बल्यञ्च बृंहणम्",
         "iast": "galarogaviṣadhvaṃsikaphotkleśi ca raktahṛt śoṣārucitṛṣācchardiharaṃ balyañca bṛṃhaṇam",
         "iast_ru": "галарогавиш̣адхвам̣сикапхотклеш́и ча рактахр̣т ш́ош̣а̄ручитр̣ш̣а̄ччхардихарам̣ балйан̃ча бр̣м̣хан̣ам",
-        "text": "Уничтожает болезни горла и яд, вызывает отрыжку капхи, устраняет расстройства крови; устраняет истощение, отсутствие аппетита, жажду и рвоту; придаёт силу и укрепляет."
+        "text": "Уничтожает болезни горла и яд, вызывает отрыжку капхи, устраняет расстройства крови; устраняет истощение, отсутствие аппетита, жажду и рвоту; придаёт силу и укрепляет.",
+        "text_en": "It destroys diseases of the throat and poison, causes belching of Kapha, and removes blood disorders; it removes emaciation, anorexia, thirst and vomiting; it imparts strength and is strengthening."
       },
       {
         "type": "verse",
@@ -28631,7 +29164,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्मरङ्गं शिरालं च बृहदम्लं रुजाकरम् कर्मरङ्गं हिमं ग्राहि स्वाद्वम्लं कफवातहृत्",
         "iast": "karmaraṅgaṃ śirālaṃ ca bṛhadamlaṃ rujākaram karmaraṅgaṃ himaṃ grāhi svādvamlaṃ kaphavātahṛt",
         "iast_ru": "кармаран̇гам̣ ш́ира̄лам̣ ча бр̣хадамлам̣ руджа̄карам кармаран̇гам̣ химам̣ гра̄хи сва̄двамлам̣ капхава̄тахр̣т",
-        "text": "Кармаранга (карамбола) волокниста, весьма кисла, вызывает боль; кармаранга холодна, закрепляюща, сладко-кисла, устраняет капху и ватху."
+        "text": "Кармаранга (карамбола) волокниста, весьма кисла, вызывает боль; кармаранга холодна, закрепляюща, сладко-кисла, устраняет капху и ватху.",
+        "text_en": "Karmaranga (carambola) is fibrous, very sour, and causes pain; Karmaranga is cold, constipating, sweet-sour, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -28639,7 +29173,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अम्लिका चुक्रिकाऽम्ली च चुका दन्तशठाऽपि च अम्ला च चिञ्चिका चिञ्चा तिन्तिडीका च तिन्तिडी",
         "iast": "amlikā cukrikā'mlī ca cukā dantaśaṭhā'pi ca amlā ca ciñcikā ciñcā tintiḍīkā ca tintiḍī",
         "iast_ru": "амлика̄ чукрика̄'млӣ ча чука̄ данташ́ат̣ха̄'пи ча амла̄ ча чин̃чика̄ чин̃ча̄ тинтид̣ӣка̄ ча тинтид̣ӣ",
-        "text": "Амлика (тамаринд) называется чукрика, амли, чука, дантащатха, амла, чинчика, чинча, тинтидика, тинтиди."
+        "text": "Амлика (тамаринд) называется чукрика, амли, чука, дантащатха, амла, чинчика, чинча, тинтидика, тинтиди.",
+        "text_en": "Amlika (tamarind) is called Chukrika, Amli, Chuka, Dantashatha, Amla, Chinchika, Chincha, Tintidika, Tintidi."
       },
       {
         "type": "verse",
@@ -28647,7 +29182,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अम्लिकाऽम्ला गुरुर्वातहरी पित्तकफास्रकृत् पक्वा तु दीपनी रूक्षा सरोष्णा कफवातनुत्",
         "iast": "amlikā'mlā gururvātaharī pittakaphāsrakṛt pakvā tu dīpanī rūkṣā saroṣṇā kaphavātanut",
         "iast_ru": "амлика̄'мла̄ гурурва̄тахарӣ питтакапха̄сракр̣т паква̄ ту дӣпанӣ рӯкш̣а̄ сарош̣н̣а̄ капхава̄танут",
-        "text": "Амлика кисла, тяжела, устраняет ватху, увеличивает питту, капху и расстройства крови; спелая же возбуждает пищеварительный огонь, суховата, слабительна, горяча, устраняет капху и ватху."
+        "text": "Амлика кисла, тяжела, устраняет ватху, увеличивает питту, капху и расстройства крови; спелая же возбуждает пищеварительный огонь, суховата, слабительна, горяча, устраняет капху и ватху.",
+        "text_en": "Amlika is sour, heavy, removes Vata, and increases Pitta, Kapha and blood disorders; the ripe one, however, kindles the digestive fire, is somewhat dry, purgative and hot, and removes Kapha and Vata."
       },
       {
         "type": "verse",
@@ -28655,7 +29191,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्यादम्लवेतसश्चुक्रं शतवेधि सहस्रनुत् अम्लवेतसमत्यम्लं भेदनं लघु दीपनम्",
         "iast": "syādamlavetasaścukraṃ śatavedhi sahasranut amlavetasamatyamlaṃ bhedanaṃ laghu dīpanam",
         "iast_ru": "сйа̄дамлаветасаш́чукрам̣ ш́атаведхи сахасранут амлаветасаматйамлам̣ бхеданам̣ лагху дӣпанам",
-        "text": "Амлаветаса (гарциния) называется чукра, шатаведхи, сахасранут; амлаветаса весьма кисла, слабительна, легка, возбуждает пищеварительный огонь."
+        "text": "Амлаветаса (гарциния) называется чукра, шатаведхи, сахасранут; амлаветаса весьма кисла, слабительна, легка, возбуждает пищеварительный огонь.",
+        "text_en": "Amlavetasa (garcinia) is called Chukra, Shatavedhi, Sahasranut; Amlavetasa is very sour, purgative, light, and kindles the digestive fire."
       },
       {
         "type": "verse",
@@ -28663,7 +29200,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हृद्रो गशूलगुल्मघ्नं पित्तलं लोमहर्षणम् रूक्षं विण्मूत्रदोषघ्नं प्लीहोदावर्त्तनाशनम्",
         "iast": "hṛdro gaśūlagulmaghnaṃ pittalaṃ lomaharṣaṇam rūkṣaṃ viṇmūtradoṣaghnaṃ plīhodāvarttanāśanam",
         "iast_ru": "хр̣дро гаш́ӯлагулмагхнам̣ питталам̣ ломахарш̣ан̣ам рӯкш̣ам̣ вин̣мӯтрадош̣агхнам̣ плӣхода̄варттана̄ш́анам",
-        "text": "Устраняет болезни сердца, боль и опухоли; увеличивает питту, вызывает дрожь; суховата, устраняет нарушения кала и мочи; уничтожает болезни селезёнки и удаварту (задержку газов)."
+        "text": "Устраняет болезни сердца, боль и опухоли; увеличивает питту, вызывает дрожь; суховата, устраняет нарушения кала и мочи; уничтожает болезни селезёнки и удаварту (задержку газов).",
+        "text_en": "It removes heart diseases, pain and tumors; it increases Pitta, causes trembling; it is somewhat dry, removes disorders of stool and urine; it destroys diseases of the spleen and udavarta (retention of gas)."
       },
       {
         "type": "verse",
@@ -28671,7 +29209,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफवातामयध्वंसिच्छागमांसद्र वत्वकृत् चणकाम्लगुणं ज्ञेयं लोहसूचीद्र वत्वकृत्",
         "iast": "kaphavātāmayadhvaṃsicchāgamāṃsadra vatvakṛt caṇakāmlaguṇaṃ jñeyaṃ lohasūcīdra vatvakṛt",
         "iast_ru": "капхава̄та̄майадхвам̣сиччха̄гама̄м̣садра ватвакр̣т чан̣ака̄млагун̣ам̣ джн̃ейам̣ лохасӯчӣдра ватвакр̣т",
-        "text": "Уничтожает болезни капхи и ватхи; делает козье мясо мягче; следует знать, что она обладает свойствами, подобными кислому нуту, и способна размягчать даже железную иглу."
+        "text": "Уничтожает болезни капхи и ватхи; делает козье мясо мягче; следует знать, что она обладает свойствами, подобными кислому нуту, и способна размягчать даже железную иглу.",
+        "text_en": "It destroys diseases of Kapha and Vata; it makes goat meat softer; it should be known to possess properties similar to sour chickpea, and is able to soften even an iron needle."
       },
       {
         "type": "verse",
@@ -28679,7 +29218,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वृक्षाम्लं तिन्तिडीकञ्चचुक्रं स्यादम्लवृक्षकम् वृक्षाम्लमाममम्लोष्णं वातघ्नं कफपित्तलम्",
         "iast": "vṛkṣāmlaṃ tintiḍīkañcacukraṃ syādamlavṛkṣakam vṛkṣāmlamāmamamloṣṇaṃ vātaghnaṃ kaphapittalam",
         "iast_ru": "вр̣кш̣а̄млам̣ тинтид̣ӣкан̃чачукрам̣ сйа̄дамлавр̣кш̣акам вр̣кш̣а̄млама̄мамамлош̣н̣ам̣ ва̄тагхнам̣ капхапитталам",
-        "text": "Врикшамла называется тинтидика, чукра, амлавркшака; незрелая врикшамла кисло-горяча, устраняет ватху, увеличивает капху и питту."
+        "text": "Врикшамла называется тинтидика, чукра, амлавркшака; незрелая врикшамла кисло-горяча, устраняет ватху, увеличивает капху и питту.",
+        "text_en": "Vrikshamla is called Tintidika, Chukra, Amlavrikshaka; the unripe Vrikshamla is sour-hot, removes Vata, and increases Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -28687,7 +29227,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वन्तु गुरु संग्राहि कटुकं तुवरं लघु",
         "iast": "pakvantu guru saṃgrāhi kaṭukaṃ tuvaraṃ laghu",
         "iast_ru": "пакванту гуру сам̣гра̄хи кат̣укам̣ туварам̣ лагху",
-        "text": "Спелая же тяжела, закрепляюща, а иногда остро-вяжуще-легка."
+        "text": "Спелая же тяжела, закрепляюща, а иногда остро-вяжуще-легка.",
+        "text_en": "The ripe one, however, is heavy and constipating, and sometimes pungent-astringent-light."
       },
       {
         "type": "verse",
@@ -28695,7 +29236,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अम्लोष्णं रोचनं रूक्षं दीपनं कफवातकृत् तृष्णाऽशोग्रहणीगुल्मशूलहृद्रो गजन्तुजित्",
         "iast": "amloṣṇaṃ rocanaṃ rūkṣaṃ dīpanaṃ kaphavātakṛt tṛṣṇā'śograhaṇīgulmaśūlahṛdro gajantujit",
         "iast_ru": "амлош̣н̣ам̣ рочанам̣ рӯкш̣ам̣ дӣпанам̣ капхава̄такр̣т тр̣ш̣н̣а̄'ш́ограхан̣ӣгулмаш́ӯлахр̣дро гаджантуджит",
-        "text": "Кисло-горяча, возбуждает аппетит, суховата, возбуждает пищеварительный огонь, увеличивает капху и ватху; устраняет жажду, геморрой, болезни кишечника, опухоли, боль, болезни сердца и паразитов."
+        "text": "Кисло-горяча, возбуждает аппетит, суховата, возбуждает пищеварительный огонь, увеличивает капху и ватху; устраняет жажду, геморрой, болезни кишечника, опухоли, боль, болезни сердца и паразитов.",
+        "text_en": "It is sour-hot, stimulates appetite, is somewhat dry, kindles the digestive fire, and increases Kapha and Vata; it removes thirst, piles, intestinal diseases, tumors, pain, heart diseases and worms."
       },
       {
         "type": "verse",
@@ -28703,7 +29245,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चतुरम्लं हि पञ्चाम्लं बीजपूरयुतैर्भवेत्",
         "iast": "caturamlaṃ hi pañcāmlaṃ bījapūrayutairbhavet",
         "iast_ru": "чатурамлам̣ хи пан̃ча̄млам̣ бӣджапӯрайутаирбхавет",
-        "text": "«Четыре кислых» плода, с добавлением биджапуры, составляют «пять кислых»."
+        "text": "«Четыре кислых» плода, с добавлением биджапуры, составляют «пять кислых».",
+        "text_en": "The \"four sours\", with the addition of Bijapura, constitute the \"five sours\"."
       },
       {
         "type": "verse",
@@ -28711,7 +29254,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलेषु परिपक्वं यद् गुणवत्तदुदाहृतम् बिल्वादन्यत्र विज्ञेयमामं तद्धि गुणाधिकम् फलेषु सरसं यत्स्याद् गुणवत्तदुदाहृतम्",
         "iast": "phaleṣu paripakvaṃ yad guṇavattadudāhṛtam bilvādanyatra vijñeyamāmaṃ taddhi guṇādhikam phaleṣu sarasaṃ yatsyād guṇavattadudāhṛtam",
         "iast_ru": "пхалеш̣у парипаквам̣ йад гун̣аваттадуда̄хр̣там билва̄данйатра виджн̃ейама̄мам̣ таддхи гун̣а̄дхикам пхалеш̣у сарасам̣ йатсйа̄д гун̣аваттадуда̄хр̣там",
-        "text": "Среди плодов провозглашается наилучшим полностью созревший; за исключением бильвы, следует знать, что незрелый плод обладает бо́льшими достоинствами; среди плодов провозглашается наилучшим тот, что сочен."
+        "text": "Среди плодов провозглашается наилучшим полностью созревший; за исключением бильвы, следует знать, что незрелый плод обладает бо́льшими достоинствами; среди плодов провозглашается наилучшим тот, что сочен.",
+        "text_en": "Among fruits, the fully ripe one is declared the best; with the exception of Bilva, it should be known that the unripe fruit has greater merits; among fruits, the best is declared to be the one that is juicy."
       },
       {
         "type": "verse",
@@ -28719,7 +29263,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्रा क्षाबिल्वशिवाऽदीनां फलं शुष्कं गुणाधिकम् फलतुल्यगुणं सर्वं मज्जानमपि निर्दिशेत्",
         "iast": "drā kṣābilvaśivā'dīnāṃ phalaṃ śuṣkaṃ guṇādhikam phalatulyaguṇaṃ sarvaṃ majjānamapi nirdiśet",
         "iast_ru": "дра̄ кш̣а̄билваш́ива̄'дӣна̄м̣ пхалам̣ ш́уш̣кам̣ гун̣а̄дхикам пхалатулйагун̣ам̣ сарвам̣ маджджа̄намапи нирдиш́ет",
-        "text": "Для винограда, бильвы, харитаки и подобных сушёный плод обладает бо́льшими достоинствами; следует признать, что мякоть их семян равна по свойствам самому плоду."
+        "text": "Для винограда, бильвы, харитаки и подобных сушёный плод обладает бо́льшими достоинствами; следует признать, что мякоть их семян равна по свойствам самому плоду.",
+        "text_en": "For grapes, Bilva, Haritaki and the like, the dried fruit has greater merits; it should be recognized that the kernel of their seeds is equal in properties to the fruit itself."
       },
       {
         "type": "verse",
@@ -28727,7 +29272,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलं हिमाग्निदुर्वातव्यालकीटादिदूषितम् अकालजं कुभूमीजं पाकातीतं न भक्षयेत्",
         "iast": "phalaṃ himāgnidurvātavyālakīṭādidūṣitam akālajaṃ kubhūmījaṃ pākātītaṃ na bhakṣayet",
         "iast_ru": "пхалам̣ хима̄гнидурва̄тавйа̄лакӣт̣а̄дидӯш̣итам ака̄ладжам̣ кубхӯмӣджам̣ па̄ка̄тӣтам̣ на бхакш̣айет",
-        "text": "Не следует есть плод, повреждённый морозом, огнём, дурным ветром, змеями или насекомыми, а также несезонный, выросший на плохой почве или перезревший."
+        "text": "Не следует есть плод, повреждённый морозом, огнём, дурным ветром, змеями или насекомыми, а также несезонный, выросший на плохой почве или перезревший.",
+        "text_en": "One should not eat fruit damaged by frost, fire, foul wind, snakes or insects, nor out-of-season fruit, fruit grown in poor soil, or overripe fruit."
       },
       {
         "type": "verse",
@@ -28735,7 +29281,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति श्रीमिश्रलटकन तनय श्रीमिश्रभाव विरचिते भावप्रकाशे मिश्रप्रकरणे सप्तम आम्रादिफलवर्गः समाप्तः",
         "iast": "iti śrīmiśralaṭakana tanaya śrīmiśrabhāva viracite bhāvaprakāśe miśraprakaraṇe saptama āmrādiphalavargaḥ samāptaḥ",
         "iast_ru": "ити ш́рӣмиш́ралат̣акана танайа ш́рӣмиш́рабха̄ва вирачите бха̄вапрака̄ш́е миш́рапракаран̣е саптама а̄мра̄дипхалаваргах̣ сама̄птах̣",
-        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаканы, в разделе о смешанных веществах завершается седьмая группа — «Амради-пхала-варга» (группа плодов, начинающаяся с манго)."
+        "text": "Так в «Бхавапракаше», составленной досточтимым Бхавой, сыном досточтимого Мишры Латаканы, в разделе о смешанных веществах завершается седьмая группа — «Амради-пхала-варга» (группа плодов, начинающаяся с манго).",
+        "text_en": "Thus ends the seventh group, the \"Amradi-phala-varga\" (group of fruits beginning with the mango), in the section on mixed substances of the Bhavaprakasha, composed by the venerable Bhava, son of the venerable Mishra Latakana."
       }
     ]
   },
@@ -28753,7 +29300,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथाष्टमो धात्वादिवर्गोपरनामको धातूपधातुरसोपरसरत्नोपरत्नविषोपविषवर्गः स्वर्णं रूप्यञ्च ताम्रं च रङ्गं यशदमेव च सीसं लौहञ्च सप्तैते धातवो गिरिसम्भवः",
         "iast": "athāṣṭamo dhātvādivargoparanāmako dhātūpadhāturasoparasaratnoparatnaviṣopaviṣavargaḥ svarṇaṃ rūpyañca tāmraṃ ca raṅgaṃ yaśadameva ca sīsaṃ lauhañca saptaite dhātavo girisambhavaḥ",
         "iast_ru": "атха̄ш̣т̣амо дха̄тва̄диваргопарана̄мако дха̄тӯпадха̄турасопарасаратнопаратнавиш̣опавиш̣аваргах̣ сварн̣ам̣ рӯпйан̃ча та̄мрам̣ ча ран̇гам̣ йаш́адамева ча сӣсам̣ лаухан̃ча саптаите дха̄таво гирисамбхавах̣",
-        "text": "Далее — восьмая группа, называемая «Дхатвади-варга», иначе именуемая группой металлов и вспомогательных металлов, ртути и вспомогательных ртутных веществ, драгоценных и полудрагоценных камней, ядов и полуядов: золото, серебро, медь, олово, цинк, свинец и железо — эти семь металлов происходят из гор."
+        "text": "Далее — восьмая группа, называемая «Дхатвади-варга», иначе именуемая группой металлов и вспомогательных металлов, ртути и вспомогательных ртутных веществ, драгоценных и полудрагоценных камней, ядов и полуядов: золото, серебро, медь, олово, цинк, свинец и железо — эти семь металлов происходят из гор.",
+        "text_en": "Next — the eighth group, called \"Dhatvadi-varga\", otherwise named the group of metals and sub-metals, mercury and sub-mercurials, gems and semi-precious stones, poisons and semi-poisons: gold, silver, copper, tin, zinc, lead and iron — these seven metals originate from the mountains."
       },
       {
         "type": "verse",
@@ -28761,7 +29309,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वली पलित खालित्य कार्श्याबल्य जरामयान् निवार्य देहं दधति नृणां तद्धातवो मताः",
         "iast": "valī palita khālitya kārśyābalya jarāmayān nivārya dehaṃ dadhati nṛṇāṃ taddhātavo matāḥ",
         "iast_ru": "валӣ палита кха̄литйа ка̄рш́йа̄балйа джара̄майа̄н нива̄рйа дехам̣ дадхати нр̣н̣а̄м̣ таддха̄таво мата̄х̣",
-        "text": "Устраняя морщины, седину, облысение, истощение, слабость и болезни старости, эти металлы, как считается, поддерживают тело людей."
+        "text": "Устраняя морщины, седину, облысение, истощение, слабость и болезни старости, эти металлы, как считается, поддерживают тело людей.",
+        "text_en": "By removing wrinkles, gray hair, baldness, emaciation, weakness and the diseases of old age, these metals are considered to sustain the bodies of men."
       },
       {
         "type": "verse",
@@ -28769,7 +29318,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुरा निजाश्रमस्थानां सप्तर्षीणां जितात्मनाम् पत्नीर्विलोक्य लावण्यलक्ष्मीसम्पन्नयौवनाः",
         "iast": "purā nijāśramasthānāṃ saptarṣīṇāṃ jitātmanām patnīrvilokya lāvaṇyalakṣmīsampannayauvanāḥ",
         "iast_ru": "пура̄ ниджа̄ш́рамастха̄на̄м̣ саптарш̣ӣн̣а̄м̣ джита̄тмана̄м патнӣрвилокйа ла̄ван̣йалакш̣мӣсампаннайаувана̄х̣",
-        "text": "Некогда, увидев жён семи риши, обитавших в своих обителях и обуздавших себя, — жён, чья юность была исполнена красоты и прелести..."
+        "text": "Некогда, увидев жён семи риши, обитавших в своих обителях и обуздавших себя, — жён, чья юность была исполнена красоты и прелести...",
+        "text_en": "Once, having seen the wives of the seven Rishis, who dwelt in their hermitages and had restrained themselves — wives whose youth was full of beauty and charm..."
       },
       {
         "type": "verse",
@@ -28777,7 +29327,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कन्दर्पदर्पविध्वस्तचेतसो जातवेदसः पतितं यद्धरापृष्ठे रेतस्तद्धेमतामगात् कृत्रिमञ्चापि भवति तद्र सेन्द्र स्य वेधतः",
         "iast": "kandarpadarpavidhvastacetaso jātavedasaḥ patitaṃ yaddharāpṛṣṭhe retastaddhematāmagāt kṛtrimañcāpi bhavati tadra sendra sya vedhataḥ",
         "iast_ru": "кандарпадарпавидхвастачетасо джа̄таведасах̣ патитам̣ йаддхара̄пр̣ш̣т̣хе ретастаддхемата̄мага̄т кр̣триман̃ча̄пи бхавати тадра сендра сйа ведхатах̣",
-        "text": "...Агни (бог огня), чей разум был разрушен гордыней страсти, пролил семя; то семя, упавшее на поверхность земли, превратилось в золото. Золото также может быть получено искусственно посредством воздействия расендры (ртути)."
+        "text": "...Агни (бог огня), чей разум был разрушен гордыней страсти, пролил семя; то семя, упавшее на поверхность земли, превратилось в золото. Золото также может быть получено искусственно посредством воздействия расендры (ртути).",
+        "text_en": "...Agni (the god of fire), whose mind was destroyed by the pride of passion, shed his semen; that semen, having fallen on the surface of the earth, turned into gold. Gold can also be obtained artificially through the action of Rasendra (mercury)."
       },
       {
         "type": "verse",
@@ -28785,7 +29336,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वर्णं सुवर्णं कनकं हिरण्यं हेम हाटकम्",
         "iast": "svarṇaṃ suvarṇaṃ kanakaṃ hiraṇyaṃ hema hāṭakam",
         "iast_ru": "сварн̣ам̣ суварн̣ам̣ канакам̣ хиран̣йам̣ хема ха̄т̣акам",
-        "text": "Золото называется сварна, суварна, канака, хиранья, хема, хатака."
+        "text": "Золото называется сварна, суварна, канака, хиранья, хема, хатака.",
+        "text_en": "Gold is called Svarna, Suvarna, Kanaka, Hiranya, Hema, Hataka."
       },
       {
         "type": "verse",
@@ -28793,7 +29345,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तपनीयं च गाङ्गेयं कलधौतञ्च काञ्चनम् चामीकरं शातकुम्भं तथा कार्त्तस्वरं च तत्",
         "iast": "tapanīyaṃ ca gāṅgeyaṃ kaladhautañca kāñcanam cāmīkaraṃ śātakumbhaṃ tathā kārttasvaraṃ ca tat",
         "iast_ru": "тапанӣйам̣ ча га̄н̇гейам̣ каладхаутан̃ча ка̄н̃чанам ча̄мӣкарам̣ ш́а̄такумбхам̣ татха̄ ка̄рттасварам̣ ча тат",
-        "text": "А также тапания, гангея, каладхаута, канчана, чамикара, шатакумбха, а также картасвара."
+        "text": "А также тапания, гангея, каладхаута, канчана, чамикара, шатакумбха, а также картасвара.",
+        "text_en": "And also Tapaniya, Gangeya, Kaladhauta, Kanchana, Chamikara, Shatakumbha, and also Kartasvara."
       },
       {
         "type": "verse",
@@ -28801,7 +29354,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जाम्बूनदं जातरूपं महारजतमित्यपि",
         "iast": "jāmbūnadaṃ jātarūpaṃ mahārajatamityapi",
         "iast_ru": "джа̄мбӯнадам̣ джа̄тарӯпам̣ маха̄раджатамитйапи",
-        "text": "А также джамбунада, джатарупа, а также махараджата."
+        "text": "А также джамбунада, джатарупа, а также махараджата.",
+        "text_en": "And also Jambunada, Jatarupa, and also Maharajata."
       },
       {
         "type": "verse",
@@ -28809,7 +29363,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दाहे रक्तं सितं छेदे निकषे कुङ्कुमप्रभम् तारशुल्वोज्झितं स्निग्धं कोमलं गुरु हेम सत्",
         "iast": "dāhe raktaṃ sitaṃ chede nikaṣe kuṅkumaprabham tāraśulvojjhitaṃ snigdhaṃ komalaṃ guru hema sat",
         "iast_ru": "да̄хе рактам̣ ситам̣ чхеде никаш̣е кун̇кумапрабхам та̄раш́улводжджхитам̣ снигдхам̣ комалам̣ гуру хема сат",
-        "text": "Подлинное золото при обжиге краснеет, при разрезании белеет, на пробном камне даёт шафранный цвет; лишено серебра и меди, маслянисто, мягко, тяжело."
+        "text": "Подлинное золото при обжиге краснеет, при разрезании белеет, на пробном камне даёт шафранный цвет; лишено серебра и меди, маслянисто, мягко, тяжело.",
+        "text_en": "Genuine gold turns red when heated, turns white when cut, and gives a saffron color on the touchstone; it is free of silver and copper, unctuous, soft and heavy."
       },
       {
         "type": "verse",
@@ -28817,7 +29372,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तच्छ्वेतं कठिनं रूक्षं विवर्णं समलं दलम् दाहे छेदेऽसितं श्वेतं कषे त्याज्यं लघु स्फुटम्",
         "iast": "tacchvetaṃ kaṭhinaṃ rūkṣaṃ vivarṇaṃ samalaṃ dalam dāhe chede'sitaṃ śvetaṃ kaṣe tyājyaṃ laghu sphuṭam",
         "iast_ru": "таччхветам̣ кат̣хинам̣ рӯкш̣ам̣ виварн̣ам̣ самалам̣ далам да̄хе чхеде'ситам̣ ш́ветам̣ каш̣е тйа̄джйам̣ лагху спхут̣ам",
-        "text": "То же золото, что бело, твёрдо, суховато, обесцвечено, с примесями, ломко; при обжиге и разрезании тёмное или белое, на пробном камне — следует отвергать; лёгкое и хрупкое."
+        "text": "То же золото, что бело, твёрдо, суховато, обесцвечено, с примесями, ломко; при обжиге и разрезании тёмное или белое, на пробном камне — следует отвергать; лёгкое и хрупкое.",
+        "text_en": "The gold that is white, hard, somewhat dry, discolored, with impurities, and brittle; that is dark or white on heating and cutting, and on the touchstone — is to be rejected; it is light and fragile."
       },
       {
         "type": "verse",
@@ -28825,7 +29381,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुवर्णं शीतलं वृष्यं बल्यं गुरु रसायनम् स्वादु तिक्तं च तुवरं पाके च स्वादु पिच्छिलम्",
         "iast": "suvarṇaṃ śītalaṃ vṛṣyaṃ balyaṃ guru rasāyanam svādu tiktaṃ ca tuvaraṃ pāke ca svādu picchilam",
         "iast_ru": "суварн̣ам̣ ш́ӣталам̣ вр̣ш̣йам̣ балйам̣ гуру раса̄йанам сва̄ду тиктам̣ ча туварам̣ па̄ке ча сва̄ду пиччхилам",
-        "text": "Золото холодно, усиливает половую силу, придаёт силу, тяжело, омолаживающе; сладко-горько-вяжуще, а после переваривания сладко и слегка слизисто."
+        "text": "Золото холодно, усиливает половую силу, придаёт силу, тяжело, омолаживающе; сладко-горько-вяжуще, а после переваривания сладко и слегка слизисто.",
+        "text_en": "Gold is cold, enhances sexual potency, imparts strength, is heavy and rejuvenating; it is sweet-bitter-astringent, and after digestion sweet and slightly slimy."
       },
       {
         "type": "verse",
@@ -28833,7 +29390,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पवित्रं बृंहणं नेत्र्! यं मेधास्मृतिमतिप्रदम् हृद्यमायुष्करं कान्तिवाग्विशुद्धिस्थिरत्वकृत् विषद्वयक्षयोन्मादत्रिदोषज्वरशोषजित्",
         "iast": "pavitraṃ bṛṃhaṇaṃ netr! yaṃ medhāsmṛtimatipradam hṛdyamāyuṣkaraṃ kāntivāgviśuddhisthiratvakṛt viṣadvayakṣayonmādatridoṣajvaraśoṣajit",
         "iast_ru": "павитрам̣ бр̣м̣хан̣ам̣ нетр! йам̣ медха̄смр̣тиматипрадам хр̣дйама̄йуш̣карам̣ ка̄нтива̄гвиш́уддхистхиратвакр̣т виш̣адвайакш̣айонма̄датридош̣аджвараш́ош̣аджит",
-        "text": "Очищающе, укрепляюще, полезно для глаз, придаёт разум, память и интеллект; приятно для сердца, продлевает жизнь, придаёт сияние, чистоту речи и устойчивость; устраняет оба вида яда, истощение, безумие, все три доши, лихорадку и чахотку."
+        "text": "Очищающе, укрепляюще, полезно для глаз, придаёт разум, память и интеллект; приятно для сердца, продлевает жизнь, придаёт сияние, чистоту речи и устойчивость; устраняет оба вида яда, истощение, безумие, все три доши, лихорадку и чахотку.",
+        "text_en": "It is purifying, strengthening, beneficial for the eyes, and bestows intellect, memory and understanding; it is pleasant to the heart, prolongs life, bestows radiance, clarity of speech and steadiness; it removes both kinds of poison, emaciation, insanity, all three doshas, fever and consumption."
       },
       {
         "type": "verse",
@@ -28841,7 +29399,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलं सवीर्यं हरते नराणां रोगव्रजान् पोषयतीह काये असौख्यकृच्चापि सदा सुवर्णमशुद्धमेतन्मरणञ्च कुर्यात्",
         "iast": "balaṃ savīryaṃ harate narāṇāṃ rogavrajān poṣayatīha kāye asaukhyakṛccāpi sadā suvarṇamaśuddhametanmaraṇañca kuryāt",
         "iast_ru": "балам̣ савӣрйам̣ харате нара̄н̣а̄м̣ рогавраджа̄н пош̣айатӣха ка̄йе асаукхйакр̣чча̄пи сада̄ суварн̣амаш́уддхаметанмаран̣ан̃ча курйа̄т",
-        "text": "Правильно очищенное золото уносит болезни людей, придаёт силу и жизненную энергию, питает тело. Однако неочищенное золото всегда вызывает недомогание и даже может привести к смерти."
+        "text": "Правильно очищенное золото уносит болезни людей, придаёт силу и жизненную энергию, питает тело. Однако неочищенное золото всегда вызывает недомогание и даже может привести к смерти.",
+        "text_en": "Properly purified gold carries away the diseases of men, imparts strength and vital energy, and nourishes the body. However, unpurified gold always causes ill health and may even lead to death."
       },
       {
         "type": "verse",
@@ -28849,7 +29408,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "असम्यङ्मारितं स्वर्णं बलं वीर्य्यञ्च नाशयेत् करोति रोगान् मृत्युं च तद्धन्याद्यत्नतस्ततः",
         "iast": "asamyaṅmāritaṃ svarṇaṃ balaṃ vīryyañca nāśayet karoti rogān mṛtyuṃ ca taddhanyādyatnatastataḥ",
         "iast_ru": "асамйан̇ма̄ритам̣ сварн̣ам̣ балам̣ вӣрййан̃ча на̄ш́айет кароти рога̄н мр̣тйум̣ ча таддханйа̄дйатнатастатах̣",
-        "text": "Неправильно кальцинированное золото уничтожает силу и жизненную энергию, вызывает болезни и смерть; поэтому его следует обрабатывать с большой тщательностью."
+        "text": "Неправильно кальцинированное золото уничтожает силу и жизненную энергию, вызывает болезни и смерть; поэтому его следует обрабатывать с большой тщательностью.",
+        "text_en": "Improperly calcined gold destroys strength and vital energy, and causes disease and death; therefore it should be processed with great care."
       },
       {
         "type": "verse",
@@ -28857,7 +29417,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिपुरस्य वधार्थाय निर्निमेषैर्विलोचनैः निरीक्षयामास शिवः क्रोधेन परिपूरितः",
         "iast": "tripurasya vadhārthāya nirnimeṣairvilocanaiḥ nirīkṣayāmāsa śivaḥ krodhena paripūritaḥ",
         "iast_ru": "трипурасйа вадха̄ртха̄йа нирнимеш̣аирвилочанаих̣ нирӣкш̣айа̄ма̄са ш́ивах̣ кродхена парипӯритах̣",
-        "text": "Ради уничтожения Трипуры Шива, преисполненный гнева, взирал немигающими глазами..."
+        "text": "Ради уничтожения Трипуры Шива, преисполненный гнева, взирал немигающими глазами...",
+        "text_en": "For the destruction of Tripura, Shiva, filled with wrath, gazed with unblinking eyes..."
       },
       {
         "type": "verse",
@@ -28865,7 +29426,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततो रुद्र ः! समभवद् वैश्वानर इव ज्वलन्",
         "iast": "tato rudra ḥ! samabhavad vaiśvānara iva jvalan",
         "iast_ru": "тато рудра х̣! самабхавад ваиш́ва̄нара ива джвалан",
-        "text": "...тогда Рудра стал подобен пылающему огню Вайшванаре."
+        "text": "...тогда Рудра стал подобен пылающему огню Вайшванаре.",
+        "text_en": "...then Rudra became like the blazing fire of Vaishvanara."
       },
       {
         "type": "verse",
@@ -28873,7 +29435,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्वितीयादपतन्नेत्रादश्रुबिन्दुस्तु वामकात् तस्माद्र जतमुत्पन्नमुक्तकर्मसु योजयेत्",
         "iast": "dvitīyādapatannetrādaśrubindustu vāmakāt tasmādra jatamutpannamuktakarmasu yojayet",
         "iast_ru": "двитӣйа̄дапатаннетра̄даш́рубиндусту ва̄мака̄т тасма̄дра джатамутпаннамуктакармасу йоджайет",
-        "text": "Из второго — левого — глаза упала капля слезы; из неё возникло серебро; его следует применять в упомянутых алхимических процедурах."
+        "text": "Из второго — левого — глаза упала капля слезы; из неё возникло серебро; его следует применять в упомянутых алхимических процедурах.",
+        "text_en": "From the second — the left — eye a drop of tear fell; from it silver arose; it should be used in the alchemical procedures mentioned."
       },
       {
         "type": "verse",
@@ -28881,7 +29444,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृत्रिमं च भवेत्तद्धि वङ्गादिरसयोगतः",
         "iast": "kṛtrimaṃ ca bhavettaddhi vaṅgādirasayogataḥ",
         "iast_ru": "кр̣тримам̣ ча бхаветтаддхи ван̇га̄дирасайогатах̣",
-        "text": "Оно также может быть получено искусственно посредством соединения олова и других веществ."
+        "text": "Оно также может быть получено искусственно посредством соединения олова и других веществ.",
+        "text_en": "It can also be obtained artificially by combining tin and other substances."
       },
       {
         "type": "verse",
@@ -28889,7 +29453,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रूप्यं तु रजतं तारं चन्द्र कान्ति सितप्रभम्",
         "iast": "rūpyaṃ tu rajataṃ tāraṃ candra kānti sitaprabham",
         "iast_ru": "рӯпйам̣ ту раджатам̣ та̄рам̣ чандра ка̄нти ситапрабхам",
-        "text": "Серебро называется раджата, тара, чандракант, ситапрабха."
+        "text": "Серебро называется раджата, тара, чандракант, ситапрабха.",
+        "text_en": "Silver is called Rajata, Tara, Chandrakanta, Sitaprabha."
       },
       {
         "type": "verse",
@@ -28897,7 +29462,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुरु स्निग्धं मृदु श्वेतं दाहे छेदे घनक्षमम् वर्णाढ्यं चन्द्र वत्स्वच्छं रूप्यं नवगुणं शुभम् कठिनं कृत्रिमं रूक्षं रक्तं पीतदलं लघु दाहच्छेदघनैर्नष्टं रूप्यं दुष्टं प्रकीर्त्तितम्",
         "iast": "guru snigdhaṃ mṛdu śvetaṃ dāhe chede ghanakṣamam varṇāḍhyaṃ candra vatsvacchaṃ rūpyaṃ navaguṇaṃ śubham kaṭhinaṃ kṛtrimaṃ rūkṣaṃ raktaṃ pītadalaṃ laghu dāhacchedaghanairnaṣṭaṃ rūpyaṃ duṣṭaṃ prakīrttitam",
         "iast_ru": "гуру снигдхам̣ мр̣ду ш́ветам̣ да̄хе чхеде гханакш̣амам варн̣а̄д̣хйам̣ чандра ватсваччхам̣ рӯпйам̣ навагун̣ам̣ ш́убхам кат̣хинам̣ кр̣тримам̣ рӯкш̣ам̣ рактам̣ пӣтадалам̣ лагху да̄хаччхедагханаирнаш̣т̣ам̣ рӯпйам̣ душ̣т̣ам̣ пракӣрттитам",
-        "text": "Подлинное серебро тяжело, маслянисто, мягко, бело, выдерживает обжиг, разрезание и ковку; насыщенного цвета, чисто как луна; такое серебро провозглашается новым (чистым) и благоприятным. Испорченное же серебро твёрдо, искусственно, суховато, красновато или желтовато, ломко, повреждается при обжиге, разрезании и ковке; такое серебро провозглашается негодным."
+        "text": "Подлинное серебро тяжело, маслянисто, мягко, бело, выдерживает обжиг, разрезание и ковку; насыщенного цвета, чисто как луна; такое серебро провозглашается новым (чистым) и благоприятным. Испорченное же серебро твёрдо, искусственно, суховато, красновато или желтовато, ломко, повреждается при обжиге, разрезании и ковке; такое серебро провозглашается негодным.",
+        "text_en": "Genuine silver is heavy, unctuous, soft and white, and withstands heating, cutting and hammering; it is rich in color, pure like the moon; such silver is declared to be new (pure) and auspicious. Spoiled silver, however, is hard, artificial, somewhat dry, reddish or yellowish, brittle, and is damaged on heating, cutting and hammering; such silver is declared unfit."
       },
       {
         "type": "verse",
@@ -28905,7 +29471,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रूप्यं शीतं कषायाम्लं स्वादुपाकरसं सरम् वयसः स्थापनं स्निग्धं लेखनं वातपित्तजित् प्रमेहादिकरोगांश्च नाशयत्यचिराद् ध्रुवम्",
         "iast": "rūpyaṃ śītaṃ kaṣāyāmlaṃ svādupākarasaṃ saram vayasaḥ sthāpanaṃ snigdhaṃ lekhanaṃ vātapittajit pramehādikarogāṃśca nāśayatyacirād dhruvam",
         "iast_ru": "рӯпйам̣ ш́ӣтам̣ каш̣а̄йа̄млам̣ сва̄дупа̄карасам̣ сарам вайасах̣ стха̄панам̣ снигдхам̣ лекханам̣ ва̄тапиттаджит прамеха̄дикарога̄м̣ш́ча на̄ш́айатйачира̄д дхрувам",
-        "text": "Серебро холодно, вяжуще-кисло, сладко после переваривания, слабительно; поддерживает моложавость, маслянисто, соскабливающе, устраняет ватху и питту; несомненно, быстро уничтожает мочеизнурение и подобные болезни."
+        "text": "Серебро холодно, вяжуще-кисло, сладко после переваривания, слабительно; поддерживает моложавость, маслянисто, соскабливающе, устраняет ватху и питту; несомненно, быстро уничтожает мочеизнурение и подобные болезни.",
+        "text_en": "Silver is cold, astringent-sour, sweet after digestion, and purgative; it sustains youthfulness, is unctuous and scraping, and removes Vata and Pitta; without doubt, it quickly destroys diabetes (prameha) and similar diseases."
       },
       {
         "type": "verse",
@@ -28913,7 +29480,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तारं शरीरस्य करोति तापं विध्वंसनं यच्छति शुक्रनाशम् वीर्यं बलं हन्ति तनोश्च पुष्टिं महागदान्पोषयति ह्यशुद्धम्",
         "iast": "tāraṃ śarīrasya karoti tāpaṃ vidhvaṃsanaṃ yacchati śukranāśam vīryaṃ balaṃ hanti tanośca puṣṭiṃ mahāgadānpoṣayati hyaśuddham",
         "iast_ru": "та̄рам̣ ш́арӣрасйа кароти та̄пам̣ видхвам̣санам̣ йаччхати ш́украна̄ш́ам вӣрйам̣ балам̣ ханти танош́ча пуш̣т̣им̣ маха̄гада̄нпош̣айати хйаш́уддхам",
-        "text": "Неочищенное серебро вызывает жар в теле, разрушение, потерю семени; уничтожает жизненную энергию, силу и питание тела; порождает тяжёлые болезни."
+        "text": "Неочищенное серебро вызывает жар в теле, разрушение, потерю семени; уничтожает жизненную энергию, силу и питание тела; порождает тяжёлые болезни.",
+        "text_en": "Unpurified silver causes heat in the body, destruction, and loss of semen; it destroys vital energy, strength and nourishment of the body, and produces serious diseases."
       },
       {
         "type": "verse",
@@ -28921,7 +29489,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुक्रं यत् कार्त्तिकेयस्य पतितं धरणीतले तस्मात्ताम्रं समुत्पन्नमिदमाहुः पुराविदः",
         "iast": "śukraṃ yat kārttikeyasya patitaṃ dharaṇītale tasmāttāmraṃ samutpannamidamāhuḥ purāvidaḥ",
         "iast_ru": "ш́украм̣ йат ка̄рттикейасйа патитам̣ дхаран̣ӣтале тасма̄тта̄мрам̣ самутпаннамидама̄хух̣ пура̄видах̣",
-        "text": "Знатоки древности говорят, что медь возникла из семени Картикеи, упавшего на землю."
+        "text": "Знатоки древности говорят, что медь возникла из семени Картикеи, упавшего на землю.",
+        "text_en": "The knowers of ancient lore say that copper arose from the semen of Kartikeya that fell upon the earth."
       },
       {
         "type": "verse",
@@ -28929,7 +29498,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताम्रमौदुम्बरं शुल्वमुदुम्बरमपि स्मृतम् रविप्रियं म्लेच्छमुखं सूर्यपर्यायनामकम्",
         "iast": "tāmramaudumbaraṃ śulvamudumbaramapi smṛtam ravipriyaṃ mlecchamukhaṃ sūryaparyāyanāmakam",
         "iast_ru": "та̄мрамаудумбарам̣ ш́улвамудумбарамапи смр̣там равиприйам̣ млеччхамукхам̣ сӯрйапарйа̄йана̄макам",
-        "text": "Медь называется аудумбара, шулва, удумбара, равиприя («любимая Солнцем»), млечхамукха, а также именем, синонимичным Солнцу."
+        "text": "Медь называется аудумбара, шулва, удумбара, равиприя («любимая Солнцем»), млечхамукха, а также именем, синонимичным Солнцу.",
+        "text_en": "Copper is called Audumbara, Shulva, Udumbara, Ravipriya (\"beloved of the Sun\"), Mlechchhamukha, and also by a name synonymous with the Sun."
       },
       {
         "type": "verse",
@@ -28937,7 +29507,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जपाकुसुमसङ्काशं स्निग्धं मृदु घनक्षमम् लौहनागोज्झितं ताम्रं मारणाय प्रशस्यते",
         "iast": "japākusumasaṅkāśaṃ snigdhaṃ mṛdu ghanakṣamam lauhanāgojjhitaṃ tāmraṃ māraṇāya praśasyate",
         "iast_ru": "джапа̄кусумасан̇ка̄ш́ам̣ снигдхам̣ мр̣ду гханакш̣амам лаухана̄годжджхитам̣ та̄мрам̣ ма̄ран̣а̄йа праш́асйате",
-        "text": "Медь, подобная по цвету цветку гибискуса, масляниста, мягка, выдерживает ковку, лишена железа и свинца — такая медь пригодна для кальцинации."
+        "text": "Медь, подобная по цвету цветку гибискуса, масляниста, мягка, выдерживает ковку, лишена железа и свинца — такая медь пригодна для кальцинации.",
+        "text_en": "Copper resembling the hibiscus flower in color, unctuous, soft, withstanding hammering, and free of iron and lead — such copper is suitable for calcination."
       },
       {
         "type": "verse",
@@ -28945,7 +29516,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृष्णं रूक्षमतिस्तब्धं श्वेतञ्चापि घनासहम् लौहनागयुतञ्चेति शुल्बं दुष्टं प्रकीर्त्तितम्",
         "iast": "kṛṣṇaṃ rūkṣamatistabdhaṃ śvetañcāpi ghanāsaham lauhanāgayutañceti śulbaṃ duṣṭaṃ prakīrttitam",
         "iast_ru": "кр̣ш̣н̣ам̣ рӯкш̣аматистабдхам̣ ш́ветан̃ча̄пи гхана̄сахам лаухана̄гайутан̃чети ш́улбам̣ душ̣т̣ам̣ пракӣрттитам",
-        "text": "Медь чёрная, суховатая, весьма жёсткая, а также белесая, не выдерживающая ковки, содержащая железо и свинец — такая медь провозглашается негодной."
+        "text": "Медь чёрная, суховатая, весьма жёсткая, а также белесая, не выдерживающая ковки, содержащая железо и свинец — такая медь провозглашается негодной.",
+        "text_en": "Copper that is black, somewhat dry, very hard, or whitish, not withstanding hammering, containing iron and lead — such copper is declared unfit."
       },
       {
         "type": "verse",
@@ -28953,7 +29525,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताम्रं कषायं मधुरं च तिक्तमम्लं च पाके कटु सारकं च पित्तापहं श्लेष्महरं च शीतं तद्रो पणं स्याल्लघु लेखनञ्च",
         "iast": "tāmraṃ kaṣāyaṃ madhuraṃ ca tiktamamlaṃ ca pāke kaṭu sārakaṃ ca pittāpahaṃ śleṣmaharaṃ ca śītaṃ tadro paṇaṃ syāllaghu lekhanañca",
         "iast_ru": "та̄мрам̣ каш̣а̄йам̣ мадхурам̣ ча тиктамамлам̣ ча па̄ке кат̣у са̄ракам̣ ча питта̄пахам̣ ш́леш̣махарам̣ ча ш́ӣтам̣ тадро пан̣ам̣ сйа̄ллагху лекханан̃ча",
-        "text": "Медь вяжуще-сладко-горько-кисла, а после переваривания остра; слабительна, устраняет питту и капху, холодна; заживляет раны, легка, соскабливающа."
+        "text": "Медь вяжуще-сладко-горько-кисла, а после переваривания остра; слабительна, устраняет питту и капху, холодна; заживляет раны, легка, соскабливающа.",
+        "text_en": "Copper is astringent-sweet-bitter-sour, and pungent after digestion; it is purgative, removes Pitta and Kapha, and is cold; it heals wounds, and is light and scraping."
       },
       {
         "type": "verse",
@@ -28961,7 +29534,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पाण्डूदरार्शोज्व्रकुष्ठकासश्वासक्षयान् पीनसमम्लपित्तम् शोथं कृमिं शूलमपाकरोति प्राहुः परे बृंहणमल्पमेतत्",
         "iast": "pāṇḍūdarārśojvrakuṣṭhakāsaśvāsakṣayān pīnasamamlapittam śothaṃ kṛmiṃ śūlamapākaroti prāhuḥ pare bṛṃhaṇamalpametat",
         "iast_ru": "па̄н̣д̣ӯдара̄рш́оджвракуш̣т̣хака̄саш́ва̄сакш̣айа̄н пӣнасамамлапиттам ш́отхам̣ кр̣мим̣ ш́ӯламапа̄кароти пра̄хух̣ паре бр̣м̣хан̣амалпаметат",
-        "text": "Устраняет анемию, вздутие живота, геморрой, лихорадку, кожные болезни, кашель, одышку и истощение, насморк, кислую отрыжку, отёк, паразитов и боль; но некоторые говорят, что она лишь незначительно укрепляюща."
+        "text": "Устраняет анемию, вздутие живота, геморрой, лихорадку, кожные болезни, кашель, одышку и истощение, насморк, кислую отрыжку, отёк, паразитов и боль; но некоторые говорят, что она лишь незначительно укрепляюща.",
+        "text_en": "It removes anemia, abdominal distension, piles, fever, skin diseases, cough, dyspnea and emaciation, rhinitis, sour belching, edema, worms and pain; but some say that it is only slightly strengthening."
       },
       {
         "type": "verse",
@@ -28969,7 +29543,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एको दोषो विषे ताम्रेत्वसम्यङ्मारितेऽष्टते दाहः स्वेदोऽरुचिर्मूर्च्छाक्लेदो रेको वमिर्भ्रमः",
         "iast": "eko doṣo viṣe tāmretvasamyaṅmārite'ṣṭate dāhaḥ svedo'rucirmūrcchākledo reko vamirbhramaḥ",
         "iast_ru": "еко дош̣о виш̣е та̄мретвасамйан̇ма̄рите'ш̣т̣ате да̄хах̣ сведо'ручирмӯрччха̄кледо реко вамирбхрамах̣",
-        "text": "У неправильно кальцинированной меди — восемь недостатков, подобных яду: жжение, потливость, отсутствие аппетита, обморок, влажность, понос, рвота и головокружение."
+        "text": "У неправильно кальцинированной меди — восемь недостатков, подобных яду: жжение, потливость, отсутствие аппетита, обморок, влажность, понос, рвота и головокружение.",
+        "text_en": "Improperly calcined copper has eight faults resembling poison: burning sensation, perspiration, anorexia, fainting, moisture, diarrhea, vomiting and vertigo."
       },
       {
         "type": "verse",
@@ -28977,7 +29552,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रङ्गं वङ्गं त्रपु प्रोक्तं तथा पिच्चटमित्यपि क्षुरकं मिश्रकं चापि द्विविधं वङ्ग मुच्यते",
         "iast": "raṅgaṃ vaṅgaṃ trapu proktaṃ tathā piccaṭamityapi kṣurakaṃ miśrakaṃ cāpi dvividhaṃ vaṅga mucyate",
         "iast_ru": "ран̇гам̣ ван̇гам̣ трапу проктам̣ татха̄ пиччат̣амитйапи кш̣уракам̣ миш́ракам̣ ча̄пи двивидхам̣ ван̇га мучйате",
-        "text": "Ранга (олово) называется ванга, трапу, а также пиччата; олово бывает двух видов: кшурака и мишрака."
+        "text": "Ранга (олово) называется ванга, трапу, а также пиччата; олово бывает двух видов: кшурака и мишрака.",
+        "text_en": "Ranga (tin) is called Vanga, Trapu, and also Pichchata; tin is of two kinds: Kshuraka and Mishraka."
       },
       {
         "type": "verse",
@@ -28985,7 +29561,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उत्तमं क्षुरकं तत्र मिश्रकं त्ववरं मतम्",
         "iast": "uttamaṃ kṣurakaṃ tatra miśrakaṃ tvavaraṃ matam",
         "iast_ru": "уттамам̣ кш̣уракам̣ татра миш́ракам̣ тваварам̣ матам",
-        "text": "Из них кшурака считается лучшим, а мишрака — низшим."
+        "text": "Из них кшурака считается лучшим, а мишрака — низшим.",
+        "text_en": "Of these, Kshuraka is considered the best, and Mishraka the inferior."
       },
       {
         "type": "verse",
@@ -28993,7 +29570,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रङ्गं लघु सरं रूक्षमुष्णं मेहकफक्रिमीन् निहन्ति पाण्डुं सश्वासं चक्षुष्यं पित्तलं मनाक्",
         "iast": "raṅgaṃ laghu saraṃ rūkṣamuṣṇaṃ mehakaphakrimīn nihanti pāṇḍuṃ saśvāsaṃ cakṣuṣyaṃ pittalaṃ manāk",
         "iast_ru": "ран̇гам̣ лагху сарам̣ рӯкш̣амуш̣н̣ам̣ мехакапхакримӣн ниханти па̄н̣д̣ум̣ саш́ва̄сам̣ чакш̣уш̣йам̣ питталам̣ мана̄к",
-        "text": "Олово легко, слабительно, суховато, горячо; уничтожает мочеизнурение, капху и паразитов, а также анемию с одышкой; полезно для глаз, слегка увеличивает питту."
+        "text": "Олово легко, слабительно, суховато, горячо; уничтожает мочеизнурение, капху и паразитов, а также анемию с одышкой; полезно для глаз, слегка увеличивает питту.",
+        "text_en": "Tin is light, purgative, somewhat dry and hot; it destroys diabetes (prameha), Kapha and worms, as well as anemia with dyspnea; it is beneficial for the eyes, and slightly increases Pitta."
       },
       {
         "type": "verse",
@@ -29001,7 +29579,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिंहो यथा हस्तिगणं निहन्ति तथैव वङ्गोऽखिलमेहवर्गम् देहस्य सौख्यं प्रबलेन्द्रि यत्वं नरस्य पुष्टिं विदधाति नूनम्",
         "iast": "siṃho yathā hastigaṇaṃ nihanti tathaiva vaṅgo'khilamehavargam dehasya saukhyaṃ prabalendri yatvaṃ narasya puṣṭiṃ vidadhāti nūnam",
         "iast_ru": "сим̣хо йатха̄ хастиган̣ам̣ ниханти татхаива ван̇го'кхиламехаваргам дехасйа саукхйам̣ прабалендри йатвам̣ нарасйа пуш̣т̣им̣ видадха̄ти нӯнам",
-        "text": "Как лев уничтожает стадо слонов, так и олово уничтожает все виды мочеизнурения; несомненно, оно даёт телу благополучие, усиливает органы чувств и питает человека."
+        "text": "Как лев уничтожает стадо слонов, так и олово уничтожает все виды мочеизнурения; несомненно, оно даёт телу благополучие, усиливает органы чувств и питает человека.",
+        "text_en": "As a lion destroys a herd of elephants, so tin destroys all kinds of diabetes (prameha); without doubt, it gives well-being to the body, strengthens the sense organs, and nourishes the person."
       },
       {
         "type": "verse",
@@ -29009,7 +29588,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यशदं रङ्गसदृशं रीतिहेतुश्च तन्मतम् यशदं तुवरं तिक्तं शीतलं कफपित्तहृत् चक्षुष्यं परमं मेहान् पाण्डुं श्वासं च नाशयेत्",
         "iast": "yaśadaṃ raṅgasadṛśaṃ rītihetuśca tanmatam yaśadaṃ tuvaraṃ tiktaṃ śītalaṃ kaphapittahṛt cakṣuṣyaṃ paramaṃ mehān pāṇḍuṃ śvāsaṃ ca nāśayet",
         "iast_ru": "йаш́адам̣ ран̇гасадр̣ш́ам̣ рӣтихетуш́ча танматам йаш́адам̣ туварам̣ тиктам̣ ш́ӣталам̣ капхапиттахр̣т чакш̣уш̣йам̣ парамам̣ меха̄н па̄н̣д̣ум̣ ш́ва̄сам̣ ча на̄ш́айет",
-        "text": "Цинк подобен олову, считается основой для получения латуни; цинк вяжуще-горек, холоден, устраняет капху и питту; отлично полезен для глаз, уничтожает мочеизнурение, анемию и одышку."
+        "text": "Цинк подобен олову, считается основой для получения латуни; цинк вяжуще-горек, холоден, устраняет капху и питту; отлично полезен для глаз, уничтожает мочеизнурение, анемию и одышку.",
+        "text_en": "Zinc is similar to tin and is considered the basis for the production of brass; zinc is astringent-bitter, cold, and removes Kapha and Pitta; it is excellently beneficial for the eyes, and destroys diabetes (prameha), anemia and dyspnea."
       },
       {
         "type": "verse",
@@ -29017,7 +29597,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्ट्वा भोगिसुतां रम्यां वासुकिस्तुमुमोच यत् वीर्यं जातस्ततो नागः सर्वरोगापहा नृणाम्",
         "iast": "dṛṣṭvā bhogisutāṃ ramyāṃ vāsukistumumoca yat vīryaṃ jātastato nāgaḥ sarvarogāpahā nṛṇām",
         "iast_ru": "др̣ш̣т̣ва̄ бхогисута̄м̣ рамйа̄м̣ ва̄сукистумумоча йат вӣрйам̣ джа̄тастато на̄гах̣ сарварога̄паха̄ нр̣н̣а̄м",
-        "text": "Увидев прекрасную дочь змея, Васуки излил своё семя; из него возник свинец, устраняющий все болезни людей."
+        "text": "Увидев прекрасную дочь змея, Васуки излил своё семя; из него возник свинец, устраняющий все болезни людей.",
+        "text_en": "Seeing the beautiful daughter of the serpent, Vasuki shed his semen; from it arose lead, which removes all the diseases of men."
       },
       {
         "type": "verse",
@@ -29025,7 +29606,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सीसं ब्रध्नं च वप्रं च योगेष्टं नागनामकम्",
         "iast": "sīsaṃ bradhnaṃ ca vapraṃ ca yogeṣṭaṃ nāganāmakam",
         "iast_ru": "сӣсам̣ брадхнам̣ ча вапрам̣ ча йогеш̣т̣ам̣ на̄гана̄макам",
-        "text": "Свинец называется брадхна, вапра, йогешта, нага."
+        "text": "Свинец называется брадхна, вапра, йогешта, нага.",
+        "text_en": "Lead is called Bradhna, Vapra, Yogeshta, Naga."
       },
       {
         "type": "verse",
@@ -29033,7 +29615,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सीसं रङ्गगुणं ज्ञेयं विशेषान्मेहनाशनम्",
         "iast": "sīsaṃ raṅgaguṇaṃ jñeyaṃ viśeṣānmehanāśanam",
         "iast_ru": "сӣсам̣ ран̇гагун̣ам̣ джн̃ейам̣ виш́еш̣а̄нмехана̄ш́анам",
-        "text": "Следует знать, что свинец обладает свойствами олова, в особенности уничтожает мочеизнурение."
+        "text": "Следует знать, что свинец обладает свойствами олова, в особенности уничтожает мочеизнурение.",
+        "text_en": "It should be known that lead has the properties of tin, and especially destroys diabetes (prameha)."
       },
       {
         "type": "verse",
@@ -29041,7 +29624,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नागस्तु नागशततुल्यबलं ददाति व्याधिं विनाशयति जीवनमातनोति बह्निं प्रदीपयति कामबलं करोति मृत्युं च नाशयति सन्ततसेवितः सः",
         "iast": "nāgastu nāgaśatatulyabalaṃ dadāti vyādhiṃ vināśayati jīvanamātanoti bahniṃ pradīpayati kāmabalaṃ karoti mṛtyuṃ ca nāśayati santatasevitaḥ saḥ",
         "iast_ru": "на̄гасту на̄гаш́ататулйабалам̣ дада̄ти вйа̄дхим̣ вина̄ш́айати джӣванама̄таноти бахним̣ прадӣпайати ка̄мабалам̣ кароти мр̣тйум̣ ча на̄ш́айати сантатасевитах̣ сах̣",
-        "text": "Свинец, употребляемый непрерывно, даёт силу, равную сотне слонов, уничтожает болезнь, продлевает жизнь, возбуждает пищеварительный огонь, придаёт половую силу и устраняет страх смерти."
+        "text": "Свинец, употребляемый непрерывно, даёт силу, равную сотне слонов, уничтожает болезнь, продлевает жизнь, возбуждает пищеварительный огонь, придаёт половую силу и устраняет страх смерти.",
+        "text_en": "Lead, used continuously, gives strength equal to that of a hundred elephants, destroys disease, prolongs life, kindles the digestive fire, bestows sexual potency, and removes the fear of death."
       },
       {
         "type": "verse",
@@ -29049,7 +29633,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पाकेन हीनौ किल वङ्गनागौ कुष्ठानि गुल्मांश्च तथाऽतिकष्टान् कण्डूप्रमेहानिलसादशोथभगन्दरादीन् कुरुतः प्रयुक्तौ",
         "iast": "pākena hīnau kila vaṅganāgau kuṣṭhāni gulmāṃśca tathā'tikaṣṭān kaṇḍūpramehānilasādaśothabhagandarādīn kurutaḥ prayuktau",
         "iast_ru": "па̄кена хӣнау кила ван̇гана̄гау куш̣т̣ха̄ни гулма̄м̣ш́ча татха̄'тикаш̣т̣а̄н кан̣д̣ӯпрамеха̄ниласа̄даш́отхабхагандара̄дӣн курутах̣ прайуктау",
-        "text": "Однако олово и свинец, недостаточно обработанные, при употреблении вызывают кожные болезни, тяжкие опухоли, зуд, мочеизнурение, слабость от ватхи, отёк, свищи и подобное."
+        "text": "Однако олово и свинец, недостаточно обработанные, при употреблении вызывают кожные болезни, тяжкие опухоли, зуд, мочеизнурение, слабость от ватхи, отёк, свищи и подобное.",
+        "text_en": "However, tin and lead, insufficiently processed, cause on use skin diseases, severe tumors, itching, diabetes (prameha), weakness due to Vata, edema, fistulas and the like."
       },
       {
         "type": "verse",
@@ -29057,7 +29642,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुरा लोमिनदैत्यानां निहतानां सुरैर्युधि उत्पन्नानि शरीरेभ्यो लोहानि विविधानि च लोहोऽस्त्री शस्त्रकं तीक्ष्णं पिण्डं कालायसायसी",
         "iast": "purā lominadaityānāṃ nihatānāṃ surairyudhi utpannāni śarīrebhyo lohāni vividhāni ca loho'strī śastrakaṃ tīkṣṇaṃ piṇḍaṃ kālāyasāyasī",
         "iast_ru": "пура̄ ломинадаитйа̄на̄м̣ нихата̄на̄м̣ сураирйудхи утпанна̄ни ш́арӣребхйо лоха̄ни вивидха̄ни ча лохо'стрӣ ш́астракам̣ тӣкш̣н̣ам̣ пин̣д̣ам̣ ка̄ла̄йаса̄йасӣ",
-        "text": "Некогда из тел демонов Ломинов, убитых богами в битве, возникли различные виды железа; железо именуется аси, шастрака, тикшна, пинда, калаяса, аяси."
+        "text": "Некогда из тел демонов Ломинов, убитых богами в битве, возникли различные виды железа; железо именуется аси, шастрака, тикшна, пинда, калаяса, аяси.",
+        "text_en": "Once, from the bodies of the Lomina demons, slain by the gods in battle, the various kinds of iron arose; iron is named Asi, Shastraka, Tikshna, Pinda, Kalayasa, Ayasi."
       },
       {
         "type": "verse",
@@ -29065,7 +29651,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुरुता दृढतोत्क्लेदः कश्मलं दाहकारिता अश्मदोषः सुदुर्गन्धो दोषाः सप्तायसस्य तु",
         "iast": "gurutā dṛḍhatotkledaḥ kaśmalaṃ dāhakāritā aśmadoṣaḥ sudurgandho doṣāḥ saptāyasasya tu",
         "iast_ru": "гурута̄ др̣д̣хатоткледах̣ каш́малам̣ да̄хака̄рита̄ аш́мадош̣ах̣ судургандхо дош̣а̄х̣ сапта̄йасасйа ту",
-        "text": "Тяжесть, чрезмерная твёрдость, ржавление, загрязнённость, склонность вызывать жжение, каменистость и дурной запах — таковы семь недостатков железа."
+        "text": "Тяжесть, чрезмерная твёрдость, ржавление, загрязнённость, склонность вызывать жжение, каменистость и дурной запах — таковы семь недостатков железа.",
+        "text_en": "Heaviness, excessive hardness, rusting, impurity, tendency to cause burning sensation, stoniness and foul odor — such are the seven faults of iron."
       },
       {
         "type": "verse",
@@ -29073,7 +29660,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लोहं तिक्तं सरं शीतं मधुरं तुवरं गुरु रूक्षं वयस्यं चक्षुष्यं लेखनं वातलं जयेत्",
         "iast": "lohaṃ tiktaṃ saraṃ śītaṃ madhuraṃ tuvaraṃ guru rūkṣaṃ vayasyaṃ cakṣuṣyaṃ lekhanaṃ vātalaṃ jayet",
         "iast_ru": "лохам̣ тиктам̣ сарам̣ ш́ӣтам̣ мадхурам̣ туварам̣ гуру рӯкш̣ам̣ вайасйам̣ чакш̣уш̣йам̣ лекханам̣ ва̄талам̣ джайет",
-        "text": "Железо горько, слабительно, холодно, сладко-вяжуще, тяжело, суховато; поддерживает моложавость, полезно для глаз, соскабливающе; побеждает болезни ватхи."
+        "text": "Железо горько, слабительно, холодно, сладко-вяжуще, тяжело, суховато; поддерживает моложавость, полезно для глаз, соскабливающе; побеждает болезни ватхи.",
+        "text_en": "Iron is bitter, purgative, cold, sweet-astringent, heavy and somewhat dry; it sustains youthfulness, is beneficial for the eyes, and scraping; it overcomes Vata diseases."
       },
       {
         "type": "verse",
@@ -29081,7 +29669,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफं पित्तं गरं शूलं शोथार्शः प्लीहपाण्डुताः मेदोमेहकृमीन् कुष्ठं तत्किट्टं तद्वदेव हि",
         "iast": "kaphaṃ pittaṃ garaṃ śūlaṃ śothārśaḥ plīhapāṇḍutāḥ medomehakṛmīn kuṣṭhaṃ tatkiṭṭaṃ tadvadeva hi",
         "iast_ru": "капхам̣ питтам̣ гарам̣ ш́ӯлам̣ ш́отха̄рш́ах̣ плӣхапа̄н̣д̣ута̄х̣ медомехакр̣мӣн куш̣т̣хам̣ таткит̣т̣ам̣ тадвадева хи",
-        "text": "Устраняет капху, питту, яд, боль, отёк, геморрой, болезни селезёнки, анемию, жировую ткань, мочеизнурение, паразитов и кожные болезни; окалина железа обладает теми же свойствами."
+        "text": "Устраняет капху, питту, яд, боль, отёк, геморрой, болезни селезёнки, анемию, жировую ткань, мочеизнурение, паразитов и кожные болезни; окалина железа обладает теми же свойствами.",
+        "text_en": "It removes Kapha, Pitta, poison, pain, edema, piles, diseases of the spleen, anemia, fat tissue, diabetes (prameha), worms and skin diseases; the rust of iron has the same properties."
       },
       {
         "type": "verse",
@@ -29089,7 +29678,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "षण्ढत्वकुष्ठामयमृत्युदं भवेद् हृद्रो गशूलौ कुरुतेऽश्मरीञ्च नानारुजानाञ्च तथा प्रकोपं करोति हृल्लासमशुद्धलोहम्",
         "iast": "ṣaṇḍhatvakuṣṭhāmayamṛtyudaṃ bhaved hṛdro gaśūlau kurute'śmarīñca nānārujānāñca tathā prakopaṃ karoti hṛllāsamaśuddhaloham",
         "iast_ru": "ш̣ан̣д̣хатвакуш̣т̣ха̄майамр̣тйудам̣ бхавед хр̣дро гаш́ӯлау куруте'ш́марӣн̃ча на̄на̄руджа̄на̄н̃ча татха̄ пракопам̣ кароти хр̣лла̄самаш́уддхалохам",
-        "text": "Неочищенное железо вызывает бессилие, кожные болезни и смерть; вызывает болезни сердца, боль, камни и обострение различных болезней, а также тошноту."
+        "text": "Неочищенное железо вызывает бессилие, кожные болезни и смерть; вызывает болезни сердца, боль, камни и обострение различных болезней, а также тошноту.",
+        "text_en": "Unpurified iron causes impotence, skin diseases and death; it causes heart diseases, pain, stones and aggravation of various diseases, as well as nausea."
       },
       {
         "type": "verse",
@@ -29097,7 +29687,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जीवहारि मदकारि चायसं चेदशुद्धिमदसंस्कृतं ध्रुवम् पाटवं न तनुते शरीरके दारुणां हृदि रुजाञ्च यच्छति",
         "iast": "jīvahāri madakāri cāyasaṃ cedaśuddhimadasaṃskṛtaṃ dhruvam pāṭavaṃ na tanute śarīrake dāruṇāṃ hṛdi rujāñca yacchati",
         "iast_ru": "джӣваха̄ри мадака̄ри ча̄йасам̣ чедаш́уддхимадасам̣скр̣там̣ дхрувам па̄т̣авам̣ на тануте ш́арӣраке да̄рун̣а̄м̣ хр̣ди руджа̄н̃ча йаччхати",
-        "text": "Неочищенное и необработанное железо несомненно отнимает жизнь и вызывает опьянение; оно не даёт телу здоровья и вызывает тяжкую боль в сердце."
+        "text": "Неочищенное и необработанное железо несомненно отнимает жизнь и вызывает опьянение; оно не даёт телу здоровья и вызывает тяжкую боль в сердце.",
+        "text_en": "Unpurified and unprocessed iron undoubtedly takes away life and causes intoxication; it does not give health to the body and causes severe pain in the heart."
       },
       {
         "type": "verse",
@@ -29105,7 +29696,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कूष्माण्डं तिलतैलञ्च माषान्नं राजिकां तथा मद्यम्लरसं चापि त्यजेल्लोहस्य सेवकः",
         "iast": "kūṣmāṇḍaṃ tilatailañca māṣānnaṃ rājikāṃ tathā madyamlarasaṃ cāpi tyajellohasya sevakaḥ",
         "iast_ru": "кӯш̣ма̄н̣д̣ам̣ тилатаилан̃ча ма̄ш̣а̄ннам̣ ра̄джика̄м̣ татха̄ мадйамларасам̣ ча̄пи тйаджеллохасйа севаках̣",
-        "text": "Принимающему железо следует избегать тыквы, кунжутного масла, блюда из урада, горчицы, а также спиртного и кислых веществ."
+        "text": "Принимающему железо следует избегать тыквы, кунжутного масла, блюда из урада, горчицы, а также спиртного и кислых веществ.",
+        "text_en": "One who takes iron should avoid pumpkin, sesame oil, dishes of urad, mustard, as well as liquor and sour substances."
       },
       {
         "type": "verse",
@@ -29113,7 +29705,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षमाभृच्छिखराकाराण्यङ्गान्यम्लेन लेपिते लौहे स्युर्यत्र सूक्ष्माणि तत्सारमभिधीयते लौहं साराह्वयं हन्याद् ग्रहणीमतिसारकम्",
         "iast": "kṣamābhṛcchikharākārāṇyaṅgānyamlena lepite lauhe syuryatra sūkṣmāṇi tatsāramabhidhīyate lauhaṃ sārāhvayaṃ hanyād grahaṇīmatisārakam",
         "iast_ru": "кш̣ама̄бхр̣ччхикхара̄ка̄ра̄н̣йан̇га̄нйамлена лепите лаухе сйурйатра сӯкш̣ма̄н̣и татса̄рамабхидхӣйате лаухам̣ са̄ра̄хвайам̣ ханйа̄д грахан̣ӣматиса̄ракам",
-        "text": "Когда на железе, покрытом кислым веществом, появляются тонкие узоры в форме горных вершин, оно называется «сара» (лучшее железо); железо сара устраняет болезни кишечника и понос."
+        "text": "Когда на железе, покрытом кислым веществом, появляются тонкие узоры в форме горных вершин, оно называется «сара» (лучшее железо); железо сара устраняет болезни кишечника и понос.",
+        "text_en": "When, on iron covered with a sour substance, fine patterns in the form of mountain peaks appear, it is called \"Sara\" (the best iron); Sara iron removes intestinal diseases and diarrhea."
       },
       {
         "type": "verse",
@@ -29121,7 +29714,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अर्द्धं सर्वाङ्गजं वातं शूलं च परिणामजम् छर्दिं च पीनसं पित्तं श्वासं कासं व्यपोहति",
         "iast": "arddhaṃ sarvāṅgajaṃ vātaṃ śūlaṃ ca pariṇāmajam chardiṃ ca pīnasaṃ pittaṃ śvāsaṃ kāsaṃ vyapohati",
         "iast_ru": "арддхам̣ сарва̄н̇гаджам̣ ва̄там̣ ш́ӯлам̣ ча парин̣а̄маджам чхардим̣ ча пӣнасам̣ питтам̣ ш́ва̄сам̣ ка̄сам̣ вйапохати",
-        "text": "Устраняет гемиплегию, ватху во всём теле, боль от несварения, рвоту, насморк, питту, одышку и кашель."
+        "text": "Устраняет гемиплегию, ватху во всём теле, боль от несварения, рвоту, насморк, питту, одышку и кашель.",
+        "text_en": "It removes hemiplegia, Vata in the whole body, pain due to indigestion, vomiting, rhinitis, Pitta, dyspnea and cough."
       },
       {
         "type": "verse",
@@ -29129,7 +29723,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यत्पात्रे न प्रसरति जले तैलविन्दुः प्रतप्ते हिङ्गुर्गन्धं त्यजति च निजं तिक्ततां निम्बवल्कः तप्तं दुग्धं भवति शिखराकारकंनैति भूमिं कृष्णाङ्गः स्यात् सजलचणकः कान्तलोहंतदुक्तम्",
         "iast": "yatpātre na prasarati jale tailavinduḥ pratapte hiṅgurgandhaṃ tyajati ca nijaṃ tiktatāṃ nimbavalkaḥ taptaṃ dugdhaṃ bhavati śikharākārakaṃnaiti bhūmiṃ kṛṣṇāṅgaḥ syāt sajalacaṇakaḥ kāntalohaṃtaduktam",
         "iast_ru": "йатпа̄тре на прасарати джале таилавиндух̣ пратапте хин̇гургандхам̣ тйаджати ча ниджам̣ тиктата̄м̣ нимбавалках̣ таптам̣ дугдхам̣ бхавати ш́икхара̄ка̄ракам̣наити бхӯмим̣ кр̣ш̣н̣а̄н̇гах̣ сйа̄т саджалачан̣аках̣ ка̄нталохам̣тадуктам",
-        "text": "Признаки хорошего магнетита («канта-лоха»): капля масла не растекается в его сосуде с водой, при нагревании асафетида теряет свой запах, а кора нимбы — свою горечь, кипячёное молоко приобретает форму вершины, магнит не притягивается к земле, тёмный по цвету, а при погружении в воду с нутом нут прилипает к нему — таково описание канта-лохи."
+        "text": "Признаки хорошего магнетита («канта-лоха»): капля масла не растекается в его сосуде с водой, при нагревании асафетида теряет свой запах, а кора нимбы — свою горечь, кипячёное молоко приобретает форму вершины, магнит не притягивается к земле, тёмный по цвету, а при погружении в воду с нутом нут прилипает к нему — таково описание канта-лохи.",
+        "text_en": "Signs of good magnetite (\"Kanta-loha\"): a drop of oil does not spread in its vessel of water; on heating, asafoetida loses its smell, and neem bark its bitterness; boiled milk takes the shape of a peak; the magnet is not drawn toward the ground; it is dark in color, and when immersed in water with chickpeas the chickpeas stick to it — such is the description of Kanta-loha."
       },
       {
         "type": "verse",
@@ -29137,7 +29732,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुल्मोदरार्शःशूलाममामवातं भगन्दरम् कामलाशोथकुष्ठानि क्षयं कान्तमयो हरेत्",
         "iast": "gulmodarārśaḥśūlāmamāmavātaṃ bhagandaram kāmalāśothakuṣṭhāni kṣayaṃ kāntamayo haret",
         "iast_ru": "гулмодара̄рш́ах̣ш́ӯла̄мама̄мава̄там̣ бхагандарам ка̄мала̄ш́отхакуш̣т̣ха̄ни кш̣айам̣ ка̄нтамайо харет",
-        "text": "Канта-лоха (магнитное железо) устраняет опухоли, вздутие живота, геморрой, боль, аму, вата-разлад, свищи, желтуху, отёк, кожные болезни и истощение."
+        "text": "Канта-лоха (магнитное железо) устраняет опухоли, вздутие живота, геморрой, боль, аму, вата-разлад, свищи, желтуху, отёк, кожные болезни и истощение.",
+        "text_en": "Kanta-loha (magnetic iron) removes tumors, abdominal distension, piles, pain, ama, Vata disorder, fistulas, jaundice, edema, skin diseases and emaciation."
       },
       {
         "type": "verse",
@@ -29145,7 +29741,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्लीहानमम्लपित्तञ्च यकृच्चापि शिरोरुजम्",
         "iast": "plīhānamamlapittañca yakṛccāpi śirorujam",
         "iast_ru": "плӣха̄намамлапиттан̃ча йакр̣чча̄пи ш́ироруджам",
-        "text": "Устраняет также болезни селезёнки, кислую отрыжку, болезни печени и головную боль."
+        "text": "Устраняет также болезни селезёнки, кислую отрыжку, болезни печени и головную боль.",
+        "text_en": "It also removes diseases of the spleen, sour belching, liver diseases and headache."
       },
       {
         "type": "verse",
@@ -29153,7 +29750,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्वान् रोगान् विजयते कान्तलोहं न संशयः बलं वीर्यं वपुःपुष्टिं कुरुतेऽग्नि विवर्द्धयेत्",
         "iast": "sarvān rogān vijayate kāntalohaṃ na saṃśayaḥ balaṃ vīryaṃ vapuḥpuṣṭiṃ kurute'gni vivarddhayet",
         "iast_ru": "сарва̄н рога̄н виджайате ка̄нталохам̣ на сам̣ш́айах̣ балам̣ вӣрйам̣ вапух̣пуш̣т̣им̣ куруте'гни виварддхайет",
-        "text": "Несомненно, канта-лоха побеждает все болезни; придаёт силу, жизненную энергию и питание тела, усиливает пищеварительный огонь."
+        "text": "Несомненно, канта-лоха побеждает все болезни; придаёт силу, жизненную энергию и питание тела, усиливает пищеварительный огонь.",
+        "text_en": "Without doubt, Kanta-loha overcomes all diseases; it imparts strength, vital energy and nourishment to the body, and strengthens the digestive fire."
       },
       {
         "type": "verse",
@@ -29161,7 +29759,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ध्मायमानस्य लोहस्य मलं मण्डूर मुच्यते लोहसिंहानिका किट्टी सिंहानञ्च निगद्यते यल्लोहं यद्गुणंप्रोक्तं तत्किट्टमपि तद्गुणम्",
         "iast": "dhmāyamānasya lohasya malaṃ maṇḍūra mucyate lohasiṃhānikā kiṭṭī siṃhānañca nigadyate yallohaṃ yadguṇaṃproktaṃ tatkiṭṭamapi tadguṇam",
         "iast_ru": "дхма̄йама̄насйа лохасйа малам̣ ман̣д̣ӯра мучйате лохасим̣ха̄ника̄ кит̣т̣ӣ сим̣ха̄нан̃ча нигадйате йаллохам̣ йадгун̣ам̣проктам̣ таткит̣т̣амапи тадгун̣ам",
-        "text": "Шлак выплавляемого железа называется мандура; он же именуется лохасинханика, кити, синхана; какими свойствами обладает железо, теми же обладает и его окалина."
+        "text": "Шлак выплавляемого железа называется мандура; он же именуется лохасинханика, кити, синхана; какими свойствами обладает железо, теми же обладает и его окалина.",
+        "text_en": "The slag of smelted iron is called Mandura; it is also named Lohasinhanika, Kitti, Sinhana; whatever properties iron possesses, the same are possessed by its rust."
       },
       {
         "type": "verse",
@@ -29169,7 +29768,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सप्तोपधातवः स्वर्णमाक्षिकं तारमाक्षिकं तुत्थं कांस्यं च रीतिश्च सिन्दूरञ्च शिलाजतु",
         "iast": "saptopadhātavaḥ svarṇamākṣikaṃ tāramākṣikaṃ tutthaṃ kāṃsyaṃ ca rītiśca sindūrañca śilājatu",
         "iast_ru": "саптопадха̄тавах̣ сварн̣ама̄кш̣икам̣ та̄рама̄кш̣икам̣ туттхам̣ ка̄м̣сйам̣ ча рӣтиш́ча синдӯран̃ча ш́ила̄джату",
-        "text": "Семь вспомогательных металлов: сварнамакшика (золотой колчедан), тарамакшика (серебряный колчедан), тутха (медный купорос), бронза, латунь, сурик и мумиё."
+        "text": "Семь вспомогательных металлов: сварнамакшика (золотой колчедан), тарамакшика (серебряный колчедан), тутха (медный купорос), бронза, латунь, сурик и мумиё.",
+        "text_en": "The seven sub-metals: Svarnamakshika (gold pyrite), Taramakshika (silver pyrite), Tuttha (copper sulfate), bronze, brass, red lead and shilajit."
       },
       {
         "type": "verse",
@@ -29177,7 +29777,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उपधातुषु सर्वेषु तत्तद्धातुगुणा अपि सन्ति किन्त्वेषु ते गौणास्तत्तदंशाल्पभावतः",
         "iast": "upadhātuṣu sarveṣu tattaddhātuguṇā api santi kintveṣu te gauṇāstattadaṃśālpabhāvataḥ",
         "iast_ru": "упадха̄туш̣у сарвеш̣у таттаддха̄тугун̣а̄ апи санти кинтвеш̣у те гаун̣а̄статтадам̣ш́а̄лпабха̄ватах̣",
-        "text": "Во всех вспомогательных металлах присутствуют свойства соответствующих основных металлов, однако в них эти свойства второстепенны, поскольку доля соответствующей части невелика."
+        "text": "Во всех вспомогательных металлах присутствуют свойства соответствующих основных металлов, однако в них эти свойства второстепенны, поскольку доля соответствующей части невелика.",
+        "text_en": "In all the sub-metals the properties of the corresponding principal metals are present, but in them these properties are secondary, since the proportion of the corresponding part is small."
       },
       {
         "type": "verse",
@@ -29185,7 +29786,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वर्णमाक्षिकमाख्यातं तापीजं मधुमाक्षिकम्",
         "iast": "svarṇamākṣikamākhyātaṃ tāpījaṃ madhumākṣikam",
         "iast_ru": "сварн̣ама̄кш̣икама̄кхйа̄там̣ та̄пӣджам̣ мадхума̄кш̣икам",
-        "text": "Сварнамакшика называется тапиджа, мадхумакшика."
+        "text": "Сварнамакшика называется тапиджа, мадхумакшика.",
+        "text_en": "Svarnamakshika is called Tapija, Madhumakshika."
       },
       {
         "type": "verse",
@@ -29193,7 +29795,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताप्यं माक्षिकधातुश्च मधुधातुश्च स स्मृतः किञ्चित्सुवर्णं साहित्यात्स्वर्णमाक्षिकमीरितम्",
         "iast": "tāpyaṃ mākṣikadhātuśca madhudhātuśca sa smṛtaḥ kiñcitsuvarṇaṃ sāhityātsvarṇamākṣikamīritam",
         "iast_ru": "та̄пйам̣ ма̄кш̣икадха̄туш́ча мадхудха̄туш́ча са смр̣тах̣ кин̃читсуварн̣ам̣ са̄хитйа̄тсварн̣ама̄кш̣икамӣритам",
-        "text": "Она же называется тапья, макшикадхату, мадхудхату; из-за содержания небольшого количества золота она называется сварнамакшикой."
+        "text": "Она же называется тапья, макшикадхату, мадхудхату; из-за содержания небольшого количества золота она называется сварнамакшикой.",
+        "text_en": "It is also called Tapya, Makshikadhatu, Madhudhatu; because of the content of a small amount of gold it is called Svarnamakshika."
       },
       {
         "type": "verse",
@@ -29201,7 +29804,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उपधातुः सुवर्णस्य किञ्चित्स्वर्णगुणान्वितम् तथा च काञ्चनाभावे दीयते स्वर्णमाक्षिकम्",
         "iast": "upadhātuḥ suvarṇasya kiñcitsvarṇaguṇānvitam tathā ca kāñcanābhāve dīyate svarṇamākṣikam",
         "iast_ru": "упадха̄тух̣ суварн̣асйа кин̃читсварн̣агун̣а̄нвитам татха̄ ча ка̄н̃чана̄бха̄ве дӣйате сварн̣ама̄кш̣икам",
-        "text": "Она — вспомогательный металл золота, обладающий некоторыми его свойствами; поэтому при отсутствии золота назначают сварнамакшику."
+        "text": "Она — вспомогательный металл золота, обладающий некоторыми его свойствами; поэтому при отсутствии золота назначают сварнамакшику.",
+        "text_en": "It is the sub-metal of gold, possessing some of its properties; therefore in the absence of gold, Svarnamakshika is prescribed."
       },
       {
         "type": "verse",
@@ -29209,7 +29813,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "किन्तु तस्यानुकल्पत्वात्किञ्चिदूनगुणास्ततः न केवलं स्वर्णगुणा वर्त्तन्ते स्वर्णमाक्षिके",
         "iast": "kintu tasyānukalpatvātkiñcidūnaguṇāstataḥ na kevalaṃ svarṇaguṇā varttante svarṇamākṣike",
         "iast_ru": "кинту тасйа̄нукалпатва̄ткин̃чидӯнагун̣а̄статах̣ на кевалам̣ сварн̣агун̣а̄ варттанте сварн̣ама̄кш̣ике",
-        "text": "Но, будучи заменителем, она обладает несколько меньшими свойствами; сварнамакшика не обладает исключительно свойствами золота."
+        "text": "Но, будучи заменителем, она обладает несколько меньшими свойствами; сварнамакшика не обладает исключительно свойствами золота.",
+        "text_en": "But, being a substitute, it has somewhat lesser properties; Svarnamakshika does not possess exclusively the properties of gold."
       },
       {
         "type": "verse",
@@ -29217,7 +29822,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्र व्यान्तरस्य संसर्गात्सन्त्यन्येऽपि गुणा यतः सुवर्णमाक्षिकं स्वादु तिक्तं वृष्यं रसायनम्",
         "iast": "dra vyāntarasya saṃsargātsantyanye'pi guṇā yataḥ suvarṇamākṣikaṃ svādu tiktaṃ vṛṣyaṃ rasāyanam",
         "iast_ru": "дра вйа̄нтарасйа сам̣сарга̄тсантйанйе'пи гун̣а̄ йатах̣ суварн̣ама̄кш̣икам̣ сва̄ду тиктам̣ вр̣ш̣йам̣ раса̄йанам",
-        "text": "Поскольку она содержит примесь других веществ, у неё есть и другие свойства; сварнамакшика сладко-горька, усиливает половую силу, омолаживающа."
+        "text": "Поскольку она содержит примесь других веществ, у неё есть и другие свойства; сварнамакшика сладко-горька, усиливает половую силу, омолаживающа.",
+        "text_en": "Since it contains an admixture of other substances, it has other properties as well; Svarnamakshika is sweet-bitter, enhances sexual potency, and is rejuvenating."
       },
       {
         "type": "verse",
@@ -29225,7 +29831,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चक्षुष्यं बस्तिरुक्कुष्ठपाण्डुमेहविषोदरान् अर्शः शोथं विषं कण्डूं त्रिदोषमपि नाशयेत्",
         "iast": "cakṣuṣyaṃ bastirukkuṣṭhapāṇḍumehaviṣodarān arśaḥ śothaṃ viṣaṃ kaṇḍūṃ tridoṣamapi nāśayet",
         "iast_ru": "чакш̣уш̣йам̣ бастируккуш̣т̣хапа̄н̣д̣умехавиш̣одара̄н арш́ах̣ ш́отхам̣ виш̣ам̣ кан̣д̣ӯм̣ тридош̣амапи на̄ш́айет",
-        "text": "Полезна для глаз; уничтожает боль в мочевом пузыре, кожные болезни, анемию, мочеизнурение, яд, вздутие живота, геморрой, отёк, зуд и все три доши."
+        "text": "Полезна для глаз; уничтожает боль в мочевом пузыре, кожные болезни, анемию, мочеизнурение, яд, вздутие живота, геморрой, отёк, зуд и все три доши.",
+        "text_en": "It is beneficial for the eyes; it destroys pain in the bladder, skin diseases, anemia, diabetes (prameha), poison, abdominal distension, piles, edema, itching and all three doshas."
       },
       {
         "type": "verse",
@@ -29233,7 +29840,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मन्दानलत्वं बलहानिमुग्रां विष्टम्भितां नेत्रगदान्सकुष्ठान् तथैव मालां व्रणपूर्विकां च करोति तापीजमशुद्धमेतत्",
         "iast": "mandānalatvaṃ balahānimugrāṃ viṣṭambhitāṃ netragadānsakuṣṭhān tathaiva mālāṃ vraṇapūrvikāṃ ca karoti tāpījamaśuddhametat",
         "iast_ru": "манда̄налатвам̣ балаха̄нимугра̄м̣ виш̣т̣амбхита̄м̣ нетрагада̄нсакуш̣т̣ха̄н татхаива ма̄ла̄м̣ вран̣апӯрвика̄м̣ ча кароти та̄пӣджамаш́уддхаметат",
-        "text": "Неочищенная сварнамакшика вызывает ослабление пищеварительного огня, тяжёлую потерю силы, вздутие, болезни глаз и кожи, а также малу (кожные наросты) и предшествующие ранам состояния."
+        "text": "Неочищенная сварнамакшика вызывает ослабление пищеварительного огня, тяжёлую потерю силы, вздутие, болезни глаз и кожи, а также малу (кожные наросты) и предшествующие ранам состояния.",
+        "text_en": "Unpurified Svarnamakshika causes weakening of the digestive fire, severe loss of strength, distension, diseases of the eyes and skin, as well as mala (skin outgrowths) and pre-ulcerous conditions."
       },
       {
         "type": "verse",
@@ -29241,7 +29849,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तारमाक्षिकमन्यत्तु तद्भवेद्र जतोपमम् किञ्चिद्र जतसाहित्यात्तारमाक्षिकमीरितम्",
         "iast": "tāramākṣikamanyattu tadbhavedra jatopamam kiñcidra jatasāhityāttāramākṣikamīritam",
         "iast_ru": "та̄рама̄кш̣икаманйатту тадбхаведра джатопамам кин̃чидра джатаса̄хитйа̄тта̄рама̄кш̣икамӣритам",
-        "text": "Тарамакшика же — иная разновидность, подобная серебру; из-за содержания небольшого количества серебра она называется тарамакшикой."
+        "text": "Тарамакшика же — иная разновидность, подобная серебру; из-за содержания небольшого количества серебра она называется тарамакшикой.",
+        "text_en": "Taramakshika, however, is another variety, similar to silver; because of the content of a small amount of silver it is called Taramakshika."
       },
       {
         "type": "verse",
@@ -29249,7 +29858,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अनुकल्पतया तस्य ततो हीनगुणाः स्मृताः न केवलं रूप्यगुणा यतः स्यात्तारमाक्षिकम्",
         "iast": "anukalpatayā tasya tato hīnaguṇāḥ smṛtāḥ na kevalaṃ rūpyaguṇā yataḥ syāttāramākṣikam",
         "iast_ru": "анукалпатайа̄ тасйа тато хӣнагун̣а̄х̣ смр̣та̄х̣ на кевалам̣ рӯпйагун̣а̄ йатах̣ сйа̄тта̄рама̄кш̣икам",
-        "text": "Будучи заменителем, она провозглашается обладающей меньшими свойствами; тарамакшика не обладает исключительно свойствами серебра."
+        "text": "Будучи заменителем, она провозглашается обладающей меньшими свойствами; тарамакшика не обладает исключительно свойствами серебра.",
+        "text_en": "Being a substitute, it is declared to have lesser properties; Taramakshika does not possess exclusively the properties of silver."
       },
       {
         "type": "verse",
@@ -29257,7 +29867,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वादु पाके रसे किञ्चित्तिक्तं वृष्यं रसायनम् चक्षुष्यं वस्तिरुक्कुष्ठपाण्डुमेहविषोदरान् अर्शः शोथं क्षयङ्कण्डूं त्रिदोषमपि नाशयेत्",
         "iast": "svādu pāke rase kiñcittiktaṃ vṛṣyaṃ rasāyanam cakṣuṣyaṃ vastirukkuṣṭhapāṇḍumehaviṣodarān arśaḥ śothaṃ kṣayaṅkaṇḍūṃ tridoṣamapi nāśayet",
         "iast_ru": "сва̄ду па̄ке расе кин̃читтиктам̣ вр̣ш̣йам̣ раса̄йанам чакш̣уш̣йам̣ вастируккуш̣т̣хапа̄н̣д̣умехавиш̣одара̄н арш́ах̣ ш́отхам̣ кш̣айан̇кан̣д̣ӯм̣ тридош̣амапи на̄ш́айет",
-        "text": "Сладка на вкус и после переваривания, немного горька, усиливает половую силу, омолаживающа; полезна для глаз; уничтожает боль в мочевом пузыре, кожные болезни, анемию, мочеизнурение, яд, вздутие живота, геморрой, отёк, истощение, зуд и все три доши."
+        "text": "Сладка на вкус и после переваривания, немного горька, усиливает половую силу, омолаживающа; полезна для глаз; уничтожает боль в мочевом пузыре, кожные болезни, анемию, мочеизнурение, яд, вздутие живота, геморрой, отёк, истощение, зуд и все три доши.",
+        "text_en": "It is sweet in taste and after digestion, slightly bitter, enhances sexual potency, and is rejuvenating; it is beneficial for the eyes; it destroys pain in the bladder, skin diseases, anemia, diabetes (prameha), poison, abdominal distension, piles, edema, emaciation, itching and all three doshas."
       },
       {
         "type": "verse",
@@ -29265,7 +29876,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मन्दानलत्वं बलहानिमुग्रां विष्टग्भितां नेत्रगदान्सकुष्ठान् तथैव मालां व्रणपूर्विकाञ्च करोति तापीजमिदञ्च तद्वत्",
         "iast": "mandānalatvaṃ balahānimugrāṃ viṣṭagbhitāṃ netragadānsakuṣṭhān tathaiva mālāṃ vraṇapūrvikāñca karoti tāpījamidañca tadvat",
         "iast_ru": "манда̄налатвам̣ балаха̄нимугра̄м̣ виш̣т̣агбхита̄м̣ нетрагада̄нсакуш̣т̣ха̄н татхаива ма̄ла̄м̣ вран̣апӯрвика̄н̃ча кароти та̄пӣджамидан̃ча тадват",
-        "text": "Вызывает ослабление пищеварительного огня, тяжёлую потерю силы, вздутие, болезни глаз и кожи, малу и предшествующие ранам состояния — так же, как и неочищенная тапиджа."
+        "text": "Вызывает ослабление пищеварительного огня, тяжёлую потерю силы, вздутие, болезни глаз и кожи, малу и предшествующие ранам состояния — так же, как и неочищенная тапиджа.",
+        "text_en": "It causes weakening of the digestive fire, severe loss of strength, distension, diseases of the eyes and skin, mala and pre-ulcerous conditions — just as unpurified Tapija does."
       },
       {
         "type": "verse",
@@ -29273,7 +29885,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तुत्थं वितुन्नकं चापि शिखिग्रीवं मयूरकम् तुत्थं ताम्रोपधातुर्हि किञ्चित्ताम्रेण तद्भवेत्",
         "iast": "tutthaṃ vitunnakaṃ cāpi śikhigrīvaṃ mayūrakam tutthaṃ tāmropadhāturhi kiñcittāmreṇa tadbhavet",
         "iast_ru": "туттхам̣ витуннакам̣ ча̄пи ш́икхигрӣвам̣ майӯракам туттхам̣ та̄мропадха̄турхи кин̃читта̄мрен̣а тадбхавет",
-        "text": "Тутха (медный купорос) называется витуннака, шикхигрива, майюрака; тутха — вспомогательное вещество меди, образующееся при небольшом содержании меди."
+        "text": "Тутха (медный купорос) называется витуннака, шикхигрива, майюрака; тутха — вспомогательное вещество меди, образующееся при небольшом содержании меди.",
+        "text_en": "Tuttha (copper sulfate) is called Vitunnaka, Shikhigriva, Mayuraka; Tuttha is a sub-substance of copper, formed with a small content of copper."
       },
       {
         "type": "verse",
@@ -29281,7 +29894,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "किञ्चित्ताम्रगुणं तस्माद्वक्ष्यमाणगुणं च तत् तुत्थकं कटुकं क्षारं कषायं वामकं लघु",
         "iast": "kiñcittāmraguṇaṃ tasmādvakṣyamāṇaguṇaṃ ca tat tutthakaṃ kaṭukaṃ kṣāraṃ kaṣāyaṃ vāmakaṃ laghu",
         "iast_ru": "кин̃читта̄мрагун̣ам̣ тасма̄двакш̣йама̄н̣агун̣ам̣ ча тат туттхакам̣ кат̣укам̣ кш̣а̄рам̣ каш̣а̄йам̣ ва̄макам̣ лагху",
-        "text": "Поэтому она немного обладает свойствами меди, а также свойствами, которые будут описаны далее; тутха остра, щелочна, вяжуща, вызывает рвоту, легка."
+        "text": "Поэтому она немного обладает свойствами меди, а также свойствами, которые будут описаны далее; тутха остра, щелочна, вяжуща, вызывает рвоту, легка.",
+        "text_en": "Therefore it possesses to a small extent the properties of copper, as well as the properties which will be described further; Tuttha is pungent, alkaline, astringent, emetic and light."
       },
       {
         "type": "verse",
@@ -29289,7 +29903,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लेखनं भेदनं शीतं चक्षुष्यं कफपित्तहृत् विषाश्मकुष्ठकण्डूघ्नं खर्परं चापि तद्गुणम्",
         "iast": "lekhanaṃ bhedanaṃ śītaṃ cakṣuṣyaṃ kaphapittahṛt viṣāśmakuṣṭhakaṇḍūghnaṃ kharparaṃ cāpi tadguṇam",
         "iast_ru": "лекханам̣ бхеданам̣ ш́ӣтам̣ чакш̣уш̣йам̣ капхапиттахр̣т виш̣а̄ш́макуш̣т̣хакан̣д̣ӯгхнам̣ кхарпарам̣ ча̄пи тадгун̣ам",
-        "text": "Соскабливающа, слабительна, холодна, полезна для глаз, устраняет капху и питту; уничтожает яд, камни, кожные болезни и зуд; кхарпара (иная форма купороса) обладает теми же свойствами."
+        "text": "Соскабливающа, слабительна, холодна, полезна для глаз, устраняет капху и питту; уничтожает яд, камни, кожные болезни и зуд; кхарпара (иная форма купороса) обладает теми же свойствами.",
+        "text_en": "It is scraping, purgative, cold and beneficial for the eyes, and removes Kapha and Pitta; it destroys poison, stones, skin diseases and itching; Kharpara (another form of vitriol) has the same properties."
       },
       {
         "type": "verse",
@@ -29297,7 +29912,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताम्रत्रपुजमाख्यातं कांस्यं घोषं च कंसकम् उपधातुर्भवेत्कांस्यं द्वयोस्तरणिरङ्गयोः",
         "iast": "tāmratrapujamākhyātaṃ kāṃsyaṃ ghoṣaṃ ca kaṃsakam upadhāturbhavetkāṃsyaṃ dvayostaraṇiraṅgayoḥ",
         "iast_ru": "та̄мратрапуджама̄кхйа̄там̣ ка̄м̣сйам̣ гхош̣ам̣ ча кам̣сакам упадха̄турбхаветка̄м̣сйам̣ двайостаран̣иран̇гайох̣",
-        "text": "Бронза, образующаяся из меди и олова, называется гхоша, кансака; бронза — вспомогательный металл этих двух — меди и олова."
+        "text": "Бронза, образующаяся из меди и олова, называется гхоша, кансака; бронза — вспомогательный металл этих двух — меди и олова.",
+        "text_en": "Bronze, formed from copper and tin, is called Ghosha, Kamsaka; bronze is the sub-metal of these two — copper and tin."
       },
       {
         "type": "verse",
@@ -29305,7 +29921,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कांस्यस्य तु गुणा ज्ञेयाः स्वयोनिसदृशाजनैः संयोगजप्रभावेण तस्यान्येऽपि गुणाः स्मृताः",
         "iast": "kāṃsyasya tu guṇā jñeyāḥ svayonisadṛśājanaiḥ saṃyogajaprabhāveṇa tasyānye'pi guṇāḥ smṛtāḥ",
         "iast_ru": "ка̄м̣сйасйа ту гун̣а̄ джн̃ейа̄х̣ свайонисадр̣ш́а̄джанаих̣ сам̣йогаджапрабха̄вен̣а тасйа̄нйе'пи гун̣а̄х̣ смр̣та̄х̣",
-        "text": "Людям следует знать, что свойства бронзы подобны свойствам её исходных металлов; но в силу эффекта соединения у неё также есть и другие свойства."
+        "text": "Людям следует знать, что свойства бронзы подобны свойствам её исходных металлов; но в силу эффекта соединения у неё также есть и другие свойства.",
+        "text_en": "People should know that the properties of bronze are similar to those of its constituent metals; but by virtue of the effect of combination it also has other properties."
       },
       {
         "type": "verse",
@@ -29313,7 +29930,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कांस्यं कषायं तिक्तोष्णं लेखनं विशदं सरम् गुरु नेत्रहितं रूक्षं कफपित्तहरं परम्",
         "iast": "kāṃsyaṃ kaṣāyaṃ tiktoṣṇaṃ lekhanaṃ viśadaṃ saram guru netrahitaṃ rūkṣaṃ kaphapittaharaṃ param",
         "iast_ru": "ка̄м̣сйам̣ каш̣а̄йам̣ тиктош̣н̣ам̣ лекханам̣ виш́адам̣ сарам гуру нетрахитам̣ рӯкш̣ам̣ капхапиттахарам̣ парам",
-        "text": "Бронза вяжуще-горько-горяча, соскабливающа, прозрачна, слабительна, тяжела, полезна для глаз, суховата, отлично устраняет капху и питту."
+        "text": "Бронза вяжуще-горько-горяча, соскабливающа, прозрачна, слабительна, тяжела, полезна для глаз, суховата, отлично устраняет капху и питту.",
+        "text_en": "Bronze is astringent-bitter-hot, scraping, clear, purgative, heavy, beneficial for the eyes and somewhat dry, and excellently removes Kapha and Pitta."
       },
       {
         "type": "verse",
@@ -29321,7 +29939,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तलं त्वारकूटं स्यादारो रीतिश्च कथ्यते राजरीतिर्ब्रह्मरीतिः कपिला पिङ्गलापि च",
         "iast": "pittalaṃ tvārakūṭaṃ syādāro rītiśca kathyate rājarītirbrahmarītiḥ kapilā piṅgalāpi ca",
         "iast_ru": "питталам̣ тва̄ракӯт̣ам̣ сйа̄да̄ро рӣтиш́ча катхйате ра̄джарӣтирбрахмарӣтих̣ капила̄ пин̇гала̄пи ча",
-        "text": "Латунь (питтала) называется аракута, ара, рити, раджарити, брахмарити, капила, а также пингала."
+        "text": "Латунь (питтала) называется аракута, ара, рити, раджарити, брахмарити, капила, а также пингала.",
+        "text_en": "Brass (Pittala) is called Arakuta, Ara, Riti, Rajariti, Brahmariti, Kapila, and also Pingala."
       },
       {
         "type": "verse",
@@ -29329,7 +29948,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रीतिरप्युपधातुः स्यात्ताम्रस्य यशदस्य च पित्तलस्य गुणा ज्ञेयाः स्वयोनिसदृशा जनैः",
         "iast": "rītirapyupadhātuḥ syāttāmrasya yaśadasya ca pittalasya guṇā jñeyāḥ svayonisadṛśā janaiḥ",
         "iast_ru": "рӣтирапйупадха̄тух̣ сйа̄тта̄мрасйа йаш́адасйа ча питталасйа гун̣а̄ джн̃ейа̄х̣ свайонисадр̣ш́а̄ джанаих̣",
-        "text": "Латунь также является вспомогательным металлом меди и цинка; людям следует знать, что её свойства подобны свойствам её исходных металлов."
+        "text": "Латунь также является вспомогательным металлом меди и цинка; людям следует знать, что её свойства подобны свойствам её исходных металлов.",
+        "text_en": "Brass is also a sub-metal of copper and zinc; people should know that its properties are similar to those of its constituent metals."
       },
       {
         "type": "verse",
@@ -29337,7 +29957,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संयोगजप्रभावेण तस्याप्यन्ये गुणाः स्मृताः",
         "iast": "saṃyogajaprabhāveṇa tasyāpyanye guṇāḥ smṛtāḥ",
         "iast_ru": "сам̣йогаджапрабха̄вен̣а тасйа̄пйанйе гун̣а̄х̣ смр̣та̄х̣",
-        "text": "Но в силу эффекта соединения у неё также провозглашаются и другие свойства."
+        "text": "Но в силу эффекта соединения у неё также провозглашаются и другие свойства.",
+        "text_en": "But by virtue of the effect of combination, other properties are also declared for it."
       },
       {
         "type": "verse",
@@ -29345,7 +29966,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रीतिकायुगलं रूक्षं तिक्तञ्च लवणं रसे शोधनं पाण्डुरोगघ्नं कृमिघ्नं नातिलेखनम्",
         "iast": "rītikāyugalaṃ rūkṣaṃ tiktañca lavaṇaṃ rase śodhanaṃ pāṇḍurogaghnaṃ kṛmighnaṃ nātilekhanam",
         "iast_ru": "рӣтика̄йугалам̣ рӯкш̣ам̣ тиктан̃ча лаван̣ам̣ расе ш́одханам̣ па̄н̣д̣урогагхнам̣ кр̣мигхнам̣ на̄тилекханам",
-        "text": "Оба вида латуни суховаты, горько-солоны на вкус, очищающи, устраняют анемию и паразитов, не слишком сильно соскабливающи."
+        "text": "Оба вида латуни суховаты, горько-солоны на вкус, очищающи, устраняют анемию и паразитов, не слишком сильно соскабливающи.",
+        "text_en": "Both kinds of brass are somewhat dry, bitter-salty in taste and cleansing; they remove anemia and worms, and are not very strongly scraping."
       },
       {
         "type": "verse",
@@ -29353,7 +29975,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिन्दूरं रक्तरेणुश्च नागगर्भश्च सीसजम् सीसोपधातुः सिन्दूरं गुणैस्तत्सीसवन्मतम्",
         "iast": "sindūraṃ raktareṇuśca nāgagarbhaśca sīsajam sīsopadhātuḥ sindūraṃ guṇaistatsīsavanmatam",
         "iast_ru": "синдӯрам̣ рактарен̣уш́ча на̄гагарбхаш́ча сӣсаджам сӣсопадха̄тух̣ синдӯрам̣ гун̣аистатсӣсаванматам",
-        "text": "Сурик (синдура) называется рактарену, нагагарбха, сисаджа; сурик — вспомогательное вещество свинца, по свойствам подобное свинцу."
+        "text": "Сурик (синдура) называется рактарену, нагагарбха, сисаджа; сурик — вспомогательное вещество свинца, по свойствам подобное свинцу.",
+        "text_en": "Red lead (Sindura) is called Raktarenu, Nagagarbha, Sisaja; red lead is a sub-substance of lead, similar to lead in properties."
       },
       {
         "type": "verse",
@@ -29361,7 +29984,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संयोगजप्रभावेण तस्यान्येऽपि गुणाः स्मृताः सिन्दूरमुष्णं वीसर्पकुष्ठकण्डूविषापहम् भग्नसन्धानजननं व्रणशोधनरोपणम्",
         "iast": "saṃyogajaprabhāveṇa tasyānye'pi guṇāḥ smṛtāḥ sindūramuṣṇaṃ vīsarpakuṣṭhakaṇḍūviṣāpaham bhagnasandhānajananaṃ vraṇaśodhanaropaṇam",
         "iast_ru": "сам̣йогаджапрабха̄вен̣а тасйа̄нйе'пи гун̣а̄х̣ смр̣та̄х̣ синдӯрамуш̣н̣ам̣ вӣсарпакуш̣т̣хакан̣д̣ӯвиш̣а̄пахам бхагнасандха̄наджананам̣ вран̣аш́одханаропан̣ам",
-        "text": "Но в силу эффекта соединения у него также провозглашаются и другие свойства; сурик горяч, устраняет висарпу, кожные болезни, зуд и яд; способствует сращиванию переломов; очищает и заживляет раны."
+        "text": "Но в силу эффекта соединения у него также провозглашаются и другие свойства; сурик горяч, устраняет висарпу, кожные болезни, зуд и яд; способствует сращиванию переломов; очищает и заживляет раны.",
+        "text_en": "But by virtue of the effect of combination, other properties are also declared for it; red lead is hot, and removes visarpa, skin diseases, itching and poison; it promotes the knitting of fractures; it cleanses and heals wounds."
       },
       {
         "type": "verse",
@@ -29369,7 +29993,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निदाघे घर्मसन्तप्ता धातुसारं धराधराः निर्यासवत्प्रमुञ्चन्ति तच्छिलाजतु कीर्त्तितम्",
         "iast": "nidāghe gharmasantaptā dhātusāraṃ dharādharāḥ niryāsavatpramuñcanti tacchilājatu kīrttitam",
         "iast_ru": "нида̄гхе гхармасантапта̄ дха̄туса̄рам̣ дхара̄дхара̄х̣ нирйа̄саватпрамун̃чанти таччхила̄джату кӣрттитам",
-        "text": "Летом, разогретые солнечным жаром, горы источают сущность металлов, подобно смоле; она провозглашается «шиладжату» (мумиё)."
+        "text": "Летом, разогретые солнечным жаром, горы источают сущность металлов, подобно смоле; она провозглашается «шиладжату» (мумиё).",
+        "text_en": "In summer, heated by the sun's heat, the mountains exude the essence of metals, like resin; it is declared to be \"Shilajatu\" (mumiyo)."
       },
       {
         "type": "verse",
@@ -29377,7 +30002,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सौवर्णं राजतं ताम्रमायसं तच्चतुर्विधम् शिलाजत्वद्रि जतु च शैलनिर्यास इत्यपि",
         "iast": "sauvarṇaṃ rājataṃ tāmramāyasaṃ taccaturvidham śilājatvadri jatu ca śailaniryāsa ityapi",
         "iast_ru": "сауварн̣ам̣ ра̄джатам̣ та̄мрама̄йасам̣ таччатурвидхам ш́ила̄джатвадри джату ча ш́аиланирйа̄са итйапи",
-        "text": "Оно бывает четырёх видов: золотое, серебряное, медное и железное; мумиё называется также «адриджату» («горная смола»), а также «шайланирьяса»."
+        "text": "Оно бывает четырёх видов: золотое, серебряное, медное и железное; мумиё называется также «адриджату» («горная смола»), а также «шайланирьяса».",
+        "text_en": "It is of four kinds: golden, silver, copper and iron; Shilajatu is also called \"Adrijatu\" (\"mountain resin\"), and also \"Shailaniryasa\"."
       },
       {
         "type": "verse",
@@ -29385,7 +30011,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गैरेयमश्मजं चापि गिरिजं शैलधातुजम् शिलाजं कटु तिक्तोष्णं कटुपाकं रसायनम्",
         "iast": "gaireyamaśmajaṃ cāpi girijaṃ śailadhātujam śilājaṃ kaṭu tiktoṣṇaṃ kaṭupākaṃ rasāyanam",
         "iast_ru": "гаирейамаш́маджам̣ ча̄пи гириджам̣ ш́аиладха̄туджам ш́ила̄джам̣ кат̣у тиктош̣н̣ам̣ кат̣упа̄кам̣ раса̄йанам",
-        "text": "Оно же называется гайрея, ашмаджа, гириджа, шайладхатуджа; мумиё остро, горько, горячо, после переваривания остро, омолаживающе."
+        "text": "Оно же называется гайрея, ашмаджа, гириджа, шайладхатуджа; мумиё остро, горько, горячо, после переваривания остро, омолаживающе.",
+        "text_en": "It is also called Gaireya, Ashmaja, Girija, Shailadhatuja; Shilajatu is pungent, bitter, hot, pungent after digestion, and rejuvenating."
       },
       {
         "type": "verse",
@@ -29393,7 +30020,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "छेदि योगवहं हन्ति कफमेहाश्मशर्कराः मूत्रकृच्छ्रं क्षयं श्वासं वातार्शांसि च पाण्डुताम्",
         "iast": "chedi yogavahaṃ hanti kaphamehāśmaśarkarāḥ mūtrakṛcchraṃ kṣayaṃ śvāsaṃ vātārśāṃsi ca pāṇḍutām",
         "iast_ru": "чхеди йогавахам̣ ханти капхамеха̄ш́маш́аркара̄х̣ мӯтракр̣ччхрам̣ кш̣айам̣ ш́ва̄сам̣ ва̄та̄рш́а̄м̣си ча па̄н̣д̣ута̄м",
-        "text": "Рассекающе, служит проводником для других веществ; уничтожает капху, мочеизнурение, камни и песок в почках, дизурию, истощение, одышку, геморрой от ватхи и анемию."
+        "text": "Рассекающе, служит проводником для других веществ; уничтожает капху, мочеизнурение, камни и песок в почках, дизурию, истощение, одышку, геморрой от ватхи и анемию.",
+        "text_en": "It is scraping and serves as a carrier for other substances; it destroys Kapha, diabetes (prameha), stones and gravel in the kidneys, dysuria, emaciation, dyspnea, piles due to Vata, and anemia."
       },
       {
         "type": "verse",
@@ -29401,7 +30029,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपस्मारं तथोन्मादं शोथकुष्ठोदरकृमीन्",
         "iast": "apasmāraṃ tathonmādaṃ śothakuṣṭhodarakṛmīn",
         "iast_ru": "апасма̄рам̣ татхонма̄дам̣ ш́отхакуш̣т̣ходаракр̣мӣн",
-        "text": "Уничтожает также эпилепсию, безумие, отёк, кожные болезни, вздутие живота и паразитов."
+        "text": "Уничтожает также эпилепсию, безумие, отёк, кожные болезни, вздутие живота и паразитов.",
+        "text_en": "It also destroys epilepsy, insanity, edema, skin diseases, abdominal distension and worms."
       },
       {
         "type": "verse",
@@ -29409,7 +30038,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सौवर्णं तु जपापुष्पवर्णं भवति तद्र सात् मधुरं कटु तिक्तं च शीतलं कटुपाकि च",
         "iast": "sauvarṇaṃ tu japāpuṣpavarṇaṃ bhavati tadra sāt madhuraṃ kaṭu tiktaṃ ca śītalaṃ kaṭupāki ca",
         "iast_ru": "сауварн̣ам̣ ту джапа̄пуш̣паварн̣ам̣ бхавати тадра са̄т мадхурам̣ кат̣у тиктам̣ ча ш́ӣталам̣ кат̣упа̄ки ча",
-        "text": "Золотое мумиё имеет цвет цветка гибискуса из-за своего сока; сладко-остро-горько, холодно, после переваривания остро."
+        "text": "Золотое мумиё имеет цвет цветка гибискуса из-за своего сока; сладко-остро-горько, холодно, после переваривания остро.",
+        "text_en": "Golden Shilajatu has the color of the hibiscus flower because of its juice; it is sweet-pungent-bitter, cold, and pungent after digestion."
       },
       {
         "type": "verse",
@@ -29417,7 +30047,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "राजतं पाण्डुरं शीतं कटुकं स्वादुपाकि च ताम्रं मयूरकण्ठाभं तीक्ष्णमुष्णं च जायते",
         "iast": "rājataṃ pāṇḍuraṃ śītaṃ kaṭukaṃ svādupāki ca tāmraṃ mayūrakaṇṭhābhaṃ tīkṣṇamuṣṇaṃ ca jāyate",
         "iast_ru": "ра̄джатам̣ па̄н̣д̣урам̣ ш́ӣтам̣ кат̣укам̣ сва̄дупа̄ки ча та̄мрам̣ майӯракан̣т̣ха̄бхам̣ тӣкш̣н̣амуш̣н̣ам̣ ча джа̄йате",
-        "text": "Серебряное мумиё бледно, холодно, остро, после переваривания сладко; медное же имеет цвет павлиньей шеи, остро и горячо."
+        "text": "Серебряное мумиё бледно, холодно, остро, после переваривания сладко; медное же имеет цвет павлиньей шеи, остро и горячо.",
+        "text_en": "Silver Shilajatu is pale, cold, pungent, and sweet after digestion; the copper one has the color of a peacock's neck, and is pungent and hot."
       },
       {
         "type": "verse",
@@ -29425,7 +30056,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लौहं जटायुपक्षाभं सत्तिक्तं लवणं भवेत् विपाके कटुकं शीतं सर्वं श्रेष्ठमुदाहृतम्",
         "iast": "lauhaṃ jaṭāyupakṣābhaṃ sattiktaṃ lavaṇaṃ bhavet vipāke kaṭukaṃ śītaṃ sarvaṃ śreṣṭhamudāhṛtam",
         "iast_ru": "лаухам̣ джат̣а̄йупакш̣а̄бхам̣ саттиктам̣ лаван̣ам̣ бхавет випа̄ке кат̣укам̣ ш́ӣтам̣ сарвам̣ ш́реш̣т̣хамуда̄хр̣там",
-        "text": "Железное мумиё имеет цвет крыла Джатаю, горько-солоно, после переваривания остро и холодно; всё мумиё в целом провозглашается превосходным."
+        "text": "Железное мумиё имеет цвет крыла Джатаю, горько-солоно, после переваривания остро и холодно; всё мумиё в целом провозглашается превосходным.",
+        "text_en": "Iron Shilajatu has the color of the wing of Jatayu, is bitter-salty, and pungent and cold after digestion; all Shilajatu taken together is declared excellent."
       },
       {
         "type": "verse",
@@ -29433,7 +30065,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसायनार्थिभिर्लोकैः पारदो रस्यते यतः ततो रस इति प्रोक्तः स च धातुरपि स्मृतः",
         "iast": "rasāyanārthibhirlokaiḥ pārado rasyate yataḥ tato rasa iti proktaḥ sa ca dhāturapi smṛtaḥ",
         "iast_ru": "раса̄йана̄ртхибхирлокаих̣ па̄радо расйате йатах̣ тато раса ити проктах̣ са ча дха̄турапи смр̣тах̣",
-        "text": "Поскольку люди, ищущие омоложения, извлекают сок из ртути, она называется «раса»; она также провозглашена металлом."
+        "text": "Поскольку люди, ищущие омоложения, извлекают сок из ртути, она называется «раса»; она также провозглашена металлом.",
+        "text_en": "Since people seeking rejuvenation extract the essence from mercury, it is called \"Rasa\"; it is also declared to be a metal."
       },
       {
         "type": "verse",
@@ -29441,7 +30074,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिवाङ्गात्प्रच्युतं रेतः पतितं धरणीतले तद्देहसारजातत्वाच्छुक्लमच्छमभूच्च तत्",
         "iast": "śivāṅgātpracyutaṃ retaḥ patitaṃ dharaṇītale taddehasārajātatvācchuklamacchamabhūcca tat",
         "iast_ru": "ш́ива̄н̇га̄тпрачйутам̣ ретах̣ патитам̣ дхаран̣ӣтале таддехаса̄раджа̄татва̄ччхукламаччхамабхӯчча тат",
-        "text": "Семя, истёкшее из тела Шивы и упавшее на землю, стало белым и чистым веществом, ибо было порождено сутью его тела."
+        "text": "Семя, истёкшее из тела Шивы и упавшее на землю, стало белым и чистым веществом, ибо было порождено сутью его тела.",
+        "text_en": "The semen that flowed from the body of Shiva and fell to the earth became a white and pure substance, for it was generated from the essence of his body."
       },
       {
         "type": "verse",
@@ -29449,7 +30083,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षेत्रभेदेन विज्ञेयं शिववीर्यं चतुर्विधम् श्वेतं रक्तं तथा पीतं कृष्णं तत्तु भवेत्क्रमात् ब्राह्मणः क्षत्रियो वैश्यः शूद्र श्च खलु जातितः",
         "iast": "kṣetrabhedena vijñeyaṃ śivavīryaṃ caturvidham śvetaṃ raktaṃ tathā pītaṃ kṛṣṇaṃ tattu bhavetkramāt brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdra śca khalu jātitaḥ",
         "iast_ru": "кш̣етрабхедена виджн̃ейам̣ ш́ивавӣрйам̣ чатурвидхам ш́ветам̣ рактам̣ татха̄ пӣтам̣ кр̣ш̣н̣ам̣ татту бхаветкрама̄т бра̄хман̣ах̣ кш̣атрийо ваиш́йах̣ ш́ӯдра ш́ча кхалу джа̄титах̣",
-        "text": "Следует знать, что семя Шивы бывает четырёх видов в зависимости от места происхождения: белое, красное, жёлтое и чёрное — соответственно называемые по «касте»: брахман, кшатрий, вайшья и шудра."
+        "text": "Следует знать, что семя Шивы бывает четырёх видов в зависимости от места происхождения: белое, красное, жёлтое и чёрное — соответственно называемые по «касте»: брахман, кшатрий, вайшья и шудра.",
+        "text_en": "It should be known that the semen of Shiva is of four kinds according to the place of origin: white, red, yellow and black — called respectively by the \"caste\": Brahmin, Kshatriya, Vaishya and Shudra."
       },
       {
         "type": "verse",
@@ -29457,7 +30092,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतं शस्तं रुजां नाशे रक्तं किल रसायने धातुवादे तु तत्पीतं खे गतौ कृष्णमेव च",
         "iast": "śvetaṃ śastaṃ rujāṃ nāśe raktaṃ kila rasāyane dhātuvāde tu tatpītaṃ khe gatau kṛṣṇameva ca",
         "iast_ru": "ш́ветам̣ ш́астам̣ руджа̄м̣ на̄ш́е рактам̣ кила раса̄йане дха̄тува̄де ту татпӣтам̣ кхе гатау кр̣ш̣н̣амева ча",
-        "text": "Белое рекомендуется для устранения болезней; красное — для омоложения; жёлтое — для трансмутации металлов; чёрное же — для полёта в небе."
+        "text": "Белое рекомендуется для устранения болезней; красное — для омоложения; жёлтое — для трансмутации металлов; чёрное же — для полёта в небе.",
+        "text_en": "The white is recommended for the removal of diseases; the red for rejuvenation; the yellow for the transmutation of metals; and the black for flight in the sky."
       },
       {
         "type": "verse",
@@ -29465,7 +30101,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पारदो रसधातुश्च रसेन्द्र श्च महारसः",
         "iast": "pārado rasadhātuśca rasendra śca mahārasaḥ",
         "iast_ru": "па̄радо расадха̄туш́ча расендра ш́ча маха̄расах̣",
-        "text": "Ртуть называется парада, расадхату, расендра, махараса."
+        "text": "Ртуть называется парада, расадхату, расендра, махараса.",
+        "text_en": "Mercury is called Parada, Rasadhatu, Rasendra, Maharasa."
       },
       {
         "type": "verse",
@@ -29473,7 +30110,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चपलः शिववीर्यश्च रसः सूतः शिवाह्वयः पारदः षड्रसः स्निग्धस्त्रिदोषघ्नो रसायनः",
         "iast": "capalaḥ śivavīryaśca rasaḥ sūtaḥ śivāhvayaḥ pāradaḥ ṣaḍrasaḥ snigdhastridoṣaghno rasāyanaḥ",
         "iast_ru": "чапалах̣ ш́ивавӣрйаш́ча расах̣ сӯтах̣ ш́ива̄хвайах̣ па̄радах̣ ш̣ад̣расах̣ снигдхастридош̣агхно раса̄йанах̣",
-        "text": "Также называется чапала, шивавирья, раса, сута, шивахвая; ртуть обладает шестью вкусами, маслянистая, устраняет все три доши, омолаживающа."
+        "text": "Также называется чапала, шивавирья, раса, сута, шивахвая; ртуть обладает шестью вкусами, маслянистая, устраняет все три доши, омолаживающа.",
+        "text_en": "It is also called Chapala, Shivavirya, Rasa, Suta, Shivahvaya; mercury has six tastes, is unctuous, removes all three doshas, and is rejuvenating."
       },
       {
         "type": "verse",
@@ -29481,7 +30119,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "योगवाही महावृष्यः सदा दृष्टिबलप्रदः सर्वामयहरः प्रोक्तो विशेषात्सर्वकुष्ठनुत्",
         "iast": "yogavāhī mahāvṛṣyaḥ sadā dṛṣṭibalapradaḥ sarvāmayaharaḥ prokto viśeṣātsarvakuṣṭhanut",
         "iast_ru": "йогава̄хӣ маха̄вр̣ш̣йах̣ сада̄ др̣ш̣т̣ибалапрадах̣ сарва̄майахарах̣ прокто виш́еш̣а̄тсарвакуш̣т̣ханут",
-        "text": "Служит проводником для других веществ, весьма усиливает половую силу, всегда придаёт остроту зрения и силу; провозглашена устраняющей все болезни, в особенности все кожные."
+        "text": "Служит проводником для других веществ, весьма усиливает половую силу, всегда придаёт остроту зрения и силу; провозглашена устраняющей все болезни, в особенности все кожные.",
+        "text_en": "It serves as a carrier for other substances, greatly enhances sexual potency, always imparts keenness of vision and strength; it is declared to remove all diseases, especially all skin diseases."
       },
       {
         "type": "verse",
@@ -29489,7 +30128,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वस्थो रसो भवेद् ब्रह्मा बद्धो ज्ञेयो जनार्दनः रञ्जितः कामितश्चापि साक्षाद्देवो महेश्वरः",
         "iast": "svastho raso bhaved brahmā baddho jñeyo janārdanaḥ rañjitaḥ kāmitaścāpi sākṣāddevo maheśvaraḥ",
         "iast_ru": "свастхо расо бхавед брахма̄ баддхо джн̃ейо джана̄рданах̣ ран̃джитах̣ ка̄миташ́ча̄пи са̄кш̣а̄ддево махеш́варах̣",
-        "text": "В обычном состоянии ртуть подобна Брахме; связанная (стабилизированная) — известна как Джанардана; окрашенная и приведённая в желаемое состояние — поистине сам бог Махешвара."
+        "text": "В обычном состоянии ртуть подобна Брахме; связанная (стабилизированная) — известна как Джанардана; окрашенная и приведённая в желаемое состояние — поистине сам бог Махешвара.",
+        "text_en": "In its ordinary state mercury is like Brahma; bound (stabilized), it is known as Janardana; colored and brought to the desired state, it is truly the god Maheshvara himself."
       },
       {
         "type": "verse",
@@ -29497,7 +30137,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूर्च्छितो हरति रुजं बन्धनमनुभूय खे गतिं कुरुते अजरीकरोति हि मृतः कोऽन्य करुणाऽकरः सूतात्",
         "iast": "mūrcchito harati rujaṃ bandhanamanubhūya khe gatiṃ kurute ajarīkaroti hi mṛtaḥ ko'nya karuṇā'karaḥ sūtāt",
         "iast_ru": "мӯрччхито харати руджам̣ бандханаманубхӯйа кхе гатим̣ куруте аджарӣкароти хи мр̣тах̣ ко'нйа карун̣а̄'карах̣ сӯта̄т",
-        "text": "В обморочном состоянии устраняет болезнь; пройдя через связывание, обретает способность летать по небу; кальцинированная — делает нестареющим. Кто ещё, кроме ртути, столь милостив?"
+        "text": "В обморочном состоянии устраняет болезнь; пройдя через связывание, обретает способность летать по небу; кальцинированная — делает нестареющим. Кто ещё, кроме ртути, столь милостив?",
+        "text_en": "In the swooned state it removes disease; having passed through binding, it acquires the ability to fly in the sky; calcined, it makes one ageless. Who else but mercury is so gracious?"
       },
       {
         "type": "verse",
@@ -29505,7 +30146,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "असाध्यो यो भवेद्रो गो यस्य नास्ति चिकित्सितम् रसेन्द्रो हन्ति तं रोगं नरकुञ्जरवाजिनाम्",
         "iast": "asādhyo yo bhavedro go yasya nāsti cikitsitam rasendro hanti taṃ rogaṃ narakuñjaravājinām",
         "iast_ru": "аса̄дхйо йо бхаведро го йасйа на̄сти чикитситам расендро ханти там̣ рогам̣ наракун̃джарава̄джина̄м",
-        "text": "Расендра (ртуть) уничтожает даже ту болезнь у людей, слонов и лошадей, которая неизлечима и для которой нет иного лечения."
+        "text": "Расендра (ртуть) уничтожает даже ту болезнь у людей, слонов и лошадей, которая неизлечима и для которой нет иного лечения.",
+        "text_en": "Rasendra (mercury) destroys even that disease in men, elephants and horses which is incurable and for which there is no other treatment."
       },
       {
         "type": "verse",
@@ -29513,7 +30155,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मलं विषं वह्निगिरित्वचापलं नैसर्गिकं दोषमुशन्ति पारदे उपाधिजौ द्वौ त्रपुनागयोगजौ दोषौ रसेन्द्रे कथितौ मुनीश्वरैः",
         "iast": "malaṃ viṣaṃ vahnigiritvacāpalaṃ naisargikaṃ doṣamuśanti pārade upādhijau dvau trapunāgayogajau doṣau rasendre kathitau munīśvaraiḥ",
         "iast_ru": "малам̣ виш̣ам̣ вахнигиритвача̄палам̣ наисаргикам̣ дош̣амуш́анти па̄раде упа̄дхиджау двау трапуна̄гайогаджау дош̣ау расендре катхитау мунӣш́вараих̣",
-        "text": "Мудрецы говорят, что нечистота, яд, чувствительность к огню, каменистость и непостоянство — врождённые недостатки ртути; а два приобретённых недостатка возникают от соединения с оловом и свинцом."
+        "text": "Мудрецы говорят, что нечистота, яд, чувствительность к огню, каменистость и непостоянство — врождённые недостатки ртути; а два приобретённых недостатка возникают от соединения с оловом и свинцом.",
+        "text_en": "The sages say that impurity, poison, sensitivity to fire, stoniness and instability are the inborn faults of mercury; and the two acquired faults arise from combination with tin and lead."
       },
       {
         "type": "verse",
@@ -29521,7 +30164,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मलेन मूर्च्छा मरणं विषेण दाहोऽग्निना कष्टतरः शरीरे देहस्य जाड्यं गिरिणा सदा स्युश्चाञ्चल्यतो वीर्यहृतिश्च पुंसाम् वङ्गेन कुष्ठं भुजगेन षण्ढो भवेदतोऽसौ परिशोधनीयः",
         "iast": "malena mūrcchā maraṇaṃ viṣeṇa dāho'gninā kaṣṭataraḥ śarīre dehasya jāḍyaṃ giriṇā sadā syuścāñcalyato vīryahṛtiśca puṃsām vaṅgena kuṣṭhaṃ bhujagena ṣaṇḍho bhavedato'sau pariśodhanīyaḥ",
         "iast_ru": "малена мӯрччха̄ маран̣ам̣ виш̣ен̣а да̄хо'гнина̄ каш̣т̣атарах̣ ш́арӣре дехасйа джа̄д̣йам̣ гирин̣а̄ сада̄ сйуш́ча̄н̃чалйато вӣрйахр̣тиш́ча пум̣са̄м ван̇гена куш̣т̣хам̣ бхуджагена ш̣ан̣д̣хо бхаведато'сау париш́одханӣйах̣",
-        "text": "От нечистоты — обморок и смерть; от яда — жжение; от огня — тяжкое повреждение; от каменистости — тяжесть тела; от непостоянства — потеря жизненной силы у мужчин; от олова — кожные болезни; от свинца — бессилие. Поэтому её необходимо очищать."
+        "text": "От нечистоты — обморок и смерть; от яда — жжение; от огня — тяжкое повреждение; от каменистости — тяжесть тела; от непостоянства — потеря жизненной силы у мужчин; от олова — кожные болезни; от свинца — бессилие. Поэтому её необходимо очищать.",
+        "text_en": "From impurity — fainting and death; from poison — burning sensation; from fire — severe damage; from stoniness — heaviness of the body; from instability — loss of vital strength in men; from tin — skin diseases; from lead — impotence. Therefore it must be purified."
       },
       {
         "type": "verse",
@@ -29529,7 +30173,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वह्निर्विषं मलं चेति मुख्या दोषास्त्रयो रसे एते कुर्वन्ति सन्तापं मृतिं मूर्च्छां नृणां क्रमात्",
         "iast": "vahnirviṣaṃ malaṃ ceti mukhyā doṣāstrayo rase ete kurvanti santāpaṃ mṛtiṃ mūrcchāṃ nṛṇāṃ kramāt",
         "iast_ru": "вахнирвиш̣ам̣ малам̣ чети мукхйа̄ дош̣а̄страйо расе ете курванти санта̄пам̣ мр̣тим̣ мӯрччха̄м̣ нр̣н̣а̄м̣ крама̄т",
-        "text": "Чувствительность к огню, яд и нечистота — три главных недостатка ртути; они по очереди вызывают у людей жжение, смерть и обморок."
+        "text": "Чувствительность к огню, яд и нечистота — три главных недостатка ртути; они по очереди вызывают у людей жжение, смерть и обморок.",
+        "text_en": "Sensitivity to fire, poison and impurity are the three chief faults of mercury; in turn they cause in people burning sensation, death and fainting."
       },
       {
         "type": "verse",
@@ -29537,7 +30182,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अन्येऽपि कथिता दोषा भिषग्भिः पारदे यदि तथाऽप्येते त्रयो दोषाहरणीया विशेषतः",
         "iast": "anye'pi kathitā doṣā bhiṣagbhiḥ pārade yadi tathā'pyete trayo doṣāharaṇīyā viśeṣataḥ",
         "iast_ru": "анйе'пи катхита̄ дош̣а̄ бхиш̣агбхих̣ па̄раде йади татха̄'пйете трайо дош̣а̄харан̣ӣйа̄ виш́еш̣атах̣",
-        "text": "Хотя врачи описывают и другие недостатки ртути, именно эти три следует устранять в первую очередь."
+        "text": "Хотя врачи описывают и другие недостатки ртути, именно эти три следует устранять в первую очередь.",
+        "text_en": "Although physicians describe other faults of mercury, these three should be removed first."
       },
       {
         "type": "verse",
@@ -29545,7 +30191,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संस्कारहीनं खलु सूतराजं यः सेवते तस्य करोति बाधाम् देहस्य नाशं विदधाति नूनं कष्टांश्च रोगाञ्जनयेन्नराणाम्",
         "iast": "saṃskārahīnaṃ khalu sūtarājaṃ yaḥ sevate tasya karoti bādhām dehasya nāśaṃ vidadhāti nūnaṃ kaṣṭāṃśca rogāñjanayennarāṇām",
         "iast_ru": "сам̣ска̄рахӣнам̣ кхалу сӯтара̄джам̣ йах̣ севате тасйа кароти ба̄дха̄м дехасйа на̄ш́ам̣ видадха̄ти нӯнам̣ каш̣т̣а̄м̣ш́ча рога̄н̃джанайеннара̄н̣а̄м",
-        "text": "Тот, кто принимает царя ртути без должной обработки, подвергается вреду; несомненно, это вызывает разрушение тела и порождает у людей тяжкие болезни."
+        "text": "Тот, кто принимает царя ртути без должной обработки, подвергается вреду; несомненно, это вызывает разрушение тела и порождает у людей тяжкие болезни.",
+        "text_en": "He who takes the king of mercury without proper processing suffers harm; without doubt this causes destruction of the body and produces severe diseases in people."
       },
       {
         "type": "verse",
@@ -29553,7 +30200,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गन्धो हिङ्गुलमभ्रतालकशिलाः स्रोतोऽञ्जनं टङ्कणं राजावर्तकचुम्बकौ स्फटिकया शङ्खः खटी गैरिकम् कासीसं रसकं कपर्दसिकताबोलाश्च कुङ्कष्ठकं सौराष्ट्री च मता अमी उपरसाः सूतस्य किञ्चिद्गुणैः",
         "iast": "gandho hiṅgulamabhratālakaśilāḥ sroto'ñjanaṃ ṭaṅkaṇaṃ rājāvartakacumbakau sphaṭikayā śaṅkhaḥ khaṭī gairikam kāsīsaṃ rasakaṃ kapardasikatābolāśca kuṅkaṣṭhakaṃ saurāṣṭrī ca matā amī uparasāḥ sūtasya kiñcidguṇaiḥ",
         "iast_ru": "гандхо хин̇гуламабхрата̄лакаш́ила̄х̣ срото'н̃джанам̣ т̣ан̇кан̣ам̣ ра̄джа̄вартакачумбакау спхат̣икайа̄ ш́ан̇кхах̣ кхат̣ӣ гаирикам ка̄сӣсам̣ расакам̣ капардасиката̄бола̄ш́ча кун̇каш̣т̣хакам̣ саура̄ш̣т̣рӣ ча мата̄ амӣ упараса̄х̣ сӯтасйа кин̃чидгун̣аих̣",
-        "text": "Сера, киноварь, слюда, аурипигмент, реальгар, сурьмяная сажа, бура, лазурит, магнетит, квасцы, раковина, известь, охра, купорос сульфата железа, сурьма, каури, песок, миро (бол), кункуштхака, соврастри — эти вещества считаются «упараса» (вспомогательными для ртути), частично обладающими её свойствами."
+        "text": "Сера, киноварь, слюда, аурипигмент, реальгар, сурьмяная сажа, бура, лазурит, магнетит, квасцы, раковина, известь, охра, купорос сульфата железа, сурьма, каури, песок, миро (бол), кункуштхака, соврастри — эти вещества считаются «упараса» (вспомогательными для ртути), частично обладающими её свойствами.",
+        "text_en": "Sulfur, cinnabar, mica, orpiment, realgar, antimony soot, borax, lapis lazuli, magnetite, alum, conch shell, lime, ochre, iron sulfate vitriol, antimony, cowrie, sand, bole, kunkushtaka, savrastri — these substances are considered \"uparasa\" (sub-mercurials), partially possessing its properties."
       },
       {
         "type": "verse",
@@ -29561,7 +30209,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हिङ्गुलं दरदं म्लेच्छमिङ्गुलं चूर्णपारदम् दरदस्त्रिविधः प्रोक्तश्चर्मारः शुकतुण्डकः",
         "iast": "hiṅgulaṃ daradaṃ mlecchamiṅgulaṃ cūrṇapāradam daradastrividhaḥ proktaścarmāraḥ śukatuṇḍakaḥ",
         "iast_ru": "хин̇гулам̣ дарадам̣ млеччхамин̇гулам̣ чӯрн̣апа̄радам дарадастривидхах̣ прокташ́чарма̄рах̣ ш́укатун̣д̣аках̣",
-        "text": "Киноварь называется дарада, млечха, ингула, чурнапарада; дарада бывает трёх видов: чармара, шукатундака..."
+        "text": "Киноварь называется дарада, млечха, ингула, чурнапарада; дарада бывает трёх видов: чармара, шукатундака...",
+        "text_en": "Cinnabar is called Darada, Mlechchha, Ingula, Churnaparada; Darada is of three kinds: Chamara, Shukatundaka..."
       },
       {
         "type": "verse",
@@ -29569,7 +30218,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हंसपादस्तृतीयः स्याद् गुणवानुत्तरोत्तरम्",
         "iast": "haṃsapādastṛtīyaḥ syād guṇavānuttarottaram",
         "iast_ru": "хам̣сапа̄дастр̣тӣйах̣ сйа̄д гун̣ава̄нуттароттарам",
-        "text": "...и хансапада — третий вид; каждый последующий обладает бо́льшими достоинствами."
+        "text": "...и хансапада — третий вид; каждый последующий обладает бо́льшими достоинствами.",
+        "text_en": "...and Hamsapada is the third kind; each successive one has greater merits."
       },
       {
         "type": "verse",
@@ -29577,7 +30227,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चर्मारः शुक्लवर्णः स्यात्स पीतः शुकतुण्डकः जपाकुसुमसङ्काशो हंसपादो महोत्तमः",
         "iast": "carmāraḥ śuklavarṇaḥ syātsa pītaḥ śukatuṇḍakaḥ japākusumasaṅkāśo haṃsapādo mahottamaḥ",
         "iast_ru": "чарма̄рах̣ ш́уклаварн̣ах̣ сйа̄тса пӣтах̣ ш́укатун̣д̣аках̣ джапа̄кусумасан̇ка̄ш́о хам̣сапа̄до махоттамах̣",
-        "text": "Чармара белого цвета; шукатундака желта; хансапада, подобная цветом цветку гибискуса, — наилучшая."
+        "text": "Чармара белого цвета; шукатундака желта; хансапада, подобная цветом цветку гибискуса, — наилучшая.",
+        "text_en": "Chamara is white in color; Shukatundaka is yellow; Hamsapada, resembling the hibiscus flower in color, is the best."
       },
       {
         "type": "verse",
@@ -29585,7 +30236,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिक्तं कषायं कटु हिङ्गुलं स्यान्नेत्रामयघ्नं कफपित्तहारि हृल्लासकुष्ठज्वरकामलाश्च प्लीहामवातौ च गरं निहन्ति",
         "iast": "tiktaṃ kaṣāyaṃ kaṭu hiṅgulaṃ syānnetrāmayaghnaṃ kaphapittahāri hṛllāsakuṣṭhajvarakāmalāśca plīhāmavātau ca garaṃ nihanti",
         "iast_ru": "тиктам̣ каш̣а̄йам̣ кат̣у хин̇гулам̣ сйа̄ннетра̄майагхнам̣ капхапиттаха̄ри хр̣лла̄сакуш̣т̣хаджварака̄мала̄ш́ча плӣха̄мава̄тау ча гарам̣ ниханти",
-        "text": "Киноварь горько-вяжуще-остра, устраняет болезни глаз, устраняет капху и питту; уничтожает тошноту, кожные болезни, лихорадку, желтуху, болезни селезёнки, аму, вата-разлад и яд."
+        "text": "Киноварь горько-вяжуще-остра, устраняет болезни глаз, устраняет капху и питту; уничтожает тошноту, кожные болезни, лихорадку, желтуху, болезни селезёнки, аму, вата-разлад и яд.",
+        "text_en": "Cinnabar is bitter-astringent-pungent, removes eye diseases, and removes Kapha and Pitta; it destroys nausea, skin diseases, fever, jaundice, diseases of the spleen, ama, Vata disorder and poison."
       },
       {
         "type": "verse",
@@ -29593,7 +30245,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उर्ध्वपातनयुक्त्या तु डमरुयंत्रपाचितम् हिङ्गुलं तस्य सूतं तु शुद्धमेव न शोधयेत्",
         "iast": "urdhvapātanayuktyā tu ḍamaruyaṃtrapācitam hiṅgulaṃ tasya sūtaṃ tu śuddhameva na śodhayet",
         "iast_ru": "урдхвапа̄танайуктйа̄ ту д̣амаруйам̣трапа̄читам хин̇гулам̣ тасйа сӯтам̣ ту ш́уддхамева на ш́одхайет",
-        "text": "Ртуть, извлечённая из киновари методом восходящей сублимации в аппарате «дамару-янтра», является уже чистой и не нуждается в дополнительной очистке."
+        "text": "Ртуть, извлечённая из киновари методом восходящей сублимации в аппарате «дамару-янтра», является уже чистой и не нуждается в дополнительной очистке.",
+        "text_en": "Mercury extracted from cinnabar by the method of upward sublimation in the \"Damaru-yantra\" apparatus is already pure and does not need additional purification."
       },
       {
         "type": "verse",
@@ -29601,7 +30254,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतद्वीपे पुरा देव्याः क्रीडन्त्या रजसाऽप्लुतम् दुकूलं तेन वस्त्रेण स्नातायाः क्षीरनीरधौ",
         "iast": "śvetadvīpe purā devyāḥ krīḍantyā rajasā'plutam dukūlaṃ tena vastreṇa snātāyāḥ kṣīranīradhau",
         "iast_ru": "ш́ветадвӣпе пура̄ девйа̄х̣ крӣд̣антйа̄ раджаса̄'плутам дукӯлам̣ тена вастрен̣а сна̄та̄йа̄х̣ кш̣ӣранӣрадхау",
-        "text": "Некогда на Швета-двипе (Белом острове) одеяние богини, играющей и обрызганное её кровью, было омыто той тканью в молочном океане..."
+        "text": "Некогда на Швета-двипе (Белом острове) одеяние богини, играющей и обрызганное её кровью, было омыто той тканью в молочном океане...",
+        "text_en": "Once, on Shveta-dvipa (the White Island), the garment of the goddess, playing and sprinkled with her blood, was washed with that cloth in the ocean of milk..."
       },
       {
         "type": "verse",
@@ -29609,7 +30263,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रसृतं यद्र जस्तस्माद्गन्धकः समभूत्ततः गन्धको गान्धिकश्चापि गन्धपाषाण इत्यपि",
         "iast": "prasṛtaṃ yadra jastasmādgandhakaḥ samabhūttataḥ gandhako gāndhikaścāpi gandhapāṣāṇa ityapi",
         "iast_ru": "праср̣там̣ йадра джастасма̄дгандхаках̣ самабхӯттатах̣ гандхако га̄ндхикаш́ча̄пи гандхапа̄ш̣а̄н̣а итйапи",
-        "text": "...и та кровь, растёкшаяся в воде, стала серой; сера называется гандхака, гандхика, а также гандхапашана."
+        "text": "...и та кровь, растёкшаяся в воде, стала серой; сера называется гандхака, гандхика, а также гандхапашана.",
+        "text_en": "...and that blood, spreading in the water, became gray; sulfur is called Gandhaka, Gandhika, and also Gandhapashana."
       },
       {
         "type": "verse",
@@ -29617,7 +30272,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सौगन्धिकश्च कथितो बलिर्बलरसोऽपि च चतुर्धा गन्धकः प्रोक्तो रक्तः पीतः सितोऽसितः",
         "iast": "saugandhikaśca kathito balirbalaraso'pi ca caturdhā gandhakaḥ prokto raktaḥ pītaḥ sito'sitaḥ",
         "iast_ru": "саугандхикаш́ча катхито балирбаларасо'пи ча чатурдха̄ гандхаках̣ прокто рактах̣ пӣтах̣ сито'ситах̣",
-        "text": "Также называется саугандхика, бали, баласара; сера бывает четырёх видов: красная, жёлтая, белая и чёрная."
+        "text": "Также называется саугандхика, бали, баласара; сера бывает четырёх видов: красная, жёлтая, белая и чёрная.",
+        "text_en": "It is also called Saugandhika, Bali, Balasara; sulfur is of four kinds: red, yellow, white and black."
       },
       {
         "type": "verse",
@@ -29625,7 +30281,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तो हेमक्रियासूक्तः पीतश्चैव रसायने व्रणादिलेपने श्वेतः कृष्णः श्रेष्ठः सुदुर्लभः",
         "iast": "rakto hemakriyāsūktaḥ pītaścaiva rasāyane vraṇādilepane śvetaḥ kṛṣṇaḥ śreṣṭhaḥ sudurlabhaḥ",
         "iast_ru": "ракто хемакрийа̄сӯктах̣ пӣташ́чаива раса̄йане вран̣а̄дилепане ш́ветах̣ кр̣ш̣н̣ах̣ ш́реш̣т̣хах̣ судурлабхах̣",
-        "text": "Красная предназначена для золотых алхимических процедур; жёлтая — для омоложения; белая — для нанесения на раны; чёрная — наилучшая, весьма редкая."
+        "text": "Красная предназначена для золотых алхимических процедур; жёлтая — для омоложения; белая — для нанесения на раны; чёрная — наилучшая, весьма редкая.",
+        "text_en": "The red is intended for golden alchemical procedures; the yellow for rejuvenation; the white for application to wounds; the black is the best, very rare."
       },
       {
         "type": "verse",
@@ -29633,7 +30290,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गन्धकः कटुकस्तिक्तो वीर्योष्णस्तुवरः सरः पित्तलः कटुकः पाके जन्तुकण्डूविसर्पजित् हन्ति कुष्ठक्षयप्लीहकफवातान् रसायनः",
         "iast": "gandhakaḥ kaṭukastikto vīryoṣṇastuvaraḥ saraḥ pittalaḥ kaṭukaḥ pāke jantukaṇḍūvisarpajit hanti kuṣṭhakṣayaplīhakaphavātān rasāyanaḥ",
         "iast_ru": "гандхаках̣ кат̣укастикто вӣрйош̣н̣астуварах̣ сарах̣ питталах̣ кат̣уках̣ па̄ке джантукан̣д̣ӯвисарпаджит ханти куш̣т̣хакш̣айаплӣхакапхава̄та̄н раса̄йанах̣",
-        "text": "Сера остро-горька, горяча по энергии, вяжуща, слабительна; увеличивает питту, остра после переваривания; устраняет паразитов, зуд и висарпу; уничтожает кожные болезни, истощение, болезни селезёнки, капху и ватху; омолаживающа."
+        "text": "Сера остро-горька, горяча по энергии, вяжуща, слабительна; увеличивает питту, остра после переваривания; устраняет паразитов, зуд и висарпу; уничтожает кожные болезни, истощение, болезни селезёнки, капху и ватху; омолаживающа.",
+        "text_en": "Sulfur is pungent-bitter, hot in potency, astringent and purgative; it increases Pitta, and is pungent after digestion; it removes worms, itching and visarpa; it destroys skin diseases, emaciation, diseases of the spleen, Kapha and Vata; it is rejuvenating."
       },
       {
         "type": "verse",
@@ -29641,7 +30299,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अशोधितो गन्धक एव कुष्ठं करोति तापं विषमं शरीरे सौख्यं च रूपं च वलं तथौजः शुक्रं निहन्त्येव करोति चास्रम्",
         "iast": "aśodhito gandhaka eva kuṣṭhaṃ karoti tāpaṃ viṣamaṃ śarīre saukhyaṃ ca rūpaṃ ca valaṃ tathaujaḥ śukraṃ nihantyeva karoti cāsram",
         "iast_ru": "аш́одхито гандхака ева куш̣т̣хам̣ кароти та̄пам̣ виш̣амам̣ ш́арӣре саукхйам̣ ча рӯпам̣ ча валам̣ татхауджах̣ ш́украм̣ нихантйева кароти ча̄срам",
-        "text": "Неочищенная же сера вызывает кожные болезни и неправильный жар в теле; уничтожает благополучие, красоту, силу, жизненную энергию и семя; вызывает расстройства крови."
+        "text": "Неочищенная же сера вызывает кожные болезни и неправильный жар в теле; уничтожает благополучие, красоту, силу, жизненную энергию и семя; вызывает расстройства крови.",
+        "text_en": "Unpurified sulfur, however, causes skin diseases and abnormal heat in the body; it destroys well-being, beauty, strength, vital energy and semen; it causes blood disorders."
       },
       {
         "type": "verse",
@@ -29649,7 +30308,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुरा वधाय वृत्रस्य वज्रिणा वज्रमुद्धृतम् विस्फुलिङ्गास्ततस्तस्य गगने परिसर्पिताः",
         "iast": "purā vadhāya vṛtrasya vajriṇā vajramuddhṛtam visphuliṅgāstatastasya gagane parisarpitāḥ",
         "iast_ru": "пура̄ вадха̄йа вр̣трасйа ваджрин̣а̄ ваджрамуддхр̣там виспхулин̇га̄статастасйа гагане парисарпита̄х̣",
-        "text": "Некогда, ради убийства Вритры, Индра извлёк ваджру; искры от неё разлетелись по небу..."
+        "text": "Некогда, ради убийства Вритры, Индра извлёк ваджру; искры от неё разлетелись по небу...",
+        "text_en": "Once, for the slaying of Vritra, Indra drew forth the vajra; sparks from it scattered across the sky..."
       },
       {
         "type": "verse",
@@ -29657,7 +30317,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ते निपेतुर्घनध्वानाच्छिखरेषु महीभृताम् तेभ्य एव समुत्पन्नं तत्तद्गिरिषु चाभ्रकम्",
         "iast": "te nipeturghanadhvānācchikhareṣu mahībhṛtām tebhya eva samutpannaṃ tattadgiriṣu cābhrakam",
         "iast_ru": "те нипетургханадхва̄на̄ччхикхареш̣у махӣбхр̣та̄м тебхйа ева самутпаннам̣ таттадгириш̣у ча̄бхракам",
-        "text": "...и с громовым звуком упали на вершины гор; из них на разных горах возникла слюда."
+        "text": "...и с громовым звуком упали на вершины гор; из них на разных горах возникла слюда.",
+        "text_en": "...and fell with a thundering sound upon the mountain peaks; from them mica arose on various mountains."
       },
       {
         "type": "verse",
@@ -29665,7 +30326,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तद्वज्रं वज्रजातत्वादभ्रमभ्ररवोद्भवात् गगनात्स्खलितं यस्माद्गगनं च ततो मतम्",
         "iast": "tadvajraṃ vajrajātatvādabhramabhraravodbhavāt gaganātskhalitaṃ yasmādgaganaṃ ca tato matam",
         "iast_ru": "тадваджрам̣ ваджраджа̄татва̄дабхрамабхрараводбхава̄т гагана̄тскхалитам̣ йасма̄дгаганам̣ ча тато матам",
-        "text": "Она называется «ваджра» из-за происхождения от ваджры; «абхра» — из-за возникновения от грохота; а поскольку она упала с неба, она также называется «гагана»."
+        "text": "Она называется «ваджра» из-за происхождения от ваджры; «абхра» — из-за возникновения от грохота; а поскольку она упала с неба, она также называется «гагана».",
+        "text_en": "It is called \"Vajra\" because of its origin from the vajra; \"Abhra\" because of its arising from the rumbling; and since it fell from the sky, it is also called \"Gagana\"."
       },
       {
         "type": "verse",
