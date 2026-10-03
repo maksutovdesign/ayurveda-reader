@@ -1,11 +1,11 @@
-import { BOOKS, loadBookData, configureContent } from './books.js?v=565';
-import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js?v=565';
-import { DISEASES, getDiseaseCategories } from './diseases.js?v=565';
-import { QUIZ } from './quiz.js?v=565';
-import { FOOD_TABLE } from './foodtable.js?v=565';
-import * as Cabinet from './cabinet.js?v=565';
-import { icon } from './icons.js?v=565';
-import { searchContext, askQuestion } from './chatbot.js?v=565';
+import { BOOKS, loadBookData, configureContent } from './books.js?v=566';
+import { GLOSSARY, lookupTerm, TERM_REGEX } from './glossary.js?v=566';
+import { DISEASES, getDiseaseCategories } from './diseases.js?v=566';
+import { QUIZ } from './quiz.js?v=566';
+import { FOOD_TABLE } from './foodtable.js?v=566';
+import * as Cabinet from './cabinet.js?v=566';
+import { icon } from './icons.js?v=566';
+import { searchContext, askQuestion } from './chatbot.js?v=566';
 
 // Чистые линейные иконки (наследуют цвет кнопки/текста)
 const _actSvg = (paths) => `<svg class="act-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths}</svg>`;
@@ -24,13 +24,13 @@ let ENCYCLOPEDIA = [], ENCYCLOPEDIA_INDEX = null, REMEDIES = [];
 let _encLoaded = false, _remLoaded = false, _encMapCache = null;
 async function ensureEncyclopedia() {
   if (_encLoaded) return;
-  const m = await import('./encyclopedia.js?v=565');
+  const m = await import('./encyclopedia.js?v=566');
   ENCYCLOPEDIA = m.ENCYCLOPEDIA; ENCYCLOPEDIA_INDEX = m.ENCYCLOPEDIA_INDEX;
   _encLoaded = true; _encMapCache = null;
 }
 async function ensureRemedies() {
   if (_remLoaded) return;
-  const m = await import('./remedies.js?v=565');
+  const m = await import('./remedies.js?v=566');
   REMEDIES = m.REMEDIES; _remLoaded = true;
 }
 
@@ -500,12 +500,13 @@ function renderBlock(block) {
     if (block.number != null) { div.id = 'v' + block.number; div.dataset.verse = String(block.number); }
     if (_renderCtx) _renderCtx._vnum = String(block.number);
     // Применяем одобренные правки поверх статики
-    const sText = ov('text', block.text);
-    const sIast = ov('iast_ru', block.iast_ru) || ov('iast', block.iast); // русская транслитерация, IAST как fallback
+    const showEn = getSiteLang() === 'en' && !!block.text_en;
+    const sText = showEn ? block.text_en : ov('text', block.text);
+    const sIast = showEn ? (ov('iast', block.iast) || ov('iast_ru', block.iast_ru)) : (ov('iast_ru', block.iast_ru) || ov('iast', block.iast)); // RU: кириллица, EN: латиница IAST
     const sSkt  = ov('sanskrit', block.sanskrit);
     const sTrans = ov('translation', null); // добавленный экспертами русский перевод
     const verseHeader = block.number != null
-      ? `<div class="verse-header"><span class="verse-number">Стих ${block.number}</span></div>`
+      ? `<div class="verse-header"><span class="verse-number">${t('Стих', 'Verse')} ${block.number}</span></div>`
       : '';
     const devanagariHtml = sSkt
       ? `<div class="verse-devanagari" aria-label="Санскрит">${escapeHtml(sSkt)}</div>`
@@ -524,8 +525,8 @@ function renderBlock(block) {
       : '';
     div.innerHTML = `${verseHeader}${devanagariHtml}${iastHtml}<div class="verse-text">${renderText(sText)}</div>${transHtml}${engHtml}`;
     if (block.number != null) {
-      const ruText = sTrans || ((_renderCtx && _renderCtx.lang !== 'en' && _renderCtx.lang !== 'sa') ? sText : '');
-      const enText = sEng || ((_renderCtx && _renderCtx.lang === 'en') ? sText : '');
+      const ruText = sTrans || ((!showEn && _renderCtx && _renderCtx.lang !== 'en' && _renderCtx.lang !== 'sa') ? sText : (showEn ? ov('text', block.text) : ''));
+      const enText = showEn ? sText : (sEng || ((_renderCtx && _renderCtx.lang === 'en') ? sText : ''));
       const actions = document.createElement('div');
       actions.className = 'verse-actions';
       let btns = `<button class="verse-act verse-act--share" title="${t('Поделиться', 'Share')}" aria-label="${t('Поделиться стихом', 'Share this verse')}">${SHARE_SVG}</button>`;
