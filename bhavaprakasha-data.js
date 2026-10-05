@@ -83304,7 +83304,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यवाकारा प्रकठिना ग्रथिता मांससंश्रया पिडका श्लेष्मवाताभ्यां यवप्रख्येति सोच्यते",
         "iast": "yavākārā prakaṭhinā grathitā māṃsasaṃśrayā piḍakā śleṣmavātābhyāṃ yavaprakhyeti socyate",
         "iast_ru": "йава̄ка̄ра̄ пракат̣хина̄ гратхита̄ ма̄м̣сасам̣ш́райа̄ пид̣ака̄ ш́леш̣мава̄та̄бхйа̄м̣ йавапракхйети сочйате",
-        "text": "Твёрдый, узловатый, обосновавшийся в мясе нарыв, подобный ячменному зерну, — от капхи и ватхи, называется «явапракхья» (подобная ячменю)."
+        "text": "Твёрдый, узловатый, обосновавшийся в мясе нарыв, подобный ячменному зерну, — от капхи и ватхи, называется «явапракхья» (подобная ячменю).",
+        "text_en": "A firm, nodular boil seated in the flesh, resembling a barley grain, born of Kapha and Vata, is called Yavaprakhya (barley-like)."
       },
       {
         "type": "verse",
@@ -83312,7 +83313,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घनामवक्रां पिडकामुन्नतां परिमण्डलाम् अन्त्रालजीमल्पपूयां तां विद्यात्कफवातजाम्",
         "iast": "ghanāmavakrāṃ piḍakāmunnatāṃ parimaṇḍalām antrālajīmalpapūyāṃ tāṃ vidyātkaphavātajām",
         "iast_ru": "гхана̄мавакра̄м̣ пид̣ака̄мунната̄м̣ париман̣д̣ала̄м антра̄ладжӣмалпапӯйа̄м̣ та̄м̣ видйа̄ткапхава̄таджа̄м",
-        "text": "Плотный, неискривлённый нарыв, приподнятый, округлый, [в области] кишечника, с малым гноем, — эту, [возникшую] от капхи и ватхи, следует знать как «антраладжи»."
+        "text": "Плотный, неискривлённый нарыв, приподнятый, округлый, [в области] кишечника, с малым гноем, — эту, [возникшую] от капхи и ватхи, следует знать как «антраладжи».",
+        "text_en": "A dense, straight boil, raised and round, located in the intestinal region, with scanty pus, born of Kapha and Vata, should be known as Antraalaji."
       },
       {
         "type": "verse",
@@ -83320,7 +83322,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अन्त्रालजीयवप्रख्ये पूर्वं स्वेदैरुपाचरेत् मनःशिलादेवदारुकुष्ठकल्कैः प्रलेपयेत् पक्वां व्रणविधानेन तथोक्तेन प्रसाधयेत्",
         "iast": "antrālajīyavaprakhye pūrvaṃ svedairupācaret manaḥśilādevadārukuṣṭhakalkaiḥ pralepayet pakvāṃ vraṇavidhānena tathoktena prasādhayet",
         "iast_ru": "антра̄ладжӣйавапракхйе пӯрвам̣ сведаирупа̄чарет манах̣ш́ила̄девада̄рукуш̣т̣хакалкаих̣ пралепайет паква̄м̣ вран̣авидха̄нена татхоктена праса̄дхайет",
-        "text": "При «антраладжи» и «явапракхье» сначала следует применять прогревание; следует смазывать пастами манахшилы, деодара и кустхи; когда созреет, следует обработать по методу, изложенному для раны."
+        "text": "При «антраладжи» и «явапракхье» сначала следует применять прогревание; следует смазывать пастами манахшилы, деодара и кустхи; когда созреет, следует обработать по методу, изложенному для раны.",
+        "text_en": "In Antraalaji and Yavaprakhya, fomentation should be applied first; pastes of Manahshila, Devadaru and Kushtha should be applied; when it ripens, it should be treated according to the method described for wounds."
       },
       {
         "type": "verse",
@@ -83328,7 +83331,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विवृतास्यां महादाहां पक्वोदुम्बरसन्निभाम् विवृतामिति तां विद्यात्पित्तोत्थां परिमण्डलम् १८८ पद्मकर्णिकवन्मध्ये पिडकां पिडकाचिताम् इन्द्र विद्धान्तु तां विद्याद्वातपित्तोत्थितां भिषक् मण्डलं वृतमुत्सन्नं सरक्तं पिडकाचितम् रुजाकरीं गर्दभिकां तां विद्याद्वातपित्तजाम् विसर्पवत्सर्पति यः शोथस्तनुरपाकवान् दाहज्वरकरः पित्तात्सज्ञेयो जालगर्दभः",
         "iast": "vivṛtāsyāṃ mahādāhāṃ pakvodumbarasannibhām vivṛtāmiti tāṃ vidyātpittotthāṃ parimaṇḍalam 188 padmakarṇikavanmadhye piḍakāṃ piḍakācitām indra viddhāntu tāṃ vidyādvātapittotthitāṃ bhiṣak maṇḍalaṃ vṛtamutsannaṃ saraktaṃ piḍakācitam rujākarīṃ gardabhikāṃ tāṃ vidyādvātapittajām visarpavatsarpati yaḥ śothastanurapākavān dāhajvarakaraḥ pittātsajñeyo jālagardabhaḥ",
         "iast_ru": "вивр̣та̄сйа̄м̣ маха̄да̄ха̄м̣ пакводумбарасаннибха̄м вивр̣та̄мити та̄м̣ видйа̄тпиттоттха̄м̣ париман̣д̣алам  падмакарн̣икаванмадхйе пид̣ака̄м̣ пид̣ака̄чита̄м индра виддха̄нту та̄м̣ видйа̄два̄тапиттоттхита̄м̣ бхиш̣ак ман̣д̣алам̣ вр̣тамутсаннам̣ сарактам̣ пид̣ака̄читам руджа̄карӣм̣ гардабхика̄м̣ та̄м̣ видйа̄два̄тапиттаджа̄м висарпаватсарпати йах̣ ш́отхастанурапа̄кава̄н да̄хаджваракарах̣ питта̄тсаджн̃ейо джа̄лагардабхах̣",
-        "text": "С открытым устьем, с сильным жжением, подобная зрелому плоду смоковницы [по цвету], — эту, [названную] «вивритой» (открытой), округлую, [возникшую] от питты, следует знать. Нарыв, подобный сердцевине лотоса в середине, покрытый [мелкими] нарывами, — «индравиддха» (пронзённая Индрой), [возникшая] от ватхи и питты. Округлое пятно, окружённое, приподнятое, покрытое кровью и нарывами, вызывающее боль, — «гардабхика», [возникшая] от ватхи и питты. Отёк, распространяющийся подобно висарпе, тонкий, несозревающий, вызывающий жжение и лихорадку, от питты, — «джала-гардабха»."
+        "text": "С открытым устьем, с сильным жжением, подобная зрелому плоду смоковницы [по цвету], — эту, [названную] «вивритой» (открытой), округлую, [возникшую] от питты, следует знать. Нарыв, подобный сердцевине лотоса в середине, покрытый [мелкими] нарывами, — «индравиддха» (пронзённая Индрой), [возникшая] от ватхи и питты. Округлое пятно, окружённое, приподнятое, покрытое кровью и нарывами, вызывающее боль, — «гардабхика», [возникшая] от ватхи и питты. Отёк, распространяющийся подобно висарпе, тонкий, несозревающий, вызывающий жжение и лихорадку, от питты, — «джала-гардабха».",
+        "text_en": "The round boil with an open mouth, severe burning, and resembling a ripe fig fruit in color, born of Pitta, should be known as Vivrita (open). The boil resembling the center of a lotus in the middle, covered with small boils, is Indravriddha (pierced by Indra), born of Vata and Pitta. A round patch, encircled, raised, covered with blood and boils, causing pain, is Gardabhika, born of Vata and Pitta. A swelling spreading like Visarpa, thin, not suppurating, causing burning and fever, born of Pitta, is Jala-gardabha."
       },
       {
         "type": "verse",
@@ -83336,7 +83340,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विवृतामिन्द्र विद्धाञ्च गर्दभीं जालगर्दभम् पैत्तिकस्य विसर्पस्य क्रिययासाधयेद् भिषक् पाके तु रोपयेदाज्यैः पक्वैर्मधुरभेषजैः",
         "iast": "vivṛtāmindra viddhāñca gardabhīṃ jālagardabham paittikasya visarpasya kriyayāsādhayed bhiṣak pāke tu ropayedājyaiḥ pakvairmadhurabheṣajaiḥ",
         "iast_ru": "вивр̣та̄миндра виддха̄н̃ча гардабхӣм̣ джа̄лагардабхам паиттикасйа висарпасйа крийайа̄са̄дхайед бхиш̣ак па̄ке ту ропайеда̄джйаих̣ пакваирмадхурабхеш̣аджаих̣",
-        "text": "«Вивриту», «индравиддху», «гардабхи» и «джала-гардабху» врачу следует лечить методом [лечения] висарпы от питты; при созревании же следует заживлять гхи, сваренным со сладкими лекарствами."
+        "text": "«Вивриту», «индравиддху», «гардабхи» и «джала-гардабху» врачу следует лечить методом [лечения] висарпы от питты; при созревании же следует заживлять гхи, сваренным со сладкими лекарствами.",
+        "text_en": "Vivrita, Indravriddha, Gardabhi and Jala-gardabha should be treated by the physician with the method of treating Pitta Visarpa; when they ripen, they should be healed with ghee cooked with sweet drugs."
       },
       {
         "type": "verse",
@@ -83344,7 +83349,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ग्रथिताः पञ्च वा षड् वा दारुणाः कच्छपोन्नताः कफानिलाभ्यां पिडकाः सा स्मृता कच्छपी बुधैः",
         "iast": "grathitāḥ pañca vā ṣaḍ vā dāruṇāḥ kacchaponnatāḥ kaphānilābhyāṃ piḍakāḥ sā smṛtā kacchapī budhaiḥ",
         "iast_ru": "гратхита̄х̣ пан̃ча ва̄ ш̣ад̣ ва̄ да̄рун̣а̄х̣ каччхапонната̄х̣ капха̄нила̄бхйа̄м̣ пид̣ака̄х̣ са̄ смр̣та̄ каччхапӣ будхаих̣",
-        "text": "Узловатые, пять или шесть, жестокие, приподнятые подобно панцирю черепахи, [возникшие] от капхи и ватхи, нарывы — мудрые называют «каччхапи» (черепаховидной)."
+        "text": "Узловатые, пять или шесть, жестокие, приподнятые подобно панцирю черепахи, [возникшие] от капхи и ватхи, нарывы — мудрые называют «каччхапи» (черепаховидной).",
+        "text_en": "Nodular boils, five or six in number, hard, raised like a tortoise shell, born of Kapha and Vata, are called by the wise Kacchapi (tortoise-like)."
       },
       {
         "type": "verse",
@@ -83352,7 +83358,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कच्छपीं स्वेदयेत्पूर्वं तत एव प्रलेपयेत्",
         "iast": "kacchapīṃ svedayetpūrvaṃ tata eva pralepayet",
         "iast_ru": "каччхапӣм̣ сведайетпӯрвам̣ тата ева пралепайет",
-        "text": "«Каччхапи» следует сначала прогревать, затем смазывать."
+        "text": "«Каччхапи» следует сначала прогревать, затем смазывать.",
+        "text_en": "Kacchapi should be fomented first and then anointed."
       },
       {
         "type": "verse",
@@ -83360,7 +83367,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कल्कीकृतैर्निशा कुष्टसितातालकदारुभिः तां पक्वां साधयेच्छीघ्रं भिषग्व्रणचिकित्सया",
         "iast": "kalkīkṛtairniśā kuṣṭasitātālakadārubhiḥ tāṃ pakvāṃ sādhayecchīghraṃ bhiṣagvraṇacikitsayā",
         "iast_ru": "калкӣкр̣таирниш́а̄ куш̣т̣асита̄та̄лакада̄рубхих̣ та̄м̣ паква̄м̣ са̄дхайеччхӣгхрам̣ бхиш̣агвран̣ачикитсайа̄",
-        "text": "Пастами куркумы, кустхи, сахара и деодара следует быстро довести её до созревания; врачу следует лечить созревшую [форму] методом [лечения] ран."
+        "text": "Пастами куркумы, кустхи, сахара и деодара следует быстро довести её до созревания; врачу следует лечить созревшую [форму] методом [лечения] ран.",
+        "text_en": "With pastes of turmeric, Kushtha, sugar and Devadaru it should be quickly brought to suppuration; the physician should treat the ripened form by the method for wounds."
       },
       {
         "type": "verse",
@@ -83368,7 +83376,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्राप्य मांसशिरास्नायुमेदः श्लेष्मा तथाऽनिलः ग्रन्थिं करोत्यसौ भिन्नो मधुसर्पिर्वसानिभम्",
         "iast": "prāpya māṃsaśirāsnāyumedaḥ śleṣmā tathā'nilaḥ granthiṃ karotyasau bhinno madhusarpirvasānibham",
         "iast_ru": "пра̄пйа ма̄м̣саш́ира̄сна̄йумедах̣ ш́леш̣ма̄ татха̄'нилах̣ грантхим̣ каротйасау бхинно мадхусарпирваса̄нибхам",
-        "text": "Достигнув мяса, сосудов, сухожилий и жира, капха и ватха образуют узел; вскрывшись, он [истекает субстанцией], подобной мёду, гхи и жиру."
+        "text": "Достигнув мяса, сосудов, сухожилий и жира, капха и ватха образуют узел; вскрывшись, он [истекает субстанцией], подобной мёду, гхи и жиру.",
+        "text_en": "Reaching the flesh, vessels, tendons and fat, Kapha and Vata form a knot; when it bursts, it discharges a substance like honey, ghee and fat."
       },
       {
         "type": "verse",
@@ -83376,7 +83385,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्रवति स्रावमत्यर्थं तत्र वृद्धिं गतोऽनिलः मांसं विशोष्य ग्रथितां शर्करां जनयत्यतः",
         "iast": "sravati srāvamatyarthaṃ tatra vṛddhiṃ gato'nilaḥ māṃsaṃ viśoṣya grathitāṃ śarkarāṃ janayatyataḥ",
         "iast_ru": "сравати сра̄ваматйартхам̣ татра вр̣ддхим̣ гато'нилах̣ ма̄м̣сам̣ виш́ош̣йа гратхита̄м̣ ш́аркара̄м̣ джанайатйатах̣",
-        "text": "Истекает чрезмерно; там ватха, возросшая, высушивая мясо, порождает узловатый песок (сахар);"
+        "text": "Истекает чрезмерно; там ватха, возросшая, высушивая мясо, порождает узловатый песок (сахар);",
+        "text_en": "It discharges excessively; there Vata, aggravated, drying up the flesh, produces nodular gravel (sugar);"
       },
       {
         "type": "verse",
@@ -83384,7 +83394,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दुर्गन्धं क्लिन्नमत्यर्थं नानावर्णं ततः शिराः स्रवन्ति सहसा रक्तं तां विद्याच्छर्कराऽबुदम्",
         "iast": "durgandhaṃ klinnamatyarthaṃ nānāvarṇaṃ tataḥ śirāḥ sravanti sahasā raktaṃ tāṃ vidyāccharkarā'budam",
         "iast_ru": "дургандхам̣ клиннаматйартхам̣ на̄на̄варн̣ам̣ татах̣ ш́ира̄х̣ сраванти сахаса̄ рактам̣ та̄м̣ видйа̄ччхаркара̄'будам",
-        "text": "зловонный, весьма влажный, разноцветный; затем сосуды внезапно начинают истекать кровью — эту следует знать как «шаркара-абуда» (сахарная опухоль)."
+        "text": "зловонный, весьма влажный, разноцветный; затем сосуды внезапно начинают истекать кровью — эту следует знать как «шаркара-абуда» (сахарная опухоль).",
+        "text_en": "foul-smelling, very moist, of various colors; then the vessels suddenly begin to bleed. This should be known as Sharkara-arbuda (sugar tumor)."
       },
       {
         "type": "verse",
@@ -83392,7 +83403,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मेदोऽबुदविधानेन साधयेच्छर्कराऽबुदम्",
         "iast": "medo'budavidhānena sādhayeccharkarā'budam",
         "iast_ru": "медо'будавидха̄нена са̄дхайеччхаркара̄'будам",
-        "text": "По методу [лечения] жировой опухоли следует лечить «шаркара-абуду»."
+        "text": "По методу [лечения] жировой опухоли следует лечить «шаркара-абуду».",
+        "text_en": "Sharkara-arbuda should be treated by the method for fatty tumors (Medoarbuda)."
       },
       {
         "type": "verse",
@@ -83400,7 +83412,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शक्तस्य चाप्यनुत्साहः कर्मण्यालस्यमुच्यते अस्वास्थ्यं चिन्तयाऽत्यर्थमरतिः कथ्यते बुधैः",
         "iast": "śaktasya cāpyanutsāhaḥ karmaṇyālasyamucyate asvāsthyaṃ cintayā'tyarthamaratiḥ kathyate budhaiḥ",
         "iast_ru": "ш́актасйа ча̄пйанутса̄хах̣ карман̣йа̄ласйамучйате асва̄стхйам̣ чинтайа̄'тйартхамаратих̣ катхйате будхаих̣",
-        "text": "Отсутствие усердия у способного к работе называется ленью; чрезмерное беспокойство о нездоровье мудрые называют тревогой."
+        "text": "Отсутствие усердия у способного к работе называется ленью; чрезмерное беспокойство о нездоровье мудрые называют тревогой.",
+        "text_en": "Lack of effort in one who is capable of work is called laziness (Alasya); excessive anxiety about ill health is called by the wise worry (Chinta)."
       },
       {
         "type": "verse",
@@ -83408,7 +83421,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उत्क्लिश्यान्नं न निर्गच्छेत्प्रसेकः ष्ठीवनोरितम् हृदयं पीड्यते चास्य तमुत्क्लेशं विनिर्दिशेत्",
         "iast": "utkliśyānnaṃ na nirgacchetprasekaḥ ṣṭhīvanoritam hṛdayaṃ pīḍyate cāsya tamutkleśaṃ vinirdiśet",
         "iast_ru": "утклиш́йа̄ннам̣ на ниргаччхетпрасеках̣ ш̣т̣хӣваноритам хр̣дайам̣ пӣд̣йате ча̄сйа тамутклеш́ам̣ винирдиш́ет",
-        "text": "Когда пища, поднявшись, не выходит [обратно], а слюнотечение и отхаркивание указаны; когда при этом сдавливается сердце — это следует определить как «утклеша» (тошноту)."
+        "text": "Когда пища, поднявшись, не выходит [обратно], а слюнотечение и отхаркивание указаны; когда при этом сдавливается сердце — это следует определить как «утклеша» (тошноту).",
+        "text_en": "When food rises up and does not come out, while salivation and expectoration are indicated, and the heart is oppressed, this should be recognized as Utklesha (nausea)."
       },
       {
         "type": "verse",
@@ -83416,7 +83430,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वक्त्रे मधुरता तन्द्रा हृदयोद्वेष्टनं भ्रमः न चान्नं रोचते यस्मै ग्लानिं तस्य विनिर्दिशेत् ग्लानिरोजःक्षयाद् दुःखादजीर्णाच्च श्रमाद्भवेत्",
         "iast": "vaktre madhuratā tandrā hṛdayodveṣṭanaṃ bhramaḥ na cānnaṃ rocate yasmai glāniṃ tasya vinirdiśet glānirojaḥkṣayād duḥkhādajīrṇācca śramādbhavet",
         "iast_ru": "вактре мадхурата̄ тандра̄ хр̣дайодвеш̣т̣анам̣ бхрамах̣ на ча̄ннам̣ рочате йасмаи гла̄ним̣ тасйа винирдиш́ет гла̄нироджах̣кш̣айа̄д дух̣кха̄даджӣрн̣а̄чча ш́рама̄дбхавет",
-        "text": "Сладость во рту, сонливость, стеснение в сердце, головокружение, и когда пища не нравится — это следует определить как «глани» (слабость); слабость возникает от истощения жизненной энергии, от страдания, от несварения и от переутомления."
+        "text": "Сладость во рту, сонливость, стеснение в сердце, головокружение, и когда пища не нравится — это следует определить как «глани» (слабость); слабость возникает от истощения жизненной энергии, от страдания, от несварения и от переутомления.",
+        "text_en": "Sweetness in the mouth, drowsiness, constriction in the heart, giddiness, and dislike of food: this should be recognized as Glani (debility); debility arises from exhaustion of vital energy, from suffering, from indigestion and from overexertion."
       },
       {
         "type": "verse",
@@ -83424,7 +83439,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उदानकोपादाहारसुस्थितत्वाच्च यद्भवेत् पवनस्योर्ध्वगमनं तमुद्गारं प्रचक्षते",
         "iast": "udānakopādāhārasusthitatvācca yadbhavet pavanasyordhvagamanaṃ tamudgāraṃ pracakṣate",
         "iast_ru": "уда̄накопа̄да̄ха̄расустхитатва̄чча йадбхавет паванасйордхвагаманам̣ тамудга̄рам̣ прачакш̣ате",
-        "text": "То, что возникает от возмущения удана-ватхи или от неустойчивости [состояния] после еды, движение ветра вверх называют отрыжкой (удгара)."
+        "text": "То, что возникает от возмущения удана-ватхи или от неустойчивости [состояния] после еды, движение ветра вверх называют отрыжкой (удгара).",
+        "text_en": "That which arises from the disturbance of Udana Vata or from instability of the state after eating, the upward movement of wind, is called eructation (Udgara)."
       },
       {
         "type": "verse",
@@ -83432,7 +83448,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आटोपो गुडगुडाशब्दः प्रोक्तो जठरसम्भवः तमःस्थस्येव यज्ज्ञानं तत्तमः कथ्यते बुधैः",
         "iast": "āṭopo guḍaguḍāśabdaḥ prokto jaṭharasambhavaḥ tamaḥsthasyeva yajjñānaṃ tattamaḥ kathyate budhaiḥ",
         "iast_ru": "а̄т̣опо гуд̣агуд̣а̄ш́абдах̣ прокто джат̣харасамбхавах̣ тамах̣стхасйева йаджджн̃а̄нам̣ таттамах̣ катхйате будхаих̣",
-        "text": "Урчание, звук «гуд-гуд», провозглашённый как возникающий в желудке, — то знание, что подобно [пребыванию] во тьме, называется «тамас» (помрачением, тьмой)."
+        "text": "Урчание, звук «гуд-гуд», провозглашённый как возникающий в желудке, — то знание, что подобно [пребыванию] во тьме, называется «тамас» (помрачением, тьмой).",
+        "text_en": "A rumbling, gurgling \"gud-gud\" sound, declared to arise in the stomach, that knowledge which is like being in darkness is called Tamas (stupor, darkness)."
       },
       {
         "type": "verse",
@@ -83440,7 +83457,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इत्येक षष्टितमः क्षुद्ररोगाधिकारः समाप्तः ६१",
         "iast": "ityeka ṣaṣṭitamaḥ kṣudrarogādhikāraḥ samāptaḥ 61",
         "iast_ru": "итйека ш̣аш̣т̣итамах̣ кш̣удрарога̄дхика̄рах̣ сама̄птах̣ ",
-        "text": "Так завершается шестьдесят первая глава, посвящённая малым болезням."
+        "text": "Так завершается шестьдесят первая глава, посвящённая малым болезням.",
+        "text_en": "Thus ends the sixty-first chapter, on minor diseases."
       }
     ]
   },
@@ -83458,7 +83476,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरोरोगास्तु जायन्ते वातपित्तकफैस्त्रिभिः सन्निपातेन रक्तेन क्षयेण कृमिभिस्तथा",
         "iast": "śirorogāstu jāyante vātapittakaphaistribhiḥ sannipātena raktena kṣayeṇa kṛmibhistathā",
         "iast_ru": "ш́иророга̄сту джа̄йанте ва̄тапиттакапхаистрибхих̣ саннипа̄тена рактена кш̣айен̣а кр̣мибхистатха̄",
-        "text": "Болезни головы возникают от ватхи, питты и капхи, каждой по отдельности, от всех трёх дош вместе, от крови, от истощения, а также от паразитов."
+        "text": "Болезни головы возникают от ватхи, питты и капхи, каждой по отдельности, от всех трёх дош вместе, от крови, от истощения, а также от паразитов.",
+        "text_en": "Diseases of the head arise from Vata, Pitta and Kapha, each separately, from all three doshas together, from blood, from depletion, and also from parasites."
       },
       {
         "type": "verse",
@@ -83466,7 +83485,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सूर्यावर्त्तानन्तवातशङ्ख कार्द्धावभेदकाः एकादशविधस्यास्य लक्षणानि प्रचक्षते",
         "iast": "sūryāvarttānantavātaśaṅkha kārddhāvabhedakāḥ ekādaśavidhasyāsya lakṣaṇāni pracakṣate",
         "iast_ru": "сӯрйа̄вартта̄нантава̄таш́ан̇кха ка̄рддха̄вабхедака̄х̣ ека̄даш́авидхасйа̄сйа лакш̣ан̣а̄ни прачакш̣ате",
-        "text": "«Сурьяварта», «ананта-вата», «шанкхака», «ардхавабхедака» — я изложу признаки этих одиннадцати видов."
+        "text": "«Сурьяварта», «ананта-вата», «шанкхака», «ардхавабхедака» — я изложу признаки этих одиннадцати видов.",
+        "text_en": "Suryavarta, Ananta-vata, Shankhaka, Ardhavabhedaka: I shall describe the signs of these eleven kinds."
       },
       {
         "type": "verse",
@@ -83474,7 +83494,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यस्यानिमित्तं शिरसो रुजश्च भवन्ति तीव्रा निशि चातिमात्रम् बन्धोपतापैः प्रशमो भवेच्च शिरोऽभितापः स समीरणेन",
         "iast": "yasyānimittaṃ śiraso rujaśca bhavanti tīvrā niśi cātimātram bandhopatāpaiḥ praśamo bhavecca śiro'bhitāpaḥ sa samīraṇena",
         "iast_ru": "йасйа̄нимиттам̣ ш́ирасо руджаш́ча бхаванти тӣвра̄ ниш́и ча̄тима̄трам бандхопата̄паих̣ праш́амо бхавечча ш́иро'бхита̄пах̣ са самӣран̣ена",
-        "text": "У кого без видимой причины возникает сильная головная боль, особенно ночью, и облегчение наступает от перевязывания и прогревания — это жар головы от ветра (ватхи)."
+        "text": "У кого без видимой причины возникает сильная головная боль, особенно ночью, и облегчение наступает от перевязывания и прогревания — это жар головы от ветра (ватхи).",
+        "text_en": "He in whom severe headache arises without apparent cause, especially at night, and who is relieved by binding and fomentation, has a head disorder (Shirahshula) due to Vata."
       },
       {
         "type": "verse",
@@ -83482,7 +83503,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यस्योष्णमङ्गारचितं यथैव भवेच्छिरो दह्यति चाक्षिनासम् शीतेन रात्रौ च भवेच्छ्रमश्च शिरोऽभितापः स तु पित्तकोपात्",
         "iast": "yasyoṣṇamaṅgāracitaṃ yathaiva bhavecchiro dahyati cākṣināsam śītena rātrau ca bhavecchramaśca śiro'bhitāpaḥ sa tu pittakopāt",
         "iast_ru": "йасйош̣н̣аман̇га̄рачитам̣ йатхаива бхавеччхиро дахйати ча̄кш̣ина̄сам ш́ӣтена ра̄трау ча бхавеччхрамаш́ча ш́иро'бхита̄пах̣ са ту питтакопа̄т",
-        "text": "У кого голова словно наполнена горящими углями, кто ощущает жжение в глазах и носу, у кого ночью, от холодного, наступает облегчение и усталость — это жар головы от возмущения питты."
+        "text": "У кого голова словно наполнена горящими углями, кто ощущает жжение в глазах и носу, у кого ночью, от холодного, наступает облегчение и усталость — это жар головы от возмущения питты.",
+        "text_en": "He whose head feels as if filled with burning coals, who feels burning in the eyes and nose, and who is relieved and fatigued at night by cold, has a head disorder due to aggravated Pitta."
       },
       {
         "type": "verse",
@@ -83490,7 +83512,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरो भवेद् यस्य कफोपदिग्धं गुरु प्रतिष्टब्धमथो हिमञ्च शूनाक्षिनासावदनञ्च यस्य शिरोऽभितापः स कफप्रकोपात्",
         "iast": "śiro bhaved yasya kaphopadigdhaṃ guru pratiṣṭabdhamatho himañca śūnākṣināsāvadanañca yasya śiro'bhitāpaḥ sa kaphaprakopāt",
         "iast_ru": "ш́иро бхавед йасйа капхопадигдхам̣ гуру пратиш̣т̣абдхаматхо химан̃ча ш́ӯна̄кш̣ина̄са̄ваданан̃ча йасйа ш́иро'бхита̄пах̣ са капхапракопа̄т",
-        "text": "У кого голова словно обмазана капхой, тяжёлая, застылая и холодная, с отёкшими глазами, носом и ртом — это жар головы от возмущения капхи."
+        "text": "У кого голова словно обмазана капхой, тяжёлая, застылая и холодная, с отёкшими глазами, носом и ртом — это жар головы от возмущения капхи.",
+        "text_en": "He whose head feels as if smeared with Kapha, heavy, stiff and cold, with swollen eyes, nose and mouth, has a head disorder due to aggravated Kapha."
       },
       {
         "type": "verse",
@@ -83498,7 +83521,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरोऽभितापे त्रितयप्रवृत्ते सर्वाणि लिङ्गानि समुद्भवन्ति",
         "iast": "śiro'bhitāpe tritayapravṛtte sarvāṇi liṅgāni samudbhavanti",
         "iast_ru": "ш́иро'бхита̄пе тритайаправр̣тте сарва̄н̣и лин̇га̄ни самудбхаванти",
-        "text": "При жаре головы, вызванном всеми тремя [дошами] вместе, проявляются все признаки."
+        "text": "При жаре головы, вызванном всеми тремя [дошами] вместе, проявляются все признаки.",
+        "text_en": "In a head disorder caused by all three doshas together, all the signs are manifested."
       },
       {
         "type": "verse",
@@ -83506,7 +83530,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तात्मकः पित्तसमावलिङ्गः स्पर्शासहत्वं शिरसो भवेच्च",
         "iast": "raktātmakaḥ pittasamāvaliṅgaḥ sparśāsahatvaṃ śiraso bhavecca",
         "iast_ru": "ракта̄тмаках̣ питтасама̄валин̇гах̣ спарш́а̄сахатвам̣ ш́ирасо бхавечча",
-        "text": "Кровяная [форма] имеет признаки, подобные питтовым, а также невыносимость к прикосновению головы."
+        "text": "Кровяная [форма] имеет признаки, подобные питтовым, а также невыносимость к прикосновению головы.",
+        "text_en": "The blood-type has signs similar to the Pitta type, and also intolerance of touch on the head."
       },
       {
         "type": "verse",
@@ -83514,7 +83539,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वसाबलासक्षतसम्भवानां शिरोगतानामतिसङ्क्षयेण क्षयप्रवृत्तः शिरसोऽभितापः कष्टो भवेदुग्ररुजोऽतिमात्रम् संस्वेदनच्छर्दनधूमनस्यैरसृग्विमोक्षैश्च विवृद्धिमेति",
         "iast": "vasābalāsakṣatasambhavānāṃ śirogatānāmatisaṅkṣayeṇa kṣayapravṛttaḥ śiraso'bhitāpaḥ kaṣṭo bhavedugrarujo'timātram saṃsvedanacchardanadhūmanasyairasṛgvimokṣaiśca vivṛddhimeti",
         "iast_ru": "васа̄бала̄сакш̣атасамбхава̄на̄м̣ ш́ирогата̄на̄матисан̇кш̣айен̣а кш̣айаправр̣ттах̣ ш́ирасо'бхита̄пах̣ каш̣т̣о бхаведуграруджо'тима̄трам сам̣сведаначчхарданадхӯманасйаираср̣гвимокш̣аиш́ча вивр̣ддхимети",
-        "text": "У кого от чрезмерного истощения жира, слизи и [тканей], пострадавших от ранения, [расположенных] в голове, наступает жар головы от истощения — мучительный, с сильной, чрезмерной болью; усиливается от прогревания, рвотных средств, окуривания дымом, назальных средств и кровопускания."
+        "text": "У кого от чрезмерного истощения жира, слизи и [тканей], пострадавших от ранения, [расположенных] в голове, наступает жар головы от истощения — мучительный, с сильной, чрезмерной болью; усиливается от прогревания, рвотных средств, окуривания дымом, назальных средств и кровопускания.",
+        "text_en": "He in whom, from excessive depletion of fat, mucus and tissues injured by wounding, located in the head, a head disorder due to depletion arises, is tormented with severe, excessive pain; it is aggravated by fomentation, emetics, fumigation, nasal medicines and bloodletting."
       },
       {
         "type": "verse",
@@ -83522,7 +83548,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अङ्गं भ्रमति तुद्येत शिरो विभ्रान्तनेत्रता मूर्च्छा गात्रावसादश्च शिरोरोगे क्षयात्मके",
         "iast": "aṅgaṃ bhramati tudyeta śiro vibhrāntanetratā mūrcchā gātrāvasādaśca śiroroge kṣayātmake",
         "iast_ru": "ан̇гам̣ бхрамати тудйета ш́иро вибхра̄нтанетрата̄ мӯрччха̄ га̄тра̄васа̄даш́ча ш́иророге кш̣айа̄тмаке",
-        "text": "Тело кружится, голова колется, глаза блуждают, наступает обморок и слабость членов — при головной болезни от истощения."
+        "text": "Тело кружится, голова колется, глаза блуждают, наступает обморок и слабость членов — при головной болезни от истощения.",
+        "text_en": "The body whirls, the head is pricked as if by needles, the eyes wander, fainting and weakness of the limbs occur, in headache due to depletion."
       },
       {
         "type": "verse",
@@ -83530,7 +83557,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निस्तुद्यते यस्य शिरोऽतिमात्रं सम्भक्ष्यमाणं स्फुरतीव चान्तः घ्राणाच्च गच्छेद्रुधिरं सपूयं शिरोऽभितापः कृमिभिः स घोरः",
         "iast": "nistudyate yasya śiro'timātraṃ sambhakṣyamāṇaṃ sphuratīva cāntaḥ ghrāṇācca gacchedrudhiraṃ sapūyaṃ śiro'bhitāpaḥ kṛmibhiḥ sa ghoraḥ",
         "iast_ru": "нистудйате йасйа ш́иро'тима̄трам̣ самбхакш̣йама̄н̣ам̣ спхуратӣва ча̄нтах̣ гхра̄н̣а̄чча гаччхедрудхирам̣ сапӯйам̣ ш́иро'бхита̄пах̣ кр̣мибхих̣ са гхорах̣",
-        "text": "У кого голова чрезмерно колется, как будто изнутри разгрызается [что-то], пульсирует, и из носа выходит кровь с гноем — это ужасный жар головы от паразитов."
+        "text": "У кого голова чрезмерно колется, как будто изнутри разгрызается [что-то], пульсирует, и из носа выходит кровь с гноем — это ужасный жар головы от паразитов.",
+        "text_en": "He whose head is excessively pricked, as if something were being gnawed from within, throbbing, and from whose nose blood with pus comes out, has the dreadful head disorder due to parasites."
       },
       {
         "type": "verse",
@@ -83538,7 +83566,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सूर्योदयं या प्रति मन्दमन्दमक्षिभ्रुवौ रुक् समुपैति गाढम् विवर्द्धते चांशुमता सहैव सूर्यापवृत्तौ विनिवर्त्तते च",
         "iast": "sūryodayaṃ yā prati mandamandamakṣibhruvau ruk samupaiti gāḍham vivarddhate cāṃśumatā sahaiva sūryāpavṛttau vinivarttate ca",
         "iast_ru": "сӯрйодайам̣ йа̄ прати мандамандамакш̣ибхрувау рук самупаити га̄д̣хам виварддхате ча̄м̣ш́умата̄ сахаива сӯрйа̄павр̣ттау виниварттате ча",
-        "text": "К восходу солнца понемногу нарастает боль в глазах и бровях, усиливается вместе с [подъёмом] солнца, и с закатом солнца проходит."
+        "text": "К восходу солнца понемногу нарастает боль в глазах и бровях, усиливается вместе с [подъёмом] солнца, и с закатом солнца проходит.",
+        "text_en": "Toward sunrise the pain in the eyes and eyebrows gradually increases, grows stronger as the sun rises, and passes away with sunset."
       },
       {
         "type": "verse",
@@ -83546,7 +83575,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीतेन शान्तिं लभते कदाचिदुष्णेन जन्तुः सुखमाप्नुयाद्वा सर्वात्मकं कष्टतमं विकारं सूर्यापवर्त्तं तमुदाहरन्ति",
         "iast": "śītena śāntiṃ labhate kadāciduṣṇena jantuḥ sukhamāpnuyādvā sarvātmakaṃ kaṣṭatamaṃ vikāraṃ sūryāpavarttaṃ tamudāharanti",
         "iast_ru": "ш́ӣтена ш́а̄нтим̣ лабхате када̄чидуш̣н̣ена джантух̣ сукхама̄пнуйа̄два̄ сарва̄тмакам̣ каш̣т̣атамам̣ вика̄рам̣ сӯрйа̄паварттам̣ тамуда̄харанти",
-        "text": "От холода существо иногда получает облегчение, а от тепла — иногда удобство; это расстройство, охватывающее все [аспекты], наитяжелейшее, называют «сурьяварта» (поворот солнца)."
+        "text": "От холода существо иногда получает облегчение, а от тепла — иногда удобство; это расстройство, охватывающее все [аспекты], наитяжелейшее, называют «сурьяварта» (поворот солнца).",
+        "text_en": "From cold the patient sometimes gets relief, and from warmth sometimes comfort; this disorder, which involves all aspects and is the most severe, is called Suryavarta (revolving with the sun)."
       },
       {
         "type": "verse",
@@ -83554,7 +83584,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दोषास्तु दुष्टास्त्रय एव मन्यां सम्पीड्य गाढं स्वरुजां सुतीव्राम् कुर्वन्ति योऽक्ष्णि भ्रुवि शङ्खदेशे स्थितिं करोत्याशु विशेषतस्तु",
         "iast": "doṣāstu duṣṭāstraya eva manyāṃ sampīḍya gāḍhaṃ svarujāṃ sutīvrām kurvanti yo'kṣṇi bhruvi śaṅkhadeśe sthitiṃ karotyāśu viśeṣatastu",
         "iast_ru": "дош̣а̄сту душ̣т̣а̄страйа ева манйа̄м̣ сампӣд̣йа га̄д̣хам̣ сваруджа̄м̣ сутӣвра̄м курванти йо'кш̣н̣и бхруви ш́ан̇кхадеш́е стхитим̣ каротйа̄ш́у виш́еш̣атасту",
-        "text": "Три испорченные доши, сильно сдавив шею, вызывают весьма острую боль в ней; та, что затем обосновывается особенно в глазу, брови и области виска,"
+        "text": "Три испорченные доши, сильно сдавив шею, вызывают весьма острую боль в ней; та, что затем обосновывается особенно в глазу, брови и области виска,",
+        "text_en": "The three vitiated doshas, pressing strongly on the neck, produce very acute pain there; that which then settles especially in the eye, eyebrow and temple region,"
       },
       {
         "type": "verse",
@@ -83562,7 +83593,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गण्डस्य पार्श्वे तु करोति कम्पं हनुग्रहं लोचनजान्विकारान् अनन्तवातं तमुदाहरन्ति दोषत्रयोत्थं शिरसो विकारम्",
         "iast": "gaṇḍasya pārśve tu karoti kampaṃ hanugrahaṃ locanajānvikārān anantavātaṃ tamudāharanti doṣatrayotthaṃ śiraso vikāram",
         "iast_ru": "ган̣д̣асйа па̄рш́ве ту кароти кампам̣ хануграхам̣ лочанаджа̄нвика̄ра̄н анантава̄там̣ тамуда̄харанти дош̣атрайоттхам̣ ш́ирасо вика̄рам",
-        "text": "вызывает дрожание в стороне щеки, спазм челюсти и болезни, возникающие в глазах, — это называют «ананта-вата», болезнь головы, возникшую от всех трёх дош."
+        "text": "вызывает дрожание в стороне щеки, спазм челюсти и болезни, возникающие в глазах, — это называют «ананта-вата», болезнь головы, возникшую от всех трёх дош.",
+        "text_en": "causes trembling on the side of the cheek, spasm of the jaw and diseases arising in the eyes; this is called Ananta-vata, a disease of the head arising from all three doshas."
       },
       {
         "type": "verse",
@@ -83570,7 +83602,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तरक्तानिला दुष्टाः शङ्खदेशे विमूर्च्छिताः तीव्ररुग्दाहरागं हि शोथं कुर्वन्ति दारुणम्",
         "iast": "pittaraktānilā duṣṭāḥ śaṅkhadeśe vimūrcchitāḥ tīvrarugdāharāgaṃ hi śothaṃ kurvanti dāruṇam",
         "iast_ru": "питтаракта̄нила̄ душ̣т̣а̄х̣ ш́ан̇кхадеш́е вимӯрччхита̄х̣ тӣвраругда̄хара̄гам̣ хи ш́отхам̣ курванти да̄рун̣ам",
-        "text": "Испорченные питта, кровь и ватха, помрачённые в области виска, вызывают сильную боль, жжение, покраснение и ужасный отёк."
+        "text": "Испорченные питта, кровь и ватха, помрачённые в области виска, вызывают сильную боль, жжение, покраснение и ужасный отёк.",
+        "text_en": "Vitiated Pitta, blood and Vata, localized in the temple region, cause severe pain, burning, redness and a terrible swelling."
       },
       {
         "type": "verse",
@@ -83578,7 +83611,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स शिरो विषवद्वेगान्निरुध्याशु गलं तथा त्रिरात्राज्जीवितं हन्ति शङ्खको नाम नामतः त्र्यहं जीवति भैषज्यं प्रत्याख्यायास्य कारयेत्",
         "iast": "sa śiro viṣavadvegānnirudhyāśu galaṃ tathā trirātrājjīvitaṃ hanti śaṅkhako nāma nāmataḥ tryahaṃ jīvati bhaiṣajyaṃ pratyākhyāyāsya kārayet",
         "iast_ru": "са ш́иро виш̣авадвега̄ннирудхйа̄ш́у галам̣ татха̄ трира̄тра̄джджӣвитам̣ ханти ш́ан̇кхако на̄ма на̄матах̣ трйахам̣ джӣвати бхаиш̣аджйам̣ пратйа̄кхйа̄йа̄сйа ка̄райет",
-        "text": "Эта [болезнь] по силе подобна яду, быстро закрывает голову и затем горло; за три ночи, по названию «шанкхака» (височная), губит жизнь; [если больной] проживает три дня, следует отказаться от лекарства для него."
+        "text": "Эта [болезнь] по силе подобна яду, быстро закрывает голову и затем горло; за три ночи, по названию «шанкхака» (височная), губит жизнь; [если больной] проживает три дня, следует отказаться от лекарства для него.",
+        "text_en": "This disease, in its force like poison, quickly closes over the head and then the throat; within three nights, known as Shankhaka (temporal), it destroys life; if the patient survives three days, the medicine for him should be abandoned."
       },
       {
         "type": "verse",
@@ -83586,7 +83620,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रूक्षाशनाद्यध्यशनप्राग्वातावश्यमैथुनैः वेगसन्धारणायासव्यायामैः कुपितोऽनिलः",
         "iast": "rūkṣāśanādyadhyaśanaprāgvātāvaśyamaithunaiḥ vegasandhāraṇāyāsavyāyāmaiḥ kupito'nilaḥ",
         "iast_ru": "рӯкш̣а̄ш́ана̄дйадхйаш́анапра̄гва̄та̄ваш́йамаитхунаих̣ вегасандха̄ран̣а̄йа̄савйа̄йа̄маих̣ купито'нилах̣",
-        "text": "От сухой пищи и переедания, от подавления позывов перед ветром (мочеиспусканием) и от насильственных половых сношений, от подавления позывов, переутомления и физических упражнений возмущённая ватха,"
+        "text": "От сухой пищи и переедания, от подавления позывов перед ветром (мочеиспусканием) и от насильственных половых сношений, от подавления позывов, переутомления и физических упражнений возмущённая ватха,",
+        "text_en": "From dry food and overeating, from suppression of the urge before the wind (urination) and from forced sexual intercourse, from suppression of urges, overexertion and physical exercise, aggravated Vata,"
       },
       {
         "type": "verse",
@@ -83594,7 +83629,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "केवलः सकफो वाऽद्ध गृहीत्वा शिरसो बली मन्याभ्रूशङ्खकर्णाक्षिललाटार्द्धेषु वेदनाम्",
         "iast": "kevalaḥ sakapho vā'ddha gṛhītvā śiraso balī manyābhrūśaṅkhakarṇākṣilalāṭārddheṣu vedanām",
         "iast_ru": "кевалах̣ сакапхо ва̄'ддха гр̣хӣтва̄ ш́ирасо балӣ манйа̄бхрӯш́ан̇кхакарн̣а̄кш̣илала̄т̣а̄рддхеш̣у ведана̄м",
-        "text": "одна или соединённая с капхой, схватив половину головы сильно, [вызывает] боль в шее, брови, виске, ухе, глазу и половине лба,"
+        "text": "одна или соединённая с капхой, схватив половину головы сильно, [вызывает] боль в шее, брови, виске, ухе, глазу и половине лба,",
+        "text_en": "alone or combined with Kapha, seizing half of the head strongly, causes pain in the neck, eyebrow, temple, ear, eye and half of the forehead,"
       },
       {
         "type": "verse",
@@ -83602,7 +83638,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शस्त्राशनिनिभां कुर्यात्तीव्रां सोऽद्धावभेदकः नयनं वाऽथवा श्रोत्रमतिवृद्धो विनाशयेत्",
         "iast": "śastrāśaninibhāṃ kuryāttīvrāṃ so'ddhāvabhedakaḥ nayanaṃ vā'thavā śrotramativṛddho vināśayet",
         "iast_ru": "ш́астра̄ш́анинибха̄м̣ курйа̄ттӣвра̄м̣ со'ддха̄вабхедаках̣ найанам̣ ва̄'тхава̄ ш́ротрамативр̣ддхо вина̄ш́айет",
-        "text": "подобную оружию или удару молнии, сильную — это «ардхавабхедака» (гемикрания); при чрезмерном усилении разрушает глаз или ухо."
+        "text": "подобную оружию или удару молнии, сильную — это «ардхавабхедака» (гемикрания); при чрезмерном усилении разрушает глаз или ухо.",
+        "text_en": "resembling a weapon or a thunderbolt, severe: this is Ardhavabhedaka (hemicrania); when greatly intensified, it destroys the eye or the ear."
       },
       {
         "type": "verse",
@@ -83610,7 +83647,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातजातशिरोरोगे स्नेहस्वेदं विघर्षणम् पानाहारोपनाहांश्च कुर्याद्वातामयापहान्",
         "iast": "vātajātaśiroroge snehasvedaṃ vigharṣaṇam pānāhāropanāhāṃśca kuryādvātāmayāpahān",
         "iast_ru": "ва̄таджа̄таш́иророге снехасведам̣ вигхарш̣ан̣ам па̄на̄ха̄ропана̄ха̄м̣ш́ча курйа̄два̄та̄майа̄паха̄н",
-        "text": "При головной болезни, [возникшей] от ватхи, следует применять маслянистые средства, прогревание, растирание, а также питьё, пищу и обёртывания, устраняющие болезнь ватхи."
+        "text": "При головной болезни, [возникшей] от ватхи, следует применять маслянистые средства, прогревание, растирание, а также питьё, пищу и обёртывания, устраняющие болезнь ватхи.",
+        "text_en": "In headache arising from Vata, unctuous remedies, fomentation, rubbing, as well as drinks, food and wrappings that relieve Vata disease should be applied."
       },
       {
         "type": "verse",
@@ -83618,7 +83656,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुष्ठमेरण्डमूलञ्च नागरं तक्रपेषितम् कदुष्णं शिरसः पीडां भाले लेपनतो हरेत्",
         "iast": "kuṣṭhameraṇḍamūlañca nāgaraṃ takrapeṣitam kaduṣṇaṃ śirasaḥ pīḍāṃ bhāle lepanato haret",
         "iast_ru": "куш̣т̣хамеран̣д̣амӯлан̃ча на̄гарам̣ такрапеш̣итам кадуш̣н̣ам̣ ш́ирасах̣ пӣд̣а̄м̣ бха̄ле лепанато харет",
-        "text": "Кустха, корень касторового [дерева], сушёный имбирь, растёртые с тхакрой, тёплые, — мазь на лоб устраняет боль головы."
+        "text": "Кустха, корень касторового [дерева], сушёный имбирь, растёртые с тхакрой, тёплые, — мазь на лоб устраняет боль головы.",
+        "text_en": "Kushtha, castor root and dried ginger, ground with buttermilk (Takra), applied warm as a paste on the forehead, remove head pain."
       },
       {
         "type": "verse",
@@ -83626,7 +83665,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसः श्वासकुठारो यस्तस्य नस्यं विशेषतः शिरः शूलं हरत्येव विधेयो नात्र संशयः",
         "iast": "rasaḥ śvāsakuṭhāro yastasya nasyaṃ viśeṣataḥ śiraḥ śūlaṃ haratyeva vidheyo nātra saṃśayaḥ",
         "iast_ru": "расах̣ ш́ва̄сакут̣ха̄ро йастасйа насйам̣ виш́еш̣атах̣ ш́ирах̣ ш́ӯлам̣ харатйева видхейо на̄тра сам̣ш́айах̣",
-        "text": "Раса «Швасакутхара», [применяемый] особенно в назальных каплях, несомненно устраняет головную боль — следует применять."
+        "text": "Раса «Швасакутхара», [применяемый] особенно в назальных каплях, несомненно устраняет головную боль — следует применять.",
+        "text_en": "The Rasa \"Shvasakuthara\", especially in nasal drops, undoubtedly removes headache; it should be used."
       },
       {
         "type": "verse",
@@ -83634,7 +83674,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आ शिरो व्यायतं चर्म षोडशाङ्गुलमुच्छ्रितम् तेनावेष्ट्य शिरोऽधस्तान्माषकल्केन लेपयेत्",
         "iast": "ā śiro vyāyataṃ carma ṣoḍaśāṅgulamucchritam tenāveṣṭya śiro'dhastānmāṣakalkena lepayet",
         "iast_ru": "а̄ ш́иро вйа̄йатам̣ чарма ш̣од̣аш́а̄н̇гуламуччхритам тена̄веш̣т̣йа ш́иро'дхаста̄нма̄ш̣акалкена лепайет",
-        "text": "Кожу, растянутую до головы, шириной шестнадцать пальцев, следует обмотать вокруг головы снизу и смазать пастой урада."
+        "text": "Кожу, растянутую до головы, шириной шестнадцать пальцев, следует обмотать вокруг головы снизу и смазать пастой урада.",
+        "text_en": "A skin stretched to the head, sixteen finger-breadths wide, should be wound around the head from below and smeared with a paste of Masha (black gram)."
       },
       {
         "type": "verse",
@@ -83642,7 +83683,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निश्चलस्योपविष्टस्य तैलैः कोष्णैः प्रपूरयेत् धारयेदारुजः शान्तेर्यामंयामार्द्धमेव वा",
         "iast": "niścalasyopaviṣṭasya tailaiḥ koṣṇaiḥ prapūrayet dhārayedārujaḥ śānteryāmaṃyāmārddhameva vā",
         "iast_ru": "ниш́чаласйопавиш̣т̣асйа таилаих̣ кош̣н̣аих̣ прапӯрайет дха̄райеда̄руджах̣ ш́а̄нтерйа̄мам̣йа̄ма̄рддхамева ва̄",
-        "text": "Сидящему неподвижно следует наполнить тёплым маслом; страдающему болью следует держать [это] стражу или полстражи, до успокоения."
+        "text": "Сидящему неподвижно следует наполнить тёплым маслом; страдающему болью следует держать [это] стражу или полстражи, до успокоения.",
+        "text_en": "For one sitting motionless, it should be filled with warm oil; the sufferer should hold it for one watch or half a watch, until it subsides."
       },
       {
         "type": "verse",
@@ -83650,7 +83692,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरोवस्तिर्हरत्येष शिरोरोगं मरुद्भवम् हनुमन्याऽक्षिकर्णार्त्तिमर्दितं मूर्द्धकम्पनम्",
         "iast": "śirovastirharatyeṣa śirorogaṃ marudbhavam hanumanyā'kṣikarṇārttimarditaṃ mūrddhakampanam",
         "iast_ru": "ш́ировастирхаратйеш̣а ш́иророгам̣ марудбхавам хануманйа̄'кш̣икарн̣а̄рттимардитам̣ мӯрддхакампанам",
-        "text": "Этот «широ-васти» (масляная ванна для головы) устраняет головную болезнь от ветра, боль в челюсти, шее, глазах и ушах, дрожание головы."
+        "text": "Этот «широ-васти» (масляная ванна для головы) устраняет головную болезнь от ветра, боль в челюсти, шее, глазах и ушах, дрожание головы.",
+        "text_en": "This Shiro-basti (oil bath for the head) removes headache due to Vata, pain in the jaw, neck, eyes and ears, and trembling of the head."
       },
       {
         "type": "verse",
@@ -83658,7 +83701,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विना भोजनमेवैष शिरोवस्तिः प्रयुज्यते दिनानि पञ्च वा सप्त रुचितोऽग्रे ततोऽपि च",
         "iast": "vinā bhojanamevaiṣa śirovastiḥ prayujyate dināni pañca vā sapta rucito'gre tato'pi ca",
         "iast_ru": "вина̄ бходжанамеваиш̣а ш́ировастих̣ прайуджйате дина̄ни пан̃ча ва̄ сапта ручито'гре тато'пи ча",
-        "text": "Этот «широ-васти» применяется без еды, в течение пяти или семи дней, по желанию, или даже дольше."
+        "text": "Этот «широ-васти» применяется без еды, в течение пяти или семи дней, по желанию, или даже дольше.",
+        "text_en": "This Shiro-basti is applied without food, for five or seven days, as desired, or even longer."
       },
       {
         "type": "verse",
@@ -83666,7 +83710,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततोऽपनीतस्नेहस्तु मोचयेद्वस्तिबन्धनम् शिरोललाटवदनं ग्रीवांऽसादीन्विमर्दयेत्",
         "iast": "tato'panītasnehastu mocayedvastibandhanam śirolalāṭavadanaṃ grīvāṃ'sādīnvimardayet",
         "iast_ru": "тато'панӣтаснехасту мочайедвастибандханам ш́иролала̄т̣аваданам̣ грӣва̄м̣'са̄дӣнвимардайет",
-        "text": "Затем, удалив масло, следует снять повязку; следует растереть голову, лоб, лицо, шею, плечи и подобное."
+        "text": "Затем, удалив масло, следует снять повязку; следует растереть голову, лоб, лицо, шею, плечи и подобное.",
+        "text_en": "Then, after removing the oil, the bandage should be taken off; the head, forehead, face, neck, shoulders and the like should be rubbed."
       },
       {
         "type": "verse",
@@ -83674,7 +83719,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुखोष्णेनाम्भसा गात्रं प्रक्षाल्याश्नाति यद्धितम् आमिषं जाङ्गलं पथ्यं तत्र शाल्यादयोऽपि च",
         "iast": "sukhoṣṇenāmbhasā gātraṃ prakṣālyāśnāti yaddhitam āmiṣaṃ jāṅgalaṃ pathyaṃ tatra śālyādayo'pi ca",
         "iast_ru": "сукхош̣н̣ена̄мбхаса̄ га̄трам̣ пракш̣а̄лйа̄ш́на̄ти йаддхитам а̄миш̣ам̣ джа̄н̇галам̣ патхйам̣ татра ш́а̄лйа̄дайо'пи ча",
-        "text": "Омыв тело тёплой водой, следует есть полезную пищу: мясо диких [животных] и рис шали и подобное."
+        "text": "Омыв тело тёплой водой, следует есть полезную пищу: мясо диких [животных] и рис шали и подобное.",
+        "text_en": "After washing the body with warm water, one should eat wholesome food: meat of wild animals, Shali rice and the like."
       },
       {
         "type": "verse",
@@ -83682,7 +83728,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुद्गमाषान्कुलत्थांश्च खादेद्वा निशि केवलान् कटुकोष्णान्ससर्पिष्कानुष्णं क्षीरं पिबेत्तथा",
         "iast": "mudgamāṣānkulatthāṃśca khādedvā niśi kevalān kaṭukoṣṇānsasarpiṣkānuṣṇaṃ kṣīraṃ pibettathā",
         "iast_ru": "мудгама̄ш̣а̄нкулаттха̄м̣ш́ча кха̄дедва̄ ниш́и кевала̄н кат̣укош̣н̣а̄нсасарпиш̣ка̄нуш̣н̣ам̣ кш̣ӣрам̣ пибеттатха̄",
-        "text": "Или следует есть на ночь только мунг, урад и кулаттху, острые, тёплые, с гхи, а также пить тёплое молоко."
+        "text": "Или следует есть на ночь только мунг, урад и кулаттху, острые, тёплые, с гхи, а также пить тёплое молоко.",
+        "text_en": "Or at night one should eat only mung, Masha and Kulattha, pungent, warm, with ghee, and also drink warm milk."
       },
       {
         "type": "verse",
@@ -83690,7 +83737,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तात्मके शिरोरोगे शीतानां चन्दनाम्भसा कुमुदोत्पलपद्मानां स्पर्शाः सेव्याश्च मारुताः",
         "iast": "pittātmake śiroroge śītānāṃ candanāmbhasā kumudotpalapadmānāṃ sparśāḥ sevyāśca mārutāḥ",
         "iast_ru": "питта̄тмаке ш́иророге ш́ӣта̄на̄м̣ чандана̄мбхаса̄ кумудотпалападма̄на̄м̣ спарш́а̄х̣ севйа̄ш́ча ма̄рута̄х̣",
-        "text": "При головной болезни от питты следует применять холодные [средства]: воду с сандалом, а также прикосновение к кумуде, синему лотосу и лотосу, и полезны прохладные ветра."
+        "text": "При головной болезни от питты следует применять холодные [средства]: воду с сандалом, а также прикосновение к кумуде, синему лотосу и лотосу, и полезны прохладные ветра.",
+        "text_en": "In headache due to Pitta, cooling measures should be applied: water with sandalwood, as well as contact with Kumuda, blue lotus and lotus; cool breezes are beneficial."
       },
       {
         "type": "verse",
@@ -83698,7 +83746,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्पिषः शतधौतस्य शिरसा धारणं हितम् रसः श्वासकुठारोऽल्प कर्पूरः कुङ्कुमं नवम्",
         "iast": "sarpiṣaḥ śatadhautasya śirasā dhāraṇaṃ hitam rasaḥ śvāsakuṭhāro'lpa karpūraḥ kuṅkumaṃ navam",
         "iast_ru": "сарпиш̣ах̣ ш́атадхаутасйа ш́ираса̄ дха̄ран̣ам̣ хитам расах̣ ш́ва̄сакут̣ха̄ро'лпа карпӯрах̣ кун̇кумам̣ навам",
-        "text": "Полезно держать на голове стократно промытое гхи; раса «Швасакутхара» в малом количестве, свежая камфара, шафран,"
+        "text": "Полезно держать на голове стократно промытое гхи; раса «Швасакутхара» в малом количестве, свежая камфара, шафран,",
+        "text_en": "It is beneficial to keep on the head ghee washed a hundred times; the Rasa \"Shvasakuthara\" in a small quantity, fresh camphor, saffron,"
       },
       {
         "type": "verse",
@@ -83706,7 +83755,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सिता छागीपयः सर्वं चन्दनेनानुघर्षयेत् तस्य नस्यं भिषग्दद्यात्पित्तजायां शिरोरुजि किन्तु मस्तकशूलेषु सर्वेष्वेवं हितं मतम्",
         "iast": "sitā chāgīpayaḥ sarvaṃ candanenānugharṣayet tasya nasyaṃ bhiṣagdadyātpittajāyāṃ śiroruji kintu mastakaśūleṣu sarveṣvevaṃ hitaṃ matam",
         "iast_ru": "сита̄ чха̄гӣпайах̣ сарвам̣ чанданена̄нугхарш̣айет тасйа насйам̣ бхиш̣агдадйа̄тпиттаджа̄йа̄м̣ ш́ироруджи кинту мастакаш́ӯлеш̣у сарвеш̣вевам̣ хитам̣ матам",
-        "text": "сахар, козье молоко — всё это следует растереть с сандалом; врачу следует давать это как назальное средство при головной боли от питты; но при всех головных болях в целом это считается полезным."
+        "text": "сахар, козье молоко — всё это следует растереть с сандалом; врачу следует давать это как назальное средство при головной боли от питты; но при всех головных болях в целом это считается полезным.",
+        "text_en": "sugar, goat's milk: all these should be ground with sandalwood; the physician should give this as a nasal medicine in headache due to Pitta; but in all headaches generally this is considered beneficial."
       },
       {
         "type": "verse",
@@ -83714,7 +83764,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुडनागरकल्कस्य नस्यं मस्तकशूलनुत्",
         "iast": "guḍanāgarakalkasya nasyaṃ mastakaśūlanut",
         "iast_ru": "гуд̣ана̄гаракалкасйа насйам̣ мастакаш́ӯланут",
-        "text": "Назальное средство из пасты патоки и сушёного имбиря устраняет головную боль."
+        "text": "Назальное средство из пасты патоки и сушёного имбиря устраняет головную боль.",
+        "text_en": "A nasal medicine of a paste of molasses and dried ginger removes headache."
       },
       {
         "type": "verse",
@@ -83722,7 +83773,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तजे पित्तवत्सर्वं भोजनालेपसेचनम् शीतोष्णयोश्च विन्यस्य विशेषो रक्तमोक्षणम्",
         "iast": "raktaje pittavatsarvaṃ bhojanālepasecanam śītoṣṇayośca vinyasya viśeṣo raktamokṣaṇam",
         "iast_ru": "рактадже питтаватсарвам̣ бходжана̄лепасечанам ш́ӣтош̣н̣айош́ча винйасйа виш́еш̣о рактамокш̣ан̣ам",
-        "text": "При кровяной [форме] — всё как при питтовой: пища, мазь, орошение; в холодном и горячем следует чередовать, особо же — кровопускание."
+        "text": "При кровяной [форме] — всё как при питтовой: пища, мазь, орошение; в холодном и горячем следует чередовать, особо же — кровопускание.",
+        "text_en": "In the blood type, everything is as in the Pitta type: food, ointment, irrigation; cold and hot should be alternated, but especially bloodletting."
       },
       {
         "type": "verse",
@@ -83730,7 +83782,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफजे लङ्घनं स्वेदो रूक्षोष्णैः पावकात्मकैः सन्निपातभवे कार्या सन्निपातहरी क्रिया पुराणसर्पिषः पानं विशेषेण दिशन्ति हि",
         "iast": "kaphaje laṅghanaṃ svedo rūkṣoṣṇaiḥ pāvakātmakaiḥ sannipātabhave kāryā sannipātaharī kriyā purāṇasarpiṣaḥ pānaṃ viśeṣeṇa diśanti hi",
         "iast_ru": "капхадже лан̇гханам̣ сведо рӯкш̣ош̣н̣аих̣ па̄вака̄тмакаих̣ саннипа̄табхаве ка̄рйа̄ саннипа̄тахарӣ крийа̄ пура̄н̣асарпиш̣ах̣ па̄нам̣ виш́еш̣ен̣а диш́анти хи",
-        "text": "При капховой — голодание, прогревание сухими, горячими, огненными [средствами]; при [форме от] всех трёх дош следует применять лечение, устраняющее все три доши; особо рекомендуют питьё старого гхи."
+        "text": "При капховой — голодание, прогревание сухими, горячими, огненными [средствами]; при [форме от] всех трёх дош следует применять лечение, устраняющее все три доши; особо рекомендуют питьё старого гхи.",
+        "text_en": "In the Kapha type: fasting, fomentation with dry, hot, fiery measures; in the type due to all three doshas, treatment that relieves all three doshas should be applied; drinking old ghee is especially recommended."
       },
       {
         "type": "verse",
@@ -83738,7 +83791,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एरण्डमूलं तगरं शताह्वा जीवन्तिका रास्निकसैन्धवं च भृङ्गं विडङ्गं मधुयष्टिका च विश्वौषधं कृष्णतिलस्य तैलम्",
         "iast": "eraṇḍamūlaṃ tagaraṃ śatāhvā jīvantikā rāsnikasaindhavaṃ ca bhṛṅgaṃ viḍaṅgaṃ madhuyaṣṭikā ca viśvauṣadhaṃ kṛṣṇatilasya tailam",
         "iast_ru": "еран̣д̣амӯлам̣ тагарам̣ ш́ата̄хва̄ джӣвантика̄ ра̄сникасаиндхавам̣ ча бхр̣н̇гам̣ вид̣ан̇гам̣ мадхуйаш̣т̣ика̄ ча виш́вауш̣адхам̣ кр̣ш̣н̣атиласйа таилам",
-        "text": "Корень касторового [дерева], тагара, шатахва, дживантика, расна с каменной солью, бхринга, виданги, солодка,"
+        "text": "Корень касторового [дерева], тагара, шатахва, дживантика, расна с каменной солью, бхринга, виданги, солодка,",
+        "text_en": "Castor root, Tagara, Shatahva, Jivantika, Rasna with rock salt, Bhringa, Vidanga, licorice,"
       },
       {
         "type": "verse",
@@ -83746,7 +83800,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अजापयस्तैलविमिश्रितञ्च चतुर्गुणं भृङ्गरसे विपक्वम् षड्बिन्दवो नासिकया प्रदेयाः सर्वान्निहन्युः शिरसो विकारान्",
         "iast": "ajāpayastailavimiśritañca caturguṇaṃ bhṛṅgarase vipakvam ṣaḍbindavo nāsikayā pradeyāḥ sarvānnihanyuḥ śiraso vikārān",
         "iast_ru": "аджа̄пайастаилавимиш́ритан̃ча чатургун̣ам̣ бхр̣н̇гарасе випаквам ш̣ад̣биндаво на̄сикайа̄ прадейа̄х̣ сарва̄нниханйух̣ ш́ирасо вика̄ра̄н",
-        "text": "сушёный имбирь, масло чёрного кунжута, козье молоко, смешанное с маслом в четырёхкратном количестве, сваренное в соке бхринги, — шесть капель, введённые через нос, устраняют все болезни головы."
+        "text": "сушёный имбирь, масло чёрного кунжута, козье молоко, смешанное с маслом в четырёхкратном количестве, сваренное в соке бхринги, — шесть капель, введённые через нос, устраняют все болезни головы.",
+        "text_en": "dried ginger, black sesame oil, goat's milk mixed with oil in fourfold quantity, cooked in the juice of Bhringa: six drops introduced through the nose remove all diseases of the head."
       },
       {
         "type": "verse",
@@ -83754,7 +83809,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "च्युतांश्च केशान्पलितांश्च दन्तान्निर्बन्धमूलान्सुदृढीकरोति सुपर्णगृध्रप्रतिमञ्च चक्षुः कुर्वन्ति बाह्वोरधिकं बलञ्च",
         "iast": "cyutāṃśca keśānpalitāṃśca dantānnirbandhamūlānsudṛḍhīkaroti suparṇagṛdhrapratimañca cakṣuḥ kurvanti bāhvoradhikaṃ balañca",
         "iast_ru": "чйута̄м̣ш́ча кеш́а̄нпалита̄м̣ш́ча данта̄ннирбандхамӯла̄нсудр̣д̣хӣкароти супарн̣агр̣дхрапратиман̃ча чакш̣ух̣ курванти ба̄хворадхикам̣ балан̃ча",
-        "text": "Укрепляет выпавшие волосы, седые волосы и зубы с рыхлыми корнями, делает зрение подобным зрению орла и грифа, а также увеличивает силу рук."
+        "text": "Укрепляет выпавшие волосы, седые волосы и зубы с рыхлыми корнями, делает зрение подобным зрению орла и грифа, а также увеличивает силу рук.",
+        "text_en": "It strengthens fallen hair, gray hair and teeth with loose roots, makes the vision like that of the eagle and vulture, and also increases the strength of the arms."
       },
       {
         "type": "verse",
@@ -83762,7 +83818,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षयजे क्षयनाशाय कर्त्तव्यो बृंहणो विधिः पाने नस्ये च सर्पिः स्याद्वातघ्नैर्मधुरैः शृतम्",
         "iast": "kṣayaje kṣayanāśāya karttavyo bṛṃhaṇo vidhiḥ pāne nasye ca sarpiḥ syādvātaghnairmadhuraiḥ śṛtam",
         "iast_ru": "кш̣айадже кш̣айана̄ш́а̄йа карттавйо бр̣м̣хан̣о видхих̣ па̄не насйе ча сарпих̣ сйа̄два̄тагхнаирмадхураих̣ ш́р̣там",
-        "text": "При [болезни] от истощения для устранения истощения следует применять питательный метод; при питье и назальном применении полезно гхи, сваренное со сладкими, устраняющими ватху [средствами]."
+        "text": "При [болезни] от истощения для устранения истощения следует применять питательный метод; при питье и назальном применении полезно гхи, сваренное со сладкими, устраняющими ватху [средствами].",
+        "text_en": "In the disease due to depletion, a nourishing method should be applied to remedy the depletion; in drinking and nasal application, ghee cooked with sweet, Vata-relieving drugs is beneficial."
       },
       {
         "type": "verse",
@@ -83770,7 +83827,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृमिजे व्योषनक्ताह्वशिग्रुबीजैश्च नावनम् अजामूत्रयुतं नस्यं कर्त्तव्यं कृमिनुत्परम्",
         "iast": "kṛmije vyoṣanaktāhvaśigrubījaiśca nāvanam ajāmūtrayutaṃ nasyaṃ karttavyaṃ kṛminutparam",
         "iast_ru": "кр̣мидже вйош̣анакта̄хваш́игрубӣджаиш́ча на̄ванам аджа̄мӯтрайутам̣ насйам̣ карттавйам̣ кр̣минутпарам",
-        "text": "При [болезни от] паразитов следует делать назальное средство из вьоши, семени наказвы и шигру, соединённое с козьей мочой, — превосходно устраняет паразитов."
+        "text": "При [болезни от] паразитов следует делать назальное средство из вьоши, семени наказвы и шигру, соединённое с козьей мочой, — превосходно устраняет паразитов.",
+        "text_en": "In the disease due to parasites, a nasal medicine should be made of Vyosha, Nakshva seed and Shigru, combined with goat's urine; it is excellent for destroying parasites."
       },
       {
         "type": "verse",
@@ -83778,7 +83836,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सूर्यावर्त्ते विधातव्यं नस्यकर्मादि भेषजम्",
         "iast": "sūryāvartte vidhātavyaṃ nasyakarmādi bheṣajam",
         "iast_ru": "сӯрйа̄вартте видха̄тавйам̣ насйакарма̄ди бхеш̣аджам",
-        "text": "При «сурьяварте» следует применять назальное лечение и подобные средства."
+        "text": "При «сурьяварте» следует применять назальное лечение и подобные средства.",
+        "text_en": "In Suryavarta, nasal treatment and similar measures should be applied."
       },
       {
         "type": "verse",
@@ -83786,7 +83845,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुमार्याः स्वरसप्रस्थे धत्तूरस्य रसे तथा भृङ्गराजस्य च रसे प्रस्थद्वयसमायुते",
         "iast": "kumāryāḥ svarasaprasthe dhattūrasya rase tathā bhṛṅgarājasya ca rase prasthadvayasamāyute",
         "iast_ru": "кума̄рйа̄х̣ сварасапрастхе дхаттӯрасйа расе татха̄ бхр̣н̇гара̄джасйа ча расе прастхадвайасама̄йуте",
-        "text": "На прастхе сока алоэ, а также на соке дхаттуры, и на соке бхрингараджи, соединённых в двойном количестве прастха,"
+        "text": "На прастхе сока алоэ, а также на соке дхаттуры, и на соке бхрингараджи, соединённых в двойном количестве прастха,",
+        "text_en": "On a Prastha of aloe juice, as well as on the juice of Dhattura, and on the juice of Bhringaraja, combined in double the quantity of a Prastha,"
       },
       {
         "type": "verse",
@@ -83794,7 +83854,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चतुःप्रस्थमिते क्षीरे तैलप्रस्थं विपाचयेत् कल्कैर्मधुकह्रीबेरमञ्जिष्ठा भद्र मुस्तकैः",
         "iast": "catuḥprasthamite kṣīre tailaprasthaṃ vipācayet kalkairmadhukahrīberamañjiṣṭhā bhadra mustakaiḥ",
         "iast_ru": "чатух̣прастхамите кш̣ӣре таилапрастхам̣ випа̄чайет калкаирмадхукахрӣбераман̃джиш̣т̣ха̄ бхадра мустакаих̣",
-        "text": "на четырёх прастхах молока следует сварить прастху масла с пастами солодки, хривера, манджишты, бхадры и мусты,"
+        "text": "на четырёх прастхах молока следует сварить прастху масла с пастами солодки, хривера, манджишты, бхадры и мусты,",
+        "text_en": "to four Prasthas of milk, one Prastha of oil should be added and cooked with pastes of licorice, Hriwera, Manjishtha, Bhadra and Musta,"
       },
       {
         "type": "verse",
@@ -83802,7 +83863,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नखकर्पूरभृङ्गैलाजीवन्ती पद्मकुष्ठकैः मार्कवासकतालीस सर्जनिर्यासपत्रकैः",
         "iast": "nakhakarpūrabhṛṅgailājīvantī padmakuṣṭhakaiḥ mārkavāsakatālīsa sarjaniryāsapatrakaiḥ",
         "iast_ru": "накхакарпӯрабхр̣н̇гаила̄джӣвантӣ падмакуш̣т̣хакаих̣ ма̄ркава̄саката̄лӣса сарджанирйа̄сапатракаих̣",
-        "text": "ногтя [благовония], камфары, бхринги, кардамона, дживанти, падмы и кустхи, маркавы, васаки, тали, смолы сарджи и листа,"
+        "text": "ногтя [благовония], камфары, бхринги, кардамона, дживанти, падмы и кустхи, маркавы, васаки, тали, смолы сарджи и листа,",
+        "text_en": "nail (fragrant substance), camphor, Bhringa, cardamom, Jivanti, Padma and Kushtha, Markava, Vasaka, Tali, Sarja resin and leaf,"
       },
       {
         "type": "verse",
@@ -83810,7 +83872,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विडङ्गशतपुष्पाऽश्व गन्धागन्धर्वहस्तकैः शोथहृन्नारिकेलाभ्यां कर्षमानैर्विपाचिते",
         "iast": "viḍaṅgaśatapuṣpā'śva gandhāgandharvahastakaiḥ śothahṛnnārikelābhyāṃ karṣamānairvipācite",
         "iast_ru": "вид̣ан̇гаш́атапуш̣па̄'ш́ва гандха̄гандхарвахастакаих̣ ш́отхахр̣нна̄рикела̄бхйа̄м̣ карш̣ама̄наирвипа̄чите",
-        "text": "виданги, шатапушпы, ашвагандхи и гандхарва-хасты — сваренное с кокосовым орехом, в дозе одной карши каждого."
+        "text": "виданги, шатапушпы, ашвагандхи и гандхарва-хасты — сваренное с кокосовым орехом, в дозе одной карши каждого.",
+        "text_en": "Vidanga, Shatapushpa, Ashwagandha and Gandharvahasta, cooked with coconut, one Karsha of each."
       },
       {
         "type": "verse",
@@ -83818,7 +83881,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उत्तार्य वस्त्रपूतं तु शुभे भाण्डे सुधूपिते त्रिरात्रमथ गुप्तञ्च धारयेद्विधिवद्भिषक्",
         "iast": "uttārya vastrapūtaṃ tu śubhe bhāṇḍe sudhūpite trirātramatha guptañca dhārayedvidhivadbhiṣak",
         "iast_ru": "утта̄рйа вастрапӯтам̣ ту ш́убхе бха̄н̣д̣е судхӯпите трира̄траматха гуптан̃ча дха̄райедвидхивадбхиш̣ак",
-        "text": "Сняв [с огня] и процедив тканью, в благоприятный сосуд, хорошо окуренный, следует поместить и хранить три ночи, тщательно охраняя, по правилу."
+        "text": "Сняв [с огня] и процедив тканью, в благоприятный сосуд, хорошо окуренный, следует поместить и хранить три ночи, тщательно охраняя, по правилу.",
+        "text_en": "Removed from the fire and strained through a cloth, it should be placed in an auspicious, well-fumigated vessel and kept for three nights, carefully guarded, according to the rule."
       },
       {
         "type": "verse",
@@ -83826,7 +83890,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततस्तु तैलमभ्यङ्गे मूर्ध्नि क्षेपे नियोजयेत् शमयेदर्दितं गाढं मन्यास्तम्भशिरोगदान्",
         "iast": "tatastu tailamabhyaṅge mūrdhni kṣepe niyojayet śamayedarditaṃ gāḍhaṃ manyāstambhaśirogadān",
         "iast_ru": "татасту таиламабхйан̇ге мӯрдхни кш̣епе нийоджайет ш́амайедардитам̣ га̄д̣хам̣ манйа̄стамбхаш́ирогада̄н",
-        "text": "Затем это масло врачу следует применять для растирания, для нанесения на голову; оно успокаивает сильное расстройство, спазм шеи и болезни головы."
+        "text": "Затем это масло врачу следует применять для растирания, для нанесения на голову; оно успокаивает сильное расстройство, спазм шеи и болезни головы.",
+        "text_en": "Then the physician should use this oil for rubbing and for application on the head; it pacifies severe disorder, spasm of the neck and diseases of the head."
       },
       {
         "type": "verse",
@@ -83834,7 +83899,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालुनासाऽक्षिजातन्तु शोषं मूर्च्छां हलीमकम् हनुग्रहगदार्त्तिं वा बाधिर्यं कर्णवेदनाम्",
         "iast": "tālunāsā'kṣijātantu śoṣaṃ mūrcchāṃ halīmakam hanugrahagadārttiṃ vā bādhiryaṃ karṇavedanām",
         "iast_ru": "та̄луна̄са̄'кш̣иджа̄танту ш́ош̣ам̣ мӯрччха̄м̣ халӣмакам хануграхагада̄рттим̣ ва̄ ба̄дхирйам̣ карн̣аведана̄м",
-        "text": "Сухость нёба, носа и глаз, обморок, «халимаку» (болезнь малокровия), спазм челюсти с болью, а также глухоту и боль в ухе —"
+        "text": "Сухость нёба, носа и глаз, обморок, «халимаку» (болезнь малокровия), спазм челюсти с болью, а также глухоту и боль в ухе —",
+        "text_en": "Dryness of the palate, nose and eyes, fainting, Halimaka (anemic disease), spasm of the jaw with pain, as well as deafness and earache,"
       },
       {
         "type": "verse",
@@ -83842,7 +83908,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "योजयेत्सगुडं सर्पिर्घृतपूरांश्च भक्षयेत् नावनं क्षीरसर्पिर्भ्यां पानञ्च क्षीरसर्पिषोः",
         "iast": "yojayetsaguḍaṃ sarpirghṛtapūrāṃśca bhakṣayet nāvanaṃ kṣīrasarpirbhyāṃ pānañca kṣīrasarpiṣoḥ",
         "iast_ru": "йоджайетсагуд̣ам̣ сарпиргхр̣тапӯра̄м̣ш́ча бхакш̣айет на̄ванам̣ кш̣ӣрасарпирбхйа̄м̣ па̄нан̃ча кш̣ӣрасарпиш̣ох̣",
-        "text": "следует применять гхи с патокой, есть шарики, пропитанные гхи; назальное средство с молоком и гхи, а также питьё молока и гхи."
+        "text": "следует применять гхи с патокой, есть шарики, пропитанные гхи; назальное средство с молоком и гхи, а также питьё молока и гхи.",
+        "text_en": "ghee with molasses should be applied, balls soaked in ghee should be eaten; a nasal medicine with milk and ghee, and also drinking of milk and ghee."
       },
       {
         "type": "verse",
@@ -83850,7 +83917,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षीरपिष्टैस्तिलैः स्वेदो जीवनीयैश्च शस्यते भृङ्गराजरसश्छागी क्षीरतुल्योऽकतापितः सूर्यावर्त्तं निहन्त्याशु नस्येनैव प्रयोगराट्",
         "iast": "kṣīrapiṣṭaistilaiḥ svedo jīvanīyaiśca śasyate bhṛṅgarājarasaśchāgī kṣīratulyo'katāpitaḥ sūryāvarttaṃ nihantyāśu nasyenaiva prayogarāṭ",
         "iast_ru": "кш̣ӣрапиш̣т̣аистилаих̣ сведо джӣванӣйаиш́ча ш́асйате бхр̣н̇гара̄джарасаш́чха̄гӣ кш̣ӣратулйо'ката̄питах̣ сӯрйа̄варттам̣ нихантйа̄ш́у насйенаива прайогара̄т̣",
-        "text": "Прогревание кунжутом, растёртым с молоком и питательными [средствами], рекомендуется; сок бхрингараджи, равный по объёму козьему молоку, не нагретый, быстро устраняет «сурьяварту» лучшим методом — назальным средством."
+        "text": "Прогревание кунжутом, растёртым с молоком и питательными [средствами], рекомендуется; сок бхрингараджи, равный по объёму козьему молоку, не нагретый, быстро устраняет «сурьяварту» лучшим методом — назальным средством.",
+        "text_en": "Fomentation with sesame ground with milk and nourishing substances is recommended; the juice of Bhringaraja, equal in volume to goat's milk, unheated, quickly removes Suryavarta by the best method, the nasal medicine."
       },
       {
         "type": "verse",
@@ -83858,7 +83926,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अर्द्धावभेदके पूर्वं स्नेहस्वेदौ हि भेषजम् विरेकः कायशुद्धिश्च धूपः स्निग्धोष्णभोजनम्",
         "iast": "arddhāvabhedake pūrvaṃ snehasvedau hi bheṣajam virekaḥ kāyaśuddhiśca dhūpaḥ snigdhoṣṇabhojanam",
         "iast_ru": "арддха̄вабхедаке пӯрвам̣ снехасведау хи бхеш̣аджам виреках̣ ка̄йаш́уддхиш́ча дхӯпах̣ снигдхош̣н̣абходжанам",
-        "text": "При «ардхавабхедаке» прежде лекарство — маслянистые средства и прогревание, слабительное и очищение тела, окуривание, маслянистая и тёплая пища."
+        "text": "При «ардхавабхедаке» прежде лекарство — маслянистые средства и прогревание, слабительное и очищение тела, окуривание, маслянистая и тёплая пища.",
+        "text_en": "In Ardhavabhedaka, first the remedy is unctuous measures and fomentation, purgation and cleansing of the body, fumigation, unctuous and warm food."
       },
       {
         "type": "verse",
@@ -83866,7 +83935,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विडङ्गानि तिलान्कृष्णान्समान्पिष्टान्विलेपयेत् नस्यञ्चाप्याचरेत्तस्मादर्द्धभेदो व्यपोहति",
         "iast": "viḍaṅgāni tilānkṛṣṇānsamānpiṣṭānvilepayet nasyañcāpyācarettasmādarddhabhedo vyapohati",
         "iast_ru": "вид̣ан̇га̄ни тила̄нкр̣ш̣н̣а̄нсама̄нпиш̣т̣а̄нвилепайет насйан̃ча̄пйа̄чареттасма̄дарддхабхедо вйапохати",
-        "text": "Виданги, чёрный кунжут в равных долях, растёртые, следует наносить как мазь; и следует применять назальное средство — этим полудосторонняя боль устраняется."
+        "text": "Виданги, чёрный кунжут в равных долях, растёртые, следует наносить как мазь; и следует применять назальное средство — этим полудосторонняя боль устраняется.",
+        "text_en": "Vidanga and black sesame in equal parts, ground, should be applied as an ointment; and a nasal medicine should be applied; by this the hemicranial pain is removed."
       },
       {
         "type": "verse",
@@ -83874,7 +83944,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पिबेत्सशर्करं क्षीरं नीरं वा नारिकेलजम् सुशीतं वाऽपि पानीयं सर्पिर्वा नस्यतस्तयोः",
         "iast": "pibetsaśarkaraṃ kṣīraṃ nīraṃ vā nārikelajam suśītaṃ vā'pi pānīyaṃ sarpirvā nasyatastayoḥ",
         "iast_ru": "пибетсаш́аркарам̣ кш̣ӣрам̣ нӣрам̣ ва̄ на̄рикеладжам суш́ӣтам̣ ва̄'пи па̄нӣйам̣ сарпирва̄ насйатастайох̣",
-        "text": "Следует пить молоко с сахаром, или кокосовую воду, или весьма холодную воду, или гхи — при этих же назальных [процедурах]."
+        "text": "Следует пить молоко с сахаром, или кокосовую воду, или весьма холодную воду, или гхи — при этих же назальных [процедурах].",
+        "text_en": "One should drink milk with sugar, or coconut water, or very cold water, or ghee, along with these same nasal procedures."
       },
       {
         "type": "verse",
@@ -83882,7 +83953,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अनन्तवाते कर्त्तव्यः सूर्यावर्तहितो विधिः शिरावेधश्च कर्त्तव्योऽनन्तवातप्रशान्तये",
         "iast": "anantavāte karttavyaḥ sūryāvartahito vidhiḥ śirāvedhaśca karttavyo'nantavātapraśāntaye",
         "iast_ru": "анантава̄те карттавйах̣ сӯрйа̄вартахито видхих̣ ш́ира̄ведхаш́ча карттавйо'нантава̄тапраш́а̄нтайе",
-        "text": "При «ананта-вате» следует применять лечение, полезное при «сурьяварте»; следует также проводить прокол сосуда для успокоения «ананта-ваты»."
+        "text": "При «ананта-вате» следует применять лечение, полезное при «сурьяварте»; следует также проводить прокол сосуда для успокоения «ананта-ваты».",
+        "text_en": "In Ananta-vata, the treatment beneficial in Suryavarta should be applied; puncturing of a vessel should also be performed to pacify Ananta-vata."
       },
       {
         "type": "verse",
@@ -83890,7 +83962,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आहारश्च प्रदातव्यो वातपित्तविनाशनः मधुमस्तकसंयावो घृतपूपो विशेषतः",
         "iast": "āhāraśca pradātavyo vātapittavināśanaḥ madhumastakasaṃyāvo ghṛtapūpo viśeṣataḥ",
         "iast_ru": "а̄ха̄раш́ча прада̄тавйо ва̄тапиттавина̄ш́анах̣ мадхумастакасам̣йа̄во гхр̣тапӯпо виш́еш̣атах̣",
-        "text": "Следует давать пищу, устраняющую ватху и питту, особенно мёд, кашу из муки, гхи и лепёшки на гхи."
+        "text": "Следует давать пищу, устраняющую ватху и питту, особенно мёд, кашу из муки, гхи и лепёшки на гхи.",
+        "text_en": "Food that relieves Vata and Pitta should be given, especially honey, gruel of flour, ghee and cakes made with ghee."
       },
       {
         "type": "verse",
@@ -83898,7 +83971,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पथ्याऽक्षधात्रीरजनीगुडूचीभूनिम्बनिम्बैःसगुडः कषायः भ्रूशङ्खकर्णाक्षिशिरोऽद्धशूलं निहन्ति नासानिहितः क्षणेन",
         "iast": "pathyā'kṣadhātrīrajanīguḍūcībhūnimbanimbaiḥsaguḍaḥ kaṣāyaḥ bhrūśaṅkhakarṇākṣiśiro'ddhaśūlaṃ nihanti nāsānihitaḥ kṣaṇena",
         "iast_ru": "патхйа̄'кш̣адха̄трӣраджанӣгуд̣ӯчӣбхӯнимбанимбаих̣сагуд̣ах̣ каш̣а̄йах̣ бхрӯш́ан̇кхакарн̣а̄кш̣иш́иро'ддхаш́ӯлам̣ ниханти на̄са̄нихитах̣ кш̣ан̣ена",
-        "text": "Отвар харитаки, амалаки, куркумы, гудучи, бхунимбы и нима, соединённый с патокой, введённый через нос, мгновенно устраняет боль брови, виска, уха, глаза и половины головы."
+        "text": "Отвар харитаки, амалаки, куркумы, гудучи, бхунимбы и нима, соединённый с патокой, введённый через нос, мгновенно устраняет боль брови, виска, уха, глаза и половины головы.",
+        "text_en": "A decoction of Haritaki, Amalaki, turmeric, Guduchi, Bhunimba and Neem, combined with molasses and introduced through the nose, instantly removes pain of the eyebrow, temple, ear, eye and half of the head."
       },
       {
         "type": "verse",
@@ -83906,7 +83980,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दार्वीः हरिद्रा मञ्जिष्ठा सनिम्बोशीरपद्मकम् एतत्प्रलेपनं कुर्याच्छङ्खकस्य प्रशान्तये",
         "iast": "dārvīḥ haridrā mañjiṣṭhā sanimbośīrapadmakam etatpralepanaṃ kuryācchaṅkhakasya praśāntaye",
         "iast_ru": "да̄рвӣх̣ харидра̄ ман̃джиш̣т̣ха̄ санимбош́ӣрападмакам етатпралепанам̣ курйа̄ччхан̇кхакасйа праш́а̄нтайе",
-        "text": "Дару-харидра, куркума, манджишта с нимом, уширой и падмакой — эту мазь следует применять для успокоения «шанкхаки»."
+        "text": "Дару-харидра, куркума, манджишта с нимом, уширой и падмакой — эту мазь следует применять для успокоения «шанкхаки».",
+        "text_en": "Daruharidra, turmeric, Manjishtha with Neem, Ushira and Padmaka: this ointment should be applied to pacify Shankhaka."
       },
       {
         "type": "verse",
@@ -83914,7 +83989,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीततोयाभिषेकश्च शीतलक्षीरसेवनम् कल्पश्च क्षीरवृक्षाणां शङ्खके लेपनंहितम्",
         "iast": "śītatoyābhiṣekaśca śītalakṣīrasevanam kalpaśca kṣīravṛkṣāṇāṃ śaṅkhake lepanaṃhitam",
         "iast_ru": "ш́ӣтатойа̄бхиш̣екаш́ча ш́ӣталакш̣ӣрасеванам калпаш́ча кш̣ӣравр̣кш̣а̄н̣а̄м̣ ш́ан̇кхаке лепанам̣хитам",
-        "text": "Орошение холодной водой и приём холодного молока, а также [применение] средств из млечных деревьев — полезны при «шанкхаке» в виде мази."
+        "text": "Орошение холодной водой и приём холодного молока, а также [применение] средств из млечных деревьев — полезны при «шанкхаке» в виде мази.",
+        "text_en": "Irrigation with cold water and taking cold milk, as well as the use of remedies from milky trees, are beneficial in Shankhaka as an ointment."
       },
       {
         "type": "verse",
@@ -83922,7 +83998,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यष्टीमधुकमाषः स्यात्तुर्यांशं तु विषं भवेत् तयोश्चूर्णं सुसूक्ष्मं स्यात्तच्चूर्णं सर्षपोन्मितम्",
         "iast": "yaṣṭīmadhukamāṣaḥ syātturyāṃśaṃ tu viṣaṃ bhavet tayoścūrṇaṃ susūkṣmaṃ syāttaccūrṇaṃ sarṣaponmitam",
         "iast_ru": "йаш̣т̣ӣмадхукама̄ш̣ах̣ сйа̄ттурйа̄м̣ш́ам̣ ту виш̣ам̣ бхавет тайош́чӯрн̣ам̣ сусӯкш̣мам̣ сйа̄ттаччӯрн̣ам̣ сарш̣апонмитам",
-        "text": "Солодка и урад — [взять], а яда — четверть от этого; их следует истолочь в очень тонкий порошок; этот порошок в дозе горчичного зерна,"
+        "text": "Солодка и урад — [взять], а яда — четверть от этого; их следует истолочь в очень тонкий порошок; этот порошок в дозе горчичного зерна,",
+        "text_en": "Licorice and Masha (black gram) are to be taken, and Vyosha (poison?) one quarter of this; they should be pounded into a very fine powder; this powder in a dose of a mustard seed,"
       },
       {
         "type": "verse",
@@ -83930,7 +84007,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नासिकाऽभ्यन्तरे न्यस्तं सर्वां शीर्षव्यथांहरेत् दृष्टप्रयोगो योगोऽयमनुभाविभिरादृतः",
         "iast": "nāsikā'bhyantare nyastaṃ sarvāṃ śīrṣavyathāṃharet dṛṣṭaprayogo yogo'yamanubhāvibhirādṛtaḥ",
         "iast_ru": "на̄сика̄'бхйантаре нйастам̣ сарва̄м̣ ш́ӣрш̣авйатха̄м̣харет др̣ш̣т̣апрайого його'йаманубха̄вибхира̄др̣тах̣",
-        "text": "вложенный внутрь носа, устраняет всякую головную боль; это средство, испробованное, почитается опытными [врачами]."
+        "text": "вложенный внутрь носа, устраняет всякую головную боль; это средство, испробованное, почитается опытными [врачами].",
+        "text_en": "placed inside the nose, removes every headache; this remedy, tried and tested, is esteemed by experienced physicians."
       },
       {
         "type": "verse",
@@ -83938,7 +84016,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आर्द्रं यच्छुक्तिकाचूर्णं चूर्णितं नवसादरम् उभयं योजितं तस्य गन्धान्नश्यति शीर्षरुक्",
         "iast": "ārdraṃ yacchuktikācūrṇaṃ cūrṇitaṃ navasādaram ubhayaṃ yojitaṃ tasya gandhānnaśyati śīrṣaruk",
         "iast_ru": "а̄рдрам̣ йаччхуктика̄чӯрн̣ам̣ чӯрн̣итам̣ наваса̄дарам убхайам̣ йоджитам̣ тасйа гандха̄ннаш́йати ш́ӣрш̣арук",
-        "text": "Влажный порошок раковины, истолчённый со свежим садарой (?), оба соединённые — от их запаха головная боль исчезает."
+        "text": "Влажный порошок раковины, истолчённый со свежим садарой (?), оба соединённые — от их запаха головная боль исчезает.",
+        "text_en": "A moist powder of conch shell, pounded with fresh Sadara (?), both combined: by their smell headache disappears."
       },
       {
         "type": "verse",
@@ -83946,7 +84025,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति द्विषष्टित्तमः शिरोरोगाधिकारः समाप्तः",
         "iast": "iti dviṣaṣṭittamaḥ śirorogādhikāraḥ samāptaḥ",
         "iast_ru": "ити двиш̣аш̣т̣иттамах̣ ш́иророга̄дхика̄рах̣ сама̄птах̣",
-        "text": "Так завершается шестьдесят вторая глава, посвящённая болезням головы."
+        "text": "Так завершается шестьдесят вторая глава, посвящённая болезням головы.",
+        "text_en": "Thus ends the sixty-second chapter, on diseases of the head."
       }
     ]
   },
@@ -83964,7 +84044,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विद्याद्द्व्यङ्गुलबाहुल्यं स्वाङ्गुष्ठोदरसम्मितम् द्व्यङ्गुलंसर्वतः सार्द्धं भिषङ् नयनमण्डलम्",
         "iast": "vidyāddvyaṅgulabāhulyaṃ svāṅguṣṭhodarasammitam dvyaṅgulaṃsarvataḥ sārddhaṃ bhiṣaṅ nayanamaṇḍalam",
         "iast_ru": "видйа̄ддвйан̇гулаба̄хулйам̣ сва̄н̇гуш̣т̣ходарасаммитам двйан̇гулам̣сарватах̣ са̄рддхам̣ бхиш̣ан̇ найанаман̣д̣алам",
-        "text": "Следует знать, что толщина глазного яблока — два пальца, равная объёму собственного большого пальца; окружность глазного круга — два с половиной пальца со всех сторон, [так учит] врач."
+        "text": "Следует знать, что толщина глазного яблока — два пальца, равная объёму собственного большого пальца; окружность глазного круга — два с половиной пальца со всех сторон, [так учит] врач.",
+        "text_en": "It should be known that the thickness of the eyeball is two finger-breadths, equal to the size of one's own thumb; the circumference of the eye circle is two and a half finger-breadths on all sides, so teaches the physician."
       },
       {
         "type": "verse",
@@ -83972,7 +84053,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्ष्मवर्त्मश्वेतकृष्णदृष्टीनां मण्डलानि तु अनुपूर्वन्तु ते मध्याश्चत्वारोऽन्त्या यथोत्तरम्",
         "iast": "pakṣmavartmaśvetakṛṣṇadṛṣṭīnāṃ maṇḍalāni tu anupūrvantu te madhyāścatvāro'ntyā yathottaram",
         "iast_ru": "пакш̣мавартмаш́ветакр̣ш̣н̣адр̣ш̣т̣ӣна̄м̣ ман̣д̣ала̄ни ту анупӯрванту те мадхйа̄ш́чатва̄ро'нтйа̄ йатхоттарам",
-        "text": "Круги ресниц, век, белка и зрачка [расположены] по порядку; средние четыре, а крайние — соответственно по возрастанию."
+        "text": "Круги ресниц, век, белка и зрачка [расположены] по порядку; средние четыре, а крайние — соответственно по возрастанию.",
+        "text_en": "The circles of the eyelashes, eyelids, white and pupil are arranged in order; the middle four, and the outermost ones respectively in increasing order."
       },
       {
         "type": "verse",
@@ -83980,7 +84062,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्वादश व्याधयो दृष्टौ तत्रैवान्यौ गदावुभौ कृष्णमार्गे तु चत्वारो दशैकः शुक्लभागजाः",
         "iast": "dvādaśa vyādhayo dṛṣṭau tatraivānyau gadāvubhau kṛṣṇamārge tu catvāro daśaikaḥ śuklabhāgajāḥ",
         "iast_ru": "два̄даш́а вйа̄дхайо др̣ш̣т̣ау татраива̄нйау гада̄вубхау кр̣ш̣н̣ама̄рге ту чатва̄ро даш́аиках̣ ш́уклабха̄гаджа̄х̣",
-        "text": "В зрачке [возникает] двенадцать болезней, там же ещё две другие; в области чёрного [края] — четыре, в белочной части — десять и одна."
+        "text": "В зрачке [возникает] двенадцать болезней, там же ещё две другие; в области чёрного [края] — четыре, в белочной части — десять и одна.",
+        "text_en": "In the pupil twelve diseases arise, and there two others besides; in the region of the black (margin) four, in the white part ten and one."
       },
       {
         "type": "verse",
@@ -83988,7 +84071,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्मन्येको विंशतिश्च पक्ष्मजौ द्वौ प्रकीर्त्तितौ नव सन्धिषु सर्वस्मिन्नेत्रे सप्तदशोदिताः एवं नेत्रे समस्ताः स्युरष्टसप्ततिरामयाः",
         "iast": "vartmanyeko viṃśatiśca pakṣmajau dvau prakīrttitau nava sandhiṣu sarvasminnetre saptadaśoditāḥ evaṃ netre samastāḥ syuraṣṭasaptatirāmayāḥ",
         "iast_ru": "вартманйеко вим̣ш́атиш́ча пакш̣маджау двау пракӣрттитау нава сандхиш̣у сарвасминнетре саптадаш́одита̄х̣ евам̣ нетре самаста̄х̣ сйураш̣т̣асаптатира̄майа̄х̣",
-        "text": "В веке — одна и двадцать, обе [болезни] ресниц провозглашены; в девяти соединениях всего глаза — семнадцать; таким образом, во всём глазе — семьдесят восемь болезней."
+        "text": "В веке — одна и двадцать, обе [болезни] ресниц провозглашены; в девяти соединениях всего глаза — семнадцать; таким образом, во всём глазе — семьдесят восемь болезней.",
+        "text_en": "In the eyelid, one and twenty, and both diseases of the eyelashes are declared; in the nine junctions of the whole eye, seventeen; thus in the whole eye there are seventy-eight diseases."
       },
       {
         "type": "verse",
@@ -83996,7 +84080,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वाताद्दश तथा पित्तात्कफाच्चैव त्रयोदश",
         "iast": "vātāddaśa tathā pittātkaphāccaiva trayodaśa",
         "iast_ru": "ва̄та̄ддаш́а татха̄ питта̄ткапха̄ччаива трайодаш́а",
-        "text": "От ватхи — десять, от питты — [также, но] от капхи — тринадцать,"
+        "text": "От ватхи — десять, от питты — [также, но] от капхи — тринадцать,",
+        "text_en": "From Vata ten, from Pitta likewise, but from Kapha thirteen,"
       },
       {
         "type": "verse",
@@ -84004,7 +84089,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तात्षोडश विज्ञेयाः सर्वजाः पञ्चविशतिः बाह्यौ पुनर्द्वौ नयने रोगाः षट्सप्ततिः स्मृताः",
         "iast": "raktātṣoḍaśa vijñeyāḥ sarvajāḥ pañcaviśatiḥ bāhyau punardvau nayane rogāḥ ṣaṭsaptatiḥ smṛtāḥ",
         "iast_ru": "ракта̄тш̣од̣аш́а виджн̃ейа̄х̣ сарваджа̄х̣ пан̃чавиш́атих̣ ба̄хйау пунардвау найане рога̄х̣ ш̣ат̣саптатих̣ смр̣та̄х̣",
-        "text": "от крови следует знать шестнадцать, от всех дош вместе — двадцать пять; и снаружи глаза ещё две болезни — всего провозглашено семьдесят шесть."
+        "text": "от крови следует знать шестнадцать, от всех дош вместе — двадцать пять; и снаружи глаза ещё две болезни — всего провозглашено семьдесят шесть.",
+        "text_en": "from blood sixteen should be known, from all the doshas together twenty-five; and outside the eye two more diseases; in all seventy-six are declared."
       },
       {
         "type": "verse",
@@ -84012,7 +84098,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णाभितप्तस्यजलप्रवेशाद् दूरेक्षणात्स्वप्नविपर्ययाच्च स्वेदाद्र जोधूमनिषेवणाच्च छर्देर्विघाताद्वमनातियोगात्",
         "iast": "uṣṇābhitaptasyajalapraveśād dūrekṣaṇātsvapnaviparyayācca svedādra jodhūmaniṣevaṇācca chardervighātādvamanātiyogāt",
         "iast_ru": "уш̣н̣а̄бхитаптасйаджалаправеш́а̄д дӯрекш̣ан̣а̄тсвапнавипарйайа̄чча сведа̄дра джодхӯманиш̣еван̣а̄чча чхардервигха̄та̄двамана̄тийога̄т",
-        "text": "От вхождения в воду, разогретого жаром, от смотрения в даль, от нарушения сна, от [чрезмерного] потения, от вдыхания пыли и дыма, от подавления рвоты и от чрезмерного применения рвотного,"
+        "text": "От вхождения в воду, разогретого жаром, от смотрения в даль, от нарушения сна, от [чрезмерного] потения, от вдыхания пыли и дыма, от подавления рвоты и от чрезмерного применения рвотного,",
+        "text_en": "From entering water when heated, from gazing at a distance, from disturbance of sleep, from (excessive) sweating, from inhaling dust and smoke, from suppression of vomiting and from excessive use of emetics,"
       },
       {
         "type": "verse",
@@ -84020,7 +84107,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुक्तारनालाम्बुकुलत्थमाषाद्विण्मूत्रवातागमनिग्रहाच्च प्रसक्तसंरोदनशोकतापाच्छिरोऽभिघातादतिशीघ्रयानात्",
         "iast": "śuktāranālāmbukulatthamāṣādviṇmūtravātāgamanigrahācca prasaktasaṃrodanaśokatāpācchiro'bhighātādatiśīghrayānāt",
         "iast_ru": "ш́укта̄рана̄ла̄мбукулаттхама̄ш̣а̄двин̣мӯтрава̄та̄гаманиграха̄чча прасактасам̣роданаш́оката̄па̄ччхиро'бхигха̄та̄датиш́ӣгхрайа̄на̄т",
-        "text": "от кислого напитка, воды, кулаттхи, урада, от подавления кала, мочи, ветра и огня (голода), от постоянного плача, горя и жара, от удара по голове, от чрезмерно быстрой езды,"
+        "text": "от кислого напитка, воды, кулаттхи, урада, от подавления кала, мочи, ветра и огня (голода), от постоянного плача, горя и жара, от удара по голове, от чрезмерно быстрой езды,",
+        "text_en": "from sour drinks, water, Kulattha, Masha, from suppression of feces, urine, flatus and the fire (hunger), from constant weeping, grief and fever, from a blow to the head, from riding too fast,"
       },
       {
         "type": "verse",
@@ -84028,7 +84116,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तथा ॠतूनाञ्च विपर्ययेण क्लेशाभितापादतिमैथुनाच्च बाष्पग्रहात्सूक्ष्मनिरीक्षणाच्च नेत्रे विकारं जनयति दोषाः",
         "iast": "tathā ṝtūnāñca viparyayeṇa kleśābhitāpādatimaithunācca bāṣpagrahātsūkṣmanirīkṣaṇācca netre vikāraṃ janayati doṣāḥ",
         "iast_ru": "татха̄ р̣̄тӯна̄н̃ча випарйайен̣а клеш́а̄бхита̄па̄датимаитхуна̄чча ба̄ш̣паграха̄тсӯкш̣манирӣкш̣ан̣а̄чча нетре вика̄рам̣ джанайати дош̣а̄х̣",
-        "text": "а также от нарушения [обычного хода] сезонов, от страдания и жара, от избыточных половых сношений, от сдерживания слёз и от чрезмерно тонкого рассматривания — доши вызывают расстройство в глазу."
+        "text": "а также от нарушения [обычного хода] сезонов, от страдания и жара, от избыточных половых сношений, от сдерживания слёз и от чрезмерно тонкого рассматривания — доши вызывают расстройство в глазу.",
+        "text_en": "and also from disturbance of the (usual course of the) seasons, from suffering and fever, from excessive sexual intercourse, from holding back tears and from excessively fine scrutiny, the doshas produce disorder in the eye."
       },
       {
         "type": "verse",
@@ -84036,7 +84125,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिराऽनुसारिभिर्दोषैर्विगुणैरूर्ध्वमाश्रितैः जायन्ते नेत्रभागेषु रोगाः परमदारुणाः",
         "iast": "śirā'nusāribhirdoṣairviguṇairūrdhvamāśritaiḥ jāyante netrabhāgeṣu rogāḥ paramadāruṇāḥ",
         "iast_ru": "ш́ира̄'нуса̄рибхирдош̣аирвигун̣аирӯрдхвама̄ш́ритаих̣ джа̄йанте нетрабха̄геш̣у рога̄х̣ парамада̄рун̣а̄х̣",
-        "text": "Дошами, следующими по сосудам, испорченными, направляющимися вверх, возникают в частях глаза весьма ужасные болезни."
+        "text": "Дошами, следующими по сосудам, испорченными, направляющимися вверх, возникают в частях глаза весьма ужасные болезни.",
+        "text_en": "By the doshas, vitiated and moving upward along the vessels, very terrible diseases arise in the parts of the eye."
       },
       {
         "type": "verse",
@@ -84044,7 +84134,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मसूरदलमात्रां तु पञ्चभूतप्रसादजाम् खद्योतविस्फुलिङ्गाभां सिद्धां तेजोभिरव्ययैः",
         "iast": "masūradalamātrāṃ tu pañcabhūtaprasādajām khadyotavisphuliṅgābhāṃ siddhāṃ tejobhiravyayaiḥ",
         "iast_ru": "масӯрадалама̄тра̄м̣ ту пан̃чабхӯтапраса̄даджа̄м кхадйотависпхулин̇га̄бха̄м̣ сиддха̄м̣ теджобхиравйайаих̣",
-        "text": "[Зрение] размером с чечевицу, порождённое благодатью пяти элементов, подобное светлячку и искре, совершенное неуничтожимыми сияниями [элементов],"
+        "text": "[Зрение] размером с чечевицу, порождённое благодатью пяти элементов, подобное светлячку и искре, совершенное неуничтожимыми сияниями [элементов],",
+        "text_en": "Vision, of the size of a lentil, produced by the grace of the five elements, resembling a firefly and a spark, perfected by the indestructible radiances (of the elements),"
       },
       {
         "type": "verse",
@@ -84052,7 +84143,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आवृतां पटलेनाक्ष्णोर्बाह्येन विवराकृतिम् शीतसात्म्यां नृणां दृष्टिमाहुर्नयनचिन्तकाः",
         "iast": "āvṛtāṃ paṭalenākṣṇorbāhyena vivarākṛtim śītasātmyāṃ nṛṇāṃ dṛṣṭimāhurnayanacintakāḥ",
         "iast_ru": "а̄вр̣та̄м̣ пат̣алена̄кш̣н̣орба̄хйена вивара̄кр̣тим ш́ӣтаса̄тмйа̄м̣ нр̣н̣а̄м̣ др̣ш̣т̣има̄хурнайаначинтака̄х̣",
-        "text": "покрытое снаружи глаз оболочкой, по форме подобное отверстию, холодное по природе для людей, — знатоки глаза называют это зрением (дришти)."
+        "text": "покрытое снаружи глаз оболочкой, по форме подобное отверстию, холодное по природе для людей, — знатоки глаза называют это зрением (дришти).",
+        "text_en": "covered on the outside by the coats of the eye, in form like an aperture, cold in nature in human beings: the experts on the eye call this vision (Drishti)."
       },
       {
         "type": "verse",
@@ -84060,7 +84152,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तेजोजलाश्रितं बाह्यं तेष्वन्यत्पिशिताश्रितम् मेदस्तृतीयं पटलमाश्रितं त्वस्थ्नि चापरम् पञ्चमांशसमं दृष्टेस्तेषां बाहुल्यमिष्यते",
         "iast": "tejojalāśritaṃ bāhyaṃ teṣvanyatpiśitāśritam medastṛtīyaṃ paṭalamāśritaṃ tvasthni cāparam pañcamāṃśasamaṃ dṛṣṭesteṣāṃ bāhulyamiṣyate",
         "iast_ru": "теджоджала̄ш́ритам̣ ба̄хйам̣ теш̣ванйатпиш́ита̄ш́ритам медастр̣тӣйам̣ пат̣алама̄ш́ритам̣ твастхни ча̄парам пан̃чама̄м̣ш́асамам̣ др̣ш̣т̣естеш̣а̄м̣ ба̄хулйамиш̣йате",
-        "text": "Внешняя [оболочка] обосновывается в огне и воде; следующая за ней — в мясе; третья оболочка обосновывается в жире, а следующая — в кости; каждая из них составляет пятую часть [толщины] зрения."
+        "text": "Внешняя [оболочка] обосновывается в огне и воде; следующая за ней — в мясе; третья оболочка обосновывается в жире, а следующая — в кости; каждая из них составляет пятую часть [толщины] зрения.",
+        "text_en": "The outer coat is established in fire and water; the next after it in flesh; the third coat is established in fat, and the next in bone; each of them makes up a fifth part (of the thickness) of vision."
       },
       {
         "type": "verse",
@@ -84068,7 +84161,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रथमे पटले यस्य दोषो दृष्टेर्व्यवस्थितः अव्यक्तानि स्वरूपाणि कदाचिदथ पश्यति",
         "iast": "prathame paṭale yasya doṣo dṛṣṭervyavasthitaḥ avyaktāni svarūpāṇi kadācidatha paśyati",
         "iast_ru": "пратхаме пат̣але йасйа дош̣о др̣ш̣т̣ервйавастхитах̣ авйакта̄ни сварӯпа̄н̣и када̄чидатха паш́йати",
-        "text": "У кого доша обосновалась в первой оболочке зрения, тот видит иногда неясные формы."
+        "text": "У кого доша обосновалась в первой оболочке зрения, тот видит иногда неясные формы.",
+        "text_en": "He in whom the dosha is lodged in the first coat of vision sometimes sees indistinct forms."
       },
       {
         "type": "verse",
@@ -84076,7 +84170,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्टिर्भृशं विह्वलति द्वितीयं पटले गते मक्षिकामशकान् केशाञ्चालकानीव पश्यति",
         "iast": "dṛṣṭirbhṛśaṃ vihvalati dvitīyaṃ paṭale gate makṣikāmaśakān keśāñcālakānīva paśyati",
         "iast_ru": "др̣ш̣т̣ирбхр̣ш́ам̣ вихвалати двитӣйам̣ пат̣але гате макш̣ика̄маш́ака̄н кеш́а̄н̃ча̄лака̄нӣва паш́йати",
-        "text": "Зрение сильно колеблется, когда доша проникла во вторую оболочку; видит мух, комаров, будто волосы и локоны,"
+        "text": "Зрение сильно колеблется, когда доша проникла во вторую оболочку; видит мух, комаров, будто волосы и локоны,",
+        "text_en": "Vision wavers greatly when the dosha has entered the second coat; he sees flies, mosquitoes, as if hairs and locks,"
       },
       {
         "type": "verse",
@@ -84084,7 +84179,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मण्डलानि पताकाश्च मरीचीन्कुण्डलानि च परिप्लवांश्च विविधान्वर्षमभ्रं तमांसि च",
         "iast": "maṇḍalāni patākāśca marīcīnkuṇḍalāni ca pariplavāṃśca vividhānvarṣamabhraṃ tamāṃsi ca",
         "iast_ru": "ман̣д̣ала̄ни пата̄ка̄ш́ча марӣчӣнкун̣д̣ала̄ни ча париплава̄м̣ш́ча вивидха̄нварш̣амабхрам̣ тама̄м̣си ча",
-        "text": "круги, флаги, лучи, кольца, различные плавающие [пятна], дождь, облако и тьму."
+        "text": "круги, флаги, лучи, кольца, различные плавающие [пятна], дождь, облако и тьму.",
+        "text_en": "circles, flags, rays, rings, various floating (spots), rain, cloud and darkness."
       },
       {
         "type": "verse",
@@ -84092,7 +84188,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दूरस्थानि च रूपाणि मन्यते च समीपतः समीपस्थानि दूरे च दृष्टेर्गोचरविभ्रमात्",
         "iast": "dūrasthāni ca rūpāṇi manyate ca samīpataḥ samīpasthāni dūre ca dṛṣṭergocaravibhramāt",
         "iast_ru": "дӯрастха̄ни ча рӯпа̄н̣и манйате ча самӣпатах̣ самӣпастха̄ни дӯре ча др̣ш̣т̣ергочаравибхрама̄т",
-        "text": "Отдалённые формы считает близкими, а близкие — отдалёнными, из-за расстройства зрительного поля."
+        "text": "Отдалённые формы считает близкими, а близкие — отдалёнными, из-за расстройства зрительного поля.",
+        "text_en": "He considers distant forms near and near ones distant, owing to the disorder of the visual field."
       },
       {
         "type": "verse",
@@ -84100,7 +84197,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यत्नवानपि चात्यर्थं सूचीच्छिद्रं न पश्यति",
         "iast": "yatnavānapi cātyarthaṃ sūcīcchidraṃ na paśyati",
         "iast_ru": "йатнава̄напи ча̄тйартхам̣ сӯчӣччхидрам̣ на паш́йати",
-        "text": "Даже старательно [всматриваясь], не видит игольного отверстия."
+        "text": "Даже старательно [всматриваясь], не видит игольного отверстия.",
+        "text_en": "Even looking carefully, he does not see the eye of a needle."
       },
       {
         "type": "verse",
@@ -84108,7 +84206,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ऊर्ध्वं पश्यति नाधस्तात्तृतीयं पटलं गते सुमहान्त्यपि रूपाणि च्छादितानीव चाम्बरैः",
         "iast": "ūrdhvaṃ paśyati nādhastāttṛtīyaṃ paṭalaṃ gate sumahāntyapi rūpāṇi cchāditānīva cāmbaraiḥ",
         "iast_ru": "ӯрдхвам̣ паш́йати на̄дхаста̄ттр̣тӣйам̣ пат̣алам̣ гате сумаха̄нтйапи рӯпа̄н̣и ччха̄дита̄нӣва ча̄мбараих̣",
-        "text": "Видит вверх, но не вниз, когда [доша] проникла в третью оболочку; даже весьма крупные формы [видит] как бы покрытые тканью."
+        "text": "Видит вверх, но не вниз, когда [доша] проникла в третью оболочку; даже весьма крупные формы [видит] как бы покрытые тканью.",
+        "text_en": "He sees upward but not downward when the dosha has entered the third coat; even very large forms (he sees) as if covered with cloth."
       },
       {
         "type": "verse",
@@ -84116,7 +84215,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णनासाऽक्षिरूपाणि विकृतानि च पश्यति यथादोषञ्च रज्येत दृष्टिर्दोषे बलीयसि",
         "iast": "karṇanāsā'kṣirūpāṇi vikṛtāni ca paśyati yathādoṣañca rajyeta dṛṣṭirdoṣe balīyasi",
         "iast_ru": "карн̣ана̄са̄'кш̣ирӯпа̄н̣и викр̣та̄ни ча паш́йати йатха̄дош̣ан̃ча раджйета др̣ш̣т̣ирдош̣е балӣйаси",
-        "text": "Видит уши, нос и глаза [людей] искажёнными; окраска зрения соответствует доше, когда доша сильнее."
+        "text": "Видит уши, нос и глаза [людей] искажёнными; окраска зрения соответствует доше, когда доша сильнее.",
+        "text_en": "He sees the ears, nose and eyes (of people) distorted; the coloring of vision corresponds to the dosha when the dosha is stronger."
       },
       {
         "type": "verse",
@@ -84124,7 +84224,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अधःस्थे तु समीपस्थं दूरस्थं चोपरिस्थिते पार्श्वस्थिते पुनर्दोषे पार्श्वस्थानि न पश्यति",
         "iast": "adhaḥsthe tu samīpasthaṃ dūrasthaṃ coparisthite pārśvasthite punardoṣe pārśvasthāni na paśyati",
         "iast_ru": "адхах̣стхе ту самӣпастхам̣ дӯрастхам̣ чопаристхите па̄рш́вастхите пунардош̣е па̄рш́вастха̄ни на паш́йати",
-        "text": "Когда [доша] расположена внизу — видит близкое [как] далёкое, а когда сверху — далёкое [как] близкое; когда доша расположена по бокам, не видит того, что расположено по бокам."
+        "text": "Когда [доша] расположена внизу — видит близкое [как] далёкое, а когда сверху — далёкое [как] близкое; когда доша расположена по бокам, не видит того, что расположено по бокам.",
+        "text_en": "When the dosha is located below, he sees the near as far, and when above, the far as near; when the dosha is located at the sides, he does not see what is located at the sides."
       },
       {
         "type": "verse",
@@ -84132,7 +84233,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "समन्ततः स्थिते दोषे संकुलानीव पश्यति दृष्टिमध्यस्थिते दोषे महद्ध्रस्वं च पश्यति",
         "iast": "samantataḥ sthite doṣe saṃkulānīva paśyati dṛṣṭimadhyasthite doṣe mahaddhrasvaṃ ca paśyati",
         "iast_ru": "самантатах̣ стхите дош̣е сам̣кула̄нӣва паш́йати др̣ш̣т̣имадхйастхите дош̣е махаддхрасвам̣ ча паш́йати",
-        "text": "Когда доша расположена повсюду, видит как бы спутанное; когда доша расположена в середине зрения, видит крупное [как] маленькое, и наоборот."
+        "text": "Когда доша расположена повсюду, видит как бы спутанное; когда доша расположена в середине зрения, видит крупное [как] маленькое, и наоборот.",
+        "text_en": "When the dosha is located everywhere, he sees as if confused; when the dosha is located in the middle of the vision, he sees the large as small, and vice versa."
       },
       {
         "type": "verse",
@@ -84140,7 +84242,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दोषे दृष्टिस्थिते तिर्यगेकं वा मन्यते द्विधा द्विधास्थिते द्विधा पश्येद्बहुधा चानवस्थिते",
         "iast": "doṣe dṛṣṭisthite tiryagekaṃ vā manyate dvidhā dvidhāsthite dvidhā paśyedbahudhā cānavasthite",
         "iast_ru": "дош̣е др̣ш̣т̣истхите тирйагекам̣ ва̄ манйате двидха̄ двидха̄стхите двидха̄ паш́йедбахудха̄ ча̄навастхите",
-        "text": "Когда доша находится в зрении наискось, воспринимает одно как двойное; когда расположена вдвойне, видит двойное, а когда неустойчиво расположена — видит многократно."
+        "text": "Когда доша находится в зрении наискось, воспринимает одно как двойное; когда расположена вдвойне, видит двойное, а когда неустойчиво расположена — видит многократно.",
+        "text_en": "When the dosha is in the vision obliquely, he perceives one as double; when located doubly, he sees double, and when unsteadily located, he sees many times over."
       },
       {
         "type": "verse",
@@ -84148,7 +84251,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिमिराख्यः स यो दोषश्चतुर्थं पटलं गतः रुणद्धि सर्वतो दृष्टिं लिङ्गनाश इति क्वचित्",
         "iast": "timirākhyaḥ sa yo doṣaścaturthaṃ paṭalaṃ gataḥ ruṇaddhi sarvato dṛṣṭiṃ liṅganāśa iti kvacit",
         "iast_ru": "тимира̄кхйах̣ са йо дош̣аш́чатуртхам̣ пат̣алам̣ гатах̣ рун̣аддхи сарвато др̣ш̣т̣им̣ лин̇гана̄ш́а ити квачит",
-        "text": "Эта доша, называемая «тимира», проникшая в четвёртую оболочку, закрывает зрение полностью — это иногда называется «линга-наша» (потеря признака)."
+        "text": "Эта доша, называемая «тимира», проникшая в четвёртую оболочку, закрывает зрение полностью — это иногда называется «линга-наша» (потеря признака).",
+        "text_en": "This dosha, called Timira, having entered the fourth coat, covers vision completely; this is sometimes called Linganasha (loss of the sign)."
       },
       {
         "type": "verse",
@@ -84156,7 +84260,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अस्मिन्नपि तमोभूते नातिरूढे महागदे चन्द्रा दित्यौ सनक्षत्रावन्तरिक्षे च विद्युतः",
         "iast": "asminnapi tamobhūte nātirūḍhe mahāgade candrā dityau sanakṣatrāvantarikṣe ca vidyutaḥ",
         "iast_ru": "асминнапи тамобхӯте на̄тирӯд̣хе маха̄гаде чандра̄ дитйау санакш̣атра̄вантарикш̣е ча видйутах̣",
-        "text": "Даже когда эта тьма ещё не сильно разрослась в этой великой болезни, [больной] видит луну и солнце со звёздами в пространстве, молнии,"
+        "text": "Даже когда эта тьма ещё не сильно разрослась в этой великой болезни, [больной] видит луну и солнце со звёздами в пространстве, молнии,",
+        "text_en": "Even when this darkness has not yet greatly grown in this great disease, the patient sees the moon and the sun with stars in space, lightning,"
       },
       {
         "type": "verse",
@@ -84164,7 +84269,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निर्मलानि च तेजांसि भ्राजिष्णूनीव पश्यति स एव लिङ्गनाशस्तु नीलिकाकाचसंज्ञितः",
         "iast": "nirmalāni ca tejāṃsi bhrājiṣṇūnīva paśyati sa eva liṅganāśastu nīlikākācasaṃjñitaḥ",
         "iast_ru": "нирмала̄ни ча теджа̄м̣си бхра̄джиш̣н̣ӯнӣва паш́йати са ева лин̇гана̄ш́асту нӣлика̄ка̄часам̣джн̃итах̣",
-        "text": "чистые, как бы сияющие огни; эта же [форма] «линга-наши» называется «нилика-каача»."
+        "text": "чистые, как бы сияющие огни; эта же [форма] «линга-наши» называется «нилика-каача».",
+        "text_en": "pure, as if shining fires; this same form of Linganasha is called Nilika-kacha."
       },
       {
         "type": "verse",
@@ -84172,7 +84278,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्ट्याश्रयाः षट् च षडेव रोगाः षड् लिङ्गनाशा हि भवन्ति तत्र वातेन पित्तेन कफेन सर्वे रक्तात्परिम्लाय्यभिधश्च षष्ठः",
         "iast": "dṛṣṭyāśrayāḥ ṣaṭ ca ṣaḍeva rogāḥ ṣaḍ liṅganāśā hi bhavanti tatra vātena pittena kaphena sarve raktātparimlāyyabhidhaśca ṣaṣṭhaḥ",
         "iast_ru": "др̣ш̣т̣йа̄ш́райа̄х̣ ш̣ат̣ ча ш̣ад̣ева рога̄х̣ ш̣ад̣ лин̇гана̄ш́а̄ хи бхаванти татра ва̄тена питтена капхена сарве ракта̄тпаримла̄ййабхидхаш́ча ш̣аш̣т̣хах̣",
-        "text": "Опирающихся на зрение — шесть, и болезней тоже шесть; «линга-наша» бывает шести видов: от ватхи, питты, капхи, всех [трёх] вместе, от крови — [называемая] «парималяя», и шестая —"
+        "text": "Опирающихся на зрение — шесть, и болезней тоже шесть; «линга-наша» бывает шести видов: от ватхи, питты, капхи, всех [трёх] вместе, от крови — [называемая] «парималяя», и шестая —",
+        "text_en": "Those relying on vision are six, and the diseases too are six; Linganasha is of six kinds: from Vata, Pitta, Kapha, all (three) together, from blood, called Parimlayi, and the sixth,"
       },
       {
         "type": "verse",
@@ -84180,7 +84287,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तथा नरः पित्तविदग्धदृष्टिः कफेन वाऽन्यस्त्वथ धूमदर्शी यो ह्रस्वजात्यो नकुलान्ध्यसंज्ञो गम्भीरसंज्ञश्च तथैव दृष्टिः",
         "iast": "tathā naraḥ pittavidagdhadṛṣṭiḥ kaphena vā'nyastvatha dhūmadarśī yo hrasvajātyo nakulāndhyasaṃjño gambhīrasaṃjñaśca tathaiva dṛṣṭiḥ",
         "iast_ru": "татха̄ нарах̣ питтавидагдхадр̣ш̣т̣их̣ капхена ва̄'нйастватха дхӯмадарш́ӣ йо храсваджа̄тйо накула̄ндхйасам̣джн̃о гамбхӣрасам̣джн̃аш́ча татхаива др̣ш̣т̣их̣",
-        "text": "когда человек с испорченным питтой зрением [видит одно], а другой — с [испорченным] капхой; ещё один видит [как бы] дым, называемый «низкого рождения»; «слепота на мангуста» и «глубоко называемая» — таковы также [виды] зрения."
+        "text": "когда человек с испорченным питтой зрением [видит одно], а другой — с [испорченным] капхой; ещё один видит [как бы] дым, называемый «низкого рождения»; «слепота на мангуста» и «глубоко называемая» — таковы также [виды] зрения.",
+        "text_en": "when a person with vision spoiled by Pitta (sees one thing), and another with (vision spoiled by) Kapha; yet another sees as if smoke, called \"of low birth\"; \"mongoose blindness\" and \"deeply called\" are also such (kinds of) vision."
       },
       {
         "type": "verse",
@@ -84188,7 +84296,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातेन खलु रूपाणि भ्रमन्तीव च पश्यति आविलान्यरुणाभानि व्याविद्धानीव मानवः",
         "iast": "vātena khalu rūpāṇi bhramantīva ca paśyati āvilānyaruṇābhāni vyāviddhānīva mānavaḥ",
         "iast_ru": "ва̄тена кхалу рӯпа̄н̣и бхрамантӣва ча паш́йати а̄вила̄нйарун̣а̄бха̄ни вйа̄виддха̄нӣва ма̄навах̣",
-        "text": "От ватхи человек видит формы как бы кружащимися, мутными, красноватыми, как бы разбросанными."
+        "text": "От ватхи человек видит формы как бы кружащимися, мутными, красноватыми, как бы разбросанными.",
+        "text_en": "From Vata a person sees forms as if whirling, turbid, reddish, as if scattered."
       },
       {
         "type": "verse",
@@ -84196,7 +84305,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तेनादित्यखद्योत शक्रचापतडिद्गुणान् नृत्यतश्चैव शिखिनः सर्वं नीलञ्च पश्यति",
         "iast": "pittenādityakhadyota śakracāpataḍidguṇān nṛtyataścaiva śikhinaḥ sarvaṃ nīlañca paśyati",
         "iast_ru": "питтена̄дитйакхадйота ш́акрача̄патад̣идгун̣а̄н нр̣тйаташ́чаива ш́икхинах̣ сарвам̣ нӣлан̃ча паш́йати",
-        "text": "От питты видит [образы, подобные] солнцу, светлячку, радуге Индры, молнии, качества танцующего павлина, и всё синим."
+        "text": "От питты видит [образы, подобные] солнцу, светлячку, радуге Индры, молнии, качества танцующего павлина, и всё синим.",
+        "text_en": "From Pitta he sees (images like) the sun, firefly, Indra's rainbow, lightning, the qualities of a dancing peacock, and everything blue."
       },
       {
         "type": "verse",
@@ -84204,7 +84314,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गौरचामरगौराणि श्वेताभ्रप्रतिमानिच पश्येदसूक्ष्माण्यत्यर्थं व्यभ्रे चैवाभ्रसंप्लवम्",
         "iast": "gauracāmaragaurāṇi śvetābhrapratimānica paśyedasūkṣmāṇyatyarthaṃ vyabhre caivābhrasaṃplavam",
         "iast_ru": "гаурача̄марагаура̄н̣и ш́вета̄бхрапратима̄нича паш́йедасӯкш̣ма̄н̣йатйартхам̣ вйабхре чаива̄бхрасам̣плавам",
-        "text": "Видит белого яка и белого камыша, подобные белым облакам, весьма нечёткие, а на безоблачном небе — как бы скопление облаков."
+        "text": "Видит белого яка и белого камыша, подобные белым облакам, весьма нечёткие, а на безоблачном небе — как бы скопление облаков.",
+        "text_en": "He sees a white yak and white reed, like white clouds, very indistinct, and in a cloudless sky as if a mass of clouds."
       },
       {
         "type": "verse",
@@ -84212,7 +84323,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफेन पश्येद्रू पाणि स्निग्धानि च सितानि च सलिलप्लावितानीव जालकानीव मानवः",
         "iast": "kaphena paśyedrū pāṇi snigdhāni ca sitāni ca salilaplāvitānīva jālakānīva mānavaḥ",
         "iast_ru": "капхена паш́йедрӯ па̄н̣и снигдха̄ни ча сита̄ни ча салилапла̄вита̄нӣва джа̄лака̄нӣва ма̄навах̣",
-        "text": "От капхи видит формы маслянистые и белые, как бы залитые водой, как бы сетчатые."
+        "text": "От капхи видит формы маслянистые и белые, как бы залитые водой, как бы сетчатые.",
+        "text_en": "From Kapha he sees forms oily and white, as if flooded with water, as if netted."
       },
       {
         "type": "verse",
@@ -84220,7 +84332,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सन्निपातेन चित्राणि विप्लुतानि च पश्यति बहुधाऽपि द्विधा वाऽपि सर्वाण्येव समन्ततः हीनाधिकाङ्गान्यथ वा ज्योतींष्यपि च पश्यति",
         "iast": "sannipātena citrāṇi viplutāni ca paśyati bahudhā'pi dvidhā vā'pi sarvāṇyeva samantataḥ hīnādhikāṅgānyatha vā jyotīṃṣyapi ca paśyati",
         "iast_ru": "саннипа̄тена читра̄н̣и виплута̄ни ча паш́йати бахудха̄'пи двидха̄ ва̄'пи сарва̄н̣йева самантатах̣ хӣна̄дхика̄н̇га̄нйатха ва̄ джйотӣм̣ш̣йапи ча паш́йати",
-        "text": "От всех трёх дош видит разноцветное и спутанное, многократно или двойственно, всё повсюду, уменьшенное или увеличенное, а также светящиеся [точки]."
+        "text": "От всех трёх дош видит разноцветное и спутанное, многократно или двойственно, всё повсюду, уменьшенное или увеличенное, а также светящиеся [точки].",
+        "text_en": "From all three doshas he sees the multicolored and confused, many times or doubly, everything everywhere, diminished or enlarged, and also luminous (points)."
       },
       {
         "type": "verse",
@@ -84228,7 +84341,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पश्ये द्र क्तेनरक्तानि तमांसि विविधानि च हरितान्यथ कृष्णानि पीतान्यपि च मानवः",
         "iast": "paśye dra ktenaraktāni tamāṃsi vividhāni ca haritānyatha kṛṣṇāni pītānyapi ca mānavaḥ",
         "iast_ru": "паш́йе дра ктенаракта̄ни тама̄м̣си вивидха̄ни ча харита̄нйатха кр̣ш̣н̣а̄ни пӣта̄нйапи ча ма̄навах̣",
-        "text": "От крови человек видит красное, различные виды тьмы, зелёное, чёрное, а также жёлтое."
+        "text": "От крови человек видит красное, различные виды тьмы, зелёное, чёрное, а также жёлтое.",
+        "text_en": "From blood a person sees red, various kinds of darkness, green, black, and also yellow."
       },
       {
         "type": "verse",
@@ -84236,7 +84350,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तेन मूर्च्छितं पित्तंपरिम्लायिनमाचरेत्",
         "iast": "raktena mūrcchitaṃ pittaṃparimlāyinamācaret",
         "iast_ru": "рактена мӯрччхитам̣ питтам̣паримла̄йинама̄чарет",
-        "text": "От крови следует лечить помрачённую питту, [называемую] «парималяин»."
+        "text": "От крови следует лечить помрачённую питту, [называемую] «парималяин».",
+        "text_en": "From blood the vitiated Pitta, called Parimlayin, should be treated."
       },
       {
         "type": "verse",
@@ -84244,7 +84359,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तेन पीता दिशः पश्येदुद्यन्तमिव भास्करम् विकीर्यमाणान्खद्योतैर्वृक्षांस्तेजोभिरेव हि",
         "iast": "tena pītā diśaḥ paśyedudyantamiva bhāskaram vikīryamāṇānkhadyotairvṛkṣāṃstejobhireva hi",
         "iast_ru": "тена пӣта̄ диш́ах̣ паш́йедудйантамива бха̄скарам викӣрйама̄н̣а̄нкхадйотаирвр̣кш̣а̄м̣стеджобхирева хи",
-        "text": "[Больной], поражённый ею, видит стороны света жёлтыми, как будто восходящее солнце, и деревья, рассыпающиеся [искрами], подобными светлячкам, лишь свечением."
+        "text": "[Больной], поражённый ею, видит стороны света жёлтыми, как будто восходящее солнце, и деревья, рассыпающиеся [искрами], подобными светлячкам, лишь свечением.",
+        "text_en": "The patient affected by it sees the directions as yellow, as if with the rising sun, and trees scattering (sparks) like fireflies, merely a glow."
       },
       {
         "type": "verse",
@@ -84252,7 +84368,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातादिजनितैर्नेत्रवर्णैरपि च षड्विधः लिङ्गनाशो निगदितो वर्णो वातादिजो यथा",
         "iast": "vātādijanitairnetravarṇairapi ca ṣaḍvidhaḥ liṅganāśo nigadito varṇo vātādijo yathā",
         "iast_ru": "ва̄та̄диджанитаирнетраварн̣аирапи ча ш̣ад̣видхах̣ лин̇гана̄ш́о нигадито варн̣о ва̄та̄диджо йатха̄",
-        "text": "Также по цветам глаз, порождённым от ватхи и других [дош], провозглашена «линга-наша» шести видов; цвет [зрения], рождённый от ватхи, и подобные, [распознаются так]:"
+        "text": "Также по цветам глаз, порождённым от ватхи и других [дош], провозглашена «линга-наша» шести видов; цвет [зрения], рождённый от ватхи, и подобные, [распознаются так]:",
+        "text_en": "Also by the colors of the eyes produced by Vata and the other (doshas), Linganasha of six kinds is declared; the color (of vision) born of Vata and the like (is recognized thus):"
       },
       {
         "type": "verse",
@@ -84260,7 +84377,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रागोऽरुणो मारुतजः प्रदिष्टो म्लायी च नीलश्च तथैव पित्तात् कफात्सितः शोणितजः सरक्तः समस्तदोषप्रभवो विचित्रः",
         "iast": "rāgo'ruṇo mārutajaḥ pradiṣṭo mlāyī ca nīlaśca tathaiva pittāt kaphātsitaḥ śoṇitajaḥ saraktaḥ samastadoṣaprabhavo vicitraḥ",
         "iast_ru": "ра̄го'рун̣о ма̄рутаджах̣ прадиш̣т̣о мла̄йӣ ча нӣлаш́ча татхаива питта̄т капха̄тситах̣ ш́он̣итаджах̣ сарактах̣ самастадош̣апрабхаво вичитрах̣",
-        "text": "покраснение, красноватость, вызванное ватхой, провозглашено, а также тускловатость и синева — тоже; от питты — [то же]; от капхи — белое; кровяное — с примесью крови; от всех дош вместе — многообразное."
+        "text": "покраснение, красноватость, вызванное ватхой, провозглашено, а также тускловатость и синева — тоже; от питты — [то же]; от капхи — белое; кровяное — с примесью крови; от всех дош вместе — многообразное.",
+        "text_en": "redness, reddishness caused by Vata is declared, and also dullness and blueness; likewise from Pitta; from Kapha, white; the blood type, mixed with blood; from all doshas together, manifold."
       },
       {
         "type": "verse",
@@ -84268,7 +84386,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अरुणं मण्डलं वाताच्चञ्चलं परुषं तथा पित्ततो मण्डलं नीलं कांस्याभं वा सपीतकम्",
         "iast": "aruṇaṃ maṇḍalaṃ vātāccañcalaṃ paruṣaṃ tathā pittato maṇḍalaṃ nīlaṃ kāṃsyābhaṃ vā sapītakam",
         "iast_ru": "арун̣ам̣ ман̣д̣алам̣ ва̄та̄ччан̃чалам̣ паруш̣ам̣ татха̄ питтато ман̣д̣алам̣ нӣлам̣ ка̄м̣сйа̄бхам̣ ва̄ сапӣтакам",
-        "text": "Красноватый круг, подвижный и грубый — от ватхи; от питты круг синий или бронзового цвета, или желтоватый."
+        "text": "Красноватый круг, подвижный и грубый — от ватхи; от питты круг синий или бронзового цвета, или желтоватый.",
+        "text_en": "A reddish circle, mobile and rough, is from Vata; from Pitta the circle is blue or bronze-colored, or yellowish."
       },
       {
         "type": "verse",
@@ -84276,7 +84395,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्लेष्मणा बहलं स्निग्धं शङ्खकुन्देन्दुपाण्डुरम्",
         "iast": "śleṣmaṇā bahalaṃ snigdhaṃ śaṅkhakundendupāṇḍuram",
         "iast_ru": "ш́леш̣ман̣а̄ бахалам̣ снигдхам̣ ш́ан̇кхакундендупа̄н̣д̣урам",
-        "text": "От капхи — обильный, маслянистый, бледный, как раковина, жасмин или луна."
+        "text": "От капхи — обильный, маслянистый, бледный, как раковина, жасмин или луна.",
+        "text_en": "From Kapha, copious, oily, pale like a conch shell, jasmine or the moon."
       },
       {
         "type": "verse",
@@ -84284,7 +84404,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चलत्पद्मपलाशस्थः शुक्लो बिन्दुरिवाम्भसः मृद्यमाने तु नयने मण्डलं तद्विसर्पति",
         "iast": "calatpadmapalāśasthaḥ śuklo bindurivāmbhasaḥ mṛdyamāne tu nayane maṇḍalaṃ tadvisarpati",
         "iast_ru": "чалатпадмапала̄ш́астхах̣ ш́укло биндурива̄мбхасах̣ мр̣дйама̄не ту найане ман̣д̣алам̣ тадвисарпати",
-        "text": "Подвижная, подобная лепестку колышущегося лотоса, белая точка, подобная капле воды; при надавливании на глаз этот круг расширяется."
+        "text": "Подвижная, подобная лепестку колышущегося лотоса, белая точка, подобная капле воды; при надавливании на глаз этот круг расширяется.",
+        "text_en": "A mobile white spot, like the petal of a swaying lotus, like a drop of water; when the eye is pressed, this circle widens."
       },
       {
         "type": "verse",
@@ -84292,7 +84413,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मण्डलं तु भवेच्चित्रं लिङ्गनाशे त्रिदोषजे प्रवालपद्मपत्राभं मण्डलं शोणितात्मकम्",
         "iast": "maṇḍalaṃ tu bhaveccitraṃ liṅganāśe tridoṣaje pravālapadmapatrābhaṃ maṇḍalaṃ śoṇitātmakam",
         "iast_ru": "ман̣д̣алам̣ ту бхавеччитрам̣ лин̇гана̄ш́е тридош̣адже права̄лападмапатра̄бхам̣ ман̣д̣алам̣ ш́он̣ита̄тмакам",
-        "text": "Круг бывает разноцветным при «линга-наше» от всех трёх дош; круг, подобный побегу коралла или лотосовому лепестку, — кровяного характера."
+        "text": "Круг бывает разноцветным при «линга-наше» от всех трёх дош; круг, подобный побегу коралла или лотосовому лепестку, — кровяного характера.",
+        "text_en": "The circle is multicolored in Linganasha from all three doshas; the circle like a coral sprout or a lotus petal is of the nature of blood."
       },
       {
         "type": "verse",
@@ -84300,7 +84422,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तजं मण्डलं दृष्टौ स्थूलकाचारुणप्रभम् परिम्लायिनि रोगे स्यान्म्लानं नीलमथापि वा दोषक्षयात्स्वयं तत्र कदाचित्स्यात्तु दर्शनम्",
         "iast": "raktajaṃ maṇḍalaṃ dṛṣṭau sthūlakācāruṇaprabham parimlāyini roge syānmlānaṃ nīlamathāpi vā doṣakṣayātsvayaṃ tatra kadācitsyāttu darśanam",
         "iast_ru": "рактаджам̣ ман̣д̣алам̣ др̣ш̣т̣ау стхӯлака̄ча̄рун̣апрабхам паримла̄йини роге сйа̄нмла̄нам̣ нӣламатха̄пи ва̄ дош̣акш̣айа̄тсвайам̣ татра када̄читсйа̄тту дарш́анам",
-        "text": "Кровяной круг в зрении блестит, подобно грубому стеклу, красновато; при болезни «парималяин» бывает тусклым, а также синеватым; там иногда самопроизвольно наступает видение от истощения дош."
+        "text": "Кровяной круг в зрении блестит, подобно грубому стеклу, красновато; при болезни «парималяин» бывает тусклым, а также синеватым; там иногда самопроизвольно наступает видение от истощения дош.",
+        "text_en": "The blood circle in the vision glitters like coarse glass, reddish; in the disease Parimlayin it is dull, and also bluish; there sometimes vision arises spontaneously from exhaustion of the doshas."
       },
       {
         "type": "verse",
@@ -84308,7 +84431,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यथास्वं दोषलिङ्गानि सर्वेष्वेव भवन्ति हि",
         "iast": "yathāsvaṃ doṣaliṅgāni sarveṣveva bhavanti hi",
         "iast_ru": "йатха̄свам̣ дош̣алин̇га̄ни сарвеш̣вева бхаванти хи",
-        "text": "Соответствующие признаки дош проявляются во всех [этих формах]."
+        "text": "Соответствующие признаки дош проявляются во всех [этих формах].",
+        "text_en": "The corresponding signs of the doshas are manifested in all (these forms)."
       },
       {
         "type": "verse",
@@ -84316,7 +84440,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तेन दुष्टेन गतेन दृष्टिं पीता भवेद्यस्य नरस्य दृष्टिः पीतानि रूपाणि च तेन पश्येत्स वै नरः पित्तविदग्धदृष्टिः",
         "iast": "pittena duṣṭena gatena dṛṣṭiṃ pītā bhavedyasya narasya dṛṣṭiḥ pītāni rūpāṇi ca tena paśyetsa vai naraḥ pittavidagdhadṛṣṭiḥ",
         "iast_ru": "питтена душ̣т̣ена гатена др̣ш̣т̣им̣ пӣта̄ бхаведйасйа нарасйа др̣ш̣т̣их̣ пӣта̄ни рӯпа̄н̣и ча тена паш́йетса ваи нарах̣ питтавидагдхадр̣ш̣т̣их̣",
-        "text": "У кого испорченная питта, прошедшая [к зрению], делает зрение жёлтым, тот человек видит жёлтые формы; он — «питта-видагдха-дришти» (с обожжённым питтой зрением)."
+        "text": "У кого испорченная питта, прошедшая [к зрению], делает зрение жёлтым, тот человек видит жёлтые формы; он — «питта-видагдха-дришти» (с обожжённым питтой зрением).",
+        "text_en": "He in whom vitiated Pitta, having reached the vision, makes the vision yellow, that person sees yellow forms; he is Pitta-vidagdha-drishti (with vision burnt by Pitta)."
       },
       {
         "type": "verse",
@@ -84324,7 +84449,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्राप्ते तृतीयं पटलं तु दोषे दिवा न पश्येन्निशि वीक्षते सः रात्रौ स शीतानुगृहीतदृष्टिः पित्ताल्पभावात्सकलानि पश्येत्",
         "iast": "prāpte tṛtīyaṃ paṭalaṃ tu doṣe divā na paśyenniśi vīkṣate saḥ rātrau sa śītānugṛhītadṛṣṭiḥ pittālpabhāvātsakalāni paśyet",
         "iast_ru": "пра̄пте тр̣тӣйам̣ пат̣алам̣ ту дош̣е дива̄ на паш́йенниш́и вӣкш̣ате сах̣ ра̄трау са ш́ӣта̄нугр̣хӣтадр̣ш̣т̣их̣ питта̄лпабха̄ва̄тсакала̄ни паш́йет",
-        "text": "Когда доша достигла третьей оболочки, [такой человек] не видит днём, [но] видит ночью; ночью его зрение, поддержанное холодом, из-за малости питты видит всё."
+        "text": "Когда доша достигла третьей оболочки, [такой человек] не видит днём, [но] видит ночью; ночью его зрение, поддержанное холодом, из-за малости питты видит всё.",
+        "text_en": "When the dosha has reached the third coat, (such a person) does not see by day, (but) sees at night; at night his vision, supported by cold, because of the small amount of Pitta, sees everything."
       },
       {
         "type": "verse",
@@ -84332,7 +84458,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तथा नरः श्लेष्मविदग्धदृष्टिस्तान्येव शुक्लानि हि मन्यते तु त्रिषु स्थितोऽल्प पटलेषु दोषो नक्तान्ध्यमापादयति प्रसह्य दिवा स सूर्यानुगृहीतदृष्टिः पश्येत्तु रूपाणि कफाल्पभावात्",
         "iast": "tathā naraḥ śleṣmavidagdhadṛṣṭistānyeva śuklāni hi manyate tu triṣu sthito'lpa paṭaleṣu doṣo naktāndhyamāpādayati prasahya divā sa sūryānugṛhītadṛṣṭiḥ paśyettu rūpāṇi kaphālpabhāvāt",
         "iast_ru": "татха̄ нарах̣ ш́леш̣мавидагдхадр̣ш̣т̣иста̄нйева ш́укла̄ни хи манйате ту триш̣у стхито'лпа пат̣алеш̣у дош̣о накта̄ндхйама̄па̄дайати прасахйа дива̄ са сӯрйа̄нугр̣хӣтадр̣ш̣т̣их̣ паш́йетту рӯпа̄н̣и капха̄лпабха̄ва̄т",
-        "text": "Также человек с «капха-видагдха-дришти» (зрением, обожжённым капхой) считает те же [формы] белыми; доша, расположенная в трёх малых оболочках, вызывает куриную слепоту (никталопию); днём же, насильственно поддержанное солнцем, его зрение из-за малости капхи видит формы."
+        "text": "Также человек с «капха-видагдха-дришти» (зрением, обожжённым капхой) считает те же [формы] белыми; доша, расположенная в трёх малых оболочках, вызывает куриную слепоту (никталопию); днём же, насильственно поддержанное солнцем, его зрение из-за малости капхи видит формы.",
+        "text_en": "Likewise a person with Kapha-vidagdha-drishti (vision burnt by Kapha) considers the same (forms) white; the dosha located in the three small coats causes night blindness (nyctalopia); by day, however, his vision, forcibly supported by the sun, because of the small amount of Kapha, sees forms."
       },
       {
         "type": "verse",
@@ -84340,7 +84467,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोकज्वरायासशिरोऽभितापैरभ्याहता यस्य नरस्य दृष्टिः धूमांस्तु यःपश्यति सर्वभावात्स धूमदर्शीति नरः प्रदिष्टः",
         "iast": "śokajvarāyāsaśiro'bhitāpairabhyāhatā yasya narasya dṛṣṭiḥ dhūmāṃstu yaḥpaśyati sarvabhāvātsa dhūmadarśīti naraḥ pradiṣṭaḥ",
         "iast_ru": "ш́окаджвара̄йа̄саш́иро'бхита̄паирабхйа̄хата̄ йасйа нарасйа др̣ш̣т̣их̣ дхӯма̄м̣сту йах̣паш́йати сарвабха̄ва̄тса дхӯмадарш́ӣти нарах̣ прадиш̣т̣ах̣",
-        "text": "У кого зрение, поражённое горем, лихорадкой, переутомлением и жаром головы, видит дым во всех проявлениях, — тот человек называется «дхума-дарши» (видящий дым)."
+        "text": "У кого зрение, поражённое горем, лихорадкой, переутомлением и жаром головы, видит дым во всех проявлениях, — тот человек называется «дхума-дарши» (видящий дым).",
+        "text_en": "He whose vision, afflicted by grief, fever, overexertion and heat of the head, sees smoke in all manifestations is called Dhuma-darshi (seeing smoke)."
       },
       {
         "type": "verse",
@@ -84348,7 +84476,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यो वासरे पश्यति कष्टतोऽथ रूपं महच्चापि निरीक्षतेऽल्पम् रात्रौ पुनर्यः प्रकृतानि पश्येत्स ह्रस्वजात्यो मुनिभिः प्रदिष्टः",
         "iast": "yo vāsare paśyati kaṣṭato'tha rūpaṃ mahaccāpi nirīkṣate'lpam rātrau punaryaḥ prakṛtāni paśyetsa hrasvajātyo munibhiḥ pradiṣṭaḥ",
         "iast_ru": "йо ва̄саре паш́йати каш̣т̣ато'тха рӯпам̣ махачча̄пи нирӣкш̣ате'лпам ра̄трау пунарйах̣ пракр̣та̄ни паш́йетса храсваджа̄тйо мунибхих̣ прадиш̣т̣ах̣",
-        "text": "Кто с трудом видит [форму] днём, а также воспринимает крупное как малое, а ночью видит формы обычными, — того мудрецы называют «храсваджати» (низкорождённым)."
+        "text": "Кто с трудом видит [форму] днём, а также воспринимает крупное как малое, а ночью видит формы обычными, — того мудрецы называют «храсваджати» (низкорождённым).",
+        "text_en": "He who sees (a form) with difficulty by day, and also perceives the large as small, and at night sees forms as usual, is called by the sages Hrasvajati (of low birth)."
       },
       {
         "type": "verse",
@@ -84356,7 +84485,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विद्योतते यस्य नरस्य दृष्टिर्दोषाभिपन्ना नकुलस्य यद्वत् चित्राणि रूपाणि दिवा च पश्येत्स वै विकारो नकुलान्ध्यसंज्ञः",
         "iast": "vidyotate yasya narasya dṛṣṭirdoṣābhipannā nakulasya yadvat citrāṇi rūpāṇi divā ca paśyetsa vai vikāro nakulāndhyasaṃjñaḥ",
         "iast_ru": "видйотате йасйа нарасйа др̣ш̣т̣ирдош̣а̄бхипанна̄ накуласйа йадват читра̄н̣и рӯпа̄н̣и дива̄ ча паш́йетса ваи вика̄ро накула̄ндхйасам̣джн̃ах̣",
-        "text": "У кого зрение, охваченное дошей, мерцает, как у мангуста, [кто] видит разноцветные формы днём, — тот именуется расстройством «накуландхья-самджна» (слепота на мангуста)."
+        "text": "У кого зрение, охваченное дошей, мерцает, как у мангуста, [кто] видит разноцветные формы днём, — тот именуется расстройством «накуландхья-самджна» (слепота на мангуста).",
+        "text_en": "He whose vision, seized by the dosha, flickers like that of a mongoose, (who) sees multicolored forms by day, is named as having the disorder Nakulandhya (mongoose blindness)."
       },
       {
         "type": "verse",
@@ -84364,7 +84494,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्टिर्विरूपा श्वसनोपसृष्टा सङ्कोचमभ्यन्तरतः प्रयाति रुजाऽवगाढा च तमक्षिरोगे गम्भीरिकेति प्रवदन्ति धीराः",
         "iast": "dṛṣṭirvirūpā śvasanopasṛṣṭā saṅkocamabhyantarataḥ prayāti rujā'vagāḍhā ca tamakṣiroge gambhīriketi pravadanti dhīrāḥ",
         "iast_ru": "др̣ш̣т̣ирвирӯпа̄ ш́васанопаср̣ш̣т̣а̄ сан̇кочамабхйантаратах̣ прайа̄ти руджа̄'вага̄д̣ха̄ ча тамакш̣ироге гамбхӣрикети праваданти дхӣра̄х̣",
-        "text": "Зрение искажённое, охваченное дыханием (ватхой), сжимающееся внутрь, погружённое в боль, — эту глазную болезнь смелые называют «гамбхирика» (глубокая)."
+        "text": "Зрение искажённое, охваченное дыханием (ватхой), сжимающееся внутрь, погружённое в боль, — эту глазную болезнь смелые называют «гамбхирика» (глубокая).",
+        "text_en": "Vision distorted, seized by the breath (Vata), contracting inward, sunk in pain: this eye disease the bold call Gambhirika (deep)."
       },
       {
         "type": "verse",
@@ -84372,7 +84503,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बाह्यौ पुनर्द्वाविह सम्प्रदिष्टौ निमित्ततश्चाप्यनिमित्ततश्च निमित्ततस्तत्र शिरोऽभितापाज्ज्ञेयस्त्वभिष्यन्दनिदर्शनैः सः",
         "iast": "bāhyau punardvāviha sampradiṣṭau nimittataścāpyanimittataśca nimittatastatra śiro'bhitāpājjñeyastvabhiṣyandanidarśanaiḥ saḥ",
         "iast_ru": "ба̄хйау пунардва̄виха сампрадиш̣т̣ау нимиттаташ́ча̄пйанимиттаташ́ча нимиттатастатра ш́иро'бхита̄па̄джджн̃ейаствабхиш̣йанданидарш́анаих̣ сах̣",
-        "text": "Теперь провозглашены две внешние [формы] — с [видимой] причиной и без причины; с причиной — [возникшая] от жара головы, следует знать по признакам «абхишьянды» (истечения)."
+        "text": "Теперь провозглашены две внешние [формы] — с [видимой] причиной и без причины; с причиной — [возникшая] от жара головы, следует знать по признакам «абхишьянды» (истечения).",
+        "text_en": "Now two external (forms) are declared, with cause and without cause; the one with cause, (arising) from heat of the head, should be known by the signs of Abhishyanda (ocular discharge)."
       },
       {
         "type": "verse",
@@ -84380,7 +84512,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुरर्षिगन्धर्वमहोरगाणां सन्दर्शनेनापि च भास्करस्य हन्येत दृष्टिर्मनुजस्य यस्य स लिङ्गनाशस्त्वनिमित्तसञ्ज्ञः",
         "iast": "surarṣigandharvamahoragāṇāṃ sandarśanenāpi ca bhāskarasya hanyeta dṛṣṭirmanujasya yasya sa liṅganāśastvanimittasañjñaḥ",
         "iast_ru": "сурарш̣игандхарвамахорага̄н̣а̄м̣ сандарш́анена̄пи ча бха̄скарасйа ханйета др̣ш̣т̣ирмануджасйа йасйа са лин̇гана̄ш́астванимиттасан̃джн̃ах̣",
-        "text": "Даже от вида богов, риши, гандхарвов, великих змеев и солнца может быть повреждено зрение человека; это — «линга-наша», называемая «без причины»."
+        "text": "Даже от вида богов, риши, гандхарвов, великих змеев и солнца может быть повреждено зрение человека; это — «линга-наша», называемая «без причины».",
+        "text_en": "Even from the sight of gods, sages, Gandharvas, great serpents and the sun, a person's vision may be damaged; this is Linganasha called \"without cause\"."
       },
       {
         "type": "verse",
@@ -84388,7 +84521,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्राक्षि विस्पष्टमिवावभाति वैदूर्यवर्णा विमला च दृष्टिः विदीर्यते सीदति हीयते वा नृणामभीघातहता तु दृष्टिः",
         "iast": "tatrākṣi vispaṣṭamivāvabhāti vaidūryavarṇā vimalā ca dṛṣṭiḥ vidīryate sīdati hīyate vā nṛṇāmabhīghātahatā tu dṛṣṭiḥ",
         "iast_ru": "татра̄кш̣и виспаш̣т̣амива̄вабха̄ти ваидӯрйаварн̣а̄ вимала̄ ча др̣ш̣т̣их̣ видӣрйате сӣдати хӣйате ва̄ нр̣н̣а̄мабхӣгха̄тахата̄ ту др̣ш̣т̣их̣",
-        "text": "Там глаз кажется ясным, [цвета] вайдурьи и незамутнённым; зрение людей, повреждённое ударом, разрывается, ослабевает или уменьшается."
+        "text": "Там глаз кажется ясным, [цвета] вайдурьи и незамутнённым; зрение людей, повреждённое ударом, разрывается, ослабевает или уменьшается.",
+        "text_en": "There the eye appears clear, of the color of Vaidurya (cat's eye) and unclouded; the vision of people damaged by a blow tears, weakens or diminishes."
       },
       {
         "type": "verse",
@@ -84396,7 +84530,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति दृष्टिगत रोगाः अथ कृष्णमण्डलजा रोगाः यत्सव्रणं शुक्लमथाव्रणञ्च पाकात्ययश्चाप्यजका तथैव चत्वार एते नयनामयास्तु कृष्णप्रदेशे नियता भवन्ति",
         "iast": "iti dṛṣṭigata rogāḥ atha kṛṣṇamaṇḍalajā rogāḥ yatsavraṇaṃ śuklamathāvraṇañca pākātyayaścāpyajakā tathaiva catvāra ete nayanāmayāstu kṛṣṇapradeśe niyatā bhavanti",
         "iast_ru": "ити др̣ш̣т̣игата рога̄х̣ атха кр̣ш̣н̣аман̣д̣аладжа̄ рога̄х̣ йатсавран̣ам̣ ш́укламатха̄вран̣ан̃ча па̄ка̄тйайаш́ча̄пйаджака̄ татхаива чатва̄ра ете найана̄майа̄сту кр̣ш̣н̣апрадеш́е нийата̄ бхаванти",
-        "text": "Так [изложены] болезни, связанные со зрением. Теперь болезни, возникающие в чёрном круге. С раной или без раны в белке, распад созревания, а также «аджака» — эти четыре болезни глаза постоянно [возникают] в области чёрного [круга]."
+        "text": "Так [изложены] болезни, связанные со зрением. Теперь болезни, возникающие в чёрном круге. С раной или без раны в белке, распад созревания, а также «аджака» — эти четыре болезни глаза постоянно [возникают] в области чёрного [круга].",
+        "text_en": "Thus (are described) the diseases connected with vision. Now the diseases arising in the black circle. With wound or without wound in the white, Pakatyaya (dissolution of ripening), and also Ajaka: these four diseases of the eye constantly (arise) in the region of the black (circle)."
       },
       {
         "type": "verse",
@@ -84404,7 +84539,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निमग्नरूपं तु भवेद्धि कृष्णे सूच्येव विद्धं प्रतिभाति यद्वै स्रावं स्रवेदुष्णमतीव चापि तत्सव्रणं शुक्लमुदाहरन्ति",
         "iast": "nimagnarūpaṃ tu bhaveddhi kṛṣṇe sūcyeva viddhaṃ pratibhāti yadvai srāvaṃ sraveduṣṇamatīva cāpi tatsavraṇaṃ śuklamudāharanti",
         "iast_ru": "нимагнарӯпам̣ ту бхаведдхи кр̣ш̣н̣е сӯчйева виддхам̣ пратибха̄ти йадваи сра̄вам̣ сраведуш̣н̣аматӣва ча̄пи татсавран̣ам̣ ш́укламуда̄харанти",
-        "text": "Погружённая форма в чёрном [участке], как бы пронзённая иглой, из которой истекает весьма горячее истечение, — эту называют «белым с раной»."
+        "text": "Погружённая форма в чёрном [участке], как бы пронзённая иглой, из которой истекает весьма горячее истечение, — эту называют «белым с раной».",
+        "text_en": "A sunken form in the black (area), as if pierced by a needle, from which a very hot discharge flows, this is called \"white with wound\"."
       },
       {
         "type": "verse",
@@ -84412,7 +84548,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्टेः समीपे न भवेत्तु यच्च न चावगाढं न च संस्रवेद्यत् अवेदनं यन्न च युग्मशुक्लं तत्सिद्धिमायाति कदाचिदेव",
         "iast": "dṛṣṭeḥ samīpe na bhavettu yacca na cāvagāḍhaṃ na ca saṃsravedyat avedanaṃ yanna ca yugmaśuklaṃ tatsiddhimāyāti kadācideva",
         "iast_ru": "др̣ш̣т̣ех̣ самӣпе на бхаветту йачча на ча̄вага̄д̣хам̣ на ча сам̣сраведйат аведанам̣ йанна ча йугмаш́уклам̣ татсиддхима̄йа̄ти када̄чидева",
-        "text": "Что не находится близко к зрачку, не глубокое, не истекающее, безболезненное, не двойное — «белое» иногда приходит к успеху [излечения]."
+        "text": "Что не находится близко к зрачку, не глубокое, не истекающее, безболезненное, не двойное — «белое» иногда приходит к успеху [излечения].",
+        "text_en": "That which is not near the pupil, not deep, not discharging, painless, not double: the \"white\" sometimes comes to success (of cure)."
       },
       {
         "type": "verse",
@@ -84420,7 +84557,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्यन्दात्मकं कृष्णगतन्तु शुक्लं शङ्खेन्दुकुन्दप्रतिमावभासम् वैहायसाभ्रप्रतनुप्रकाशमथाव्रणं साध्यतमं वदन्ति",
         "iast": "syandātmakaṃ kṛṣṇagatantu śuklaṃ śaṅkhendukundapratimāvabhāsam vaihāyasābhrapratanuprakāśamathāvraṇaṃ sādhyatamaṃ vadanti",
         "iast_ru": "сйанда̄тмакам̣ кр̣ш̣н̣агатанту ш́уклам̣ ш́ан̇кхендукундапратима̄вабха̄сам ваиха̄йаса̄бхрапратанупрака̄ш́аматха̄вран̣ам̣ са̄дхйатамам̣ ваданти",
-        "text": "«Белое» без раны, [возникшее] от истечения в чёрном [участке], подобное [цвету] раковины, луны и жасмина, тонкое, подобное облаку в небе, — считается наиболее легко излечимым."
+        "text": "«Белое» без раны, [возникшее] от истечения в чёрном [участке], подобное [цвету] раковины, луны и жасмина, тонкое, подобное облаку в небе, — считается наиболее легко излечимым.",
+        "text_en": "The \"white\" without wound, (arising) from discharge in the black (area), like a conch shell, the moon and jasmine, thin, like a cloud in the sky, is considered the most easily curable."
       },
       {
         "type": "verse",
@@ -84428,7 +84566,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गम्भीरजातं बहलञ्च शुक्लं चिरोत्थितञ्चापि वदन्ति कृच्छ्रम्",
         "iast": "gambhīrajātaṃ bahalañca śuklaṃ cirotthitañcāpi vadanti kṛcchram",
         "iast_ru": "гамбхӣраджа̄там̣ бахалан̃ча ш́уклам̣ чироттхитан̃ча̄пи ваданти кр̣ччхрам",
-        "text": "Глубоко возникшее, плотное, белое, а также давнее — называют труднолечимым."
+        "text": "Глубоко возникшее, плотное, белое, а также давнее — называют труднолечимым.",
+        "text_en": "That which arises deep, dense, white, and also long-standing, is called difficult to cure."
       },
       {
         "type": "verse",
@@ -84436,7 +84575,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विच्छिन्नमध्यं पिशितावृतञ्च चलं शिरासूतमदृष्टिकृच्च द्वित्वग्गतं लोहितमन्ततश्च चिरोत्थितञ्चापि विवर्जनीयम्",
         "iast": "vicchinnamadhyaṃ piśitāvṛtañca calaṃ śirāsūtamadṛṣṭikṛcca dvitvaggataṃ lohitamantataśca cirotthitañcāpi vivarjanīyam",
         "iast_ru": "виччхиннамадхйам̣ пиш́ита̄вр̣тан̃ча чалам̣ ш́ира̄сӯтамадр̣ш̣т̣икр̣чча двитваггатам̣ лохитамантаташ́ча чироттхитан̃ча̄пи виварджанӣйам",
-        "text": "Разорванное посередине, окружённое мясом, подвижное, поддерживаемое сосудами, лишающее зрения, проникшее в оба слоя кожи, красное на конце, а также давнее — следует избегать [лечения]."
+        "text": "Разорванное посередине, окружённое мясом, подвижное, поддерживаемое сосудами, лишающее зрения, проникшее в оба слоя кожи, красное на конце, а также давнее — следует избегать [лечения].",
+        "text_en": "That torn in the middle, surrounded by flesh, mobile, supported by vessels, depriving of vision, penetrating both layers of the skin, red at the end, and also long-standing, should be avoided (not treated)."
       },
       {
         "type": "verse",
@@ -84444,7 +84584,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णाश्रुपातः पिडका च कृष्णे यस्मिन्भवेन्मुद्गनिभञ्च शुक्लम् तदप्यसाध्यं प्रवदन्ति केचिदन्ये तु तत्तित्तिरिपक्षतुल्यम्",
         "iast": "uṣṇāśrupātaḥ piḍakā ca kṛṣṇe yasminbhavenmudganibhañca śuklam tadapyasādhyaṃ pravadanti kecidanye tu tattittiripakṣatulyam",
         "iast_ru": "уш̣н̣а̄ш́рупа̄тах̣ пид̣ака̄ ча кр̣ш̣н̣е йасминбхавенмудганибхан̃ча ш́уклам тадапйаса̄дхйам̣ праваданти кечиданйе ту таттиттирипакш̣атулйам",
-        "text": "Горячее истечение слёз и нарыв в чёрном [участке], у кого белое подобно мунгу [по размеру], — то некоторые считают также неизлечимым; другие же — [излечимым, если оно] подобно перу куропатки."
+        "text": "Горячее истечение слёз и нарыв в чёрном [участке], у кого белое подобно мунгу [по размеру], — то некоторые считают также неизлечимым; другие же — [излечимым, если оно] подобно перу куропатки.",
+        "text_en": "A hot discharge of tears and a boil in the black (area), in whom the white is like a mung bean (in size): some consider this also incurable; others, however, (curable if it is) like the feather of a partridge."
       },
       {
         "type": "verse",
@@ -84452,7 +84593,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतः समाक्रामति सर्वतो हि दोषेण यस्यासितमण्डले तु तमक्षिपाकात्ययमक्षिकोपं सर्वात्मकं वर्जयितव्यमाहुः",
         "iast": "śvetaḥ samākrāmati sarvato hi doṣeṇa yasyāsitamaṇḍale tu tamakṣipākātyayamakṣikopaṃ sarvātmakaṃ varjayitavyamāhuḥ",
         "iast_ru": "ш́ветах̣ сама̄кра̄мати сарвато хи дош̣ен̣а йасйа̄ситаман̣д̣але ту тамакш̣ипа̄ка̄тйайамакш̣икопам̣ сарва̄тмакам̣ варджайитавйама̄хух̣",
-        "text": "Белизна, охватывающая всё со всех сторон дошей у того, чей чёрный круг [поражён], — эту «акши-паката-тья» (распад созревания глаза), поражение глаза от всех дош, следует избегать."
+        "text": "Белизна, охватывающая всё со всех сторон дошей у того, чей чёрный круг [поражён], — эту «акши-паката-тья» (распад созревания глаза), поражение глаза от всех дош, следует избегать.",
+        "text_en": "Whiteness covering everything on all sides by the dosha in him whose black circle is (affected): this Akshipakatyaya (dissolution by ripening of the eye), an injury of the eye from all the doshas, should be avoided."
       },
       {
         "type": "verse",
@@ -84460,7 +84602,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अजापुरीषप्रतिमो रुजावान् सलोहितो लोहितपिच्छिलाश्रुः विगृह्य कृष्णं प्रचयोऽभ्युपैति तं चाजकाजातमिति व्यवस्येत्",
         "iast": "ajāpurīṣapratimo rujāvān salohito lohitapicchilāśruḥ vigṛhya kṛṣṇaṃ pracayo'bhyupaiti taṃ cājakājātamiti vyavasyet",
         "iast_ru": "аджа̄пурӣш̣апратимо руджа̄ва̄н салохито лохитапиччхила̄ш́рух̣ вигр̣хйа кр̣ш̣н̣ам̣ прачайо'бхйупаити там̣ ча̄джака̄джа̄тамити вйавасйет",
-        "text": "Подобная козьему калу, с болью, кровянистая, с кровянисто-слизистыми слёзами, схватывающая и увеличивающая чёрный [круг], — эту следует определить как «аджака-джата» (возникшую от козы)."
+        "text": "Подобная козьему калу, с болью, кровянистая, с кровянисто-слизистыми слёзами, схватывающая и увеличивающая чёрный [круг], — эту следует определить как «аджака-джата» (возникшую от козы).",
+        "text_en": "Resembling goat's dung, with pain, bloody, with bloody-mucous tears, seizing and enlarging the black (circle): this should be identified as Ajakajata (born of the goat)."
       },
       {
         "type": "verse",
@@ -84468,7 +84611,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति कृष्णमण्डलजा रोगाः अथ नेत्रशुक्लभागजा रोगाः प्रस्तारिशुक्लक्षतजाधिमांसस्नाय्वर्मसंज्ञाः खलु पञ्च रोगाः स्याच्छुक्तिका चार्जुनपिष्टकौ च जालं शिराणां पिडकाश्च याः स्युः रोगा बलासग्रथितेन सार्द्धमेकादशाक्ष्णोः खलु शुक्लभागे",
         "iast": "iti kṛṣṇamaṇḍalajā rogāḥ atha netraśuklabhāgajā rogāḥ prastāriśuklakṣatajādhimāṃsasnāyvarmasaṃjñāḥ khalu pañca rogāḥ syācchuktikā cārjunapiṣṭakau ca jālaṃ śirāṇāṃ piḍakāśca yāḥ syuḥ rogā balāsagrathitena sārddhamekādaśākṣṇoḥ khalu śuklabhāge",
         "iast_ru": "ити кр̣ш̣н̣аман̣д̣аладжа̄ рога̄х̣ атха нетраш́уклабха̄гаджа̄ рога̄х̣ праста̄риш́уклакш̣атаджа̄дхима̄м̣сасна̄йвармасам̣джн̃а̄х̣ кхалу пан̃ча рога̄х̣ сйа̄ччхуктика̄ ча̄рджунапиш̣т̣акау ча джа̄лам̣ ш́ира̄н̣а̄м̣ пид̣ака̄ш́ча йа̄х̣ сйух̣ рога̄ бала̄сагратхитена са̄рддхамека̄даш́а̄кш̣н̣ох̣ кхалу ш́уклабха̄ге",
-        "text": "Так [изложены] болезни, возникающие в чёрном круге. Теперь болезни, возникающие в белочной части глаза. «Прастари», «шукла-кшата», «адхимамса», «снаю-арма» — таковы пять болезней; «шуктика», «арджуна-пиштака», сеть сосудов и нарывы — это, вместе с «баласа-гратхита», всего одиннадцать болезней в белочной части глаза."
+        "text": "Так [изложены] болезни, возникающие в чёрном круге. Теперь болезни, возникающие в белочной части глаза. «Прастари», «шукла-кшата», «адхимамса», «снаю-арма» — таковы пять болезней; «шуктика», «арджуна-пиштака», сеть сосудов и нарывы — это, вместе с «баласа-гратхита», всего одиннадцать болезней в белочной части глаза.",
+        "text_en": "Thus (are described) the diseases arising in the black circle. Now the diseases arising in the white part of the eye. Prastari, Shukla-kshata, Adhimamsa, Snayu-arma: such are the five diseases; Shuktika, Arjuna, Pishtaka, the network of vessels and boils: these, together with Balasagrathita, make eleven diseases in the white part of the eye."
       },
       {
         "type": "verse",
@@ -84476,7 +84620,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रस्तार्यर्म तनु स्तीर्णं श्यावं रक्तनिभं सितम्",
         "iast": "prastāryarma tanu stīrṇaṃ śyāvaṃ raktanibhaṃ sitam",
         "iast_ru": "праста̄рйарма тану стӣрн̣ам̣ ш́йа̄вам̣ рактанибхам̣ ситам",
-        "text": "«Прастари-арма» — тонкая, распространяющаяся, тёмная, подобная крови [по цвету], белая."
+        "text": "«Прастари-арма» — тонкая, распространяющаяся, тёмная, подобная крови [по цвету], белая.",
+        "text_en": "Prastari-arma: thin, spreading, dark, like blood (in color), white."
       },
       {
         "type": "verse",
@@ -84484,7 +84629,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुश्वेतं मृदु शुक्लार्म शुक्ले तद् वर्द्धते चिरात्",
         "iast": "suśvetaṃ mṛdu śuklārma śukle tad varddhate cirāt",
         "iast_ru": "суш́ветам̣ мр̣ду ш́укла̄рма ш́укле тад варддхате чира̄т",
-        "text": "«Шукла-арма» — весьма белая, мягкая, растущая на белке, долго увеличивающаяся."
+        "text": "«Шукла-арма» — весьма белая, мягкая, растущая на белке, долго увеличивающаяся.",
+        "text_en": "Shukla-arma: very white, soft, growing on the white, increasing for a long time."
       },
       {
         "type": "verse",
@@ -84492,7 +84638,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पद्माभं मृदु रक्तार्म यन्मांसं चीयते सिते",
         "iast": "padmābhaṃ mṛdu raktārma yanmāṃsaṃ cīyate site",
         "iast_ru": "падма̄бхам̣ мр̣ду ракта̄рма йанма̄м̣сам̣ чӣйате сите",
-        "text": "«Адхимамса-арма» — мягкая, красная, подобная лотосу, мясо накапливается на белом."
+        "text": "«Адхимамса-арма» — мягкая, красная, подобная лотосу, мясо накапливается на белом.",
+        "text_en": "Adhimamsa-arma: soft, red, like a lotus, flesh accumulates on the white."
       },
       {
         "type": "verse",
@@ -84500,7 +84647,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पृथु मृद्वधिमांसार्म बहलञ्च यकृन्निभम्",
         "iast": "pṛthu mṛdvadhimāṃsārma bahalañca yakṛnnibham",
         "iast_ru": "пр̣тху мр̣двадхима̄м̣са̄рма бахалан̃ча йакр̣ннибхам",
-        "text": "Широкая, мягкая «адхимамса-арма», обильная, подобная печени."
+        "text": "Широкая, мягкая «адхимамса-арма», обильная, подобная печени.",
+        "text_en": "Broad, soft Adhimamsa-arma, copious, like liver."
       },
       {
         "type": "verse",
@@ -84508,7 +84656,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्थिरं प्रसारि मांसाढ्यं शुष्कं स्नाय्वर्म पञ्चमम्",
         "iast": "sthiraṃ prasāri māṃsāḍhyaṃ śuṣkaṃ snāyvarma pañcamam",
         "iast_ru": "стхирам̣ праса̄ри ма̄м̣са̄д̣хйам̣ ш́уш̣кам̣ сна̄йварма пан̃чамам",
-        "text": "Устойчивая, распространяющаяся, обильная мясом, сухая — пятая, «снаю-арма»."
+        "text": "Устойчивая, распространяющаяся, обильная мясом, сухая — пятая, «снаю-арма».",
+        "text_en": "Stable, spreading, abundant in flesh, dry: the fifth, Snayu-arma."
       },
       {
         "type": "verse",
@@ -84516,7 +84665,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्यावाः स्युः पिशितनिभाश्च बिन्दवो ये शुक्लाभाः सितनिचिताः स शुक्तिसञ्ज्ञः",
         "iast": "śyāvāḥ syuḥ piśitanibhāśca bindavo ye śuklābhāḥ sitanicitāḥ sa śuktisañjñaḥ",
         "iast_ru": "ш́йа̄ва̄х̣ сйух̣ пиш́итанибха̄ш́ча биндаво йе ш́укла̄бха̄х̣ ситаничита̄х̣ са ш́уктисан̃джн̃ах̣",
-        "text": "Тёмные, подобные мясу капли, белые, покрытые белым, — это называется «шукти» (устричная)."
+        "text": "Тёмные, подобные мясу капли, белые, покрытые белым, — это называется «шукти» (устричная).",
+        "text_en": "Dark, flesh-like drops, white, covered with white: this is called Shukti (oyster-like)."
       },
       {
         "type": "verse",
@@ -84524,7 +84674,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एको यः शशरुधिरप्रभस्तु बिन्दुः शुक्लस्थो भवति तमर्जुनं वदन्ति",
         "iast": "eko yaḥ śaśarudhiraprabhastu binduḥ śuklastho bhavati tamarjunaṃ vadanti",
         "iast_ru": "еко йах̣ ш́аш́арудхирапрабхасту биндух̣ ш́укластхо бхавати тамарджунам̣ ваданти",
-        "text": "Одна точка, подобная цвету зайца или крови, находящаяся на белке, — её называют «арджуна»."
+        "text": "Одна точка, подобная цвету зайца или крови, находящаяся на белке, — её называют «арджуна».",
+        "text_en": "A single spot, resembling the color of a hare or of blood, located on the white, is called Arjuna."
       },
       {
         "type": "verse",
@@ -84532,7 +84683,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्लेष्ममारुतकोपेन शुक्ले मांसं समुन्नतम् पिष्टवत्पिष्टकं विद्धि मलाक्तादर्शसन्निभम्",
         "iast": "śleṣmamārutakopena śukle māṃsaṃ samunnatam piṣṭavatpiṣṭakaṃ viddhi malāktādarśasannibham",
         "iast_ru": "ш́леш̣мама̄рутакопена ш́укле ма̄м̣сам̣ самуннатам пиш̣т̣аватпиш̣т̣акам̣ виддхи мала̄кта̄дарш́асаннибхам",
-        "text": "От возмущения капхи и ватхи на белке приподнимается мясо, подобное толчёному зерну; знай это, покрытое нечистотой, подобное геморрою, как «пиштака»."
+        "text": "От возмущения капхи и ватхи на белке приподнимается мясо, подобное толчёному зерну; знай это, покрытое нечистотой, подобное геморрою, как «пиштака».",
+        "text_en": "From the aggravation of Kapha and Vata, flesh like pounded grain rises on the white; know this, covered with impurity, resembling a pile, as Pishtaka."
       },
       {
         "type": "verse",
@@ -84540,7 +84692,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जालाभः कठिनशिरोऽरुणः शिराणां सन्तानो भवति शिराऽदिजालसञ्ज्ञः",
         "iast": "jālābhaḥ kaṭhinaśiro'ruṇaḥ śirāṇāṃ santāno bhavati śirā'dijālasañjñaḥ",
         "iast_ru": "джа̄ла̄бхах̣ кат̣хинаш́иро'рун̣ах̣ ш́ира̄н̣а̄м̣ санта̄но бхавати ш́ира̄'диджа̄ласан̃джн̃ах̣",
-        "text": "Подобное сети, с твёрдыми, красноватыми сосудами, распространение сосудов — называется «шираджала» (сеть сосудов) и подобным."
+        "text": "Подобное сети, с твёрдыми, красноватыми сосудами, распространение сосудов — называется «шираджала» (сеть сосудов) и подобным.",
+        "text_en": "Resembling a net, with firm, reddish vessels, the spreading of vessels is called Shirajala (network of vessels) and the like."
       },
       {
         "type": "verse",
@@ -84548,7 +84701,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुक्लस्थाः सितपिडकाःशिरावृता यास्ता विद्यादसितसमीपजाः शिराजाः",
         "iast": "śuklasthāḥ sitapiḍakāḥśirāvṛtā yāstā vidyādasitasamīpajāḥ śirājāḥ",
         "iast_ru": "ш́укластха̄х̣ ситапид̣ака̄х̣ш́ира̄вр̣та̄ йа̄ста̄ видйа̄даситасамӣпаджа̄х̣ ш́ира̄джа̄х̣",
-        "text": "На белке — белые нарывы, окружённые сосудами; следует знать их как «сосудистые», [возникающие] близко к чёрному [участку]."
+        "text": "На белке — белые нарывы, окружённые сосудами; следует знать их как «сосудистые», [возникающие] близко к чёрному [участку].",
+        "text_en": "On the white are white boils surrounded by vessels; they should be known as vascular, (arising) near the black (area)."
       },
       {
         "type": "verse",
@@ -84556,7 +84710,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कांस्याभोऽमृदुरथ वारिबिन्दुकल्पो विज्ञेयो नयनसिते बलाससञ्ज्ञः",
         "iast": "kāṃsyābho'mṛduratha vāribindukalpo vijñeyo nayanasite balāsasañjñaḥ",
         "iast_ru": "ка̄м̣сйа̄бхо'мр̣дуратха ва̄рибиндукалпо виджн̃ейо найанасите бала̄сасан̃джн̃ах̣",
-        "text": "Бронзового [цвета], не мягкая, или подобная капле воды, на белке глаза известна как «баласа» (капховая)."
+        "text": "Бронзового [цвета], не мягкая, или подобная капле воды, на белке глаза известна как «баласа» (капховая).",
+        "text_en": "Bronze-colored, not soft, or like a drop of water, on the white of the eye it is known as Balasa (Kapha-type)."
       },
       {
         "type": "verse",
@@ -84564,7 +84719,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति शुक्ल भागजा रोगा अथ वर्त्मजा रोगाः उत्सङ्गिन्यथ कुम्भीका पोथकी वर्त्मशर्करा तथाऽशोवर्त्म शुष्कार्शस्तथैवाञ्जनदूषिका",
         "iast": "iti śukla bhāgajā rogā atha vartmajā rogāḥ utsaṅginyatha kumbhīkā pothakī vartmaśarkarā tathā'śovartma śuṣkārśastathaivāñjanadūṣikā",
         "iast_ru": "ити ш́укла бха̄гаджа̄ рога̄ атха вартмаджа̄ рога̄х̣ утсан̇гинйатха кумбхӣка̄ потхакӣ вартмаш́аркара̄ татха̄'ш́овартма ш́уш̣ка̄рш́астатхаива̄н̃джанадӯш̣ика̄",
-        "text": "Так [изложены] болезни, возникающие в белочной части. Теперь болезни века. «Утсангини», «кумбхика», «потхаки», «вартма-шаркара», а также «аршо-вартма», «шушкарша», а также «анджана-душика»."
+        "text": "Так [изложены] болезни, возникающие в белочной части. Теперь болезни века. «Утсангини», «кумбхика», «потхаки», «вартма-шаркара», а также «аршо-вартма», «шушкарша», а также «анджана-душика».",
+        "text_en": "Thus (are described) the diseases arising in the white part. Now the diseases of the eyelid. Utsangini, Kumbhika, Pothaki, Vartma-sharkara, and also Arsho-vartma, Shushkarsha, and also Anjana-dushika."
       },
       {
         "type": "verse",
@@ -84572,7 +84728,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अभ्यन्तरमुखी ताम्रा बाह्यतो वर्त्मसंश्रया सोत्सङ्गोत्सङ्गपिडका सर्वजा स्थूलकण्डुरा",
         "iast": "abhyantaramukhī tāmrā bāhyato vartmasaṃśrayā sotsaṅgotsaṅgapiḍakā sarvajā sthūlakaṇḍurā",
         "iast_ru": "абхйантарамукхӣ та̄мра̄ ба̄хйато вартмасам̣ш́райа̄ сотсан̇готсан̇гапид̣ака̄ сарваджа̄ стхӯлакан̣д̣ура̄",
-        "text": "[Форма] с устьем внутри, медная, снаружи обосновавшаяся в веке, с выступом и нарывами внутри выступа, [возникшая] от всех дош, крупная, зудящая, —"
+        "text": "[Форма] с устьем внутри, медная, снаружи обосновавшаяся в веке, с выступом и нарывами внутри выступа, [возникшая] от всех дош, крупная, зудящая, —",
+        "text_en": "The form with an opening inside, coppery, established on the outside in the eyelid, with a protrusion and boils inside the protrusion, arising from all the doshas, large, itching,"
       },
       {
         "type": "verse",
@@ -84580,7 +84737,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्मान्ते पिडकाध्माता भिद्यन्ते च स्रवन्ति च कुम्भीकाबीजसदृशाः कुम्भीकाः सन्निपातजाः",
         "iast": "vartmānte piḍakādhmātā bhidyante ca sravanti ca kumbhīkābījasadṛśāḥ kumbhīkāḥ sannipātajāḥ",
         "iast_ru": "вартма̄нте пид̣ака̄дхма̄та̄ бхидйанте ча сраванти ча кумбхӣка̄бӣджасадр̣ш́а̄х̣ кумбхӣка̄х̣ саннипа̄таджа̄х̣",
-        "text": "нарывы, приподнятые на краю века, лопающиеся и истекающие, подобные семенам тыквы, — «кумбхики», [возникшие] от всех трёх дош."
+        "text": "нарывы, приподнятые на краю века, лопающиеся и истекающие, подобные семенам тыквы, — «кумбхики», [возникшие] от всех трёх дош.",
+        "text_en": "boils raised on the edge of the eyelid, bursting and discharging, resembling gourd seeds, are Kumbhikas, arising from all three doshas."
       },
       {
         "type": "verse",
@@ -84588,7 +84746,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्राविण्यः कण्डुरा गुर्व्यो रक्तसर्षपसन्निभाः रुजावत्यश्च पिडकाः पोथक्य इति कीर्त्तिताः",
         "iast": "srāviṇyaḥ kaṇḍurā gurvyo raktasarṣapasannibhāḥ rujāvatyaśca piḍakāḥ pothakya iti kīrttitāḥ",
         "iast_ru": "сра̄вин̣йах̣ кан̣д̣ура̄ гурвйо рактасарш̣апасаннибха̄х̣ руджа̄ватйаш́ча пид̣ака̄х̣ потхакйа ити кӣрттита̄х̣",
-        "text": "Истекающие, зудящие, тяжёлые, подобные красному горчичному зерну, болезненные нарывы называются «потхаки»."
+        "text": "Истекающие, зудящие, тяжёлые, подобные красному горчичному зерну, болезненные нарывы называются «потхаки».",
+        "text_en": "Discharging, itching, heavy boils, resembling a red mustard seed, painful, are called Pothaki."
       },
       {
         "type": "verse",
@@ -84596,7 +84755,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पिडकाभिः सुसूक्ष्माभिर्घनाभिरभिसंवृता पिडका या खरा स्थूला वर्त्मस्था वर्त्मशर्करा",
         "iast": "piḍakābhiḥ susūkṣmābhirghanābhirabhisaṃvṛtā piḍakā yā kharā sthūlā vartmasthā vartmaśarkarā",
         "iast_ru": "пид̣ака̄бхих̣ сусӯкш̣ма̄бхиргхана̄бхирабхисам̣вр̣та̄ пид̣ака̄ йа̄ кхара̄ стхӯла̄ вартмастха̄ вартмаш́аркара̄",
-        "text": "Множество мелких, плотных нарывов, окружающих [веко], грубый, крупный нарыв на веке — «вартма-шаркара»."
+        "text": "Множество мелких, плотных нарывов, окружающих [веко], грубый, крупный нарыв на веке — «вартма-шаркара».",
+        "text_en": "Many small, dense boils surrounding (the eyelid), a coarse, large boil on the eyelid: Vartma-sharkara."
       },
       {
         "type": "verse",
@@ -84604,7 +84764,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एर्वारुबीजप्रतिमाः पिडका मन्दवेदनाः श्लक्ष्णाः खराश्च वर्त्मस्थास्तदर्शोवर्त्म कीत्तर्यते",
         "iast": "ervārubījapratimāḥ piḍakā mandavedanāḥ ślakṣṇāḥ kharāśca vartmasthāstadarśovartma kīttaryate",
         "iast_ru": "ерва̄рубӣджапратима̄х̣ пид̣ака̄ мандаведана̄х̣ ш́лакш̣н̣а̄х̣ кхара̄ш́ча вартмастха̄стадарш́овартма кӣттарйате",
-        "text": "Нарывы, подобные семенам огурца, с малой болью, гладкие или грубые, на веке — это называется «аршо-вартма»."
+        "text": "Нарывы, подобные семенам огурца, с малой болью, гладкие или грубые, на веке — это называется «аршо-вартма».",
+        "text_en": "Boils resembling cucumber seeds, with little pain, smooth or rough, on the eyelid: this is called Arsho-vartma."
       },
       {
         "type": "verse",
@@ -84612,7 +84773,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दीर्घाङ्कुरः खरः स्तब्धो दारुणोऽभ्यन्तरोद्भवः व्याधिरेषोऽभिविख्यातः शुष्कार्शो नाम नामतः",
         "iast": "dīrghāṅkuraḥ kharaḥ stabdho dāruṇo'bhyantarodbhavaḥ vyādhireṣo'bhivikhyātaḥ śuṣkārśo nāma nāmataḥ",
         "iast_ru": "дӣргха̄н̇курах̣ кхарах̣ стабдхо да̄рун̣о'бхйантародбхавах̣ вйа̄дхиреш̣о'бхивикхйа̄тах̣ ш́уш̣ка̄рш́о на̄ма на̄матах̣",
-        "text": "Длинный росток, грубый, застылый, ужасный, возникающий внутри, — эта болезнь известна под именем «шушкарша»."
+        "text": "Длинный росток, грубый, застылый, ужасный, возникающий внутри, — эта болезнь известна под именем «шушкарша».",
+        "text_en": "A long sprout, coarse, stiff, terrible, arising on the inside: this disease is known by the name Shushkarsha."
       },
       {
         "type": "verse",
@@ -84620,7 +84782,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दाहतोदवती ताम्रा पिडका वर्त्मसम्भवा मृद्वी मन्दरुजा सूक्ष्मा ज्ञेया साऽञ्जनदूषिका",
         "iast": "dāhatodavatī tāmrā piḍakā vartmasambhavā mṛdvī mandarujā sūkṣmā jñeyā sā'ñjanadūṣikā",
         "iast_ru": "да̄хатодаватӣ та̄мра̄ пид̣ака̄ вартмасамбхава̄ мр̣двӣ мандаруджа̄ сӯкш̣ма̄ джн̃ейа̄ са̄'н̃джанадӯш̣ика̄",
-        "text": "Медный нарыв на веке с жжением и покалыванием, мягкий, с малой болью, тонкий, — эту следует знать как «анджана-душику»."
+        "text": "Медный нарыв на веке с жжением и покалыванием, мягкий, с малой болью, тонкий, — эту следует знать как «анджана-душику».",
+        "text_en": "A coppery boil on the eyelid with burning and pricking, soft, with little pain, thin: this should be known as Anjana-dushika."
       },
       {
         "type": "verse",
@@ -84628,7 +84791,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्मोपचीयते यस्य पिडकाभिः समन्ततः सवर्णाभिः स्थिराभिश्च विद्याद्वहलवर्त्म तत्",
         "iast": "vartmopacīyate yasya piḍakābhiḥ samantataḥ savarṇābhiḥ sthirābhiśca vidyādvahalavartma tat",
         "iast_ru": "вартмопачӣйате йасйа пид̣ака̄бхих̣ самантатах̣ саварн̣а̄бхих̣ стхира̄бхиш́ча видйа̄двахалавартма тат",
-        "text": "У кого веко обильно покрыто нарывами того же цвета, устойчивыми, — знай это как «плотное веко»."
+        "text": "У кого веко обильно покрыто нарывами того же цвета, устойчивыми, — знай это как «плотное веко».",
+        "text_en": "He whose eyelid is abundantly covered with boils of the same color, firm: know this as \"dense eyelid\"."
       },
       {
         "type": "verse",
@@ -84636,7 +84800,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कण्डूरेणाल्पतोदेन वर्त्मशोफेन मानवः न समं छादयेदक्षि यत्रासौ वर्त्मबन्धकः",
         "iast": "kaṇḍūreṇālpatodena vartmaśophena mānavaḥ na samaṃ chādayedakṣi yatrāsau vartmabandhakaḥ",
         "iast_ru": "кан̣д̣ӯрен̣а̄лпатодена вартмаш́опхена ма̄навах̣ на самам̣ чха̄дайедакш̣и йатра̄сау вартмабандхаках̣",
-        "text": "Человек с зудом, малой болью, отёком века не может полностью закрыть глаз — эту [форму] называют «вартма-бандхака» (склеивающая веко)."
+        "text": "Человек с зудом, малой болью, отёком века не может полностью закрыть глаз — эту [форму] называют «вартма-бандхака» (склеивающая веко).",
+        "text_en": "A person with itching, little pain, swelling of the eyelid, cannot fully close the eye: this (form) is called Vartma-bandhaka (eyelid-sticking)."
       },
       {
         "type": "verse",
@@ -84644,7 +84809,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मृद्वल्पवेदनं ताम्रं यद्वर्त्म सममेव च अकस्माच्च भवेद्र क्तं क्लिष्टवर्त्मेति तद्विदुः",
         "iast": "mṛdvalpavedanaṃ tāmraṃ yadvartma samameva ca akasmācca bhavedra ktaṃ kliṣṭavartmeti tadviduḥ",
         "iast_ru": "мр̣двалпаведанам̣ та̄мрам̣ йадвартма самамева ча акасма̄чча бхаведра ктам̣ клиш̣т̣авартмети тадвидух̣",
-        "text": "Мягкое, с малой болью, медное веко, а также обычное, если внезапно становится кровянистым, — это называют «клишта-вартма» (страдающее веко)."
+        "text": "Мягкое, с малой болью, медное веко, а также обычное, если внезапно становится кровянистым, — это называют «клишта-вартма» (страдающее веко).",
+        "text_en": "A soft, coppery eyelid with little pain, and an ordinary one also, if it suddenly becomes bloody: this is called Klishta-vartma (afflicted eyelid)."
       },
       {
         "type": "verse",
@@ -84652,7 +84818,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्लिष्टं पुनः पित्तयुतं शोणितं विदहेद्यदा तदा क्लिन्नत्वमापन्नमुच्यते वर्त्मकर्दमः",
         "iast": "kliṣṭaṃ punaḥ pittayutaṃ śoṇitaṃ vidahedyadā tadā klinnatvamāpannamucyate vartmakardamaḥ",
         "iast_ru": "клиш̣т̣ам̣ пунах̣ питтайутам̣ ш́он̣итам̣ видахедйада̄ тада̄ клиннатвама̄паннамучйате вартмакардамах̣",
-        "text": "«Клишта», [если] соединённая с питтой кровь загнивает, то это состояние, ставшее влажным, называется «вартма-кардама» (грязевое веко)."
+        "text": "«Клишта», [если] соединённая с питтой кровь загнивает, то это состояние, ставшее влажным, называется «вартма-кардама» (грязевое веко).",
+        "text_en": "Klishta: if blood combined with Pitta putrefies, that condition, having become moist, is called Vartma-kardama (muddy eyelid)."
       },
       {
         "type": "verse",
@@ -84660,7 +84827,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यद्वर्त्म बाह्यतोऽन्तश्च श्यावं शूनं सवेदनम् सकण्डूकं परिक्लेदि श्याववर्त्मेति तन्मतम्",
         "iast": "yadvartma bāhyato'ntaśca śyāvaṃ śūnaṃ savedanam sakaṇḍūkaṃ parikledi śyāvavartmeti tanmatam",
         "iast_ru": "йадвартма ба̄хйато'нташ́ча ш́йа̄вам̣ ш́ӯнам̣ саведанам сакан̣д̣ӯкам̣ парикледи ш́йа̄вавартмети танматам",
-        "text": "Веко, снаружи и внутри тёмное, отёкшее, болезненное, зудящее, влажное, — это называется «шьява-вартма» (тёмное веко)."
+        "text": "Веко, снаружи и внутри тёмное, отёкшее, болезненное, зудящее, влажное, — это называется «шьява-вартма» (тёмное веко).",
+        "text_en": "An eyelid dark outside and inside, swollen, painful, itching, moist: this is called Shyava-vartma (dark eyelid)."
       },
       {
         "type": "verse",
@@ -84668,7 +84836,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अरुजं बाह्यतः शूनं वर्त्म यस्य नरस्य हि प्रक्लिन्नवर्त्म तद्विद्यात्क्लिन्नमत्यर्थमन्ततः",
         "iast": "arujaṃ bāhyataḥ śūnaṃ vartma yasya narasya hi praklinnavartma tadvidyātklinnamatyarthamantataḥ",
         "iast_ru": "аруджам̣ ба̄хйатах̣ ш́ӯнам̣ вартма йасйа нарасйа хи праклиннавартма тадвидйа̄тклиннаматйартхамантатах̣",
-        "text": "У кого веко безболезненно отёкшее снаружи, — следует знать как «праклинна-вартма»; крайне влажное — «клинна» (влажное веко)."
+        "text": "У кого веко безболезненно отёкшее снаружи, — следует знать как «праклинна-вартма»; крайне влажное — «клинна» (влажное веко).",
+        "text_en": "He whose eyelid is painlessly swollen on the outside should be known as Praklinna-vartma; extremely moist: Klinna (moist eyelid)."
       },
       {
         "type": "verse",
@@ -84676,7 +84845,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यस्य धौतान्यधौतानि सम्बध्यन्ते पुनः पुनः वर्त्मान्यपरिपक्वानि विद्यादक्लिन्नवर्त्म तत्",
         "iast": "yasya dhautānyadhautāni sambadhyante punaḥ punaḥ vartmānyaparipakvāni vidyādaklinnavartma tat",
         "iast_ru": "йасйа дхаута̄нйадхаута̄ни самбадхйанте пунах̣ пунах̣ вартма̄нйапарипаква̄ни видйа̄даклиннавартма тат",
-        "text": "У кого веки, промытые и непромытые, снова и снова слипаются, недозрелые, — следует знать это как «аклинна-вартма» (сухое веко)."
+        "text": "У кого веки, промытые и непромытые, снова и снова слипаются, недозрелые, — следует знать это как «аклинна-вартма» (сухое веко).",
+        "text_en": "He whose eyelids, washed and unwashed, stick together again and again, unripe: this should be known as Aklinna-vartma (dry eyelid)."
       },
       {
         "type": "verse",
@@ -84684,7 +84854,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विमुक्तसन्धि निश्चेष्टं वर्त्म यस्य न मील्यते एतद्वातहतं विद्यात्सरुजं यदि वारुजम्",
         "iast": "vimuktasandhi niśceṣṭaṃ vartma yasya na mīlyate etadvātahataṃ vidyātsarujaṃ yadi vārujam",
         "iast_ru": "вимуктасандхи ниш́чеш̣т̣ам̣ вартма йасйа на мӣлйате етадва̄тахатам̣ видйа̄тсаруджам̣ йади ва̄руджам",
-        "text": "Веко с расслабленным соединением, бездеятельное, не смыкается, — это следует знать как поражённое ватхой, с болью или без боли."
+        "text": "Веко с расслабленным соединением, бездеятельное, не смыкается, — это следует знать как поражённое ватхой, с болью или без боли.",
+        "text_en": "An eyelid with a relaxed junction, inactive, not closing: this should be known as afflicted by Vata, with or without pain."
       },
       {
         "type": "verse",
@@ -84692,7 +84863,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्मान्तरस्थं विषमं ग्रन्थिभूतमवेदनम् आचक्षीतार्बुदमिति सरक्तमवलम्बि च",
         "iast": "vartmāntarasthaṃ viṣamaṃ granthibhūtamavedanam ācakṣītārbudamiti saraktamavalambi ca",
         "iast_ru": "вартма̄нтарастхам̣ виш̣амам̣ грантхибхӯтамаведанам а̄чакш̣ӣта̄рбудамити сарактамаваламби ча",
-        "text": "Внутри века неравномерный, ставший узлом, безболезненный, кровянистый и свисающий — называют «арбуда» (опухолью)."
+        "text": "Внутри века неравномерный, ставший узлом, безболезненный, кровянистый и свисающий — называют «арбуда» (опухолью).",
+        "text_en": "Inside the eyelid, uneven, having become a knot, painless, bloody and hanging: it is called Arbuda (tumor)."
       },
       {
         "type": "verse",
@@ -84700,7 +84872,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निमेषिणीः शिरा वायुः प्रविष्टो वर्त्मसंश्रयाः सञ्चालयति वर्त्मानि निमेषः स न सिध्यति",
         "iast": "nimeṣiṇīḥ śirā vāyuḥ praviṣṭo vartmasaṃśrayāḥ sañcālayati vartmāni nimeṣaḥ sa na sidhyati",
         "iast_ru": "нимеш̣ин̣ӣх̣ ш́ира̄ ва̄йух̣ правиш̣т̣о вартмасам̣ш́райа̄х̣ сан̃ча̄лайати вартма̄ни нимеш̣ах̣ са на сидхйати",
-        "text": "Ветер, вошедший в мигательные сосуды, обосновавшись в веке, приводит в движение веки; мигание [при этом] не удаётся."
+        "text": "Ветер, вошедший в мигательные сосуды, обосновавшись в веке, приводит в движение веки; мигание [при этом] не удаётся.",
+        "text_en": "Wind, having entered the blinking vessels and settled in the eyelid, sets the eyelids in motion; blinking (then) does not succeed."
       },
       {
         "type": "verse",
@@ -84708,7 +84881,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्मस्थो यो विवर्द्धेत लोहितो मृदुरङ्कुरः तद्र क्तजं शोणितार्शश्छिन्नं वाऽपि विवर्द्धते",
         "iast": "vartmastho yo vivarddheta lohito mṛduraṅkuraḥ tadra ktajaṃ śoṇitārśaśchinnaṃ vā'pi vivarddhate",
         "iast_ru": "вартмастхо йо виварддхета лохито мр̣дуран̇курах̣ тадра ктаджам̣ ш́он̣ита̄рш́аш́чхиннам̣ ва̄'пи виварддхате",
-        "text": "На веке возрастающий красный мягкий росток — это кровяной геморрой [века], рассечённый, который снова разрастается."
+        "text": "На веке возрастающий красный мягкий росток — это кровяной геморрой [века], рассечённый, который снова разрастается.",
+        "text_en": "On the eyelid a growing red soft sprout: this is bloody hemorrhoid (Arsha) of the eyelid, which, when cut, grows again."
       },
       {
         "type": "verse",
@@ -84716,7 +84890,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपाकी कठिनः स्थूलो ग्रन्थिवर्त्मभवोऽरुजः सकण्डूः पिच्छिलः कोलप्रमाणो लगणः स्मृतः",
         "iast": "apākī kaṭhinaḥ sthūlo granthivartmabhavo'rujaḥ sakaṇḍūḥ picchilaḥ kolapramāṇo lagaṇaḥ smṛtaḥ",
         "iast_ru": "апа̄кӣ кат̣хинах̣ стхӯло грантхивартмабхаво'руджах̣ сакан̣д̣ӯх̣ пиччхилах̣ колапрама̄н̣о лаган̣ах̣ смр̣тах̣",
-        "text": "Несозревающий, твёрдый, крупный узел на веке, безболезненный, зудящий, слизистый, размером с ягоду, — называется «лагана»."
+        "text": "Несозревающий, твёрдый, крупный узел на веке, безболезненный, зудящий, слизистый, размером с ягоду, — называется «лагана».",
+        "text_en": "An unripening, hard, large knot on the eyelid, painless, itching, mucous, the size of a berry: it is called Lagana."
       },
       {
         "type": "verse",
@@ -84724,7 +84899,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रयो दोषा बहिः शोथं कुर्युश्छिद्रा णि वर्त्मनोः प्रस्रवन्त्यन्तरुदकं बिसवद्बिसवर्त्म तत्",
         "iast": "trayo doṣā bahiḥ śothaṃ kuryuśchidrā ṇi vartmanoḥ prasravantyantarudakaṃ bisavadbisavartma tat",
         "iast_ru": "трайо дош̣а̄ бахих̣ ш́отхам̣ курйуш́чхидра̄ н̣и вартманох̣ прасравантйантарудакам̣ бисавадбисавартма тат",
-        "text": "Три доши снаружи вызывают отёк, [в котором] отверстия века истекают внутренней водой, подобно стеблю лотоса, — это называется «биса-вартма» (лотосово-стебельное веко)."
+        "text": "Три доши снаружи вызывают отёк, [в котором] отверстия века истекают внутренней водой, подобно стеблю лотоса, — это называется «биса-вартма» (лотосово-стебельное веко).",
+        "text_en": "The three doshas produce swelling on the outside, (in which) the openings of the eyelid discharge internal water, like a lotus stalk: this is called Bisa-vartma (lotus-stalk eyelid)."
       },
       {
         "type": "verse",
@@ -84732,7 +84908,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वाताद्या वर्त्मसंकोचं जनयन्ति मला यदा तदा द्र ष्टुं न शक्नोति कुञ्चनं नाम तद्विदुः",
         "iast": "vātādyā vartmasaṃkocaṃ janayanti malā yadā tadā dra ṣṭuṃ na śaknoti kuñcanaṃ nāma tadviduḥ",
         "iast_ru": "ва̄та̄дйа̄ вартмасам̣кочам̣ джанайанти мала̄ йада̄ тада̄ дра ш̣т̣ум̣ на ш́акноти кун̃чанам̣ на̄ма тадвидух̣",
-        "text": "Когда нечистоты, начиная с ватхи, вызывают сжатие века, тогда [больной] не может видеть; это называют «кунчана» (сжатие)."
+        "text": "Когда нечистоты, начиная с ватхи, вызывают сжатие века, тогда [больной] не может видеть; это называют «кунчана» (сжатие).",
+        "text_en": "When impurities, beginning with Vata, cause contraction of the eyelid, then the patient cannot see; this is called Kunchana (contraction)."
       },
       {
         "type": "verse",
@@ -84740,7 +84917,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति वर्त्मजा रोगाः अथ पक्ष्मरोगाः पक्ष्मकोपः पक्ष्मशातो रोगौ द्वौ पक्ष्मसंश्रयौ",
         "iast": "iti vartmajā rogāḥ atha pakṣmarogāḥ pakṣmakopaḥ pakṣmaśāto rogau dvau pakṣmasaṃśrayau",
         "iast_ru": "ити вартмаджа̄ рога̄х̣ атха пакш̣марога̄х̣ пакш̣макопах̣ пакш̣маш́а̄то рогау двау пакш̣масам̣ш́райау",
-        "text": "Так [изложены] болезни века. Теперь болезни ресниц. «Пакшма-копа» и «пакшма-шата» — эти две болезни, связанные с ресницами."
+        "text": "Так [изложены] болезни века. Теперь болезни ресниц. «Пакшма-копа» и «пакшма-шата» — эти две болезни, связанные с ресницами.",
+        "text_en": "Thus (are described) the diseases of the eyelid. Now the diseases of the eyelashes. Pakshma-kopa and Pakshmashata: these two diseases are connected with the eyelashes."
       },
       {
         "type": "verse",
@@ -84748,7 +84926,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रचालितानि वातेन पक्ष्माण्यक्षि विशन्ति हि घृष्यन्त्यक्षि मुहुस्तानि संरम्भं जनयन्ति च असिते सितभागे च मूलकोशात्पतन्त्यपि पक्ष्मकोपः स विज्ञेयो व्याधिः परमदारुणः",
         "iast": "pracālitāni vātena pakṣmāṇyakṣi viśanti hi ghṛṣyantyakṣi muhustāni saṃrambhaṃ janayanti ca asite sitabhāge ca mūlakośātpatantyapi pakṣmakopaḥ sa vijñeyo vyādhiḥ paramadāruṇaḥ",
         "iast_ru": "прача̄лита̄ни ва̄тена пакш̣ма̄н̣йакш̣и виш́анти хи гхр̣ш̣йантйакш̣и мухуста̄ни сам̣рамбхам̣ джанайанти ча асите ситабха̄ге ча мӯлакош́а̄тпатантйапи пакш̣макопах̣ са виджн̃ейо вйа̄дхих̣ парамада̄рун̣ах̣",
-        "text": "Ресницы, приведённые в движение ватхой, проникают в глаз; постоянно натирая глаз, они вызывают воспаление; выпадая из корневой оболочки на чёрную и белую части, — эту болезнь следует знать как «пакшма-копа» (возмущение ресниц), весьма ужасную."
+        "text": "Ресницы, приведённые в движение ватхой, проникают в глаз; постоянно натирая глаз, они вызывают воспаление; выпадая из корневой оболочки на чёрную и белую части, — эту болезнь следует знать как «пакшма-копа» (возмущение ресниц), весьма ужасную.",
+        "text_en": "Eyelashes set in motion by Vata enter the eye; constantly rubbing the eye, they cause inflammation; falling from the root sheath onto the black and white parts, this disease should be known as Pakshma-kopa (disturbance of the eyelashes), very terrible."
       },
       {
         "type": "verse",
@@ -84756,7 +84935,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यत्पक्ष्मदेहलद्यं मुक्त्वा वर्त्मनोऽन्त प्रजायते घर्षेत्पक्ष्मासिते श्वेते पक्ष्मकोपः च उच्यते",
         "iast": "yatpakṣmadehaladyaṃ muktvā vartmano'nta prajāyate gharṣetpakṣmāsite śvete pakṣmakopaḥ ca ucyate",
         "iast_ru": "йатпакш̣мадехаладйам̣ муктва̄ вартмано'нта праджа̄йате гхарш̣етпакш̣ма̄сите ш́вете пакш̣макопах̣ ча учйате",
-        "text": "То, что, оставив ресничную площадку, возникает у края века и натирает чёрную и белую части глаза, называется «пакшма-копа»."
+        "text": "То, что, оставив ресничную площадку, возникает у края века и натирает чёрную и белую части глаза, называется «пакшма-копа».",
+        "text_en": "That which, leaving the lash area, arises at the edge of the eyelid and rubs the black and white parts of the eye, is called Pakshma-kopa."
       },
       {
         "type": "verse",
@@ -84764,7 +84944,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्मपक्ष्माशयगतं पित्तं लोमानि शातयेत् कण्डूं दाहं च कुरुते पक्ष्मशातं तमादिशेत्",
         "iast": "vartmapakṣmāśayagataṃ pittaṃ lomāni śātayet kaṇḍūṃ dāhaṃ ca kurute pakṣmaśātaṃ tamādiśet",
         "iast_ru": "вартмапакш̣ма̄ш́айагатам̣ питтам̣ лома̄ни ш́а̄тайет кан̣д̣ӯм̣ да̄хам̣ ча куруте пакш̣маш́а̄там̣ тама̄диш́ет",
-        "text": "Питта, обосновавшаяся в веке и корне ресниц, вызывает выпадение волосков, зуд и жжение; это следует определить как «пакшма-шата»."
+        "text": "Питта, обосновавшаяся в веке и корне ресниц, вызывает выпадение волосков, зуд и жжение; это следует определить как «пакшма-шата».",
+        "text_en": "Pitta, lodged in the eyelid and root of the eyelashes, causes falling out of the hairs, itching and burning; this should be identified as Pakshmashata."
       },
       {
         "type": "verse",
@@ -84772,7 +84953,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति पक्ष्म रोगौ अथ सन्धिजा रोगाः पक्ष्मवर्त्मगतः सन्धिर्वर्त्मशुक्ल गतोऽपरः शुक्लकृष्ण गतश्चान्यः कृष्ण दृष्टिगतोऽपि च मतः कनीनक गतः षष्ठश्चापाङ्ग संश्रितः",
         "iast": "iti pakṣma rogau atha sandhijā rogāḥ pakṣmavartmagataḥ sandhirvartmaśukla gato'paraḥ śuklakṛṣṇa gataścānyaḥ kṛṣṇa dṛṣṭigato'pi ca mataḥ kanīnaka gataḥ ṣaṣṭhaścāpāṅga saṃśritaḥ",
         "iast_ru": "ити пакш̣ма рогау атха сандхиджа̄ рога̄х̣ пакш̣мавартмагатах̣ сандхирвартмаш́укла гато'парах̣ ш́уклакр̣ш̣н̣а гаташ́ча̄нйах̣ кр̣ш̣н̣а др̣ш̣т̣игато'пи ча матах̣ канӣнака гатах̣ ш̣аш̣т̣хаш́ча̄па̄н̇га сам̣ш́ритах̣",
-        "text": "Так [изложены] две болезни ресниц. Теперь болезни соединений. Соединение, [расположенное] у ресниц и века, другое — у века и белка, иное — у белка и чёрного [участка], также — у чёрного [участка] и зрачка, шестое соединение — у радужки, связанное с внешним углом глаза."
+        "text": "Так [изложены] две болезни ресниц. Теперь болезни соединений. Соединение, [расположенное] у ресниц и века, другое — у века и белка, иное — у белка и чёрного [участка], также — у чёрного [участка] и зрачка, шестое соединение — у радужки, связанное с внешним углом глаза.",
+        "text_en": "Thus (are described) the two diseases of the eyelashes. Now the diseases of the junctions. One junction (is located) at the eyelashes and eyelid, another at the eyelid and the white, another at the white and the black (area), also at the black (area) and the pupil, the sixth junction at the iris, connected with the outer corner of the eye."
       },
       {
         "type": "verse",
@@ -84780,7 +84962,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पूयालसः सोपनाहः स्रावाश्चत्वार एव च पर्वणिकाऽलजी जन्तुग्रन्थिः सन्धौ नवामयाः",
         "iast": "pūyālasaḥ sopanāhaḥ srāvāścatvāra eva ca parvaṇikā'lajī jantugranthiḥ sandhau navāmayāḥ",
         "iast_ru": "пӯйа̄ласах̣ сопана̄хах̣ сра̄ва̄ш́чатва̄ра ева ча парван̣ика̄'ладжӣ джантугрантхих̣ сандхау нава̄майа̄х̣",
-        "text": "«Пуйяласа», с обёртыванием, истечения — их четыре; «парваника», «аладжи», «джанту-грантхи» — [всего] девять болезней соединений."
+        "text": "«Пуйяласа», с обёртыванием, истечения — их четыре; «парваника», «аладжи», «джанту-грантхи» — [всего] девять болезней соединений.",
+        "text_en": "Puyalasa, with bandaging, discharges: these are four; Parvanika, Alaji, Jantugranthi: (altogether) nine diseases of the junctions."
       },
       {
         "type": "verse",
@@ -84788,7 +84971,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पक्वः शोथः सन्धिजः संस्रवेद्यः सान्द्रं पूयं पूति पूयालसाख्यः",
         "iast": "pakvaḥ śothaḥ sandhijaḥ saṃsravedyaḥ sāndraṃ pūyaṃ pūti pūyālasākhyaḥ",
         "iast_ru": "паквах̣ ш́отхах̣ сандхиджах̣ сам̣сраведйах̣ са̄ндрам̣ пӯйам̣ пӯти пӯйа̄ласа̄кхйах̣",
-        "text": "Созревший отёк соединения, истекающий густым, зловонным гноем, — называется «пуйяласа»."
+        "text": "Созревший отёк соединения, истекающий густым, зловонным гноем, — называется «пуйяласа».",
+        "text_en": "A ripened swelling of the junction, discharging thick, foul-smelling pus, is called Puyalasa."
       },
       {
         "type": "verse",
@@ -84796,7 +84980,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ग्रन्थिर्नाल्पो दृष्टिसन्धावपाकी कण्डूप्रायो नीरुजश्चोपनाहः",
         "iast": "granthirnālpo dṛṣṭisandhāvapākī kaṇḍūprāyo nīrujaścopanāhaḥ",
         "iast_ru": "грантхирна̄лпо др̣ш̣т̣исандха̄вапа̄кӣ кан̣д̣ӯпра̄йо нӣруджаш́чопана̄хах̣",
-        "text": "Узел не малый, несозревающий, в соединении у зрачка, преимущественно зудящий, безболезненный, с обёртыванием [форма]."
+        "text": "Узел не малый, несозревающий, в соединении у зрачка, преимущественно зудящий, безболезненный, с обёртыванием [форма].",
+        "text_en": "A knot not small, unripening, in the junction near the pupil, chiefly itching, painless, the (form) with bandaging."
       },
       {
         "type": "verse",
@@ -84804,7 +84989,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गत्वा सन्धीनश्रुमार्गेण दोषाः कुर्युः स्रावांल्लक्षणैः स्वैरुपेतान् तं हि स्रावं नेत्रनाडीति चैके लिङ्गं तस्या कीर्त्तयिष्ये चतुर्द्धा",
         "iast": "gatvā sandhīnaśrumārgeṇa doṣāḥ kuryuḥ srāvāṃllakṣaṇaiḥ svairupetān taṃ hi srāvaṃ netranāḍīti caike liṅgaṃ tasyā kīrttayiṣye caturddhā",
         "iast_ru": "гатва̄ сандхӣнаш́рума̄рген̣а дош̣а̄х̣ курйух̣ сра̄ва̄м̣ллакш̣ан̣аих̣ сваирупета̄н там̣ хи сра̄вам̣ нетрана̄д̣ӣти чаике лин̇гам̣ тасйа̄ кӣрттайиш̣йе чатурддха̄",
-        "text": "Доши, следуя по слёзному пути к соединению, вызывают истечения со своими собственными признаками; этот поток некоторые называют «нетра-нади» (глазным каналом); я изложу его признаки четырёх видов."
+        "text": "Доши, следуя по слёзному пути к соединению, вызывают истечения со своими собственными признаками; этот поток некоторые называют «нетра-нади» (глазным каналом); я изложу его признаки четырёх видов.",
+        "text_en": "The doshas, following the lacrimal path to the junction, cause discharges with their own characteristic signs; some call this flow Netra-nadi (eye channel); I shall describe its signs in four kinds."
       },
       {
         "type": "verse",
@@ -84812,7 +84998,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हारिद्रा भं पीतमुष्णं जलं वा पित्तस्रावः संस्रवेत्सन्धिमध्यात्",
         "iast": "hāridrā bhaṃ pītamuṣṇaṃ jalaṃ vā pittasrāvaḥ saṃsravetsandhimadhyāt",
         "iast_ru": "ха̄ридра̄ бхам̣ пӣтамуш̣н̣ам̣ джалам̣ ва̄ питтасра̄вах̣ сам̣сраветсандхимадхйа̄т",
-        "text": "Желтоватая, подобная куркуме, жёлтая, горячая вода, истекающая из середины соединения, — истечение от питты."
+        "text": "Желтоватая, подобная куркуме, жёлтая, горячая вода, истекающая из середины соединения, — истечение от питты.",
+        "text_en": "Yellowish, like turmeric, yellow, hot water flowing from the middle of the junction is the discharge due to Pitta."
       },
       {
         "type": "verse",
@@ -84820,7 +85007,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेतं सान्द्रं पिच्छिलं यः स्रवेत्तु श्लेष्मस्रावोऽसौ विकारः प्रदिष्टः",
         "iast": "śvetaṃ sāndraṃ picchilaṃ yaḥ sravettu śleṣmasrāvo'sau vikāraḥ pradiṣṭaḥ",
         "iast_ru": "ш́ветам̣ са̄ндрам̣ пиччхилам̣ йах̣ сраветту ш́леш̣масра̄во'сау вика̄рах̣ прадиш̣т̣ах̣",
-        "text": "У кого истекает белое, густое, слизистое — этот расстройство провозглашено истечением от капхи."
+        "text": "У кого истекает белое, густое, слизистое — этот расстройство провозглашено истечением от капхи.",
+        "text_en": "He from whom white, thick, mucous matter flows: this disorder is declared a discharge due to Kapha."
       },
       {
         "type": "verse",
@@ -84828,7 +85016,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोथः सन्धौ संस्रवेद्यस्तु पक्वः पूयं स्रावः सर्वजः सम्मतः स्यात्",
         "iast": "śothaḥ sandhau saṃsravedyastu pakvaḥ pūyaṃ srāvaḥ sarvajaḥ sammataḥ syāt",
         "iast_ru": "ш́отхах̣ сандхау сам̣сраведйасту паквах̣ пӯйам̣ сра̄вах̣ сарваджах̣ самматах̣ сйа̄т",
-        "text": "Отёк в соединении, истекающий, созревший гной — истечение от всех дош, так признано."
+        "text": "Отёк в соединении, истекающий, созревший гной — истечение от всех дош, так признано.",
+        "text_en": "A swelling in the junction discharging ripened pus is a discharge due to all the doshas; so it is recognized."
       },
       {
         "type": "verse",
@@ -84836,7 +85025,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तास्रावः शोणिताद्यो विकारो गच्छेदुष्णं तत्र रक्तं प्रभूतम्",
         "iast": "raktāsrāvaḥ śoṇitādyo vikāro gaccheduṣṇaṃ tatra raktaṃ prabhūtam",
         "iast_ru": "ракта̄сра̄вах̣ ш́он̣ита̄дйо вика̄ро гаччхедуш̣н̣ам̣ татра рактам̣ прабхӯтам",
-        "text": "Кровяное истечение — расстройство, [начинающееся] от крови и подобного; там истекает горячая, обильная кровь."
+        "text": "Кровяное истечение — расстройство, [начинающееся] от крови и подобного; там истекает горячая, обильная кровь.",
+        "text_en": "A bloody discharge is a disorder (beginning) from blood and the like; there hot, copious blood flows."
       },
       {
         "type": "verse",
@@ -84844,7 +85034,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताम्रा तन्वी दाहपाकोपपन्ना रक्ताज्ज्ञेया पर्वणी वृत्तशोका जाता सन्धौ कृष्णशुक्लेऽलजी स्यात्तस्मिन्नेव व्याहृता पूर्वलिङ्गैः",
         "iast": "tāmrā tanvī dāhapākopapannā raktājjñeyā parvaṇī vṛttaśokā jātā sandhau kṛṣṇaśukle'lajī syāttasminneva vyāhṛtā pūrvaliṅgaiḥ",
         "iast_ru": "та̄мра̄ танвӣ да̄хапа̄копапанна̄ ракта̄джджн̃ейа̄ парван̣ӣ вр̣тташ́ока̄ джа̄та̄ сандхау кр̣ш̣н̣аш́укле'ладжӣ сйа̄ттасминнева вйа̄хр̣та̄ пӯрвалин̇гаих̣",
-        "text": "Медная, тонкая, соединённая с жжением и созреванием, — следует знать как «парвани» от крови; кровоточащая и округлая, возникшая в соединении, в чёрном и белом [участке], — «аладжи», о ней сказано с теми же признаками, что и ранее."
+        "text": "Медная, тонкая, соединённая с жжением и созреванием, — следует знать как «парвани» от крови; кровоточащая и округлая, возникшая в соединении, в чёрном и белом [участке], — «аладжи», о ней сказано с теми же признаками, что и ранее.",
+        "text_en": "Coppery, thin, combined with burning and ripening, it should be known as Parvani from blood; bleeding and round, arising in the junction, in the black and white (area), is Alaji, spoken of with the same signs as before."
       },
       {
         "type": "verse",
@@ -84852,7 +85043,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जन्तुग्रन्थिर्वर्त्मनः पक्ष्मणश्च कण्डूं कुर्युर्जन्तवः सन्धिजाताः नानारूपा वर्त्मशुक्लान्तसन्धौ गच्छन्त्यन्तर्लोचनं दूषयन्तः",
         "iast": "jantugranthirvartmanaḥ pakṣmaṇaśca kaṇḍūṃ kuryurjantavaḥ sandhijātāḥ nānārūpā vartmaśuklāntasandhau gacchantyantarlocanaṃ dūṣayantaḥ",
         "iast_ru": "джантугрантхирвартманах̣ пакш̣ман̣аш́ча кан̣д̣ӯм̣ курйурджантавах̣ сандхиджа̄та̄х̣ на̄на̄рӯпа̄ вартмаш́укла̄нтасандхау гаччхантйантарлочанам̣ дӯш̣айантах̣",
-        "text": "«Джанту-грантхи» века и ресниц вызывают зуд; паразиты, возникшие в соединении, различного вида, проникают в соединении века и белка внутрь глаза, портя его."
+        "text": "«Джанту-грантхи» века и ресниц вызывают зуд; паразиты, возникшие в соединении, различного вида, проникают в соединении века и белка внутрь глаза, портя его.",
+        "text_en": "Jantugranthis of the eyelid and eyelashes cause itching; parasites arising in the junction, of various kinds, penetrate at the junction of eyelid and white into the eye, spoiling it."
       },
       {
         "type": "verse",
@@ -84860,7 +85052,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति सन्धिजा रोगाः अथ समस्तनेत्रजा रोगाः स्यन्दाश्चतुष्का इह सम्प्रदिष्टाश्चत्वार एवेह तथाऽधिमन्थाः पाकः सशोथः स च शोथहीनो हताधिमन्थोऽनिलपर्ययश्च",
         "iast": "iti sandhijā rogāḥ atha samastanetrajā rogāḥ syandāścatuṣkā iha sampradiṣṭāścatvāra eveha tathā'dhimanthāḥ pākaḥ saśothaḥ sa ca śothahīno hatādhimantho'nilaparyayaśca",
         "iast_ru": "ити сандхиджа̄ рога̄х̣ атха самастанетраджа̄ рога̄х̣ сйанда̄ш́чатуш̣ка̄ иха сампрадиш̣т̣а̄ш́чатва̄ра евеха татха̄'дхимантха̄х̣ па̄ках̣ саш́отхах̣ са ча ш́отхахӣно хата̄дхимантхо'нилапарйайаш́ча",
-        "text": "Так [изложены] болезни соединений. Теперь болезни, [охватывающие] весь глаз. Здесь провозглашены четыре вида истечений (сьянда), а также четыре вида «адхиматхи» (воспаления); созревание с отёком, оно же без отёка, «хата-адхиматха» (поражённое воспаление) и «анила-параяя» (искажение ватхи)."
+        "text": "Так [изложены] болезни соединений. Теперь болезни, [охватывающие] весь глаз. Здесь провозглашены четыре вида истечений (сьянда), а также четыре вида «адхиматхи» (воспаления); созревание с отёком, оно же без отёка, «хата-адхиматха» (поражённое воспаление) и «анила-параяя» (искажение ватхи).",
+        "text_en": "Thus (are described) the diseases of the junctions. Now the diseases (involving) the whole eye. Here four kinds of discharges (Syanda) are declared, and also four kinds of Adhimantha (inflammation); ripening with swelling, the same without swelling, Hata-adhimantha (destroyed inflammation) and Anila-paryaya (distortion by Vata)."
       },
       {
         "type": "verse",
@@ -84868,7 +85061,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुष्काक्षिपाकस्त्विह कीर्त्तितश्च तथाऽन्यतो वात उदीरितश्च दृष्टिस्तथाऽम्लाध्युषिता शिराणामुत्पातहर्षौ च समस्तनेत्रे",
         "iast": "śuṣkākṣipākastviha kīrttitaśca tathā'nyato vāta udīritaśca dṛṣṭistathā'mlādhyuṣitā śirāṇāmutpātaharṣau ca samastanetre",
         "iast_ru": "ш́уш̣ка̄кш̣ипа̄каствиха кӣрттиташ́ча татха̄'нйато ва̄та удӣриташ́ча др̣ш̣т̣истатха̄'мла̄дхйуш̣ита̄ ш́ира̄н̣а̄мутпа̄тахарш̣ау ча самастанетре",
-        "text": "Здесь провозглашено также «сушка-акши-пака» (сухое созревание глаза), а также иное — «анйато-вата» (ватха с другой стороны); «дришти-упатата» (поражение зрения), а также «амла-адхьюшита» (пропитанное кислым); «шира-утпата» и «шира-харша» (сосудистое возбуждение) — [эти все относятся] ко всему глазу."
+        "text": "Здесь провозглашено также «сушка-акши-пака» (сухое созревание глаза), а также иное — «анйато-вата» (ватха с другой стороны); «дришти-упатата» (поражение зрения), а также «амла-адхьюшита» (пропитанное кислым); «шира-утпата» и «шира-харша» (сосудистое возбуждение) — [эти все относятся] ко всему глазу.",
+        "text_en": "Here are also declared Shushka-akshipaka (dry ripening of the eye), and another, Anyato-vata (Vata from the other side); Drishti-upaghata (injury of vision), and also Amlaadhyushita (soaked with sour); Shirotpata and Shiraharsha (vascular excitation): (these all pertain) to the whole eye."
       },
       {
         "type": "verse",
@@ -84876,7 +85070,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एवं समस्तनेत्रे स्युरामया दश सप्त च तेषामिह पृथग्वक्ष्ये यथावल्लक्षणान्यपि",
         "iast": "evaṃ samastanetre syurāmayā daśa sapta ca teṣāmiha pṛthagvakṣye yathāvallakṣaṇānyapi",
         "iast_ru": "евам̣ самастанетре сйура̄майа̄ даш́а сапта ча теш̣а̄миха пр̣тхагвакш̣йе йатха̄валлакш̣ан̣а̄нйапи",
-        "text": "Таким образом, [болезней], [охватывающих] весь глаз, семнадцать; я изложу их отдельно, по порядку, вместе с признаками."
+        "text": "Таким образом, [болезней], [охватывающих] весь глаз, семнадцать; я изложу их отдельно, по порядку, вместе с признаками.",
+        "text_en": "Thus (the diseases) (involving) the whole eye are seventeen; I shall describe them separately, in order, together with their signs."
       },
       {
         "type": "verse",
@@ -84884,7 +85079,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातात्पित्तात्कफाद्र क्ता दभिष्यन्दश्चतुर्विधः प्रायेण जायते घोरःसर्वनेत्रामयाकरः",
         "iast": "vātātpittātkaphādra ktā dabhiṣyandaścaturvidhaḥ prāyeṇa jāyate ghoraḥsarvanetrāmayākaraḥ",
         "iast_ru": "ва̄та̄тпитта̄ткапха̄дра кта̄ дабхиш̣йандаш́чатурвидхах̣ пра̄йен̣а джа̄йате гхорах̣сарванетра̄майа̄карах̣",
-        "text": "От ватхи, от питты, от капхи, от крови — истечение (абхишьянда) четырёх видов; обычно оно ужасно, порождает все болезни глаза."
+        "text": "От ватхи, от питты, от капхи, от крови — истечение (абхишьянда) четырёх видов; обычно оно ужасно, порождает все болезни глаза.",
+        "text_en": "From Vata, from Pitta, from Kapha, from blood: the discharge (Abhishyanda) is of four kinds; usually it is terrible and gives rise to all diseases of the eye."
       },
       {
         "type": "verse",
@@ -84892,7 +85088,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निस्तोदनस्तम्भनरोमहर्षसंघर्षपारुष्यशिरोऽभितापाः विशुष्कभावः शिशिराश्रुता च वाताभिपन्ने नयने भवन्ति",
         "iast": "nistodanastambhanaromaharṣasaṃgharṣapāruṣyaśiro'bhitāpāḥ viśuṣkabhāvaḥ śiśirāśrutā ca vātābhipanne nayane bhavanti",
         "iast_ru": "нистоданастамбханаромахарш̣асам̣гхарш̣апа̄руш̣йаш́иро'бхита̄па̄х̣ виш́уш̣кабха̄вах̣ ш́иш́ира̄ш́рута̄ ча ва̄та̄бхипанне найане бхаванти",
-        "text": "Покалывание, оцепенение, гусиная кожа, натирание, шероховатость, жар головы, сухость и охлаждение слёз возникают в глазе, поражённом ватхой."
+        "text": "Покалывание, оцепенение, гусиная кожа, натирание, шероховатость, жар головы, сухость и охлаждение слёз возникают в глазе, поражённом ватхой.",
+        "text_en": "Pricking, numbness, horripilation, rubbing sensation, roughness, heat of the head, dryness and coldness of the tears arise in an eye afflicted by Vata."
       },
       {
         "type": "verse",
@@ -84900,7 +85097,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दाहः प्रपाकः शिशिराभिनन्दा धूमायनं वाष्पसमुद्भवश्च उष्णाश्रुता पीतकनेत्रता च पित्ताभिपन्ने नयने भवन्ति",
         "iast": "dāhaḥ prapākaḥ śiśirābhinandā dhūmāyanaṃ vāṣpasamudbhavaśca uṣṇāśrutā pītakanetratā ca pittābhipanne nayane bhavanti",
         "iast_ru": "да̄хах̣ прапа̄ках̣ ш́иш́ира̄бхинанда̄ дхӯма̄йанам̣ ва̄ш̣пасамудбхаваш́ча уш̣н̣а̄ш́рута̄ пӣтаканетрата̄ ча питта̄бхипанне найане бхаванти",
-        "text": "Жжение, созревание, приятие холода, дымление, испарение [пара], горячие слёзы и желтизна глаза возникают в глазе, поражённом питтой."
+        "text": "Жжение, созревание, приятие холода, дымление, испарение [пара], горячие слёзы и желтизна глаза возникают в глазе, поражённом питтой.",
+        "text_en": "Burning, ripening, liking for cold, fuming, evaporation (of vapor), hot tears and yellowness of the eye arise in an eye afflicted by Pitta."
       },
       {
         "type": "verse",
@@ -84908,7 +85106,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णाभिनन्दा गुरुताऽक्षिशोथः कण्डूपदेहावतिशीतता च स्रावो मुहुः पिच्छिल एव चापि कफाभिपन्ने नयने भवन्ति",
         "iast": "uṣṇābhinandā gurutā'kṣiśothaḥ kaṇḍūpadehāvatiśītatā ca srāvo muhuḥ picchila eva cāpi kaphābhipanne nayane bhavanti",
         "iast_ru": "уш̣н̣а̄бхинанда̄ гурута̄'кш̣иш́отхах̣ кан̣д̣ӯпадеха̄ватиш́ӣтата̄ ча сра̄во мухух̣ пиччхила ева ча̄пи капха̄бхипанне найане бхаванти",
-        "text": "Приятие тепла, тяжесть, отёк глаза, зуд, обмазанность и чрезмерный холод, а также частое слизистое истечение возникают в глазе, поражённом капхой."
+        "text": "Приятие тепла, тяжесть, отёк глаза, зуд, обмазанность и чрезмерный холод, а также частое слизистое истечение возникают в глазе, поражённом капхой.",
+        "text_en": "Liking for warmth, heaviness, swelling of the eye, itching, smearing and excessive coldness, and also frequent mucous discharge arise in an eye afflicted by Kapha."
       },
       {
         "type": "verse",
@@ -84916,7 +85115,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताम्राश्रुता लोहितनेत्रता च राज्यः समन्तादतिलोहिताश्च पित्तस्य लिङ्गानि च यानि तानि रक्ताभिपन्ने नयने भवन्ति",
         "iast": "tāmrāśrutā lohitanetratā ca rājyaḥ samantādatilohitāśca pittasya liṅgāni ca yāni tāni raktābhipanne nayane bhavanti",
         "iast_ru": "та̄мра̄ш́рута̄ лохитанетрата̄ ча ра̄джйах̣ саманта̄датилохита̄ш́ча питтасйа лин̇га̄ни ча йа̄ни та̄ни ракта̄бхипанне найане бхаванти",
-        "text": "Медные слёзы и покраснение глаза, полосы повсюду и чрезмерная краснота — эти признаки питты также возникают в глазе, поражённом кровью."
+        "text": "Медные слёзы и покраснение глаза, полосы повсюду и чрезмерная краснота — эти признаки питты также возникают в глазе, поражённом кровью.",
+        "text_en": "Coppery tears and redness of the eye, streaks everywhere and excessive redness: these signs of Pitta also arise in an eye afflicted by blood."
       },
       {
         "type": "verse",
@@ -84924,7 +85124,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वृद्धैरेतैरभिष्यन्दैर्नराणाम क्रियावताम् तावन्तस्त्वधिमन्थाः स्युर्नयने तीव्रवेदनाः",
         "iast": "vṛddhairetairabhiṣyandairnarāṇāma kriyāvatām tāvantastvadhimanthāḥ syurnayane tīvravedanāḥ",
         "iast_ru": "вр̣ддхаиретаирабхиш̣йандаирнара̄н̣а̄ма крийа̄вата̄м та̄вантаствадхимантха̄х̣ сйурнайане тӣвраведана̄х̣",
-        "text": "У людей, не применяющих лечение, эти истечения, усилившись, становятся «адхиматхами», [вызывающими] сильную боль в глазу."
+        "text": "У людей, не применяющих лечение, эти истечения, усилившись, становятся «адхиматхами», [вызывающими] сильную боль в глазу.",
+        "text_en": "In people who do not apply treatment, these discharges, having increased, become Adhimanthas, (causing) severe pain in the eye."
       },
       {
         "type": "verse",
@@ -84932,7 +85133,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उत्पाट्यत इवात्यर्थं तथा निर्मथ्यतेऽपि च शिरसोऽद्ध तु तं विद्यादधिमन्थं स्वलक्षणैः",
         "iast": "utpāṭyata ivātyarthaṃ tathā nirmathyate'pi ca śiraso'ddha tu taṃ vidyādadhimanthaṃ svalakṣaṇaiḥ",
         "iast_ru": "утпа̄т̣йата ива̄тйартхам̣ татха̄ нирматхйате'пи ча ш́ирасо'ддха ту там̣ видйа̄дадхимантхам̣ свалакш̣ан̣аих̣",
-        "text": "Кажется, что [глаз] чрезмерно вырывают и как бы взбалтывают, а также [ощущается] в половине головы; это следует знать как «адхиматху» по её собственным признакам."
+        "text": "Кажется, что [глаз] чрезмерно вырывают и как бы взбалтывают, а также [ощущается] в половине головы; это следует знать как «адхиматху» по её собственным признакам.",
+        "text_en": "It seems as if (the eye) is being excessively torn out and as if churned, and (it is felt) also in half of the head; this should be known as Adhimantha by its own signs."
       },
       {
         "type": "verse",
@@ -84940,7 +85142,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हन्याद् दृष्टिं श्लैष्मिकः सप्तरात्राद्योऽधीमन्थो रक्तजः पञ्चरात्रात् षड्रात्राद्वा वातिको वै निहन्यान्मिथ्याऽचारात्पैत्तिकः सद्य एव",
         "iast": "hanyād dṛṣṭiṃ ślaiṣmikaḥ saptarātrādyo'dhīmantho raktajaḥ pañcarātrāt ṣaḍrātrādvā vātiko vai nihanyānmithyā'cārātpaittikaḥ sadya eva",
         "iast_ru": "ханйа̄д др̣ш̣т̣им̣ ш́лаиш̣миках̣ саптара̄тра̄дйо'дхӣмантхо рактаджах̣ пан̃чара̄тра̄т ш̣ад̣ра̄тра̄два̄ ва̄тико ваи ниханйа̄нмитхйа̄'ча̄ра̄тпаиттиках̣ садйа ева",
-        "text": "Капховый «адхиматха» губит зрение за семь ночей; кровяной — за пять ночей; ватховый — за шесть ночей; питтовый же от неправильного поведения губит немедленно."
+        "text": "Капховый «адхиматха» губит зрение за семь ночей; кровяной — за пять ночей; ватховый — за шесть ночей; питтовый же от неправильного поведения губит немедленно.",
+        "text_en": "Kapha-type Adhimantha destroys vision in seven nights; the blood type in five nights; the Vata type in six nights; the Pitta type, however, through improper conduct, destroys it immediately."
       },
       {
         "type": "verse",
@@ -84948,7 +85151,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कण्डूपदेहाश्रुयुतः पक्वोदुम्बरसन्निभः संरम्भी पच्यते यस्तु नेत्रपाकः सशोथकः शोथहीनानि लिङ्गानि नेत्रपाके त्वशोथजे",
         "iast": "kaṇḍūpadehāśruyutaḥ pakvodumbarasannibhaḥ saṃrambhī pacyate yastu netrapākaḥ saśothakaḥ śothahīnāni liṅgāni netrapāke tvaśothaje",
         "iast_ru": "кан̣д̣ӯпадеха̄ш́руйутах̣ пакводумбарасаннибхах̣ сам̣рамбхӣ пачйате йасту нетрапа̄ках̣ саш́отхаках̣ ш́отхахӣна̄ни лин̇га̄ни нетрапа̄ке тваш́отхадже",
-        "text": "Соединённый с зудом, обмазанностью и слезами, подобный зрелому плоду смоковницы, воспалённый, созревающий, с отёком — это «нетра-пака» (созревание глаза); признаки без отёка — при «нетра-паке» без воспаления."
+        "text": "Соединённый с зудом, обмазанностью и слезами, подобный зрелому плоду смоковницы, воспалённый, созревающий, с отёком — это «нетра-пака» (созревание глаза); признаки без отёка — при «нетра-паке» без воспаления.",
+        "text_en": "Combined with itching, smearing and tears, resembling a ripe fig fruit, inflamed, ripening, with swelling: this is Netra-paka (ripening of the eye); the signs without swelling are in Netra-paka without inflammation."
       },
       {
         "type": "verse",
@@ -84956,7 +85160,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उपेक्षणादक्षि यदाऽधिमन्थो वाताधिकः शोषयति प्रसह्य रुजाभिरुग्राभिरसाध्य एष हताधिमन्थः खलु नाम रोगः",
         "iast": "upekṣaṇādakṣi yadā'dhimantho vātādhikaḥ śoṣayati prasahya rujābhirugrābhirasādhya eṣa hatādhimanthaḥ khalu nāma rogaḥ",
         "iast_ru": "упекш̣ан̣а̄дакш̣и йада̄'дхимантхо ва̄та̄дхиках̣ ш́ош̣айати прасахйа руджа̄бхиругра̄бхираса̄дхйа еш̣а хата̄дхимантхах̣ кхалу на̄ма рогах̣",
-        "text": "Когда от пренебрежения [лечением] «адхиматха» с преобладанием ватхи насильственно высушивает глаз сильными, жестокими болями, — этот неизлечимый расстройство называется «хата-адхиматха»."
+        "text": "Когда от пренебрежения [лечением] «адхиматха» с преобладанием ватхи насильственно высушивает глаз сильными, жестокими болями, — этот неизлечимый расстройство называется «хата-адхиматха».",
+        "text_en": "When, through neglect (of treatment), Adhimantha with predominance of Vata forcibly dries up the eye with strong, cruel pains, this incurable disorder is called Hata-adhimantha."
       },
       {
         "type": "verse",
@@ -84964,7 +85169,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वारंवारञ्च पर्येति भ्रुवौ नेत्रे च मारुतः रुजाश्च विविधास्तीव्राः स ज्ञेयो वातपर्ययः",
         "iast": "vāraṃvārañca paryeti bhruvau netre ca mārutaḥ rujāśca vividhāstīvrāḥ sa jñeyo vātaparyayaḥ",
         "iast_ru": "ва̄рам̣ва̄ран̃ча парйети бхрувау нетре ча ма̄рутах̣ руджа̄ш́ча вивидха̄стӣвра̄х̣ са джн̃ейо ва̄тапарйайах̣",
-        "text": "Ватха, кружащая многократно в бровях и глазах, [вызывая] различные сильные боли, — это следует знать как «вата-параяя» (искажение ватхи)."
+        "text": "Ватха, кружащая многократно в бровях и глазах, [вызывая] различные сильные боли, — это следует знать как «вата-параяя» (искажение ватхи).",
+        "text_en": "Vata, circling repeatedly in the eyebrows and eyes, (causing) various severe pains: this should be known as Vata-paryaya (distortion by Vata)."
       },
       {
         "type": "verse",
@@ -84972,7 +85178,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यत्कूणितं दारुणरूक्षवर्त्म सन्दह्यते चाविलदर्शनं यत् सुदारुणं यत्प्रतिबोधने च शुष्काक्षिपाकोपहतं तदक्षि",
         "iast": "yatkūṇitaṃ dāruṇarūkṣavartma sandahyate cāviladarśanaṃ yat sudāruṇaṃ yatpratibodhane ca śuṣkākṣipākopahataṃ tadakṣi",
         "iast_ru": "йаткӯн̣итам̣ да̄рун̣арӯкш̣авартма сандахйате ча̄виладарш́анам̣ йат суда̄рун̣ам̣ йатпратибодхане ча ш́уш̣ка̄кш̣ипа̄копахатам̣ тадакш̣и",
-        "text": "У кого сжатое, жестокое, сухое веко, обожжённое, с мутным зрением, весьма жестокое, а также при пробуждении [ощущается сильно], — это глаз, поражённый «сушка-акши-пакой» (сухим созреванием)."
+        "text": "У кого сжатое, жестокое, сухое веко, обожжённое, с мутным зрением, весьма жестокое, а также при пробуждении [ощущается сильно], — это глаз, поражённый «сушка-акши-пакой» (сухим созреванием).",
+        "text_en": "He whose eyelid is contracted, cruel, dry, burnt, with clouded vision, very cruel, and also (felt strongly) on awakening: this is an eye afflicted by Shushka-akshipaka (dry ripening)."
       },
       {
         "type": "verse",
@@ -84980,7 +85187,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यस्यावटूकर्णशिरोहनुस्थो मन्यागतो वाऽप्यनिलोऽन्यतो वा कुर्याद्रुजोऽति भ्रुवि लोचने च तमन्यतोवातमुदाहरन्ति",
         "iast": "yasyāvaṭūkarṇaśirohanustho manyāgato vā'pyanilo'nyato vā kuryādrujo'ti bhruvi locane ca tamanyatovātamudāharanti",
         "iast_ru": "йасйа̄ват̣ӯкарн̣аш́ироханустхо манйа̄гато ва̄'пйанило'нйато ва̄ курйа̄друджо'ти бхруви лочане ча таманйатова̄тамуда̄харанти",
-        "text": "У кого ватха, обосновавшаяся в подмышке, ухе, голове или шее, или в другом месте, вызывает сильную боль в брови и глазу, — это называют «аньято-вата» (ватха с другой стороны)."
+        "text": "У кого ватха, обосновавшаяся в подмышке, ухе, голове или шее, или в другом месте, вызывает сильную боль в брови и глазу, — это называют «аньято-вата» (ватха с другой стороны).",
+        "text_en": "He in whom Vata, settled in the armpit, ear, head or neck, or in another place, causes severe pain in the eyebrow and eye, this is called Anyato-vata (Vata from the other side)."
       },
       {
         "type": "verse",
@@ -84988,7 +85196,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्यावं लोहितपर्यन्तं सर्वमक्षि प्रपच्यते सदाहशोथं सास्रावमम्लाध्युषितमम्लतः",
         "iast": "śyāvaṃ lohitaparyantaṃ sarvamakṣi prapacyate sadāhaśothaṃ sāsrāvamamlādhyuṣitamamlataḥ",
         "iast_ru": "ш́йа̄вам̣ лохитапарйантам̣ сарвамакш̣и прапачйате сада̄хаш́отхам̣ са̄сра̄вамамла̄дхйуш̣итамамлатах̣",
-        "text": "Тёмный, с красными краями, весь глаз созревает, с жжением и отёком, с истечением, пропитанный кислым от кислой [пищи]."
+        "text": "Тёмный, с красными краями, весь глаз созревает, с жжением и отёком, с истечением, пропитанный кислым от кислой [пищи].",
+        "text_en": "Dark, with red edges, the whole eye ripens, with burning and swelling, with discharge, soaked with sour from sour (food)."
       },
       {
         "type": "verse",
@@ -84996,7 +85205,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अवेदना वाऽपि सवेदना वा यस्याक्षिराज्यो हि भवन्ति ताम्राः मुहुर्विरज्यन्ति च याः समन्ताद् व्याधिः शिरोत्पात इति प्रदिष्टः",
         "iast": "avedanā vā'pi savedanā vā yasyākṣirājyo hi bhavanti tāmrāḥ muhurvirajyanti ca yāḥ samantād vyādhiḥ śirotpāta iti pradiṣṭaḥ",
         "iast_ru": "аведана̄ ва̄'пи саведана̄ ва̄ йасйа̄кш̣ира̄джйо хи бхаванти та̄мра̄х̣ мухурвираджйанти ча йа̄х̣ саманта̄д вйа̄дхих̣ ш́иротпа̄та ити прадиш̣т̣ах̣",
-        "text": "Безболезненные или болезненные полосы в глазу, медные, многократно теряющие цвет со всех сторон, — эта болезнь называется «широтпата» (сосудистое возбуждение)."
+        "text": "Безболезненные или болезненные полосы в глазу, медные, многократно теряющие цвет со всех сторон, — эта болезнь называется «широтпата» (сосудистое возбуждение).",
+        "text_en": "Painless or painful streaks in the eye, coppery, repeatedly losing color on all sides: this disease is called Shirotpata (vascular excitation)."
       },
       {
         "type": "verse",
@@ -85004,7 +85214,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मोहाच्छिरोत्पात उपेक्षितस्तु जायेत रोगः स शिराप्रहर्षः ताम्राक्षिता स्रावयति प्रगाढं तथा न शक्नोत्यभिवीक्षितुञ्च",
         "iast": "mohācchirotpāta upekṣitastu jāyeta rogaḥ sa śirāpraharṣaḥ tāmrākṣitā srāvayati pragāḍhaṃ tathā na śaknotyabhivīkṣituñca",
         "iast_ru": "моха̄ччхиротпа̄та упекш̣итасту джа̄йета рогах̣ са ш́ира̄прахарш̣ах̣ та̄мра̄кш̣ита̄ сра̄вайати прага̄д̣хам̣ татха̄ на ш́акнотйабхивӣкш̣итун̃ча",
-        "text": "От неведения, при пренебрежении «широтпатой», возникает болезнь «шира-харша» (сосудистое ликование); медный глаз обильно истекает, и [больной] не может ясно видеть."
+        "text": "От неведения, при пренебрежении «широтпатой», возникает болезнь «шира-харша» (сосудистое ликование); медный глаз обильно истекает, и [больной] не может ясно видеть.",
+        "text_en": "From ignorance, in neglect of Shirotpata, the disease Shiraharsha (vascular exultation) arises; the coppery eye discharges copiously, and (the patient) cannot see clearly."
       },
       {
         "type": "verse",
@@ -85012,7 +85223,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उदीर्णवेदनं नेत्रं रागशोथसमन्वितम् घर्षनिस्तोदशूलाश्रुयुक्तमामान्वितं विदुः",
         "iast": "udīrṇavedanaṃ netraṃ rāgaśothasamanvitam gharṣanistodaśūlāśruyuktamāmānvitaṃ viduḥ",
         "iast_ru": "удӣрн̣аведанам̣ нетрам̣ ра̄гаш́отхасаманвитам гхарш̣анистодаш́ӯла̄ш́руйуктама̄ма̄нвитам̣ видух̣",
-        "text": "Глаз с усиленной болью, соединённый с покраснением и отёком, с натиранием, покалыванием, коликой и слезами, — следует знать как незрелый (áма)."
+        "text": "Глаз с усиленной болью, соединённый с покраснением и отёком, с натиранием, покалыванием, коликой и слезами, — следует знать как незрелый (áма).",
+        "text_en": "An eye with intensified pain, combined with redness and swelling, with rubbing, pricking, colic and tears, should be known as unripe (Ama)."
       },
       {
         "type": "verse",
@@ -85020,7 +85232,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मन्दवेदनताकण्डू संरम्भाश्रुप्रशान्तताः प्रसन्नवर्णता चाक्ष्णोर्निरामेक्षणलक्षणम्",
         "iast": "mandavedanatākaṇḍū saṃrambhāśrupraśāntatāḥ prasannavarṇatā cākṣṇornirāmekṣaṇalakṣaṇam",
         "iast_ru": "мандаведаната̄кан̣д̣ӯ сам̣рамбха̄ш́рупраш́а̄нтата̄х̣ прасаннаварн̣ата̄ ча̄кш̣н̣орнира̄мекш̣ан̣алакш̣ан̣ам",
-        "text": "Умеренная боль, зуд, спокойствие воспаления и слёз, ясный цвет глаз — признаки глаза без незрелости (нирама)."
+        "text": "Умеренная боль, зуд, спокойствие воспаления и слёз, ясный цвет глаз — признаки глаза без незрелости (нирама).",
+        "text_en": "Moderate pain, itching, calm of inflammation and tears, clear color of the eyes: signs of an eye without Ama (Nirama)."
       },
       {
         "type": "verse",
@@ -85028,7 +85241,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति समस्तनेत्रजा रोगाः द्वे पादमध्ये पृथुसन्निवेशे शिरोगते ते बहुधा हि नेत्रे ताः प्रोक्षणोत्सादनलेपनादीन्पादप्रयुक्तान्नयनं नयन्ति",
         "iast": "iti samastanetrajā rogāḥ dve pādamadhye pṛthusanniveśe śirogate te bahudhā hi netre tāḥ prokṣaṇotsādanalepanādīnpādaprayuktānnayanaṃ nayanti",
         "iast_ru": "ити самастанетраджа̄ рога̄х̣ две па̄дамадхйе пр̣тхусаннивеш́е ш́ирогате те бахудха̄ хи нетре та̄х̣ прокш̣ан̣отса̄даналепана̄дӣнпа̄дапрайукта̄ннайанам̣ найанти",
-        "text": "Так [изложены] болезни, [охватывающие] весь глаз. Две [стопы], в широком расположении между ними, [связанные] с головой, — они многообразно [влияют] на оба глаза; орошение, растирание, мазь и подобное, применяемое на стопах, ведёт [пользу] к глазам."
+        "text": "Так [изложены] болезни, [охватывающие] весь глаз. Две [стопы], в широком расположении между ними, [связанные] с головой, — они многообразно [влияют] на оба глаза; орошение, растирание, мазь и подобное, применяемое на стопах, ведёт [пользу] к глазам.",
+        "text_en": "Thus (are described) the diseases (involving) the whole eye. The two (feet), in broad placement between them, (connected) with the head, they influence both eyes in many ways; irrigation, rubbing, ointment and the like applied to the feet lead to benefit for the eyes."
       },
       {
         "type": "verse",
@@ -85036,7 +85250,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मलोष्मसंघट्टनपीडनाद्यैस्ता दूषयन्ते नयनानि दुष्टाः भजेत्सदा दृष्टिहितानि तस्मादुपानदभ्यञ्जनधावनानि",
         "iast": "maloṣmasaṃghaṭṭanapīḍanādyaistā dūṣayante nayanāni duṣṭāḥ bhajetsadā dṛṣṭihitāni tasmādupānadabhyañjanadhāvanāni",
         "iast_ru": "малош̣масам̣гхат̣т̣анапӣд̣ана̄дйаиста̄ дӯш̣айанте найана̄ни душ̣т̣а̄х̣ бхаджетсада̄ др̣ш̣т̣ихита̄ни тасма̄дупа̄надабхйан̃джанадха̄вана̄ни",
-        "text": "От соприкосновения с нечистотой и жаром, от сдавливания и подобного [ноги] портят глаза; поэтому следует всегда применять полезное для зрения: обувь, растирание маслом и омывание [стоп]."
+        "text": "От соприкосновения с нечистотой и жаром, от сдавливания и подобного [ноги] портят глаза; поэтому следует всегда применять полезное для зрения: обувь, растирание маслом и омывание [стоп].",
+        "text_en": "From contact with impurity and heat, from pressure and the like, (the feet) spoil the eyes; therefore one should always use what is good for vision: footwear, oil massage and washing (of the feet)."
       },
       {
         "type": "verse",
@@ -85044,7 +85259,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चक्षुष्याः शालयो मुद्गा यवा मांसन्तु जाङ्गलम् पक्षिमांसं विशेषेण वास्तूकं तण्डूलीयकम् पटोलकर्कोटककारवेल्लफलानि सर्पिः परिपाचितानि तथैव वार्त्ताकफलं नवीनमक्ष्णोर्हितः स्वादुरथापि तिक्तः कट्वम्लगुरु तीक्ष्णोष्णमाषनिष्पावमैथुनम् मद्यवल्लूरपिण्याकमत्स्य शाकविरूढजम् विदाहीन्यन्नपानानि नहितान्यक्षिरोगिणे सेक आश्च्योतनं पिण्डी विडालस्तर्पणं तथा पुटपाकोऽञ्जनं चैभिः कल्कैर्नेत्रमुपाचरेत्",
         "iast": "cakṣuṣyāḥ śālayo mudgā yavā māṃsantu jāṅgalam pakṣimāṃsaṃ viśeṣeṇa vāstūkaṃ taṇḍūlīyakam paṭolakarkoṭakakāravellaphalāni sarpiḥ paripācitāni tathaiva vārttākaphalaṃ navīnamakṣṇorhitaḥ svādurathāpi tiktaḥ kaṭvamlaguru tīkṣṇoṣṇamāṣaniṣpāvamaithunam madyavallūrapiṇyākamatsya śākavirūḍhajam vidāhīnyannapānāni nahitānyakṣirogiṇe seka āścyotanaṃ piṇḍī viḍālastarpaṇaṃ tathā puṭapāko'ñjanaṃ caibhiḥ kalkairnetramupācaret",
         "iast_ru": "чакш̣уш̣йа̄х̣ ш́а̄лайо мудга̄ йава̄ ма̄м̣санту джа̄н̇галам пакш̣има̄м̣сам̣ виш́еш̣ен̣а ва̄стӯкам̣ тан̣д̣ӯлӣйакам пат̣олакаркот̣акака̄равеллапхала̄ни сарпих̣ парипа̄чита̄ни татхаива ва̄ртта̄капхалам̣ навӣнамакш̣н̣орхитах̣ сва̄дуратха̄пи тиктах̣ кат̣вамлагуру тӣкш̣н̣ош̣н̣ама̄ш̣аниш̣па̄вамаитхунам мадйаваллӯрапин̣йа̄каматсйа ш́а̄кавирӯд̣хаджам вида̄хӣнйаннапа̄на̄ни нахита̄нйакш̣ирогин̣е сека а̄ш́чйотанам̣ пин̣д̣ӣ вид̣а̄ластарпан̣ам̣ татха̄ пут̣апа̄ко'н̃джанам̣ чаибхих̣ калкаирнетрамупа̄чарет",
-        "text": "Полезны для зрения: рис шали, мунг, ячмень, мясо диких [животных], особенно мясо птиц, вастука, тандулияка, плоды патолы, каркотаки и кравеллы, гхи, хорошо приготовленное, а также свежий плод баклажана, сладкий или горький; острое, кислое, тяжёлое, резкое и горячее, урад, бобы, половые сношения, вино, сушёное мясо, жмых, рыба, овощи и проросшее [зерно], а также вызывающая жжение еда и питьё — не полезны страдающему глазной болезнью. Орошение, закапывание, компресс, «видала», «тарпана», «путапака» и мазь (анджана) — этими пастами следует лечить глаз."
+        "text": "Полезны для зрения: рис шали, мунг, ячмень, мясо диких [животных], особенно мясо птиц, вастука, тандулияка, плоды патолы, каркотаки и кравеллы, гхи, хорошо приготовленное, а также свежий плод баклажана, сладкий или горький; острое, кислое, тяжёлое, резкое и горячее, урад, бобы, половые сношения, вино, сушёное мясо, жмых, рыба, овощи и проросшее [зерно], а также вызывающая жжение еда и питьё — не полезны страдающему глазной болезнью. Орошение, закапывание, компресс, «видала», «тарпана», «путапака» и мазь (анджана) — этими пастами следует лечить глаз.",
+        "text_en": "Beneficial for vision are: Shali rice, mung, barley, meat of wild animals, especially meat of birds, Vastuka, Tanduliyaka, fruits of Patola, Karkotaki and Karavella, well-prepared ghee, and also the fresh fruit of eggplant, sweet or bitter; pungent, sour, heavy, sharp and hot things, Masha, beans, sexual intercourse, wine, dried meat, oil cake, fish, vegetables and sprouted (grain), and also food and drink that cause burning, are not beneficial for one suffering from an eye disease. Irrigation, instillation, compress, Vidalaka, Tarpana, Putapaka and ointment (Anjana): with these pastes the eye should be treated."
       },
       {
         "type": "verse",
@@ -85052,7 +85268,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सेकस्तु सूक्ष्मधाराभिः सर्वस्मिन्नयने हितः मीलिताक्षस्य मर्त्यस्य प्रदेयश्चतुरङ्गुलः",
         "iast": "sekastu sūkṣmadhārābhiḥ sarvasminnayane hitaḥ mīlitākṣasya martyasya pradeyaścaturaṅgulaḥ",
         "iast_ru": "секасту сӯкш̣мадха̄ра̄бхих̣ сарвасминнайане хитах̣ мӣлита̄кш̣асйа мартйасйа прадейаш́чатуран̇гулах̣",
-        "text": "Орошение тонкими струями полезно при всех [болезнях] глаза; [его] следует давать человеку с закрытыми глазами, на расстоянии четырёх пальцев."
+        "text": "Орошение тонкими струями полезно при всех [болезнях] глаза; [его] следует давать человеку с закрытыми глазами, на расстоянии четырёх пальцев.",
+        "text_en": "Irrigation (Seka) with fine streams is beneficial in all (diseases) of the eye; (it) should be given to a person with closed eyes, at a distance of four finger-breadths."
       },
       {
         "type": "verse",
@@ -85060,7 +85277,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स चापि स्नेहनो वाते पित्ते रक्ते च रोपणः लेखनस्तु कफे कार्यस्तस्य मात्राऽभिधीयते",
         "iast": "sa cāpi snehano vāte pitte rakte ca ropaṇaḥ lekhanastu kaphe kāryastasya mātrā'bhidhīyate",
         "iast_ru": "са ча̄пи снехано ва̄те питте ракте ча ропан̣ах̣ лекханасту капхе ка̄рйастасйа ма̄тра̄'бхидхӣйате",
-        "text": "Оно также маслянисто при ватхе, питте и крови — заживляющее; при капхе же должно быть очищающим; его дозировка обозначается."
+        "text": "Оно также маслянисто при ватхе, питте и крови — заживляющее; при капхе же должно быть очищающим; его дозировка обозначается.",
+        "text_en": "It is also unctuous in Vata, Pitta and blood, healing; in Kapha, however, it should be cleansing; its dosage is indicated."
       },
       {
         "type": "verse",
@@ -85068,7 +85286,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "षड्भिर्वाचां शतैः स्नेहे चतुर्भिस्तैस्तु रोपणे तैस्त्रिभिर्लोचने कार्यः सेको नेत्रप्रसादने",
         "iast": "ṣaḍbhirvācāṃ śataiḥ snehe caturbhistaistu ropaṇe taistribhirlocane kāryaḥ seko netraprasādane",
         "iast_ru": "ш̣ад̣бхирва̄ча̄м̣ ш́атаих̣ снехе чатурбхистаисту ропан̣е таистрибхирлочане ка̄рйах̣ секо нетрапраса̄дане",
-        "text": "Шестьюстами слов [времени] — при маслянистом; четырьмястами — при заживляющем; тремястами — при очищающем глаза; таково орошение для успокоения глаза."
+        "text": "Шестьюстами слов [времени] — при маслянистом; четырьмястами — при заживляющем; тремястами — при очищающем глаза; таково орошение для успокоения глаза.",
+        "text_en": "By six hundred words (of time) for the unctuous; four hundred for the healing; three hundred for the cleansing of the eyes; such is the irrigation for pacifying the eye."
       },
       {
         "type": "verse",
@@ -85076,7 +85295,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निमेषोन्मेषणं पुंसामङ्गुल्या च्छोटिकाऽथवा गुर्वक्षरोच्चारणं वा वाङ्मात्रेयं स्मृता बुधैः",
         "iast": "nimeṣonmeṣaṇaṃ puṃsāmaṅgulyā cchoṭikā'thavā gurvakṣaroccāraṇaṃ vā vāṅmātreyaṃ smṛtā budhaiḥ",
         "iast_ru": "нимеш̣онмеш̣ан̣ам̣ пум̣са̄ман̇гулйа̄ ччхот̣ика̄'тхава̄ гурвакш̣арочча̄ран̣ам̣ ва̄ ва̄н̇ма̄трейам̣ смр̣та̄ будхаих̣",
-        "text": "Мигание и открытие глаз человеком, или щелчок пальцем, или произнесение долгого слога — мудрые считают такой [промежуток времени] единицей измерения слова (вачи)."
+        "text": "Мигание и открытие глаз человеком, или щелчок пальцем, или произнесение долгого слога — мудрые считают такой [промежуток времени] единицей измерения слова (вачи).",
+        "text_en": "Blinking and opening of the eyes by a person, or a snap of the fingers, or pronouncing a long syllable: the wise consider such (an interval of time) a unit of measure of speech (Vachi)."
       },
       {
         "type": "verse",
@@ -85084,7 +85304,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सेकस्तु दिवसे कार्यो रात्रावत्यन्तिके गदे एरण्डदलमूलत्वक्छृतमाजं पयो हितम् सुखोष्णं नेत्रयोः सिक्तं वाताभिष्यन्दनाशनम्",
         "iast": "sekastu divase kāryo rātrāvatyantike gade eraṇḍadalamūlatvakchṛtamājaṃ payo hitam sukhoṣṇaṃ netrayoḥ siktaṃ vātābhiṣyandanāśanam",
         "iast_ru": "секасту дивасе ка̄рйо ра̄тра̄ватйантике гаде еран̣д̣адаламӯлатвакчхр̣тама̄джам̣ пайо хитам сукхош̣н̣ам̣ нетрайох̣ сиктам̣ ва̄та̄бхиш̣йандана̄ш́анам",
-        "text": "Орошение днём следует делать; при ночной болезни — предельно; кора и корень листа касторового [дерева], сваренные с козьим молоком, — этим орошением, тёплым, устраняется истечение от ватхи."
+        "text": "Орошение днём следует делать; при ночной болезни — предельно; кора и корень листа касторового [дерева], сваренные с козьим молоком, — этим орошением, тёплым, устраняется истечение от ватхи.",
+        "text_en": "Irrigation should be done by day; in a night disease, to the utmost; the bark and root of the leaf of the castor (tree), cooked with goat's milk: by this irrigation, warm, the discharge due to Vata is removed."
       },
       {
         "type": "verse",
@@ -85092,7 +85313,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पथ्याऽक्षामलखाखसवल्कलकल्केन सूक्ष्मवस्त्रेण कृत्वा पोटलिकां तामहिफेनोत्थद्र वेण संयुक्ताम्",
         "iast": "pathyā'kṣāmalakhākhasavalkalakalkena sūkṣmavastreṇa kṛtvā poṭalikāṃ tāmahiphenotthadra veṇa saṃyuktām",
         "iast_ru": "патхйа̄'кш̣а̄малакха̄кхасавалкалакалкена сӯкш̣мавастрен̣а кр̣тва̄ пот̣алика̄м̣ та̄махипхеноттхадра вен̣а сам̣йукта̄м",
-        "text": "Харитаки, каменная соль, амалаки, кора мака, растёртые в пасту через тонкую ткань, сделав узелок, соединённый с опийным соком,"
+        "text": "Харитаки, каменная соль, амалаки, кора мака, растёртые в пасту через тонкую ткань, сделав узелок, соединённый с опийным соком,",
+        "text_en": "Haritaki, rock salt, Amalaki, poppy bark, ground into a paste through a fine cloth, making a small bundle, combined with opium juice,"
       },
       {
         "type": "verse",
@@ -85100,7 +85322,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निदधीत लोचने स्यात्सर्वाभिष्यन्दसंक्षयः शीघ्रम् योगोऽयमृषिभिरुक्तो जगदुपकाराय कारुणिकैः",
         "iast": "nidadhīta locane syātsarvābhiṣyandasaṃkṣayaḥ śīghram yogo'yamṛṣibhirukto jagadupakārāya kāruṇikaiḥ",
         "iast_ru": "нидадхӣта лочане сйа̄тсарва̄бхиш̣йандасам̣кш̣айах̣ ш́ӣгхрам його'йамр̣ш̣ибхирукто джагадупака̄ра̄йа ка̄рун̣икаих̣",
-        "text": "следует держать на глазах — тогда быстро наступает устранение всех истечений; этот метод, изложенный риши, милосердными, на пользу миру."
+        "text": "следует держать на глазах — тогда быстро наступает устранение всех истечений; этот метод, изложенный риши, милосердными, на пользу миру.",
+        "text_en": "should be held on the eyes; then the removal of all discharges quickly occurs; this method, taught by the compassionate sages, is for the benefit of the world."
       },
       {
         "type": "verse",
@@ -85108,7 +85331,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भुक्त्वा पाणितलं घृष्ट्वा चक्षुषोर्यदि दीयते अचिरेणैव तद्वारि तिमिराणि व्यपोहति",
         "iast": "bhuktvā pāṇitalaṃ ghṛṣṭvā cakṣuṣoryadi dīyate acireṇaiva tadvāri timirāṇi vyapohati",
         "iast_ru": "бхуктва̄ па̄н̣италам̣ гхр̣ш̣т̣ва̄ чакш̣уш̣орйади дӣйате ачирен̣аива тадва̄ри тимира̄н̣и вйапохати",
-        "text": "Съев [пищу], растерев ладони и приложив их к глазам, — эта вода быстро устраняет тьму (тимиру)."
+        "text": "Съев [пищу], растерев ладони и приложив их к глазам, — эта вода быстро устраняет тьму (тимиру).",
+        "text_en": "After eating (food), rubbing the palms and applying them to the eyes: this water quickly removes darkness (Timira)."
       },
       {
         "type": "verse",
@@ -85116,7 +85340,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्नानं कृष्णतिलैश्चापि चक्षुष्यमनिलापहम् आमलैः सततं स्नानं परं दृष्टिबलावहम्",
         "iast": "snānaṃ kṛṣṇatilaiścāpi cakṣuṣyamanilāpaham āmalaiḥ satataṃ snānaṃ paraṃ dṛṣṭibalāvaham",
         "iast_ru": "сна̄нам̣ кр̣ш̣н̣атилаиш́ча̄пи чакш̣уш̣йаманила̄пахам а̄малаих̣ сататам̣ сна̄нам̣ парам̣ др̣ш̣т̣ибала̄вахам",
-        "text": "Купание с чёрным кунжутом также полезно для зрения, устраняет [расстройство] ватхи; постоянное купание с амалой в высшей степени приносит силу зрения."
+        "text": "Купание с чёрным кунжутом также полезно для зрения, устраняет [расстройство] ватхи; постоянное купание с амалой в высшей степени приносит силу зрения.",
+        "text_en": "Bathing with black sesame is also beneficial for vision, removes (disorder) of Vata; constant bathing with Amala in the highest degree brings strength of vision."
       },
       {
         "type": "verse",
@@ -85124,7 +85349,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिफलायाः कषायस्तु धावनान्नेत्ररोगजित् कवलान्मुखरोगघ्नः पानतः कामलाऽपहः",
         "iast": "triphalāyāḥ kaṣāyastu dhāvanānnetrarogajit kavalānmukharogaghnaḥ pānataḥ kāmalā'pahaḥ",
         "iast_ru": "трипхала̄йа̄х̣ каш̣а̄йасту дха̄вана̄ннетрарогаджит кавала̄нмукхарогагхнах̣ па̄натах̣ ка̄мала̄'пахах̣",
-        "text": "Отвар трифалы, [применённый] для промывания, побеждает болезни глаз; при полоскании рта устраняет болезни рта, при питье — устраняет желтуху."
+        "text": "Отвар трифалы, [применённый] для промывания, побеждает болезни глаз; при полоскании рта устраняет болезни рта, при питье — устраняет желтуху.",
+        "text_en": "A decoction of Triphala, (used) for washing, conquers eye diseases; used as a mouthwash, it removes diseases of the mouth; taken as a drink, it removes jaundice."
       },
       {
         "type": "verse",
@@ -85132,7 +85358,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्वाथक्षीरद्र्रवस्नेहबिन्दूनां यत्तु पातनम् द्व्यङ्गुलोन्मीलिते नेत्रे प्रोक्तमाश्च्योतनं हि तत्",
         "iast": "kvāthakṣīradrravasnehabindūnāṃ yattu pātanam dvyaṅgulonmīlite netre proktamāścyotanaṃ hi tat",
         "iast_ru": "ква̄тхакш̣ӣрадрраваснехабиндӯна̄м̣ йатту па̄танам двйан̇гулонмӣлите нетре проктама̄ш́чйотанам̣ хи тат",
-        "text": "То капание отвара, молока, жидкости или масла в открытый на два пальца глаз называется «ашчьотана» (капельным орошением)."
+        "text": "То капание отвара, молока, жидкости или масла в открытый на два пальца глаз называется «ашчьотана» (капельным орошением).",
+        "text_en": "That instillation of a decoction, milk, liquid or oil into the eye held open two finger-breadths is called Ashchyotana (drop irrigation)."
       },
       {
         "type": "verse",
@@ -85140,7 +85367,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विन्दवोऽष्टौ लेखनेषु रोपणे दश विन्दवः स्नेहने द्वादश प्रोक्तास्ते शीते कोष्णरूपिणः",
         "iast": "vindavo'ṣṭau lekhaneṣu ropaṇe daśa vindavaḥ snehane dvādaśa proktāste śīte koṣṇarūpiṇaḥ",
         "iast_ru": "виндаво'ш̣т̣ау лекханеш̣у ропан̣е даш́а виндавах̣ снехане два̄даш́а прокта̄сте ш́ӣте кош̣н̣арӯпин̣ах̣",
-        "text": "Восемь капель — при очищающих [средствах], десять капель — при заживляющих, двенадцать провозглашено при маслянистых; они холодные [по свойству], но подогретые по [температуре] применения."
+        "text": "Восемь капель — при очищающих [средствах], десять капель — при заживляющих, двенадцать провозглашено при маслянистых; они холодные [по свойству], но подогретые по [температуре] применения.",
+        "text_en": "Eight drops with cleansing (agents), ten drops with healing ones, twelve are declared with unctuous ones; they are cold (in quality), but warmed in (temperature of) application."
       },
       {
         "type": "verse",
@@ -85148,7 +85376,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णे तु शीतरूपाः स्यु सर्वत्रैवैष निश्चयः वाते तिक्तं तथा स्निग्धं पित्ते मधुरशीतलम्",
         "iast": "uṣṇe tu śītarūpāḥ syu sarvatraivaiṣa niścayaḥ vāte tiktaṃ tathā snigdhaṃ pitte madhuraśītalam",
         "iast_ru": "уш̣н̣е ту ш́ӣтарӯпа̄х̣ сйу сарватраиваиш̣а ниш́чайах̣ ва̄те тиктам̣ татха̄ снигдхам̣ питте мадхураш́ӣталам",
-        "text": "При горячей [форме] же они холодные по свойству — это общее правило повсюду; при ватхе — горькое и маслянистое; при питте — сладкое и холодное;"
+        "text": "При горячей [форме] же они холодные по свойству — это общее правило повсюду; при ватхе — горькое и маслянистое; при питте — сладкое и холодное;",
+        "text_en": "In a hot (condition), however, they are cold in quality: this is the general rule everywhere; in Vata, bitter and unctuous; in Pitta, sweet and cold;"
       },
       {
         "type": "verse",
@@ -85156,7 +85385,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफे तिक्तोष्णरूक्षं स्यात्क्रमादाश्च्योतनं हितम् आश्च्योतनानां सर्वेषां मात्रा स्याद्वाक्छतोन्मिता",
         "iast": "kaphe tiktoṣṇarūkṣaṃ syātkramādāścyotanaṃ hitam āścyotanānāṃ sarveṣāṃ mātrā syādvākchatonmitā",
         "iast_ru": "капхе тиктош̣н̣арӯкш̣ам̣ сйа̄ткрама̄да̄ш́чйотанам̣ хитам а̄ш́чйотана̄на̄м̣ сарвеш̣а̄м̣ ма̄тра̄ сйа̄два̄кчхатонмита̄",
-        "text": "при капхе — горькое, горячее и сухое, соответственно, полезно для орошения; доза всех орошений составляет сто [единиц] слова (вачи)."
+        "text": "при капхе — горькое, горячее и сухое, соответственно, полезно для орошения; доза всех орошений составляет сто [единиц] слова (вачи).",
+        "text_en": "in Kapha, bitter, hot and dry, respectively, are beneficial for irrigation; the dose of all irrigations is one hundred (units) of speech (Vachi)."
       },
       {
         "type": "verse",
@@ -85164,7 +85394,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बिल्वादिपञ्चमूलेन बृहत्येरण्डशिग्रुभिः क्वाथ आश्च्योतने कोष्णो वाताभिष्यन्दनाशनः",
         "iast": "bilvādipañcamūlena bṛhatyeraṇḍaśigrubhiḥ kvātha āścyotane koṣṇo vātābhiṣyandanāśanaḥ",
         "iast_ru": "билва̄дипан̃чамӯлена бр̣хатйеран̣д̣аш́игрубхих̣ ква̄тха а̄ш́чйотане кош̣н̣о ва̄та̄бхиш̣йандана̄ш́анах̣",
-        "text": "Отвар билвы и подобных пяти корней, брихати, касторового [дерева] и шигру, тёплый, при орошении устраняет истечение от ватхи."
+        "text": "Отвар билвы и подобных пяти корней, брихати, касторового [дерева] и шигру, тёплый, при орошении устраняет истечение от ватхи.",
+        "text_en": "A decoction of Bilva and the other five roots, Brihati, castor (tree) and Shigru, warm, in irrigation removes discharge due to Vata."
       },
       {
         "type": "verse",
@@ -85172,7 +85403,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिफलाऽश्च्योतनं नेत्रे सर्वाभिष्यन्दनाशनम्",
         "iast": "triphalā'ścyotanaṃ netre sarvābhiṣyandanāśanam",
         "iast_ru": "трипхала̄'ш́чйотанам̣ нетре сарва̄бхиш̣йандана̄ш́анам",
-        "text": "Орошение трифалой глаза устраняет все истечения."
+        "text": "Орошение трифалой глаза устраняет все истечения.",
+        "text_en": "Irrigation of the eye with Triphala removes all discharges."
       },
       {
         "type": "verse",
@@ -85180,7 +85412,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उक्तभेषजकल्कस्य पिण्डी च कोलमात्रया वस्त्रखण्डेन सम्बद्धाऽभिष्यन्दव्रणनाशिनी",
         "iast": "uktabheṣajakalkasya piṇḍī ca kolamātrayā vastrakhaṇḍena sambaddhā'bhiṣyandavraṇanāśinī",
         "iast_ru": "уктабхеш̣аджакалкасйа пин̣д̣ӣ ча колама̄трайа̄ вастракхан̣д̣ена самбаддха̄'бхиш̣йандавран̣ана̄ш́инӣ",
-        "text": "Компресс из пасты указанных лекарств, размером с ягоду, завязанный тканью, устраняет истечение и рану."
+        "text": "Компресс из пасты указанных лекарств, размером с ягоду, завязанный тканью, устраняет истечение и рану.",
+        "text_en": "A compress of paste of the drugs indicated, the size of a berry, tied in cloth, removes discharge and wound."
       },
       {
         "type": "verse",
@@ -85188,7 +85421,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्निग्धोष्णा पिण्डिका वाते पित्ते सा शीतला मता रूक्षोष्णा श्लेष्मणि प्रोक्ता विधिरुक्तो बुधैरयम्",
         "iast": "snigdhoṣṇā piṇḍikā vāte pitte sā śītalā matā rūkṣoṣṇā śleṣmaṇi proktā vidhirukto budhairayam",
         "iast_ru": "снигдхош̣н̣а̄ пин̣д̣ика̄ ва̄те питте са̄ ш́ӣтала̄ мата̄ рӯкш̣ош̣н̣а̄ ш́леш̣ман̣и прокта̄ видхирукто будхаирайам",
-        "text": "Маслянистый тёплый компресс — при ватхе и питте; холодный считается [подходящим] [также]; сухой и горячий провозглашён при капхе; такое правило изложено мудрыми."
+        "text": "Маслянистый тёплый компресс — при ватхе и питте; холодный считается [подходящим] [также]; сухой и горячий провозглашён при капхе; такое правило изложено мудрыми.",
+        "text_en": "An unctuous warm compress is for Vata and Pitta; a cold one is considered (suitable) (also); a dry and hot one is declared for Kapha; such is the rule set forth by the wise."
       },
       {
         "type": "verse",
@@ -85196,7 +85430,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एरण्डपत्रमूलत्वङ्निर्मिता वातनाशिनी धात्रीविरचिता पित्ते शिग्रुपत्रकृता कफे",
         "iast": "eraṇḍapatramūlatvaṅnirmitā vātanāśinī dhātrīviracitā pitte śigrupatrakṛtā kaphe",
         "iast_ru": "еран̣д̣апатрамӯлатван̇нирмита̄ ва̄тана̄ш́инӣ дха̄трӣвирачита̄ питте ш́игрупатракр̣та̄ капхе",
-        "text": "[Компресс], изготовленный из листа, корня и коры касторового [дерева], устраняет ватху; изготовленный из амалаки — при питте; изготовленный из листа шигру — при капхе."
+        "text": "[Компресс], изготовленный из листа, корня и коры касторового [дерева], устраняет ватху; изготовленный из амалаки — при питте; изготовленный из листа шигру — при капхе.",
+        "text_en": "(A compress) prepared from the leaf, root and bark of the castor (tree) removes Vata; one prepared from Amalaki, in Pitta; one prepared from the leaf of Shigru, in Kapha."
       },
       {
         "type": "verse",
@@ -85204,7 +85439,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निम्बपत्रकृतापिण्डी पित्तश्लेष्महरी भवेत् शुण्ठीनिम्बदलैः पिण्डी सुखोष्णा स्वल्पसैन्धवा",
         "iast": "nimbapatrakṛtāpiṇḍī pittaśleṣmaharī bhavet śuṇṭhīnimbadalaiḥ piṇḍī sukhoṣṇā svalpasaindhavā",
         "iast_ru": "нимбапатракр̣та̄пин̣д̣ӣ питташ́леш̣махарӣ бхавет ш́ун̣т̣хӣнимбадалаих̣ пин̣д̣ӣ сукхош̣н̣а̄ свалпасаиндхава̄",
-        "text": "Компресс, изготовленный из листа нима, устраняет питту и капху; компресс из сушёного имбиря и листьев нима, слегка тёплый, с малым количеством каменной соли,"
+        "text": "Компресс, изготовленный из листа нима, устраняет питту и капху; компресс из сушёного имбиря и листьев нима, слегка тёплый, с малым количеством каменной соли,",
+        "text_en": "A compress prepared from the leaf of Neem removes Pitta and Kapha; a compress of dried ginger and Neem leaves, slightly warm, with a small quantity of rock salt,"
       },
       {
         "type": "verse",
@@ -85212,7 +85448,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "धार्या नेत्रेऽनिलकफे शोथकण्डूव्यथाहरी त्रिफलापिण्डिका नेत्रे वातपित्तकफापहा",
         "iast": "dhāryā netre'nilakaphe śothakaṇḍūvyathāharī triphalāpiṇḍikā netre vātapittakaphāpahā",
         "iast_ru": "дха̄рйа̄ нетре'нилакапхе ш́отхакан̣д̣ӯвйатха̄харӣ трипхала̄пин̣д̣ика̄ нетре ва̄тапиттакапха̄паха̄",
-        "text": "следует держать на глазу при ватхе и капхе — устраняет отёк, зуд и боль; компресс из трифалы на глазу устраняет ватху, питту и капху."
+        "text": "следует держать на глазу при ватхе и капхе — устраняет отёк, зуд и боль; компресс из трифалы на глазу устраняет ватху, питту и капху.",
+        "text_en": "should be held on the eye in Vata and Kapha: it removes swelling, itching and pain; a compress of Triphala on the eye removes Vata, Pitta and Kapha."
       },
       {
         "type": "verse",
@@ -85220,7 +85457,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पथ्याऽक्षामलखाखसवल्कलकल्कोऽहिफेनजलयुक्तः तेन विरचिता पिण्डी शमयति सकलानभिष्यन्दान्",
         "iast": "pathyā'kṣāmalakhākhasavalkalakalko'hiphenajalayuktaḥ tena viracitā piṇḍī śamayati sakalānabhiṣyandān",
         "iast_ru": "патхйа̄'кш̣а̄малакха̄кхасавалкалакалко'хипхенаджалайуктах̣ тена вирачита̄ пин̣д̣ӣ ш́амайати сакала̄набхиш̣йанда̄н",
-        "text": "Паста харитаки, каменной соли, амалаки, коры мака, соединённая с опийной водой, — компресс, изготовленный из неё, успокаивает все истечения."
+        "text": "Паста харитаки, каменной соли, амалаки, коры мака, соединённая с опийной водой, — компресс, изготовленный из неё, успокаивает все истечения.",
+        "text_en": "A paste of Haritaki, rock salt, Amalaki, poppy bark, combined with opium water: a compress prepared from it pacifies all discharges."
       },
       {
         "type": "verse",
@@ -85228,7 +85466,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विडालको बहिर्लेपो नेत्रे पक्ष्मविवर्जिते तस्य मात्रा परिज्ञेया मुखालेपविधानवत्",
         "iast": "viḍālako bahirlepo netre pakṣmavivarjite tasya mātrā parijñeyā mukhālepavidhānavat",
         "iast_ru": "вид̣а̄лако бахирлепо нетре пакш̣мавиварджите тасйа ма̄тра̄ париджн̃ейа̄ мукха̄лепавидха̄нават",
-        "text": "«Видалака» — внешняя мазь на глаз, лишённый ресниц; её дозировку следует определять так же, как правило мази для лица."
+        "text": "«Видалака» — внешняя мазь на глаз, лишённый ресниц; её дозировку следует определять так же, как правило мази для лица.",
+        "text_en": "Vidalaka is an external ointment on an eye deprived of eyelashes; its dosage should be determined in the same way as the rule for the ointment for the face."
       },
       {
         "type": "verse",
@@ -85236,7 +85475,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अङ्गुलस्य चतुर्थांशो मुखलेपः कनिष्ठकः मध्यमस्तु त्रिभागः स्यादुत्तमोऽद्धाङ्गुलो भवेत्",
         "iast": "aṅgulasya caturthāṃśo mukhalepaḥ kaniṣṭhakaḥ madhyamastu tribhāgaḥ syāduttamo'ddhāṅgulo bhavet",
         "iast_ru": "ан̇гуласйа чатуртха̄м̣ш́о мукхалепах̣ каниш̣т̣хаках̣ мадхйамасту трибха̄гах̣ сйа̄дуттамо'ддха̄н̇гуло бхавет",
-        "text": "Четверть пальца — малая мазь для лица, средняя — треть, а лучшая — половина пальца."
+        "text": "Четверть пальца — малая мазь для лица, средняя — треть, а лучшая — половина пальца.",
+        "text_en": "A quarter of a finger-breadth is a small ointment for the face, a medium is a third, and the best is half a finger-breadth."
       },
       {
         "type": "verse",
@@ -85244,7 +85484,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्थितिकालेऽपि तस्योक्तो यावत्कल्को न शुष्यति शुष्कस्तु गुणहीनः स्यात्तथा दूषयति त्वचम्",
         "iast": "sthitikāle'pi tasyokto yāvatkalko na śuṣyati śuṣkastu guṇahīnaḥ syāttathā dūṣayati tvacam",
         "iast_ru": "стхитика̄ле'пи тасйокто йа̄ваткалко на ш́уш̣йати ш́уш̣касту гун̣ахӣнах̣ сйа̄ттатха̄ дӯш̣айати твачам",
-        "text": "Также указано время нахождения [мази] — до тех пор, пока паста не высохнет; высохшая же теряет свойства и, кроме того, портит кожу."
+        "text": "Также указано время нахождения [мази] — до тех пор, пока паста не высохнет; высохшая же теряет свойства и, кроме того, портит кожу.",
+        "text_en": "The duration of retention (of the ointment) is also prescribed: until the paste dries; when dried, it loses its properties and moreover spoils the skin."
       },
       {
         "type": "verse",
@@ -85252,7 +85493,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यष्टिगैरिकसिन्धूत्थदार्वीतार्क्ष्यैः समांशकैः जलपिष्टैर्बहिर्लेपः सर्वनेत्रामयापहः",
         "iast": "yaṣṭigairikasindhūtthadārvītārkṣyaiḥ samāṃśakaiḥ jalapiṣṭairbahirlepaḥ sarvanetrāmayāpahaḥ",
         "iast_ru": "йаш̣т̣игаирикасиндхӯттхада̄рвӣта̄ркш̣йаих̣ сама̄м̣ш́акаих̣ джалапиш̣т̣аирбахирлепах̣ сарванетра̄майа̄пахах̣",
-        "text": "Солодка, охра, соль синдхуттха, дару-харидра и таргья (?) в равных частях, растёртые с водой, — внешняя мазь, устраняющая все болезни глаз."
+        "text": "Солодка, охра, соль синдхуттха, дару-харидра и таргья (?) в равных частях, растёртые с водой, — внешняя мазь, устраняющая все болезни глаз.",
+        "text_en": "Licorice, ochre, Saindhava salt, Daruharidra and Tarkshya (?) in equal parts, ground with water, make an external ointment that removes all diseases of the eyes."
       },
       {
         "type": "verse",
@@ -85260,7 +85502,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसाञ्जनेन वा लेपः पथ्याबिल्वदलैरपि वचाहरिद्रा विश्वैर्वा तथा नागरगैरिकैः",
         "iast": "rasāñjanena vā lepaḥ pathyābilvadalairapi vacāharidrā viśvairvā tathā nāgaragairikaiḥ",
         "iast_ru": "раса̄н̃джанена ва̄ лепах̣ патхйа̄билвадалаирапи вача̄харидра̄ виш́ваирва̄ татха̄ на̄гарагаирикаих̣",
-        "text": "Или мазь с красящим веществом (расанджаной), или с харитаки и листом билвы, или с вачей, куркумой и сушёным имбирём, а также с сушёным имбирём и охрой."
+        "text": "Или мазь с красящим веществом (расанджаной), или с харитаки и листом билвы, или с вачей, куркумой и сушёным имбирём, а также с сушёным имбирём и охрой.",
+        "text_en": "Or an ointment with Rasanjana (coloring substance), or with Haritaki and Bilva leaf, or with Vacha, turmeric and dried ginger, and also with dried ginger and ochre."
       },
       {
         "type": "verse",
@@ -85268,7 +85511,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातातपरजोहीने वेश्मन्युत्तानशायिनः आधारौ माषचूर्णेन क्लिन्नेन परिमण्डलौ",
         "iast": "vātātaparajohīne veśmanyuttānaśāyinaḥ ādhārau māṣacūrṇena klinnena parimaṇḍalau",
         "iast_ru": "ва̄та̄тапараджохӣне веш́манйутта̄наш́а̄йинах̣ а̄дха̄рау ма̄ш̣ачӯрн̣ена клиннена париман̣д̣алау",
-        "text": "В помещении, лишённом ветра и пыли, лёжа на спине, следует держать опоры из влажной пасты урада, округлые, окружающие,"
+        "text": "В помещении, лишённом ветра и пыли, лёжа на спине, следует держать опоры из влажной пасты урада, округлые, окружающие,",
+        "text_en": "In a room free from wind and dust, lying on the back, supports (walls) of moist Masha paste, round, surrounding,"
       },
       {
         "type": "verse",
@@ -85276,7 +85520,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "समौ दृढावसन्धानौ कर्त्तव्यौ नेत्रकोशयोः पूरयेद् घृतमण्डेन विलीनेन सुखोदकैः",
         "iast": "samau dṛḍhāvasandhānau karttavyau netrakośayoḥ pūrayed ghṛtamaṇḍena vilīnena sukhodakaiḥ",
         "iast_ru": "самау др̣д̣ха̄васандха̄нау карттавйау нетракош́айох̣ пӯрайед гхр̣таман̣д̣ена вилӣнена сукходакаих̣",
-        "text": "равные, прочно закреплённые вокруг глазных впадин; следует заполнить растопленным осадком гхи с приятной водой."
+        "text": "равные, прочно закреплённые вокруг глазных впадин; следует заполнить растопленным осадком гхи с приятной водой.",
+        "text_en": "even, firmly fixed around the eye sockets, should be placed; it should be filled with melted ghee sediment with pleasant water."
       },
       {
         "type": "verse",
@@ -85284,7 +85529,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्पिषा शतधौतेन क्षीरजेन घृतेन वा निमग्नान्यक्षिपक्ष्माणि यावत्स्युस्तावदेव हि",
         "iast": "sarpiṣā śatadhautena kṣīrajena ghṛtena vā nimagnānyakṣipakṣmāṇi yāvatsyustāvadeva hi",
         "iast_ru": "сарпиш̣а̄ ш́атадхаутена кш̣ӣраджена гхр̣тена ва̄ нимагна̄нйакш̣ипакш̣ма̄н̣и йа̄ватсйуста̄вадева хи",
-        "text": "Стократно промытым гхи, или молочным гхи, [нужно заполнять], пока ресницы не будут погружены — именно до этого уровня."
+        "text": "Стократно промытым гхи, или молочным гхи, [нужно заполнять], пока ресницы не будут погружены — именно до этого уровня.",
+        "text_en": "With ghee washed a hundred times, or milk ghee, (it should be filled) until the eyelashes are immersed; precisely to this level."
       },
       {
         "type": "verse",
@@ -85292,7 +85538,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पूरयेन्मीलिते नेत्रे तत उन्मीलयेच्छनैः भिषग्भिरेष कथितः पुराणैस्तर्पणो विधिः",
         "iast": "pūrayenmīlite netre tata unmīlayecchanaiḥ bhiṣagbhireṣa kathitaḥ purāṇaistarpaṇo vidhiḥ",
         "iast_ru": "пӯрайенмӣлите нетре тата унмӣлайеччханаих̣ бхиш̣агбхиреш̣а катхитах̣ пура̄н̣аистарпан̣о видхих̣",
-        "text": "Следует заполнять при закрытом глазе, затем медленно открывать; этот метод «тарпаны» (насыщения) изложен древними врачами."
+        "text": "Следует заполнять при закрытом глазе, затем медленно открывать; этот метод «тарпаны» (насыщения) изложен древними врачами.",
+        "text_en": "It should be filled with the eye closed, then slowly opened; this method of Tarpana (satiation) is described by the ancient physicians."
       },
       {
         "type": "verse",
@@ -85300,7 +85547,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यद्रू क्षं परिशुष्कञ्च नेत्रं कुटिलमाविलम् शीर्णपक्ष्मशिरोत्पातकृच्छ्रोन्मीलनसंयुतम्",
         "iast": "yadrū kṣaṃ pariśuṣkañca netraṃ kuṭilamāvilam śīrṇapakṣmaśirotpātakṛcchronmīlanasaṃyutam",
         "iast_ru": "йадрӯ кш̣ам̣ париш́уш̣кан̃ча нетрам̣ кут̣илама̄вилам ш́ӣрн̣апакш̣маш́иротпа̄такр̣ччхронмӣланасам̣йутам",
-        "text": "Глаз сухой, весьма пересохший, искривлённый, мутный, с осыпающимися ресницами, соединённый с трудностью открывания от сосудистого возбуждения,"
+        "text": "Глаз сухой, весьма пересохший, искривлённый, мутный, с осыпающимися ресницами, соединённый с трудностью открывания от сосудистого возбуждения,",
+        "text_en": "An eye that is dry, very parched, distorted, turbid, with falling eyelashes, combined with difficulty in opening from vascular excitation,"
       },
       {
         "type": "verse",
@@ -85308,7 +85556,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिमिरार्जुन शुक्राद्यैरभिष्यन्दाधिमन्थकैः शुष्काक्षिपाकशोथाभ्यां युक्तं पवनपर्ययैः तन्नेत्रं तर्पयेत्सम्यङ् नेत्ररोगविशारदः",
         "iast": "timirārjuna śukrādyairabhiṣyandādhimanthakaiḥ śuṣkākṣipākaśothābhyāṃ yuktaṃ pavanaparyayaiḥ tannetraṃ tarpayetsamyaṅ netrarogaviśāradaḥ",
         "iast_ru": "тимира̄рджуна ш́укра̄дйаирабхиш̣йанда̄дхимантхакаих̣ ш́уш̣ка̄кш̣ипа̄каш́отха̄бхйа̄м̣ йуктам̣ паванапарйайаих̣ таннетрам̣ тарпайетсамйан̇ нетрарогавиш́а̄радах̣",
-        "text": "поражённый тьмой, «арджуной», «шукрой» и подобным, истечениями, «адхиматхами», «сушкакши-пакой» и отёком, а также искажениями ватхи, — такой глаз знающему в глазных болезнях следует правильно насыщать («тарпана»)."
+        "text": "поражённый тьмой, «арджуной», «шукрой» и подобным, истечениями, «адхиматхами», «сушкакши-пакой» и отёком, а также искажениями ватхи, — такой глаз знающему в глазных болезнях следует правильно насыщать («тарпана»).",
+        "text_en": "afflicted with darkness, Arjuna, Shukra and the like, discharges, Adhimanthas, Shushkakshipaka and swelling, and also distortions due to Vata: such an eye should be properly satiated (Tarpana) by one knowledgeable in eye diseases."
       },
       {
         "type": "verse",
@@ -85316,7 +85565,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तर्पणं धारयेद्वर्त्मरोगे वाचां शतं बुधः",
         "iast": "tarpaṇaṃ dhārayedvartmaroge vācāṃ śataṃ budhaḥ",
         "iast_ru": "тарпан̣ам̣ дха̄райедвартмароге ва̄ча̄м̣ ш́атам̣ будхах̣",
-        "text": "«Тарпану» следует держать при болезни века мудрому в течение ста [единиц] слова (вачи)."
+        "text": "«Тарпану» следует держать при болезни века мудрому в течение ста [единиц] слова (вачи).",
+        "text_en": "The Tarpana should be retained by the wise in a disease of the eyelid for one hundred (units) of speech (Vachi)."
       },
       {
         "type": "verse",
@@ -85324,7 +85574,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वस्थे कफे सन्धिरोगे वाचां पञ्चशतानि च षट्शतानि कफे कृष्णरोगे सप्तशतानि हि",
         "iast": "svasthe kaphe sandhiroge vācāṃ pañcaśatāni ca ṣaṭśatāni kaphe kṛṣṇaroge saptaśatāni hi",
         "iast_ru": "свастхе капхе сандхироге ва̄ча̄м̣ пан̃чаш́ата̄ни ча ш̣ат̣ш́ата̄ни капхе кр̣ш̣н̣ароге сапташ́ата̄ни хи",
-        "text": "При здоровом [глазу], при капхе, при болезни соединения — пятьсот [единиц] слова; при капхе — шестьсот, при болезни чёрного [участка] — семьсот,"
+        "text": "При здоровом [глазу], при капхе, при болезни соединения — пятьсот [единиц] слова; при капхе — шестьсот, при болезни чёрного [участка] — семьсот,",
+        "text_en": "In a healthy (eye), in Kapha, in a disease of the junction, five hundred (units) of speech; in Kapha, six hundred; in a disease of the black (area), seven hundred;"
       },
       {
         "type": "verse",
@@ -85332,7 +85583,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्टिगे च शतान्यष्टावधिमन्थे सहस्रकम् सहस्रं वातरोगेषु धार्यमेवं हि तर्पणम्",
         "iast": "dṛṣṭige ca śatānyaṣṭāvadhimanthe sahasrakam sahasraṃ vātarogeṣu dhāryamevaṃ hi tarpaṇam",
         "iast_ru": "др̣ш̣т̣иге ча ш́ата̄нйаш̣т̣а̄вадхимантхе сахасракам сахасрам̣ ва̄тарогеш̣у дха̄рйамевам̣ хи тарпан̣ам",
-        "text": "при [болезни] зрения — восемьсот, при «адхиматхе» — тысячу; при болезнях от ватхи именно тысячу следует держать «тарпану»."
+        "text": "при [болезни] зрения — восемьсот, при «адхиматхе» — тысячу; при болезнях от ватхи именно тысячу следует держать «тарпану».",
+        "text_en": "in (a disease of) vision, eight hundred; in Adhimantha, a thousand; in diseases due to Vata, precisely a thousand should the Tarpana be retained."
       },
       {
         "type": "verse",
@@ -85340,7 +85592,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततश्चापाङ्गतः स्नेहं स्रावयित्वाऽक्षिशोधयेत् स्विन्नेन यवपिष्टेन स्नेहवीर्येरितं ततः",
         "iast": "tataścāpāṅgataḥ snehaṃ srāvayitvā'kṣiśodhayet svinnena yavapiṣṭena snehavīryeritaṃ tataḥ",
         "iast_ru": "таташ́ча̄па̄н̇гатах̣ снехам̣ сра̄вайитва̄'кш̣иш́одхайет свиннена йавапиш̣т̣ена снехавӣрйеритам̣ татах̣",
-        "text": "Затем, дав истечь маслу через внешний угол глаза, следует очистить глаз распаренным ячменным толчёным зерном, [этим] выведя силу масла."
+        "text": "Затем, дав истечь маслу через внешний угол глаза, следует очистить глаз распаренным ячменным толчёным зерном, [этим] выведя силу масла.",
+        "text_en": "Then, having let the oil flow out through the outer corner of the eye, the eye should be cleaned with steamed barley meal, (thereby) removing the strength of the oil."
       },
       {
         "type": "verse",
@@ -85348,7 +85601,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यथास्वं धूमपानेन कफमस्य विरेचयेत् एकाहं वा त्र्यहं वाऽपि पञ्चाहं वाऽपि तर्पयेत्",
         "iast": "yathāsvaṃ dhūmapānena kaphamasya virecayet ekāhaṃ vā tryahaṃ vā'pi pañcāhaṃ vā'pi tarpayet",
         "iast_ru": "йатха̄свам̣ дхӯмапа̄нена капхамасйа виречайет ека̄хам̣ ва̄ трйахам̣ ва̄'пи пан̃ча̄хам̣ ва̄'пи тарпайет",
-        "text": "Соответственно, курением дыма следует удалить его капху; следует проводить «тарпану» один, три или пять дней."
+        "text": "Соответственно, курением дыма следует удалить его капху; следует проводить «тарпану» один, три или пять дней.",
+        "text_en": "Accordingly, by inhaling smoke its Kapha should be removed; Tarpana should be performed for one, three or five days."
       },
       {
         "type": "verse",
@@ -85356,7 +85610,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तर्पणे तृप्तिलिङ्गानि नेत्रस्यैतानि लक्षयेत्",
         "iast": "tarpaṇe tṛptiliṅgāni netrasyaitāni lakṣayet",
         "iast_ru": "тарпан̣е тр̣птилин̇га̄ни нетрасйаита̄ни лакш̣айет",
-        "text": "При «тарпане» следует распознавать эти признаки насыщения глаза."
+        "text": "При «тарпане» следует распознавать эти признаки насыщения глаза.",
+        "text_en": "In Tarpana, these signs of satiation of the eye should be recognized."
       },
       {
         "type": "verse",
@@ -85364,7 +85619,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुखसुप्तावबोधत्वं वैशद्यं दृष्टिपाटवम् निर्वृतिर्व्याधिशान्तिश्च क्रियालाघवमेव च",
         "iast": "sukhasuptāvabodhatvaṃ vaiśadyaṃ dṛṣṭipāṭavam nirvṛtirvyādhiśāntiśca kriyālāghavameva ca",
         "iast_ru": "сукхасупта̄вабодхатвам̣ ваиш́адйам̣ др̣ш̣т̣ипа̄т̣авам нирвр̣тирвйа̄дхиш́а̄нтиш́ча крийа̄ла̄гхавамева ча",
-        "text": "Приятный сон и пробуждение, ясность, острота зрения, покой, успокоение болезни, а также лёгкость [дальнейших] процедур —"
+        "text": "Приятный сон и пробуждение, ясность, острота зрения, покой, успокоение болезни, а также лёгкость [дальнейших] процедур —",
+        "text_en": "Pleasant sleep and waking, clarity, sharpness of vision, calm, pacification of the disease, and also ease of (further) procedures,"
       },
       {
         "type": "verse",
@@ -85372,7 +85628,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुर्वाविलमतिस्निग्धमश्रु कण्डूपदेहवत् घर्षतोदयुतं नेत्रमतितर्पितमादिशेत्",
         "iast": "gurvāvilamatisnigdhamaśru kaṇḍūpadehavat gharṣatodayutaṃ netramatitarpitamādiśet",
         "iast_ru": "гурва̄виламатиснигдхамаш́ру кан̣д̣ӯпадехават гхарш̣атодайутам̣ нетраматитарпитама̄диш́ет",
-        "text": "[если] глаз тяжёлый, мутный, чрезмерно маслянистый, со слезами, зудом и обмазанностью, с натиранием и покалыванием, — следует определить как чрезмерно насыщенный."
+        "text": "[если] глаз тяжёлый, мутный, чрезмерно маслянистый, со слезами, зудом и обмазанностью, с натиранием и покалыванием, — следует определить как чрезмерно насыщенный.",
+        "text_en": "(if) the eye is heavy, turbid, excessively unctuous, with tears, itching and smearing, with rubbing and pricking, it should be identified as over-satiated."
       },
       {
         "type": "verse",
@@ -85380,7 +85637,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आस्रावशोफरोगाढ्यमसहं रूपदर्शने आविलं परुषं रूक्षं नेत्रं स्याद्धीनतर्पितम्",
         "iast": "āsrāvaśopharogāḍhyamasahaṃ rūpadarśane āvilaṃ paruṣaṃ rūkṣaṃ netraṃ syāddhīnatarpitam",
         "iast_ru": "а̄сра̄ваш́опхарога̄д̣хйамасахам̣ рӯпадарш́ане а̄вилам̣ паруш̣ам̣ рӯкш̣ам̣ нетрам̣ сйа̄ддхӣнатарпитам",
-        "text": "Обильный истечением и отёком, невыносимый при рассматривании форм, мутный, грубый, сухой глаз — недостаточно насыщенный."
+        "text": "Обильный истечением и отёком, невыносимый при рассматривании форм, мутный, грубый, сухой глаз — недостаточно насыщенный.",
+        "text_en": "An eye abundant in discharge and swelling, intolerant when looking at forms, turbid, rough and dry: insufficiently satiated."
       },
       {
         "type": "verse",
@@ -85388,7 +85646,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अनयोर्दोषबाहुल्यात् प्रयत्नेन चिकित्सिते रुक्षस्निग्धोपचाराभ्यामनयोःस्यात्प्रतिक्रिया",
         "iast": "anayordoṣabāhulyāt prayatnena cikitsite rukṣasnigdhopacārābhyāmanayoḥsyātpratikriyā",
         "iast_ru": "анайордош̣аба̄хулйа̄т прайатнена чикитсите рукш̣аснигдхопача̄ра̄бхйа̄манайох̣сйа̄тпратикрийа̄",
-        "text": "От избытка дош в обоих этих [случаях], при старательном лечении, противодействие достигается сухими и маслянистыми процедурами соответственно."
+        "text": "От избытка дош в обоих этих [случаях], при старательном лечении, противодействие достигается сухими и маслянистыми процедурами соответственно.",
+        "text_en": "In both these (cases), from excess of doshas, with careful treatment, counteraction is achieved by dry and unctuous procedures respectively."
       },
       {
         "type": "verse",
@@ -85396,7 +85655,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दुर्दिनात्युष्णशीतेषु चिन्तायां सम्भ्रमेषु च अशान्तोपद्र वे वाऽक्ष्णि तर्पणं न प्रशस्यते",
         "iast": "durdinātyuṣṇaśīteṣu cintāyāṃ sambhrameṣu ca aśāntopadra ve vā'kṣṇi tarpaṇaṃ na praśasyate",
         "iast_ru": "дурдина̄тйуш̣н̣аш́ӣтеш̣у чинта̄йа̄м̣ самбхрамеш̣у ча аш́а̄нтопадра ве ва̄'кш̣н̣и тарпан̣ам̣ на праш́асйате",
-        "text": "В плохую погоду, при чрезмерной жаре или холоде, в тревоге и смятении, а также при неуспокоенном осложнении в глазу «тарпана» не рекомендуется."
+        "text": "В плохую погоду, при чрезмерной жаре или холоде, в тревоге и смятении, а также при неуспокоенном осложнении в глазу «тарпана» не рекомендуется.",
+        "text_en": "In bad weather, in excessive heat or cold, in anxiety and agitation, and also with unpacified complications in the eye, Tarpana is not recommended."
       },
       {
         "type": "verse",
@@ -85404,7 +85664,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "द्वे बिल्वे स्निग्धमांसस्य परं द्र व्यपलं मतम् द्र व्यस्य कुडवोन्मानं सर्वमेकत्र पेषयेत्",
         "iast": "dve bilve snigdhamāṃsasya paraṃ dra vyapalaṃ matam dra vyasya kuḍavonmānaṃ sarvamekatra peṣayet",
         "iast_ru": "две билве снигдхама̄м̣сасйа парам̣ дра вйапалам̣ матам дра вйасйа куд̣авонма̄нам̣ сарвамекатра пеш̣айет",
-        "text": "Два билвы маслянистого мяса — считается высшей мерой вещества; мера вещества в кудаву; всё следует растереть вместе."
+        "text": "Два билвы маслянистого мяса — считается высшей мерой вещества; мера вещества в кудаву; всё следует растереть вместе.",
+        "text_en": "Two Bilvas of unctuous meat is considered the highest measure of substance; the measure of substance is a Kudava; everything should be ground together."
       },
       {
         "type": "verse",
@@ -85412,7 +85673,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तदेकत्र समालोड्य पत्रैः सुपरिवेष्टितम् पुटपाकविधानेन तत्पक्त्वा तद्र सं बुधः",
         "iast": "tadekatra samāloḍya patraiḥ supariveṣṭitam puṭapākavidhānena tatpaktvā tadra saṃ budhaḥ",
         "iast_ru": "тадекатра сама̄лод̣йа патраих̣ супаривеш̣т̣итам пут̣апа̄кавидха̄нена татпактва̄ тадра сам̣ будхах̣",
-        "text": "Смешав это вместе, хорошо обернув листьями, по методу «путапака» мудрый, сварив это, [получает] сок,"
+        "text": "Смешав это вместе, хорошо обернув листьями, по методу «путапака» мудрый, сварив это, [получает] сок,",
+        "text_en": "Having mixed this together, well wrapped in leaves, by the Putapaka method the wise one, having cooked it, (obtains) the juice,"
       },
       {
         "type": "verse",
@@ -85420,7 +85682,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तर्पणोक्तेन विधिना यथावद्विनियोजयेत् दृष्टिमध्ये निषेक्तव्यो नित्यमुत्तानशायिनः",
         "iast": "tarpaṇoktena vidhinā yathāvadviniyojayet dṛṣṭimadhye niṣektavyo nityamuttānaśāyinaḥ",
         "iast_ru": "тарпан̣октена видхина̄ йатха̄вадвинийоджайет др̣ш̣т̣имадхйе ниш̣ектавйо нитйамутта̄наш́а̄йинах̣",
-        "text": "следует применять по правилу, изложенному для «тарпаны»; следует капать в середину зрения, [пациенту], постоянно лежащему на спине."
+        "text": "следует применять по правилу, изложенному для «тарпаны»; следует капать в середину зрения, [пациенту], постоянно лежащему на спине.",
+        "text_en": "(which) should be applied according to the rule laid down for Tarpana; it should be instilled into the middle of the vision of (a patient) constantly lying on the back."
       },
       {
         "type": "verse",
@@ -85428,7 +85691,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तेजांस्यनिलमाकाशमातपं भास्करस्य च नेक्षेत तर्पिते नेत्रे यश्च वा पुटपाकवान्",
         "iast": "tejāṃsyanilamākāśamātapaṃ bhāskarasya ca nekṣeta tarpite netre yaśca vā puṭapākavān",
         "iast_ru": "теджа̄м̣сйанилама̄ка̄ш́ама̄тапам̣ бха̄скарасйа ча некш̣ета тарпите нетре йаш́ча ва̄ пут̣апа̄кава̄н",
-        "text": "Огни, ветер, пространство, солнечный жар и [свет] солнца не следует рассматривать тому, чей глаз насыщен «тарпаной» или подвергся «путапаке»."
+        "text": "Огни, ветер, пространство, солнечный жар и [свет] солнца не следует рассматривать тому, чей глаз насыщен «тарпаной» или подвергся «путапаке».",
+        "text_en": "Fires, wind, space, the heat of the sun and (the light) of the sun should not be looked at by one whose eye has been satiated by Tarpana or subjected to Putapaka."
       },
       {
         "type": "verse",
@@ -85436,7 +85700,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथ सम्पक्वदोषस्य प्राप्तमञ्जनमाचरेत् अञ्जनं क्रियते येन तद् द्र व्यं चाञ्जनं मतम्",
         "iast": "atha sampakvadoṣasya prāptamañjanamācaret añjanaṃ kriyate yena tad dra vyaṃ cāñjanaṃ matam",
         "iast_ru": "атха сампаквадош̣асйа пра̄птаман̃джанама̄чарет ан̃джанам̣ крийате йена тад дра вйам̣ ча̄н̃джанам̣ матам",
-        "text": "Теперь, когда доша созрела, следует применить мазь (анджану); то вещество, которым делают мазь, называется анджаной."
+        "text": "Теперь, когда доша созрела, следует применить мазь (анджану); то вещество, которым делают мазь, называется анджаной.",
+        "text_en": "Now, when the dosha has ripened, ointment (Anjana) should be applied; the substance with which the ointment is made is called Anjana."
       },
       {
         "type": "verse",
@@ -85444,7 +85709,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वटिकारसचूर्णानि त्रिविधान्यञ्जनानि हि कुर्याच्छलाकयाऽङगुल्या हीनानि स्युर्यथोत्तरम्",
         "iast": "vaṭikārasacūrṇāni trividhānyañjanāni hi kuryācchalākayā'ṅagulyā hīnāni syuryathottaram",
         "iast_ru": "ват̣ика̄расачӯрн̣а̄ни тривидха̄нйан̃джана̄ни хи курйа̄ччхала̄кайа̄'н̇агулйа̄ хӣна̄ни сйурйатхоттарам",
-        "text": "Пилюли, соки и порошки — три вида мазей; следует применять палочкой или пальцем, [дозы] уменьшаются по порядку."
+        "text": "Пилюли, соки и порошки — три вида мазей; следует применять палочкой или пальцем, [дозы] уменьшаются по порядку.",
+        "text_en": "Pills, juices and powders are the three kinds of ointments; it should be applied with a stick or finger, (the doses) diminishing in order."
       },
       {
         "type": "verse",
@@ -85452,7 +85718,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्नेहनं रोपणं चापि लेखनं तत्त्रिधा पृथक् मधुरं स्नेहसम्पन्नमञ्जनं स्नेहनं मतम्",
         "iast": "snehanaṃ ropaṇaṃ cāpi lekhanaṃ tattridhā pṛthak madhuraṃ snehasampannamañjanaṃ snehanaṃ matam",
         "iast_ru": "снеханам̣ ропан̣ам̣ ча̄пи лекханам̣ таттридха̄ пр̣тхак мадхурам̣ снехасампаннаман̃джанам̣ снеханам̣ матам",
-        "text": "Маслянистая, заживляющая и очищающая — так [мазь делится] на три вида отдельно; сладкая, обладающая маслянистостью, мазь считается маслянистой."
+        "text": "Маслянистая, заживляющая и очищающая — так [мазь делится] на три вида отдельно; сладкая, обладающая маслянистостью, мазь считается маслянистой.",
+        "text_en": "Unctuous, healing and cleansing: thus (the ointment is divided) into three kinds separately; a sweet ointment possessing unctuousness is considered unctuous."
       },
       {
         "type": "verse",
@@ -85460,7 +85727,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कषायतिक्तरसयुक्सस्नेहं रोपणं स्मृतम् अञ्जनं क्षारतिक्ताम्लरसैर्लेखनमुच्यते",
         "iast": "kaṣāyatiktarasayuksasnehaṃ ropaṇaṃ smṛtam añjanaṃ kṣāratiktāmlarasairlekhanamucyate",
         "iast_ru": "каш̣а̄йатиктарасайуксаснехам̣ ропан̣ам̣ смр̣там ан̃джанам̣ кш̣а̄ратикта̄мларасаирлекханамучйате",
-        "text": "Соединённая с вяжущим и горьким вкусом, с маслом, считается заживляющей; мазь со щёлочным, горьким и кислым вкусом называется очищающей."
+        "text": "Соединённая с вяжущим и горьким вкусом, с маслом, считается заживляющей; мазь со щёлочным, горьким и кислым вкусом называется очищающей.",
+        "text_en": "That combined with astringent and bitter taste, with oil, is considered healing; an ointment with alkaline, bitter and sour taste is called cleansing."
       },
       {
         "type": "verse",
@@ -85468,7 +85736,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हरेणुमात्रां कुर्वीत वटीं तीक्ष्णाञ्जने भिषक् प्रमाणं मध्यमे सार्द्धद्विगुणं तु मृदौ भवेत्",
         "iast": "hareṇumātrāṃ kurvīta vaṭīṃ tīkṣṇāñjane bhiṣak pramāṇaṃ madhyame sārddhadviguṇaṃ tu mṛdau bhavet",
         "iast_ru": "харен̣ума̄тра̄м̣ курвӣта ват̣ӣм̣ тӣкш̣н̣а̄н̃джане бхиш̣ак прама̄н̣ам̣ мадхйаме са̄рддхадвигун̣ам̣ ту мр̣дау бхавет",
-        "text": "Размером с зерно харену следует делать пилюлю при острой мази; при средней доза — [размером], в среднем; при мягкой же — в полтора раза больше."
+        "text": "Размером с зерно харену следует делать пилюлю при острой мази; при средней доза — [размером], в среднем; при мягкой же — в полтора раза больше.",
+        "text_en": "The size of a Hareni grain should be made for the pill in a sharp ointment; in a medium, the dose is (of a size) average; in a mild one, one and a half times more."
       },
       {
         "type": "verse",
@@ -85476,7 +85745,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसक्रिया तूत्तमा स्यात् त्रिविडङ्गमिता मता मध्यमा द्विविडङ्गा सा हीना त्वेकविडङ्गिका",
         "iast": "rasakriyā tūttamā syāt triviḍaṅgamitā matā madhyamā dviviḍaṅgā sā hīnā tvekaviḍaṅgikā",
         "iast_ru": "расакрийа̄ тӯттама̄ сйа̄т тривид̣ан̇гамита̄ мата̄ мадхйама̄ двивид̣ан̇га̄ са̄ хӣна̄ твекавид̣ан̇гика̄",
-        "text": "Соковая обработка считается высшей, [если содержит] три [части] виданги; средняя — с двумя видангами; малая же — с одной видангой."
+        "text": "Соковая обработка считается высшей, [если содержит] три [части] виданги; средняя — с двумя видангами; малая же — с одной видангой.",
+        "text_en": "Juice preparation is considered best (if it contains) three (parts) of Vidanga; medium, with two Vidangas; small, with one Vidanga."
       },
       {
         "type": "verse",
@@ -85484,7 +85754,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शलाकाः स्नेहने चूर्णे चतस्रः प्राहुरञ्जने रोपणे तासु तिस्रः स्युस्ते उभे लेखने स्मृते",
         "iast": "śalākāḥ snehane cūrṇe catasraḥ prāhurañjane ropaṇe tāsu tisraḥ syuste ubhe lekhane smṛte",
         "iast_ru": "ш́ала̄ка̄х̣ снехане чӯрн̣е чатасрах̣ пра̄хуран̃джане ропан̣е та̄су тисрах̣ сйусте убхе лекхане смр̣те",
-        "text": "При маслянистой мази для порошка предписывают четыре палочки; при заживляющей — три из них; при очищающей же обе считаются [подходящими]."
+        "text": "При маслянистой мази для порошка предписывают четыре палочки; при заживляющей — три из них; при очищающей же обе считаются [подходящими].",
+        "text_en": "For an unctuous ointment in powder, four sticks are prescribed; for a healing one, three of them; for a cleansing one, both are considered (suitable)."
       },
       {
         "type": "verse",
@@ -85492,7 +85763,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुखयोः कुञ्चिता श्लक्ष्णां शलाकाऽष्टाङ्गुलोन्मिता अश्मजा धातुजा वा स्यात्कलायपरिमण्डला",
         "iast": "mukhayoḥ kuñcitā ślakṣṇāṃ śalākā'ṣṭāṅgulonmitā aśmajā dhātujā vā syātkalāyaparimaṇḍalā",
         "iast_ru": "мукхайох̣ кун̃чита̄ ш́лакш̣н̣а̄м̣ ш́ала̄ка̄'ш̣т̣а̄н̇гулонмита̄ аш́маджа̄ дха̄туджа̄ ва̄ сйа̄ткала̄йапариман̣д̣ала̄",
-        "text": "Палочка с обоих концов, изогнутая, гладкая, длиной восемь пальцев, из камня или металла, округлая, [толщиной] с горошину,"
+        "text": "Палочка с обоих концов, изогнутая, гладкая, длиной восемь пальцев, из камня или металла, округлая, [толщиной] с горошину,",
+        "text_en": "A stick pointed at both ends, curved, smooth, eight finger-breadths long, of stone or metal, round, (of the thickness) of a pea,"
       },
       {
         "type": "verse",
@@ -85500,7 +85772,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सुवर्णरजतोद्भूता शलाका स्नेहने स्मृता तीव्रलोहाश्मसञ्जाता शलाका लेखने मता अङ्गुली तु मृदुत्वेन रोपणे कथिता बुधैः",
         "iast": "suvarṇarajatodbhūtā śalākā snehane smṛtā tīvralohāśmasañjātā śalākā lekhane matā aṅgulī tu mṛdutvena ropaṇe kathitā budhaiḥ",
         "iast_ru": "суварн̣араджатодбхӯта̄ ш́ала̄ка̄ снехане смр̣та̄ тӣвралоха̄ш́масан̃джа̄та̄ ш́ала̄ка̄ лекхане мата̄ ан̇гулӣ ту мр̣дутвена ропан̣е катхита̄ будхаих̣",
-        "text": "из золота или серебра, — считается [подходящей] при маслянистой мази; из твёрдого металла или камня — считается [подходящей] при очищающей мази; палец же, по мягкости, мудрыми провозглашён [подходящим] при заживляющей [мази]."
+        "text": "из золота или серебра, — считается [подходящей] при маслянистой мази; из твёрдого металла или камня — считается [подходящей] при очищающей мази; палец же, по мягкости, мудрыми провозглашён [подходящим] при заживляющей [мази].",
+        "text_en": "of gold or silver, is considered (suitable) for unctuous ointment; of hard metal or stone, is considered (suitable) for cleansing ointment; the finger, by its softness, is declared by the wise (suitable) for healing (ointment)."
       },
       {
         "type": "verse",
@@ -85508,7 +85781,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिफालाभृङ्गशुण्ठीनां रसैः शुद्धश्च सर्पिषा",
         "iast": "triphālābhṛṅgaśuṇṭhīnāṃ rasaiḥ śuddhaśca sarpiṣā",
         "iast_ru": "трипха̄ла̄бхр̣н̇гаш́ун̣т̣хӣна̄м̣ расаих̣ ш́уддхаш́ча сарпиш̣а̄",
-        "text": "Соками трифалы, бхринги и сушёного имбиря, [очищенная], а также с гхи,"
+        "text": "Соками трифалы, бхринги и сушёного имбиря, [очищенная], а также с гхи,",
+        "text_en": "With the juices of Triphala, Bhringa and dried ginger, (purified), and also with ghee,"
       },
       {
         "type": "verse",
@@ -85516,7 +85790,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गोमूत्रमध्वजाक्षीरैः सिक्तो नागः प्रतापितः तच्छलाका हरत्येव सकलान्नेत्रजान्गदान्",
         "iast": "gomūtramadhvajākṣīraiḥ sikto nāgaḥ pratāpitaḥ tacchalākā haratyeva sakalānnetrajāngadān",
         "iast_ru": "гомӯтрамадхваджа̄кш̣ӣраих̣ сикто на̄гах̣ прата̄питах̣ таччхала̄ка̄ харатйева сакала̄ннетраджа̄нгада̄н",
-        "text": "орошённая коровьей мочой, мёдом, козьим молоком, накалённая свинцовая (нага) палочка устраняет все болезни глаза."
+        "text": "орошённая коровьей мочой, мёдом, козьим молоком, накалённая свинцовая (нага) палочка устраняет все болезни глаза.",
+        "text_en": "sprinkled with cow's urine, honey, goat's milk, a heated lead (Naga) stick removes all diseases of the eye."
       },
       {
         "type": "verse",
@@ -85524,7 +85799,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृष्णभागादधः कुर्याद्यावन्नयनमञ्जनम् हेमन्ते शिशिरे चापि मध्याह्नेऽञ्जनमिष्यते",
         "iast": "kṛṣṇabhāgādadhaḥ kuryādyāvannayanamañjanam hemante śiśire cāpi madhyāhne'ñjanamiṣyate",
         "iast_ru": "кр̣ш̣н̣абха̄га̄дадхах̣ курйа̄дйа̄ваннайанаман̃джанам хеманте ш́иш́ире ча̄пи мадхйа̄хне'н̃джанамиш̣йате",
-        "text": "Ниже чёрного участка следует наносить мазь, до [края] глаза; в холодный и зимний сезон, а также в полдень мазь рекомендуется."
+        "text": "Ниже чёрного участка следует наносить мазь, до [края] глаза; в холодный и зимний сезон, а также в полдень мазь рекомендуется.",
+        "text_en": "Below the black part the ointment should be applied, up to (the edge of) the eye; in the cold and winter season, and also at noon, ointment is recommended."
       },
       {
         "type": "verse",
@@ -85532,7 +85808,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पूर्वाह्णे वाऽपराह्णे वा ग्रीष्मे शरदि चेष्यते वर्षास्वदभ्रे नात्युष्णे वसन्ते तु सदैव हि",
         "iast": "pūrvāhṇe vā'parāhṇe vā grīṣme śaradi ceṣyate varṣāsvadabhre nātyuṣṇe vasante tu sadaiva hi",
         "iast_ru": "пӯрва̄хн̣е ва̄'пара̄хн̣е ва̄ грӣш̣ме ш́аради чеш̣йате варш̣а̄свадабхре на̄тйуш̣н̣е васанте ту садаива хи",
-        "text": "В первую или последнюю часть дня — летом и осенью; в дождливый сезон, когда не облачно и не слишком жарко, а весной же — всегда."
+        "text": "В первую или последнюю часть дня — летом и осенью; в дождливый сезон, когда не облачно и не слишком жарко, а весной же — всегда.",
+        "text_en": "In the first or last part of the day in summer and autumn; in the rainy season, when it is not cloudy and not too hot, and in spring, always."
       },
       {
         "type": "verse",
@@ -85540,7 +85817,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रातः सायन्तु तत्कुर्यान्न च कुर्यात्सदैव हि",
         "iast": "prātaḥ sāyantu tatkuryānna ca kuryātsadaiva hi",
         "iast_ru": "пра̄тах̣ са̄йанту таткурйа̄нна ча курйа̄тсадаива хи",
-        "text": "Утром и вечером следует применять её, но не постоянно всегда."
+        "text": "Утром и вечером следует применять её, но не постоянно всегда.",
+        "text_en": "Morning and evening it should be applied, but not constantly always."
       },
       {
         "type": "verse",
@@ -85548,7 +85826,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्रान्ते प्ररुदिते भीते पीतमद्ये नवज्वरे अजीर्णे वेगघाते च नाञ्जनं सम्प्रशस्यते",
         "iast": "śrānte prarudite bhīte pītamadye navajvare ajīrṇe vegaghāte ca nāñjanaṃ sampraśasyate",
         "iast_ru": "ш́ра̄нте прарудите бхӣте пӣтамадйе наваджваре аджӣрн̣е вегагха̄те ча на̄н̃джанам̣ сампраш́асйате",
-        "text": "У усталого, у плакавшего, у испуганного, у выпившего вино, при недавней лихорадке, при несварении, при подавлении позыва — мазь не рекомендуется."
+        "text": "У усталого, у плакавшего, у испуганного, у выпившего вино, при недавней лихорадке, при несварении, при подавлении позыва — мазь не рекомендуется.",
+        "text_en": "In one who is tired, who has wept, who is frightened, who has drunk wine, in recent fever, in indigestion, in suppression of an urge, ointment is not recommended."
       },
       {
         "type": "verse",
@@ -85556,7 +85835,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पथ्याऽक्षधात्रीबीजानि एकद्वित्रिगुणानि च पिष्ट्वाऽम्बुना वटीं कुर्यादञ्जनं द्विहरेणुकम् नेत्रस्रावं हरत्याशु वातरक्तरुजं तथा",
         "iast": "pathyā'kṣadhātrībījāni ekadvitriguṇāni ca piṣṭvā'mbunā vaṭīṃ kuryādañjanaṃ dvihareṇukam netrasrāvaṃ haratyāśu vātaraktarujaṃ tathā",
         "iast_ru": "патхйа̄'кш̣адха̄трӣбӣджа̄ни екадвитригун̣а̄ни ча пиш̣т̣ва̄'мбуна̄ ват̣ӣм̣ курйа̄дан̃джанам̣ двихарен̣укам нетрасра̄вам̣ харатйа̄ш́у ва̄тарактаруджам̣ татха̄",
-        "text": "Харитаки, каменная соль, семена амалаки, в одинарном, двойном или тройном количестве, растёртые с водой, [образуют] пилюлю; мазь двойной [дозы] харену быстро устраняет истечение из глаза, а также боль от ватхи и крови."
+        "text": "Харитаки, каменная соль, семена амалаки, в одинарном, двойном или тройном количестве, растёртые с водой, [образуют] пилюлю; мазь двойной [дозы] харену быстро устраняет истечение из глаза, а также боль от ватхи и крови.",
+        "text_en": "Haritaki, rock salt, seeds of Amalaki, in single, double or triple quantity, ground with water, (form) a pill; an ointment of double dose of Hareni quickly removes discharge from the eye, and also pain due to Vata and blood."
       },
       {
         "type": "verse",
@@ -85564,7 +85844,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसाञ्जनं हरिद्रे द्वे मालतीनिम्बपल्लवाः गोशकृद्र ससंयुक्ता वटी नक्तान्ध्यनाशिनी एतस्याश्चाञ्जने मात्रा प्रोक्ता सार्द्धं हरेणुका",
         "iast": "rasāñjanaṃ haridre dve mālatīnimbapallavāḥ gośakṛdra sasaṃyuktā vaṭī naktāndhyanāśinī etasyāścāñjane mātrā proktā sārddhaṃ hareṇukā",
         "iast_ru": "раса̄н̃джанам̣ харидре две ма̄латӣнимбапаллава̄х̣ гош́акр̣дра сасам̣йукта̄ ват̣ӣ накта̄ндхйана̄ш́инӣ етасйа̄ш́ча̄н̃джане ма̄тра̄ прокта̄ са̄рддхам̣ харен̣ука̄",
-        "text": "Красящее вещество (расанджана), две куркумы, побеги малати и нима, соединённые с соком коровьего навоза, — пилюля, устраняющая куриную слепоту; дозировка этой мази указана как полтора харену."
+        "text": "Красящее вещество (расанджана), две куркумы, побеги малати и нима, соединённые с соком коровьего навоза, — пилюля, устраняющая куриную слепоту; дозировка этой мази указана как полтора харену.",
+        "text_en": "Rasanjana (coloring substance), two turmerics, sprouts of Malati and Neem, combined with cow dung juice: a pill removing night blindness; the dosage of this ointment is indicated as one and a half Hareni."
       },
       {
         "type": "verse",
@@ -85572,7 +85853,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शङ्खनाभिर्बिभीतस्य मज्जा पथ्या मनः शिला पिप्पली मरिचं कुष्ठं वचा चेति समांशकम्",
         "iast": "śaṅkhanābhirbibhītasya majjā pathyā manaḥ śilā pippalī maricaṃ kuṣṭhaṃ vacā ceti samāṃśakam",
         "iast_ru": "ш́ан̇кхана̄бхирбибхӣтасйа маджджа̄ патхйа̄ манах̣ ш́ила̄ пиппалӣ маричам̣ куш̣т̣хам̣ вача̄ чети сама̄м̣ш́акам",
-        "text": "Ракушечная пуповина, сердцевина бибхитаки, харитаки, манахшила, пиппали, чёрный [перец], кустха, вача — в равных частях,"
+        "text": "Ракушечная пуповина, сердцевина бибхитаки, харитаки, манахшила, пиппали, чёрный [перец], кустха, вача — в равных частях,",
+        "text_en": "Shell umbilicus (conch operculum), kernel of Bibhitaki, Haritaki, Manahshila, Pippali, black (pepper), Kushtha, Vacha, in equal parts,"
       },
       {
         "type": "verse",
@@ -85580,7 +85862,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "छागीक्षीरेण संपिष्य वटीं कुर्याद्यवोन्मिताम् हरेणुमात्रं संघृष्य जलेनाञ्जनमाचरेत्",
         "iast": "chāgīkṣīreṇa saṃpiṣya vaṭīṃ kuryādyavonmitām hareṇumātraṃ saṃghṛṣya jalenāñjanamācaret",
         "iast_ru": "чха̄гӣкш̣ӣрен̣а сам̣пиш̣йа ват̣ӣм̣ курйа̄дйавонмита̄м харен̣ума̄трам̣ сам̣гхр̣ш̣йа джалена̄н̃джанама̄чарет",
-        "text": "растёртые с козьим молоком, следует сделать пилюлю размером с ячменное зерно; растерев в дозе харену с водой, следует применять как мазь."
+        "text": "растёртые с козьим молоком, следует сделать пилюлю размером с ячменное зерно; растерев в дозе харену с водой, следует применять как мазь.",
+        "text_en": "ground with goat's milk, a pill the size of a barley grain should be made; ground in a dose of Hareni with water, it should be applied as an ointment."
       },
       {
         "type": "verse",
@@ -85588,7 +85871,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिमिरं मांसवृद्धिञ्च काचं पटलमर्बुदम् रात्र्यन्ध्यं वार्षिकं पुष्पं वटी चन्द्रो दया जयेत्",
         "iast": "timiraṃ māṃsavṛddhiñca kācaṃ paṭalamarbudam rātryandhyaṃ vārṣikaṃ puṣpaṃ vaṭī candro dayā jayet",
         "iast_ru": "тимирам̣ ма̄м̣савр̣ддхин̃ча ка̄чам̣ пат̣аламарбудам ра̄трйандхйам̣ ва̄рш̣икам̣ пуш̣пам̣ ват̣ӣ чандро дайа̄ джайет",
-        "text": "Она побеждает тьму, разрастание мяса, «качу» (катаракту), [болезнь] оболочки, опухоль, куриную слепоту, сезонный [цветок]; [эта] пилюля называется «Чандродая» (восход луны)."
+        "text": "Она побеждает тьму, разрастание мяса, «качу» (катаракту), [болезнь] оболочки, опухоль, куриную слепоту, сезонный [цветок]; [эта] пилюля называется «Чандродая» (восход луны).",
+        "text_en": "It conquers darkness (Timira), growth of flesh, Kacha (cataract), (disease) of the membrane, tumor, night blindness, seasonal (flower); this pill is called Chandrodaya (rising of the moon)."
       },
       {
         "type": "verse",
@@ -85596,7 +85880,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पलाशपुष्पस्वरसैर्बहुशः परिभावितम् करञ्जबीजं तद्वर्त्तिर्दृष्टेः पुष्पं विनाशयेत्",
         "iast": "palāśapuṣpasvarasairbahuśaḥ paribhāvitam karañjabījaṃ tadvarttirdṛṣṭeḥ puṣpaṃ vināśayet",
         "iast_ru": "пала̄ш́апуш̣пасварасаирбахуш́ах̣ парибха̄витам каран̃джабӣджам̣ тадварттирдр̣ш̣т̣ех̣ пуш̣пам̣ вина̄ш́айет",
-        "text": "Пропитанное много раз свежим соком цветка палаши семя каранджи, [сделанное в] фитиль, устраняет «пушпу» (бельмо) зрения."
+        "text": "Пропитанное много раз свежим соком цветка палаши семя каранджи, [сделанное в] фитиль, устраняет «пушпу» (бельмо) зрения.",
+        "text_en": "A wick made of Karanja seed, soaked many times in fresh juice of Palasha flower, removes Pushpa (leucoma) of vision."
       },
       {
         "type": "verse",
@@ -85604,7 +85889,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कतकस्य फलं पिष्ट्वा मधुना नेत्रमञ्जयेत् ईषत्कर्पूरसहितं तत्स्यान्नेत्रप्रसादनम्",
         "iast": "katakasya phalaṃ piṣṭvā madhunā netramañjayet īṣatkarpūrasahitaṃ tatsyānnetraprasādanam",
         "iast_ru": "катакасйа пхалам̣ пиш̣т̣ва̄ мадхуна̄ нетраман̃джайет ӣш̣аткарпӯрасахитам̣ татсйа̄ннетрапраса̄данам",
-        "text": "Растёртый плод катаки с мёдом следует наносить на глаз; с небольшим количеством камфары это очищает и успокаивает глаз."
+        "text": "Растёртый плод катаки с мёдом следует наносить на глаз; с небольшим количеством камфары это очищает и успокаивает глаз.",
+        "text_en": "The ground fruit of Kataka with honey should be applied to the eye; with a little camphor it cleanses and soothes the eye."
       },
       {
         "type": "verse",
@@ -85612,7 +85898,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रसाञ्जनं सर्जरसो जातीपुष्पं मनःशिला समुद्र फेनं लवणं गैरिकं मरिचं तथा",
         "iast": "rasāñjanaṃ sarjaraso jātīpuṣpaṃ manaḥśilā samudra phenaṃ lavaṇaṃ gairikaṃ maricaṃ tathā",
         "iast_ru": "раса̄н̃джанам̣ сарджарасо джа̄тӣпуш̣пам̣ манах̣ш́ила̄ самудра пхенам̣ лаван̣ам̣ гаирикам̣ маричам̣ татха̄",
-        "text": "Красящее вещество (расанджана), смола сарджи, цветок джати, манахшила, морская пена, соль, охра, а также чёрный [перец] —"
+        "text": "Красящее вещество (расанджана), смола сарджи, цветок джати, манахшила, морская пена, соль, охра, а также чёрный [перец] —",
+        "text_en": "Rasanjana (coloring substance), Sarja resin, Jati flower, Manahshila, sea foam, salt, ochre, and also black (pepper),"
       },
       {
         "type": "verse",
@@ -85620,7 +85907,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एतत्समांशं मधुना पिष्टं प्रक्लिन्नवर्त्मनि अञ्जनं क्लेदकण्डूघ्नं पक्ष्मणाञ्च प्ररोहणम्",
         "iast": "etatsamāṃśaṃ madhunā piṣṭaṃ praklinnavartmani añjanaṃ kledakaṇḍūghnaṃ pakṣmaṇāñca prarohaṇam",
         "iast_ru": "етатсама̄м̣ш́ам̣ мадхуна̄ пиш̣т̣ам̣ праклиннавартмани ан̃джанам̣ кледакан̣д̣ӯгхнам̣ пакш̣ман̣а̄н̃ча прарохан̣ам",
-        "text": "эти в равных частях, растёртые с мёдом, [применяются как мазь] на влажном веке; эта мазь устраняет влажность и зуд, способствует росту ресниц."
+        "text": "эти в равных частях, растёртые с мёдом, [применяются как мазь] на влажном веке; эта мазь устраняет влажность и зуд, способствует росту ресниц.",
+        "text_en": "these in equal parts, ground with honey, (are applied as an ointment) on a moist eyelid; this ointment removes moisture and itching, and promotes the growth of eyelashes."
       },
       {
         "type": "verse",
@@ -85628,7 +85916,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दुग्धेन कण्डूं क्षौद्रे ण नेत्रस्रावञ्च सर्पिषा पुष्प तैलेन तिमिरं काञ्जिकेन निशाऽन्धताम्",
         "iast": "dugdhena kaṇḍūṃ kṣaudre ṇa netrasrāvañca sarpiṣā puṣpa tailena timiraṃ kāñjikena niśā'ndhatām",
         "iast_ru": "дугдхена кан̣д̣ӯм̣ кш̣аудре н̣а нетрасра̄ван̃ча сарпиш̣а̄ пуш̣па таилена тимирам̣ ка̄н̃джикена ниш́а̄'ндхата̄м",
-        "text": "С молоком — [устраняет] зуд, с мёдом — истечение из глаза, с гхи — [также], с цветочным маслом — тьму, с канджикой — ночную слепоту."
+        "text": "С молоком — [устраняет] зуд, с мёдом — истечение из глаза, с гхи — [также], с цветочным маслом — тьму, с канджикой — ночную слепоту.",
+        "text_en": "With milk (it removes) itching, with honey discharge from the eye, with ghee (likewise), with flower oil darkness, with Kanjika night blindness."
       },
       {
         "type": "verse",
@@ -85636,7 +85925,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुनर्नवा हरत्याशु भास्करस्तिमिरं यथा",
         "iast": "punarnavā haratyāśu bhāskarastimiraṃ yathā",
         "iast_ru": "пунарнава̄ харатйа̄ш́у бха̄скарастимирам̣ йатха̄",
-        "text": "Пунарнава быстро устраняет тьму, как солнце [устраняет мрак]."
+        "text": "Пунарнава быстро устраняет тьму, как солнце [устраняет мрак].",
+        "text_en": "Punarnava quickly removes darkness, as the sun (removes gloom)."
       },
       {
         "type": "verse",
@@ -85644,7 +85934,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बब्बूलदलनिक्वाथो लेहीभूतस्तदञ्जनात् नेत्रस्रावो व्रजेच्छोषं मधुयुक्तान्न संशयः",
         "iast": "babbūladalanikvātho lehībhūtastadañjanāt netrasrāvo vrajecchoṣaṃ madhuyuktānna saṃśayaḥ",
         "iast_ru": "баббӯладаланиква̄тхо лехӣбхӯтастадан̃джана̄т нетрасра̄во враджеччхош̣ам̣ мадхуйукта̄нна сам̣ш́айах̣",
-        "text": "Отвар листьев баббулы, ставший похожим на сироп, от применения этой мази истечение из глаза устраняется, соединённое с мёдом, несомненно."
+        "text": "Отвар листьев баббулы, ставший похожим на сироп, от применения этой мази истечение из глаза устраняется, соединённое с мёдом, несомненно.",
+        "text_en": "A decoction of Babbula leaves, having become like syrup, by application of this ointment discharge from the eye is removed, combined with honey, undoubtedly."
       },
       {
         "type": "verse",
@@ -85652,7 +85943,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वटक्षीरेण संयुक्तं मुख्यकर्पूरजं रजः क्षिप्रमञ्जनतो हन्ति कुसुमं तु द्विमासिकम्",
         "iast": "vaṭakṣīreṇa saṃyuktaṃ mukhyakarpūrajaṃ rajaḥ kṣipramañjanato hanti kusumaṃ tu dvimāsikam",
         "iast_ru": "ват̣акш̣ӣрен̣а сам̣йуктам̣ мукхйакарпӯраджам̣ раджах̣ кш̣ипраман̃джанато ханти кусумам̣ ту двима̄сикам",
-        "text": "Порошок лучшей камфары, соединённый с молоком баньяна, при мазевом применении быстро устраняет бельмо двухмесячной [давности]."
+        "text": "Порошок лучшей камфары, соединённый с молоком баньяна, при мазевом применении быстро устраняет бельмо двухмесячной [давности].",
+        "text_en": "A powder of the best camphor, combined with the milk of banyan, in ointment application quickly removes a leucoma of two months (standing)."
       },
       {
         "type": "verse",
@@ -85660,7 +85952,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षौद्रा श्वलालासंघृष्टैर्मरिचैर्नेत्रमञ्जयेत् अतिनिद्रा शमं याति तमः सूर्योदयादिव",
         "iast": "kṣaudrā śvalālāsaṃghṛṣṭairmaricairnetramañjayet atinidrā śamaṃ yāti tamaḥ sūryodayādiva",
         "iast_ru": "кш̣аудра̄ ш́вала̄ла̄сам̣гхр̣ш̣т̣аирмаричаирнетраман̃джайет атинидра̄ ш́амам̣ йа̄ти тамах̣ сӯрйодайа̄дива",
-        "text": "Чёрный [перец], растёртый мёдом и собачьей слюной, следует наносить на глаз как мазь; чрезмерная сонливость приходит к успокоению, [а] тьма — как от восхода солнца."
+        "text": "Чёрный [перец], растёртый мёдом и собачьей слюной, следует наносить на глаз как мазь; чрезмерная сонливость приходит к успокоению, [а] тьма — как от восхода солнца.",
+        "text_en": "Black (pepper), ground with honey and dog's saliva, should be applied to the eye as an ointment; excessive drowsiness comes to rest, (and) darkness (disappears) as at sunrise."
       },
       {
         "type": "verse",
@@ -85668,7 +85961,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अग्नितप्तं हि सौवीरं निषिञ्चेत्त्रिफलारसैः सप्तवेलं तथा स्तन्यैः स्त्रीणां सिक्तं विचूर्णितम्",
         "iast": "agnitaptaṃ hi sauvīraṃ niṣiñcettriphalārasaiḥ saptavelaṃ tathā stanyaiḥ strīṇāṃ siktaṃ vicūrṇitam",
         "iast_ru": "агнитаптам̣ хи саувӣрам̣ ниш̣ин̃четтрипхала̄расаих̣ саптавелам̣ татха̄ станйаих̣ стрӣн̣а̄м̣ сиктам̣ вичӯрн̣итам",
-        "text": "Нагретую на огне сурьму следует орошать соками трифалы, семикратно, а также молоком женщин, [промытую] и истолчённую."
+        "text": "Нагретую на огне сурьму следует орошать соками трифалы, семикратно, а также молоком женщин, [промытую] и истолчённую.",
+        "text_en": "Antimony heated on fire should be sprinkled with the juices of Triphala, seven times, and also with women's milk, (washed) and pounded."
       },
       {
         "type": "verse",
@@ -85676,7 +85970,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अञ्जयेत्तेन नयने प्रत्यहं चक्षुषो हितम् सर्वानक्षिविकारांस्तु हन्यादेतन्न संशयः",
         "iast": "añjayettena nayane pratyahaṃ cakṣuṣo hitam sarvānakṣivikārāṃstu hanyādetanna saṃśayaḥ",
         "iast_ru": "ан̃джайеттена найане пратйахам̣ чакш̣уш̣о хитам сарва̄накш̣ивика̄ра̄м̣сту ханйа̄детанна сам̣ш́айах̣",
-        "text": "Этим следует ежедневно смазывать глаза — полезно для зрения; несомненно, это устраняет все болезни глаза."
+        "text": "Этим следует ежедневно смазывать глаза — полезно для зрения; несомненно, это устраняет все болезни глаза.",
+        "text_en": "With this the eyes should be anointed daily; it is beneficial for vision; undoubtedly it removes all diseases of the eye."
       },
       {
         "type": "verse",
@@ -85684,7 +85979,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिलायां रसकं पिष्ट्वा सम्यगाप्लाव्य वारिणा गृह्णीयात्तज्जलं सर्वं त्यजेच्चूर्णमधोगतम्",
         "iast": "śilāyāṃ rasakaṃ piṣṭvā samyagāplāvya vāriṇā gṛhṇīyāttajjalaṃ sarvaṃ tyajeccūrṇamadhogatam",
         "iast_ru": "ш́ила̄йа̄м̣ расакам̣ пиш̣т̣ва̄ самйага̄пла̄вйа ва̄рин̣а̄ гр̣хн̣ӣйа̄ттаджджалам̣ сарвам̣ тйаджеччӯрн̣амадхогатам",
-        "text": "Растерев ртутный сульфид (расака) на камне, обильно омыв водой, следует собрать всю осевшую воду, а верхнюю слить."
+        "text": "Растерев ртутный сульфид (расака) на камне, обильно омыв водой, следует собрать всю осевшую воду, а верхнюю слить.",
+        "text_en": "Having ground mercuric sulfide (Rasaka) on a stone, washed abundantly with water, one should collect all the settled water, and pour off the upper."
       },
       {
         "type": "verse",
@@ -85692,7 +85988,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुष्कञ्च तज्जलं सर्व पर्पटीसन्निभं भवेत् विचूर्ण्य भावयेत्सम्यक्त्रिवेलं त्रिफलारसैः",
         "iast": "śuṣkañca tajjalaṃ sarva parpaṭīsannibhaṃ bhavet vicūrṇya bhāvayetsamyaktrivelaṃ triphalārasaiḥ",
         "iast_ru": "ш́уш̣кан̃ча таджджалам̣ сарва парпат̣ӣсаннибхам̣ бхавет вичӯрн̣йа бха̄вайетсамйактривелам̣ трипхала̄расаих̣",
-        "text": "Высохшая вся эта вода становится подобной пластинке; истолчённую, следует правильно пропитать трижды соками трифалы."
+        "text": "Высохшая вся эта вода становится подобной пластинке; истолчённую, следует правильно пропитать трижды соками трифалы.",
+        "text_en": "All this water, when dried, becomes like a plate; pounded, it should be properly soaked three times with the juices of Triphala."
       },
       {
         "type": "verse",
@@ -85700,7 +85997,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्पूरस्य रजस्तत्र दशमांशेन निक्षिपेत् अञ्जयन्नेयने तेन नेत्राखिलगदच्छिदा",
         "iast": "karpūrasya rajastatra daśamāṃśena nikṣipet añjayanneyane tena netrākhilagadacchidā",
         "iast_ru": "карпӯрасйа раджастатра даш́ама̄м̣ш́ена никш̣ипет ан̃джайаннейане тена нетра̄кхилагадаччхида̄",
-        "text": "Туда следует добавить порошок камфары в десятой части; мазью из этого для глаз [устраняются] все болезни глаза."
+        "text": "Туда следует добавить порошок камфары в десятой части; мазью из этого для глаз [устраняются] все болезни глаза.",
+        "text_en": "Camphor powder should be added to it in a tenth part; by an ointment of this for the eyes all diseases of the eye (are removed)."
       },
       {
         "type": "verse",
@@ -85708,7 +86006,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दक्षाण्डत्वक्छिलाकाचशङ्खचन्दनसैन्धवैः चूर्णितैरञ्जनं प्रोक्तं पुष्पादीनां निकृन्तनम्",
         "iast": "dakṣāṇḍatvakchilākācaśaṅkhacandanasaindhavaiḥ cūrṇitairañjanaṃ proktaṃ puṣpādīnāṃ nikṛntanam",
         "iast_ru": "дакш̣а̄н̣д̣атвакчхила̄ка̄чаш́ан̇кхачанданасаиндхаваих̣ чӯрн̣итаиран̃джанам̣ проктам̣ пуш̣па̄дӣна̄м̣ никр̣нтанам",
-        "text": "Скорлупа петушиного яйца, кремнистый камень, стекло, раковина, сандал, каменная соль, истолчённые, — мазь, провозглашённая устраняющей «пушпу» (бельмо) и подобное."
+        "text": "Скорлупа петушиного яйца, кремнистый камень, стекло, раковина, сандал, каменная соль, истолчённые, — мазь, провозглашённая устраняющей «пушпу» (бельмо) и подобное.",
+        "text_en": "Shell of a rooster's egg, flint stone, glass, conch shell, sandalwood, rock salt, pounded: an ointment declared to remove Pushpa (leucoma) and the like."
       },
       {
         "type": "verse",
@@ -85716,7 +86015,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुक्ताकर्पूरकाचागुरुमरिचकणासैन्धवं सैलवालं शुण्ठीकक्लोलकांस्यत्रपुरजनिशिलाशङ्खनाभ्यभ्रतुत्थम् दक्षाण्डत्वक्च साक्षं क्षतजमथ शिवा क्लीतकं राजवर्त्त जातीपुष्पं तुलस्याः कुसुममभिनवं बीजकं स्यात्तथैव",
         "iast": "muktākarpūrakācāgurumaricakaṇāsaindhavaṃ sailavālaṃ śuṇṭhīkaklolakāṃsyatrapurajaniśilāśaṅkhanābhyabhratuttham dakṣāṇḍatvakca sākṣaṃ kṣatajamatha śivā klītakaṃ rājavartta jātīpuṣpaṃ tulasyāḥ kusumamabhinavaṃ bījakaṃ syāttathaiva",
         "iast_ru": "мукта̄карпӯрака̄ча̄гурумаричакан̣а̄саиндхавам̣ саилава̄лам̣ ш́ун̣т̣хӣкаклолака̄м̣сйатрапураджаниш́ила̄ш́ан̇кхана̄бхйабхратуттхам дакш̣а̄н̣д̣атвакча са̄кш̣ам̣ кш̣атаджаматха ш́ива̄ клӣтакам̣ ра̄джавартта джа̄тӣпуш̣пам̣ туласйа̄х̣ кусумамабхинавам̣ бӣджакам̣ сйа̄ттатхаива",
-        "text": "Жемчуг, камфара, стекло, агуру, чёрный перец, пиппали, каменная соль, силавала (мускус?), сушёный имбирь, каккола, бронза, олово, куркума, манахшила, раковина, сурьма (абхра), медный купорос, а также скорлупа петушиного яйца, ровно столько же, харитаки, клитака (?), драгоценный камень раджаварта, цветок джати, свежий цветок туласи, а также семя,"
+        "text": "Жемчуг, камфара, стекло, агуру, чёрный перец, пиппали, каменная соль, силавала (мускус?), сушёный имбирь, каккола, бронза, олово, куркума, манахшила, раковина, сурьма (абхра), медный купорос, а также скорлупа петушиного яйца, ровно столько же, харитаки, клитака (?), драгоценный камень раджаварта, цветок джати, свежий цветок туласи, а также семя,",
+        "text_en": "Pearl, camphor, glass, Aguru, black pepper, Pippali, rock salt, Shilavala (musk?), dried ginger, Kakkola, bronze, tin, turmeric, Manahshila, conch shell, antimony (Abhra), copper sulfate, and also the shell of a rooster's egg, exactly as much, Haritaki, Klitaka (?), the precious stone Rajavarta, Jati flower, fresh Tulasi flower, and also seed,"
       },
       {
         "type": "verse",
@@ -85724,7 +86024,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पूतीकनिम्बार्जुनभद्र मुस्तं सताम्रसारं रसगर्भयुक्तम् प्रत्येकमेषां खलु माषकैकं यत्नेन पिष्येन्मधुनाऽतिसूक्ष्मम्",
         "iast": "pūtīkanimbārjunabhadra mustaṃ satāmrasāraṃ rasagarbhayuktam pratyekameṣāṃ khalu māṣakaikaṃ yatnena piṣyenmadhunā'tisūkṣmam",
         "iast_ru": "пӯтӣканимба̄рджунабхадра мустам̣ сата̄мраса̄рам̣ расагарбхайуктам пратйекамеш̣а̄м̣ кхалу ма̄ш̣акаикам̣ йатнена пиш̣йенмадхуна̄'тисӯкш̣мам",
-        "text": "пути, ним, арджуна, бхадра-муста, с медной сердцевиной, соединённые с ртутным сульфидом (расагарбха), — каждого из них по одной маше следует старательно растереть весьма тонко с мёдом."
+        "text": "пути, ним, арджуна, бхадра-муста, с медной сердцевиной, соединённые с ртутным сульфидом (расагарбха), — каждого из них по одной маше следует старательно растереть весьма тонко с мёдом.",
+        "text_en": "Puti, Neem, Arjuna, Bhadra-musta, with copper core, combined with mercuric sulfide (Rasagarbha): of each one Masha should be carefully ground very finely with honey."
       },
       {
         "type": "verse",
@@ -85732,7 +86033,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भवन्ति रोगा नयनाश्रिता ये नितान्तमात्रोपचिताश्च तेषाम् विधीयते शान्तिरवश्यमेव मुक्ताऽदिनाऽनेन महाञ्जनेन",
         "iast": "bhavanti rogā nayanāśritā ye nitāntamātropacitāśca teṣām vidhīyate śāntiravaśyameva muktā'dinā'nena mahāñjanena",
         "iast_ru": "бхаванти рога̄ найана̄ш́рита̄ йе нита̄нтама̄тропачита̄ш́ча теш̣а̄м видхӣйате ш́а̄нтираваш́йамева мукта̄'дина̄'нена маха̄н̃джанена",
-        "text": "Болезни, обосновавшиеся в глазу, даже чрезмерно накопившиеся, непременно приходят к успокоению от этой великой мази, [начинающейся] с жемчуга и подобного."
+        "text": "Болезни, обосновавшиеся в глазу, даже чрезмерно накопившиеся, непременно приходят к успокоению от этой великой мази, [начинающейся] с жемчуга и подобного.",
+        "text_en": "Diseases established in the eye, even excessively accumulated, certainly come to rest through this great ointment, (beginning) with pearl and the like."
       },
       {
         "type": "verse",
@@ -85740,7 +86042,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कणा सलवणोषणा सहरसाञ्जना साञ्जना सरित्पतिकफः सिता सितपुनर्नवासम्भवा रजन्यरुणचन्दनं मधुकतुत्थपथ्याशिला ह्यरिष्टदलशावरस्फटिकशङ्खनाभीन्दवः",
         "iast": "kaṇā salavaṇoṣaṇā saharasāñjanā sāñjanā saritpatikaphaḥ sitā sitapunarnavāsambhavā rajanyaruṇacandanaṃ madhukatutthapathyāśilā hyariṣṭadalaśāvarasphaṭikaśaṅkhanābhīndavaḥ",
         "iast_ru": "кан̣а̄ салаван̣ош̣ан̣а̄ сахараса̄н̃джана̄ са̄н̃джана̄ саритпатикапхах̣ сита̄ ситапунарнава̄самбхава̄ раджанйарун̣ачанданам̣ мадхукатуттхапатхйа̄ш́ила̄ хйариш̣т̣адалаш́а̄вараспхат̣икаш́ан̇кхана̄бхӣндавах̣",
-        "text": "Пиппали, соединённая с солью, острая, с красящим веществом, с сурьмой, соединённая с речным (?), капхой раковины, сахар, [вещество] из белой пунарнавы, куркума, красный сандал, солодка, медный купорос, харитаки, манахшила, лист аришты, шарава-раса (?), кристалл, раковинная пуповина, а также луны (жемчуг?),"
+        "text": "Пиппали, соединённая с солью, острая, с красящим веществом, с сурьмой, соединённая с речным (?), капхой раковины, сахар, [вещество] из белой пунарнавы, куркума, красный сандал, солодка, медный купорос, харитаки, манахшила, лист аришты, шарава-раса (?), кристалл, раковинная пуповина, а также луны (жемчуг?),",
+        "text_en": "Pippali, combined with salt, pungent, with coloring substance, with antimony, combined with river (?), Kapha of conch, sugar, (substance) from white Punarnava, turmeric, red sandalwood, licorice, copper sulfate, Haritaki, Manahshila, Arishta leaf, Sharavarasa (?), crystal, conch umbilicus, and also of the moon (pearl?),"
       },
       {
         "type": "verse",
@@ -85748,7 +86051,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इमानि तु विचूर्णयेन्निबिडवाससा शोधयेत् तथाऽयसि विमर्दयेत्समधु ताम्रखण्डेन तत् इदं मुनिभिरीरितं नयनशोणनामाञ्जनं करोति तिमिरक्षयं पटलपुष्पनाशं बलात्",
         "iast": "imāni tu vicūrṇayennibiḍavāsasā śodhayet tathā'yasi vimardayetsamadhu tāmrakhaṇḍena tat idaṃ munibhirīritaṃ nayanaśoṇanāmāñjanaṃ karoti timirakṣayaṃ paṭalapuṣpanāśaṃ balāt",
         "iast_ru": "има̄ни ту вичӯрн̣айеннибид̣ава̄саса̄ ш́одхайет татха̄'йаси вимардайетсамадху та̄мракхан̣д̣ена тат идам̣ мунибхирӣритам̣ найанаш́он̣ана̄ма̄н̃джанам̣ кароти тимиракш̣айам̣ пат̣алапуш̣пана̄ш́ам̣ бала̄т",
-        "text": "эти следует истолочь в порошок, очистить плотной тканью, затем растереть на железе с мёдом и куском меди; эту мазь, изложенную мудрецами, называют «нетра-шона» (красящая глаз), она устраняет истощение тьмы, [болезнь] оболочки и «пушпу» силой."
+        "text": "эти следует истолочь в порошок, очистить плотной тканью, затем растереть на железе с мёдом и куском меди; эту мазь, изложенную мудрецами, называют «нетра-шона» (красящая глаз), она устраняет истощение тьмы, [болезнь] оболочки и «пушпу» силой.",
+        "text_en": "these should be pounded into powder, cleaned through a thick cloth, then ground on iron with honey and a piece of copper; this ointment, described by the sages, is called Netra-shona (coloring the eye); it removes the depletion of darkness, (disease) of the membrane and Pushpa by force."
       },
       {
         "type": "verse",
@@ -85756,7 +86060,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हरीतकी वचा कुष्ठं पिप्पली मरिचानि च बिभीतकस्य मज्जा च शङ्खनाभिर्मनः शिला",
         "iast": "harītakī vacā kuṣṭhaṃ pippalī maricāni ca bibhītakasya majjā ca śaṅkhanābhirmanaḥ śilā",
         "iast_ru": "харӣтакӣ вача̄ куш̣т̣хам̣ пиппалӣ марича̄ни ча бибхӣтакасйа маджджа̄ ча ш́ан̇кхана̄бхирманах̣ ш́ила̄",
-        "text": "Харитаки, вача, кустха, пиппали, чёрный перец, сердцевина бибхитаки, раковинная пуповина, манахшила —"
+        "text": "Харитаки, вача, кустха, пиппали, чёрный перец, сердцевина бибхитаки, раковинная пуповина, манахшила —",
+        "text_en": "Haritaki, Vacha, Kushtha, Pippali, black pepper, kernel of Bibhitaki, conch umbilicus, Manahshila,"
       },
       {
         "type": "verse",
@@ -85764,7 +86069,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्वमेतत्समं कृत्वा गव्यक्षीरेण पेषयेत् नाशयेत्तिमिरं कण्डूपटलान्यर्बुदानि च",
         "iast": "sarvametatsamaṃ kṛtvā gavyakṣīreṇa peṣayet nāśayettimiraṃ kaṇḍūpaṭalānyarbudāni ca",
         "iast_ru": "сарваметатсамам̣ кр̣тва̄ гавйакш̣ӣрен̣а пеш̣айет на̄ш́айеттимирам̣ кан̣д̣ӯпат̣ала̄нйарбуда̄ни ча",
-        "text": "всё это в равных частях следует растереть с коровьим молоком; устраняет тьму, зуд, [болезнь] оболочки и опухоли."
+        "text": "всё это в равных частях следует растереть с коровьим молоком; устраняет тьму, зуд, [болезнь] оболочки и опухоли.",
+        "text_en": "all this in equal parts should be ground with cow's milk; it removes darkness, itching, (disease) of the membrane and tumors."
       },
       {
         "type": "verse",
@@ -85772,7 +86078,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अपि त्रिवार्षिकं शुक्लं मासेनैकेन नाशयेत् अधिकानि च मांसानि रात्रावन्धत्वमेव च",
         "iast": "api trivārṣikaṃ śuklaṃ māsenaikena nāśayet adhikāni ca māṃsāni rātrāvandhatvameva ca",
         "iast_ru": "апи трива̄рш̣икам̣ ш́уклам̣ ма̄сенаикена на̄ш́айет адхика̄ни ча ма̄м̣са̄ни ра̄тра̄вандхатвамева ча",
-        "text": "Даже трёхлетнее белое [бельмо] за один месяц устраняет; избыточное мясо, а также куриную слепоту ночью."
+        "text": "Даже трёхлетнее белое [бельмо] за один месяц устраняет; избыточное мясо, а также куриную слепоту ночью.",
+        "text_en": "Even a white (leucoma) of three years' (standing) it removes in one month; excess flesh, and also night blindness at night."
       },
       {
         "type": "verse",
@@ -85780,7 +86087,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रजनी निम्बपत्राणि पिप्पली मरिचानि च विडङ्गं भद्र मुस्तं च सप्तमीत्वभया स्मृता",
         "iast": "rajanī nimbapatrāṇi pippalī maricāni ca viḍaṅgaṃ bhadra mustaṃ ca saptamītvabhayā smṛtā",
         "iast_ru": "раджанӣ нимбапатра̄н̣и пиппалӣ марича̄ни ча вид̣ан̇гам̣ бхадра мустам̣ ча саптамӣтвабхайа̄ смр̣та̄",
-        "text": "Куркума, листья нима, пиппали, чёрный перец, виданги, бхадра-муста — эти семь, [добавив] харитаки, известны как [состав]."
+        "text": "Куркума, листья нима, пиппали, чёрный перец, виданги, бхадра-муста — эти семь, [добавив] харитаки, известны как [состав].",
+        "text_en": "Turmeric, Neem leaves, Pippali, black pepper, Vidanga, Bhadra-musta: these seven, (adding) Haritaki, are known as (the composition)."
       },
       {
         "type": "verse",
@@ -85788,7 +86096,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अजामूत्रेण सम्पिष्य च्छायायां शोषयेद्वटीम् वारिणा तिमिरं हन्ति गोमूत्रेण तु पिष्टकम्",
         "iast": "ajāmūtreṇa sampiṣya cchāyāyāṃ śoṣayedvaṭīm vāriṇā timiraṃ hanti gomūtreṇa tu piṣṭakam",
         "iast_ru": "аджа̄мӯтрен̣а сампиш̣йа ччха̄йа̄йа̄м̣ ш́ош̣айедват̣ӣм ва̄рин̣а̄ тимирам̣ ханти гомӯтрен̣а ту пиш̣т̣акам",
-        "text": "Растёртые с козьей мочой, следует высушить пилюлю в тени; с водой устраняет тьму, с коровьей мочой — устраняет пятно,"
+        "text": "Растёртые с козьей мочой, следует высушить пилюлю в тени; с водой устраняет тьму, с коровьей мочой — устраняет пятно,",
+        "text_en": "Ground with goat's urine, the pill should be dried in the shade; with water it removes darkness, with cow's urine it removes the spot,"
       },
       {
         "type": "verse",
@@ -85796,7 +86105,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मधुना पटलं हन्ति नारीक्षीरेण पुष्पकम् एषा चन्द्र प्रभा वर्त्तिः स्वयं रुद्रे ण निर्मिता",
         "iast": "madhunā paṭalaṃ hanti nārīkṣīreṇa puṣpakam eṣā candra prabhā varttiḥ svayaṃ rudre ṇa nirmitā",
         "iast_ru": "мадхуна̄ пат̣алам̣ ханти на̄рӣкш̣ӣрен̣а пуш̣пакам еш̣а̄ чандра прабха̄ варттих̣ свайам̣ рудре н̣а нирмита̄",
-        "text": "с мёдом устраняет [болезнь] оболочки, с женским молоком — «пушпу»; эта пилюля «Чандра-прабха» создана самим Рудрой."
+        "text": "с мёдом устраняет [болезнь] оболочки, с женским молоком — «пушпу»; эта пилюля «Чандра-прабха» создана самим Рудрой.",
+        "text_en": "with honey it removes (disease) of the membrane, with woman's milk Pushpa; this pill Chandra-prabha was created by Rudra himself."
       },
       {
         "type": "verse",
@@ -85804,7 +86114,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कणा च्छागयकृन्मध्ये पक्त्वा तद्र सपेषिता अचिराद्धन्ति नक्तान्ध्यं तद्वत्सक्षौद्र मूषणम्",
         "iast": "kaṇā cchāgayakṛnmadhye paktvā tadra sapeṣitā acirāddhanti naktāndhyaṃ tadvatsakṣaudra mūṣaṇam",
         "iast_ru": "кан̣а̄ ччха̄гайакр̣нмадхйе пактва̄ тадра сапеш̣ита̄ ачира̄ддханти накта̄ндхйам̣ тадватсакш̣аудра мӯш̣ан̣ам",
-        "text": "Пиппали, сваренная в козьей печени, растёртая её соком, быстро устраняет куриную слепоту; так же, соединённая с мёдом, применяемая."
+        "text": "Пиппали, сваренная в козьей печени, растёртая её соком, быстро устраняет куриную слепоту; так же, соединённая с мёдом, применяемая.",
+        "text_en": "Pippali, cooked in goat's liver, ground with its juice, quickly removes night blindness; likewise, combined with honey, applied."
       },
       {
         "type": "verse",
@@ -85812,7 +86123,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्रिफलाया रसं प्रस्थं प्रस्थं भृङ्गरजस्य च वृषस्य च रसं प्रस्थं शतावर्याश्च तत्समम्",
         "iast": "triphalāyā rasaṃ prasthaṃ prasthaṃ bhṛṅgarajasya ca vṛṣasya ca rasaṃ prasthaṃ śatāvaryāśca tatsamam",
         "iast_ru": "трипхала̄йа̄ расам̣ прастхам̣ прастхам̣ бхр̣н̇гараджасйа ча вр̣ш̣асйа ча расам̣ прастхам̣ ш́ата̄варйа̄ш́ча татсамам",
-        "text": "Прастха сока трифалы, прастха сока бхрингараджи, прастха сока вриши и столько же сока шатавари,"
+        "text": "Прастха сока трифалы, прастха сока бхрингараджи, прастха сока вриши и столько же сока шатавари,",
+        "text_en": "A Prastha of Triphala juice, a Prastha of Bhringaraja juice, a Prastha of Vrisha juice and as much Shatavari juice,"
       },
       {
         "type": "verse",
@@ -85820,7 +86132,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुडूच्या आमलक्याश्च रसं छागीपयस्तथा प्रस्थं प्रस्थं समाहृत्य सर्वैरेभिर्घृतं पचेत्",
         "iast": "guḍūcyā āmalakyāśca rasaṃ chāgīpayastathā prasthaṃ prasthaṃ samāhṛtya sarvairebhirghṛtaṃ pacet",
         "iast_ru": "гуд̣ӯчйа̄ а̄малакйа̄ш́ча расам̣ чха̄гӣпайастатха̄ прастхам̣ прастхам̣ сама̄хр̣тйа сарваиребхиргхр̣там̣ пачет",
-        "text": "прастха сока гудучи и амалаки, а также прастха козьего молока — собрав всё это, следует сварить гхи."
+        "text": "прастха сока гудучи и амалаки, а также прастха козьего молока — собрав всё это, следует сварить гхи.",
+        "text_en": "a Prastha of juice of Guduchi and Amalaki, and also a Prastha of goat's milk: having collected all this, ghee should be cooked."
       },
       {
         "type": "verse",
@@ -85828,7 +86141,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कल्कः कणा सिता द्रा क्षा त्रिफला नीलमुत्पलम् मधुकं क्षीरकाकोली मधुपर्णी निदिग्धिका",
         "iast": "kalkaḥ kaṇā sitā drā kṣā triphalā nīlamutpalam madhukaṃ kṣīrakākolī madhuparṇī nidigdhikā",
         "iast_ru": "калках̣ кан̣а̄ сита̄ дра̄ кш̣а̄ трипхала̄ нӣламутпалам мадхукам̣ кш̣ӣрака̄колӣ мадхупарн̣ӣ нидигдхика̄",
-        "text": "Паста: пиппали, сахар, виноград, трифала, синий лотос, солодка, кширакаколи, мадхупарни, нидигдхика,"
+        "text": "Паста: пиппали, сахар, виноград, трифала, синий лотос, солодка, кширакаколи, мадхупарни, нидигдхика,",
+        "text_en": "Paste: Pippali, sugar, grapes, Triphala, blue lotus, licorice, Kshirakakoli, Madhuparni, Nidigdhika,"
       },
       {
         "type": "verse",
@@ -85836,7 +86150,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तत्साधु सिद्धं विज्ञाय शुभे भाण्डे निधापयेत् ऊर्द्ध्वं पानमधःपानं मध्ये पानं च शस्यते",
         "iast": "tatsādhu siddhaṃ vijñāya śubhe bhāṇḍe nidhāpayet ūrddhvaṃ pānamadhaḥpānaṃ madhye pānaṃ ca śasyate",
         "iast_ru": "татса̄дху сиддхам̣ виджн̃а̄йа ш́убхе бха̄н̣д̣е нидха̄пайет ӯрддхвам̣ па̄намадхах̣па̄нам̣ мадхйе па̄нам̣ ча ш́асйате",
-        "text": "когда это хорошо сварено, следует поместить в благоприятный сосуд; питьё сверху, снизу или в середине [пищи] рекомендуется."
+        "text": "когда это хорошо сварено, следует поместить в благоприятный сосуд; питьё сверху, снизу или в середине [пищи] рекомендуется.",
+        "text_en": "when this is well cooked, it should be placed in an auspicious vessel; drinking it above, below or in the middle (of the meal) is recommended."
       },
       {
         "type": "verse",
@@ -85844,7 +86159,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यावन्तो नेत्ररोगाः स्युस्तान्पानादपकर्षति सरक्ते रक्तदुष्टे च रक्ते वा विस्रुते तथा",
         "iast": "yāvanto netrarogāḥ syustānpānādapakarṣati sarakte raktaduṣṭe ca rakte vā visrute tathā",
         "iast_ru": "йа̄ванто нетрарога̄х̣ сйуста̄нпа̄на̄дапакарш̣ати саракте рактадуш̣т̣е ча ракте ва̄ висруте татха̄",
-        "text": "Сколько бы ни было болезней глаза, от питья это удаляет их: [расстройство] с кровью, испорченной кровью, а также [если] кровь истекает,"
+        "text": "Сколько бы ни было болезней глаза, от питья это удаляет их: [расстройство] с кровью, испорченной кровью, а также [если] кровь истекает,",
+        "text_en": "However many diseases of the eye there are, by drinking this it removes them: (the disorder) with blood, spoiled blood, and also (if) blood flows,"
       },
       {
         "type": "verse",
@@ -85852,7 +86168,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नक्तान्ध्ये तिमिरे काचे नीलिकापटलार्बुदे अभिष्यन्देऽधिमन्थे च पक्ष्मकोषे सुदारुणे",
         "iast": "naktāndhye timire kāce nīlikāpaṭalārbude abhiṣyande'dhimanthe ca pakṣmakoṣe sudāruṇe",
         "iast_ru": "накта̄ндхйе тимире ка̄че нӣлика̄пат̣ала̄рбуде абхиш̣йанде'дхимантхе ча пакш̣макош̣е суда̄рун̣е",
-        "text": "куриную слепоту, тьму, «качу», [болезни] оболочки, «нилику», опухоль, истечение, «адхиматху» и весьма ужасное поражение ресниц —"
+        "text": "куриную слепоту, тьму, «качу», [болезни] оболочки, «нилику», опухоль, истечение, «адхиматху» и весьма ужасное поражение ресниц —",
+        "text_en": "night blindness, darkness, Kacha, (diseases) of the membrane, Nilika, tumor, discharge, Adhimantha and the very terrible affliction of the eyelashes,"
       },
       {
         "type": "verse",
@@ -85860,7 +86177,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नेत्ररोगेषु सर्वेषु दोषत्रयकृतेष्वपि परं हितमिदं प्रोक्तं त्रिफलाऽद्य महाघृतम्",
         "iast": "netrarogeṣu sarveṣu doṣatrayakṛteṣvapi paraṃ hitamidaṃ proktaṃ triphalā'dya mahāghṛtam",
         "iast_ru": "нетрарогеш̣у сарвеш̣у дош̣атрайакр̣теш̣вапи парам̣ хитамидам̣ проктам̣ трипхала̄'дйа маха̄гхр̣там",
-        "text": "при всех болезнях глаза, [возникших] даже от трёх дош, это провозглашено превосходно полезным: «Трифаладья Маха-гхритам» (великое гхи с трифалой и подобным)."
+        "text": "при всех болезнях глаза, [возникших] даже от трёх дош, это провозглашено превосходно полезным: «Трифаладья Маха-гхритам» (великое гхи с трифалой и подобным).",
+        "text_en": "in all diseases of the eye, (arising) even from the three doshas, this is declared excellently beneficial: Triphaladya Maha-ghritam (great ghee with Triphala and the like)."
       },
       {
         "type": "verse",
@@ -85868,7 +86186,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतमेकं हरीतक्या द्विगुणञ्च बिभीतकम् चतुर्गुणं त्वामलकं वृषमार्कवयोः समम्",
         "iast": "śatamekaṃ harītakyā dviguṇañca bibhītakam caturguṇaṃ tvāmalakaṃ vṛṣamārkavayoḥ samam",
         "iast_ru": "ш́атамекам̣ харӣтакйа̄ двигун̣ан̃ча бибхӣтакам чатургун̣ам̣ тва̄малакам̣ вр̣ш̣ама̄ркавайох̣ самам",
-        "text": "Сто [частей] харитаки, вдвойне бибхитаки, вчетверо амалаки, вриша и маркава — в равных частях,"
+        "text": "Сто [частей] харитаки, вдвойне бибхитаки, вчетверо амалаки, вриша и маркава — в равных частях,",
+        "text_en": "One hundred (parts) of Haritaki, double Bibhitaki, fourfold Amalaki, Vrisha and Markava in equal parts,"
       },
       {
         "type": "verse",
@@ -85876,7 +86195,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चतुर्गुणोदकं दत्वा शनैर्मृद्वग्निना पचेत् भागं चतुर्थं संरक्ष्य क्वाथं तमवतारयेत्",
         "iast": "caturguṇodakaṃ datvā śanairmṛdvagninā pacet bhāgaṃ caturthaṃ saṃrakṣya kvāthaṃ tamavatārayet",
         "iast_ru": "чатургун̣одакам̣ датва̄ ш́анаирмр̣двагнина̄ пачет бха̄гам̣ чатуртхам̣ сам̣ракш̣йа ква̄тхам̣ тамавата̄райет",
-        "text": "дав четырёхкратное количество воды, следует варить медленно на слабом огне; сохранив четверть, следует снять отвар."
+        "text": "дав четырёхкратное количество воды, следует варить медленно на слабом огне; сохранив четверть, следует снять отвар.",
+        "text_en": "giving a fourfold quantity of water, it should be boiled slowly on a low fire; having reduced to a quarter, the decoction should be taken off."
       },
       {
         "type": "verse",
@@ -85884,7 +86204,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शर्करा मधुकं द्रा क्षा मधुयष्टी निदिग्धिका काकोली क्षीरकाकोली त्रिफला नागकेशरम्",
         "iast": "śarkarā madhukaṃ drā kṣā madhuyaṣṭī nidigdhikā kākolī kṣīrakākolī triphalā nāgakeśaram",
         "iast_ru": "ш́аркара̄ мадхукам̣ дра̄ кш̣а̄ мадхуйаш̣т̣ӣ нидигдхика̄ ка̄колӣ кш̣ӣрака̄колӣ трипхала̄ на̄гакеш́арам",
-        "text": "Сахар, солодка, виноград, солодка (медовый корень), нидигдхика, каколи, кширакаколи, трифала, нагакесара,"
+        "text": "Сахар, солодка, виноград, солодка (медовый корень), нидигдхика, каколи, кширакаколи, трифала, нагакесара,",
+        "text_en": "Sugar, licorice, grapes, licorice (honey root), Nidigdhika, Kakoli, Kshirakakoli, Triphala, Nagakesara,"
       },
       {
         "type": "verse",
@@ -85892,7 +86213,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पिप्पली नन्दनं मुस्तं त्रायमाणा तथोत्पलम् घृतप्रस्थं समं क्षीरं कल्कैरेतैः शनैः पचेत्",
         "iast": "pippalī nandanaṃ mustaṃ trāyamāṇā tathotpalam ghṛtaprasthaṃ samaṃ kṣīraṃ kalkairetaiḥ śanaiḥ pacet",
         "iast_ru": "пиппалӣ нанданам̣ мустам̣ тра̄йама̄н̣а̄ татхотпалам гхр̣тапрастхам̣ самам̣ кш̣ӣрам̣ калкаиретаих̣ ш́анаих̣ пачет",
-        "text": "пиппали, нандана, муста, траямана, а также синий лотос — прастху гхи, равное количество молока, с этими пастами следует медленно варить."
+        "text": "пиппали, нандана, муста, траямана, а также синий лотос — прастху гхи, равное количество молока, с этими пастами следует медленно варить.",
+        "text_en": "Pippali, Nandana, Musta, Trayamana, and also blue lotus: a Prastha of ghee, an equal quantity of milk, with these pastes it should be cooked slowly."
       },
       {
         "type": "verse",
@@ -85900,7 +86222,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हन्यात्सतिमिरं काचं नक्तान्ध्यं शुल्कमेव च तथा स्रावं च कण्डूञ्च श्वयथुं च कषायताम्",
         "iast": "hanyātsatimiraṃ kācaṃ naktāndhyaṃ śulkameva ca tathā srāvaṃ ca kaṇḍūñca śvayathuṃ ca kaṣāyatām",
         "iast_ru": "ханйа̄тсатимирам̣ ка̄чам̣ накта̄ндхйам̣ ш́улкамева ча татха̄ сра̄вам̣ ча кан̣д̣ӯн̃ча ш́вайатхум̣ ча каш̣а̄йата̄м",
-        "text": "Устраняет тьму с «качей», куриную слепоту и «шукру» (бельмо), а также истечение, зуд, отёк и вяжущий вкус [во рту],"
+        "text": "Устраняет тьму с «качей», куриную слепоту и «шукру» (бельмо), а также истечение, зуд, отёк и вяжущий вкус [во рту],",
+        "text_en": "It removes darkness with Kacha, night blindness and Shukra (leucoma), and also discharge, itching, swelling and astringent taste (in the mouth),"
       },
       {
         "type": "verse",
@@ -85908,7 +86231,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कलुषत्वं च नेत्रस्य बिन्द्वर्मपटलानि च बहुनाऽत्र किमुक्तेन सर्वान्नेत्रामयान्हरेत्",
         "iast": "kaluṣatvaṃ ca netrasya bindvarmapaṭalāni ca bahunā'tra kimuktena sarvānnetrāmayānharet",
         "iast_ru": "калуш̣атвам̣ ча нетрасйа биндвармапат̣ала̄ни ча бахуна̄'тра кимуктена сарва̄ннетра̄майа̄нхарет",
-        "text": "замутнённость глаза, точечное бельмо (бинду-арма) и [болезни] оболочки; что много говорить — устраняет все болезни глаза."
+        "text": "замутнённость глаза, точечное бельмо (бинду-арма) и [болезни] оболочки; что много говорить — устраняет все болезни глаза.",
+        "text_en": "turbidity of the eye, dot-like leucoma (Bindu-arma) and (diseases) of the membrane; what more to say: it removes all diseases of the eye."
       },
       {
         "type": "verse",
@@ -85916,7 +86240,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यस्य चोपहता दृष्टिः सूर्याग्निभ्यां प्रपश्यतः तस्यैतद् भेषजं प्रोक्तं मुनिभिः परमं हितम्",
         "iast": "yasya copahatā dṛṣṭiḥ sūryāgnibhyāṃ prapaśyataḥ tasyaitad bheṣajaṃ proktaṃ munibhiḥ paramaṃ hitam",
         "iast_ru": "йасйа чопахата̄ др̣ш̣т̣их̣ сӯрйа̄гнибхйа̄м̣ прапаш́йатах̣ тасйаитад бхеш̣аджам̣ проктам̣ мунибхих̣ парамам̣ хитам",
-        "text": "У кого зрение повреждено от [взгляда на] солнце и огонь, для того это лекарство провозглашено мудрецами как высшее благо."
+        "text": "У кого зрение повреждено от [взгляда на] солнце и огонь, для того это лекарство провозглашено мудрецами как высшее благо.",
+        "text_en": "For him whose vision is damaged by (looking at) the sun and fire, this medicine is declared by the sages as the highest blessing."
       },
       {
         "type": "verse",
@@ -85924,7 +86249,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मार्जितं दर्पणं यद्वत्परां निर्मलतां व्रजेत् तद्वदेतेन पीतेन नेत्रं निर्मलतामियात् वारिद्रो णद्वयं चात्र बृषमार्कवयोस्तुले",
         "iast": "mārjitaṃ darpaṇaṃ yadvatparāṃ nirmalatāṃ vrajet tadvadetena pītena netraṃ nirmalatāmiyāt vāridro ṇadvayaṃ cātra bṛṣamārkavayostule",
         "iast_ru": "ма̄рджитам̣ дарпан̣ам̣ йадватпара̄м̣ нирмалата̄м̣ враджет тадвадетена пӣтена нетрам̣ нирмалата̄мийа̄т ва̄ридро н̣адвайам̣ ча̄тра бр̣ш̣ама̄ркавайостуле",
-        "text": "Как отполированное зеркало обретает высшую чистоту, так же от питья этого [гхи] глаз обретает чистоту; здесь [берётся] две дроны воды, вриши и маркавы — по туле каждого,"
+        "text": "Как отполированное зеркало обретает высшую чистоту, так же от питья этого [гхи] глаз обретает чистоту; здесь [берётся] две дроны воды, вриши и маркавы — по туле каждого,",
+        "text_en": "As a polished mirror attains the highest purity, so by drinking this (ghee) the eye attains purity; here two Dronas of water, Vrisha and Markava, a Tula of each,"
       },
       {
         "type": "verse",
@@ -85932,7 +86258,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वासविश्वाऽमृतादार्वीरक्तचन्दनचित्रकैः भूनिम्बनिम्बकटुकापटोलत्रिफलाऽम्बुदैः",
         "iast": "vāsaviśvā'mṛtādārvīraktacandanacitrakaiḥ bhūnimbanimbakaṭukāpaṭolatriphalā'mbudaiḥ",
         "iast_ru": "ва̄савиш́ва̄'мр̣та̄да̄рвӣрактачанданачитракаих̣ бхӯнимбанимбакат̣ука̄пат̣олатрипхала̄'мбудаих̣",
-        "text": "с васой, сушёным имбирём, амритой, дару-харидрой, красным сандалом и читракой, бхунимбой, нимом, катукой, патолой, трифалой и мустой,"
+        "text": "с васой, сушёным имбирём, амритой, дару-харидрой, красным сандалом и читракой, бхунимбой, нимом, катукой, патолой, трифалой и мустой,",
+        "text_en": "with Vasa, dried ginger, Amrita, Daruharidra, red sandalwood and Chitraka, Bhunimba, Neem, Katuka, Patola, Triphala and Musta,"
       },
       {
         "type": "verse",
@@ -85940,7 +86267,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निशाकलिङ्गकुटजः क्वाथः सर्वाक्षिरोगहा वैस्वर्यं पीनसं श्वासं कासं नाशयति ध्रुवम् २४७ इति त्रिषष्टितमो नेत्ररोगाधिकारः समाप्तः ६३",
         "iast": "niśākaliṅgakuṭajaḥ kvāthaḥ sarvākṣirogahā vaisvaryaṃ pīnasaṃ śvāsaṃ kāsaṃ nāśayati dhruvam 247 iti triṣaṣṭitamo netrarogādhikāraḥ samāptaḥ 63",
         "iast_ru": "ниш́а̄калин̇гакут̣аджах̣ ква̄тхах̣ сарва̄кш̣ирогаха̄ ваисварйам̣ пӣнасам̣ ш́ва̄сам̣ ка̄сам̣ на̄ш́айати дхрувам  ити триш̣аш̣т̣итамо нетрарога̄дхика̄рах̣ сама̄птах̣ ",
-        "text": "куркумой и кутаджей [со всем этим] — отвар устраняет все болезни глаза; несомненно устраняет изменение голоса, насморк, одышку и кашель. Так завершается шестьдесят третья глава, посвящённая болезням глаза."
+        "text": "куркумой и кутаджей [со всем этим] — отвар устраняет все болезни глаза; несомненно устраняет изменение голоса, насморк, одышку и кашель. Так завершается шестьдесят третья глава, посвящённая болезням глаза.",
+        "text_en": "turmeric and Kutaja (with all this): the decoction removes all diseases of the eye; undoubtedly it removes change of voice, running nose, dyspnea and cough. Thus ends the sixty-third chapter, on diseases of the eye."
       }
     ]
   },
@@ -85958,7 +86286,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णशूलः कर्णनादो बाधिर्यं क्ष्वेड एव च कर्ण स्रावकर्णकण्डूः कर्णगूथस्तथैव च",
         "iast": "karṇaśūlaḥ karṇanādo bādhiryaṃ kṣveḍa eva ca karṇa srāvakarṇakaṇḍūḥ karṇagūthastathaiva ca",
         "iast_ru": "карн̣аш́ӯлах̣ карн̣ана̄до ба̄дхирйам̣ кш̣вед̣а ева ча карн̣а сра̄вакарн̣акан̣д̣ӯх̣ карн̣агӯтхастатхаива ча",
-        "text": "Боль в ухе, шум в ухе, глухота, а также «кшведа» (свист в ухе), истечение из уха, зуд уха, а также ушная сера,"
+        "text": "Боль в ухе, шум в ухе, глухота, а также «кшведа» (свист в ухе), истечение из уха, зуд уха, а также ушная сера,",
+        "text_en": "Earache, tinnitus, deafness, and also Kshveda (whistling in the ear), discharge from the ear, itching of the ear, and also ear wax,"
       },
       {
         "type": "verse",
@@ -85966,7 +86295,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रतिनाहो जन्तुकर्णो विद्र धिर्द्विविधस्तथा कर्णपाकःपूतिकर्णस्तथैवार्शश्चतुर्विधः",
         "iast": "pratināho jantukarṇo vidra dhirdvividhastathā karṇapākaḥpūtikarṇastathaivārśaścaturvidhaḥ",
         "iast_ru": "пратина̄хо джантукарн̣о видра дхирдвивидхастатха̄ карн̣апа̄ках̣пӯтикарн̣астатхаива̄рш́аш́чатурвидхах̣",
-        "text": "«пратинаха» (закупорка), «джанту-карна» (ухо с паразитами), видрадхи двух видов, созревание уха, зловонное ухо, а также геморрой уха четырёх видов,"
+        "text": "«пратинаха» (закупорка), «джанту-карна» (ухо с паразитами), видрадхи двух видов, созревание уха, зловонное ухо, а также геморрой уха четырёх видов,",
+        "text_en": "Pratinaha (blockage), Jantu-karna (ear with parasites), Vidradhi of two kinds, ripening of the ear, foul-smelling ear, and also hemorrhoids of the ear of four kinds,"
       },
       {
         "type": "verse",
@@ -85974,7 +86304,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तथाऽबुदं सप्तविधं शोफश्चापि चतुर्विधः एते कर्णगता रोगा अष्टाविंशतिरीरिताः",
         "iast": "tathā'budaṃ saptavidhaṃ śophaścāpi caturvidhaḥ ete karṇagatā rogā aṣṭāviṃśatirīritāḥ",
         "iast_ru": "татха̄'будам̣ саптавидхам̣ ш́опхаш́ча̄пи чатурвидхах̣ ете карн̣агата̄ рога̄ аш̣т̣а̄вим̣ш́атирӣрита̄х̣",
-        "text": "опухоль семи видов, а также отёк четырёх видов — эти болезни уха провозглашены в числе двадцати восьми."
+        "text": "опухоль семи видов, а также отёк четырёх видов — эти болезни уха провозглашены в числе двадцати восьми.",
+        "text_en": "tumor of seven kinds, and also swelling of four kinds: these diseases of the ear are declared to number twenty-eight."
       },
       {
         "type": "verse",
@@ -85982,7 +86313,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "समीरणः श्रोत्रगतोऽन्यथा चरन्समन्ततः शूलमतीव कर्णयोः करोति दोषैश्च यथास्वमावृतः स कर्णशूलः कथितो दुराचरः",
         "iast": "samīraṇaḥ śrotragato'nyathā caransamantataḥ śūlamatīva karṇayoḥ karoti doṣaiśca yathāsvamāvṛtaḥ sa karṇaśūlaḥ kathito durācaraḥ",
         "iast_ru": "самӣран̣ах̣ ш́ротрагато'нйатха̄ чарансамантатах̣ ш́ӯламатӣва карн̣айох̣ кароти дош̣аиш́ча йатха̄свама̄вр̣тах̣ са карн̣аш́ӯлах̣ катхито дура̄чарах̣",
-        "text": "Ветер, обосновавшийся в слуховом [органе], или иначе движущийся повсюду, вызывает сильную боль в обоих ушах; окружённый дошами соответственно, он называется «карна-шула» (боль в ухе), труднопреодолимый."
+        "text": "Ветер, обосновавшийся в слуховом [органе], или иначе движущийся повсюду, вызывает сильную боль в обоих ушах; окружённый дошами соответственно, он называется «карна-шула» (боль в ухе), труднопреодолимый.",
+        "text_en": "Wind, lodged in the auditory organ or otherwise moving everywhere, causes severe pain in both ears; surrounded by the doshas accordingly, it is called Karna-shula (earache), difficult to overcome."
       },
       {
         "type": "verse",
@@ -85990,7 +86322,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूर्च्छा दाहो ज्वरः कासः श्वासोऽथ वमथुस्तथा उपद्र वाः कर्णशूले भवन्त्येते मरिष्यतः",
         "iast": "mūrcchā dāho jvaraḥ kāsaḥ śvāso'tha vamathustathā upadra vāḥ karṇaśūle bhavantyete mariṣyataḥ",
         "iast_ru": "мӯрччха̄ да̄хо джварах̣ ка̄сах̣ ш́ва̄со'тха ваматхустатха̄ упадра ва̄х̣ карн̣аш́ӯле бхавантйете мариш̣йатах̣",
-        "text": "Обморок, жжение, лихорадка, кашель, одышка и рвота — эти осложнения при боли в ухе бывают у умирающего."
+        "text": "Обморок, жжение, лихорадка, кашель, одышка и рвота — эти осложнения при боли в ухе бывают у умирающего.",
+        "text_en": "Fainting, burning, fever, cough, dyspnea and vomiting: these complications of earache occur in one who is dying."
       },
       {
         "type": "verse",
@@ -85998,7 +86331,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णश्रोत्रस्थिते वाते शृणोति विविधान्स्वनान् भेरीमृदङ्गशङ्खानां कर्णनादः स उच्यते",
         "iast": "karṇaśrotrasthite vāte śṛṇoti vividhānsvanān bherīmṛdaṅgaśaṅkhānāṃ karṇanādaḥ sa ucyate",
         "iast_ru": "карн̣аш́ротрастхите ва̄те ш́р̣н̣оти вивидха̄нсвана̄н бхерӣмр̣дан̇гаш́ан̇кха̄на̄м̣ карн̣ана̄дах̣ са учйате",
-        "text": "Когда ватха расположена в ушном слуховом [проходе], [больной] слышит разнообразные звуки — литавр, барабанов, раковин; это называется шумом в ухе."
+        "text": "Когда ватха расположена в ушном слуховом [проходе], [больной] слышит разнообразные звуки — литавр, барабанов, раковин; это называется шумом в ухе.",
+        "text_en": "When Vata is located in the auditory passage of the ear, the patient hears various sounds, of kettledrums, drums and conch shells; this is called tinnitus (Karna-nada)."
       },
       {
         "type": "verse",
@@ -86006,7 +86340,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यदा शब्दवहं वायुः स्रोत आवृत्य तिष्ठति शुद्धः श्लेष्मान्वितो वाऽपि बाधिर्य तेन जायते",
         "iast": "yadā śabdavahaṃ vāyuḥ srota āvṛtya tiṣṭhati śuddhaḥ śleṣmānvito vā'pi bādhirya tena jāyate",
         "iast_ru": "йада̄ ш́абдавахам̣ ва̄йух̣ срота а̄вр̣тйа тиш̣т̣хати ш́уддхах̣ ш́леш̣ма̄нвито ва̄'пи ба̄дхирйа тена джа̄йате",
-        "text": "Когда ветер, закрыв путь, несущий звук, останавливается — чистый или соединённый с капхой — от этого возникает глухота."
+        "text": "Когда ветер, закрыв путь, несущий звук, останавливается — чистый или соединённый с капхой — от этого возникает глухота.",
+        "text_en": "When wind, having blocked the path that carries sound, stops there, pure or combined with Kapha, deafness arises from this."
       },
       {
         "type": "verse",
@@ -86014,7 +86349,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बाधिर्यं बालवृद्धोत्थं चिरोत्थञ्च विवर्जयेत्",
         "iast": "bādhiryaṃ bālavṛddhotthaṃ cirotthañca vivarjayet",
         "iast_ru": "ба̄дхирйам̣ ба̄лавр̣ддхоттхам̣ чироттхан̃ча виварджайет",
-        "text": "Глухоту, возникшую у детей и старых, а также давнюю, следует избегать [лечения]."
+        "text": "Глухоту, возникшую у детей и старых, а также давнюю, следует избегать [лечения].",
+        "text_en": "Deafness that has arisen in children and the aged, and also long-standing, should be avoided (not treated)."
       },
       {
         "type": "verse",
@@ -86022,7 +86358,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वायुः पित्तादिभिर्युक्तो वेणुघोषसमं स्वनम् करोति कर्णयोः क्ष्वेडं कर्णक्ष्वेडः स उच्यते",
         "iast": "vāyuḥ pittādibhiryukto veṇughoṣasamaṃ svanam karoti karṇayoḥ kṣveḍaṃ karṇakṣveḍaḥ sa ucyate",
         "iast_ru": "ва̄йух̣ питта̄дибхирйукто вен̣угхош̣асамам̣ сванам кароти карн̣айох̣ кш̣вед̣ам̣ карн̣акш̣вед̣ах̣ са учйате",
-        "text": "Ветер, соединённый с питтой и подобным, издаёт в ушах звук, подобный звуку флейты; это называется «карна-кшведа» (свист в ухе)."
+        "text": "Ветер, соединённый с питтой и подобным, издаёт в ушах звук, подобный звуку флейты; это называется «карна-кшведа» (свист в ухе).",
+        "text_en": "Wind, combined with Pitta and the like, produces in the ears a sound like the sound of a flute; this is called Karna-kshveda (whistling in the ear)."
       },
       {
         "type": "verse",
@@ -86030,7 +86367,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरोऽभिघातादथ वा निमज्जतो जले प्रपातादथ वाऽपि विद्र धेः स्रवेद्धि पूयं श्रवणोऽनिलार्दितः स कर्णसंस्राव इति प्रकीर्त्तितः",
         "iast": "śiro'bhighātādatha vā nimajjato jale prapātādatha vā'pi vidra dheḥ sraveddhi pūyaṃ śravaṇo'nilārditaḥ sa karṇasaṃsrāva iti prakīrttitaḥ",
         "iast_ru": "ш́иро'бхигха̄та̄датха ва̄ нимаджджато джале прапа̄та̄датха ва̄'пи видра дхех̣ сраведдхи пӯйам̣ ш́раван̣о'нила̄рдитах̣ са карн̣асам̣сра̄ва ити пракӣрттитах̣",
-        "text": "От удара по голове, или от погружения и падения в воду, или от видрадхи истекает гной; слух, поражённый ветром, — это провозглашается как «карна-самсрава» (истечение из уха)."
+        "text": "От удара по голове, или от погружения и падения в воду, или от видрадхи истекает гной; слух, поражённый ветром, — это провозглашается как «карна-самсрава» (истечение из уха).",
+        "text_en": "From a blow to the head, or from immersion and falling into water, or from Vidradhi, pus flows; hearing afflicted by wind: this is declared as Karna-samsrava (discharge from the ear)."
       },
       {
         "type": "verse",
@@ -86038,7 +86376,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मारुतः कफसंयुक्तः कर्णे कण्डूं करोति हि",
         "iast": "mārutaḥ kaphasaṃyuktaḥ karṇe kaṇḍūṃ karoti hi",
         "iast_ru": "ма̄рутах̣ капхасам̣йуктах̣ карн̣е кан̣д̣ӯм̣ кароти хи",
-        "text": "Ветер, соединённый с капхой, вызывает зуд в ухе."
+        "text": "Ветер, соединённый с капхой, вызывает зуд в ухе.",
+        "text_en": "Wind, combined with Kapha, causes itching in the ear."
       },
       {
         "type": "verse",
@@ -86046,7 +86385,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तोष्मशोषितः श्लेष्मा कुरुते कर्णगूथकम्",
         "iast": "pittoṣmaśoṣitaḥ śleṣmā kurute karṇagūthakam",
         "iast_ru": "питтош̣маш́ош̣итах̣ ш́леш̣ма̄ куруте карн̣агӯтхакам",
-        "text": "Иссушенная жаром питты капха образует ушную серу."
+        "text": "Иссушенная жаром питты капха образует ушную серу.",
+        "text_en": "Kapha dried up by the heat of Pitta forms ear wax."
       },
       {
         "type": "verse",
@@ -86054,7 +86394,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स कर्णगूथो द्र वतां यदा गतो विलायितो घ्राणमुखं प्रपद्यते तदा स कर्णप्रतिनाहसंज्ञितो भवेद्विकारः शिरसाऽद्धभेदकृत्",
         "iast": "sa karṇagūtho dra vatāṃ yadā gato vilāyito ghrāṇamukhaṃ prapadyate tadā sa karṇapratināhasaṃjñito bhavedvikāraḥ śirasā'ddhabhedakṛt",
         "iast_ru": "са карн̣агӯтхо дра вата̄м̣ йада̄ гато вила̄йито гхра̄н̣амукхам̣ прападйате тада̄ са карн̣апратина̄хасам̣джн̃ито бхаведвика̄рах̣ ш́ираса̄'ддхабхедакр̣т",
-        "text": "Когда эта ушная сера, придя в жидкое состояние, растворившись, проникает в устье носа, тогда это расстройство, называемое «карна-пратинаха» (закупорка уха), вызывает боль в половине головы."
+        "text": "Когда эта ушная сера, придя в жидкое состояние, растворившись, проникает в устье носа, тогда это расстройство, называемое «карна-пратинаха» (закупорка уха), вызывает боль в половине головы.",
+        "text_en": "When this ear wax, having reached a liquid state and dissolved, penetrates the mouth of the nose, then this disorder, called Karna-pratinaha (blockage of the ear), causes pain in half of the head."
       },
       {
         "type": "verse",
@@ -86062,7 +86403,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यदा तु मूर्च्छन्त्यथवा तु जन्तवः सृजन्त्यपत्त्यान्यथवाऽपि मक्षिकाः तदञ्जनत्वाच्छ्रवणे निरुच्यते भिषग्भिराद्यैः कृमिकर्णको गदः",
         "iast": "yadā tu mūrcchantyathavā tu jantavaḥ sṛjantyapattyānyathavā'pi makṣikāḥ tadañjanatvācchravaṇe nirucyate bhiṣagbhirādyaiḥ kṛmikarṇako gadaḥ",
         "iast_ru": "йада̄ ту мӯрччхантйатхава̄ ту джантавах̣ ср̣джантйапаттйа̄нйатхава̄'пи макш̣ика̄х̣ тадан̃джанатва̄ччхраван̣е ниручйате бхиш̣агбхира̄дйаих̣ кр̣микарн̣ако гадах̣",
-        "text": "Когда либо помрачаются, либо порождают потомство паразиты, или же мухи [откладывают личинок], тогда, поскольку это делает слух подобным глазной мази, первые врачи называют эту болезнь «крими-карнака» (ухо с паразитами)."
+        "text": "Когда либо помрачаются, либо порождают потомство паразиты, или же мухи [откладывают личинок], тогда, поскольку это делает слух подобным глазной мази, первые врачи называют эту болезнь «крими-карнака» (ухо с паразитами).",
+        "text_en": "When parasites either become disturbed or produce offspring, or flies (lay larvae), then, since this makes hearing like an eye ointment, the early physicians call this disease Krimi-karnaka (ear with parasites)."
       },
       {
         "type": "verse",
@@ -86070,7 +86412,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पतङ्गाः शतपद्यश्च कर्णस्रोतः प्रविश्य हि अरतिं व्याकुलत्वञ्च भृशं कुर्वन्ति वेदनाम् कर्णो निस्तुद्यते तस्य तथा च फर्फरायते कीटे चरति रुक्तीव्रा निस्पन्दे मन्दवेदना",
         "iast": "pataṅgāḥ śatapadyaśca karṇasrotaḥ praviśya hi aratiṃ vyākulatvañca bhṛśaṃ kurvanti vedanām karṇo nistudyate tasya tathā ca pharpharāyate kīṭe carati ruktīvrā nispande mandavedanā",
         "iast_ru": "патан̇га̄х̣ ш́атападйаш́ча карн̣асротах̣ правиш́йа хи аратим̣ вйа̄кулатван̃ча бхр̣ш́ам̣ курванти ведана̄м карн̣о нистудйате тасйа татха̄ ча пхарпхара̄йате кӣт̣е чарати руктӣвра̄ ниспанде мандаведана̄",
-        "text": "Мошки и сороконожки, проникнув в слуховой канал, вызывают беспокойство, смятение и сильную боль; ухо колется и как бы шелестит; когда паразит движется — боль сильная, когда неподвижен — боль умеренная."
+        "text": "Мошки и сороконожки, проникнув в слуховой канал, вызывают беспокойство, смятение и сильную боль; ухо колется и как бы шелестит; когда паразит движется — боль сильная, когда неподвижен — боль умеренная.",
+        "text_en": "Gnats and centipedes, having entered the auditory canal, cause restlessness, agitation and severe pain; the ear pricks and as if rustles; when the parasite moves the pain is severe, when it is still the pain is moderate."
       },
       {
         "type": "verse",
@@ -86078,7 +86421,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षताभिघातप्रभवस्तु विद्र धिर्भवेत्तथा दोषकृतोऽपरः पुनः स रक्तपीतारुणमस्रमास्रवेत्प्रतोदधूमायनदाहचोषवान्",
         "iast": "kṣatābhighātaprabhavastu vidra dhirbhavettathā doṣakṛto'paraḥ punaḥ sa raktapītāruṇamasramāsravetpratodadhūmāyanadāhacoṣavān",
         "iast_ru": "кш̣ата̄бхигха̄тапрабхавасту видра дхирбхаветтатха̄ дош̣акр̣то'парах̣ пунах̣ са рактапӣта̄рун̣амасрама̄сраветпратодадхӯма̄йанада̄хачош̣ава̄н",
-        "text": "Видрадхи, возникший от ранения и удара, бывает [ещё]; иной же — вызванный дошей; он истекает кровью красного, жёлтого или оранжевого [оттенка], сопровождаясь покалыванием, ощущением дымления, жжением и сосанием."
+        "text": "Видрадхи, возникший от ранения и удара, бывает [ещё]; иной же — вызванный дошей; он истекает кровью красного, жёлтого или оранжевого [оттенка], сопровождаясь покалыванием, ощущением дымления, жжением и сосанием.",
+        "text_en": "Vidradhi arising from wounding and blows occurs (also); another is caused by a dosha; it discharges blood of red, yellow or orange (shade), accompanied by pricking, a sensation of fuming, burning and sucking."
       },
       {
         "type": "verse",
@@ -86086,7 +86430,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णपाकस्तु पित्तेन कोथविक्लेदकृद्भवेत्",
         "iast": "karṇapākastu pittena kothavikledakṛdbhavet",
         "iast_ru": "карн̣апа̄касту питтена котхавикледакр̣дбхавет",
-        "text": "«Карна-пака» (созревание уха) от питты вызывает гниение и разжижение."
+        "text": "«Карна-пака» (созревание уха) от питты вызывает гниение и разжижение.",
+        "text_en": "Karna-paka (ripening of the ear) due to Pitta causes putrefaction and liquefaction."
       },
       {
         "type": "verse",
@@ -86094,7 +86439,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णविद्र धपाकेन कर्णे वा वारिपूरणात् पूयं स्रवति यः पूति स ज्ञेयः पूतिकर्णकः",
         "iast": "karṇavidra dhapākena karṇe vā vāripūraṇāt pūyaṃ sravati yaḥ pūti sa jñeyaḥ pūtikarṇakaḥ",
         "iast_ru": "карн̣авидра дхапа̄кена карн̣е ва̄ ва̄рипӯран̣а̄т пӯйам̣ сравати йах̣ пӯти са джн̃ейах̣ пӯтикарн̣аках̣",
-        "text": "От созревания видрадхи в ухе, или от заполнения уха водой, истекает зловонный гной — это следует знать как «пути-карнака» (зловонное ухо)."
+        "text": "От созревания видрадхи в ухе, или от заполнения уха водой, истекает зловонный гной — это следует знать как «пути-карнака» (зловонное ухо).",
+        "text_en": "From the ripening of Vidradhi in the ear, or from filling of the ear with water, foul-smelling pus flows; this should be known as Puti-karnaka (foul-smelling ear)."
       },
       {
         "type": "verse",
@@ -86102,7 +86448,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णशोथार्बुदार्शांसि जानीयादुक्तलक्षणैः",
         "iast": "karṇaśothārbudārśāṃsi jānīyāduktalakṣaṇaiḥ",
         "iast_ru": "карн̣аш́отха̄рбуда̄рш́а̄м̣си джа̄нӣйа̄дукталакш̣ан̣аих̣",
-        "text": "Отёк, опухоль и геморрой уха следует распознавать по указанным признакам."
+        "text": "Отёк, опухоль и геморрой уха следует распознавать по указанным признакам.",
+        "text_en": "Swelling, tumor and hemorrhoid of the ear should be recognized by the signs indicated."
       },
       {
         "type": "verse",
@@ -86110,7 +86457,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नादोऽतिरुक्कर्णमलस्य शोथः स्रावस्तनुश्चावणञ्च वातात्",
         "iast": "nādo'tirukkarṇamalasya śothaḥ srāvastanuścāvaṇañca vātāt",
         "iast_ru": "на̄до'тируккарн̣амаласйа ш́отхах̣ сра̄вастануш́ча̄ван̣ан̃ча ва̄та̄т",
-        "text": "Шум, сильная боль в ушной нечистоте, отёк, тонкое истечение и звук [в ухе] — от ватхи."
+        "text": "Шум, сильная боль в ушной нечистоте, отёк, тонкое истечение и звук [в ухе] — от ватхи.",
+        "text_en": "Noise, severe pain in the ear impurity, swelling, thin discharge and sound (in the ear) are due to Vata."
       },
       {
         "type": "verse",
@@ -86118,7 +86466,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोथः सरागो दरणं विदाहः सपूतिपीतस्रवणञ्च पित्तात्",
         "iast": "śothaḥ sarāgo daraṇaṃ vidāhaḥ sapūtipītasravaṇañca pittāt",
         "iast_ru": "ш́отхах̣ сара̄го даран̣ам̣ вида̄хах̣ сапӯтипӣтасраван̣ан̃ча питта̄т",
-        "text": "Отёк с покраснением, разрыв, жжение, зловонное жёлтое истечение — от питты."
+        "text": "Отёк с покраснением, разрыв, жжение, зловонное жёлтое истечение — от питты.",
+        "text_en": "Swelling with redness, rupture, burning, foul-smelling yellow discharge are due to Pitta."
       },
       {
         "type": "verse",
@@ -86126,7 +86475,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वैश्रुत्यकण्डूस्थिरशोथशुक्ल स्निग्धा स्रुतिः स्वल्परुजा कफाच्च",
         "iast": "vaiśrutyakaṇḍūsthiraśothaśukla snigdhā srutiḥ svalparujā kaphācca",
         "iast_ru": "ваиш́рутйакан̣д̣ӯстхираш́отхаш́укла снигдха̄ срутих̣ свалпаруджа̄ капха̄чча",
-        "text": "Потеря слуха, зуд, устойчивый отёк, белое, маслянистое истечение, малая боль — от капхи."
+        "text": "Потеря слуха, зуд, устойчивый отёк, белое, маслянистое истечение, малая боль — от капхи.",
+        "text_en": "Loss of hearing, itching, firm swelling, white, unctuous discharge, little pain are due to Kapha."
       },
       {
         "type": "verse",
@@ -86134,7 +86484,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्वाणि रूपाणि च सन्निपातात्स्रावश्च तत्राधिकदोषवर्णः",
         "iast": "sarvāṇi rūpāṇi ca sannipātātsrāvaśca tatrādhikadoṣavarṇaḥ",
         "iast_ru": "сарва̄н̣и рӯпа̄н̣и ча саннипа̄та̄тсра̄ваш́ча татра̄дхикадош̣аварн̣ах̣",
-        "text": "Все признаки вместе, а также истечение — от всех трёх дош; там доминирует цвет преобладающей доши."
+        "text": "Все признаки вместе, а также истечение — от всех трёх дош; там доминирует цвет преобладающей доши.",
+        "text_en": "All signs together, and also discharge, are due to all three doshas; there the color of the predominant dosha prevails."
       },
       {
         "type": "verse",
@@ -86142,7 +86493,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथ कर्णपालीरोगाः सौकुमार्याच्चिरोत्सृष्टे सहसैवातिवर्धिते कर्णे शोथो भवेत्पाल्यां सरुजः परिपोटवान् कृष्णारुणनिभः स्तब्धः स वातात्परिपोटकः",
         "iast": "atha karṇapālīrogāḥ saukumāryāccirotsṛṣṭe sahasaivātivardhite karṇe śotho bhavetpālyāṃ sarujaḥ paripoṭavān kṛṣṇāruṇanibhaḥ stabdhaḥ sa vātātparipoṭakaḥ",
         "iast_ru": "атха карн̣апа̄лӣрога̄х̣ саукума̄рйа̄ччиротср̣ш̣т̣е сахасаива̄тивардхите карн̣е ш́отхо бхаветпа̄лйа̄м̣ саруджах̣ парипот̣ава̄н кр̣ш̣н̣а̄рун̣анибхах̣ стабдхах̣ са ва̄та̄тпарипот̣аках̣",
-        "text": "Теперь болезни мочки уха. От нежности [ткани], от внезапного чрезмерного растяжения недавно проколотого уха, возникает отёк в мочке, с болью, покрытый пузырями, чёрно-красноватый, застылый — это «париподака» (пузырчатый отёк) от ватхи."
+        "text": "Теперь болезни мочки уха. От нежности [ткани], от внезапного чрезмерного растяжения недавно проколотого уха, возникает отёк в мочке, с болью, покрытый пузырями, чёрно-красноватый, застылый — это «париподака» (пузырчатый отёк) от ватхи.",
+        "text_en": "Now the diseases of the earlobe. From the delicacy (of the tissue), from sudden excessive stretching of a recently pierced ear, a swelling arises in the lobe, with pain, covered with blisters, blackish-red, stiff: this is Paripotaka (blistering swelling) due to Vata."
       },
       {
         "type": "verse",
@@ -86150,7 +86502,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गुर्वाभरण संयोगात्ताडनाद्घर्षणादपि शोथः पाल्यां भवेच्छ्यावो दाहपाकरुजाऽन्वितः रक्तो वा रक्तपित्ताभ्यामुत्पातः सगदः स्मृतः",
         "iast": "gurvābharaṇa saṃyogāttāḍanādgharṣaṇādapi śothaḥ pālyāṃ bhavecchyāvo dāhapākarujā'nvitaḥ rakto vā raktapittābhyāmutpātaḥ sagadaḥ smṛtaḥ",
         "iast_ru": "гурва̄бхаран̣а сам̣йога̄тта̄д̣ана̄дгхарш̣ан̣а̄дапи ш́отхах̣ па̄лйа̄м̣ бхавеччхйа̄во да̄хапа̄каруджа̄'нвитах̣ ракто ва̄ рактапитта̄бхйа̄мутпа̄тах̣ сагадах̣ смр̣тах̣",
-        "text": "От соединения с тяжёлым украшением, от удара, от натирания возникает тёмный отёк в мочке, с жжением, созреванием и болью; красный же, [возникший] от крови и питты, — это расстройство называется «утпата» (внезапное поражение)."
+        "text": "От соединения с тяжёлым украшением, от удара, от натирания возникает тёмный отёк в мочке, с жжением, созреванием и болью; красный же, [возникший] от крови и питты, — это расстройство называется «утпата» (внезапное поражение).",
+        "text_en": "From association with a heavy ornament, from a blow, from rubbing, a dark swelling arises in the lobe, with burning, ripening and pain; the red one, arising from blood and Pitta, this disorder is called Utpata (sudden affliction)."
       },
       {
         "type": "verse",
@@ -86158,7 +86511,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णं बलाद्वर्द्धयतः पाल्यां वायुः प्रकुप्यति कफं संगृह्य कुरुते शोथं स्तब्धमवेदनम् उन्मन्थकः सकण्डूको विकारः कफवातजः",
         "iast": "karṇaṃ balādvarddhayataḥ pālyāṃ vāyuḥ prakupyati kaphaṃ saṃgṛhya kurute śothaṃ stabdhamavedanam unmanthakaḥ sakaṇḍūko vikāraḥ kaphavātajaḥ",
         "iast_ru": "карн̣ам̣ бала̄дварддхайатах̣ па̄лйа̄м̣ ва̄йух̣ пракупйати капхам̣ сам̣гр̣хйа куруте ш́отхам̣ стабдхамаведанам унмантхаках̣ сакан̣д̣ӯко вика̄рах̣ капхава̄таджах̣",
-        "text": "У того, кто насильственно растягивает ухо, ватха возмущается в мочке; собрав капху, вызывает застылый безболезненный отёк — это расстройство «унматхака», с зудом, [возникшее] от капхи и ватхи."
+        "text": "У того, кто насильственно растягивает ухо, ватха возмущается в мочке; собрав капху, вызывает застылый безболезненный отёк — это расстройство «унматхака», с зудом, [возникшее] от капхи и ватхи.",
+        "text_en": "In one who forcibly stretches the ear, Vata becomes aggravated in the lobe; having gathered Kapha, it causes a stiff painless swelling: this disorder is Unmanthaka, with itching, arising from Kapha and Vata."
       },
       {
         "type": "verse",
@@ -86166,7 +86520,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "संवर्ध्यमाने दुर्विद्धे कण्डूदाहरुजाऽन्वितः शोथो भवति पाकश्च त्रिदोषो दुःखवर्द्धनः",
         "iast": "saṃvardhyamāne durviddhe kaṇḍūdāharujā'nvitaḥ śotho bhavati pākaśca tridoṣo duḥkhavarddhanaḥ",
         "iast_ru": "сам̣вардхйама̄не дурвиддхе кан̣д̣ӯда̄харуджа̄'нвитах̣ ш́отхо бхавати па̄каш́ча тридош̣о дух̣кхаварддханах̣",
-        "text": "При неправильном растягивании [уха] возникает отёк с зудом, жжением и болью, а также созревание, [вызванное] всеми тремя дошами, усиливающее страдание."
+        "text": "При неправильном растягивании [уха] возникает отёк с зудом, жжением и болью, а также созревание, [вызванное] всеми тремя дошами, усиливающее страдание.",
+        "text_en": "With improper stretching (of the ear) a swelling arises with itching, burning and pain, and also ripening, (caused) by all three doshas, intensifying the suffering."
       },
       {
         "type": "verse",
@@ -86174,7 +86529,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफासृक्कृमयः क्रुद्धाः सर्षपाभा विसारिणः कुर्वन्ति पिडकां पाल्यां कण्डूदाहसमन्विताम् कफासृक्कृमिसम्भूतः स विसर्पन्नितस्ततः लिह्यात्सशष्कुलद्यं पालद्यं परिलेही च स स्मृतः",
         "iast": "kaphāsṛkkṛmayaḥ kruddhāḥ sarṣapābhā visāriṇaḥ kurvanti piḍakāṃ pālyāṃ kaṇḍūdāhasamanvitām kaphāsṛkkṛmisambhūtaḥ sa visarpannitastataḥ lihyātsaśaṣkuladyaṃ pāladyaṃ parilehī ca sa smṛtaḥ",
         "iast_ru": "капха̄ср̣ккр̣майах̣ круддха̄х̣ сарш̣апа̄бха̄ виса̄рин̣ах̣ курванти пид̣ака̄м̣ па̄лйа̄м̣ кан̣д̣ӯда̄хасаманвита̄м капха̄ср̣ккр̣мисамбхӯтах̣ са висарпаннитастатах̣ лихйа̄тсаш́аш̣куладйам̣ па̄ладйам̣ парилехӣ ча са смр̣тах̣",
-        "text": "Возмущённые капха, кровь и паразиты, подобные горчичному зерну, распространяясь, вызывают в мочке нарыв с зудом и жжением; [эта форма], возникшая от капхи, крови и паразитов, распространяющаяся туда-сюда, [заставляет больного] облизывать [ухо]; она называется «паралехи» (облизывающая мочку)."
+        "text": "Возмущённые капха, кровь и паразиты, подобные горчичному зерну, распространяясь, вызывают в мочке нарыв с зудом и жжением; [эта форма], возникшая от капхи, крови и паразитов, распространяющаяся туда-сюда, [заставляет больного] облизывать [ухо]; она называется «паралехи» (облизывающая мочку).",
+        "text_en": "Aggravated Kapha, blood and parasites, like a mustard seed, spreading, cause in the lobe a boil with itching and burning; (this form), arising from Kapha, blood and parasites, spreading hither and thither, (makes the patient) lick (the ear); it is called Paralehi (lobe-licking)."
       },
       {
         "type": "verse",
@@ -86182,7 +86538,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णशूले कर्णनादे बाधिर्ये क्ष्वेड एव च चतुर्ष्वपि च रोगेषु सामान्यं भेषजं स्मृतम् शृङ्गवेरं सहमधु सैन्धवं तैलमेव च कदुष्णं कर्णयोर्धार्यमेतत्स्याद् वेदनाऽपहम्",
         "iast": "karṇaśūle karṇanāde bādhirye kṣveḍa eva ca caturṣvapi ca rogeṣu sāmānyaṃ bheṣajaṃ smṛtam śṛṅgaveraṃ sahamadhu saindhavaṃ tailameva ca kaduṣṇaṃ karṇayordhāryametatsyād vedanā'paham",
         "iast_ru": "карн̣аш́ӯле карн̣ана̄де ба̄дхирйе кш̣вед̣а ева ча чатурш̣вапи ча рогеш̣у са̄ма̄нйам̣ бхеш̣аджам̣ смр̣там ш́р̣н̇гаверам̣ сахамадху саиндхавам̣ таиламева ча кадуш̣н̣ам̣ карн̣айордха̄рйаметатсйа̄д ведана̄'пахам",
-        "text": "При боли в ухе, шуме в ухе, глухоте и свисте в ухе — при этих четырёх болезнях провозглашено общее лекарство: сушёный имбирь с мёдом, каменной солью и маслом, слегка тёплое, следует держать в ушах — это устраняет боль."
+        "text": "При боли в ухе, шуме в ухе, глухоте и свисте в ухе — при этих четырёх болезнях провозглашено общее лекарство: сушёный имбирь с мёдом, каменной солью и маслом, слегка тёплое, следует держать в ушах — это устраняет боль.",
+        "text_en": "In earache, tinnitus, deafness and whistling in the ear: for these four diseases a common remedy is declared: dried ginger with honey, rock salt and oil, slightly warm, should be held in the ears; this removes pain."
       },
       {
         "type": "verse",
@@ -86190,7 +86547,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लशुनार्द्र कशिग्रूणां वारुण्या मूलकस्य च कदल्याः स्वरसः श्रेष्ठः कदुष्णः कर्णपूरणे",
         "iast": "laśunārdra kaśigrūṇāṃ vāruṇyā mūlakasya ca kadalyāḥ svarasaḥ śreṣṭhaḥ kaduṣṇaḥ karṇapūraṇe",
         "iast_ru": "лаш́уна̄рдра каш́игрӯн̣а̄м̣ ва̄рун̣йа̄ мӯлакасйа ча кадалйа̄х̣ сварасах̣ ш́реш̣т̣хах̣ кадуш̣н̣ах̣ карн̣апӯран̣е",
-        "text": "Сок чеснока, свежего имбиря, шигру, варуны и корня редиса, а также банана — лучший, слегка тёплый, для заполнения уха."
+        "text": "Сок чеснока, свежего имбиря, шигру, варуны и корня редиса, а также банана — лучший, слегка тёплый, для заполнения уха.",
+        "text_en": "The juice of garlic, fresh ginger, Shigru, Varuna and radish root, and also of banana, the best, slightly warm, for filling the ear."
       },
       {
         "type": "verse",
@@ -86198,7 +86556,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अर्काङ्कुरानम्लपिष्टान्स तैललवणान्वितान् सन्निदध्यात्सुधाकाण्डे कोरिते मृत्स्नयाऽवृते",
         "iast": "arkāṅkurānamlapiṣṭānsa tailalavaṇānvitān sannidadhyātsudhākāṇḍe korite mṛtsnayā'vṛte",
         "iast_ru": "арка̄н̇кура̄намлапиш̣т̣а̄нса таилалаван̣а̄нвита̄н саннидадхйа̄тсудха̄ка̄н̣д̣е корите мр̣тснайа̄'вр̣те",
-        "text": "Побеги арки, растёртые с кислым, соединённые с маслом и солью, следует поместить в стебель молочая, выдолбленный и обмазанный глиной."
+        "text": "Побеги арки, растёртые с кислым, соединённые с маслом и солью, следует поместить в стебель молочая, выдолбленный и обмазанный глиной.",
+        "text_en": "Arka shoots, ground with sour (substance), combined with oil and salt, should be placed in a hollowed stalk of Euphorbia, smeared with clay."
       },
       {
         "type": "verse",
@@ -86206,7 +86565,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुटपाकक्रमात्स्विन्नं पीडयेदारसागमात् सुखोष्णं तद्र सं कर्णे प्रक्षिपेच्छूलशान्तये",
         "iast": "puṭapākakramātsvinnaṃ pīḍayedārasāgamāt sukhoṣṇaṃ tadra saṃ karṇe prakṣipecchūlaśāntaye",
         "iast_ru": "пут̣апа̄какрама̄тсвиннам̣ пӣд̣айеда̄раса̄гама̄т сукхош̣н̣ам̣ тадра сам̣ карн̣е пракш̣ипеччхӯлаш́а̄нтайе",
-        "text": "По методу «путапака», распаренное, следует выжать при появлении сока; этот сок, слегка тёплый, следует влить в ухо для успокоения боли."
+        "text": "По методу «путапака», распаренное, следует выжать при появлении сока; этот сок, слегка тёплый, следует влить в ухо для успокоения боли.",
+        "text_en": "By the Putapaka method, steamed, it should be squeezed when juice appears; this juice, slightly warm, should be poured into the ear to pacify pain."
       },
       {
         "type": "verse",
@@ -86214,7 +86574,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अर्कस्य पत्रं परिणामपीतमाज्येन लिप्तं शिखियोगतप्तम् आपीड्य तस्याम्बु सुखोष्णमेव कर्णे निषिक्तं हरते हि शूलम्",
         "iast": "arkasya patraṃ pariṇāmapītamājyena liptaṃ śikhiyogataptam āpīḍya tasyāmbu sukhoṣṇameva karṇe niṣiktaṃ harate hi śūlam",
         "iast_ru": "аркасйа патрам̣ парин̣а̄мапӣтама̄джйена липтам̣ ш́икхийогатаптам а̄пӣд̣йа тасйа̄мбу сукхош̣н̣амева карн̣е ниш̣иктам̣ харате хи ш́ӯлам",
-        "text": "Лист арки, дозревший до жёлтого [цвета], смазанный гхи, нагретый на огне; выжатую из него воду, слегка тёплую, влитую в ухо, устраняет боль."
+        "text": "Лист арки, дозревший до жёлтого [цвета], смазанный гхи, нагретый на огне; выжатую из него воду, слегка тёплую, влитую в ухо, устраняет боль.",
+        "text_en": "A leaf of Arka, ripened to a yellow (color), smeared with ghee, heated on fire; the water squeezed from it, slightly warm, poured into the ear, removes pain."
       },
       {
         "type": "verse",
@@ -86222,7 +86583,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तीव्रशूलातुरे कर्णे सशब्दे क्लेदवाहिनि छागमूत्रं प्रशंसन्ति कोष्णं सैन्धवसंयुतम्",
         "iast": "tīvraśūlāture karṇe saśabde kledavāhini chāgamūtraṃ praśaṃsanti koṣṇaṃ saindhavasaṃyutam",
         "iast_ru": "тӣвраш́ӯла̄туре карн̣е саш́абде кледава̄хини чха̄гамӯтрам̣ праш́ам̣санти кош̣н̣ам̣ саиндхавасам̣йутам",
-        "text": "При сильной боли в ухе, со звуком, выделяющем влагу, рекомендуют козью мочу, тёплую, соединённую с каменной солью."
+        "text": "При сильной боли в ухе, со звуком, выделяющем влагу, рекомендуют козью мочу, тёплую, соединённую с каменной солью.",
+        "text_en": "In severe earache, with sound, discharging moisture, goat's urine is recommended, warm, combined with rock salt."
       },
       {
         "type": "verse",
@@ -86230,7 +86592,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तैलं श्वेतार्कमूलेन मन्देऽग्नौ विधिना कृतम् हरेदाशु त्रिदोषोत्थं कर्णशूलप्रपूरणात्",
         "iast": "tailaṃ śvetārkamūlena mande'gnau vidhinā kṛtam haredāśu tridoṣotthaṃ karṇaśūlaprapūraṇāt",
         "iast_ru": "таилам̣ ш́вета̄ркамӯлена манде'гнау видхина̄ кр̣там хареда̄ш́у тридош̣оттхам̣ карн̣аш́ӯлапрапӯран̣а̄т",
-        "text": "Масло с корнем белой арки, приготовленное на слабом огне по правилу, быстро устраняет боль в ухе, [возникшую] от всех трёх дош, при заполнении уха."
+        "text": "Масло с корнем белой арки, приготовленное на слабом огне по правилу, быстро устраняет боль в ухе, [возникшую] от всех трёх дош, при заполнении уха.",
+        "text_en": "Oil with the root of white Arka, prepared on a low fire by the rule, quickly removes pain in the ear (arising) from all three doshas, when the ear is filled with it."
       },
       {
         "type": "verse",
@@ -86238,7 +86601,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हिङ्गुसैन्धवशुण्ठीभिस्तैलं सर्षपसम्भवम् विपक्वं हरतेऽवश्यं कर्णशूलं प्रपूरणात्",
         "iast": "hiṅgusaindhavaśuṇṭhībhistailaṃ sarṣapasambhavam vipakvaṃ harate'vaśyaṃ karṇaśūlaṃ prapūraṇāt",
         "iast_ru": "хин̇гусаиндхаваш́ун̣т̣хӣбхистаилам̣ сарш̣апасамбхавам випаквам̣ харате'ваш́йам̣ карн̣аш́ӯлам̣ прапӯран̣а̄т",
-        "text": "Масло горчицы, сваренное с асафетидой, каменной солью и сушёным имбирём, непременно устраняет боль в ухе при заполнении уха."
+        "text": "Масло горчицы, сваренное с асафетидой, каменной солью и сушёным имбирём, непременно устраняет боль в ухе при заполнении уха.",
+        "text_en": "Mustard oil, cooked with asafetida, rock salt and dried ginger, certainly removes pain in the ear when the ear is filled with it."
       },
       {
         "type": "verse",
@@ -86246,7 +86610,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्णशूले कर्णनादे बाधिर्ये क्ष्वेड एव च पूरणं कटुतैलेन हितं वातघ्नमौषधम्",
         "iast": "karṇaśūle karṇanāde bādhirye kṣveḍa eva ca pūraṇaṃ kaṭutailena hitaṃ vātaghnamauṣadham",
         "iast_ru": "карн̣аш́ӯле карн̣ана̄де ба̄дхирйе кш̣вед̣а ева ча пӯран̣ам̣ кат̣утаилена хитам̣ ва̄тагхнамауш̣адхам",
-        "text": "При боли в ухе, шуме в ухе, глухоте и свисте в ухе полезно заполнение острым маслом — это лекарство, устраняющее ватху."
+        "text": "При боли в ухе, шуме в ухе, глухоте и свисте в ухе полезно заполнение острым маслом — это лекарство, устраняющее ватху.",
+        "text_en": "In earache, tinnitus, deafness and whistling in the ear, filling with pungent oil is beneficial; this is a medicine that relieves Vata."
       },
       {
         "type": "verse",
@@ -86254,7 +86619,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिखरिक्षारजवारि तत्कृतकल्केन साधितं तैलम् अपहरति कर्णनादं बाधिर्यं चापि पूरणतः",
         "iast": "śikharikṣārajavāri tatkṛtakalkena sādhitaṃ tailam apaharati karṇanādaṃ bādhiryaṃ cāpi pūraṇataḥ",
         "iast_ru": "ш́икхарикш̣а̄раджава̄ри таткр̣такалкена са̄дхитам̣ таилам апахарати карн̣ана̄дам̣ ба̄дхирйам̣ ча̄пи пӯран̣атах̣",
-        "text": "Масло, сваренное с пастой из щёлочи шикхари и ячменной водой, устраняет шум в ухе, а также глухоту, при заполнении."
+        "text": "Масло, сваренное с пастой из щёлочи шикхари и ячменной водой, устраняет шум в ухе, а также глухоту, при заполнении.",
+        "text_en": "Oil cooked with a paste of Shikhari alkali and barley water removes tinnitus, and also deafness, when the ear is filled with it."
       },
       {
         "type": "verse",
@@ -86262,7 +86628,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गवां मूत्रेण बिल्वानि पिष्ट्वा तैलं विपाचयेत् सजलञ्च सदुग्धञ्च तद्बाधिर्यहरं परम् इति बिल्व तैलम् कर्णस्रावे पूतिकर्णे तथैव कृमिकर्णके सामान्यं कर्म कुर्वीत योगान्वैशेषिकानपि",
         "iast": "gavāṃ mūtreṇa bilvāni piṣṭvā tailaṃ vipācayet sajalañca sadugdhañca tadbādhiryaharaṃ param iti bilva tailam karṇasrāve pūtikarṇe tathaiva kṛmikarṇake sāmānyaṃ karma kurvīta yogānvaiśeṣikānapi",
         "iast_ru": "гава̄м̣ мӯтрен̣а билва̄ни пиш̣т̣ва̄ таилам̣ випа̄чайет саджалан̃ча садугдхан̃ча тадба̄дхирйахарам̣ парам ити билва таилам карн̣асра̄ве пӯтикарн̣е татхаива кр̣микарн̣аке са̄ма̄нйам̣ карма курвӣта йога̄нваиш́еш̣ика̄напи",
-        "text": "Растерев билву с коровьей мочой, следует сварить масло; с водой и молоком это превосходно устраняет глухоту. Так [заканчивается описание] масла из билвы. При истечении из уха, зловонном ухе, а также ухе с паразитами, следует применять общий метод, а также особые средства."
+        "text": "Растерев билву с коровьей мочой, следует сварить масло; с водой и молоком это превосходно устраняет глухоту. Так [заканчивается описание] масла из билвы. При истечении из уха, зловонном ухе, а также ухе с паразитами, следует применять общий метод, а также особые средства.",
+        "text_en": "Having ground Bilva with cow's urine, oil should be cooked; with water and milk this excellently removes deafness. Thus (ends the description of) Bilva oil. In discharge from the ear, foul-smelling ear, and also ear with parasites, the common method should be applied, and also special remedies."
       },
       {
         "type": "verse",
@@ -86270,7 +86637,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्वर्जिकाचूर्णसंयुक्तं बीजपूररसं क्षिपेत् कर्णस्रावरुजो दाहास्ते नश्यन्ति न संशयः",
         "iast": "svarjikācūrṇasaṃyuktaṃ bījapūrarasaṃ kṣipet karṇasrāvarujo dāhāste naśyanti na saṃśayaḥ",
         "iast_ru": "сварджика̄чӯрн̣асам̣йуктам̣ бӣджапӯрарасам̣ кш̣ипет карн̣асра̄варуджо да̄ха̄сте наш́йанти на сам̣ш́айах̣",
-        "text": "Сок цитрона, соединённый с порошком свадж, следует влить [в ухо]; боль и жжение истечения из уха несомненно исчезают."
+        "text": "Сок цитрона, соединённый с порошком свадж, следует влить [в ухо]; боль и жжение истечения из уха несомненно исчезают.",
+        "text_en": "The juice of citron, combined with Svaj powder, should be poured (into the ear); pain and burning of discharge from the ear undoubtedly disappear."
       },
       {
         "type": "verse",
@@ -86278,7 +86646,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आम्रजम्बूप्रवालानि मधुकस्य वटस्य च एभिस्तु साधितं तैलं पूतिकर्णगदं हरेत्",
         "iast": "āmrajambūpravālāni madhukasya vaṭasya ca ebhistu sādhitaṃ tailaṃ pūtikarṇagadaṃ haret",
         "iast_ru": "а̄мраджамбӯправа̄ла̄ни мадхукасйа ват̣асйа ча ебхисту са̄дхитам̣ таилам̣ пӯтикарн̣агадам̣ харет",
-        "text": "Побеги манго и джамбу, солодки и баньяна — масло, сваренное с этими, устраняет зловонное ухо."
+        "text": "Побеги манго и джамбу, солодки и баньяна — масло, сваренное с этими, устраняет зловонное ухо.",
+        "text_en": "Sprouts of mango and Jambu, licorice and banyan: oil cooked with these removes foul-smelling ear."
       },
       {
         "type": "verse",
@@ -86286,7 +86655,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जातीपत्ररसैस्तैलं विपक्वं पूतिकर्णजित् पिष्टं रसाञ्जनं नार्याः क्षीरेण क्षौद्र संयुतम् प्रशस्यते चिरोत्थे तत्स्रावके पूतिकर्णके",
         "iast": "jātīpatrarasaistailaṃ vipakvaṃ pūtikarṇajit piṣṭaṃ rasāñjanaṃ nāryāḥ kṣīreṇa kṣaudra saṃyutam praśasyate cirotthe tatsrāvake pūtikarṇake",
         "iast_ru": "джа̄тӣпатрарасаистаилам̣ випаквам̣ пӯтикарн̣аджит пиш̣т̣ам̣ раса̄н̃джанам̣ на̄рйа̄х̣ кш̣ӣрен̣а кш̣аудра сам̣йутам праш́асйате чироттхе татсра̄ваке пӯтикарн̣аке",
-        "text": "Масло, сваренное соком листа джати, устраняет зловонное ухо; растёртое красящее вещество (расанджана) с женским молоком, соединённое с мёдом, рекомендуется при давнем истекающем зловонном ухе."
+        "text": "Масло, сваренное соком листа джати, устраняет зловонное ухо; растёртое красящее вещество (расанджана) с женским молоком, соединённое с мёдом, рекомендуется при давнем истекающем зловонном ухе.",
+        "text_en": "Oil cooked with the juice of Jati leaf removes foul-smelling ear; ground Rasanjana (coloring substance) with woman's milk, combined with honey, is recommended in long-standing discharging foul-smelling ear."
       },
       {
         "type": "verse",
@@ -86294,7 +86664,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुष्ठहिङ्गुबचा दारुशताह्वाविश्वसैन्धवैः पूतिकर्णापहं तैलं बस्तमूत्रेण साधितम्",
         "iast": "kuṣṭhahiṅgubacā dāruśatāhvāviśvasaindhavaiḥ pūtikarṇāpahaṃ tailaṃ bastamūtreṇa sādhitam",
         "iast_ru": "куш̣т̣хахин̇губача̄ да̄руш́ата̄хва̄виш́васаиндхаваих̣ пӯтикарн̣а̄пахам̣ таилам̣ бастамӯтрен̣а са̄дхитам",
-        "text": "Кустха, асафетида, вача, дару, шатахва, сушёный имбирь, каменная соль — масло, устраняющее зловонное ухо, сваренное с козьей мочой."
+        "text": "Кустха, асафетида, вача, дару, шатахва, сушёный имбирь, каменная соль — масло, устраняющее зловонное ухо, сваренное с козьей мочой.",
+        "text_en": "Kushtha, asafetida, Vacha, Daru, Shatahva, dried ginger, rock salt: an oil removing foul-smelling ear, cooked with goat's urine."
       },
       {
         "type": "verse",
@@ -86302,7 +86673,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शम्बूकस्य तु मांसेन कटुतैलं विपाचयेत् तस्य पूरणमात्रेण कर्णनाडी प्रशाम्यति",
         "iast": "śambūkasya tu māṃsena kaṭutailaṃ vipācayet tasya pūraṇamātreṇa karṇanāḍī praśāmyati",
         "iast_ru": "ш́амбӯкасйа ту ма̄м̣сена кат̣утаилам̣ випа̄чайет тасйа пӯран̣ама̄трен̣а карн̣ана̄д̣ӣ праш́а̄мйати",
-        "text": "Мясом улитки следует сварить острое масло; от одного лишь заполнения этим успокаивается «карна-нади» (свищ уха)."
+        "text": "Мясом улитки следует сварить острое масло; от одного лишь заполнения этим успокаивается «карна-нади» (свищ уха).",
+        "text_en": "With the flesh of a snail a pungent oil should be cooked; by the mere filling with this the Karna-nadi (fistula of the ear) is pacified."
       },
       {
         "type": "verse",
@@ -86310,7 +86682,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चूर्णेन गन्धकशिलारजनीभवेन मुष्ट्यंशकेन कटुतैलपलाष्टकन्तु धत्तूरपत्ररसतुल्यमिदं विपक्वं नाडीं जयेच्चिरभवामपि कर्णजाताम्",
         "iast": "cūrṇena gandhakaśilārajanībhavena muṣṭyaṃśakena kaṭutailapalāṣṭakantu dhattūrapatrarasatulyamidaṃ vipakvaṃ nāḍīṃ jayeccirabhavāmapi karṇajātām",
         "iast_ru": "чӯрн̣ена гандхакаш́ила̄раджанӣбхавена муш̣т̣йам̣ш́акена кат̣утаилапала̄ш̣т̣аканту дхаттӯрапатрарасатулйамидам̣ випаквам̣ на̄д̣ӣм̣ джайеччирабхава̄мапи карн̣аджа̄та̄м",
-        "text": "Порошком серы, силы (?) и куркумы, взятым в горсти, восемь пал острого масла, равное количество сока листа дхаттуры, — сваренное это устраняет даже давний свищ, возникший в ухе."
+        "text": "Порошком серы, силы (?) и куркумы, взятым в горсти, восемь пал острого масла, равное количество сока листа дхаттуры, — сваренное это устраняет даже давний свищ, возникший в ухе.",
+        "text_en": "With powder of sulfur, Sila (?) and turmeric, taken by the handful, eight Palas of pungent oil, an equal quantity of juice of Dhattura leaf: cooked, this removes even a long-standing fistula arising in the ear."
       },
       {
         "type": "verse",
@@ -86318,7 +86691,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृमिकर्णविनाशाय कृमिघ्नीं कारयेत्क्रियाम् वार्त्ताकुधूमश्च हितःसार्षपः स्नेह एव च",
         "iast": "kṛmikarṇavināśāya kṛmighnīṃ kārayetkriyām vārttākudhūmaśca hitaḥsārṣapaḥ sneha eva ca",
         "iast_ru": "кр̣микарн̣авина̄ш́а̄йа кр̣мигхнӣм̣ ка̄райеткрийа̄м ва̄ртта̄кудхӯмаш́ча хитах̣са̄рш̣апах̣ снеха ева ча",
-        "text": "Для уничтожения ушных паразитов следует применять противопаразитарное лечение; дым от баклажана, горчичное масло полезны."
+        "text": "Для уничтожения ушных паразитов следует применять противопаразитарное лечение; дым от баклажана, горчичное масло полезны.",
+        "text_en": "For destruction of ear parasites, antiparasitic treatment should be applied; smoke of eggplant and mustard oil are beneficial."
       },
       {
         "type": "verse",
@@ -86326,7 +86700,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पूरणं हरितालेन गव्यमूत्रयुतेन च धूपने कर्णदौर्गन्ध्ये गुग्गुलुः श्रेष्ठ उच्यते",
         "iast": "pūraṇaṃ haritālena gavyamūtrayutena ca dhūpane karṇadaurgandhye gugguluḥ śreṣṭha ucyate",
         "iast_ru": "пӯран̣ам̣ харита̄лена гавйамӯтрайутена ча дхӯпане карн̣адаургандхйе гуггулух̣ ш́реш̣т̣ха учйате",
-        "text": "Заполнение харитал ом, соединённым с коровьей мочой; при зловонии уха при окуривании гуггул считается лучшим."
+        "text": "Заполнение харитал ом, соединённым с коровьей мочой; при зловонии уха при окуривании гуггул считается лучшим.",
+        "text_en": "Filling with Haritala, combined with cow's urine; in foul smell of the ear, in fumigation, Guggulu is considered best."
       },
       {
         "type": "verse",
@@ -86334,7 +86709,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चिकित्सा कर्णशोथानां तथा कर्णार्शसामपि कर्णार्बुदानां कुर्वीत शोथार्शोऽबुदवद्भिषक्",
         "iast": "cikitsā karṇaśothānāṃ tathā karṇārśasāmapi karṇārbudānāṃ kurvīta śothārśo'budavadbhiṣak",
         "iast_ru": "чикитса̄ карн̣аш́отха̄на̄м̣ татха̄ карн̣а̄рш́аса̄мапи карн̣а̄рбуда̄на̄м̣ курвӣта ш́отха̄рш́о'будавадбхиш̣ак",
-        "text": "Лечение отёков уха, а также геморроя уха и опухолей уха врачу следует проводить, как при отёке, геморрое и опухоли [в общем]."
+        "text": "Лечение отёков уха, а также геморроя уха и опухолей уха врачу следует проводить, как при отёке, геморрое и опухоли [в общем].",
+        "text_en": "Treatment of swellings of the ear, and also of hemorrhoids and tumors of the ear, should be carried out by the physician as in swelling, hemorrhoids and tumor (in general)."
       },
       {
         "type": "verse",
@@ -86342,7 +86718,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पालीसंशोषणे कुर्याद्वातकर्णरुजः क्रियाः स्वेदयेद्यत्नतस्तां च स्विन्नां संवर्धयेत्तिलैः",
         "iast": "pālīsaṃśoṣaṇe kuryādvātakarṇarujaḥ kriyāḥ svedayedyatnatastāṃ ca svinnāṃ saṃvardhayettilaiḥ",
         "iast_ru": "па̄лӣсам̣ш́ош̣ан̣е курйа̄два̄такарн̣аруджах̣ крийа̄х̣ сведайедйатнатаста̄м̣ ча свинна̄м̣ сам̣вардхайеттилаих̣",
-        "text": "При высушивании мочки следует применять процедуры, [устраняющие] боль в ухе от ватхи; следует старательно прогревать, а прогретую увеличивать кунжутом."
+        "text": "При высушивании мочки следует применять процедуры, [устраняющие] боль в ухе от ватхи; следует старательно прогревать, а прогретую увеличивать кунжутом.",
+        "text_en": "In drying up of the lobe, procedures (that remove) earache due to Vata should be applied; it should be diligently warmed, and the warmed (lobe) enlarged with sesame."
       },
       {
         "type": "verse",
@@ -86350,7 +86727,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शतावरीवाजिगन्धापय स्यैरण्डबीजकैः तैलं विपक्वं सक्षीरं पालद्यं संवर्द्धयेत्सुखम्",
         "iast": "śatāvarīvājigandhāpaya syairaṇḍabījakaiḥ tailaṃ vipakvaṃ sakṣīraṃ pāladyaṃ saṃvarddhayetsukham",
         "iast_ru": "ш́ата̄варӣва̄джигандха̄пайа сйаиран̣д̣абӣджакаих̣ таилам̣ випаквам̣ сакш̣ӣрам̣ па̄ладйам̣ сам̣варддхайетсукхам",
-        "text": "Масло, сваренное с шатавари, ваджигандхой, молоком и семенами касторового [дерева], с молоком, следует легко увеличивать мочку."
+        "text": "Масло, сваренное с шатавари, ваджигандхой, молоком и семенами касторового [дерева], с молоком, следует легко увеличивать мочку.",
+        "text_en": "Oil cooked with Shatavari, Vajigandha, milk and castor seeds, with milk, should easily enlarge the lobe."
       },
       {
         "type": "verse",
@@ -86358,7 +86736,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जीवनीयस्य कल्केन तैलं दुग्धेन पाचयेत् चिकित्सेत्तेन तैलेन हृतास्रं परिपोटकम्",
         "iast": "jīvanīyasya kalkena tailaṃ dugdhena pācayet cikitsettena tailena hṛtāsraṃ paripoṭakam",
         "iast_ru": "джӣванӣйасйа калкена таилам̣ дугдхена па̄чайет чикитсеттена таилена хр̣та̄срам̣ парипот̣акам",
-        "text": "Масло с пастой дживанийи следует варить на молоке; этим маслом следует лечить кровоточащий «париподака»."
+        "text": "Масло с пастой дживанийи следует варить на молоке; этим маслом следует лечить кровоточащий «париподака».",
+        "text_en": "Oil with a paste of Jivaniya should be cooked in milk; with this oil bleeding Paripotaka should be treated."
       },
       {
         "type": "verse",
@@ -86366,7 +86745,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीतलेपैर्जलौकोभिरुत्पातं समुपाचरेत् हलिनीसुरसाभ्यां च गोधाकङ्कवसाऽन्वितम्",
         "iast": "śītalepairjalaukobhirutpātaṃ samupācaret halinīsurasābhyāṃ ca godhākaṅkavasā'nvitam",
         "iast_ru": "ш́ӣталепаирджалаукобхирутпа̄там̣ самупа̄чарет халинӣсураса̄бхйа̄м̣ ча годха̄кан̇каваса̄'нвитам",
-        "text": "Холодными мазями и пиявками следует лечить «утпату»; хал ини и сурасой, соединёнными с жиром годхи и ястреба,"
+        "text": "Холодными мазями и пиявками следует лечить «утпату»; хал ини и сурасой, соединёнными с жиром годхи и ястреба,",
+        "text_en": "With cold ointments and leeches Utpata should be treated; with Halini and Surasa, combined with the fat of monitor lizard and hawk,"
       },
       {
         "type": "verse",
@@ -86374,7 +86754,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तैलञ्च पक्वमभ्यङ्गादुन्मन्थं नाशयेद् ध्रुवम् दुःखवर्द्धनकं सिक्त्वा जम्ब्वाम्रबिल्वपत्रजैः",
         "iast": "tailañca pakvamabhyaṅgādunmanthaṃ nāśayed dhruvam duḥkhavarddhanakaṃ siktvā jambvāmrabilvapatrajaiḥ",
         "iast_ru": "таилан̃ча паквамабхйан̇га̄дунмантхам̣ на̄ш́айед дхрувам дух̣кхаварддханакам̣ сиктва̄ джамбва̄мрабилвапатраджаих̣",
-        "text": "а также сваренным маслом при растирании непременно устраняется «унмантха»."
+        "text": "а также сваренным маслом при растирании непременно устраняется «унмантха».",
+        "text_en": "and also with cooked oil by rubbing, Unmantha is certainly removed."
       },
       {
         "type": "verse",
@@ -86382,7 +86763,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्वाथैस्तैलेन सुस्निग्धं तच्चूर्णैश्चावधूलयेत् बहुशो गोमयैस्तप्तैः स्वेदितं परिलेहितम् घनसारैः समालिम्पेदजामूत्रेण कल्कितैः",
         "iast": "kvāthaistailena susnigdhaṃ taccūrṇaiścāvadhūlayet bahuśo gomayaistaptaiḥ sveditaṃ parilehitam ghanasāraiḥ samālimpedajāmūtreṇa kalkitaiḥ",
         "iast_ru": "ква̄тхаистаилена суснигдхам̣ таччӯрн̣аиш́ча̄вадхӯлайет бахуш́о гомайаистаптаих̣ сведитам̣ парилехитам гханаса̄раих̣ сама̄лимпедаджа̄мӯтрен̣а калкитаих̣",
-        "text": "«Духкха-вардханаку» (усиливающую страдание), орошая отварами листьев джамбу, манго и билвы, маслом, хорошо маслянистым, следует обсыпать их порошками; многократно прогретым горячим коровьим навозом, облизанным, следует смазывать камфарой, растёртой с козьей мочой."
+        "text": "«Духкха-вардханаку» (усиливающую страдание), орошая отварами листьев джамбу, манго и билвы, маслом, хорошо маслянистым, следует обсыпать их порошками; многократно прогретым горячим коровьим навозом, облизанным, следует смазывать камфарой, растёртой с козьей мочой.",
+        "text_en": "Duhkha-vardhanaka (intensifying suffering), irrigating with decoctions of leaves of Jambu, mango and Bilva, with well unctuous oil, they should be dusted with powders; with hot cow dung heated many times, licked, they should be smeared with camphor ground with goat's urine."
       },
       {
         "type": "verse",
@@ -86390,7 +86772,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति चतुःषष्टितमः कर्णरोगाधिकारः समाप्तः ६४",
         "iast": "iti catuḥṣaṣṭitamaḥ karṇarogādhikāraḥ samāptaḥ 64",
         "iast_ru": "ити чатух̣ш̣аш̣т̣итамах̣ карн̣арога̄дхика̄рах̣ сама̄птах̣ ",
-        "text": "Так завершается шестьдесят четвёртая глава, посвящённая болезням ушей."
+        "text": "Так завершается шестьдесят четвёртая глава, посвящённая болезням ушей.",
+        "text_en": "Thus ends the sixty-fourth chapter, on diseases of the ears."
       }
     ]
   },
@@ -86408,7 +86791,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आदौ च पीनसः प्रोक्तः पूतिनस्यस्ततः परम् नासापाकोऽत्र गणितः पूयशोणितमेव च",
         "iast": "ādau ca pīnasaḥ proktaḥ pūtinasyastataḥ param nāsāpāko'tra gaṇitaḥ pūyaśoṇitameva ca",
         "iast_ru": "а̄дау ча пӣнасах̣ проктах̣ пӯтинасйастатах̣ парам на̄са̄па̄ко'тра ган̣итах̣ пӯйаш́он̣итамева ча",
-        "text": "Прежде провозглашён «пинаса» (насморк), затем «пути-насья» (зловонный нос); здесь же учитываются «наса-пака» (созревание носа), а также [истечение] гноя и крови."
+        "text": "Прежде провозглашён «пинаса» (насморк), затем «пути-насья» (зловонный нос); здесь же учитываются «наса-пака» (созревание носа), а также [истечение] гноя и крови.",
+        "text_en": "First Pinasa (rhinitis) is declared, then Puti-nasya (foul-smelling nose); here are also included Nasa-paka (ripening of the nose), and also (discharge) of pus and blood."
       },
       {
         "type": "verse",
@@ -86416,7 +86800,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षवथुर्भ्रंशथुर्दीप्तिः प्रतीनाहः परिस्रवः नासाशोषः प्रतिश्यायाः पञ्च सप्तार्बुदानि च",
         "iast": "kṣavathurbhraṃśathurdīptiḥ pratīnāhaḥ parisravaḥ nāsāśoṣaḥ pratiśyāyāḥ pañca saptārbudāni ca",
         "iast_ru": "кш̣аватхурбхрам̣ш́атхурдӣптих̣ пратӣна̄хах̣ парисравах̣ на̄са̄ш́ош̣ах̣ пратиш́йа̄йа̄х̣ пан̃ча сапта̄рбуда̄ни ча",
-        "text": "«Кшаватху» (чихание), «бхрамшатху» (выпадение обоняния), «дипти» (жжение), «пратинаха» (закупорка), «парисрава» (истечение), «наса-шоша» (сухость носа), «пратишьяя» (насморк-простуда), а также пять и семь [видов] опухолей,"
+        "text": "«Кшаватху» (чихание), «бхрамшатху» (выпадение обоняния), «дипти» (жжение), «пратинаха» (закупорка), «парисрава» (истечение), «наса-шоша» (сухость носа), «пратишьяя» (насморк-простуда), а также пять и семь [видов] опухолей,",
+        "text_en": "Kshavathu (sneezing), Bhramshathu (loss of smell), Dipti (burning), Pratinaha (blockage), Parisrava (discharge), Nasa-shosha (dryness of the nose), Pratishyaya (rhinitis, common cold), and also five and seven (kinds of) tumors,"
       },
       {
         "type": "verse",
@@ -86424,7 +86809,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चत्वार्यर्शांसि चत्वारः शोथाश्चत्वारि तानि च रक्तपित्तानि नासायां चतुस्त्रिंशद्गदाः स्मृताः",
         "iast": "catvāryarśāṃsi catvāraḥ śothāścatvāri tāni ca raktapittāni nāsāyāṃ catustriṃśadgadāḥ smṛtāḥ",
         "iast_ru": "чатва̄рйарш́а̄м̣си чатва̄рах̣ ш́отха̄ш́чатва̄ри та̄ни ча рактапитта̄ни на̄са̄йа̄м̣ чатустрим̣ш́адгада̄х̣ смр̣та̄х̣",
-        "text": "четыре [вида] геморроя, четыре отёка и столько же [видов] расстройства крови и питты в носу — всего провозглашено тридцать четыре болезни."
+        "text": "четыре [вида] геморроя, четыре отёка и столько же [видов] расстройства крови и питты в носу — всего провозглашено тридцать четыре болезни.",
+        "text_en": "four (kinds of) hemorrhoids, four swellings and as many (kinds of) disorder of blood and Pitta in the nose: in all thirty-four diseases are declared."
       },
       {
         "type": "verse",
@@ -86432,7 +86818,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आनह्यते शुष्यति यस्य नासा प्रक्लेदमायाति तु धूप्यते च न वेत्ति यो गन्धरसांश्च जन्तुर्जुष्टं व्यवस्येदिह पीनसेन",
         "iast": "ānahyate śuṣyati yasya nāsā prakledamāyāti tu dhūpyate ca na vetti yo gandharasāṃśca janturjuṣṭaṃ vyavasyediha pīnasena",
         "iast_ru": "а̄нахйате ш́уш̣йати йасйа на̄са̄ пракледама̄йа̄ти ту дхӯпйате ча на ветти йо гандхараса̄м̣ш́ча джантурджуш̣т̣ам̣ вйавасйедиха пӣнасена",
-        "text": "У кого нос закупорен, высыхает, а также становится влажным, дымится и не воспринимает запахи и вкусы, — следует определить, что у такого существа [болезнь] «пинаса»."
+        "text": "У кого нос закупорен, высыхает, а также становится влажным, дымится и не воспринимает запахи и вкусы, — следует определить, что у такого существа [болезнь] «пинаса».",
+        "text_en": "He whose nose is blocked, dries up, and also becomes moist, fumes and does not perceive smells and tastes: it should be identified that in such a being (the disease) Pinasa is present."
       },
       {
         "type": "verse",
@@ -86440,7 +86827,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तं चानिलश्लेष्मभवं विकारं ब्रूयात्प्रतिश्यायसमानलिङ्गम्",
         "iast": "taṃ cānilaśleṣmabhavaṃ vikāraṃ brūyātpratiśyāyasamānaliṅgam",
         "iast_ru": "там̣ ча̄нилаш́леш̣мабхавам̣ вика̄рам̣ брӯйа̄тпратиш́йа̄йасама̄налин̇гам",
-        "text": "Это расстройство, возникшее от ватхи и капхи, следует назвать имеющим признаки, подобные «пратишьяе» (насморку)."
+        "text": "Это расстройство, возникшее от ватхи и капхи, следует назвать имеющим признаки, подобные «пратишьяе» (насморку).",
+        "text_en": "This disorder, arising from Vata and Kapha, should be called having signs similar to Pratishyaya (common cold)."
       },
       {
         "type": "verse",
@@ -86448,7 +86836,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दोषैर्विदग्धैर्गलतालुमूले सन्दूषितो यस्य समीरणस्तु निरेति पूतिर्मुखनासिकाभ्यां तं पूतिनस्यं प्रवदन्ति रोगम्",
         "iast": "doṣairvidagdhairgalatālumūle sandūṣito yasya samīraṇastu nireti pūtirmukhanāsikābhyāṃ taṃ pūtinasyaṃ pravadanti rogam",
         "iast_ru": "дош̣аирвидагдхаиргалата̄лумӯле сандӯш̣ито йасйа самӣран̣асту нирети пӯтирмукхана̄сика̄бхйа̄м̣ там̣ пӯтинасйам̣ праваданти рогам",
-        "text": "Доши, испортившись у корня горла и нёба, портят ветер [дыхания] у того существа, чей [ветер] выходит зловонным через рот и нос; эту болезнь называют «пути-насья»."
+        "text": "Доши, испортившись у корня горла и нёба, портят ветер [дыхания] у того существа, чей [ветер] выходит зловонным через рот и нос; эту болезнь называют «пути-насья».",
+        "text_en": "The doshas, having become vitiated at the root of the throat and palate, spoil the wind (of breath) in that being whose (breath) comes out foul-smelling through the mouth and nose; this disease is called Puti-nasya."
       },
       {
         "type": "verse",
@@ -86456,7 +86845,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घ्राणाश्रितं पित्तमरूषि कुर्याद्यस्मिन्विकारे बलवांश्च पाकः तं नासिकापाकमिति व्यवस्येद्विक्लेदकोथावथवाऽपि यत्र",
         "iast": "ghrāṇāśritaṃ pittamarūṣi kuryādyasminvikāre balavāṃśca pākaḥ taṃ nāsikāpākamiti vyavasyedvikledakothāvathavā'pi yatra",
         "iast_ru": "гхра̄н̣а̄ш́ритам̣ питтамарӯш̣и курйа̄дйасминвика̄ре балава̄м̣ш́ча па̄ках̣ там̣ на̄сика̄па̄камити вйавасйедвикледакотха̄ватхава̄'пи йатра",
-        "text": "Питта, обосновавшаяся в обонятельном [органе], вызывает нарывы, у кого сильное созревание, — эту следует определить как «насика-пака», где есть также влажность или гниение."
+        "text": "Питта, обосновавшаяся в обонятельном [органе], вызывает нарывы, у кого сильное созревание, — эту следует определить как «насика-пака», где есть также влажность или гниение.",
+        "text_en": "Pitta, lodged in the olfactory organ, causes boils; he in whom there is severe ripening, this should be identified as Nasika-paka, where there is also moisture or putrefaction."
       },
       {
         "type": "verse",
@@ -86464,7 +86854,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दोषैर्विदग्धैरथवाऽपि जन्तोर्ललाटदेशेऽभिहतस्य तैस्तैः नासा स्रवेत्पूयमसृग्विमिश्रं तं पूयरक्तं प्रवदन्ति रोगम्",
         "iast": "doṣairvidagdhairathavā'pi jantorlalāṭadeśe'bhihatasya taistaiḥ nāsā sravetpūyamasṛgvimiśraṃ taṃ pūyaraktaṃ pravadanti rogam",
         "iast_ru": "дош̣аирвидагдхаиратхава̄'пи джанторлала̄т̣адеш́е'бхихатасйа таистаих̣ на̄са̄ сраветпӯйамаср̣гвимиш́рам̣ там̣ пӯйарактам̣ праваданти рогам",
-        "text": "Или от испорченных дош, у существа, поражённого ими в области лба, из носа истекает гной, смешанный с кровью, — эту болезнь называют «пуйя-ракта» (гнойно-кровяная)."
+        "text": "Или от испорченных дош, у существа, поражённого ими в области лба, из носа истекает гной, смешанный с кровью, — эту болезнь называют «пуйя-ракта» (гнойно-кровяная).",
+        "text_en": "Or from vitiated doshas, in a being afflicted by them in the forehead region, pus mixed with blood flows from the nose; this disease is called Puya-rakta (pus and blood)."
       },
       {
         "type": "verse",
@@ -86472,7 +86863,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घ्राणाश्रिते मर्मणि सम्प्रदुष्टो यस्यानिलो नासिकया निरेति कफानुयातो बहुशोऽतिशब्दस्तं रोगमाहुः क्षवथुं गदज्ञाः",
         "iast": "ghrāṇāśrite marmaṇi sampraduṣṭo yasyānilo nāsikayā nireti kaphānuyāto bahuśo'tiśabdastaṃ rogamāhuḥ kṣavathuṃ gadajñāḥ",
         "iast_ru": "гхра̄н̣а̄ш́рите марман̣и сампрадуш̣т̣о йасйа̄нило на̄сикайа̄ нирети капха̄нуйа̄то бахуш́о'тиш́абдастам̣ рогама̄хух̣ кш̣аватхум̣ гададжн̃а̄х̣",
-        "text": "У кого испорченный ветер, обосновавшийся в жизненно важной точке обоняния, выходит через нос, сопровождаемый капхой, многократно с сильным звуком, — знатоки болезней называют эту болезнь «кшаватху» (чихание)."
+        "text": "У кого испорченный ветер, обосновавшийся в жизненно важной точке обоняния, выходит через нос, сопровождаемый капхой, многократно с сильным звуком, — знатоки болезней называют эту болезнь «кшаватху» (чихание).",
+        "text_en": "He in whom vitiated wind, lodged in the vital point of smell, comes out through the nose, accompanied by Kapha, repeatedly with a loud sound, this disease the experts on diseases call Kshavathu (sneezing)."
       },
       {
         "type": "verse",
@@ -86480,7 +86872,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तीक्ष्णोपयोगादतिजिघ्रतो वा भावान्कटूनर्कनिरीक्षणाद्वा सूत्रादिभिर्वा तरुणास्थिमर्मण्युद्घर्षतेऽन्य क्षवथुर्निरेति",
         "iast": "tīkṣṇopayogādatijighrato vā bhāvānkaṭūnarkanirīkṣaṇādvā sūtrādibhirvā taruṇāsthimarmaṇyudgharṣate'nya kṣavathurnireti",
         "iast_ru": "тӣкш̣н̣опайога̄датиджигхрато ва̄ бха̄ва̄нкат̣ӯнарканирӣкш̣ан̣а̄два̄ сӯтра̄дибхирва̄ тарун̣а̄стхимарман̣йудгхарш̣ате'нйа кш̣аватхурнирети",
-        "text": "От чрезмерного использования острых [веществ], от чрезмерного обнюхивания, от острых веществ, от взгляда на солнце, или от нити и подобного, натирающего хрящ жизненно важной точки, возникает иное чихание."
+        "text": "От чрезмерного использования острых [веществ], от чрезмерного обнюхивания, от острых веществ, от взгляда на солнце, или от нити и подобного, натирающего хрящ жизненно важной точки, возникает иное чихание.",
+        "text_en": "From excessive use of pungent (substances), from excessive sniffing, from pungent substances, from looking at the sun, or from a thread and the like rubbing the cartilage of the vital point, another sneezing arises."
       },
       {
         "type": "verse",
@@ -86488,7 +86881,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रभ्रश्यते नासिकया तु यस्य सान्द्रो विदग्धो लवणः कफस्तु प्राक्सञ्चितो मूर्धनि पित्ततप्ते तं भ्रंशथुं व्याधिमुदाहारन्ति",
         "iast": "prabhraśyate nāsikayā tu yasya sāndro vidagdho lavaṇaḥ kaphastu prāksañcito mūrdhani pittatapte taṃ bhraṃśathuṃ vyādhimudāhāranti",
         "iast_ru": "прабхраш́йате на̄сикайа̄ ту йасйа са̄ндро видагдхо лаван̣ах̣ капхасту пра̄ксан̃чито мӯрдхани питтатапте там̣ бхрам̣ш́атхум̣ вйа̄дхимуда̄ха̄ранти",
-        "text": "У кого через нос выходит густая, испорченная, солёная капха, ранее накопившаяся в голове, обожжённая питтой, — эту болезнь называют «бхрамшатху» (выпадение [обоняния])."
+        "text": "У кого через нос выходит густая, испорченная, солёная капха, ранее накопившаяся в голове, обожжённая питтой, — эту болезнь называют «бхрамшатху» (выпадение [обоняния]).",
+        "text_en": "He from whose nose thick, vitiated, salty Kapha, previously accumulated in the head and burnt by Pitta, comes out, this disease is called Bhramshathu (loss of (smell))."
       },
       {
         "type": "verse",
@@ -86496,7 +86890,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घ्राणे भृशं दाहसमन्विते तु विनिःसरेद् धूम इवेह वायुः नासा प्रदीप्तेव च यस्य जन्तोर्व्याधिन्तु तं दीप्तिमुदाहरन्ति",
         "iast": "ghrāṇe bhṛśaṃ dāhasamanvite tu viniḥsared dhūma iveha vāyuḥ nāsā pradīpteva ca yasya jantorvyādhintu taṃ dīptimudāharanti",
         "iast_ru": "гхра̄н̣е бхр̣ш́ам̣ да̄хасаманвите ту виних̣саред дхӯма ивеха ва̄йух̣ на̄са̄ прадӣптева ча йасйа джанторвйа̄дхинту там̣ дӣптимуда̄харанти",
-        "text": "В обонятельном [органе], весьма охваченном жжением, выходит как бы дымный ветер; у такого существа нос словно воспламенён — эту болезнь называют «дипти» (жжение, воспламенение)."
+        "text": "В обонятельном [органе], весьма охваченном жжением, выходит как бы дымный ветер; у такого существа нос словно воспламенён — эту болезнь называют «дипти» (жжение, воспламенение).",
+        "text_en": "In the olfactory organ, greatly seized by burning, as it were smoky wind comes out; in such a being the nose seems inflamed; this disease is called Dipti (burning, inflammation)."
       },
       {
         "type": "verse",
@@ -86504,7 +86899,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उच्छ्वासमार्गन्तु कफः सवातो रुन्ध्यात्प्रतीनाहमुदाहरेत्तम्",
         "iast": "ucchvāsamārgantu kaphaḥ savāto rundhyātpratīnāhamudāharettam",
         "iast_ru": "уччхва̄сама̄рганту капхах̣ сава̄то рундхйа̄тпратӣна̄хамуда̄хареттам",
-        "text": "Путь вдоха-выдоха, [закрытый] капхой с ватхой, — эту следует назвать «пратинаха» (закупорка)."
+        "text": "Путь вдоха-выдоха, [закрытый] капхой с ватхой, — эту следует назвать «пратинаха» (закупорка).",
+        "text_en": "The path of inhalation and exhalation, (blocked) by Kapha with Vata, this should be called Pratinaha (blockage)."
       },
       {
         "type": "verse",
@@ -86512,7 +86908,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घ्राणाद्घनः पीतसितस्तनुर्वा दोषः स्रवेत्स्रावमुदाहरेत्तम्",
         "iast": "ghrāṇādghanaḥ pītasitastanurvā doṣaḥ sravetsrāvamudāharettam",
         "iast_ru": "гхра̄н̣а̄дгханах̣ пӣтаситастанурва̄ дош̣ах̣ сраветсра̄вамуда̄хареттам",
-        "text": "Из обонятельного [органа] истекает густая, жёлтая, белая или тонкая доша — эту следует назвать «сраван» (истечение)."
+        "text": "Из обонятельного [органа] истекает густая, жёлтая, белая или тонкая доша — эту следует назвать «сраван» (истечение).",
+        "text_en": "From the olfactory organ a thick, yellow, white or thin dosha flows; this should be called Sravana (discharge)."
       },
       {
         "type": "verse",
@@ -86520,7 +86917,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घ्राणाश्रिते श्लेष्मणि मारुतेन पित्तेन गाढं परिशोषिते च कृच्छ्राच्छ्वसित्यूर्ध्वमधश्च जन्तुर्यस्मिन्स नासापरिशोष उक्तः",
         "iast": "ghrāṇāśrite śleṣmaṇi mārutena pittena gāḍhaṃ pariśoṣite ca kṛcchrācchvasityūrdhvamadhaśca janturyasminsa nāsāpariśoṣa uktaḥ",
         "iast_ru": "гхра̄н̣а̄ш́рите ш́леш̣ман̣и ма̄рутена питтена га̄д̣хам̣ париш́ош̣ите ча кр̣ччхра̄ччхваситйӯрдхвамадхаш́ча джантурйасминса на̄са̄париш́ош̣а уктах̣",
-        "text": "Когда капха, обосновавшаяся в обонятельном [органе], сильно высушена ветром и питтой, у существа, которое с трудом дышит вверх и вниз, — эту называют «наса-паришоша» (высыхание носа)."
+        "text": "Когда капха, обосновавшаяся в обонятельном [органе], сильно высушена ветром и питтой, у существа, которое с трудом дышит вверх и вниз, — эту называют «наса-паришоша» (высыхание носа).",
+        "text_en": "When Kapha, lodged in the olfactory organ, is strongly dried by wind and Pitta, in a being who breathes with difficulty up and down, this is called Nasa-parishosha (drying up of the nose)."
       },
       {
         "type": "verse",
@@ -86528,7 +86926,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सन्धारणाजीर्णरसोऽतिभाष्यक्रोधर्त्तुवैषम्यशिरोऽभितापैः सञ्जागरातिस्वपनाम्बुशीतावश्यायकैर्मैथुनवाष्पसेकैः संस्त्यानदोषे शिरसि प्रवृद्धो वायुः प्रतिश्यायमुदीरयेत्तु",
         "iast": "sandhāraṇājīrṇaraso'tibhāṣyakrodharttuvaiṣamyaśiro'bhitāpaiḥ sañjāgarātisvapanāmbuśītāvaśyāyakairmaithunavāṣpasekaiḥ saṃstyānadoṣe śirasi pravṛddho vāyuḥ pratiśyāyamudīrayettu",
         "iast_ru": "сандха̄ран̣а̄джӣрн̣арасо'тибха̄ш̣йакродхарттуваиш̣амйаш́иро'бхита̄паих̣ сан̃джа̄гара̄тисвапана̄мбуш́ӣта̄ваш́йа̄йакаирмаитхунава̄ш̣пасекаих̣ сам̣стйа̄надош̣е ш́ираси правр̣ддхо ва̄йух̣ пратиш́йа̄йамудӣрайетту",
-        "text": "От подавления позывов, несварения, чрезмерного разговора, гнева, неправильного [хода] сезонов, жара головы, от чрезмерного бодрствования и сна, от холодной воды, утренней росы, половых сношений, а также орошений паром — доша, скопившаяся в голове, ветер, усилившись, порождает «пратишьяю» (простуду)."
+        "text": "От подавления позывов, несварения, чрезмерного разговора, гнева, неправильного [хода] сезонов, жара головы, от чрезмерного бодрствования и сна, от холодной воды, утренней росы, половых сношений, а также орошений паром — доша, скопившаяся в голове, ветер, усилившись, порождает «пратишьяю» (простуду).",
+        "text_en": "From suppression of urges, indigestion, excessive talking, anger, improper (course) of seasons, heat of the head, from excessive wakefulness and sleep, from cold water, morning dew, sexual intercourse, and also steam irrigation: the dosha accumulated in the head, the wind, having increased, produces Pratishyaya (cold)."
       },
       {
         "type": "verse",
@@ -86536,7 +86935,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चयं गता मूर्द्धनि मारुतादयः पृथक्समस्ताश्च तथैव शोणितम् प्रकुप्यमाणा विविधैः प्रकोपणैस्ततः प्रतिश्यायकरा भवन्ति हि",
         "iast": "cayaṃ gatā mūrddhani mārutādayaḥ pṛthaksamastāśca tathaiva śoṇitam prakupyamāṇā vividhaiḥ prakopaṇaistataḥ pratiśyāyakarā bhavanti hi",
         "iast_ru": "чайам̣ гата̄ мӯрддхани ма̄рута̄дайах̣ пр̣тхаксамаста̄ш́ча татхаива ш́он̣итам пракупйама̄н̣а̄ вивидхаих̣ пракопан̣аистатах̣ пратиш́йа̄йакара̄ бхаванти хи",
-        "text": "Ветер и другие [доши], собравшись в голове, отдельно и все вместе, а также кровь, будучи возмущены различными возбуждающими [факторами], становятся причиной «пратишьяи»."
+        "text": "Ветер и другие [доши], собравшись в голове, отдельно и все вместе, а также кровь, будучи возмущены различными возбуждающими [факторами], становятся причиной «пратишьяи».",
+        "text_en": "Wind and the other (doshas), gathered in the head, separately and all together, and also blood, being agitated by various exciting (factors), become the cause of Pratishyaya."
       },
       {
         "type": "verse",
@@ -86544,7 +86944,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षवप्रवृत्तिः शिरसोऽभिपूर्णता स्तम्भोऽङ्गमर्दः परिहृष्टरोमता उपद्र वाश्चाप्यपरे पृथग्विधा नृणां प्रतिश्यायपुरःसराः स्मृताः",
         "iast": "kṣavapravṛttiḥ śiraso'bhipūrṇatā stambho'ṅgamardaḥ parihṛṣṭaromatā upadra vāścāpyapare pṛthagvidhā nṛṇāṃ pratiśyāyapuraḥsarāḥ smṛtāḥ",
         "iast_ru": "кш̣аваправр̣ттих̣ ш́ирасо'бхипӯрн̣ата̄ стамбхо'н̇гамардах̣ парихр̣ш̣т̣аромата̄ упадра ва̄ш́ча̄пйапаре пр̣тхагвидха̄ нр̣н̣а̄м̣ пратиш́йа̄йапурах̣сара̄х̣ смр̣та̄х̣",
-        "text": "Наступление чихания, полнота головы, оцепенение, разламывание тела, гусиная кожа — и другие различные осложнения предшествуют «пратишьяе» у людей."
+        "text": "Наступление чихания, полнота головы, оцепенение, разламывание тела, гусиная кожа — и другие различные осложнения предшествуют «пратишьяе» у людей.",
+        "text_en": "Onset of sneezing, fullness of the head, numbness, breaking pains in the body, horripilation, and other various complications precede Pratishyaya in people."
       },
       {
         "type": "verse",
@@ -86552,7 +86953,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आनद्धाऽपिहिता नासा तनुस्रावप्रसेकिनी गलताल्वोष्टशोषश्च निस्तोदः शंङ्खयोस्तथा क्षवप्रवृत्तिरत्यर्थं वक्त्रवैरस्यमेव च भवेत्स्वरोपघातश्च प्रतिश्यायेऽनिलात्मके",
         "iast": "ānaddhā'pihitā nāsā tanusrāvaprasekinī galatālvoṣṭaśoṣaśca nistodaḥ śaṃṅkhayostathā kṣavapravṛttiratyarthaṃ vaktravairasyameva ca bhavetsvaropaghātaśca pratiśyāye'nilātmake",
         "iast_ru": "а̄наддха̄'пихита̄ на̄са̄ танусра̄вапрасекинӣ галата̄лвош̣т̣аш́ош̣аш́ча нистодах̣ ш́ам̣н̇кхайостатха̄ кш̣аваправр̣ттиратйартхам̣ вактраваирасйамева ча бхаветсваропагха̄таш́ча пратиш́йа̄йе'нила̄тмаке",
-        "text": "Закрытый, заложенный нос, обильно истекающий тонким [истечением], сухость горла, нёба и губ, покалывание в висках, а также чрезмерное наступление чихания и невкусица во рту — бывает при «пратишьяе» ватхового характера, а также повреждение голоса."
+        "text": "Закрытый, заложенный нос, обильно истекающий тонким [истечением], сухость горла, нёба и губ, покалывание в висках, а также чрезмерное наступление чихания и невкусица во рту — бывает при «пратишьяе» ватхового характера, а также повреждение голоса.",
+        "text_en": "A closed, blocked nose, abundantly discharging thin (discharge), dryness of the throat, palate and lips, pricking in the temples, and also excessive onset of sneezing and tastelessness of the mouth occur in Pratishyaya of Vata character, and also damage to the voice."
       },
       {
         "type": "verse",
@@ -86560,7 +86962,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उष्णः सपीतकः स्रावो घ्राणात्स्रवति पैत्तिके कृशोऽतिपाण्डुः सन्तप्तो भवेदुष्णाभिपीडितः",
         "iast": "uṣṇaḥ sapītakaḥ srāvo ghrāṇātsravati paittike kṛśo'tipāṇḍuḥ santapto bhaveduṣṇābhipīḍitaḥ",
         "iast_ru": "уш̣н̣ах̣ сапӣтаках̣ сра̄во гхра̄н̣а̄тсравати паиттике кр̣ш́о'типа̄н̣д̣ух̣ сантапто бхаведуш̣н̣а̄бхипӣд̣итах̣",
-        "text": "Горячее, желтоватое истечение из обоняния — при питтовой [форме]; [больной] истощён, весьма бледен, разогрет, угнетён жаром."
+        "text": "Горячее, желтоватое истечение из обоняния — при питтовой [форме]; [больной] истощён, весьма бледен, разогрет, угнетён жаром.",
+        "text_en": "A hot, yellowish discharge from the nose in the Pitta (form); (the patient) is emaciated, very pale, heated, oppressed by heat."
       },
       {
         "type": "verse",
@@ -86568,7 +86971,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घ्राणात्कफकृते श्वेतः कफः शीतः स्रवेद् बहुः",
         "iast": "ghrāṇātkaphakṛte śvetaḥ kaphaḥ śītaḥ sraved bahuḥ",
         "iast_ru": "гхра̄н̣а̄ткапхакр̣те ш́ветах̣ капхах̣ ш́ӣтах̣ сравед бахух̣",
-        "text": "При капховой [форме] из обоняния истекает белая, холодная, обильная капха."
+        "text": "При капховой [форме] из обоняния истекает белая, холодная, обильная капха.",
+        "text_en": "In the Kapha (form) white, cold, copious Kapha flows from the nose."
       },
       {
         "type": "verse",
@@ -86576,7 +86980,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुक्लावभासः शूनाक्षो भवेद् गुरुशिरा नरः गलताल्वोष्ठशिरसां कण्डूभिरतिपीडितः",
         "iast": "śuklāvabhāsaḥ śūnākṣo bhaved guruśirā naraḥ galatālvoṣṭhaśirasāṃ kaṇḍūbhiratipīḍitaḥ",
         "iast_ru": "ш́укла̄вабха̄сах̣ ш́ӯна̄кш̣о бхавед гуруш́ира̄ нарах̣ галата̄лвош̣т̣хаш́ираса̄м̣ кан̣д̣ӯбхиратипӣд̣итах̣",
-        "text": "[Больной] с белым оттенком, с отёкшими глазами, с тяжёлой головой, весьма угнетён зудом горла, нёба, губ и головы."
+        "text": "[Больной] с белым оттенком, с отёкшими глазами, с тяжёлой головой, весьма угнетён зудом горла, нёба, губ и головы.",
+        "text_en": "(The patient) with a white complexion, with swollen eyes, with a heavy head, very much oppressed by itching of the throat, palate, lips and head."
       },
       {
         "type": "verse",
@@ -86584,7 +86989,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भूत्वा भूत्वा प्रतिश्यायो योऽकस्मात्सन्निवर्त्तते सम्पक्वो वाऽप्यपक्वो वा स च सर्वभवः स्मृतः",
         "iast": "bhūtvā bhūtvā pratiśyāyo yo'kasmātsannivarttate sampakvo vā'pyapakvo vā sa ca sarvabhavaḥ smṛtaḥ",
         "iast_ru": "бхӯтва̄ бхӯтва̄ пратиш́йа̄йо йо'касма̄тсанниварттате сампакво ва̄'пйапакво ва̄ са ча сарвабхавах̣ смр̣тах̣",
-        "text": "«Пратишьяя», которая, возникая снова и снова, внезапно прекращается, созревшая или несозревшая, — эта следует знать как «сарва-бхава» (возникшая от всех [дош])."
+        "text": "«Пратишьяя», которая, возникая снова и снова, внезапно прекращается, созревшая или несозревшая, — эта следует знать как «сарва-бхава» (возникшая от всех [дош]).",
+        "text_en": "Pratishyaya which, arising again and again, suddenly ceases, ripened or unripened: this should be known as Sarva-bhava (arising from all (doshas))."
       },
       {
         "type": "verse",
@@ -86592,7 +86998,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रक्लिद्यते मुहुर्नासा पुनश्च परिशुष्यति पुनरानह्यते वाऽपि पुनर्विव्रियते तथा",
         "iast": "praklidyate muhurnāsā punaśca pariśuṣyati punarānahyate vā'pi punarvivriyate tathā",
         "iast_ru": "праклидйате мухурна̄са̄ пунаш́ча париш́уш̣йати пунара̄нахйате ва̄'пи пунарвиврийате татха̄",
-        "text": "Нос многократно становится влажным и снова высыхает, снова закупоривается, а затем снова открывается."
+        "text": "Нос многократно становится влажным и снова высыхает, снова закупоривается, а затем снова открывается.",
+        "text_en": "The nose repeatedly becomes moist and again dries up, is again blocked, and then again opens."
       },
       {
         "type": "verse",
@@ -86600,7 +87007,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निश्वासो वाऽपि दुर्गन्धो नरो गन्धान्न वेत्ति च एवं दुष्टं प्रतिश्यायं जानीयात्कृच्छ्रसाधनम्",
         "iast": "niśvāso vā'pi durgandho naro gandhānna vetti ca evaṃ duṣṭaṃ pratiśyāyaṃ jānīyātkṛcchrasādhanam",
         "iast_ru": "ниш́ва̄со ва̄'пи дургандхо наро гандха̄нна ветти ча евам̣ душ̣т̣ам̣ пратиш́йа̄йам̣ джа̄нӣйа̄ткр̣ччхраса̄дханам",
-        "text": "Дыхание зловонное, человек не ощущает запахов — такую испорченную «пратишьяю» следует знать как труднолечимую."
+        "text": "Дыхание зловонное, человек не ощущает запахов — такую испорченную «пратишьяю» следует знать как труднолечимую.",
+        "text_en": "The breath is foul-smelling, the person does not perceive smells: such a spoiled Pratishyaya should be known as difficult to cure."
       },
       {
         "type": "verse",
@@ -86608,7 +87016,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तजे तु प्रतिश्याये रक्तस्रावः प्रवर्त्तते पित्तप्रतिश्यायकृतैर्लिङ्गैश्चापि समन्वितः",
         "iast": "raktaje tu pratiśyāye raktasrāvaḥ pravarttate pittapratiśyāyakṛtairliṅgaiścāpi samanvitaḥ",
         "iast_ru": "рактадже ту пратиш́йа̄йе рактасра̄вах̣ праварттате питтапратиш́йа̄йакр̣таирлин̇гаиш́ча̄пи саманвитах̣",
-        "text": "При кровяной «пратишьяе» происходит кровяное истечение, соединённое также с признаками, характерными для питтовой «пратишьяи»."
+        "text": "При кровяной «пратишьяе» происходит кровяное истечение, соединённое также с признаками, характерными для питтовой «пратишьяи».",
+        "text_en": "In bloody Pratishyaya there is a bloody discharge, combined also with signs characteristic of Pitta Pratishyaya."
       },
       {
         "type": "verse",
@@ -86616,7 +87025,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ताम्राक्षश्च भवेज्जन्तुरुरोघातप्रपीडितः दुर्गन्धोच्छ्वासवक्त्रश्च गन्धानपि न वेत्ति सः",
         "iast": "tāmrākṣaśca bhavejjantururoghātaprapīḍitaḥ durgandhocchvāsavaktraśca gandhānapi na vetti saḥ",
         "iast_ru": "та̄мра̄кш̣аш́ча бхаведжджантурурогха̄тапрапӣд̣итах̣ дургандхоччхва̄савактраш́ча гандха̄напи на ветти сах̣",
-        "text": "[Больной] с медными глазами, угнетённый болью в груди, с зловонным дыханием и ртом, не ощущает запахов."
+        "text": "[Больной] с медными глазами, угнетённый болью в груди, с зловонным дыханием и ртом, не ощущает запахов.",
+        "text_en": "(The patient) with coppery eyes, oppressed by pain in the chest, with foul-smelling breath and mouth, does not perceive smells."
       },
       {
         "type": "verse",
@@ -86624,7 +87034,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्व एव प्रतिश्याया नरस्याप्रतिकारिणः दुष्टतां यान्ति कालेन तदाऽसाध्या भवन्ति च",
         "iast": "sarva eva pratiśyāyā narasyāpratikāriṇaḥ duṣṭatāṃ yānti kālena tadā'sādhyā bhavanti ca",
         "iast_ru": "сарва ева пратиш́йа̄йа̄ нарасйа̄пратика̄рин̣ах̣ душ̣т̣ата̄м̣ йа̄нти ка̄лена тада̄'са̄дхйа̄ бхаванти ча",
-        "text": "Все «пратишьяи» у человека, не получающего противодействия, со временем приходят к испорченности, и тогда становятся неизлечимыми."
+        "text": "Все «пратишьяи» у человека, не получающего противодействия, со временем приходят к испорченности, и тогда становятся неизлечимыми.",
+        "text_en": "All Pratishyayas in a person who does not receive counteraction in time come to corruption, and then become incurable."
       },
       {
         "type": "verse",
@@ -86632,7 +87043,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूर्च्छन्ति कृमयश्चात्र श्वेताः स्निग्धास्तथाऽणवः कृमिजन्यशिरोरोगैस्तुल्यं तेनात्र लक्षणम्",
         "iast": "mūrcchanti kṛmayaścātra śvetāḥ snigdhāstathā'ṇavaḥ kṛmijanyaśirorogaistulyaṃ tenātra lakṣaṇam",
         "iast_ru": "мӯрччханти кр̣майаш́ча̄тра ш́вета̄х̣ снигдха̄статха̄'н̣авах̣ кр̣миджанйаш́иророгаистулйам̣ тена̄тра лакш̣ан̣ам",
-        "text": "Здесь помрачаются паразиты, белые, маслянистые, мелкие; признак этого подобен головным болезням, вызванным паразитами."
+        "text": "Здесь помрачаются паразиты, белые, маслянистые, мелкие; признак этого подобен головным болезням, вызванным паразитами.",
+        "text_en": "Here parasites become disturbed, white, unctuous, small; the sign of this is similar to the head diseases caused by parasites."
       },
       {
         "type": "verse",
@@ -86640,7 +87052,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बाधिर्यमान्ध्यमघ्रत्वं घोरांश्च नयनामयान् शोषाग्निमान्द्यकासांश्च वृद्धाः कुर्वन्ति पीनसाः",
         "iast": "bādhiryamāndhyamaghratvaṃ ghorāṃśca nayanāmayān śoṣāgnimāndyakāsāṃśca vṛddhāḥ kurvanti pīnasāḥ",
         "iast_ru": "ба̄дхирйама̄ндхйамагхратвам̣ гхора̄м̣ш́ча найана̄майа̄н ш́ош̣а̄гнима̄ндйака̄са̄м̣ш́ча вр̣ддха̄х̣ курванти пӣнаса̄х̣",
-        "text": "Глухоту, слепоту, потерю обоняния, ужасные болезни глаз, истощение, слабость пищеварительного огня и кашель вызывают давние насморки."
+        "text": "Глухоту, слепоту, потерю обоняния, ужасные болезни глаз, истощение, слабость пищеварительного огня и кашель вызывают давние насморки.",
+        "text_en": "Deafness, blindness, loss of smell, terrible eye diseases, emaciation, weakness of the digestive fire and cough are caused by long-standing colds."
       },
       {
         "type": "verse",
@@ -86648,7 +87061,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अर्बुदं सप्तधा शोथाश्चत्वारोऽशश्चतुर्विधम् चतुर्विधं रक्तपित्तमुक्तं घ्राणेऽपि तद्विदुः",
         "iast": "arbudaṃ saptadhā śothāścatvāro'śaścaturvidham caturvidhaṃ raktapittamuktaṃ ghrāṇe'pi tadviduḥ",
         "iast_ru": "арбудам̣ саптадха̄ ш́отха̄ш́чатва̄ро'ш́аш́чатурвидхам чатурвидхам̣ рактапиттамуктам̣ гхра̄н̣е'пи тадвидух̣",
-        "text": "Опухоль семи видов, отёки четырёх видов, геморрой четырёх видов, а также расстройство крови и питты четырёх видов — следует знать также в обонятельном [органе]."
+        "text": "Опухоль семи видов, отёки четырёх видов, геморрой четырёх видов, а также расстройство крови и питты четырёх видов — следует знать также в обонятельном [органе].",
+        "text_en": "Tumor of seven kinds, swellings of four kinds, hemorrhoids of four kinds, and also disorder of blood and Pitta of four kinds should be known also in the olfactory organ."
       },
       {
         "type": "verse",
@@ -86656,7 +87070,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरोगुरुत्वमरुचिर्नासास्रावस्तनुः स्वरः क्षामःष्ठीवति चाभीक्ष्णमामपीनसलक्षणम्",
         "iast": "śirogurutvamarucirnāsāsrāvastanuḥ svaraḥ kṣāmaḥṣṭhīvati cābhīkṣṇamāmapīnasalakṣaṇam",
         "iast_ru": "ш́ирогурутвамаручирна̄са̄сра̄вастанух̣ сварах̣ кш̣а̄мах̣ш̣т̣хӣвати ча̄бхӣкш̣н̣ама̄мапӣнасалакш̣ан̣ам",
-        "text": "Тяжесть головы, отсутствие аппетита, тонкое истечение из носа, слабый голос, истощение, постоянное отхаркивание — признаки «незрелого» (áма) насморка."
+        "text": "Тяжесть головы, отсутствие аппетита, тонкое истечение из носа, слабый голос, истощение, постоянное отхаркивание — признаки «незрелого» (áма) насморка.",
+        "text_en": "Heaviness of the head, lack of appetite, thin discharge from the nose, weak voice, emaciation, constant expectoration: signs of an \"unripe\" (Ama) cold."
       },
       {
         "type": "verse",
@@ -86664,7 +87079,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आमालिङ्गान्वितः श्लेष्मा घनः खेषु निमज्जति स्वरवर्णविशुद्धिश्च पक्वपीनसलक्षणम्",
         "iast": "āmāliṅgānvitaḥ śleṣmā ghanaḥ kheṣu nimajjati svaravarṇaviśuddhiśca pakvapīnasalakṣaṇam",
         "iast_ru": "а̄ма̄лин̇га̄нвитах̣ ш́леш̣ма̄ гханах̣ кхеш̣у нимаджджати свараварн̣авиш́уддхиш́ча паквапӣнасалакш̣ан̣ам",
-        "text": "Плотная капха с признаками незрелости погружается в воде; чистота голоса и цвета — признак «зрелого» насморка."
+        "text": "Плотная капха с признаками незрелости погружается в воде; чистота голоса и цвета — признак «зрелого» насморка.",
+        "text_en": "Dense Kapha with signs of unripeness sinks in water; clarity of voice and color is a sign of a \"ripe\" cold."
       },
       {
         "type": "verse",
@@ -86672,7 +87088,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्वेषु सर्वकालं पीनसरोगेषु जातमात्रेषु मरिचं गुडेन दध्ना भुञ्जीत नरः सुखं लभते",
         "iast": "sarveṣu sarvakālaṃ pīnasarogeṣu jātamātreṣu maricaṃ guḍena dadhnā bhuñjīta naraḥ sukhaṃ labhate",
         "iast_ru": "сарвеш̣у сарвака̄лам̣ пӣнасарогеш̣у джа̄тама̄треш̣у маричам̣ гуд̣ена дадхна̄ бхун̃джӣта нарах̣ сукхам̣ лабхате",
-        "text": "При всех болезнях насморка, во всякое время, сразу же по возникновении, человеку следует есть чёрный перец с патокой и кислым молоком — обретает облегчение."
+        "text": "При всех болезнях насморка, во всякое время, сразу же по возникновении, человеку следует есть чёрный перец с патокой и кислым молоком — обретает облегчение.",
+        "text_en": "In all diseases of cold, at any time, immediately upon onset, a person should eat black pepper with molasses and sour milk; he obtains relief."
       },
       {
         "type": "verse",
@@ -86680,7 +87097,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कट्फलं पौष्करं शृङ्गी व्योषं यासश्च कारवी एषांचूर्णं कषायं वा दद्यादार्द्र कजैः रसैः",
         "iast": "kaṭphalaṃ pauṣkaraṃ śṛṅgī vyoṣaṃ yāsaśca kāravī eṣāṃcūrṇaṃ kaṣāyaṃ vā dadyādārdra kajaiḥ rasaiḥ",
         "iast_ru": "кат̣пхалам̣ пауш̣карам̣ ш́р̣н̇гӣ вйош̣ам̣ йа̄саш́ча ка̄равӣ еш̣а̄м̣чӯрн̣ам̣ каш̣а̄йам̣ ва̄ дадйа̄да̄рдра каджаих̣ расаих̣",
-        "text": "Катпхала, пушкара, шрингхи, вьоша, яса и каравья — порошок или отвар этих следует давать с соком свежего имбиря."
+        "text": "Катпхала, пушкара, шрингхи, вьоша, яса и каравья — порошок или отвар этих следует давать с соком свежего имбиря.",
+        "text_en": "Katphala, Pushkara, Shringi, Vyosha, Yasa and Karavya: a powder or decoction of these should be given with the juice of fresh ginger."
       },
       {
         "type": "verse",
@@ -86688,7 +87106,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पीनसे स्वरभेदे च तमके च हलीमके सन्निपाते कफे कासे ज्वरे श्वासे च शस्यते",
         "iast": "pīnase svarabhede ca tamake ca halīmake sannipāte kaphe kāse jvare śvāse ca śasyate",
         "iast_ru": "пӣнасе сварабхеде ча тамаке ча халӣмаке саннипа̄те капхе ка̄се джваре ш́ва̄се ча ш́асйате",
-        "text": "Рекомендуется при насморке, изменении голоса, «тамаке» (астматическом кашле), «халимаке», при [расстройстве] всех трёх дош, при капхе, кашле, лихорадке и одышке."
+        "text": "Рекомендуется при насморке, изменении голоса, «тамаке» (астматическом кашле), «халимаке», при [расстройстве] всех трёх дош, при капхе, кашле, лихорадке и одышке.",
+        "text_en": "It is recommended in cold, change of voice, Tamaka (asthmatic cough), Halimaka, in (disorder) of all three doshas, in Kapha, cough, fever and dyspnea."
       },
       {
         "type": "verse",
@@ -86696,7 +87115,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कलिङ्गहिङ्गुमरिचलाक्षासुरसकट्फलैः कुष्ठोग्राशिग्रुजन्तुघ्नैरवपीडः प्रशस्यते",
         "iast": "kaliṅgahiṅgumaricalākṣāsurasakaṭphalaiḥ kuṣṭhogrāśigrujantughnairavapīḍaḥ praśasyate",
         "iast_ru": "калин̇гахин̇гумаричала̄кш̣а̄сурасакат̣пхалаих̣ куш̣т̣хогра̄ш́игруджантугхнаиравапӣд̣ах̣ праш́асйате",
-        "text": "Калинга, асафетида, чёрный перец, лакка, сураса, катпхала, кустха, угра, шигру, устраняющие паразитов — рекомендуется «авапида» (назальное вдыхание) [этими средствами]."
+        "text": "Калинга, асафетида, чёрный перец, лакка, сураса, катпхала, кустха, угра, шигру, устраняющие паразитов — рекомендуется «авапида» (назальное вдыхание) [этими средствами].",
+        "text_en": "Kalinga, asafetida, black pepper, lac, Surasa, Katphala, Kushtha, Ugra, Shigru, which remove parasites: Avapida (nasal inhalation) (with these remedies) is recommended."
       },
       {
         "type": "verse",
@@ -86704,7 +87124,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "व्योषचित्रकतालीसतिन्तिडीकाम्लवेतसम् सचव्याजाजितुल्यांशमेलात्वक्पत्रपादिकम्",
         "iast": "vyoṣacitrakatālīsatintiḍīkāmlavetasam sacavyājājitulyāṃśamelātvakpatrapādikam",
         "iast_ru": "вйош̣ачитраката̄лӣсатинтид̣ӣка̄млаветасам сачавйа̄джа̄джитулйа̄м̣ш́амела̄твакпатрапа̄дикам",
-        "text": "Вьоша, читрака, талиса, тамаринд, кислый ветас, с чавьей, тмином в равной доле, кардамон, кора и лист — по частям,"
+        "text": "Вьоша, читрака, талиса, тамаринд, кислый ветас, с чавьей, тмином в равной доле, кардамон, кора и лист — по частям,",
+        "text_en": "Vyosha, Chitraka, Talisa, tamarind, sour Vetasa, with Chavya, cumin in equal portion, cardamom, bark and leaf, in (equal) parts,"
       },
       {
         "type": "verse",
@@ -86712,7 +87133,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "व्योषादिकमिदं चूर्णं पुराणगुडमिश्रितम् पीनसश्वासकासघ्नं रुचिस्वरकरं परम्",
         "iast": "vyoṣādikamidaṃ cūrṇaṃ purāṇaguḍamiśritam pīnasaśvāsakāsaghnaṃ rucisvarakaraṃ param",
         "iast_ru": "вйош̣а̄дикамидам̣ чӯрн̣ам̣ пура̄н̣агуд̣амиш́ритам пӣнасаш́ва̄сака̄сагхнам̣ ручисваракарам̣ парам",
-        "text": "этот порошок «Вьошади», смешанный со старой патокой, устраняет насморк, одышку и кашель, превосходно улучшает аппетит и голос."
+        "text": "этот порошок «Вьошади», смешанный со старой патокой, устраняет насморк, одышку и кашель, превосходно улучшает аппетит и голос.",
+        "text_en": "this powder \"Vyoshadi\", mixed with old molasses, removes cold, dyspnea and cough, and excellently improves appetite and voice."
       },
       {
         "type": "verse",
@@ -86720,7 +87142,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "व्याघ्रीदन्तीवचाशिग्रुसुरसाव्योषसिन्धुजैः सिद्धं तैलं नासि क्षिप्तं पूतिनासागदापहम्",
         "iast": "vyāghrīdantīvacāśigrusurasāvyoṣasindhujaiḥ siddhaṃ tailaṃ nāsi kṣiptaṃ pūtināsāgadāpaham",
         "iast_ru": "вйа̄гхрӣдантӣвача̄ш́игрусураса̄вйош̣асиндхуджаих̣ сиддхам̣ таилам̣ на̄си кш̣иптам̣ пӯтина̄са̄гада̄пахам",
-        "text": "Вьягри, данти, вача, шигру, сураса, вьоша, соль синдхуджа — масло, сваренное с этими, введённое в нос, устраняет болезнь зловонного носа."
+        "text": "Вьягри, данти, вача, шигру, сураса, вьоша, соль синдхуджа — масло, сваренное с этими, введённое в нос, устраняет болезнь зловонного носа.",
+        "text_en": "Vyaghri, Danti, Vacha, Shigru, Surasa, Vyosha, Saindhava salt: oil cooked with these, introduced into the nose, removes the disease of foul-smelling nose."
       },
       {
         "type": "verse",
@@ -86728,7 +87151,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिग्रुसिंहीनिकुम्भानां बीजैः सव्योषसैन्धवैः बिल्वपत्ररसैः सिद्धं तैलं स्यात्पूतिनस्यनुत्",
         "iast": "śigrusiṃhīnikumbhānāṃ bījaiḥ savyoṣasaindhavaiḥ bilvapatrarasaiḥ siddhaṃ tailaṃ syātpūtinasyanut",
         "iast_ru": "ш́игрусим̣хӣникумбха̄на̄м̣ бӣджаих̣ савйош̣асаиндхаваих̣ билвапатрарасаих̣ сиддхам̣ таилам̣ сйа̄тпӯтинасйанут",
-        "text": "Семена шигру, симхи и никумбхи с вьошей и каменной солью, сок листа билвы — масло, сваренное этим, устраняет «пути-насью»."
+        "text": "Семена шигру, симхи и никумбхи с вьошей и каменной солью, сок листа билвы — масло, сваренное этим, устраняет «пути-насью».",
+        "text_en": "Seeds of Shigru, Simhi and Nikumbha with Vyosha and rock salt, juice of Bilva leaf: oil cooked with this removes Puti-nasya."
       },
       {
         "type": "verse",
@@ -86736,7 +87160,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घृतगुग्गुलुमिश्रस्य सिक्थकस्य प्रयत्नतः धूमं क्षवथुरोगघ्नं भ्रंशथुघ्नञ्च निर्दिशेत्",
         "iast": "ghṛtaguggulumiśrasya sikthakasya prayatnataḥ dhūmaṃ kṣavathurogaghnaṃ bhraṃśathughnañca nirdiśet",
         "iast_ru": "гхр̣тагуггулумиш́расйа сиктхакасйа прайатнатах̣ дхӯмам̣ кш̣аватхурогагхнам̣ бхрам̣ш́атхугхнан̃ча нирдиш́ет",
-        "text": "Дым от воска, смешанного с гхи и гуггулом, старательно [применённый], устраняет болезнь чихания и болезнь «бхрамшатху»."
+        "text": "Дым от воска, смешанного с гхи и гуггулом, старательно [применённый], устраняет болезнь чихания и болезнь «бхрамшатху».",
+        "text_en": "Smoke from wax mixed with ghee and Guggulu, carefully (applied), removes the disease of sneezing and the disease Bhramshathu."
       },
       {
         "type": "verse",
@@ -86744,7 +87169,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शुण्ठीकुष्ठकणाबिल्वद्रा क्षाकल्ककषायवत् तैलं पक्वमथाज्यं वा नस्यात्क्षवथुनाशनम्",
         "iast": "śuṇṭhīkuṣṭhakaṇābilvadrā kṣākalkakaṣāyavat tailaṃ pakvamathājyaṃ vā nasyātkṣavathunāśanam",
         "iast_ru": "ш́ун̣т̣хӣкуш̣т̣хакан̣а̄билвадра̄ кш̣а̄калкакаш̣а̄йават таилам̣ пакваматха̄джйам̣ ва̄ насйа̄ткш̣аватхуна̄ш́анам",
-        "text": "Сушёный имбирь, кустха, пиппали, билва, виноград — паста и отвар из них; масло, сваренное или же гхи, в назальном применении устраняет чихание."
+        "text": "Сушёный имбирь, кустха, пиппали, билва, виноград — паста и отвар из них; масло, сваренное или же гхи, в назальном применении устраняет чихание.",
+        "text_en": "Dried ginger, Kushtha, Pippali, Bilva, grapes: a paste and decoction of these; oil cooked (with them), or ghee, in nasal application removes sneezing."
       },
       {
         "type": "verse",
@@ -86752,7 +87178,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नस्यं हितं निम्बरसाञ्जनाभ्यां दीप्ते शिरः स्वेदनमल्पशस्तु नस्ये कृते क्षीरजलावसेकाञ्छ्वसन्ति भुञ्जीत च मुद्गयूषैः",
         "iast": "nasyaṃ hitaṃ nimbarasāñjanābhyāṃ dīpte śiraḥ svedanamalpaśastu nasye kṛte kṣīrajalāvasekāñchvasanti bhuñjīta ca mudgayūṣaiḥ",
         "iast_ru": "насйам̣ хитам̣ нимбараса̄н̃джана̄бхйа̄м̣ дӣпте ш́ирах̣ сведанамалпаш́асту насйе кр̣те кш̣ӣраджала̄васека̄н̃чхвасанти бхун̃джӣта ча мудгайӯш̣аих̣",
-        "text": "Назальное средство из сока нима и красящего вещества (анджаны) полезно при воспламенении головы; при небольшом прогревании после назального применения следует орошать молоком и водой, дышать [ими], и есть суп из мунга."
+        "text": "Назальное средство из сока нима и красящего вещества (анджаны) полезно при воспламенении головы; при небольшом прогревании после назального применения следует орошать молоком и водой, дышать [ими], и есть суп из мунга.",
+        "text_en": "A nasal medicine of Neem juice and coloring substance (Anjana) is beneficial in inflammation of the head; after slight warming following nasal application, one should irrigate with milk and water, breathe (them in), and eat mung soup."
       },
       {
         "type": "verse",
@@ -86760,7 +87187,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नासास्रावे घ्राणयोश्चूर्णमुक्तं नाड्या देयं येऽवपीडाश्च पथ्याः तीक्ष्णान्धूमान्देवदार्वग्निकाभ्यां मांसं त्वाजं पथ्यमत्रादिशन्ति",
         "iast": "nāsāsrāve ghrāṇayoścūrṇamuktaṃ nāḍyā deyaṃ ye'vapīḍāśca pathyāḥ tīkṣṇāndhūmāndevadārvagnikābhyāṃ māṃsaṃ tvājaṃ pathyamatrādiśanti",
         "iast_ru": "на̄са̄сра̄ве гхра̄н̣айош́чӯрн̣амуктам̣ на̄д̣йа̄ дейам̣ йе'вапӣд̣а̄ш́ча патхйа̄х̣ тӣкш̣н̣а̄ндхӯма̄ндевада̄рвагника̄бхйа̄м̣ ма̄м̣сам̣ тва̄джам̣ патхйаматра̄диш́анти",
-        "text": "При истечении из носа изложен порошок для введения через трубку в оба обонятельные [органа]; полезны острые «авапиды»; острый дым с деодаром и агникой; мясо козы также рекомендуется как полезное здесь."
+        "text": "При истечении из носа изложен порошок для введения через трубку в оба обонятельные [органа]; полезны острые «авапиды»; острый дым с деодаром и агникой; мясо козы также рекомендуется как полезное здесь.",
+        "text_en": "In discharge from the nose, a powder for introduction through a tube into both nostrils is described; pungent Avapidas are beneficial; pungent smoke with Devadaru and Agnika; goat meat is also recommended as beneficial here."
       },
       {
         "type": "verse",
@@ -86768,7 +87196,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रतिश्यायेषु सर्वेषु गृहं वातविवर्जितम् वस्त्रेण गुरुणा तेन शिरसो वेष्टनं हितम्",
         "iast": "pratiśyāyeṣu sarveṣu gṛhaṃ vātavivarjitam vastreṇa guruṇā tena śiraso veṣṭanaṃ hitam",
         "iast_ru": "пратиш́йа̄йеш̣у сарвеш̣у гр̣хам̣ ва̄тавиварджитам вастрен̣а гурун̣а̄ тена ш́ирасо веш̣т̣анам̣ хитам",
-        "text": "При всех видах «пратишьяи» дом, лишённый ветра, обёртывание головы тяжёлой тканью полезно."
+        "text": "При всех видах «пратишьяи» дом, лишённый ветра, обёртывание головы тяжёлой тканью полезно.",
+        "text_en": "In all kinds of Pratishyaya, a house free from wind, and wrapping the head with heavy cloth, is beneficial."
       },
       {
         "type": "verse",
@@ -86776,7 +87205,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विडङ्गं सैन्धवं हिङ्गु गुग्गुलुः समनःशिलः बचैतच्चूर्णमाघ्रातं प्रतिश्यायं विनाशयेत्",
         "iast": "viḍaṅgaṃ saindhavaṃ hiṅgu gugguluḥ samanaḥśilaḥ bacaitaccūrṇamāghrātaṃ pratiśyāyaṃ vināśayet",
         "iast_ru": "вид̣ан̇гам̣ саиндхавам̣ хин̇гу гуггулух̣ саманах̣ш́илах̣ бачаитаччӯрн̣ама̄гхра̄там̣ пратиш́йа̄йам̣ вина̄ш́айет",
-        "text": "Виданга, каменная соль, асафетида, гуггул с манахшилой и вача — этот порошок, вдыхаемый, устраняет «пратишьяю»."
+        "text": "Виданга, каменная соль, асафетида, гуггул с манахшилой и вача — этот порошок, вдыхаемый, устраняет «пратишьяю».",
+        "text_en": "Vidanga, rock salt, asafetida, Guggulu with Manahshila, and Vacha: this powder, inhaled, removes Pratishyaya."
       },
       {
         "type": "verse",
@@ -86784,7 +87214,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घृततैलसमायुक्तं शक्तुधूमं पिबेन्नरः सधूमः त्यात्प्रतिश्यायकासहिक्काहरः परः",
         "iast": "ghṛtatailasamāyuktaṃ śaktudhūmaṃ pibennaraḥ sadhūmaḥ tyātpratiśyāyakāsahikkāharaḥ paraḥ",
         "iast_ru": "гхр̣татаиласама̄йуктам̣ ш́актудхӯмам̣ пибеннарах̣ садхӯмах̣ тйа̄тпратиш́йа̄йака̄сахикка̄харах̣ парах̣",
-        "text": "Человеку следует пить дым толчёного зерна, соединённого с гхи и маслом; с дымом это превосходно устраняет насморк, кашель и икоту."
+        "text": "Человеку следует пить дым толчёного зерна, соединённого с гхи и маслом; с дымом это превосходно устраняет насморк, кашель и икоту.",
+        "text_en": "A person should drink the smoke of pounded grain combined with ghee and oil; with smoke this excellently removes cold, cough and hiccup."
       },
       {
         "type": "verse",
@@ -86792,7 +87223,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रतिश्याये पिबेद्धूमं सर्वगन्धसमायुतम् चातुर्जातकचूर्णं वा घ्रेयं वा कृष्णजीरकम्",
         "iast": "pratiśyāye pibeddhūmaṃ sarvagandhasamāyutam cāturjātakacūrṇaṃ vā ghreyaṃ vā kṛṣṇajīrakam",
         "iast_ru": "пратиш́йа̄йе пибеддхӯмам̣ сарвагандхасама̄йутам ча̄турджа̄такачӯрн̣ам̣ ва̄ гхрейам̣ ва̄ кр̣ш̣н̣аджӣракам",
-        "text": "При «пратишьяе» следует пить дым, соединённый со всеми ароматическими [веществами]; порошок из четырёх ароматических [веществ], либо чёрный тмин следует обонять."
+        "text": "При «пратишьяе» следует пить дым, соединённый со всеми ароматическими [веществами]; порошок из четырёх ароматических [веществ], либо чёрный тмин следует обонять.",
+        "text_en": "In Pratishyaya one should drink smoke combined with all aromatic (substances); a powder of four aromatic (substances), or black cumin, should be smelled."
       },
       {
         "type": "verse",
@@ -86800,7 +87232,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पुटपक्वं जयापत्रं तैलंसैन्धवसंयुतम् प्रतिश्यायेषु सर्वेषु शीलितं परमौषधम्",
         "iast": "puṭapakvaṃ jayāpatraṃ tailaṃsaindhavasaṃyutam pratiśyāyeṣu sarveṣu śīlitaṃ paramauṣadham",
         "iast_ru": "пут̣апаквам̣ джайа̄патрам̣ таилам̣саиндхавасам̣йутам пратиш́йа̄йеш̣у сарвеш̣у ш́ӣлитам̣ парамауш̣адхам",
-        "text": "Лист джаи, приготовленный по методу «путапака», масло, соединённое с каменной солью, — испытанное высшее лекарство при всех видах «пратишьяи»."
+        "text": "Лист джаи, приготовленный по методу «путапака», масло, соединённое с каменной солью, — испытанное высшее лекарство при всех видах «пратишьяи».",
+        "text_en": "Leaf of Jaya, prepared by the Putapaka method, oil combined with rock salt: a proven supreme medicine in all kinds of Pratishyaya."
       },
       {
         "type": "verse",
@@ -86808,7 +87241,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पिप्पल्यः शिग्रुबीजानि विडङ्गमरिचानि च अवपीडः प्रशस्तोऽय प्रतिश्यायनिवारणे",
         "iast": "pippalyaḥ śigrubījāni viḍaṅgamaricāni ca avapīḍaḥ praśasto'ya pratiśyāyanivāraṇe",
         "iast_ru": "пиппалйах̣ ш́игрубӣджа̄ни вид̣ан̇гамарича̄ни ча авапӣд̣ах̣ праш́асто'йа пратиш́йа̄йанива̄ран̣е",
-        "text": "Пиппали, семена шигру, виданга и чёрный перец — эта «авапида» рекомендуется для предотвращения «пратишьяи»."
+        "text": "Пиппали, семена шигру, виданга и чёрный перец — эта «авапида» рекомендуется для предотвращения «пратишьяи».",
+        "text_en": "Pippali, Shigru seeds, Vidanga and black pepper: this Avapida is recommended for preventing Pratishyaya."
       },
       {
         "type": "verse",
@@ -86816,7 +87250,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरसोऽभ्यञ्जनैः स्वेदैर्नस्यैर्मन्दोष्णभोजनैः वमनैर्घृतपानैश्च तान्यथास्वमुपाचरेत्",
         "iast": "śiraso'bhyañjanaiḥ svedairnasyairmandoṣṇabhojanaiḥ vamanairghṛtapānaiśca tānyathāsvamupācaret",
         "iast_ru": "ш́ирасо'бхйан̃джанаих̣ сведаирнасйаирмандош̣н̣абходжанаих̣ ваманаиргхр̣тапа̄наиш́ча та̄нйатха̄свамупа̄чарет",
-        "text": "Растиранием головы маслом, прогреванием, назальными средствами, умеренно тёплой пищей, рвотными и питьём гхи следует лечить их соответственно."
+        "text": "Растиранием головы маслом, прогреванием, назальными средствами, умеренно тёплой пищей, рвотными и питьём гхи следует лечить их соответственно.",
+        "text_en": "By rubbing the head with oil, by fomentation, nasal medicines, moderately warm food, emetics and drinking ghee, they should be treated accordingly."
       },
       {
         "type": "verse",
@@ -86824,7 +87259,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृमिघ्ना ये क्रमाः प्रोक्तास्तान्वै कृमिषु योजयेत् नावनानि कृमिघ्नानि भेषजानि च बुद्धिमान्",
         "iast": "kṛmighnā ye kramāḥ proktāstānvai kṛmiṣu yojayet nāvanāni kṛmighnāni bheṣajāni ca buddhimān",
         "iast_ru": "кр̣мигхна̄ йе крама̄х̣ прокта̄ста̄нваи кр̣миш̣у йоджайет на̄вана̄ни кр̣мигхна̄ни бхеш̣аджа̄ни ча буддхима̄н",
-        "text": "Методы, устраняющие паразитов, следует применять при паразитах; мудрому следует применять назальные средства и лекарства, устраняющие паразитов."
+        "text": "Методы, устраняющие паразитов, следует применять при паразитах; мудрому следует применять назальные средства и лекарства, устраняющие паразитов.",
+        "text_en": "Methods that remove parasites should be applied in parasitic conditions; the wise one should apply nasal medicines and medicines that remove parasites."
       },
       {
         "type": "verse",
@@ -86832,7 +87268,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तपित्तानि शोथांश्च तथाऽशास्यर्बुदानि च नासिकायां स्युरेतेषां स्वं स्वं कुर्याच्चिकित्सितम्",
         "iast": "raktapittāni śothāṃśca tathā'śāsyarbudāni ca nāsikāyāṃ syureteṣāṃ svaṃ svaṃ kuryāccikitsitam",
         "iast_ru": "рактапитта̄ни ш́отха̄м̣ш́ча татха̄'ш́а̄сйарбуда̄ни ча на̄сика̄йа̄м̣ сйуретеш̣а̄м̣ свам̣ свам̣ курйа̄ччикитситам",
-        "text": "Расстройства крови и питты, отёки, а также геморрой и опухоли в носу — следует применять соответствующее лечение каждого из них."
+        "text": "Расстройства крови и питты, отёки, а также геморрой и опухоли в носу — следует применять соответствующее лечение каждого из них.",
+        "text_en": "Disorders of blood and Pitta, swellings, and also hemorrhoids and tumors in the nose: the corresponding treatment of each of them should be applied."
       },
       {
         "type": "verse",
@@ -86840,7 +87277,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गृहधूमकणा दारुक्षारनक्ताह्वसैन्धवैः सिद्धं शिखरिबीजैश्च तैलं नासाऽशसां हितम्",
         "iast": "gṛhadhūmakaṇā dārukṣāranaktāhvasaindhavaiḥ siddhaṃ śikharibījaiśca tailaṃ nāsā'śasāṃ hitam",
         "iast_ru": "гр̣хадхӯмакан̣а̄ да̄рукш̣а̄ранакта̄хвасаиндхаваих̣ сиддхам̣ ш́икхарибӣджаиш́ча таилам̣ на̄са̄'ш́аса̄м̣ хитам",
-        "text": "Домашняя копоть, пиппали, щёлочь дару, накта, каменная соль, сваренные с семенами шикхари, — масло, полезное при геморрое носа."
+        "text": "Домашняя копоть, пиппали, щёлочь дару, накта, каменная соль, сваренные с семенами шикхари, — масло, полезное при геморрое носа.",
+        "text_en": "House soot, Pippali, Daru alkali, Nakta, rock salt, cooked with Shikhari seeds: an oil beneficial in hemorrhoids of the nose."
       },
       {
         "type": "verse",
@@ -86848,7 +87286,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति पञ्चषष्टितमो नासारोगाधिकारः समाप्तः ६५",
         "iast": "iti pañcaṣaṣṭitamo nāsārogādhikāraḥ samāptaḥ 65",
         "iast_ru": "ити пан̃чаш̣аш̣т̣итамо на̄са̄рога̄дхика̄рах̣ сама̄птах̣ ",
-        "text": "Так завершается шестьдесят пятая глава, посвящённая болезням носа."
+        "text": "Так завершается шестьдесят пятая глава, посвящённая болезням носа.",
+        "text_en": "Thus ends the sixty-fifth chapter, on diseases of the nose."
       }
     ]
   },
@@ -86866,7 +87305,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ओष्ठौ च दन्तमूलानि दन्ता जिह्वा च तालु च गलो मुखादि सकलं सप्ताङ्गं मुखमुच्यते",
         "iast": "oṣṭhau ca dantamūlāni dantā jihvā ca tālu ca galo mukhādi sakalaṃ saptāṅgaṃ mukhamucyate",
         "iast_ru": "ош̣т̣хау ча дантамӯла̄ни данта̄ джихва̄ ча та̄лу ча гало мукха̄ди сакалам̣ сапта̄н̇гам̣ мукхамучйате",
-        "text": "Оба края губ, основания зубов, зубы, язык и нёбо, горло — рот со всем этим, из семи частей, называется «мукха» (лицо/рот)."
+        "text": "Оба края губ, основания зубов, зубы, язык и нёбо, горло — рот со всем этим, из семи частей, называется «мукха» (лицо/рот).",
+        "text_en": "Both edges of the lips, the roots of the teeth, the teeth, the tongue and the palate, the throat: the mouth with all this, of seven parts, is called Mukha (face/mouth)."
       },
       {
         "type": "verse",
@@ -86874,7 +87314,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्युरष्टावोष्ठयोर्दन्तमूले तु दश षट् तथा दन्तेष्वष्टौ च जिह्वायां पञ्च स्युर्नव तालुनि",
         "iast": "syuraṣṭāvoṣṭhayordantamūle tu daśa ṣaṭ tathā danteṣvaṣṭau ca jihvāyāṃ pañca syurnava tāluni",
         "iast_ru": "сйураш̣т̣а̄вош̣т̣хайордантамӯле ту даш́а ш̣ат̣ татха̄ дантеш̣ваш̣т̣ау ча джихва̄йа̄м̣ пан̃ча сйурнава та̄луни",
-        "text": "На губах — восемь [болезней], в основании зубов — шестнадцать, в зубах — восемь, на языке — пять, на нёбе — девять,"
+        "text": "На губах — восемь [болезней], в основании зубов — шестнадцать, в зубах — восемь, на языке — пять, на нёбе — девять,",
+        "text_en": "On the lips eight (diseases), at the root of the teeth sixteen, in the teeth eight, on the tongue five, on the palate nine,"
       },
       {
         "type": "verse",
@@ -86882,7 +87323,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कण्ठे त्वष्टादश प्रोक्तास्त्रयः सर्वेषु च स्मृताः एवं मुखामयाः सर्वे सप्तषष्टिर्मता बुधैः",
         "iast": "kaṇṭhe tvaṣṭādaśa proktāstrayaḥ sarveṣu ca smṛtāḥ evaṃ mukhāmayāḥ sarve saptaṣaṣṭirmatā budhaiḥ",
         "iast_ru": "кан̣т̣хе тваш̣т̣а̄даш́а прокта̄страйах̣ сарвеш̣у ча смр̣та̄х̣ евам̣ мукха̄майа̄х̣ сарве сапташ̣аш̣т̣ирмата̄ будхаих̣",
-        "text": "в горле провозглашено восемнадцать, а три [болезни] считаются общими для всех — таким образом всего мудрецами провозглашено шестьдесят семь болезней рта."
+        "text": "в горле провозглашено восемнадцать, а три [болезни] считаются общими для всех — таким образом всего мудрецами провозглашено шестьдесят семь болезней рта.",
+        "text_en": "in the throat eighteen are declared, and three (diseases) are considered common to all; thus in all sixty-seven diseases of the mouth are declared by the sages."
       },
       {
         "type": "verse",
@@ -86890,7 +87332,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आनूपपिशितक्षार दधिमाषादिसेवनात् मुखमध्ये गदान्कुर्युः क्रुद्धा दोषाः कफोत्तराः",
         "iast": "ānūpapiśitakṣāra dadhimāṣādisevanāt mukhamadhye gadānkuryuḥ kruddhā doṣāḥ kaphottarāḥ",
         "iast_ru": "а̄нӯпапиш́итакш̣а̄ра дадхима̄ш̣а̄дисевана̄т мукхамадхйе гада̄нкурйух̣ круддха̄ дош̣а̄х̣ капхоттара̄х̣",
-        "text": "От пристрастия к мясу болотных [животных], щёлочи, кислого молока, урада и подобного, доши, преимущественно капховые, возмутившись, вызывают болезни во рту."
+        "text": "От пристрастия к мясу болотных [животных], щёлочи, кислого молока, урада и подобного, доши, преимущественно капховые, возмутившись, вызывают болезни во рту.",
+        "text_en": "From a liking for the meat of marshy (animals), alkali, sour milk, Masha and the like, the doshas, chiefly Kapha, becoming aggravated, cause diseases in the mouth."
       },
       {
         "type": "verse",
@@ -86898,7 +87341,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पृथग्दोषैः समस्तैश्च रक्तजो मांसजस्तथा मेदोजश्चाभिघातोत्थ एवमष्टौष्ठजा गदाः",
         "iast": "pṛthagdoṣaiḥ samastaiśca raktajo māṃsajastathā medojaścābhighātottha evamaṣṭauṣṭhajā gadāḥ",
         "iast_ru": "пр̣тхагдош̣аих̣ самастаиш́ча рактаджо ма̄м̣саджастатха̄ медоджаш́ча̄бхигха̄тоттха евамаш̣т̣ауш̣т̣хаджа̄ гада̄х̣",
-        "text": "От отдельных дош и от всех вместе, кровяная и мясная, а также жировая, и возникшая от ранения — таким образом восемь болезней губ."
+        "text": "От отдельных дош и от всех вместе, кровяная и мясная, а также жировая, и возникшая от ранения — таким образом восемь болезней губ.",
+        "text_en": "From the separate doshas and from all together, the blood-type and flesh-type, and also the fat-type, and that arising from wounding: thus eight diseases of the lips."
       },
       {
         "type": "verse",
@@ -86906,7 +87350,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कर्कशौ परुषौ स्तब्धौ संप्राप्तानिलवेदनौ दाल्येते परिपाट्येते ओष्ठौ मारुतकोपतः",
         "iast": "karkaśau paruṣau stabdhau saṃprāptānilavedanau dālyete paripāṭyete oṣṭhau mārutakopataḥ",
         "iast_ru": "каркаш́ау паруш̣ау стабдхау сам̣пра̄пта̄нилаведанау да̄лйете парипа̄т̣йете ош̣т̣хау ма̄рутакопатах̣",
-        "text": "Грубые, шершавые, застылые, с болью от ватхи, обе [губы] трескаются и расщепляются — от возмущения ватхи."
+        "text": "Грубые, шершавые, застылые, с болью от ватхи, обе [губы] трескаются и расщепляются — от возмущения ватхи.",
+        "text_en": "Rough, coarse, stiff, with pain due to Vata, both (lips) crack and split: from aggravation of Vata."
       },
       {
         "type": "verse",
@@ -86914,7 +87359,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चीयते पिडकाभिस्तु सरुजाभिः समन्ततः सदाहपाकपिडकौ पीताभासौ च पित्ततः",
         "iast": "cīyate piḍakābhistu sarujābhiḥ samantataḥ sadāhapākapiḍakau pītābhāsau ca pittataḥ",
         "iast_ru": "чӣйате пид̣ака̄бхисту саруджа̄бхих̣ самантатах̣ сада̄хапа̄капид̣акау пӣта̄бха̄сау ча питтатах̣",
-        "text": "Покрываются нарывами со всех сторон, болезненными, с жжением и созреванием, жёлтого оттенка — от питты."
+        "text": "Покрываются нарывами со всех сторон, болезненными, с жжением и созреванием, жёлтого оттенка — от питты.",
+        "text_en": "They become covered on all sides with boils, painful, with burning and ripening, of yellow shade: from Pitta."
       },
       {
         "type": "verse",
@@ -86922,7 +87368,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सवर्णाभिस्तु चीयेते पिडकाभिरवेदनौ कण्डूमन्तौ कफाच्छ्वेतौ पिच्छिलौ शीतलौ गुरु",
         "iast": "savarṇābhistu cīyete piḍakābhiravedanau kaṇḍūmantau kaphācchvetau picchilau śītalau guru",
         "iast_ru": "саварн̣а̄бхисту чӣйете пид̣ака̄бхираведанау кан̣д̣ӯмантау капха̄ччхветау пиччхилау ш́ӣталау гуру",
-        "text": "Покрываются нарывами того же цвета, безболезненными, зудящими, белыми, слизистыми, холодными, тяжёлыми — от капхи."
+        "text": "Покрываются нарывами того же цвета, безболезненными, зудящими, белыми, слизистыми, холодными, тяжёлыми — от капхи.",
+        "text_en": "They become covered with boils of the same color, painless, itching, white, mucous, cold, heavy: from Kapha."
       },
       {
         "type": "verse",
@@ -86930,7 +87377,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सकृत्कृष्णौ सकृत्पीतौ सकृच्छ्वेतौ तथैव च सन्निपातेन विज्ञेयावनेकपिडकाऽन्वितौ",
         "iast": "sakṛtkṛṣṇau sakṛtpītau sakṛcchvetau tathaiva ca sannipātena vijñeyāvanekapiḍakā'nvitau",
         "iast_ru": "сакр̣ткр̣ш̣н̣ау сакр̣тпӣтау сакр̣ччхветау татхаива ча саннипа̄тена виджн̃ейа̄ванекапид̣ака̄'нвитау",
-        "text": "Иногда чёрные, иногда жёлтые, иногда белые же — следует знать [эти как возникшие] от всех трёх дош, соединённые с многочисленными нарывами."
+        "text": "Иногда чёрные, иногда жёлтые, иногда белые же — следует знать [эти как возникшие] от всех трёх дош, соединённые с многочисленными нарывами.",
+        "text_en": "Sometimes black, sometimes yellow, sometimes white: these should be known (as arising) from all three doshas, combined with numerous boils."
       },
       {
         "type": "verse",
@@ -86938,7 +87386,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "खर्जूरफलवर्णाभिः पिडकाभिर्निपीडितौ रक्तोपसृष्टौ रुधिरं स्रवन्तौ शोणितप्रभौ",
         "iast": "kharjūraphalavarṇābhiḥ piḍakābhirnipīḍitau raktopasṛṣṭau rudhiraṃ sravantau śoṇitaprabhau",
         "iast_ru": "кхарджӯрапхалаварн̣а̄бхих̣ пид̣ака̄бхирнипӣд̣итау рактопаср̣ш̣т̣ау рудхирам̣ сравантау ш́он̣итапрабхау",
-        "text": "Угнетены нарывами цвета плода финика, поражённые кровью, истекающие кровью, кровяного оттенка."
+        "text": "Угнетены нарывами цвета плода финика, поражённые кровью, истекающие кровью, кровяного оттенка.",
+        "text_en": "Oppressed with boils of the color of date fruit, afflicted by blood, bleeding, of blood-colored shade."
       },
       {
         "type": "verse",
@@ -86946,7 +87395,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मांसदुष्टौ गुरु स्थूलौ मांसपिण्डवदुद्गतौ जन्तवश्चात्र मूर्च्छन्ति नरस्योभयतो मुखात्",
         "iast": "māṃsaduṣṭau guru sthūlau māṃsapiṇḍavadudgatau jantavaścātra mūrcchanti narasyobhayato mukhāt",
         "iast_ru": "ма̄м̣садуш̣т̣ау гуру стхӯлау ма̄м̣сапин̣д̣авадудгатау джантаваш́ча̄тра мӯрччханти нарасйобхайато мукха̄т",
-        "text": "Испорченные мясом, тяжёлые, крупные, приподнятые, подобно куску мяса, — паразиты помрачаются здесь у человека с обоих концов рта."
+        "text": "Испорченные мясом, тяжёлые, крупные, приподнятые, подобно куску мяса, — паразиты помрачаются здесь у человека с обоих концов рта.",
+        "text_en": "Spoiled by flesh, heavy, large, raised like a piece of flesh: parasites become disturbed here in a person at both corners of the mouth."
       },
       {
         "type": "verse",
@@ -86954,7 +87404,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्पिर्मण्डप्रतीकाशौ मेदसा कण्डुरौ मृदू स्वच्छस्फटिकसंकाशमास्रावं स्रवतो भृशम्",
         "iast": "sarpirmaṇḍapratīkāśau medasā kaṇḍurau mṛdū svacchasphaṭikasaṃkāśamāsrāvaṃ sravato bhṛśam",
         "iast_ru": "сарпирман̣д̣апратӣка̄ш́ау медаса̄ кан̣д̣урау мр̣дӯ сваччхаспхат̣икасам̣ка̄ш́ама̄сра̄вам̣ сравато бхр̣ш́ам",
-        "text": "Подобные осадку гхи, зудящие от жира, мягкие, обильно истекают прозрачным истечением, подобным чистому кристаллу."
+        "text": "Подобные осадку гхи, зудящие от жира, мягкие, обильно истекают прозрачным истечением, подобным чистому кристаллу.",
+        "text_en": "Resembling ghee sediment, itching from fat, soft, they discharge abundantly a transparent discharge like pure crystal."
       },
       {
         "type": "verse",
@@ -86962,7 +87413,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षतजाभौ विदीर्येते पीड्येते चाभिघाततः मथितौ च समाख्यातावोष्ठौ कण्डूसमन्वितौ",
         "iast": "kṣatajābhau vidīryete pīḍyete cābhighātataḥ mathitau ca samākhyātāvoṣṭhau kaṇḍūsamanvitau",
         "iast_ru": "кш̣атаджа̄бхау видӣрйете пӣд̣йете ча̄бхигха̄татах̣ матхитау ча сама̄кхйа̄та̄вош̣т̣хау кан̣д̣ӯсаманвитау",
-        "text": "Подобные ране, разрываются, угнетены от удара, растёртые, — так называют губы, соединённые с зудом."
+        "text": "Подобные ране, разрываются, угнетены от удара, растёртые, — так называют губы, соединённые с зудом.",
+        "text_en": "Resembling a wound, they split, are oppressed from a blow, abraded: thus the lips are called, combined with itching."
       },
       {
         "type": "verse",
@@ -86970,7 +87422,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गलदन्तमूलदशनच्छदेषु रोगाः कफास्रभूयिष्ठाः तस्मादेतेष्वसकृद्रुधिरं विस्रावयेदुष्णम्",
         "iast": "galadantamūladaśanacchadeṣu rogāḥ kaphāsrabhūyiṣṭhāḥ tasmādeteṣvasakṛdrudhiraṃ visrāvayeduṣṇam",
         "iast_ru": "галадантамӯладаш́аначчхадеш̣у рога̄х̣ капха̄срабхӯйиш̣т̣ха̄х̣ тасма̄детеш̣васакр̣друдхирам̣ висра̄вайедуш̣н̣ам",
-        "text": "Болезни в горле, в основании зубов, в зубах и на губах — преимущественно от капхи и крови; поэтому при них следует многократно давать истечь горячей крови."
+        "text": "Болезни в горле, в основании зубов, в зубах и на губах — преимущественно от капхи и крови; поэтому при них следует многократно давать истечь горячей крови.",
+        "text_en": "Diseases in the throat, at the root of the teeth, in the teeth and on the lips are chiefly due to Kapha and blood; therefore in them hot blood should be repeatedly let flow."
       },
       {
         "type": "verse",
@@ -86978,7 +87431,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "चतुर्विधेन स्नेहेन मधूच्छिष्टयुतेन च वातजेऽभ्यञ्जनं कुर्यान्नाडीस्वेदञ्च बुद्धिमान्",
         "iast": "caturvidhena snehena madhūcchiṣṭayutena ca vātaje'bhyañjanaṃ kuryānnāḍīsvedañca buddhimān",
         "iast_ru": "чатурвидхена снехена мадхӯччхиш̣т̣айутена ча ва̄тадже'бхйан̃джанам̣ курйа̄нна̄д̣ӣсведан̃ча буддхима̄н",
-        "text": "Четырёхкратным маслянистым средством, соединённым с воском, при [болезни] от ватхи мудрому следует делать растирание и прогревание трубкой."
+        "text": "Четырёхкратным маслянистым средством, соединённым с воском, при [болезни] от ватхи мудрому следует делать растирание и прогревание трубкой.",
+        "text_en": "With the fourfold unctuous remedy, combined with wax, in (the disease) due to Vata the wise one should perform rubbing and fomentation with a tube."
       },
       {
         "type": "verse",
@@ -86986,7 +87440,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वेधं शिराणां वमनं विरेकं तिक्तस्य पानं रसभोजनञ्च शीताः प्रदेहाः परिषेचनञ्च पित्तोपसृष्टेष्वधरेषु कुर्यात्",
         "iast": "vedhaṃ śirāṇāṃ vamanaṃ virekaṃ tiktasya pānaṃ rasabhojanañca śītāḥ pradehāḥ pariṣecanañca pittopasṛṣṭeṣvadhareṣu kuryāt",
         "iast_ru": "ведхам̣ ш́ира̄н̣а̄м̣ ваманам̣ вирекам̣ тиктасйа па̄нам̣ расабходжанан̃ча ш́ӣта̄х̣ прадеха̄х̣ париш̣ечанан̃ча питтопаср̣ш̣т̣еш̣вадхареш̣у курйа̄т",
-        "text": "Прокол сосудов, рвотное, слабительное, питьё горького, еда мясного сока и холодные притирания, орошение — следует применять при [болезни] губ, поражённых питтой."
+        "text": "Прокол сосудов, рвотное, слабительное, питьё горького, еда мясного сока и холодные притирания, орошение — следует применять при [болезни] губ, поражённых питтой.",
+        "text_en": "Puncture of vessels, emetic, purgative, drinking of bitter (substances), eating meat juice and cold applications, irrigation: these should be applied in (the disease) of the lips afflicted by Pitta."
       },
       {
         "type": "verse",
@@ -86994,7 +87449,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शिरोविरेचनं धूमः स्वेदः कवल एव च हृते रक्ते प्रयोक्तव्यमोष्ठकोपे कफात्मके मेदोजे शोधिते स्विन्ने स्वेदिते कवलो हितः प्रियङ्गुत्रिफलालोघ्रं सक्षौद्रं प्रतिसारणम्",
         "iast": "śirovirecanaṃ dhūmaḥ svedaḥ kavala eva ca hṛte rakte prayoktavyamoṣṭhakope kaphātmake medoje śodhite svinne svedite kavalo hitaḥ priyaṅgutriphalāloghraṃ sakṣaudraṃ pratisāraṇam",
         "iast_ru": "ш́ировиречанам̣ дхӯмах̣ сведах̣ кавала ева ча хр̣те ракте прайоктавйамош̣т̣хакопе капха̄тмаке медодже ш́одхите свинне сведите кавало хитах̣ прийан̇гутрипхала̄логхрам̣ сакш̣аудрам̣ пратиса̄ран̣ам",
-        "text": "Очищение головы, окуривание, прогревание и полоскание рта — следует применять при возмущении губ капховым характером, после кровопускания; при жировой [форме], после очищения, прогревания и распаривания, полезно полоскание рта: приянгу, трифала, лодхра, соединённые с мёдом, — притирание."
+        "text": "Очищение головы, окуривание, прогревание и полоскание рта — следует применять при возмущении губ капховым характером, после кровопускания; при жировой [форме], после очищения, прогревания и распаривания, полезно полоскание рта: приянгу, трифала, лодхра, соединённые с мёдом, — притирание.",
+        "text_en": "Cleansing of the head, fumigation, fomentation and mouth rinsing should be applied in aggravation of the lips of Kapha character, after bloodletting; in the fat-type, after cleansing, warming and steaming, mouth rinsing is beneficial: Priyangu, Triphala, Lodhra, combined with honey: a rubbing."
       },
       {
         "type": "verse",
@@ -87002,7 +87458,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तजिह्वामुखानां यच्चूर्णकल्कावलेहकः शनैर्घर्षणमङ्गुल्या तदुक्तं प्रतिसारणम्",
         "iast": "dantajihvāmukhānāṃ yaccūrṇakalkāvalehakaḥ śanairgharṣaṇamaṅgulyā taduktaṃ pratisāraṇam",
         "iast_ru": "дантаджихва̄мукха̄на̄м̣ йаччӯрн̣акалка̄валехаках̣ ш́анаиргхарш̣ан̣аман̇гулйа̄ тадуктам̣ пратиса̄ран̣ам",
-        "text": "То, что порошком, пастой или лекарственным сиропом медленно натирается пальцем на зубах, языке и рту, называется «притирание»."
+        "text": "То, что порошком, пастой или лекарственным сиропом медленно натирается пальцем на зубах, языке и рту, называется «притирание».",
+        "text_en": "That which is slowly rubbed with the finger on the teeth, tongue and mouth with powder, paste or medicinal syrup is called Pratisarana (rubbing)."
       },
       {
         "type": "verse",
@@ -87010,7 +87467,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ओष्ठरोगेष्वशेषेषु दृष्ट्वा दोषमुपाचरेत् तेषु व्रणत्वं जातेषु व्रणवत्समुपाचरेत्",
         "iast": "oṣṭharogeṣvaśeṣeṣu dṛṣṭvā doṣamupācaret teṣu vraṇatvaṃ jāteṣu vraṇavatsamupācaret",
         "iast_ru": "ош̣т̣харогеш̣ваш́еш̣еш̣у др̣ш̣т̣ва̄ дош̣амупа̄чарет теш̣у вран̣атвам̣ джа̄теш̣у вран̣аватсамупа̄чарет",
-        "text": "При всех болезнях губ, определив дошу, следует лечить; когда они становятся ранами, следует лечить как рану."
+        "text": "При всех болезнях губ, определив дошу, следует лечить; когда они становятся ранами, следует лечить как рану.",
+        "text_en": "In all diseases of the lips, having determined the dosha, one should treat; when they become wounds, one should treat as a wound."
       },
       {
         "type": "verse",
@@ -87018,7 +87476,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीतादो गदितः पूर्वं दन्तपुप्पुटकस्तथा दन्तवेष्टः सौषिरश्च महासौषिर एव च",
         "iast": "śītādo gaditaḥ pūrvaṃ dantapuppuṭakastathā dantaveṣṭaḥ sauṣiraśca mahāsauṣira eva ca",
         "iast_ru": "ш́ӣта̄до гадитах̣ пӯрвам̣ дантапуппут̣акастатха̄ дантавеш̣т̣ах̣ сауш̣ираш́ча маха̄сауш̣ира ева ча",
-        "text": "Прежде названа «шитада», затем «данта-пуппутака», «данта-вешта», «сушира» и «маха-сушира»,"
+        "text": "Прежде названа «шитада», затем «данта-пуппутака», «данта-вешта», «сушира» и «маха-сушира»,",
+        "text_en": "First is named Shitada, then Danta-puppuṭaka, Danta-vesta, Sushira and Maha-sushira,"
       },
       {
         "type": "verse",
@@ -87026,7 +87485,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततः परिदरः प्रोक्तस्ततस्तूपकुशः स्मृतः वैदर्भश्च ततः प्रोक्तः खल्लीवर्द्धन एव च",
         "iast": "tataḥ paridaraḥ proktastatastūpakuśaḥ smṛtaḥ vaidarbhaśca tataḥ proktaḥ khallīvarddhana eva ca",
         "iast_ru": "татах̣ паридарах̣ проктастатастӯпакуш́ах̣ смр̣тах̣ ваидарбхаш́ча татах̣ проктах̣ кхаллӣварддхана ева ча",
-        "text": "затем провозглашён «паридара», затем известен «упакуша»; затем провозглашён «вайдарбха» и «кхалливарддхана»,"
+        "text": "затем провозглашён «паридара», затем известен «упакуша»; затем провозглашён «вайдарбха» и «кхалливарддхана»,",
+        "text_en": "then Paridara is declared, then Upakusha is known; then Vaidarbha and Khallivardhana are declared,"
       },
       {
         "type": "verse",
@@ -87034,7 +87494,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अधिमांसकनामा च दन्तनाड्यश्च पञ्च च दन्तविद्र धिरप्यत्र दन्तवेष्टेषु षोडश",
         "iast": "adhimāṃsakanāmā ca dantanāḍyaśca pañca ca dantavidra dhirapyatra dantaveṣṭeṣu ṣoḍaśa",
         "iast_ru": "адхима̄м̣сакана̄ма̄ ча дантана̄д̣йаш́ча пан̃ча ча дантавидра дхирапйатра дантавеш̣т̣еш̣у ш̣од̣аш́а",
-        "text": "[болезнь] по имени «адхимамсака» и свищи зубов — пять; здесь же — «данта-видрадхи»; всего в [болезнях] «данта-вешта» — шестнадцать."
+        "text": "[болезнь] по имени «адхимамсака» и свищи зубов — пять; здесь же — «данта-видрадхи»; всего в [болезнях] «данта-вешта» — шестнадцать.",
+        "text_en": "(the disease) named Adhimamsaka and the fistulas of the teeth, five; here also Danta-vidradhi; in all there are sixteen in (the diseases) Danta-vesta."
       },
       {
         "type": "verse",
@@ -87042,7 +87503,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोणितं दन्तवेष्टेभ्यो यस्याकस्मात्प्रवर्त्तते दुर्गन्धीनि सकृष्णानि प्रक्लेदीनि मृदूनि च",
         "iast": "śoṇitaṃ dantaveṣṭebhyo yasyākasmātpravarttate durgandhīni sakṛṣṇāni prakledīni mṛdūni ca",
         "iast_ru": "ш́он̣итам̣ дантавеш̣т̣ебхйо йасйа̄касма̄тправарттате дургандхӣни сакр̣ш̣н̣а̄ни пракледӣни мр̣дӯни ча",
-        "text": "У кого из основания зубов внезапно течёт кровь, зловонная, тёмная, влажная и мягкая,"
+        "text": "У кого из основания зубов внезапно течёт кровь, зловонная, тёмная, влажная и мягкая,",
+        "text_en": "He from whose tooth roots blood suddenly flows, foul-smelling, dark, moist and soft,"
       },
       {
         "type": "verse",
@@ -87050,7 +87512,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तमांसानि शीर्यन्ते पचन्ति च परस्परम् शीतादो नाम स व्याधिः कफशोणितसम्भवः",
         "iast": "dantamāṃsāni śīryante pacanti ca parasparam śītādo nāma sa vyādhiḥ kaphaśoṇitasambhavaḥ",
         "iast_ru": "дантама̄м̣са̄ни ш́ӣрйанте пачанти ча параспарам ш́ӣта̄до на̄ма са вйа̄дхих̣ капхаш́он̣итасамбхавах̣",
-        "text": "мясо зубов распадается и загнивает друг о друга — эта болезнь по имени «шитада», возникшая от капхи и крови."
+        "text": "мясо зубов распадается и загнивает друг о друга — эта болезнь по имени «шитада», возникшая от капхи и крови.",
+        "text_en": "the flesh of the teeth disintegrates and putrefies against each other: this disease, named Shitada, arises from Kapha and blood."
       },
       {
         "type": "verse",
@@ -87058,7 +87521,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तयोस्त्रिषु वाऽप्यत्र श्वयथुर्जायते महान् दन्तपुप्पुटको नाम स व्याधिः कफरक्तजः",
         "iast": "dantayostriṣu vā'pyatra śvayathurjāyate mahān dantapuppuṭako nāma sa vyādhiḥ kapharaktajaḥ",
         "iast_ru": "дантайостриш̣у ва̄'пйатра ш́вайатхурджа̄йате маха̄н дантапуппут̣ако на̄ма са вйа̄дхих̣ капхарактаджах̣",
-        "text": "У кого на двух или трёх зубах возникает крупный отёк — эта болезнь по имени «данта-пуппутака», возникшая от капхи и крови."
+        "text": "У кого на двух или трёх зубах возникает крупный отёк — эта болезнь по имени «данта-пуппутака», возникшая от капхи и крови.",
+        "text_en": "He in whom a large swelling arises on two or three teeth: this disease, named Danta-puppuṭaka, arises from Kapha and blood."
       },
       {
         "type": "verse",
@@ -87066,7 +87530,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्रवन्ति पूयं रुधिरं चला दन्ता भवन्ति च दन्तवेष्टः स विज्ञेयो दुष्टशोणितसम्भवः",
         "iast": "sravanti pūyaṃ rudhiraṃ calā dantā bhavanti ca dantaveṣṭaḥ sa vijñeyo duṣṭaśoṇitasambhavaḥ",
         "iast_ru": "сраванти пӯйам̣ рудхирам̣ чала̄ данта̄ бхаванти ча дантавеш̣т̣ах̣ са виджн̃ейо душ̣т̣аш́он̣итасамбхавах̣",
-        "text": "Истекают гной и кровь, а зубы становятся подвижными — это следует знать как «данта-вешту», возникшую от испорченной крови."
+        "text": "Истекают гной и кровь, а зубы становятся подвижными — это следует знать как «данта-вешту», возникшую от испорченной крови.",
+        "text_en": "Pus and blood flow, and the teeth become mobile: this should be known as Danta-vesta, arising from vitiated blood."
       },
       {
         "type": "verse",
@@ -87074,7 +87539,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वयथुर्दन्तमूलेषु रुजावान्कफवातजः लालास्रावी च कण्डूरः स ज्ञेयः सौषिरो गदः",
         "iast": "śvayathurdantamūleṣu rujāvānkaphavātajaḥ lālāsrāvī ca kaṇḍūraḥ sa jñeyaḥ sauṣiro gadaḥ",
         "iast_ru": "ш́вайатхурдантамӯлеш̣у руджа̄ва̄нкапхава̄таджах̣ ла̄ла̄сра̄вӣ ча кан̣д̣ӯрах̣ са джн̃ейах̣ сауш̣иро гадах̣",
-        "text": "Отёк в основании зубов, с болью, от капхи и ватхи, с истечением слюны и зудом — это следует знать как болезнь «сушира»."
+        "text": "Отёк в основании зубов, с болью, от капхи и ватхи, с истечением слюны и зудом — это следует знать как болезнь «сушира».",
+        "text_en": "A swelling at the roots of the teeth, with pain, from Kapha and Vata, with flow of saliva and itching: this should be known as the disease Sushira."
       },
       {
         "type": "verse",
@@ -87082,7 +87548,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्ताश्चलन्ति वेष्टेभ्यस्तालु चाप्यवदीर्यते दन्तमांसानि पच्यन्ते मुखञ्च परिपच्यते यस्मिन्स सर्वजो व्याधिर्महासौषिरसंज्ञकः",
         "iast": "dantāścalanti veṣṭebhyastālu cāpyavadīryate dantamāṃsāni pacyante mukhañca paripacyate yasminsa sarvajo vyādhirmahāsauṣirasaṃjñakaḥ",
         "iast_ru": "данта̄ш́чаланти веш̣т̣ебхйаста̄лу ча̄пйавадӣрйате дантама̄м̣са̄ни пачйанте мукхан̃ча парипачйате йасминса сарваджо вйа̄дхирмаха̄сауш̣ирасам̣джн̃аках̣",
-        "text": "Зубы шатаются от [ослабления] основания, нёбо также разрывается, мясо зубов созревает, а рот созревает весь — эта болезнь, [возникшая] от всех дош, называется «маха-сушира»."
+        "text": "Зубы шатаются от [ослабления] основания, нёбо также разрывается, мясо зубов созревает, а рот созревает весь — эта болезнь, [возникшая] от всех дош, называется «маха-сушира».",
+        "text_en": "The teeth shake from (weakening of) the root, the palate also tears, the flesh of the teeth ripens, and the mouth ripens all over: this disease, (arising) from all the doshas, is called Maha-sushira."
       },
       {
         "type": "verse",
@@ -87090,7 +87557,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तमांसानि शीर्यन्ते यस्मिन्ष्ठीवति चाप्यसृक् पित्तासृक्कफजो व्याधिर्ज्ञेयः परिदरो हि सः",
         "iast": "dantamāṃsāni śīryante yasminṣṭhīvati cāpyasṛk pittāsṛkkaphajo vyādhirjñeyaḥ paridaro hi saḥ",
         "iast_ru": "дантама̄м̣са̄ни ш́ӣрйанте йасминш̣т̣хӣвати ча̄пйаср̣к питта̄ср̣ккапхаджо вйа̄дхирджн̃ейах̣ паридаро хи сах̣",
-        "text": "Мясо зубов распадается, и [больной] отхаркивает кровь — эту болезнь, возникшую от питты и крови капхи, следует знать как «паридару»."
+        "text": "Мясо зубов распадается, и [больной] отхаркивает кровь — эту болезнь, возникшую от питты и крови капхи, следует знать как «паридару».",
+        "text_en": "The flesh of the teeth disintegrates, and (the patient) expectorates blood: this disease, arising from Pitta and the blood of Kapha, should be known as Paridara."
       },
       {
         "type": "verse",
@@ -87098,7 +87566,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वेष्टेषु दाहः पाकश्च ताभ्यां दन्ताश्चलन्ति च आघटिट्ताः प्रस्रवन्ति शोणितं मन्दवेदनम् आध्मायन्तेऽस्रुते रक्ते मुखं पूति च जायते यस्मिन्नुपकुशः स स्यात्पित्तरक्तसमुद्भवः",
         "iast": "veṣṭeṣu dāhaḥ pākaśca tābhyāṃ dantāścalanti ca āghaṭiṭtāḥ prasravanti śoṇitaṃ mandavedanam ādhmāyante'srute rakte mukhaṃ pūti ca jāyate yasminnupakuśaḥ sa syātpittaraktasamudbhavaḥ",
         "iast_ru": "веш̣т̣еш̣у да̄хах̣ па̄каш́ча та̄бхйа̄м̣ данта̄ш́чаланти ча а̄гхат̣ит̣та̄х̣ прасраванти ш́он̣итам̣ мандаведанам а̄дхма̄йанте'сруте ракте мукхам̣ пӯти ча джа̄йате йасминнупакуш́ах̣ са сйа̄тпиттарактасамудбхавах̣",
-        "text": "В основаниях [зубов] жжение и созревание; от этого зубы шатаются; при прикосновении истекает кровь с малой болью; при истечении крови [десны] раздуваются, а рот становится зловонным — эта [болезнь] «упакуша», возникшая от питты и крови."
+        "text": "В основаниях [зубов] жжение и созревание; от этого зубы шатаются; при прикосновении истекает кровь с малой болью; при истечении крови [десны] раздуваются, а рот становится зловонным — эта [болезнь] «упакуша», возникшая от питты и крови.",
+        "text_en": "At the roots (of the teeth) there is burning and ripening; from this the teeth shake; on touch blood flows with little pain; with flow of blood (the gums) swell up, and the mouth becomes foul-smelling: this (disease) is Upakusha, arising from Pitta and blood."
       },
       {
         "type": "verse",
@@ -87106,7 +87575,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "घृष्टेषु दन्तमूलेषु संरम्भो जायते महान् चलन्ति च रदा यस्मिन्स वैदर्भोऽभिघातजः",
         "iast": "ghṛṣṭeṣu dantamūleṣu saṃrambho jāyate mahān calanti ca radā yasminsa vaidarbho'bhighātajaḥ",
         "iast_ru": "гхр̣ш̣т̣еш̣у дантамӯлеш̣у сам̣рамбхо джа̄йате маха̄н чаланти ча рада̄ йасминса ваидарбхо'бхигха̄таджах̣",
-        "text": "При натирании основания зубов возникает сильное воспаление, и от этого зубы становятся подвижными — эта [болезнь] «вайдарбха», возникшая от удара."
+        "text": "При натирании основания зубов возникает сильное воспаление, и от этого зубы становятся подвижными — эта [болезнь] «вайдарбха», возникшая от удара.",
+        "text_en": "By rubbing the root of the teeth, severe inflammation arises, and from this the teeth become mobile: this (disease) is Vaidarbha, arising from a blow."
       },
       {
         "type": "verse",
@@ -87114,7 +87584,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मारुतेनाधिको दन्तो जायते तीव्रवेदनः खल्लीवर्द्धनसंज्ञोऽसौ सञ्जाते रुक्प्रशाम्यति",
         "iast": "mārutenādhiko danto jāyate tīvravedanaḥ khallīvarddhanasaṃjño'sau sañjāte rukpraśāmyati",
         "iast_ru": "ма̄рутена̄дхико данто джа̄йате тӣвраведанах̣ кхаллӣварддханасам̣джн̃о'сау сан̃джа̄те рукпраш́а̄мйати",
-        "text": "У кого от ватхи зуб становится увеличенным, с сильной болью, — это называется «кхалливарддхана»; когда [зуб] выпадает, боль успокаивается."
+        "text": "У кого от ватхи зуб становится увеличенным, с сильной болью, — это называется «кхалливарддхана»; когда [зуб] выпадает, боль успокаивается.",
+        "text_en": "He in whom from Vata a tooth becomes enlarged, with severe pain, this is called Khallivardhana; when (the tooth) falls out, the pain subsides."
       },
       {
         "type": "verse",
@@ -87122,7 +87593,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हानव्ये पश्चिमे दन्ते महाशोथो महारुजः लालास्रावी कफकृतो विज्ञेयः सोऽधिमांसकः",
         "iast": "hānavye paścime dante mahāśotho mahārujaḥ lālāsrāvī kaphakṛto vijñeyaḥ so'dhimāṃsakaḥ",
         "iast_ru": "ха̄навйе паш́чиме данте маха̄ш́отхо маха̄руджах̣ ла̄ла̄сра̄вӣ капхакр̣то виджн̃ейах̣ со'дхима̄м̣саках̣",
-        "text": "В заднем, последнем зубе — крупный отёк с сильной болью, с истечением слюны, возникший от капхи, — следует знать как «адхимамсаку»."
+        "text": "В заднем, последнем зубе — крупный отёк с сильной болью, с истечением слюны, возникший от капхи, — следует знать как «адхимамсаку».",
+        "text_en": "In the rear, last tooth: a large swelling with severe pain, with flow of saliva, arising from Kapha, should be known as Adhimamsaka."
       },
       {
         "type": "verse",
@@ -87130,7 +87602,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तमूलगता नाड्यः पञ्च ज्ञेया यथेरिताः",
         "iast": "dantamūlagatā nāḍyaḥ pañca jñeyā yatheritāḥ",
         "iast_ru": "дантамӯлагата̄ на̄д̣йах̣ пан̃ча джн̃ейа̄ йатхерита̄х̣",
-        "text": "Пять свищей в основании зубов следует знать, как было сказано [ранее]."
+        "text": "Пять свищей в основании зубов следует знать, как было сказано [ранее].",
+        "text_en": "Five fistulas at the roots of the teeth should be known, as was said (earlier)."
       },
       {
         "type": "verse",
@@ -87138,7 +87611,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तमांसमलैः सास्रैर्बाह्यान्तः श्वयथुर्महान् सदाहरुक् स्रवेद्भिन्नः पूयास्रं दन्तविद्र धिः",
         "iast": "dantamāṃsamalaiḥ sāsrairbāhyāntaḥ śvayathurmahān sadāharuk sravedbhinnaḥ pūyāsraṃ dantavidra dhiḥ",
         "iast_ru": "дантама̄м̣самалаих̣ са̄сраирба̄хйа̄нтах̣ ш́вайатхурмаха̄н сада̄харук сраведбхиннах̣ пӯйа̄срам̣ дантавидра дхих̣",
-        "text": "С нечистотами мяса зубов, кровяной, снаружи и внутри крупный отёк, с жжением и болью, истекающий, вскрывшийся гноем и кровью, — «данта-видрадхи»."
+        "text": "С нечистотами мяса зубов, кровяной, снаружи и внутри крупный отёк, с жжением и болью, истекающий, вскрывшийся гноем и кровью, — «данта-видрадхи».",
+        "text_en": "With impurities of the flesh of the teeth, bloody, outside and inside a large swelling, with burning and pain, discharging, opened with pus and blood: Danta-vidradhi."
       },
       {
         "type": "verse",
@@ -87146,7 +87620,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीतादे हृतरक्ते तु तोये नागरसर्षपान् निष्क्वाथ्य त्रिफलाञ्चापि कुर्याद्गण्डूषधारणम्",
         "iast": "śītāde hṛtarakte tu toye nāgarasarṣapān niṣkvāthya triphalāñcāpi kuryādgaṇḍūṣadhāraṇam",
         "iast_ru": "ш́ӣта̄де хр̣таракте ту тойе на̄гарасарш̣апа̄н ниш̣ква̄тхйа трипхала̄н̃ча̄пи курйа̄дган̣д̣ӯш̣адха̄ран̣ам",
-        "text": "При «шитаде», после кровопускания, следует сварить в воде сушёный имбирь и горчицу, а также трифалу, и держать это во рту как полоскание."
+        "text": "При «шитаде», после кровопускания, следует сварить в воде сушёный имбирь и горчицу, а также трифалу, и держать это во рту как полоскание.",
+        "text_en": "In Shitada, after bloodletting, dried ginger and mustard should be cooked in water, and also Triphala, and held in the mouth as a rinse."
       },
       {
         "type": "verse",
@@ -87154,7 +87629,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कासीसलोध्रकृष्णा मनःशिला प्रियङ्गु तेजोह्वाः एषां चूर्णं मधुयुक्छीतादे पूतिमांसहरम्",
         "iast": "kāsīsalodhrakṛṣṇā manaḥśilā priyaṅgu tejohvāḥ eṣāṃ cūrṇaṃ madhuyukchītāde pūtimāṃsaharam",
         "iast_ru": "ка̄сӣсалодхракр̣ш̣н̣а̄ манах̣ш́ила̄ прийан̇гу теджохва̄х̣ еш̣а̄м̣ чӯрн̣ам̣ мадхуйукчхӣта̄де пӯтима̄м̣сахарам",
-        "text": "Порошок касисы, лодхры, куркумы, манахшилы, приянгу и теджохвы, соединённый с мёдом, при «шитаде» устраняет зловонное мясо."
+        "text": "Порошок касисы, лодхры, куркумы, манахшилы, приянгу и теджохвы, соединённый с мёдом, при «шитаде» устраняет зловонное мясо.",
+        "text_en": "A powder of Kasisa, Lodhra, turmeric, Manahshila, Priyangu and Tejohva, combined with honey, removes the foul-smelling flesh in Shitada."
       },
       {
         "type": "verse",
@@ -87162,7 +87638,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तैलं घृतं वा वातघ्नं शीतादे सम्प्रशस्यते दन्तपुप्पुटके कार्यं तरुणे रक्तमोक्षणम्",
         "iast": "tailaṃ ghṛtaṃ vā vātaghnaṃ śītāde sampraśasyate dantapuppuṭake kāryaṃ taruṇe raktamokṣaṇam",
         "iast_ru": "таилам̣ гхр̣там̣ ва̄ ва̄тагхнам̣ ш́ӣта̄де сампраш́асйате дантапуппут̣аке ка̄рйам̣ тарун̣е рактамокш̣ан̣ам",
-        "text": "Масло или гхи, устраняющее ватху, превосходно рекомендуется при «шитаде»; при незрелом «данта-пуппутаке» следует делать кровопускание."
+        "text": "Масло или гхи, устраняющее ватху, превосходно рекомендуется при «шитаде»; при незрелом «данта-пуппутаке» следует делать кровопускание.",
+        "text_en": "Oil or ghee that removes Vata is excellently recommended in Shitada; in unripe Danta-puppuṭaka bloodletting should be performed."
       },
       {
         "type": "verse",
@@ -87170,7 +87647,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सपञ्चलवणक्षारः सक्षौद्रः प्रतिसारणम् शिरोविरेकश्च हितो नस्यं स्निग्धञ्च भोजनम्",
         "iast": "sapañcalavaṇakṣāraḥ sakṣaudraḥ pratisāraṇam śirovirekaśca hito nasyaṃ snigdhañca bhojanam",
         "iast_ru": "сапан̃чалаван̣акш̣а̄рах̣ сакш̣аудрах̣ пратиса̄ран̣ам ш́ировирекаш́ча хито насйам̣ снигдхан̃ча бходжанам",
-        "text": "Полоскание с пятью солями и щёлочью, соединённое с мёдом, притирание, очищение головы, назальные средства и маслянистая пища — полезны."
+        "text": "Полоскание с пятью солями и щёлочью, соединённое с мёдом, притирание, очищение головы, назальные средства и маслянистая пища — полезны.",
+        "text_en": "Rinsing with the five salts and alkali, combined with honey, rubbing, cleansing of the head, nasal medicines and unctuous food are beneficial."
       },
       {
         "type": "verse",
@@ -87178,7 +87656,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विस्राविते दन्तवेष्टे व्रणन्तु प्रतिसारयेत् लोध्रपत्तङ्गमधुक लाक्षाचूर्णैर्मधुप्लुतैः",
         "iast": "visrāvite dantaveṣṭe vraṇantu pratisārayet lodhrapattaṅgamadhuka lākṣācūrṇairmadhuplutaiḥ",
         "iast_ru": "висра̄вите дантавеш̣т̣е вран̣анту пратиса̄райет лодхрапаттан̇гамадхука ла̄кш̣а̄чӯрн̣аирмадхуплутаих̣",
-        "text": "Когда «данта-вешта» вскрыт истечением, рану следует притирать порошками лодхры, паттанги, солодки и лакки, пропитанными мёдом."
+        "text": "Когда «данта-вешта» вскрыт истечением, рану следует притирать порошками лодхры, паттанги, солодки и лакки, пропитанными мёдом.",
+        "text_en": "When Danta-vesta is opened by discharge, the wound should be rubbed with powders of Lodhra, Pattanga, licorice and lac, soaked in honey."
       },
       {
         "type": "verse",
@@ -87186,7 +87665,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गण्डूषे क्षीरिणो योज्याः सक्षौद्र घृतशर्कराः चलदन्तस्थिरकरं कार्यं बकुलचर्वणम्",
         "iast": "gaṇḍūṣe kṣīriṇo yojyāḥ sakṣaudra ghṛtaśarkarāḥ caladantasthirakaraṃ kāryaṃ bakulacarvaṇam",
         "iast_ru": "ган̣д̣ӯш̣е кш̣ӣрин̣о йоджйа̄х̣ сакш̣аудра гхр̣таш́аркара̄х̣ чаладантастхиракарам̣ ка̄рйам̣ бакулачарван̣ам",
-        "text": "Полоскание молочными [растениями], соединёнными с мёдом, гхи и сахаром; жевание бакулы следует применять для укрепления подвижных зубов."
+        "text": "Полоскание молочными [растениями], соединёнными с мёдом, гхи и сахаром; жевание бакулы следует применять для укрепления подвижных зубов.",
+        "text_en": "Rinsing with milky (plants), combined with honey, ghee and sugar; chewing Bakula should be applied to strengthen mobile teeth."
       },
       {
         "type": "verse",
@@ -87194,7 +87674,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भद्र मुस्ताऽभयाव्योषविडङ्गारिष्टपल्लवैः गोमूत्रपिष्टैर्गुटिकां छायाशुष्कां प्रकल्पयेत्",
         "iast": "bhadra mustā'bhayāvyoṣaviḍaṅgāriṣṭapallavaiḥ gomūtrapiṣṭairguṭikāṃ chāyāśuṣkāṃ prakalpayet",
         "iast_ru": "бхадра муста̄'бхайа̄вйош̣авид̣ан̇га̄риш̣т̣апаллаваих̣ гомӯтрапиш̣т̣аиргут̣ика̄м̣ чха̄йа̄ш́уш̣ка̄м̣ пракалпайет",
-        "text": "Бхадра-муста, харитаки, вьоша, виданги, побеги аришты, растёртые с коровьей мочой, следует сделать пилюлю, высушенную в тени."
+        "text": "Бхадра-муста, харитаки, вьоша, виданги, побеги аришты, растёртые с коровьей мочой, следует сделать пилюлю, высушенную в тени.",
+        "text_en": "Bhadra-musta, Haritaki, Vyosha, Vidanga, shoots of Arishta, ground with cow's urine, should be made into a pill, dried in the shade."
       },
       {
         "type": "verse",
@@ -87202,7 +87683,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तां निधाय मुखे स्वप्याच्चलदन्तातुरो नरः नातः परतरं किञ्चिच्चलदन्तस्य भेषजम्",
         "iast": "tāṃ nidhāya mukhe svapyāccaladantāturo naraḥ nātaḥ parataraṃ kiñciccaladantasya bheṣajam",
         "iast_ru": "та̄м̣ нидха̄йа мукхе свапйа̄ччаладанта̄туро нарах̣ на̄тах̣ паратарам̣ кин̃чиччаладантасйа бхеш̣аджам",
-        "text": "Поместив её в рот, человеку, страдающему подвижностью зубов, следует спать; нет лучшего лекарства от подвижности зубов, чем это."
+        "text": "Поместив её в рот, человеку, страдающему подвижностью зубов, следует спать; нет лучшего лекарства от подвижности зубов, чем это.",
+        "text_en": "Having placed it in the mouth, a person suffering from mobility of the teeth should sleep; there is no better medicine for mobility of the teeth than this."
       },
       {
         "type": "verse",
@@ -87210,7 +87692,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तुलावृतं नीलसहाचरन्तु द्रो णाम्भसा संश्रपयेद्यथावत् ततश्चतुर्भागरसे तु तैलं पचेच्छनैरर्द्धपलप्रमाणैः",
         "iast": "tulāvṛtaṃ nīlasahācarantu dro ṇāmbhasā saṃśrapayedyathāvat tataścaturbhāgarase tu tailaṃ pacecchanairarddhapalapramāṇaiḥ",
         "iast_ru": "тула̄вр̣там̣ нӣласаха̄чаранту дро н̣а̄мбхаса̄ сам̣ш́рапайедйатха̄ват таташ́чатурбха̄гарасе ту таилам̣ пачеччханаирарддхапалапрама̄н̣аих̣",
-        "text": "Синюю сахачару, обёрнутую в тулу [ткани], следует надлежащим образом сварить в дроне воды; затем, на четверти [оставшегося] сока, следует медленно варить масло, в дозе половины палы каждого,"
+        "text": "Синюю сахачару, обёрнутую в тулу [ткани], следует надлежащим образом сварить в дроне воды; затем, на четверти [оставшегося] сока, следует медленно варить масло, в дозе половины палы каждого,",
+        "text_en": "Blue Sahachara, wrapped in a Tula (of cloth), should be properly cooked in a Drona of water; then, on a quarter (of the remaining) juice, oil should be slowly cooked, in a dose of half a Pala of each,"
       },
       {
         "type": "verse",
@@ -87218,7 +87701,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कल्कैरनन्ताखदिरेरिमेदजम्ब्वाम्रयष्टीमधुकोत्पलानाम् तत्तैलमाज्यञ्च धृतं मुखेन स्थैर्यं द्विजानां विदधाति सद्यः",
         "iast": "kalkairanantākhadirerimedajambvāmrayaṣṭīmadhukotpalānām tattailamājyañca dhṛtaṃ mukhena sthairyaṃ dvijānāṃ vidadhāti sadyaḥ",
         "iast_ru": "калкаирананта̄кхадиреримедаджамбва̄мрайаш̣т̣ӣмадхукотпала̄на̄м таттаилама̄джйан̃ча дхр̣там̣ мукхена стхаирйам̣ двиджа̄на̄м̣ видадха̄ти садйах̣",
-        "text": "с пастами ананты, катеху, эрими, джамбу, манго, солодки и синего лотоса — это масло или гхи, удерживаемое [в рту], немедленно придаёт устойчивость зубам."
+        "text": "с пастами ананты, катеху, эрими, джамбу, манго, солодки и синего лотоса — это масло или гхи, удерживаемое [в рту], немедленно придаёт устойчивость зубам.",
+        "text_en": "with pastes of Ananta, Khadira, Erimi, Jambu, mango, licorice and blue lotus: this oil or ghee, held (in the mouth), immediately gives firmness to the teeth."
       },
       {
         "type": "verse",
@@ -87226,7 +87710,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सौषिरे हृतरक्ते तु लोध्रमुस्तारसाञ्जनैः सक्षौद्रैः शस्यते लेपो गण्डूषे क्षीरिणो हिताः",
         "iast": "sauṣire hṛtarakte tu lodhramustārasāñjanaiḥ sakṣaudraiḥ śasyate lepo gaṇḍūṣe kṣīriṇo hitāḥ",
         "iast_ru": "сауш̣ире хр̣таракте ту лодхрамуста̄раса̄н̃джанаих̣ сакш̣аудраих̣ ш́асйате лепо ган̣д̣ӯш̣е кш̣ӣрин̣о хита̄х̣",
-        "text": "При «сушире», после кровопускания, рекомендуется мазь из лодхры, мусты, сока и красящего вещества (анджаны), соединённая с мёдом; полоскание молочными [растениями] полезно."
+        "text": "При «сушире», после кровопускания, рекомендуется мазь из лодхры, мусты, сока и красящего вещества (анджаны), соединённая с мёдом; полоскание молочными [растениями] полезно.",
+        "text_en": "In Sushira, after bloodletting, an ointment of Lodhra, Musta, juice and coloring substance (Anjana), combined with honey, is recommended; rinsing with milky (plants) is beneficial."
       },
       {
         "type": "verse",
@@ -87234,7 +87719,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्रियां परिदरे कुर्याच्छीतादोक्तां विचक्षणः संशोध्योभयतः कार्यं शिरश्चोपकुशे तथा",
         "iast": "kriyāṃ paridare kuryācchītādoktāṃ vicakṣaṇaḥ saṃśodhyobhayataḥ kāryaṃ śiraścopakuśe tathā",
         "iast_ru": "крийа̄м̣ паридаре курйа̄ччхӣта̄докта̄м̣ вичакш̣ан̣ах̣ сам̣ш́одхйобхайатах̣ ка̄рйам̣ ш́ираш́чопакуш́е татха̄",
-        "text": "При «паридаре» искусному следует применять лечение, изложенное для «шитады»; при «упакуше» следует также проводить полное очищение [тела] и головы."
+        "text": "При «паридаре» искусному следует применять лечение, изложенное для «шитады»; при «упакуше» следует также проводить полное очищение [тела] и головы.",
+        "text_en": "In Paridara the skilled one should apply the treatment described for Shitada; in Upakusha complete cleansing of the (body) and head should also be performed."
       },
       {
         "type": "verse",
@@ -87242,7 +87728,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काष्ठोदुम्बरिकापत्रैर्व्रणं विस्रावयेद्भिषक् लवणैः क्षौद्र युक्तैश्च सव्योषैः प्रतिसारयेत्",
         "iast": "kāṣṭhodumbarikāpatrairvraṇaṃ visrāvayedbhiṣak lavaṇaiḥ kṣaudra yuktaiśca savyoṣaiḥ pratisārayet",
         "iast_ru": "ка̄ш̣т̣ходумбарика̄патраирвран̣ам̣ висра̄вайедбхиш̣ак лаван̣аих̣ кш̣аудра йуктаиш́ча савйош̣аих̣ пратиса̄райет",
-        "text": "Листьями дикой смоковницы (кащодумбарика) врачу следует дать истечь ране; следует притирать солями, соединёнными с мёдом и вьошей."
+        "text": "Листьями дикой смоковницы (кащодумбарика) врачу следует дать истечь ране; следует притирать солями, соединёнными с мёдом и вьошей.",
+        "text_en": "With leaves of wild fig (Kashthodumbarika) the physician should let the wound drain; it should be rubbed with salts combined with honey and Vyosha."
       },
       {
         "type": "verse",
@@ -87250,7 +87737,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शास्त्रेणोद्धृत्य वैदर्भे दन्तमूलानि शोधयेत् ततः क्षीरं प्रयुञ्जीत क्रियाः सर्वाश्च शीतलाः",
         "iast": "śāstreṇoddhṛtya vaidarbhe dantamūlāni śodhayet tataḥ kṣīraṃ prayuñjīta kriyāḥ sarvāśca śītalāḥ",
         "iast_ru": "ш́а̄стрен̣оддхр̣тйа ваидарбхе дантамӯла̄ни ш́одхайет татах̣ кш̣ӣрам̣ прайун̃джӣта крийа̄х̣ сарва̄ш́ча ш́ӣтала̄х̣",
-        "text": "При «вайдарбхе» оружием следует очистить основания зубов; затем следует применять молоко и все холодные процедуры."
+        "text": "При «вайдарбхе» оружием следует очистить основания зубов; затем следует применять молоко и все холодные процедуры.",
+        "text_en": "In Vaidarbha the roots of the teeth should be cleaned with an instrument; then milk and all cooling procedures should be applied."
       },
       {
         "type": "verse",
@@ -87258,7 +87746,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उद्धृत्याधिकदन्तं तु ततोऽग्निमवचारयेत् कृमिदन्तकवच्चात्र विधिः कार्या विजानता",
         "iast": "uddhṛtyādhikadantaṃ tu tato'gnimavacārayet kṛmidantakavaccātra vidhiḥ kāryā vijānatā",
         "iast_ru": "уддхр̣тйа̄дхикадантам̣ ту тато'гнимавача̄райет кр̣мидантакавачча̄тра видхих̣ ка̄рйа̄ виджа̄ната̄",
-        "text": "Удалив избыточный зуб, затем следует применить огонь; здесь следует применить тот же метод, что и при «крими-дантаке»."
+        "text": "Удалив избыточный зуб, затем следует применить огонь; здесь следует применить тот же метод, что и при «крими-дантаке».",
+        "text_en": "Having removed the excess tooth, fire should then be applied; here the same method should be applied as in Krimi-dantaka."
       },
       {
         "type": "verse",
@@ -87266,7 +87755,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "छित्वाऽधिमांसं सक्षौद्रै रेतैश्चूर्णैरुपाचरेत् वचातेजोवतीपाठास्वर्जिकायावशूकजैः",
         "iast": "chitvā'dhimāṃsaṃ sakṣaudrai retaiścūrṇairupācaret vacātejovatīpāṭhāsvarjikāyāvaśūkajaiḥ",
         "iast_ru": "чхитва̄'дхима̄м̣сам̣ сакш̣аудраи ретаиш́чӯрн̣аирупа̄чарет вача̄теджоватӣпа̄т̣ха̄сварджика̄йа̄ваш́ӯкаджаих̣",
-        "text": "Рассекши избыточное мясо, следует лечить порошками с мёдом: вачей, теджовати, патхой, свадж и ячменной остью."
+        "text": "Рассекши избыточное мясо, следует лечить порошками с мёдом: вачей, теджовати, патхой, свадж и ячменной остью.",
+        "text_en": "Having cut away the excess flesh, treatment should be given with powders with honey: Vacha, Tejovati, Patha, Svaj and barley awn."
       },
       {
         "type": "verse",
@@ -87274,7 +87764,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षौद्र द्वितीयाः पिप्पल्यः कवले चात्र कीर्त्तिताः पटोलनिम्बत्रिफलाकषायश्चात्र धावने",
         "iast": "kṣaudra dvitīyāḥ pippalyaḥ kavale cātra kīrttitāḥ paṭolanimbatriphalākaṣāyaścātra dhāvane",
         "iast_ru": "кш̣аудра двитӣйа̄х̣ пиппалйах̣ кавале ча̄тра кӣрттита̄х̣ пат̣оланимбатрипхала̄каш̣а̄йаш́ча̄тра дха̄ване",
-        "text": "С мёдом, во-вторых, пиппали, здесь провозглашены при полоскании рта; отвар патолы, нима и трифалы — здесь для промывания."
+        "text": "С мёдом, во-вторых, пиппали, здесь провозглашены при полоскании рта; отвар патолы, нима и трифалы — здесь для промывания.",
+        "text_en": "With honey, secondly, Pippali, are declared here for mouth rinsing; a decoction of Patola, Neem and Triphala is here for washing."
       },
       {
         "type": "verse",
@@ -87282,7 +87773,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नाडीव्रणहरं कर्म दन्तनाडीषु कारयेत् यद्दन्तमध्ये जायेत नाडीदन्तं तदुद्धरेत्",
         "iast": "nāḍīvraṇaharaṃ karma dantanāḍīṣu kārayet yaddantamadhye jāyeta nāḍīdantaṃ taduddharet",
         "iast_ru": "на̄д̣ӣвран̣ахарам̣ карма дантана̄д̣ӣш̣у ка̄райет йаддантамадхйе джа̄йета на̄д̣ӣдантам̣ тадуддхарет",
-        "text": "При свищах зубов следует применять метод, устраняющий свищ раны; то, что возникает внутри зуба, [называемое] «нади-данта», следует удалить."
+        "text": "При свищах зубов следует применять метод, устраняющий свищ раны; то, что возникает внутри зуба, [называемое] «нади-данта», следует удалить.",
+        "text_en": "In fistulas of the teeth, the method that removes the fistula of a wound should be applied; that which arises inside the tooth, (called) Nadi-danta, should be removed."
       },
       {
         "type": "verse",
@@ -87290,7 +87782,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "छित्वा मांसानि शस्त्रेण यदि नोपरिजो भवेत् उद्धृत्य च दहेच्चापि क्षारेण ज्वलनेन वा",
         "iast": "chitvā māṃsāni śastreṇa yadi noparijo bhavet uddhṛtya ca daheccāpi kṣāreṇa jvalanena vā",
         "iast_ru": "чхитва̄ ма̄м̣са̄ни ш́астрен̣а йади нопариджо бхавет уддхр̣тйа ча дахечча̄пи кш̣а̄рен̣а джваланена ва̄",
-        "text": "Рассекши мясо оружием, если [зуб] не растёт снаружи, следует удалить его и прижечь щёлочью или огнём."
+        "text": "Рассекши мясо оружием, если [зуб] не растёт снаружи, следует удалить его и прижечь щёлочью или огнём.",
+        "text_en": "Having cut the flesh with an instrument, if (the tooth) does not grow outside, it should be removed and cauterized with alkali or fire."
       },
       {
         "type": "verse",
@@ -87298,7 +87791,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भिनत्त्युपेक्षिते दन्ते हनुमस्थिगतिर्ध्रुवम् समूलं दशनं तस्मादुद्धरेद्भग्नमस्थि च",
         "iast": "bhinattyupekṣite dante hanumasthigatirdhruvam samūlaṃ daśanaṃ tasmāduddharedbhagnamasthi ca",
         "iast_ru": "бхинаттйупекш̣ите данте ханумастхигатирдхрувам самӯлам̣ даш́анам̣ тасма̄дуддхаредбхагнамастхи ча",
-        "text": "Если пренебрегать [лечением зуба], он непременно разрушает движение челюстной кости; поэтому следует удалить зуб с корнем, а также сломанную кость."
+        "text": "Если пренебрегать [лечением зуба], он непременно разрушает движение челюстной кости; поэтому следует удалить зуб с корнем, а также сломанную кость.",
+        "text_en": "If (the tooth) is neglected (in treatment), it certainly destroys the movement of the jaw bone; therefore the tooth should be removed with its root, as well as the broken bone."
       },
       {
         "type": "verse",
@@ -87306,7 +87800,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उद्धृते तूत्तरे दन्ते शोणितं प्रस्रवेदति रक्ताभिषेकात्पूर्वोक्ता घोरा रोगा भवन्ति हि",
         "iast": "uddhṛte tūttare dante śoṇitaṃ prasravedati raktābhiṣekātpūrvoktā ghorā rogā bhavanti hi",
         "iast_ru": "уддхр̣те тӯттаре данте ш́он̣итам̣ прасраведати ракта̄бхиш̣ека̄тпӯрвокта̄ гхора̄ рога̄ бхаванти хи",
-        "text": "При удалении верхнего зуба обильно истекает кровь; от этого кровотечения возникают вышеупомянутые ужасные болезни."
+        "text": "При удалении верхнего зуба обильно истекает кровь; от этого кровотечения возникают вышеупомянутые ужасные болезни.",
+        "text_en": "In removing an upper tooth blood flows abundantly; from this bleeding the above-mentioned terrible diseases arise."
       },
       {
         "type": "verse",
@@ -87314,7 +87809,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "काणः सञ्जायते जन्तुरर्दितं तस्य जायते चलमप्युत्तरं दन्तमतो नैवोद्धरेद्भिषक् धावनं जातिमदनस्वादुकण्टकखादिरैः",
         "iast": "kāṇaḥ sañjāyate janturarditaṃ tasya jāyate calamapyuttaraṃ dantamato naivoddharedbhiṣak dhāvanaṃ jātimadanasvādukaṇṭakakhādiraiḥ",
         "iast_ru": "ка̄н̣ах̣ сан̃джа̄йате джантурардитам̣ тасйа джа̄йате чаламапйуттарам̣ дантамато наиводдхаредбхиш̣ак дха̄ванам̣ джа̄тимаданасва̄дукан̣т̣акакха̄дираих̣",
-        "text": "Существо становится кривым (косоглазым), у него возникает паралич половины [лица]; также становится подвижным верхний зуб — поэтому врачу не следует его удалять; промывание отваром джати, мадана-фала, свадукантаки и катеху,"
+        "text": "Существо становится кривым (косоглазым), у него возникает паралич половины [лица]; также становится подвижным верхний зуб — поэтому врачу не следует его удалять; промывание отваром джати, мадана-фала, свадукантаки и катеху,",
+        "text_en": "The person becomes squint-eyed, paralysis of half (of the face) occurs; the upper tooth also becomes mobile; therefore the physician should not remove it; washing with a decoction of Jati, Madana-phala, Svadukantaka and Khadira,"
       },
       {
         "type": "verse",
@@ -87322,7 +87818,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कषायैर्जातिमदनकण्टकीस्वादुकण्टकैः",
         "iast": "kaṣāyairjātimadanakaṇṭakīsvādukaṇṭakaiḥ",
         "iast_ru": "каш̣а̄йаирджа̄тимаданакан̣т̣акӣсва̄дукан̣т̣акаих̣",
-        "text": "отварами джати, мадана-фала, свадукантаки,"
+        "text": "отварами джати, мадана-фала, свадукантаки,",
+        "text_en": "with decoctions of Jati, Madana-phala, Svadukantaka,"
       },
       {
         "type": "verse",
@@ -87330,7 +87827,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मञ्जिष्ठालोध्रखदिरयष्ट्याह्वैश्चापि यत्कृतम् तैलं यत्साधितं तत्तु हन्याद् दन्तगतां गतिम्",
         "iast": "mañjiṣṭhālodhrakhadirayaṣṭyāhvaiścāpi yatkṛtam tailaṃ yatsādhitaṃ tattu hanyād dantagatāṃ gatim",
         "iast_ru": "ман̃джиш̣т̣ха̄лодхракхадирайаш̣т̣йа̄хваиш́ча̄пи йаткр̣там таилам̣ йатса̄дхитам̣ татту ханйа̄д дантагата̄м̣ гатим",
-        "text": "а также манджиштой, лодхрой, катеху и солодкой — масло, сваренное этим, устраняет движение зуба."
+        "text": "а также манджиштой, лодхрой, катеху и солодкой — масло, сваренное этим, устраняет движение зуба.",
+        "text_en": "and also Manjishtha, Lodhra, Khadira and licorice: oil cooked with these removes mobility of the tooth."
       },
       {
         "type": "verse",
@@ -87338,7 +87836,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विद्र ध्युक्तं विधिं युक्तं विदध्याद् दन्तविद्र धौ शस्त्रकर्म नरस्तत्र कुशलो नैव कारयेत्",
         "iast": "vidra dhyuktaṃ vidhiṃ yuktaṃ vidadhyād dantavidra dhau śastrakarma narastatra kuśalo naiva kārayet",
         "iast_ru": "видра дхйуктам̣ видхим̣ йуктам̣ видадхйа̄д дантавидра дхау ш́астракарма нарастатра куш́ало наива ка̄райет",
-        "text": "При «данта-видрадхи» следует применять надлежащий метод, изложенный для видрадхи; искусному человеку там не следует применять хирургическое вмешательство."
+        "text": "При «данта-видрадхи» следует применять надлежащий метод, изложенный для видрадхи; искусному человеку там не следует применять хирургическое вмешательство.",
+        "text_en": "In Danta-vidradhi the proper method described for Vidradhi should be applied; the skilled person should not apply surgical intervention there."
       },
       {
         "type": "verse",
@@ -87346,7 +87845,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दालनः कथितः पूर्वं कृमिदन्तक एव च प्रोक्तो भञ्जनको दन्तहर्षो वै दन्तशर्करा",
         "iast": "dālanaḥ kathitaḥ pūrvaṃ kṛmidantaka eva ca prokto bhañjanako dantaharṣo vai dantaśarkarā",
         "iast_ru": "да̄ланах̣ катхитах̣ пӯрвам̣ кр̣мидантака ева ча прокто бхан̃джанако дантахарш̣о ваи данташ́аркара̄",
-        "text": "Прежде названо «далана», а также «крими-дантака», провозглашён «бханджанака», «данта-харша» и «данта-шаркара»,"
+        "text": "Прежде названо «далана», а также «крими-дантака», провозглашён «бханджанака», «данта-харша» и «данта-шаркара»,",
+        "text_en": "First named is Dalana, and also Krimi-dantaka, Bhanjanaka, Danta-harsha and Danta-sharkara are declared,"
       },
       {
         "type": "verse",
@@ -87354,7 +87854,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कपालिकाऽत्र कथिता श्यावदन्तक एव च करालसंज्ञ इत्यष्टौ दन्तरोगाः प्रकीर्त्तिताः",
         "iast": "kapālikā'tra kathitā śyāvadantaka eva ca karālasaṃjña ityaṣṭau dantarogāḥ prakīrttitāḥ",
         "iast_ru": "капа̄лика̄'тра катхита̄ ш́йа̄вадантака ева ча кара̄ласам̣джн̃а итйаш̣т̣ау дантарога̄х̣ пракӣрттита̄х̣",
-        "text": "здесь провозглашена «капалика», также «шьява-дантака» и «карала-самджна» — таковы восемь болезней зубов, провозглашённых."
+        "text": "здесь провозглашена «капалика», также «шьява-дантака» и «карала-самджна» — таковы восемь болезней зубов, провозглашённых.",
+        "text_en": "here Kapalika is declared, also Shyava-dantaka and Karala: such are the eight diseases of the teeth declared."
       },
       {
         "type": "verse",
@@ -87362,7 +87863,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दीर्यमाणेष्विव रुजा यत्र दन्तेषु जायते दालनो नाम स व्याधिः सदागतिनिमित्तजः",
         "iast": "dīryamāṇeṣviva rujā yatra danteṣu jāyate dālano nāma sa vyādhiḥ sadāgatinimittajaḥ",
         "iast_ru": "дӣрйама̄н̣еш̣вива руджа̄ йатра дантеш̣у джа̄йате да̄лано на̄ма са вйа̄дхих̣ сада̄гатинимиттаджах̣",
-        "text": "Там, где боль возникает, как будто зубы разрываются, — эта болезнь по имени «далана», возникшая от постоянного движения."
+        "text": "Там, где боль возникает, как будто зубы разрываются, — эта болезнь по имени «далана», возникшая от постоянного движения.",
+        "text_en": "Where pain arises as if the teeth were being torn apart: this disease, named Dalana, arises from constant movement."
       },
       {
         "type": "verse",
@@ -87370,7 +87872,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कृष्णच्छिद्र श्चलः स्रावी ससंरम्भो महारुजः अनिमित्तरुजो वातात्स ज्ञेयः कृमिदन्तकः",
         "iast": "kṛṣṇacchidra ścalaḥ srāvī sasaṃrambho mahārujaḥ animittarujo vātātsa jñeyaḥ kṛmidantakaḥ",
         "iast_ru": "кр̣ш̣н̣аччхидра ш́чалах̣ сра̄вӣ сасам̣рамбхо маха̄руджах̣ анимиттаруджо ва̄та̄тса джн̃ейах̣ кр̣мидантаках̣",
-        "text": "С чёрным отверстием, подвижный, истекающий, с воспалением, с сильной болью, безосновательной болью от ватхи, — следует знать как «крими-дантаку»."
+        "text": "С чёрным отверстием, подвижный, истекающий, с воспалением, с сильной болью, безосновательной болью от ватхи, — следует знать как «крими-дантаку».",
+        "text_en": "With a black hole, mobile, discharging, with inflammation, with severe pain, groundless pain due to Vata: it should be known as Krimi-dantaka."
       },
       {
         "type": "verse",
@@ -87378,7 +87881,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वक्त्रं वक्रं भवेद्यत्र दन्तभङ्गश्च जायते कफवातकृतो व्याधिः स भञ्जनकसंज्ञकः",
         "iast": "vaktraṃ vakraṃ bhavedyatra dantabhaṅgaśca jāyate kaphavātakṛto vyādhiḥ sa bhañjanakasaṃjñakaḥ",
         "iast_ru": "вактрам̣ вакрам̣ бхаведйатра дантабхан̇гаш́ча джа̄йате капхава̄такр̣то вйа̄дхих̣ са бхан̃джанакасам̣джн̃аках̣",
-        "text": "Где рот становится искривлённым и происходит поломка зуба — эта болезнь, [возникшая] от капхи и ватхи, называется «бханджанака»."
+        "text": "Где рот становится искривлённым и происходит поломка зуба — эта болезнь, [возникшая] от капхи и ватхи, называется «бханджанака».",
+        "text_en": "Where the mouth becomes twisted and a tooth breaks: this disease, (arising) from Kapha and Vata, is called Bhanjanaka."
       },
       {
         "type": "verse",
@@ -87386,7 +87890,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शीतरूक्षप्रवाताम्लस्पर्शानामसहा द्विजाः तत्र स्युर्वातपित्ताभ्यां दन्तहर्षः स कीर्त्तितः",
         "iast": "śītarūkṣapravātāmlasparśānāmasahā dvijāḥ tatra syurvātapittābhyāṃ dantaharṣaḥ sa kīrttitaḥ",
         "iast_ru": "ш́ӣтарӯкш̣аправа̄та̄мласпарш́а̄на̄масаха̄ двиджа̄х̣ татра сйурва̄тапитта̄бхйа̄м̣ дантахарш̣ах̣ са кӣрттитах̣",
-        "text": "Зубы, не выносящие прикосновения холодного, сухого, ветра и кислого, — там от ватхи и питты провозглашена «данта-харша»."
+        "text": "Зубы, не выносящие прикосновения холодного, сухого, ветра и кислого, — там от ватхи и питты провозглашена «данта-харша».",
+        "text_en": "Teeth that cannot bear the touch of cold, dry, wind and sour: there, from Vata and Pitta, Danta-harsha is declared."
       },
       {
         "type": "verse",
@@ -87394,7 +87899,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मलो दन्तगतो यस्तु कफश्चानिलशोषितः शर्करेव खरस्पर्शा सा ज्ञेया दन्तशर्करा",
         "iast": "malo dantagato yastu kaphaścānilaśoṣitaḥ śarkareva kharasparśā sā jñeyā dantaśarkarā",
         "iast_ru": "мало дантагато йасту капхаш́ча̄нилаш́ош̣итах̣ ш́аркарева кхараспарш́а̄ са̄ джн̃ейа̄ данташ́аркара̄",
-        "text": "Нечистота, обосновавшаяся в зубе, — капха, высушенная ветром, подобная песку, грубая на ощупь, — эту следует знать как «данта-шаркару»."
+        "text": "Нечистота, обосновавшаяся в зубе, — капха, высушенная ветром, подобная песку, грубая на ощупь, — эту следует знать как «данта-шаркару».",
+        "text_en": "Impurity lodged in the tooth, Kapha dried by wind, like sand, rough to the touch: this should be known as Danta-sharkara."
       },
       {
         "type": "verse",
@@ -87402,7 +87908,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कपालेष्विव दीर्यत्सु दन्तेषु समलेषु च कपालिकेति विज्ञेया दन्तच्छिद् दन्तशर्करा",
         "iast": "kapāleṣviva dīryatsu danteṣu samaleṣu ca kapāliketi vijñeyā dantacchid dantaśarkarā",
         "iast_ru": "капа̄леш̣вива дӣрйатсу дантеш̣у самалеш̣у ча капа̄ликети виджн̃ейа̄ дантаччхид данташ́аркара̄",
-        "text": "Когда зубы, покрытые нечистотой, разрушаются, как черепки, — это следует знать как «капалику» [форму] «данта-шаркары», разрушающую зуб."
+        "text": "Когда зубы, покрытые нечистотой, разрушаются, как черепки, — это следует знать как «капалику» [форму] «данта-шаркары», разрушающую зуб.",
+        "text_en": "When teeth covered with impurity break down like potsherds, this should be known as Kapalika, (a form) of Danta-sharkara that destroys the tooth."
       },
       {
         "type": "verse",
@@ -87410,7 +87917,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "योऽसृङ्मिश्रेण पित्तेन दग्धो दन्तस्त्वशेषतः श्यावतां नीलतां वापि गतः स श्यावदन्तकः",
         "iast": "yo'sṛṅmiśreṇa pittena dagdho dantastvaśeṣataḥ śyāvatāṃ nīlatāṃ vāpi gataḥ sa śyāvadantakaḥ",
         "iast_ru": "йо'ср̣н̇миш́рен̣а питтена дагдхо дантастваш́еш̣атах̣ ш́йа̄вата̄м̣ нӣлата̄м̣ ва̄пи гатах̣ са ш́йа̄вадантаках̣",
-        "text": "У кого зуб, обожжённый питтой, смешанной с кровью, полностью приходит к темноте или синеве, — это «шьява-дантака»."
+        "text": "У кого зуб, обожжённый питтой, смешанной с кровью, полностью приходит к темноте или синеве, — это «шьява-дантака».",
+        "text_en": "He whose tooth, burnt by Pitta mixed with blood, comes entirely to dark or blue color: this is Shyava-dantaka."
       },
       {
         "type": "verse",
@@ -87418,7 +87926,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शनैः शनैः प्रकुरुते यत्र दन्ताश्रितोऽनिलः करालान्विकटान्दन्तान्स करालो न सिद्ध्य्ति",
         "iast": "śanaiḥ śanaiḥ prakurute yatra dantāśrito'nilaḥ karālānvikaṭāndantānsa karālo na siddhyti",
         "iast_ru": "ш́анаих̣ ш́анаих̣ пракуруте йатра данта̄ш́рито'нилах̣ кара̄ла̄нвикат̣а̄нданта̄нса кара̄ло на сиддхйти",
-        "text": "Где ветер, обосновавшийся в зубе, постепенно делает зубы искривлёнными, кривыми, — это «карала», не поддаётся излечению."
+        "text": "Где ветер, обосновавшийся в зубе, постепенно делает зубы искривлёнными, кривыми, — это «карала», не поддаётся излечению.",
+        "text_en": "Where wind, lodged in the tooth, gradually makes the teeth crooked, twisted: this is Karala, not amenable to cure."
       },
       {
         "type": "verse",
@@ -87426,7 +87935,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथ दन्तरोगचिकित्सा तैलं लाक्षारसं क्षारं पृथक्प्रस्थमितं पचेत् द्र व्यैः पलमितैरेतैः क्वाथैश्चापि चतुर्गुणैः",
         "iast": "atha dantarogacikitsā tailaṃ lākṣārasaṃ kṣāraṃ pṛthakprasthamitaṃ pacet dra vyaiḥ palamitairetaiḥ kvāthaiścāpi caturguṇaiḥ",
         "iast_ru": "атха дантарогачикитса̄ таилам̣ ла̄кш̣а̄расам̣ кш̣а̄рам̣ пр̣тхакпрастхамитам̣ пачет дра вйаих̣ паламитаиретаих̣ ква̄тхаиш́ча̄пи чатургун̣аих̣",
-        "text": "Теперь лечение болезней зубов. Масло, сок лакки, щёлочь — каждого по прастхе, следует варить с этими веществами, взятыми в дозе по пале, а также отварами в четырёхкратном количестве:"
+        "text": "Теперь лечение болезней зубов. Масло, сок лакки, щёлочь — каждого по прастхе, следует варить с этими веществами, взятыми в дозе по пале, а также отварами в четырёхкратном количестве:",
+        "text_en": "Now the treatment of diseases of the teeth. Oil, juice of lac, alkali, of each a Prastha, should be cooked with these substances taken in a dose of a Pala each, and also with decoctions in fourfold quantity:"
       },
       {
         "type": "verse",
@@ -87434,7 +87944,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "लोध्रकट्फल मञ्जिष्ठापद्मकेशरपद्मकैः चन्दनोत्पलयष्ट्याह्वैस्तत्तैलं वदने धृतम्",
         "iast": "lodhrakaṭphala mañjiṣṭhāpadmakeśarapadmakaiḥ candanotpalayaṣṭyāhvaistattailaṃ vadane dhṛtam",
         "iast_ru": "лодхракат̣пхала ман̃джиш̣т̣ха̄падмакеш́арападмакаих̣ чанданотпалайаш̣т̣йа̄хваистаттаилам̣ вадане дхр̣там",
-        "text": "лодхра, катпхала, манджишта, падма-кешара и падмака, сандал, синий лотос, солодка — это масло, удерживаемое в рту,"
+        "text": "лодхра, катпхала, манджишта, падма-кешара и падмака, сандал, синий лотос, солодка — это масло, удерживаемое в рту,",
+        "text_en": "Lodhra, Katphala, Manjishtha, Padma-kesara and Padmaka, sandalwood, blue lotus, licorice: this oil, held in the mouth,"
       },
       {
         "type": "verse",
@@ -87442,7 +87953,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दालनं दन्तचालं च दन्तमोक्षं कपालिकाम् शीतादं पूतिवक्त्रञ्च विरुचिं विरसास्यताम्",
         "iast": "dālanaṃ dantacālaṃ ca dantamokṣaṃ kapālikām śītādaṃ pūtivaktrañca viruciṃ virasāsyatām",
         "iast_ru": "да̄ланам̣ дантача̄лам̣ ча дантамокш̣ам̣ капа̄лика̄м ш́ӣта̄дам̣ пӯтивактран̃ча виручим̣ вираса̄сйата̄м",
-        "text": "быстро устраняет «далану», подвижность зубов, выпадение зубов, «капалику», «шитаду», зловонный рот, отсутствие аппетита и невкусицу во рту,"
+        "text": "быстро устраняет «далану», подвижность зубов, выпадение зубов, «капалику», «шитаду», зловонный рот, отсутствие аппетита и невкусицу во рту,",
+        "text_en": "quickly removes Dalana, mobility of the teeth, falling out of the teeth, Kapalika, Shitada, foul-smelling mouth, lack of appetite and tastelessness of the mouth,"
       },
       {
         "type": "verse",
@@ -87450,7 +87962,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हन्यादाशु गदानेतान्कुर्याद् दन्तानपि स्थिरान् लाक्षादिकमिदं तैलं दन्तरोगेषु पूजितम्",
         "iast": "hanyādāśu gadānetānkuryād dantānapi sthirān lākṣādikamidaṃ tailaṃ dantarogeṣu pūjitam",
         "iast_ru": "ханйа̄да̄ш́у гада̄нета̄нкурйа̄д данта̄напи стхира̄н ла̄кш̣а̄дикамидам̣ таилам̣ дантарогеш̣у пӯджитам",
-        "text": "а также делает зубы устойчивыми; это масло «Лакшади» почитается при болезнях зубов."
+        "text": "а также делает зубы устойчивыми; это масло «Лакшади» почитается при болезнях зубов.",
+        "text_en": "and also makes the teeth firm; this oil \"Lakshadi\" is esteemed in diseases of the teeth."
       },
       {
         "type": "verse",
@@ -87458,7 +87971,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जयेद्विस्रावणैः स्विन्नमचलं कृमिदन्तकम् तथाऽवपीडवातघ्नः स्नेहगण्डूषधारणैः",
         "iast": "jayedvisrāvaṇaiḥ svinnamacalaṃ kṛmidantakam tathā'vapīḍavātaghnaḥ snehagaṇḍūṣadhāraṇaiḥ",
         "iast_ru": "джайедвисра̄ван̣аих̣ свиннамачалам̣ кр̣мидантакам татха̄'вапӣд̣ава̄тагхнах̣ снехаган̣д̣ӯш̣адха̄ран̣аих̣",
-        "text": "«Крими-дантаку», неподвижную [от лечения], следует победить истечениями, прогреванием, а также «авапидой», устраняющей ватху, полосканием с маслянистыми средствами,"
+        "text": "«Крими-дантаку», неподвижную [от лечения], следует победить истечениями, прогреванием, а также «авапидой», устраняющей ватху, полосканием с маслянистыми средствами,",
+        "text_en": "Krimi-dantaka, immobile (from treatment), should be overcome by discharges, fomentation, and also by Avapida that removes Vata, rinsing with unctuous remedies,"
       },
       {
         "type": "verse",
@@ -87466,7 +87980,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भद्र दार्वादिवर्षाभूलेपैः स्निग्धैश्च भोजनैः कृमिदन्तापहं कोष्णं हिङ्गु दन्तान्तरे स्थितम्",
         "iast": "bhadra dārvādivarṣābhūlepaiḥ snigdhaiśca bhojanaiḥ kṛmidantāpahaṃ koṣṇaṃ hiṅgu dantāntare sthitam",
         "iast_ru": "бхадра да̄рва̄диварш̣а̄бхӯлепаих̣ снигдхаиш́ча бходжанаих̣ кр̣миданта̄пахам̣ кош̣н̣ам̣ хин̇гу данта̄нтаре стхитам",
-        "text": "мазью бхадра-дару и подобными, варшабху, маслянистой пищей; асафетида, тёплая, помещённая между зубами, устраняет «крими-дантаку»."
+        "text": "мазью бхадра-дару и подобными, варшабху, маслянистой пищей; асафетида, тёплая, помещённая между зубами, устраняет «крими-дантаку».",
+        "text_en": "an ointment of Bhadra-daru and the like, Varshabhu, unctuous food; asafetida, warm, placed between the teeth, removes Krimi-dantaka."
       },
       {
         "type": "verse",
@@ -87474,7 +87989,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बृहतीभूमिकदम्बपञ्चाङ्गुलकण्टकारिकाक्वाथः गण्डूषस्तैलयुतः कृमिदन्तकवेदनाशमनः",
         "iast": "bṛhatībhūmikadambapañcāṅgulakaṇṭakārikākvāthaḥ gaṇḍūṣastailayutaḥ kṛmidantakavedanāśamanaḥ",
         "iast_ru": "бр̣хатӣбхӯмикадамбапан̃ча̄н̇гулакан̣т̣ака̄рика̄ква̄тхах̣ ган̣д̣ӯш̣астаилайутах̣ кр̣мидантакаведана̄ш́аманах̣",
-        "text": "Отвар брихати, бхуми-кадамбы, панчангулы и кантакарики, с маслом, для полоскания рта, успокаивает боль «крими-дантаки»."
+        "text": "Отвар брихати, бхуми-кадамбы, панчангулы и кантакарики, с маслом, для полоскания рта, успокаивает боль «крими-дантаки».",
+        "text_en": "A decoction of Brihati, Bhumi-kadamba, Panchangula and Kantakari, with oil, for mouth rinsing, pacifies the pain of Krimi-dantaka."
       },
       {
         "type": "verse",
@@ -87482,7 +87998,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नीलीवायसजङ्घाकटुतुम्बीमूलमेकैकम् सञ्चूर्ण्य दशनविधृतं दशनकृमिनाशनं प्राहुः",
         "iast": "nīlīvāyasajaṅghākaṭutumbīmūlamekaikam sañcūrṇya daśanavidhṛtaṃ daśanakṛmināśanaṃ prāhuḥ",
         "iast_ru": "нӣлӣва̄йасаджан̇гха̄кат̣утумбӣмӯламекаикам сан̃чӯрн̣йа даш́анавидхр̣там̣ даш́анакр̣мина̄ш́анам̣ пра̄хух̣",
-        "text": "Нили, ваяса-джангха, острая тумби — корень каждого, истолчённый, удерживаемый на зубах, устраняет зубных паразитов, как говорят."
+        "text": "Нили, ваяса-джангха, острая тумби — корень каждого, истолчённый, удерживаемый на зубах, устраняет зубных паразитов, как говорят.",
+        "text_en": "Nili, Vayasajangha, pungent Tumbi: the root of each, pounded, held on the teeth, removes dental parasites, so it is said."
       },
       {
         "type": "verse",
@@ -87490,7 +88007,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्नेहानां कवलाः कोष्णाः सर्पिषस्त्रैवृतस्य च निर्यूहाश्चानिलघ्नानां दन्तहर्षप्रमर्दनाः",
         "iast": "snehānāṃ kavalāḥ koṣṇāḥ sarpiṣastraivṛtasya ca niryūhāścānilaghnānāṃ dantaharṣapramardanāḥ",
         "iast_ru": "снеха̄на̄м̣ кавала̄х̣ кош̣н̣а̄х̣ сарпиш̣астраивр̣тасйа ча нирйӯха̄ш́ча̄нилагхна̄на̄м̣ дантахарш̣апрамардана̄х̣",
-        "text": "Тёплые полоскания маслянистыми средствами, гхи с тривритом и отвары средств, устраняющих ватху, — устраняют «данта-харшу»."
+        "text": "Тёплые полоскания маслянистыми средствами, гхи с тривритом и отвары средств, устраняющих ватху, — устраняют «данта-харшу».",
+        "text_en": "Warm rinses with unctuous remedies, ghee with Trivrit and decoctions of Vata-relieving remedies remove Danta-harsha."
       },
       {
         "type": "verse",
@@ -87498,7 +88016,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्नैहिकोऽत्र हितो धूमो नस्यं स्नैहिकमेव च पेया रसा यवाग्वश्च क्षीरसन्तानिकाघृतम् शिरोवस्तिहितश्चापि क्रमो यश्चानिलापहः",
         "iast": "snaihiko'tra hito dhūmo nasyaṃ snaihikameva ca peyā rasā yavāgvaśca kṣīrasantānikāghṛtam śirovastihitaścāpi kramo yaścānilāpahaḥ",
         "iast_ru": "снаихико'тра хито дхӯмо насйам̣ снаихикамева ча пейа̄ раса̄ йава̄гваш́ча кш̣ӣрасанта̄ника̄гхр̣там ш́ировастихиташ́ча̄пи крамо йаш́ча̄нила̄пахах̣",
-        "text": "Здесь полезны маслянистые дымы, а также маслянистые назальные средства; жидкая каша, мясные соки, отвар с молоком и гхи; также полезен метод «широ-васти», устраняющий ватху."
+        "text": "Здесь полезны маслянистые дымы, а также маслянистые назальные средства; жидкая каша, мясные соки, отвар с молоком и гхи; также полезен метод «широ-васти», устраняющий ватху.",
+        "text_en": "Here unctuous fumes are beneficial, and also unctuous nasal medicines; thin gruel, meat juices, decoction with milk and ghee; the method of Shiro-basti, which relieves Vata, is also beneficial."
       },
       {
         "type": "verse",
@@ -87506,7 +88025,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अच्छिन्दन्दन्तमूलानि शर्करामुद्धरेद्भिषक् लाक्षाचूर्णैर्मधुयुतैस्ततस्तां प्रतिसारयेत् दन्तहर्षक्रियां चात्र कुर्यान्निरवशेषतः कपालिका कृच्छ्रतमा तत्राप्येषा क्रिया मता",
         "iast": "acchindandantamūlāni śarkarāmuddharedbhiṣak lākṣācūrṇairmadhuyutaistatastāṃ pratisārayet dantaharṣakriyāṃ cātra kuryānniravaśeṣataḥ kapālikā kṛcchratamā tatrāpyeṣā kriyā matā",
         "iast_ru": "аччхиндандантамӯла̄ни ш́аркара̄муддхаредбхиш̣ак ла̄кш̣а̄чӯрн̣аирмадхуйутаистатаста̄м̣ пратиса̄райет дантахарш̣акрийа̄м̣ ча̄тра курйа̄ннираваш́еш̣атах̣ капа̄лика̄ кр̣ччхратама̄ татра̄пйеш̣а̄ крийа̄ мата̄",
-        "text": "Не задевая основания зубов, врачу следует удалить «шаркару» порошком лакки, соединённым с мёдом, затем притирать этим; здесь следует применить полностью метод лечения «данта-харши»; «капалика» же там наиболее труднолечима, но применяется тот же метод лечения."
+        "text": "Не задевая основания зубов, врачу следует удалить «шаркару» порошком лакки, соединённым с мёдом, затем притирать этим; здесь следует применить полностью метод лечения «данта-харши»; «капалика» же там наиболее труднолечима, но применяется тот же метод лечения.",
+        "text_en": "Without touching the roots of the teeth, the physician should remove the Sharkara with lac powder combined with honey, then rub with it; here the method of treatment of Danta-harsha should be fully applied; Kapalika, however, is the most difficult to treat there, but the same method of treatment is applied."
       },
       {
         "type": "verse",
@@ -87514,7 +88034,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फलान्यम्लानि शीताम्बु रूक्षान्नं दन्तधावनम् तथाऽतिकठिनं भक्ष्यं दन्तरोगी न भक्षयेत्",
         "iast": "phalānyamlāni śītāmbu rūkṣānnaṃ dantadhāvanam tathā'tikaṭhinaṃ bhakṣyaṃ dantarogī na bhakṣayet",
         "iast_ru": "пхала̄нйамла̄ни ш́ӣта̄мбу рӯкш̣а̄ннам̣ дантадха̄ванам татха̄'тикат̣хинам̣ бхакш̣йам̣ дантарогӣ на бхакш̣айет",
-        "text": "Кислые плоды, холодную воду, сухую пищу, зубочистку, а также весьма твёрдую еду страдающему болезнью зубов не следует употреблять."
+        "text": "Кислые плоды, холодную воду, сухую пищу, зубочистку, а также весьма твёрдую еду страдающему болезнью зубов не следует употреблять.",
+        "text_en": "Sour fruits, cold water, dry food, a toothpick, and also very hard food should not be used by one suffering from a disease of the teeth."
       },
       {
         "type": "verse",
@@ -87522,7 +88043,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातजः पित्तजश्चापि कफजोऽलाससंज्ञकः उपजिह्विका च गदा जिह्वायां पञ्च कीर्त्तिताः",
         "iast": "vātajaḥ pittajaścāpi kaphajo'lāsasaṃjñakaḥ upajihvikā ca gadā jihvāyāṃ pañca kīrttitāḥ",
         "iast_ru": "ва̄таджах̣ питтаджаш́ча̄пи капхаджо'ла̄сасам̣джн̃аках̣ упаджихвика̄ ча гада̄ джихва̄йа̄м̣ пан̃ча кӣрттита̄х̣",
-        "text": "От ватхи, от питты, а также от капхи, [болезнь] по имени «аласа», и «упаджихвика» — пять болезней провозглашено на языке."
+        "text": "От ватхи, от питты, а также от капхи, [болезнь] по имени «аласа», и «упаджихвика» — пять болезней провозглашено на языке.",
+        "text_en": "From Vata, from Pitta, and also from Kapha, (the disease) named Alasa, and Upajihvika: five diseases are declared on the tongue."
       },
       {
         "type": "verse",
@@ -87530,7 +88052,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिह्वाऽनिलेन स्फुटिता प्रसुप्ता भवेच्च शाकच्छदनप्रकाशा",
         "iast": "jihvā'nilena sphuṭitā prasuptā bhavecca śākacchadanaprakāśā",
         "iast_ru": "джихва̄'нилена спхут̣ита̄ прасупта̄ бхавечча ш́а̄каччхаданапрака̄ш́а̄",
-        "text": "Язык, растрескавшийся от ветра, немеющий, подобный листу овоща [по цвету],"
+        "text": "Язык, растрескавшийся от ветра, немеющий, подобный листу овоща [по цвету],",
+        "text_en": "The tongue cracked by wind, becoming numb, like the leaf of a vegetable (in color),"
       },
       {
         "type": "verse",
@@ -87538,7 +88061,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तात्सदाहैरुपचीयते च दीर्घैः सरक्तैरपि कण्टकैश्च",
         "iast": "pittātsadāhairupacīyate ca dīrghaiḥ saraktairapi kaṇṭakaiśca",
         "iast_ru": "питта̄тсада̄хаирупачӣйате ча дӣргхаих̣ сарактаирапи кан̣т̣акаиш́ча",
-        "text": "от питты покрывается длинными, кровянистыми шипами с жжением,"
+        "text": "от питты покрывается длинными, кровянистыми шипами с жжением,",
+        "text_en": "from Pitta becomes covered with long, bloody thorns with burning,"
       },
       {
         "type": "verse",
@@ -87546,7 +88070,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कफेन गुर्वी बहुला चिता च मांसोच्छ्रयैः शाल्मलिकण्टकाभैः",
         "iast": "kaphena gurvī bahulā citā ca māṃsocchrayaiḥ śālmalikaṇṭakābhaiḥ",
         "iast_ru": "капхена гурвӣ бахула̄ чита̄ ча ма̄м̣соччхрайаих̣ ш́а̄лмаликан̣т̣ака̄бхаих̣",
-        "text": "от капхи — тяжёлый, обильный, покрытый мясными наростами, подобными шипам шалмали."
+        "text": "от капхи — тяжёлый, обильный, покрытый мясными наростами, подобными шипам шалмали.",
+        "text_en": "from Kapha heavy, copious, covered with fleshy growths like the thorns of Shalmali."
       },
       {
         "type": "verse",
@@ -87554,7 +88079,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिह्वातले यः श्वयथुः प्रगाढः सोऽलाससंज्ञः कफरक्तमूर्त्तिः जिह्वां स तु स्तम्भयति प्रवृद्धो मूले च जिह्वा भृशमेति पाकम्",
         "iast": "jihvātale yaḥ śvayathuḥ pragāḍhaḥ so'lāsasaṃjñaḥ kapharaktamūrttiḥ jihvāṃ sa tu stambhayati pravṛddho mūle ca jihvā bhṛśameti pākam",
         "iast_ru": "джихва̄тале йах̣ ш́вайатхух̣ прага̄д̣хах̣ со'ла̄сасам̣джн̃ах̣ капхарактамӯрттих̣ джихва̄м̣ са ту стамбхайати правр̣ддхо мӯле ча джихва̄ бхр̣ш́амети па̄кам",
-        "text": "Отёк под языком, глубокий, — это называется «аласа», по составу [из] капхи и крови; усилившись, он делает язык неподвижным, и у корня язык сильно созревает."
+        "text": "Отёк под языком, глубокий, — это называется «аласа», по составу [из] капхи и крови; усилившись, он делает язык неподвижным, и у корня язык сильно созревает.",
+        "text_en": "A swelling under the tongue, deep, this is called Alasa, of the composition (of) Kapha and blood; having increased, it makes the tongue immobile, and the tongue ripens greatly at the root."
       },
       {
         "type": "verse",
@@ -87562,7 +88088,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिह्वाऽग्ररूपः श्वयथुर्हि जिह्वामन्नुम्य जातः कफरक्तयोनिः प्रसेककण्डूपरिदाहयुक्तः प्रकथ्यतेऽसावुपजिह्विकेति",
         "iast": "jihvā'grarūpaḥ śvayathurhi jihvāmannumya jātaḥ kapharaktayoniḥ prasekakaṇḍūparidāhayuktaḥ prakathyate'sāvupajihviketi",
         "iast_ru": "джихва̄'грарӯпах̣ ш́вайатхурхи джихва̄маннумйа джа̄тах̣ капхарактайоних̣ прасекакан̣д̣ӯпарида̄хайуктах̣ пракатхйате'са̄вупаджихвикети",
-        "text": "Отёк по форме подобный кончику языка, возникший, поднявшись под язык, [из] капхи и крови, соединённый со слюнотечением, зудом и сильным жжением, — это называется «упаджихвика»."
+        "text": "Отёк по форме подобный кончику языка, возникший, поднявшись под язык, [из] капхи и крови, соединённый со слюнотечением, зудом и сильным жжением, — это называется «упаджихвика».",
+        "text_en": "A swelling similar in form to the tip of the tongue, arisen, having risen under the tongue, (from) Kapha and blood, combined with salivation, itching and severe burning: this is called Upajihvika."
       },
       {
         "type": "verse",
@@ -87570,7 +88097,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिह्वागतविकाराणां शस्तं शोणितमोक्षणम् गुडूचीपिप्पलीनिम्बकवलः कटुभिः सुखः",
         "iast": "jihvāgatavikārāṇāṃ śastaṃ śoṇitamokṣaṇam guḍūcīpippalīnimbakavalaḥ kaṭubhiḥ sukhaḥ",
         "iast_ru": "джихва̄гатавика̄ра̄н̣а̄м̣ ш́астам̣ ш́он̣итамокш̣ан̣ам гуд̣ӯчӣпиппалӣнимбакавалах̣ кат̣убхих̣ сукхах̣",
-        "text": "При расстройствах языка рекомендуется кровопускание; полоскание гудучи, пиппали и нимом, острыми, полезно."
+        "text": "При расстройствах языка рекомендуется кровопускание; полоскание гудучи, пиппали и нимом, острыми, полезно.",
+        "text_en": "In disorders of the tongue bloodletting is recommended; rinsing with Guduchi, Pippali and Neem, pungent ones, is beneficial."
       },
       {
         "type": "verse",
@@ -87578,7 +88106,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ओष्ठप्रकोपेऽनिलजे यदुक्तं प्राक्चिकित्सितम् कण्टकेष्वनिलोत्थेषु तत्कार्यं भिषजा खलु ९२ पित्तजे परिघृष्टे तु निःसृते दुष्टशोणिते प्रतिसारणगण्डूषनस्यञ्च मधुरं हितम्",
         "iast": "oṣṭhaprakope'nilaje yaduktaṃ prākcikitsitam kaṇṭakeṣvanilottheṣu tatkāryaṃ bhiṣajā khalu 92 pittaje parighṛṣṭe tu niḥsṛte duṣṭaśoṇite pratisāraṇagaṇḍūṣanasyañca madhuraṃ hitam",
         "iast_ru": "ош̣т̣хапракопе'ниладже йадуктам̣ пра̄кчикитситам кан̣т̣акеш̣ванилоттхеш̣у татка̄рйам̣ бхиш̣аджа̄ кхалу  питтадже паригхр̣ш̣т̣е ту них̣ср̣те душ̣т̣аш́он̣ите пратиса̄ран̣аган̣д̣ӯш̣анасйан̃ча мадхурам̣ хитам",
-        "text": "При возмущении губ ватхой то лечение, что было изложено ранее, — то же самое следует применять врачу при шипах, [возникших] от ватхи; при питтовых, [если] растёрты и испорченная кровь истекла, — притирание, полоскание и назальное средство, сладкое, полезно."
+        "text": "При возмущении губ ватхой то лечение, что было изложено ранее, — то же самое следует применять врачу при шипах, [возникших] от ватхи; при питтовых, [если] растёрты и испорченная кровь истекла, — притирание, полоскание и назальное средство, сладкое, полезно.",
+        "text_en": "In aggravation of the lips by Vata, the treatment described earlier, the same should be applied by the physician in thorns (arising) from Vata; in Pitta types, (if) abraded and the vitiated blood has flowed out, rubbing, rinsing and a sweet nasal medicine are beneficial."
       },
       {
         "type": "verse",
@@ -87586,7 +88115,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कण्टकेषु कफोत्थेषु लिखितेष्वसृजः क्षये पिप्पल्यादिर्मधुयुतः कार्यस्तु प्रतिसारणे",
         "iast": "kaṇṭakeṣu kaphottheṣu likhiteṣvasṛjaḥ kṣaye pippalyādirmadhuyutaḥ kāryastu pratisāraṇe",
         "iast_ru": "кан̣т̣акеш̣у капхоттхеш̣у ликхитеш̣васр̣джах̣ кш̣айе пиппалйа̄дирмадхуйутах̣ ка̄рйасту пратиса̄ран̣е",
-        "text": "При шипах, [возникших] от капхи, надрезанных, при истощении крови — пиппали и подобное, соединённое с мёдом, следует применять для притирания."
+        "text": "При шипах, [возникших] от капхи, надрезанных, при истощении крови — пиппали и подобное, соединённое с мёдом, следует применять для притирания.",
+        "text_en": "In thorns (arising) from Kapha, incised, in depletion of blood, Pippali and the like, combined with honey, should be applied for rubbing."
       },
       {
         "type": "verse",
@@ -87594,7 +88124,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उपजिह्वां तु संलिख्य क्षारेण प्रतिसारयेत् शिरोविरेकगण्डूषधूमैश्चैनामुपाचरेत्",
         "iast": "upajihvāṃ tu saṃlikhya kṣāreṇa pratisārayet śirovirekagaṇḍūṣadhūmaiścaināmupācaret",
         "iast_ru": "упаджихва̄м̣ ту сам̣ликхйа кш̣а̄рен̣а пратиса̄райет ш́ировирекаган̣д̣ӯш̣адхӯмаиш́чаина̄мупа̄чарет",
-        "text": "«Упаджихвику» же, надрезав, следует притирать щёлочью; следует лечить её очищением головы, полосканием и окуриванием дымом."
+        "text": "«Упаджихвику» же, надрезав, следует притирать щёлочью; следует лечить её очищением головы, полосканием и окуриванием дымом.",
+        "text_en": "Upajihvika, however, having been incised, should be rubbed with alkali; it should be treated with cleansing of the head, rinsing and fumigation with smoke."
       },
       {
         "type": "verse",
@@ -87602,7 +88133,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "व्योषक्षाराभयावह्नि चूर्णमेतत्प्रघर्षणम् उपजिह्वाप्रशान्त्यर्थमेभिस्तैलञ्च पाचयेत्",
         "iast": "vyoṣakṣārābhayāvahni cūrṇametatpragharṣaṇam upajihvāpraśāntyarthamebhistailañca pācayet",
         "iast_ru": "вйош̣акш̣а̄ра̄бхайа̄вахни чӯрн̣аметатпрагхарш̣ан̣ам упаджихва̄праш́а̄нтйартхамебхистаилан̃ча па̄чайет",
-        "text": "Порошок вьоши, щёлочи, харитаки и агни (читраки) — это притирание; этими же следует варить масло для успокоения «упаджихвики»."
+        "text": "Порошок вьоши, щёлочи, харитаки и агни (читраки) — это притирание; этими же следует варить масло для успокоения «упаджихвики».",
+        "text_en": "A powder of Vyosha, alkali, Haritaki and Agni (Chitraka) is a rubbing; with these oil should also be cooked for pacifying Upajihvika."
       },
       {
         "type": "verse",
@@ -87610,7 +88142,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गलशुण्ठी तुण्डिकेर्यभ्रूषः कच्छप एव च ताल्वर्बुदश्च कथितो मांससङ्घात एव च",
         "iast": "galaśuṇṭhī tuṇḍikeryabhrūṣaḥ kacchapa eva ca tālvarbudaśca kathito māṃsasaṅghāta eva ca",
         "iast_ru": "галаш́ун̣т̣хӣ тун̣д̣икерйабхрӯш̣ах̣ каччхапа ева ча та̄лварбудаш́ча катхито ма̄м̣сасан̇гха̄та ева ча",
-        "text": "«Гала-шунди», «тундикери», «абхруша», «каччхапа», «тальв-арбуда» и «мамса-сангхата»,"
+        "text": "«Гала-шунди», «тундикери», «абхруша», «каччхапа», «тальв-арбуда» и «мамса-сангхата»,",
+        "text_en": "Gala-shundi, Tundikeri, Abhrusha, Kacchapa, Talvarbuda and Mamsa-sanghata,"
       },
       {
         "type": "verse",
@@ -87618,7 +88151,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालुपुप्पुटनामा च तालुशोषस्तथैव च तालुपाकश्च कथितास्तालुरोगा अमी नव",
         "iast": "tālupuppuṭanāmā ca tāluśoṣastathaiva ca tālupākaśca kathitāstālurogā amī nava",
         "iast_ru": "та̄лупуппут̣ана̄ма̄ ча та̄луш́ош̣астатхаива ча та̄лупа̄каш́ча катхита̄ста̄лурога̄ амӣ нава",
-        "text": "«тальв-пуппута», «талу-шоша», а также «талу-пака» — эти девять болезней нёба."
+        "text": "«тальв-пуппута», «талу-шоша», а также «талу-пака» — эти девять болезней нёба.",
+        "text_en": "Talupupputa, Talushosha, and also Talupaka: these are the nine diseases of the palate."
       },
       {
         "type": "verse",
@@ -87626,7 +88160,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्लेष्मासृग्भ्यांतालुमूलात्प्रवृद्धो दीर्घः शोथो ध्मातवस्तिप्रकाशः तृष्णाकासश्वासकृत्तं वदन्ति व्याधिं वैद्याः कण्ठशुण्डीति नाम्ना",
         "iast": "śleṣmāsṛgbhyāṃtālumūlātpravṛddho dīrghaḥ śotho dhmātavastiprakāśaḥ tṛṣṇākāsaśvāsakṛttaṃ vadanti vyādhiṃ vaidyāḥ kaṇṭhaśuṇḍīti nāmnā",
         "iast_ru": "ш́леш̣ма̄ср̣гбхйа̄м̣та̄лумӯла̄тправр̣ддхо дӣргхах̣ ш́отхо дхма̄тавастипрака̄ш́ах̣ тр̣ш̣н̣а̄ка̄саш́ва̄сакр̣ттам̣ ваданти вйа̄дхим̣ ваидйа̄х̣ кан̣т̣хаш́ун̣д̣ӣти на̄мна̄",
-        "text": "От капхи и крови из основания нёба возникает длинный, вздутый отёк, подобный надутому бурдюку, вызывающий жажду, кашель и одышку; эту болезнь врачи называют именем «канта-шунди»."
+        "text": "От капхи и крови из основания нёба возникает длинный, вздутый отёк, подобный надутому бурдюку, вызывающий жажду, кашель и одышку; эту болезнь врачи называют именем «канта-шунди».",
+        "text_en": "From Kapha and blood, from the base of the palate, a long, swollen swelling arises, like an inflated skin bag, causing thirst, cough and dyspnea; this disease the physicians call by the name Kantha-shundi."
       },
       {
         "type": "verse",
@@ -87634,7 +88169,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोथः स्थूलस्तोददाहप्रपाकी श्लेष्मासृग्भ्यां कीर्त्तिता तुण्डिकेरी",
         "iast": "śothaḥ sthūlastodadāhaprapākī śleṣmāsṛgbhyāṃ kīrttitā tuṇḍikerī",
         "iast_ru": "ш́отхах̣ стхӯластодада̄хапрапа̄кӣ ш́леш̣ма̄ср̣гбхйа̄м̣ кӣрттита̄ тун̣д̣икерӣ",
-        "text": "Крупный отёк, с покалыванием, жжением и созреванием, [возникший] от капхи и крови, называется «тундикери»."
+        "text": "Крупный отёк, с покалыванием, жжением и созреванием, [возникший] от капхи и крови, называется «тундикери».",
+        "text_en": "A large swelling, with pricking, burning and ripening, (arising) from Kapha and blood, is called Tundikeri."
       },
       {
         "type": "verse",
@@ -87642,7 +88178,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोथः स्तब्धो लोहितः शोणितोत्थो ज्ञेयोऽभ्रूषः सज्वरस्तीव्ररुक्च",
         "iast": "śothaḥ stabdho lohitaḥ śoṇitottho jñeyo'bhrūṣaḥ sajvarastīvrarukca",
         "iast_ru": "ш́отхах̣ стабдхо лохитах̣ ш́он̣итоттхо джн̃ейо'бхрӯш̣ах̣ саджварастӣврарукча",
-        "text": "Отёк застылый, красный, возникший от крови, с лихорадкой и сильной болью, следует знать как «абхруша»."
+        "text": "Отёк застылый, красный, возникший от крови, с лихорадкой и сильной болью, следует знать как «абхруша».",
+        "text_en": "A swelling stiff, red, arising from blood, with fever and severe pain, should be known as Abhrusha."
       },
       {
         "type": "verse",
@@ -87650,7 +88187,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कूर्मोत्सन्नोऽवेदनोऽशीघ्रजन्मा रोगो ज्ञेयः कच्छपः श्लेष्मणः स्यात्",
         "iast": "kūrmotsanno'vedano'śīghrajanmā rogo jñeyaḥ kacchapaḥ śleṣmaṇaḥ syāt",
         "iast_ru": "кӯрмотсанно'ведано'ш́ӣгхраджанма̄ рого джн̃ейах̣ каччхапах̣ ш́леш̣ман̣ах̣ сйа̄т",
-        "text": "Приподнятый, подобный черепахе, безболезненный, медленно возникающий — эту болезнь следует знать как «каччхапа», [возникшую] от капхи."
+        "text": "Приподнятый, подобный черепахе, безболезненный, медленно возникающий — эту болезнь следует знать как «каччхапа», [возникшую] от капхи.",
+        "text_en": "Raised, like a tortoise, painless, slowly arising: this disease should be known as Kacchapa, (arising) from Kapha."
       },
       {
         "type": "verse",
@@ -87658,7 +88196,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पद्माकारं तालुमध्ये तु शोथं विद्याद्र क्तादर्बुदं पित्तलिङ्गम्",
         "iast": "padmākāraṃ tālumadhye tu śothaṃ vidyādra ktādarbudaṃ pittaliṅgam",
         "iast_ru": "падма̄ка̄рам̣ та̄лумадхйе ту ш́отхам̣ видйа̄дра кта̄дарбудам̣ питталин̇гам",
-        "text": "Отёк, подобный лотосу по форме, в середине нёба, следует знать как кровяную опухоль, с признаками питты."
+        "text": "Отёк, подобный лотосу по форме, в середине нёба, следует знать как кровяную опухоль, с признаками питты.",
+        "text_en": "A swelling similar to a lotus in form, in the middle of the palate, should be known as a blood tumor, with signs of Pitta."
       },
       {
         "type": "verse",
@@ -87666,7 +88205,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दुष्टं मांसश्लेष्मणा नीरुजञ्च ताल्वन्तःस्थं मांससंघातमाहुः",
         "iast": "duṣṭaṃ māṃsaśleṣmaṇā nīrujañca tālvantaḥsthaṃ māṃsasaṃghātamāhuḥ",
         "iast_ru": "душ̣т̣ам̣ ма̄м̣саш́леш̣ман̣а̄ нӣруджан̃ча та̄лвантах̣стхам̣ ма̄м̣сасам̣гха̄тама̄хух̣",
-        "text": "Испорченное мясом и капхой, безболезненное скопление мяса внутри нёба называют «мамса-сангхата»."
+        "text": "Испорченное мясом и капхой, безболезненное скопление мяса внутри нёба называют «мамса-сангхата».",
+        "text_en": "Spoiled by flesh and Kapha, a painless accumulation of flesh inside the palate is called Mamsa-sanghata."
       },
       {
         "type": "verse",
@@ -87674,7 +88214,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "नीरुक्स्थायी कोलमात्रः कफात्स्यान्मेदोयुक्तात् पुप्पुटस्तालुदेशे",
         "iast": "nīruksthāyī kolamātraḥ kaphātsyānmedoyuktāt puppuṭastāludeśe",
         "iast_ru": "нӣрукстха̄йӣ колама̄трах̣ капха̄тсйа̄нмедойукта̄т пуппут̣аста̄лудеш́е",
-        "text": "Безболезненный, устойчивый, размером с ягоду, [возникший] от капхи, соединённой с жиром, — «пуппута» в области нёба."
+        "text": "Безболезненный, устойчивый, размером с ягоду, [возникший] от капхи, соединённой с жиром, — «пуппута» в области нёба.",
+        "text_en": "Painless, firm, the size of a berry, (arising) from Kapha combined with fat: Pupputa in the region of the palate."
       },
       {
         "type": "verse",
@@ -87682,7 +88223,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोषोऽत्यर्थं दीर्यते वाऽपि तालु श्वासश्चोग्रस्तालुशोषोऽनिलाच्च",
         "iast": "śoṣo'tyarthaṃ dīryate vā'pi tālu śvāsaścograstāluśoṣo'nilācca",
         "iast_ru": "ш́ош̣о'тйартхам̣ дӣрйате ва̄'пи та̄лу ш́ва̄саш́чограста̄луш́ош̣о'нила̄чча",
-        "text": "Чрезмерная сухость, или нёбо разрывается, а также сильная одышка — «талу-шоша», [возникшая] от ватхи."
+        "text": "Чрезмерная сухость, или нёбо разрывается, а также сильная одышка — «талу-шоша», [возникшая] от ватхи.",
+        "text_en": "Excessive dryness, or the palate tears, and also severe dyspnea: Talushosha, (arising) from Vata."
       },
       {
         "type": "verse",
@@ -87690,7 +88232,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तं कुर्यात्पाकमत्यर्थघोरं तालुन्येवं तालुपाकं वदन्ति",
         "iast": "pittaṃ kuryātpākamatyarthaghoraṃ tālunyevaṃ tālupākaṃ vadanti",
         "iast_ru": "питтам̣ курйа̄тпа̄каматйартхагхорам̣ та̄лунйевам̣ та̄лупа̄кам̣ ваданти",
-        "text": "Питта вызывает крайне ужасное созревание нёба — так называют «талу-паку»."
+        "text": "Питта вызывает крайне ужасное созревание нёба — так называют «талу-паку».",
+        "text_en": "Pitta causes an extremely terrible ripening of the palate: this is called Talupaka."
       },
       {
         "type": "verse",
@@ -87698,7 +88241,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कुष्ठोषणवचासिन्धुकणापाठाप्लवैः सह सक्षौद्रै र्भिषजा कार्यं गलशुण्डीप्रघर्षणम्",
         "iast": "kuṣṭhoṣaṇavacāsindhukaṇāpāṭhāplavaiḥ saha sakṣaudrai rbhiṣajā kāryaṃ galaśuṇḍīpragharṣaṇam",
         "iast_ru": "куш̣т̣хош̣ан̣авача̄синдхукан̣а̄па̄т̣ха̄плаваих̣ саха сакш̣аудраи рбхиш̣аджа̄ ка̄рйам̣ галаш́ун̣д̣ӣпрагхарш̣ан̣ам",
-        "text": "Кустха, острые вещества, вача, соль синдху, пиппали, патха, плава, соединённые с мёдом, — врачу следует применить для притирания при «гала-шунди»."
+        "text": "Кустха, острые вещества, вача, соль синдху, пиппали, патха, плава, соединённые с мёдом, — врачу следует применить для притирания при «гала-шунди».",
+        "text_en": "Kushtha, pungent substances, Vacha, Saindhava salt, Pippali, Patha, Plava, combined with honey: the physician should apply for rubbing in Gala-shundi."
       },
       {
         "type": "verse",
@@ -87706,7 +88250,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अङ्गुष्ठाङ्गुलिसन्दंशेनाकृष्य गलशुण्डिकाम् छेदयेन्मण्डलाग्रेण जिह्वोपरि तु संस्थिताम्",
         "iast": "aṅguṣṭhāṅgulisandaṃśenākṛṣya galaśuṇḍikām chedayenmaṇḍalāgreṇa jihvopari tu saṃsthitām",
         "iast_ru": "ан̇гуш̣т̣ха̄н̇гулисандам̣ш́ена̄кр̣ш̣йа галаш́ун̣д̣ика̄м чхедайенман̣д̣ала̄грен̣а джихвопари ту сам̣стхита̄м",
-        "text": "Захватив клещами большого и указательного пальца «гала-шунди», расположенную над языком, следует рассечь округлым концом [оружия]."
+        "text": "Захватив клещами большого и указательного пальца «гала-шунди», расположенную над языком, следует рассечь округлым концом [оружия].",
+        "text_en": "Having seized with tongs of thumb and forefinger the Gala-shundi located above the tongue, it should be cut with the round end (of the instrument)."
       },
       {
         "type": "verse",
@@ -87714,7 +88259,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अत्यादानात्स्रवेद्र क्तं ततः स म्रियते नरः हीनच्छेदाद्भवेच्छोथो लालास्रावो भ्रमस्तथा तस्माद्वैद्यः प्रयत्नेन दृष्टकर्मा विशारदः गलशुण्डीं तु संच्छिद्य कुर्यात्प्राप्तमिमं क्रमम् पिप्पल्यतिविषाकुष्ठवचामरिचनागरैः क्षौद्र युक्तैः सलवणैस्ततस्तां प्रतिसारयेत् वचामतिविषापाठारास्नाकटुकरोहिणीः निक्वाथ्य पिचुमर्दञ्च कवलं तत्र कारयेत् तुण्डिकेर्यभ्रुषे कूर्मे सङ्घाते तालुपुप्पुटे एष एव विधिः कार्यो विशेषः शस्त्रकर्मणि",
         "iast": "atyādānātsravedra ktaṃ tataḥ sa mriyate naraḥ hīnacchedādbhavecchotho lālāsrāvo bhramastathā tasmādvaidyaḥ prayatnena dṛṣṭakarmā viśāradaḥ galaśuṇḍīṃ tu saṃcchidya kuryātprāptamimaṃ kramam pippalyativiṣākuṣṭhavacāmaricanāgaraiḥ kṣaudra yuktaiḥ salavaṇaistatastāṃ pratisārayet vacāmativiṣāpāṭhārāsnākaṭukarohiṇīḥ nikvāthya picumardañca kavalaṃ tatra kārayet tuṇḍikeryabhruṣe kūrme saṅghāte tālupuppuṭe eṣa eva vidhiḥ kāryo viśeṣaḥ śastrakarmaṇi",
         "iast_ru": "атйа̄да̄на̄тсраведра ктам̣ татах̣ са мрийате нарах̣ хӣначчхеда̄дбхавеччхотхо ла̄ла̄сра̄во бхрамастатха̄ тасма̄дваидйах̣ прайатнена др̣ш̣т̣акарма̄ виш́а̄радах̣ галаш́ун̣д̣ӣм̣ ту сам̣ччхидйа курйа̄тпра̄птамимам̣ крамам пиппалйативиш̣а̄куш̣т̣хавача̄маричана̄гараих̣ кш̣аудра йуктаих̣ салаван̣аистатаста̄м̣ пратиса̄райет вача̄мативиш̣а̄па̄т̣ха̄ра̄сна̄кат̣укарохин̣ӣх̣ никва̄тхйа пичумардан̃ча кавалам̣ татра ка̄райет тун̣д̣икерйабхруш̣е кӯрме сан̇гха̄те та̄лупуппут̣е еш̣а ева видхих̣ ка̄рйо виш́еш̣ах̣ ш́астракарман̣и",
-        "text": "От избыточного захвата истекает кровь, и от этого человек умирает; от недостаточного рассечения возникает отёк, слюнотечение и головокружение; поэтому опытному врачу, видевшему [эту] процедуру, следует действовать старательно; рассекши «гала-шунди», следует применить достигнутый метод: пиппали, ативиша, кустха, вача, чёрный перец и сушёный имбирь, соединённые с мёдом и солью, — этим следует притирать; вача, ативиша, патха, расна, катука-рохини, сваренные с нимом, — этим следует делать полоскание. При «тундикери», «абхруше», «каччхапе», «сангхате» и «талу-пуппуте» — тот же самый метод, с особенностью в хирургическом вмешательстве."
+        "text": "От избыточного захвата истекает кровь, и от этого человек умирает; от недостаточного рассечения возникает отёк, слюнотечение и головокружение; поэтому опытному врачу, видевшему [эту] процедуру, следует действовать старательно; рассекши «гала-шунди», следует применить достигнутый метод: пиппали, ативиша, кустха, вача, чёрный перец и сушёный имбирь, соединённые с мёдом и солью, — этим следует притирать; вача, ативиша, патха, расна, катука-рохини, сваренные с нимом, — этим следует делать полоскание. При «тундикери», «абхруше», «каччхапе», «сангхате» и «талу-пуппуте» — тот же самый метод, с особенностью в хирургическом вмешательстве.",
+        "text_en": "From excessive seizing blood flows, and from this the person dies; from insufficient cutting swelling, salivation and giddiness arise; therefore the experienced physician, having seen (this) procedure, should act carefully; having cut the Gala-shundi, the established method should be applied: Pippali, Ativisha, Kushtha, Vacha, black pepper and dried ginger, combined with honey and salt: with this one should rub; Vacha, Ativisha, Patha, Rasna, Katuka-rohini, cooked with Neem: with this one should rinse. In Tundikeri, Abhrusha, Kacchapa, Sanghata and Talupupputa the same method, with special features in the surgical intervention."
       },
       {
         "type": "verse",
@@ -87722,7 +88268,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तालुपाके तु कर्त्तव्यं विधानं पित्तनाशनम् स्नेहस्वेदौ तालुशोषे विधिश्चानिलनाशनः",
         "iast": "tālupāke tu karttavyaṃ vidhānaṃ pittanāśanam snehasvedau tāluśoṣe vidhiścānilanāśanaḥ",
         "iast_ru": "та̄лупа̄ке ту карттавйам̣ видха̄нам̣ питтана̄ш́анам снехасведау та̄луш́ош̣е видхиш́ча̄нилана̄ш́анах̣",
-        "text": "При «талу-паке» следует применять метод, устраняющий питту; при «талу-шоше» — маслянистые средства и прогревание, метод, устраняющий ватху."
+        "text": "При «талу-паке» следует применять метод, устраняющий питту; при «талу-шоше» — маслянистые средства и прогревание, метод, устраняющий ватху.",
+        "text_en": "In Talupaka the method that relieves Pitta should be applied; in Talushosha, unctuous remedies and fomentation, the method that relieves Vata."
       },
       {
         "type": "verse",
@@ -87730,7 +88277,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रोहिणी पञ्चधा प्रोक्ता कण्ठशालूक एव च अधिजिह्वश्च वलयो बलासश्चैकवृन्दकः",
         "iast": "rohiṇī pañcadhā proktā kaṇṭhaśālūka eva ca adhijihvaśca valayo balāsaścaikavṛndakaḥ",
         "iast_ru": "рохин̣ӣ пан̃чадха̄ прокта̄ кан̣т̣хаш́а̄лӯка ева ча адхиджихваш́ча валайо бала̄саш́чаикавр̣ндаках̣",
-        "text": "«Рохини» провозглашена пяти видов, а также «канта-шалука», «адхиджихва», «валая», «баласа» и «эка-вриндака»,"
+        "text": "«Рохини» провозглашена пяти видов, а также «канта-шалука», «адхиджихва», «валая», «баласа» и «эка-вриндака»,",
+        "text_en": "Rohini is declared of five kinds, and also Kantha-shaluka, Adhijihva, Valaya, Balasa and Eka-vrindaka,"
       },
       {
         "type": "verse",
@@ -87738,7 +88286,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ततो वृन्दः शतघ्नी च गिलायुः कण्ठविद्र धिः गलौघश्च स्वरघ्नश्च मांसतानस्तथैव च",
         "iast": "tato vṛndaḥ śataghnī ca gilāyuḥ kaṇṭhavidra dhiḥ galaughaśca svaraghnaśca māṃsatānastathaiva ca",
         "iast_ru": "тато вр̣ндах̣ ш́атагхнӣ ча гила̄йух̣ кан̣т̣хавидра дхих̣ галаугхаш́ча сварагхнаш́ча ма̄м̣сата̄настатхаива ча",
-        "text": "затем «вринда» и «шатагхни», «гилаю», «канта-видрадхи», «гала-огха», «свара-гхна», а также «мамса-тана»,"
+        "text": "затем «вринда» и «шатагхни», «гилаю», «канта-видрадхи», «гала-огха», «свара-гхна», а также «мамса-тана»,",
+        "text_en": "then Vrinda and Shataghni, Gilayu, Kantha-vidradhi, Gala-ogha, Svaraghna, and also Mamsa-tana,"
       },
       {
         "type": "verse",
@@ -87746,7 +88295,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विदारी कण्ठदेशे तु रोगा अष्टादश स्मृताः",
         "iast": "vidārī kaṇṭhadeśe tu rogā aṣṭādaśa smṛtāḥ",
         "iast_ru": "вида̄рӣ кан̣т̣хадеш́е ту рога̄ аш̣т̣а̄даш́а смр̣та̄х̣",
-        "text": "«видари» — в области горла провозглашено восемнадцать болезней."
+        "text": "«видари» — в области горла провозглашено восемнадцать болезней.",
+        "text_en": "Vidari: in the region of the throat eighteen diseases are declared."
       },
       {
         "type": "verse",
@@ -87754,7 +88304,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गलेऽनिलः पित्तकफौ च मूर्च्छितौ प्रदूष्य मांसञ्च तथैव शोणितम् गलोपसंरोधकरैस्तथाङ्कुरैर्निहन्त्यसून्व्याधिरयं च रोहिणी",
         "iast": "gale'nilaḥ pittakaphau ca mūrcchitau pradūṣya māṃsañca tathaiva śoṇitam galopasaṃrodhakaraistathāṅkurairnihantyasūnvyādhirayaṃ ca rohiṇī",
         "iast_ru": "гале'нилах̣ питтакапхау ча мӯрччхитау прадӯш̣йа ма̄м̣сан̃ча татхаива ш́он̣итам галопасам̣родхакараистатха̄н̇кураирнихантйасӯнвйа̄дхирайам̣ ча рохин̣ӣ",
-        "text": "Ватха, питта и капха в горле, помрачённые, испортив мясо и кровь, [образуют] ростки, закрывающие горло; эта болезнь, «рохини», губит жизнь."
+        "text": "Ватха, питта и капха в горле, помрачённые, испортив мясо и кровь, [образуют] ростки, закрывающие горло; эта болезнь, «рохини», губит жизнь.",
+        "text_en": "Vata, Pitta and Kapha in the throat, vitiated, having spoiled flesh and blood, (form) sprouts that close the throat; this disease, Rohini, destroys life."
       },
       {
         "type": "verse",
@@ -87762,7 +88313,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिह्वासमन्ताद् भृशवेदनास्तु मांसाङ्कुराः कण्ठनिरोधनाः स्युः सा रोहिणी वातकृता प्रदिष्टा वातात्मकोपद्र वगाढजुष्टा",
         "iast": "jihvāsamantād bhṛśavedanāstu māṃsāṅkurāḥ kaṇṭhanirodhanāḥ syuḥ sā rohiṇī vātakṛtā pradiṣṭā vātātmakopadra vagāḍhajuṣṭā",
         "iast_ru": "джихва̄саманта̄д бхр̣ш́аведана̄сту ма̄м̣са̄н̇кура̄х̣ кан̣т̣ханиродхана̄х̣ сйух̣ са̄ рохин̣ӣ ва̄такр̣та̄ прадиш̣т̣а̄ ва̄та̄тмакопадра вага̄д̣хаджуш̣т̣а̄",
-        "text": "Вокруг языка мясные ростки с сильной болью, закрывающие горло, — эта «рохини», [вызванная] ватхой, провозглашена соединённой с тяжёлыми осложнениями ватхового характера."
+        "text": "Вокруг языка мясные ростки с сильной болью, закрывающие горло, — эта «рохини», [вызванная] ватхой, провозглашена соединённой с тяжёлыми осложнениями ватхового характера.",
+        "text_en": "Around the tongue fleshy sprouts with severe pain, closing the throat: this Rohini, (caused) by Vata, is declared as combined with severe complications of Vata character."
       },
       {
         "type": "verse",
@@ -87770,7 +88322,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षिप्रोद्गमा क्षिप्रविदाहपाका तीव्रज्वरा पित्तनिमित्तजाता",
         "iast": "kṣiprodgamā kṣipravidāhapākā tīvrajvarā pittanimittajātā",
         "iast_ru": "кш̣ипродгама̄ кш̣иправида̄хапа̄ка̄ тӣвраджвара̄ питтанимиттаджа̄та̄",
-        "text": "Быстро возникающая, быстро загнивающая и созревающая, с сильной лихорадкой — [форма], возникшая от причины питты."
+        "text": "Быстро возникающая, быстро загнивающая и созревающая, с сильной лихорадкой — [форма], возникшая от причины питты.",
+        "text_en": "Arising quickly, quickly putrefying and ripening, with high fever: the (form) arising from the cause of Pitta."
       },
       {
         "type": "verse",
@@ -87778,7 +88331,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्रोतोनिरोधिन्यपि मन्दपाका गुर्वी स्थिरा सा कफसम्भवा तु",
         "iast": "srotonirodhinyapi mandapākā gurvī sthirā sā kaphasambhavā tu",
         "iast_ru": "сротониродхинйапи мандапа̄ка̄ гурвӣ стхира̄ са̄ капхасамбхава̄ ту",
-        "text": "Закупоривающая каналы, медленно созревающая, тяжёлая, устойчивая — эта [форма], возникшая от капхи."
+        "text": "Закупоривающая каналы, медленно созревающая, тяжёлая, устойчивая — эта [форма], возникшая от капхи.",
+        "text_en": "Blocking the channels, ripening slowly, heavy, stable: this (form) arising from Kapha."
       },
       {
         "type": "verse",
@@ -87786,7 +88340,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गम्भीरपाकिन्यनिवार्यवीर्या त्रिदोषलिङ्गा त्रिभवा भवेत्सा",
         "iast": "gambhīrapākinyanivāryavīryā tridoṣaliṅgā tribhavā bhavetsā",
         "iast_ru": "гамбхӣрапа̄кинйанива̄рйавӣрйа̄ тридош̣алин̇га̄ трибхава̄ бхаветса̄",
-        "text": "Глубоко созревающая, с неотвратимой силой, с признаками всех трёх дош, возникшая от всех трёх — [эта форма]."
+        "text": "Глубоко созревающая, с неотвратимой силой, с признаками всех трёх дош, возникшая от всех трёх — [эта форма].",
+        "text_en": "Ripening deeply, with irresistible force, with signs of all three doshas, arising from all three: (this form)."
       },
       {
         "type": "verse",
@@ -87794,7 +88349,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्फोटैश्चिता पित्तसमानलिङ्गा साध्या प्रदिष्टा रुधिरात्मिका तु",
         "iast": "sphoṭaiścitā pittasamānaliṅgā sādhyā pradiṣṭā rudhirātmikā tu",
         "iast_ru": "спхот̣аиш́чита̄ питтасама̄налин̇га̄ са̄дхйа̄ прадиш̣т̣а̄ рудхира̄тмика̄ ту",
-        "text": "Покрытая пузырями, с признаками, подобными питтовым, — провозглашена излечимой; она кровяного характера."
+        "text": "Покрытая пузырями, с признаками, подобными питтовым, — провозглашена излечимой; она кровяного характера.",
+        "text_en": "Covered with blisters, with signs similar to Pitta, it is declared curable; it is of blood character."
       },
       {
         "type": "verse",
@@ -87802,7 +88358,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सद्यस्त्रिदोषजा हन्ति त्र्यहात्कफसमुद्भवा पञ्चाहात्पित्तसम्भूता सप्ताहात्पवनोत्थिता",
         "iast": "sadyastridoṣajā hanti tryahātkaphasamudbhavā pañcāhātpittasambhūtā saptāhātpavanotthitā",
         "iast_ru": "садйастридош̣аджа̄ ханти трйаха̄ткапхасамудбхава̄ пан̃ча̄ха̄тпиттасамбхӯта̄ сапта̄ха̄тпаваноттхита̄",
-        "text": "[Возникшая] от всех трёх дош сразу губит; [возникшая] от капхи — за три дня; от питты — за пять дней; от ветра — за семь дней."
+        "text": "[Возникшая] от всех трёх дош сразу губит; [возникшая] от капхи — за три дня; от питты — за пять дней; от ветра — за семь дней.",
+        "text_en": "(That arising) from all three doshas together destroys; (that arising) from Kapha in three days; from Pitta in five days; from wind in seven days."
       },
       {
         "type": "verse",
@@ -87810,7 +88367,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कोलास्थिगात्रः कफसम्भवो यो ग्रन्थिर्गले कण्टकशूकभूतः खरः स्थिरः शस्त्रनिपातसाध्यस्तत्कण्ठशालूकमिति ब्रुवन्ति",
         "iast": "kolāsthigātraḥ kaphasambhavo yo granthirgale kaṇṭakaśūkabhūtaḥ kharaḥ sthiraḥ śastranipātasādhyastatkaṇṭhaśālūkamiti bruvanti",
         "iast_ru": "кола̄стхига̄трах̣ капхасамбхаво йо грантхиргале кан̣т̣акаш́ӯкабхӯтах̣ кхарах̣ стхирах̣ ш́астранипа̄таса̄дхйастаткан̣т̣хаш́а̄лӯкамити бруванти",
-        "text": "Узел в горле, размером с косточку ююбы, [возникший] от капхи, подобный шипу или колючке, грубый, устойчивый, требующий хирургического вмешательства, — это называют «канта-шалукой»."
+        "text": "Узел в горле, размером с косточку ююбы, [возникший] от капхи, подобный шипу или колючке, грубый, устойчивый, требующий хирургического вмешательства, — это называют «канта-шалукой».",
+        "text_en": "A knot in the throat, the size of a jujube stone, (arising) from Kapha, resembling a thorn or prickle, rough, firm, requiring surgical intervention: this is called Kantha-shaluka."
       },
       {
         "type": "verse",
@@ -87818,7 +88376,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जिह्वाऽग्ररूपः श्वयथुः कफात्तु जिह्वोपरिष्टादसृजैव मिश्रात् ज्ञेयोऽधिजिह्वः खलु रोग एव विवर्जयेदागतपाकमेनम्",
         "iast": "jihvā'grarūpaḥ śvayathuḥ kaphāttu jihvopariṣṭādasṛjaiva miśrāt jñeyo'dhijihvaḥ khalu roga eva vivarjayedāgatapākamenam",
         "iast_ru": "джихва̄'грарӯпах̣ ш́вайатхух̣ капха̄тту джихвопариш̣т̣а̄даср̣джаива миш́ра̄т джн̃ейо'дхиджихвах̣ кхалу рога ева виварджайеда̄гатапа̄каменам",
-        "text": "Отёк, подобный кончику языка, от капхи, смешанной с кровью, возникший над языком, — эту болезнь следует знать как «адхиджихву»; следует избегать [лечения], когда наступило созревание."
+        "text": "Отёк, подобный кончику языка, от капхи, смешанной с кровью, возникший над языком, — эту болезнь следует знать как «адхиджихву»; следует избегать [лечения], когда наступило созревание.",
+        "text_en": "A swelling like the tip of the tongue, from Kapha mixed with blood, arising above the tongue: this disease should be known as Adhijihva; (treatment) should be avoided when ripening has set in."
       },
       {
         "type": "verse",
@@ -87826,7 +88385,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "बलास एवागतमुन्नतञ्च शोथं करोत्यन्नगतिं निवार्य तं सर्वथैवाप्रतिवार्यमेव विवर्जनीयं वलयं वदन्ति",
         "iast": "balāsa evāgatamunnatañca śothaṃ karotyannagatiṃ nivārya taṃ sarvathaivāprativāryameva vivarjanīyaṃ valayaṃ vadanti",
         "iast_ru": "бала̄са ева̄гатамуннатан̃ча ш́отхам̣ каротйаннагатим̣ нива̄рйа там̣ сарватхаива̄пратива̄рйамева виварджанӣйам̣ валайам̣ ваданти",
-        "text": "«Баласа» же вызывает приподнятый отёк, только начавшийся, препятствуя движению пищи; когда он совершенно неотвратим, следует избегать [лечения] — эту называют «валая»."
+        "text": "«Баласа» же вызывает приподнятый отёк, только начавшийся, препятствуя движению пищи; когда он совершенно неотвратим, следует избегать [лечения] — эту называют «валая».",
+        "text_en": "Balasa, however, causes a raised swelling, only beginning, hindering the movement of food; when it is completely irremediable, (treatment) should be avoided: this is called Valaya."
       },
       {
         "type": "verse",
@@ -87834,7 +88394,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गले तु शोथं कुरुतः प्रवृद्धौ श्लेष्मानिलौ श्वासरुजोपपन्नम् मर्मच्छिदं दुस्तरमेनमाहुर्बलाससंज्ञं भिषजो विकारम्",
         "iast": "gale tu śothaṃ kurutaḥ pravṛddhau śleṣmānilau śvāsarujopapannam marmacchidaṃ dustaramenamāhurbalāsasaṃjñaṃ bhiṣajo vikāram",
         "iast_ru": "гале ту ш́отхам̣ курутах̣ правр̣ддхау ш́леш̣ма̄нилау ш́ва̄саруджопапаннам мармаччхидам̣ дустараменама̄хурбала̄сасам̣джн̃ам̣ бхиш̣аджо вика̄рам",
-        "text": "Возросшие капха и ватха вызывают отёк в горле, соединённый с болью и одышкой; это расстройство, разрушающее жизненно важные точки, труднопреодолимое, врачи называют «баласа»."
+        "text": "Возросшие капха и ватха вызывают отёк в горле, соединённый с болью и одышкой; это расстройство, разрушающее жизненно важные точки, труднопреодолимое, врачи называют «баласа».",
+        "text_en": "Increased Kapha and Vata cause a swelling in the throat, combined with pain and dyspnea; this disorder, destroying the vital points, difficult to overcome, the physicians call Balasa."
       },
       {
         "type": "verse",
@@ -87842,7 +88403,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वृत्तोन्नतोऽन्त श्वयथुः सदाहः सकण्डुरोऽपाक्यमृदुर्गुरुश्च नाम्नैकवृन्दः परिकीर्त्तितोऽसौ व्याधिर्बलासक्षतजप्रसूतः",
         "iast": "vṛttonnato'nta śvayathuḥ sadāhaḥ sakaṇḍuro'pākyamṛdurguruśca nāmnaikavṛndaḥ parikīrttito'sau vyādhirbalāsakṣatajaprasūtaḥ",
         "iast_ru": "вр̣ттоннато'нта ш́вайатхух̣ сада̄хах̣ сакан̣д̣уро'па̄кйамр̣дургуруш́ча на̄мнаикавр̣ндах̣ парикӣрттито'сау вйа̄дхирбала̄сакш̣атаджапрасӯтах̣",
-        "text": "Округлый, приподнятый внутренний отёк, с жжением и зудом, несозревающий, мягкий и тяжёлый — эта болезнь, называемая «эка-вринда», возникает от баласы и повреждённой крови."
+        "text": "Округлый, приподнятый внутренний отёк, с жжением и зудом, несозревающий, мягкий и тяжёлый — эта болезнь, называемая «эка-вринда», возникает от баласы и повреждённой крови.",
+        "text_en": "A round, raised internal swelling, with burning and itching, unripening, soft and heavy: this disease, called Eka-vrinda, arises from Balasa and damaged blood."
       },
       {
         "type": "verse",
@@ -87850,7 +88412,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "समुन्नतं वृत्तममन्ददाहं तीव्रज्वरं वृन्दमुदाहरन्ति तं चापि पित्तक्षतजप्रकोपाद्विद्यात्सतोदं पवनात्मकं तु",
         "iast": "samunnataṃ vṛttamamandadāhaṃ tīvrajvaraṃ vṛndamudāharanti taṃ cāpi pittakṣatajaprakopādvidyātsatodaṃ pavanātmakaṃ tu",
         "iast_ru": "самуннатам̣ вр̣ттамамандада̄хам̣ тӣвраджварам̣ вр̣ндамуда̄харанти там̣ ча̄пи питтакш̣атаджапракопа̄двидйа̄тсатодам̣ павана̄тмакам̣ ту",
-        "text": "Приподнятый, округлый, с умеренным жжением, сильной лихорадкой называют «вринда»; а тот, что с покалыванием, от возмущения питты и повреждённой крови, следует знать как ватхового характера."
+        "text": "Приподнятый, округлый, с умеренным жжением, сильной лихорадкой называют «вринда»; а тот, что с покалыванием, от возмущения питты и повреждённой крови, следует знать как ватхового характера.",
+        "text_en": "Raised, round, with moderate burning, high fever, is called Vrinda; and that with pricking, from aggravation of Pitta and damaged blood, should be known as of Vata character."
       },
       {
         "type": "verse",
@@ -87858,7 +88421,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वर्त्तिर्घना कण्ठनिरोधिनी तु चिताऽतिमात्रं पिशितप्ररोहैः अनेकरुक्प्राणहरी त्रिदोषाज्ज्ञेया शतघ्नीसदृशी शतघ्नी",
         "iast": "varttirghanā kaṇṭhanirodhinī tu citā'timātraṃ piśitaprarohaiḥ anekarukprāṇaharī tridoṣājjñeyā śataghnīsadṛśī śataghnī",
         "iast_ru": "варттиргхана̄ кан̣т̣ханиродхинӣ ту чита̄'тима̄трам̣ пиш́итапрарохаих̣ анекарукпра̄н̣ахарӣ тридош̣а̄джджн̃ейа̄ ш́атагхнӣсадр̣ш́ӣ ш́атагхнӣ",
-        "text": "Плотный узел, закрывающий горло, чрезмерно покрытый мясными ростками, вызывающий множественную боль, губящий жизнь, [возникший] от всех трёх дош, — следует знать подобным «шатагхни» (стоубийце), это «шатагхни»."
+        "text": "Плотный узел, закрывающий горло, чрезмерно покрытый мясными ростками, вызывающий множественную боль, губящий жизнь, [возникший] от всех трёх дош, — следует знать подобным «шатагхни» (стоубийце), это «шатагхни».",
+        "text_en": "A dense knot closing the throat, excessively covered with fleshy sprouts, causing manifold pain, destroying life, (arising) from all three doshas, should be known as like Shataghni (the hundred-killer); this is Shataghni."
       },
       {
         "type": "verse",
@@ -87866,7 +88430,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ग्रन्थिर्गले त्वामलकास्थिमात्रः स्थिरोऽल्परुक्स्यात्कफरक्तमूर्त्तिः संलक्ष्यते सक्तमिवाशितञ्च स शस्त्रसाध्यस्तु गिलायुसंज्ञः",
         "iast": "granthirgale tvāmalakāsthimātraḥ sthiro'lparuksyātkapharaktamūrttiḥ saṃlakṣyate saktamivāśitañca sa śastrasādhyastu gilāyusaṃjñaḥ",
         "iast_ru": "грантхиргале тва̄малака̄стхима̄трах̣ стхиро'лпаруксйа̄ткапхарактамӯрттих̣ сам̣лакш̣йате сактамива̄ш́итан̃ча са ш́астраса̄дхйасту гила̄йусам̣джн̃ах̣",
-        "text": "Узел в горле, размером с косточку амалаки, устойчивый, с малой болью, состоящий из капхи и крови, кажется как бы застрявшей пищей, — этот, требующий хирургического вмешательства, называется «гилаю»."
+        "text": "Узел в горле, размером с косточку амалаки, устойчивый, с малой болью, состоящий из капхи и крови, кажется как бы застрявшей пищей, — этот, требующий хирургического вмешательства, называется «гилаю».",
+        "text_en": "A knot in the throat, the size of an Amalaki stone, firm, with little pain, consisting of Kapha and blood, seems like food stuck; this one, requiring surgical intervention, is called Gilayu."
       },
       {
         "type": "verse",
@@ -87874,7 +88439,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सर्वं गलं व्याप्य समुत्थितो यः शोथो रुजः सन्ति च यत्र सर्वाः स सर्वदोषैर्गलविद्र धिस्तु तस्यैव तुल्यः खलु सर्वजस्य",
         "iast": "sarvaṃ galaṃ vyāpya samutthito yaḥ śotho rujaḥ santi ca yatra sarvāḥ sa sarvadoṣairgalavidra dhistu tasyaiva tulyaḥ khalu sarvajasya",
         "iast_ru": "сарвам̣ галам̣ вйа̄пйа самуттхито йах̣ ш́отхо руджах̣ санти ча йатра сарва̄х̣ са сарвадош̣аиргалавидра дхисту тасйаива тулйах̣ кхалу сарваджасйа",
-        "text": "Отёк, возникший, охватив всё горло, с болью, при котором есть все [признаки], — от всех дош — это «гала-видрадхи», подобный [видрадхи], возникшему от всех дош."
+        "text": "Отёк, возникший, охватив всё горло, с болью, при котором есть все [признаки], — от всех дош — это «гала-видрадхи», подобный [видрадхи], возникшему от всех дош.",
+        "text_en": "A swelling that has arisen, having seized the whole throat, with pain, in which there are all (signs), from all the doshas: this is Gala-vidradhi, like Vidradhi arising from all the doshas."
       },
       {
         "type": "verse",
@@ -87882,7 +88448,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शोथो महान्यस्तु गलावरोधी तीव्रज्वरो वायुगतेर्निहन्ता कफेन जातो रुधिरान्वितेन गले गलौधः परिकीर्त्तितोऽसौ",
         "iast": "śotho mahānyastu galāvarodhī tīvrajvaro vāyugaternihantā kaphena jāto rudhirānvitena gale galaudhaḥ parikīrttito'sau",
         "iast_ru": "ш́отхо маха̄нйасту гала̄вародхӣ тӣвраджваро ва̄йугатерниханта̄ капхена джа̄то рудхира̄нвитена гале галаудхах̣ парикӣрттито'сау",
-        "text": "Крупный отёк, закрывающий горло, с сильной лихорадкой, губящий движение ветра, возникший от капхи, соединённой с кровью, в горле, — этот провозглашается «гала-огха»."
+        "text": "Крупный отёк, закрывающий горло, с сильной лихорадкой, губящий движение ветра, возникший от капхи, соединённой с кровью, в горле, — этот провозглашается «гала-огха».",
+        "text_en": "A large swelling closing the throat, with high fever, destroying the movement of wind, arising from Kapha combined with blood in the throat: this is declared Gala-ogha."
       },
       {
         "type": "verse",
@@ -87890,7 +88457,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यस्ताम्यमानः श्वसिति प्रसक्तं भिन्नस्वरः शुष्कविमुक्तकण्ठः कफोपदुष्टेष्वनिलायनेषु ज्ञेयः स रोगः श्वसनात्स्वरघ्नः",
         "iast": "yastāmyamānaḥ śvasiti prasaktaṃ bhinnasvaraḥ śuṣkavimuktakaṇṭhaḥ kaphopaduṣṭeṣvanilāyaneṣu jñeyaḥ sa rogaḥ śvasanātsvaraghnaḥ",
         "iast_ru": "йаста̄мйама̄нах̣ ш́васити прасактам̣ бхиннасварах̣ ш́уш̣кавимуктакан̣т̣хах̣ капхопадуш̣т̣еш̣ванила̄йанеш̣у джн̃ейах̣ са рогах̣ ш́васана̄тсварагхнах̣",
-        "text": "У кого, страдающего, дыхание постоянно [затруднено], с надломленным голосом, с высохшим, освобождённым горлом, при путях ветра, испорченных капхой, — эту болезнь следует знать как «свара-гхну» (губящую голос), от дыхания."
+        "text": "У кого, страдающего, дыхание постоянно [затруднено], с надломленным голосом, с высохшим, освобождённым горлом, при путях ветра, испорченных капхой, — эту болезнь следует знать как «свара-гхну» (губящую голос), от дыхания.",
+        "text_en": "He who, suffering, has constantly (obstructed) breathing, with a broken voice, with a dried, emptied throat, with the paths of wind spoiled by Kapha: this disease should be known as Svara-ghna (destroying the voice), from the breath."
       },
       {
         "type": "verse",
@@ -87898,7 +88466,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रतानवान्यः श्वयथुः सुकष्टो गलोपरोधं कुरुते क्रमेण स मांसतानः कथितोऽवलम्बी प्राणप्रणुत्सर्वकृतो विकारः",
         "iast": "pratānavānyaḥ śvayathuḥ sukaṣṭo galoparodhaṃ kurute krameṇa sa māṃsatānaḥ kathito'valambī prāṇapraṇutsarvakṛto vikāraḥ",
         "iast_ru": "прата̄нава̄нйах̣ ш́вайатхух̣ сукаш̣т̣о галопародхам̣ куруте крамен̣а са ма̄м̣сата̄нах̣ катхито'валамбӣ пра̄н̣апран̣утсарвакр̣то вика̄рах̣",
-        "text": "Распространяющийся отёк, весьма мучительный, постепенно закрывающий горло, — это называется «мамса-тана», свисающий, губящий жизнь, поражающий всё."
+        "text": "Распространяющийся отёк, весьма мучительный, постепенно закрывающий горло, — это называется «мамса-тана», свисающий, губящий жизнь, поражающий всё.",
+        "text_en": "A spreading swelling, very tormenting, gradually closing the throat: this is called Mamsa-tana, hanging, destroying life, afflicting everything."
       },
       {
         "type": "verse",
@@ -87906,7 +88475,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सदाहतोदं श्वयथुं सताम्रमन्तर्गले पूतिविशीर्णमांसम् पित्तेन विद्याद्वदने विदारीं पार्श्वे विशेषात्स तु येन शेते",
         "iast": "sadāhatodaṃ śvayathuṃ satāmramantargale pūtiviśīrṇamāṃsam pittena vidyādvadane vidārīṃ pārśve viśeṣātsa tu yena śete",
         "iast_ru": "сада̄хатодам̣ ш́вайатхум̣ сата̄мрамантаргале пӯтивиш́ӣрн̣ама̄м̣сам питтена видйа̄двадане вида̄рӣм̣ па̄рш́ве виш́еш̣а̄тса ту йена ш́ете",
-        "text": "С жжением, покалыванием, отёк медного [цвета], внутри горла, зловонный, с распавшимся мясом, от питты — следует знать как «видари»; на лице, а особенно на боку, на котором [больной] лежит."
+        "text": "С жжением, покалыванием, отёк медного [цвета], внутри горла, зловонный, с распавшимся мясом, от питты — следует знать как «видари»; на лице, а особенно на боку, на котором [больной] лежит.",
+        "text_en": "With burning, pricking, a swelling of coppery (color), inside the throat, foul-smelling, with disintegrated flesh, from Pitta: it should be known as Vidari; on the face, and especially on the side on which (the patient) lies."
       },
       {
         "type": "verse",
@@ -87914,7 +88484,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रोहिणीनान्तु साध्यानां हितं शोणितमोचनम् वमनं धूमपानञ्च गण्डूषो नस्यकर्म च वातजान्तु हृते रक्ते लवणैः प्रतिसारयेत् सुखोष्णान्स्नेहगण्डूषान्धारयेच्चाप्यभीक्ष्णशः विस्राव्य पित्तसम्भूतां सिताक्षौद्र प्रियङ्गुभिः घर्षयेत्कवलो द्रा क्षापरुषैः क्वथितो हितः आगारधूमकटुकैः कफजां प्रतिसारयेत्",
         "iast": "rohiṇīnāntu sādhyānāṃ hitaṃ śoṇitamocanam vamanaṃ dhūmapānañca gaṇḍūṣo nasyakarma ca vātajāntu hṛte rakte lavaṇaiḥ pratisārayet sukhoṣṇānsnehagaṇḍūṣāndhārayeccāpyabhīkṣṇaśaḥ visrāvya pittasambhūtāṃ sitākṣaudra priyaṅgubhiḥ gharṣayetkavalo drā kṣāparuṣaiḥ kvathito hitaḥ āgāradhūmakaṭukaiḥ kaphajāṃ pratisārayet",
         "iast_ru": "рохин̣ӣна̄нту са̄дхйа̄на̄м̣ хитам̣ ш́он̣итамочанам ваманам̣ дхӯмапа̄нан̃ча ган̣д̣ӯш̣о насйакарма ча ва̄таджа̄нту хр̣те ракте лаван̣аих̣ пратиса̄райет сукхош̣н̣а̄нснехаган̣д̣ӯш̣а̄ндха̄райечча̄пйабхӣкш̣н̣аш́ах̣ висра̄вйа питтасамбхӯта̄м̣ сита̄кш̣аудра прийан̇губхих̣ гхарш̣айеткавало дра̄ кш̣а̄паруш̣аих̣ кватхито хитах̣ а̄га̄радхӯмакат̣укаих̣ капхаджа̄м̣ пратиса̄райет",
-        "text": "При излечимых «рохини» полезно кровопускание, рвотное, курение дыма, полоскание рта и назальное средство; при [форме] от ватхи, после кровопускания, следует притирать солями; следует держать тёплые маслянистые полоскания многократно; при вскрытии питтовой [формы] следует натирать сахаром, мёдом и приянгу; полоскание, сваренное виноградом и парушей, полезно; при капховой [форме] следует притирать домашней копотью и острыми [веществами]."
+        "text": "При излечимых «рохини» полезно кровопускание, рвотное, курение дыма, полоскание рта и назальное средство; при [форме] от ватхи, после кровопускания, следует притирать солями; следует держать тёплые маслянистые полоскания многократно; при вскрытии питтовой [формы] следует натирать сахаром, мёдом и приянгу; полоскание, сваренное виноградом и парушей, полезно; при капховой [форме] следует притирать домашней копотью и острыми [веществами].",
+        "text_en": "In curable Rohini, bloodletting, emetic, smoking, mouth rinsing and nasal medicine are beneficial; in the (form) from Vata, after bloodletting, one should rub with salts; warm unctuous rinses should be held repeatedly; on opening of the Pitta form one should rub with sugar, honey and Priyangu; a rinse cooked with grapes and Parusha is beneficial; in the Kapha form one should rub with house soot and pungent (substances)."
       },
       {
         "type": "verse",
@@ -87922,7 +88493,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "श्वेताविडङ्गदन्तीषु तैलं सिद्धं ससैन्धवम् नस्यकर्मणि दातव्यं कवलञ्च कफोच्छ्रये",
         "iast": "śvetāviḍaṅgadantīṣu tailaṃ siddhaṃ sasaindhavam nasyakarmaṇi dātavyaṃ kavalañca kaphocchraye",
         "iast_ru": "ш́вета̄вид̣ан̇гадантӣш̣у таилам̣ сиддхам̣ сасаиндхавам насйакарман̣и да̄тавйам̣ кавалан̃ча капхоччхрайе",
-        "text": "Масло, сваренное с белой видангой и данти, соединённое с каменной солью, следует давать в назальном применении и полоскании при возвышении капхи."
+        "text": "Масло, сваренное с белой видангой и данти, соединённое с каменной солью, следует давать в назальном применении и полоскании при возвышении капхи.",
+        "text_en": "Oil cooked with white Vidanga and Danti, combined with rock salt, should be given in nasal application and rinsing when Kapha is elevated."
       },
       {
         "type": "verse",
@@ -87930,7 +88502,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तवत्साधयेद्वैद्यो रोहिणीं रक्तसम्भवाम् विस्राव्य कण्ठशालूकं साधयेत्तुण्डिकेरिवत्",
         "iast": "pittavatsādhayedvaidyo rohiṇīṃ raktasambhavām visrāvya kaṇṭhaśālūkaṃ sādhayettuṇḍikerivat",
         "iast_ru": "питтаватса̄дхайедваидйо рохин̣ӣм̣ рактасамбхава̄м висра̄вйа кан̣т̣хаш́а̄лӯкам̣ са̄дхайеттун̣д̣икериват",
-        "text": "Врачу следует лечить кровяную «рохини» так же, как питтовую; «канта-шалуку», после вскрытия, следует лечить как «тундикери»."
+        "text": "Врачу следует лечить кровяную «рохини» так же, как питтовую; «канта-шалуку», после вскрытия, следует лечить как «тундикери».",
+        "text_en": "The physician should treat blood Rohini in the same way as the Pitta one; Kantha-shaluka, after opening, should be treated as Tundikeri."
       },
       {
         "type": "verse",
@@ -87938,7 +88511,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एककालं यवान्नञ्च भुञ्जीत स्निग्धमल्पशः उपजिह्वकवच्चापि साधयेदधिजिह्वकम्",
         "iast": "ekakālaṃ yavānnañca bhuñjīta snigdhamalpaśaḥ upajihvakavaccāpi sādhayedadhijihvakam",
         "iast_ru": "екака̄лам̣ йава̄ннан̃ча бхун̃джӣта снигдхамалпаш́ах̣ упаджихвакавачча̄пи са̄дхайедадхиджихвакам",
-        "text": "Следует есть ячменную пищу один раз, маслянистую, в малом количестве; «адхиджихваку» следует лечить так же, как «упаджихвику»."
+        "text": "Следует есть ячменную пищу один раз, маслянистую, в малом количестве; «адхиджихваку» следует лечить так же, как «упаджихвику».",
+        "text_en": "One should eat barley food once, unctuous, in small quantity; Adhijihvaka should be treated in the same way as Upajihvika."
       },
       {
         "type": "verse",
@@ -87946,7 +88520,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "एकवृन्दं तु विस्राव्य विधिं शोधनमाचरेत् एकवृन्दमिव प्रायो वृन्दञ्च समुपाचरेत्",
         "iast": "ekavṛndaṃ tu visrāvya vidhiṃ śodhanamācaret ekavṛndamiva prāyo vṛndañca samupācaret",
         "iast_ru": "екавр̣ндам̣ ту висра̄вйа видхим̣ ш́одханама̄чарет екавр̣ндамива пра̄йо вр̣ндан̃ча самупа̄чарет",
-        "text": "«Эка-вринду», вскрыв, следует применять очищающий метод; «вринду» следует лечить почти так же, как «эка-вринду»."
+        "text": "«Эка-вринду», вскрыв, следует применять очищающий метод; «вринду» следует лечить почти так же, как «эка-вринду».",
+        "text_en": "Eka-vrinda, having been opened, should be treated by a cleansing method; Vrinda should be treated almost the same as Eka-vrinda."
       },
       {
         "type": "verse",
@@ -87954,7 +88529,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "गिलायुश्चापि यो व्याधिस्तञ्च शस्त्रेण साधयेत् अमर्मस्थं सुसम्पक्वं छेदयेद्गलविद्र धिम्",
         "iast": "gilāyuścāpi yo vyādhistañca śastreṇa sādhayet amarmasthaṃ susampakvaṃ chedayedgalavidra dhim",
         "iast_ru": "гила̄йуш́ча̄пи йо вйа̄дхистан̃ча ш́астрен̣а са̄дхайет амармастхам̣ сусампаквам̣ чхедайедгалавидра дхим",
-        "text": "Болезнь «гилаю» также следует лечить оружием; «гала-видрадхи», если он не на жизненно важной точке и хорошо созрел, следует рассечь."
+        "text": "Болезнь «гилаю» также следует лечить оружием; «гала-видрадхи», если он не на жизненно важной точке и хорошо созрел, следует рассечь.",
+        "text_en": "The disease Gilayu should also be treated with an instrument; Gala-vidradhi, if it is not on a vital point and has ripened well, should be incised."
       },
       {
         "type": "verse",
@@ -87962,7 +88538,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कण्ठरोगेष्वसृङ्मोक्षैस्तीक्ष्णैर्नस्यादिकर्मभिः चिकित्सकश्चिकित्सान्तु कुशलोऽत्र समाचरेत्",
         "iast": "kaṇṭharogeṣvasṛṅmokṣaistīkṣṇairnasyādikarmabhiḥ cikitsakaścikitsāntu kuśalo'tra samācaret",
         "iast_ru": "кан̣т̣харогеш̣васр̣н̇мокш̣аистӣкш̣н̣аирнасйа̄дикармабхих̣ чикитсакаш́чикитса̄нту куш́ало'тра сама̄чарет",
-        "text": "При болезнях горла кровопусканием, острыми [средствами], назальными и подобными процедурами искусному врачу следует умело лечить здесь."
+        "text": "При болезнях горла кровопусканием, острыми [средствами], назальными и подобными процедурами искусному врачу следует умело лечить здесь.",
+        "text_en": "In diseases of the throat, with bloodletting, pungent (remedies), nasal and similar procedures, the skilled physician should treat skillfully here."
       },
       {
         "type": "verse",
@@ -87970,7 +88547,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्वाथं दद्याच्च दार्वीत्वङ्निम्बतार्क्ष्यकलिङ्गजम् हरीतकीकषायो वा हितो माक्षिकसंयुतः",
         "iast": "kvāthaṃ dadyācca dārvītvaṅnimbatārkṣyakaliṅgajam harītakīkaṣāyo vā hito mākṣikasaṃyutaḥ",
         "iast_ru": "ква̄тхам̣ дадйа̄чча да̄рвӣтван̇нимбата̄ркш̣йакалин̇гаджам харӣтакӣкаш̣а̄йо ва̄ хито ма̄кш̣икасам̣йутах̣",
-        "text": "Следует давать отвар дару-харидры, коры нима, тарквьи и калинги; отвар харитаки, соединённый с мёдом, также полезен."
+        "text": "Следует давать отвар дару-харидры, коры нима, тарквьи и калинги; отвар харитаки, соединённый с мёдом, также полезен.",
+        "text_en": "A decoction of Daruharidra, Neem bark, Tarkshya and Kalinga should be given; a decoction of Haritaki, combined with honey, is also beneficial."
       },
       {
         "type": "verse",
@@ -87978,7 +88556,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कटुकाऽतिविषादारुपाठामुस्तकलिङ्गकाः गोमूत्रक्वथिताः पीता कण्ठरोगविनाशनाः",
         "iast": "kaṭukā'tiviṣādārupāṭhāmustakaliṅgakāḥ gomūtrakvathitāḥ pītā kaṇṭharogavināśanāḥ",
         "iast_ru": "кат̣ука̄'тивиш̣а̄да̄рупа̄т̣ха̄мустакалин̇гака̄х̣ гомӯтракватхита̄х̣ пӣта̄ кан̣т̣харогавина̄ш́ана̄х̣",
-        "text": "Катука, ативиша, дару, патха, муста, калинга, сваренные с коровьей мочой, выпитые, устраняют болезни горла."
+        "text": "Катука, ативиша, дару, патха, муста, калинга, сваренные с коровьей мочой, выпитые, устраняют болезни горла.",
+        "text_en": "Katuka, Ativisha, Daru, Patha, Musta, Kalinga, cooked with cow's urine and drunk, remove diseases of the throat."
       },
       {
         "type": "verse",
@@ -87986,7 +88565,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मृद्वीका कटुका व्योषं दार्वीत्वक् त्रिफला घनम् पाठा रसाञ्जनं दूर्वा तेजोह्वेति सुचूर्णितम्",
         "iast": "mṛdvīkā kaṭukā vyoṣaṃ dārvītvak triphalā ghanam pāṭhā rasāñjanaṃ dūrvā tejohveti sucūrṇitam",
         "iast_ru": "мр̣двӣка̄ кат̣ука̄ вйош̣ам̣ да̄рвӣтвак трипхала̄ гханам па̄т̣ха̄ раса̄н̃джанам̣ дӯрва̄ теджохвети сучӯрн̣итам",
-        "text": "Виноград, катука, вьоша, кора дару, трифала, гхана (муста), патха, красящее вещество (расанджана), дурва, теджохва — тонко истолчённые,"
+        "text": "Виноград, катука, вьоша, кора дару, трифала, гхана (муста), патха, красящее вещество (расанджана), дурва, теджохва — тонко истолчённые,",
+        "text_en": "Grapes, Katuka, Vyosha, bark of Daru, Triphala, Ghana (Musta), Patha, coloring substance (Rasanjana), Durva, Tejohva, finely pounded,"
       },
       {
         "type": "verse",
@@ -87994,7 +88574,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "क्षौद्र युक्तं विधातव्यं गलरोगे महौषधम् योगाश्चैते त्रयः प्रोक्ता वातपित्तकफापहाः",
         "iast": "kṣaudra yuktaṃ vidhātavyaṃ galaroge mahauṣadham yogāścaite trayaḥ proktā vātapittakaphāpahāḥ",
         "iast_ru": "кш̣аудра йуктам̣ видха̄тавйам̣ галароге махауш̣адхам йога̄ш́чаите трайах̣ прокта̄ ва̄тапиттакапха̄паха̄х̣",
-        "text": "соединённые с мёдом, следует приготовить — великое лекарство при болезни горла; эти три средства провозглашены устраняющими ватху, питту и капху."
+        "text": "соединённые с мёдом, следует приготовить — великое лекарство при болезни горла; эти три средства провозглашены устраняющими ватху, питту и капху.",
+        "text_en": "combined with honey, should be prepared: a great medicine in disease of the throat; these three remedies are declared to relieve Vata, Pitta and Kapha."
       },
       {
         "type": "verse",
@@ -88002,7 +88583,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यवाग्रजं तेजवताञ्च पाठां रसाञ्जनं दारुनिशां सकृष्णाम् क्षौद्रे ण कुर्याद् गुटिकां मुखेन तां धारयेत्सर्वगलामयेषु",
         "iast": "yavāgrajaṃ tejavatāñca pāṭhāṃ rasāñjanaṃ dāruniśāṃ sakṛṣṇām kṣaudre ṇa kuryād guṭikāṃ mukhena tāṃ dhārayetsarvagalāmayeṣu",
         "iast_ru": "йава̄граджам̣ теджавата̄н̃ча па̄т̣ха̄м̣ раса̄н̃джанам̣ да̄руниш́а̄м̣ сакр̣ш̣н̣а̄м кш̣аудре н̣а курйа̄д гут̣ика̄м̣ мукхена та̄м̣ дха̄райетсарвагала̄майеш̣у",
-        "text": "Ячменный порошок, теджавати, патху, красящее вещество, кору дару и куркуму, а также чёрный [перец] — с мёдом следует сделать пилюлю; следует держать её во рту при всех болезнях горла."
+        "text": "Ячменный порошок, теджавати, патху, красящее вещество, кору дару и куркуму, а также чёрный [перец] — с мёдом следует сделать пилюлю; следует держать её во рту при всех болезнях горла.",
+        "text_en": "Barley powder, Tejavati, Patha, coloring substance, bark of Daru and turmeric, and also black (pepper): with honey a pill should be made; it should be held in the mouth in all diseases of the throat."
       },
       {
         "type": "verse",
@@ -88010,7 +88592,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पृथगदोषैस्त्रयो रोगाः समस्तमुखजाः स्मृताः",
         "iast": "pṛthagadoṣaistrayo rogāḥ samastamukhajāḥ smṛtāḥ",
         "iast_ru": "пр̣тхагадош̣аистрайо рога̄х̣ самастамукхаджа̄х̣ смр̣та̄х̣",
-        "text": "От отдельных дош — три болезни, [охватывающие] весь рот, следует знать."
+        "text": "От отдельных дош — три болезни, [охватывающие] весь рот, следует знать.",
+        "text_en": "From the separate doshas three diseases (involving) the whole mouth should be known."
       },
       {
         "type": "verse",
@@ -88018,7 +88601,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्फोटैः सतोदैर्वदनं समन्ताद्यत्राचितं सर्वसरः स वातात्",
         "iast": "sphoṭaiḥ satodairvadanaṃ samantādyatrācitaṃ sarvasaraḥ sa vātāt",
         "iast_ru": "спхот̣аих̣ сатодаирваданам̣ саманта̄дйатра̄читам̣ сарвасарах̣ са ва̄та̄т",
-        "text": "Где рот весь покрыт пузырями с покалыванием — это «сарва-сара» от ватхи."
+        "text": "Где рот весь покрыт пузырями с покалыванием — это «сарва-сара» от ватхи.",
+        "text_en": "Where the mouth is entirely covered with blisters with pricking, this is Sarva-sara due to Vata."
       },
       {
         "type": "verse",
@@ -88026,7 +88610,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रक्तैः सदाहैः पिडकैः सपीतैर्यत्राचितं चापि स पित्तकोपात्",
         "iast": "raktaiḥ sadāhaiḥ piḍakaiḥ sapītairyatrācitaṃ cāpi sa pittakopāt",
         "iast_ru": "рактаих̣ сада̄хаих̣ пид̣акаих̣ сапӣтаирйатра̄читам̣ ча̄пи са питтакопа̄т",
-        "text": "Где покрыт красными, жгучими, желтоватыми нарывами — это от возмущения питты."
+        "text": "Где покрыт красными, жгучими, желтоватыми нарывами — это от возмущения питты.",
+        "text_en": "Where it is covered with red, burning, yellowish boils, this is from aggravation of Pitta."
       },
       {
         "type": "verse",
@@ -88034,7 +88619,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अवेदनैः कण्डुयुतैः सवणैर्यत्राचितं चापि स वै कफेन",
         "iast": "avedanaiḥ kaṇḍuyutaiḥ savaṇairyatrācitaṃ cāpi sa vai kaphena",
         "iast_ru": "аведанаих̣ кан̣д̣уйутаих̣ саван̣аирйатра̄читам̣ ча̄пи са ваи капхена",
-        "text": "Где покрыт безболезненными, зудящими нарывами с сукровицей — это от капхи."
+        "text": "Где покрыт безболезненными, зудящими нарывами с сукровицей — это от капхи.",
+        "text_en": "Where it is covered with painless, itching boils with serous fluid, this is from Kapha."
       },
       {
         "type": "verse",
@@ -88042,7 +88628,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "ओष्ठप्रकोपे वर्ज्यास्तु मांसरक्तत्रिदोषजाः दन्तवेष्टेषु वर्ज्यौ तु त्रिलिङ्गगति सौषिरौ",
         "iast": "oṣṭhaprakope varjyāstu māṃsaraktatridoṣajāḥ dantaveṣṭeṣu varjyau tu triliṅgagati sauṣirau",
         "iast_ru": "ош̣т̣хапракопе варджйа̄сту ма̄м̣сарактатридош̣аджа̄х̣ дантавеш̣т̣еш̣у варджйау ту трилин̇гагати сауш̣ирау",
-        "text": "При возмущении губ следует избегать мясной, кровяной [форм] и [возникшей] от всех трёх дош; при [болезнях] «данта-вешта» следует избегать [форм] с тремя признаками, а также «сушира»."
+        "text": "При возмущении губ следует избегать мясной, кровяной [форм] и [возникшей] от всех трёх дош; при [болезнях] «данта-вешта» следует избегать [форм] с тремя признаками, а также «сушира».",
+        "text_en": "In aggravation of the lips, the flesh and blood forms and (the one) arising from all three doshas should be avoided (as untreatable); in (diseases) Danta-vesta, (forms) with three signs should be avoided, and also Sushira."
       },
       {
         "type": "verse",
@@ -88050,7 +88637,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दन्तेषु च न सिध्यन्ति श्यावदालनभञ्जनाः जिह्वारोगेष्वलासस्तु तालुजेष्वर्बुदं तथा स्वरघ्नो वलयो बृन्दो बलासः स हि दारुणः च विदारिका गलौघो मांसतानश्च शतघ्नी रोहिणी गले असाध्याः कीर्त्तिता ह्येते रोगा दश नवोत्तराः तेषु वाऽपि क्रियां वैद्यः प्रत्याख्याय समाचरेत्",
         "iast": "danteṣu ca na sidhyanti śyāvadālanabhañjanāḥ jihvārogeṣvalāsastu tālujeṣvarbudaṃ tathā svaraghno valayo bṛndo balāsaḥ sa hi dāruṇaḥ ca vidārikā galaugho māṃsatānaśca śataghnī rohiṇī gale asādhyāḥ kīrttitā hyete rogā daśa navottarāḥ teṣu vā'pi kriyāṃ vaidyaḥ pratyākhyāya samācaret",
         "iast_ru": "дантеш̣у ча на сидхйанти ш́йа̄вада̄ланабхан̃джана̄х̣ джихва̄рогеш̣вала̄састу та̄луджеш̣варбудам̣ татха̄ сварагхно валайо бр̣ндо бала̄сах̣ са хи да̄рун̣ах̣ ча вида̄рика̄ галаугхо ма̄м̣сата̄наш́ча ш́атагхнӣ рохин̣ӣ гале аса̄дхйа̄х̣ кӣрттита̄ хйете рога̄ даш́а навоттара̄х̣ теш̣у ва̄'пи крийа̄м̣ ваидйах̣ пратйа̄кхйа̄йа сама̄чарет",
-        "text": "В зубах не поддаются излечению «шьява», «далана» и «бханджана»; из болезней языка — «аласа», а из болезней нёба — опухоль; «свара-гхна», «валая», «вринда», «баласа» — она весьма ужасна, — а также «видарика», «гала-огха», «мамса-тана», «шатагхни» и «рохини» в горле — эти провозглашены неизлечимыми, всего девятнадцать болезней; при них врачу, отказавшись [от полного излечения], следует всё же проводить лечение."
+        "text": "В зубах не поддаются излечению «шьява», «далана» и «бханджана»; из болезней языка — «аласа», а из болезней нёба — опухоль; «свара-гхна», «валая», «вринда», «баласа» — она весьма ужасна, — а также «видарика», «гала-огха», «мамса-тана», «шатагхни» и «рохини» в горле — эти провозглашены неизлечимыми, всего девятнадцать болезней; при них врачу, отказавшись [от полного излечения], следует всё же проводить лечение.",
+        "text_en": "In the teeth, Shyava, Dalana and Bhanjana do not yield to cure; of diseases of the tongue, Alasa, and of diseases of the palate, the tumor; Svara-ghna, Valaya, Vrinda, Balasa (it is very terrible), and also Vidarika, Gala-ogha, Mamsa-tana, Shataghni and Rohini in the throat: these are declared incurable, nineteen diseases in all; in these the physician, having given up (complete cure), should nevertheless carry out treatment."
       },
       {
         "type": "verse",
@@ -88058,7 +88646,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातात्सर्वसरं चूर्णैर्लवणैः प्रतिसारयेत् तैलं वातहरैः सिद्धं हितं कवलनस्ययोः",
         "iast": "vātātsarvasaraṃ cūrṇairlavaṇaiḥ pratisārayet tailaṃ vātaharaiḥ siddhaṃ hitaṃ kavalanasyayoḥ",
         "iast_ru": "ва̄та̄тсарвасарам̣ чӯрн̣аирлаван̣аих̣ пратиса̄райет таилам̣ ва̄тахараих̣ сиддхам̣ хитам̣ каваланасйайох̣",
-        "text": "«Сарва-сару» от ватхи следует притирать порошками с солью; масло, сваренное с устраняющими ватху [средствами], полезно в полоскании и назальном применении."
+        "text": "«Сарва-сару» от ватхи следует притирать порошками с солью; масло, сваренное с устраняющими ватху [средствами], полезно в полоскании и назальном применении.",
+        "text_en": "Sarva-sara due to Vata should be rubbed with powders with salt; oil cooked with Vata-relieving (remedies) is beneficial in rinsing and nasal application."
       },
       {
         "type": "verse",
@@ -88066,7 +88655,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पित्तात्मके सर्वसरे शुद्धकायस्य देहिनः सर्वः पित्तहरः कार्यो विधिर्मधुरशीतलः",
         "iast": "pittātmake sarvasare śuddhakāyasya dehinaḥ sarvaḥ pittaharaḥ kāryo vidhirmadhuraśītalaḥ",
         "iast_ru": "питта̄тмаке сарвасаре ш́уддхака̄йасйа дехинах̣ сарвах̣ питтахарах̣ ка̄рйо видхирмадхураш́ӣталах̣",
-        "text": "При питтовой «сарва-саре», у существа с очищенным телом, весь метод должен быть устраняющим питту, сладким и холодным."
+        "text": "При питтовой «сарва-саре», у существа с очищенным телом, весь метод должен быть устраняющим питту, сладким и холодным.",
+        "text_en": "In Pitta Sarva-sara, in a being with a cleansed body, the whole method should be Pitta-relieving, sweet and cold."
       },
       {
         "type": "verse",
@@ -88074,7 +88664,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "प्रतिसारणगण्डूषधूमसंशोधनानि च कफात्मके सर्वसरे क्रमं कुर्यात्कफापहम्",
         "iast": "pratisāraṇagaṇḍūṣadhūmasaṃśodhanāni ca kaphātmake sarvasare kramaṃ kuryātkaphāpaham",
         "iast_ru": "пратиса̄ран̣аган̣д̣ӯш̣адхӯмасам̣ш́одхана̄ни ча капха̄тмаке сарвасаре крамам̣ курйа̄ткапха̄пахам",
-        "text": "Притирание, полоскание, окуривание дымом и очищение — при капховой «сарва-саре» следует применять метод, устраняющий капху."
+        "text": "Притирание, полоскание, окуривание дымом и очищение — при капховой «сарва-саре» следует применять метод, устраняющий капху.",
+        "text_en": "Rubbing, rinsing, fumigation with smoke and cleansing: in Kapha Sarva-sara the Kapha-relieving method should be applied."
       },
       {
         "type": "verse",
@@ -88082,7 +88673,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुखपाके शिरावेधः शिरसश्च विरेचनम् मधुमूत्रघृतक्षीरैः शीतैश्च कवलग्रहः",
         "iast": "mukhapāke śirāvedhaḥ śirasaśca virecanam madhumūtraghṛtakṣīraiḥ śītaiśca kavalagrahaḥ",
         "iast_ru": "мукхапа̄ке ш́ира̄ведхах̣ ш́ирасаш́ча виречанам мадхумӯтрагхр̣такш̣ӣраих̣ ш́ӣтаиш́ча кавалаграхах̣",
-        "text": "При «мукха-паке» — прокол сосудов и очищение головы; полоскание мёдом, мочой, гхи и молоком, холодными."
+        "text": "При «мукха-паке» — прокол сосудов и очищение головы; полоскание мёдом, мочой, гхи и молоком, холодными.",
+        "text_en": "In Mukha-paka (ripening of the mouth): puncture of vessels and cleansing of the head; rinsing with honey, urine, ghee and milk, cold."
       },
       {
         "type": "verse",
@@ -88090,7 +88682,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जातीपत्रामृताद्रा क्षायासदार्वीफलत्रिकैः क्वाथः क्षौद्र युतः शीतो गण्डूषो मुखपाकनुत्",
         "iast": "jātīpatrāmṛtādrā kṣāyāsadārvīphalatrikaiḥ kvāthaḥ kṣaudra yutaḥ śīto gaṇḍūṣo mukhapākanut",
         "iast_ru": "джа̄тӣпатра̄мр̣та̄дра̄ кш̣а̄йа̄сада̄рвӣпхалатрикаих̣ ква̄тхах̣ кш̣аудра йутах̣ ш́ӣто ган̣д̣ӯш̣о мукхапа̄канут",
-        "text": "Отвар листа джати, амриты, винограда, ясы, кора дару и трёх плодов, соединённый с мёдом, холодный, — полоскание, устраняющее «мукха-паку»."
+        "text": "Отвар листа джати, амриты, винограда, ясы, кора дару и трёх плодов, соединённый с мёдом, холодный, — полоскание, устраняющее «мукха-паку».",
+        "text_en": "A decoction of Jati leaf, Amrita, grapes, Yasa, bark of Daru and the three fruits, combined with honey, cold: a rinse that removes Mukha-paka."
       },
       {
         "type": "verse",
@@ -88098,7 +88691,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कार्यञ्च बहुधा नित्यं जातीपत्रस्य चर्वणम् कृष्णजीरककुष्ठेन्द्र यवचर्वणतस्त्र्यहात्",
         "iast": "kāryañca bahudhā nityaṃ jātīpatrasya carvaṇam kṛṣṇajīrakakuṣṭhendra yavacarvaṇatastryahāt",
         "iast_ru": "ка̄рйан̃ча бахудха̄ нитйам̣ джа̄тӣпатрасйа чарван̣ам кр̣ш̣н̣аджӣракакуш̣т̣хендра йавачарван̣атастрйаха̄т",
-        "text": "Многократно, постоянно следует жевать лист джати; жеванием чёрного тмина, кустхи и зёрен индраявы за три дня"
+        "text": "Многократно, постоянно следует жевать лист джати; жеванием чёрного тмина, кустхи и зёрен индраявы за три дня",
+        "text_en": "Repeatedly, constantly one should chew Jati leaf; by chewing black cumin, Kushtha and Indrayava kernels, in three days"
       },
       {
         "type": "verse",
@@ -88106,7 +88700,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुखपाकव्रणक्लेद दौर्गन्ध्यमुपशाम्यति पटोलनिम्बजम्ब्वाम्र मालतीनवपल्लवैः",
         "iast": "mukhapākavraṇakleda daurgandhyamupaśāmyati paṭolanimbajambvāmra mālatīnavapallavaiḥ",
         "iast_ru": "мукхапа̄кавран̣акледа даургандхйамупаш́а̄мйати пат̣оланимбаджамбва̄мра ма̄латӣнавапаллаваих̣",
-        "text": "успокаивается влажность раны и зловоние при «мукха-паке»; [полоскание] из свежих побегов патолы, нима, джамбу, манго и малати —"
+        "text": "успокаивается влажность раны и зловоние при «мукха-паке»; [полоскание] из свежих побегов патолы, нима, джамбу, манго и малати —",
+        "text_en": "the moisture of the wound and the foul smell in Mukha-paka are pacified; (a rinse) of fresh shoots of Patola, Neem, Jambu, mango and Malati:"
       },
       {
         "type": "verse",
@@ -88114,7 +88709,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "पञ्चपल्लवजः श्रेष्ठः कषायो मुखधावने पञ्चवल्कलजः क्वाथस्त्रिफलासम्भवोऽथ वा",
         "iast": "pañcapallavajaḥ śreṣṭhaḥ kaṣāyo mukhadhāvane pañcavalkalajaḥ kvāthastriphalāsambhavo'tha vā",
         "iast_ru": "пан̃чапаллаваджах̣ ш́реш̣т̣хах̣ каш̣а̄йо мукхадха̄ване пан̃чавалкаладжах̣ ква̄тхастрипхала̄самбхаво'тха ва̄",
-        "text": "отвар из пяти побегов — лучший для полоскания рта; или же отвар из пяти кор, или же [приготовленный] из трифалы,"
+        "text": "отвар из пяти побегов — лучший для полоскания рта; или же отвар из пяти кор, или же [приготовленный] из трифалы,",
+        "text_en": "a decoction of the five shoots is the best for rinsing the mouth; or a decoction of five barks, or (prepared) from Triphala,"
       },
       {
         "type": "verse",
@@ -88122,7 +88718,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुखपाके प्रयोक्तव्यः सक्षौद्रो मुखधावने स्वरसः क्वथितो दार्व्या घनीभूतो रसक्रिया सक्षौद्रा मुखरोगा सृग्दोषनाडीव्रणापहा",
         "iast": "mukhapāke prayoktavyaḥ sakṣaudro mukhadhāvane svarasaḥ kvathito dārvyā ghanībhūto rasakriyā sakṣaudrā mukharogā sṛgdoṣanāḍīvraṇāpahā",
         "iast_ru": "мукхапа̄ке прайоктавйах̣ сакш̣аудро мукхадха̄ване сварасах̣ кватхито да̄рвйа̄ гханӣбхӯто расакрийа̄ сакш̣аудра̄ мукхарога̄ ср̣гдош̣ана̄д̣ӣвран̣а̄паха̄",
-        "text": "следует применять при «мукха-паке», соединённый с мёдом, для полоскания; выпаренный сок дару-харидры, ставший густым, — эта соковая обработка, соединённая с мёдом, устраняет болезни рта, расстройство крови и свищ раны."
+        "text": "следует применять при «мукха-паке», соединённый с мёдом, для полоскания; выпаренный сок дару-харидры, ставший густым, — эта соковая обработка, соединённая с мёдом, устраняет болезни рта, расстройство крови и свищ раны.",
+        "text_en": "should be applied in Mukha-paka, combined with honey, for rinsing; the evaporated juice of Daruharidra, having become thick: this juice preparation, combined with honey, removes diseases of the mouth, disorder of blood and fistula of a wound."
       },
       {
         "type": "verse",
@@ -88130,7 +88727,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सप्तच्छदोशीरपटोलमुस्तहरीतकीतिक्तकरोहिणीभिः यष्ट्याह्वराजद्रुमचन्दनैश्च क्वाथं पिबेत्पाकहरं मुखस्य",
         "iast": "saptacchadośīrapaṭolamustaharītakītiktakarohiṇībhiḥ yaṣṭyāhvarājadrumacandanaiśca kvāthaṃ pibetpākaharaṃ mukhasya",
         "iast_ru": "саптаччхадош́ӣрапат̣оламустахарӣтакӣтиктакарохин̣ӣбхих̣ йаш̣т̣йа̄хвара̄джадрумачанданаиш́ча ква̄тхам̣ пибетпа̄кахарам̣ мукхасйа",
-        "text": "Отваром саптапарны, уширы, патолы, мусты, харитаки, тикта-рохини, солодки, раджадрумы и сандала следует пить — устраняет созревание рта."
+        "text": "Отваром саптапарны, уширы, патолы, мусты, харитаки, тикта-рохини, солодки, раджадрумы и сандала следует пить — устраняет созревание рта.",
+        "text_en": "One should drink a decoction of Saptaparna, Ushira, Patola, Musta, Haritaki, Tikta-rohini, licorice, Rajadruma and sandalwood: it removes ripening of the mouth."
       },
       {
         "type": "verse",
@@ -88138,7 +88736,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तिला नीलोत्पलं सर्पिः शर्करा क्षीरमेव च क्षौद्रा ढ्या दग्धवक्त्रस्य गण्डूषो मुखपाकनुत्",
         "iast": "tilā nīlotpalaṃ sarpiḥ śarkarā kṣīrameva ca kṣaudrā ḍhyā dagdhavaktrasya gaṇḍūṣo mukhapākanut",
         "iast_ru": "тила̄ нӣлотпалам̣ сарпих̣ ш́аркара̄ кш̣ӣрамева ча кш̣аудра̄ д̣хйа̄ дагдхавактрасйа ган̣д̣ӯш̣о мукхапа̄канут",
-        "text": "Кунжут, синий лотос, гхи, сахар и молоко, обогащённые мёдом, — полоскание у обжёгшего рот, устраняет «мукха-паку»."
+        "text": "Кунжут, синий лотос, гхи, сахар и молоко, обогащённые мёдом, — полоскание у обжёгшего рот, устраняет «мукха-паку».",
+        "text_en": "Sesame, blue lotus, ghee, sugar and milk, enriched with honey: a rinse for one who has scalded his mouth; it removes Mukha-paka."
       },
       {
         "type": "verse",
@@ -88146,7 +88745,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "आस्वादिता सकृदपि मुखगन्धं सकलमपनयति त्वग्बीजपूरफलजा पवनमपाच्यं वारयति",
         "iast": "āsvāditā sakṛdapi mukhagandhaṃ sakalamapanayati tvagbījapūraphalajā pavanamapācyaṃ vārayati",
         "iast_ru": "а̄сва̄дита̄ сакр̣дапи мукхагандхам̣ сакаламапанайати твагбӣджапӯрапхаладжа̄ паванамапа̄чйам̣ ва̄райати",
-        "text": "Даже единожды вкушённая, кожура плода цитрона полностью устраняет зловоние рта; она устраняет неудобоваримую ватху."
+        "text": "Даже единожды вкушённая, кожура плода цитрона полностью устраняет зловоние рта; она устраняет неудобоваримую ватху.",
+        "text_en": "Even if taken only once, the rind of the citron fruit completely removes foul smell of the mouth; it removes indigestible Vata."
       },
       {
         "type": "verse",
@@ -88154,7 +88754,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हरिद्रा निम्बपत्राणि मधुकं नीलमुत्पलम् तैलमेभिर्विपक्तव्यं मुखपाकहरं परम्",
         "iast": "haridrā nimbapatrāṇi madhukaṃ nīlamutpalam tailamebhirvipaktavyaṃ mukhapākaharaṃ param",
         "iast_ru": "харидра̄ нимбапатра̄н̣и мадхукам̣ нӣламутпалам таиламебхирвипактавйам̣ мукхапа̄кахарам̣ парам",
-        "text": "Куркума, листья нима, солодка, синий лотос — масло, сваренное этим, превосходно устраняет «мукха-паку»."
+        "text": "Куркума, листья нима, солодка, синий лотос — масло, сваренное этим, превосходно устраняет «мукха-паку».",
+        "text_en": "Turmeric, Neem leaves, licorice, blue lotus: oil cooked with these excellently removes Mukha-paka."
       },
       {
         "type": "verse",
@@ -88162,7 +88763,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "यष्टीमधु पलमेकं त्रिंशन्नीलोत्पलस्य तैलस्य प्रस्थं तद् द्विगुणपयोविधिनापक्वं तु नस्येन",
         "iast": "yaṣṭīmadhu palamekaṃ triṃśannīlotpalasya tailasya prasthaṃ tad dviguṇapayovidhināpakvaṃ tu nasyena",
         "iast_ru": "йаш̣т̣ӣмадху паламекам̣ трим̣ш́аннӣлотпаласйа таиласйа прастхам̣ тад двигун̣апайовидхина̄паквам̣ ту насйена",
-        "text": "Солодка — одна пала, синего лотоса — тридцать [частей], прастха масла, с двойным количеством молока сваренное по правилу, — при назальном применении"
+        "text": "Солодка — одна пала, синего лотоса — тридцать [частей], прастха масла, с двойным количеством молока сваренное по правилу, — при назальном применении",
+        "text_en": "Licorice one Pala, blue lotus thirty (parts), a Prastha of oil, cooked by rule with a double quantity of milk, in nasal application"
       },
       {
         "type": "verse",
@@ -88170,7 +88772,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निशि वदनस्य स्रावं क्षपयति गात्रस्य दोषसंघातम् कचघर्षत्वमवश्यं क्रमतोऽभ्यङ्गेन जन्तूनाम्",
         "iast": "niśi vadanasya srāvaṃ kṣapayati gātrasya doṣasaṃghātam kacagharṣatvamavaśyaṃ kramato'bhyaṅgena jantūnām",
         "iast_ru": "ниш́и ваданасйа сра̄вам̣ кш̣апайати га̄трасйа дош̣асам̣гха̄там качагхарш̣атвамаваш́йам̣ крамато'бхйан̇гена джантӯна̄м",
-        "text": "ночью устраняет истечение изо рта, скопление дош в теле; при постоянном растирании устраняет также спутанность волос у существ."
+        "text": "ночью устраняет истечение изо рта, скопление дош в теле; при постоянном растирании устраняет также спутанность волос у существ.",
+        "text_en": "at night removes discharge from the mouth and accumulation of doshas in the body; with constant rubbing it also removes matting of the hair in living beings."
       },
       {
         "type": "verse",
@@ -88178,7 +88781,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इति षट्षष्टितमो मुख रोगाधिकारः समाप्तः ६६",
         "iast": "iti ṣaṭṣaṣṭitamo mukha rogādhikāraḥ samāptaḥ 66",
         "iast_ru": "ити ш̣ат̣ш̣аш̣т̣итамо мукха рога̄дхика̄рах̣ сама̄птах̣ ",
-        "text": "Так завершается шестьдесят шестая глава, посвящённая болезням рта."
+        "text": "Так завершается шестьдесят шестая глава, посвящённая болезням рта.",
+        "text_en": "Thus ends the sixty-sixth chapter, on diseases of the mouth."
       }
     ]
   },
@@ -88196,7 +88800,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्थावरं जङ्गमञ्चैव द्विविधं विषमुच्यते दशाधिष्ठानमाद्यं तु द्वितीयं षोडशाश्रयम्",
         "iast": "sthāvaraṃ jaṅgamañcaiva dvividhaṃ viṣamucyate daśādhiṣṭhānamādyaṃ tu dvitīyaṃ ṣoḍaśāśrayam",
         "iast_ru": "стха̄варам̣ джан̇гаман̃чаива двивидхам̣ виш̣амучйате даш́а̄дхиш̣т̣ха̄нама̄дйам̣ ту двитӣйам̣ ш̣од̣аш́а̄ш́райам",
-        "text": "Яд называется двух видов: неподвижный (растительный) и подвижный (животный); первый имеет десять источников, второй — шестнадцать источников."
+        "text": "Яд называется двух видов: неподвижный (растительный) и подвижный (животный); первый имеет десять источников, второй — шестнадцать источников.",
+        "text_en": "Poison is said to be of two kinds: immobile (plant) and mobile (animal); the first has ten sources, the second sixteen sources."
       },
       {
         "type": "verse",
@@ -88204,7 +88809,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मूलं पत्रं फलं पुष्पं त्वक् क्षीरं सारमेव च निर्यासो धातवः कन्दः स्थावरस्याश्रया दश",
         "iast": "mūlaṃ patraṃ phalaṃ puṣpaṃ tvak kṣīraṃ sārameva ca niryāso dhātavaḥ kandaḥ sthāvarasyāśrayā daśa",
         "iast_ru": "мӯлам̣ патрам̣ пхалам̣ пуш̣пам̣ твак кш̣ӣрам̣ са̄рамева ча нирйа̄со дха̄тавах̣ кандах̣ стха̄варасйа̄ш́райа̄ даш́а",
-        "text": "Корень, лист, плод, цветок, кора, млечный сок, сердцевина, а также смола, минералы, клубень — десять источников неподвижного [яда]."
+        "text": "Корень, лист, плод, цветок, кора, млечный сок, сердцевина, а также смола, минералы, клубень — десять источников неподвижного [яда].",
+        "text_en": "Root, leaf, fruit, flower, bark, milky sap, pith, and also resin, minerals and tuber: these are the ten sources of immobile (poison)."
       },
       {
         "type": "verse",
@@ -88212,7 +88818,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दृष्टिनिश्वासदंष्ट्राश्च नखमूलमलानि च शुक्रं लालाऽत्तवस्पर्शसंदंशाश्चावमर्दितम् गुदास्थिपित्तशूकानि दश षड् जङ्गमाश्रयाः",
         "iast": "dṛṣṭiniśvāsadaṃṣṭrāśca nakhamūlamalāni ca śukraṃ lālā'ttavasparśasaṃdaṃśāścāvamarditam gudāsthipittaśūkāni daśa ṣaḍ jaṅgamāśrayāḥ",
         "iast_ru": "др̣ш̣т̣иниш́ва̄садам̣ш̣т̣ра̄ш́ча накхамӯламала̄ни ча ш́украм̣ ла̄ла̄'ттаваспарш́асам̣дам̣ш́а̄ш́ча̄вамардитам гуда̄стхипитташ́ӯка̄ни даш́а ш̣ад̣ джан̇гама̄ш́райа̄х̣",
-        "text": "Взгляд, дыхание, клыки, ноготь, основание [зуба], нечистоты, семя, слюна, укус зубами, захват клещами, придавливание, задний проход, кость, желчь, а также иглистые семена — шестнадцать источников подвижного [яда]."
+        "text": "Взгляд, дыхание, клыки, ноготь, основание [зуба], нечистоты, семя, слюна, укус зубами, захват клещами, придавливание, задний проход, кость, желчь, а также иглистые семена — шестнадцать источников подвижного [яда].",
+        "text_en": "Sight, breath, fangs, nail, base (of the tooth), excrement, semen, saliva, biting with the teeth, grasping with pincers, pressing, anus, bone, bile, and also spiny seeds: these are the sixteen sources of mobile (poison)."
       },
       {
         "type": "verse",
@@ -88220,7 +88827,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अथ स्थावरविषाणां सामान्यकार्याणि उद्वेष्टनं मूलविषैर्मोहः प्रलपनं तथा",
         "iast": "atha sthāvaraviṣāṇāṃ sāmānyakāryāṇi udveṣṭanaṃ mūlaviṣairmohaḥ pralapanaṃ tathā",
         "iast_ru": "атха стха̄варавиш̣а̄н̣а̄м̣ са̄ма̄нйака̄рйа̄н̣и удвеш̣т̣анам̣ мӯлавиш̣аирмохах̣ пралапанам̣ татха̄",
-        "text": "Теперь общие признаки неподвижных ядов. Стягивание, помрачение, а также бред — от ядов корня."
+        "text": "Теперь общие признаки неподвижных ядов. Стягивание, помрачение, а также бред — от ядов корня.",
+        "text_en": "Now the general signs of immobile poisons. Contraction, stupor, and also delirium arise from poisons of the root."
       },
       {
         "type": "verse",
@@ -88228,7 +88836,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जृम्भणं वेपनं श्वासो नृणां पत्रविषैर्भवेत्",
         "iast": "jṛmbhaṇaṃ vepanaṃ śvāso nṛṇāṃ patraviṣairbhavet",
         "iast_ru": "джр̣мбхан̣ам̣ вепанам̣ ш́ва̄со нр̣н̣а̄м̣ патравиш̣аирбхавет",
-        "text": "Зевота, дрожание, одышка бывают у людей от ядов листа."
+        "text": "Зевота, дрожание, одышка бывают у людей от ядов листа.",
+        "text_en": "Yawning, trembling and dyspnea occur in people from poisons of the leaf."
       },
       {
         "type": "verse",
@@ -88236,7 +88845,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "मुष्कशोथः फलविषैर्दाहो द्वेषश्च भोजने",
         "iast": "muṣkaśothaḥ phalaviṣairdāho dveṣaśca bhojane",
         "iast_ru": "муш̣каш́отхах̣ пхалавиш̣аирда̄хо двеш̣аш́ча бходжане",
-        "text": "Отёк мошонки — от ядов плода, жжение и отвращение к еде."
+        "text": "Отёк мошонки — от ядов плода, жжение и отвращение к еде.",
+        "text_en": "Swelling of the scrotum arises from poisons of the fruit, burning and aversion to food."
       },
       {
         "type": "verse",
@@ -88244,7 +88854,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "भवेत्पुष्पविषैश्छर्दिराध्मानं मूर्च्छनं तथा",
         "iast": "bhavetpuṣpaviṣaiśchardirādhmānaṃ mūrcchanaṃ tathā",
         "iast_ru": "бхаветпуш̣павиш̣аиш́чхардира̄дхма̄нам̣ мӯрччханам̣ татха̄",
-        "text": "От ядов цветка бывают рвота и вздутие, а также обморок."
+        "text": "От ядов цветка бывают рвота и вздутие, а также обморок.",
+        "text_en": "From poisons of the flower arise vomiting and distension, and also fainting."
       },
       {
         "type": "verse",
@@ -88252,7 +88863,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "त्वक्सारनिर्यासविषैरुपभुक्तैर्भवन्ति हि आस्यदौर्गन्ध्य पारुष्यशिरोरुक्कफसंस्रवाः",
         "iast": "tvaksāraniryāsaviṣairupabhuktairbhavanti hi āsyadaurgandhya pāruṣyaśirorukkaphasaṃsravāḥ",
         "iast_ru": "твакса̄ранирйа̄савиш̣аирупабхуктаирбхаванти хи а̄сйадаургандхйа па̄руш̣йаш́ироруккапхасам̣срава̄х̣",
-        "text": "От принятых ядов коры, сердцевины и млечного сока бывают зловоние рта, грубость, головная боль и истечение капхи."
+        "text": "От принятых ядов коры, сердцевины и млечного сока бывают зловоние рта, грубость, головная боль и истечение капхи.",
+        "text_en": "From ingested poisons of bark, pith and milky sap arise foul smell of the mouth, roughness, headache and flow of Kapha."
       },
       {
         "type": "verse",
@@ -88260,7 +88872,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फेनागमः क्षीरविषैर्विड्भेदो गुरुजिह्वता",
         "iast": "phenāgamaḥ kṣīraviṣairviḍbhedo gurujihvatā",
         "iast_ru": "пхена̄гамах̣ кш̣ӣравиш̣аирвид̣бхедо гуруджихвата̄",
-        "text": "От ядов млечного сока — появление пены, расщепление кала, тяжесть языка."
+        "text": "От ядов млечного сока — появление пены, расщепление кала, тяжесть языка.",
+        "text_en": "From poisons of milky sap: appearance of foam, splitting of the stool, heaviness of the tongue."
       },
       {
         "type": "verse",
@@ -88268,7 +88881,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "हृत्पीडनं धातुविषैर्मूर्च्छा दाहश्च तालुनि प्रायेण कालघातीनि विषाण्येतानि निर्दिशेत्",
         "iast": "hṛtpīḍanaṃ dhātuviṣairmūrcchā dāhaśca tāluni prāyeṇa kālaghātīni viṣāṇyetāni nirdiśet",
         "iast_ru": "хр̣тпӣд̣анам̣ дха̄тувиш̣аирмӯрччха̄ да̄хаш́ча та̄луни пра̄йен̣а ка̄лагха̄тӣни виш̣а̄н̣йета̄ни нирдиш́ет",
-        "text": "От ядов минерального происхождения — сдавливание сердца, обморок и жжение в нёбе; в основном эти яды следует определять как убивающие постепенно, со временем."
+        "text": "От ядов минерального происхождения — сдавливание сердца, обморок и жжение в нёбе; в основном эти яды следует определять как убивающие постепенно, со временем.",
+        "text_en": "From poisons of mineral origin: oppression of the heart, fainting and burning in the palate; these poisons should chiefly be identified as killing gradually, over time."
       },
       {
         "type": "verse",
@@ -88276,7 +88890,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "कन्दजान्युग्रवीर्याणि यान्युक्तानि त्रयोदश सर्वाण्येतानि कुशलैर्ज्ञेयानि दशभिर्गुणैः",
         "iast": "kandajānyugravīryāṇi yānyuktāni trayodaśa sarvāṇyetāni kuśalairjñeyāni daśabhirguṇaiḥ",
         "iast_ru": "кандаджа̄нйугравӣрйа̄н̣и йа̄нйукта̄ни трайодаш́а сарва̄н̣йета̄ни куш́алаирджн̃ейа̄ни даш́абхиргун̣аих̣",
-        "text": "Яды клубневого происхождения, названные тринадцатью, ужасной силы, — все они опытным следует знать по десяти свойствам."
+        "text": "Яды клубневого происхождения, названные тринадцатью, ужасной силы, — все они опытным следует знать по десяти свойствам.",
+        "text_en": "The poisons of tuber origin, named thirteen, of terrible potency: all of these should be known by the experienced by ten properties."
       },
       {
         "type": "verse",
@@ -88284,7 +88899,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्थावरं जङ्गमं वाऽपि कृत्रिमं चापि यद्विषम् सद्यो निहन्ति तत्सर्वं गुणैश्च दशभिर्युतम्",
         "iast": "sthāvaraṃ jaṅgamaṃ vā'pi kṛtrimaṃ cāpi yadviṣam sadyo nihanti tatsarvaṃ guṇaiśca daśabhiryutam",
         "iast_ru": "стха̄варам̣ джан̇гамам̣ ва̄'пи кр̣тримам̣ ча̄пи йадвиш̣ам садйо ниханти татсарвам̣ гун̣аиш́ча даш́абхирйутам",
-        "text": "Неподвижный или подвижный, а также искусственный яд, соединённый с этими десятью свойствами, — всё это убивает мгновенно."
+        "text": "Неподвижный или подвижный, а также искусственный яд, соединённый с этими десятью свойствами, — всё это убивает мгновенно.",
+        "text_en": "Immobile or mobile, and also artificial poison, combined with these ten properties: all this kills instantly."
       },
       {
         "type": "verse",
@@ -88292,7 +88908,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रूक्षमुष्णं तथा तीक्ष्णं सूक्ष्ममाशु व्यवायि च विकाशि विशदञ्चैव लघुपाकि च ते दश",
         "iast": "rūkṣamuṣṇaṃ tathā tīkṣṇaṃ sūkṣmamāśu vyavāyi ca vikāśi viśadañcaiva laghupāki ca te daśa",
         "iast_ru": "рӯкш̣амуш̣н̣ам̣ татха̄ тӣкш̣н̣ам̣ сӯкш̣мама̄ш́у вйава̄йи ча вика̄ш́и виш́адан̃чаива лагхупа̄ки ча те даш́а",
-        "text": "Сухость, горячность, а также резкость, тонкость, быстрое проникновение, распространяющаяся [сила], ясность (прозрачность) и лёгкая усвояемость — таковы эти десять."
+        "text": "Сухость, горячность, а также резкость, тонкость, быстрое проникновение, распространяющаяся [сила], ясность (прозрачность) и лёгкая усвояемость — таковы эти десять.",
+        "text_en": "Dryness, heat, and also sharpness, subtlety, rapid penetration, spreading (force), clarity (transparency) and ease of assimilation: such are these ten."
       },
       {
         "type": "verse",
@@ -88300,7 +88917,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तद्रौ क्ष्यात्कोपयेद्वायुमौष्ण्यात् पित्तं सशोणितम् तैक्ष्ण्यान्मतिं मोहयति मर्मबन्धाञ्छिनत्ति हि शरीरावयवान्सौक्ष्म्यात्प्रविशेद्विकरोति च आशुत्वादाशु तत्प्रोक्तं व्यवायात्प्रकृतिं हरेत्",
         "iast": "tadrau kṣyātkopayedvāyumauṣṇyāt pittaṃ saśoṇitam taikṣṇyānmatiṃ mohayati marmabandhāñchinatti hi śarīrāvayavānsaukṣmyātpraviśedvikaroti ca āśutvādāśu tatproktaṃ vyavāyātprakṛtiṃ haret",
         "iast_ru": "тадрау кш̣йа̄ткопайедва̄йумауш̣н̣йа̄т питтам̣ саш́он̣итам таикш̣н̣йа̄нматим̣ мохайати мармабандха̄н̃чхинатти хи ш́арӣра̄вайава̄нсаукш̣мйа̄тправиш́едвикароти ча а̄ш́утва̄да̄ш́у татпроктам̣ вйава̄йа̄тпракр̣тим̣ харет",
-        "text": "От сухости он возмущает ветер, от горячности — питту с кровью, от резкости он помрачает разум и разрывает узлы жизненно важных точек; от тонкости проникает в части тела и вызывает расстройство; от быстроты его так называют быстрым; от проникающей силы отнимает природное [состояние]."
+        "text": "От сухости он возмущает ветер, от горячности — питту с кровью, от резкости он помрачает разум и разрывает узлы жизненно важных точек; от тонкости проникает в части тела и вызывает расстройство; от быстроты его так называют быстрым; от проникающей силы отнимает природное [состояние].",
+        "text_en": "By dryness it aggravates wind; by heat Pitta with blood; by sharpness it clouds the mind and tears open the knots of the vital points; by subtlety it penetrates the parts of the body and causes disorder; by rapidity it is called rapid; by penetrating force it takes away the natural (state)."
       },
       {
         "type": "verse",
@@ -88308,7 +88926,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विकाशित्वात्क्षपयति दोषान्धातून्मलानपि अतिरिच्यते वैशद्याद् दुश्चिकित्स्यं च लाघवात् दुर्जरं चाविपाकित्वात्तस्मात्क्लेशयते चिरम्",
         "iast": "vikāśitvātkṣapayati doṣāndhātūnmalānapi atiricyate vaiśadyād duścikitsyaṃ ca lāghavāt durjaraṃ cāvipākitvāttasmātkleśayate ciram",
         "iast_ru": "вика̄ш́итва̄ткш̣апайати дош̣а̄ндха̄тӯнмала̄напи атиричйате ваиш́адйа̄д душ́чикитсйам̣ ча ла̄гхава̄т дурджарам̣ ча̄випа̄китва̄ттасма̄тклеш́айате чирам",
-        "text": "От распространяющейся силы истощает доши, ткани и нечистоты; от ясности он превышает [защиту тела]; трудноизлечим от лёгкости; трудноусвояем от неперевариваемости — поэтому мучает долго."
+        "text": "От распространяющейся силы истощает доши, ткани и нечистоты; от ясности он превышает [защиту тела]; трудноизлечим от лёгкости; трудноусвояем от неперевариваемости — поэтому мучает долго.",
+        "text_en": "By spreading force it depletes the doshas, tissues and impurities; by clarity it overcomes (the body's defense); it is difficult to cure because of lightness; difficult to digest because of indigestibility; therefore it torments for a long time."
       },
       {
         "type": "verse",
@@ -88316,7 +88935,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "सद्यः क्षतं पच्यते यस्य जन्तोः स्रवेद्र क्तं पच्यते चाप्यभीक्ष्णम् कृष्णीभूतं क्लिन्नमत्यर्थपूति क्षतान्मांसं शीर्यते यस्य वाऽपि",
         "iast": "sadyaḥ kṣataṃ pacyate yasya jantoḥ sravedra ktaṃ pacyate cāpyabhīkṣṇam kṛṣṇībhūtaṃ klinnamatyarthapūti kṣatānmāṃsaṃ śīryate yasya vā'pi",
         "iast_ru": "садйах̣ кш̣атам̣ пачйате йасйа джантох̣ сраведра ктам̣ пачйате ча̄пйабхӣкш̣н̣ам кр̣ш̣н̣ӣбхӯтам̣ клиннаматйартхапӯти кш̣ата̄нма̄м̣сам̣ ш́ӣрйате йасйа ва̄'пи",
-        "text": "У существа, у которого свежая рана созревает, истекает кровью и созревает многократно, [мясо] становится чёрным, влажным, чрезвычайно зловонным, у которого от раны мясо разрушается,"
+        "text": "У существа, у которого свежая рана созревает, истекает кровью и созревает многократно, [мясо] становится чёрным, влажным, чрезвычайно зловонным, у которого от раны мясо разрушается,",
+        "text_en": "In a being in whom a fresh wound ripens, bleeds and ripens repeatedly, (the flesh) becomes black, moist, extremely foul-smelling, in whom the flesh is destroyed from the wound,"
       },
       {
         "type": "verse",
@@ -88324,7 +88944,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "तृष्णातापौ दाहमूर्च्छे च यस्य दिग्धं विद्धं तं मनुष्यं व्यवस्येत् लिङ्गान्येतान्येव कुर्यादमित्रैर्दत्तः क्ष्वेडो वा व्रणे यस्य चापि",
         "iast": "tṛṣṇātāpau dāhamūrcche ca yasya digdhaṃ viddhaṃ taṃ manuṣyaṃ vyavasyet liṅgānyetānyeva kuryādamitrairdattaḥ kṣveḍo vā vraṇe yasya cāpi",
         "iast_ru": "тр̣ш̣н̣а̄та̄пау да̄хамӯрччхе ча йасйа дигдхам̣ виддхам̣ там̣ мануш̣йам̣ вйавасйет лин̇га̄нйета̄нйева курйа̄дамитраирдаттах̣ кш̣вед̣о ва̄ вран̣е йасйа ча̄пи",
-        "text": "жажда, жар, жжение и обморок — у такого человека следует определить, что он смазан или пронзён [ядом]; такие же признаки бывают, [если] враг дал яд или же в ране [есть] яд от насекомого."
+        "text": "жажда, жар, жжение и обморок — у такого человека следует определить, что он смазан или пронзён [ядом]; такие же признаки бывают, [если] враг дал яд или же в ране [есть] яд от насекомого.",
+        "text_en": "thirst, fever, burning and fainting: in such a person it should be determined that he has been smeared or pierced (with poison); the same signs occur (if) an enemy has given poison or if there is insect poison in the wound."
       },
       {
         "type": "verse",
@@ -88332,7 +88953,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "इङ्गितज्ञो मनुष्याणां वाक्चेष्टामुखवैकृतैः जानीयाद्विषदातारमेभिर्लिङ्गैश्च बुद्धिमान्",
         "iast": "iṅgitajño manuṣyāṇāṃ vākceṣṭāmukhavaikṛtaiḥ jānīyādviṣadātāramebhirliṅgaiśca buddhimān",
         "iast_ru": "ин̇гитаджн̃о мануш̣йа̄н̣а̄м̣ ва̄кчеш̣т̣а̄мукхаваикр̣таих̣ джа̄нӣйа̄двиш̣ада̄та̄рамебхирлин̇гаиш́ча буддхима̄н",
-        "text": "Мудрый, знающий признаки людей, по речи, движению и искажению лица должен узнавать дающего яд по этим признакам."
+        "text": "Мудрый, знающий признаки людей, по речи, движению и искажению лица должен узнавать дающего яд по этим признакам.",
+        "text_en": "The wise one, who knows the signs of people, by speech, movement and distortion of the face should recognize the poisoner by these signs."
       },
       {
         "type": "verse",
@@ -88340,7 +88962,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "न ददात्युत्तरं पृष्टो विवक्षुर्मोहमेति च अपार्थं बहु सङ्कीर्णं भाषते चापि मूढवत्",
         "iast": "na dadātyuttaraṃ pṛṣṭo vivakṣurmohameti ca apārthaṃ bahu saṅkīrṇaṃ bhāṣate cāpi mūḍhavat",
         "iast_ru": "на дада̄тйуттарам̣ пр̣ш̣т̣о вивакш̣урмохамети ча апа̄ртхам̣ баху сан̇кӣрн̣ам̣ бха̄ш̣ате ча̄пи мӯд̣хават",
-        "text": "Он не даёт ответа на вопрос, желает говорить и приходит в замешательство; говорит бессмысленно, много, спутанно, подобно безумцу."
+        "text": "Он не даёт ответа на вопрос, желает говорить и приходит в замешательство; говорит бессмысленно, много, спутанно, подобно безумцу.",
+        "text_en": "He gives no answer to a question, wishes to speak and becomes confused; speaks senselessly, much, incoherently, like a madman."
       },
       {
         "type": "verse",
@@ -88348,7 +88971,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अङ्गुलद्यः स्फोटयेदुर्वीं विलिखेत्प्रहसेदपि वेपथुश्चास्य भवति त्रस्तश्चैककमीक्षते",
         "iast": "aṅguladyaḥ sphoṭayedurvīṃ vilikhetprahasedapi vepathuścāsya bhavati trastaścaikakamīkṣate",
         "iast_ru": "ан̇гуладйах̣ спхот̣айедурвӣм̣ виликхетпрахаседапи вепатхуш́ча̄сйа бхавати трасташ́чаикакамӣкш̣ате",
-        "text": "Пальцем разбивает землю, царапает, а также смеётся; у него бывает дрожь, испуганный, смотрит в одну точку."
+        "text": "Пальцем разбивает землю, царапает, а также смеётся; у него бывает дрожь, испуганный, смотрит в одну точку.",
+        "text_en": "With his finger he breaks the ground, scratches, and also laughs; he trembles, frightened, looks at a single point."
       },
       {
         "type": "verse",
@@ -88356,7 +88980,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "विवर्णवक्त्रो ध्यामश्च नखैः किञ्चिच्छिनत्ति च आलभेतासकृद्दीनः करेण च शिरोरुहान् निर्यियासुरपद्वारैर्वीक्षते च पुनः पुनः वर्त्तते विपरीतं च विषदाता विचेतनः",
         "iast": "vivarṇavaktro dhyāmaśca nakhaiḥ kiñcicchinatti ca ālabhetāsakṛddīnaḥ kareṇa ca śiroruhān niryiyāsurapadvārairvīkṣate ca punaḥ punaḥ varttate viparītaṃ ca viṣadātā vicetanaḥ",
         "iast_ru": "виварн̣авактро дхйа̄маш́ча накхаих̣ кин̃чиччхинатти ча а̄лабхета̄сакр̣ддӣнах̣ карен̣а ча ш́ироруха̄н нирйийа̄сурападва̄раирвӣкш̣ате ча пунах̣ пунах̣ варттате випарӣтам̣ ча виш̣ада̄та̄ вичетанах̣",
-        "text": "С обесцвеченным лицом, тёмный, ногтями что-то расцарапывает; несчастный, многократно касается рукой волос на голове; желающий уйти, смотрит на выходы двери снова и снова; дающий яд ведёт себя противоречиво, теряет рассудок."
+        "text": "С обесцвеченным лицом, тёмный, ногтями что-то расцарапывает; несчастный, многократно касается рукой волос на голове; желающий уйти, смотрит на выходы двери снова и снова; дающий яд ведёт себя противоречиво, теряет рассудок.",
+        "text_en": "With a discolored face, dark, he scratches something with his nails; unhappy, he repeatedly touches the hair on his head with his hand; wishing to leave, he looks at the exits of the door again and again; the poisoner behaves contradictorily, loses his reason."
       },
       {
         "type": "verse",
@@ -88364,7 +88989,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "निद्रां तन्द्रां क्लमं दाहं सम्पाकं लोमहर्षणम् शोथं चैवातिसारं च कुरुते जङ्गमं विषम्",
         "iast": "nidrāṃ tandrāṃ klamaṃ dāhaṃ sampākaṃ lomaharṣaṇam śothaṃ caivātisāraṃ ca kurute jaṅgamaṃ viṣam",
         "iast_ru": "нидра̄м̣ тандра̄м̣ кламам̣ да̄хам̣ сампа̄кам̣ ломахарш̣ан̣ам ш́отхам̣ чаива̄тиса̄рам̣ ча куруте джан̇гамам̣ виш̣ам",
-        "text": "Сон, дремоту, усталость, жжение, созревание, гусиную кожу, отёк и понос вызывает подвижный (животный) яд."
+        "text": "Сон, дремоту, усталость, жжение, созревание, гусиную кожу, отёк и понос вызывает подвижный (животный) яд.",
+        "text_en": "Sleep, drowsiness, fatigue, burning, ripening, horripilation, swelling and diarrhea are caused by mobile (animal) poison."
       },
       {
         "type": "verse",
@@ -88372,7 +88998,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वातपित्तकफात्मानो भोगिमण्डलिराजिलाः यथाक्रमं समाख्याता द्व्यन्तराद्वन्द्वरूपिणः",
         "iast": "vātapittakaphātmāno bhogimaṇḍalirājilāḥ yathākramaṃ samākhyātā dvyantarādvandvarūpiṇaḥ",
         "iast_ru": "ва̄тапиттакапха̄тма̄но бхогиман̣д̣алира̄джила̄х̣ йатха̄крамам̣ сама̄кхйа̄та̄ двйантара̄двандварӯпин̣ах̣",
-        "text": "[Змеи] с природой ватхи, питты и капхи — «бхоги», «мандали» и «раджила» — провозглашены по порядку, парного вида, [с промежуточными] двумя."
+        "text": "[Змеи] с природой ватхи, питты и капхи — «бхоги», «мандали» и «раджила» — провозглашены по порядку, парного вида, [с промежуточными] двумя.",
+        "text_en": "(Snakes) with the nature of Vata, Pitta and Kapha: Bhogi, Mandali and Rajila are declared in order, of paired kind, (with intermediate) two."
       },
       {
         "type": "verse",
@@ -88380,7 +89007,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "फणिनो भोगिनो ज्ञेयाः संख्यातास्तेऽत्र विंशतिः मण्डलैर्विविधैश्चित्राः पृथवो मन्दगामिनः",
         "iast": "phaṇino bhogino jñeyāḥ saṃkhyātāste'tra viṃśatiḥ maṇḍalairvividhaiścitrāḥ pṛthavo mandagāminaḥ",
         "iast_ru": "пхан̣ино бхогино джн̃ейа̄х̣ сам̣кхйа̄та̄сте'тра вим̣ш́атих̣ ман̣д̣алаирвивидхаиш́читра̄х̣ пр̣тхаво мандага̄минах̣",
-        "text": "«Пхани» следует знать как «бхоги»; их насчитывается двадцать; разнообразные различными кругами, широкие, медленно движущиеся."
+        "text": "«Пхани» следует знать как «бхоги»; их насчитывается двадцать; разнообразные различными кругами, широкие, медленно движущиеся.",
+        "text_en": "The Phani should be known as Bhogi; twenty are counted; various with different circles, broad, slow-moving."
       },
       {
         "type": "verse",
@@ -88388,7 +89016,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "षट् ते मण्डलिनो ज्ञेया ज्वलनार्कविषाः स्मृताः",
         "iast": "ṣaṭ te maṇḍalino jñeyā jvalanārkaviṣāḥ smṛtāḥ",
         "iast_ru": "ш̣ат̣ те ман̣д̣алино джн̃ейа̄ джвалана̄ркавиш̣а̄х̣ смр̣та̄х̣",
-        "text": "Шесть следует знать как «мандали», провозглашённых ядовитыми как огонь и солнце."
+        "text": "Шесть следует знать как «мандали», провозглашённых ядовитыми как огонь и солнце.",
+        "text_en": "Six should be known as Mandali, declared poisonous as fire and the sun."
       },
       {
         "type": "verse",
@@ -88396,7 +89025,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "स्निग्धा विविधवर्णाभिस्तिर्यगूर्ध्वञ्च राजिभिः विचित्रा इव ये भान्ति राजिलास्ते हि तेऽपि षट्",
         "iast": "snigdhā vividhavarṇābhistiryagūrdhvañca rājibhiḥ vicitrā iva ye bhānti rājilāste hi te'pi ṣaṭ",
         "iast_ru": "снигдха̄ вивидхаварн̣а̄бхистирйагӯрдхван̃ча ра̄джибхих̣ вичитра̄ ива йе бха̄нти ра̄джила̄сте хи те'пи ш̣ат̣",
-        "text": "Маслянистые, с различными полосами, поперечными и продольными, разноцветными, кажущиеся пёстрыми, — это «раджилы», их также шесть."
+        "text": "Маслянистые, с различными полосами, поперечными и продольными, разноцветными, кажущиеся пёстрыми, — это «раджилы», их также шесть.",
+        "text_en": "Unctuous, with various stripes, transverse and longitudinal, multicolored, appearing variegated: these are Rajilas; they too are six."
       },
       {
         "type": "verse",
@@ -88404,7 +89034,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दंशो भोगिकृतः कृष्णः सर्ववातविकारकृत् पीतो मण्डलिनः शोथो मृदुः पित्तविकारवान्",
         "iast": "daṃśo bhogikṛtaḥ kṛṣṇaḥ sarvavātavikārakṛt pīto maṇḍalinaḥ śotho mṛduḥ pittavikāravān",
         "iast_ru": "дам̣ш́о бхогикр̣тах̣ кр̣ш̣н̣ах̣ сарвава̄тавика̄ракр̣т пӣто ман̣д̣алинах̣ ш́отхо мр̣дух̣ питтавика̄рава̄н",
-        "text": "Укус, [нанесённый] «бхоги», чёрный, вызывает все расстройства ватхи; жёлтый отёк, мягкий, от «мандали» — вызывает расстройство питты."
+        "text": "Укус, [нанесённый] «бхоги», чёрный, вызывает все расстройства ватхи; жёлтый отёк, мягкий, от «мандали» — вызывает расстройство питты.",
+        "text_en": "A bite (inflicted) by a Bhogi, black, causes all disorders of Vata; a yellow swelling, soft, from a Mandali, causes disorder of Pitta."
       },
       {
         "type": "verse",
@@ -88412,7 +89043,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "राजिलोत्थो भवेद्दंशः स्थिरशोथश्च पिच्छिलः पाण्डुः स्निग्धोऽतिसान्द्रा सृक्सर्वश्लेष्मविकारवान्",
         "iast": "rājilottho bhaveddaṃśaḥ sthiraśothaśca picchilaḥ pāṇḍuḥ snigdho'tisāndrā sṛksarvaśleṣmavikāravān",
         "iast_ru": "ра̄джилоттхо бхаведдам̣ш́ах̣ стхираш́отхаш́ча пиччхилах̣ па̄н̣д̣ух̣ снигдхо'тиса̄ндра̄ ср̣ксарваш́леш̣мавика̄рава̄н",
-        "text": "Укус от «раджилы» — устойчивый отёк, слизистый, бледный, маслянистый, весьма густая кровь — вызывает все расстройства капхи."
+        "text": "Укус от «раджилы» — устойчивый отёк, слизистый, бледный, маслянистый, весьма густая кровь — вызывает все расстройства капхи.",
+        "text_en": "A bite from a Rajila, a firm swelling, mucous, pale, unctuous, with very thick blood, causes all disorders of Kapha."
       },
       {
         "type": "verse",
@@ -88420,7 +89052,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अश्वत्थदेवायतनश्मशानवल्मीकसन्ध्यासु चतुष्पथेषु याम्ये च पित्र्ये परिवर्जनीयाः ॠक्षे नरा मर्मसु ये च दष्टाः",
         "iast": "aśvatthadevāyatanaśmaśānavalmīkasandhyāsu catuṣpatheṣu yāmye ca pitrye parivarjanīyāḥ ṝkṣe narā marmasu ye ca daṣṭāḥ",
         "iast_ru": "аш́ваттхадева̄йатанаш́маш́а̄навалмӣкасандхйа̄су чатуш̣патхеш̣у йа̄мйе ча питрйе париварджанӣйа̄х̣ р̣̄кш̣е нара̄ мармасу йе ча даш̣т̣а̄х̣",
-        "text": "[Людей], укушенных в жизненно важные точки в созвездии Рикша (Большой Медведицы), следует избегать [лечения] у ашваттхи, храма богов, кладбища, муравейника, в сумерки, на перекрёстке дорог, на юге и в местах предков."
+        "text": "[Людей], укушенных в жизненно важные точки в созвездии Рикша (Большой Медведицы), следует избегать [лечения] у ашваттхи, храма богов, кладбища, муравейника, в сумерки, на перекрёстке дорог, на юге и в местах предков.",
+        "text_en": "(People) bitten on vital points under the constellation Riksha (the Great Bear) should be avoided (as untreatable), (also those bitten) at an Ashvattha tree, a temple of the gods, a cemetery, an anthill, at twilight, at a crossroads, in the south and in places of the ancestors."
       },
       {
         "type": "verse",
@@ -88428,7 +89061,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "दर्वीकराणां विषमाशु हन्ति मेघानिलोष्णे द्विगुणीभवन्ति",
         "iast": "darvīkarāṇāṃ viṣamāśu hanti meghāniloṣṇe dviguṇībhavanti",
         "iast_ru": "дарвӣкара̄н̣а̄м̣ виш̣ама̄ш́у ханти мегха̄нилош̣н̣е двигун̣ӣбхаванти",
-        "text": "Яд кобр быстро убивает; в туче, ветре и жаре [он] усиливается вдвойне."
+        "text": "Яд кобр быстро убивает; в туче, ветре и жаре [он] усиливается вдвойне.",
+        "text_en": "The poison of cobras kills quickly; in cloud, wind and heat (it) is doubly intensified."
       },
       {
         "type": "verse",
@@ -88436,7 +89070,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "रथाङ्गलाङ्गलच्छत्रस्वस्ति काङ्कुशधारिणः ज्ञेया दर्वीकराः सर्पाः फणिनः शीघ्रगामिनः",
         "iast": "rathāṅgalāṅgalacchatrasvasti kāṅkuśadhāriṇaḥ jñeyā darvīkarāḥ sarpāḥ phaṇinaḥ śīghragāminaḥ",
         "iast_ru": "ратха̄н̇гала̄н̇галаччхатрасвасти ка̄н̇куш́адха̄рин̣ах̣ джн̃ейа̄ дарвӣкара̄х̣ сарпа̄х̣ пхан̣инах̣ ш́ӣгхрага̄минах̣",
-        "text": "Держащие [символы] колеса повозки, плуга, зонта, свастики и крюка (анкуша) — следует знать как «дарвикар» (кобр), быстро движущихся змей."
+        "text": "Держащие [символы] колеса повозки, плуга, зонта, свастики и крюка (анкуша) — следует знать как «дарвикар» (кобр), быстро движущихся змей.",
+        "text_en": "Those bearing (marks) of a cart wheel, plow, umbrella, swastika and hook (Ankusha): they should be known as Darvikara (cobras), quickly moving snakes."
       },
       {
         "type": "verse",
@@ -88444,7 +89079,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "अजीर्णपित्तातपपीडितेषु बालेषु वृद्धेषु बुभुक्षितेषु क्षीणे क्षते मेहिनि कुष्ठजुष्टे रूक्षेऽबले गर्भवतीषु चापि",
         "iast": "ajīrṇapittātapapīḍiteṣu bāleṣu vṛddheṣu bubhukṣiteṣu kṣīṇe kṣate mehini kuṣṭhajuṣṭe rūkṣe'bale garbhavatīṣu cāpi",
         "iast_ru": "аджӣрн̣апитта̄тапапӣд̣итеш̣у ба̄леш̣у вр̣ддхеш̣у бубхукш̣итеш̣у кш̣ӣн̣е кш̣ате мехини куш̣т̣хаджуш̣т̣е рӯкш̣е'бале гарбхаватӣш̣у ча̄пи",
-        "text": "У страдающих несварением, у поражённых питтой и солнечным жаром, у детей и старых, у голодных, у истощённых, у раненых, у страдающих прамехой, у поражённых куштхой, у сухих (истощённых), у слабых, а также у беременных [женщин яд действует особенно сильно]."
+        "text": "У страдающих несварением, у поражённых питтой и солнечным жаром, у детей и старых, у голодных, у истощённых, у раненых, у страдающих прамехой, у поражённых куштхой, у сухих (истощённых), у слабых, а также у беременных [женщин яд действует особенно сильно].",
+        "text_en": "(The poison acts especially strongly) in those suffering from indigestion, those afflicted by Pitta and the heat of the sun, in children and the aged, the hungry, the emaciated, the wounded, those suffering from Prameha, those afflicted by Kushtha, the dry (emaciated), the weak, and also pregnant (women)."
       },
       {
         "type": "verse",
@@ -88452,7 +89088,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "शस्त्रक्षते यस्य न रक्तमस्ति राज्यो लताभिश्च न सम्भवन्ति शीताभिरद्भिश्च न रोमहर्षो विषाभिभूतं परिवर्जयेत्तम् जिह्मं मुखं यस्य च केशशातो नासाऽवसादश्च सकण्ठभङ्गः कृष्णश्च रक्तः श्वयथुश्च दंशे हन्वोः स्थिरत्वञ्च विवर्जनीयः",
         "iast": "śastrakṣate yasya na raktamasti rājyo latābhiśca na sambhavanti śītābhiradbhiśca na romaharṣo viṣābhibhūtaṃ parivarjayettam jihmaṃ mukhaṃ yasya ca keśaśāto nāsā'vasādaśca sakaṇṭhabhaṅgaḥ kṛṣṇaśca raktaḥ śvayathuśca daṃśe hanvoḥ sthiratvañca vivarjanīyaḥ",
         "iast_ru": "ш́астракш̣ате йасйа на рактамасти ра̄джйо лата̄бхиш́ча на самбхаванти ш́ӣта̄бхирадбхиш́ча на ромахарш̣о виш̣а̄бхибхӯтам̣ париварджайеттам джихмам̣ мукхам̣ йасйа ча кеш́аш́а̄то на̄са̄'васа̄даш́ча сакан̣т̣хабхан̇гах̣ кр̣ш̣н̣аш́ча рактах̣ ш́вайатхуш́ча дам̣ш́е ханвох̣ стхиратван̃ча виварджанӣйах̣",
-        "text": "У кого от раны оружием нет крови, нет полос от растений [противоядий], нет гусиной кожи от холодной воды, — поражённого ядом такого следует избегать; кривой рот, выпадение волос, опущение носа, а также спазм горла, чёрный и красный отёк при укусе, устойчивость в челюстях — следует избегать [лечения]."
+        "text": "У кого от раны оружием нет крови, нет полос от растений [противоядий], нет гусиной кожи от холодной воды, — поражённого ядом такого следует избегать; кривой рот, выпадение волос, опущение носа, а также спазм горла, чёрный и красный отёк при укусе, устойчивость в челюстях — следует избегать [лечения].",
+        "text_en": "He in whom from a weapon wound there is no blood, no streaks from plant (antidotes), no horripilation from cold water: such a person afflicted by poison should be avoided; a twisted mouth, falling out of hair, drooping of the nose, and also spasm of the throat, black and red swelling at the bite, firmness in the jaws: (these) should be avoided (as untreatable)."
       },
       {
         "type": "verse",
@@ -88460,7 +89097,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "वान्तिर्घना यस्य निरेति वक्त्राद्र क्तं स्रवेदूर्ध्वमधश्च यस्य दंष्ट्रानिपातांश्चतुरश्च पश्येद्यस्यापि वैद्यैः परिवर्जनीयः",
         "iast": "vāntirghanā yasya nireti vaktrādra ktaṃ sravedūrdhvamadhaśca yasya daṃṣṭrānipātāṃścaturaśca paśyedyasyāpi vaidyaiḥ parivarjanīyaḥ",
         "iast_ru": "ва̄нтиргхана̄ йасйа нирети вактра̄дра ктам̣ сраведӯрдхвамадхаш́ча йасйа дам̣ш̣т̣ра̄нипа̄та̄м̣ш́чатураш́ча паш́йедйасйа̄пи ваидйаих̣ париварджанӣйах̣",
-        "text": "У кого обильная рвота выходит изо рта, у кого истекает кровь сверху и снизу, у кого врачи видят четыре следа клыков, — [этого] также следует избегать [лечения]."
+        "text": "У кого обильная рвота выходит изо рта, у кого истекает кровь сверху и снизу, у кого врачи видят четыре следа клыков, — [этого] также следует избегать [лечения].",
+        "text_en": "He from whose mouth copious vomit comes out, from whom blood flows above and below, in whom physicians see four marks of fangs: (this one) too should be avoided (as untreatable)."
       },
       {
         "type": "verse",
@@ -88468,7 +89106,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "उन्मत्तमत्यर्थमुपद्रुतं वा हीनस्वरं वाऽप्यथवा विवर्णम् सारिष्टमत्यर्थमवेगिनञ्च जह्यान्नरं तत्र न कर्म कुर्यात्",
         "iast": "unmattamatyarthamupadrutaṃ vā hīnasvaraṃ vā'pyathavā vivarṇam sāriṣṭamatyarthamaveginañca jahyānnaraṃ tatra na karma kuryāt",
         "iast_ru": "унматтаматйартхамупадрутам̣ ва̄ хӣнасварам̣ ва̄'пйатхава̄ виварн̣ам са̄риш̣т̣аматйартхамавегинан̃ча джахйа̄ннарам̣ татра на карма курйа̄т",
-        "text": "Чрезмерно безумного, или сильно мучимого, или с ослабленным голосом, или обесцвеченного, с явными зловещими признаками, чрезмерно вялого человека следует оставить — там не следует применять лечение."
+        "text": "Чрезмерно безумного, или сильно мучимого, или с ослабленным голосом, или обесцвеченного, с явными зловещими признаками, чрезмерно вялого человека следует оставить — там не следует применять лечение.",
+        "text_en": "An excessively insane person, or one greatly tormented, or with a weakened voice, or discolored, with evident ominous signs, an excessively listless person should be left: treatment should not be applied there."
       },
       {
         "type": "verse",
@@ -88476,7 +89115,8 @@ export const BHAVAPRAKASHA_DATA = [
         "sanskrit": "जीर्णं विषघ्नौषधिभिर्हतं वा दावाग्निवातातपशोषितं वा स्वभावतो वा गुणविप्रहीनं विषं हि दूषीविषतामुपैति",
         "iast": "jīrṇaṃ viṣaghnauṣadhibhirhataṃ vā dāvāgnivātātapaśoṣitaṃ vā svabhāvato vā guṇaviprahīnaṃ viṣaṃ hi dūṣīviṣatāmupaiti",
         "iast_ru": "джӣрн̣ам̣ виш̣агхнауш̣адхибхирхатам̣ ва̄ да̄ва̄гнива̄та̄тапаш́ош̣итам̣ ва̄ свабха̄вато ва̄ гун̣авипрахӣнам̣ виш̣ам̣ хи дӯш̣ӣвиш̣ата̄мупаити",
-        "text": "Старый [яд], или устранённый противоядными травами, или высушенный лесным пожаром, ветром и солнцем, или же по природе лишённый свойств, — [такой] яд становится «души-виша» (скрытым, хроническим ядом)."
+        "text": "Старый [яд], или устранённый противоядными травами, или высушенный лесным пожаром, ветром и солнцем, или же по природе лишённый свойств, — [такой] яд становится «души-виша» (скрытым, хроническим ядом).",
+        "text_en": "Old (poison), or removed by antidotal herbs, or dried up by forest fire, wind and sun, or by nature devoid of properties: (such) poison becomes Dushi-visha (latent, chronic poison)."
       },
       {
         "type": "verse",
