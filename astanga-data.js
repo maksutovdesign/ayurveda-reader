@@ -12393,7 +12393,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धातवः खलु शारीराः समानैः समानगुणभूयिष्ठैर्वाहारविहारैरभ्यस्यमानैर्वृद्धिमाप्नुवन्ति ह्रासं तु विपरीतैर्विपरीतगुणभूयिष्ठर्वा तथा हि देहधातवो ये गुरवस्ते गुरुभिरैक्यकारितयोपचीयन्ते लघवस्तु लघुभिस्तद्विपरीतैस्तु पृथक्त्वकारिभिरपचीयन्ते तस्मादन्येभ्यो द्रव्येभ्यो ऽपि सुतरां रक्तमाप्याय्यते रक्तेन मांसं मांसेन मेदो मेदसास्थि तरुणास्थ्ना मज्जा मज्ञा शुक्रं शुक्रेणामगर्मेण गर्भः यत्र त्वेवं लक्षणेन सामान्येन सामान्यवतामाहारविहाराणामसान्निध्यं स्यात् सन्निहितानां चाभ्यवहरणमशक्यं विरुद्धत्वाद् घृणित्वादरुचेरन्यस्माद्वा कारणान्तरात् तत्र समानगुणभूयिष्ठानामन्यप्रकृतीनामाहारविहाराणामभ्यवहारः श्रेयान्",
         "iast": "dhātavaḥ khalu śārīrāḥ samānaiḥ samānaguṇabhūyiṣṭhairvāhāravihārairabhyasyamānairvṛddhimāpnuvanti hrāsaṃ tu viparītairviparītaguṇabhūyiṣṭharvā tathā hi dehadhātavo ye guravaste gurubhiraikyakāritayopacīyante laghavastu laghubhistadviparītaistu pṛthaktvakāribhirapacīyante tasmādanyebhyo dravyebhyo 'pi sutarāṃ raktamāpyāyyate raktena māṃsaṃ māṃsena medo medasāsthi taruṇāsthnā majjā majñā śukraṃ śukreṇāmagarmeṇa garbhaḥ yatra tvevaṃ lakṣaṇena sāmānyena sāmānyavatāmāhāravihārāṇāmasānnidhyaṃ syāt sannihitānāṃ cābhyavaharaṇamaśakyaṃ viruddhatvād ghṛṇitvādaruceranyasmādvā kāraṇāntarāt tatra samānaguṇabhūyiṣṭhānāmanyaprakṛtīnāmāhāravihārāṇāmabhyavahāraḥ śreyān",
         "iast_ru": "дха̄тавах̣ кхалу ш́а̄рӣра̄х̣ сама̄наих̣ сама̄нагун̣абхӯйиш̣т̣хаирва̄ха̄равиха̄раирабхйасйама̄наирвр̣ддхима̄пнуванти хра̄сам̣ ту випарӣтаирвипарӣтагун̣абхӯйиш̣т̣харва̄ татха̄ хи дехадха̄таво йе гуравасте гурубхираикйака̄ритайопачӣйанте лагхавасту лагхубхистадвипарӣтаисту пр̣тхактвака̄рибхирапачӣйанте тасма̄данйебхйо дравйебхйо 'пи сутара̄м̣ рактама̄пйа̄ййате рактена ма̄м̣сам̣ ма̄м̣сена медо медаса̄стхи тарун̣а̄стхна̄ маджджа̄ маджн̃а̄ ш́украм̣ ш́укрен̣а̄магармен̣а гарбхах̣ йатра твевам̣ лакш̣ан̣ена са̄ма̄нйена са̄ма̄нйавата̄ма̄ха̄равиха̄ра̄н̣а̄маса̄ннидхйам̣ сйа̄т саннихита̄на̄м̣ ча̄бхйавахаран̣амаш́акйам̣ вируддхатва̄д гхр̣н̣итва̄даручеранйасма̄два̄ ка̄ран̣а̄нтара̄т татра сама̄нагун̣абхӯйиш̣т̣ха̄на̄манйапракр̣тӣна̄ма̄ха̄равиха̄ра̄н̣а̄мабхйаваха̄рах̣ ш́рейа̄н",
-        "text": "Телесные ткани, поистине, увеличиваются от подобных [им по природе] пищи и образа жизни, обладающих преимущественно подобными качествами, при регулярном их применении; уменьшаются же — от противоположных, обладающих преимущественно противоположными качествами. Ибо те телесные ткани, что тяжёлые, увеличиваются тяжёлыми [веществами] благодаря сходству [природы]; лёгкие же — лёгкими; противоположными же им, вызывающими разделение [природы], — уменьшаются. Поэтому кровь усиливается сильнее [именно] кровью, [хотя и] из других веществ [тоже]; мясо — кровью; жир — мясом; кость — жиром; костный мозг — молодой костью; семя — костным мозгом; зародыш — семенем и менструальной кровью. Там же, где, согласно этому общему принципу, не было бы доступности подобной пищи и образа жизни, а [если] доступное невозможно принять из-за противоречия [природе], отвращения, отсутствия аппетита или иной причины, — в этом случае предпочтительнее приём пищи и образа жизни иной природы, [но] обладающих преимущественно подобными качествами."
+        "text": "Телесные ткани, поистине, увеличиваются от подобных [им по природе] пищи и образа жизни, обладающих преимущественно подобными качествами, при регулярном их применении; уменьшаются же — от противоположных, обладающих преимущественно противоположными качествами. Ибо те телесные ткани, что тяжёлые, увеличиваются тяжёлыми [веществами] благодаря сходству [природы]; лёгкие же — лёгкими; противоположными же им, вызывающими разделение [природы], — уменьшаются. Поэтому кровь усиливается сильнее [именно] кровью, [хотя и] из других веществ [тоже]; мясо — кровью; жир — мясом; кость — жиром; костный мозг — молодой костью; семя — костным мозгом; зародыш — семенем и менструальной кровью. Там же, где, согласно этому общему принципу, не было бы доступности подобной пищи и образа жизни, а [если] доступное невозможно принять из-за противоречия [природе], отвращения, отсутствия аппетита или иной причины, — в этом случае предпочтительнее приём пищи и образа жизни иной природы, [но] обладающих преимущественно подобными качествами.",
+        "text_en": "The bodily tissues (dhatus) increase through the regular use of food and regimen that are similar to them [in nature] and predominantly possess similar qualities; and they diminish through those that are opposite and predominantly possess opposite qualities. For those tissues of the body that are heavy increase by heavy [substances] owing to similarity [of nature]; the light ones by light ones; and by their opposites, which cause separation [of nature], they decrease. Therefore blood is increased most by blood itself, [though] also by other substances; flesh by blood; fat by flesh; bone by fat; marrow by young bone; semen by marrow; the embryo by semen and menstrual blood. But where, according to this general principle, such similar food and regimen is not available, or [if] what is available cannot be taken because of incompatibility [with one's nature], aversion, loss of appetite or some other cause, in that case it is preferable to take food and regimen of a different nature [but] possessing predominantly similar qualities."
       },
       {
         "type": "verse",
@@ -12401,7 +12402,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्यथा शुक्रक्षये क्षीरसर्पिषोरुपयोगो मधुरस्निग्धशीतानामपरेषां च द्रव्याणाम् कर्मापि यद्यस्य धातोः समानक्रियतया वृद्धिकरं तस्य तस्य वृद्धिमभिलषता तत्तदासेव्यम् तथैव चतुल्यक्रियतया ह्रासकरं तदर्थिनेति अपि च विशेषतो रक्तवृद्धिजान् रक्तनिर्हरणप्रसादनकायविरेचनेन मांसवृद्धिजान् संशोधनशस्त्रक्षाराग्निकर्मभिः मेदोजान् स्थौल्यकार्श्यक्रियाक्रमेण रसक्षयजान् मांसरसमद्यक्षीरैः अस्थिक्षयजान् बस्तिभिस्तिक्तोपहितैः क्सीरबस्तिभिश्च शकृद्वृद्धिजानतीसारविधानेन शकृत्क्षयजान्यवमाषकुल्माषाजमेषमध्यादिभिः मूत्रवृद्धिक्षयजान् मेहकृछ्रचिकित्सया स्वेदक्षयजानभ्यङ्गव्यायाममद्यस्वप्ननिवातशरणस्वेदैरिति भवति चात्र",
         "iast": "tadyathā śukrakṣaye kṣīrasarpiṣorupayogo madhurasnigdhaśītānāmapareṣāṃ ca dravyāṇām karmāpi yadyasya dhātoḥ samānakriyatayā vṛddhikaraṃ tasya tasya vṛddhimabhilaṣatā tattadāsevyam tathaiva catulyakriyatayā hrāsakaraṃ tadarthineti api ca viśeṣato raktavṛddhijān raktanirharaṇaprasādanakāyavirecanena māṃsavṛddhijān saṃśodhanaśastrakṣārāgnikarmabhiḥ medojān sthaulyakārśyakriyākrameṇa rasakṣayajān māṃsarasamadyakṣīraiḥ asthikṣayajān bastibhistiktopahitaiḥ ksīrabastibhiśca śakṛdvṛddhijānatīsāravidhānena śakṛtkṣayajānyavamāṣakulmāṣājameṣamadhyādibhiḥ mūtravṛddhikṣayajān mehakṛchracikitsayā svedakṣayajānabhyaṅgavyāyāmamadyasvapnanivātaśaraṇasvedairiti bhavati cātra",
         "iast_ru": "тадйатха̄ ш́укракш̣айе кш̣ӣрасарпиш̣орупайого мадхураснигдхаш́ӣта̄на̄мапареш̣а̄м̣ ча дравйа̄н̣а̄м карма̄пи йадйасйа дха̄тох̣ сама̄накрийатайа̄ вр̣ддхикарам̣ тасйа тасйа вр̣ддхимабхилаш̣ата̄ таттада̄севйам татхаива чатулйакрийатайа̄ хра̄сакарам̣ тадартхинети апи ча виш́еш̣ато рактавр̣ддхиджа̄н рактанирхаран̣апраса̄данака̄йавиречанена ма̄м̣савр̣ддхиджа̄н сам̣ш́одханаш́астракш̣а̄ра̄гникармабхих̣ медоджа̄н стхаулйака̄рш́йакрийа̄крамен̣а расакш̣айаджа̄н ма̄м̣сарасамадйакш̣ӣраих̣ астхикш̣айаджа̄н бастибхистиктопахитаих̣ ксӣрабастибхиш́ча ш́акр̣двр̣ддхиджа̄натӣса̄равидха̄нена ш́акр̣ткш̣айаджа̄нйавама̄ш̣акулма̄ш̣а̄джамеш̣амадхйа̄дибхих̣ мӯтравр̣ддхикш̣айаджа̄н мехакр̣чхрачикитсайа̄ сведакш̣айаджа̄набхйан̇гавйа̄йа̄мамадйасвапнанива̄таш́аран̣асведаирити бхавати ча̄тра",
-        "text": "Так, например, при истощении семени [полезно] применение молока и гхи, [а также] других сладких, маслянистых, холодных веществ. Также и [лечебное] действие: если оно, посредством сходного механизма, увеличивает [данную] ткань, — его следует применять желающему увеличения этой [ткани]; так же и [действие], уменьшающее посредством подобного механизма, — [следует применять] желающему уменьшения. Кроме того, особо [следует лечить]: болезни от увеличения крови — кровопусканием, успокаивающими [средствами] и очищением тела; болезни от увеличения мяса — очищением, хирургическим инструментом, щёлочью и прижиганием; болезни от [увеличения] жира — методом [чередования] процедур для полноты и худобы; болезни от истощения сока — мясным соком, вином, молоком; болезни от истощения кости — клизмами с горькими [добавками] и молочными клизмами; болезни от увеличения кала — назначением [лечения] поноса; болезни от истощения кала — ячменём, урадом, кулмашей, козлятиной, бараниной и подобным; болезни от увеличения или истощения мочи — лечением прамехи или затруднённого мочеиспускания; болезни от истощения пота — умащением, физическим упражнением, вином, сном, укрытием от ветра и прогреванием. И здесь есть [следующее]:"
+        "text": "Так, например, при истощении семени [полезно] применение молока и гхи, [а также] других сладких, маслянистых, холодных веществ. Также и [лечебное] действие: если оно, посредством сходного механизма, увеличивает [данную] ткань, — его следует применять желающему увеличения этой [ткани]; так же и [действие], уменьшающее посредством подобного механизма, — [следует применять] желающему уменьшения. Кроме того, особо [следует лечить]: болезни от увеличения крови — кровопусканием, успокаивающими [средствами] и очищением тела; болезни от увеличения мяса — очищением, хирургическим инструментом, щёлочью и прижиганием; болезни от [увеличения] жира — методом [чередования] процедур для полноты и худобы; болезни от истощения сока — мясным соком, вином, молоком; болезни от истощения кости — клизмами с горькими [добавками] и молочными клизмами; болезни от увеличения кала — назначением [лечения] поноса; болезни от истощения кала — ячменём, урадом, кулмашей, козлятиной, бараниной и подобным; болезни от увеличения или истощения мочи — лечением прамехи или затруднённого мочеиспускания; болезни от истощения пота — умащением, физическим упражнением, вином, сном, укрытием от ветра и прогреванием. И здесь есть [следующее]:",
+        "text_en": "Thus, for example, in depletion of semen, the use of milk and ghee [is beneficial], [as well as] other sweet, unctuous and cold substances. Likewise with [therapeutic] action: if, by a similar mechanism, it increases a given tissue, it should be used by one who desires the increase of that [tissue]; and so also the action that decreases through a similar mechanism [should be used] by one who desires decrease. Moreover, specifically [one should treat]: diseases due to increase of blood by bloodletting, pacifying [remedies] and purification of the body; diseases due to increase of flesh by purification, the surgical instrument, alkali and cauterization; diseases due to [increase of] fat by the method of [alternating] regimens for fattening and slimming; diseases due to depletion of rasa by meat juice, wine and milk; diseases due to depletion of bone by enemas with bitter [additions] and milk enemas; diseases due to increase of feces by prescribing [treatment] for diarrhea; diseases due to depletion of feces by barley, masha (black gram), kulmasha, goat meat, mutton and the like; diseases due to increase or depletion of urine by treatment of prameha or of difficult urination; diseases due to depletion of sweat by anointing, physical exercise, wine, sleep, shelter from wind and fomentation. And here there is [the following]:"
       },
       {
         "type": "verse",
@@ -12409,7 +12411,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ये पाचकांशा धातुस्थास्तेषां मान्द्यातितैक्ष्ण्यतः वृद्धिः क्षयश्च धातूनां जायते शृणु चापरम्",
         "iast": "ye pācakāṃśā dhātusthāsteṣāṃ māndyātitaikṣṇyataḥ vṛddhiḥ kṣayaśca dhātūnāṃ jāyate śṛṇu cāparam",
         "iast_ru": "йе па̄чака̄м̣ш́а̄ дха̄тустха̄стеш̣а̄м̣ ма̄ндйа̄титаикш̣н̣йатах̣ вр̣ддхих̣ кш̣айаш́ча дха̄тӯна̄м̣ джа̄йате ш́р̣н̣у ча̄парам",
-        "text": "От слабости или чрезмерной резкости тех переваривающих частей [огня], что находятся в тканях, возникают увеличение и уменьшение тканей; слушай же и об ином:"
+        "text": "От слабости или чрезмерной резкости тех переваривающих частей [огня], что находятся в тканях, возникают увеличение и уменьшение тканей; слушай же и об ином:",
+        "text_en": "From weakness or excessive sharpness of those digesting parts [of fire] that are in the tissues, increase and decrease of the tissues arise; listen now also to another matter:"
       },
       {
         "type": "verse",
@@ -12417,7 +12420,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पारम्पर्ये ऽपि दावाग्नेस्तत्तत् प्राप्येन्धनं शिखा वृद्धिक्षयौ यथा याति तद्वद्धातुपरम्परा",
         "iast": "pāramparye 'pi dāvāgnestattat prāpyendhanaṃ śikhā vṛddhikṣayau yathā yāti tadvaddhātuparamparā",
         "iast_ru": "па̄рампарйе 'пи да̄ва̄гнестаттат пра̄пйендханам̣ ш́икха̄ вр̣ддхикш̣айау йатха̄ йа̄ти тадваддха̄тупарампара̄",
-        "text": "Подобно тому, как пламя лесного пожара, распространяясь по цепи, достигая того или иного топлива, [то] увеличивается, [то] уменьшается, — так же [обстоит дело] и с цепью тканей [организма]."
+        "text": "Подобно тому, как пламя лесного пожара, распространяясь по цепи, достигая того или иного топлива, [то] увеличивается, [то] уменьшается, — так же [обстоит дело] и с цепью тканей [организма].",
+        "text_en": "Just as the flame of a forest fire, spreading along a chain and reaching one fuel or another, [now] increases and [now] decreases, so it is also with the chain of the tissues [of the organism]."
       },
       {
         "type": "verse",
@@ -12425,7 +12429,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्रव्यं तुल्यं विशिष्टं हि स्वं स्वं वृध्द्यै क्षयाय च प्रत्यात्मबीजनियतं भृशमाशु प्रजायते",
         "iast": "dravyaṃ tulyaṃ viśiṣṭaṃ hi svaṃ svaṃ vṛdhdyai kṣayāya ca pratyātmabījaniyataṃ bhṛśamāśu prajāyate",
         "iast_ru": "дравйам̣ тулйам̣ виш́иш̣т̣ам̣ хи свам̣ свам̣ вр̣дхдйаи кш̣айа̄йа ча пратйа̄тмабӣджанийатам̣ бхр̣ш́ама̄ш́у праджа̄йате",
-        "text": "Вещество, [даже] равное [по общим свойствам, но] особое, определённое [своим] собственным «семенем», быстро и сильно порождает увеличение или уменьшение именно своей [соответствующей] ткани."
+        "text": "Вещество, [даже] равное [по общим свойствам, но] особое, определённое [своим] собственным «семенем», быстро и сильно порождает увеличение или уменьшение именно своей [соответствующей] ткани.",
+        "text_en": "A substance, [even] equal [in general properties but] special, determined by its own 'seed', quickly and strongly produces increase or decrease precisely of its own [corresponding] tissue."
       },
       {
         "type": "verse",
@@ -12433,7 +12438,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पूर्वो धातुः परं कुर्यात् वृद्धः क्षीणश्च तद्विधम् दोषा दुष्टा रसैर्धातून् दूषयन्त्युभये मलान्",
         "iast": "pūrvo dhātuḥ paraṃ kuryāt vṛddhaḥ kṣīṇaśca tadvidham doṣā duṣṭā rasairdhātūn dūṣayantyubhaye malān",
         "iast_ru": "пӯрво дха̄тух̣ парам̣ курйа̄т вр̣ддхах̣ кш̣ӣн̣аш́ча тадвидхам дош̣а̄ душ̣т̣а̄ расаирдха̄тӯн дӯш̣айантйубхайе мала̄н",
-        "text": "Предшествующая ткань, будучи увеличенной или истощённой, вызывает подобное же [состояние] в следующей [ткани]. Испорченные доши своими вкусами загрязняют ткани; и те, и другие [также] загрязняют нечистоты."
+        "text": "Предшествующая ткань, будучи увеличенной или истощённой, вызывает подобное же [состояние] в следующей [ткани]. Испорченные доши своими вкусами загрязняют ткани; и те, и другие [также] загрязняют нечистоты.",
+        "text_en": "The preceding tissue, being increased or depleted, produces a similar [state] in the following [tissue]. The vitiated doshas defile the tissues by their tastes; and both of them [also] defile the impurities (malas)."
       },
       {
         "type": "verse",
@@ -12441,7 +12447,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अधो द्वे सप्त शिरसि खानि स्वेदवहानि च मला मलायनानि स्युर्यथास्वं तेष्वतो गदाः",
         "iast": "adho dve sapta śirasi khāni svedavahāni ca malā malāyanāni syuryathāsvaṃ teṣvato gadāḥ",
         "iast_ru": "адхо две сапта ш́ираси кха̄ни сведаваха̄ни ча мала̄ мала̄йана̄ни сйурйатха̄свам̣ теш̣вато гада̄х̣",
-        "text": "Внизу — два, в голове — семь отверстий, а также поры, несущие пот, — [это] места пребывания нечистот; поэтому болезни [возникают] в них, соответственно [каждой из них]."
+        "text": "Внизу — два, в голове — семь отверстий, а также поры, несущие пот, — [это] места пребывания нечистот; поэтому болезни [возникают] в них, соответственно [каждой из них].",
+        "text_en": "Two below, seven in the head, and also the pores that carry sweat, are the seats of the impurities; therefore diseases [arise] in them, corresponding to [each of them]."
       },
       {
         "type": "verse",
@@ -12449,7 +12456,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वक्ष्यन्ते वातजास्तत्र निदाने वातरौगिके पित्तं त्वचि स्थितं कुर्याद्विस्फोटकमसूरिकाः",
         "iast": "vakṣyante vātajāstatra nidāne vātaraugike pittaṃ tvaci sthitaṃ kuryādvisphoṭakamasūrikāḥ",
         "iast_ru": "вакш̣йанте ва̄таджа̄статра нида̄не ва̄тараугике питтам̣ твачи стхитам̣ курйа̄двиспхот̣акамасӯрика̄х̣",
-        "text": "Болезни, [вызванные] ватхой, будут изложены там, в разделе о причинах [болезней], в главе о болезнях ватхи. Питта, находящаяся в коже, вызывает нарывы [и] оспу;"
+        "text": "Болезни, [вызванные] ватхой, будут изложены там, в разделе о причинах [болезней], в главе о болезнях ватхи. Питта, находящаяся в коже, вызывает нарывы [и] оспу;",
+        "text_en": "The diseases [caused] by Vata will be described there, in the section on causes [of diseases], in the chapter on Vata diseases. Pitta located in the skin causes boils [and] smallpox;"
       },
       {
         "type": "verse",
@@ -12457,7 +12465,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्ते विसर्पं दाहं च मांसे मांस्पाककोथनम् सदाहान्मेदसि ग्रन्थीन् स्वेदात्युद्वमनं तृषम्",
         "iast": "rakte visarpaṃ dāhaṃ ca māṃse māṃspākakothanam sadāhānmedasi granthīn svedātyudvamanaṃ tṛṣam",
         "iast_ru": "ракте висарпам̣ да̄хам̣ ча ма̄м̣се ма̄м̣спа̄какотханам сада̄ха̄нмедаси грантхӣн сведа̄тйудваманам̣ тр̣ш̣ам",
-        "text": "в крови — рожистое воспаление и жжение; в мясе — нагноение и гниение мяса; в жире, с жжением, — узлы; в поте — чрезмерную рвоту и жажду;"
+        "text": "в крови — рожистое воспаление и жжение; в мясе — нагноение и гниение мяса; в жире, с жжением, — узлы; в поте — чрезмерную рвоту и жажду;",
+        "text_en": "in the blood, erysipelas and burning; in the flesh, suppuration and putrefaction of the flesh; in the fat, with burning, nodules; in sweat, excessive vomiting and thirst;"
       },
       {
         "type": "verse",
@@ -12465,7 +12474,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अस्थ्नि दाहं भृशं मज्ञि हारिद्रनखनेत्रताम् पूतिपीतावभासं च शुक्रं शुक्रसमाश्रितम्",
         "iast": "asthni dāhaṃ bhṛśaṃ majñi hāridranakhanetratām pūtipītāvabhāsaṃ ca śukraṃ śukrasamāśritam",
         "iast_ru": "астхни да̄хам̣ бхр̣ш́ам̣ маджн̃и ха̄ридранакханетрата̄м пӯтипӣта̄вабха̄сам̣ ча ш́украм̣ ш́украсама̄ш́ритам",
-        "text": "в кости — жжение; в костном мозге — сильное [жжение]; желтизну ногтей и глаз, гнилой и желтоватый вид семени — [если она] пребывает в семени."
+        "text": "в кости — жжение; в костном мозге — сильное [жжение]; желтизну ногтей и глаз, гнилой и желтоватый вид семени — [если она] пребывает в семени.",
+        "text_en": "in the bone, burning; in the marrow, intense [burning]; yellowness of the nails and eyes, a putrid and yellowish appearance of the semen, [if it] abides in the semen."
       },
       {
         "type": "verse",
@@ -12473,7 +12483,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिरागतं क्रोधनतां प्रलापं स्नावगं तृषम् कोष्ठगं मदतृड्दाहान् व्यापिनो ऽन्यांश्चयक्ष्मणः",
         "iast": "sirāgataṃ krodhanatāṃ pralāpaṃ snāvagaṃ tṛṣam koṣṭhagaṃ madatṛḍdāhān vyāpino 'nyāṃścayakṣmaṇaḥ",
         "iast_ru": "сира̄гатам̣ кродханата̄м̣ прала̄пам̣ сна̄вагам̣ тр̣ш̣ам кош̣т̣хагам̣ мадатр̣д̣да̄ха̄н вйа̄пино 'нйа̄м̣ш́чайакш̣ман̣ах̣",
-        "text": "[Питта], находящаяся в сосудах, [вызывает] гневливость, бред; в связках — жажду; в желудке — опьянение, жажду, жжение; распространяющаяся [повсюду] — и другие [признаки] туберкулёза."
+        "text": "[Питта], находящаяся в сосудах, [вызывает] гневливость, бред; в связках — жажду; в желудке — опьянение, жажду, жжение; распространяющаяся [повсюду] — и другие [признаки] туберкулёза.",
+        "text_en": "[Pitta] located in the vessels [causes] irascibility and delirium; in the ligaments, thirst; in the stomach, intoxication, thirst and burning; spreading [everywhere], also the other [signs] of tuberculosis."
       },
       {
         "type": "verse",
@@ -12481,7 +12492,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्लेष्मा त्वचि स्थितः कुर्यात् स्तम्भं श्वेतावभासताम् पाण्डूवामयं शोणितगो मांससंस्थो ऽर्बुदापचीः",
         "iast": "śleṣmā tvaci sthitaḥ kuryāt stambhaṃ śvetāvabhāsatām pāṇḍūvāmayaṃ śoṇitago māṃsasaṃstho 'rbudāpacīḥ",
         "iast_ru": "ш́леш̣ма̄ твачи стхитах̣ курйа̄т стамбхам̣ ш́вета̄вабха̄сата̄м па̄н̣д̣ӯва̄майам̣ ш́он̣итаго ма̄м̣сасам̣стхо 'рбуда̄пачӣх̣",
-        "text": "Капха, находящаяся в коже, вызывает оцепенение, белый оттенок; [находящаяся] в крови — малокровие; расположенная в мясе — опухоли и лимфаденит;"
+        "text": "Капха, находящаяся в коже, вызывает оцепенение, белый оттенок; [находящаяся] в крови — малокровие; расположенная в мясе — опухоли и лимфаденит;",
+        "text_en": "Kapha located in the skin causes numbness and a white color; [located] in the blood, anemia; situated in the flesh, tumors and lymphadenitis;"
       },
       {
         "type": "verse",
@@ -12489,7 +12501,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आर्द्रचर्मावनद्धाभगात्रतां चातिगौरवम् मेदोगः स्थूलतां मेहमस्थ्नां स्तब्धत्वमस्थिगः",
         "iast": "ārdracarmāvanaddhābhagātratāṃ cātigauravam medogaḥ sthūlatāṃ mehamasthnāṃ stabdhatvamasthigaḥ",
         "iast_ru": "а̄рдрачарма̄ванаддха̄бхага̄трата̄м̣ ча̄тигауравам медогах̣ стхӯлата̄м̣ мехамастхна̄м̣ стабдхатвамастхигах̣",
-        "text": "[вызывает] ощущение влажной, перевязанной кожи и члена тела, а также чрезмерную тяжесть; [находящаяся] в жире — полноту, прамеху; [находящаяся] в кости — оцепенение костей;"
+        "text": "[вызывает] ощущение влажной, перевязанной кожи и члена тела, а также чрезмерную тяжесть; [находящаяся] в жире — полноту, прамеху; [находящаяся] в кости — оцепенение костей;",
+        "text_en": "[it causes] a sensation of damp, bandaged skin and limb, and also excessive heaviness; [located] in the fat, obesity and prameha; [located] in the bone, numbness of the bones;"
       },
       {
         "type": "verse",
@@ -12497,7 +12510,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मज्जगः शुक्लनेत्रत्वं शुक्रस्थः शुक्रसञ्चयम् विबन्धं गौरवं चाति सिरास्थः स्तब्धगात्रताम्",
         "iast": "majjagaḥ śuklanetratvaṃ śukrasthaḥ śukrasañcayam vibandhaṃ gauravaṃ cāti sirāsthaḥ stabdhagātratām",
         "iast_ru": "маджджагах̣ ш́укланетратвам̣ ш́украстхах̣ ш́украсан̃чайам вибандхам̣ гауравам̣ ча̄ти сира̄стхах̣ стабдхага̄трата̄м",
-        "text": "[находящаяся] в костном мозге — белизну глаз; [находящаяся] в семени — накопление семени; запор и чрезмерную тяжесть; [находящаяся] в сосудах — оцепенение членов тела;"
+        "text": "[находящаяся] в костном мозге — белизну глаз; [находящаяся] в семени — накопление семени; запор и чрезмерную тяжесть; [находящаяся] в сосудах — оцепенение членов тела;",
+        "text_en": "[located] in the marrow, whiteness of the eyes; [located] in the semen, accumulation of semen; constipation and excessive heaviness; [located] in the vessels, numbness of the limbs;"
       },
       {
         "type": "verse",
@@ -12505,7 +12519,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नायुगः सन्धिशूलत्वं कोष्ठगो जठरोन्नतिम् अरोचकाविपाकौ च तांस्तांश्च कफसम्भवान्",
         "iast": "snāyugaḥ sandhiśūlatvaṃ koṣṭhago jaṭharonnatim arocakāvipākau ca tāṃstāṃśca kaphasambhavān",
         "iast_ru": "сна̄йугах̣ сандхиш́ӯлатвам̣ кош̣т̣хаго джат̣хароннатим арочака̄випа̄кау ча та̄м̣ста̄м̣ш́ча капхасамбхава̄н",
-        "text": "[находящаяся] в связках — боль в суставах; [находящаяся] в желудке — вздутие живота, отсутствие аппетита, несварение и различные [другие болезни], возникающие от капхи."
+        "text": "[находящаяся] в связках — боль в суставах; [находящаяся] в желудке — вздутие живота, отсутствие аппетита, несварение и различные [другие болезни], возникающие от капхи.",
+        "text_en": "[located] in the ligaments, pain in the joints; [located] in the stomach, distension of the abdomen, loss of appetite, indigestion and various [other] diseases arising from Kapha."
       },
       {
         "type": "verse",
@@ -12513,7 +12528,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विण्मूत्रयोः साश्रययोस्तत्र तत्रोपदेक्ष्यते उपतापोपघातौ तु स्वाश्रयेन्द्रियगा मलाः",
         "iast": "viṇmūtrayoḥ sāśrayayostatra tatropadekṣyate upatāpopaghātau tu svāśrayendriyagā malāḥ",
         "iast_ru": "вин̣мӯтрайох̣ са̄ш́райайостатра татропадекш̣йате упата̄попагха̄тау ту сва̄ш́райендрийага̄ мала̄х̣",
-        "text": "[Расстройства] кала и мочи, вместе с их [конкретной] локализацией, будут изложены соответственно [в другом месте]; страдание и повреждение же [от] нечистот [проявляется] в их собственных вместилищах и [связанных с ними] органах чувств."
+        "text": "[Расстройства] кала и мочи, вместе с их [конкретной] локализацией, будут изложены соответственно [в другом месте]; страдание и повреждение же [от] нечистот [проявляется] в их собственных вместилищах и [связанных с ними] органах чувств.",
+        "text_en": "[Disorders] of feces and urine, together with their [specific] localization, will be described accordingly [elsewhere]; the affliction and damage [due to] impurities [manifests] in their own receptacles and [associated] sense organs."
       },
       {
         "type": "verse",
@@ -12521,7 +12537,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्यायामादूष्मणस्तैक्ष्ण्यादहिताचरणादपि कोष्ठाच्छाखास्थिमर्माणि द्रुतत्वान्मारुतस्य च",
         "iast": "vyāyāmādūṣmaṇastaikṣṇyādahitācaraṇādapi koṣṭhācchākhāsthimarmāṇi drutatvānmārutasya ca",
         "iast_ru": "вйа̄йа̄ма̄дӯш̣ман̣астаикш̣н̣йа̄дахита̄чаран̣а̄дапи кош̣т̣ха̄ччха̄кха̄стхимарма̄н̣и друтатва̄нма̄рутасйа ча",
-        "text": "От физического упражнения, от резкости [телесного] жара, а также от вредного поведения, доши, из-за быстроты ветра, [перемещаются] из желудка в конечности, кости и жизненно важные точки;"
+        "text": "От физического упражнения, от резкости [телесного] жара, а также от вредного поведения, доши, из-за быстроты ветра, [перемещаются] из желудка в конечности, кости и жизненно важные точки;",
+        "text_en": "From physical exercise, from the sharpness of [bodily] heat, and also from harmful conduct, the doshas, owing to the swiftness of the wind, [move] from the stomach to the extremities, bones and vital points (marmas);"
       },
       {
         "type": "verse",
@@ -12529,7 +12546,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दोषा यान्ति तथा तेभ्यः स्रोतोमुखविशोधनात् वृध्याभिष्यन्दनात्पाकात्कोष्ठं वायोश्च निग्रहात्",
         "iast": "doṣā yānti tathā tebhyaḥ srotomukhaviśodhanāt vṛdhyābhiṣyandanātpākātkoṣṭhaṃ vāyośca nigrahāt",
         "iast_ru": "дош̣а̄ йа̄нти татха̄ тебхйах̣ сротомукхавиш́одхана̄т вр̣дхйа̄бхиш̣йандана̄тпа̄ка̄ткош̣т̣хам̣ ва̄йош́ча ниграха̄т",
-        "text": "а от них [обратно] в желудок — из-за очищения устьев каналов, от увеличения, от катара, от «созревания» [дош] и от сдерживания ветра."
+        "text": "а от них [обратно] в желудок — из-за очищения устьев каналов, от увеличения, от катара, от «созревания» [дош] и от сдерживания ветра.",
+        "text_en": "and from them [back] to the stomach, owing to the clearing of the mouths of the channels, to increase, to catarrh, to the 'ripening' [of the doshas] and to the suppression of wind."
       },
       {
         "type": "verse",
@@ -12537,7 +12555,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्रस्थाश्च विलम्बेरन् भूयो हेतुप्रतीक्षिणः ते कालादिबलं लब्ध्वा कुप्यन्त्यन्याश्रयेष्वपि",
         "iast": "tatrasthāśca vilamberan bhūyo hetupratīkṣiṇaḥ te kālādibalaṃ labdhvā kupyantyanyāśrayeṣvapi",
         "iast_ru": "татрастха̄ш́ча виламберан бхӯйо хетупратӣкш̣ин̣ах̣ те ка̄ла̄дибалам̣ лабдхва̄ купйантйанйа̄ш́райеш̣вапи",
-        "text": "И, находясь там [в чужих локациях], они могут задержаться, ожидая дальнейшей причины; обретя силу от времени и подобного, они возбуждаются даже в иных вместилищах."
+        "text": "И, находясь там [в чужих локациях], они могут задержаться, ожидая дальнейшей причины; обретя силу от времени и подобного, они возбуждаются даже в иных вместилищах.",
+        "text_en": "And, being there [in alien locations], they may remain, awaiting a further cause; having gained strength from time and the like, they become aggravated even in other receptacles."
       },
       {
         "type": "verse",
@@ -12545,7 +12564,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्रान्यस्थानसंस्थेषु तदीयामबलेषु तु कुर्याच्चिकित्सां स्वामेव बलेनान्याभिभाविषु",
         "iast": "tatrānyasthānasaṃstheṣu tadīyāmabaleṣu tu kuryāccikitsāṃ svāmeva balenānyābhibhāviṣu",
         "iast_ru": "татра̄нйастха̄насам̣стхеш̣у тадӣйа̄мабалеш̣у ту курйа̄ччикитса̄м̣ сва̄мева балена̄нйа̄бхибха̄виш̣у",
-        "text": "При этом для [дош], находящихся в чужом месте [но] слабых [там]; следует применять [именно] их собственное [обычное] лечение, [даже если] они, [пребывая там], подавляют [местные функции своей] силой."
+        "text": "При этом для [дош], находящихся в чужом месте [но] слабых [там]; следует применять [именно] их собственное [обычное] лечение, [даже если] они, [пребывая там], подавляют [местные функции своей] силой.",
+        "text_en": "In this regard, for [doshas] located in an alien place [but] weak [there], their own [usual] treatment should be applied, [even if] they, [abiding there], suppress [the local functions by their] strength."
       },
       {
         "type": "verse",
@@ -12553,7 +12573,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आगन्तुं शमयेद्दोषं स्थानिनं प्रतिकृत्य वा तेजो यत्सर्वधातूनामोजस्तत् परमुच्यते मृदु सोमात्मकं शुद्धं रक्तमीषत्सपीतकम्",
         "iast": "āgantuṃ śamayeddoṣaṃ sthāninaṃ pratikṛtya vā tejo yatsarvadhātūnāmojastat paramucyate mṛdu somātmakaṃ śuddhaṃ raktamīṣatsapītakam",
         "iast_ru": "а̄гантум̣ ш́амайеддош̣ам̣ стха̄нинам̣ пратикр̣тйа ва̄ теджо йатсарвадха̄тӯна̄моджастат парамучйате мр̣ду сома̄тмакам̣ ш́уддхам̣ рактамӣш̣атсапӣтакам",
-        "text": "Следует успокоить пришедшую [чужую] дошу, воздействуя на местную [дошу] или противодействуя ей. То сияние, которое [является] оджасом всех тканей, называется высшим; оно мягкое, лунной природы, чистое, красноватое, слегка желтоватое."
+        "text": "Следует успокоить пришедшую [чужую] дошу, воздействуя на местную [дошу] или противодействуя ей. То сияние, которое [является] оджасом всех тканей, называется высшим; оно мягкое, лунной природы, чистое, красноватое, слегка желтоватое.",
+        "text_en": "The doshic intruder should be pacified by acting upon the local [dosha] or by counteracting it. That radiance which is the ojas of all the tissues is called supreme; it is soft, of lunar nature, pure, reddish, slightly yellowish."
       },
       {
         "type": "verse",
@@ -12561,7 +12582,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यत्सारमादौ गर्भस्य यच्च गर्भरसाद्रसः संवर्तमानं हृदयं समाश्रयति यत्पुरा",
         "iast": "yatsāramādau garbhasya yacca garbharasādrasaḥ saṃvartamānaṃ hṛdayaṃ samāśrayati yatpurā",
         "iast_ru": "йатса̄рама̄дау гарбхасйа йачча гарбхараса̄драсах̣ сам̣вартама̄нам̣ хр̣дайам̣ сама̄ш́райати йатпура̄",
-        "text": "[Оджас] — это сущность [самого] зародыша с самого начала; и это тот сок, [производный] от сока зародыша, который прежде, [ещё] формируясь, находит прибежище в сердце;"
+        "text": "[Оджас] — это сущность [самого] зародыша с самого начала; и это тот сок, [производный] от сока зародыша, который прежде, [ещё] формируясь, находит прибежище в сердце;",
+        "text_en": "[Ojas] is the essence of the embryo [itself] from the very beginning; and it is that juice, [derived] from the juice of the embryo, which, while still forming, first takes refuge in the heart;"
       },
       {
         "type": "verse",
@@ -12569,7 +12591,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यच्छरीररसः स्नेहः प्राणो यत्र प्रतिष्ठितः यस्यानाशान्ननाशो ऽस्ति प्रीणिता येन देहिनः",
         "iast": "yaccharīrarasaḥ snehaḥ prāṇo yatra pratiṣṭhitaḥ yasyānāśānnanāśo 'sti prīṇitā yena dehinaḥ",
         "iast_ru": "йаччхарӣрарасах̣ снехах̣ пра̄н̣о йатра пратиш̣т̣хитах̣ йасйа̄на̄ш́а̄ннана̄ш́о 'сти прӣн̣ита̄ йена дехинах̣",
-        "text": "это [та] маслянистая сущность телесного сока, в которой утверждена жизненная сила; от неисчезновения которой [следует] не-исчезновение [самой жизни]; которой удовлетворены воплощённые существа."
+        "text": "это [та] маслянистая сущность телесного сока, в которой утверждена жизненная сила; от неисчезновения которой [следует] не-исчезновение [самой жизни]; которой удовлетворены воплощённые существа.",
+        "text_en": "it is that unctuous essence of the bodily juice in which the vital force is established; from whose non-destruction [follows] the non-destruction of [life itself]; by which embodied beings are satisfied."
       },
       {
         "type": "verse",
@@ -12577,7 +12600,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हृदयस्थमपि व्यापि तत् परं जीवितास्पदम् औजः क्षीयत कोपक्षुद्ध्यानशोकश्रमादिभिः",
         "iast": "hṛdayasthamapi vyāpi tat paraṃ jīvitāspadam aujaḥ kṣīyata kopakṣuddhyānaśokaśramādibhiḥ",
         "iast_ru": "хр̣дайастхамапи вйа̄пи тат парам̣ джӣвита̄спадам ауджах̣ кш̣ӣйата копакш̣уддхйа̄наш́окаш́рама̄дибхих̣",
-        "text": "Пребывая в сердце, оно, однако, распространяется [по всему телу]; это высшее вместилище жизни. Оджас истощается от гнева, голода, [чрезмерного] размышления, горя, усталости и подобного;"
+        "text": "Пребывая в сердце, оно, однако, распространяется [по всему телу]; это высшее вместилище жизни. Оджас истощается от гнева, голода, [чрезмерного] размышления, горя, усталости и подобного;",
+        "text_en": "Abiding in the heart, it nevertheless spreads [throughout the body]; it is the supreme abode of life. Ojas is depleted by anger, hunger, [excessive] thinking, grief, fatigue and the like;"
       },
       {
         "type": "verse",
@@ -12585,7 +12609,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बिभेति दुर्बलो ऽभीक्ष्णं ध्यायति व्यथितेन्द्रियः दुश्च्छायो दुर्मना रूक्षो भवेत् क्षामश्च तत्क्षये",
         "iast": "bibheti durbalo 'bhīkṣṇaṃ dhyāyati vyathitendriyaḥ duścchāyo durmanā rūkṣo bhavet kṣāmaśca tatkṣaye",
         "iast_ru": "бибхети дурбало 'бхӣкш̣н̣ам̣ дхйа̄йати вйатхитендрийах̣ душ́ччха̄йо дурмана̄ рӯкш̣о бхавет кш̣а̄маш́ча таткш̣айе",
-        "text": "[человек становится] пугливым, слабым, постоянно размышляющим, с потревоженными органами чувств, с тусклым цветом [кожи], унылым духом, сухим и истощённым — при истощении этого [оджаса]."
+        "text": "[человек становится] пугливым, слабым, постоянно размышляющим, с потревоженными органами чувств, с тусклым цветом [кожи], унылым духом, сухим и истощённым — при истощении этого [оджаса].",
+        "text_en": "[a person becomes] timid, weak, constantly worried, with disturbed sense organs, dull complexion, dejected spirit, dry and emaciated, upon the depletion of this [ojas]."
       },
       {
         "type": "verse",
@@ -12593,7 +12618,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीवनीयौषधक्षीररसाद्यास्तत्र भेषजम् औजोवृद्धौ हि देहस्य तुष्टिपुष्टिबलोदयः",
         "iast": "jīvanīyauṣadhakṣīrarasādyāstatra bheṣajam aujovṛddhau hi dehasya tuṣṭipuṣṭibalodayaḥ",
         "iast_ru": "джӣванӣйауш̣адхакш̣ӣрараса̄дйа̄статра бхеш̣аджам ауджовр̣ддхау хи дехасйа туш̣т̣ипуш̣т̣ибалодайах̣",
-        "text": "Животворящие лекарства, молоко, [мясной] сок и подобное — вот лекарство в этом случае. Ведь при увеличении оджаса [возникает] удовлетворение, полнота и подъём силы тела."
+        "text": "Животворящие лекарства, молоко, [мясной] сок и подобное — вот лекарство в этом случае. Ведь при увеличении оджаса [возникает] удовлетворение, полнота и подъём силы тела.",
+        "text_en": "Life-giving medicines, milk, [meat] juice and the like are the remedy in this case. For when ojas increases there arises contentment, plumpness and a rise of bodily strength."
       },
       {
         "type": "verse",
@@ -12601,7 +12627,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदन्नं द्वेष्टि यदपि प्रार्थयेताविरोधि तु तत्तत्यजन् समश्नंश्च तौ तौ वृद्धिक्षयौ जयेत्",
         "iast": "yadannaṃ dveṣṭi yadapi prārthayetāvirodhi tu tattatyajan samaśnaṃśca tau tau vṛddhikṣayau jayet",
         "iast_ru": "йаданнам̣ двеш̣т̣и йадапи пра̄ртхайета̄виродхи ту таттатйаджан самаш́нам̣ш́ча тау тау вр̣ддхикш̣айау джайет",
-        "text": "Оставляя ту пищу, к которой [организм] испытывает отвращение, и, [умеренно] принимая ту, к которой он [естественным образом] стремится, при условии, что она не противоречащая, — можно победить и увеличение, и уменьшение [этих факторов]."
+        "text": "Оставляя ту пищу, к которой [организм] испытывает отвращение, и, [умеренно] принимая ту, к которой он [естественным образом] стремится, при условии, что она не противоречащая, — можно победить и увеличение, и уменьшение [этих факторов].",
+        "text_en": "By giving up that food to which [the organism] feels aversion, and by [moderately] taking that to which it is [naturally] drawn, provided it is not incompatible, one can overcome both the increase and the decrease [of these factors]."
       },
       {
         "type": "verse",
@@ -12609,7 +12636,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कुर्वते ऽभिरुचिं दोषा विपरीतसमानयोः वृद्धाः क्षीणाश्च भूयिष्ठं लक्षयन्त्यबुधा न तत्",
         "iast": "kurvate 'bhiruciṃ doṣā viparītasamānayoḥ vṛddhāḥ kṣīṇāśca bhūyiṣṭhaṃ lakṣayantyabudhā na tat",
         "iast_ru": "курвате 'бхиручим̣ дош̣а̄ випарӣтасама̄найох̣ вр̣ддха̄х̣ кш̣ӣн̣а̄ш́ча бхӯйиш̣т̣хам̣ лакш̣айантйабудха̄ на тат",
-        "text": "Возросшие доши порождают влечение к противоположному [себе]; истощённые же — по большей части к подобному [себе]; неразумные же люди не замечают этого."
+        "text": "Возросшие доши порождают влечение к противоположному [себе]; истощённые же — по большей части к подобному [себе]; неразумные же люди не замечают этого.",
+        "text_en": "The increased doshas create a craving for what is opposite to themselves; the depleted ones, for the most part, for what is similar to themselves; but unwise people do not notice this."
       },
       {
         "type": "verse",
@@ -12617,7 +12645,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथाबलं यथास्वं च दोषा वृद्धा वितन्वते रूपाणि जहति क्षीणाः समाः स्वं कर्म कुर्वते",
         "iast": "yathābalaṃ yathāsvaṃ ca doṣā vṛddhā vitanvate rūpāṇi jahati kṣīṇāḥ samāḥ svaṃ karma kurvate",
         "iast_ru": "йатха̄балам̣ йатха̄свам̣ ча дош̣а̄ вр̣ддха̄ витанвате рӯпа̄н̣и джахати кш̣ӣн̣а̄х̣ сама̄х̣ свам̣ карма курвате",
-        "text": "Возросшие доши, соответственно [своей] силе и природе, проявляют [характерные] признаки; истощённые их лишены; уравновешенные же выполняют свою [нормальную] функцию."
+        "text": "Возросшие доши, соответственно [своей] силе и природе, проявляют [характерные] признаки; истощённые их лишены; уравновешенные же выполняют свою [нормальную] функцию.",
+        "text_en": "The increased doshas, in accordance with [their] strength and nature, display [their characteristic] signs; the depleted ones lack them; and the balanced ones perform their [normal] function."
       },
       {
         "type": "verse",
@@ -12625,7 +12654,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "य एव देहस्य समा विवृध्यै त एव दोषा विषमा वधाय यस्मादतस्ते हितचर्ययैव क्षयाद्विवृद्धेरिव रक्षणीयाः",
         "iast": "ya eva dehasya samā vivṛdhyai ta eva doṣā viṣamā vadhāya yasmādataste hitacaryayaiva kṣayādvivṛddheriva rakṣaṇīyāḥ",
         "iast_ru": "йа ева дехасйа сама̄ вивр̣дхйаи та ева дош̣а̄ виш̣ама̄ вадха̄йа йасма̄датасте хитачарйайаива кш̣айа̄двивр̣ддхерива ракш̣ан̣ӣйа̄х̣",
-        "text": "Именно те же самые доши, будучи уравновешенными, [служат] для процветания тела; те же самые доши, будучи неуравновешенными, — для его гибели; поэтому именно посредством благоприятного образа жизни их следует беречь как от истощения, так и от избыточного увеличения."
+        "text": "Именно те же самые доши, будучи уравновешенными, [служат] для процветания тела; те же самые доши, будучи неуравновешенными, — для его гибели; поэтому именно посредством благоприятного образа жизни их следует беречь как от истощения, так и от избыточного увеличения.",
+        "text_en": "These very doshas, when balanced, [serve] for the prosperity of the body; the same doshas, when imbalanced, for its destruction; therefore, by means of a wholesome regimen, they should be protected both from depletion and from excessive increase."
       }
     ]
   },
@@ -12647,7 +12677,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो दोषभेदीयं नामाध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः वाय्वाकाशधातुभ्यां वायुः आग्नेयं पित्तम् अम्भःपृथिवीभ्यां श्लेष्मा तत्र पक्वाशयः कटिः सक्थिनी पादावस्थि श्रोत्रं स्पर्शनं च वातस्थानानि अत्र च पक्वाशयो विशेषेण नाभिरामाशयः स्वेदो लसीका रुधिरं चक्षुः स्पर्शनं च पित्तस्थानानि अत्र नाभिर्विशेषेण उरः कण्ठः शिरः क्लोम पर्वाण्यामाशयो रसो मेदो घ्राणं रसनं च श्लेष्मस्थानानि अत्राप्युरो विशेषेण इत्थमधोमध्योर्ध्वसन्निवेशिना दोषत्रयेण शरीरमगारमिव स्थूणात्रितयेन स्थिरीकृतम् अतश्च दोषा देहस्य स्थिरीकरणात् स्थूणा इत्युच्यन्ते धारणाद्धातवः मलिनीकरणादाहारमलत्वाच्च मलाः दूषणस्वभावाद्दोषा इति",
         "iast": "athāto doṣabhedīyaṃ nāmādhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ vāyvākāśadhātubhyāṃ vāyuḥ āgneyaṃ pittam ambhaḥpṛthivībhyāṃ śleṣmā tatra pakvāśayaḥ kaṭiḥ sakthinī pādāvasthi śrotraṃ sparśanaṃ ca vātasthānāni atra ca pakvāśayo viśeṣeṇa nābhirāmāśayaḥ svedo lasīkā rudhiraṃ cakṣuḥ sparśanaṃ ca pittasthānāni atra nābhirviśeṣeṇa uraḥ kaṇṭhaḥ śiraḥ kloma parvāṇyāmāśayo raso medo ghrāṇaṃ rasanaṃ ca śleṣmasthānāni atrāpyuro viśeṣeṇa itthamadhomadhyordhvasanniveśinā doṣatrayeṇa śarīramagāramiva sthūṇātritayena sthirīkṛtam ataśca doṣā dehasya sthirīkaraṇāt sthūṇā ityucyante dhāraṇāddhātavaḥ malinīkaraṇādāhāramalatvācca malāḥ dūṣaṇasvabhāvāddoṣā iti",
         "iast_ru": "атха̄то дош̣абхедӣйам̣ на̄ма̄дхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣ ва̄йва̄ка̄ш́адха̄тубхйа̄м̣ ва̄йух̣ а̄гнейам̣ питтам амбхах̣пр̣тхивӣбхйа̄м̣ ш́леш̣ма̄ татра паква̄ш́айах̣ кат̣их̣ сактхинӣ па̄да̄вастхи ш́ротрам̣ спарш́анам̣ ча ва̄тастха̄на̄ни атра ча паква̄ш́айо виш́еш̣ен̣а на̄бхира̄ма̄ш́айах̣ сведо ласӣка̄ рудхирам̣ чакш̣ух̣ спарш́анам̣ ча питтастха̄на̄ни атра на̄бхирвиш́еш̣ен̣а урах̣ кан̣т̣хах̣ ш́ирах̣ клома парва̄н̣йа̄ма̄ш́айо расо медо гхра̄н̣ам̣ расанам̣ ча ш́леш̣мастха̄на̄ни атра̄пйуро виш́еш̣ен̣а иттхамадхомадхйордхвасаннивеш́ина̄ дош̣атрайен̣а ш́арӣрамага̄рамива стхӯн̣а̄тритайена стхирӣкр̣там аташ́ча дош̣а̄ дехасйа стхирӣкаран̣а̄т стхӯн̣а̄ итйучйанте дха̄ран̣а̄ддха̄тавах̣ малинӣкаран̣а̄да̄ха̄рамалатва̄чча мала̄х̣ дӯш̣ан̣асвабха̄ва̄ддош̣а̄ ити",
-        "text": "Итак, далее мы разъясним главу под названием «Дошабхедийя» («Различие дош») — так говорили великие риши, начиная с Атреи. Ветер [возникает] из элементов ветра и пространства; питта — огненная; капха — из воды и земли. При этом толстый кишечник, поясница, оба бедра, стопы, кости, слух и осязание — места [пребывания] ватхи; из них особенно толстый кишечник и пупок. [Тонкий кишечник и] желудок, пот, лимфа, кровь, глаза и осязание — места питты; из них особенно пупок. Грудь, горло, голова, надгортанник, суставы, желудок, сок, жир, обоняние и вкус — места капхи; из них особенно грудь. Таким образом, тело, подобно жилищу, укреплено тремя опорами-дошами, расположенными в нижней, средней и верхней [частях]. Поэтому доши называются «стхуна» (опоры) из-за их укрепляющей роли для тела; ткани — из-за поддержания; нечистоты — из-за загрязняющего [свойства] и из-за того, что они — остатки пищи; и они называются «доша» из-за своей загрязняющей природы."
+        "text": "Итак, далее мы разъясним главу под названием «Дошабхедийя» («Различие дош») — так говорили великие риши, начиная с Атреи. Ветер [возникает] из элементов ветра и пространства; питта — огненная; капха — из воды и земли. При этом толстый кишечник, поясница, оба бедра, стопы, кости, слух и осязание — места [пребывания] ватхи; из них особенно толстый кишечник и пупок. [Тонкий кишечник и] желудок, пот, лимфа, кровь, глаза и осязание — места питты; из них особенно пупок. Грудь, горло, голова, надгортанник, суставы, желудок, сок, жир, обоняние и вкус — места капхи; из них особенно грудь. Таким образом, тело, подобно жилищу, укреплено тремя опорами-дошами, расположенными в нижней, средней и верхней [частях]. Поэтому доши называются «стхуна» (опоры) из-за их укрепляющей роли для тела; ткани — из-за поддержания; нечистоты — из-за загрязняющего [свойства] и из-за того, что они — остатки пищи; и они называются «доша» из-за своей загрязняющей природы.",
+        "text_en": "Now we shall expound the chapter named 'Doshabhediya' ('Differentiation of the Doshas'), as the great sages headed by Atreya declared. Vata [arises] from the elements air and space; Pitta is fiery; Kapha is from water and earth. Of these, the large intestine, the waist, both thighs, the feet, the bones, hearing and touch are the seats of Vata; of these, especially the large intestine and the navel. [The small intestine and] the stomach, sweat, lymph, blood, the eyes and touch are the seats of Pitta; of these, especially the navel. The chest, throat, head, epiglottis, joints, stomach, rasa, fat, smell and taste are the seats of Kapha; of these, especially the chest. Thus the body, like a dwelling, is supported by three pillars, the doshas, situated in the lower, middle and upper [parts]. Therefore the doshas are called 'sthuna' (pillars) because of their role in supporting the body; the tissues (dhatus) because of sustaining; the impurities (malas) because of their defiling [property] and because they are the residue of food; and they are called 'dosha' because of their defiling nature."
       },
       {
         "type": "verse",
@@ -12655,7 +12686,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त एते प्रत्येकं पञ्चधा भिद्यन्ते तद्यथा प्राणोदानव्यानसमानापानभेदैर्वायुः तत्र प्राणो मूर्द्धन्यवस्थितः कण्ठोरश्चरो बुद्धीन्द्रियहृदयमनोधमनीधारणष्ठीवनक्षवथूद्गारप्रश्वासोच्छ्वासान्नप्रवेशादिक्रियः उदान उरस्यवस्थितः कण्ठनासिकानाभिचरो वाक्प्रवृत्तिप्रयत्नोर्जाबलवर्णस्रोतःप्रीणनधीधृतिस्मृतिमनोबोधनादिक्रियः व्यानो हृद्यवस्थितः कृत्स्नदेहचरः शीघ्रतरगतिः गतिप्रसारणाकुञ्चनोत्क्षेपावक्षेपनिभेषोन्मेषजृम्भणान्नास्वादनस्रोतोविशोधनस्वेदासृक्स्रावणादिक्रियो योनौ च शुक्रप्रतिपादनो विभज्य चान्नस्य किट्टात् सारं तेन क्रमशो धातूंस्तर्पयति समानो ऽन्तरग्निसमीपस्थस्तत्सन्धुक्षणः पक्वामाशयदोषमलशुक्रार्तवाम्बुवहः स्रोतोविचारी तदवलम्बनान्नधारणपाचनविवेचनकिट्टाधोनयनादिक्रियः अपानस्त्वपानस्थितो बस्तिश्रोणिमेढ्रवृषणवङ्क्षणोरुचरोविण्मूत्रशुक्रार्तवगर्भनिष्क्रमणादिक्रिय इति",
         "iast": "ta ete pratyekaṃ pañcadhā bhidyante tadyathā prāṇodānavyānasamānāpānabhedairvāyuḥ tatra prāṇo mūrddhanyavasthitaḥ kaṇṭhoraścaro buddhīndriyahṛdayamanodhamanīdhāraṇaṣṭhīvanakṣavathūdgārapraśvāsocchvāsānnapraveśādikriyaḥ udāna urasyavasthitaḥ kaṇṭhanāsikānābhicaro vākpravṛttiprayatnorjābalavarṇasrotaḥprīṇanadhīdhṛtismṛtimanobodhanādikriyaḥ vyāno hṛdyavasthitaḥ kṛtsnadehacaraḥ śīghrataragatiḥ gatiprasāraṇākuñcanotkṣepāvakṣepanibheṣonmeṣajṛmbhaṇānnāsvādanasrotoviśodhanasvedāsṛksrāvaṇādikriyo yonau ca śukrapratipādano vibhajya cānnasya kiṭṭāt sāraṃ tena kramaśo dhātūṃstarpayati samāno 'ntaragnisamīpasthastatsandhukṣaṇaḥ pakvāmāśayadoṣamalaśukrārtavāmbuvahaḥ srotovicārī tadavalambanānnadhāraṇapācanavivecanakiṭṭādhonayanādikriyaḥ apānastvapānasthito bastiśroṇimeḍhravṛṣaṇavaṅkṣaṇorucaroviṇmūtraśukrārtavagarbhaniṣkramaṇādikriya iti",
         "iast_ru": "та ете пратйекам̣ пан̃чадха̄ бхидйанте тадйатха̄ пра̄н̣ода̄навйа̄насама̄на̄па̄набхедаирва̄йух̣ татра пра̄н̣о мӯрддханйавастхитах̣ кан̣т̣хораш́чаро буддхӣндрийахр̣дайаманодхаманӣдха̄ран̣аш̣т̣хӣванакш̣аватхӯдга̄рапраш́ва̄соччхва̄са̄ннаправеш́а̄дикрийах̣ уда̄на урасйавастхитах̣ кан̣т̣хана̄сика̄на̄бхичаро ва̄кправр̣ттипрайатнорджа̄балаварн̣асротах̣прӣн̣анадхӣдхр̣тисмр̣тиманободхана̄дикрийах̣ вйа̄но хр̣дйавастхитах̣ кр̣тснадехачарах̣ ш́ӣгхратарагатих̣ гатипраса̄ран̣а̄кун̃чаноткш̣епа̄вакш̣епанибхеш̣онмеш̣аджр̣мбхан̣а̄нна̄сва̄данасротовиш́одханасведа̄ср̣ксра̄ван̣а̄дикрийо йонау ча ш́украпратипа̄дано вибхаджйа ча̄ннасйа кит̣т̣а̄т са̄рам̣ тена крамаш́о дха̄тӯм̣старпайати сама̄но 'нтарагнисамӣпастхастатсандхукш̣ан̣ах̣ паква̄ма̄ш́айадош̣амалаш́укра̄ртава̄мбувахах̣ сротовича̄рӣ тадаваламбана̄ннадха̄ран̣апа̄чанавивечанакит̣т̣а̄дхонайана̄дикрийах̣ апа̄наствапа̄настхито бастиш́рон̣имед̣хравр̣ш̣ан̣аван̇кш̣ан̣оручаровин̣мӯтраш́укра̄ртавагарбханиш̣краман̣а̄дикрийа ити",
-        "text": "Каждая из них [дош] в свою очередь делится на пять [видов]. Так, ветер [делится] по различию праны, уданы, вьяны, саманы и апаны. Из них прана, находящаяся в голове, движется в горле и груди; её функции — [обеспечение] разума, органов чувств, сердца, ума; удержание [артерий, дыхания]; сплёвывание, чихание, отрыжка, выдох, вдох, принятие пищи и подобное. Удана, находящаяся в груди, движется в горле, носу и пупке; её функции — произнесение речи, усилие, энергия, сила, цвет [кожи], [функционирование] каналов, насыщение, [функции] разума, стойкости, памяти, пробуждения ума и подобное. Вьяна, находящаяся в сердце, движется по всему телу, с наибыстрейшим движением; её функции — движение, вытягивание, сгибание, поднятие, опускание [конечностей], смыкание и открывание [век], зевота, ощущение вкуса пищи, очищение каналов, выделение пота и крови и подобное; а также [функция] передачи семени в детородный орган [женщины], а также разделение сущности и остатка пищи, посредством чего она постепенно насыщает ткани. Самана, находящаяся близко к внутреннему огню, разжигает его; она несёт доши, нечистоты, семя, менструальную кровь и воду желудка; движется по каналам; её функции — удержание, переваривание, различение [сущности от остатка] пищи, а также низведение остатка [пищи] и подобное. Апана же, находящаяся в области апаны, движется в мочевом пузыре, тазу, половом органе, яичках, паху и бёдрах; её функции — выведение кала, мочи, семени, менструальной крови, извлечение зародыша и подобное."
+        "text": "Каждая из них [дош] в свою очередь делится на пять [видов]. Так, ветер [делится] по различию праны, уданы, вьяны, саманы и апаны. Из них прана, находящаяся в голове, движется в горле и груди; её функции — [обеспечение] разума, органов чувств, сердца, ума; удержание [артерий, дыхания]; сплёвывание, чихание, отрыжка, выдох, вдох, принятие пищи и подобное. Удана, находящаяся в груди, движется в горле, носу и пупке; её функции — произнесение речи, усилие, энергия, сила, цвет [кожи], [функционирование] каналов, насыщение, [функции] разума, стойкости, памяти, пробуждения ума и подобное. Вьяна, находящаяся в сердце, движется по всему телу, с наибыстрейшим движением; её функции — движение, вытягивание, сгибание, поднятие, опускание [конечностей], смыкание и открывание [век], зевота, ощущение вкуса пищи, очищение каналов, выделение пота и крови и подобное; а также [функция] передачи семени в детородный орган [женщины], а также разделение сущности и остатка пищи, посредством чего она постепенно насыщает ткани. Самана, находящаяся близко к внутреннему огню, разжигает его; она несёт доши, нечистоты, семя, менструальную кровь и воду желудка; движется по каналам; её функции — удержание, переваривание, различение [сущности от остатка] пищи, а также низведение остатка [пищи] и подобное. Апана же, находящаяся в области апаны, движется в мочевом пузыре, тазу, половом органе, яичках, паху и бёдрах; её функции — выведение кала, мочи, семени, менструальной крови, извлечение зародыша и подобное.",
+        "text_en": "Each of these [doshas] is in turn divided into five [kinds]. Thus Vata [is divided] according to the distinction of Prana, Udana, Vyana, Samana and Apana. Of these, Prana, situated in the head, moves in the throat and chest; its functions are [the maintenance of] the intellect, sense organs, heart and mind; the holding [of the arteries and breath]; spitting, sneezing, belching, exhalation, inhalation, swallowing of food and the like. Udana, situated in the chest, moves in the throat, nose and navel; its functions are speech, effort, energy, strength, complexion [of the skin], [functioning of] the channels, satisfaction, [functions of] intellect, fortitude, memory, awakening of the mind and the like. Vyana, situated in the heart, moves throughout the body with the swiftest motion; its functions are movement, stretching, flexing, raising, lowering [of the limbs], closing and opening [of the eyelids], yawning, perception of the taste of food, cleansing of the channels, discharge of sweat and blood and the like; and also [the function of] conveying semen to the female genital organ, as well as separating the essence and the residue of food, by which it gradually nourishes the tissues. Samana, situated near the internal fire, kindles it; it carries the doshas, impurities, semen, menstrual blood and the fluid of the stomach; it moves through the channels; its functions are holding, digesting, discriminating [the essence from the residue] of food, and also the downward conveying of the residue [of food] and the like. Apana, situated in the region of Apana, moves in the urinary bladder, pelvis, genital organ, testicles, groin and thighs; its functions are the elimination of feces, urine, semen, menstrual blood, the expulsion of the fetus and the like."
       },
       {
         "type": "verse",
@@ -12663,7 +12695,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पाचकरञ्जकसाधकालोचकभ्राजकत्वभेदैः पित्तम् तत्र यदामाशयपक्वाशयमध्यस्थं पञ्चमहाभूतात्मकत्वे ऽपि तेजोगुणोत्कर्षात् क्षपितसोमगुणं ततश्च त्यक्तद्रवस्वभावं सहकारिकारणैर्वायुक्लेदादिभिरनुग्रहाद्दहनपचनादिक्रियया लब्धाग्निशब्दं पित्तमन्नं पचति सारकिट्टौ विभजति शेषाणि च पित्तस्थानानि तत्रस्थमेवानुगृह्णाति तत् पाचकमित्युच्यते आमाशयस्यं तु रसस्य रञ्जनाद्रञ्जकम् हृदयस्थं बुद्धिमेधाभिमानोत्साहैरभिप्रेतार्थसाधनात्साधकम् दृष्टिस्थं रूपालोचनादालोचकम् त्वक्स्थं त्वचो भ्राजनात् भ्राजकम् तदभ्यङ्गपरिषेकालेपादीन् पाचयति छायाश्च प्रकाशयति",
         "iast": "pācakarañjakasādhakālocakabhrājakatvabhedaiḥ pittam tatra yadāmāśayapakvāśayamadhyasthaṃ pañcamahābhūtātmakatve 'pi tejoguṇotkarṣāt kṣapitasomaguṇaṃ tataśca tyaktadravasvabhāvaṃ sahakārikāraṇairvāyukledādibhiranugrahāddahanapacanādikriyayā labdhāgniśabdaṃ pittamannaṃ pacati sārakiṭṭau vibhajati śeṣāṇi ca pittasthānāni tatrasthamevānugṛhṇāti tat pācakamityucyate āmāśayasyaṃ tu rasasya rañjanādrañjakam hṛdayasthaṃ buddhimedhābhimānotsāhairabhipretārthasādhanātsādhakam dṛṣṭisthaṃ rūpālocanādālocakam tvaksthaṃ tvaco bhrājanāt bhrājakam tadabhyaṅgapariṣekālepādīn pācayati chāyāśca prakāśayati",
         "iast_ru": "па̄чакаран̃джакаса̄дхака̄лочакабхра̄джакатвабхедаих̣ питтам татра йада̄ма̄ш́айапаква̄ш́айамадхйастхам̣ пан̃чамаха̄бхӯта̄тмакатве 'пи теджогун̣откарш̣а̄т кш̣апитасомагун̣ам̣ таташ́ча тйактадравасвабха̄вам̣ сахака̄рика̄ран̣аирва̄йукледа̄дибхирануграха̄ддаханапачана̄дикрийайа̄ лабдха̄гниш́абдам̣ питтаманнам̣ пачати са̄ракит̣т̣ау вибхаджати ш́еш̣а̄н̣и ча питтастха̄на̄ни татрастхамева̄нугр̣хн̣а̄ти тат па̄чакамитйучйате а̄ма̄ш́айасйам̣ ту расасйа ран̃джана̄дран̃джакам хр̣дайастхам̣ буддхимедха̄бхима̄нотса̄хаирабхипрета̄ртхаса̄дхана̄тса̄дхакам др̣ш̣т̣истхам̣ рӯпа̄лочана̄да̄лочакам твакстхам̣ твачо бхра̄джана̄т бхра̄джакам тадабхйан̇гапариш̣ека̄лепа̄дӣн па̄чайати чха̄йа̄ш́ча прака̄ш́айати",
-        "text": "Питта [делится] по различию пачаки, ранджаки, садхаки, алочаки и бхраджаки. Из них та [питта], что находится между желудком и толстым кишечником, — хотя и состоит из пяти великих элементов, из-за преобладания качества огня [в ней] ослаблено качество сомы, и поэтому она утрачивает жидкую природу; получая содействие от вспомогательных причин — ветра, влаги и подобного, — она посредством действия жжения и переваривания обретает название «огонь»; эта питта переваривает пищу, разделяет [её] на сущность и остаток, и лишь оказывает поддержку прочим местам питты, [не переваривая их напрямую]; она называется «пачака». [Питта], находящаяся в желудке, называется «ранджака» — от окрашивания сока [в кровь]. [Питта], находящаяся в сердце, — «садхака» — благодаря разуму, интеллекту, самомнению, усердию, осуществлению желаемых целей. [Питта], находящаяся в зрении, — «алочака» — от созерцания форм. [Питта], находящаяся в коже, — «бхраджака» — от придания блеска коже; она «перерабатывает» умащение, обливание, обмазывание и подобное, [нанесённые на кожу], и проявляет [их] сияние."
+        "text": "Питта [делится] по различию пачаки, ранджаки, садхаки, алочаки и бхраджаки. Из них та [питта], что находится между желудком и толстым кишечником, — хотя и состоит из пяти великих элементов, из-за преобладания качества огня [в ней] ослаблено качество сомы, и поэтому она утрачивает жидкую природу; получая содействие от вспомогательных причин — ветра, влаги и подобного, — она посредством действия жжения и переваривания обретает название «огонь»; эта питта переваривает пищу, разделяет [её] на сущность и остаток, и лишь оказывает поддержку прочим местам питты, [не переваривая их напрямую]; она называется «пачака». [Питта], находящаяся в желудке, называется «ранджака» — от окрашивания сока [в кровь]. [Питта], находящаяся в сердце, — «садхака» — благодаря разуму, интеллекту, самомнению, усердию, осуществлению желаемых целей. [Питта], находящаяся в зрении, — «алочака» — от созерцания форм. [Питта], находящаяся в коже, — «бхраджака» — от придания блеска коже; она «перерабатывает» умащение, обливание, обмазывание и подобное, [нанесённые на кожу], и проявляет [их] сияние.",
+        "text_en": "Pitta [is divided] according to the distinction of Pachaka, Ranjaka, Sadhaka, Alochaka and Bhrajaka. Of these, that [Pitta] which is situated between the stomach and the large intestine, although composed of the five great elements, owing to the predominance of the quality of fire [in it], has the quality of soma weakened, and therefore loses the liquid nature; receiving the assistance of auxiliary causes, such as Vata, moisture and the like, it, by the action of burning and digesting, acquires the name 'fire'; this Pitta digests food, separates [it] into essence and residue, and merely provides support to the other seats of Pitta, [without digesting them directly]; it is called Pachaka. [Pitta] situated in the stomach is called Ranjaka, from coloring the rasa [into blood]. [Pitta] situated in the heart is Sadhaka, through the intellect, understanding, self-conceit, diligence and the accomplishment of desired aims. [Pitta] situated in the sight is Alochaka, from perceiving forms. [Pitta] situated in the skin is Bhrajaka, from imparting luster to the skin; it 'processes' the anointing, bathing, pasting and the like, [applied to the skin], and manifests [their] radiance."
       },
       {
         "type": "verse",
@@ -12671,7 +12704,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अवलम्बकक्लेदकबोधकतर्पकश्लेषकत्वभेदैः श्लेष्मा स तूरस्थः स्ववीर्येण त्रिकस्यान्नवीर्येण च सह हृदयस्य च शेषाणां च श्लेष्मस्थानानां तत्रस्थ एवोदककर्मणावलम्बनादवलम्बक इत्युच्यते आमाशयस्थितो ऽन्नसङ्घातस्य क्लेदनात् क्लेदकः रसनास्थः सम्यग्रसबोधनात् बोधकः शिरस्थश्चक्षुरादीन्द्रियतर्पणात् तर्पकः पर्वस्थो ऽस्थिसन्धिश्लेषणात् श्लेषक इति",
         "iast": "avalambakakledakabodhakatarpakaśleṣakatvabhedaiḥ śleṣmā sa tūrasthaḥ svavīryeṇa trikasyānnavīryeṇa ca saha hṛdayasya ca śeṣāṇāṃ ca śleṣmasthānānāṃ tatrastha evodakakarmaṇāvalambanādavalambaka ityucyate āmāśayasthito 'nnasaṅghātasya kledanāt kledakaḥ rasanāsthaḥ samyagrasabodhanāt bodhakaḥ śirasthaścakṣurādīndriyatarpaṇāt tarpakaḥ parvastho 'sthisandhiśleṣaṇāt śleṣaka iti",
         "iast_ru": "аваламбакакледакабодхакатарпакаш́леш̣акатвабхедаих̣ ш́леш̣ма̄ са тӯрастхах̣ свавӣрйен̣а трикасйа̄ннавӣрйен̣а ча саха хр̣дайасйа ча ш́еш̣а̄н̣а̄м̣ ча ш́леш̣мастха̄на̄на̄м̣ татрастха еводакакарман̣а̄валамбана̄даваламбака итйучйате а̄ма̄ш́айастхито 'ннасан̇гха̄тасйа кледана̄т кледаках̣ расана̄стхах̣ самйаграсабодхана̄т бодхаках̣ ш́ирастхаш́чакш̣ура̄дӣндрийатарпан̣а̄т тарпаках̣ парвастхо 'стхисандхиш́леш̣ан̣а̄т ш́леш̣ака ити",
-        "text": "Капха [делится] по различию авалабаки, кледаки, бодхаки, тарпаки и шлешаки. Та [капха], что находится в груди, — своей собственной силой, вместе с силой пищи, поддерживает поясничную область, сердце и прочие места капхи, [сама] пребывая там же, посредством функции [подобной] воде; она называется «авалабака». [Капха], находящаяся в желудке, — «кледака» — от увлажнения комка пищи. [Капха], находящаяся в языке, — «бодхака» — от правильного восприятия вкуса. [Капха], находящаяся в голове, — «тарпака» — от насыщения глаз и других органов чувств. [Капха], находящаяся в суставах, — «шлешака» — от связывания костных суставов."
+        "text": "Капха [делится] по различию авалабаки, кледаки, бодхаки, тарпаки и шлешаки. Та [капха], что находится в груди, — своей собственной силой, вместе с силой пищи, поддерживает поясничную область, сердце и прочие места капхи, [сама] пребывая там же, посредством функции [подобной] воде; она называется «авалабака». [Капха], находящаяся в желудке, — «кледака» — от увлажнения комка пищи. [Капха], находящаяся в языке, — «бодхака» — от правильного восприятия вкуса. [Капха], находящаяся в голове, — «тарпака» — от насыщения глаз и других органов чувств. [Капха], находящаяся в суставах, — «шлешака» — от связывания костных суставов.",
+        "text_en": "Kapha [is divided] according to the distinction of Avalambaka, Kledaka, Bodhaka, Tarpaka and Shleshaka. That [Kapha] which is situated in the chest, by its own strength, together with the strength of food, supports the lumbar region, the heart and the other seats of Kapha, [itself] abiding in the same place, through a function [similar to] water; it is called Avalambaka. [Kapha] situated in the stomach is Kledaka, from moistening the mass of food. [Kapha] situated in the tongue is Bodhaka, from the correct perception of taste. [Kapha] situated in the head is Tarpaka, from nourishing the eyes and other sense organs. [Kapha] situated in the joints is Shleshaka, from binding the bony joints."
       },
       {
         "type": "verse",
@@ -12679,7 +12713,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एवममीषु स्थानेषु भूयिष्ठमविकृताः सकलशरीरव्यापिनो ऽपि वातपित्तश्लेष्माणो वर्तन्ते तेषां वृद्धिहेतुर्वक्ष्यते निदानेषु सामान्यतश्च वृद्धिक्षयलक्षणमुक्तं पूर्वाध्याये वृद्धिर्हि द्वेधा चयप्रकोपभेदेन तत्रोष्णगुणोपहिता रुक्षादयो वायोः सञ्चयमापादयन्ति शीतगुणोपहिताः प्रकोपमुष्णगुणोपहिताः स्निग्धादयः प्रशमम् शीतगुणोपहितास्तीक्ष्णादयः पित्तस्य चयमुष्णगुणोपहिताः कोपं शीतगुणोपहिता मन्दादयः प्रशमम् शीतगुणोपहिताः स्निग्धादयः कफस्य चयमुष्णगुणोपहिताः कोपं तथा तु रूक्षादयः प्रशमम्",
         "iast": "evamamīṣu sthāneṣu bhūyiṣṭhamavikṛtāḥ sakalaśarīravyāpino 'pi vātapittaśleṣmāṇo vartante teṣāṃ vṛddhiheturvakṣyate nidāneṣu sāmānyataśca vṛddhikṣayalakṣaṇamuktaṃ pūrvādhyāye vṛddhirhi dvedhā cayaprakopabhedena tatroṣṇaguṇopahitā rukṣādayo vāyoḥ sañcayamāpādayanti śītaguṇopahitāḥ prakopamuṣṇaguṇopahitāḥ snigdhādayaḥ praśamam śītaguṇopahitāstīkṣṇādayaḥ pittasya cayamuṣṇaguṇopahitāḥ kopaṃ śītaguṇopahitā mandādayaḥ praśamam śītaguṇopahitāḥ snigdhādayaḥ kaphasya cayamuṣṇaguṇopahitāḥ kopaṃ tathā tu rūkṣādayaḥ praśamam",
         "iast_ru": "евамамӣш̣у стха̄неш̣у бхӯйиш̣т̣хамавикр̣та̄х̣ сакалаш́арӣравйа̄пино 'пи ва̄тапитташ́леш̣ма̄н̣о вартанте теш̣а̄м̣ вр̣ддхихетурвакш̣йате нида̄неш̣у са̄ма̄нйаташ́ча вр̣ддхикш̣айалакш̣ан̣амуктам̣ пӯрва̄дхйа̄йе вр̣ддхирхи дведха̄ чайапракопабхедена татрош̣н̣агун̣опахита̄ рукш̣а̄дайо ва̄йох̣ сан̃чайама̄па̄дайанти ш́ӣтагун̣опахита̄х̣ пракопамуш̣н̣агун̣опахита̄х̣ снигдха̄дайах̣ праш́амам ш́ӣтагун̣опахита̄стӣкш̣н̣а̄дайах̣ питтасйа чайамуш̣н̣агун̣опахита̄х̣ копам̣ ш́ӣтагун̣опахита̄ манда̄дайах̣ праш́амам ш́ӣтагун̣опахита̄х̣ снигдха̄дайах̣ капхасйа чайамуш̣н̣агун̣опахита̄х̣ копам̣ татха̄ ту рӯкш̣а̄дайах̣ праш́амам",
-        "text": "Таким образом, ватха, питта и капха, хотя и распространяются по всему телу, преимущественно пребывают неизменёнными в этих [упомянутых] местах. Причина их увеличения будет изложена в разделе о причинах [болезней]; общий же признак увеличения и уменьшения был указан в предыдущей главе. Увеличение же двух видов, по различию накопления и возбуждения. Из них [качества] сухости и подобные, соединённые с тёплым качеством, вызывают накопление ветра; соединённые с холодным качеством — [его] возбуждение; [качества] маслянистости и подобные, соединённые с тёплым качеством, — успокоение [ветра]. [Качества] резкости и подобные, соединённые с холодным качеством, вызывают накопление питты; соединённые с тёплым качеством — [её] возбуждение; [качества] мягкости и подобные, соединённые с холодным качеством, — успокоение [питты]. [Качества] маслянистости и подобные, соединённые с холодным качеством, вызывают накопление капхи; соединённые с тёплым качеством — [её] возбуждение; так же и [качества] сухости и подобные — успокоение [капхи]."
+        "text": "Таким образом, ватха, питта и капха, хотя и распространяются по всему телу, преимущественно пребывают неизменёнными в этих [упомянутых] местах. Причина их увеличения будет изложена в разделе о причинах [болезней]; общий же признак увеличения и уменьшения был указан в предыдущей главе. Увеличение же двух видов, по различию накопления и возбуждения. Из них [качества] сухости и подобные, соединённые с тёплым качеством, вызывают накопление ветра; соединённые с холодным качеством — [его] возбуждение; [качества] маслянистости и подобные, соединённые с тёплым качеством, — успокоение [ветра]. [Качества] резкости и подобные, соединённые с холодным качеством, вызывают накопление питты; соединённые с тёплым качеством — [её] возбуждение; [качества] мягкости и подобные, соединённые с холодным качеством, — успокоение [питты]. [Качества] маслянистости и подобные, соединённые с холодным качеством, вызывают накопление капхи; соединённые с тёплым качеством — [её] возбуждение; так же и [качества] сухости и подобные — успокоение [капхи].",
+        "text_en": "Thus Vata, Pitta and Kapha, although they spread throughout the body, predominantly abide unchanged in these [mentioned] places. The cause of their increase will be described in the section on causes [of diseases]; the general sign of increase and decrease was given in the preceding chapter. The increase is of two kinds, according to the distinction of accumulation (chaya) and aggravation (prakopa). Of these, [qualities] of dryness and the like, combined with the hot quality, cause the accumulation of Vata; combined with the cold quality, [its] aggravation; [qualities] of unctuousness and the like, combined with the hot quality, [cause] the pacification [of Vata]. [Qualities] of sharpness and the like, combined with the cold quality, cause the accumulation of Pitta; combined with the hot quality, [its] aggravation; [qualities] of softness and the like, combined with the cold quality, [cause] the pacification [of Pitta]. [Qualities] of unctuousness and the like, combined with the cold quality, cause the accumulation of Kapha; combined with the hot quality, [its] aggravation; and likewise [qualities] of dryness and the like [cause] the pacification [of Kapha]."
       },
       {
         "type": "verse",
@@ -12687,7 +12722,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चयो वृद्धिः स्वधाम्न्येव प्रद्वेषो वृद्धिहेतुषु विपरीतगुणेच्छा च कोपस्तून्मार्गगामिता",
         "iast": "cayo vṛddhiḥ svadhāmnyeva pradveṣo vṛddhihetuṣu viparītaguṇecchā ca kopastūnmārgagāmitā",
         "iast_ru": "чайо вр̣ддхих̣ свадха̄мнйева прадвеш̣о вр̣ддхихетуш̣у випарӣтагун̣еччха̄ ча копастӯнма̄ргага̄мита̄",
-        "text": "Накопление — это увеличение именно в собственном месте [дош], [проявляющееся как] отвращение к причинам [дальнейшего] увеличения и желание противоположных качеств; возбуждение же — [это] выход [дош] на неправильный путь."
+        "text": "Накопление — это увеличение именно в собственном месте [дош], [проявляющееся как] отвращение к причинам [дальнейшего] увеличения и желание противоположных качеств; возбуждение же — [это] выход [дош] на неправильный путь.",
+        "text_en": "Accumulation is the increase precisely in the [doshas'] own site, [manifesting as] aversion to the causes of [further] increase and desire for the opposite qualities; aggravation, however, is the going of the [doshas] onto a wrong path."
       },
       {
         "type": "verse",
@@ -12695,7 +12731,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिङ्गानां दर्शनं स्वेषामस्वास्थ्यं रोगसम्भवः स्वस्थानस्थस्य समता विकारासम्भवः शमः",
         "iast": "liṅgānāṃ darśanaṃ sveṣāmasvāsthyaṃ rogasambhavaḥ svasthānasthasya samatā vikārāsambhavaḥ śamaḥ",
         "iast_ru": "лин̇га̄на̄м̣ дарш́анам̣ свеш̣а̄масва̄стхйам̣ рогасамбхавах̣ свастха̄настхасйа самата̄ вика̄ра̄самбхавах̣ ш́амах̣",
-        "text": "[При возбуждении наблюдается] появление собственных признаков [дош], нездоровье, возникновение болезни; при [дошах, пребывающих] в равновесии в своём месте — [наблюдается] равновесие [организма], отсутствие возникновения расстройства — [это] «успокоение»."
+        "text": "[При возбуждении наблюдается] появление собственных признаков [дош], нездоровье, возникновение болезни; при [дошах, пребывающих] в равновесии в своём месте — [наблюдается] равновесие [организма], отсутствие возникновения расстройства — [это] «успокоение».",
+        "text_en": "[In aggravation there is] the appearance of the doshas' own signs, ill-health, the arising of disease; when [the doshas abide] in balance in their own site, there is equilibrium [of the organism], absence of the arising of disorder; this is 'pacification'."
       },
       {
         "type": "verse",
@@ -12703,7 +12740,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "देहे ऽक्रुद्धो ऽनिलवशात् कृत्स्ने ऽर्द्धे ऽवयवे ऽपि वा दोषो विकारं कुरुते खे वर्षमिव तोयदः",
         "iast": "dehe 'kruddho 'nilavaśāt kṛtsne 'rddhe 'vayave 'pi vā doṣo vikāraṃ kurute khe varṣamiva toyadaḥ",
         "iast_ru": "дехе 'круддхо 'нилаваш́а̄т кр̣тсне 'рддхе 'вайаве 'пи ва̄ дош̣о вика̄рам̣ куруте кхе варш̣амива тойадах̣",
-        "text": "Невозбуждённая доша, [действуя] под влиянием ветра, вызывает расстройство во всём теле, в половине [тела] или даже в [отдельной] части, — подобно тому, как облако [проливает] дождь в небе."
+        "text": "Невозбуждённая доша, [действуя] под влиянием ветра, вызывает расстройство во всём теле, в половине [тела] или даже в [отдельной] части, — подобно тому, как облако [проливает] дождь в небе.",
+        "text_en": "The unaggravated dosha, [acting] under the influence of Vata, causes disorder in the whole body, in half [of the body], or even in a [single] part, just as a cloud [pours] rain in the sky."
       },
       {
         "type": "verse",
@@ -12711,7 +12749,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ प्रकुपिता वातादयो नानाविधैर्विकारैः शरीरमुपतपन्ति आविष्कृततमास्तु वायोरशीतिर्विकाराः तद्यथा नखभेदो विपादिका पादशूलं पादभ्रंशः सुप्तपादता वातखुडता गुल्फग्रहः पिण्डिकोद्वेष्टनं गृद्ध्रसी जानुभेदो जानुविश्लेषः ऊरुसाद ऊरुस्तम्भः पङ्गुत्वं गुदभ्रंशो गुदार्तिर्वृषणाक्षेपो मेढ्रस्तम्भो वङ्क्षणानाहः श्रेणिभेदो विङ्भेद उदावर्तः खञ्जत्वं कुब्जत्वं वामनत्वं त्रिकग्रहः पृष्ठग्रहः पार्श्वावमर्द उदरावेष्टो हृन्मोहो हृद्द्रवो वक्षोद्घर्षस्तथा वक्षोपरोधो वक्षस्तोदो बाहुशोषस्तथा ग्रीवास्तम्भो मन्यास्तम्भः कण्ठोद्ध्वंसो हनुस्तम्भस्ताल्वोष्ठभेदो दन्तभेदो दन्तशैथिल्यं मूकत्वं वाक्सङ्गः प्रलापः कषायाम्यता मुखशोषो रसाज्ञत्वं घ्राणनाशः कर्णशूलमशब्दश्रुतिरुच्चैःश्रुतिर्बाधिर्यं वर्त्मस्तम्भो वर्त्मसङ्कोचस्तिमिरमक्षिशूलमक्षिव्युदासो भ्रूव्युदासः शङ्खभेदो ललाटभेदः शिरोरुक्केशभूमिस्फुटनमर्दितमेकाङ्गरोगः सर्वाङ्गरोग आक्षेपको दण्डकः श्रमो भ्रमो वेपथुर्जृम्भा ग्लानिर्विषादो रौक्ष्यं पारुष्यं श्यावारुणाभासत्वमस्वप्नो ऽनवस्थितचित्तता च",
         "iast": "atha prakupitā vātādayo nānāvidhairvikāraiḥ śarīramupatapanti āviṣkṛtatamāstu vāyoraśītirvikārāḥ tadyathā nakhabhedo vipādikā pādaśūlaṃ pādabhraṃśaḥ suptapādatā vātakhuḍatā gulphagrahaḥ piṇḍikodveṣṭanaṃ gṛddhrasī jānubhedo jānuviśleṣaḥ ūrusāda ūrustambhaḥ paṅgutvaṃ gudabhraṃśo gudārtirvṛṣaṇākṣepo meḍhrastambho vaṅkṣaṇānāhaḥ śreṇibhedo viṅbheda udāvartaḥ khañjatvaṃ kubjatvaṃ vāmanatvaṃ trikagrahaḥ pṛṣṭhagrahaḥ pārśvāvamarda udarāveṣṭo hṛnmoho hṛddravo vakṣodgharṣastathā vakṣoparodho vakṣastodo bāhuśoṣastathā grīvāstambho manyāstambhaḥ kaṇṭhoddhvaṃso hanustambhastālvoṣṭhabhedo dantabhedo dantaśaithilyaṃ mūkatvaṃ vāksaṅgaḥ pralāpaḥ kaṣāyāmyatā mukhaśoṣo rasājñatvaṃ ghrāṇanāśaḥ karṇaśūlamaśabdaśrutiruccaiḥśrutirbādhiryaṃ vartmastambho vartmasaṅkocastimiramakṣiśūlamakṣivyudāso bhrūvyudāsaḥ śaṅkhabhedo lalāṭabhedaḥ śirorukkeśabhūmisphuṭanamarditamekāṅgarogaḥ sarvāṅgaroga ākṣepako daṇḍakaḥ śramo bhramo vepathurjṛmbhā glānirviṣādo raukṣyaṃ pāruṣyaṃ śyāvāruṇābhāsatvamasvapno 'navasthitacittatā ca",
         "iast_ru": "атха пракупита̄ ва̄та̄дайо на̄на̄видхаирвика̄раих̣ ш́арӣрамупатапанти а̄виш̣кр̣татама̄сту ва̄йораш́ӣтирвика̄ра̄х̣ тадйатха̄ накхабхедо випа̄дика̄ па̄даш́ӯлам̣ па̄дабхрам̣ш́ах̣ суптапа̄дата̄ ва̄такхуд̣ата̄ гулпхаграхах̣ пин̣д̣икодвеш̣т̣анам̣ гр̣ддхрасӣ джа̄нубхедо джа̄нувиш́леш̣ах̣ ӯруса̄да ӯрустамбхах̣ пан̇гутвам̣ гудабхрам̣ш́о гуда̄ртирвр̣ш̣ан̣а̄кш̣епо мед̣храстамбхо ван̇кш̣ан̣а̄на̄хах̣ ш́рен̣ибхедо вин̇бхеда уда̄вартах̣ кхан̃джатвам̣ кубджатвам̣ ва̄манатвам̣ трикаграхах̣ пр̣ш̣т̣хаграхах̣ па̄рш́ва̄вамарда удара̄веш̣т̣о хр̣нмохо хр̣ддраво вакш̣одгхарш̣астатха̄ вакш̣опародхо вакш̣астодо ба̄хуш́ош̣астатха̄ грӣва̄стамбхо манйа̄стамбхах̣ кан̣т̣ходдхвам̣со ханустамбхаста̄лвош̣т̣хабхедо дантабхедо данташ́аитхилйам̣ мӯкатвам̣ ва̄ксан̇гах̣ прала̄пах̣ каш̣а̄йа̄мйата̄ мукхаш́ош̣о раса̄джн̃атвам̣ гхра̄н̣ана̄ш́ах̣ карн̣аш́ӯламаш́абдаш́рутируччаих̣ш́рутирба̄дхирйам̣ вартмастамбхо вартмасан̇кочастимирамакш̣иш́ӯламакш̣ивйуда̄со бхрӯвйуда̄сах̣ ш́ан̇кхабхедо лала̄т̣абхедах̣ ш́ироруккеш́абхӯмиспхут̣анамардитамека̄н̇гарогах̣ сарва̄н̇гарога а̄кш̣епако дан̣д̣аках̣ ш́рамо бхрамо вепатхурджр̣мбха̄ гла̄нирвиш̣а̄до раукш̣йам̣ па̄руш̣йам̣ ш́йа̄ва̄рун̣а̄бха̄сатвамасвапно 'навастхитачиттата̄ ча",
-        "text": "Итак, возбуждённые ветер и прочие [доши] мучают тело разнообразными расстройствами. Наиболее явными являются восемьдесят расстройств ветра, а именно: расслоение ногтей, трещины на подошвах, боль в стопе, вывих стопы, онемение стопы, боль в пятке от ветра, скованность лодыжки, скручивание икры, ишиас, боль в колене, разъединение сустава колена, слабость бедра, оцепенение бедра, хромота, выпадение прямой кишки, боль в заднем проходе, судороги яичек, оцепенение полового члена, вздутие в паху, боль в тазовых костях, задержка кала, удаварта, кривизна ходьбы, горбатость, карликовость, скованность крестца, скованность спины, боль в боку, скручивание живота, помрачение сердца, учащённое сердцебиение, трение в груди, а также стеснение в груди, колющая боль в груди, истощение рук, а также скованность шеи, скованность затылка, разрушение горла, скованность челюсти, расщепление нёба и губ, расщепление зубов, ослабление зубов, немота, затруднение речи, бред, вяжущий привкус во рту, сухость рта, потеря вкуса, потеря обоняния, боль в ухе, беззвучие слуха, чрезмерная громкость слуха, глухота, оцепенение века, сужение века, тимира, боль в глазу, смещение глаза, смещение брови, боль в висках, боль в лобной части, головная боль, растрескивание кожи головы, паралич лицевого нерва, болезнь одной части тела, болезнь всего тела, судороги, скованность подобно палке, усталость, головокружение, дрожь, зевота, изнеможение, отчаяние, сухость, грубость, тёмно-красноватый оттенок [кожи], бессонница и неустойчивость ума."
+        "text": "Итак, возбуждённые ветер и прочие [доши] мучают тело разнообразными расстройствами. Наиболее явными являются восемьдесят расстройств ветра, а именно: расслоение ногтей, трещины на подошвах, боль в стопе, вывих стопы, онемение стопы, боль в пятке от ветра, скованность лодыжки, скручивание икры, ишиас, боль в колене, разъединение сустава колена, слабость бедра, оцепенение бедра, хромота, выпадение прямой кишки, боль в заднем проходе, судороги яичек, оцепенение полового члена, вздутие в паху, боль в тазовых костях, задержка кала, удаварта, кривизна ходьбы, горбатость, карликовость, скованность крестца, скованность спины, боль в боку, скручивание живота, помрачение сердца, учащённое сердцебиение, трение в груди, а также стеснение в груди, колющая боль в груди, истощение рук, а также скованность шеи, скованность затылка, разрушение горла, скованность челюсти, расщепление нёба и губ, расщепление зубов, ослабление зубов, немота, затруднение речи, бред, вяжущий привкус во рту, сухость рта, потеря вкуса, потеря обоняния, боль в ухе, беззвучие слуха, чрезмерная громкость слуха, глухота, оцепенение века, сужение века, тимира, боль в глазу, смещение глаза, смещение брови, боль в висках, боль в лобной части, головная боль, растрескивание кожи головы, паралич лицевого нерва, болезнь одной части тела, болезнь всего тела, судороги, скованность подобно палке, усталость, головокружение, дрожь, зевота, изнеможение, отчаяние, сухость, грубость, тёмно-красноватый оттенок [кожи], бессонница и неустойчивость ума.",
+        "text_en": "Thus the aggravated Vata and the other [doshas] afflict the body with various disorders. The most evident are the eighty disorders of Vata, namely: splitting of the nails, cracks in the soles, pain in the foot, dislocation of the foot, numbness of the foot, heel pain due to Vata, stiffness of the ankle, twisting of the calf, sciatica, pain in the knee, disjunction of the knee joint, weakness of the thigh, stiffness of the thigh, lameness, prolapse of the rectum, pain in the anus, spasms of the testicles, stiffness of the penis, distension in the groin, pain in the pelvic bones, retention of feces, udavarta, crooked gait, hunchback, dwarfism, stiffness of the sacrum, stiffness of the back, pain in the flank, twisting of the abdomen, clouding of the heart, palpitation, rubbing sensation in the chest, as well as constriction of the chest, pricking pain in the chest, wasting of the arms, as well as stiffness of the neck, stiffness of the nape, destruction of the throat, stiffness of the jaw, splitting of the palate and lips, splitting of the teeth, loosening of the teeth, dumbness, difficulty in speech, delirium, astringent taste in the mouth, dryness of the mouth, loss of taste, loss of smell, earache, absence of hearing, excessive loudness of hearing, deafness, stiffness of the eyelid, contraction of the eyelid, timira, eye pain, displacement of the eye, displacement of the eyebrow, pain in the temples, pain in the forehead, headache, cracking of the scalp, facial paralysis, disease of one part of the body, disease of the whole body, convulsions, stiffness like a stick, fatigue, dizziness, tremor, yawning, exhaustion, despondency, dryness, roughness, dark reddish tinge [of the skin], sleeplessness and instability of the mind."
       },
       {
         "type": "verse",
@@ -12719,7 +12758,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तविकाराः पुनरोषः प्लोषो दवो दवथुर्विदाहो ऽन्तर्दाहस्त्वग्दाहो ऽंसदाहो धूमको ऽम्लक ऊष्माधिक्यमतिस्वेदो ऽङ्गगन्धो ऽवयवसदनं शोणितक्लेदो मांसक्लेदस्त्वङ्मांसावदरणं चर्मदरणं रक्तकोठो रक्तविस्फोटो रक्तमण्डलानि रक्तपित्तं हरितत्वं हारिद्रत्वं नीलिका कक्ष्या कामला तिक्तास्यता लोहितगन्धास्यता पूतिमुखत्वं तृष्णाधिक्यमतृप्तिरास्यपाको गलपाको ऽक्षिपाकः पायुपाको मेढ्रपाको जीवादानं तमःप्रवेशो हरितहारिद्रनेत्रमूत्रशकृत्त्वं च",
         "iast": "pittavikārāḥ punaroṣaḥ ploṣo davo davathurvidāho 'ntardāhastvagdāho 'ṃsadāho dhūmako 'mlaka ūṣmādhikyamatisvedo 'ṅgagandho 'vayavasadanaṃ śoṇitakledo māṃsakledastvaṅmāṃsāvadaraṇaṃ carmadaraṇaṃ raktakoṭho raktavisphoṭo raktamaṇḍalāni raktapittaṃ haritatvaṃ hāridratvaṃ nīlikā kakṣyā kāmalā tiktāsyatā lohitagandhāsyatā pūtimukhatvaṃ tṛṣṇādhikyamatṛptirāsyapāko galapāko 'kṣipākaḥ pāyupāko meḍhrapāko jīvādānaṃ tamaḥpraveśo haritahāridranetramūtraśakṛttvaṃ ca",
         "iast_ru": "питтавика̄ра̄х̣ пунарош̣ах̣ плош̣о даво даватхурвида̄хо 'нтарда̄хаствагда̄хо 'м̣сада̄хо дхӯмако 'млака ӯш̣ма̄дхикйаматисведо 'н̇гагандхо 'вайавасаданам̣ ш́он̣итакледо ма̄м̣сакледастван̇ма̄м̣са̄вадаран̣ам̣ чармадаран̣ам̣ рактакот̣хо рактависпхот̣о рактаман̣д̣ала̄ни рактапиттам̣ харитатвам̣ ха̄ридратвам̣ нӣлика̄ какш̣йа̄ ка̄мала̄ тикта̄сйата̄ лохитагандха̄сйата̄ пӯтимукхатвам̣ тр̣ш̣н̣а̄дхикйаматр̣птира̄сйапа̄ко галапа̄ко 'кш̣ипа̄ках̣ па̄йупа̄ко мед̣храпа̄ко джӣва̄да̄нам̣ тамах̣правеш́о харитаха̄ридранетрамӯтраш́акр̣ттвам̣ ча",
-        "text": "Расстройства питты же — [это]: жар, ожог, «лесной пожар» [ощущение], сильный жар, внутреннее жжение, внутренний жар, жжение кожи, жжение плеча, «дымность», кислая отрыжка, избыток жара, чрезмерное потоотделение, запах тела, слабость членов, увлажнение крови, увлажнение мяса, растрескивание кожи и мяса, разрыв кожи, кожная сыпь, кожные нарывы, кровяные пятна, кровяное расстройство питты, зеленоватость, желтизна, синеватые пятна, «каккшья», желтуха, горечь во рту, кровавый запах изо рта, зловоние рта, избыточная жажда, неудовлетворённость [ею], нагноение рта, нагноение горла, нагноение глаз, нагноение заднего прохода, нагноение полового члена, угроза жизни, погружение во тьму, а также зеленовато-желтоватый цвет глаз, мочи и кала."
+        "text": "Расстройства питты же — [это]: жар, ожог, «лесной пожар» [ощущение], сильный жар, внутреннее жжение, внутренний жар, жжение кожи, жжение плеча, «дымность», кислая отрыжка, избыток жара, чрезмерное потоотделение, запах тела, слабость членов, увлажнение крови, увлажнение мяса, растрескивание кожи и мяса, разрыв кожи, кожная сыпь, кожные нарывы, кровяные пятна, кровяное расстройство питты, зеленоватость, желтизна, синеватые пятна, «каккшья», желтуха, горечь во рту, кровавый запах изо рта, зловоние рта, избыточная жажда, неудовлетворённость [ею], нагноение рта, нагноение горла, нагноение глаз, нагноение заднего прохода, нагноение полового члена, угроза жизни, погружение во тьму, а также зеленовато-желтоватый цвет глаз, мочи и кала.",
+        "text_en": "The disorders of Pitta are: fever, scorching, a 'forest fire' [sensation], intense heat, internal burning, internal fever, burning of the skin, burning of the shoulder, 'smokiness', sour belching, excess of heat, excessive perspiration, body odor, weakness of the limbs, moistening of the blood, moistening of the flesh, cracking of the skin and flesh, rupture of the skin, skin eruptions, skin boils, blood spots, bloody disorder of Pitta, greenish discoloration, yellowness, bluish spots, kakshya, jaundice, bitterness in the mouth, bloody smell from the mouth, foul breath, excessive thirst, dissatisfaction [with it], suppuration of the mouth, suppuration of the throat, suppuration of the eyes, suppuration of the anus, suppuration of the penis, danger to life, sinking into darkness, and also a greenish-yellowish color of the eyes, urine and feces."
       },
       {
         "type": "verse",
@@ -12727,7 +12767,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्लेष्मविकारास्तु तृप्तिस्तन्द्रा निद्राधिक्यं स्तैमित्यं गुरुगात्रतालस्यं मुखमाधुर्यं प्रसेकः श्लेष्मोद्गिरणं मलाधिक्यं बलासो हृदयोपलेपः कण्ठोपलेपो धमनीप्रतिचयो गलगण्डो ऽतिस्थौल्यं शीताग्नित्वमुदर्दः श्वेतावभासता श्वेतनेत्रमूत्रशकृत्त्वं च",
         "iast": "śleṣmavikārāstu tṛptistandrā nidrādhikyaṃ staimityaṃ gurugātratālasyaṃ mukhamādhuryaṃ prasekaḥ śleṣmodgiraṇaṃ malādhikyaṃ balāso hṛdayopalepaḥ kaṇṭhopalepo dhamanīpraticayo galagaṇḍo 'tisthaulyaṃ śītāgnitvamudardaḥ śvetāvabhāsatā śvetanetramūtraśakṛttvaṃ ca",
         "iast_ru": "ш́леш̣мавика̄ра̄сту тр̣птистандра̄ нидра̄дхикйам̣ стаимитйам̣ гуруга̄трата̄ласйам̣ мукхама̄дхурйам̣ прасеках̣ ш́леш̣модгиран̣ам̣ мала̄дхикйам̣ бала̄со хр̣дайопалепах̣ кан̣т̣хопалепо дхаманӣпратичайо галаган̣д̣о 'тистхаулйам̣ ш́ӣта̄гнитвамудардах̣ ш́вета̄вабха̄сата̄ ш́ветанетрамӯтраш́акр̣ттвам̣ ча",
-        "text": "Расстройства же капхи — [это]: [ложная] сытость, дремота, избыточный сон, оцепенение, тяжесть тела, вялость, сладость во рту, [обильное] слюноотделение, отхаркивание капхи, избыток нечистот, скопление слизи, налёт на сердце, налёт на горле, скопление в артериях, зоб, чрезмерная полнота, холодность огня [пищеварения], крапивница, белесоватость, белизна глаз, мочи и кала."
+        "text": "Расстройства же капхи — [это]: [ложная] сытость, дремота, избыточный сон, оцепенение, тяжесть тела, вялость, сладость во рту, [обильное] слюноотделение, отхаркивание капхи, избыток нечистот, скопление слизи, налёт на сердце, налёт на горле, скопление в артериях, зоб, чрезмерная полнота, холодность огня [пищеварения], крапивница, белесоватость, белизна глаз, мочи и кала.",
+        "text_en": "The disorders of Kapha are: [false] satiety, drowsiness, excessive sleep, numbness, heaviness of the body, lethargy, sweetness in the mouth, [copious] salivation, expectoration of Kapha, excess of impurities, accumulation of mucus, coating on the heart, coating on the throat, accumulation in the arteries, goiter, excessive obesity, coldness of the fire [of digestion], urticaria, whitish discoloration, whiteness of the eyes, urine and feces."
       },
       {
         "type": "verse",
@@ -12735,7 +12776,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र सर्वाङ्गीणस्तीव्रः सन्तापो दाहः स्वेदारतिमानोषः प्रादेशिकः स्वेदरहितो ऽग्न्यर्चिषेव दाहः प्लोषः मुखोष्ठतालुषु दाहो दवः चक्षुरादीन्द्रियेषु दाहो दवथुः पाणिपादांसमूलेषु विविधः सन्तापो विदाहः कोष्ठे दाहो ऽन्तर्दाहः शिरोग्रीवाकण्ठतालुषु धूमायनं धूमकः सान्तर्दाहहृदयशूलोद्गारो ऽम्लकः शोणितस्य कृष्णतादौर्गन्ध्यतनुत्वानि क्लेदः मांसस्य तु कृष्णता दैर्गन्ध्यं च बाह्यत्वक्संहतिश्चर्मकोथः कोष्ठगौरवादाहारास्पृहा तृप्तिः अन्ये पुनराहुरन्नानभिनन्दता तृप्तिरिव तृप्तिररोचकः निद्रार्त्तस्येव विषयाग्रहणं तन्द्रा स्तैमित्यं तु प्रमीलक इत्यन्यैः पठितम् उपलेप इवोपलेपः तदतिशयः प्रतिचयो ऽतिपूरणम् अग्नेरतिमन्दता शैल्यम् उरसो ऽभिष्यन्द उदर्दः केषाञ्चिच्छीतवेपथुरुदर्दः अन्ये पुनराहुः",
         "iast": "tatra sarvāṅgīṇastīvraḥ santāpo dāhaḥ svedāratimānoṣaḥ prādeśikaḥ svedarahito 'gnyarciṣeva dāhaḥ ploṣaḥ mukhoṣṭhatāluṣu dāho davaḥ cakṣurādīndriyeṣu dāho davathuḥ pāṇipādāṃsamūleṣu vividhaḥ santāpo vidāhaḥ koṣṭhe dāho 'ntardāhaḥ śirogrīvākaṇṭhatāluṣu dhūmāyanaṃ dhūmakaḥ sāntardāhahṛdayaśūlodgāro 'mlakaḥ śoṇitasya kṛṣṇatādaurgandhyatanutvāni kledaḥ māṃsasya tu kṛṣṇatā dairgandhyaṃ ca bāhyatvaksaṃhatiścarmakothaḥ koṣṭhagauravādāhārāspṛhā tṛptiḥ anye punarāhurannānabhinandatā tṛptiriva tṛptirarocakaḥ nidrārttasyeva viṣayāgrahaṇaṃ tandrā staimityaṃ tu pramīlaka ityanyaiḥ paṭhitam upalepa ivopalepaḥ tadatiśayaḥ praticayo 'tipūraṇam agneratimandatā śailyam uraso 'bhiṣyanda udardaḥ keṣāñcicchītavepathurudardaḥ anye punarāhuḥ",
         "iast_ru": "татра сарва̄н̇гӣн̣астӣврах̣ санта̄по да̄хах̣ сведа̄ратима̄нош̣ах̣ пра̄деш́иках̣ сведарахито 'гнйарчиш̣ева да̄хах̣ плош̣ах̣ мукхош̣т̣хата̄луш̣у да̄хо давах̣ чакш̣ура̄дӣндрийеш̣у да̄хо даватхух̣ па̄н̣ипа̄да̄м̣самӯлеш̣у вивидхах̣ санта̄по вида̄хах̣ кош̣т̣хе да̄хо 'нтарда̄хах̣ ш́ирогрӣва̄кан̣т̣хата̄луш̣у дхӯма̄йанам̣ дхӯмаках̣ са̄нтарда̄хахр̣дайаш́ӯлодга̄ро 'млаках̣ ш́он̣итасйа кр̣ш̣н̣ата̄даургандхйатанутва̄ни кледах̣ ма̄м̣сасйа ту кр̣ш̣н̣ата̄ даиргандхйам̣ ча ба̄хйатваксам̣хатиш́чармакотхах̣ кош̣т̣хагаурава̄да̄ха̄ра̄спр̣ха̄ тр̣птих̣ анйе пунара̄хуранна̄набхинандата̄ тр̣птирива тр̣птирарочаках̣ нидра̄рттасйева виш̣айа̄грахан̣ам̣ тандра̄ стаимитйам̣ ту прамӣлака итйанйаих̣ пат̣хитам упалепа ивопалепах̣ тадатиш́айах̣ пратичайо 'типӯран̣ам агнератимандата̄ ш́аилйам урасо 'бхиш̣йанда удардах̣ кеш̣а̄н̃чиччхӣтавепатхурудардах̣ анйе пунара̄хух̣",
-        "text": "Из них «сантапа» — сильный жар по всему телу; «даха» — жжение с потливостью и беспокойством; «оша» — местное [жжение] без потливости; «плоша» — жжение, подобное языку пламени; «дава» — жжение во рту, губах, нёбе; «даватху» — жжение в глазах и других органах чувств; «видаха» — разнообразный жар в кистях, стопах, у корня плеча; «антардаха» — жжение в желудке; «дхумака» — [ощущение] дымки в голове, шее, горле, нёбе; «амлака» — отрыжка с внутренним жжением и болью в сердце; увлажнение крови [проявляется] в потемнении, зловонии и истончении крови; увлажнение мяса же — в потемнении и зловонии мяса; «чармакотха» — сплочённость наружной кожи; «тришна» — [это ощущение] от тяжести в желудке и отсутствия желания есть; иные же говорят, что «тришна» — [это] неприятие пищи, подобное [истинной] сытости; «арочака» — отсутствие аппетита; «тандра» — неспособность воспринимать [чувственные] объекты, подобная состоянию страдающего от сна; «стаймитья» же названо другими «прамилака» (сонливость); «упалепа» — подобен [обычному] налёту; чрезмерный же [налёт] — «пратичая», [то есть] чрезмерное заполнение; чрезмерная слабость огня — «шайтья»; катар груди — «ударда»; для некоторых же «ударда» — холодная дрожь; иные же говорят [следующее]:"
+        "text": "Из них «сантапа» — сильный жар по всему телу; «даха» — жжение с потливостью и беспокойством; «оша» — местное [жжение] без потливости; «плоша» — жжение, подобное языку пламени; «дава» — жжение во рту, губах, нёбе; «даватху» — жжение в глазах и других органах чувств; «видаха» — разнообразный жар в кистях, стопах, у корня плеча; «антардаха» — жжение в желудке; «дхумака» — [ощущение] дымки в голове, шее, горле, нёбе; «амлака» — отрыжка с внутренним жжением и болью в сердце; увлажнение крови [проявляется] в потемнении, зловонии и истончении крови; увлажнение мяса же — в потемнении и зловонии мяса; «чармакотха» — сплочённость наружной кожи; «тришна» — [это ощущение] от тяжести в желудке и отсутствия желания есть; иные же говорят, что «тришна» — [это] неприятие пищи, подобное [истинной] сытости; «арочака» — отсутствие аппетита; «тандра» — неспособность воспринимать [чувственные] объекты, подобная состоянию страдающего от сна; «стаймитья» же названо другими «прамилака» (сонливость); «упалепа» — подобен [обычному] налёту; чрезмерный же [налёт] — «пратичая», [то есть] чрезмерное заполнение; чрезмерная слабость огня — «шайтья»; катар груди — «ударда»; для некоторых же «ударда» — холодная дрожь; иные же говорят [следующее]:",
+        "text_en": "Of these, 'santapa' is intense heat throughout the body; 'daha' is burning with sweating and restlessness; 'osha' is local [burning] without sweating; 'plosha' is burning like a tongue of flame; 'dava' is burning in the mouth, lips and palate; 'davathu' is burning in the eyes and other sense organs; 'vidaha' is various [kinds of] heat in the hands, feet and at the root of the shoulder; 'antardaha' is burning in the stomach; 'dhumaka' is a [sensation of] haze in the head, neck, throat and palate; 'amlaka' is belching with internal burning and pain in the heart; moistening of the blood [manifests] in darkening, foul smell and thinning of the blood; moistening of the flesh, in darkening and foul smell of the flesh; 'charmakotha' is the compactness of the outer skin; 'trishna' is [the sensation] arising from heaviness in the stomach and absence of desire to eat; others, however, say that 'trishna' is the rejection of food similar to [true] satiety; 'arochaka' is loss of appetite; 'tandra' is the inability to perceive [sense] objects, similar to the state of one afflicted by sleep; 'staimitya' is called by others 'pramilaka' (drowsiness); 'upalepa' is like [an ordinary] coating; the excessive [coating] is 'pratichaya', [that is] excessive filling; excessive weakness of the fire is 'shaitya'; catarrh of the chest is 'udarda'; for some, however, 'udarda' is a cold shivering; others say [the following]:"
       },
       {
         "type": "verse",
@@ -12743,7 +12785,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीतपानीयसंस्पर्शाच्छीतकाले विशेषतः सरागकण्डूः शोफः स्यादुदर्दः स कफोद्भव इति",
         "iast": "śītapānīyasaṃsparśācchītakāle viśeṣataḥ sarāgakaṇḍūḥ śophaḥ syādudardaḥ sa kaphodbhava iti",
         "iast_ru": "ш́ӣтапа̄нӣйасам̣спарш́а̄ччхӣтака̄ле виш́еш̣атах̣ сара̄гакан̣д̣ӯх̣ ш́опхах̣ сйа̄дудардах̣ са капходбхава ити",
-        "text": "«Ударда» — [это] отёк с покраснением и зудом, возникающий от соприкосновения с холодной водой, особенно в холодное время; он происходит от капхи."
+        "text": "«Ударда» — [это] отёк с покраснением и зудом, возникающий от соприкосновения с холодной водой, особенно в холодное время; он происходит от капхи.",
+        "text_en": "'Udarda' is a swelling with redness and itching, arising from contact with cold water, especially in the cold season; it is caused by Kapha."
       },
       {
         "type": "verse",
@@ -12751,7 +12794,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "महाविकारास्तु यथास्वमेवोपदेक्ष्यन्ते क्षुद्रविकाराः पुनर्यदेवाङ्गमाविशन्ति तदुपपदमेव नाम लभन्ते यथा नखशङ्खललाटभेदाः सान्तर्दाहकण्ठहृदयोपलेपादयः तेषां हि तथैव स्वरूपमुपदिष्टं भवति",
         "iast": "mahāvikārāstu yathāsvamevopadekṣyante kṣudravikārāḥ punaryadevāṅgamāviśanti tadupapadameva nāma labhante yathā nakhaśaṅkhalalāṭabhedāḥ sāntardāhakaṇṭhahṛdayopalepādayaḥ teṣāṃ hi tathaiva svarūpamupadiṣṭaṃ bhavati",
         "iast_ru": "маха̄вика̄ра̄сту йатха̄свамевопадекш̣йанте кш̣удравика̄ра̄х̣ пунарйадева̄н̇гама̄виш́анти тадупападамева на̄ма лабханте йатха̄ накхаш́ан̇кхалала̄т̣абхеда̄х̣ са̄нтарда̄хакан̣т̣хахр̣дайопалепа̄дайах̣ теш̣а̄м̣ хи татхаива сварӯпамупадиш̣т̣ам̣ бхавати",
-        "text": "Великие же болезни будут изложены соответственно [далее, отдельно]; малые же расстройства получают именно то название, [которое соответствует] той части тела, в которую они проникают, — например, «расщепление ногтя», «расщепление виска», «расщепление лба»; «внутреннее жжение с [налётом] горла и сердца» и подобное; ибо их природа именно так и была изложена."
+        "text": "Великие же болезни будут изложены соответственно [далее, отдельно]; малые же расстройства получают именно то название, [которое соответствует] той части тела, в которую они проникают, — например, «расщепление ногтя», «расщепление виска», «расщепление лба»; «внутреннее жжение с [налётом] горла и сердца» и подобное; ибо их природа именно так и была изложена.",
+        "text_en": "The great diseases will be described accordingly [later, separately]; the minor disorders, however, receive precisely that name [which corresponds to] the part of the body into which they penetrate, for example 'splitting of the nail', 'splitting of the temple', 'splitting of the forehead'; 'internal burning with [coating] of the throat and heart' and the like; for their nature was set forth in just this way."
       },
       {
         "type": "verse",
@@ -12759,7 +12803,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्वेषु तेषु तेष्वनुक्तेषु चान्येष्वसङ्ख्येयत्वाद्विकारेष्विमान्येव दोषाणामात्मलिङ्गानि सकलशरीरव्यापीन्यव्यभिवारीणि च तथा कर्माण्युपक्रमश्च तत्रात्मलिङ्गान्यायुष्कामीये निर्दिष्टानि",
         "iast": "sarveṣu teṣu teṣvanukteṣu cānyeṣvasaṅkhyeyatvādvikāreṣvimānyeva doṣāṇāmātmaliṅgāni sakalaśarīravyāpīnyavyabhivārīṇi ca tathā karmāṇyupakramaśca tatrātmaliṅgānyāyuṣkāmīye nirdiṣṭāni",
         "iast_ru": "сарвеш̣у теш̣у теш̣вануктеш̣у ча̄нйеш̣васан̇кхйейатва̄двика̄реш̣вима̄нйева дош̣а̄н̣а̄ма̄тмалин̇га̄ни сакалаш́арӣравйа̄пӣнйавйабхива̄рӣн̣и ча татха̄ карма̄н̣йупакрамаш́ча татра̄тмалин̇га̄нйа̄йуш̣ка̄мӣйе нирдиш̣т̣а̄ни",
-        "text": "Во всех этих, а также в неупомянутых и других расстройствах, из-за их неисчислимости, — именно эти собственные признаки дош, распространяющиеся по всему телу и неизменные, а также [их] функции и [соответствующее] лечение [остаются актуальными]. Собственные же признаки [дош] были указаны [ранее] в главе «Аюшкамия»."
+        "text": "Во всех этих, а также в неупомянутых и других расстройствах, из-за их неисчислимости, — именно эти собственные признаки дош, распространяющиеся по всему телу и неизменные, а также [их] функции и [соответствующее] лечение [остаются актуальными]. Собственные же признаки [дош] были указаны [ранее] в главе «Аюшкамия».",
+        "text_en": "In all these, as well as in the unmentioned and other disorders, because of their countlessness, precisely these own signs of the doshas, spreading throughout the body and unchanging, as well as [their] functions and [the corresponding] treatment [remain applicable]. The own signs of the [doshas] were indicated [earlier] in the chapter 'Ayushkamiya'."
       },
       {
         "type": "verse",
@@ -12767,7 +12812,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कर्माणि तु वायोः स्रंसव्याससङ्गसाधेदतोदहर्षतर्षवर्त्ताङ्गमर्दकम्पव्यथवेष्टभङ्गशूलशोषस्वापपारुष्यसौषिर्यसङ्कोचस्पन्दनानि कषायरसत्वं श्यावारुणवर्णता च पित्तस्य दाहोष्मपाकस्वेदक्लेदकोथस्रावरागाः कट्वम्लरसत्वं शुक्लारुणवर्ज्यवर्णता च श्लेष्मणः कण्डूस्थैर्यगौरवोपदेहस्नेहशैत्यबन्धचिरकारित्वानि मधुरलवणरसत्वं श्वेतवर्णता चेति",
         "iast": "karmāṇi tu vāyoḥ sraṃsavyāsasaṅgasādhedatodaharṣatarṣavarttāṅgamardakampavyathaveṣṭabhaṅgaśūlaśoṣasvāpapāruṣyasauṣiryasaṅkocaspandanāni kaṣāyarasatvaṃ śyāvāruṇavarṇatā ca pittasya dāhoṣmapākasvedakledakothasrāvarāgāḥ kaṭvamlarasatvaṃ śuklāruṇavarjyavarṇatā ca śleṣmaṇaḥ kaṇḍūsthairyagauravopadehasnehaśaityabandhacirakāritvāni madhuralavaṇarasatvaṃ śvetavarṇatā ceti",
         "iast_ru": "карма̄н̣и ту ва̄йох̣ срам̣савйа̄сасан̇гаса̄дхедатодахарш̣атарш̣авартта̄н̇гамардакампавйатхавеш̣т̣абхан̇гаш́ӯлаш́ош̣асва̄папа̄руш̣йасауш̣ирйасан̇кочаспандана̄ни каш̣а̄йарасатвам̣ ш́йа̄ва̄рун̣аварн̣ата̄ ча питтасйа да̄хош̣мапа̄касведакледакотхасра̄вара̄га̄х̣ кат̣вамларасатвам̣ ш́укла̄рун̣аварджйаварн̣ата̄ ча ш́леш̣ман̣ах̣ кан̣д̣ӯстхаирйагауравопадехаснехаш́аитйабандхачирака̄ритва̄ни мадхуралаван̣арасатвам̣ ш́ветаварн̣ата̄ чети",
-        "text": "Функции же ветра — [это]: расслабление, разъединение, застой, судороги, колющая боль, [телесное] возбуждение, жажда, [образование] комков, ломота тела, дрожь, боль, скручивание, разрушение, боль, иссушение, онемение, грубость, пористость, сокращение, пульсация; вяжущий вкус и тёмно-красноватый цвет. [Функции] питты — жжение, жар, нагноение, потоотделение, увлажнение, гниение, выделение, покраснение; острый и кислый вкус; белый и красноватый цвет исключены [как признаки питты, они не характерны]. [Функции] капхи — зуд, устойчивость, тяжесть, налёт, маслянистость, холодность, связывание, медлительность действия; сладкий и солёный вкус; белый цвет."
+        "text": "Функции же ветра — [это]: расслабление, разъединение, застой, судороги, колющая боль, [телесное] возбуждение, жажда, [образование] комков, ломота тела, дрожь, боль, скручивание, разрушение, боль, иссушение, онемение, грубость, пористость, сокращение, пульсация; вяжущий вкус и тёмно-красноватый цвет. [Функции] питты — жжение, жар, нагноение, потоотделение, увлажнение, гниение, выделение, покраснение; острый и кислый вкус; белый и красноватый цвет исключены [как признаки питты, они не характерны]. [Функции] капхи — зуд, устойчивость, тяжесть, налёт, маслянистость, холодность, связывание, медлительность действия; сладкий и солёный вкус; белый цвет.",
+        "text_en": "The functions of Vata are: relaxation, disjunction, stagnation, convulsions, pricking pain, [bodily] agitation, thirst, [formation of] lumps, body ache, tremor, pain, twisting, destruction, pain, drying, numbness, roughness, porosity, contraction, throbbing; an astringent taste and a dark reddish color. [The functions] of Pitta are burning, heat, suppuration, perspiration, moistening, putrefaction, discharge, redness; a pungent and sour taste; white and reddish colors are excluded [as signs of Pitta; they are not characteristic]. [The functions] of Kapha are itching, stability, heaviness, coating, unctuousness, coldness, binding, slowness of action; a sweet and salty taste; a white color."
       },
       {
         "type": "verse",
@@ -12775,7 +12821,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कपिलबलस्त्वेषां स्वलक्षणानि रसतो निर्दिदेश कट्वम्ललवणं पित्तं स्वाद्वम्ललवणः कफः कषायतिक्तकटुको वायुर्दृष्टो ऽनुमानतः",
         "iast": "kapilabalastveṣāṃ svalakṣaṇāni rasato nirdideśa kaṭvamlalavaṇaṃ pittaṃ svādvamlalavaṇaḥ kaphaḥ kaṣāyatiktakaṭuko vāyurdṛṣṭo 'numānataḥ",
         "iast_ru": "капилабаластвеш̣а̄м̣ свалакш̣ан̣а̄ни расато нирдидеш́а кат̣вамлалаван̣ам̣ питтам̣ сва̄двамлалаван̣ах̣ капхах̣ каш̣а̄йатиктакат̣уко ва̄йурдр̣ш̣т̣о 'нума̄натах̣",
-        "text": "Капилабала же указал собственные признаки этих [дош] по вкусу [непосредственного ощущения выделений]: питта — остро-кисло-солёная; капха — сладко-кисло-солёная; ватха, [как] установлено путём умозаключения, — вяжуще-горько-острая."
+        "text": "Капилабала же указал собственные признаки этих [дош] по вкусу [непосредственного ощущения выделений]: питта — остро-кисло-солёная; капха — сладко-кисло-солёная; ватха, [как] установлено путём умозаключения, — вяжуще-горько-острая.",
+        "text_en": "Kapilabala, however, indicated the own signs of these [doshas] by taste [of direct perception of the secretions]: Pitta is pungent-sour-salty; Kapha is sweet-sour-salty; Vata, [as] established by inference, is astringent-bitter-pungent."
       },
       {
         "type": "verse",
@@ -12783,7 +12830,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुश्रुतः पुनः पठति पित्तं विद्ग्धमम्लतामुपैति श्लेष्मा लवणताम् तदेवमेतानि वाय्वादिरूपकर्माण्यवहितः सम्यगुपलक्षयेदागमप्रत्यक्षानुमानैः अनन्तरं च देशकालमात्रादीन् प्रमाणीकृत्याश्वेवोपक्रमेतेति भवन्ति चात्र",
         "iast": "suśrutaḥ punaḥ paṭhati pittaṃ vidgdhamamlatāmupaiti śleṣmā lavaṇatām tadevametāni vāyvādirūpakarmāṇyavahitaḥ samyagupalakṣayedāgamapratyakṣānumānaiḥ anantaraṃ ca deśakālamātrādīn pramāṇīkṛtyāśvevopakrameteti bhavanti cātra",
         "iast_ru": "суш́рутах̣ пунах̣ пат̣хати питтам̣ видгдхамамлата̄мупаити ш́леш̣ма̄ лаван̣ата̄м тадевамета̄ни ва̄йва̄дирӯпакарма̄н̣йавахитах̣ самйагупалакш̣айеда̄гамапратйакш̣а̄нума̄наих̣ анантарам̣ ча деш́ака̄лама̄тра̄дӣн прама̄н̣ӣкр̣тйа̄ш́вевопакраметети бхаванти ча̄тра",
-        "text": "Сушрута же говорит: питта, будучи «сожжённой», приобретает кислотность; капха [приобретает] солёность. Итак, эти признаки формы и функции ветра и прочих [дош] следует внимательно и правильно определять посредством авторитетного свидетельства, непосредственного восприятия и умозаключения; и затем, установив [подобающие] место, время, дозу и подобное, следует немедленно приступать [к лечению]. И здесь есть [следующее]:"
+        "text": "Сушрута же говорит: питта, будучи «сожжённой», приобретает кислотность; капха [приобретает] солёность. Итак, эти признаки формы и функции ветра и прочих [дош] следует внимательно и правильно определять посредством авторитетного свидетельства, непосредственного восприятия и умозаключения; и затем, установив [подобающие] место, время, дозу и подобное, следует немедленно приступать [к лечению]. И здесь есть [следующее]:",
+        "text_en": "Sushruta, however, says: Pitta, being 'burnt', acquires sourness; Kapha [acquires] saltiness. Thus these signs of the form and function of Vata and the other [doshas] should be carefully and correctly determined through authoritative testimony, direct perception and inference; and then, having ascertained the [appropriate] place, time, dose and the like, one should proceed [to treatment] at once. And here there is [the following]:"
       },
       {
         "type": "verse",
@@ -12791,7 +12839,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वक्ष्यन्ते ऽतः परं दोषा वृद्धिक्षयविभेदतः पृथक् त्रीन् विद्धि संसर्गस्त्रिधा तत्र तु तान्नव",
         "iast": "vakṣyante 'taḥ paraṃ doṣā vṛddhikṣayavibhedataḥ pṛthak trīn viddhi saṃsargastridhā tatra tu tānnava",
         "iast_ru": "вакш̣йанте 'тах̣ парам̣ дош̣а̄ вр̣ддхикш̣айавибхедатах̣ пр̣тхак трӣн виддхи сам̣саргастридха̄ татра ту та̄ннава",
-        "text": "Далее будут изложены доши по отдельности, по различию увеличения и уменьшения; знай, что сочетание [двух дош] — трёх видов; из них [каждое] — девяти [подвидов]."
+        "text": "Далее будут изложены доши по отдельности, по различию увеличения и уменьшения; знай, что сочетание [двух дош] — трёх видов; из них [каждое] — девяти [подвидов].",
+        "text_en": "Next the doshas will be described separately, according to the distinction of increase and decrease; know that the combination [of two doshas] is of three kinds; of these, [each] is of nine [sub-kinds]."
       },
       {
         "type": "verse",
@@ -12799,7 +12848,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रीनेव समया वृद्ध्या षडेकस्यातिशायने त्रयोदश समस्तेषु षड् द्व्येकातिशयेन तु",
         "iast": "trīneva samayā vṛddhyā ṣaḍekasyātiśāyane trayodaśa samasteṣu ṣaḍ dvyekātiśayena tu",
         "iast_ru": "трӣнева самайа̄ вр̣ддхйа̄ ш̣ад̣екасйа̄тиш́а̄йане трайодаш́а самастеш̣у ш̣ад̣ двйека̄тиш́айена ту",
-        "text": "Именно три [возникают] при равном увеличении [обеих дош]; шесть — при преобладании одной [из них]; [итого] тринадцать при всех [комбинациях двух дош]; шесть — при преобладании одной из двух [при уменьшении]."
+        "text": "Именно три [возникают] при равном увеличении [обеих дош]; шесть — при преобладании одной [из них]; [итого] тринадцать при всех [комбинациях двух дош]; шесть — при преобладании одной из двух [при уменьшении].",
+        "text_en": "Precisely three [arise] with equal increase [of both doshas]; six with the predominance of one [of them]; [in total] thirteen in all [combinations of two doshas]; six with the predominance of one of the two [in decrease]."
       },
       {
         "type": "verse",
@@ -12807,7 +12857,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एकं तुल्याधिकैः षट् च तारतम्यविकल्पनात् पञ्चविंशतिरित्येवं वृद्धैः क्षीणैश्च तावतः",
         "iast": "ekaṃ tulyādhikaiḥ ṣaṭ ca tāratamyavikalpanāt pañcaviṃśatirityevaṃ vṛddhaiḥ kṣīṇaiśca tāvataḥ",
         "iast_ru": "екам̣ тулйа̄дхикаих̣ ш̣ат̣ ча та̄ратамйавикалпана̄т пан̃чавим̣ш́атиритйевам̣ вр̣ддхаих̣ кш̣ӣн̣аиш́ча та̄ватах̣",
-        "text": "Одно [сочетание при равном уменьшении обеих]; шесть — с [учётом] равного и преобладающего, по различию степени; так [получается всего] двадцать пять — для увеличенных, и столько же — для истощённых [дош]."
+        "text": "Одно [сочетание при равном уменьшении обеих]; шесть — с [учётом] равного и преобладающего, по различию степени; так [получается всего] двадцать пять — для увеличенных, и столько же — для истощённых [дош].",
+        "text_en": "One [combination in equal decrease of both]; six with [consideration of] the equal and the predominant, according to the distinction of degree; thus [there are in all] twenty-five for the increased, and as many for the depleted [doshas]."
       },
       {
         "type": "verse",
@@ -12815,7 +12866,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एकैकवृद्धिसमताक्षयैः षट् ते पुनश्च षट् एकक्षयद्वन्द्ववृद्ध्या सविपर्यययापि ते",
         "iast": "ekaikavṛddhisamatākṣayaiḥ ṣaṭ te punaśca ṣaṭ ekakṣayadvandvavṛddhyā saviparyayayāpi te",
         "iast_ru": "екаикавр̣ддхисамата̄кш̣айаих̣ ш̣ат̣ те пунаш́ча ш̣ат̣ екакш̣айадвандвавр̣ддхйа̄ савипарйайайа̄пи те",
-        "text": "Шесть [сочетаний] — от увеличения одной [доши] при равновесии или истощении [другой]; и снова шесть — от уменьшения одной при увеличении пары [других], а также при обратном [порядке]."
+        "text": "Шесть [сочетаний] — от увеличения одной [доши] при равновесии или истощении [другой]; и снова шесть — от уменьшения одной при увеличении пары [других], а также при обратном [порядке].",
+        "text_en": "Six [combinations] arise from the increase of one [dosha] with balance or depletion of [another]; and again six from the decrease of one with increase of a pair of [others], and also in the reverse [order]."
       },
       {
         "type": "verse",
@@ -12823,7 +12875,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भेदा द्विषाष्टिर्निर्दिष्टास्त्रिषष्टिः स्वाथ्यकारणम् रोग्यवस्थासु युगपद् वृद्धिसाम्यक्षयानुगम्",
         "iast": "bhedā dviṣāṣṭirnirdiṣṭāstriṣaṣṭiḥ svāthyakāraṇam rogyavasthāsu yugapad vṛddhisāmyakṣayānugam",
         "iast_ru": "бхеда̄ двиш̣а̄ш̣т̣ирнирдиш̣т̣а̄стриш̣аш̣т̣их̣ сва̄тхйака̄ран̣ам рогйавастха̄су йугапад вр̣ддхиса̄мйакш̣айа̄нугам",
-        "text": "Указаны шестьдесят два различия; шестьдесят третье — причина здоровья [равновесие всех трёх дош одновременно]; [прочие] соответствуют состояниям больного при одновременном увеличении, равновесии или уменьшении [различных дош в сочетаниях]."
+        "text": "Указаны шестьдесят два различия; шестьдесят третье — причина здоровья [равновесие всех трёх дош одновременно]; [прочие] соответствуют состояниям больного при одновременном увеличении, равновесии или уменьшении [различных дош в сочетаниях].",
+        "text_en": "Sixty-two distinctions are indicated; the sixty-third is the cause of health [the balance of all three doshas simultaneously]; [the others] correspond to the states of the patient in simultaneous increase, balance or decrease [of various doshas in combinations]."
       },
       {
         "type": "verse",
@@ -12831,7 +12884,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षट्कं हि दुर्बोधतरं विकारैरुपदेक्ष्यते प्रकृतिस्थं यदा पित्तं वृद्धो वायुः कफक्षये स्थानादादाय गात्रेषु यत्र यत्र विसर्पति",
         "iast": "ṣaṭkaṃ hi durbodhataraṃ vikārairupadekṣyate prakṛtisthaṃ yadā pittaṃ vṛddho vāyuḥ kaphakṣaye sthānādādāya gātreṣu yatra yatra visarpati",
         "iast_ru": "ш̣ат̣кам̣ хи дурбодхатарам̣ вика̄раирупадекш̣йате пракр̣тистхам̣ йада̄ питтам̣ вр̣ддхо ва̄йух̣ капхакш̣айе стха̄на̄да̄да̄йа га̄треш̣у йатра йатра висарпати",
-        "text": "Шесть же [сочетаний], наиболее труднопостижимых, будут разъяснены через [их характерные] расстройства. Когда питта пребывает в [своей] естественной норме, а ветер увеличен при истощении капхи, — [ветер], взяв [дошу] из [своего] места, распространяется по членам тела туда и сюда,"
+        "text": "Шесть же [сочетаний], наиболее труднопостижимых, будут разъяснены через [их характерные] расстройства. Когда питта пребывает в [своей] естественной норме, а ветер увеличен при истощении капхи, — [ветер], взяв [дошу] из [своего] места, распространяется по членам тела туда и сюда,",
+        "text_en": "The six [combinations] that are most difficult to comprehend will be explained through [their characteristic] disorders. When Pitta is in [its] natural state, and Vata is increased with depletion of Kapha, [Vata], having taken [the dosha] from [its] site, spreads through the limbs of the body here and there,"
       },
       {
         "type": "verse",
@@ -12839,7 +12893,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तदा भेदश्च दाहश्च तत्र तत्रानवस्थितौ गात्रोद्देशे तथा स्यातां बलहानिपरिश्रमौ",
         "iast": "tadā bhedaśca dāhaśca tatra tatrānavasthitau gātroddeśe tathā syātāṃ balahānipariśramau",
         "iast_ru": "тада̄ бхедаш́ча да̄хаш́ча татра татра̄навастхитау га̄троддеш́е татха̄ сйа̄та̄м̣ балаха̄нипариш́рамау",
-        "text": "тогда в той или иной неустойчивой части тела возникают колющая боль и жжение, а также упадок силы и утомление."
+        "text": "тогда в той или иной неустойчивой части тела возникают колющая боль и жжение, а также упадок силы и утомление.",
+        "text_en": "then in one or another unstable part of the body there arise pricking pain and burning, as well as loss of strength and fatigue."
       },
       {
         "type": "verse",
@@ -12847,7 +12902,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रकुतिस्थं कफं क्षीणे पित्ते वायुर्यदा बली कर्षेत् कुर्यात् तदा शूलं सशैत्यस्तम्भगौरवम्",
         "iast": "prakutisthaṃ kaphaṃ kṣīṇe pitte vāyuryadā balī karṣet kuryāt tadā śūlaṃ saśaityastambhagauravam",
         "iast_ru": "пракутистхам̣ капхам̣ кш̣ӣн̣е питте ва̄йурйада̄ балӣ карш̣ет курйа̄т тада̄ ш́ӯлам̣ саш́аитйастамбхагауравам",
-        "text": "Когда капха пребывает в норме, а при истощённой питте сильный ветер увлекает [капху], — тогда он вызывает боль с холодностью, оцепенением и тяжестью."
+        "text": "Когда капха пребывает в норме, а при истощённой питте сильный ветер увлекает [капху], — тогда он вызывает боль с холодностью, оцепенением и тяжестью.",
+        "text_en": "When Kapha is in its normal state, and with depleted Pitta a strong Vata carries [Kapha] away, then it produces pain with coldness, numbness and heaviness."
       },
       {
         "type": "verse",
@@ -12855,7 +12911,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रकृतिस्थं यदा वातं पित्तं वृद्धं कफक्षये संरुणद्धि तदा दाहः शूलं चास्योपजायते",
         "iast": "prakṛtisthaṃ yadā vātaṃ pittaṃ vṛddhaṃ kaphakṣaye saṃruṇaddhi tadā dāhaḥ śūlaṃ cāsyopajāyate",
         "iast_ru": "пракр̣тистхам̣ йада̄ ва̄там̣ питтам̣ вр̣ддхам̣ капхакш̣айе сам̣рун̣аддхи тада̄ да̄хах̣ ш́ӯлам̣ ча̄сйопаджа̄йате",
-        "text": "Когда ватха пребывает в норме, а увеличенная питта, при истощении капхи, сдерживает [ватху], — тогда возникает жжение и боль."
+        "text": "Когда ватха пребывает в норме, а увеличенная питта, при истощении капхи, сдерживает [ватху], — тогда возникает жжение и боль.",
+        "text_en": "When Vata is in its normal state, and increased Pitta, with depletion of Kapha, obstructs [Vata], then burning and pain arise."
       },
       {
         "type": "verse",
@@ -12863,7 +12920,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रकृतिस्थं कफं वृद्धं पित्तं वायुक्षये यदा सन्निरुन्ध्यात्तदा कुर्यात् सतन्द्रागौरव ज्वरम्",
         "iast": "prakṛtisthaṃ kaphaṃ vṛddhaṃ pittaṃ vāyukṣaye yadā sannirundhyāttadā kuryāt satandrāgaurava jvaram",
         "iast_ru": "пракр̣тистхам̣ капхам̣ вр̣ддхам̣ питтам̣ ва̄йукш̣айе йада̄ саннирундхйа̄ттада̄ курйа̄т сатандра̄гаурава джварам",
-        "text": "Когда капха пребывает в норме, а увеличенная питта, при истощении ветра, сдерживает [капху], — тогда возникает лихорадка с дремотой и тяжестью."
+        "text": "Когда капха пребывает в норме, а увеличенная питта, при истощении ветра, сдерживает [капху], — тогда возникает лихорадка с дремотой и тяжестью.",
+        "text_en": "When Kapha is in its normal state, and increased Pitta, with depletion of Vata, obstructs [Kapha], then fever arises with drowsiness and heaviness."
       },
       {
         "type": "verse",
@@ -12871,7 +12929,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रकृतिस्थं यदा वायुं वृद्धः पित्तक्षये कफः सन्निरुन्ध्यात्तदा कुर्याच्छीतकं गौरवं ज्वरम्",
         "iast": "prakṛtisthaṃ yadā vāyuṃ vṛddhaḥ pittakṣaye kaphaḥ sannirundhyāttadā kuryācchītakaṃ gauravaṃ jvaram",
         "iast_ru": "пракр̣тистхам̣ йада̄ ва̄йум̣ вр̣ддхах̣ питтакш̣айе капхах̣ саннирундхйа̄ттада̄ курйа̄ччхӣтакам̣ гауравам̣ джварам",
-        "text": "Когда ветер пребывает в норме, а увеличенная капха, при истощении питты, сдерживает [ветер], — тогда возникает озноб, тяжесть [и] лихорадка."
+        "text": "Когда ветер пребывает в норме, а увеличенная капха, при истощении питты, сдерживает [ветер], — тогда возникает озноб, тяжесть [и] лихорадка.",
+        "text_en": "When Vata is in its normal state, and increased Kapha, with depletion of Pitta, obstructs [Vata], then chill, heaviness [and] fever arise."
       },
       {
         "type": "verse",
@@ -12879,7 +12938,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रकृतिस्थं यदा पित्तं वृद्धः श्लेष्मानिलक्षये सन्निरुन्ध्यात्तदा कुर्यान्मन्दाग्नित्वं शिरोग्रहम्",
         "iast": "prakṛtisthaṃ yadā pittaṃ vṛddhaḥ śleṣmānilakṣaye sannirundhyāttadā kuryānmandāgnitvaṃ śirograham",
         "iast_ru": "пракр̣тистхам̣ йада̄ питтам̣ вр̣ддхах̣ ш́леш̣ма̄нилакш̣айе саннирундхйа̄ттада̄ курйа̄нманда̄гнитвам̣ ш́ирограхам",
-        "text": "Когда питта пребывает в норме, а увеличенная капха, при истощении ветра, сдерживает [питту], — тогда возникает слабость огня и скованность головы,"
+        "text": "Когда питта пребывает в норме, а увеличенная капха, при истощении ветра, сдерживает [питту], — тогда возникает слабость огня и скованность головы,",
+        "text_en": "When Pitta is in its normal state, and increased Kapha, with depletion of Vata, obstructs [Pitta], then weakness of the fire and stiffness of the head arise,"
       },
       {
         "type": "verse",
@@ -12887,7 +12947,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निद्रातन्द्रोपलेपांश्च हृद्रोगं गात्रगौरवम् ष्ठीवनं पित्तकफयोर्नखादीनां च पीतताम्",
         "iast": "nidrātandropalepāṃśca hṛdrogaṃ gātragauravam ṣṭhīvanaṃ pittakaphayornakhādīnāṃ ca pītatām",
         "iast_ru": "нидра̄тандропалепа̄м̣ш́ча хр̣дрогам̣ га̄трагауравам ш̣т̣хӣванам̣ питтакапхайорнакха̄дӣна̄м̣ ча пӣтата̄м",
-        "text": "сонливость, дремоту, налёты, болезнь сердца, тяжесть тела, отхаркивание [смеси] питты и капхи, а также желтизну ногтей и подобного."
+        "text": "сонливость, дремоту, налёты, болезнь сердца, тяжесть тела, отхаркивание [смеси] питты и капхи, а также желтизну ногтей и подобного.",
+        "text_en": "sleepiness, drowsiness, coatings, heart disease, heaviness of the body, expectoration of [a mixture of] Pitta and Kapha, and also yellowness of the nails and the like."
       },
       {
         "type": "verse",
@@ -12895,7 +12956,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ये दोषवृद्धिक्षययोर्विकाराः कीर्तिताः पृथक् शेषेष्वपि तु तानेव कल्पयेत्तद्यथायथम्",
         "iast": "ye doṣavṛddhikṣayayorvikārāḥ kīrtitāḥ pṛthak śeṣeṣvapi tu tāneva kalpayettadyathāyatham",
         "iast_ru": "йе дош̣авр̣ддхикш̣айайорвика̄ра̄х̣ кӣртита̄х̣ пр̣тхак ш́еш̣еш̣вапи ту та̄нева калпайеттадйатха̄йатхам",
-        "text": "Те расстройства, что были описаны отдельно для увеличения и уменьшения дош, — те же самые следует применять [по аналогии] и для остальных [сочетаний], соответственно каждому случаю."
+        "text": "Те расстройства, что были описаны отдельно для увеличения и уменьшения дош, — те же самые следует применять [по аналогии] и для остальных [сочетаний], соответственно каждому случаю.",
+        "text_en": "Those disorders that have been described separately for the increase and decrease of the doshas, the very same should be applied [by analogy] to the remaining [combinations], according to each case."
       },
       {
         "type": "verse",
@@ -12903,7 +12965,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "संसर्गाद्रसरुधिरादिभिस्तथैषां दोषाणां क्षयसमताविवृद्धिभेदैः आनन्त्यं तरतमयोगतश्च यातान् जानीयादवहितमानसो यथास्वम्",
         "iast": "saṃsargādrasarudhirādibhistathaiṣāṃ doṣāṇāṃ kṣayasamatāvivṛddhibhedaiḥ ānantyaṃ taratamayogataśca yātān jānīyādavahitamānaso yathāsvam",
         "iast_ru": "сам̣сарга̄драсарудхира̄дибхистатхаиш̣а̄м̣ дош̣а̄н̣а̄м̣ кш̣айасамата̄вивр̣ддхибхедаих̣ а̄нантйам̣ таратамайогаташ́ча йа̄та̄н джа̄нӣйа̄давахитама̄насо йатха̄свам",
-        "text": "От сочетания с соком, кровью и прочими [тканями], а также по различию истощения, равновесия и увеличения этих дош, [возникающая] бесконечность [вариантов, обусловленных] различной степенью соединения, — внимательный [врач] должен познавать [эти вариации] соответственно [каждому конкретному] случаю."
+        "text": "От сочетания с соком, кровью и прочими [тканями], а также по различию истощения, равновесия и увеличения этих дош, [возникающая] бесконечность [вариантов, обусловленных] различной степенью соединения, — внимательный [врач] должен познавать [эти вариации] соответственно [каждому конкретному] случаю.",
+        "text_en": "From the combination with rasa, blood and the other [tissues], and also from the distinctions of depletion, balance and increase of these doshas, the endless [variety of forms arising] from different degrees of combination, the attentive [physician] should know [these variations] in accordance with [each particular] case."
       }
     ]
   },
@@ -12925,7 +12988,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो दोषोपक्रमणीयमध्यायं व्याख्यास्याम इति हस्माहुरात्रेयो महर्षयः वातस्योपक्रमः स्नेहः स्वेदो मृदूनि स्निग्धोष्णमधुराम्ललवणानि संशोधनान्यभ्यवहार्याणि चाभ्यङ्गपूर्वमुपनाहनोपवेष्टनोन्मर्दनपरिषेकावगाहसंवाहन पीडनानि वित्रासनविध्मापनविस्मरणानि सुरासवविधानं स्नेहाश्चानेकयोनयो दीपनीयपाचनीयवातहरविरेचनीयद्रव्योपहितास्तथा शतपाकसहस्रपाकाः सर्वशः प्रयोगार्था बस्तयो बस्तिनियमो विशेषतस्तैलं मांसरसो ऽनुवासनानि सुखशीलता स्त्रीसम्पर्कवर्ज्यश्च हैमन्तो विधिः",
         "iast": "athāto doṣopakramaṇīyamadhyāyaṃ vyākhyāsyāma iti hasmāhurātreyo maharṣayaḥ vātasyopakramaḥ snehaḥ svedo mṛdūni snigdhoṣṇamadhurāmlalavaṇāni saṃśodhanānyabhyavahāryāṇi cābhyaṅgapūrvamupanāhanopaveṣṭanonmardanapariṣekāvagāhasaṃvāhana pīḍanāni vitrāsanavidhmāpanavismaraṇāni surāsavavidhānaṃ snehāścānekayonayo dīpanīyapācanīyavātaharavirecanīyadravyopahitāstathā śatapākasahasrapākāḥ sarvaśaḥ prayogārthā bastayo bastiniyamo viśeṣatastailaṃ māṃsaraso 'nuvāsanāni sukhaśīlatā strīsamparkavarjyaśca haimanto vidhiḥ",
         "iast_ru": "атха̄то дош̣опакраман̣ӣйамадхйа̄йам̣ вйа̄кхйа̄сйа̄ма ити хасма̄хура̄трейо махарш̣айах̣ ва̄тасйопакрамах̣ снехах̣ сведо мр̣дӯни снигдхош̣н̣амадхура̄млалаван̣а̄ни сам̣ш́одхана̄нйабхйаваха̄рйа̄н̣и ча̄бхйан̇гапӯрвамупана̄ханопавеш̣т̣анонмарданапариш̣ека̄вага̄хасам̣ва̄хана пӣд̣ана̄ни витра̄санавидхма̄панависмаран̣а̄ни сура̄сававидха̄нам̣ снеха̄ш́ча̄некайонайо дӣпанӣйапа̄чанӣйава̄тахаравиречанӣйадравйопахита̄статха̄ ш́атапа̄касахасрапа̄ка̄х̣ сарваш́ах̣ прайога̄ртха̄ бастайо бастинийамо виш́еш̣атастаилам̣ ма̄м̣сарасо 'нува̄сана̄ни сукхаш́ӣлата̄ стрӣсампаркаварджйаш́ча хаиманто видхих̣",
-        "text": "Итак, далее мы разъясним главу под названием «Дошопакраманийя» («О подходе к лечению дош») — так говорил великий риши Атрея. Лечение ветра [включает]: масляные процедуры, прогревание, мягкие, маслянистые, тёплые, сладкие, кислые и солёные [вещества]; очищающие [средства], принимаемые внутрь; умащение, а затем — согревающую повязку, обвязывание, растирание, обливание, погружение [в воду], массаж, надавливание; [также] испуг, [лечение] звуком, забвение; применение суры и асавы; масла разнообразного происхождения, соединённые с разжигающими, способствующими перевариванию, устраняющими ватху и слабительными веществами, [приготовленные] методом «шатапака» и «сахасрапака», — все они предназначены для применения; клизмы и правила их применения, особенно масло, мясной сок [для] маслянистых клизм; спокойный образ жизни, воздержание от близости с женщинами — таков зимний режим."
+        "text": "Итак, далее мы разъясним главу под названием «Дошопакраманийя» («О подходе к лечению дош») — так говорил великий риши Атрея. Лечение ветра [включает]: масляные процедуры, прогревание, мягкие, маслянистые, тёплые, сладкие, кислые и солёные [вещества]; очищающие [средства], принимаемые внутрь; умащение, а затем — согревающую повязку, обвязывание, растирание, обливание, погружение [в воду], массаж, надавливание; [также] испуг, [лечение] звуком, забвение; применение суры и асавы; масла разнообразного происхождения, соединённые с разжигающими, способствующими перевариванию, устраняющими ватху и слабительными веществами, [приготовленные] методом «шатапака» и «сахасрапака», — все они предназначены для применения; клизмы и правила их применения, особенно масло, мясной сок [для] маслянистых клизм; спокойный образ жизни, воздержание от близости с женщинами — таков зимний режим.",
+        "text_en": "Now we shall expound the chapter named 'Doshopakramaniya' ('On the Approach to the Treatment of the Doshas'), as the great sage Atreya declared. The treatment of Vata [includes]: oleation, fomentation, soft, unctuous, warm, sweet, sour and salty [substances]; cleansing [measures] taken internally; anointing, and then a warm poultice, bandaging, rubbing, affusion, immersion [in water], massage, pressure; [also] fright, [treatment by] sound, forgetfulness; the use of sura and asava; oils of various origin, combined with appetizing, digestive, Vata-relieving and laxative substances, [prepared] by the 'shatapaka' and 'sahasrapaka' methods, all of these are meant for use; enemas and the rules for their use, especially oil and meat juice [for] unctuous enemas; a quiet way of life, abstention from intercourse with women; such is the winter regimen."
       },
       {
         "type": "verse",
@@ -12933,7 +12997,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तस्य सर्पिष्पानं सर्पिषा स्नेहनमधोदोषहरणं मधुरतिक्तकषायाणामौषधाभ्यवहार्याणामुपयोगो मृदुसुरभिशीतहृद्यानां गन्धानामुपसेवा परमशिशिरसुरभिसलिलमज्जनम् मनो ऽनुकूलसंस्पर्शसुखानां मुक्तामणिवैडूर्याश्मगर्भशङ्खशिलापद्मरागचन्द्रकान्तकान्ततरतरलावलीनां भ्रमरत्रासितसहस्रपत्रासितोत्पल कदलीदलनवमालिकाकुन्दमल्लिकादिविविधवर्णप्रसूनविरचितानां स्रजां च धारणमुरसा क्षणे क्षणे चाग्र्यचन्दनप्रियङ्गुकालेयकमृणालकर्पूरसुगन्धिशीतस्वच्छगन्धवारिभिः सकमलकुमुदकुवलयैर्भूमितलकवाटवातायनहर्म्यभित्तीनामभिप्रोक्षणम् श्रुतिसुखमृदुमधुरमनो ऽनुगानां गीतवादित्राणामभ्युदयानां च श्रवणम् अयन्त्रणैः समानविषयवेषचरितैरुत्सवोत्सवतरान्योन्यदर्शनैः सुहृद्भिः सहासनम् अनृतवचनविरहस्वभावसुरभितरवदनकुड्मलानां नातिस्पष्टाभिधायिनामनुपचारमधुरकोमलोल्लापानां प्रियाणामपत्यकानां सदयमाश्लेषः निर्दयं च तनुतरमृदुसुरभिनिवसनाभिर्मल्लिकामुकुलानुकारिमुक्ताफलप्रायालङ्काराभिः सहचरीनिनादसञ्जल्पोपजनितौत्सुक्यकलहंसानुनादितनूपुररशनाकलापशिञ्जितानुगमनसम्मुग्धमुग्धस्निग्धमृदुवचनाभिर्निजजघननिबिडकुचयुगलालङ्कारभारोद्वहनश्रमश्वसनकम्पितमध्यमुकुलितलोचनोत्पलाभिः किञ्चिद्विगलितनवयौवनाभिः प्रियङ्गसङ्गमात्रातिमात्रसुखास्वादविस्रंस्यमानांशुकैककालोपजातव्रीडावैलक्ष्यप्रगल्भतावैक्लव्यहर्षविषादविस्मयस्मितकोपप्रसादसाध्वसस्रस्तस्विन्नसर्वाङ्गद्रवीकृतहिमाङ्गरागाभिः समस्तदेहहृदयप्रह्लादकारिणीभिर्विलासवतीभिश्चतुरङ्गमिवानङ्गबलमङ्गैस्तनुभिरपि समुद्वहन्तीभिरङ्गनाभिराश्लेषः सकलरजनीकरकरनिकरावकीर्णशिशिरतराणि भवनतलसलिलपुलिनानि अतिसितसिकतोपास्तृततलमनोककाययन्त्रप्रवृत्तीवमलसलिलधारं धारागृहम् सागरानुकारितोयाशयोपतीरसुनिविष्टकुसुमितबहुविटपपृथुतुङ्गविविधतरतटरुहतरुनिवहबहलच्छायोपसञ्छन्नं घवलरक्तनीलनीरजरजोव्याप्तसमस्तजलविपुलसिकतिलतलोपकल्पितं दोलायमानगणतिथपृथुदृतिकलशसरणकरकस्रवदुदकप्रवाहाहितमृत्सौरभभूतलैकदेशं प्रलम्बमानाम्रजम्बूकदम्बविदुलनिचुलादिकिसलयमञ्जरीस्तबकप्रत्युप्तपटालिकं मुहुर्मुहुः पुरुषप्रयत्नप्रेरितघटमुखोद्गीर्णोशीरचन्दनानुविद्धावलग्नपतितशेष मुक्ताफलायमानजललवमुछ्रायविस्तारवदनिषिद्धदूरविस्तृतशीतवातप्रवेशमत्यर्थसन्तताम्बुशीतशीकराभिषेकप्रतिहतसन्तापदाहमोहश्रमक्लमपिपासमतिशयप्राप्तरामणीयकं हिमाचलस्पर्द्धिशैत्यमम्बुधरकाललीलाविडम्बि कायमानम् प्रफुल्लपद्मोत्पलपुण्डरीकसौगन्धिककोकनदशतपत्रपरागरागानुरञ्जितजलचरविहगगणकलनिनदरम्या दीर्घिकाः मधुपानलोभनिलीयमानालिकुलचलितलताप्रताननिपतितविविधकुसुमनिचयशयनरचनासव्यापारमृदुपवनान्युपवनानि विशेषतस्तु घृतं पयो विरेचनानि सौम्याः सर्वे भावाः दिवास्वप्नवर्ज्यश्च ग्रैष्मो विधिः",
         "iast": "pittasya sarpiṣpānaṃ sarpiṣā snehanamadhodoṣaharaṇaṃ madhuratiktakaṣāyāṇāmauṣadhābhyavahāryāṇāmupayogo mṛdusurabhiśītahṛdyānāṃ gandhānāmupasevā paramaśiśirasurabhisalilamajjanam mano 'nukūlasaṃsparśasukhānāṃ muktāmaṇivaiḍūryāśmagarbhaśaṅkhaśilāpadmarāgacandrakāntakāntatarataralāvalīnāṃ bhramaratrāsitasahasrapatrāsitotpala kadalīdalanavamālikākundamallikādivividhavarṇaprasūnaviracitānāṃ srajāṃ ca dhāraṇamurasā kṣaṇe kṣaṇe cāgryacandanapriyaṅgukāleyakamṛṇālakarpūrasugandhiśītasvacchagandhavāribhiḥ sakamalakumudakuvalayairbhūmitalakavāṭavātāyanaharmyabhittīnāmabhiprokṣaṇam śrutisukhamṛdumadhuramano 'nugānāṃ gītavāditrāṇāmabhyudayānāṃ ca śravaṇam ayantraṇaiḥ samānaviṣayaveṣacaritairutsavotsavatarānyonyadarśanaiḥ suhṛdbhiḥ sahāsanam anṛtavacanavirahasvabhāvasurabhitaravadanakuḍmalānāṃ nātispaṣṭābhidhāyināmanupacāramadhurakomalollāpānāṃ priyāṇāmapatyakānāṃ sadayamāśleṣaḥ nirdayaṃ ca tanutaramṛdusurabhinivasanābhirmallikāmukulānukārimuktāphalaprāyālaṅkārābhiḥ sahacarīninādasañjalpopajanitautsukyakalahaṃsānunāditanūpuraraśanākalāpaśiñjitānugamanasammugdhamugdhasnigdhamṛduvacanābhirnijajaghananibiḍakucayugalālaṅkārabhārodvahanaśramaśvasanakampitamadhyamukulitalocanotpalābhiḥ kiñcidvigalitanavayauvanābhiḥ priyaṅgasaṅgamātrātimātrasukhāsvādavisraṃsyamānāṃśukaikakālopajātavrīḍāvailakṣyapragalbhatāvaiklavyaharṣaviṣādavismayasmitakopaprasādasādhvasasrastasvinnasarvāṅgadravīkṛtahimāṅgarāgābhiḥ samastadehahṛdayaprahlādakāriṇībhirvilāsavatībhiścaturaṅgamivānaṅgabalamaṅgaistanubhirapi samudvahantībhiraṅganābhirāśleṣaḥ sakalarajanīkarakaranikarāvakīrṇaśiśiratarāṇi bhavanatalasalilapulināni atisitasikatopāstṛtatalamanokakāyayantrapravṛttīvamalasaliladhāraṃ dhārāgṛham sāgarānukāritoyāśayopatīrasuniviṣṭakusumitabahuviṭapapṛthutuṅgavividhatarataṭaruhatarunivahabahalacchāyopasañchannaṃ ghavalaraktanīlanīrajarajovyāptasamastajalavipulasikatilatalopakalpitaṃ dolāyamānagaṇatithapṛthudṛtikalaśasaraṇakarakasravadudakapravāhāhitamṛtsaurabhabhūtalaikadeśaṃ pralambamānāmrajambūkadambavidulaniculādikisalayamañjarīstabakapratyuptapaṭālikaṃ muhurmuhuḥ puruṣaprayatnapreritaghaṭamukhodgīrṇośīracandanānuviddhāvalagnapatitaśeṣa muktāphalāyamānajalalavamuchrāyavistāravadaniṣiddhadūravistṛtaśītavātapraveśamatyarthasantatāmbuśītaśīkarābhiṣekapratihatasantāpadāhamohaśramaklamapipāsamatiśayaprāptarāmaṇīyakaṃ himācalasparddhiśaityamambudharakālalīlāviḍambi kāyamānam praphullapadmotpalapuṇḍarīkasaugandhikakokanadaśatapatraparāgarāgānurañjitajalacaravihagagaṇakalaninadaramyā dīrghikāḥ madhupānalobhanilīyamānālikulacalitalatāpratānanipatitavividhakusumanicayaśayanaracanāsavyāpāramṛdupavanānyupavanāni viśeṣatastu ghṛtaṃ payo virecanāni saumyāḥ sarve bhāvāḥ divāsvapnavarjyaśca graiṣmo vidhiḥ",
         "iast_ru": "питтасйа сарпиш̣па̄нам̣ сарпиш̣а̄ снеханамадходош̣ахаран̣ам̣ мадхуратиктакаш̣а̄йа̄н̣а̄мауш̣адха̄бхйаваха̄рйа̄н̣а̄мупайого мр̣дусурабхиш́ӣтахр̣дйа̄на̄м̣ гандха̄на̄мупасева̄ парамаш́иш́ирасурабхисалиламаджджанам мано 'нукӯласам̣спарш́асукха̄на̄м̣ мукта̄ман̣иваид̣ӯрйа̄ш́магарбхаш́ан̇кхаш́ила̄падмара̄гачандрака̄нтака̄нтатаратарала̄валӣна̄м̣ бхрамаратра̄ситасахасрапатра̄ситотпала кадалӣдаланавама̄лика̄кундамаллика̄дививидхаварн̣апрасӯнавирачита̄на̄м̣ сраджа̄м̣ ча дха̄ран̣амураса̄ кш̣ан̣е кш̣ан̣е ча̄грйачанданаприйан̇гука̄лейакамр̣н̣а̄лакарпӯрасугандхиш́ӣтасваччхагандхава̄рибхих̣ сакамалакумудакувалайаирбхӯмиталакава̄т̣ава̄та̄йанахармйабхиттӣна̄мабхипрокш̣ан̣ам ш́рутисукхамр̣думадхурамано 'нуга̄на̄м̣ гӣтава̄дитра̄н̣а̄мабхйудайа̄на̄м̣ ча ш́раван̣ам айантран̣аих̣ сама̄навиш̣айавеш̣ачаритаирутсавотсаватара̄нйонйадарш́анаих̣ сухр̣дбхих̣ саха̄санам анр̣тавачанавирахасвабха̄васурабхитараваданакуд̣мала̄на̄м̣ на̄тиспаш̣т̣а̄бхидха̄йина̄манупача̄рамадхуракомалолла̄па̄на̄м̣ прийа̄н̣а̄мапатйака̄на̄м̣ садайама̄ш́леш̣ах̣ нирдайам̣ ча танутарамр̣дусурабхинивасана̄бхирмаллика̄мукула̄нука̄римукта̄пхалапра̄йа̄лан̇ка̄ра̄бхих̣ сахачарӣнина̄дасан̃джалпопаджанитаутсукйакалахам̣са̄нуна̄дитанӯпурараш́ана̄кала̄паш́ин̃джита̄нугаманасаммугдхамугдхаснигдхамр̣дувачана̄бхирниджаджагхананибид̣акучайугала̄лан̇ка̄рабха̄родваханаш́рамаш́васанакампитамадхйамукулиталочанотпала̄бхих̣ кин̃чидвигалитанавайаувана̄бхих̣ прийан̇гасан̇гама̄тра̄тима̄трасукха̄сва̄дависрам̣сйама̄на̄м̣ш́укаикака̄лопаджа̄таврӣд̣а̄ваилакш̣йапрагалбхата̄ваиклавйахарш̣авиш̣а̄дависмайасмитакопапраса̄даса̄дхвасасрастасвиннасарва̄н̇гадравӣкр̣тахима̄н̇гара̄га̄бхих̣ самастадехахр̣дайапрахла̄дака̄рин̣ӣбхирвила̄саватӣбхиш́чатуран̇гамива̄нан̇габаламан̇гаистанубхирапи самудвахантӣбхиран̇гана̄бхира̄ш́леш̣ах̣ сакалараджанӣкаракараникара̄вакӣрн̣аш́иш́иратара̄н̣и бхаванаталасалилапулина̄ни атиситасикатопа̄стр̣таталаманокака̄йайантраправр̣ттӣвамаласалиладха̄рам̣ дха̄ра̄гр̣хам са̄гара̄нука̄ритойа̄ш́айопатӣрасунивиш̣т̣акусумитабахувит̣апапр̣тхутун̇гавивидхатаратат̣арухатарунивахабахалаччха̄йопасан̃чханнам̣ гхаваларактанӣланӣраджараджовйа̄птасамастаджалавипуласикатилаталопакалпитам̣ дола̄йама̄наган̣атитхапр̣тхудр̣тикалаш́асаран̣акаракасравадудакаправа̄ха̄хитамр̣тсаурабхабхӯталаикадеш́ам̣ праламбама̄на̄мраджамбӯкадамбавидуланичула̄дикисалайаман̃джарӣстабакапратйуптапат̣а̄ликам̣ мухурмухух̣ пуруш̣апрайатнапреритагхат̣амукходгӣрн̣ош́ӣрачандана̄нувиддха̄валагнапатиташ́еш̣а мукта̄пхала̄йама̄наджалалавамучхра̄йависта̄раваданиш̣иддхадӯравистр̣таш́ӣтава̄таправеш́аматйартхасантата̄мбуш́ӣташ́ӣкара̄бхиш̣екапратихатасанта̄пада̄хамохаш́рамакламапипа̄саматиш́айапра̄птара̄ман̣ӣйакам̣ хима̄чаласпарддхиш́аитйамамбудхарака̄лалӣла̄вид̣амби ка̄йама̄нам прапхуллападмотпалапун̣д̣арӣкасаугандхикакоканадаш́атапатрапара̄гара̄га̄нуран̃джитаджалачаравихагаган̣акаланинадарамйа̄ дӣргхика̄х̣ мадхупа̄налобханилӣйама̄на̄ликулачалиталата̄прата̄нанипатитавивидхакусуманичайаш́айанарачана̄савйа̄па̄рамр̣дупавана̄нйупавана̄ни виш́еш̣атасту гхр̣там̣ пайо виречана̄ни саумйа̄х̣ сарве бха̄ва̄х̣ дива̄свапнаварджйаш́ча граиш̣мо видхих̣",
-        "text": "Лечение питты [включает]: питьё гхи; умащение гхи; устранение доши через низ; применение [пищи и] лекарств со сладким, горьким и вяжущим [вкусом], принимаемых внутрь; вдыхание мягких, благоухающих, холодных, приятных сердцу ароматов; погружение в высшей степени холодную, благоухающую воду; ношение на груди [драгоценностей и цветов], приятных на ощупь уму, — жемчуга, драгоценных камней, вайдурьи, [камней] с прожилками, раковины, кристалла, рубина, лунного камня и [нитей] жемчужин, изящно колышущихся; а также гирлянд, сплетённых из разнообразных цветов различных оттенков — лотосов тысячелепестковых и синих, лепестков банана, свежего жасмина и подобных; регулярное окропление стен домашних покоев, ставен, окон и земли превосходным, благоухающим, холодным сандалом, приянгу, калеякой, лотосовым стеблем, камфарой, [настоянными] с водой, вместе с лотосами и кувалаями; слушание приятных для слуха, мягких, сладких, услаждающих ум песен и музыкальных инструментов, а также [вестей о] благополучных событиях; сидение вместе с друзьями в свободной, радостной обстановке; нежные объятия любимых детей с их безыскусной, сладкой речью; и объятия возлюбленных женщин — в тонких, благоухающих одеждах, украшенных драгоценностями, с нежным, сладким шёпотом, сопровождаемым звоном ножных браслетов; чьи движения полны застенчивости, радости, смущения и очарования, доставляющих наслаждение всему телу и сердцу. [Рекомендуется купание] в прудах дворцовых покоев, залитых лунным светом и особенно прохладных; в «доме дождя» — с потоком чистой воды, приводимой в движение механизмами, на площадке из чистейшего белого песка; [посещение водоёма], подобного океану по виду, с берегами, густо покрытыми цветущими деревьями с обильной тенью; с поверхностью, покрытой пыльцой белых, красных и синих лотосов; благоухающего от потоков воды из множества сосудов; с беседками, украшенными цветущими побегами манго, джамбу, кадамбы и подобных деревьев; где капли воды, настоянной на ушире и сандале, падают, подобные жемчужинам; где прохлада внутри устраняет жар, жжение, усталость и жажду, соперничая холодом с Гималаями. [Рекомендуются] пруды, прекрасные пением водных птиц среди цветущих лотосов; сады с мягким ветром среди опадающих цветов, потревоженных пчёлами. Особенно же [полезны]: гхи, молоко, слабительные средства; все спокойные, умиротворяющие вещи; воздержание от дневного сна — таков летний режим."
+        "text": "Лечение питты [включает]: питьё гхи; умащение гхи; устранение доши через низ; применение [пищи и] лекарств со сладким, горьким и вяжущим [вкусом], принимаемых внутрь; вдыхание мягких, благоухающих, холодных, приятных сердцу ароматов; погружение в высшей степени холодную, благоухающую воду; ношение на груди [драгоценностей и цветов], приятных на ощупь уму, — жемчуга, драгоценных камней, вайдурьи, [камней] с прожилками, раковины, кристалла, рубина, лунного камня и [нитей] жемчужин, изящно колышущихся; а также гирлянд, сплетённых из разнообразных цветов различных оттенков — лотосов тысячелепестковых и синих, лепестков банана, свежего жасмина и подобных; регулярное окропление стен домашних покоев, ставен, окон и земли превосходным, благоухающим, холодным сандалом, приянгу, калеякой, лотосовым стеблем, камфарой, [настоянными] с водой, вместе с лотосами и кувалаями; слушание приятных для слуха, мягких, сладких, услаждающих ум песен и музыкальных инструментов, а также [вестей о] благополучных событиях; сидение вместе с друзьями в свободной, радостной обстановке; нежные объятия любимых детей с их безыскусной, сладкой речью; и объятия возлюбленных женщин — в тонких, благоухающих одеждах, украшенных драгоценностями, с нежным, сладким шёпотом, сопровождаемым звоном ножных браслетов; чьи движения полны застенчивости, радости, смущения и очарования, доставляющих наслаждение всему телу и сердцу. [Рекомендуется купание] в прудах дворцовых покоев, залитых лунным светом и особенно прохладных; в «доме дождя» — с потоком чистой воды, приводимой в движение механизмами, на площадке из чистейшего белого песка; [посещение водоёма], подобного океану по виду, с берегами, густо покрытыми цветущими деревьями с обильной тенью; с поверхностью, покрытой пыльцой белых, красных и синих лотосов; благоухающего от потоков воды из множества сосудов; с беседками, украшенными цветущими побегами манго, джамбу, кадамбы и подобных деревьев; где капли воды, настоянной на ушире и сандале, падают, подобные жемчужинам; где прохлада внутри устраняет жар, жжение, усталость и жажду, соперничая холодом с Гималаями. [Рекомендуются] пруды, прекрасные пением водных птиц среди цветущих лотосов; сады с мягким ветром среди опадающих цветов, потревоженных пчёлами. Особенно же [полезны]: гхи, молоко, слабительные средства; все спокойные, умиротворяющие вещи; воздержание от дневного сна — таков летний режим.",
+        "text_en": "The treatment of Pitta [includes]: drinking ghee; anointing with ghee; elimination of the dosha through the downward route; the use of [food and] medicines with sweet, bitter and astringent [tastes], taken internally; inhaling soft, fragrant, cold fragrances pleasing to the heart; immersion in extremely cold, fragrant water; wearing on the chest [jewels and flowers] pleasing to the touch of the mind: pearls, gems, vaidurya, [stones] with veins, conch, crystal, ruby, moonstone and [strings] of pearls, gracefully swaying; and also garlands woven of various flowers of different shades: thousand-petaled and blue lotuses, banana petals, fresh jasmine and the like; regular sprinkling of the walls of the domestic chambers, shutters, windows and the ground with excellent, fragrant, cold sandal, priyangu, kaleyaka, lotus stalk and camphor, [infused] in water, together with lotuses and kuvalayas; listening to songs and musical instruments pleasing to the ear, soft, sweet, delighting the mind, and also [to news of] auspicious events; sitting with friends in a free, joyful atmosphere; the tender embraces of beloved children with their artless, sweet speech; and the embraces of beloved women, in fine, fragrant garments adorned with jewels, with gentle, sweet whispers accompanied by the tinkling of anklets; whose movements are full of modesty, joy, shyness and charm, giving delight to the whole body and heart. [Bathing is recommended] in the ponds of the palace chambers, flooded with moonlight and especially cool; in the 'rain house' with a stream of pure water set in motion by mechanisms, on a platform of purest white sand; [visiting a reservoir] resembling the ocean in appearance, with banks thickly covered with flowering trees of abundant shade; with a surface covered with the pollen of white, red and blue lotuses; fragrant with streams of water from many vessels; with arbors adorned with flowering shoots of mango, jambu, kadamba and similar trees; where drops of water infused with ushira and sandal fall like pearls; where the coolness within removes heat, burning, fatigue and thirst, rivaling the Himalayas in coldness. [Recommended are] ponds beautiful with the singing of water birds among blossoming lotuses; gardens with a gentle breeze amid falling flowers disturbed by bees. Especially [beneficial are] ghee, milk and purgatives; all calming, pacifying things; abstention from daytime sleep; such is the summer regimen."
       },
       {
         "type": "verse",
@@ -12941,7 +13006,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्लेष्मणः पुनर्विधिविहितानि तीक्ष्णानि संशोधनानि रूक्षप्रायाण्यभ्यवहार्याणि कटुतिक्तकषायोपहितानि तीक्ष्णानि दीर्घकालस्थितानि हृद्यानि मद्यानि धावनलङ्घनप्लवनजागरणानियुद्धयुद्धव्यवायव्यायामरूक्षोन्मर्दनस्नानोच्छादनानि विशेषतः क्षौद्रं यूषो वमनानि सर्वशश्चोपवासः सधूमगण्डूषः सुखप्रतिषेधः सुखार्थमेव वासन्तिको विधिरिति भवन्ति चात्र",
         "iast": "śleṣmaṇaḥ punarvidhivihitāni tīkṣṇāni saṃśodhanāni rūkṣaprāyāṇyabhyavahāryāṇi kaṭutiktakaṣāyopahitāni tīkṣṇāni dīrghakālasthitāni hṛdyāni madyāni dhāvanalaṅghanaplavanajāgaraṇāniyuddhayuddhavyavāyavyāyāmarūkṣonmardanasnānocchādanāni viśeṣataḥ kṣaudraṃ yūṣo vamanāni sarvaśaścopavāsaḥ sadhūmagaṇḍūṣaḥ sukhapratiṣedhaḥ sukhārthameva vāsantiko vidhiriti bhavanti cātra",
         "iast_ru": "ш́леш̣ман̣ах̣ пунарвидхивихита̄ни тӣкш̣н̣а̄ни сам̣ш́одхана̄ни рӯкш̣апра̄йа̄н̣йабхйаваха̄рйа̄н̣и кат̣утиктакаш̣а̄йопахита̄ни тӣкш̣н̣а̄ни дӣргхака̄ластхита̄ни хр̣дйа̄ни мадйа̄ни дха̄ваналан̇гханаплаванаджа̄гаран̣а̄нийуддхайуддхавйава̄йавйа̄йа̄марӯкш̣онмарданасна̄ноччха̄дана̄ни виш́еш̣атах̣ кш̣аудрам̣ йӯш̣о вамана̄ни сарваш́аш́чопава̄сах̣ садхӯмаган̣д̣ӯш̣ах̣ сукхапратиш̣едхах̣ сукха̄ртхамева ва̄сантико видхирити бхаванти ча̄тра",
-        "text": "Лечение же капхи [включает]: резкие очищающие [средства], предписанные по правилам; преимущественно сухую пищу, приправленную острым, горьким и вяжущим [вкусом]; резкие, долго хранившиеся, приятные сердцу вина; бег, голодание, плавание, бодрствование, борьбу, соитие, физическое упражнение, растирание сухим [порошком], купание, обтирание; особенно мёд; супы; рвотные [средства]; повсеместно — голодание; полоскание рта вместе с окуриванием дымом; ограничение [чрезмерных] удобств — [но всё это] именно ради [истинного] благополучия; таков весенний режим. И здесь есть [следующее]:"
+        "text": "Лечение же капхи [включает]: резкие очищающие [средства], предписанные по правилам; преимущественно сухую пищу, приправленную острым, горьким и вяжущим [вкусом]; резкие, долго хранившиеся, приятные сердцу вина; бег, голодание, плавание, бодрствование, борьбу, соитие, физическое упражнение, растирание сухим [порошком], купание, обтирание; особенно мёд; супы; рвотные [средства]; повсеместно — голодание; полоскание рта вместе с окуриванием дымом; ограничение [чрезмерных] удобств — [но всё это] именно ради [истинного] благополучия; таков весенний режим. И здесь есть [следующее]:",
+        "text_en": "The treatment of Kapha [includes]: strong cleansing [measures] prescribed by the rules; predominantly dry food seasoned with pungent, bitter and astringent [tastes]; strong, long-stored wines pleasing to the heart; running, fasting, swimming, wakefulness, wrestling, sexual intercourse, physical exercise, rubbing with dry [powder], bathing, wiping; especially honey; soups; emetics; everywhere, fasting; gargling together with medicated smoking; restriction of [excessive] comforts, [but all this] precisely for [true] well-being; such is the spring regimen. And here there is [the following]:"
       },
       {
         "type": "verse",
@@ -12949,7 +13015,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उपक्रमः पृथग्दोषान् यो ऽयमुद्दिश्य कीर्तितः संसर्गसन्निपातेषु तं यथास्वं विकल्पयेत्",
         "iast": "upakramaḥ pṛthagdoṣān yo 'yamuddiśya kīrtitaḥ saṃsargasannipāteṣu taṃ yathāsvaṃ vikalpayet",
         "iast_ru": "упакрамах̣ пр̣тхагдош̣а̄н йо 'йамуддиш́йа кӣртитах̣ сам̣саргасаннипа̄теш̣у там̣ йатха̄свам̣ викалпайет",
-        "text": "Этот подход к лечению, изложенный применительно к отдельным дошам, следует соответственно применять с изменениями и при сочетании двух дош, и при тройном расстройстве."
+        "text": "Этот подход к лечению, изложенный применительно к отдельным дошам, следует соответственно применять с изменениями и при сочетании двух дош, и при тройном расстройстве.",
+        "text_en": "This approach to treatment, set forth with reference to the individual doshas, should be applied correspondingly, with modifications, both in the combination of two doshas and in the triple disorder."
       },
       {
         "type": "verse",
@@ -12957,7 +13024,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ग्रैष्मः प्रायो मरुत्पित्ते वासन्तः कफमारुते मरुतो योगवाहित्वात् कफपित्ते तु शारदः",
         "iast": "graiṣmaḥ prāyo marutpitte vāsantaḥ kaphamārute maruto yogavāhitvāt kaphapitte tu śāradaḥ",
         "iast_ru": "граиш̣мах̣ пра̄йо марутпитте ва̄сантах̣ капхама̄руте маруто йогава̄хитва̄т капхапитте ту ш́а̄радах̣",
-        "text": "Летний [режим], как правило, [подходит] при [сочетании] ветра и питты; весенний — при [сочетании] капхи и ветра, — ветер [включён] благодаря своей способности усиливать [действие сочетаний]; при [сочетании] капхи и питты — осенний [режим]."
+        "text": "Летний [режим], как правило, [подходит] при [сочетании] ветра и питты; весенний — при [сочетании] капхи и ветра, — ветер [включён] благодаря своей способности усиливать [действие сочетаний]; при [сочетании] капхи и питты — осенний [режим].",
+        "text_en": "The summer [regimen], as a rule, [is suitable] in [the combination of] Vata and Pitta; the spring one in [the combination of] Kapha and Vata, Vata [being included] because of its capacity to reinforce [the action of combinations]; in [the combination of] Kapha and Pitta, the autumn [regimen]."
       },
       {
         "type": "verse",
@@ -12965,7 +13033,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "योज्याः पट्वम्लमधुरा वायौ क्रुद्धे रसाःक्रमात् पित्ते पित्तस्ततः स्वादुः कषायश्च रसो हितः",
         "iast": "yojyāḥ paṭvamlamadhurā vāyau kruddhe rasāḥkramāt pitte pittastataḥ svāduḥ kaṣāyaśca raso hitaḥ",
         "iast_ru": "йоджйа̄х̣ пат̣вамламадхура̄ ва̄йау круддхе раса̄х̣крама̄т питте питтастатах̣ сва̄дух̣ каш̣а̄йаш́ча расо хитах̣",
-        "text": "При возбуждённом ветре следует применять солёный, кислый, сладкий вкусы, по порядку; при [возбуждённой] питте — [вкусы], полезные для питты, а затем сладкий и вяжущий вкус [полезны],"
+        "text": "При возбуждённом ветре следует применять солёный, кислый, сладкий вкусы, по порядку; при [возбуждённой] питте — [вкусы], полезные для питты, а затем сладкий и вяжущий вкус [полезны],",
+        "text_en": "In aggravated Vata, the salty, sour and sweet tastes should be used, in order; in [aggravated] Pitta, [the tastes] beneficial for Pitta, and then the sweet and astringent tastes [are beneficial],"
       },
       {
         "type": "verse",
@@ -12973,7 +13042,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कटुकः प्राक् ततस्तिक्तः कषायो ऽन्ते कफामये",
         "iast": "kaṭukaḥ prāk tatastiktaḥ kaṣāyo 'nte kaphāmaye",
         "iast_ru": "кат̣уках̣ пра̄к татастиктах̣ каш̣а̄йо 'нте капха̄майе",
-        "text": "при болезни капхи — [сначала] острый, затем горький, [и] вяжущий вкус в конце."
+        "text": "при болезни капхи — [сначала] острый, затем горький, [и] вяжущий вкус в конце.",
+        "text_en": "in Kapha disease, [first] the pungent, then the bitter, [and] the astringent taste last."
       },
       {
         "type": "verse",
@@ -12981,7 +13051,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चयप्रकोपप्रशमा वायोर्ग्रीष्मादिषु त्रिषु वर्षादिषु तु पित्तस्य श्लेष्मणेः शिशिरादिषु",
         "iast": "cayaprakopapraśamā vāyorgrīṣmādiṣu triṣu varṣādiṣu tu pittasya śleṣmaṇeḥ śiśirādiṣu",
         "iast_ru": "чайапракопапраш́ама̄ ва̄йоргрӣш̣ма̄диш̣у триш̣у варш̣а̄диш̣у ту питтасйа ш́леш̣ман̣ех̣ ш́иш́ира̄диш̣у",
-        "text": "Накопление, возбуждение и успокоение ветра [происходят соответственно] в трёх сезонах, начиная с лета; питты — начиная с [сезона] дождей; капхи — начиная с шиширы."
+        "text": "Накопление, возбуждение и успокоение ветра [происходят соответственно] в трёх сезонах, начиная с лета; питты — начиная с [сезона] дождей; капхи — начиная с шиширы.",
+        "text_en": "The accumulation, aggravation and pacification of Vata [occur respectively] in the three seasons beginning with summer; of Pitta, beginning with the [season of] rains; of Kapha, beginning with shishira."
       },
       {
         "type": "verse",
@@ -12989,7 +13060,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चीयते लघुरूक्षाभिरोषधीभिः समीरणः तद्विधस्तद्विधे देहे कालस्यौष्ण्यान्न कुप्यति",
         "iast": "cīyate laghurūkṣābhiroṣadhībhiḥ samīraṇaḥ tadvidhastadvidhe dehe kālasyauṣṇyānna kupyati",
         "iast_ru": "чӣйате лагхурӯкш̣а̄бхирош̣адхӣбхих̣ самӣран̣ах̣ тадвидхастадвидхе дехе ка̄ласйауш̣н̣йа̄нна купйати",
-        "text": "Ветер накапливается от лёгких, сухих трав, [если они] такого же рода [сухости], в теле такого же рода [конституции]; [но] от теплоты сезона он не возбуждается [сразу же, а лишь позже]."
+        "text": "Ветер накапливается от лёгких, сухих трав, [если они] такого же рода [сухости], в теле такого же рода [конституции]; [но] от теплоты сезона он не возбуждается [сразу же, а лишь позже].",
+        "text_en": "Vata accumulates from light, dry herbs, [if they are] of the same kind [of dryness], in a body of the same kind [of constitution]; [but] owing to the warmth of the season it is not aggravated [immediately, but only later]."
       },
       {
         "type": "verse",
@@ -12997,7 +13069,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अद्भिरम्लविपाकाभिरोषधीभिश्च तादृशम् पित्तं याति चयं कोपं न तु कालस्य शैत्यतः",
         "iast": "adbhiramlavipākābhiroṣadhībhiśca tādṛśam pittaṃ yāti cayaṃ kopaṃ na tu kālasya śaityataḥ",
         "iast_ru": "адбхирамлавипа̄ка̄бхирош̣адхӣбхиш́ча та̄др̣ш́ам питтам̣ йа̄ти чайам̣ копам̣ на ту ка̄ласйа ш́аитйатах̣",
-        "text": "Питта приходит к накоплению от вод и трав с кислым вкусом после переваривания, [если они] подобного же рода; но не к возбуждению — от холода сезона."
+        "text": "Питта приходит к накоплению от вод и трав с кислым вкусом после переваривания, [если они] подобного же рода; но не к возбуждению — от холода сезона.",
+        "text_en": "Pitta comes to accumulation from waters and herbs with a sour taste after digestion, [if they are] of a similar kind; but not to aggravation, owing to the coldness of the season."
       },
       {
         "type": "verse",
@@ -13005,7 +13078,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चीयते स्निग्धशीताभिरुदकौषधिभिः कफः तुल्ये ऽपि काले देहे च स्कन्नत्वान्न प्रकुप्यति",
         "iast": "cīyate snigdhaśītābhirudakauṣadhibhiḥ kaphaḥ tulye 'pi kāle dehe ca skannatvānna prakupyati",
         "iast_ru": "чӣйате снигдхаш́ӣта̄бхирудакауш̣адхибхих̣ капхах̣ тулйе 'пи ка̄ле дехе ча сканнатва̄нна пракупйати",
-        "text": "Капха накапливается от маслянистых, холодных вод и трав; [но] даже при подобном сезоне и [конституции] тела она не возбуждается, из-за [своей] застывшей природы."
+        "text": "Капха накапливается от маслянистых, холодных вод и трав; [но] даже при подобном сезоне и [конституции] тела она не возбуждается, из-за [своей] застывшей природы.",
+        "text_en": "Kapha accumulates from unctuous, cold waters and herbs; [but] even in a similar season and [constitution] of the body it is not aggravated, owing to [its] congealed nature."
       },
       {
         "type": "verse",
@@ -13013,7 +13087,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इति कालस्वभावो ऽयम् आहारादिवशात् पुनः चयादीन् यान्ति सद्यो ऽपि दोषाः काले ऽपि वा न तु",
         "iast": "iti kālasvabhāvo 'yam āhārādivaśāt punaḥ cayādīn yānti sadyo 'pi doṣāḥ kāle 'pi vā na tu",
         "iast_ru": "ити ка̄ласвабха̄во 'йам а̄ха̄ра̄диваш́а̄т пунах̣ чайа̄дӣн йа̄нти садйо 'пи дош̣а̄х̣ ка̄ле 'пи ва̄ на ту",
-        "text": "Такова природа [действия] сезона; от [же] пищи и подобного доши могут прийти к накоплению и прочим [стадиям] немедленно, даже не [дожидаясь соответствующего] сезона."
+        "text": "Такова природа [действия] сезона; от [же] пищи и подобного доши могут прийти к накоплению и прочим [стадиям] немедленно, даже не [дожидаясь соответствующего] сезона.",
+        "text_en": "Such is the nature of [the action of] the season; from food and the like, however, the doshas may come to accumulation and the other [stages] immediately, even without [awaiting the corresponding] season."
       },
       {
         "type": "verse",
@@ -13021,7 +13096,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्याप्नोति सहसा देहमापादतलमस्तकम् निवर्तते तु कुपितो मलो ऽल्पाल्पं जलौघवत्",
         "iast": "vyāpnoti sahasā dehamāpādatalamastakam nivartate tu kupito malo 'lpālpaṃ jalaughavat",
         "iast_ru": "вйа̄пноти сахаса̄ дехама̄па̄даталамастакам нивартате ту купито мало 'лпа̄лпам̣ джалаугхават",
-        "text": "[Возбуждённая доша] внезапно распространяется по всему телу, от подошв стоп до головы; возвращается же возбуждённая нечистота [к норме] постепенно, по капле, подобно потоку воды [убывающему медленно]."
+        "text": "[Возбуждённая доша] внезапно распространяется по всему телу, от подошв стоп до головы; возвращается же возбуждённая нечистота [к норме] постепенно, по капле, подобно потоку воды [убывающему медленно].",
+        "text_en": "[The aggravated dosha] suddenly spreads throughout the body, from the soles of the feet to the head; the aggravated impurity, however, returns [to normal] gradually, drop by drop, like a stream of water [receding slowly]."
       },
       {
         "type": "verse",
@@ -13029,7 +13105,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चय एव जयेद्दोषं कुपितं त्वविरोधयन् सर्वकोपे बलीयांसं शेषदोषाविरोधतः",
         "iast": "caya eva jayeddoṣaṃ kupitaṃ tvavirodhayan sarvakope balīyāṃsaṃ śeṣadoṣāvirodhataḥ",
         "iast_ru": "чайа ева джайеддош̣ам̣ купитам̣ твавиродхайан сарвакопе балӣйа̄м̣сам̣ ш́еш̣адош̣а̄виродхатах̣",
-        "text": "Именно [состояние] накопления следует побеждать в доше; возбуждённую же [дошу, если она уже сильна], — не противодействуя [ей прямо]. При возбуждении всех [трёх дош одновременно следует лечить] наиболее сильную, не противодействуя [при этом] прочим дошам,"
+        "text": "Именно [состояние] накопления следует побеждать в доше; возбуждённую же [дошу, если она уже сильна], — не противодействуя [ей прямо]. При возбуждении всех [трёх дош одновременно следует лечить] наиболее сильную, не противодействуя [при этом] прочим дошам,",
+        "text_en": "It is precisely the [state of] accumulation in a dosha that should be overcome; the aggravated [dosha, if already strong], without opposing [it directly]. In the aggravation of all [three doshas simultaneously, one should treat] the strongest, without [thereby] opposing the other doshas,"
       },
       {
         "type": "verse",
@@ -13037,7 +13114,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रमान्मरुत्पित्तकफान् सर्वत्र सदृशे बले वातादीनां यथापूर्वं यतः स्वाभाविकं बलम्",
         "iast": "kramānmarutpittakaphān sarvatra sadṛśe bale vātādīnāṃ yathāpūrvaṃ yataḥ svābhāvikaṃ balam",
         "iast_ru": "крама̄нмарутпиттакапха̄н сарватра садр̣ш́е бале ва̄та̄дӣна̄м̣ йатха̄пӯрвам̣ йатах̣ сва̄бха̄викам̣ балам",
-        "text": "по порядку: ветер, питту, капху — везде, при равной силе [дош], поскольку у ветра и прочих, по порядку [перечисления], — естественная сила [убывает соответственно этому порядку]."
+        "text": "по порядку: ветер, питту, капху — везде, при равной силе [дош], поскольку у ветра и прочих, по порядку [перечисления], — естественная сила [убывает соответственно этому порядку].",
+        "text_en": "in order: Vata, Pitta, Kapha, everywhere, when the strength [of the doshas] is equal, since in Vata and the others, in the order [of enumeration], the natural strength [decreases accordingly]."
       },
       {
         "type": "verse",
@@ -13045,7 +13123,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऊचे पराशरो ऽप्यर्थममुमेव प्रमाणयन् यथोपन्यासतः प्राप्तमादौ दोषभिषग्जितम्",
         "iast": "ūce parāśaro 'pyarthamamumeva pramāṇayan yathopanyāsataḥ prāptamādau doṣabhiṣagjitam",
         "iast_ru": "ӯче пара̄ш́аро 'пйартхамамумева прама̄н̣айан йатхопанйа̄сатах̣ пра̄птама̄дау дош̣абхиш̣агджитам",
-        "text": "Парашара также сказал это же самое, подтверждая [этот] принцип: согласно [порядку] изложения, первой [должна быть] побеждена [та] доша, [что] упомянута первой,"
+        "text": "Парашара также сказал это же самое, подтверждая [этот] принцип: согласно [порядку] изложения, первой [должна быть] побеждена [та] доша, [что] упомянута первой,",
+        "text_en": "Parashara also said this very same thing, confirming [this] principle: according to [the order of] exposition, the dosha mentioned first [should be] overcome first,"
       },
       {
         "type": "verse",
@@ -13053,7 +13132,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नेतृभङ्गेन दृष्टो हि समं सैन्यपराजयः",
         "iast": "netṛbhaṅgena dṛṣṭo hi samaṃ sainyaparājayaḥ",
         "iast_ru": "нетр̣бхан̇гена др̣ш̣т̣о хи самам̣ саинйапара̄джайах̣",
-        "text": "ибо наблюдается, что с поражением полководца [гибнет] и всё войско одновременно."
+        "text": "ибо наблюдается, что с поражением полководца [гибнет] и всё войско одновременно.",
+        "text_en": "for it is observed that with the defeat of the commander the whole army [perishes] simultaneously."
       },
       {
         "type": "verse",
@@ -13061,7 +13141,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्थानतः केचिदिच्छन्ति प्राक् तावच्छ्लेष्मणो वधम् शिरस्युरसि कण्ठे च प्रलिप्ते ऽन्नरुचिः कुतः",
         "iast": "sthānataḥ kecidicchanti prāk tāvacchleṣmaṇo vadham śirasyurasi kaṇṭhe ca pralipte 'nnaruciḥ kutaḥ",
         "iast_ru": "стха̄натах̣ кечидиччханти пра̄к та̄ваччхлеш̣ман̣о вадхам ш́ирасйураси кан̣т̣хе ча пралипте 'ннаручих̣ кутах̣",
-        "text": "Некоторые же, [рассуждая] по месту [расположения], желают [лечить] прежде всего именно уничтожение капхи: ибо когда голова, грудь и горло покрыты [капхой], откуда [взяться] аппетиту к пище?"
+        "text": "Некоторые же, [рассуждая] по месту [расположения], желают [лечить] прежде всего именно уничтожение капхи: ибо когда голова, грудь и горло покрыты [капхой], откуда [взяться] аппетиту к пище?",
+        "text_en": "Some, however, [reasoning] by the place [of location], wish [to treat] first of all precisely the destruction of Kapha: for when the head, chest and throat are covered [by Kapha], whence [can there come] an appetite for food?"
       },
       {
         "type": "verse",
@@ -13069,7 +13150,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तदभावे कथं भोज्यपानद्रव्यावचारणम् असत्यभ्यवहारे च कुतो दोषविनिग्रहः",
         "iast": "tadabhāve kathaṃ bhojyapānadravyāvacāraṇam asatyabhyavahāre ca kuto doṣavinigrahaḥ",
         "iast_ru": "тадабха̄ве катхам̣ бходжйапа̄надравйа̄вача̄ран̣ам асатйабхйаваха̄ре ча куто дош̣авиниграхах̣",
-        "text": "А при отсутствии [аппетита] — как [возможно] применение пищи и питья [в качестве лечебных веществ]? И при невозможности их принятия — откуда [взяться] сдерживанию [прочих] дош?"
+        "text": "А при отсутствии [аппетита] — как [возможно] применение пищи и питья [в качестве лечебных веществ]? И при невозможности их принятия — откуда [взяться] сдерживанию [прочих] дош?",
+        "text_en": "And in the absence of [appetite], how [is it possible] to use food and drink [as therapeutic substances]? And if they cannot be taken, whence [can come] the control of the [other] doshas?"
       },
       {
         "type": "verse",
@@ -13077,7 +13159,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्मादादौ कफो घात्यः कायद्वारार्गलो हि सः मध्यस्थायि यतः पित्तमाशुकारि च चिन्त्यते",
         "iast": "tasmādādau kapho ghātyaḥ kāyadvārārgalo hi saḥ madhyasthāyi yataḥ pittamāśukāri ca cintyate",
         "iast_ru": "тасма̄да̄дау капхо гха̄тйах̣ ка̄йадва̄ра̄ргало хи сах̣ мадхйастха̄йи йатах̣ питтама̄ш́ука̄ри ча чинтйате",
-        "text": "Поэтому прежде всего следует уничтожить капху, ибо она — [как] засов у дверей тела. Питта же, [расположенная] в середине, к тому же считается быстродействующей,"
+        "text": "Поэтому прежде всего следует уничтожить капху, ибо она — [как] засов у дверей тела. Питта же, [расположенная] в середине, к тому же считается быстродействующей,",
+        "text_en": "Therefore Kapha should be destroyed first of all, for it is [like] the bolt at the door of the body. Pitta, [situated] in the middle, moreover, is considered quick-acting,"
       },
       {
         "type": "verse",
@@ -13085,7 +13168,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतो वातसखस्यास्य कुर्यात्तदनु निग्रहम् अत एव च पित्तादिःकफान्तो ऽन्यैःक्रमःस्मृतः",
         "iast": "ato vātasakhasyāsya kuryāttadanu nigraham ata eva ca pittādiḥkaphānto 'nyaiḥkramaḥsmṛtaḥ",
         "iast_ru": "ато ва̄тасакхасйа̄сйа курйа̄ттадану ниграхам ата ева ча питта̄дих̣капха̄нто 'нйаих̣крамах̣смр̣тах̣",
-        "text": "поэтому её сдерживание следует совершить после [устранения] этого союзника ветра. Именно поэтому другими признаётся порядок: [сначала] питта, [а] капха — в конце."
+        "text": "поэтому её сдерживание следует совершить после [устранения] этого союзника ветра. Именно поэтому другими признаётся порядок: [сначала] питта, [а] капха — в конце.",
+        "text_en": "therefore its control should be effected after [the elimination of] this ally of Vata. For precisely this reason others recognize the order: [first] Pitta, [and] Kapha at the end."
       },
       {
         "type": "verse",
@@ -13093,7 +13177,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुश्रुतश्च न सर्वत्र मतमेतत् ब्रवीति तु जयेज्ज्वरे ऽतिसारेच क्रमात् पित्तकफानिलान्",
         "iast": "suśrutaśca na sarvatra matametat bravīti tu jayejjvare 'tisāreca kramāt pittakaphānilān",
         "iast_ru": "суш́руташ́ча на сарватра матаметат бравӣти ту джайеджджваре 'тиса̄реча крама̄т питтакапха̄нила̄н",
-        "text": "Сушрута же говорит, что это мнение [не применимо] повсеместно: при лихорадке и поносе следует побеждать, по порядку, питту, капху, [затем] ветер."
+        "text": "Сушрута же говорит, что это мнение [не применимо] повсеместно: при лихорадке и поносе следует побеждать, по порядку, питту, капху, [затем] ветер.",
+        "text_en": "Sushruta, however, says that this opinion [is not applicable] everywhere: in fever and diarrhea one should overcome, in order, Pitta, Kapha, [then] Vata."
       },
       {
         "type": "verse",
@@ -13101,7 +13186,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रायेण तापात्मतया ज्वरे तेजो विशिष्यते विशश्च सरणं पित्तात्तथा च मृदुकोष्ठता",
         "iast": "prāyeṇa tāpātmatayā jvare tejo viśiṣyate viśaśca saraṇaṃ pittāttathā ca mṛdukoṣṭhatā",
         "iast_ru": "пра̄йен̣а та̄па̄тматайа̄ джваре теджо виш́иш̣йате виш́аш́ча саран̣ам̣ питта̄ттатха̄ ча мр̣дукош̣т̣хата̄",
-        "text": "При лихорадке, как правило, из-за [её] жаркой природы, преобладает [элемент] огня; и от питты [возникает] понос, а также мягкость желудка,"
+        "text": "При лихорадке, как правило, из-за [её] жаркой природы, преобладает [элемент] огня; и от питты [возникает] понос, а также мягкость желудка,",
+        "text_en": "In fever, as a rule, because of [its] hot nature, the [element of] fire predominates; and from Pitta [arises] diarrhea, as well as softness of the stomach,"
       },
       {
         "type": "verse",
@@ -13109,7 +13195,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्यचानुबलःश्लेष्मा गौरवापक्तिजाड्यकृत् वायुश्च वर्द्धते ऽवश्यं यात्स्वहस्सु तयोःक्षये",
         "iast": "tasyacānubalaḥśleṣmā gauravāpaktijāḍyakṛt vāyuśca varddhate 'vaśyaṃ yātsvahassu tayoḥkṣaye",
         "iast_ru": "тасйача̄нубалах̣ш́леш̣ма̄ гаурава̄пактиджа̄д̣йакр̣т ва̄йуш́ча варддхате 'ваш́йам̣ йа̄тсвахассу тайох̣кш̣айе",
-        "text": "а сопутствующая ей капха вызывает тяжесть, несварение и оцепенение; и ветер непременно усиливается в свои [собственные благоприятные] дни, когда те двое [питта и капха] истощаются;"
+        "text": "а сопутствующая ей капха вызывает тяжесть, несварение и оцепенение; и ветер непременно усиливается в свои [собственные благоприятные] дни, когда те двое [питта и капха] истощаются;",
+        "text_en": "and the Kapha accompanying it causes heaviness, indigestion and numbness; and Vata invariably increases in its [own favorable] days, when those two [Pitta and Kapha] become depleted;"
       },
       {
         "type": "verse",
@@ -13117,7 +13204,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ज्वरातिसारयोस्तस्मादेष दोषजये क्रमः",
         "iast": "jvarātisārayostasmādeṣa doṣajaye kramaḥ",
         "iast_ru": "джвара̄тиса̄райостасма̄деш̣а дош̣аджайе крамах̣",
-        "text": "поэтому таков порядок победы над дошами при лихорадке и поносе."
+        "text": "поэтому таков порядок победы над дошами при лихорадке и поносе.",
+        "text_en": "therefore such is the order of overcoming the doshas in fever and diarrhea."
       },
       {
         "type": "verse",
@@ -13125,7 +13213,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कफपित्तानिलानन्ये क्रमादाहुस्तयोरपि यस्मादामाशयोत्क्लेशात् भूयिष्ठं तत्समुद्भवः",
         "iast": "kaphapittānilānanye kramādāhustayorapi yasmādāmāśayotkleśāt bhūyiṣṭhaṃ tatsamudbhavaḥ",
         "iast_ru": "капхапитта̄нила̄нанйе крама̄да̄хустайорапи йасма̄да̄ма̄ш́айотклеш́а̄т бхӯйиш̣т̣хам̣ татсамудбхавах̣",
-        "text": "Иные же, в отношении их обоих, говорят о порядке: капха, питта, ветер, — поскольку [эти болезни] по большей части возникают от возбуждения желудка."
+        "text": "Иные же, в отношении их обоих, говорят о порядке: капха, питта, ветер, — поскольку [эти болезни] по большей части возникают от возбуждения желудка.",
+        "text_en": "Others, however, with regard to both of them, speak of the order: Kapha, Pitta, Vata, since [these diseases] mostly arise from the aggravation of the stomach."
       },
       {
         "type": "verse",
@@ -13133,7 +13222,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रमेणाद्येन तत्रापि प्रवृद्धान् स्वाश्रये स्थितान् स्वाश्रयेषु प्रदुष्टानां स्थितैव ह्याशुकारिता",
         "iast": "krameṇādyena tatrāpi pravṛddhān svāśraye sthitān svāśrayeṣu praduṣṭānāṃ sthitaiva hyāśukāritā",
         "iast_ru": "крамен̣а̄дйена татра̄пи правр̣ддха̄н сва̄ш́райе стхита̄н сва̄ш́райеш̣у прадуш̣т̣а̄на̄м̣ стхитаива хйа̄ш́ука̄рита̄",
-        "text": "Даже там, [при этом ином подходе], следует [сначала лечить дошу], возросшую по первому [порядку], [если она] находится в своём [собственном] месте; ибо быстрота действия испорченных [дош] проявляется именно [тогда, когда они] пребывают в своих собственных местах."
+        "text": "Даже там, [при этом ином подходе], следует [сначала лечить дошу], возросшую по первому [порядку], [если она] находится в своём [собственном] месте; ибо быстрота действия испорченных [дош] проявляется именно [тогда, когда они] пребывают в своих собственных местах.",
+        "text_en": "Even there, [in this other approach], one should [first treat the dosha] that has increased according to the first [order], [if it] is in its [own] site; for the swiftness of action of the vitiated [doshas] manifests precisely [when they] abide in their own sites."
       },
       {
         "type": "verse",
@@ -13141,7 +13231,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विज्ञाय कर्मभिः स्वैः स्वैर्दोषोद्रेकं यथाबलम् भेषजं योजयेत्तत्तत् तन्त्रीकुर्यान्न तु क्रमम्",
         "iast": "vijñāya karmabhiḥ svaiḥ svairdoṣodrekaṃ yathābalam bheṣajaṃ yojayettattat tantrīkuryānna tu kramam",
         "iast_ru": "виджн̃а̄йа кармабхих̣ сваих̣ сваирдош̣одрекам̣ йатха̄балам бхеш̣аджам̣ йоджайеттаттат тантрӣкурйа̄нна ту крамам",
-        "text": "Познав возбуждение [каждой] доши по её собственным характерным действиям, соответственно [её] силе, следует применять то или иное лекарство; но не следует делать [сам общий] порядок [лечения жёстким] правилом."
+        "text": "Познав возбуждение [каждой] доши по её собственным характерным действиям, соответственно [её] силе, следует применять то или иное лекарство; но не следует делать [сам общий] порядок [лечения жёстким] правилом.",
+        "text_en": "Having recognized the aggravation of [each] dosha by its own characteristic actions, according to [its] strength, one should apply this or that medicine; but the [general] order [of treatment] should not be made a [rigid] rule."
       },
       {
         "type": "verse",
@@ -13149,7 +13240,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रयोगः शमयेद् व्याधिं योन्यमन्यमुदीरयेत् नासौ विशुद्धः शुद्धस्तु शमयेद्यो न कोपयेत्",
         "iast": "prayogaḥ śamayed vyādhiṃ yonyamanyamudīrayet nāsau viśuddhaḥ śuddhastu śamayedyo na kopayet",
         "iast_ru": "прайогах̣ ш́амайед вйа̄дхим̣ йонйаманйамудӣрайет на̄сау виш́уддхах̣ ш́уддхасту ш́амайедйо на копайет",
-        "text": "[Правильно] применённое [лекарство] должно успокаивать [данную] болезнь [и] не возбуждать другую; то [лекарство], которое [возбуждает другую болезнь], — не является чистым; чистое же — то, которое успокаивает [одно] и не возбуждает [другое]."
+        "text": "[Правильно] применённое [лекарство] должно успокаивать [данную] болезнь [и] не возбуждать другую; то [лекарство], которое [возбуждает другую болезнь], — не является чистым; чистое же — то, которое успокаивает [одно] и не возбуждает [другое].",
+        "text_en": "The medicine [correctly] applied should pacify [the given] disease [and] not aggravate another; that medicine which [aggravates another disease] is not pure; pure is that which pacifies [one] and does not aggravate [the other]."
       },
       {
         "type": "verse",
@@ -13157,7 +13249,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रुद्धं मलमलं जेतुं नाल्पभावादुभावपि दोषा दोषात्मकत्वाच्च न समे ऽपि परस्परम्",
         "iast": "kruddhaṃ malamalaṃ jetuṃ nālpabhāvādubhāvapi doṣā doṣātmakatvācca na same 'pi parasparam",
         "iast_ru": "круддхам̣ маламалам̣ джетум̣ на̄лпабха̄ва̄дубха̄вапи дош̣а̄ дош̣а̄тмакатва̄чча на саме 'пи параспарам",
-        "text": "Возбуждённую [дошу] не [следует пытаться] победить [лекарством], [действующим] лишь малой силой; и даже те две доши, [что] равны [по силе], не [равны] друг другу [по своей] природе [расстройства]."
+        "text": "Возбуждённую [дошу] не [следует пытаться] победить [лекарством], [действующим] лишь малой силой; и даже те две доши, [что] равны [по силе], не [равны] друг другу [по своей] природе [расстройства].",
+        "text_en": "An aggravated [dosha] should not [be attempted to be] overcome by [a medicine] acting with only little strength; and even those two doshas [that] are equal [in strength] are not [equal] to each other [in the nature of the disorder]."
       },
       {
         "type": "verse",
@@ -13165,7 +13258,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीतद्रवाम्ललवणकट्वादिगुणतुल्यता दृष्टा मिथश्च दोषेषु नातोन्योन्यं जयन्ति ते",
         "iast": "śītadravāmlalavaṇakaṭvādiguṇatulyatā dṛṣṭā mithaśca doṣeṣu nātonyonyaṃ jayanti te",
         "iast_ru": "ш́ӣтадрава̄млалаван̣акат̣ва̄дигун̣атулйата̄ др̣ш̣т̣а̄ митхаш́ча дош̣еш̣у на̄тонйонйам̣ джайанти те",
-        "text": "Наблюдается равенство качеств — холода, жидкости, кислоты, солёности, остроты и подобного — между дошами взаимно; поэтому они не побеждают друг друга [автоматически, только на основании общих качеств]."
+        "text": "Наблюдается равенство качеств — холода, жидкости, кислоты, солёности, остроты и подобного — между дошами взаимно; поэтому они не побеждают друг друга [автоматически, только на основании общих качеств].",
+        "text_en": "An equality of qualities, such as cold, liquidity, sourness, saltiness, pungency and the like, is observed between the doshas mutually; therefore they do not overcome each other [automatically, merely on the basis of shared qualities]."
       },
       {
         "type": "verse",
@@ -13173,7 +13267,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आरम्भकं विरोधे ऽपि मिथो यद्यत् गुणत्रयम् विश्वस्य दृष्टं युगपद्व्याधेर्दोषत्रयं तथा",
         "iast": "ārambhakaṃ virodhe 'pi mitho yadyat guṇatrayam viśvasya dṛṣṭaṃ yugapadvyādherdoṣatrayaṃ tathā",
         "iast_ru": "а̄рамбхакам̣ виродхе 'пи митхо йадйат гун̣атрайам виш́васйа др̣ш̣т̣ам̣ йугападвйа̄дхердош̣атрайам̣ татха̄",
-        "text": "Подобно тому, как наблюдается [действие] триады качеств, [даже] при их взаимном противоречии, как порождающих весь мир одновременно, — так же [действует] и триада дош [в] болезни."
+        "text": "Подобно тому, как наблюдается [действие] триады качеств, [даже] при их взаимном противоречии, как порождающих весь мир одновременно, — так же [действует] и триада дош [в] болезни.",
+        "text_en": "Just as the [action of] the triad of qualities (gunas) is observed, [even] in their mutual contradiction, as simultaneously producing the whole world, so also [acts] the triad of doshas [in] disease."
       },
       {
         "type": "verse",
@@ -13181,7 +13276,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वायुरामान्वयः सार्तिराध्मानकृदसञ्चरः दुर्गन्धमसितं पित्तं कटुकं बहलं गुरु",
         "iast": "vāyurāmānvayaḥ sārtirādhmānakṛdasañcaraḥ durgandhamasitaṃ pittaṃ kaṭukaṃ bahalaṃ guru",
         "iast_ru": "ва̄йура̄ма̄нвайах̣ са̄ртира̄дхма̄накр̣дасан̃чарах̣ дургандхамаситам̣ питтам̣ кат̣укам̣ бахалам̣ гуру",
-        "text": "Ветер, сопровождающий недоваренность (ама), — с болью, вызывает вздутие, неподвижен; недоваренная питта — зловонная, тёмная, острая, густая, тяжёлая;"
+        "text": "Ветер, сопровождающий недоваренность (ама), — с болью, вызывает вздутие, неподвижен; недоваренная питта — зловонная, тёмная, острая, густая, тяжёлая;",
+        "text_en": "Vata accompanied by uncooked state (ama) is with pain, causes distension, and is immobile; uncooked Pitta is foul-smelling, dark, pungent, thick, heavy;"
       },
       {
         "type": "verse",
@@ -13189,7 +13285,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आविलस्तन्तुमांस्त्यानः प्रलेपी पिच्छिलः कफः विपर्यये तु पक्वत्वं तथा ताम्रं समेचकम्",
         "iast": "āvilastantumāṃstyānaḥ pralepī picchilaḥ kaphaḥ viparyaye tu pakvatvaṃ tathā tāmraṃ samecakam",
         "iast_ru": "а̄виластантума̄м̣стйа̄нах̣ пралепӣ пиччхилах̣ капхах̣ випарйайе ту пакватвам̣ татха̄ та̄мрам̣ самечакам",
-        "text": "недоваренная капха — мутная, с нитями, застойная, покрывающая налётом, слизистая. В противоположном же случае — [это признак] переваренности [дош]; так же [переваренная питта] — медного цвета, чистая,"
+        "text": "недоваренная капха — мутная, с нитями, застойная, покрывающая налётом, слизистая. В противоположном же случае — [это признак] переваренности [дош]; так же [переваренная питта] — медного цвета, чистая,",
+        "text_en": "uncooked Kapha is turbid, stringy, stagnant, coating, slimy. In the opposite case, [it is a sign of] digestion [of the doshas]; likewise [digested Pitta] is copper-colored, clear,"
       },
       {
         "type": "verse",
@@ -13197,7 +13294,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पीतञ्च पित्तमच्छञ्च श्लेष्माच्छः पिण्डितो ऽथवा विशदश्च सफेनश्च धवलो मधुरो रसे",
         "iast": "pītañca pittamacchañca śleṣmācchaḥ piṇḍito 'thavā viśadaśca saphenaśca dhavalo madhuro rase",
         "iast_ru": "пӣтан̃ча питтамаччхан̃ча ш́леш̣ма̄ччхах̣ пин̣д̣ито 'тхава̄ виш́адаш́ча сапхенаш́ча дхавало мадхуро расе",
-        "text": "желтоватая — [переваренная] питта, прозрачная; [переваренная] капха — прозрачная, [или же] сгущённая, чистая, с пеной, белая, сладкая на вкус."
+        "text": "желтоватая — [переваренная] питта, прозрачная; [переваренная] капха — прозрачная, [или же] сгущённая, чистая, с пеной, белая, сладкая на вкус.",
+        "text_en": "yellowish, [digested] Pitta being transparent; [digested] Kapha is transparent, [or else] thickened, clear, frothy, white, sweet in taste."
       },
       {
         "type": "verse",
@@ -13205,7 +13303,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऊष्मणो ऽल्पबलत्वेन धातुमाद्यमपाचितम् दुष्टमामाशयगतं रसमामं प्रचक्षते",
         "iast": "ūṣmaṇo 'lpabalatvena dhātumādyamapācitam duṣṭamāmāśayagataṃ rasamāmaṃ pracakṣate",
         "iast_ru": "ӯш̣ман̣о 'лпабалатвена дха̄тума̄дйамапа̄читам душ̣т̣ама̄ма̄ш́айагатам̣ расама̄мам̣ прачакш̣ате",
-        "text": "Из-за малой силы [пищеварительного] жара, первую ткань, непереваренную, испорченную, находящуюся в желудке, называют «недоваренным соком»."
+        "text": "Из-за малой силы [пищеварительного] жара, первую ткань, непереваренную, испорченную, находящуюся в желудке, называют «недоваренным соком».",
+        "text_en": "Owing to the little strength of [digestive] heat, the first tissue, undigested, spoiled, situated in the stomach, is called 'uncooked rasa'."
       },
       {
         "type": "verse",
@@ -13213,7 +13312,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्ये दोषेभ्य एवातिदुष्टेभ्यो ऽन्योन्यमूर्च्छनात् कोद्रवेभ्यो विषस्येव वदन्त्यामस्य सम्भवम्",
         "iast": "anye doṣebhya evātiduṣṭebhyo 'nyonyamūrcchanāt kodravebhyo viṣasyeva vadantyāmasya sambhavam",
         "iast_ru": "анйе дош̣ебхйа ева̄тидуш̣т̣ебхйо 'нйонйамӯрччхана̄т кодравебхйо виш̣асйева вадантйа̄масйа самбхавам",
-        "text": "Иные же говорят, что возникновение недоваренности (ама) [происходит] именно от чрезмерно испорченных дош, из-за их взаимного смешения, — подобно [возникновению] яда из [зерна] кодравы."
+        "text": "Иные же говорят, что возникновение недоваренности (ама) [происходит] именно от чрезмерно испорченных дош, из-за их взаимного смешения, — подобно [возникновению] яда из [зерна] кодравы.",
+        "text_en": "Others say that the origin of the uncooked state (ama) [occurs] precisely from excessively vitiated doshas, owing to their mutual mixing, like [the origin of] poison from [the grain] kodrava."
       },
       {
         "type": "verse",
@@ -13221,7 +13321,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आमेन तेन सम्पृक्ता दोषा दूष्याश्च दूषिताः समा इत्युपदिश्यन्ते ये च रोगास्तदुद्भवाः",
         "iast": "āmena tena sampṛktā doṣā dūṣyāśca dūṣitāḥ samā ityupadiśyante ye ca rogāstadudbhavāḥ",
         "iast_ru": "а̄мена тена сампр̣кта̄ дош̣а̄ дӯш̣йа̄ш́ча дӯш̣ита̄х̣ сама̄ итйупадиш́йанте йе ча рога̄стадудбхава̄х̣",
-        "text": "Доши и [ткани], поддающиеся загрязнению, соединённые и загрязнённые этой недоваренностью, называются «сама»; и болезни, возникающие от этого, — [также относятся к этой категории]."
+        "text": "Доши и [ткани], поддающиеся загрязнению, соединённые и загрязнённые этой недоваренностью, называются «сама»; и болезни, возникающие от этого, — [также относятся к этой категории].",
+        "text_en": "The doshas and [tissues] liable to contamination, combined with and contaminated by this uncooked state, are called 'sama'; and the diseases arising from this [also belong to this category]."
       },
       {
         "type": "verse",
@@ -13229,7 +13330,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्वदेहप्रविसृतान् सामान् दोषान् न निर्हरेत् लीनान् धातुष्वनुत्क्लिष्टान् फलादामाद्रसानिव",
         "iast": "sarvadehapravisṛtān sāmān doṣān na nirharet līnān dhātuṣvanutkliṣṭān phalādāmādrasāniva",
         "iast_ru": "сарвадехаправиср̣та̄н са̄ма̄н дош̣а̄н на нирхарет лӣна̄н дха̄туш̣ванутклиш̣т̣а̄н пхала̄да̄ма̄драса̄нива",
-        "text": "Не следует [насильно] выводить доши, содержащие аму, [если они] распространились по всему телу, [или] застряли в тканях, [не будучи] возбуждёнными, — подобно тому, как [не следует силой извлекать] соки из незрелого плода."
+        "text": "Не следует [насильно] выводить доши, содержащие аму, [если они] распространились по всему телу, [или] застряли в тканях, [не будучи] возбуждёнными, — подобно тому, как [не следует силой извлекать] соки из незрелого плода.",
+        "text_en": "One should not [forcibly] expel doshas containing ama, [if they] have spread throughout the body, [or] are lodged in the tissues, [without being] aggravated, just as [one should not forcibly extract] juices from an unripe fruit."
       },
       {
         "type": "verse",
@@ -13237,7 +13339,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आश्नयस्य हि नाशाय ते स्युर्दुर्निर्हरत्वतः पाचनैर्दीपनैःस्रेहैस्तान् स्वेदैश्चपरिष्कृतान्",
         "iast": "āśnayasya hi nāśāya te syurdurnirharatvataḥ pācanairdīpanaiḥsrehaistān svedaiścapariṣkṛtān",
         "iast_ru": "а̄ш́найасйа хи на̄ш́а̄йа те сйурдурнирхаратватах̣ па̄чанаирдӣпанаих̣срехаиста̄н сведаиш́чапариш̣кр̣та̄н",
-        "text": "Ибо, из-за трудности их выведения, они [могут привести] к гибели [организма, если попытаться силой их извлечь]. Их следует обработать переваривающими, разжигающими [средствами], маслом и прогреванием,"
+        "text": "Ибо, из-за трудности их выведения, они [могут привести] к гибели [организма, если попытаться силой их извлечь]. Их следует обработать переваривающими, разжигающими [средствами], маслом и прогреванием,",
+        "text_en": "For, owing to the difficulty of their expulsion, they [may lead] to the destruction [of the organism, if one tries to extract them by force]. They should be treated with digestive, appetizing [remedies], oil and fomentation,"
       },
       {
         "type": "verse",
@@ -13245,7 +13348,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शोधयेच्छोधनैः काले यथासन्नं यथाबलम् हन्त्याशुयुक्तं वक्त्रेण द्रव्यमामाशयान्मलान्",
         "iast": "śodhayecchodhanaiḥ kāle yathāsannaṃ yathābalam hantyāśuyuktaṃ vaktreṇa dravyamāmāśayānmalān",
         "iast_ru": "ш́одхайеччходханаих̣ ка̄ле йатха̄саннам̣ йатха̄балам хантйа̄ш́уйуктам̣ вактрен̣а дравйама̄ма̄ш́айа̄нмала̄н",
-        "text": "[а затем] очистить очищающими [средствами] в [подходящее] время, в соответствии с [степенью] близости [к готовности к выведению] и [собственной] силой [пациента]; правильно применённое [через] рот вещество быстро устраняет нечистоты из желудка,"
+        "text": "[а затем] очистить очищающими [средствами] в [подходящее] время, в соответствии с [степенью] близости [к готовности к выведению] и [собственной] силой [пациента]; правильно применённое [через] рот вещество быстро устраняет нечистоты из желудка,",
+        "text_en": "[and then] purified with cleansing [measures] at the [suitable] time, in accordance with [the degree of] nearness [to readiness for expulsion] and the [own] strength of the [patient]; a substance correctly administered [through] the mouth quickly removes the impurities from the stomach,"
       },
       {
         "type": "verse",
@@ -13253,7 +13357,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घ्राणेन चोर्ध्वजत्रूत्थान् पक्वाधानात् गुदेन तु उत्क्लिष्टानध ऊर्ध्वं वा न चामान् वहतः स्वयम्",
         "iast": "ghrāṇena cordhvajatrūtthān pakvādhānāt gudena tu utkliṣṭānadha ūrdhvaṃ vā na cāmān vahataḥ svayam",
         "iast_ru": "гхра̄н̣ена чордхваджатрӯттха̄н паква̄дха̄на̄т гудена ту утклиш̣т̣а̄надха ӯрдхвам̣ ва̄ на ча̄ма̄н вахатах̣ свайам",
-        "text": "через нос — [нечистоты], возникшие выше ключиц; через задний проход же, при [достижении] переваренности, — [нечистоты снизу]; возбуждённые [доши, движущиеся] вниз или вверх, — [также выводятся соответственно]; но [организм] сам по себе не выводит [доши], содержащие недоваренность."
+        "text": "через нос — [нечистоты], возникшие выше ключиц; через задний проход же, при [достижении] переваренности, — [нечистоты снизу]; возбуждённые [доши, движущиеся] вниз или вверх, — [также выводятся соответственно]; но [организм] сам по себе не выводит [доши], содержащие недоваренность.",
+        "text_en": "through the nose, [the impurities] that have arisen above the collarbones; through the anus, on [reaching] the digested state, [the impurities from below]; the aggravated [doshas, moving] downward or upward, [are also expelled accordingly]; but [the organism] by itself does not expel [doshas] containing the uncooked state."
       },
       {
         "type": "verse",
@@ -13261,7 +13366,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धारयेदौषधैर्दोषान् विधृतास्ते हि कुर्वते रोगानुत्पादनिर्दिष्ठानतिस्थौल्यादिकान् गदान्",
         "iast": "dhārayedauṣadhairdoṣān vidhṛtāste hi kurvate rogānutpādanirdiṣṭhānatisthaulyādikān gadān",
         "iast_ru": "дха̄райедауш̣адхаирдош̣а̄н видхр̣та̄сте хи курвате рога̄нутпа̄данирдиш̣т̣ха̄натистхаулйа̄дика̄н гада̄н",
-        "text": "Следует сдерживать [возбуждённые, но ещё недоваренные] доши лекарствами; ибо, будучи сдержаны, они порождают болезни, указанные в разделе «Роганутпаданийя» и подобные [расстройства], такие как чрезмерная полнота и прочее."
+        "text": "Следует сдерживать [возбуждённые, но ещё недоваренные] доши лекарствами; ибо, будучи сдержаны, они порождают болезни, указанные в разделе «Роганутпаданийя» и подобные [расстройства], такие как чрезмерная полнота и прочее.",
+        "text_en": "One should restrain [the aggravated but still uncooked] doshas with medicines; for, when restrained, they give rise to the diseases described in the section 'Roganutpadaniya' and similar [disorders], such as excessive obesity and so on."
       },
       {
         "type": "verse",
@@ -13269,7 +13375,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रवृत्तान् प्रागतो दोषानुपेक्षेत हिताशिनः विबद्धान् पाचनैस्तैस्तैः पाचयन् निर्हरेत वा",
         "iast": "pravṛttān prāgato doṣānupekṣeta hitāśinaḥ vibaddhān pācanaistaistaiḥ pācayan nirhareta vā",
         "iast_ru": "правр̣тта̄н пра̄гато дош̣а̄нупекш̣ета хита̄ш́инах̣ вибаддха̄н па̄чанаистаистаих̣ па̄чайан нирхарета ва̄",
-        "text": "[Врач], заботящийся о благе [пациента], пусть не пренебрегает дошами, уже начавшими движение к выходу [естественным путём]; задержанные же [доши] следует, обработав различными переваривающими средствами, либо [затем] вывести."
+        "text": "[Врач], заботящийся о благе [пациента], пусть не пренебрегает дошами, уже начавшими движение к выходу [естественным путём]; задержанные же [доши] следует, обработав различными переваривающими средствами, либо [затем] вывести.",
+        "text_en": "[The physician], caring for the welfare [of the patient], should not neglect the doshas that have already begun to move toward the exit [by the natural route]; the retained [doshas], however, should be either, after treating with various digestive remedies, [then] eliminated."
       }
     ]
   },
@@ -13291,7 +13398,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो रोगभेदीयमध्यायं व्याख्यास्यामः इति हस्माहुरात्रेयादयो महर्षयः सप्तविधाः खलु रोगा भवन्ति सहगर्भजातपीडाकालप्रभावस्वभावजाः ते तु पृथग्द्विविधाः तत्र सहजाः शुक्रार्तवदोषान्वयाः कुष्ठार्शोमेहादयः पितृजा मातृजाश्च गर्भजा जनन्यभिवारात् कौब्जपाङ्गुल्यपैग्गल्यकिलासादयो ऽन्नरसजा दौहृदविमाननजाश्च जातजाः स्वापचारात् सन्तर्पणजा अपतर्पणजाश्च पीडाकृताः क्षतभङ्गप्रहारक्रोधशोकभयादयः शारीरमानसाश्च कालजाः शीतादिकृता ज्वरादयो व्यापन्नजा असंरक्षणजाश्च प्रभावजा देवगुरूल्लङ्घनशापार्थवणादिकृता ज्वरादयः पिशाचादयश्च स्वभावजाः क्षुत्पिपासाज्वरादयः कालजा अकालजाश्च तत्र कालजा रक्सणकृताः अरक्षणजा अकालजाः त एते समासतः पुनर्द्विविधा भवन्ति प्रत्युत्पन्नकर्मजाः पूर्वकर्मजाश्च तत्र रोगोत्पत्तिं प्रति प्रत्युत्पन्नं कर्म यदनेनैव शरीरेण दृष्टमदृष्टञ्चोद्दिश्याप्तोपदिष्टानां विहितानां प्रतिषिद्धानामननुष्ठानमनुष्ठानं वा जन्मान्तरातीतेन तु पूर्वम् तत्तु पुनर्दैवाख्यमुक्तञ्च नियतानियतभेदेन प्राक् तस्माद् दृष्टहेतवः प्रत्युत्पन्नकर्मजाः विपरीता दैवजन्मानः अल्पनिदाना महारुजाश्चोभयात्मकाः",
         "iast": "athāto rogabhedīyamadhyāyaṃ vyākhyāsyāmaḥ iti hasmāhurātreyādayo maharṣayaḥ saptavidhāḥ khalu rogā bhavanti sahagarbhajātapīḍākālaprabhāvasvabhāvajāḥ te tu pṛthagdvividhāḥ tatra sahajāḥ śukrārtavadoṣānvayāḥ kuṣṭhārśomehādayaḥ pitṛjā mātṛjāśca garbhajā jananyabhivārāt kaubjapāṅgulyapaiggalyakilāsādayo 'nnarasajā dauhṛdavimānanajāśca jātajāḥ svāpacārāt santarpaṇajā apatarpaṇajāśca pīḍākṛtāḥ kṣatabhaṅgaprahārakrodhaśokabhayādayaḥ śārīramānasāśca kālajāḥ śītādikṛtā jvarādayo vyāpannajā asaṃrakṣaṇajāśca prabhāvajā devagurūllaṅghanaśāpārthavaṇādikṛtā jvarādayaḥ piśācādayaśca svabhāvajāḥ kṣutpipāsājvarādayaḥ kālajā akālajāśca tatra kālajā raksaṇakṛtāḥ arakṣaṇajā akālajāḥ ta ete samāsataḥ punardvividhā bhavanti pratyutpannakarmajāḥ pūrvakarmajāśca tatra rogotpattiṃ prati pratyutpannaṃ karma yadanenaiva śarīreṇa dṛṣṭamadṛṣṭañcoddiśyāptopadiṣṭānāṃ vihitānāṃ pratiṣiddhānāmananuṣṭhānamanuṣṭhānaṃ vā janmāntarātītena tu pūrvam tattu punardaivākhyamuktañca niyatāniyatabhedena prāk tasmād dṛṣṭahetavaḥ pratyutpannakarmajāḥ viparītā daivajanmānaḥ alpanidānā mahārujāścobhayātmakāḥ",
         "iast_ru": "атха̄то рогабхедӣйамадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити хасма̄хура̄трейа̄дайо махарш̣айах̣ саптавидха̄х̣ кхалу рога̄ бхаванти сахагарбхаджа̄тапӣд̣а̄ка̄лапрабха̄васвабха̄ваджа̄х̣ те ту пр̣тхагдвивидха̄х̣ татра сахаджа̄х̣ ш́укра̄ртавадош̣а̄нвайа̄х̣ куш̣т̣ха̄рш́омеха̄дайах̣ питр̣джа̄ ма̄тр̣джа̄ш́ча гарбхаджа̄ джананйабхива̄ра̄т каубджапа̄н̇гулйапаиггалйакила̄са̄дайо 'ннарасаджа̄ даухр̣давима̄нанаджа̄ш́ча джа̄таджа̄х̣ сва̄пача̄ра̄т сантарпан̣аджа̄ апатарпан̣аджа̄ш́ча пӣд̣а̄кр̣та̄х̣ кш̣атабхан̇гапраха̄ракродхаш́окабхайа̄дайах̣ ш́а̄рӣрама̄наса̄ш́ча ка̄ладжа̄х̣ ш́ӣта̄дикр̣та̄ джвара̄дайо вйа̄паннаджа̄ асам̣ракш̣ан̣аджа̄ш́ча прабха̄ваджа̄ девагурӯллан̇гханаш́а̄па̄ртхаван̣а̄дикр̣та̄ джвара̄дайах̣ пиш́а̄ча̄дайаш́ча свабха̄ваджа̄х̣ кш̣утпипа̄са̄джвара̄дайах̣ ка̄ладжа̄ ака̄ладжа̄ш́ча татра ка̄ладжа̄ раксан̣акр̣та̄х̣ аракш̣ан̣аджа̄ ака̄ладжа̄х̣ та ете сама̄сатах̣ пунардвивидха̄ бхаванти пратйутпаннакармаджа̄х̣ пӯрвакармаджа̄ш́ча татра роготпаттим̣ прати пратйутпаннам̣ карма йаданенаива ш́арӣрен̣а др̣ш̣т̣амадр̣ш̣т̣ан̃чоддиш́йа̄птопадиш̣т̣а̄на̄м̣ вихита̄на̄м̣ пратиш̣иддха̄на̄манануш̣т̣ха̄намануш̣т̣ха̄нам̣ ва̄ джанма̄нтара̄тӣтена ту пӯрвам татту пунардаива̄кхйамуктан̃ча нийата̄нийатабхедена пра̄к тасма̄д др̣ш̣т̣ахетавах̣ пратйутпаннакармаджа̄х̣ випарӣта̄ даиваджанма̄нах̣ алпанида̄на̄ маха̄руджа̄ш́чобхайа̄тмака̄х̣",
-        "text": "Итак, далее мы разъясним главу под названием «Рогабхедийя» («Различие болезней») — так говорили великие риши, начиная с Атреи. Болезни, поистине, бывают семи видов: возникающие вместе [с зачатием], возникающие в утробе, возникающие после рождения, вызванные страданием, возникающие от времени, возникающие от сверхъестественного воздействия и возникающие от собственной природы. Они же, в свою очередь, каждая двух видов. Из них «сахаджа» — [болезни], связанные с испорченностью семени и менструальной крови, — кожные болезни, геморрой, прамеха и подобные; [а также] возникающие от отца или от матери. «Гарбхаджа» — от нарушений [поведения] матери [во время беременности] — горбатость, хромота, паралич, витилиго и подобные; а также от [неудовлетворённых] желаний беременной и от оскорблений [во время беременности]. «Джатаджа» — от неправильного собственного поведения [после рождения] — [болезни] от перекармливания и от недокармливания. [Болезни], вызванные страданием, — травмы, переломы, удары, гнев, горе, страх и подобные, [как] телесные, [так и] душевные. «Каладжа» — вызванные холодом и подобным, [такие как] лихорадка и подобные; [а также] возникающие от неблагоприятных [условий] и от отсутствия защиты. «Прабхаваджа» — вызванные нарушением [почтения] к богам и наставникам, проклятием, [колдовским] заговором и подобным, — лихорадка и подобные [болезни], а также одержимость злыми духами и подобное. «Свабхаваджа» — голод, жажда, [естественная] лихорадка и подобные. Своевременные и несвоевременные; из них своевременные вызваны [отсутствием] защиты, несвоевременные — от [полного] отсутствия защиты. Эти же семь видов, вкратце, в свою очередь бывают двух видов: возникающие от недавнего действия и возникающие от прежнего действия. Из них, в отношении возникновения болезни, «недавнее действие» — это то, что, применительно к самому этому телу, видимое или невидимое, [означает] неисполнение предписанного или исполнение запрещённого достойными [наставниками]; «прежнее» же — [от действия], совершённого в иной прошлой жизни. Оно же, в свою очередь, называется «дайва» и было прежде описано по различию определённого и неопределённого. Поэтому [болезни] с видимыми причинами возникают от недавнего действия; противоположные — рождены от судьбы. [Болезни] с малой причиной [бывают] тяжёлыми [по силе] или обоих родов."
+        "text": "Итак, далее мы разъясним главу под названием «Рогабхедийя» («Различие болезней») — так говорили великие риши, начиная с Атреи. Болезни, поистине, бывают семи видов: возникающие вместе [с зачатием], возникающие в утробе, возникающие после рождения, вызванные страданием, возникающие от времени, возникающие от сверхъестественного воздействия и возникающие от собственной природы. Они же, в свою очередь, каждая двух видов. Из них «сахаджа» — [болезни], связанные с испорченностью семени и менструальной крови, — кожные болезни, геморрой, прамеха и подобные; [а также] возникающие от отца или от матери. «Гарбхаджа» — от нарушений [поведения] матери [во время беременности] — горбатость, хромота, паралич, витилиго и подобные; а также от [неудовлетворённых] желаний беременной и от оскорблений [во время беременности]. «Джатаджа» — от неправильного собственного поведения [после рождения] — [болезни] от перекармливания и от недокармливания. [Болезни], вызванные страданием, — травмы, переломы, удары, гнев, горе, страх и подобные, [как] телесные, [так и] душевные. «Каладжа» — вызванные холодом и подобным, [такие как] лихорадка и подобные; [а также] возникающие от неблагоприятных [условий] и от отсутствия защиты. «Прабхаваджа» — вызванные нарушением [почтения] к богам и наставникам, проклятием, [колдовским] заговором и подобным, — лихорадка и подобные [болезни], а также одержимость злыми духами и подобное. «Свабхаваджа» — голод, жажда, [естественная] лихорадка и подобные. Своевременные и несвоевременные; из них своевременные вызваны [отсутствием] защиты, несвоевременные — от [полного] отсутствия защиты. Эти же семь видов, вкратце, в свою очередь бывают двух видов: возникающие от недавнего действия и возникающие от прежнего действия. Из них, в отношении возникновения болезни, «недавнее действие» — это то, что, применительно к самому этому телу, видимое или невидимое, [означает] неисполнение предписанного или исполнение запрещённого достойными [наставниками]; «прежнее» же — [от действия], совершённого в иной прошлой жизни. Оно же, в свою очередь, называется «дайва» и было прежде описано по различию определённого и неопределённого. Поэтому [болезни] с видимыми причинами возникают от недавнего действия; противоположные — рождены от судьбы. [Болезни] с малой причиной [бывают] тяжёлыми [по силе] или обоих родов.",
+        "text_en": "Now we shall expound the chapter named 'Rogabhediya' ('Differentiation of Diseases'), as the great sages headed by Atreya declared. Diseases, indeed, are of seven kinds: those arising together [with conception], those arising in the womb, those arising after birth, those caused by affliction, those arising from time, those arising from supernatural influence, and those arising from one's own nature. These, in turn, are each of two kinds. Of these, 'sahaja' are [diseases] connected with the vitiation of semen and menstrual blood, such as skin diseases, hemorrhoids, prameha and the like; [as well as] those arising from the father or the mother. 'Garbhaja' are from disturbances [of conduct] of the mother [during pregnancy], such as hunchback, lameness, paralysis, vitiligo and the like; and also from [unfulfilled] longings of the pregnant woman and from insults [during pregnancy]. 'Jataja' are from one's own improper conduct [after birth], [diseases] from overfeeding and from underfeeding. [Diseases] caused by affliction are injuries, fractures, blows, anger, grief, fear and the like, [both] bodily [and] mental. 'Kalaja' are those caused by cold and the like, [such as] fever and the like; [as well as] those arising from unfavorable [conditions] and from lack of protection. 'Prabhavaja' are those caused by the violation of [reverence for] gods and preceptors, by a curse, a [magical] incantation and the like, fever and similar [diseases], as well as possession by evil spirits and the like. 'Svabhavaja' are hunger, thirst, [natural] fever and the like. Timely and untimely; of these, the timely are caused by [lack of] protection, the untimely by [complete] absence of protection. These seven kinds, in brief, are in turn of two kinds: those arising from recent action and those arising from former action. Of these, with regard to the arising of disease, 'recent action' is that which, in relation to this very body, visible or invisible, [means] the non-performance of what is prescribed or the performance of what is forbidden by worthy [teachers]; 'former' is [from the action] performed in another past life. This, in turn, is called 'daiva' and was described earlier according to the distinction of definite and indefinite. Therefore [diseases] with visible causes arise from recent action; the opposite ones are born of destiny. [Diseases] with a small cause [are] severe [in strength] or of both kinds."
       },
       {
         "type": "verse",
@@ -13299,7 +13407,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र यथास्वं प्रतिपक्षशीलनात् पूर्वेषां रोगाणामुपशमः सत्येव विपक्षशीलने ऽनिष्टकर्मक्षयात् दैविकानाम् दोषकर्मक्षयादन्येषाम् अन्ये पुनः प्रत्युत्पन्नं कर्म परकृतमपि वर्णयन्ति तच्च पराभिसंस्कारमाचक्षते एवञ्चाहुः यदि स्वयं कृतादेवकर्मणः कार्यानिर्वृत्तिः स्यात् न दृष्टपुरुषान्तरकृतात् किमिति विद्वानपि पराचरितयोरुपकारापकारयोः सुखदुःखानुरोधात्तोषरोषौ प्रतिकर्तव्यचित्तं वा प्रतिपद्यते एवमेते व्याधयो द्विविधाः सन्तः त्रिविधा जायन्ते ततश्च दोषवन्तो भूयः सप्तविधाः",
         "iast": "tatra yathāsvaṃ pratipakṣaśīlanāt pūrveṣāṃ rogāṇāmupaśamaḥ satyeva vipakṣaśīlane 'niṣṭakarmakṣayāt daivikānām doṣakarmakṣayādanyeṣām anye punaḥ pratyutpannaṃ karma parakṛtamapi varṇayanti tacca parābhisaṃskāramācakṣate evañcāhuḥ yadi svayaṃ kṛtādevakarmaṇaḥ kāryānirvṛttiḥ syāt na dṛṣṭapuruṣāntarakṛtāt kimiti vidvānapi parācaritayorupakārāpakārayoḥ sukhaduḥkhānurodhāttoṣaroṣau pratikartavyacittaṃ vā pratipadyate evamete vyādhayo dvividhāḥ santaḥ trividhā jāyante tataśca doṣavanto bhūyaḥ saptavidhāḥ",
         "iast_ru": "татра йатха̄свам̣ пратипакш̣аш́ӣлана̄т пӯрвеш̣а̄м̣ рога̄н̣а̄мупаш́амах̣ сатйева випакш̣аш́ӣлане 'ниш̣т̣акармакш̣айа̄т даивика̄на̄м дош̣акармакш̣айа̄данйеш̣а̄м анйе пунах̣ пратйутпаннам̣ карма паракр̣тамапи варн̣айанти тачча пара̄бхисам̣ска̄рама̄чакш̣ате еван̃ча̄хух̣ йади свайам̣ кр̣та̄девакарман̣ах̣ ка̄рйа̄нирвр̣ттих̣ сйа̄т на др̣ш̣т̣апуруш̣а̄нтаракр̣та̄т кимити видва̄напи пара̄чаритайорупака̄ра̄пака̄райох̣ сукхадух̣кха̄нуродха̄ттош̣арош̣ау пратикартавйачиттам̣ ва̄ пратипадйате евамете вйа̄дхайо двивидха̄х̣ сантах̣ тривидха̄ джа̄йанте таташ́ча дош̣аванто бхӯйах̣ саптавидха̄х̣",
-        "text": "Из них успокоение прежних болезней [достигается] соответственно применением противодействующего; но лишь при [действительном] применении противодействующего — для судьбоносных [болезней] — от истощения неблагоприятного действия судьбы; для прочих — от истощения [возбуждённой] доши через [лечебное] действие. Иные же описывают «недавнее действие» как совершённое [также] другим [человеком], и называют это «воздействием другого». И говорят так: если бы результат [действия] прекращался только от собственного совершённого действия, а не от [действия], совершённого [видимым образом] другим человеком, — то почему тогда даже мудрый [человек], в ответ на благодеяние или вред, причинённые другими, испытывает удовлетворение или гнев из-за [собственного] счастья или страдания, или же стремится отплатить [за содеянное]? Так эти болезни, будучи [первоначально] двух видов, становятся трёх видов; а затем, [учитывая] доши, — снова семи видов."
+        "text": "Из них успокоение прежних болезней [достигается] соответственно применением противодействующего; но лишь при [действительном] применении противодействующего — для судьбоносных [болезней] — от истощения неблагоприятного действия судьбы; для прочих — от истощения [возбуждённой] доши через [лечебное] действие. Иные же описывают «недавнее действие» как совершённое [также] другим [человеком], и называют это «воздействием другого». И говорят так: если бы результат [действия] прекращался только от собственного совершённого действия, а не от [действия], совершённого [видимым образом] другим человеком, — то почему тогда даже мудрый [человек], в ответ на благодеяние или вред, причинённые другими, испытывает удовлетворение или гнев из-за [собственного] счастья или страдания, или же стремится отплатить [за содеянное]? Так эти болезни, будучи [первоначально] двух видов, становятся трёх видов; а затем, [учитывая] доши, — снова семи видов.",
+        "text_en": "Of these, the pacification of former diseases [is achieved] accordingly by the application of the counteracting measure; but only when the counteracting measure is [actually] applied, for the destiny-born [diseases], from the exhaustion of the unfavorable action of destiny; for the others, from the exhaustion of the [aggravated] dosha through [therapeutic] action. Others, however, describe 'recent action' as performed [also] by another [person], and call it 'influence of another'. And they say thus: if the result [of an action] ceased only from one's own performed action, and not from [an action] performed [visibly] by another person, then why does even a wise [man], in response to a benefit or harm caused by others, feel satisfaction or anger because of [his own] happiness or suffering, or strive to repay [what was done]? Thus these diseases, being [originally] of two kinds, become of three kinds; and then, [taking into account] the doshas, again of seven kinds."
       },
       {
         "type": "verse",
@@ -13307,7 +13416,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सकलो ऽपि चायं रोगसमूहः प्रतिकारवानायुर्वेदविहितमुपदेशमपेक्षते यस्मान्नियतहेतुको ऽप्यामयः सम्यक् भिषगादेशानुष्ठानादुपात्तायुस्संस्कारापरिक्षये जातोपि वा सह्यवेदनतां प्रतिपद्यते अनुपक्रम्यमाणस्तु सर्व एव प्रायशो भिनत्यकण्डे स्वयमपि च दैवान्निदानाल्पतया वा निवर्तमानष्षोडशगुणसमुदित क्रियोपलम्भादाशुतरमपरिक्लिष्टस्य चापगच्छति अनियतफलदायिनि तु दैवे हिताभ्यासरतस्या ऽवकाशमेव न लभते व्याधिः तस्मान्न कस्याञ्चिदवस्थायामात्मवान् हिताहितयोः तुल्यदर्शी स्यात् त्रिविधाश्च पुनर्व्याधयो मृदुमध्याधिमात्रभेदेन तत्राल्पलक्षणा मृदवो मध्यलक्षणा मध्याः सम्पूर्णलक्षणास्त्वधिमात्राः ते पुनः सुखसाध्यादिविशेषेण चतुर्विधाः प्रागुपदिष्टाः सुबहुशो ऽपिच भिद्यमाना व्याधयो निजागन्तुतां न व्यभिचरन्ति",
         "iast": "sakalo 'pi cāyaṃ rogasamūhaḥ pratikāravānāyurvedavihitamupadeśamapekṣate yasmānniyatahetuko 'pyāmayaḥ samyak bhiṣagādeśānuṣṭhānādupāttāyussaṃskārāparikṣaye jātopi vā sahyavedanatāṃ pratipadyate anupakramyamāṇastu sarva eva prāyaśo bhinatyakaṇḍe svayamapi ca daivānnidānālpatayā vā nivartamānaṣṣoḍaśaguṇasamudita kriyopalambhādāśutaramaparikliṣṭasya cāpagacchati aniyataphaladāyini tu daive hitābhyāsaratasyā 'vakāśameva na labhate vyādhiḥ tasmānna kasyāñcidavasthāyāmātmavān hitāhitayoḥ tulyadarśī syāt trividhāśca punarvyādhayo mṛdumadhyādhimātrabhedena tatrālpalakṣaṇā mṛdavo madhyalakṣaṇā madhyāḥ sampūrṇalakṣaṇāstvadhimātrāḥ te punaḥ sukhasādhyādiviśeṣeṇa caturvidhāḥ prāgupadiṣṭāḥ subahuśo 'pica bhidyamānā vyādhayo nijāgantutāṃ na vyabhicaranti",
         "iast_ru": "сакало 'пи ча̄йам̣ рогасамӯхах̣ пратика̄рава̄на̄йурведавихитамупадеш́амапекш̣ате йасма̄ннийатахетуко 'пйа̄майах̣ самйак бхиш̣ага̄деш́а̄нуш̣т̣ха̄на̄дупа̄тта̄йуссам̣ска̄ра̄парикш̣айе джа̄топи ва̄ сахйаведаната̄м̣ пратипадйате анупакрамйама̄н̣асту сарва ева пра̄йаш́о бхинатйакан̣д̣е свайамапи ча даива̄ннида̄на̄лпатайа̄ ва̄ нивартама̄наш̣ш̣од̣аш́агун̣асамудита крийопаламбха̄да̄ш́утарамапариклиш̣т̣асйа ча̄пагаччхати анийатапхалада̄йини ту даиве хита̄бхйа̄саратасйа̄ 'вака̄ш́амева на лабхате вйа̄дхих̣ тасма̄нна касйа̄н̃чидавастха̄йа̄ма̄тмава̄н хита̄хитайох̣ тулйадарш́ӣ сйа̄т тривидха̄ш́ча пунарвйа̄дхайо мр̣думадхйа̄дхима̄трабхедена татра̄лпалакш̣ан̣а̄ мр̣даво мадхйалакш̣ан̣а̄ мадхйа̄х̣ сампӯрн̣алакш̣ан̣а̄ствадхима̄тра̄х̣ те пунах̣ сукхаса̄дхйа̄дивиш́еш̣ен̣а чатурвидха̄х̣ пра̄гупадиш̣т̣а̄х̣ субахуш́о 'пича бхидйама̄на̄ вйа̄дхайо ниджа̄гантута̄м̣ на вйабхичаранти",
-        "text": "И вся эта совокупность болезней, будучи [в принципе] излечимой, требует наставления, предписанного Аюрведой; ибо даже болезнь с определённой причиной, при надлежащем исполнении указаний врача, [если] жизненный запас [пациента] не исчерпан, — даже [если] она [всё же] возникла, приобретает переносимую степень страдания. Всякая же [болезнь], оставленная без лечения, по большей части, спонтанно, сама по себе разрешается внезапно, [лишь] отступая [либо] от судьбы, либо от малости [своей] причины; [болезнь же], сопровождаемая полным набором шестнадцати неблагоприятных качеств, отступает быстрее и у неослабленного [пациента, применяющего лечение]. При же судьбе, приносящей неопределённый плод, болезнь вовсе не находит возможности [проявиться] у того, кто привержен полезной практике. Поэтому владеющий собой [человек] не должен ни при каком состоянии [своего здоровья] относиться безразлично к полезному и вредному. Болезни же, в свою очередь, трёх видов, по различию мягкой, средней и сильной [степени]: из них с малыми признаками — мягкие; со средними признаками — средние; с полными признаками — сильные. Они же, в свою очередь, четырёх видов, по особенности легкоизлечимости и подобного, [как] прежде было указано. Хотя болезни и разделяются весьма многообразно, они не выходят за пределы [деления на] «ниджа» (внутренние) и «агантука» (случайные, внешние)."
+        "text": "И вся эта совокупность болезней, будучи [в принципе] излечимой, требует наставления, предписанного Аюрведой; ибо даже болезнь с определённой причиной, при надлежащем исполнении указаний врача, [если] жизненный запас [пациента] не исчерпан, — даже [если] она [всё же] возникла, приобретает переносимую степень страдания. Всякая же [болезнь], оставленная без лечения, по большей части, спонтанно, сама по себе разрешается внезапно, [лишь] отступая [либо] от судьбы, либо от малости [своей] причины; [болезнь же], сопровождаемая полным набором шестнадцати неблагоприятных качеств, отступает быстрее и у неослабленного [пациента, применяющего лечение]. При же судьбе, приносящей неопределённый плод, болезнь вовсе не находит возможности [проявиться] у того, кто привержен полезной практике. Поэтому владеющий собой [человек] не должен ни при каком состоянии [своего здоровья] относиться безразлично к полезному и вредному. Болезни же, в свою очередь, трёх видов, по различию мягкой, средней и сильной [степени]: из них с малыми признаками — мягкие; со средними признаками — средние; с полными признаками — сильные. Они же, в свою очередь, четырёх видов, по особенности легкоизлечимости и подобного, [как] прежде было указано. Хотя болезни и разделяются весьма многообразно, они не выходят за пределы [деления на] «ниджа» (внутренние) и «агантука» (случайные, внешние).",
+        "text_en": "And this whole set of diseases, being [in principle] curable, requires the instruction prescribed by Ayurveda; for even a disease with a definite cause, when the physician's instructions are duly followed, [if] the [patient's] life-store is not exhausted, even [if] it [still] has arisen, acquires a tolerable degree of suffering. Every [disease] left without treatment, for the most part, spontaneously, of itself resolves suddenly, [only] receding [either] from destiny or from the smallness of [its] cause; [a disease], however, accompanied by the full set of sixteen unfavorable qualities, recedes more quickly even in an unweakened [patient who applies treatment]. When destiny brings an indefinite fruit, the disease does not find an opportunity [to manifest] at all in one who is devoted to wholesome practice. Therefore a self-controlled [person] should not, in any state [of his health], be indifferent to the wholesome and the harmful. Diseases, in turn, are of three kinds, according to the distinction of mild, moderate and severe [degree]: of these, those with few signs are mild; with moderate signs, moderate; with complete signs, severe. They, in turn, are of four kinds, according to the distinction of ease of cure and the like, [as] was indicated earlier. Although diseases are divided in very many ways, they do not go beyond [the division into] 'nija' (internal) and 'agantuka' (accidental, external)."
       },
       {
         "type": "verse",
@@ -13315,7 +13425,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र निजास्तु दोषोत्थाः तेषु पूर्वं वातादयो वैषम्यमापद्यन्ते ततो व्यथाभिनिर्वर्तते बाह्यहेतुजास्त्वागन्तवः तेषु प्राहरेण व्यथा पूर्वमुपजायते ततो दोषवैषम्यम् दोषवैषम्येणैव च बहुरूपा रुगनुबध्यते प्रवर्द्धते च एवञ्च कृत्वा न दोषव्यतिरेकेण रोगानुबन्धः केवलं पौर्वापर्ये विशेषः तस्मादेकाकारा एवरोगा रुक्सामान्यात् असङ्ख्यभेदा वा प्रत्येकं समुत्थानस्थानसंस्थानवर्णनामवेदनाप्रभावो पक्वमविशेषात् यथास्थूलं यथास्वमेवोपदेक्ष्यन्ते असङ्ख्येयत्वाच्च दोषलिङ्गैरेव रोगानुपक्रमं च विभजेत्",
         "iast": "tatra nijāstu doṣotthāḥ teṣu pūrvaṃ vātādayo vaiṣamyamāpadyante tato vyathābhinirvartate bāhyahetujāstvāgantavaḥ teṣu prāhareṇa vyathā pūrvamupajāyate tato doṣavaiṣamyam doṣavaiṣamyeṇaiva ca bahurūpā ruganubadhyate pravarddhate ca evañca kṛtvā na doṣavyatirekeṇa rogānubandhaḥ kevalaṃ paurvāparye viśeṣaḥ tasmādekākārā evarogā ruksāmānyāt asaṅkhyabhedā vā pratyekaṃ samutthānasthānasaṃsthānavarṇanāmavedanāprabhāvo pakvamaviśeṣāt yathāsthūlaṃ yathāsvamevopadekṣyante asaṅkhyeyatvācca doṣaliṅgaireva rogānupakramaṃ ca vibhajet",
         "iast_ru": "татра ниджа̄сту дош̣оттха̄х̣ теш̣у пӯрвам̣ ва̄та̄дайо ваиш̣амйама̄падйанте тато вйатха̄бхинирвартате ба̄хйахетуджа̄ства̄гантавах̣ теш̣у пра̄харен̣а вйатха̄ пӯрвамупаджа̄йате тато дош̣аваиш̣амйам дош̣аваиш̣амйен̣аива ча бахурӯпа̄ руганубадхйате праварддхате ча еван̃ча кр̣тва̄ на дош̣авйатирекен̣а рога̄нубандхах̣ кевалам̣ паурва̄парйе виш́еш̣ах̣ тасма̄дека̄ка̄ра̄ еварога̄ рукса̄ма̄нйа̄т асан̇кхйабхеда̄ ва̄ пратйекам̣ самуттха̄настха̄насам̣стха̄наварн̣ана̄маведана̄прабха̄во паквамавиш́еш̣а̄т йатха̄стхӯлам̣ йатха̄свамевопадекш̣йанте асан̇кхйейатва̄чча дош̣алин̇гаирева рога̄нупакрамам̣ ча вибхаджет",
-        "text": "Из них «внутренние» — возникающие от [самих] дош; в них сначала ветер и другие [доши] приходят в неравновесие, а затем возникает [телесное] страдание. «Внешние» же, возникшие от внешней причины, — в них сначала, от удара [внешнего фактора], возникает страдание, а затем — неравновесие дош. И именно от неравновесия дош возникает и усиливается многообразная боль. Таким образом, без [вовлечения] доши не бывает продолжения болезни; различие [между ниджа и агантука] — лишь в [порядке] предшествования и следования. Поэтому болезни — либо однородны по общности боли, либо [имеют] бесчисленные различия; каждая из них будет изложена в общих чертах, соответственно [своей природе], по [признакам]: происхождение, локализация, внешний вид, название, боль, [специфическое] действие. Из-за же [их] неисчислимости, следует разделять болезни и их лечение именно по признакам дош."
+        "text": "Из них «внутренние» — возникающие от [самих] дош; в них сначала ветер и другие [доши] приходят в неравновесие, а затем возникает [телесное] страдание. «Внешние» же, возникшие от внешней причины, — в них сначала, от удара [внешнего фактора], возникает страдание, а затем — неравновесие дош. И именно от неравновесия дош возникает и усиливается многообразная боль. Таким образом, без [вовлечения] доши не бывает продолжения болезни; различие [между ниджа и агантука] — лишь в [порядке] предшествования и следования. Поэтому болезни — либо однородны по общности боли, либо [имеют] бесчисленные различия; каждая из них будет изложена в общих чертах, соответственно [своей природе], по [признакам]: происхождение, локализация, внешний вид, название, боль, [специфическое] действие. Из-за же [их] неисчислимости, следует разделять болезни и их лечение именно по признакам дош.",
+        "text_en": "Of these, 'internal' are those arising from [the doshas] themselves; in them first Vata and the other [doshas] come into imbalance, and then [bodily] suffering arises. The 'external' ones, however, arising from an external cause, in them first, from the impact of [an external factor], suffering arises, and then the imbalance of the doshas. And it is precisely from the imbalance of the doshas that manifold pain arises and increases. Thus, without [involvement of] a dosha there is no continuation of disease; the distinction [between nija and agantuka] lies only in [the order of] precedence and succession. Therefore diseases are either uniform in the commonality of pain, or [have] countless differences; each of them will be set forth in general outline, according to [its nature], by [the signs]: origin, localization, appearance, name, pain, [specific] action. Because of their countlessness, however, diseases and their treatment should be distinguished precisely by the signs of the doshas."
       },
       {
         "type": "verse",
@@ -13323,7 +13434,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दोषा एव हि सर्वरोगककारणम् यथैव शकुनिः सर्वतः परिपतन् दिवसं स्वां च्छायां नातिवर्तते यथा वा कृत्स्नं विकारजातं वैश्वरूप्येण व्यवस्ह्तितं गुणत्रयमप्यतिरिच्य न वर्तते तथैवेदमपि कृत्स्नं विकारजातं दोषत्रयमिति यथा च विद्युद्वर्षादयो नभसि भवन्ति न त्ववश्यं निमित्ततस्त्ववश्यमपि तरङ्गबुद्बुदादयश्चाम्भसि तथा दोषेषु रोगाः",
         "iast": "doṣā eva hi sarvarogakakāraṇam yathaiva śakuniḥ sarvataḥ paripatan divasaṃ svāṃ cchāyāṃ nātivartate yathā vā kṛtsnaṃ vikārajātaṃ vaiśvarūpyeṇa vyavashtitaṃ guṇatrayamapyatiricya na vartate tathaivedamapi kṛtsnaṃ vikārajātaṃ doṣatrayamiti yathā ca vidyudvarṣādayo nabhasi bhavanti na tvavaśyaṃ nimittatastvavaśyamapi taraṅgabudbudādayaścāmbhasi tathā doṣeṣu rogāḥ",
         "iast_ru": "дош̣а̄ ева хи сарварогакака̄ран̣ам йатхаива ш́акуних̣ сарватах̣ парипатан дивасам̣ сва̄м̣ ччха̄йа̄м̣ на̄тивартате йатха̄ ва̄ кр̣тснам̣ вика̄раджа̄там̣ ваиш́варӯпйен̣а вйавасхтитам̣ гун̣атрайамапйатиричйа на вартате татхаиведамапи кр̣тснам̣ вика̄раджа̄там̣ дош̣атрайамити йатха̄ ча видйудварш̣а̄дайо набхаси бхаванти на тваваш́йам̣ нимиттатастваваш́йамапи таран̇габудбуда̄дайаш́ча̄мбхаси татха̄ дош̣еш̣у рога̄х̣",
-        "text": "Ибо, поистине, именно доши — причина всех болезней. Подобно тому, как птица, летая повсюду в течение дня, не выходит за пределы своей собственной тени; или подобно тому, как весь разнообразный сотворённый мир, хотя и проявляется в различных формах, не существует вне триады качеств, — точно так же и вся эта совокупность болезней [не существует] вне триады дош. И подобно тому, как молния, дождь и подобное возникают в небе не обязательно от [конкретной внешней] причины, а волны, пузыри и подобное на воде — обязательно [от причины], — так же [бывает] и с болезнями в отношении дош."
+        "text": "Ибо, поистине, именно доши — причина всех болезней. Подобно тому, как птица, летая повсюду в течение дня, не выходит за пределы своей собственной тени; или подобно тому, как весь разнообразный сотворённый мир, хотя и проявляется в различных формах, не существует вне триады качеств, — точно так же и вся эта совокупность болезней [не существует] вне триады дош. И подобно тому, как молния, дождь и подобное возникают в небе не обязательно от [конкретной внешней] причины, а волны, пузыри и подобное на воде — обязательно [от причины], — так же [бывает] и с болезнями в отношении дош.",
+        "text_en": "For, indeed, the doshas themselves are the cause of all diseases. Just as a bird, flying everywhere during the day, does not go beyond its own shadow; or just as the whole varied created world, although manifesting in various forms, does not exist outside the triad of qualities, so also this whole set of diseases [does not exist] outside the triad of doshas. And just as lightning, rain and the like arise in the sky not necessarily from a [specific external] cause, while waves, bubbles and the like on water [arise] necessarily [from a cause], so it is also with diseases in relation to the doshas."
       },
       {
         "type": "verse",
@@ -13331,7 +13443,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिविधन्तु निमित्तमेषामसात्म्येन्द्रियार्थसंयोगः पज्ञापराधाः परिणामश्च ते पुनः प्रत्येकमतियोगायोगमिथ्यायोगभेदात् त्रिधा भिद्यन्ते तत्र यथास्वं चक्षुरादीन्द्रियाणां रूपादिभिरर्थैरतिसंसर्गो ऽतियोगः अल्पशो नैव वा संसर्गस्त्वयोगः सूक्ष्मातिदूरान्तिकस्थातिभास्वत्भरवाप्रियविकृतादिदशनम् द्विष्टात्युच्चपरुषभीषणादिश्रवणम् पूत्यमेध्यातितीक्ष्णोग्रप्रतिकूलाद्याघ्राणम् स्वभावादिभिराहारकल्पनाविशेषायतनैरपथ्यानां रसानामभ्यवहारः तथा स्नानादीनां शीतोष्णादीनाञ्च स्पृश्यानामयथावदुपसेवनमशुचिभूताभिघातविषवातादिसंस्पर्शश्च भिथ्यायोगः",
         "iast": "trividhantu nimittameṣāmasātmyendriyārthasaṃyogaḥ pajñāparādhāḥ pariṇāmaśca te punaḥ pratyekamatiyogāyogamithyāyogabhedāt tridhā bhidyante tatra yathāsvaṃ cakṣurādīndriyāṇāṃ rūpādibhirarthairatisaṃsargo 'tiyogaḥ alpaśo naiva vā saṃsargastvayogaḥ sūkṣmātidūrāntikasthātibhāsvatbharavāpriyavikṛtādidaśanam dviṣṭātyuccaparuṣabhīṣaṇādiśravaṇam pūtyamedhyātitīkṣṇograpratikūlādyāghrāṇam svabhāvādibhirāhārakalpanāviśeṣāyatanairapathyānāṃ rasānāmabhyavahāraḥ tathā snānādīnāṃ śītoṣṇādīnāñca spṛśyānāmayathāvadupasevanamaśucibhūtābhighātaviṣavātādisaṃsparśaśca bhithyāyogaḥ",
         "iast_ru": "тривидханту нимиттамеш̣а̄маса̄тмйендрийа̄ртхасам̣йогах̣ паджн̃а̄пара̄дха̄х̣ парин̣а̄маш́ча те пунах̣ пратйекаматийога̄йогамитхйа̄йогабхеда̄т тридха̄ бхидйанте татра йатха̄свам̣ чакш̣ура̄дӣндрийа̄н̣а̄м̣ рӯпа̄дибхирартхаиратисам̣сарго 'тийогах̣ алпаш́о наива ва̄ сам̣саргаствайогах̣ сӯкш̣ма̄тидӯра̄нтикастха̄тибха̄сватбхарава̄прийавикр̣та̄дидаш́анам двиш̣т̣а̄тйуччапаруш̣абхӣш̣ан̣а̄диш́раван̣ам пӯтйамедхйа̄титӣкш̣н̣ограпратикӯла̄дйа̄гхра̄н̣ам свабха̄ва̄дибхира̄ха̄ракалпана̄виш́еш̣а̄йатанаирапатхйа̄на̄м̣ раса̄на̄мабхйаваха̄рах̣ татха̄ сна̄на̄дӣна̄м̣ ш́ӣтош̣н̣а̄дӣна̄н̃ча спр̣ш́йа̄на̄майатха̄вадупасеванамаш́учибхӯта̄бхигха̄тавиш̣ава̄та̄дисам̣спарш́аш́ча бхитхйа̄йогах̣",
-        "text": "Причина же этих [болезней] трёх видов: непривычное соединение органов чувств с [их] объектами; ошибка разума; и [естественное] изменение времени. Они же, в свою очередь, каждая делится на три, по различию избыточного, недостаточного и неправильного применения. Из них, соответственно [каждому органу чувств], чрезмерное соприкосновение глаз и других органов чувств с формой и другими объектами — «избыток»; малое или полное отсутствие соприкосновения — «недостаток»; видение [объектов], тонких, слишком далёких или близких, чрезмерно ярких, страшных, неприятных, искажённых и подобных; слушание ненавистного, слишком громкого, резкого, ужасающего и подобного; обоняние гнилого, нечистого, чрезмерно резкого, отвратительного, неприятного и подобного; принятие вкусов, вредных по природе и по особенности приготовления пищи и подобного; а также ненадлежащее применение купания и прочего, [ощущений] холода, жары и подобного, [и] прочих осязаемых [воздействий]; а также контакт с нечистыми существами, ударом, ядом, [дурным] ветром и подобным, — [всё это] «неправильное применение»."
+        "text": "Причина же этих [болезней] трёх видов: непривычное соединение органов чувств с [их] объектами; ошибка разума; и [естественное] изменение времени. Они же, в свою очередь, каждая делится на три, по различию избыточного, недостаточного и неправильного применения. Из них, соответственно [каждому органу чувств], чрезмерное соприкосновение глаз и других органов чувств с формой и другими объектами — «избыток»; малое или полное отсутствие соприкосновения — «недостаток»; видение [объектов], тонких, слишком далёких или близких, чрезмерно ярких, страшных, неприятных, искажённых и подобных; слушание ненавистного, слишком громкого, резкого, ужасающего и подобного; обоняние гнилого, нечистого, чрезмерно резкого, отвратительного, неприятного и подобного; принятие вкусов, вредных по природе и по особенности приготовления пищи и подобного; а также ненадлежащее применение купания и прочего, [ощущений] холода, жары и подобного, [и] прочих осязаемых [воздействий]; а также контакт с нечистыми существами, ударом, ядом, [дурным] ветром и подобным, — [всё это] «неправильное применение».",
+        "text_en": "The cause of these [diseases] is of three kinds: unaccustomed conjunction of the sense organs with [their] objects; the error of intellect; and the [natural] change of time. These, in turn, are each divided into three, according to the distinction of excessive, insufficient and wrong application. Of these, according to [each sense organ], excessive contact of the eyes and the other sense organs with form and the other objects is 'excess'; little or complete absence of contact is 'deficiency'; the seeing of [objects] that are subtle, too far or too near, excessively bright, frightening, unpleasant, distorted and the like; hearing what is hateful, too loud, harsh, terrifying and the like; smelling what is putrid, unclean, excessively strong, repulsive, disagreeable and the like; taking tastes that are harmful by nature and by the particularity of the preparation of food and the like; and also the improper use of bathing and so on, [sensations] of cold, heat and the like, [and] other tangible [influences]; and also contact with unclean beings, with a blow, poison, [bad] wind and the like, all this is 'wrong application'."
       },
       {
         "type": "verse",
@@ -13339,7 +13452,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कायवाङ्मनोभेदेन तु त्रिविधमप्यहितं कर्म प्रज्ञापराधः तत्र कायादिकर्मणो ऽतिप्रवृत्तिरतियोगः अल्पशो नैव वा प्रवृत्तिरयोगः वेगोदीरणधारणविषमाङ्गेचष्टनस्खलनकण्डूयनप्रहारप्राणायामादि तथा क्षुत्पिपासार्धभुक्तभाषणादि भयशे केर्ष्यामात्सर्यादि दशविधं चाकुशलं कर्म यथास्वं मिथ्यायोगः परिणामः काल उच्यते सो ऽपि शीतोष्णवर्षभेदात्त्रिधा तत्रालितिमात्रस्वलक्षणः कालो ऽतियोगः हीनस्वलक्षणस्त्वयोगः विपरीतो मिथ्यायोगः त एते ऽतियोगादयः सामान्यतो ऽनुपशयलक्षणाः सर्वो वा प्रज्ञापराध एवायं यदेषामविवर्जनम् अर्थकर्मकालाः पुनःसम्यग्योगेनोपशयात् भूयिष्ठं स्वास्थ्यहेतवः तत्रापि रसवर्ज्या विषया यथायथमिन्द्रियं बाधन्ते ऽनुगृह्णन्ति च शेषा रसकर्मकालास्तु सर्वं देहं अपि च",
         "iast": "kāyavāṅmanobhedena tu trividhamapyahitaṃ karma prajñāparādhaḥ tatra kāyādikarmaṇo 'tipravṛttiratiyogaḥ alpaśo naiva vā pravṛttirayogaḥ vegodīraṇadhāraṇaviṣamāṅgecaṣṭanaskhalanakaṇḍūyanaprahāraprāṇāyāmādi tathā kṣutpipāsārdhabhuktabhāṣaṇādi bhayaśe kerṣyāmātsaryādi daśavidhaṃ cākuśalaṃ karma yathāsvaṃ mithyāyogaḥ pariṇāmaḥ kāla ucyate so 'pi śītoṣṇavarṣabhedāttridhā tatrālitimātrasvalakṣaṇaḥ kālo 'tiyogaḥ hīnasvalakṣaṇastvayogaḥ viparīto mithyāyogaḥ ta ete 'tiyogādayaḥ sāmānyato 'nupaśayalakṣaṇāḥ sarvo vā prajñāparādha evāyaṃ yadeṣāmavivarjanam arthakarmakālāḥ punaḥsamyagyogenopaśayāt bhūyiṣṭhaṃ svāsthyahetavaḥ tatrāpi rasavarjyā viṣayā yathāyathamindriyaṃ bādhante 'nugṛhṇanti ca śeṣā rasakarmakālāstu sarvaṃ dehaṃ api ca",
         "iast_ru": "ка̄йава̄н̇манобхедена ту тривидхамапйахитам̣ карма праджн̃а̄пара̄дхах̣ татра ка̄йа̄дикарман̣о 'типравр̣ттиратийогах̣ алпаш́о наива ва̄ правр̣ттирайогах̣ вегодӣран̣адха̄ран̣авиш̣ама̄н̇гечаш̣т̣анаскхаланакан̣д̣ӯйанапраха̄рапра̄н̣а̄йа̄ма̄ди татха̄ кш̣утпипа̄са̄рдхабхуктабха̄ш̣ан̣а̄ди бхайаш́е керш̣йа̄ма̄тсарйа̄ди даш́авидхам̣ ча̄куш́алам̣ карма йатха̄свам̣ митхйа̄йогах̣ парин̣а̄мах̣ ка̄ла учйате со 'пи ш́ӣтош̣н̣аварш̣абхеда̄ттридха̄ татра̄литима̄трасвалакш̣ан̣ах̣ ка̄ло 'тийогах̣ хӣнасвалакш̣ан̣аствайогах̣ випарӣто митхйа̄йогах̣ та ете 'тийога̄дайах̣ са̄ма̄нйато 'нупаш́айалакш̣ан̣а̄х̣ сарво ва̄ праджн̃а̄пара̄дха ева̄йам̣ йадеш̣а̄мавиварджанам артхакармака̄ла̄х̣ пунах̣самйагйогенопаш́айа̄т бхӯйиш̣т̣хам̣ сва̄стхйахетавах̣ татра̄пи расаварджйа̄ виш̣айа̄ йатха̄йатхаминдрийам̣ ба̄дханте 'нугр̣хн̣анти ча ш́еш̣а̄ расакармака̄ла̄сту сарвам̣ дехам̣ апи ча",
-        "text": "Ошибка разума же — [это] неполезное действие, тройственное по различию тела, речи и ума. Из них чрезмерная деятельность тела и подобного — «избыток»; малая или полностью отсутствующая деятельность — «недостаток»; неестественное движение конечностей, спотыкание, царапание, удары, [неправильное] дыхание и подобное; а также [неправильная] речь при голоде, жажде, [неполном] проглатывании пищи; а также страх, зависть, скупость и десятивидное неблагоприятное [умственное] действие, — соответственно [каждому случаю] — «неправильное применение». «Изменение» же называется [действием] времени; оно также трёх видов, по различию холода, жары и дождя. Из них время с чрезмерными собственными признаками — «избыток»; со скудными собственными признаками — «недостаток»; противоположное — «неправильное применение». Эти же «избыток» и прочие, в общем, характеризуются как непереносимые [для организма]; или же вся эта [триада причин] есть именно ошибка разума, поскольку их неизбежание [зависит от разума]. Объект, действие и время же, при правильном применении, [благодаря их] переносимости, по большей части являются причинами здоровья. При этом объекты [органов чувств], помимо вкуса, соответственно [своей природе], либо вредят органу чувств, либо благоприятствуют [ему]; остальные же — вкус, действие и время — [влияют] на всё тело."
+        "text": "Ошибка разума же — [это] неполезное действие, тройственное по различию тела, речи и ума. Из них чрезмерная деятельность тела и подобного — «избыток»; малая или полностью отсутствующая деятельность — «недостаток»; неестественное движение конечностей, спотыкание, царапание, удары, [неправильное] дыхание и подобное; а также [неправильная] речь при голоде, жажде, [неполном] проглатывании пищи; а также страх, зависть, скупость и десятивидное неблагоприятное [умственное] действие, — соответственно [каждому случаю] — «неправильное применение». «Изменение» же называется [действием] времени; оно также трёх видов, по различию холода, жары и дождя. Из них время с чрезмерными собственными признаками — «избыток»; со скудными собственными признаками — «недостаток»; противоположное — «неправильное применение». Эти же «избыток» и прочие, в общем, характеризуются как непереносимые [для организма]; или же вся эта [триада причин] есть именно ошибка разума, поскольку их неизбежание [зависит от разума]. Объект, действие и время же, при правильном применении, [благодаря их] переносимости, по большей части являются причинами здоровья. При этом объекты [органов чувств], помимо вкуса, соответственно [своей природе], либо вредят органу чувств, либо благоприятствуют [ему]; остальные же — вкус, действие и время — [влияют] на всё тело.",
+        "text_en": "The error of intellect (prajnaparadha) is [an] unwholesome action, threefold according to the distinction of body, speech and mind. Of these, excessive activity of the body and the like is 'excess'; little or completely absent activity is 'deficiency'; unnatural movement of the limbs, stumbling, scratching, blows, [improper] breathing and the like; and also [improper] speech during hunger, thirst, [incomplete] swallowing of food; and also fear, envy, miserliness and the ten-fold unfavorable [mental] action, according to [each case], is 'wrong application'. 'Change' is called [the action] of time; it is also of three kinds, according to the distinction of cold, heat and rain. Of these, a season with excessive own characteristics is 'excess'; with scanty own characteristics, 'deficiency'; the opposite, 'wrong application'. These 'excess' and the others are generally characterized as intolerable [for the organism]; or else this whole [triad of causes] is precisely the error of intellect, since their non-avoidance [depends on the intellect]. Object, action and time, however, when properly applied, [owing to their] tolerability, are for the most part causes of health. Here the objects [of the sense organs], apart from taste, according to [their nature], either harm the sense organ or favor [it]; the others, namely taste, action and time, [affect] the whole body."
       },
       {
         "type": "verse",
@@ -13347,7 +13461,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्वभावानां भावाभावौ नान्तरेण योगातियोगादीन् व्यवस्येत् सर्वेषां पुनर्विकाराणां निदानदोषदूष्याविशेषेभ्यो भावाभावविशेषा भवन्ति यदा ह्येते त्रयो निदानादिविशेषात् नान्योन्यमनुबध्नन्तीषद्वानुबध्नन्त्यबला वा न तदामिनिर्वर्त्तन्ते व्याधर्याश्चरा द्वाभिनिर्वर्त्तन्ते तनवो वा भवन्त्यसम्पूर्णलिङ्गा वा विपर्यये तु विपरीताः",
         "iast": "sarvabhāvānāṃ bhāvābhāvau nāntareṇa yogātiyogādīn vyavasyet sarveṣāṃ punarvikārāṇāṃ nidānadoṣadūṣyāviśeṣebhyo bhāvābhāvaviśeṣā bhavanti yadā hyete trayo nidānādiviśeṣāt nānyonyamanubadhnantīṣadvānubadhnantyabalā vā na tadāminirvarttante vyādharyāścarā dvābhinirvarttante tanavo vā bhavantyasampūrṇaliṅgā vā viparyaye tu viparītāḥ",
         "iast_ru": "сарвабха̄ва̄на̄м̣ бха̄ва̄бха̄вау на̄нтарен̣а йога̄тийога̄дӣн вйавасйет сарвеш̣а̄м̣ пунарвика̄ра̄н̣а̄м̣ нида̄надош̣адӯш̣йа̄виш́еш̣ебхйо бха̄ва̄бха̄вавиш́еш̣а̄ бхаванти йада̄ хйете трайо нида̄на̄дивиш́еш̣а̄т на̄нйонйаманубадхнантӣш̣адва̄нубадхнантйабала̄ ва̄ на тада̄минирварттанте вйа̄дхарйа̄ш́чара̄ два̄бхинирварттанте танаво ва̄ бхавантйасампӯрн̣алин̇га̄ ва̄ випарйайе ту випарӣта̄х̣",
-        "text": "Наличие или отсутствие всех [болезненных] проявлений невозможно определить без [учёта] надлежащего или ненадлежащего применения [указанных факторов] и подобного. Особенности же наличия или отсутствия всех расстройств [зависят] от особенностей причины, доши и [поражённой] ткани. Ведь когда эти три [фактора], в силу особенности причины и прочего, не связываются друг с другом взаимно, [или] связываются слабо, [или] бессильно, — тогда болезни не возникают вовсе, [или] возникают быстро [проходящими], [или] бывают слабыми, [или] с неполными признаками; при противоположном же [условии] — наоборот [возникают сильные, полные болезни]."
+        "text": "Наличие или отсутствие всех [болезненных] проявлений невозможно определить без [учёта] надлежащего или ненадлежащего применения [указанных факторов] и подобного. Особенности же наличия или отсутствия всех расстройств [зависят] от особенностей причины, доши и [поражённой] ткани. Ведь когда эти три [фактора], в силу особенности причины и прочего, не связываются друг с другом взаимно, [или] связываются слабо, [или] бессильно, — тогда болезни не возникают вовсе, [или] возникают быстро [проходящими], [или] бывают слабыми, [или] с неполными признаками; при противоположном же [условии] — наоборот [возникают сильные, полные болезни].",
+        "text_en": "The presence or absence of all [morbid] manifestations cannot be determined without [taking into account] the proper or improper application [of the said factors] and the like. The particularities of the presence or absence of all disorders [depend] on the particularities of the cause, the dosha and the [affected] tissue. For when these three [factors], by virtue of the particularity of the cause and the rest, do not join with each other mutually, [or] join weakly, [or] powerlessly, then diseases do not arise at all, [or] arise quickly passing, [or] are weak, [or] with incomplete signs; under the opposite [condition], on the contrary, [strong, complete diseases arise]."
       },
       {
         "type": "verse",
@@ -13355,7 +13470,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रयश्च रोगाणां मार्गा बाह्यमध्याभ्यन्तराः तत्र बाह्यो रक्तादिधातवस्त्वक् च स पुनः शाखाख्यः तदाश्रयाः गण्डपिटकालज्यपचीचर्मकीलार्बुदाधिमांसमशव्यङ्गादयो बहिर्भागाश्च शोफार्शोगुल्मवीसर्पविद्रध्यादयः मध्यो मूर्द्धहृदयबस्त्यादीनि मर्माण्यस्थिसन्धयः तत्रोपनिवद्धाश्च स्नायुसिराकण्डरादयः तदाश्रयाः पक्षवधग्रहापतानकार्दितराजयक्ष्मास्थिसन्धिशूलगुदभ्रंशादयो मूर्द्धादिरोगाश्च आभ्यन्तरो महास्रोतः शरीरमध्यं महानिम्नमामपक्वाशयाश्रयः कोष्ठो ऽन्तरिति पर्यायाः तदाश्रया ज्वरातीसारछर्द्यलसकविषूचिकाश्वासकासहिध्मानाहोदरप्लीहादयो ऽन्तर्भागाश्च विसर्पशोफार्शोविद्रधिगुल्मादयः",
         "iast": "trayaśca rogāṇāṃ mārgā bāhyamadhyābhyantarāḥ tatra bāhyo raktādidhātavastvak ca sa punaḥ śākhākhyaḥ tadāśrayāḥ gaṇḍapiṭakālajyapacīcarmakīlārbudādhimāṃsamaśavyaṅgādayo bahirbhāgāśca śophārśogulmavīsarpavidradhyādayaḥ madhyo mūrddhahṛdayabastyādīni marmāṇyasthisandhayaḥ tatropanivaddhāśca snāyusirākaṇḍarādayaḥ tadāśrayāḥ pakṣavadhagrahāpatānakārditarājayakṣmāsthisandhiśūlagudabhraṃśādayo mūrddhādirogāśca ābhyantaro mahāsrotaḥ śarīramadhyaṃ mahānimnamāmapakvāśayāśrayaḥ koṣṭho 'ntariti paryāyāḥ tadāśrayā jvarātīsārachardyalasakaviṣūcikāśvāsakāsahidhmānāhodaraplīhādayo 'ntarbhāgāśca visarpaśophārśovidradhigulmādayaḥ",
         "iast_ru": "трайаш́ча рога̄н̣а̄м̣ ма̄рга̄ ба̄хйамадхйа̄бхйантара̄х̣ татра ба̄хйо ракта̄дидха̄таваствак ча са пунах̣ ш́а̄кха̄кхйах̣ тада̄ш́райа̄х̣ ган̣д̣апит̣ака̄ладжйапачӣчармакӣла̄рбуда̄дхима̄м̣самаш́авйан̇га̄дайо бахирбха̄га̄ш́ча ш́опха̄рш́огулмавӣсарпавидрадхйа̄дайах̣ мадхйо мӯрддхахр̣дайабастйа̄дӣни марма̄н̣йастхисандхайах̣ татропаниваддха̄ш́ча сна̄йусира̄кан̣д̣ара̄дайах̣ тада̄ш́райа̄х̣ пакш̣авадхаграха̄пата̄нака̄рдитара̄джайакш̣ма̄стхисандхиш́ӯлагудабхрам̣ш́а̄дайо мӯрддха̄дирога̄ш́ча а̄бхйантаро маха̄сротах̣ ш́арӣрамадхйам̣ маха̄нимнама̄мапаква̄ш́айа̄ш́райах̣ кош̣т̣хо 'нтарити парйа̄йа̄х̣ тада̄ш́райа̄ джвара̄тӣса̄рачхардйаласакавиш̣ӯчика̄ш́ва̄сака̄сахидхма̄на̄ходараплӣха̄дайо 'нтарбха̄га̄ш́ча висарпаш́опха̄рш́овидрадхигулма̄дайах̣",
-        "text": "Три пути болезней: внешний, средний и внутренний. Из них внешний — кровь и другие ткани, а также кожа; он же называется «шакха» (ветвь); зависящие от него [болезни] — опухоли, прыщи, «аладжи», лимфаденит, бородавки, мясистые наросты, гнойники, пигментные пятна и подобное, а также внешние [органы, поражённые] отёком, геморроем, гульмой, рожистым воспалением, абсцессом и подобным. Средний [путь] — голова, сердце, мочевой пузырь и подобные жизненно важные точки, кости, суставы, а также прикреплённые к ним связки, сосуды, сухожилия и подобное; зависящие от него — паралич и подобные тяжёлые нервные расстройства, туберкулёз, боль в костных суставах, выпадение прямой кишки и подобные, а также болезни головы и прочего. Внутренний [путь] — большие каналы, середина тела, большая полость, содержащая желудок и толстый кишечник; «кошта» и «антара» — синонимы [этого понятия]; зависящие от него — лихорадка, понос, рвота, аласака, вишучика, одышка, кашель, икота, вздутие, [болезнь] живота, [болезнь] селезёнки и подобное, а также внутренние [органы, поражённые] рожистым воспалением, отёком, геморроем, абсцессом, гульмой и подобным."
+        "text": "Три пути болезней: внешний, средний и внутренний. Из них внешний — кровь и другие ткани, а также кожа; он же называется «шакха» (ветвь); зависящие от него [болезни] — опухоли, прыщи, «аладжи», лимфаденит, бородавки, мясистые наросты, гнойники, пигментные пятна и подобное, а также внешние [органы, поражённые] отёком, геморроем, гульмой, рожистым воспалением, абсцессом и подобным. Средний [путь] — голова, сердце, мочевой пузырь и подобные жизненно важные точки, кости, суставы, а также прикреплённые к ним связки, сосуды, сухожилия и подобное; зависящие от него — паралич и подобные тяжёлые нервные расстройства, туберкулёз, боль в костных суставах, выпадение прямой кишки и подобные, а также болезни головы и прочего. Внутренний [путь] — большие каналы, середина тела, большая полость, содержащая желудок и толстый кишечник; «кошта» и «антара» — синонимы [этого понятия]; зависящие от него — лихорадка, понос, рвота, аласака, вишучика, одышка, кашель, икота, вздутие, [болезнь] живота, [болезнь] селезёнки и подобное, а также внутренние [органы, поражённые] рожистым воспалением, отёком, геморроем, абсцессом, гульмой и подобным.",
+        "text_en": "There are three paths of diseases: external, middle and internal. Of these, the external is the blood and the other tissues, and also the skin; it is also called 'shakha' (branch); the [diseases] dependent on it are tumors, pimples, 'alaji', lymphadenitis, warts, fleshy growths, pustules, pigmented spots and the like, as well as external [organs affected by] edema, hemorrhoids, gulma, erysipelas, abscess and the like. The middle [path] is the head, heart, urinary bladder and similar vital points (marmas), bones, joints, as well as the ligaments, vessels, tendons and the like attached to them; dependent on it are paralysis and similar severe nervous disorders, tuberculosis, pain in the bony joints, prolapse of the rectum and the like, as well as diseases of the head and so on. The internal [path] is the great channels, the middle of the body, the great cavity containing the stomach and large intestine; 'koshtha' and 'antara' are synonyms [of this concept]; dependent on it are fever, diarrhea, vomiting, alasaka, vishuchika, dyspnea, cough, hiccup, distension, [disease] of the abdomen, [disease] of the spleen and the like, as well as internal [organs affected by] erysipelas, edema, hemorrhoids, abscess, gulma and the like."
       },
       {
         "type": "verse",
@@ -13363,7 +13479,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ते च रोगाः स्वप्रधाना भवन्त्यन्यपरिवारा वा क्रमादनुबन्ध्यनुबन्धाख्याः तत्राद्याः स्वतन्त्राः स्पष्टाकृतयो यथास्वं समुत्थानोपशयाश्च इतरे तु तद्विपरीताः तद्वच्च दोषा अपि तत्रान्यपरिवारा व्याधयो द्विविधाः पुरोगामिनोनुगामिनश्च तेष्वाद्याः पूर्वरूपसंज्ञाः उपद्रवास्त्वितरे तान्यथायथमेव वक्ष्यमाणानुपलक्षयेत् प्रधानप्रशमे च प्रशमो भवति तेषामनुपशाम्यतो वा पश्चात्तानुपक्रमेत् त्वरितं वा बलवन्तमुपद्रवं प्रधानाविरोधेन स हि पीडाकरतरो भवति व्याधिपरिक्लिष्टदेहत्वात् प्रमेहपिटकादिवत् तथान्यः प्रधान एव रोगो ऽन्यस्य प्रधानस्य हेतुः भवति यथा ज्वरो रक्तपित्तस्य रक्तपित्तं वा ज्वरस्य तौ श्वासस्य प्लीहा जठरस्य तच्छ्वयथोः अर्शांसि गुल्मोदरातीसारग्रहणीनां प्रतिश्यायः कासज्वरयोः तौ क्षयस्य क्षयः शोषस्य एकश्चापचारो निमित्तमेकस्य व्याधेः बहूनां च तथा बहवः तद्वदेकं लिङ्गम् एवमेव प्रशमे ऽभ्युपायः तथा स एवान्यस्य प्रकोपे तस्मात्तानवहितः सम्यगागमादिभिः परीक्षेत",
         "iast": "te ca rogāḥ svapradhānā bhavantyanyaparivārā vā kramādanubandhyanubandhākhyāḥ tatrādyāḥ svatantrāḥ spaṣṭākṛtayo yathāsvaṃ samutthānopaśayāśca itare tu tadviparītāḥ tadvacca doṣā api tatrānyaparivārā vyādhayo dvividhāḥ purogāminonugāminaśca teṣvādyāḥ pūrvarūpasaṃjñāḥ upadravāstvitare tānyathāyathameva vakṣyamāṇānupalakṣayet pradhānapraśame ca praśamo bhavati teṣāmanupaśāmyato vā paścāttānupakramet tvaritaṃ vā balavantamupadravaṃ pradhānāvirodhena sa hi pīḍākarataro bhavati vyādhiparikliṣṭadehatvāt pramehapiṭakādivat tathānyaḥ pradhāna eva rogo 'nyasya pradhānasya hetuḥ bhavati yathā jvaro raktapittasya raktapittaṃ vā jvarasya tau śvāsasya plīhā jaṭharasya tacchvayathoḥ arśāṃsi gulmodarātīsāragrahaṇīnāṃ pratiśyāyaḥ kāsajvarayoḥ tau kṣayasya kṣayaḥ śoṣasya ekaścāpacāro nimittamekasya vyādheḥ bahūnāṃ ca tathā bahavaḥ tadvadekaṃ liṅgam evameva praśame 'bhyupāyaḥ tathā sa evānyasya prakope tasmāttānavahitaḥ samyagāgamādibhiḥ parīkṣeta",
         "iast_ru": "те ча рога̄х̣ свапрадха̄на̄ бхавантйанйапарива̄ра̄ ва̄ крама̄данубандхйанубандха̄кхйа̄х̣ татра̄дйа̄х̣ сватантра̄х̣ спаш̣т̣а̄кр̣тайо йатха̄свам̣ самуттха̄нопаш́айа̄ш́ча итаре ту тадвипарӣта̄х̣ тадвачча дош̣а̄ апи татра̄нйапарива̄ра̄ вйа̄дхайо двивидха̄х̣ пурога̄минонуга̄минаш́ча теш̣ва̄дйа̄х̣ пӯрварӯпасам̣джн̃а̄х̣ упадрава̄ствитаре та̄нйатха̄йатхамева вакш̣йама̄н̣а̄нупалакш̣айет прадха̄напраш́аме ча праш́амо бхавати теш̣а̄манупаш́а̄мйато ва̄ паш́ча̄тта̄нупакрамет тваритам̣ ва̄ балавантамупадравам̣ прадха̄на̄виродхена са хи пӣд̣а̄каратаро бхавати вйа̄дхипариклиш̣т̣адехатва̄т прамехапит̣ака̄диват татха̄нйах̣ прадха̄на ева рого 'нйасйа прадха̄насйа хетух̣ бхавати йатха̄ джваро рактапиттасйа рактапиттам̣ ва̄ джварасйа тау ш́ва̄сасйа плӣха̄ джат̣харасйа таччхвайатхох̣ арш́а̄м̣си гулмодара̄тӣса̄раграхан̣ӣна̄м̣ пратиш́йа̄йах̣ ка̄саджварайох̣ тау кш̣айасйа кш̣айах̣ ш́ош̣асйа екаш́ча̄пача̄ро нимиттамекасйа вйа̄дхех̣ бахӯна̄м̣ ча татха̄ бахавах̣ тадвадекам̣ лин̇гам евамева праш́аме 'бхйупа̄йах̣ татха̄ са ева̄нйасйа пракопе тасма̄тта̄навахитах̣ самйага̄гама̄дибхих̣ парӣкш̣ета",
-        "text": "И эти болезни бывают либо самостоятельными, либо сопровождаемыми другими [болезнями] в качестве «свиты», по порядку называемыми «главная» и «сопутствующая». Из них первые — самостоятельные, с ясными признаками, каждая со своим [собственным] происхождением и [реакцией на] пробное лечение; иные же — противоположны этому. Подобным же образом и доши [могут быть главными или сопутствующими]. При этом болезни, [имеющие] другую [болезнь как] свиту, — двух видов: предшествующие и следующие. Из них первые называются «предвестниками»; иные же — «осложнениями»; их следует различать именно так, как будет изложено далее. При успокоении главной [болезни] наступает успокоение и [сопутствующей]; если же [сопутствующая болезнь] не успокаивается, — следует затем лечить её; или же, [если] осложнение сильное и стремительное, [следует лечить его] безотлагательно, не противодействуя [при этом] главной [болезни]; ибо оно причиняет большее страдание, поскольку тело [уже] измучено [основной] болезнью, — подобно [тому, как] прамеха [осложняется] прыщами и подобным. Так же одна главная болезнь может быть причиной другой главной болезни: например, лихорадка — [причина] кровяного расстройства питты, или кровяное расстройство питты — [причина] лихорадки; оба они — [причина] одышки; [болезнь] селезёнки — [причина болезни] живота; та [в свою очередь причина] его отёка; геморрой — [причина] гульмы, [болезни] живота, поноса, [болезни] грахани; насморк — [причина] кашля и лихорадки; они оба — [причина] истощения; истощение — [причина] чахотки. И одно неправильное поведение может быть причиной одной болезни, а также многих [болезней]; так же и многие [причины могут вести] к одному признаку [болезни]. Так же обстоит дело и в отношении успокоения — один метод лечения может служить для многих болезней, а также один и тот же [фактор] может служить для возбуждения другой [болезни]. Поэтому внимательный [врач] должен исследовать их надлежащим образом, посредством авторитетного свидетельства и прочих [способов познания]."
+        "text": "И эти болезни бывают либо самостоятельными, либо сопровождаемыми другими [болезнями] в качестве «свиты», по порядку называемыми «главная» и «сопутствующая». Из них первые — самостоятельные, с ясными признаками, каждая со своим [собственным] происхождением и [реакцией на] пробное лечение; иные же — противоположны этому. Подобным же образом и доши [могут быть главными или сопутствующими]. При этом болезни, [имеющие] другую [болезнь как] свиту, — двух видов: предшествующие и следующие. Из них первые называются «предвестниками»; иные же — «осложнениями»; их следует различать именно так, как будет изложено далее. При успокоении главной [болезни] наступает успокоение и [сопутствующей]; если же [сопутствующая болезнь] не успокаивается, — следует затем лечить её; или же, [если] осложнение сильное и стремительное, [следует лечить его] безотлагательно, не противодействуя [при этом] главной [болезни]; ибо оно причиняет большее страдание, поскольку тело [уже] измучено [основной] болезнью, — подобно [тому, как] прамеха [осложняется] прыщами и подобным. Так же одна главная болезнь может быть причиной другой главной болезни: например, лихорадка — [причина] кровяного расстройства питты, или кровяное расстройство питты — [причина] лихорадки; оба они — [причина] одышки; [болезнь] селезёнки — [причина болезни] живота; та [в свою очередь причина] его отёка; геморрой — [причина] гульмы, [болезни] живота, поноса, [болезни] грахани; насморк — [причина] кашля и лихорадки; они оба — [причина] истощения; истощение — [причина] чахотки. И одно неправильное поведение может быть причиной одной болезни, а также многих [болезней]; так же и многие [причины могут вести] к одному признаку [болезни]. Так же обстоит дело и в отношении успокоения — один метод лечения может служить для многих болезней, а также один и тот же [фактор] может служить для возбуждения другой [болезни]. Поэтому внимательный [врач] должен исследовать их надлежащим образом, посредством авторитетного свидетельства и прочих [способов познания].",
+        "text_en": "And these diseases are either independent or accompanied by other [diseases] as a 'retinue', called in order 'principal' and 'accompanying'. Of these, the former are independent, with clear signs, each with its [own] origin and [response to] trial treatment; the others are the opposite of this. In the same way the doshas, too, [may be principal or accompanying]. Here the diseases [having] another [disease as] retinue are of two kinds: preceding and following. Of these, the former are called 'prodromal signs' (purvarupa); the others, 'complications' (upadrava); they should be distinguished precisely as will be set forth further on. When the principal [disease] subsides, the [accompanying one] also subsides; if, however, [the accompanying disease] does not subside, one should then treat it; or else, [if] the complication is severe and rapid, [one should treat it] without delay, without [thereby] opposing the principal [disease]; for it causes greater suffering, since the body is [already] tormented by the [main] disease, as [when] prameha [is complicated] by pimples and the like. Likewise one principal disease can be the cause of another principal disease: for example, fever [is the cause] of raktapitta, or raktapitta [is the cause] of fever; both of them [are the cause] of dyspnea; [disease] of the spleen [is the cause of disease] of the abdomen; that [in turn the cause] of its edema; hemorrhoids [are the cause] of gulma, [disease] of the abdomen, diarrhea, [disease] of grahani; a cold [is the cause] of cough and fever; both of them [are the cause] of emaciation; emaciation [is the cause] of consumption. And one wrong conduct can be the cause of one disease, and also of many [diseases]; likewise many [causes may lead] to one sign [of disease]. The same holds with respect to pacification: one method of treatment can serve for many diseases, and also one and the same [factor] can serve to aggravate another [disease]. Therefore the attentive [physician] should examine them properly, by means of authoritative testimony and the other [means of knowledge]."
       },
       {
         "type": "verse",
@@ -13371,7 +13488,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्रागमतो रोगमेवमेवं प्रकोपणमेवं योनिमेवमधिष्ठानमेवमात्मानमेवं देवनमेवं रूपशब्दगन्धरसस्पर्शमेवं पूर्वरूपमेवमुपद्रवमेवं वृद्धिस्थानक्षयान्वितमेवमुदर्कमेवं नामानम् तस्मिन्नियं प्रतीकारस्य प्रवृत्तिः अन्यथा निवृत्तिः प्रत्यक्षतस्त्वातुरस्य यथास्वमिन्द्रियैर्वर्णसंस्थानप्रमाणोपचयछायाविण्मूत्र छर्दिताधिक्यमान्त्रकूजनमङ्गुल्यादिषुसन्धिषु स्फुटनं देहशकृद्वर्णादिगन्धं सुप्तशीतोष्णस्तम्भनसंस्पन्दश्लक्ष्णखरस्पर्शञ्च प्रकृतिविकृतियुक्तमास्यरसन्तु प्रश्नेन तथा सुच्छर्दनदुच्छर्दनत्वं मृदुक्रूरकोष्ठतां स्वप्नदर्शनमभिप्रायं जन्मामयप्रवृत्तिनक्षत्रद्विष्टेष्टसुखदुःखानि च तथा वयः प्रत्यक्षेण च अनुमानतस्तु यूकापसर्पणेन शरीरवैरस्यम् मक्षिकोपसर्पणेन शरीरमाधुर्यम् तथाग्निं जरणशक्त्या बलं व्यायामशक्त्या गूढलिङ्गं व्याधिमुपशयानुपशयतः दोषप्रमाणमपचारविशेषेणायुषः क्षयं रिष्टैः प्रकृति सत्वसारसात्म्यबलाननुशीलनेनेति भवति चात्र",
         "iast": "tatrāgamato rogamevamevaṃ prakopaṇamevaṃ yonimevamadhiṣṭhānamevamātmānamevaṃ devanamevaṃ rūpaśabdagandharasasparśamevaṃ pūrvarūpamevamupadravamevaṃ vṛddhisthānakṣayānvitamevamudarkamevaṃ nāmānam tasminniyaṃ pratīkārasya pravṛttiḥ anyathā nivṛttiḥ pratyakṣatastvāturasya yathāsvamindriyairvarṇasaṃsthānapramāṇopacayachāyāviṇmūtra charditādhikyamāntrakūjanamaṅgulyādiṣusandhiṣu sphuṭanaṃ dehaśakṛdvarṇādigandhaṃ suptaśītoṣṇastambhanasaṃspandaślakṣṇakharasparśañca prakṛtivikṛtiyuktamāsyarasantu praśnena tathā succhardanaducchardanatvaṃ mṛdukrūrakoṣṭhatāṃ svapnadarśanamabhiprāyaṃ janmāmayapravṛttinakṣatradviṣṭeṣṭasukhaduḥkhāni ca tathā vayaḥ pratyakṣeṇa ca anumānatastu yūkāpasarpaṇena śarīravairasyam makṣikopasarpaṇena śarīramādhuryam tathāgniṃ jaraṇaśaktyā balaṃ vyāyāmaśaktyā gūḍhaliṅgaṃ vyādhimupaśayānupaśayataḥ doṣapramāṇamapacāraviśeṣeṇāyuṣaḥ kṣayaṃ riṣṭaiḥ prakṛti satvasārasātmyabalānanuśīlaneneti bhavati cātra",
         "iast_ru": "татра̄гамато рогамевамевам̣ пракопан̣амевам̣ йонимевамадхиш̣т̣ха̄намевама̄тма̄намевам̣ деванамевам̣ рӯпаш́абдагандхарасаспарш́амевам̣ пӯрварӯпамевамупадравамевам̣ вр̣ддхистха̄накш̣айа̄нвитамевамударкамевам̣ на̄ма̄нам тасминнийам̣ пратӣка̄расйа правр̣ттих̣ анйатха̄ нивр̣ттих̣ пратйакш̣атаства̄турасйа йатха̄сваминдрийаирварн̣асам̣стха̄напрама̄н̣опачайачха̄йа̄вин̣мӯтра чхардита̄дхикйама̄нтракӯджанаман̇гулйа̄диш̣усандхиш̣у спхут̣анам̣ дехаш́акр̣дварн̣а̄дигандхам̣ супташ́ӣтош̣н̣астамбханасам̣спандаш́лакш̣н̣акхараспарш́ан̃ча пракр̣тивикр̣тийуктама̄сйарасанту праш́нена татха̄ суччхарданадуччхарданатвам̣ мр̣дукрӯракош̣т̣хата̄м̣ свапнадарш́анамабхипра̄йам̣ джанма̄майаправр̣ттинакш̣атрадвиш̣т̣еш̣т̣асукхадух̣кха̄ни ча татха̄ вайах̣ пратйакш̣ен̣а ча анума̄натасту йӯка̄пасарпан̣ена ш́арӣраваирасйам макш̣икопасарпан̣ена ш́арӣрама̄дхурйам татха̄гним̣ джаран̣аш́актйа̄ балам̣ вйа̄йа̄маш́актйа̄ гӯд̣халин̇гам̣ вйа̄дхимупаш́айа̄нупаш́айатах̣ дош̣апрама̄н̣амапача̄равиш́еш̣ен̣а̄йуш̣ах̣ кш̣айам̣ риш̣т̣аих̣ пракр̣ти сатваса̄раса̄тмйабала̄нануш́ӣланенети бхавати ча̄тра",
-        "text": "Из них по авторитетному свидетельству [следует познавать]: болезнь — такова-то; её возбуждение — таково-то; её источник — таков-то; её местопребывание — таково-то; её [собственная] природа — такова-то; [её] проявление — такое-то; [её] форма, звук, запах, вкус, осязание — такие-то; её предвестник — такой-то; её осложнение — такое-то; связанное с увеличением, локализацией, уменьшением — такое-то; её [дальнейшее] последствие — такое-то; её название — такое-то. В отношении этого — таковы действия по противодействию [ей]; иначе — [не совершать этих действий]. Непосредственным же восприятием [следует познавать] у больного, соответственно [каждому случаю], органами чувств: цвет, форму, размер, полноту, блеск, [состояние] кала и мочи, избыток рвоты, урчание кишечника, растрескивание в суставах пальцев и подобных [местах], запах тела, кала, цвета и подобного; онемение, холод, жар, оцепенение, [характер] пульсации, гладкость или грубость на ощупь, — [определяя], естественны они или изменены; вкус же рта — вопросом; так же — легкость или трудность рвоты, мягкость или твёрдость желудка, содержание сновидений, намерение [пациента], [обстоятельства] рождения, ход болезни, [положение] звёзд, неприятное и приятное, счастье и страдание; а также возраст — непосредственным [наблюдением]. Умозаключением же [следует познавать]: неприятный вкус тела — по приближению вшей; сладость тела — по приближению мух; так же огонь [пищеварения] — по способности переваривать; силу — по способности [к физическому] упражнению; скрытый признак болезни — по [реакции] на пробное лечение или его отсутствие; степень доши — по особенности [неправильного] поведения; истощение жизни — по [зловещим] предзнаменованиям; природу [конституции], [душевную] силу, [телесную] сущность, привычку [и физическую] силу — путём наблюдения. И здесь есть [следующее]:"
+        "text": "Из них по авторитетному свидетельству [следует познавать]: болезнь — такова-то; её возбуждение — таково-то; её источник — таков-то; её местопребывание — таково-то; её [собственная] природа — такова-то; [её] проявление — такое-то; [её] форма, звук, запах, вкус, осязание — такие-то; её предвестник — такой-то; её осложнение — такое-то; связанное с увеличением, локализацией, уменьшением — такое-то; её [дальнейшее] последствие — такое-то; её название — такое-то. В отношении этого — таковы действия по противодействию [ей]; иначе — [не совершать этих действий]. Непосредственным же восприятием [следует познавать] у больного, соответственно [каждому случаю], органами чувств: цвет, форму, размер, полноту, блеск, [состояние] кала и мочи, избыток рвоты, урчание кишечника, растрескивание в суставах пальцев и подобных [местах], запах тела, кала, цвета и подобного; онемение, холод, жар, оцепенение, [характер] пульсации, гладкость или грубость на ощупь, — [определяя], естественны они или изменены; вкус же рта — вопросом; так же — легкость или трудность рвоты, мягкость или твёрдость желудка, содержание сновидений, намерение [пациента], [обстоятельства] рождения, ход болезни, [положение] звёзд, неприятное и приятное, счастье и страдание; а также возраст — непосредственным [наблюдением]. Умозаключением же [следует познавать]: неприятный вкус тела — по приближению вшей; сладость тела — по приближению мух; так же огонь [пищеварения] — по способности переваривать; силу — по способности [к физическому] упражнению; скрытый признак болезни — по [реакции] на пробное лечение или его отсутствие; степень доши — по особенности [неправильного] поведения; истощение жизни — по [зловещим] предзнаменованиям; природу [конституции], [душевную] силу, [телесную] сущность, привычку [и физическую] силу — путём наблюдения. И здесь есть [следующее]:",
+        "text_en": "Of these, by authoritative testimony [one should know]: the disease is such-and-such; its aggravation is such-and-such; its source is such-and-such; its seat is such-and-such; its [own] nature is such-and-such; [its] manifestation is such-and-such; [its] form, sound, smell, taste and touch are such-and-such; its prodrome is such-and-such; its complication is such-and-such; that connected with increase, localization, decrease is such-and-such; its [further] consequence is such-and-such; its name is such-and-such. In regard to this, such are the actions for counteracting [it]; otherwise [one should not perform these actions]. By direct perception [one should know], in the patient, according to [each case], through the sense organs: color, form, size, fullness, luster, [state] of feces and urine, excess of vomiting, gurgling of the intestines, cracking in the joints of the fingers and similar [places], smell of the body, feces, color and the like; numbness, cold, heat, stiffness, [character] of the pulsation, smoothness or roughness to the touch, [determining] whether they are natural or altered; the taste in the mouth, by questioning; likewise the ease or difficulty of vomiting, softness or hardness of the stomach, the content of dreams, the intention [of the patient], [circumstances] of birth, the course of the disease, [position] of the stars, the unpleasant and the pleasant, happiness and suffering; and also age, by direct [observation]. By inference [one should know]: the unpleasant taste of the body, by the approach of lice; the sweetness of the body, by the approach of flies; likewise the fire [of digestion], by the capacity to digest; strength, by the capacity for [physical] exercise; the hidden sign of a disease, by the [response] to trial treatment or its absence; the degree of the dosha, by the particularity of [wrong] conduct; the exhaustion of life, by [ominous] omens; the nature [of constitution], [mental] strength, [bodily] essence, habit [and physical] strength, by observation. And here there is [the following]:"
       },
       {
         "type": "verse",
@@ -13379,7 +13497,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ज्ञानबुद्धिप्रदीपेन यो नाविशति योगिवत् आतुरस्यान्तरात्मानं न स गोरांश्चिकित्सति",
         "iast": "jñānabuddhipradīpena yo nāviśati yogivat āturasyāntarātmānaṃ na sa gorāṃścikitsati",
         "iast_ru": "джн̃а̄набуддхипрадӣпена йо на̄виш́ати йогиват а̄турасйа̄нтара̄тма̄нам̣ на са гора̄м̣ш́чикитсати",
-        "text": "Тот, кто светильником знания и разума не проникает, подобно йогину, во внутреннюю сущность больного, — тот, по сути, не лечит болезнь [а действует наугад]."
+        "text": "Тот, кто светильником знания и разума не проникает, подобно йогину, во внутреннюю сущность больного, — тот, по сути, не лечит болезнь [а действует наугад].",
+        "text_en": "One who, with the lamp of knowledge and intellect, does not penetrate, like a yogi, into the inner essence of the patient, does not in fact treat the disease [but acts at random]."
       },
       {
         "type": "verse",
@@ -13387,7 +13506,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वाविमौ व्याधितौ व्याधिस्वरूपस्याप्रकाशकौ तद्यथैको गुरुव्याधिः सत्वदेहबलाश्रयात्",
         "iast": "dvāvimau vyādhitau vyādhisvarūpasyāprakāśakau tadyathaiko guruvyādhiḥ satvadehabalāśrayāt",
         "iast_ru": "два̄вимау вйа̄дхитау вйа̄дхисварӯпасйа̄прака̄ш́акау тадйатхаико гурувйа̄дхих̣ сатвадехабала̄ш́райа̄т",
-        "text": "Есть два [типа] больных, [состояние которых] не обнаруживает истинную природу болезни: во-первых, [больной с] тяжёлой болезнью, [чьё истинное состояние скрыто] благодаря [силе его] душевной, телесной [силы] и силы [организма в целом];"
+        "text": "Есть два [типа] больных, [состояние которых] не обнаруживает истинную природу болезни: во-первых, [больной с] тяжёлой болезнью, [чьё истинное состояние скрыто] благодаря [силе его] душевной, телесной [силы] и силы [организма в целом];",
+        "text_en": "There are two [types of] patients [whose condition] does not reveal the true nature of the disease: first, [a patient with] a severe disease, [whose true state is hidden] thanks to [the power of his] mental, bodily [strength] and the strength [of the organism as a whole];"
       },
       {
         "type": "verse",
@@ -13395,7 +13515,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लघुव्याधिवदाभाति लघुव्याधिरतोन्यथा बाह्यावयवमात्रेण तयोर्मुह्यति बालिशः",
         "iast": "laghuvyādhivadābhāti laghuvyādhiratonyathā bāhyāvayavamātreṇa tayormuhyati bāliśaḥ",
         "iast_ru": "лагхувйа̄дхивада̄бха̄ти лагхувйа̄дхиратонйатха̄ ба̄хйа̄вайавама̄трен̣а тайормухйати ба̄лиш́ах̣",
-        "text": "[тяжёлая болезнь у такого больного] выглядит подобно лёгкой болезни; [и, наоборот], лёгкая болезнь [у слабого больного выглядит как тяжёлая] — иначе. Глупец же обманывается в отношении обоих [этих случаев], [судя] лишь по внешним признакам."
+        "text": "[тяжёлая болезнь у такого больного] выглядит подобно лёгкой болезни; [и, наоборот], лёгкая болезнь [у слабого больного выглядит как тяжёлая] — иначе. Глупец же обманывается в отношении обоих [этих случаев], [судя] лишь по внешним признакам.",
+        "text_en": "[a severe disease in such a patient] looks like a mild disease; [and, conversely], a mild disease [in a weak patient looks like a severe one], otherwise. The fool, however, is deceived in regard to both [of these cases], [judging] only by outward signs."
       },
       {
         "type": "verse",
@@ -13403,7 +13524,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततोल्पमल्पवीर्यं वा विपरीतमतो ऽथवा पथ्यंविपर्यये युञ्जन् प्राणान् मुष्णाति रोगिणाम्",
         "iast": "tatolpamalpavīryaṃ vā viparītamato 'thavā pathyaṃviparyaye yuñjan prāṇān muṣṇāti rogiṇām",
         "iast_ru": "татолпамалпавӣрйам̣ ва̄ випарӣтамато 'тхава̄ патхйам̣випарйайе йун̃джан пра̄н̣а̄н муш̣н̣а̄ти рогин̣а̄м",
-        "text": "Применяя поэтому [лекарство] в меньшей [дозе], или с меньшей силой [чем требуется], или же противоположное, — [или] применяя полезное [лечение] в обратном [случае, чем требуется], — [такой врач] похищает жизнь больных."
+        "text": "Применяя поэтому [лекарство] в меньшей [дозе], или с меньшей силой [чем требуется], или же противоположное, — [или] применяя полезное [лечение] в обратном [случае, чем требуется], — [такой врач] похищает жизнь больных.",
+        "text_en": "Applying therefore [a medicine] in a smaller [dose], or with less strength [than required], or else the opposite, [or] applying a wholesome [treatment] in the converse [case from what is required], [such a physician] steals the life of the sick."
       },
       {
         "type": "verse",
@@ -13411,7 +13533,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ज्ञानांशेन न हि ज्ञानं कृत्स्ने ज्ञेये प्रवर्तते बुभुत्सेत भिषक् तस्मात् तत्वं तन्त्रानुशीलनात्",
         "iast": "jñānāṃśena na hi jñānaṃ kṛtsne jñeye pravartate bubhutseta bhiṣak tasmāt tatvaṃ tantrānuśīlanāt",
         "iast_ru": "джн̃а̄на̄м̣ш́ена на хи джн̃а̄нам̣ кр̣тсне джн̃ейе правартате бубхутсета бхиш̣ак тасма̄т татвам̣ тантра̄нуш́ӣлана̄т",
-        "text": "Ибо частичным знанием не достигается [полное] знание во всём познаваемом; поэтому врачу следует стремиться познать истину посредством изучения [медицинских] трактатов."
+        "text": "Ибо частичным знанием не достигается [полное] знание во всём познаваемом; поэтому врачу следует стремиться познать истину посредством изучения [медицинских] трактатов.",
+        "text_en": "For by partial knowledge [complete] knowledge is not attained in all that is to be known; therefore the physician should strive to know the truth through the study of [medical] treatises."
       },
       {
         "type": "verse",
@@ -13419,7 +13542,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अभियुक्तस्तु सततं सर्वमालोच्य सर्वथा न जातु स्खलति प्राज्ञो विषमेपि क्रियापथे",
         "iast": "abhiyuktastu satataṃ sarvamālocya sarvathā na jātu skhalati prājño viṣamepi kriyāpathe",
         "iast_ru": "абхийуктасту сататам̣ сарвама̄лочйа сарватха̄ на джа̄ту скхалати пра̄джн̃о виш̣амепи крийа̄патхе",
-        "text": "Постоянно усердный [врач], всё тщательно рассмотрев, никогда, никоим образом не ошибается, [даже] на неровном пути [лечебного] действия, [ибо он] мудр."
+        "text": "Постоянно усердный [врач], всё тщательно рассмотрев, никогда, никоим образом не ошибается, [даже] на неровном пути [лечебного] действия, [ибо он] мудр.",
+        "text_en": "The constantly diligent [physician], having carefully considered everything, never, in any way, errs, [even] on the uneven path of [therapeutic] action, [for he is] wise."
       },
       {
         "type": "verse",
@@ -13427,7 +13551,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आगन्तुरन्वेति निजं विकारं निजस्तथागन्तुमतिप्रवृद्धः तत्रानुबन्धं प्रकृतिञ्च सम्यक् ज्ञात्वा ततः कर्म समारभेत",
         "iast": "āganturanveti nijaṃ vikāraṃ nijastathāgantumatipravṛddhaḥ tatrānubandhaṃ prakṛtiñca samyak jñātvā tataḥ karma samārabheta",
         "iast_ru": "а̄гантуранвети ниджам̣ вика̄рам̣ ниджастатха̄гантуматиправр̣ддхах̣ татра̄нубандхам̣ пракр̣тин̃ча самйак джн̃а̄тва̄ татах̣ карма сама̄рабхета",
-        "text": "«Случайное» [расстройство] следует за внутренним расстройством; подобным же образом внутреннее [расстройство], усилившись, [может привести к] случайному. Поэтому, правильно познав [их] взаимосвязь и [собственную] природу [пациента], следует затем начинать [лечебное] действие."
+        "text": "«Случайное» [расстройство] следует за внутренним расстройством; подобным же образом внутреннее [расстройство], усилившись, [может привести к] случайному. Поэтому, правильно познав [их] взаимосвязь и [собственную] природу [пациента], следует затем начинать [лечебное] действие.",
+        "text_en": "The 'accidental' [disorder] follows the internal disorder; likewise the internal [disorder], having intensified, [may lead] to the accidental. Therefore, having correctly understood [their] interrelation and the [patient's own] nature, one should then begin [therapeutic] action."
       }
     ]
   },
@@ -13449,7 +13574,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो भेषजावचरणीयमध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto bheṣajāvacaraṇīyamadhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то бхеш̣аджа̄вачаран̣ӣйамадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Бхешаджавачаранийя» («О применении лекарства») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Бхешаджавачаранийя» («О применении лекарства») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter named 'Bheshajavacharaniya' ('On the Administration of Medicine'), as the great sages headed by Atreya declared."
       },
       {
         "type": "verse",
@@ -13457,7 +13583,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भेषजमवचारयन् प्रागेव तावदेवमातुरं परीक्षेत कस्मिन्नयं देशे जातः संवृद्धो व्याधितो वा कस्मिंश्च देशे मनुष्याणामिदमाहारजातमिदं विहारजातमेतावत् बलमेवांविधं सत्वमेवंविधं सात्म्ममियं भक्तिरिमे व्याधयो हितमिदमहितमिदमिति प्राग्ग्रहणेन केन वा निदानविशेषेणास्यकुपितो दोषः दोषस्य ह्येकस्यापि बहवः प्रकोपे हेतवः तस्माद्यथास्वलक्षणैः कर्मभिश्च बुध्वा भिषक्दोषमेवमवगमयेत् तद्यथा किमाहारेण कुपितो वायुः किं विहारेण तथा रूक्षेण लघुना शिशिरेण वा साहसेन वेगरोधेन वा भयेन शोकेन वेति ततश्च तत्प्रतिपक्षमौषधं प्रयुज्यमानमाशु सिद्धये सम्पद्यते तत्र मधुराम्ललवणा रसाः कटुतिक्तकषायाश्चेतरेतरप्रतिपक्षाः तदनन्तरञ्चोपलभेत मृदुमध्यातिमात्रविकल्पनया कथं निदानमासेवितम् एकरूपस्यापि हि हेतोः मृद्वादिविभागेन पृथक् समवेतानाञ्च दोषाणामंशांशबलविकल्पविशेषात् व्याधेर्बलाबलविशेषः तत्रानेकदोषात्मकेषु व्याधिष्वनेकरसेषु च भेषजेषु रसदोषप्रभावमेकैकशो ऽभिसमीक्ष्य व्याधिभेषजप्रभावतत्वं व्यवस्येत नत्वेवं सर्वत्र",
         "iast": "bheṣajamavacārayan prāgeva tāvadevamāturaṃ parīkṣeta kasminnayaṃ deśe jātaḥ saṃvṛddho vyādhito vā kasmiṃśca deśe manuṣyāṇāmidamāhārajātamidaṃ vihārajātametāvat balamevāṃvidhaṃ satvamevaṃvidhaṃ sātmmamiyaṃ bhaktirime vyādhayo hitamidamahitamidamiti prāggrahaṇena kena vā nidānaviśeṣeṇāsyakupito doṣaḥ doṣasya hyekasyāpi bahavaḥ prakope hetavaḥ tasmādyathāsvalakṣaṇaiḥ karmabhiśca budhvā bhiṣakdoṣamevamavagamayet tadyathā kimāhāreṇa kupito vāyuḥ kiṃ vihāreṇa tathā rūkṣeṇa laghunā śiśireṇa vā sāhasena vegarodhena vā bhayena śokena veti tataśca tatpratipakṣamauṣadhaṃ prayujyamānamāśu siddhaye sampadyate tatra madhurāmlalavaṇā rasāḥ kaṭutiktakaṣāyāścetaretarapratipakṣāḥ tadanantarañcopalabheta mṛdumadhyātimātravikalpanayā kathaṃ nidānamāsevitam ekarūpasyāpi hi hetoḥ mṛdvādivibhāgena pṛthak samavetānāñca doṣāṇāmaṃśāṃśabalavikalpaviśeṣāt vyādherbalābalaviśeṣaḥ tatrānekadoṣātmakeṣu vyādhiṣvanekaraseṣu ca bheṣajeṣu rasadoṣaprabhāvamekaikaśo 'bhisamīkṣya vyādhibheṣajaprabhāvatatvaṃ vyavasyeta natvevaṃ sarvatra",
         "iast_ru": "бхеш̣аджамавача̄райан пра̄гева та̄вадевама̄турам̣ парӣкш̣ета касминнайам̣ деш́е джа̄тах̣ сам̣вр̣ддхо вйа̄дхито ва̄ касмим̣ш́ча деш́е мануш̣йа̄н̣а̄мидама̄ха̄раджа̄тамидам̣ виха̄раджа̄тамета̄ват баламева̄м̣видхам̣ сатвамевам̣видхам̣ са̄тммамийам̣ бхактириме вйа̄дхайо хитамидамахитамидамити пра̄гграхан̣ена кена ва̄ нида̄навиш́еш̣ен̣а̄сйакупито дош̣ах̣ дош̣асйа хйекасйа̄пи бахавах̣ пракопе хетавах̣ тасма̄дйатха̄свалакш̣ан̣аих̣ кармабхиш́ча будхва̄ бхиш̣акдош̣амевамавагамайет тадйатха̄ кима̄ха̄рен̣а купито ва̄йух̣ ким̣ виха̄рен̣а татха̄ рӯкш̣ен̣а лагхуна̄ ш́иш́ирен̣а ва̄ са̄хасена вегародхена ва̄ бхайена ш́окена вети таташ́ча татпратипакш̣амауш̣адхам̣ прайуджйама̄нама̄ш́у сиддхайе сампадйате татра мадхура̄млалаван̣а̄ раса̄х̣ кат̣утиктакаш̣а̄йа̄ш́четаретарапратипакш̣а̄х̣ таданантаран̃чопалабхета мр̣думадхйа̄тима̄травикалпанайа̄ катхам̣ нида̄нама̄севитам екарӯпасйа̄пи хи хетох̣ мр̣два̄дивибха̄гена пр̣тхак самавета̄на̄н̃ча дош̣а̄н̣а̄мам̣ш́а̄м̣ш́абалавикалпавиш́еш̣а̄т вйа̄дхербала̄балавиш́еш̣ах̣ татра̄некадош̣а̄тмакеш̣у вйа̄дхиш̣ванекарасеш̣у ча бхеш̣аджеш̣у расадош̣апрабха̄вамекаикаш́о 'бхисамӣкш̣йа вйа̄дхибхеш̣аджапрабха̄вататвам̣ вйавасйета натвевам̣ сарватра",
-        "text": "Применяя лекарство, следует прежде всего исследовать больного следующим образом: в какой земле он родился, вырос или заболел; какая в этой земле у людей [принята] пища, какой образ жизни; какова [его] сила, каков [его] душевный настрой, какова [его] привычка, каково [его] пристрастие [к вкусу]; какие [обычно у людей этой земли] болезни; что полезно, что вредно, — [всё это следует узнать] предварительным опросом. Или же по какой конкретной причине у него возбуждена доша, — ибо у одной доши бывает много причин возбуждения; поэтому, узнав [это] по собственным признакам и [реакции на пробные лечебные] действия, врач должен так определить дошу; например: возбуждён ли ветер пищей? Или образом жизни? Также — сухим, легким, холодным [фактором], или чрезмерным усилием, сдерживанием позывов, страхом или горем? И затем лекарство, противоположное этому [фактору], при применении быстро приводит к успеху. При этом сладкий, кислый, солёный вкусы, а также острый, горький, вяжущий — противоположны друг другу [попарно]. Затем следует определить, посредством различения мягкой, средней и сильной степени, как применялась [вредная] причина. Ибо даже при одной и той же причине, из-за различия в разделении на мягкую и прочие [степени], а также из-за особенности степени силы отдельных частей соединённых [в организме] дош, [возникает] особенность в силе или слабости болезни. Поэтому при болезнях, состоящих из многих дош, и при лекарствах с многими вкусами, следует, тщательно рассмотрев действие каждого вкуса и доши по отдельности, определить истинную суть действия болезни и лекарства; но не [следует поступать] так [упрощённо] во всех случаях."
+        "text": "Применяя лекарство, следует прежде всего исследовать больного следующим образом: в какой земле он родился, вырос или заболел; какая в этой земле у людей [принята] пища, какой образ жизни; какова [его] сила, каков [его] душевный настрой, какова [его] привычка, каково [его] пристрастие [к вкусу]; какие [обычно у людей этой земли] болезни; что полезно, что вредно, — [всё это следует узнать] предварительным опросом. Или же по какой конкретной причине у него возбуждена доша, — ибо у одной доши бывает много причин возбуждения; поэтому, узнав [это] по собственным признакам и [реакции на пробные лечебные] действия, врач должен так определить дошу; например: возбуждён ли ветер пищей? Или образом жизни? Также — сухим, легким, холодным [фактором], или чрезмерным усилием, сдерживанием позывов, страхом или горем? И затем лекарство, противоположное этому [фактору], при применении быстро приводит к успеху. При этом сладкий, кислый, солёный вкусы, а также острый, горький, вяжущий — противоположны друг другу [попарно]. Затем следует определить, посредством различения мягкой, средней и сильной степени, как применялась [вредная] причина. Ибо даже при одной и той же причине, из-за различия в разделении на мягкую и прочие [степени], а также из-за особенности степени силы отдельных частей соединённых [в организме] дош, [возникает] особенность в силе или слабости болезни. Поэтому при болезнях, состоящих из многих дош, и при лекарствах с многими вкусами, следует, тщательно рассмотрев действие каждого вкуса и доши по отдельности, определить истинную суть действия болезни и лекарства; но не [следует поступать] так [упрощённо] во всех случаях.",
+        "text_en": "In administering medicine, one should first examine the patient as follows: in what land he was born, grew up or fell ill; what food is [customary] among the people of that land, what way of life; what his strength is, what his mental disposition, what his habit, what his preference [in taste]; what diseases [are usual among the people of that land]; what is wholesome, what is harmful, all this [should be learned] by preliminary questioning. Or by what particular cause the dosha has been aggravated in him, for a single dosha has many causes of aggravation; therefore, having learned [this] by its own signs and [by the response to trial therapeutic] actions, the physician should so determine the dosha; for example: is Vata aggravated by food? Or by regimen? Or by a dry, light, cold [factor], or by excessive exertion, suppression of urges, fear or grief? And then the medicine opposite to this [factor], when applied, quickly leads to success. Here the sweet, sour and salty tastes, as well as the pungent, bitter and astringent, are opposed to each other [in pairs]. Then one should determine, by distinguishing the mild, moderate and strong degree, how the [harmful] cause was applied. For even with one and the same cause, owing to the difference in the division into mild and the other [degrees], and also owing to the particularity of the degree of strength of the individual parts of the doshas combined [in the organism], [there arises] a particularity in the strength or weakness of the disease. Therefore, in diseases consisting of many doshas, and with medicines of many tastes, one should, having carefully considered the action of each taste and dosha separately, determine the true essence of the action of the disease and of the medicine; but one should not [proceed] thus [in a simplified way] in all cases."
       },
       {
         "type": "verse",
@@ -13465,7 +13592,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "न हि विषमविकृतिसमवेतानां नानात्मकानां परस्परेणोपगृहीतानामुपहतानाञ्चान्यैश्च विकल्पनैर्विकल्पितानामवयवप्रभावानुमानेन समुदायप्रभावतत्वमध्यवसितुं शक्यम् तथाविधे हि समुदाये समुदायप्रभावमेवोपलभ्य व्याध्यौषधप्रभावतत्वमवगच्छेत् तथा कस्य धामाधिष्ठाय व्याधिरयमवस्ह्तित इति निरूपयेत् प्रविसृतो हि दोषः स्वमेव स्थानमातङ्कायाधितिष्ठन् मूर्द्धादीन् वा दुस्तरो भवति ततश्च स्थानविशेषेण भेषजविशेषः पर्येषितव्यः",
         "iast": "na hi viṣamavikṛtisamavetānāṃ nānātmakānāṃ paraspareṇopagṛhītānāmupahatānāñcānyaiśca vikalpanairvikalpitānāmavayavaprabhāvānumānena samudāyaprabhāvatatvamadhyavasituṃ śakyam tathāvidhe hi samudāye samudāyaprabhāvamevopalabhya vyādhyauṣadhaprabhāvatatvamavagacchet tathā kasya dhāmādhiṣṭhāya vyādhirayamavashtita iti nirūpayet pravisṛto hi doṣaḥ svameva sthānamātaṅkāyādhitiṣṭhan mūrddhādīn vā dustaro bhavati tataśca sthānaviśeṣeṇa bheṣajaviśeṣaḥ paryeṣitavyaḥ",
         "iast_ru": "на хи виш̣амавикр̣тисамавета̄на̄м̣ на̄на̄тмака̄на̄м̣ параспарен̣опагр̣хӣта̄на̄мупахата̄на̄н̃ча̄нйаиш́ча викалпанаирвикалпита̄на̄мавайавапрабха̄ва̄нума̄нена самуда̄йапрабха̄вататвамадхйаваситум̣ ш́акйам татха̄видхе хи самуда̄йе самуда̄йапрабха̄вамевопалабхйа вйа̄дхйауш̣адхапрабха̄вататвамавагаччхет татха̄ касйа дха̄ма̄дхиш̣т̣ха̄йа вйа̄дхирайамавасхтита ити нирӯпайет прависр̣то хи дош̣ах̣ свамева стха̄нама̄тан̇ка̄йа̄дхитиш̣т̣хан мӯрддха̄дӣн ва̄ дустаро бхавати таташ́ча стха̄навиш́еш̣ен̣а бхеш̣аджавиш́еш̣ах̣ парйеш̣итавйах̣",
-        "text": "Ибо невозможно определить истинную сущность совокупного действия путём умозаключения от действия [отдельных] частей — [когда эти части] обладают неравными, разнородными изменениями, взаимно усиливающими или подавляющими друг друга, и [далее] изменяются иными различными путями. В таком совокупном [явлении] следует познавать истинную суть действия болезни или лекарства, получив [представление именно] о совокупном действии [в целом]. Также следует установить, в каком именно месте [пребывания] утвердилась эта болезнь; ибо доша, распространившись, становится трудноодолимой, утвердившись либо в своём собственном месте для [дальнейшего] страдания, либо в голове и подобных [жизненно важных областях]. И затем, соответственно особенности места, следует подбирать особое лекарство."
+        "text": "Ибо невозможно определить истинную сущность совокупного действия путём умозаключения от действия [отдельных] частей — [когда эти части] обладают неравными, разнородными изменениями, взаимно усиливающими или подавляющими друг друга, и [далее] изменяются иными различными путями. В таком совокупном [явлении] следует познавать истинную суть действия болезни или лекарства, получив [представление именно] о совокупном действии [в целом]. Также следует установить, в каком именно месте [пребывания] утвердилась эта болезнь; ибо доша, распространившись, становится трудноодолимой, утвердившись либо в своём собственном месте для [дальнейшего] страдания, либо в голове и подобных [жизненно важных областях]. И затем, соответственно особенности места, следует подбирать особое лекарство.",
+        "text_en": "For it is impossible to determine the true essence of a combined action by inference from the action of [individual] parts, [when these parts] have unequal, heterogeneous changes, mutually reinforcing or suppressing one another, and [further] change in other various ways. In such a combined [phenomenon] one should discern the true essence of the action of the disease or of the medicine, having obtained [an idea precisely] of the combined action [as a whole]. One should also ascertain in what exact place [of abode] this disease has established itself; for the dosha, having spread, becomes difficult to overcome, being established either in its own site for [further] suffering, or in the head and similar [vital regions]. And then, according to the particularity of the site, one should select a special medicine."
       },
       {
         "type": "verse",
@@ -13473,7 +13601,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततश्चैवमालोचयेत् कस्यायमौषधस्य व्याधिरातुरो वा योग्यः कियतो वा दोषानुरूपो हि भैषज्यवीर्यप्रमाणविकल्पो व्याधिव्याधितबलापेक्षो भवति",
         "iast": "tataścaivamālocayet kasyāyamauṣadhasya vyādhirāturo vā yogyaḥ kiyato vā doṣānurūpo hi bhaiṣajyavīryapramāṇavikalpo vyādhivyādhitabalāpekṣo bhavati",
         "iast_ru": "таташ́чаивама̄лочайет касйа̄йамауш̣адхасйа вйа̄дхира̄туро ва̄ йогйах̣ кийато ва̄ дош̣а̄нурӯпо хи бхаиш̣аджйавӣрйапрама̄н̣авикалпо вйа̄дхивйа̄дхитабала̄пекш̣о бхавати",
-        "text": "И затем следует рассмотреть так: для чего [подходит] это лекарство — для [какой] болезни или больного оно годится, и в какой [дозе]? Ибо выбор силы и количества лекарства, соответствующий [степени] доши, зависит от силы болезни и больного."
+        "text": "И затем следует рассмотреть так: для чего [подходит] это лекарство — для [какой] болезни или больного оно годится, и в какой [дозе]? Ибо выбор силы и количества лекарства, соответствующий [степени] доши, зависит от силы болезни и больного.",
+        "text_en": "And then one should consider thus: for what is this medicine [suitable], for [what] disease or patient is it fit, and in what [dose]? For the choice of the strength and quantity of the medicine, corresponding to [the degree of] the dosha, depends on the strength of the disease and of the patient."
       },
       {
         "type": "verse",
@@ -13481,7 +13610,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सहसातिबलानि संशोधनौषधान्याग्नेयवायव्यान्यतिसौम्यान्यतिमात्राणि वा तथाग्निक्षारशस्त्रकर्माण्यल्पसत्वमातुरमल्पबलं वातिपाययेयुः संशमनानि तु व्याधिबलादधिकानि तमुपशमय्य व्याधिं व्याधिक्षपितदेहे शीघ्रमन्यमावहन्ति शरीरबलाधिकानि ग्लानिमूर्च्छामदमोहबलक्षयान् अग्निबलादधिकानि ग्लानिमग्निसादश्च",
         "iast": "sahasātibalāni saṃśodhanauṣadhānyāgneyavāyavyānyatisaumyānyatimātrāṇi vā tathāgnikṣāraśastrakarmāṇyalpasatvamāturamalpabalaṃ vātipāyayeyuḥ saṃśamanāni tu vyādhibalādadhikāni tamupaśamayya vyādhiṃ vyādhikṣapitadehe śīghramanyamāvahanti śarīrabalādhikāni glānimūrcchāmadamohabalakṣayān agnibalādadhikāni glānimagnisādaśca",
         "iast_ru": "сахаса̄тибала̄ни сам̣ш́одханауш̣адха̄нйа̄гнейава̄йавйа̄нйатисаумйа̄нйатима̄тра̄н̣и ва̄ татха̄гникш̣а̄раш́астракарма̄н̣йалпасатвама̄турамалпабалам̣ ва̄типа̄йайейух̣ сам̣ш́амана̄ни ту вйа̄дхибала̄дадхика̄ни тамупаш́амаййа вйа̄дхим̣ вйа̄дхикш̣апитадехе ш́ӣгхраманйама̄ваханти ш́арӣрабала̄дхика̄ни гла̄нимӯрччха̄мадамохабалакш̣айа̄н агнибала̄дадхика̄ни гла̄нимагниса̄даш́ча",
-        "text": "Чрезмерно сильные очищающие лекарства, огненной или воздушной природы, [или] чрезмерно мягкие, [или] в избыточной дозе; а также процедуры прижигания, щёлочи, хирургического инструмента, — могут погубить больного со слабым духом и малой силой. Успокаивающие же [средства], превышающие силу болезни, успокоив эту болезнь, быстро приносят другую [болезнь] телу, [уже] истощённому [первой] болезнью; [средства], превышающие [естественную] силу тела, — [приводят к] слабости, обмороку, опьянению, помрачению, истощению силы; превышающие силу [пищеварительного] огня — к слабости и ослаблению огня."
+        "text": "Чрезмерно сильные очищающие лекарства, огненной или воздушной природы, [или] чрезмерно мягкие, [или] в избыточной дозе; а также процедуры прижигания, щёлочи, хирургического инструмента, — могут погубить больного со слабым духом и малой силой. Успокаивающие же [средства], превышающие силу болезни, успокоив эту болезнь, быстро приносят другую [болезнь] телу, [уже] истощённому [первой] болезнью; [средства], превышающие [естественную] силу тела, — [приводят к] слабости, обмороку, опьянению, помрачению, истощению силы; превышающие силу [пищеварительного] огня — к слабости и ослаблению огня.",
+        "text_en": "Excessively strong purifying medicines, of fiery or airy nature, [or] excessively mild, [or] in an excessive dose; and also procedures of cauterization, alkali and the surgical instrument, may destroy a patient of weak spirit and little strength. Pacifying [remedies] that exceed the strength of the disease, having pacified this disease, quickly bring another [disease] to the body [already] exhausted by the [first] disease; [remedies] that exceed the [natural] strength of the body [lead to] weakness, fainting, intoxication, clouding of the mind, exhaustion of strength; those that exceed the strength of the [digestive] fire, to weakness and weakening of the fire."
       },
       {
         "type": "verse",
@@ -13489,7 +13619,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अपि च अतिस्थूलो ऽतिकृशो दुर्बलो दुर्बद्धमांसशोणितास्थ्यंगावयवो ऽल्पाग्निरल्पाहारो ऽसात्म्याहारोपचितः साररहितो वा व्याधिबलमेव तावदसमर्थसोढुम् किं पुनस्तथाविधो भेषजमेवंवेगम् तस्मात्तादृशमविषादकरैर्मृदुसुखैरुत्तरोत्तरगुरुभिरविभ्रमैश्चोपाचरेदौषधैर्विशेषादबलाः ताह्यनवस्थितमृदुविक्लवहृदयाः प्रायःसुकुमाराः परायत्ताश्च ततो ऽपि विशेषेण शिशवः तथा बलवति व्याध्यातुरे ऽल्पबलमल्पं वा भेषजमकिञ्चित्करं भूय एव दोषमुत्क्लेश्य व्याधिमुदीरयेत्",
         "iast": "api ca atisthūlo 'tikṛśo durbalo durbaddhamāṃsaśoṇitāsthyaṃgāvayavo 'lpāgniralpāhāro 'sātmyāhāropacitaḥ sārarahito vā vyādhibalameva tāvadasamarthasoḍhum kiṃ punastathāvidho bheṣajamevaṃvegam tasmāttādṛśamaviṣādakarairmṛdusukhairuttarottaragurubhiravibhramaiścopācaredauṣadhairviśeṣādabalāḥ tāhyanavasthitamṛduviklavahṛdayāḥ prāyaḥsukumārāḥ parāyattāśca tato 'pi viśeṣeṇa śiśavaḥ tathā balavati vyādhyāture 'lpabalamalpaṃ vā bheṣajamakiñcitkaraṃ bhūya eva doṣamutkleśya vyādhimudīrayet",
         "iast_ru": "апи ча атистхӯло 'тикр̣ш́о дурбало дурбаддхама̄м̣саш́он̣ита̄стхйам̣га̄вайаво 'лпа̄гниралпа̄ха̄ро 'са̄тмйа̄ха̄ропачитах̣ са̄рарахито ва̄ вйа̄дхибаламева та̄вадасамартхасод̣хум ким̣ пунастатха̄видхо бхеш̣аджамевам̣вегам тасма̄тта̄др̣ш́амавиш̣а̄дакараирмр̣дусукхаируттароттарагурубхиравибхрамаиш́чопа̄чаредауш̣адхаирвиш́еш̣а̄дабала̄х̣ та̄хйанавастхитамр̣дувиклавахр̣дайа̄х̣ пра̄йах̣сукума̄ра̄х̣ пара̄йатта̄ш́ча тато 'пи виш́еш̣ен̣а ш́иш́авах̣ татха̄ балавати вйа̄дхйа̄туре 'лпабаламалпам̣ ва̄ бхеш̣аджамакин̃читкарам̣ бхӯйа ева дош̣амутклеш́йа вйа̄дхимудӣрайет",
-        "text": "Кроме того, чрезмерно полный, чрезмерно истощённый, слабый, [обладающий] слабо скреплёнными мясом, кровью и костями [телом], со слабым огнём, малой [привычной] пищей, укреплённый непривычной пищей, или лишённый [телесной] сущности [пациент] — неспособен вынести даже [обычную] силу болезни, не говоря уже о лекарстве такой же силы. Поэтому такого [пациента] следует лечить лекарствами, не вызывающими отчаяния, мягкими, приятными, [применяемыми в дозах, возрастающих] постепенно, без резких колебаний; особенно же [это относится к] слабым [пациентам] — ибо у них неустойчивое, мягкое, тревожное сердце; они, как правило, изнеженные и зависимые [от других]; ещё более особенно [это относится] к детям. Так же [следует поступать] и с сильным больным при [лёгкой] болезни: [лекарство] с малой силой или в малой [дозе, будучи] бесполезным, лишь возбуждает дошу заново и обостряет болезнь."
+        "text": "Кроме того, чрезмерно полный, чрезмерно истощённый, слабый, [обладающий] слабо скреплёнными мясом, кровью и костями [телом], со слабым огнём, малой [привычной] пищей, укреплённый непривычной пищей, или лишённый [телесной] сущности [пациент] — неспособен вынести даже [обычную] силу болезни, не говоря уже о лекарстве такой же силы. Поэтому такого [пациента] следует лечить лекарствами, не вызывающими отчаяния, мягкими, приятными, [применяемыми в дозах, возрастающих] постепенно, без резких колебаний; особенно же [это относится к] слабым [пациентам] — ибо у них неустойчивое, мягкое, тревожное сердце; они, как правило, изнеженные и зависимые [от других]; ещё более особенно [это относится] к детям. Так же [следует поступать] и с сильным больным при [лёгкой] болезни: [лекарство] с малой силой или в малой [дозе, будучи] бесполезным, лишь возбуждает дошу заново и обостряет болезнь.",
+        "text_en": "Moreover, an excessively obese, excessively emaciated, weak [patient], [having a body] with flesh, blood and bones weakly bound together, with weak fire, little [habitual] food, strengthened by unaccustomed food, or deprived of [bodily] essence, is unable to bear even the [ordinary] strength of the disease, let alone a medicine of equal strength. Therefore such a [patient] should be treated with medicines that do not cause despair, mild, agreeable, [administered in doses increasing] gradually, without abrupt fluctuations; this applies especially to the weak [patients], for they have an unstable, soft, anxious heart; they are, as a rule, delicate and dependent [on others]; and still more particularly [this applies] to children. The same [should be done] also with a strong patient in [a mild] disease: [a medicine] with little strength or in a small [dose, being] useless, merely aggravates the dosha anew and sharpens the disease."
       },
       {
         "type": "verse",
@@ -13497,7 +13628,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "योग्यमपि चौषधमेवं परीक्षेत इदमेवंरसवीर्यविपाकमेवंगुणमेवंद्रव्यमेवंकर्मैवंप्रभावमस्मिन् देशे जातमस्मिन्नृतावेवंगृहीतमेवंनिहितमेवंविहितमेवंनिषिद्धमेवमुपसस्कृतमेवंसंयुक्तमेवंयुक्तमनया मात्रयैवंविधस्य पुरुषस्यैवंविधे काल एतावन्तं दोषमपकर्षत्युपशमयति वा अन्यदपि चैवंविधं भेषजमभूत् तन्मानेन वा विशेषेण प्रयुक्तमिदमकरोत् सूक्ष्माणि हि दोषौषधदूष्यदेशकालबलानलाहाररससात्म्यसत्वप्रकृतिवयसामवस्थान्तराणि यान्यनालोचितानि निहन्युरातुरम् आलोच्यमानानि तु विपुलबुद्धिमपि चिकित्सकमाकुलीकुर्युः किं पुनरल्पबुद्धिम् तस्मादभीक्ष्णशः शास्त्रार्थकर्मानुशीलनेन संस्कुर्वीत यज्ञाम् अपि च सन्ति व्याधयो ये शास्त्र उत्सर्गापवादैरुपक्रमं प्रति निर्दिष्टाः तत्र प्राज्ञ एव दोषादिगुरुलाघवेन सम्यगध्यवस्येदन्यतरनिष्ठायाम्",
         "iast": "yogyamapi cauṣadhamevaṃ parīkṣeta idamevaṃrasavīryavipākamevaṃguṇamevaṃdravyamevaṃkarmaivaṃprabhāvamasmin deśe jātamasminnṛtāvevaṃgṛhītamevaṃnihitamevaṃvihitamevaṃniṣiddhamevamupasaskṛtamevaṃsaṃyuktamevaṃyuktamanayā mātrayaivaṃvidhasya puruṣasyaivaṃvidhe kāla etāvantaṃ doṣamapakarṣatyupaśamayati vā anyadapi caivaṃvidhaṃ bheṣajamabhūt tanmānena vā viśeṣeṇa prayuktamidamakarot sūkṣmāṇi hi doṣauṣadhadūṣyadeśakālabalānalāhārarasasātmyasatvaprakṛtivayasāmavasthāntarāṇi yānyanālocitāni nihanyurāturam ālocyamānāni tu vipulabuddhimapi cikitsakamākulīkuryuḥ kiṃ punaralpabuddhim tasmādabhīkṣṇaśaḥ śāstrārthakarmānuśīlanena saṃskurvīta yajñām api ca santi vyādhayo ye śāstra utsargāpavādairupakramaṃ prati nirdiṣṭāḥ tatra prājña eva doṣādigurulāghavena samyagadhyavasyedanyataraniṣṭhāyām",
         "iast_ru": "йогйамапи чауш̣адхамевам̣ парӣкш̣ета идамевам̣расавӣрйавипа̄камевам̣гун̣амевам̣дравйамевам̣кармаивам̣прабха̄вамасмин деш́е джа̄тамасминнр̣та̄вевам̣гр̣хӣтамевам̣нихитамевам̣вихитамевам̣ниш̣иддхамевамупасаскр̣тамевам̣сам̣йуктамевам̣йуктаманайа̄ ма̄трайаивам̣видхасйа пуруш̣асйаивам̣видхе ка̄ла ета̄вантам̣ дош̣амапакарш̣атйупаш́амайати ва̄ анйадапи чаивам̣видхам̣ бхеш̣аджамабхӯт танма̄нена ва̄ виш́еш̣ен̣а прайуктамидамакарот сӯкш̣ма̄н̣и хи дош̣ауш̣адхадӯш̣йадеш́ака̄лабала̄нала̄ха̄рарасаса̄тмйасатвапракр̣тивайаса̄мавастха̄нтара̄н̣и йа̄нйана̄лочита̄ни ниханйура̄турам а̄лочйама̄на̄ни ту випулабуддхимапи чикитсакама̄кулӣкурйух̣ ким̣ пунаралпабуддхим тасма̄дабхӣкш̣н̣аш́ах̣ ш́а̄стра̄ртхакарма̄нуш́ӣланена сам̣скурвӣта йаджн̃а̄м апи ча санти вйа̄дхайо йе ш́а̄стра утсарга̄пава̄даирупакрамам̣ прати нирдиш̣т̣а̄х̣ татра пра̄джн̃а ева дош̣а̄дигурула̄гхавена самйагадхйавасйеданйатараниш̣т̣ха̄йа̄м",
-        "text": "Даже подходящее лекарство следует исследовать так: это [лекарство] с таким-то вкусом, потенцией и вкусом после переваривания; с такими-то качествами; такое-то [по природе] вещество; с таким-то действием и [специфическим] эффектом; возникшее в такой-то земле, в такой-то сезон; собранное так-то; хранимое так-то; приготовленное так-то; [следующее таким-то] запретам; обработанное так-то; сочетанное так-то; применённое в такой-то дозе, для человека такой-то [природы], в такое-то время, — устраняет ли или успокаивает эту [конкретную] дошу в такой-то мере? И [существовало ли] другое подобное лекарство? [Или] это [самое лекарство], применённое в ином количестве или особым образом, произвело [иной] эффект? Ибо тонкие различия в состоянии доши, лекарства, [поражённой] ткани, места, времени, силы, огня, пищи, вкуса, привычки, [душевной] сущности, конституции, возраста, — если они не будут рассмотрены, — могут погубить больного; рассматриваемые же [во всей их сложности], они могут смутить даже врача с обширным разумом, не говоря уже о [враче] со скудным разумом. Поэтому следует постоянно совершенствовать [своё] знание посредством изучения смысла и практики [медицинских] трактатов. Кроме того, есть болезни, для которых в трактате указан подход через общие правила и исключения; в этом случае именно мудрый [врач] должен правильно определить [подход], [взвешивая] тяжесть или лёгкость доши и подобного, в пользу того или иного [решения]."
+        "text": "Даже подходящее лекарство следует исследовать так: это [лекарство] с таким-то вкусом, потенцией и вкусом после переваривания; с такими-то качествами; такое-то [по природе] вещество; с таким-то действием и [специфическим] эффектом; возникшее в такой-то земле, в такой-то сезон; собранное так-то; хранимое так-то; приготовленное так-то; [следующее таким-то] запретам; обработанное так-то; сочетанное так-то; применённое в такой-то дозе, для человека такой-то [природы], в такое-то время, — устраняет ли или успокаивает эту [конкретную] дошу в такой-то мере? И [существовало ли] другое подобное лекарство? [Или] это [самое лекарство], применённое в ином количестве или особым образом, произвело [иной] эффект? Ибо тонкие различия в состоянии доши, лекарства, [поражённой] ткани, места, времени, силы, огня, пищи, вкуса, привычки, [душевной] сущности, конституции, возраста, — если они не будут рассмотрены, — могут погубить больного; рассматриваемые же [во всей их сложности], они могут смутить даже врача с обширным разумом, не говоря уже о [враче] со скудным разумом. Поэтому следует постоянно совершенствовать [своё] знание посредством изучения смысла и практики [медицинских] трактатов. Кроме того, есть болезни, для которых в трактате указан подход через общие правила и исключения; в этом случае именно мудрый [врач] должен правильно определить [подход], [взвешивая] тяжесть или лёгкость доши и подобного, в пользу того или иного [решения].",
+        "text_en": "Even a suitable medicine should be examined thus: this [medicine] is of such-and-such taste, potency and post-digestive taste; of such-and-such qualities; such-and-such [in nature] a substance; with such-and-such action and [specific] effect; grown in such-and-such land, in such-and-such season; collected in such-and-such way; stored in such-and-such way; prepared in such-and-such way; [subject to such-and-such] prohibitions; processed in such-and-such way; combined in such-and-such way; administered in such-and-such dose, to a person of such-and-such [nature], at such-and-such time: does it eliminate or pacify this [particular] dosha to such-and-such a degree? And [was there] another similar medicine? [Or] has this [very] medicine, applied in a different quantity or in a special manner, produced a [different] effect? For the subtle differences in the state of the dosha, the medicine, the [affected] tissue, the place, the time, the strength, the fire, the food, the taste, the habit, the [mental] constitution, the physique, the age, if they are not considered, may destroy the patient; when considered [in all their complexity], they may bewilder even a physician of vast intellect, let alone [a physician] of scanty intellect. Therefore one should constantly perfect [one's] knowledge by studying the meaning and practice of [medical] treatises. Moreover, there are diseases for which the treatise indicates an approach through general rules and exceptions; in this case the wise [physician] himself should correctly determine [the approach], [weighing] the severity or lightness of the dosha and the like, in favor of one or another [decision]."
       },
       {
         "type": "verse",
@@ -13505,7 +13637,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कालश्च भेषजस्य योग्यतामादधाति स क्षणलवमुहूर्तादिभेदेनातुरावस्थया च द्विधोक्तः प्रागपि च शीतोष्णवर्षलक्षणस्त्रिविधः कालः तत्र शीतोष्णयोर्वृष्टिशीतयोश्चान्तरे साधारणौ वसन्तजलदात्यायु ग्रीष्मवर्षकालयोस्तु प्रारम्भो वृष्टेः प्रावृडिति विकल्प्यते तेषु साधारणेष्वहस्सु वमनादीनां प्रवृत्तिर्न्निवृत्तिरितरेष्वयोगातियोगभयात् साधारणा हि मन्दशीतोष्णवर्षतया सुखत्वात् भवन्त्यविकल्पकाः शरीरौषधानाम् विपरीतास्त्वितरे",
         "iast": "kālaśca bheṣajasya yogyatāmādadhāti sa kṣaṇalavamuhūrtādibhedenāturāvasthayā ca dvidhoktaḥ prāgapi ca śītoṣṇavarṣalakṣaṇastrividhaḥ kālaḥ tatra śītoṣṇayorvṛṣṭiśītayoścāntare sādhāraṇau vasantajaladātyāyu grīṣmavarṣakālayostu prārambho vṛṣṭeḥ prāvṛḍiti vikalpyate teṣu sādhāraṇeṣvahassu vamanādīnāṃ pravṛttirnnivṛttiritareṣvayogātiyogabhayāt sādhāraṇā hi mandaśītoṣṇavarṣatayā sukhatvāt bhavantyavikalpakāḥ śarīrauṣadhānām viparītāstvitare",
         "iast_ru": "ка̄лаш́ча бхеш̣аджасйа йогйата̄ма̄дадха̄ти са кш̣ан̣алавамухӯрта̄дибхедена̄тура̄вастхайа̄ ча двидхоктах̣ пра̄гапи ча ш́ӣтош̣н̣аварш̣алакш̣ан̣астривидхах̣ ка̄лах̣ татра ш́ӣтош̣н̣айорвр̣ш̣т̣иш́ӣтайош́ча̄нтаре са̄дха̄ран̣ау васантаджалада̄тйа̄йу грӣш̣маварш̣ака̄лайосту пра̄рамбхо вр̣ш̣т̣ех̣ пра̄вр̣д̣ити викалпйате теш̣у са̄дха̄ран̣еш̣вахассу вамана̄дӣна̄м̣ правр̣ттирннивр̣ттиритареш̣вайога̄тийогабхайа̄т са̄дха̄ран̣а̄ хи мандаш́ӣтош̣н̣аварш̣атайа̄ сукхатва̄т бхавантйавикалпака̄х̣ ш́арӣрауш̣адха̄на̄м випарӣта̄ствитаре",
-        "text": "Время же придаёт лекарству [его] уместность. Оно определяется двояко: по различию мгновения, момента, мухурты и подобного, а также по состоянию больного; ранее же [время] было также определено трёх видов, по признаку холода, жары и дождя. Из них между холодом и жарой, а также между дождём и холодом, — [есть] переходные периоды: конец весны [и начало] сезона туч, а также начало сезона дождей после лета. В эти переходные дни следует [начинать] применение рвотного и подобного, но не прекращать [его в другие дни] из страха недостатка или избытка [эффекта]; ибо переходные [дни], благодаря мягкости холода, жары и дождя, [и общему] комфорту, не изменяют [обычного действия] тела и лекарств; противоположные же [резкие сезонные периоды] — наоборот [изменяют его]."
+        "text": "Время же придаёт лекарству [его] уместность. Оно определяется двояко: по различию мгновения, момента, мухурты и подобного, а также по состоянию больного; ранее же [время] было также определено трёх видов, по признаку холода, жары и дождя. Из них между холодом и жарой, а также между дождём и холодом, — [есть] переходные периоды: конец весны [и начало] сезона туч, а также начало сезона дождей после лета. В эти переходные дни следует [начинать] применение рвотного и подобного, но не прекращать [его в другие дни] из страха недостатка или избытка [эффекта]; ибо переходные [дни], благодаря мягкости холода, жары и дождя, [и общему] комфорту, не изменяют [обычного действия] тела и лекарств; противоположные же [резкие сезонные периоды] — наоборот [изменяют его].",
+        "text_en": "Time, moreover, gives the medicine [its] appropriateness. It is defined in two ways: by the distinction of a moment, an instant, a muhurta and the like, and also by the state of the patient; earlier, [time] was also defined as of three kinds, by the sign of cold, heat and rain. Of these, between cold and heat, and also between rain and cold, [there are] transitional periods: the end of spring [and the beginning] of the season of clouds, and also the beginning of the rainy season after summer. In these transitional days one should [begin] the application of emesis and the like, but not discontinue [it on other days] for fear of deficiency or excess [of effect]; for the transitional [days], thanks to the mildness of cold, heat and rain, [and the general] comfort, do not alter [the usual action] of the body and medicines; the opposite [sharp seasonal periods], on the contrary, [alter it]."
       },
       {
         "type": "verse",
@@ -13513,7 +13646,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा हि शीतकाले ऽतिमात्रशीतोपहितत्वाच्छरीरमत्यर्थशीतवातविष्टब्धमतिस्तब्धबहुगुरुदोषं भवति तदनु प्राप्तञ्च भेषजं संशोधनार्थमुष्णस्वभावमपि शीतोपहतत्वान्मन्दवीर्यतां गतमयोगाय जायते शरीरञ्च वातप्रायोपद्रवाय तद्वद्वर्षास्वपि समन्तादतिघनेन बहलेन घनसम्पातेनावतते नभसि उपरुद्धतेजःयसरेषु दिनकरकरेषु जलपटलोत्प्लावनोद्दामकर्दमायां भूमावत्यर्थोपक्लिन्नमवसन्नानलबलमादानदुर्बलं शरीरं भवति",
         "iast": "tathā hi śītakāle 'timātraśītopahitatvāccharīramatyarthaśītavātaviṣṭabdhamatistabdhabahugurudoṣaṃ bhavati tadanu prāptañca bheṣajaṃ saṃśodhanārthamuṣṇasvabhāvamapi śītopahatatvānmandavīryatāṃ gatamayogāya jāyate śarīrañca vātaprāyopadravāya tadvadvarṣāsvapi samantādatighanena bahalena ghanasampātenāvatate nabhasi uparuddhatejaḥyasareṣu dinakarakareṣu jalapaṭalotplāvanoddāmakardamāyāṃ bhūmāvatyarthopaklinnamavasannānalabalamādānadurbalaṃ śarīraṃ bhavati",
         "iast_ru": "татха̄ хи ш́ӣтака̄ле 'тима̄траш́ӣтопахитатва̄ччхарӣраматйартхаш́ӣтава̄тавиш̣т̣абдхаматистабдхабахугурудош̣ам̣ бхавати тадану пра̄птан̃ча бхеш̣аджам̣ сам̣ш́одхана̄ртхамуш̣н̣асвабха̄вамапи ш́ӣтопахататва̄нмандавӣрйата̄м̣ гатамайога̄йа джа̄йате ш́арӣран̃ча ва̄тапра̄йопадрава̄йа тадвадварш̣а̄свапи саманта̄датигханена бахалена гханасампа̄тена̄ватате набхаси упаруддхатеджах̣йасареш̣у динакаракареш̣у джалапат̣алотпла̄ванодда̄макардама̄йа̄м̣ бхӯма̄ватйартхопаклиннамавасанна̄налабалама̄да̄надурбалам̣ ш́арӣрам̣ бхавати",
-        "text": "Ибо так: в холодный сезон, из-за чрезмерного воздействия холода, тело становится чрезмерно задержанным холодным ветром, чрезмерно оцепенелым, [и] с обильными тяжёлыми дошами; лекарство же, применяемое для очищения, даже если оно тёплой природы, из-за воздействия холода утрачивает силу и приводит к недостаточному [эффекту]; а тело [подвергается] осложнениям, преимущественно [от] ватхи. Подобным же образом и в сезон дождей: небо со всех сторон покрыто чрезвычайно плотными, обильными скоплениями туч; лучи солнца сдержаны в своей силе; земля затоплена и загрязнена потоками воды; тело становится чрезмерно увлажнённым, с угасшей силой огня, ослабленным от [сезона] «адана»."
+        "text": "Ибо так: в холодный сезон, из-за чрезмерного воздействия холода, тело становится чрезмерно задержанным холодным ветром, чрезмерно оцепенелым, [и] с обильными тяжёлыми дошами; лекарство же, применяемое для очищения, даже если оно тёплой природы, из-за воздействия холода утрачивает силу и приводит к недостаточному [эффекту]; а тело [подвергается] осложнениям, преимущественно [от] ватхи. Подобным же образом и в сезон дождей: небо со всех сторон покрыто чрезвычайно плотными, обильными скоплениями туч; лучи солнца сдержаны в своей силе; земля затоплена и загрязнена потоками воды; тело становится чрезмерно увлажнённым, с угасшей силой огня, ослабленным от [сезона] «адана».",
+        "text_en": "For thus: in the cold season, owing to the excessive effect of cold, the body becomes excessively obstructed by cold wind, excessively stiff, [and] with abundant heavy doshas; the medicine, however, administered for purification, even if of warm nature, loses strength owing to the effect of cold and leads to an insufficient [effect]; and the body [is subjected] to complications, mainly [from] Vata. In the same way in the rainy season: the sky on all sides is covered with extremely dense, abundant masses of clouds; the rays of the sun are restrained in their strength; the earth is flooded and polluted by streams of water; the body becomes excessively moistened, with the strength of the fire extinguished, weakened by [the season] 'adana'."
       },
       {
         "type": "verse",
@@ -13521,7 +13655,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "औषधग्रामस्तु जलदोदरप्रततप्रमुक्तधारावपातसम्भृताम्बुनिवहोपप्लावितमूलजालसारविटपो बहलकोमलपल्लवोपचितस्कन्धशाखः पुनरिव बालतामुपगतो ऽल्पवीर्यो भवति अपरिसंस्थिततया च क्षितिमलप्नायाभिरम्लविपाकाभिः खगमृगसरीसृपादिशवधातुमूत्रपुरीषसंस्पृष्टाभिरद्भिः सलिलशिशिरशीकरानुविद्धशिशिरपवनसम्पृक्तेन च धाराधरोष्मणा कोमलत्वादपरिणतस्यास्य सुतरां विदाहो जन्यते ततश्चासावपथ्यतामुपगतो ध्रुवमयोगाय प्रथमसंगृहीतमपिचौषधं तोयदतोयानुगतमारुतोपहते जगतीति",
         "iast": "auṣadhagrāmastu jaladodarapratatapramuktadhārāvapātasambhṛtāmbunivahopaplāvitamūlajālasāraviṭapo bahalakomalapallavopacitaskandhaśākhaḥ punariva bālatāmupagato 'lpavīryo bhavati aparisaṃsthitatayā ca kṣitimalapnāyābhiramlavipākābhiḥ khagamṛgasarīsṛpādiśavadhātumūtrapurīṣasaṃspṛṣṭābhiradbhiḥ salilaśiśiraśīkarānuviddhaśiśirapavanasampṛktena ca dhārādharoṣmaṇā komalatvādapariṇatasyāsya sutarāṃ vidāho janyate tataścāsāvapathyatāmupagato dhruvamayogāya prathamasaṃgṛhītamapicauṣadhaṃ toyadatoyānugatamārutopahate jagatīti",
         "iast_ru": "ауш̣адхагра̄масту джаладодарапрататапрамуктадха̄ра̄вапа̄тасамбхр̣та̄мбунивахопапла̄витамӯладжа̄ласа̄равит̣апо бахалакомалапаллавопачитаскандхаш́а̄кхах̣ пунарива ба̄лата̄мупагато 'лпавӣрйо бхавати апарисам̣стхитатайа̄ ча кш̣итималапна̄йа̄бхирамлавипа̄ка̄бхих̣ кхагамр̣гасарӣср̣па̄диш́авадха̄тумӯтрапурӣш̣асам̣спр̣ш̣т̣а̄бхирадбхих̣ салилаш́иш́ираш́ӣкара̄нувиддхаш́иш́ирапаванасампр̣ктена ча дха̄ра̄дхарош̣ман̣а̄ комалатва̄дапарин̣атасйа̄сйа сутара̄м̣ вида̄хо джанйате таташ́ча̄са̄вапатхйата̄мупагато дхрувамайога̄йа пратхамасам̣гр̣хӣтамапичауш̣адхам̣ тойадатойа̄нугатама̄рутопахате джагатӣти",
-        "text": "Совокупность лекарственных растений же, [чьи] корневая сеть, сердцевина и стебель затоплены потоками воды, обрушивающимися из чрева туч, [чей] ствол и ветви обременены обильными нежными молодыми побегами, — становится, подобно [возвращению к] младенчеству, [растением] с малой силой. И из-за [своей] неустойчивости, — [пропитанное] землистой грязью, [водами] с кислым вкусом после переваривания, [загрязнёнными] соприкосновением с трупами птиц, животных, пресмыкающихся и подобных [существ, их] тканями, мочой, калом, а также [омытое] прохладными брызгами воды, смешанными с прохладным ветром, [и] жаром облачного [тепла], — из-за [своей] нежности и незрелости [это растение] легко подвергается порче. И оттого оно становится неполезным, [и] непременно [приводит] к недостаточному [эффекту] — даже лекарство, собранное с самого начала [сезона], [оказывается испорченным] в мире, охваченном дождевой водой и [сопутствующим] ветром."
+        "text": "Совокупность лекарственных растений же, [чьи] корневая сеть, сердцевина и стебель затоплены потоками воды, обрушивающимися из чрева туч, [чей] ствол и ветви обременены обильными нежными молодыми побегами, — становится, подобно [возвращению к] младенчеству, [растением] с малой силой. И из-за [своей] неустойчивости, — [пропитанное] землистой грязью, [водами] с кислым вкусом после переваривания, [загрязнёнными] соприкосновением с трупами птиц, животных, пресмыкающихся и подобных [существ, их] тканями, мочой, калом, а также [омытое] прохладными брызгами воды, смешанными с прохладным ветром, [и] жаром облачного [тепла], — из-за [своей] нежности и незрелости [это растение] легко подвергается порче. И оттого оно становится неполезным, [и] непременно [приводит] к недостаточному [эффекту] — даже лекарство, собранное с самого начала [сезона], [оказывается испорченным] в мире, охваченном дождевой водой и [сопутствующим] ветром.",
+        "text_en": "The whole body of medicinal plants, however, [whose] root network, pith and stem are flooded by streams of water pouring down from the womb of the clouds, [whose] trunk and branches are burdened with abundant tender young shoots, becomes, like [a return to] infancy, [a plant] of little strength. And owing to [its] instability, [saturated] with earthy mud, [with waters] of sour post-digestive taste, [polluted] by contact with the corpses of birds, animals, reptiles and similar [creatures, their] tissues, urine and feces, and also [washed] by cool sprays of water mixed with cool wind, [and] the heat of cloudy [warmth], owing to [its] tenderness and immaturity [this plant] is easily subject to spoilage. And therefore it becomes unwholesome, [and] invariably [leads] to an insufficient [effect], even medicine collected from the very beginning [of the season] [turns out to be spoiled] in a world gripped by rainwater and [the accompanying] wind."
       },
       {
         "type": "verse",
@@ -13529,7 +13664,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ग्रीष्मे पुनरादानोपहतत्वाच्छरीरमुष्णरूक्षवातातपाध्मातमतिस्विन्नमतिशिथिलमतियलीनदोषं भवति भेषजं पुनरनुष्णमपि तपनकरनिपातादुष्णतीक्ष्णतामुपगतमतियोगायोपकल्पते शरीरञ्च पिपासाभ्रमक्लमोपद्रवाय तस्मात्साधारणेष्वेव तदन्तरालेषु वमनादीनि योजयेन्नचेदात्ययिको व्याधिः आत्ययिके तु कृत्रिमगुणोपधानेन यथर्तुगुणविपरीतेन संयोगसंस्कारप्रमाणविकल्पैश्चोपपाद्यौषधमेवावहितो ऽवचारयेत्",
         "iast": "grīṣme punarādānopahatatvāccharīramuṣṇarūkṣavātātapādhmātamatisvinnamatiśithilamatiyalīnadoṣaṃ bhavati bheṣajaṃ punaranuṣṇamapi tapanakaranipātāduṣṇatīkṣṇatāmupagatamatiyogāyopakalpate śarīrañca pipāsābhramaklamopadravāya tasmātsādhāraṇeṣveva tadantarāleṣu vamanādīni yojayennacedātyayiko vyādhiḥ ātyayike tu kṛtrimaguṇopadhānena yathartuguṇaviparītena saṃyogasaṃskārapramāṇavikalpaiścopapādyauṣadhamevāvahito 'vacārayet",
         "iast_ru": "грӣш̣ме пунара̄да̄нопахататва̄ччхарӣрамуш̣н̣арӯкш̣ава̄та̄тапа̄дхма̄таматисвиннаматиш́итхиламатийалӣнадош̣ам̣ бхавати бхеш̣аджам̣ пунарануш̣н̣амапи тапанакаранипа̄та̄душ̣н̣атӣкш̣н̣ата̄мупагатаматийога̄йопакалпате ш́арӣран̃ча пипа̄са̄бхрамакламопадрава̄йа тасма̄тса̄дха̄ран̣еш̣вева тадантара̄леш̣у вамана̄дӣни йоджайенначеда̄тйайико вйа̄дхих̣ а̄тйайике ту кр̣тримагун̣опадха̄нена йатхартугун̣авипарӣтена сам̣йогасам̣ска̄рапрама̄н̣авикалпаиш́чопапа̄дйауш̣адхамева̄вахито 'вача̄райет",
-        "text": "Летом же, из-за воздействия [сезона] «адана», тело становится вздутым тёплым, сухим ветром и солнцем, чрезмерно потливым, чрезмерно расслабленным, с чрезвычайно застоявшимися дошами; лекарство же, даже нежаркое [по природе], из-за воздействия палящих солнечных лучей приобретает избыточную теплоту и резкость, [что приводит] к избыточному эффекту; а тело [подвергается] осложнениям [в виде] жажды, головокружения, изнеможения. Поэтому именно в переходные [периоды] между этими [сезонами] следует применять рвотное и подобное, если только [не наступила] неотложная болезнь. При неотложной же [болезни] следует внимательно применять лекарство, скорректированное искусственным приданием [ему] качеств, противоположных сезонным качествам, посредством различных вариаций сочетания, обработки и дозировки."
+        "text": "Летом же, из-за воздействия [сезона] «адана», тело становится вздутым тёплым, сухим ветром и солнцем, чрезмерно потливым, чрезмерно расслабленным, с чрезвычайно застоявшимися дошами; лекарство же, даже нежаркое [по природе], из-за воздействия палящих солнечных лучей приобретает избыточную теплоту и резкость, [что приводит] к избыточному эффекту; а тело [подвергается] осложнениям [в виде] жажды, головокружения, изнеможения. Поэтому именно в переходные [периоды] между этими [сезонами] следует применять рвотное и подобное, если только [не наступила] неотложная болезнь. При неотложной же [болезни] следует внимательно применять лекарство, скорректированное искусственным приданием [ему] качеств, противоположных сезонным качествам, посредством различных вариаций сочетания, обработки и дозировки.",
+        "text_en": "In summer, however, owing to the effect of [the season] 'adana', the body becomes bloated by warm, dry wind and sun, excessively sweaty, excessively relaxed, with extremely stagnant doshas; the medicine, even if not hot [by nature], owing to the effect of the scorching rays of the sun acquires excessive heat and sharpness, [leading] to an excessive effect; and the body [is subjected] to complications [in the form of] thirst, dizziness, exhaustion. Therefore precisely in the transitional [periods] between these [seasons] one should apply emesis and the like, unless [there has arisen] an urgent disease. In an urgent [disease], however, one should carefully apply a medicine adjusted by artificially imparting to [it] qualities opposite to the seasonal qualities, by means of various variations of combination, processing and dosage."
       },
       {
         "type": "verse",
@@ -13537,7 +13673,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आतुरावस्थासु तु कलाः कालसंज्ञाः तद्यथास्यामवस्थायामस्यौषधस्य कालो ऽकालो वा नह्यप्राप्तातीतकालमौषधं यौगिकं भवति तस्यत्वेकादशधावचारणम् तद्यथा अभक्तं प्राग्भक्तं मध्यभक्तमधोभक्तं सभक्तमन्तरभक्तं सामुद्गं मुहुर्मुहुः सग्रासं ग्रासान्तरा निशि च",
         "iast": "āturāvasthāsu tu kalāḥ kālasaṃjñāḥ tadyathāsyāmavasthāyāmasyauṣadhasya kālo 'kālo vā nahyaprāptātītakālamauṣadhaṃ yaugikaṃ bhavati tasyatvekādaśadhāvacāraṇam tadyathā abhaktaṃ prāgbhaktaṃ madhyabhaktamadhobhaktaṃ sabhaktamantarabhaktaṃ sāmudgaṃ muhurmuhuḥ sagrāsaṃ grāsāntarā niśi ca",
         "iast_ru": "а̄тура̄вастха̄су ту кала̄х̣ ка̄ласам̣джн̃а̄х̣ тадйатха̄сйа̄мавастха̄йа̄масйауш̣адхасйа ка̄ло 'ка̄ло ва̄ нахйапра̄пта̄тӣтака̄ламауш̣адхам̣ йаугикам̣ бхавати тасйатвека̄даш́адха̄вача̄ран̣ам тадйатха̄ абхактам̣ пра̄гбхактам̣ мадхйабхактамадхобхактам̣ сабхактамантарабхактам̣ са̄мудгам̣ мухурмухух̣ сагра̄сам̣ гра̄са̄нтара̄ ниш́и ча",
-        "text": "В отношении же состояний больного, «время» обозначает [конкретные] моменты, а именно: подходит ли [приём] этого лекарства этому состоянию по времени или нет; ибо лекарство, [принятое] не в срок или после срока, не действует эффективно. Применение же его — одиннадцати видов: без еды, перед едой, в середине еды, после еды, с едой, между [приёмами] еды, «самудга», многократно повторяемое, с [каждым] куском [пищи], между кусками, и ночью."
+        "text": "В отношении же состояний больного, «время» обозначает [конкретные] моменты, а именно: подходит ли [приём] этого лекарства этому состоянию по времени или нет; ибо лекарство, [принятое] не в срок или после срока, не действует эффективно. Применение же его — одиннадцати видов: без еды, перед едой, в середине еды, после еды, с едой, между [приёмами] еды, «самудга», многократно повторяемое, с [каждым] куском [пищи], между кусками, и ночью.",
+        "text_en": "With regard to the states of the patient, 'time' denotes [specific] moments, namely: whether [the administration] of this medicine is suitable for this state in time or not; for a medicine [taken] untimely or after the due time does not act effectively. Its administration is of eleven kinds: without food, before food, in the middle of food, after food, with food, between [meals], 'samudga', repeated many times, with [each] morsel, between morsels, and at night."
       },
       {
         "type": "verse",
@@ -13545,7 +13682,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्राभक्तं नाम केवलमेवौषधं निरन्नोपयोगादतिवीर्यम् कफोद्रेकविमुक्तामाशयस्रोताः प्रातर्बलवानुपयुञ्जीत इतरस्तु प्राग्भक्तादिकमन्नसंसर्गेण हितं नातिग्लानिकरं भवति",
         "iast": "tatrābhaktaṃ nāma kevalamevauṣadhaṃ nirannopayogādativīryam kaphodrekavimuktāmāśayasrotāḥ prātarbalavānupayuñjīta itarastu prāgbhaktādikamannasaṃsargeṇa hitaṃ nātiglānikaraṃ bhavati",
         "iast_ru": "татра̄бхактам̣ на̄ма кеваламевауш̣адхам̣ нираннопайога̄дативӣрйам капходрекавимукта̄ма̄ш́айасрота̄х̣ пра̄тарбалава̄нупайун̃джӣта итарасту пра̄гбхакта̄дикаманнасам̣сарген̣а хитам̣ на̄тигла̄никарам̣ бхавати",
-        "text": "«Абхакта» — [приём лекарства] без еды — это лекарство, [принимаемое] совершенно одно; из-за отсутствия [сопутствующей] пищи оно чрезмерно сильное; сильный [пациент], у которого желудочные каналы освобождены от избытка капхи, пусть принимает [его] утром; иное же [лекарство, такое как] «перед едой» и подобное, полезно из-за смешения с пищей, [и] не вызывает чрезмерного истощения."
+        "text": "«Абхакта» — [приём лекарства] без еды — это лекарство, [принимаемое] совершенно одно; из-за отсутствия [сопутствующей] пищи оно чрезмерно сильное; сильный [пациент], у которого желудочные каналы освобождены от избытка капхи, пусть принимает [его] утром; иное же [лекарство, такое как] «перед едой» и подобное, полезно из-за смешения с пищей, [и] не вызывает чрезмерного истощения.",
+        "text_en": "'Abhakta', [taking medicine] without food, is a medicine [taken] completely alone; owing to the absence of [accompanying] food it is excessively strong; a strong [patient], whose gastric channels have been freed from excess Kapha, may take [it] in the morning; the other [medicine, such as] 'before food' and the like, is beneficial because of mixing with food, [and] does not cause excessive depletion."
       },
       {
         "type": "verse",
@@ -13553,7 +13691,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्राग्भक्तं नाम यदनन्तरभक्तम् तदपानानिलविकृतावधः कायस्य च बलाधानार्थं तद्गतेषु च व्याधिषु प्रशमनाय कृशीकरणार्थञ्च योज्यम्",
         "iast": "prāgbhaktaṃ nāma yadanantarabhaktam tadapānānilavikṛtāvadhaḥ kāyasya ca balādhānārthaṃ tadgateṣu ca vyādhiṣu praśamanāya kṛśīkaraṇārthañca yojyam",
         "iast_ru": "пра̄гбхактам̣ на̄ма йаданантарабхактам тадапа̄на̄нилавикр̣та̄вадхах̣ ка̄йасйа ча бала̄дха̄на̄ртхам̣ тадгатеш̣у ча вйа̄дхиш̣у праш́амана̄йа кр̣ш́ӣкаран̣а̄ртхан̃ча йоджйам",
-        "text": "«Прагбхакта» («перед едой») — это [лекарство, принимаемое] непосредственно перед едой. Его следует применять при расстройстве апана-ветра, для придания силы нижней части тела, для успокоения болезней, [расположенных] там, а также для [цели] похудения."
+        "text": "«Прагбхакта» («перед едой») — это [лекарство, принимаемое] непосредственно перед едой. Его следует применять при расстройстве апана-ветра, для придания силы нижней части тела, для успокоения болезней, [расположенных] там, а также для [цели] похудения.",
+        "text_en": "'Pragbhakta' ('before food') is [medicine taken] immediately before eating. It should be used in disorder of Apana Vata, to impart strength to the lower part of the body, to pacify the diseases [located] there, and also for [the purpose of] reducing weight."
       },
       {
         "type": "verse",
@@ -13561,7 +13700,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मध्यभक्तं मध्ये भक्तस्य तत् समानानिलविकृतौ कोष्ठगतेषु च व्याधिषु पैत्तिकेषु च",
         "iast": "madhyabhaktaṃ madhye bhaktasya tat samānānilavikṛtau koṣṭhagateṣu ca vyādhiṣu paittikeṣu ca",
         "iast_ru": "мадхйабхактам̣ мадхйе бхактасйа тат сама̄на̄нилавикр̣тау кош̣т̣хагатеш̣у ча вйа̄дхиш̣у паиттикеш̣у ча",
-        "text": "«Мадхьябхакта» («в середине еды») — это [лекарство, принимаемое] в середине еды; [оно применяется] при расстройстве самана-ветра, при болезнях, [расположенных] в желудке, и при болезнях питты."
+        "text": "«Мадхьябхакта» («в середине еды») — это [лекарство, принимаемое] в середине еды; [оно применяется] при расстройстве самана-ветра, при болезнях, [расположенных] в желудке, и при болезнях питты.",
+        "text_en": "'Madhyabhakta' ('in the middle of food') is [medicine taken] in the middle of the meal; [it is used] in disorder of Samana Vata, in diseases [located] in the stomach, and in Pitta diseases."
       },
       {
         "type": "verse",
@@ -13569,7 +13709,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अधोभक्तं भक्तादनन्तरम् तत्तुव्यानविकृतौ प्रातराशान्तमुदानविकृतौ पुनः सायमाशान्तम् पूर्वकायस्य च बलाधानार्थं तद्गतेषु व्याधिषु च श्लैष्मिकेषु च प्रशमाय स्थूलीकरणार्थञ्च",
         "iast": "adhobhaktaṃ bhaktādanantaram tattuvyānavikṛtau prātarāśāntamudānavikṛtau punaḥ sāyamāśāntam pūrvakāyasya ca balādhānārthaṃ tadgateṣu vyādhiṣu ca ślaiṣmikeṣu ca praśamāya sthūlīkaraṇārthañca",
         "iast_ru": "адхобхактам̣ бхакта̄данантарам таттувйа̄навикр̣тау пра̄тара̄ш́а̄нтамуда̄навикр̣тау пунах̣ са̄йама̄ш́а̄нтам пӯрвака̄йасйа ча бала̄дха̄на̄ртхам̣ тадгатеш̣у вйа̄дхиш̣у ча ш́лаиш̣микеш̣у ча праш́ама̄йа стхӯлӣкаран̣а̄ртхан̃ча",
-        "text": "«Адхобхакта» («после еды») — это [лекарство, принимаемое] непосредственно после еды. Оно [применяется] при расстройстве вьяна-ветра — после завтрака; при расстройстве удана-ветра — после ужина; для придания силы верхней части тела; для успокоения болезней, [расположенных] там, а также болезней капхи; и для [цели] набора веса."
+        "text": "«Адхобхакта» («после еды») — это [лекарство, принимаемое] непосредственно после еды. Оно [применяется] при расстройстве вьяна-ветра — после завтрака; при расстройстве удана-ветра — после ужина; для придания силы верхней части тела; для успокоения болезней, [расположенных] там, а также болезней капхи; и для [цели] набора веса.",
+        "text_en": "'Adhobhakta' ('after food') is [medicine taken] immediately after eating. It [is used] in disorder of Vyana Vata, after breakfast; in disorder of Udana Vata, after supper; to impart strength to the upper part of the body; to pacify the diseases [located] there, as well as Kapha diseases; and for [the purpose of] gaining weight."
       },
       {
         "type": "verse",
@@ -13577,7 +13718,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सभक्तं यदन्नेन समं साधितं पश्चाद्वा समालोडितम् तत् बालेषु सुकुमारेष्वौषधद्वेषिष्वरुचौ सर्वाङ्गगेषु च रोगेषु",
         "iast": "sabhaktaṃ yadannena samaṃ sādhitaṃ paścādvā samāloḍitam tat bāleṣu sukumāreṣvauṣadhadveṣiṣvarucau sarvāṅgageṣu ca rogeṣu",
         "iast_ru": "сабхактам̣ йаданнена самам̣ са̄дхитам̣ паш́ча̄два̄ сама̄лод̣итам тат ба̄леш̣у сукума̄реш̣вауш̣адхадвеш̣иш̣варучау сарва̄н̇гагеш̣у ча рогеш̣у",
-        "text": "«Сабхакта» («с едой») — это [лекарство], приготовленное вместе с пищей, или же смешанное с ней впоследствии; оно [применяется] для детей, изнеженных [пациентов], тех, кто испытывает отвращение к лекарству, при отсутствии аппетита, а также при болезнях, [поражающих] все члены тела."
+        "text": "«Сабхакта» («с едой») — это [лекарство], приготовленное вместе с пищей, или же смешанное с ней впоследствии; оно [применяется] для детей, изнеженных [пациентов], тех, кто испытывает отвращение к лекарству, при отсутствии аппетита, а также при болезнях, [поражающих] все члены тела.",
+        "text_en": "'Sabhakta' ('with food') is [a medicine] prepared together with food, or else mixed with it afterwards; it is [used] for children, delicate [patients], those who feel aversion to medicine, in loss of appetite, and also in diseases [affecting] all the limbs of the body."
       },
       {
         "type": "verse",
@@ -13585,7 +13727,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्तराभक्तं यत् पूर्वाह्णे भक्ते जीर्णे मध्याह्ने भेषजमुपयुज्यते तस्मिंश्च जीर्णे पुनरपराह्णे भोजनम् एतेन रात्रिर्व्याख्याता तद्दीप्ताग्नेर्व्यानजेष्वामयेषु",
         "iast": "antarābhaktaṃ yat pūrvāhṇe bhakte jīrṇe madhyāhne bheṣajamupayujyate tasmiṃśca jīrṇe punaraparāhṇe bhojanam etena rātrirvyākhyātā taddīptāgnervyānajeṣvāmayeṣu",
         "iast_ru": "антара̄бхактам̣ йат пӯрва̄хн̣е бхакте джӣрн̣е мадхйа̄хне бхеш̣аджамупайуджйате тасмим̣ш́ча джӣрн̣е пунарапара̄хн̣е бходжанам етена ра̄трирвйа̄кхйа̄та̄ таддӣпта̄гнервйа̄наджеш̣ва̄майеш̣у",
-        "text": "«Антарабхакта» («между приёмами еды») — это когда, после переваривания утренней еды, в полдень принимается лекарство, а после его переваривания — вновь еда во второй половине дня; этим же объясняется [подобный распорядок] ночью; [это применяется] для [пациента] с разожжённым огнём, при болезнях, [вызванных] вьяна-[ветром]."
+        "text": "«Антарабхакта» («между приёмами еды») — это когда, после переваривания утренней еды, в полдень принимается лекарство, а после его переваривания — вновь еда во второй половине дня; этим же объясняется [подобный распорядок] ночью; [это применяется] для [пациента] с разожжённым огнём, при болезнях, [вызванных] вьяна-[ветром].",
+        "text_en": "'Antarabhakta' ('between meals') is when, after the digestion of the morning meal, medicine is taken at noon, and after its digestion, food again in the afternoon; the same explains [the corresponding schedule] at night; [it is used] for [a patient] with kindled fire, in diseases [caused] by Vyana [Vata]."
       },
       {
         "type": "verse",
@@ -13593,7 +13736,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सामुद्गं यदादावन्ते च भुक्तस्य तत्तु लघ्वल्पान्नयुक्तं पाचनावलेहचूर्णादि हिध्मायां कम्पाक्षेपयोरूर्ध्वाधस्संश्रये च दोषे",
         "iast": "sāmudgaṃ yadādāvante ca bhuktasya tattu laghvalpānnayuktaṃ pācanāvalehacūrṇādi hidhmāyāṃ kampākṣepayorūrdhvādhassaṃśraye ca doṣe",
         "iast_ru": "са̄мудгам̣ йада̄да̄ванте ча бхуктасйа татту лагхвалпа̄ннайуктам̣ па̄чана̄валехачӯрн̣а̄ди хидхма̄йа̄м̣ кампа̄кш̣епайорӯрдхва̄дхассам̣ш́райе ча дош̣е",
-        "text": "«Самудга» — это [лекарство, принимаемое] в начале и в конце еды; оно, соединённое с лёгкой, небольшой [порцией] пищи, — [например,] способствующая перевариванию лекарственная паста, порошок и подобное, — [применяется] при икоте, при дрожи и судорогах, а также при доше, расположенной [одновременно] вверху и внизу."
+        "text": "«Самудга» — это [лекарство, принимаемое] в начале и в конце еды; оно, соединённое с лёгкой, небольшой [порцией] пищи, — [например,] способствующая перевариванию лекарственная паста, порошок и подобное, — [применяется] при икоте, при дрожи и судорогах, а также при доше, расположенной [одновременно] вверху и внизу.",
+        "text_en": "'Samudga' is [medicine taken] at the beginning and at the end of the meal; combined with a light, small [portion of] food, [for example] a digestive medicinal paste, powder and the like, it is [used] in hiccup, in tremor and convulsions, and also in a dosha located [simultaneously] above and below."
       },
       {
         "type": "verse",
@@ -13601,7 +13745,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मुहुर्मुहुस्तु पुनःपुनर्भुक्ते यदभुक्ते वा तच्छवासकासहिध्मातृट्छर्दिषु विषनिमित्तेषु च विकारेषु",
         "iast": "muhurmuhustu punaḥpunarbhukte yadabhukte vā tacchavāsakāsahidhmātṛṭchardiṣu viṣanimitteṣu ca vikāreṣu",
         "iast_ru": "мухурмухусту пунах̣пунарбхукте йадабхукте ва̄ таччхава̄сака̄сахидхма̄тр̣т̣чхардиш̣у виш̣анимиттеш̣у ча вика̄реш̣у",
-        "text": "«Мухур-мухур» («многократно») — [это лекарство, принимаемое] снова и снова, независимо от того, поел [пациент] или не поел; оно [применяется] при одышке, кашле, икоте, жажде, рвоте, а также при расстройствах, вызванных ядом."
+        "text": "«Мухур-мухур» («многократно») — [это лекарство, принимаемое] снова и снова, независимо от того, поел [пациент] или не поел; оно [применяется] при одышке, кашле, икоте, жажде, рвоте, а также при расстройствах, вызванных ядом.",
+        "text_en": "'Muhur-muhur' ('repeatedly') is [medicine taken] again and again, regardless of whether [the patient] has eaten or not; it is [used] in dyspnea, cough, hiccup, thirst, vomiting, and also in disorders caused by poison."
       },
       {
         "type": "verse",
@@ -13609,7 +13754,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सग्रासं यत् ग्राससम्पृक्तम् ग्रासान्तरं यत् ग्रासयोर्ग्रासयोर्मध्ये द्वयमप्येतत् प्राणानिलविकृतौ तथा सग्रासं चूर्णलेहवटकादिकमग्निदीपनं वाजीकरणानि चोपयुञ्जीत ग्रासान्तरं हृद्रोगे वमनं धूमञ्च जत्रूर्ध्वामयेषु निशायाम्",
         "iast": "sagrāsaṃ yat grāsasampṛktam grāsāntaraṃ yat grāsayorgrāsayormadhye dvayamapyetat prāṇānilavikṛtau tathā sagrāsaṃ cūrṇalehavaṭakādikamagnidīpanaṃ vājīkaraṇāni copayuñjīta grāsāntaraṃ hṛdroge vamanaṃ dhūmañca jatrūrdhvāmayeṣu niśāyām",
         "iast_ru": "сагра̄сам̣ йат гра̄сасампр̣ктам гра̄са̄нтарам̣ йат гра̄сайоргра̄сайормадхйе двайамапйетат пра̄н̣а̄нилавикр̣тау татха̄ сагра̄сам̣ чӯрн̣алехават̣ака̄дикамагнидӣпанам̣ ва̄джӣкаран̣а̄ни чопайун̃джӣта гра̄са̄нтарам̣ хр̣дроге ваманам̣ дхӯман̃ча джатрӯрдхва̄майеш̣у ниш́а̄йа̄м",
-        "text": "«Саграса» («с [каждым] куском») — это [лекарство], соединённое с [каждым] куском пищи; «грасантара» («между кусками») — это [лекарство, принимаемое] между [двумя] кусками пищи. И то, и другое [применяется] при расстройстве прана-ветра. Так, «саграса» [используется для] порошка, лекарственной пасты, шариков и подобного, разжигающих огонь, а также афродизиатических средств; «грасантара» — при болезни сердца; [а] окуривание дымом [применяется] при болезнях [органов] выше ключиц, ночью."
+        "text": "«Саграса» («с [каждым] куском») — это [лекарство], соединённое с [каждым] куском пищи; «грасантара» («между кусками») — это [лекарство, принимаемое] между [двумя] кусками пищи. И то, и другое [применяется] при расстройстве прана-ветра. Так, «саграса» [используется для] порошка, лекарственной пасты, шариков и подобного, разжигающих огонь, а также афродизиатических средств; «грасантара» — при болезни сердца; [а] окуривание дымом [применяется] при болезнях [органов] выше ключиц, ночью.",
+        "text_en": "'Sagrasa' ('with each morsel') is [medicine] combined with [each] morsel of food; 'grasantara' ('between morsels') is [medicine taken] between [two] morsels of food. Both are [used] in disorder of Prana Vata. Thus 'sagrasa' [is used for] powder, medicinal paste, pills and the like, kindling the fire, as well as aphrodisiacs; 'grasantara' in heart disease; [and] medicated smoking [is used] in diseases [of the organs] above the collarbones, at night."
       },
       {
         "type": "verse",
@@ -13617,7 +13763,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्राद्ये काले तृषितः पीतशीताम्बुरजीर्णी क्षुधितः क्षामश्च भेषजं वर्जयेत् शेषेषु वाहृद्यमसात्म्यमतितीक्ष्णोष्णोग्रगन्धं भूरिमात्रञ्चेति भवति चात्र श्लोकः",
         "iast": "tatrādye kāle tṛṣitaḥ pītaśītāmburajīrṇī kṣudhitaḥ kṣāmaśca bheṣajaṃ varjayet śeṣeṣu vāhṛdyamasātmyamatitīkṣṇoṣṇogragandhaṃ bhūrimātrañceti bhavati cātra ślokaḥ",
         "iast_ru": "татра̄дйе ка̄ле тр̣ш̣итах̣ пӣташ́ӣта̄мбураджӣрн̣ӣ кш̣удхитах̣ кш̣а̄маш́ча бхеш̣аджам̣ варджайет ш́еш̣еш̣у ва̄хр̣дйамаса̄тмйаматитӣкш̣н̣ош̣н̣ограгандхам̣ бхӯрима̄тран̃чети бхавати ча̄тра ш́локах̣",
-        "text": "В отношении же первых [указанных случаев], — жаждущий, [только что] выпивший холодную воду, [страдающий] несварением, голодный и истощённый [пациент] должен избегать [приёма] лекарства; в отношении же остальных [случаев] — [следует избегать лекарства] неприятного сердцу, непривычного, чрезмерно резкого, горячего, с резким запахом и в избыточной дозе. И здесь есть стих:"
+        "text": "В отношении же первых [указанных случаев], — жаждущий, [только что] выпивший холодную воду, [страдающий] несварением, голодный и истощённый [пациент] должен избегать [приёма] лекарства; в отношении же остальных [случаев] — [следует избегать лекарства] неприятного сердцу, непривычного, чрезмерно резкого, горячего, с резким запахом и в избыточной дозе. И здесь есть стих:",
+        "text_en": "With regard to the first [cases indicated], a thirsty [patient], one [who has just] drunk cold water, [suffering] from indigestion, a hungry and emaciated [patient] should avoid [taking] medicine; with regard to the other [cases], [one should avoid a medicine] unpleasant to the heart, unaccustomed, excessively sharp, hot, with a strong smell and in an excessive dose. And here there is a verse:"
       },
       {
         "type": "verse",
@@ -13625,7 +13772,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रोगमादौ परीक्षेत तदनन्तरमौषधम् ततः कर्म भिषक् पश्चात् ज्ञानपूर्वं समाचरेत्",
         "iast": "rogamādau parīkṣeta tadanantaramauṣadham tataḥ karma bhiṣak paścāt jñānapūrvaṃ samācaret",
         "iast_ru": "рогама̄дау парӣкш̣ета таданантарамауш̣адхам татах̣ карма бхиш̣ак паш́ча̄т джн̃а̄напӯрвам̣ сама̄чарет",
-        "text": "Сначала врачу следует исследовать болезнь, затем — лекарство, затем — [лечебное] действие; и лишь после [всего этого], с полным знанием, следует приступать [к лечению]."
+        "text": "Сначала врачу следует исследовать болезнь, затем — лекарство, затем — [лечебное] действие; и лишь после [всего этого], с полным знанием, следует приступать [к лечению].",
+        "text_en": "First the physician should examine the disease, then the medicine, then the [therapeutic] action; and only after [all this], with full knowledge, should one proceed [to treatment]."
       },
       {
         "type": "verse",
@@ -13633,7 +13781,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निवृत्तो ऽपि पुनर्व्याधिरल्पेनायाति हेतुना देहे मार्गीकृते दोषैः शेषः सूक्ष्म इवानलः",
         "iast": "nivṛtto 'pi punarvyādhiralpenāyāti hetunā dehe mārgīkṛte doṣaiḥ śeṣaḥ sūkṣma ivānalaḥ",
         "iast_ru": "нивр̣тто 'пи пунарвйа̄дхиралпена̄йа̄ти хетуна̄ дехе ма̄ргӣкр̣те дош̣аих̣ ш́еш̣ах̣ сӯкш̣ма ива̄налах̣",
-        "text": "Даже устранённая болезнь может вернуться от малейшей причины, [если] в теле, уже проторившем путь дошами, остался [хоть] тонкий след, подобный [тлеющей] искре огня."
+        "text": "Даже устранённая болезнь может вернуться от малейшей причины, [если] в теле, уже проторившем путь дошами, остался [хоть] тонкий след, подобный [тлеющей] искре огня.",
+        "text_en": "Even a disease that has been eliminated may return from the slightest cause, [if] in a body which has already had a path laid by the doshas a [mere] subtle trace remains, like a [smoldering] spark of fire."
       },
       {
         "type": "verse",
@@ -13641,7 +13790,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्मात्तमनुबध्नीयात् प्रयोगेणानपायिना सिद्धानामपि योगानां पूर्वेषां दार्ढ्यमावहन्",
         "iast": "tasmāttamanubadhnīyāt prayogeṇānapāyinā siddhānāmapi yogānāṃ pūrveṣāṃ dārḍhyamāvahan",
         "iast_ru": "тасма̄ттаманубадхнӣйа̄т прайоген̣а̄напа̄йина̄ сиддха̄на̄мапи йога̄на̄м̣ пӯрвеш̣а̄м̣ да̄рд̣хйама̄вахан",
-        "text": "Поэтому [врачу] следует продолжать [лечение этого следа] безопасным применением [лекарства], придавая [этим] прочность [действию] прежних, уже подействовавших сочетаний."
+        "text": "Поэтому [врачу] следует продолжать [лечение этого следа] безопасным применением [лекарства], придавая [этим] прочность [действию] прежних, уже подействовавших сочетаний.",
+        "text_en": "Therefore [the physician] should continue [the treatment of this trace] with safe application of [medicine], imparting [thereby] firmness to the [action of] the former, already effective combinations."
       },
       {
         "type": "verse",
@@ -13649,7 +13799,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सातत्यात्स्वाद्वभावाद्वा पथ्यं द्वेष्यत्वमागतम् कल्पनाविधिभिस्तैस्तैः प्रियत्वं गमयेत् पुनः",
         "iast": "sātatyātsvādvabhāvādvā pathyaṃ dveṣyatvamāgatam kalpanāvidhibhistaistaiḥ priyatvaṃ gamayet punaḥ",
         "iast_ru": "са̄татйа̄тсва̄двабха̄ва̄два̄ патхйам̣ двеш̣йатвама̄гатам калпана̄видхибхистаистаих̣ прийатвам̣ гамайет пунах̣",
-        "text": "Полезное [средство], ставшее неприятным из-за постоянства [применения] или из-за [чрезмерной] сладости, следует вновь сделать приятным различными способами [его] приготовления."
+        "text": "Полезное [средство], ставшее неприятным из-за постоянства [применения] или из-за [чрезмерной] сладости, следует вновь сделать приятным различными способами [его] приготовления.",
+        "text_en": "A wholesome [remedy] that has become unpleasant because of constancy [of use] or because of [excessive] sweetness should be made pleasant again by various ways of [its] preparation."
       },
       {
         "type": "verse",
@@ -13657,7 +13808,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मनसोर्थानुकूल्येन तुष्टिरूर्जा रुचिर्बलम् सुखोपभोगता च स्यात् व्याधेश्चातः परिक्षयः",
         "iast": "manasorthānukūlyena tuṣṭirūrjā rucirbalam sukhopabhogatā ca syāt vyādheścātaḥ parikṣayaḥ",
         "iast_ru": "манасортха̄нукӯлйена туш̣т̣ирӯрджа̄ ручирбалам сукхопабхогата̄ ча сйа̄т вйа̄дхеш́ча̄тах̣ парикш̣айах̣",
-        "text": "От благоприятствования уму [пациента, лекарство приносит] удовлетворение, энергию, аппетит, силу и приятное усвоение; и от этого — истощение болезни."
+        "text": "От благоприятствования уму [пациента, лекарство приносит] удовлетворение, энергию, аппетит, силу и приятное усвоение; и от этого — истощение болезни.",
+        "text_en": "From being agreeable to the [patient's] mind, [the medicine brings] satisfaction, energy, appetite, strength and pleasant assimilation; and from this, the exhaustion of the disease."
       },
       {
         "type": "verse",
@@ -13665,7 +13817,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लौल्याद्दोषक्षयाद्व्याधिवैषम्येण च या रुचिः तासु पथ्योपचारज्ञो योगेनाद्यं विकल्पयेत्",
         "iast": "laulyāddoṣakṣayādvyādhivaiṣamyeṇa ca yā ruciḥ tāsu pathyopacārajño yogenādyaṃ vikalpayet",
         "iast_ru": "лаулйа̄ддош̣акш̣айа̄двйа̄дхиваиш̣амйен̣а ча йа̄ ручих̣ та̄су патхйопача̄раджн̃о йогена̄дйам̣ викалпайет",
-        "text": "Знающий [правильное] полезное лечение должен, посредством [подходящего] сочетания, различать среди [различных видов] аппетита — тот, [что вызван] жадностью, [тот, что вызван] истощением дош, и тот, [что вызван] неравновесием болезни, — [и определять, что] следует принимать."
+        "text": "Знающий [правильное] полезное лечение должен, посредством [подходящего] сочетания, различать среди [различных видов] аппетита — тот, [что вызван] жадностью, [тот, что вызван] истощением дош, и тот, [что вызван] неравновесием болезни, — [и определять, что] следует принимать.",
+        "text_en": "One who knows the [correct] wholesome treatment should, by means of [suitable] combination, distinguish among the [various kinds of] appetite: that [caused] by greed, [that caused] by depletion of the doshas, and that [caused] by the imbalance of the disease, [and determine what] should be taken."
       },
       {
         "type": "verse",
@@ -13673,7 +13826,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीतोष्णवर्षानिचितं चैत्रश्रावणकार्तिके क्रमात् साधारणे श्लेष्मवातपित्तं हरेद्द्रुतम्",
         "iast": "śītoṣṇavarṣānicitaṃ caitraśrāvaṇakārtike kramāt sādhāraṇe śleṣmavātapittaṃ hareddrutam",
         "iast_ru": "ш́ӣтош̣н̣аварш̣а̄ничитам̣ чаитраш́ра̄ван̣ака̄ртике крама̄т са̄дха̄ран̣е ш́леш̣мава̄тапиттам̣ хареддрутам",
-        "text": "Накопленные холодом, жарой и дождём капху, ватху и питту, по порядку, — в [месяцы] чайтра, шравана, картика, [в их] переходный [период], — следует быстро устранять."
+        "text": "Накопленные холодом, жарой и дождём капху, ватху и питту, по порядку, — в [месяцы] чайтра, шравана, картика, [в их] переходный [период], — следует быстро устранять.",
+        "text_en": "Kapha, Vata and Pitta accumulated by cold, heat and rain, in order, in [the months] Chaitra, Shravana, Kartika, [in their] transitional [period], should be quickly eliminated."
       },
       {
         "type": "verse",
@@ -13681,7 +13835,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रावृट्शरद्वसन्तानां मासेष्वेतेषु वा हरेत् साधारणेषु विधिना त्रिमासान्तरितान्मलान्",
         "iast": "prāvṛṭśaradvasantānāṃ māseṣveteṣu vā haret sādhāraṇeṣu vidhinā trimāsāntaritānmalān",
         "iast_ru": "пра̄вр̣т̣ш́арадвасанта̄на̄м̣ ма̄сеш̣ветеш̣у ва̄ харет са̄дха̄ран̣еш̣у видхина̄ трима̄са̄нтарита̄нмала̄н",
-        "text": "Или же в эти [указанные] месяцы сезонов правот, осени и весны следует устранять, по правилам, в переходные [дни], нечистоты, накопившиеся за три месяца."
+        "text": "Или же в эти [указанные] месяцы сезонов правот, осени и весны следует устранять, по правилам, в переходные [дни], нечистоты, накопившиеся за три месяца.",
+        "text_en": "Or else, in these [indicated] months of the seasons of pravrit, autumn and spring, one should eliminate, by the rules, in the transitional [days], the impurities that have accumulated over three months."
       },
       {
         "type": "verse",
@@ -13689,7 +13844,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृस्वा शीतोष्णवृष्टीनां प्रतीकारं यथायथम् प्रयोजयेत् क्रियां प्राप्तां क्रियाकालं न हापयेत्",
         "iast": "kṛsvā śītoṣṇavṛṣṭīnāṃ pratīkāraṃ yathāyatham prayojayet kriyāṃ prāptāṃ kriyākālaṃ na hāpayet",
         "iast_ru": "кр̣сва̄ ш́ӣтош̣н̣авр̣ш̣т̣ӣна̄м̣ пратӣка̄рам̣ йатха̄йатхам прайоджайет крийа̄м̣ пра̄пта̄м̣ крийа̄ка̄лам̣ на ха̄пайет",
-        "text": "Совершив, соответственно, противодействие холоду, жаре и дождю, следует применять надлежащее [очищающее] действие; не следует упускать [подходящее] время для [этого] действия."
+        "text": "Совершив, соответственно, противодействие холоду, жаре и дождю, следует применять надлежащее [очищающее] действие; не следует упускать [подходящее] время для [этого] действия.",
+        "text_en": "Having accordingly effected the counteraction of cold, heat and rain, one should apply the proper [purifying] action; one should not let slip the [suitable] time for [this] action."
       },
       {
         "type": "verse",
@@ -13697,7 +13853,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सप्ताहेन गुणालाभे क्रितामन्यां प्रयोजयेत् पूर्वस्यां शान्तवेगायां न क्रियासङ्करो हितः गुणे ऽल्पेपि तु तामेव विशेषोत्कर्षलब्धये",
         "iast": "saptāhena guṇālābhe kritāmanyāṃ prayojayet pūrvasyāṃ śāntavegāyāṃ na kriyāsaṅkaro hitaḥ guṇe 'lpepi tu tāmeva viśeṣotkarṣalabdhaye",
         "iast_ru": "сапта̄хена гун̣а̄ла̄бхе крита̄манйа̄м̣ прайоджайет пӯрвасйа̄м̣ ш́а̄нтавега̄йа̄м̣ на крийа̄сан̇каро хитах̣ гун̣е 'лпепи ту та̄мева виш́еш̣откарш̣алабдхайе",
-        "text": "Если через неделю не достигнут [должный] эффект, следует применить другую [процедуру], [но лишь] когда действие прежней [уже] утихло; смешение [разных] процедур не полезно. При же малом эффекте — [следует применить] именно ту же [процедуру повторно], для достижения особого превосходства [результата]."
+        "text": "Если через неделю не достигнут [должный] эффект, следует применить другую [процедуру], [но лишь] когда действие прежней [уже] утихло; смешение [разных] процедур не полезно. При же малом эффекте — [следует применить] именно ту же [процедуру повторно], для достижения особого превосходства [результата].",
+        "text_en": "If after a week the [due] effect is not attained, one should apply another [procedure], [but only] when the action of the former has [already] subsided; the mixing of [different] procedures is not beneficial. If the effect is small, however, [one should apply] the very same [procedure again], to attain a special excellence [of result]."
       },
       {
         "type": "verse",
@@ -13705,7 +13862,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भेषजं नृपतेर्हृद्यमल्पमल्पात्ययं शुचिः शुद्धागमं बहुगुणं बहुकृत्वः प्रयोजितम्",
         "iast": "bheṣajaṃ nṛpaterhṛdyamalpamalpātyayaṃ śuciḥ śuddhāgamaṃ bahuguṇaṃ bahukṛtvaḥ prayojitam",
         "iast_ru": "бхеш̣аджам̣ нр̣патерхр̣дйамалпамалпа̄тйайам̣ ш́учих̣ ш́уддха̄гамам̣ бахугун̣ам̣ бахукр̣твах̣ прайоджитам",
-        "text": "Лекарство для царя [должно быть]: приятным сердцу, [применяемым] в малой [дозе], с малым риском; [подано] чистым [врачом]; [полученным] из чистого источника; с многими достоинствами; неоднократно проверенным в применении;"
+        "text": "Лекарство для царя [должно быть]: приятным сердцу, [применяемым] в малой [дозе], с малым риском; [подано] чистым [врачом]; [полученным] из чистого источника; с многими достоинствами; неоднократно проверенным в применении;",
+        "text_en": "The medicine for a king [should be]: pleasing to the heart, [administered] in a small [dose], with little risk; [served] by a clean [physician]; [obtained] from a clean source; with many merits; repeatedly tested in application;"
       },
       {
         "type": "verse",
@@ -13713,7 +13871,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अनन्यकार्यो ऽवहितः तथा तन्मन्त्रिसम्मतः आस्वादितं परिचरैःस्वयञ्चानुप्रयोजयेत्",
         "iast": "ananyakāryo 'vahitaḥ tathā tanmantrisammataḥ āsvāditaṃ paricaraiḥsvayañcānuprayojayet",
         "iast_ru": "ананйака̄рйо 'вахитах̣ татха̄ танмантрисамматах̣ а̄сва̄дитам̣ паричараих̣свайан̃ча̄нупрайоджайет",
-        "text": "[врач должен быть] не занят иными делами, внимателен; [лекарство должно быть] также одобрено его министром; опробовано слугами, а затем применено самим [врачом] в дальнейшем [на царе]."
+        "text": "[врач должен быть] не занят иными делами, внимателен; [лекарство должно быть] также одобрено его министром; опробовано слугами, а затем применено самим [врачом] в дальнейшем [на царе].",
+        "text_en": "[the physician should be] not occupied with other affairs, attentive; [the medicine should be] also approved by his minister; tested by servants, and then applied by the [physician] himself afterwards [to the king]."
       },
       {
         "type": "verse",
@@ -13721,7 +13880,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उचितो यस्य यो देशस्तज्जं तस्यौषधं हितम् देशे ऽन्यत्रापि वसतस्तत्तुल्यगुणजन्म च",
         "iast": "ucito yasya yo deśastajjaṃ tasyauṣadhaṃ hitam deśe 'nyatrāpi vasatastattulyaguṇajanma ca",
         "iast_ru": "учито йасйа йо деш́астаджджам̣ тасйауш̣адхам̣ хитам деш́е 'нйатра̄пи васатастаттулйагун̣аджанма ча",
-        "text": "Для кого какая земля подходяща, — лекарство, возникшее в этой земле, полезно для него; [а также полезно лекарство], возникшее в другой земле, [но] с подобными [этой родной земле] качествами, [даже если пациент] проживает [в иной местности]."
+        "text": "Для кого какая земля подходяща, — лекарство, возникшее в этой земле, полезно для него; [а также полезно лекарство], возникшее в другой земле, [но] с подобными [этой родной земле] качествами, [даже если пациент] проживает [в иной местности].",
+        "text_en": "For whom a given land is suitable, the medicine arisen in that land is beneficial for him; [and also beneficial is a medicine] arisen in another land, [but] with qualities similar to [this native land], [even if the patient] lives [in a different region]."
       },
       {
         "type": "verse",
@@ -13729,7 +13889,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वीर्यवद्भावितं सम्यक् स्वरसैरसकृल्लघु रसगन्धादिसम्पन्नं काले जीर्णे च मात्रया एकाग्रमनसा युक्तं भषज्यममृतायते",
         "iast": "vīryavadbhāvitaṃ samyak svarasairasakṛllaghu rasagandhādisampannaṃ kāle jīrṇe ca mātrayā ekāgramanasā yuktaṃ bhaṣajyamamṛtāyate",
         "iast_ru": "вӣрйавадбха̄витам̣ самйак сварасаирасакр̣ллагху расагандха̄дисампаннам̣ ка̄ле джӣрн̣е ча ма̄трайа̄ ека̄граманаса̄ йуктам̣ бхаш̣аджйамамр̣та̄йате",
-        "text": "Лекарство, обладающее [должной] потенцией, правильно обработанное собственными соками [растения] многократно, лёгкое, обладающее [надлежащим] вкусом, запахом и подобным, [принятое] в [подходящее] время, при переваренной [пище], в надлежащей дозе, применённое с сосредоточенным умом, — становится подобным нектару."
+        "text": "Лекарство, обладающее [должной] потенцией, правильно обработанное собственными соками [растения] многократно, лёгкое, обладающее [надлежащим] вкусом, запахом и подобным, [принятое] в [подходящее] время, при переваренной [пище], в надлежащей дозе, применённое с сосредоточенным умом, — становится подобным нектару.",
+        "text_en": "A medicine possessing [due] potency, properly processed with the plant's own juices many times, light, possessing [proper] taste, smell and the like, [taken] at the [suitable] time, when [the food] is digested, in the proper dose, administered with a concentrated mind, becomes like nectar."
       }
     ]
   },
@@ -13751,7 +13912,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो द्विविधोपक्रमणीयं नामाध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto dvividhopakramaṇīyaṃ nāmādhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то двивидхопакраман̣ӣйам̣ на̄ма̄дхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Двивидхопакраманийя» («О двойственном подходе к лечению») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Двивидхопакраманийя» («О двойственном подходе к лечению») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter named 'Dvividhopakramaniya' ('On the Twofold Approach to Treatment'), as the great sages headed by Atreya declared."
       },
       {
         "type": "verse",
@@ -13759,7 +13921,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उपक्रम्यस्य हि द्वित्वाद् द्विधैवोपक्रमो मतः एकस्सन्तर्पणस्तत्र द्वितीयश्चापतर्पणः बृंहणो लङ्घनश्चेति तत्पर्यायावुदाहृतौ",
         "iast": "upakramyasya hi dvitvād dvidhaivopakramo mataḥ ekassantarpaṇastatra dvitīyaścāpatarpaṇaḥ bṛṃhaṇo laṅghanaśceti tatparyāyāvudāhṛtau",
         "iast_ru": "упакрамйасйа хи двитва̄д двидхаивопакрамо матах̣ екассантарпан̣астатра двитӣйаш́ча̄патарпан̣ах̣ бр̣м̣хан̣о лан̇гханаш́чети татпарйа̄йа̄вуда̄хр̣тау",
-        "text": "Ибо, поскольку [объект] лечения двойственен, признаётся, что и подход к лечению двойственен: один — сантарпана (насыщение), другой же — апатарпана (истощение); «брихана» (укрепление) и «лангхана» (облегчение) — приведены как их синонимы."
+        "text": "Ибо, поскольку [объект] лечения двойственен, признаётся, что и подход к лечению двойственен: один — сантарпана (насыщение), другой же — апатарпана (истощение); «брихана» (укрепление) и «лангхана» (облегчение) — приведены как их синонимы.",
+        "text_en": "For, since the [object] of treatment is twofold, the approach to treatment too is recognized as twofold: one is santarpana (nourishing), the other apatarpana (depleting); 'brimhana' (bulk-promoting) and 'langhana' (lightening) are given as their synonyms."
       },
       {
         "type": "verse",
@@ -13767,7 +13930,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृंहणं यत् बृहत्वाय लङ्घनं लाघवाय यत् देहस्यं भवतः प्रायो भौमापमितरच्च ते",
         "iast": "bṛṃhaṇaṃ yat bṛhatvāya laṅghanaṃ lāghavāya yat dehasyaṃ bhavataḥ prāyo bhaumāpamitaracca te",
         "iast_ru": "бр̣м̣хан̣ам̣ йат бр̣хатва̄йа лан̇гханам̣ ла̄гхава̄йа йат дехасйам̣ бхаватах̣ пра̄йо бхаума̄памитарачча те",
-        "text": "«Брихана» — то, что [ведёт] к увеличению [тела]; «лангхана» — то, что [ведёт] к лёгкости тела; они, как правило, [связаны] с [элементами] земли-воды и с иными [элементами] соответственно."
+        "text": "«Брихана» — то, что [ведёт] к увеличению [тела]; «лангхана» — то, что [ведёт] к лёгкости тела; они, как правило, [связаны] с [элементами] земли-воды и с иными [элементами] соответственно.",
+        "text_en": "'Brimhana' is that which [leads] to the increase [of the body]; 'langhana' is that which [leads] to lightness of the body; they are, as a rule, [associated] with the [elements] earth-water and with the other [elements] respectively."
       },
       {
         "type": "verse",
@@ -13775,7 +13939,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहनं रूक्षणं कर्म स्वेदनं स्तम्भनञ्च यत् भूतानां तदपि द्वैध्यात् द्वितयं नातिवर्तते",
         "iast": "snehanaṃ rūkṣaṇaṃ karma svedanaṃ stambhanañca yat bhūtānāṃ tadapi dvaidhyāt dvitayaṃ nātivartate",
         "iast_ru": "снеханам̣ рӯкш̣ан̣ам̣ карма сведанам̣ стамбханан̃ча йат бхӯта̄на̄м̣ тадапи дваидхйа̄т двитайам̣ на̄тивартате",
-        "text": "Действия умащения и высушивания, прогревания и скрепления — они также, из-за двойственности [природы] элементов, не выходят за пределы этой двоицы."
+        "text": "Действия умащения и высушивания, прогревания и скрепления — они также, из-за двойственности [природы] элементов, не выходят за пределы этой двоицы.",
+        "text_en": "The actions of unctuousness and drying, of fomentation and binding, these too, owing to the twofold [nature] of the elements, do not go beyond this pair."
       },
       {
         "type": "verse",
@@ -13783,7 +13948,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शोधनं शमनञ्चेति द्विधा तत्रापि लङ्घनम् यदीरयेत् बहिर्दोषान् पञ्चधा शोधनञ्च तत्",
         "iast": "śodhanaṃ śamanañceti dvidhā tatrāpi laṅghanam yadīrayet bahirdoṣān pañcadhā śodhanañca tat",
         "iast_ru": "ш́одханам̣ ш́аманан̃чети двидха̄ татра̄пи лан̇гханам йадӣрайет бахирдош̣а̄н пан̃чадха̄ ш́одханан̃ча тат",
-        "text": "«Лангхана», в свою очередь, двух видов: «шодхана» (очищение) и «шамана» (успокоение). Если оно выводит доши наружу, — оно называется «шодхана», и оно [бывает] пяти видов:"
+        "text": "«Лангхана», в свою очередь, двух видов: «шодхана» (очищение) и «шамана» (успокоение). Если оно выводит доши наружу, — оно называется «шодхана», и оно [бывает] пяти видов:",
+        "text_en": "'Langhana', in turn, is of two kinds: 'shodhana' (purification) and 'shamana' (pacification). If it expels the doshas outward, it is called 'shodhana', and it [is] of five kinds:"
       },
       {
         "type": "verse",
@@ -13791,7 +13957,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निरूहो वमनं कायशिरोरेको ऽस्रविस्रुतिः न शोधयति यद्दोषान् समान्नोदीरयत्यपि",
         "iast": "nirūho vamanaṃ kāyaśiroreko 'sravisrutiḥ na śodhayati yaddoṣān samānnodīrayatyapi",
         "iast_ru": "нирӯхо ваманам̣ ка̄йаш́ирореко 'срависрутих̣ на ш́одхайати йаддош̣а̄н сама̄ннодӣрайатйапи",
-        "text": "клизма нирудха, рвотное, слабительное для тела, слабительное для головы, кровопускание. То, что не выводит доши, [хотя они] уравновешены, [и] не возбуждает их,"
+        "text": "клизма нирудха, рвотное, слабительное для тела, слабительное для головы, кровопускание. То, что не выводит доши, [хотя они] уравновешены, [и] не возбуждает их,",
+        "text_en": "nirudha enema, emesis, purgation for the body, purgation for the head (nasya), bloodletting. That which does not expel the doshas, [though they are] balanced, [and] does not aggravate them,"
       },
       {
         "type": "verse",
@@ -13799,7 +13966,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समीकरोति विषमान् शमनं तच्च सप्तधा पाचनं दीपनं क्षुत्तृड्व्यायामातपमारुताः बृंहणं शमनन्त्वेव वायोः पित्तानिलस्य च",
         "iast": "samīkaroti viṣamān śamanaṃ tacca saptadhā pācanaṃ dīpanaṃ kṣuttṛḍvyāyāmātapamārutāḥ bṛṃhaṇaṃ śamanantveva vāyoḥ pittānilasya ca",
         "iast_ru": "самӣкароти виш̣ама̄н ш́аманам̣ тачча саптадха̄ па̄чанам̣ дӣпанам̣ кш̣уттр̣д̣вйа̄йа̄ма̄тапама̄рута̄х̣ бр̣м̣хан̣ам̣ ш́аманантвева ва̄йох̣ питта̄ниласйа ча",
-        "text": "[а] лишь уравновешивает неравновесные [доши], — это «шамана», и оно семи видов: способствующее перевариванию, разжигающее [огонь], голод, жажда, физическое упражнение, солнце, ветер; «брихана» же — это именно «шамана» для ветра, [а также] для питты и ветра [совместно]."
+        "text": "[а] лишь уравновешивает неравновесные [доши], — это «шамана», и оно семи видов: способствующее перевариванию, разжигающее [огонь], голод, жажда, физическое упражнение, солнце, ветер; «брихана» же — это именно «шамана» для ветра, [а также] для питты и ветра [совместно].",
+        "text_en": "[but] merely balances the imbalanced [doshas], is 'shamana', and it is of seven kinds: digestive, appetizing [fire-kindling], hunger, thirst, physical exercise, sun, wind; 'brimhana', however, is precisely 'shamana' for Vata, [and also] for Pitta and Vata [together]."
       },
       {
         "type": "verse",
@@ -13807,7 +13975,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृंहयेद् व्याधिभैषज्यमद्यस्त्रीशोककर्शितान् भाराध्वोरःक्षतक्षीणरूक्षदुर्बलवातलान्",
         "iast": "bṛṃhayed vyādhibhaiṣajyamadyastrīśokakarśitān bhārādhvoraḥkṣatakṣīṇarūkṣadurbalavātalān",
         "iast_ru": "бр̣м̣хайед вйа̄дхибхаиш̣аджйамадйастрӣш́окакарш́ита̄н бха̄ра̄дхворах̣кш̣атакш̣ӣн̣арӯкш̣адурбалава̄тала̄н",
-        "text": "Следует укреплять: истощённых болезнью, лекарством, вином, [чрезмерной близостью с] женщинами, горем; [истощённых] от [ношения] тяжести, ходьбы, травмы груди; истощённых, сухих, слабых, [страдающих] избытком ватхи;"
+        "text": "Следует укреплять: истощённых болезнью, лекарством, вином, [чрезмерной близостью с] женщинами, горем; [истощённых] от [ношения] тяжести, ходьбы, травмы груди; истощённых, сухих, слабых, [страдающих] избытком ватхи;",
+        "text_en": "One should strengthen: those emaciated by disease, medicine, wine, [excessive intimacy with] women, grief; [those emaciated] from [carrying] heavy loads, walking, chest injury; the emaciated, the dry, the weak, [those suffering] from excess of Vata;"
       },
       {
         "type": "verse",
@@ -13815,7 +13984,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भिणीसूतिकाबालवृद्धान् ग्रीष्मे ऽपरानप्पि मांसक्षीरसितासर्पिर्मधुरस्निग्धबस्तिभिः",
         "iast": "garbhiṇīsūtikābālavṛddhān grīṣme 'parānappi māṃsakṣīrasitāsarpirmadhurasnigdhabastibhiḥ",
         "iast_ru": "гарбхин̣ӣсӯтика̄ба̄лавр̣ддха̄н грӣш̣ме 'пара̄наппи ма̄м̣сакш̣ӣрасита̄сарпирмадхураснигдхабастибхих̣",
-        "text": "беременных, недавно родивших, детей, стариков; а также иных [ослабленных] летом — [следует укреплять] мясом, молоком, сахаром, гхи, сладкими, маслянистыми [веществами] и клизмами,"
+        "text": "беременных, недавно родивших, детей, стариков; а также иных [ослабленных] летом — [следует укреплять] мясом, молоком, сахаром, гхи, сладкими, маслянистыми [веществами] и клизмами,",
+        "text_en": "pregnant women, those who have recently given birth, children, the aged; and also others [weakened] in summer; [one should strengthen them] with meat, milk, sugar, ghee, sweet, unctuous [substances] and enemas,"
       },
       {
         "type": "verse",
@@ -13823,7 +13993,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वप्नशय्यासुखाभ्यङ्गस्नाननिर्वृतिहर्षणैः मेहामदोषातिस्निग्धज्वरोरुस्तम्भकुष्ठिनः विसर्पविद्रधिप्लीहशिरःकण्ठाक्षिरोगिणः",
         "iast": "svapnaśayyāsukhābhyaṅgasnānanirvṛtiharṣaṇaiḥ mehāmadoṣātisnigdhajvarorustambhakuṣṭhinaḥ visarpavidradhiplīhaśiraḥkaṇṭhākṣirogiṇaḥ",
         "iast_ru": "свапнаш́аййа̄сукха̄бхйан̇гасна̄нанирвр̣тихарш̣ан̣аих̣ меха̄мадош̣а̄тиснигдхаджварорустамбхакуш̣т̣хинах̣ висарпавидрадхиплӣхаш́ирах̣кан̣т̣ха̄кш̣ирогин̣ах̣",
-        "text": "сном, удобным ложем, умащением, купанием, безмятежностью, радостью. [Следует применять облегчение для] страдающих прамехой, «недоваренной дошой», чрезмерной маслянистостью, лихорадкой, скованностью бёдер, кожными болезнями; страдающих рожистым воспалением, абсцессом, [болезнью] селезёнки, болезнями головы, горла, глаз;"
+        "text": "сном, удобным ложем, умащением, купанием, безмятежностью, радостью. [Следует применять облегчение для] страдающих прамехой, «недоваренной дошой», чрезмерной маслянистостью, лихорадкой, скованностью бёдер, кожными болезнями; страдающих рожистым воспалением, абсцессом, [болезнью] селезёнки, болезнями головы, горла, глаз;",
+        "text_en": "with sleep, a comfortable bed, anointing, bathing, serenity, joy. [Lightening should be applied to] those suffering from prameha, 'uncooked dosha', excessive unctuousness, fever, stiffness of the thighs, skin diseases; those suffering from erysipelas, abscess, [disease] of the spleen, diseases of the head, throat, eyes;"
       },
       {
         "type": "verse",
@@ -13831,7 +14002,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्थूलांश्च लङ्घयेन्नित्यं शिशिरे त्वपरानपि तत्र संशोधनैः स्थौल्यबलपित्तकफाधिकान् आमदोषज्वरच्छर्दिरतीसारहृदामयैः",
         "iast": "sthūlāṃśca laṅghayennityaṃ śiśire tvaparānapi tatra saṃśodhanaiḥ sthaulyabalapittakaphādhikān āmadoṣajvaracchardiratīsārahṛdāmayaiḥ",
         "iast_ru": "стхӯла̄м̣ш́ча лан̇гхайеннитйам̣ ш́иш́ире твапара̄напи татра сам̣ш́одханаих̣ стхаулйабалапиттакапха̄дхика̄н а̄мадош̣аджвараччхардиратӣса̄рахр̣да̄майаих̣",
-        "text": "следует всегда применять голодание для полных [пациентов]; в шиширу же — и для иных [подобных]; при этом [следует применять] очищающие [средства] для [пациентов с] избытком полноты, силы, питты, капхи; [также] при недоваренности, лихорадке, рвоте, поносе, болезнях сердца —"
+        "text": "следует всегда применять голодание для полных [пациентов]; в шиширу же — и для иных [подобных]; при этом [следует применять] очищающие [средства] для [пациентов с] избытком полноты, силы, питты, капхи; [также] при недоваренности, лихорадке, рвоте, поносе, болезнях сердца —",
+        "text_en": "fasting should always be applied for obese [patients]; in shishira also for other [similar ones]; here [one should apply] purifying [measures] for [patients with] excess of obesity, strength, Pitta, Kapha; [also] in the uncooked state, fever, vomiting, diarrhea, heart diseases,"
       },
       {
         "type": "verse",
@@ -13839,7 +14011,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विबन्धगौरवोद्गारहृल्लासादिभिरातुरान् मध्यस्थौल्यादिकान् प्रायः पूर्वं पाचनदीपनैः",
         "iast": "vibandhagauravodgārahṛllāsādibhirāturān madhyasthaulyādikān prāyaḥ pūrvaṃ pācanadīpanaiḥ",
         "iast_ru": "вибандхагаураводга̄рахр̣лла̄са̄дибхира̄тура̄н мадхйастхаулйа̄дика̄н пра̄йах̣ пӯрвам̣ па̄чанадӣпанаих̣",
-        "text": "[а также] для больных с запором, тяжестью, отрыжкой, тошнотой и подобным; для [пациентов] со средней [степенью] полноты и подобного — как правило, сначала [применяются] способствующие перевариванию и разжигающие [средства];"
+        "text": "[а также] для больных с запором, тяжестью, отрыжкой, тошнотой и подобным; для [пациентов] со средней [степенью] полноты и подобного — как правило, сначала [применяются] способствующие перевариванию и разжигающие [средства];",
+        "text_en": "[and also] for patients with constipation, heaviness, belching, nausea and the like; for [patients] with a moderate [degree] of obesity and the like, as a rule, digestive and appetizing [remedies are applied] first;"
       },
       {
         "type": "verse",
@@ -13847,7 +14020,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एभिरेवमयैरार्तान् हीनस्थौल्यबलादिकान् क्षुत्तृष्णानिग्रहैर्दोषैस्त्वार्तान्मध्यबलैर्दृढान्",
         "iast": "ebhirevamayairārtān hīnasthaulyabalādikān kṣuttṛṣṇānigrahairdoṣaistvārtānmadhyabalairdṛḍhān",
         "iast_ru": "ебхиревамайаира̄рта̄н хӣнастхаулйабала̄дика̄н кш̣уттр̣ш̣н̣а̄ниграхаирдош̣аиства̄рта̄нмадхйабалаирдр̣д̣ха̄н",
-        "text": "[а] для страдающих недостаточной полнотой, силой и подобным — этими же [подобными] средствами [в меньшей мере]; для страдающих же [от] доши — сдерживанием голода и жажды; для крепких же [пациентов] со средней силой,"
+        "text": "[а] для страдающих недостаточной полнотой, силой и подобным — этими же [подобными] средствами [в меньшей мере]; для страдающих же [от] доши — сдерживанием голода и жажды; для крепких же [пациентов] со средней силой,",
+        "text_en": "[and] for those suffering from insufficient obesity, strength and the like, by these same [similar] means [to a lesser degree]; for those suffering [from] a dosha, by restraining hunger and thirst; for robust [patients], however, with moderate strength,"
       },
       {
         "type": "verse",
@@ -13855,7 +14029,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समीरणातपायासैः किमुताल्पबलैर्नरान् न बृंहयेल्लङ्घनीयान् बृंह्यांस्तु मृदु लङ्घयेत् युक्त्या वा देशकालादिबलतस्तानुपाचरेत्",
         "iast": "samīraṇātapāyāsaiḥ kimutālpabalairnarān na bṛṃhayellaṅghanīyān bṛṃhyāṃstu mṛdu laṅghayet yuktyā vā deśakālādibalatastānupācaret",
         "iast_ru": "самӣран̣а̄тапа̄йа̄саих̣ кимута̄лпабалаирнара̄н на бр̣м̣хайеллан̇гханӣйа̄н бр̣м̣хйа̄м̣сту мр̣ду лан̇гхайет йуктйа̄ ва̄ деш́ака̄ла̄дибалатаста̄нупа̄чарет",
-        "text": "[также] — ветром, солнцем, физическим усилием; тем более [следует применять это мягко] для людей со слабой силой. Не следует укреплять тех, кому подходит облегчение; тех же, кому подходит укрепление, — следует облегчать мягко; или же следует лечить их разумно, соответственно силе места, времени и подобного."
+        "text": "[также] — ветром, солнцем, физическим усилием; тем более [следует применять это мягко] для людей со слабой силой. Не следует укреплять тех, кому подходит облегчение; тех же, кому подходит укрепление, — следует облегчать мягко; или же следует лечить их разумно, соответственно силе места, времени и подобного.",
+        "text_en": "[also] by wind, sun, physical exertion; all the more [should this be applied mildly] for people of weak strength. One should not strengthen those for whom lightening is suitable; those, however, for whom strengthening is suitable, should be lightened mildly; or else one should treat them wisely, according to the strength of the place, time and the like."
       },
       {
         "type": "verse",
@@ -13863,7 +14038,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृंहिते स्यात् बलं पुष्टिस्तत्साध्यामयसंङ्क्षयः विमलेन्द्रियता सर्गो मलानां लाघवं रुचिः",
         "iast": "bṛṃhite syāt balaṃ puṣṭistatsādhyāmayasaṃṅkṣayaḥ vimalendriyatā sargo malānāṃ lāghavaṃ ruciḥ",
         "iast_ru": "бр̣м̣хите сйа̄т балам̣ пуш̣т̣истатса̄дхйа̄майасам̣н̇кш̣айах̣ вималендрийата̄ сарго мала̄на̄м̣ ла̄гхавам̣ ручих̣",
-        "text": "У укреплённого [должным образом пациента] возникают: сила, полнота, устранение [той] болезни, для лечения которой [это применялось], ясность органов чувств, [нормальное] выделение нечистот, легкость, аппетит."
+        "text": "У укреплённого [должным образом пациента] возникают: сила, полнота, устранение [той] болезни, для лечения которой [это применялось], ясность органов чувств, [нормальное] выделение нечистот, легкость, аппетит.",
+        "text_en": "In one [properly] strengthened there arise: strength, plumpness, elimination of that disease for the treatment of which [this was applied], clarity of the sense organs, [normal] discharge of impurities, lightness, appetite."
       },
       {
         "type": "verse",
@@ -13871,7 +14047,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षुत्तृट्सहोदयश्शुद्धहृदयोद्गारकण्ठता व्याधिमार्दवमुत्साहस्तन्द्रानाशश्च लङ्घते",
         "iast": "kṣuttṛṭsahodayaśśuddhahṛdayodgārakaṇṭhatā vyādhimārdavamutsāhastandrānāśaśca laṅghate",
         "iast_ru": "кш̣уттр̣т̣саходайаш́ш́уддхахр̣дайодга̄ракан̣т̣хата̄ вйа̄дхима̄рдавамутса̄хастандра̄на̄ш́аш́ча лан̇гхате",
-        "text": "У [пациента, прошедшего] голодание, [возникают]: одновременное появление голода и жажды, чистая отрыжка [из] сердца [и] горла, смягчение болезни, усердие, устранение вялости."
+        "text": "У [пациента, прошедшего] голодание, [возникают]: одновременное появление голода и жажды, чистая отрыжка [из] сердца [и] горла, смягчение болезни, усердие, устранение вялости.",
+        "text_en": "In [a patient who has undergone] fasting there [arise]: the simultaneous appearance of hunger and thirst, clean belching [from] the heart [and] throat, softening of the disease, diligence, removal of lethargy."
       },
       {
         "type": "verse",
@@ -13879,7 +14056,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अनपेक्षितमात्रादिसेविते कुरुतस्तु ते अतिस्थौल्यातिकार्श्यादीन् वक्ष्यन्ते ते च सौषधाः रूपं तैरेव च ज्ञेयमतिबृंहितलङ्घते",
         "iast": "anapekṣitamātrādisevite kurutastu te atisthaulyātikārśyādīn vakṣyante te ca sauṣadhāḥ rūpaṃ taireva ca jñeyamatibṛṃhitalaṅghate",
         "iast_ru": "анапекш̣итама̄тра̄дисевите курутасту те атистхаулйа̄тика̄рш́йа̄дӣн вакш̣йанте те ча сауш̣адха̄х̣ рӯпам̣ таирева ча джн̃ейаматибр̣м̣хиталан̇гхате",
-        "text": "Если же они [эти методы] применяются без учёта [должной] дозы и подобного, они вызывают чрезмерную полноту, чрезмерное истощение и подобное; они будут изложены вместе с [их] лекарствами; и по ним же следует узнавать признаки чрезмерно укреплённого или чрезмерно облегчённого [пациента]."
+        "text": "Если же они [эти методы] применяются без учёта [должной] дозы и подобного, они вызывают чрезмерную полноту, чрезмерное истощение и подобное; они будут изложены вместе с [их] лекарствами; и по ним же следует узнавать признаки чрезмерно укреплённого или чрезмерно облегчённого [пациента].",
+        "text_en": "If, however, they [these methods] are applied without regard to [due] dose and the like, they cause excessive obesity, excessive emaciation and the like; they will be described together with [their] medicines; and by them one should also recognize the signs of an excessively strengthened or excessively lightened [patient]."
       },
       {
         "type": "verse",
@@ -13887,7 +14065,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र शोधनमुद्दिश्य स्थौल्याद्याः प्रगुदाहृताः गुर्वादिवृद्धसंलीनश्लेष्ममिश्रो ऽन्नजो रसः",
         "iast": "tatra śodhanamuddiśya sthaulyādyāḥ pragudāhṛtāḥ gurvādivṛddhasaṃlīnaśleṣmamiśro 'nnajo rasaḥ",
         "iast_ru": "татра ш́одханамуддиш́йа стхаулйа̄дйа̄х̣ прагуда̄хр̣та̄х̣ гурва̄дивр̣ддхасам̣лӣнаш́леш̣мамиш́ро 'ннаджо расах̣",
-        "text": "В этом случае, применительно к очищению, ранее были упомянуты полнота и подобное. Сок пищи, смешанный с накопившейся, застоявшейся капхой, [обладающей] увеличенной тяжестью и подобными [качествами],"
+        "text": "В этом случае, применительно к очищению, ранее были упомянуты полнота и подобное. Сок пищи, смешанный с накопившейся, застоявшейся капхой, [обладающей] увеличенной тяжестью и подобными [качествами],",
+        "text_en": "In this case, with reference to purification, obesity and the like were mentioned earlier. The rasa of food, mixed with accumulated, stagnant Kapha, [possessing] increased heaviness and similar [qualities],"
       },
       {
         "type": "verse",
@@ -13895,7 +14074,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आम एव श्लथीकुर्वन् धातून् स्ह्तौल्यमुपानयेत् अतिस्थौल्यादतिक्षुत्तृट्प्रस्वेदश्वासनिद्रताः",
         "iast": "āma eva ślathīkurvan dhātūn shtaulyamupānayet atisthaulyādatikṣuttṛṭprasvedaśvāsanidratāḥ",
         "iast_ru": "а̄ма ева ш́латхӣкурван дха̄тӯн схтаулйамупа̄найет атистхаулйа̄датикш̣уттр̣т̣прасведаш́ва̄санидрата̄х̣",
-        "text": "именно недоваренный, расслабляя ткани, приводит к [чрезмерной] полноте. От чрезмерной полноты [возникают]: чрезмерный голод и жажда, [обильное] потоотделение, одышка, [избыточная] сонливость,"
+        "text": "именно недоваренный, расслабляя ткани, приводит к [чрезмерной] полноте. От чрезмерной полноты [возникают]: чрезмерный голод и жажда, [обильное] потоотделение, одышка, [избыточная] сонливость,",
+        "text_en": "precisely uncooked, relaxing the tissues, leads to [excessive] obesity. From excessive obesity [arise]: excessive hunger and thirst, [copious] perspiration, dyspnea, [excessive] sleepiness,"
       },
       {
         "type": "verse",
@@ -13903,7 +14083,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आयासाक्षमता जाड्यमल्पायुर्बलवेगता दौर्गन्ध्यं गद्गदत्वञ्च भवेन्मेदोतिपुष्टितः",
         "iast": "āyāsākṣamatā jāḍyamalpāyurbalavegatā daurgandhyaṃ gadgadatvañca bhavenmedotipuṣṭitaḥ",
         "iast_ru": "а̄йа̄са̄кш̣амата̄ джа̄д̣йамалпа̄йурбалавегата̄ даургандхйам̣ гадгадатван̃ча бхавенмедотипуш̣т̣итах̣",
-        "text": "неспособность выносить усилие, оцепенение, короткая жизнь, [снижение] силы, [учащённые] позывы, зловоние, невнятность речи, — [всё это] возникает от избыточного нарастания жира."
+        "text": "неспособность выносить усилие, оцепенение, короткая жизнь, [снижение] силы, [учащённые] позывы, зловоние, невнятность речи, — [всё это] возникает от избыточного нарастания жира.",
+        "text_en": "inability to bear exertion, numbness, short life, [diminished] strength, [frequent] urges, foul odor, indistinctness of speech, all [this] arises from the excessive growth of fat."
       },
       {
         "type": "verse",
@@ -13911,7 +14092,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्रोतस्तु मेदोरुद्धेषु वायुः कोष्ठे विशेषतः चरन् प्रज्वलयत्यग्निं क्षुत्तृषौ स्तस्ततो ऽधिकम्",
         "iast": "srotastu medoruddheṣu vāyuḥ koṣṭhe viśeṣataḥ caran prajvalayatyagniṃ kṣuttṛṣau stastato 'dhikam",
         "iast_ru": "сротасту медоруддхеш̣у ва̄йух̣ кош̣т̣хе виш́еш̣атах̣ чаран праджвалайатйагним̣ кш̣уттр̣ш̣ау стастато 'дхикам",
-        "text": "Когда каналы закупорены жиром, ветер, двигаясь особенно [активно] в желудке, чрезмерно разжигает огонь, отчего [возникают] усиленные голод и жажда."
+        "text": "Когда каналы закупорены жиром, ветер, двигаясь особенно [активно] в желудке, чрезмерно разжигает огонь, отчего [возникают] усиленные голод и жажда.",
+        "text_en": "When the channels are obstructed by fat, Vata, moving particularly [actively] in the stomach, excessively kindles the fire, whence [arise] intensified hunger and thirst."
       },
       {
         "type": "verse",
@@ -13919,7 +14101,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्थूलं कोटरवद्वृद्धौ दहतो ऽग्न्यनिलौ च तम् स्वेदवाहिसिरामूलभावाद्विष्यन्दनादपि मेदसः श्लेष्मयोगाच्च भवति स्वेदभूरिता",
         "iast": "sthūlaṃ koṭaravadvṛddhau dahato 'gnyanilau ca tam svedavāhisirāmūlabhāvādviṣyandanādapi medasaḥ śleṣmayogācca bhavati svedabhūritā",
         "iast_ru": "стхӯлам̣ кот̣аравадвр̣ддхау дахато 'гнйанилау ча там сведава̄хисира̄мӯлабха̄ва̄двиш̣йандана̄дапи медасах̣ ш́леш̣майога̄чча бхавати сведабхӯрита̄",
-        "text": "Огонь и ветер, [оба] возросшие, сжигают полного [человека], подобно [огню в дуплистом] дереве. Обильное потоотделение возникает от [расположения] у основания сосудов, несущих пот, а также от катара и соединения жира с капхой."
+        "text": "Огонь и ветер, [оба] возросшие, сжигают полного [человека], подобно [огню в дуплистом] дереве. Обильное потоотделение возникает от [расположения] у основания сосудов, несущих пот, а также от катара и соединения жира с капхой.",
+        "text_en": "Fire and Vata, [both] increased, consume the obese [person], like [fire in a hollow] tree. Copious perspiration arises from [the location] at the base of the vessels carrying sweat, and also from catarrh and the union of fat with Kapha."
       },
       {
         "type": "verse",
@@ -13927,7 +14110,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कोष्ठ एव विपक्वे ऽस्य संरुद्धस्रोतसो रसे सर्वत्रालब्धवृत्तित्वात् प्रयो मेदः प्रचीयते",
         "iast": "koṣṭha eva vipakve 'sya saṃruddhasrotaso rase sarvatrālabdhavṛttitvāt prayo medaḥ pracīyate",
         "iast_ru": "кош̣т̣ха ева випакве 'сйа сам̣руддхасротасо расе сарватра̄лабдхавр̣ттитва̄т прайо медах̣ прачӣйате",
-        "text": "Именно в желудке, когда сок [пищи] переварен, [но] каналы [этого человека] закупорены, — из-за невозможности [сока] обрести доступ повсюду, по большей части накапливается жир,"
+        "text": "Именно в желудке, когда сок [пищи] переварен, [но] каналы [этого человека] закупорены, — из-за невозможности [сока] обрести доступ повсюду, по большей части накапливается жир,",
+        "text_en": "Precisely in the stomach, when the rasa [of food] is digested, [but] the channels [of this person] are obstructed, owing to the impossibility of [the rasa] gaining access everywhere, fat accumulates for the most part,"
       },
       {
         "type": "verse",
@@ -13935,7 +14119,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तच्छेषो ऽल्परसो ऽल्पत्वान्नालं रक्तादिपुष्टये तुल्येपि वाय्वादिचये प्राक्चितं चीयतेतराम् मेदस्तेनासमस्तेन धातूनां विदधाति तत्",
         "iast": "taccheṣo 'lparaso 'lpatvānnālaṃ raktādipuṣṭaye tulyepi vāyvādicaye prākcitaṃ cīyatetarām medastenāsamastena dhātūnāṃ vidadhāti tat",
         "iast_ru": "таччхеш̣о 'лпарасо 'лпатва̄нна̄лам̣ ракта̄дипуш̣т̣айе тулйепи ва̄йва̄дичайе пра̄кчитам̣ чӣйатетара̄м медастена̄самастена дха̄тӯна̄м̣ видадха̄ти тат",
-        "text": "а остаток от него, [представляющий собой лишь] малый сок, из-за [своей] малости не достаточен для питания крови и других [тканей]. Даже при равном накоплении ветра и других [дош], ранее накопленный жир накапливается ещё сильнее; поэтому этот несовершенный жир [не может должным образом обеспечить питание] тканей,"
+        "text": "а остаток от него, [представляющий собой лишь] малый сок, из-за [своей] малости не достаточен для питания крови и других [тканей]. Даже при равном накоплении ветра и других [дош], ранее накопленный жир накапливается ещё сильнее; поэтому этот несовершенный жир [не может должным образом обеспечить питание] тканей,",
+        "text_en": "while the remainder of it, [being only] a small rasa, owing to [its] smallness is not sufficient to nourish the blood and the other [tissues]. Even with equal accumulation of Vata and the other [doshas], the previously accumulated fat accumulates still more; therefore this imperfect fat [cannot properly provide nourishment to] the tissues,"
       },
       {
         "type": "verse",
@@ -13943,7 +14128,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्वासादीनचिराच्चान्यान् ज्वरोदरभगन्दरान् मेहोरुस्तम्भपिटकाविद्रधिप्रभृतीन् गदान्",
         "iast": "śvāsādīnacirāccānyān jvarodarabhagandarān mehorustambhapiṭakāvidradhiprabhṛtīn gadān",
         "iast_ru": "ш́ва̄са̄дӣначира̄чча̄нйа̄н джвародарабхагандара̄н мехорустамбхапит̣ака̄видрадхипрабхр̣тӣн гада̄н",
-        "text": "[и приводит] быстро к одышке и другим [расстройствам]: лихорадке, [болезни] живота, свищам, прамехе, скованности бёдер, прыщам, абсцессу и подобным болезням."
+        "text": "[и приводит] быстро к одышке и другим [расстройствам]: лихорадке, [болезни] живота, свищам, прамехе, скованности бёдер, прыщам, абсцессу и подобным болезням.",
+        "text_en": "[and leads] quickly to dyspnea and other [disorders]: fever, [disease] of the abdomen, fistulas, prameha, stiffness of the thighs, pimples, abscess and similar diseases."
       },
       {
         "type": "verse",
@@ -13951,7 +14137,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अयथोपचयोत्साहश्चलस्फिगुदरस्तनः अतिस्थूलः स्मृतो योज्यं तत्रान्नं मारुतापहम्",
         "iast": "ayathopacayotsāhaścalasphigudarastanaḥ atisthūlaḥ smṛto yojyaṃ tatrānnaṃ mārutāpaham",
         "iast_ru": "айатхопачайотса̄хаш́чаласпхигударастанах̣ атистхӯлах̣ смр̣то йоджйам̣ татра̄ннам̣ ма̄рута̄пахам",
-        "text": "[Человек] с несоответствующим [пропорциям] нарастанием [тела], со слабым усердием, [с] колышущимися ягодицами, животом и грудью, — называется чрезмерно полным. В этом случае следует применять пищу, устраняющую ветер,"
+        "text": "[Человек] с несоответствующим [пропорциям] нарастанием [тела], со слабым усердием, [с] колышущимися ягодицами, животом и грудью, — называется чрезмерно полным. В этом случае следует применять пищу, устраняющую ветер,",
+        "text_en": "[A person] with a disproportionate [to the proportions] growth [of the body], with weak diligence, [with] flabby buttocks, abdomen and chest, is called excessively obese. In this case one should use food that removes Vata,"
       },
       {
         "type": "verse",
@@ -13959,7 +14146,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्लेष्ममेदोहरं यच्च कुलत्था यवका यवाः जूर्णश्यामाकमुद्गाद्याः पाने ऽरिष्टं मधूदकम्",
         "iast": "śleṣmamedoharaṃ yacca kulatthā yavakā yavāḥ jūrṇaśyāmākamudgādyāḥ pāne 'riṣṭaṃ madhūdakam",
         "iast_ru": "ш́леш̣мамедохарам̣ йачча кулаттха̄ йавака̄ йава̄х̣ джӯрн̣аш́йа̄ма̄камудга̄дйа̄х̣ па̄не 'риш̣т̣ам̣ мадхӯдакам",
-        "text": "а также устраняющую капху и жир: кулаттху, яваку, ячмень; старую шьямаку, мунг и подобное; в качестве питья — аристу, медовую воду,"
+        "text": "а также устраняющую капху и жир: кулаттху, яваку, ячмень; старую шьямаку, мунг и подобное; в качестве питья — аристу, медовую воду,",
+        "text_en": "and also removes Kapha and fat: kulattha, yavaka, barley; old shyamaka, mung and the like; as a drink, arishta, honey water,"
       },
       {
         "type": "verse",
@@ -13967,7 +14155,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मस्तु तक्रं च तीक्ष्णोष्णं रूक्षं छेदि च भेषजम् चिन्ताव्यवायव्यायामशोधनास्वपनं भजेत्",
         "iast": "mastu takraṃ ca tīkṣṇoṣṇaṃ rūkṣaṃ chedi ca bheṣajam cintāvyavāyavyāyāmaśodhanāsvapanaṃ bhajet",
         "iast_ru": "масту такрам̣ ча тӣкш̣н̣ош̣н̣ам̣ рӯкш̣ам̣ чхеди ча бхеш̣аджам чинта̄вйава̄йавйа̄йа̄маш́одхана̄свапанам̣ бхаджет",
-        "text": "сыворотку, пахту; [также] резкое, тёплое, сухое, рассасывающее лекарство. Следует практиковать [умственную] заботу, соитие, физическое упражнение, очищение, [сокращение] сна;"
+        "text": "сыворотку, пахту; [также] резкое, тёплое, сухое, рассасывающее лекарство. Следует практиковать [умственную] заботу, соитие, физическое упражнение, очищение, [сокращение] сна;",
+        "text_en": "whey, buttermilk; [also] a sharp, warm, dry, resolving medicine. One should practice [mental] care, sexual intercourse, physical exercise, purification, [reduction of] sleep;"
       },
       {
         "type": "verse",
@@ -13975,7 +14164,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "देहापेक्षी तथा रूक्षं स्नानमुद्वर्तनादि च मधुना त्रिफलां लिह्यात् गुडूचीमभयां घनम् रसाञ्जनस्य महतः पञ्चमूलस्य गुग्गुलोः",
         "iast": "dehāpekṣī tathā rūkṣaṃ snānamudvartanādi ca madhunā triphalāṃ lihyāt guḍūcīmabhayāṃ ghanam rasāñjanasya mahataḥ pañcamūlasya gugguloḥ",
         "iast_ru": "деха̄пекш̣ӣ татха̄ рӯкш̣ам̣ сна̄намудвартана̄ди ча мадхуна̄ трипхала̄м̣ лихйа̄т гуд̣ӯчӣмабхайа̄м̣ гханам раса̄н̃джанасйа махатах̣ пан̃чамӯласйа гуггулох̣",
-        "text": "учитывая [состояние] тела, — сухое купание, растирание [порошком] и подобное. Следует принимать, слизывая [с мёдом]: трифалу с мёдом, гудучи, харитаки, гхану, расанджану, [отвар] великой панчамулы, гуггулу,"
+        "text": "учитывая [состояние] тела, — сухое купание, растирание [порошком] и подобное. Следует принимать, слизывая [с мёдом]: трифалу с мёдом, гудучи, харитаки, гхану, расанджану, [отвар] великой панчамулы, гуггулу,",
+        "text_en": "taking into account [the condition of] the body, dry bathing, rubbing [with powder] and the like. One should take by licking [with honey]: triphala with honey, guduchi, haritaki, ghana, rasanjana, [decoction] of the great panchamula, guggulu,"
       },
       {
         "type": "verse",
@@ -13983,7 +14173,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिलाह्वस्य प्रयोगश्च साग्निमन्थरसो हितः विडङ्गं नागरं क्षारः काललोहरजो मधु",
         "iast": "śilāhvasya prayogaśca sāgnimantharaso hitaḥ viḍaṅgaṃ nāgaraṃ kṣāraḥ kālaloharajo madhu",
         "iast_ru": "ш́ила̄хвасйа прайогаш́ча са̄гнимантхарасо хитах̣ вид̣ан̇гам̣ на̄гарам̣ кш̣а̄рах̣ ка̄лалохараджо мадху",
-        "text": "применение шиладжита, вместе с соком агнимантхи — полезно; виданга, сушёный имбирь, щёлочь, порошок чёрного железа, мёд —"
+        "text": "применение шиладжита, вместе с соком агнимантхи — полезно; виданга, сушёный имбирь, щёлочь, порошок чёрного железа, мёд —",
+        "text_en": "the use of shilajit, together with the juice of agnimantha, is beneficial; vidanga, dried ginger, alkali, powder of black iron, honey,"
       },
       {
         "type": "verse",
@@ -13991,7 +14182,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवामलकचूर्णं च योगो ऽतिस्थौल्यदोषजित् मदनं त्रिफला मुस्ता सप्ताह्वारिष्टवत्सकम्",
         "iast": "yavāmalakacūrṇaṃ ca yogo 'tisthaulyadoṣajit madanaṃ triphalā mustā saptāhvāriṣṭavatsakam",
         "iast_ru": "йава̄малакачӯрн̣ам̣ ча його 'тистхаулйадош̣аджит маданам̣ трипхала̄ муста̄ сапта̄хва̄риш̣т̣аватсакам",
-        "text": "порошок ячменя и амалаки, [это] сочетание побеждает недуг чрезмерной полноты. Мадана, трифала, муста, саптахва, ариста, ватсака,"
+        "text": "порошок ячменя и амалаки, [это] сочетание побеждает недуг чрезмерной полноты. Мадана, трифала, муста, саптахва, ариста, ватсака,",
+        "text_en": "powder of barley and amalaki, [this] combination overcomes the ailment of excessive obesity. Madana, triphala, musta, saptahva, arishta, vatsaka,"
       },
       {
         "type": "verse",
@@ -13999,7 +14191,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सपाठारग्वधं पीतमतिबृंहणरोगजित् तद्वद्वत्सकशम्याकदेवदारुनिशाद्वयम्",
         "iast": "sapāṭhāragvadhaṃ pītamatibṛṃhaṇarogajit tadvadvatsakaśamyākadevadāruniśādvayam",
         "iast_ru": "сапа̄т̣ха̄рагвадхам̣ пӣтаматибр̣м̣хан̣арогаджит тадвадватсакаш́амйа̄кадевада̄руниш́а̄двайам",
-        "text": "вместе с патхой и арагвадхой, принятые [как напиток], побеждают болезни от чрезмерного укрепления; подобным образом [действуют] ватсака, шамьяка, девадару, оба вида куркумы,"
+        "text": "вместе с патхой и арагвадхой, принятые [как напиток], побеждают болезни от чрезмерного укрепления; подобным образом [действуют] ватсака, шамьяка, девадару, оба вида куркумы,",
+        "text_en": "together with patha and aragvadha, taken [as a drink], overcome diseases due to excessive strengthening; in a similar way [act] vatsaka, shamyaka, devadaru, both kinds of turmeric,"
       },
       {
         "type": "verse",
@@ -14007,7 +14200,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समुस्तपाठाखदिरत्रिफलानिम्बगोक्षुरम् मदनादीनि चालेपः स्ननादिष्वपि योजयेत्",
         "iast": "samustapāṭhākhadiratriphalānimbagokṣuram madanādīni cālepaḥ snanādiṣvapi yojayet",
         "iast_ru": "самустапа̄т̣ха̄кхадиратрипхала̄нимбагокш̣урам мадана̄дӣни ча̄лепах̣ снана̄диш̣вапи йоджайет",
-        "text": "вместе с мустой, патхой, кхадирой, трифалой, нимбой, гокшурой; мадана и подобные [вещества можно применять] также в качестве обмазывания при купании и подобном."
+        "text": "вместе с мустой, патхой, кхадирой, трифалой, нимбой, гокшурой; мадана и подобные [вещества можно применять] также в качестве обмазывания при купании и подобном.",
+        "text_en": "together with musta, patha, khadira, triphala, nimba, gokshura; madana and similar [substances may be used] also as a paste for bathing and the like."
       },
       {
         "type": "verse",
@@ -14015,7 +14209,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हिङ्गुगोमेदकव्योषकुष्ठक्रौञ्चास्थिगोक्षुरम् एलावृक्षकषड्ग्रन्थाखराश्वोपलभेदकम्",
         "iast": "hiṅgugomedakavyoṣakuṣṭhakrauñcāsthigokṣuram elāvṛkṣakaṣaḍgranthākharāśvopalabhedakam",
         "iast_ru": "хин̇гугомедакавйош̣акуш̣т̣хакраун̃ча̄стхигокш̣урам ела̄вр̣кш̣акаш̣ад̣грантха̄кхара̄ш́вопалабхедакам",
-        "text": "Хингу, гомедака, вьоша, куштха, косточка краунчи, гокшура; эла, врикшака, шадгрантха, кхарашвопалабхедака —"
+        "text": "Хингу, гомедака, вьоша, куштха, косточка краунчи, гокшура; эла, врикшака, шадгрантха, кхарашвопалабхедака —",
+        "text_en": "Hingu, gomedaka, vyosha, kushtha, kernel of krauncha, gokshura; ela, vrikshaka, shadgrantha, kharashvopalabhedaka,"
       },
       {
         "type": "verse",
@@ -14023,7 +14218,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तक्रेण दधिमण्डेन पीतं कोलरसेन वा मूत्रकृछ्रं कृमीन् मेहं स्थूलतां च व्यपोहति",
         "iast": "takreṇa dadhimaṇḍena pītaṃ kolarasena vā mūtrakṛchraṃ kṛmīn mehaṃ sthūlatāṃ ca vyapohati",
         "iast_ru": "такрен̣а дадхиман̣д̣ена пӣтам̣ коларасена ва̄ мӯтракр̣чхрам̣ кр̣мӣн мехам̣ стхӯлата̄м̣ ча вйапохати",
-        "text": "[этот состав], принятый с пахтой, сывороткой йогурта или соком колы, устраняет затруднённое мочеиспускание, глистов, прамеху и полноту."
+        "text": "[этот состав], принятый с пахтой, сывороткой йогурта или соком колы, устраняет затруднённое мочеиспускание, глистов, прамеху и полноту.",
+        "text_en": "[this compound], taken with buttermilk, yogurt whey or the juice of kola, removes difficult urination, worms, prameha and obesity."
       },
       {
         "type": "verse",
@@ -14031,7 +14227,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृमिघ्नत्रिफलं तैलसक्तुत्र्यूषणदीप्यकैः लोहोदकाप्लुतो मन्थः शस्तो बृंहणरोगिणाम्",
         "iast": "kṛmighnatriphalaṃ tailasaktutryūṣaṇadīpyakaiḥ lohodakāpluto manthaḥ śasto bṛṃhaṇarogiṇām",
         "iast_ru": "кр̣мигхнатрипхалам̣ таиласактутрйӯш̣ан̣адӣпйакаих̣ лоходака̄плуто мантхах̣ ш́асто бр̣м̣хан̣арогин̣а̄м",
-        "text": "Напиток «мантха», [приготовленный] с трифалой, устраняющей глистов, маслом, сакту, триушаной, дипьякой, настоянный на железной воде, рекомендуется для страдающих болезнями от чрезмерного укрепления."
+        "text": "Напиток «мантха», [приготовленный] с трифалой, устраняющей глистов, маслом, сакту, триушаной, дипьякой, настоянный на железной воде, рекомендуется для страдающих болезнями от чрезмерного укрепления.",
+        "text_en": "The drink 'mantha', [prepared] with triphala, worm-destroying oil, saktu, trishushana, dipyaka, infused in iron water, is recommended for those suffering from diseases due to excessive strengthening."
       },
       {
         "type": "verse",
@@ -14039,7 +14236,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्योषकट्वीवराशिग्रुविडङ्गातिविषास्थिराः हिङ्गुसौचर्चलाजाजीयवानीधान्यचित्रकाः",
         "iast": "vyoṣakaṭvīvarāśigruviḍaṅgātiviṣāsthirāḥ hiṅgusaucarcalājājīyavānīdhānyacitrakāḥ",
         "iast_ru": "вйош̣акат̣вӣвара̄ш́игрувид̣ан̇га̄тивиш̣а̄стхира̄х̣ хин̇гусаучарчала̄джа̄джӣйава̄нӣдха̄нйачитрака̄х̣",
-        "text": "Вьоша, катви, вара, шигру, виданга, атививиша, стхира; хингу, соварчала, аджаджи, ямани, кориандр, читрака;"
+        "text": "Вьоша, катви, вара, шигру, виданга, атививиша, стхира; хингу, соварчала, аджаджи, ямани, кориандр, читрака;",
+        "text_en": "Vyosha, katvi, vara, shigru, vidanga, ativisha, sthira; hingu, sauvarchala, ajaji, yamani, coriander, chitraka;"
       },
       {
         "type": "verse",
@@ -14047,7 +14245,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निशे बृहत्यौ हपुषा पाठा मूलं च केम्बुकात् एषां चूर्णं मधु घृतं तैलं च सदृशांशकम्",
         "iast": "niśe bṛhatyau hapuṣā pāṭhā mūlaṃ ca kembukāt eṣāṃ cūrṇaṃ madhu ghṛtaṃ tailaṃ ca sadṛśāṃśakam",
         "iast_ru": "ниш́е бр̣хатйау хапуш̣а̄ па̄т̣ха̄ мӯлам̣ ча кембука̄т еш̣а̄м̣ чӯрн̣ам̣ мадху гхр̣там̣ таилам̣ ча садр̣ш́а̄м̣ш́акам",
-        "text": "оба вида куркумы, оба вида брихати, хапуша, патха, корень кембуки — порошок из них, [взятый] в равных частях, с мёдом, гхи и маслом,"
+        "text": "оба вида куркумы, оба вида брихати, хапуша, патха, корень кембуки — порошок из них, [взятый] в равных частях, с мёдом, гхи и маслом,",
+        "text_en": "both kinds of turmeric, both kinds of brihati, hapusha, patha, root of kembuka, a powder of these, [taken] in equal parts, with honey, ghee and oil,"
       },
       {
         "type": "verse",
@@ -14055,7 +14254,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सक्तुभिः षोडशगुणैर्युक्तं पीतं निहन्ति तत् अतिस्थौल्यादिकान् सर्वान् रोगानन्यांश्च तद्विधान् हृद्रोगकामलाश्वित्रश्वासकासगलग्रहान्",
         "iast": "saktubhiḥ ṣoḍaśaguṇairyuktaṃ pītaṃ nihanti tat atisthaulyādikān sarvān rogānanyāṃśca tadvidhān hṛdrogakāmalāśvitraśvāsakāsagalagrahān",
         "iast_ru": "сактубхих̣ ш̣од̣аш́агун̣аирйуктам̣ пӣтам̣ ниханти тат атистхаулйа̄дика̄н сарва̄н рога̄нанйа̄м̣ш́ча тадвидха̄н хр̣дрогака̄мала̄ш́витраш́ва̄сака̄сагалаграха̄н",
-        "text": "соединённый с сакту в шестнадцать раз [большем количестве], принятый [как напиток], устраняет все [болезни] чрезмерной полноты и подобные, а также другие подобные [болезни]: болезни сердца, желтуху, витилиго, одышку, кашель, скованность горла,"
+        "text": "соединённый с сакту в шестнадцать раз [большем количестве], принятый [как напиток], устраняет все [болезни] чрезмерной полноты и подобные, а также другие подобные [болезни]: болезни сердца, желтуху, витилиго, одышку, кашель, скованность горла,",
+        "text_en": "combined with saktu in sixteen times [the quantity], taken [as a drink], removes all [diseases] of excessive obesity and the like, and also other similar [diseases]: heart diseases, jaundice, vitiligo, dyspnea, cough, stiffness of the throat,"
       },
       {
         "type": "verse",
@@ -14063,7 +14263,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बुद्धिमेधास्मृतिकरं सन्नस्याग्नेश्च दीपनम् योज्यं तथा यथाव्याधि स्वेदासृक्स्रावणान्यपि",
         "iast": "buddhimedhāsmṛtikaraṃ sannasyāgneśca dīpanam yojyaṃ tathā yathāvyādhi svedāsṛksrāvaṇānyapi",
         "iast_ru": "буддхимедха̄смр̣тикарам̣ саннасйа̄гнеш́ча дӣпанам йоджйам̣ татха̄ йатха̄вйа̄дхи сведа̄ср̣ксра̄ван̣а̄нйапи",
-        "text": "придаёт разум, интеллект, память; разжигает угасший огонь [пищеварения]. Следует также применять, соответственно болезни, прогревание, кровопускание и подобное."
+        "text": "придаёт разум, интеллект, память; разжигает угасший огонь [пищеварения]. Следует также применять, соответственно болезни, прогревание, кровопускание и подобное.",
+        "text_en": "it imparts intellect, understanding, memory; it rekindles the extinguished fire [of digestion]. One should also apply, according to the disease, fomentation, bloodletting and the like."
       },
       {
         "type": "verse",
@@ -14071,7 +14272,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतिकार्श्यं भ्रमः कासस्तृष्णाधिक्यमरोचकः स्नेहाग्निनिद्रादृक्श्रोत्रशुक्रौजःक्षुत्स्वरक्षयः",
         "iast": "atikārśyaṃ bhramaḥ kāsastṛṣṇādhikyamarocakaḥ snehāgninidrādṛkśrotraśukraujaḥkṣutsvarakṣayaḥ",
         "iast_ru": "атика̄рш́йам̣ бхрамах̣ ка̄састр̣ш̣н̣а̄дхикйамарочаках̣ снеха̄гнинидра̄др̣кш́ротраш́украуджах̣кш̣утсваракш̣айах̣",
-        "text": "[От чрезмерного истощения возникают]: чрезмерная худоба, головокружение, кашель, избыточная жажда, отсутствие аппетита; истощение маслянистости, огня, сна, зрения, слуха, семени, оджаса, голода, голоса;"
+        "text": "[От чрезмерного истощения возникают]: чрезмерная худоба, головокружение, кашель, избыточная жажда, отсутствие аппетита; истощение маслянистости, огня, сна, зрения, слуха, семени, оджаса, голода, голоса;",
+        "text_en": "[From excessive emaciation arise]: extreme thinness, dizziness, cough, excessive thirst, loss of appetite; depletion of unctuousness, fire, sleep, vision, hearing, semen, ojas, hunger, voice;"
       },
       {
         "type": "verse",
@@ -14079,7 +14281,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बस्तिहृन्मूर्द्धजङ्घोरुत्रिकपार्श्वरुजा ज्वरः प्रलापोर्ध्वानिलग्लानिः छर्द्दिः पर्वास्थिभेदनम्",
         "iast": "bastihṛnmūrddhajaṅghorutrikapārśvarujā jvaraḥ pralāpordhvānilaglāniḥ charddiḥ parvāsthibhedanam",
         "iast_ru": "бастихр̣нмӯрддхаджан̇гхорутрикапа̄рш́варуджа̄ джварах̣ прала̄пордхва̄нилагла̄них̣ чхарддих̣ парва̄стхибхеданам",
-        "text": "боль в мочевом пузыре, сердце, голове, голенях, бёдрах, крестце, боку; лихорадка, бред, восходящий ветер, изнеможение; рвота, боль в суставах и костях;"
+        "text": "боль в мочевом пузыре, сердце, голове, голенях, бёдрах, крестце, боку; лихорадка, бред, восходящий ветер, изнеможение; рвота, боль в суставах и костях;",
+        "text_en": "pain in the urinary bladder, heart, head, calves, thighs, sacrum, flank; fever, delirium, upward-moving Vata, exhaustion; vomiting, pain in the joints and bones;"
       },
       {
         "type": "verse",
@@ -14087,7 +14290,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वर्चोमूत्रग्रहाद्याश्च जायन्ते ऽतिविलङ्घनात् अतिकार्श्येन नायासवर्षशीतोष्णतृट्क्षुधः",
         "iast": "varcomūtragrahādyāśca jāyante 'tivilaṅghanāt atikārśyena nāyāsavarṣaśītoṣṇatṛṭkṣudhaḥ",
         "iast_ru": "варчомӯтраграха̄дйа̄ш́ча джа̄йанте 'тивилан̇гхана̄т атика̄рш́йена на̄йа̄саварш̣аш́ӣтош̣н̣атр̣т̣кш̣удхах̣",
-        "text": "задержка кала, мочи и подобное — возникают от чрезмерного голодания. От чрезмерного истощения [пациент] не выносит усилия, дождя, холода, жары, жажды, голода,"
+        "text": "задержка кала, мочи и подобное — возникают от чрезмерного голодания. От чрезмерного истощения [пациент] не выносит усилия, дождя, холода, жары, жажды, голода,",
+        "text_en": "retention of feces, urine and the like arise from excessive fasting. From excessive emaciation [the patient] cannot bear exertion, rain, cold, heat, thirst, hunger,"
       },
       {
         "type": "verse",
@@ -14095,7 +14299,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तृप्तिव्याध्यौषधमनान् सहते ऽल्पबलत्वतः श्वासकासक्षयप्लीहगुल्मार्शोवह्निमन्दताः",
         "iast": "tṛptivyādhyauṣadhamanān sahate 'lpabalatvataḥ śvāsakāsakṣayaplīhagulmārśovahnimandatāḥ",
         "iast_ru": "тр̣птивйа̄дхйауш̣адхамана̄н сахате 'лпабалатватах̣ ш́ва̄сака̄сакш̣айаплӣхагулма̄рш́овахнимандата̄х̣",
-        "text": "насыщения, болезни, лекарства, [даже] мнения [другого], — из-за [своей] малой силы; [у него возникают] одышка, кашель, истощение, [болезнь] селезёнки, гульма, геморрой, слабость огня [пищеварения];"
+        "text": "насыщения, болезни, лекарства, [даже] мнения [другого], — из-за [своей] малой силы; [у него возникают] одышка, кашель, истощение, [болезнь] селезёнки, гульма, геморрой, слабость огня [пищеварения];",
+        "text_en": "satiety, disease, medicine, [even] the opinion [of another], owing to [his] little strength; [there arise] dyspnea, cough, wasting, [disease] of the spleen, gulma, hemorrhoids, weakness of the fire [of digestion];"
       },
       {
         "type": "verse",
@@ -14103,7 +14308,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृशं प्रायश्च धावन्ति रक्तपित्तानिलामयाः कार्श्यमेव वरं स्थौल्यान्न हि स्थूलस्य भेषजम् बृंहणं लङ्घनं नालमतिमेदो ऽग्निवातजित्",
         "iast": "kṛśaṃ prāyaśca dhāvanti raktapittānilāmayāḥ kārśyameva varaṃ sthaulyānna hi sthūlasya bheṣajam bṛṃhaṇaṃ laṅghanaṃ nālamatimedo 'gnivātajit",
         "iast_ru": "кр̣ш́ам̣ пра̄йаш́ча дха̄ванти рактапитта̄нила̄майа̄х̣ ка̄рш́йамева варам̣ стхаулйа̄нна хи стхӯласйа бхеш̣аджам бр̣м̣хан̣ам̣ лан̇гханам̣ на̄ламатимедо 'гнива̄таджит",
-        "text": "и, как правило, болезни крови, питты и ветра устремляются к истощённому [человеку]. И всё же истощение лучше полноты; ибо для полного [человека] нет [подходящего] лекарства: ни укрепление, ни голодание не достаточны [сами по себе] против чрезмерного жира, [сопряжённого] с [расстройством] огня и ветра."
+        "text": "и, как правило, болезни крови, питты и ветра устремляются к истощённому [человеку]. И всё же истощение лучше полноты; ибо для полного [человека] нет [подходящего] лекарства: ни укрепление, ни голодание не достаточны [сами по себе] против чрезмерного жира, [сопряжённого] с [расстройством] огня и ветра.",
+        "text_en": "and, as a rule, diseases of the blood, Pitta and Vata rush upon the emaciated [person]. And yet emaciation is better than obesity; for for the obese [person] there is no [suitable] medicine: neither strengthening nor fasting is sufficient [by itself] against excessive fat, [combined] with [a disorder] of fire and Vata."
       },
       {
         "type": "verse",
@@ -14111,7 +14317,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुरस्निग्धसौहित्यैर्यत् सौख्येन च नश्यति क्रशिमा स्थविमात्यन्तविपरीतनिषेवणैः",
         "iast": "madhurasnigdhasauhityairyat saukhyena ca naśyati kraśimā sthavimātyantaviparītaniṣevaṇaiḥ",
         "iast_ru": "мадхураснигдхасаухитйаирйат саукхйена ча наш́йати краш́има̄ стхавима̄тйантавипарӣтаниш̣еван̣аих̣",
-        "text": "Ибо истощение устраняется сладким, маслянистым, насыщением и комфортом — [средствами], полностью противоположными тем, что применяются [при чрезмерной] полноте."
+        "text": "Ибо истощение устраняется сладким, маслянистым, насыщением и комфортом — [средствами], полностью противоположными тем, что применяются [при чрезмерной] полноте.",
+        "text_en": "For emaciation is removed by the sweet, the unctuous, satiation and comfort, [means] entirely opposite to those employed [in excessive] obesity."
       },
       {
         "type": "verse",
@@ -14119,7 +14326,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शुष्कस्फिगुदरग्रीवाः स्थूलपर्वा सिराततः उच्यते ऽतिकृशस्तत्नप्रागुक्तो बृंहणो विधिः",
         "iast": "śuṣkasphigudaragrīvāḥ sthūlaparvā sirātataḥ ucyate 'tikṛśastatnaprāgukto bṛṃhaṇo vidhiḥ",
         "iast_ru": "ш́уш̣каспхигударагрӣва̄х̣ стхӯлапарва̄ сира̄татах̣ учйате 'тикр̣ш́астатнапра̄гукто бр̣м̣хан̣о видхих̣",
-        "text": "[Человек] с сухими ягодицами, животом, шеей, с выступающими суставами, с натянутыми [видимыми] сосудами, называется чрезмерно истощённым; в этом случае — [применяется] ранее упомянутый режим укрепления."
+        "text": "[Человек] с сухими ягодицами, животом, шеей, с выступающими суставами, с натянутыми [видимыми] сосудами, называется чрезмерно истощённым; в этом случае — [применяется] ранее упомянутый режим укрепления.",
+        "text_en": "[A person] with dry buttocks, abdomen, neck, with prominent joints, with stretched [visible] vessels, is called excessively emaciated; in this case the previously mentioned regimen of strengthening [is applied]."
       },
       {
         "type": "verse",
@@ -14127,7 +14335,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अश्वगन्धाविदार्याद्या वृष्याश्चौषधयो हिताः अचिन्तया हर्षणेन ध्रुवं सन्तर्पणेन च",
         "iast": "aśvagandhāvidāryādyā vṛṣyāścauṣadhayo hitāḥ acintayā harṣaṇena dhruvaṃ santarpaṇena ca",
         "iast_ru": "аш́вагандха̄вида̄рйа̄дйа̄ вр̣ш̣йа̄ш́чауш̣адхайо хита̄х̣ ачинтайа̄ харш̣ан̣ена дхрувам̣ сантарпан̣ена ча",
-        "text": "Ашвагандха, видари и подобные усиливающие половую силу травы — полезны; [также полезны] отсутствие тревог, радость и, несомненно, насыщение [пищей];"
+        "text": "Ашвагандха, видари и подобные усиливающие половую силу травы — полезны; [также полезны] отсутствие тревог, радость и, несомненно, насыщение [пищей];",
+        "text_en": "Ashvagandha, vidari and similar aphrodisiac herbs are beneficial; [also beneficial are] freedom from anxieties, joy and, undoubtedly, satiation [with food];"
       },
       {
         "type": "verse",
@@ -14135,7 +14344,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वप्नप्रसङ्गाच्च कृशो वराह इव पुष्यति लङ्घनोत्थेषु रोगेषु शेषेष्वप्युपकल्पयेत् यत्तदात्वे समर्थं स्याद्यच्चाभ्यासेन पुष्टये",
         "iast": "svapnaprasaṅgācca kṛśo varāha iva puṣyati laṅghanottheṣu rogeṣu śeṣeṣvapyupakalpayet yattadātve samarthaṃ syādyaccābhyāsena puṣṭaye",
         "iast_ru": "свапнапрасан̇га̄чча кр̣ш́о вара̄ха ива пуш̣йати лан̇гханоттхеш̣у рогеш̣у ш́еш̣еш̣вапйупакалпайет йаттада̄тве самартхам̣ сйа̄дйачча̄бхйа̄сена пуш̣т̣айе",
-        "text": "а также от предания сну — истощённый [человек] набирает [вес], подобно кабану. При прочих же болезнях, возникших от [чрезмерного] голодания, следует применять то, что немедленно эффективно, и то, что при регулярной практике [ведёт] к укреплению."
+        "text": "а также от предания сну — истощённый [человек] набирает [вес], подобно кабану. При прочих же болезнях, возникших от [чрезмерного] голодания, следует применять то, что немедленно эффективно, и то, что при регулярной практике [ведёт] к укреплению.",
+        "text_en": "and also from being put to sleep, the emaciated [person] gains [weight] like a boar. In other diseases that have arisen from [excessive] fasting, one should apply that which is immediately effective, and that which with regular practice [leads] to strengthening."
       },
       {
         "type": "verse",
@@ -14143,7 +14353,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सद्यः क्षीणो यतः सद्यो बृंहणेनोपचीयते चिरं क्रमेण च क्षीणस्तदभ्यासेन तत्र च",
         "iast": "sadyaḥ kṣīṇo yataḥ sadyo bṛṃhaṇenopacīyate ciraṃ krameṇa ca kṣīṇastadabhyāsena tatra ca",
         "iast_ru": "садйах̣ кш̣ӣн̣о йатах̣ садйо бр̣м̣хан̣енопачӣйате чирам̣ крамен̣а ча кш̣ӣн̣астадабхйа̄сена татра ча",
-        "text": "Ибо [человек], истощённый внезапно, немедленно восстанавливается укреплением; [человек же], истощавшийся долго и постепенно, — [восстанавливается] регулярной практикой этого [укрепления]; и в этом случае"
+        "text": "Ибо [человек], истощённый внезапно, немедленно восстанавливается укреплением; [человек же], истощавшийся долго и постепенно, — [восстанавливается] регулярной практикой этого [укрепления]; и в этом случае",
+        "text_en": "For [a person] emaciated suddenly recovers immediately by strengthening; [a person] who has become emaciated long and gradually [recovers] by regular practice of this [strengthening]; and in this case"
       },
       {
         "type": "verse",
@@ -14151,7 +14362,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृंहणं देहमात्राग्निबलादीन् वीक्ष्य योजयेत् न हि मांससमं किञ्चिदन्यद्देहबृहत्त्वकृत् मांसादमांसं मांसेन सम्भृतत्वाद्विशेषतः",
         "iast": "bṛṃhaṇaṃ dehamātrāgnibalādīn vīkṣya yojayet na hi māṃsasamaṃ kiñcidanyaddehabṛhattvakṛt māṃsādamāṃsaṃ māṃsena sambhṛtatvādviśeṣataḥ",
         "iast_ru": "бр̣м̣хан̣ам̣ дехама̄тра̄гнибала̄дӣн вӣкш̣йа йоджайет на хи ма̄м̣сасамам̣ кин̃чиданйаддехабр̣хаттвакр̣т ма̄м̣са̄дама̄м̣сам̣ ма̄м̣сена самбхр̣татва̄двиш́еш̣атах̣",
-        "text": "следует применять укрепление, учитывая тело, дозу, огонь, силу и подобное. Ибо нет ничего иного, равного мясу, для придания телу полноты; [и особенно] мясо от мяса — благодаря особому родству [субстанции] мяса с мясом;"
+        "text": "следует применять укрепление, учитывая тело, дозу, огонь, силу и подобное. Ибо нет ничего иного, равного мясу, для придания телу полноты; [и особенно] мясо от мяса — благодаря особому родству [субстанции] мяса с мясом;",
+        "text_en": "one should apply strengthening, taking into account the body, dose, fire, strength and the like. For there is nothing else equal to meat for imparting plumpness to the body; [and especially] meat from meat, owing to the special affinity of the [substance] of flesh with flesh;"
       },
       {
         "type": "verse",
@@ -14159,7 +14371,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रव्यान्मांसरसांस्तस्माद्दकलावणिकान् लघून् वेशवारीकृतैस्तद्वज्जाङ्गलैश्च कृताकृतान् रसांस्तथा च क्षीरादीन् तर्पणांस्तर्पणान् पुनः",
         "iast": "kravyānmāṃsarasāṃstasmāddakalāvaṇikān laghūn veśavārīkṛtaistadvajjāṅgalaiśca kṛtākṛtān rasāṃstathā ca kṣīrādīn tarpaṇāṃstarpaṇān punaḥ",
         "iast_ru": "кравйа̄нма̄м̣сараса̄м̣стасма̄ддакала̄ван̣ика̄н лагхӯн веш́ава̄рӣкр̣таистадваджджа̄н̇галаиш́ча кр̣та̄кр̣та̄н раса̄м̣статха̄ ча кш̣ӣра̄дӣн тарпан̣а̄м̣старпан̣а̄н пунах̣",
-        "text": "поэтому [следует применять] мясные соки от плотоядных [животных], лёгкие «дакалаваника»; подобным же образом [соки], приготовленные с «вешавари» из мяса сухих земель, приготовленные или неприготовленные [до конца]; а также молоко и подобные насыщающие [средства], — а также [прочие] тонизирующие [средства],"
+        "text": "поэтому [следует применять] мясные соки от плотоядных [животных], лёгкие «дакалаваника»; подобным же образом [соки], приготовленные с «вешавари» из мяса сухих земель, приготовленные или неприготовленные [до конца]; а также молоко и подобные насыщающие [средства], — а также [прочие] тонизирующие [средства],",
+        "text_en": "therefore [one should use] meat juices from carnivorous [animals], the light 'dakalavanika'; in the same way [juices] prepared with 'veshavara' from the meat of dry lands, cooked or not cooked [fully]; and also milk and similar satiating [remedies], and also [other] tonic [remedies],"
       },
       {
         "type": "verse",
@@ -14167,7 +14380,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "युञ्ज्यात् कृशानां ज्वरिणां कासिनां मूत्रकृच्छ्रिणाम् तृष्यतामूध्ववातानां मूढमारुतवर्चसाम्",
         "iast": "yuñjyāt kṛśānāṃ jvariṇāṃ kāsināṃ mūtrakṛcchriṇām tṛṣyatāmūdhvavātānāṃ mūḍhamārutavarcasām",
         "iast_ru": "йун̃джйа̄т кр̣ш́а̄на̄м̣ джварин̣а̄м̣ ка̄сина̄м̣ мӯтракр̣ччхрин̣а̄м тр̣ш̣йата̄мӯдхвава̄та̄на̄м̣ мӯд̣хама̄рутаварчаса̄м",
-        "text": "следует применять для истощённых, лихорадящих, кашляющих, страдающих затруднённым мочеиспусканием; страдающих жаждой, восходящим ветром; [страдающих] задержкой ветра и кала."
+        "text": "следует применять для истощённых, лихорадящих, кашляющих, страдающих затруднённым мочеиспусканием; страдающих жаждой, восходящим ветром; [страдающих] задержкой ветра и кала.",
+        "text_en": "one should apply for the emaciated, the feverish, those who cough, those suffering from difficult urination; those suffering from thirst, upward-moving Vata; [those suffering] from retention of wind and feces."
       },
       {
         "type": "verse",
@@ -14175,7 +14389,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समैः कृष्णासितातैलक्षौद्राद्यैद्र्व्यंशतर्पणैः मन्थस्तद्वत् सिताक्षौद्रमदिरासक्तुयोजितः",
         "iast": "samaiḥ kṛṣṇāsitātailakṣaudrādyaidrvyaṃśatarpaṇaiḥ manthastadvat sitākṣaudramadirāsaktuyojitaḥ",
         "iast_ru": "самаих̣ кр̣ш̣н̣а̄сита̄таилакш̣аудра̄дйаидрвйам̣ш́атарпан̣аих̣ мантхастадват сита̄кш̣аудрамадира̄сактуйоджитах̣",
-        "text": "«Мантха» [готовится] с равными частями чёрного перца, сахара, масла, мёда и подобных насыщающих веществ; подобным же образом — [мантха], соединённая с сахаром, мёдом, вином и сакту,"
+        "text": "«Мантха» [готовится] с равными частями чёрного перца, сахара, масла, мёда и подобных насыщающих веществ; подобным же образом — [мантха], соединённая с сахаром, мёдом, вином и сакту,",
+        "text_en": "'Mantha' [is prepared] with equal parts of black pepper, sugar, butter, honey and similar satiating substances; in the same way [mantha] combined with sugar, honey, wine and saktu,"
       },
       {
         "type": "verse",
@@ -14183,7 +14398,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "फाणितं सक्तवः सर्पिर्दधिमण्डो ऽम्लकाञ्जिकम् तर्पणं मूत्रकृच्छ्रघ्नमुदावर्त्तहरं परम्",
         "iast": "phāṇitaṃ saktavaḥ sarpirdadhimaṇḍo 'mlakāñjikam tarpaṇaṃ mūtrakṛcchraghnamudāvarttaharaṃ param",
         "iast_ru": "пха̄н̣итам̣ сактавах̣ сарпирдадхиман̣д̣о 'млака̄н̃джикам тарпан̣ам̣ мӯтракр̣ччхрагхнамуда̄варттахарам̣ парам",
-        "text": "[или] сгущённый сок сахарного тростника, сакту, гхи, сыворотка йогурта, кислый квас, — [такое] насыщающее [средство] особенно устраняет затруднённое мочеиспускание и удаварту."
+        "text": "[или] сгущённый сок сахарного тростника, сакту, гхи, сыворотка йогурта, кислый квас, — [такое] насыщающее [средство] особенно устраняет затруднённое мочеиспускание и удаварту.",
+        "text_en": "[or] thickened sugarcane juice, saktu, ghee, yogurt whey, sour kvass, [such a] satiating [remedy] especially removes difficult urination and udavarta."
       },
       {
         "type": "verse",
@@ -14191,7 +14407,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मन्थः खर्जूरमृद्वीकावृक्षाम्लाम्लीकदाडिमैः परूषकैः सामलकैः सद्यस्तृष्णादिरोगजित्",
         "iast": "manthaḥ kharjūramṛdvīkāvṛkṣāmlāmlīkadāḍimaiḥ parūṣakaiḥ sāmalakaiḥ sadyastṛṣṇādirogajit",
         "iast_ru": "мантхах̣ кхарджӯрамр̣двӣка̄вр̣кш̣а̄мла̄млӣкада̄д̣имаих̣ парӯш̣акаих̣ са̄малакаих̣ садйастр̣ш̣н̣а̄дирогаджит",
-        "text": "«Мантха» с финиками, изюмом, врикшамлой, амликой, гранатом, парушей, вместе с амалаки, немедленно побеждает жажду и подобные болезни."
+        "text": "«Мантха» с финиками, изюмом, врикшамлой, амликой, гранатом, парушей, вместе с амалаки, немедленно побеждает жажду и подобные болезни.",
+        "text_en": "'Mantha' with dates, raisins, vrikshamla, amlika, pomegranate, parusha, together with amalaki, immediately overcomes thirst and similar diseases."
       },
       {
         "type": "verse",
@@ -14199,7 +14416,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वादुरम्लो जलकृतः सस्नेहो रूक्ष एव वा सद्यः सन्तर्पणो मन्थः स्थैर्यवर्णबलप्रदः",
         "iast": "svāduramlo jalakṛtaḥ sasneho rūkṣa eva vā sadyaḥ santarpaṇo manthaḥ sthairyavarṇabalapradaḥ",
         "iast_ru": "сва̄дурамло джалакр̣тах̣ саснехо рӯкш̣а ева ва̄ садйах̣ сантарпан̣о мантхах̣ стхаирйаварн̣абалапрадах̣",
-        "text": "Сладкая или кислая «мантха», приготовленная на воде, с маслом или без него, немедленно насыщает, дарует устойчивость, цвет [кожи] и силу."
+        "text": "Сладкая или кислая «мантха», приготовленная на воде, с маслом или без него, немедленно насыщает, дарует устойчивость, цвет [кожи] и силу.",
+        "text_en": "A sweet or sour 'mantha' prepared with water, with or without butter, immediately satiates, bestows stability, complexion [of the skin] and strength."
       },
       {
         "type": "verse",
@@ -14207,7 +14425,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुरु चातर्पणं स्थूले विपरीतं हितं कृशे यवगोधूममुभयोस्तद्योग्याहितकल्पनम्",
         "iast": "guru cātarpaṇaṃ sthūle viparītaṃ hitaṃ kṛśe yavagodhūmamubhayostadyogyāhitakalpanam",
         "iast_ru": "гуру ча̄тарпан̣ам̣ стхӯле випарӣтам̣ хитам̣ кр̣ш́е йавагодхӯмамубхайостадйогйа̄хитакалпанам",
-        "text": "Для полного [человека] полезно тяжёлое и не-насыщающее [средство]; для истощённого — противоположное. Ячмень и пшеница [подходят] для обоих; [для них] следует применять соответствующую, безвредную [пищевую] обработку."
+        "text": "Для полного [человека] полезно тяжёлое и не-насыщающее [средство]; для истощённого — противоположное. Ячмень и пшеница [подходят] для обоих; [для них] следует применять соответствующую, безвредную [пищевую] обработку.",
+        "text_en": "For an obese [person] a heavy and non-satiating [remedy] is beneficial; for an emaciated one, the opposite. Barley and wheat [are suitable] for both; [for them] one should apply the corresponding, harmless [dietary] preparation."
       },
       {
         "type": "verse",
@@ -14215,7 +14434,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्यौल्यकार्श्ये प्रकृत्यापि स्यातां तत्राप्ययं विधिः सततं व्याधिततया सदा योज्यो विभज्य च",
         "iast": "syaulyakārśye prakṛtyāpi syātāṃ tatrāpyayaṃ vidhiḥ satataṃ vyādhitatayā sadā yojyo vibhajya ca",
         "iast_ru": "сйаулйака̄рш́йе пракр̣тйа̄пи сйа̄та̄м̣ татра̄пйайам̣ видхих̣ сататам̣ вйа̄дхитатайа̄ сада̄ йоджйо вибхаджйа ча",
-        "text": "Полнота и истощение могут быть также [обусловлены] природой [конституции]; и в этом случае также [применяется] этот же режим, — постоянно, [рассматривая это состояние как] болезнь, [его] всегда следует применять, различая [степень]."
+        "text": "Полнота и истощение могут быть также [обусловлены] природой [конституции]; и в этом случае также [применяется] этот же режим, — постоянно, [рассматривая это состояние как] болезнь, [его] всегда следует применять, различая [степень].",
+        "text_en": "Obesity and emaciation may also be [determined] by the nature [of constitution]; and in this case too this same regimen [is applied], constantly, [regarding this state as] a disease, [it] should always be applied, distinguishing [the degree]."
       },
       {
         "type": "verse",
@@ -14223,7 +14443,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मात्रादियुक्ते सेवेत यस्तु लङ्घनबृंहणे समधात्वग्निदेहो ऽसौ समस्ंहननो भवेत्",
         "iast": "mātrādiyukte seveta yastu laṅghanabṛṃhaṇe samadhātvagnideho 'sau samasṃhanano bhavet",
         "iast_ru": "ма̄тра̄дийукте севета йасту лан̇гханабр̣м̣хан̣е самадха̄твагнидехо 'сау самасм̣ханано бхавет",
-        "text": "Тот же, кто применяет голодание и укрепление в надлежащей дозе и подобном, — у него ткани, огонь [пищеварения] и тело [придут] в равновесие, [и] он обретёт равновесное телосложение,"
+        "text": "Тот же, кто применяет голодание и укрепление в надлежащей дозе и подобном, — у него ткани, огонь [пищеварения] и тело [придут] в равновесие, [и] он обретёт равновесное телосложение,",
+        "text_en": "He who applies fasting and strengthening in the proper dose and the like, in him the tissues, the fire [of digestion] and the body [will come] into balance, [and] he will obtain a balanced physique,"
       },
       {
         "type": "verse",
@@ -14231,7 +14452,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दृढेन्द्रियबलत्वाच्च न द्वन्द्वैरभिभूयते दोषगत्यातिरिच्यन्ते ग्राहिभेद्यादिभेदतः उपक्रमा न तु द्वित्वाद्भिन्ना अपि गदा इव",
         "iast": "dṛḍhendriyabalatvācca na dvandvairabhibhūyate doṣagatyātiricyante grāhibhedyādibhedataḥ upakramā na tu dvitvādbhinnā api gadā iva",
         "iast_ru": "др̣д̣хендрийабалатва̄чча на двандваирабхибхӯйате дош̣агатйа̄тиричйанте гра̄хибхедйа̄дибхедатах̣ упакрама̄ на ту двитва̄дбхинна̄ апи гада̄ ива",
-        "text": "и, благодаря крепости органов чувств и силы, не будет подавлен парами противоположностей. Подходы к лечению превосходят [простую двоицу] по различию [своих подвидов, таких как] скрепляющие, послабляющие и подобные, [зависящих от] движения дош; но, хотя [конкретные] болезни и различны, они, тем не менее, [все восходят к этой] двоичности."
+        "text": "и, благодаря крепости органов чувств и силы, не будет подавлен парами противоположностей. Подходы к лечению превосходят [простую двоицу] по различию [своих подвидов, таких как] скрепляющие, послабляющие и подобные, [зависящих от] движения дош; но, хотя [конкретные] болезни и различны, они, тем не менее, [все восходят к этой] двоичности.",
+        "text_en": "and, thanks to the firmness of the sense organs and strength, will not be overcome by pairs of opposites. The approaches to treatment surpass [the simple pair] by the distinction of [their subtypes, such as] binding, laxative and the like, [depending on] the movement of the doshas; but, although [particular] diseases are diverse, they nevertheless [all go back to this] duality."
       }
     ]
   },
@@ -14253,7 +14475,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातः स्नेहविधिमध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athātaḥ snehavidhimadhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄тах̣ снехавидхимадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Снехавидхи» («Метод умащения») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Снехавидхи» («Метод умащения») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter named 'Snehavidhi' ('Method of Oleation'), as the great sages headed by Atreya declared."
       },
       {
         "type": "verse",
@@ -14261,7 +14484,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहादिषूपयोगाय तद्व्यापच्छमनाय च कुर्यात् प्रागेव तद्योगिद्रव्यसम्भारसङ्ग्रहम्",
         "iast": "snehādiṣūpayogāya tadvyāpacchamanāya ca kuryāt prāgeva tadyogidravyasambhārasaṅgraham",
         "iast_ru": "снеха̄диш̣ӯпайога̄йа тадвйа̄паччхамана̄йа ча курйа̄т пра̄гева тадйогидравйасамбха̄расан̇грахам",
-        "text": "Для применения умащения и подобного, а также для устранения его осложнений, следует заранее собрать запас подходящих для этого веществ."
+        "text": "Для применения умащения и подобного, а также для устранения его осложнений, следует заранее собрать запас подходящих для этого веществ.",
+        "text_en": "For the application of oleation and the like, and also for the removal of its complications, one should beforehand gather a stock of substances suitable for this."
       },
       {
         "type": "verse",
@@ -14269,7 +14493,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुरुशीतसरस्निग्धमन्दसूक्ष्ममृदुद्रवम् औषधं स्नेहनं प्रायो विपरीतं विरूक्षणम्",
         "iast": "guruśītasarasnigdhamandasūkṣmamṛdudravam auṣadhaṃ snehanaṃ prāyo viparītaṃ virūkṣaṇam",
         "iast_ru": "гуруш́ӣтасараснигдхамандасӯкш̣мамр̣дудравам ауш̣адхам̣ снеханам̣ пра̄йо випарӣтам̣ вирӯкш̣ан̣ам",
-        "text": "Лекарство, [обладающее качествами] тяжёлого, холодного, текучего, маслянистого, медленного, тонкого, мягкого, жидкого, — как правило, [является] умащающим; противоположное — иссушающим."
+        "text": "Лекарство, [обладающее качествами] тяжёлого, холодного, текучего, маслянистого, медленного, тонкого, мягкого, жидкого, — как правило, [является] умащающим; противоположное — иссушающим.",
+        "text_en": "A medicine [possessing the qualities] of heavy, cold, flowing, unctuous, slow, subtle, soft, liquid, as a rule, [is] oleating; the opposite is drying."
       },
       {
         "type": "verse",
@@ -14277,7 +14502,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्पिर्मज्जा वसा तैलं स्नेहेषु प्रवरं मतम् तत्रापि चोत्तमं सर्पिः संस्कारस्यानुवर्तनात्",
         "iast": "sarpirmajjā vasā tailaṃ sneheṣu pravaraṃ matam tatrāpi cottamaṃ sarpiḥ saṃskārasyānuvartanāt",
         "iast_ru": "сарпирмаджджа̄ васа̄ таилам̣ снехеш̣у праварам̣ матам татра̄пи чоттамам̣ сарпих̣ сам̣ска̄расйа̄нувартана̄т",
-        "text": "Гхи, костный мозг, [животный] жир, масло — считаются лучшими среди умащающих [веществ]; из них же наилучшим [признано] гхи — из-за [его способности] сохранять [приданные ему свойства] обработки."
+        "text": "Гхи, костный мозг, [животный] жир, масло — считаются лучшими среди умащающих [веществ]; из них же наилучшим [признано] гхи — из-за [его способности] сохранять [приданные ему свойства] обработки.",
+        "text_en": "Ghee, marrow, [animal] fat and oil are considered the best among oleating [substances]; of these, ghee [is recognized] as the best, owing to [its ability] to retain [the properties imparted to it] by processing."
       },
       {
         "type": "verse",
@@ -14285,7 +14511,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "माधुर्यादविदाहित्वाज्जन्माद्येव च शीलनात् पित्तघ्नास्ते यथापूर्वमितरघ्ना यथोत्तरम्",
         "iast": "mādhuryādavidāhitvājjanmādyeva ca śīlanāt pittaghnāste yathāpūrvamitaraghnā yathottaram",
         "iast_ru": "ма̄дхурйа̄давида̄хитва̄джджанма̄дйева ча ш́ӣлана̄т питтагхна̄сте йатха̄пӯрвамитарагхна̄ йатхоттарам",
-        "text": "Из-за сладости, отсутствия жгучести, [своего] происхождения и подобного, а также по [обычному] употреблению — они [все] устраняют питту, в порядке, [перечисленном] ранее; иные же доши устраняют в обратном порядке."
+        "text": "Из-за сладости, отсутствия жгучести, [своего] происхождения и подобного, а также по [обычному] употреблению — они [все] устраняют питту, в порядке, [перечисленном] ранее; иные же доши устраняют в обратном порядке.",
+        "text_en": "Owing to sweetness, absence of pungency, [their] origin and the like, and also by [customary] usage, they [all] remove Pitta, in the order [listed] earlier; the other doshas they remove in the reverse order."
       },
       {
         "type": "verse",
@@ -14293,7 +14520,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घृतात्तैलं गुरु वसा तैलान्मज्जा ततो ऽपि च द्वाध्यां त्रिभिश्चतुर्भिस्तैर्यमकस्त्रिवृतो महान्",
         "iast": "ghṛtāttailaṃ guru vasā tailānmajjā tato 'pi ca dvādhyāṃ tribhiścaturbhistairyamakastrivṛto mahān",
         "iast_ru": "гхр̣та̄ттаилам̣ гуру васа̄ таила̄нмаджджа̄ тато 'пи ча два̄дхйа̄м̣ трибхиш́чатурбхистаирйамакастривр̣то маха̄н",
-        "text": "Масло тяжелее гхи, жир [тяжелее] масла, костный мозг — ещё [тяжелее его]; сочетание двух, трёх [или] четырёх из них называется «ямака», «трипут» (тройное), [или] «маха» (великое, при сочетании всех четырёх)."
+        "text": "Масло тяжелее гхи, жир [тяжелее] масла, костный мозг — ещё [тяжелее его]; сочетание двух, трёх [или] четырёх из них называется «ямака», «трипут» (тройное), [или] «маха» (великое, при сочетании всех четырёх).",
+        "text_en": "Oil is heavier than ghee, fat [is heavier] than oil, marrow [is heavier] still [than it]; a combination of two, three [or] four of them is called 'yamaka', 'triputa' (triple), [or] 'maha' (great, in the combination of all four)."
       },
       {
         "type": "verse",
@@ -14301,7 +14529,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहाशया दधिक्षीरं मांसास्थिफलदारु च स्वेद्यसंशोध्यमद्यस्त्रीव्यायामासक्तचिन्तकाः वृद्धबालावलकृशा रूक्षाः क्षीणास्ररेतसः",
         "iast": "snehāśayā dadhikṣīraṃ māṃsāsthiphaladāru ca svedyasaṃśodhyamadyastrīvyāyāmāsaktacintakāḥ vṛddhabālāvalakṛśā rūkṣāḥ kṣīṇāsraretasaḥ",
         "iast_ru": "снеха̄ш́айа̄ дадхикш̣ӣрам̣ ма̄м̣са̄стхипхалада̄ру ча сведйасам̣ш́одхйамадйастрӣвйа̄йа̄ма̄сактачинтака̄х̣ вр̣ддхаба̄ла̄валакр̣ш́а̄ рӯкш̣а̄х̣ кш̣ӣн̣а̄сраретасах̣",
-        "text": "Йогурт, молоко, мясо, кости, плоды и древесина также могут служить основой для умащения. Умащение подходит для: пациентов, готовящихся к прогреванию или очищению; предающихся вину, женщинам, физическим упражнениям; погружённых в тревожные размышления; стариков, детей, слабых, истощённых; сухих конституцией; истощённых кровью или семенем;"
+        "text": "Йогурт, молоко, мясо, кости, плоды и древесина также могут служить основой для умащения. Умащение подходит для: пациентов, готовящихся к прогреванию или очищению; предающихся вину, женщинам, физическим упражнениям; погружённых в тревожные размышления; стариков, детей, слабых, истощённых; сухих конституцией; истощённых кровью или семенем;",
+        "text_en": "Yogurt, milk, meat, bones, fruits and wood can also serve as a basis for oleation. Oleation is suitable for: patients preparing for fomentation or purification; those given to wine, women, physical exercise; those immersed in anxious reflection; the aged, children, the weak, the emaciated; those dry by constitution; those depleted of blood or semen;"
       },
       {
         "type": "verse",
@@ -14309,7 +14538,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातार्तस्यन्दतिमिरदारुणप्रतिबोधिनः स्नेह्याः न त्वतिमन्दाग्नितीक्ष्णाग्निस्थूलदुर्बलाः ऊरुस्तम्भातिसारामगलरोगगरोदरैः",
         "iast": "vātārtasyandatimiradāruṇapratibodhinaḥ snehyāḥ na tvatimandāgnitīkṣṇāgnisthūladurbalāḥ ūrustambhātisārāmagalarogagarodaraiḥ",
         "iast_ru": "ва̄та̄ртасйандатимирада̄рун̣апратибодхинах̣ снехйа̄х̣ на тватиманда̄гнитӣкш̣н̣а̄гнистхӯладурбала̄х̣ ӯрустамбха̄тиса̄ра̄магаларогагародараих̣",
-        "text": "страдающих от ветра; страдающих сьяндой (истечением), тимирой (потемнением в глазах), даруной (растрескиванием кожи); страдающих бессонницей — этим подходит умащение. Не подходит же оно людям с крайне слабым огнём пищеварения, с чрезмерно острым огнём, полным, слабым; страдающим скованностью бёдер, поносом, недоваренностью, болезнями горла, отравлением, болезнью живота;"
+        "text": "страдающих от ветра; страдающих сьяндой (истечением), тимирой (потемнением в глазах), даруной (растрескиванием кожи); страдающих бессонницей — этим подходит умащение. Не подходит же оно людям с крайне слабым огнём пищеварения, с чрезмерно острым огнём, полным, слабым; страдающим скованностью бёдер, поносом, недоваренностью, болезнями горла, отравлением, болезнью живота;",
+        "text_en": "those suffering from Vata; those suffering from syanda (discharge), timira (darkening in the eyes), daruna (cracking of the skin); those suffering from sleeplessness; for these oleation is suitable. It is not suitable, however, for people with extremely weak digestive fire, with excessively sharp fire, the obese, the weak; those suffering from stiffness of the thighs, diarrhea, uncooked state, diseases of the throat, poisoning, disease of the abdomen;"
       },
       {
         "type": "verse",
@@ -14317,7 +14547,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मूर्छार्छद्यरुचिश्लेष्मतृष्णामद्यैश्च पीडिताः अपप्रसूता युक्ते च नस्ये बस्तौ विरेचने",
         "iast": "mūrchārchadyaruciśleṣmatṛṣṇāmadyaiśca pīḍitāḥ apaprasūtā yukte ca nasye bastau virecane",
         "iast_ru": "мӯрчха̄рчхадйаручиш́леш̣матр̣ш̣н̣а̄мадйаиш́ча пӣд̣ита̄х̣ апапрасӯта̄ йукте ча насйе бастау виречане",
-        "text": "страдающих обмороком, рвотой, отсутствием аппетита, избытком капхи, жаждой, опьянением; недавно неудачно родившим — умащение также не подходит. Оно же уместно при назальной терапии, клизме и слабительном,"
+        "text": "страдающих обмороком, рвотой, отсутствием аппетита, избытком капхи, жаждой, опьянением; недавно неудачно родившим — умащение также не подходит. Оно же уместно при назальной терапии, клизме и слабительном,",
+        "text_en": "those suffering from fainting, vomiting, loss of appetite, excess of Kapha, thirst, intoxication; one who has recently had an unsuccessful childbirth; oleation is also not suitable. It is appropriate, however, in nasal therapy, enema and purgation,"
       },
       {
         "type": "verse",
@@ -14325,7 +14556,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र धीस्मृतिमेधाग्निकाङ्क्षिणां शस्यते घृतम् ग्रन्थिनाडीकृमिश्लेष्ममेदोमारुतरोगिषु",
         "iast": "tatra dhīsmṛtimedhāgnikāṅkṣiṇāṃ śasyate ghṛtam granthināḍīkṛmiśleṣmamedomārutarogiṣu",
         "iast_ru": "татра дхӣсмр̣тимедха̄гника̄н̇кш̣ин̣а̄м̣ ш́асйате гхр̣там грантхина̄д̣ӣкр̣миш́леш̣мамедома̄рутарогиш̣у",
-        "text": "В этом случае гхи рекомендуется для желающих обрести разум, память, интеллект, хороший огонь; также для страдающих узлами, свищами, глистами, избытком капхи, жира, и болезнями от ветра."
+        "text": "В этом случае гхи рекомендуется для желающих обрести разум, память, интеллект, хороший огонь; также для страдающих узлами, свищами, глистами, избытком капхи, жира, и болезнями от ветра.",
+        "text_en": "In this case ghee is recommended for those who desire to obtain intellect, memory, understanding, good fire; also for those suffering from nodules, fistulas, worms, excess of Kapha, fat, and diseases due to Vata."
       },
       {
         "type": "verse",
@@ -14333,7 +14565,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तैलं लाघवदार्ढ्यार्थिक्रूरकोष्ठेषु देहिषु वातातपाध्वभारस्त्रीव्यायामक्षीणधातुषु",
         "iast": "tailaṃ lāghavadārḍhyārthikrūrakoṣṭheṣu dehiṣu vātātapādhvabhārastrīvyāyāmakṣīṇadhātuṣu",
         "iast_ru": "таилам̣ ла̄гхавада̄рд̣хйа̄ртхикрӯракош̣т̣хеш̣у дехиш̣у ва̄та̄тапа̄дхвабха̄растрӣвйа̄йа̄макш̣ӣн̣адха̄туш̣у",
-        "text": "Масло рекомендуется для тех, кто желает лёгкости и крепости тела; для людей с грубым желудочно-кишечным трактом; для истощённых тканями от ветра, солнца, ходьбы, ношения тяжести, излишеств с женщинами, физического упражнения;"
+        "text": "Масло рекомендуется для тех, кто желает лёгкости и крепости тела; для людей с грубым желудочно-кишечным трактом; для истощённых тканями от ветра, солнца, ходьбы, ношения тяжести, излишеств с женщинами, физического упражнения;",
+        "text_en": "Oil is recommended for those who desire lightness and firmness of the body; for people with a rough gastrointestinal tract; for those depleted in the tissues by wind, sun, walking, carrying loads, excesses with women, physical exercise;"
       },
       {
         "type": "verse",
@@ -14341,7 +14574,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रूक्षक्लेशक्षमात्यग्निवातावृतपथेषु च शेषौ वसा तु सन्ध्यस्थिमर्मकोष्ठरुजासु च",
         "iast": "rūkṣakleśakṣamātyagnivātāvṛtapatheṣu ca śeṣau vasā tu sandhyasthimarmakoṣṭharujāsu ca",
         "iast_ru": "рӯкш̣аклеш́акш̣ама̄тйагнива̄та̄вр̣тапатхеш̣у ча ш́еш̣ау васа̄ ту сандхйастхимармакош̣т̣харуджа̄су ча",
-        "text": "а также для сухих конституцией, выносливых к тяготам, страдающих чрезмерным огнём, закупоркой путей ветра. Оставшиеся два вида умащающих средств применяются в остальных случаях; жир же — при болях в суставах, костях, жизненно важных точках, желудочно-кишечном тракте,"
+        "text": "а также для сухих конституцией, выносливых к тяготам, страдающих чрезмерным огнём, закупоркой путей ветра. Оставшиеся два вида умащающих средств применяются в остальных случаях; жир же — при болях в суставах, костях, жизненно важных точках, желудочно-кишечном тракте,",
+        "text_en": "and also for those dry by constitution, enduring of hardships, suffering from excessive fire, from obstruction of the paths of Vata. The remaining two kinds of oleating substances are used in the other cases; fat, however, in pains of the joints, bones, vital points (marmas), gastrointestinal tract,"
       },
       {
         "type": "verse",
@@ -14349,7 +14583,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथादग्धाहतभ्रष्टयोनिकर्णाशिरोरुजि तैलं प्रावृषि वर्षान्ते सर्पिरन्यौ तु माधवे सर्वं सर्वस्य च स्नेहं युञ्ज्यात् भास्वति निर्मले",
         "iast": "tathādagdhāhatabhraṣṭayonikarṇāśiroruji tailaṃ prāvṛṣi varṣānte sarpiranyau tu mādhave sarvaṃ sarvasya ca snehaṃ yuñjyāt bhāsvati nirmale",
         "iast_ru": "татха̄дагдха̄хатабхраш̣т̣айоникарн̣а̄ш́ироруджи таилам̣ пра̄вр̣ш̣и варш̣а̄нте сарпиранйау ту ма̄дхаве сарвам̣ сарвасйа ча снехам̣ йун̃джйа̄т бха̄свати нирмале",
-        "text": "а также при ожогах, травмах, выпадении органов, болях во влагалище, ушах, голове. Масло применяется в правршу, гхи — в конце сезона дождей, оставшиеся два — в мадхаву (весной); всякое умащение для всякого человека можно применять в ясную, безоблачную погоду."
+        "text": "а также при ожогах, травмах, выпадении органов, болях во влагалище, ушах, голове. Масло применяется в правршу, гхи — в конце сезона дождей, оставшиеся два — в мадхаву (весной); всякое умащение для всякого человека можно применять в ясную, безоблачную погоду.",
+        "text_en": "and also in burns, injuries, prolapse of organs, pains in the vagina, ears, head. Oil is used in pravrit, ghee at the end of the rainy season, the remaining two in madhava (spring); any oleation for any person may be applied in clear, cloudless weather."
       },
       {
         "type": "verse",
@@ -14357,7 +14592,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऋतौ साधारणे दोषसाम्ये ऽनिलकफे कफे दिवा निश्यनिले पित्ते संसर्गे पित्तवत्यपि",
         "iast": "ṛtau sādhāraṇe doṣasāmye 'nilakaphe kaphe divā niśyanile pitte saṃsarge pittavatyapi",
         "iast_ru": "р̣тау са̄дха̄ран̣е дош̣аса̄мйе 'нилакапхе капхе дива̄ ниш́йаниле питте сам̣сарге питтаватйапи",
-        "text": "В умеренный сезон, при равновесии дош; при избытке ветра-капхи умащение применяется в капха-время дня; днём — при избытке ветра отдельно; ночью — при избытке питты; при смешанном расстройстве — также как при избытке питты."
+        "text": "В умеренный сезон, при равновесии дош; при избытке ветра-капхи умащение применяется в капха-время дня; днём — при избытке ветра отдельно; ночью — при избытке питты; при смешанном расстройстве — также как при избытке питты.",
+        "text_en": "In a moderate season, when the doshas are in balance; in excess of Vata-Kapha, oleation is applied in the Kapha-time of the day; in the daytime in excess of Vata alone; at night in excess of Pitta; in mixed disorder, also as in excess of Pitta."
       },
       {
         "type": "verse",
@@ -14365,7 +14601,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्वरमाणे तु शीते ऽपि दिवा तैलं च योजयेत् उष्णे ऽपि रात्रौ सर्पिश्च दोषादीन्वीक्ष्य चान्यथा",
         "iast": "tvaramāṇe tu śīte 'pi divā tailaṃ ca yojayet uṣṇe 'pi rātrau sarpiśca doṣādīnvīkṣya cānyathā",
         "iast_ru": "тварама̄н̣е ту ш́ӣте 'пи дива̄ таилам̣ ча йоджайет уш̣н̣е 'пи ра̄трау сарпиш́ча дош̣а̄дӣнвӣкш̣йа ча̄нйатха̄",
-        "text": "При спешке же, даже в холодную погоду, следует применять масло днём; даже в тёплую погоду — гхи ночью; в остальных случаях — учитывая доши и подобное."
+        "text": "При спешке же, даже в холодную погоду, следует применять масло днём; даже в тёплую погоду — гхи ночью; в остальных случаях — учитывая доши и подобное.",
+        "text_en": "In an emergency, however, even in cold weather, one should apply oil in the daytime; even in warm weather, ghee at night; in other cases, taking into account the doshas and the like."
       },
       {
         "type": "verse",
@@ -14373,7 +14610,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निश्यश्नुते वातकफाद्रोगानहनि पित्ततः युक्यावचारयेत् स्नेहं भक्ष्याद्यन्नेन बस्तिभिः नस्याभ्यञ्जनगण्डूषमूर्धकर्णाक्षितर्पणैः",
         "iast": "niśyaśnute vātakaphādrogānahani pittataḥ yukyāvacārayet snehaṃ bhakṣyādyannena bastibhiḥ nasyābhyañjanagaṇḍūṣamūrdhakarṇākṣitarpaṇaiḥ",
         "iast_ru": "ниш́йаш́нуте ва̄такапха̄дрога̄нахани питтатах̣ йукйа̄вача̄райет снехам̣ бхакш̣йа̄дйаннена бастибхих̣ насйа̄бхйан̃джанаган̣д̣ӯш̣амӯрдхакарн̣а̄кш̣итарпан̣аих̣",
-        "text": "Ночью настигают болезни от ветра-капхи, днём — от питты. Следует разумно применять умащение через съедобную пищу, через клизмы; через назальную терапию, умащение тела, полоскание рта; через насыщающие процедуры для головы, ушей, глаз."
+        "text": "Ночью настигают болезни от ветра-капхи, днём — от питты. Следует разумно применять умащение через съедобную пищу, через клизмы; через назальную терапию, умащение тела, полоскание рта; через насыщающие процедуры для головы, ушей, глаз.",
+        "text_en": "At night diseases from Vata-Kapha overtake [one], in the daytime those from Pitta. One should wisely apply oleation through edible food, through enemas; through nasal therapy, anointing of the body, gargling of the mouth; through satiating procedures for the head, ears, eyes."
       },
       {
         "type": "verse",
@@ -14381,7 +14619,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रसभेदैककत्वाभ्यां चतुष्षष्टिर्विचारणाः स्नेहस्यान्याभिभूतत्वादल्पत्वाच्च क्रमात्स्मृताः",
         "iast": "rasabhedaikakatvābhyāṃ catuṣṣaṣṭirvicāraṇāḥ snehasyānyābhibhūtatvādalpatvācca kramātsmṛtāḥ",
         "iast_ru": "расабхедаикакатва̄бхйа̄м̣ чатуш̣ш̣аш̣т̣ирвича̄ран̣а̄х̣ снехасйа̄нйа̄бхибхӯтатва̄далпатва̄чча крама̄тсмр̣та̄х̣",
-        "text": "Из-за различия и единства вкусов насчитывается шестьдесят четыре разновидности применения умащения; в силу подавленности другим фактором или недостаточности его, — они признаны по порядку важности."
+        "text": "Из-за различия и единства вкусов насчитывается шестьдесят четыре разновидности применения умащения; в силу подавленности другим фактором или недостаточности его, — они признаны по порядку важности.",
+        "text_en": "Owing to the difference and unity of tastes, sixty-four varieties of the application of oleation are counted; by virtue of being overpowered by another factor or of its insufficiency, they are recognized in order of importance."
       },
       {
         "type": "verse",
@@ -14389,7 +14628,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथोक्तहेत्वभावाच्च नाच्छपेयो विचारणा स्नेहस्य कल्पः स श्रेष्ठः स्नेहकर्माशुसाधनात्",
         "iast": "yathoktahetvabhāvācca nācchapeyo vicāraṇā snehasya kalpaḥ sa śreṣṭhaḥ snehakarmāśusādhanāt",
         "iast_ru": "йатхоктахетвабха̄ва̄чча на̄ччхапейо вича̄ран̣а̄ снехасйа калпах̣ са ш́реш̣т̣хах̣ снехакарма̄ш́уса̄дхана̄т",
-        "text": "А при отсутствии вышеупомянутых причин, не нужна особая разборчивость насчёт того, пить ли чистое умащающее средство. Тот способ приготовления умащения наилучший, который обеспечивает быстрое достижение цели умащения."
+        "text": "А при отсутствии вышеупомянутых причин, не нужна особая разборчивость насчёт того, пить ли чистое умащающее средство. Тот способ приготовления умащения наилучший, который обеспечивает быстрое достижение цели умащения.",
+        "text_en": "In the absence of the above-mentioned reasons, no special discrimination is needed as to whether to drink the pure oleating substance. That method of preparing oleation is best which ensures the quick attainment of the aim of oleation."
       },
       {
         "type": "verse",
@@ -14397,7 +14637,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वाभ्यां चतुर्भिरष्टाभिर्यामैर्जीर्यन्ति याः क्रमात् ह्रस्वमध्योत्तमा मात्रास्तास्ताभ्यश्च ह्रासीयसीम्",
         "iast": "dvābhyāṃ caturbhiraṣṭābhiryāmairjīryanti yāḥ kramāt hrasvamadhyottamā mātrāstāstābhyaśca hrāsīyasīm",
         "iast_ru": "два̄бхйа̄м̣ чатурбхираш̣т̣а̄бхирйа̄маирджӣрйанти йа̄х̣ крама̄т храсвамадхйоттама̄ ма̄тра̄ста̄ста̄бхйаш́ча хра̄сӣйасӣм",
-        "text": "Те дозы, что перевариваются за два, четыре или восемь страж, называются соответственно малой, средней и высшей дозой по порядку; а есть ещё меньшая, чем эти,"
+        "text": "Те дозы, что перевариваются за два, четыре или восемь страж, называются соответственно малой, средней и высшей дозой по порядку; а есть ещё меньшая, чем эти,",
+        "text_en": "Those doses that are digested in two, four or eight prahara (watches) are called respectively the small, medium and highest dose in order; and there is also one smaller than these,"
       },
       {
         "type": "verse",
@@ -14405,7 +14646,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कल्पयेद्वीक्ष्य दोषादीन् प्रागेव तु ह्रसीयसीम् अज्ञातकोष्ठे हि बहुः कुर्याज्जीवितसंशयम्",
         "iast": "kalpayedvīkṣya doṣādīn prāgeva tu hrasīyasīm ajñātakoṣṭhe hi bahuḥ kuryājjīvitasaṃśayam",
         "iast_ru": "калпайедвӣкш̣йа дош̣а̄дӣн пра̄гева ту храсӣйасӣм аджн̃а̄такош̣т̣хе хи бахух̣ курйа̄джджӣвитасам̣ш́айам",
-        "text": "её следует назначать, учитывая доши и подобное; но при неизвестном состоянии желудочно-кишечного тракта следует давать прежде всего наименьшую дозу; ибо большая доза может создать угрозу для жизни."
+        "text": "её следует назначать, учитывая доши и подобное; но при неизвестном состоянии желудочно-кишечного тракта следует давать прежде всего наименьшую дозу; ибо большая доза может создать угрозу для жизни.",
+        "text_en": "it should be prescribed taking into account the doshas and the like; but when the condition of the gastrointestinal tract is unknown, one should give first of all the smallest dose; for a large dose may create a threat to life."
       },
       {
         "type": "verse",
@@ -14413,7 +14655,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र दुर्बलमन्दाग्निबालवृद्धसुखात्मकैः अपथ्यरिक्तकोष्ठत्वज्वरातीसारकासिभिः",
         "iast": "tatra durbalamandāgnibālavṛddhasukhātmakaiḥ apathyariktakoṣṭhatvajvarātīsārakāsibhiḥ",
         "iast_ru": "татра дурбаламанда̄гниба̄лавр̣ддхасукха̄тмакаих̣ апатхйариктакош̣т̣хатваджвара̄тӣса̄рака̄сибхих̣",
-        "text": "В этом случае, для слабых, с медленным огнём, детей, стариков, людей изнеженного нрава; для непереносящих неблагоприятную пищу, с пустым желудочно-кишечным трактом; для страдающих лихорадкой, поносом, кашлем —"
+        "text": "В этом случае, для слабых, с медленным огнём, детей, стариков, людей изнеженного нрава; для непереносящих неблагоприятную пищу, с пустым желудочно-кишечным трактом; для страдающих лихорадкой, поносом, кашлем —",
+        "text_en": "In this case, for the weak, those with slow fire, children, the aged, people of delicate temperament; for those who do not tolerate unfavorable food, with an empty gastrointestinal tract; for those suffering from fever, diarrhea, cough,"
       },
       {
         "type": "verse",
@@ -14421,7 +14664,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ह्रस्वा पेया सुखा सा हि परिहारे ऽनुवर्तते चिराच्च बल्या न रुजे व्यापन्नापि प्रकल्पते",
         "iast": "hrasvā peyā sukhā sā hi parihāre 'nuvartate cirācca balyā na ruje vyāpannāpi prakalpate",
         "iast_ru": "храсва̄ пейа̄ сукха̄ са̄ хи париха̄ре 'нувартате чира̄чча балйа̄ на рудже вйа̄панна̄пи пракалпате",
-        "text": "малая доза должна быть выпита; она удобна тем, что она подходит для лёгкого соблюдения режима после; хотя она действует медленно, и придаёт силу; она не вызовет вреда, даже если что-то в лечении пойдёт не так."
+        "text": "малая доза должна быть выпита; она удобна тем, что она подходит для лёгкого соблюдения режима после; хотя она действует медленно, и придаёт силу; она не вызовет вреда, даже если что-то в лечении пойдёт не так.",
+        "text_en": "the small dose should be drunk; it is convenient in that it is suitable for easy observance of the regimen afterwards; although it acts slowly, it imparts strength; it will not cause harm even if something goes wrong in the treatment."
       },
       {
         "type": "verse",
@@ -14429,7 +14673,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मेहोरुःपिटकाकुष्ठवातशोणितपीडितैः मध्यमा मृदुकोष्ठैश्च स्नेहनी स्यात्सुखेन सा",
         "iast": "mehoruḥpiṭakākuṣṭhavātaśoṇitapīḍitaiḥ madhyamā mṛdukoṣṭhaiśca snehanī syātsukhena sā",
         "iast_ru": "мехорух̣пит̣ака̄куш̣т̣хава̄таш́он̣итапӣд̣итаих̣ мадхйама̄ мр̣дукош̣т̣хаиш́ча снеханӣ сйа̄тсукхена са̄",
-        "text": "Средняя доза умащения подходит для страдающих прамехой, скованностью бёдер, прыщами, кожными болезнями, ватха-шонитой (подагрой); а также для тех, у кого мягкий желудочно-кишечный тракт; она умащает легко и комфортно."
+        "text": "Средняя доза умащения подходит для страдающих прамехой, скованностью бёдер, прыщами, кожными болезнями, ватха-шонитой (подагрой); а также для тех, у кого мягкий желудочно-кишечный тракт; она умащает легко и комфортно.",
+        "text_en": "The medium dose of oleation is suitable for those suffering from prameha, stiffness of the thighs, pimples, skin diseases, vatarakta (gout); and also for those with a soft gastrointestinal tract; it oleates easily and comfortably."
       },
       {
         "type": "verse",
@@ -14437,7 +14682,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "न बलक्षपणी मन्दविभ्रंशा शुद्धये ऽप्यलम् महादोहानलबलक्षुत्तृट्क्लेशसहिष्णुभिः गुल्मोदावर्तवीसर्पदंशाभिपीडितैः",
         "iast": "na balakṣapaṇī mandavibhraṃśā śuddhaye 'pyalam mahādohānalabalakṣuttṛṭkleśasahiṣṇubhiḥ gulmodāvartavīsarpadaṃśābhipīḍitaiḥ",
         "iast_ru": "на балакш̣апан̣ӣ мандавибхрам̣ш́а̄ ш́уддхайе 'пйалам маха̄доха̄налабалакш̣уттр̣т̣клеш́асахиш̣н̣убхих̣ гулмода̄вартавӣсарпадам̣ш́а̄бхипӣд̣итаих̣",
-        "text": "Она не истощает силу, её эффект выводится медленно, и она также достаточна для подготовки к очищению. Высшая же доза применяется для тех, кто способен выдержать сильное вытягивание дош, обладает крепким огнём, силой, способен выносить голод, жажду, тяготы; для страдающих гульмой, удавартой, рожистым воспалением, укусами ядовитых существ;"
+        "text": "Она не истощает силу, её эффект выводится медленно, и она также достаточна для подготовки к очищению. Высшая же доза применяется для тех, кто способен выдержать сильное вытягивание дош, обладает крепким огнём, силой, способен выносить голод, жажду, тяготы; для страдающих гульмой, удавартой, рожистым воспалением, укусами ядовитых существ;",
+        "text_en": "It does not deplete strength, its effect is eliminated slowly, and it is also sufficient for preparation for purification. The highest dose, however, is used for those who can endure a strong drawing out of the doshas, who have strong fire and strength, and are able to bear hunger, thirst, hardships; for those suffering from gulma, udavarta, erysipelas, bites of venomous creatures;"
       },
       {
         "type": "verse",
@@ -14445,7 +14691,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उन्मत्तैः कृच्छ्रमूत्रैश्च महती शीघ्रमेव सा सर्वमार्गानुसारेण जयेद् व्याधीन् सुयोजिता",
         "iast": "unmattaiḥ kṛcchramūtraiśca mahatī śīghrameva sā sarvamārgānusāreṇa jayed vyādhīn suyojitā",
         "iast_ru": "унматтаих̣ кр̣ччхрамӯтраиш́ча махатӣ ш́ӣгхрамева са̄ сарвама̄рга̄нуса̄рен̣а джайед вйа̄дхӣн суйоджита̄",
-        "text": "для безумных, страдающих затруднённым мочеиспусканием; высшая доза действует очень быстро; правильно применённая, соответственно всем путям циркуляции, она побеждает болезни."
+        "text": "для безумных, страдающих затруднённым мочеиспусканием; высшая доза действует очень быстро; правильно применённая, соответственно всем путям циркуляции, она побеждает болезни.",
+        "text_en": "for the insane, those suffering from difficult urination; the highest dose acts very quickly; properly applied, in accordance with all the paths of circulation, it overcomes diseases."
       },
       {
         "type": "verse",
@@ -14453,7 +14700,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ह्यस्तेन जीर्ण एवान्ने स्नेहोच्छः शुद्धये बहुः शमनः क्षुद्वयो ऽनन्नो मध्यमात्रश्च शस्यते",
         "iast": "hyastena jīrṇa evānne snehocchaḥ śuddhaye bahuḥ śamanaḥ kṣudvayo 'nanno madhyamātraśca śasyate",
         "iast_ru": "хйастена джӣрн̣а ева̄нне снехоччхах̣ ш́уддхайе бахух̣ ш́аманах̣ кш̣удвайо 'нанно мадхйама̄траш́ча ш́асйате",
-        "text": "Только когда вчерашняя пища полностью переварена, следует принимать чистое умащение в большой дозе для подготовки к очищению; для успокоения же дош применяется средняя доза, принимаемая на голодный желудок, без приёма другой пищи, рекомендуется —"
+        "text": "Только когда вчерашняя пища полностью переварена, следует принимать чистое умащение в большой дозе для подготовки к очищению; для успокоения же дош применяется средняя доза, принимаемая на голодный желудок, без приёма другой пищи, рекомендуется —",
+        "text_en": "Only when yesterday's food has been completely digested should one take pure oleation in a large dose for preparation for purification; for the pacification of the doshas, the medium dose is used, taken on an empty stomach, without taking other food, is recommended;"
       },
       {
         "type": "verse",
@@ -14461,7 +14709,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृंहणो रसमद्याद्यैः सभक्तो ऽल्पो हितः स च बालवृद्धपिपासाअर्तस्नेहद्विण्मद्यशीलिषु",
         "iast": "bṛṃhaṇo rasamadyādyaiḥ sabhakto 'lpo hitaḥ sa ca bālavṛddhapipāsāartasnehadviṇmadyaśīliṣu",
         "iast_ru": "бр̣м̣хан̣о расамадйа̄дйаих̣ сабхакто 'лпо хитах̣ са ча ба̄лавр̣ддхапипа̄са̄артаснехадвин̣мадйаш́ӣлиш̣у",
-        "text": "а для укрепления полезна малая доза, принимаемая вместе с пищей, с мясным соком, вином и подобным; и это полезно для детей, стариков, страдающих жаждой; для привыкших к умащению, к обильному стулу, к вину;"
+        "text": "а для укрепления полезна малая доза, принимаемая вместе с пищей, с мясным соком, вином и подобным; и это полезно для детей, стариков, страдающих жаждой; для привыкших к умащению, к обильному стулу, к вину;",
+        "text_en": "and for strengthening, a small dose is beneficial, taken together with food, with meat juice, wine and the like; and this is beneficial for children, the aged, those suffering from thirst; for those accustomed to oleation, to copious stools, to wine;"
       },
       {
         "type": "verse",
@@ -14469,7 +14718,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्त्रीस्नेहनित्यमन्दाग्निसुखितक्लेशभीरुषु मृदुकोष्ठाल्पदोषेषु काले चोष्णे कृशेषु च",
         "iast": "strīsnehanityamandāgnisukhitakleśabhīruṣu mṛdukoṣṭhālpadoṣeṣu kāle coṣṇe kṛśeṣu ca",
         "iast_ru": "стрӣснеханитйаманда̄гнисукхитаклеш́абхӣруш̣у мр̣дукош̣т̣ха̄лпадош̣еш̣у ка̄ле чош̣н̣е кр̣ш́еш̣у ча",
-        "text": "для привыкших к женщинам, к постоянному умащению; для людей с медленным огнём, изнеженных, боящихся тягот; для тех, у кого мягкий желудочно-кишечный тракт и малое количество дош; в тёплое время года; а также для истощённых."
+        "text": "для привыкших к женщинам, к постоянному умащению; для людей с медленным огнём, изнеженных, боящихся тягот; для тех, у кого мягкий желудочно-кишечный тракт и малое количество дош; в тёплое время года; а также для истощённых.",
+        "text_en": "for those accustomed to women, to constant oleation; for people with slow fire, the delicate, those afraid of hardships; for those with a soft gastrointestinal tract and a small quantity of doshas; in the warm season; and also for the emaciated."
       },
       {
         "type": "verse",
@@ -14477,7 +14727,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहः प्राग्भोजनात् कुर्यादूरुजङ्घाकटीबलम् वेगानुलोम्यमारोग्यमधःकायगदक्षयम्",
         "iast": "snehaḥ prāgbhojanāt kuryādūrujaṅghākaṭībalam vegānulomyamārogyamadhaḥkāyagadakṣayam",
         "iast_ru": "снехах̣ пра̄гбходжана̄т курйа̄дӯруджан̇гха̄кат̣ӣбалам вега̄нуломйама̄рогйамадхах̣ка̄йагадакш̣айам",
-        "text": "Умащение, принятое перед едой, придаёт силу бёдрам, голеням, пояснице; способствует правильному направлению естественных позывов, общему здоровью, устранению болезней нижней части тела."
+        "text": "Умащение, принятое перед едой, придаёт силу бёдрам, голеням, пояснице; способствует правильному направлению естественных позывов, общему здоровью, устранению болезней нижней части тела.",
+        "text_en": "Oleation taken before food imparts strength to the thighs, calves, lumbar region; promotes the right direction of the natural urges, general health, removal of diseases of the lower part of the body."
       },
       {
         "type": "verse",
@@ -14485,7 +14736,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मध्ये बृहत्त्वाग्निबलस्थिरताकुक्षिरुक्शमान् इन्द्रियस्थिरतामूर्ध्वमूर्ध्वजत्रुगदक्षयम्",
         "iast": "madhye bṛhattvāgnibalasthiratākukṣirukśamān indriyasthiratāmūrdhvamūrdhvajatrugadakṣayam",
         "iast_ru": "мадхйе бр̣хаттва̄гнибаластхирата̄кукш̣ирукш́ама̄н индрийастхирата̄мӯрдхвамӯрдхваджатругадакш̣айам",
-        "text": "Принятое в середине еды, оно даёт полноту, силу огня, устойчивость, устранение боли в животе; устойчивость органов чувств, устранение болезней верхней части тела, выше ключиц."
+        "text": "Принятое в середине еды, оно даёт полноту, силу огня, устойчивость, устранение боли в животе; устойчивость органов чувств, устранение болезней верхней части тела, выше ключиц.",
+        "text_en": "Taken in the middle of the meal, it gives plumpness, strength of fire, stability, removal of abdominal pain; stability of the sense organs, removal of diseases of the upper part of the body, above the collarbones."
       },
       {
         "type": "verse",
@@ -14493,7 +14745,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वाते सलवणं सर्पिः पित्ते केवलमिष्यते वैद्यो दद्यात् बहुकफे क्षारत्रिकटुकान्वितम्",
         "iast": "vāte salavaṇaṃ sarpiḥ pitte kevalamiṣyate vaidyo dadyāt bahukaphe kṣāratrikaṭukānvitam",
         "iast_ru": "ва̄те салаван̣ам̣ сарпих̣ питте кеваламиш̣йате ваидйо дадйа̄т бахукапхе кш̣а̄ратрикат̣ука̄нвитам",
-        "text": "При расстройстве ветра рекомендуется гхи с солью; при расстройстве питты — чистое гхи; врач должен давать, при обильной капхе, гхи в сочетании со щёлочью и трикатой (три жгучих специи)."
+        "text": "При расстройстве ветра рекомендуется гхи с солью; при расстройстве питты — чистое гхи; врач должен давать, при обильной капхе, гхи в сочетании со щёлочью и трикатой (три жгучих специи).",
+        "text_en": "In disorder of Vata, ghee with salt is recommended; in disorder of Pitta, pure ghee; the physician should give, in abundant Kapha, ghee in combination with alkali and trikatu (the three pungent spices)."
       },
       {
         "type": "verse",
@@ -14501,7 +14754,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वार्युष्णमच्छे ऽनुपिबेत्स्नेहे तत्सुखपक्तये आस्योपलेपशुद्ध्यै च तौवरारुष्करे न तु",
         "iast": "vāryuṣṇamacche 'nupibetsnehe tatsukhapaktaye āsyopalepaśuddhyai ca tauvarāruṣkare na tu",
         "iast_ru": "ва̄рйуш̣н̣амаччхе 'нупибетснехе татсукхапактайе а̄сйопалепаш́уддхйаи ча таувара̄руш̣каре на ту",
-        "text": "После чистого умащения следует запивать тёплой водой для лёгкости его переваривания, а также для очищения от налёта во рту; но не в случае умащения тувара или арушкарой (семенем)."
+        "text": "После чистого умащения следует запивать тёплой водой для лёгкости его переваривания, а также для очищения от налёта во рту; но не в случае умащения тувара или арушкарой (семенем).",
+        "text_en": "After pure oleation one should drink warm water to ease its digestion, and also to cleanse the coating in the mouth; but not in the case of oleation with tuvara or arushkara (seed)."
       },
       {
         "type": "verse",
@@ -14509,7 +14763,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उष्णोपचारः स्नेहे स्यादुष्णो ह्युष्णैर्विरुध्यते ततो गुरुप्रावरणो निवातशयनस्थितः जरणान्तं प्रतीक्षेत तृष्यन्नुष्णाल्पवारिपः",
         "iast": "uṣṇopacāraḥ snehe syāduṣṇo hyuṣṇairvirudhyate tato guruprāvaraṇo nivātaśayanasthitaḥ jaraṇāntaṃ pratīkṣeta tṛṣyannuṣṇālpavāripaḥ",
         "iast_ru": "уш̣н̣опача̄рах̣ снехе сйа̄душ̣н̣о хйуш̣н̣аирвирудхйате тато гурупра̄варан̣о нива̄таш́айанастхитах̣ джаран̣а̄нтам̣ пратӣкш̣ета тр̣ш̣йаннуш̣н̣а̄лпава̄рипах̣",
-        "text": "При умащении следует применять тёплые процедуры; ибо тёплое противодействует тёплым проблемам. Поэтому, укрывшись тяжёлым покрывалом, находясь на защищённом от ветра ложе, следует ждать полного переваривания; при жажде же — пить тёплую воду в малом количестве."
+        "text": "При умащении следует применять тёплые процедуры; ибо тёплое противодействует тёплым проблемам. Поэтому, укрывшись тяжёлым покрывалом, находясь на защищённом от ветра ложе, следует ждать полного переваривания; при жажде же — пить тёплую воду в малом количестве.",
+        "text_en": "During oleation one should apply warm measures; for warmth counteracts warm problems. Therefore, covering oneself with a heavy blanket, lying on a bed protected from wind, one should wait for complete digestion; when thirsty, one should drink warm water in a small quantity."
       },
       {
         "type": "verse",
@@ -14517,7 +14772,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिरोरुग्भ्रमनिष्ठीवमूर्च्छासादारतिक्लमैः जानीयाद् भेषजं जीर्यज्जीर्णं तच्छान्तिलाघावात्",
         "iast": "śirorugbhramaniṣṭhīvamūrcchāsādāratiklamaiḥ jānīyād bheṣajaṃ jīryajjīrṇaṃ tacchāntilāghāvāt",
         "iast_ru": "ш́ироругбхраманиш̣т̣хӣвамӯрччха̄са̄да̄ратикламаих̣ джа̄нӣйа̄д бхеш̣аджам̣ джӣрйаджджӣрн̣ам̣ таччха̄нтила̄гха̄ва̄т",
-        "text": "По появлению головной боли, головокружения, плевков, обморока, слабости, беспокойства, утомления, следует узнавать, что лекарство переваривается; по их устранению и ощущению лёгкости — что оно переварено."
+        "text": "По появлению головной боли, головокружения, плевков, обморока, слабости, беспокойства, утомления, следует узнавать, что лекарство переваривается; по их устранению и ощущению лёгкости — что оно переварено.",
+        "text_en": "By the appearance of headache, dizziness, spitting, fainting, weakness, restlessness, fatigue, one should know that the medicine is being digested; by their disappearance and the sensation of lightness, that it has been digested."
       },
       {
         "type": "verse",
@@ -14525,7 +14781,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अनुलोमनिलस्वास्थ्यक्षुत्तृष्णोद्गारशुद्धिभिः जीर्णाजीर्णविशङ्कायां पुनरुष्णोदकं पिबेत् तेनोद्गारविशुद्धिः स्तात्ततश्च लघुता रुचिः",
         "iast": "anulomanilasvāsthyakṣuttṛṣṇodgāraśuddhibhiḥ jīrṇājīrṇaviśaṅkāyāṃ punaruṣṇodakaṃ pibet tenodgāraviśuddhiḥ stāttataśca laghutā ruciḥ",
         "iast_ru": "ануломаниласва̄стхйакш̣уттр̣ш̣н̣одга̄раш́уддхибхих̣ джӣрн̣а̄джӣрн̣авиш́ан̇ка̄йа̄м̣ пунаруш̣н̣одакам̣ пибет тенодга̄равиш́уддхих̣ ста̄ттаташ́ча лагхута̄ ручих̣",
-        "text": "По появлению правильного направления ветра, здоровья, голода, жажды, чистой отрыжки, — узнаётся переваренность. При сомнении, переварено ли лекарство, следует снова выпить тёплую воду; от этого наступит чистая отрыжка, а затем — лёгкость и аппетит."
+        "text": "По появлению правильного направления ветра, здоровья, голода, жажды, чистой отрыжки, — узнаётся переваренность. При сомнении, переварено ли лекарство, следует снова выпить тёплую воду; от этого наступит чистая отрыжка, а затем — лёгкость и аппетит.",
+        "text_en": "By the appearance of the right direction of Vata, health, hunger, thirst, clean belching, digestion is recognized. If there is doubt whether the medicine has been digested, one should again drink warm water; from this clean belching will occur, and then lightness and appetite."
       },
       {
         "type": "verse",
@@ -14533,7 +14790,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भोज्यो ऽन्नं मात्रया पास्यन् श्वःपिबन् पीतवानपि द्रवोष्णमनभिष्यन्दि नातिस्निग्धमसङ्करम्",
         "iast": "bhojyo 'nnaṃ mātrayā pāsyan śvaḥpiban pītavānapi dravoṣṇamanabhiṣyandi nātisnigdhamasaṅkaram",
         "iast_ru": "бходжйо 'ннам̣ ма̄трайа̄ па̄сйан ш́вах̣пибан пӣтава̄напи дравош̣н̣аманабхиш̣йанди на̄тиснигдхамасан̇карам",
-        "text": "Пациенту следует есть пищу в умеренном количестве, независимо от того, собирается ли он пить умащение назавтра, пьёт ли сегодня, или уже выпил; пища должна быть жидкой, тёплой, не вызывающей застоя, не слишком маслянистой, без смешения несовместимых продуктов."
+        "text": "Пациенту следует есть пищу в умеренном количестве, независимо от того, собирается ли он пить умащение назавтра, пьёт ли сегодня, или уже выпил; пища должна быть жидкой, тёплой, не вызывающей застоя, не слишком маслянистой, без смешения несовместимых продуктов.",
+        "text_en": "The patient should eat food in moderate quantity, regardless of whether he is going to drink the oleation tomorrow, is drinking it today, or has already drunk it; the food should be liquid, warm, not causing stagnation, not too unctuous, without mixing incompatible foods."
       },
       {
         "type": "verse",
@@ -14541,7 +14799,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उष्णोदकोपचारी स्यात् ब्रह्मचारी क्षपाशयः व्यायामवेगसंरोधशोकवर्षहिमातपान्",
         "iast": "uṣṇodakopacārī syāt brahmacārī kṣapāśayaḥ vyāyāmavegasaṃrodhaśokavarṣahimātapān",
         "iast_ru": "уш̣н̣одакопача̄рӣ сйа̄т брахмача̄рӣ кш̣апа̄ш́айах̣ вйа̄йа̄мавегасам̣родхаш́окаварш̣ахима̄тапа̄н",
-        "text": "Следует применять тёплую воду, соблюдать целомудрие, спать отдельно, соблюдая режим; избегать физического упражнения, сдерживания естественных позывов, горя, дождя, холода, солнца,"
+        "text": "Следует применять тёплую воду, соблюдать целомудрие, спать отдельно, соблюдая режим; избегать физического упражнения, сдерживания естественных позывов, горя, дождя, холода, солнца,",
+        "text_en": "One should use warm water, observe chastity, sleep apart, keeping to the regimen; avoid physical exercise, suppression of natural urges, grief, rain, cold, sun,"
       },
       {
         "type": "verse",
@@ -14549,7 +14808,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रवातयानयानाध्वभाष्यात्यासनसंस्थितीः नीचात्युच्चोपधानाहस्स्वप्नधूमरजांसि च",
         "iast": "pravātayānayānādhvabhāṣyātyāsanasaṃsthitīḥ nīcātyuccopadhānāhassvapnadhūmarajāṃsi ca",
         "iast_ru": "права̄тайа̄найа̄на̄дхвабха̄ш̣йа̄тйа̄санасам̣стхитӣх̣ нӣча̄тйуччопадха̄на̄хассвапнадхӯмараджа̄м̣си ча",
-        "text": "сквозняка, езды на транспорте, ходьбы, долгой речи, чрезмерного сидения или стояния; слишком низкой или высокой подушки, дневного сна, дыма, пыли —"
+        "text": "сквозняка, езды на транспорте, ходьбы, долгой речи, чрезмерного сидения или стояния; слишком низкой или высокой подушки, дневного сна, дыма, пыли —",
+        "text_en": "drafts, riding in vehicles, walking, prolonged speech, excessive sitting or standing; a pillow that is too low or too high, daytime sleep, smoke, dust;"
       },
       {
         "type": "verse",
@@ -14557,7 +14817,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यान्यहानि पिबेत्तानि तावन्त्यन्यान्यपि त्यजेत् सर्वकर्मस्वयं प्रायो व्याधिक्षीणेषु च क्रमः",
         "iast": "yānyahāni pibettāni tāvantyanyānyapi tyajet sarvakarmasvayaṃ prāyo vyādhikṣīṇeṣu ca kramaḥ",
         "iast_ru": "йа̄нйаха̄ни пибетта̄ни та̄вантйанйа̄нйапи тйаджет сарвакармасвайам̣ пра̄йо вйа̄дхикш̣ӣн̣еш̣у ча крамах̣",
-        "text": "всего этого следует избегать столько же дней, сколько дней принимается умащение. Таков, как правило, порядок поведения при всех подобных процедурах, а также для истощённых болезнью."
+        "text": "всего этого следует избегать столько же дней, сколько дней принимается умащение. Таков, как правило, порядок поведения при всех подобных процедурах, а также для истощённых болезнью.",
+        "text_en": "all this should be avoided for as many days as the oleation is taken. Such, as a rule, is the order of conduct in all such procedures, and also for those emaciated by disease."
       },
       {
         "type": "verse",
@@ -14565,7 +14826,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उपचारस्तु शमने कार्यः स्नेहे विरिक्तवत् स्नेहस्य पानात् पूर्वं च दातव्यं मृदुभेषजम् उत्तेजनं हुताशस्य कोष्ठलाघवकारि च",
         "iast": "upacārastu śamane kāryaḥ snehe viriktavat snehasya pānāt pūrvaṃ ca dātavyaṃ mṛdubheṣajam uttejanaṃ hutāśasya koṣṭhalāghavakāri ca",
         "iast_ru": "упача̄расту ш́амане ка̄рйах̣ снехе вириктават снехасйа па̄на̄т пӯрвам̣ ча да̄тавйам̣ мр̣дубхеш̣аджам уттеджанам̣ хута̄ш́асйа кош̣т̣хала̄гхавака̄ри ча",
-        "text": "При успокаивающем умащении следует применять уход, как при слабительном. Перед приёмом умащения следует дать мягкое лекарство, разжигающее огонь и облегчающее работу желудочно-кишечного тракта."
+        "text": "При успокаивающем умащении следует применять уход, как при слабительном. Перед приёмом умащения следует дать мягкое лекарство, разжигающее огонь и облегчающее работу желудочно-кишечного тракта.",
+        "text_en": "In pacifying oleation one should apply care as in purgation. Before taking oleation one should give a mild medicine that kindles the fire and eases the work of the gastrointestinal tract."
       },
       {
         "type": "verse",
@@ -14573,7 +14835,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्र्यहमच्छं मृदौ कोष्ठे क्रूरे सप्तदिनं पिबेत् सम्यक्स्निग्धो ऽथवायावदतःसात्मीभवेत् परम्",
         "iast": "tryahamacchaṃ mṛdau koṣṭhe krūre saptadinaṃ pibet samyaksnigdho 'thavāyāvadataḥsātmībhavet param",
         "iast_ru": "трйахамаччхам̣ мр̣дау кош̣т̣хе крӯре саптадинам̣ пибет самйакснигдхо 'тхава̄йа̄вадатах̣са̄тмӣбхавет парам",
-        "text": "При мягком желудочно-кишечном тракте следует пить чистое умащение три дня, при грубом — семь дней; или же, в любом случае, пока человек не станет полностью, до конца, умащённым и привыкшим к нему."
+        "text": "При мягком желудочно-кишечном тракте следует пить чистое умащение три дня, при грубом — семь дней; или же, в любом случае, пока человек не станет полностью, до конца, умащённым и привыкшим к нему.",
+        "text_en": "With a soft gastrointestinal tract one should drink pure oleation for three days, with a rough one for seven days; or else, in any case, until the person becomes completely, fully oleated and accustomed to it."
       },
       {
         "type": "verse",
@@ -14581,7 +14844,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सात्मीभूतो हि कुरुते न मलानामुदीरणम् अतियोगेन वा व्याधीन् यथाम्ब्बोधोतियोजनात्",
         "iast": "sātmībhūto hi kurute na malānāmudīraṇam atiyogena vā vyādhīn yathāmbbodhotiyojanāt",
         "iast_ru": "са̄тмӣбхӯто хи куруте на мала̄на̄мудӣран̣ам атийогена ва̄ вйа̄дхӣн йатха̄мббодхотийоджана̄т",
-        "text": "Ибо умащение, ставшее привычным, не вызывает чрезмерного возбуждения нечистот или болезней от избыточного применения — подобно тому, как чрезмерное количество воды в почве не вредит, если применяется постепенно."
+        "text": "Ибо умащение, ставшее привычным, не вызывает чрезмерного возбуждения нечистот или болезней от избыточного применения — подобно тому, как чрезмерное количество воды в почве не вредит, если применяется постепенно.",
+        "text_en": "For oleation that has become habitual does not cause excessive aggravation of the impurities or diseases from excessive use, just as an excessive amount of water in the soil does no harm if applied gradually."
       },
       {
         "type": "verse",
@@ -14589,7 +14853,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विहत्य सेतुं मृत्कोष्ठात् स्रवति क्षपयन् मृदम् स्नेहो ऽप्यग्निं तथा हत्वा स्रवति क्षपयंस्तनुम्",
         "iast": "vihatya setuṃ mṛtkoṣṭhāt sravati kṣapayan mṛdam sneho 'pyagniṃ tathā hatvā sravati kṣapayaṃstanum",
         "iast_ru": "вихатйа сетум̣ мр̣ткош̣т̣ха̄т сравати кш̣апайан мр̣дам снехо 'пйагним̣ татха̄ хатва̄ сравати кш̣апайам̣станум",
-        "text": "Разрушив плотину, вода вытекает из глиняного вместилища, разрушая саму глину; подобным же образом, умащение, разрушив огонь пищеварения, вытекает из тела, истощая само тело, если применено неправильно."
+        "text": "Разрушив плотину, вода вытекает из глиняного вместилища, разрушая саму глину; подобным же образом, умащение, разрушив огонь пищеварения, вытекает из тела, истощая само тело, если применено неправильно.",
+        "text_en": "Breaking the dam, water flows out of an earthen vessel, destroying the clay itself; in the same way oleation, having destroyed the fire of digestion, flows out of the body, depleting the body itself, if applied improperly."
       },
       {
         "type": "verse",
@@ -14597,7 +14862,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातानुलोम्यं दीप्तो ऽग्निर्वर्चः स्निग्धमसंहतम् मृदुस्निग्धाङ्गताग्लानिःस्नेहोद्वेगो ऽथलाघवम्",
         "iast": "vātānulomyaṃ dīpto 'gnirvarcaḥ snigdhamasaṃhatam mṛdusnigdhāṅgatāglāniḥsnehodvego 'thalāghavam",
         "iast_ru": "ва̄та̄нуломйам̣ дӣпто 'гнирварчах̣ снигдхамасам̣хатам мр̣дуснигдха̄н̇гата̄гла̄них̣снеходвего 'тхала̄гхавам",
-        "text": "Правильное направление ветра, разожжённый огонь, маслянистый несвязанный кал; мягкость и маслянистость тела, отсутствие изнеможения, отвращение к дальнейшему умащению, затем лёгкость тела —"
+        "text": "Правильное направление ветра, разожжённый огонь, маслянистый несвязанный кал; мягкость и маслянистость тела, отсутствие изнеможения, отвращение к дальнейшему умащению, затем лёгкость тела —",
+        "text_en": "The right direction of Vata, kindled fire, unctuous unbound stool; softness and unctuousness of the body, absence of exhaustion, aversion to further oleation, then lightness of the body,"
       },
       {
         "type": "verse",
@@ -14605,7 +14871,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विमलेन्द्रियता सम्यक् स्निग्धे रूक्षे विपर्ययः पाण्ड्वामयाग्गसदनघ्राणवक्त्रगुदस्रवाः गुददाहारुचिश्छर्दिमूर्छातृष्णाप्रवाहिकाः",
         "iast": "vimalendriyatā samyak snigdhe rūkṣe viparyayaḥ pāṇḍvāmayāggasadanaghrāṇavaktragudasravāḥ gudadāhāruciśchardimūrchātṛṣṇāpravāhikāḥ",
         "iast_ru": "вималендрийата̄ самйак снигдхе рӯкш̣е випарйайах̣ па̄н̣д̣ва̄майа̄ггасаданагхра̄н̣авактрагудасрава̄х̣ гудада̄ха̄ручиш́чхардимӯрчха̄тр̣ш̣н̣а̄права̄хика̄х̣",
-        "text": "чистота органов чувств — признаки правильного умащения; при недостаточном же — противоположное. Бледность (анемия), недоваренность, слабость тела, истечения из носа, рта, заднего прохода; жжение в заднем проходе, отсутствие аппетита, рвота, обморок, жажда, понос с тенезмами;"
+        "text": "чистота органов чувств — признаки правильного умащения; при недостаточном же — противоположное. Бледность (анемия), недоваренность, слабость тела, истечения из носа, рта, заднего прохода; жжение в заднем проходе, отсутствие аппетита, рвота, обморок, жажда, понос с тенезмами;",
+        "text_en": "purity of the sense organs are the signs of proper oleation; in insufficient oleation, the opposite. Pallor (anemia), uncooked state, weakness of the body, discharges from the nose, mouth, anus; burning in the anus, loss of appetite, vomiting, fainting, thirst, diarrhea with tenesmus;"
       },
       {
         "type": "verse",
@@ -14613,7 +14880,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शुक्तोद्गारभ्रमश्वासकासाः स्नेहातिसेवनात् अमात्रयाहितो ऽकाले मिथ्याहारविहारतः स्नेहः करोति शोफार्शस्तन्द्रानिद्राविसंज्ञताः",
         "iast": "śuktodgārabhramaśvāsakāsāḥ snehātisevanāt amātrayāhito 'kāle mithyāhāravihārataḥ snehaḥ karoti śophārśastandrānidrāvisaṃjñatāḥ",
         "iast_ru": "ш́уктодга̄рабхрамаш́ва̄сака̄са̄х̣ снеха̄тисевана̄т ама̄трайа̄хито 'ка̄ле митхйа̄ха̄равиха̄ратах̣ снехах̣ кароти ш́опха̄рш́астандра̄нидра̄висам̣джн̃ата̄х̣",
-        "text": "кислая отрыжка, головокружение, одышка, кашель — возникают от чрезмерного применения умащения. Умащение, применённое без должной дозы, в неподходящее время, при неправильной диете и образе жизни, вызывает отёк, геморрой, вялость, избыточную сонливость, потерю сознания;"
+        "text": "кислая отрыжка, головокружение, одышка, кашель — возникают от чрезмерного применения умащения. Умащение, применённое без должной дозы, в неподходящее время, при неправильной диете и образе жизни, вызывает отёк, геморрой, вялость, избыточную сонливость, потерю сознания;",
+        "text_en": "sour belching, dizziness, dyspnea, cough arise from excessive application of oleation. Oleation applied without the proper dose, at an unsuitable time, with improper diet and regimen, causes edema, hemorrhoids, lethargy, excessive sleepiness, loss of consciousness;"
       },
       {
         "type": "verse",
@@ -14621,7 +14889,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कण्डूकुष्ठज्वरोत्क्लेशशूलानाहबलक्षयान् जठरेन्द्रियदौर्बल्यजाड्यामस्तम्भवाग्ग्रहान्",
         "iast": "kaṇḍūkuṣṭhajvarotkleśaśūlānāhabalakṣayān jaṭharendriyadaurbalyajāḍyāmastambhavāggrahān",
         "iast_ru": "кан̣д̣ӯкуш̣т̣хаджваротклеш́аш́ӯла̄на̄хабалакш̣айа̄н джат̣харендрийадаурбалйаджа̄д̣йа̄мастамбхава̄гграха̄н",
-        "text": "зуд, кожные болезни, лихорадку, тошноту, колики, вздутие, истощение силы; слабость желудка и органов чувств, оцепенение, недоваренность, скованность, потерю речи —"
+        "text": "зуд, кожные болезни, лихорадку, тошноту, колики, вздутие, истощение силы; слабость желудка и органов чувств, оцепенение, недоваренность, скованность, потерю речи —",
+        "text_en": "itching, skin diseases, fever, nausea, colic, distension, depletion of strength; weakness of the stomach and sense organs, numbness, uncooked state, stiffness, loss of speech;"
       },
       {
         "type": "verse",
@@ -14629,7 +14898,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तांस्तान् स्वदोषहेतूत्थान् पाण्ड्वादींश्चातियोजनात् क्षुत्तृष्णोक्लेखनस्वेदरूक्षपानान्नभेषजम् तक्रारिष्टखलोद्दालयवश्यामाककोद्रवाः",
         "iast": "tāṃstān svadoṣahetūtthān pāṇḍvādīṃścātiyojanāt kṣuttṛṣṇoklekhanasvedarūkṣapānānnabheṣajam takrāriṣṭakhaloddālayavaśyāmākakodravāḥ",
         "iast_ru": "та̄м̣ста̄н свадош̣ахетӯттха̄н па̄н̣д̣ва̄дӣм̣ш́ча̄тийоджана̄т кш̣уттр̣ш̣н̣оклекханасведарӯкш̣апа̄на̄ннабхеш̣аджам такра̄риш̣т̣акхалодда̄лайаваш́йа̄ма̄какодрава̄х̣",
-        "text": "эти расстройства, возникшие каждое от своей причины из числа дош, включая анемию и подобное, от чрезмерного применения умащения устраняются: сдерживанием голода, жажды; рвотными, прогреванием, потогонными, сухими, иссушающими напитками, пищей, лекарствами; пахтой, аристой, кхалой, уддалакой, ячменём, шьямакой, кодравой;"
+        "text": "эти расстройства, возникшие каждое от своей причины из числа дош, включая анемию и подобное, от чрезмерного применения умащения устраняются: сдерживанием голода, жажды; рвотными, прогреванием, потогонными, сухими, иссушающими напитками, пищей, лекарствами; пахтой, аристой, кхалой, уддалакой, ячменём, шьямакой, кодравой;",
+        "text_en": "these disorders, each arisen from its own cause among the doshas, including anemia and the like, from excessive application of oleation are removed by: restraining hunger, thirst; by emetics, fomentation, sudorifics, dry, drying drinks, food, medicines; by buttermilk, arishta, khala, uddalaka, barley, shyamaka, kodrava;"
       },
       {
         "type": "verse",
@@ -14637,7 +14907,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीत्रिफलाक्षौद्रपथ्यागोमूत्रगुग्गुलु यथास्वं प्रतिरोगं च स्नेहव्यापदि साधनम्",
         "iast": "pippalītriphalākṣaudrapathyāgomūtraguggulu yathāsvaṃ pratirogaṃ ca snehavyāpadi sādhanam",
         "iast_ru": "пиппалӣтрипхала̄кш̣аудрапатхйа̄гомӯтрагуггулу йатха̄свам̣ пратирогам̣ ча снехавйа̄пади са̄дханам",
-        "text": "пиппали, трифалой, мёдом, харитаки, коровьей мочой, гуггулу — соответственно каждому, против каждой болезни; таковы средства при осложнениях умащения."
+        "text": "пиппали, трифалой, мёдом, харитаки, коровьей мочой, гуггулу — соответственно каждому, против каждой болезни; таковы средства при осложнениях умащения.",
+        "text_en": "by pippali, triphala, honey, haritaki, cow's urine, guggulu, according to each, against each disease; such are the remedies in complications of oleation."
       },
       {
         "type": "verse",
@@ -14645,7 +14916,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विरूक्षणे लङ्घनवत् कृतातिकृतलक्षणम् स्नेहेन पैत्तिकस्याग्निर्यदा तीव्रतरीकृतः स्नेहमाशु जरां नीत्वा पुनरोजो ऽभितश्चरन्",
         "iast": "virūkṣaṇe laṅghanavat kṛtātikṛtalakṣaṇam snehena paittikasyāgniryadā tīvratarīkṛtaḥ snehamāśu jarāṃ nītvā punarojo 'bhitaścaran",
         "iast_ru": "вирӯкш̣ан̣е лан̇гханават кр̣та̄тикр̣талакш̣ан̣ам снехена паиттикасйа̄гнирйада̄ тӣвратарӣкр̣тах̣ снехама̄ш́у джара̄м̣ нӣтва̄ пународжо 'бхиташ́чаран",
-        "text": "При иссушающей терапии признаки надлежащего и чрезмерного применения такие же, как при голодании. Когда огонь питтика-конституции от умащения становится чрезмерно усиленным, и, быстро переварив умащение, начинает снова циркулировать повсюду, нападая на оджас,"
+        "text": "При иссушающей терапии признаки надлежащего и чрезмерного применения такие же, как при голодании. Когда огонь питтика-конституции от умащения становится чрезмерно усиленным, и, быстро переварив умащение, начинает снова циркулировать повсюду, нападая на оджас,",
+        "text_en": "In drying therapy the signs of proper and excessive application are the same as in fasting. When the fire of the Pittic constitution becomes excessively intensified by oleation, and, having quickly digested the oleation, begins to circulate everywhere again, attacking ojas,"
       },
       {
         "type": "verse",
@@ -14653,7 +14925,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उदीरयेत् सोपसर्गां पिपासामस्य बाधिकाम् सो ऽसूंस्त्यजेद्यद्युदकं न पिबेदाशु शीतलम्",
         "iast": "udīrayet sopasargāṃ pipāsāmasya bādhikām so 'sūṃstyajedyadyudakaṃ na pibedāśu śītalam",
         "iast_ru": "удӣрайет сопасарга̄м̣ пипа̄са̄масйа ба̄дхика̄м со 'сӯм̣стйаджедйадйудакам̣ на пибеда̄ш́у ш́ӣталам",
-        "text": "он вызывает у него мучительную жажду с сопутствующими симптомами; и этот пациент может расстаться с жизнью, если немедленно не выпьет холодной воды."
+        "text": "он вызывает у него мучительную жажду с сопутствующими симптомами; и этот пациент может расстаться с жизнью, если немедленно не выпьет холодной воды.",
+        "text_en": "it causes him tormenting thirst with accompanying symptoms; and this patient may lose his life if he does not immediately drink cold water."
       },
       {
         "type": "verse",
@@ -14661,7 +14934,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीतसेकावगाहान् वा तत्तृष्णापीडितो भजेत् स्नेहाग्निना दह्यमानः स्वविषेणेव पन्नगः",
         "iast": "śītasekāvagāhān vā tattṛṣṇāpīḍito bhajet snehāgninā dahyamānaḥ svaviṣeṇeva pannagaḥ",
         "iast_ru": "ш́ӣтасека̄вага̄ха̄н ва̄ таттр̣ш̣н̣а̄пӣд̣ито бхаджет снеха̄гнина̄ дахйама̄нах̣ свавиш̣ен̣ева паннагах̣",
-        "text": "Или же, страдающий от этой жажды, пусть прибегнет к холодным обливаниям и погружениям в воду; ведь он сжигаем огнём умащения, подобно змее, сжигаемой собственным ядом."
+        "text": "Или же, страдающий от этой жажды, пусть прибегнет к холодным обливаниям и погружениям в воду; ведь он сжигаем огнём умащения, подобно змее, сжигаемой собственным ядом.",
+        "text_en": "Or else, one suffering from this thirst should resort to cold affusions and immersions in water; for he is burned by the fire of oleation, like a snake burned by its own venom."
       },
       {
         "type": "verse",
@@ -14669,7 +14943,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अजीर्णे बलवत्या तु शीतैर्दिह्याच्छिरोमुखम् छर्दयेत्तदशान्तौ च पीत्वा शीतोदकं पुनः",
         "iast": "ajīrṇe balavatyā tu śītairdihyācchiromukham chardayettadaśāntau ca pītvā śītodakaṃ punaḥ",
         "iast_ru": "аджӣрн̣е балаватйа̄ ту ш́ӣтаирдихйа̄ччхиромукхам чхардайеттадаш́а̄нтау ча пӣтва̄ ш́ӣтодакам̣ пунах̣",
-        "text": "При сильной недоваренности следует обмазывать голову и лицо холодными средствами; а если это не приносит успокоения, следует вызвать рвоту, снова выпив холодной воды."
+        "text": "При сильной недоваренности следует обмазывать голову и лицо холодными средствами; а если это не приносит успокоения, следует вызвать рвоту, снова выпив холодной воды.",
+        "text_en": "In severe uncooked state one should smear the head and face with cooling remedies; and if this brings no relief, one should induce vomiting by drinking cold water again."
       },
       {
         "type": "verse",
@@ -14677,7 +14952,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रूक्षान्नमुल्लिखेद्भुक्त्वा तादृश्यां तु कफानिले समदोषश्च निःशेषं स्नेहमुष्णाम्बुनोद्धरेत्",
         "iast": "rūkṣānnamullikhedbhuktvā tādṛśyāṃ tu kaphānile samadoṣaśca niḥśeṣaṃ snehamuṣṇāmbunoddharet",
         "iast_ru": "рӯкш̣а̄ннамулликхедбхуктва̄ та̄др̣ш́йа̄м̣ ту капха̄ниле самадош̣аш́ча них̣ш́еш̣ам̣ снехамуш̣н̣а̄мбуноддхарет",
-        "text": "Поев сухой пищи, следует вызвать очищение организма; при подобной же недоваренности, вызванной избытком капхи-ветра, при уравновешенных дошах, следует полностью извлечь непереваренное умащение при помощи тёплой воды рвотой."
+        "text": "Поев сухой пищи, следует вызвать очищение организма; при подобной же недоваренности, вызванной избытком капхи-ветра, при уравновешенных дошах, следует полностью извлечь непереваренное умащение при помощи тёплой воды рвотой.",
+        "text_en": "Having eaten dry food, one should induce purification of the organism; in the same uncooked state caused by excess of Kapha-Vata, when the doshas are balanced, one should completely extract the undigested oleation by means of warm water through vomiting."
       },
       {
         "type": "verse",
@@ -14685,7 +14961,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततो दोषादिबलतः पूर्वोक्तं च विधिं श्रयेत् न सर्पिः केवलं पित्ते पेयं सामे विशेषतः सर्वं ह्यनुव्रजेद्देहं हत्वा संज्ञां च मारयेत्",
         "iast": "tato doṣādibalataḥ pūrvoktaṃ ca vidhiṃ śrayet na sarpiḥ kevalaṃ pitte peyaṃ sāme viśeṣataḥ sarvaṃ hyanuvrajeddehaṃ hatvā saṃjñāṃ ca mārayet",
         "iast_ru": "тато дош̣а̄дибалатах̣ пӯрвоктам̣ ча видхим̣ ш́райет на сарпих̣ кевалам̣ питте пейам̣ са̄ме виш́еш̣атах̣ сарвам̣ хйанувраджеддехам̣ хатва̄ сам̣джн̃а̄м̣ ча ма̄райет",
-        "text": "Затем, в соответствии с силой дош и подобным, следует прибегнуть к ранее упомянутому лечебному режиму. Не следует давать чистое гхи при расстройстве питты, особенно при наличии амы (недоваренности); ибо иначе оно распространится по всему телу, поразит его и, лишив сознания, может убить."
+        "text": "Затем, в соответствии с силой дош и подобным, следует прибегнуть к ранее упомянутому лечебному режиму. Не следует давать чистое гхи при расстройстве питты, особенно при наличии амы (недоваренности); ибо иначе оно распространится по всему телу, поразит его и, лишив сознания, может убить.",
+        "text_en": "Then, in accordance with the strength of the doshas and the like, one should resort to the previously mentioned therapeutic regimen. One should not give pure ghee in disorder of Pitta, especially in the presence of ama (uncooked state); for otherwise it will spread throughout the body, strike it and, depriving of consciousness, may kill."
       },
       {
         "type": "verse",
@@ -14693,7 +14970,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्निग्धद्रवोष्णधन्वोत्थरसभुक्स्वेदमाचरेत् स्निग्धस्त्र्यहं स्थितः कुर्याद्विरेकं वमनं पुनः",
         "iast": "snigdhadravoṣṇadhanvottharasabhuksvedamācaret snigdhastryahaṃ sthitaḥ kuryādvirekaṃ vamanaṃ punaḥ",
         "iast_ru": "снигдхадравош̣н̣адханвоттхарасабхуксведама̄чарет снигдхастрйахам̣ стхитах̣ курйа̄двирекам̣ ваманам̣ пунах̣",
-        "text": "Пациенту следует есть маслянистый, жидкий, тёплый суп из мяса животных сухих земель, затем применить прогревание. Оставаясь умащённым три дня, следует затем провести слабительное или снова рвотное."
+        "text": "Пациенту следует есть маслянистый, жидкий, тёплый суп из мяса животных сухих земель, затем применить прогревание. Оставаясь умащённым три дня, следует затем провести слабительное или снова рвотное.",
+        "text_en": "The patient should eat an unctuous, liquid, warm soup of the meat of animals of dry lands, then apply fomentation. Having remained oleated for three days, one should then carry out purgation or emesis again."
       },
       {
         "type": "verse",
@@ -14701,7 +14979,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एकाहं दिनमन्यच्च कफमुत्क्लेश्य तत्करैः तिलमाषदधिक्षीरगुडमत्स्यरसादिभिः",
         "iast": "ekāhaṃ dinamanyacca kaphamutkleśya tatkaraiḥ tilamāṣadadhikṣīraguḍamatsyarasādibhiḥ",
         "iast_ru": "ека̄хам̣ динаманйачча капхамутклеш́йа таткараих̣ тилама̄ш̣ададхикш̣ӣрагуд̣аматсйараса̄дибхих̣",
-        "text": "Один день, а на следующий — возбудив капху при помощи средств, вызывающих её накопление: кунжутом, машем, йогуртом, молоком, патокой, рыбным соком и подобным,"
+        "text": "Один день, а на следующий — возбудив капху при помощи средств, вызывающих её накопление: кунжутом, машем, йогуртом, молоком, патокой, рыбным соком и подобным,",
+        "text_en": "One day, and on the next, having stirred up Kapha by means of agents causing its accumulation: sesame, masha, yogurt, milk, molasses, fish juice and the like,"
       },
       {
         "type": "verse",
@@ -14709,7 +14988,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मासला मेदुरा भूरिश्लेष्माणो विषमाग्नयः स्नेहोचिताश्च ये स्नेह्यास्तान् पूर्वं रूक्षयेत्ततः",
         "iast": "māsalā medurā bhūriśleṣmāṇo viṣamāgnayaḥ snehocitāśca ye snehyāstān pūrvaṃ rūkṣayettataḥ",
         "iast_ru": "ма̄сала̄ медура̄ бхӯриш́леш̣ма̄н̣о виш̣ама̄гнайах̣ снехочита̄ш́ча йе снехйа̄ста̄н пӯрвам̣ рӯкш̣айеттатах̣",
-        "text": "следует так поступить с теми, у кого много мышц и жира, обильная капха, неравномерный огонь пищеварения, — тех, кто обычно требует умащения из-за конституции, — их следует сначала иссушить подобным образом, а затем"
+        "text": "следует так поступить с теми, у кого много мышц и жира, обильная капха, неравномерный огонь пищеварения, — тех, кто обычно требует умащения из-за конституции, — их следует сначала иссушить подобным образом, а затем",
+        "text_en": "one should so proceed with those who have much muscle and fat, abundant Kapha, uneven digestive fire, those who ordinarily require oleation because of constitution; they should first be dried in this manner, and then"
       },
       {
         "type": "verse",
@@ -14717,7 +14997,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "संस्नेह्य शोधयेदेवं स्नेहव्यापन्न जायते अलं मलानीरयितुं स्नेहश्चासात्म्यतां गतः",
         "iast": "saṃsnehya śodhayedevaṃ snehavyāpanna jāyate alaṃ malānīrayituṃ snehaścāsātmyatāṃ gataḥ",
         "iast_ru": "сам̣снехйа ш́одхайедевам̣ снехавйа̄панна джа̄йате алам̣ мала̄нӣрайитум̣ снехаш́ча̄са̄тмйата̄м̣ гатах̣",
-        "text": "надлежащим образом умастить и очистить; таким образом осложнение умащения не возникает; и умащение, даже ставшее непривычным, окажется достаточным, чтобы вывести нечистоты."
+        "text": "надлежащим образом умастить и очистить; таким образом осложнение умащения не возникает; и умащение, даже ставшее непривычным, окажется достаточным, чтобы вывести нечистоты.",
+        "text_en": "properly oleated and purified; in this way the complication of oleation does not arise; and oleation, even when it has become unaccustomed, will prove sufficient to expel the impurities."
       },
       {
         "type": "verse",
@@ -14725,7 +15006,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बालवृद्धादिषु स्नेहपरिहारासहिष्णुषु योगानिमाननुद्वेगान् सद्यःस्नेहान् प्रयोजयेत्",
         "iast": "bālavṛddhādiṣu snehaparihārāsahiṣṇuṣu yogānimānanudvegān sadyaḥsnehān prayojayet",
         "iast_ru": "ба̄лавр̣ддха̄диш̣у снехапариха̄ра̄сахиш̣н̣уш̣у йога̄нима̄нанудвега̄н садйах̣снеха̄н прайоджайет",
-        "text": "Для детей, стариков и подобных, не способных выдержать длительный режим воздержания после умащения, следует применять эти немедленные, не вызывающие отвращения способы «быстрого умащения»:"
+        "text": "Для детей, стариков и подобных, не способных выдержать длительный режим воздержания после умащения, следует применять эти немедленные, не вызывающие отвращения способы «быстрого умащения»:",
+        "text_en": "For children, the aged and the like, who are unable to endure a prolonged regimen of abstinence after oleation, one should apply these immediate, non-repulsive methods of 'quick oleation':"
       },
       {
         "type": "verse",
@@ -14733,7 +15015,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रभूतमांसनिष्क्वाथान् जाङ्गलानूपजान् रसान् स्नेहभृष्टेषु वा तेषु यवागूं नातिसंहताम्",
         "iast": "prabhūtamāṃsaniṣkvāthān jāṅgalānūpajān rasān snehabhṛṣṭeṣu vā teṣu yavāgūṃ nātisaṃhatām",
         "iast_ru": "прабхӯтама̄м̣саниш̣ква̄тха̄н джа̄н̇гала̄нӯпаджа̄н раса̄н снехабхр̣ш̣т̣еш̣у ва̄ теш̣у йава̄гӯм̣ на̄тисам̣хата̄м",
-        "text": "обильные мясные отвары из животных сухих и болотистых земель, приготовленные как соки; или же кашицу-ягью, приготовленную с этими жареными в умащении мясом, не слишком густую;"
+        "text": "обильные мясные отвары из животных сухих и болотистых земель, приготовленные как соки; или же кашицу-ягью, приготовленную с этими жареными в умащении мясом, не слишком густую;",
+        "text_en": "copious meat broths from animals of dry and marshy lands, prepared as juices; or else a yavagu gruel prepared with this meat fried in oleation, not too thick;"
       },
       {
         "type": "verse",
@@ -14741,7 +15024,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तिलचूर्णं च सस्नेहं फाणितं कृसरां तथा तिलकाम्बलिकं भूरिस्नेहं सर्पिष्मतीमपि",
         "iast": "tilacūrṇaṃ ca sasnehaṃ phāṇitaṃ kṛsarāṃ tathā tilakāmbalikaṃ bhūrisnehaṃ sarpiṣmatīmapi",
         "iast_ru": "тилачӯрн̣ам̣ ча саснехам̣ пха̄н̣итам̣ кр̣сара̄м̣ татха̄ тилака̄мбаликам̣ бхӯриснехам̣ сарпиш̣матӣмапи",
-        "text": "порошок кунжута с умащением, сгущённый сок сахарного тростника, «крисару» (кашу с бобовыми), а также «тилакамбалику» (кунжутную лепёшку), обильно умащённую; кашу с обилием гхи;"
+        "text": "порошок кунжута с умащением, сгущённый сок сахарного тростника, «крисару» (кашу с бобовыми), а также «тилакамбалику» (кунжутную лепёшку), обильно умащённую; кашу с обилием гхи;",
+        "text_en": "sesame powder with oleation, thickened sugarcane juice, 'krisara' (porridge with legumes), and also 'tilakambalika' (sesame cake), abundantly oleated; porridge with plenty of ghee;"
       },
       {
         "type": "verse",
@@ -14749,7 +15033,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पेयां सुखोष्णा क्षैरेयीं पात्रे वा ससिताघृते सर्पिर्लवणयुक्तं वा सद्योदुग्धं तथा पयः",
         "iast": "peyāṃ sukhoṣṇā kṣaireyīṃ pātre vā sasitāghṛte sarpirlavaṇayuktaṃ vā sadyodugdhaṃ tathā payaḥ",
         "iast_ru": "пейа̄м̣ сукхош̣н̣а̄ кш̣аирейӣм̣ па̄тре ва̄ сасита̄гхр̣те сарпирлаван̣айуктам̣ ва̄ садйодугдхам̣ татха̄ пайах̣",
-        "text": "приятно тёплую жидкую кашу «пею»; молочную кашу «кшайрейи» в сосуде с сахаром и гхи; или гхи с солью; а также свежее молоко;"
+        "text": "приятно тёплую жидкую кашу «пею»; молочную кашу «кшайрейи» в сосуде с сахаром и гхи; или гхи с солью; а также свежее молоко;",
+        "text_en": "a pleasantly warm thin gruel 'peya'; milk porridge 'kshairei' in a vessel with sugar and ghee; or ghee with salt; and also fresh milk;"
       },
       {
         "type": "verse",
@@ -14757,7 +15042,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पेयां च पञ्चप्रसृतां स्नेहैस्तण्डुलपञ्चमैः पायसं माषमिश्रं च बहुस्नेहसमूयुतम् तैलशुण्ठीगुडरसं जीर्णे मांसरसाशिनः",
         "iast": "peyāṃ ca pañcaprasṛtāṃ snehaistaṇḍulapañcamaiḥ pāyasaṃ māṣamiśraṃ ca bahusnehasamūyutam tailaśuṇṭhīguḍarasaṃ jīrṇe māṃsarasāśinaḥ",
         "iast_ru": "пейа̄м̣ ча пан̃чапраср̣та̄м̣ снехаистан̣д̣улапан̃чамаих̣ па̄йасам̣ ма̄ш̣амиш́рам̣ ча бахуснехасамӯйутам таилаш́ун̣т̣хӣгуд̣арасам̣ джӣрн̣е ма̄м̣сараса̄ш́инах̣",
-        "text": "жидкую кашу «пея» из пяти пригоршней умащения с рисом как пятым ингредиентом; молочный пудинг «паяса», смешанный с машем, обильно соединённый с умащением; для тех, кто, переварив пищу, ест мясной сок, — подходит масло с сушёным имбирём и патокой;"
+        "text": "жидкую кашу «пея» из пяти пригоршней умащения с рисом как пятым ингредиентом; молочный пудинг «паяса», смешанный с машем, обильно соединённый с умащением; для тех, кто, переварив пищу, ест мясной сок, — подходит масло с сушёным имбирём и патокой;",
+        "text_en": "a thin gruel 'peya' of five handfuls of oleation with rice as the fifth ingredient; milk pudding 'payasa' mixed with masha, abundantly combined with oleation; for those who, having digested food, eat meat juice, oil with dried ginger and molasses is suitable;"
       },
       {
         "type": "verse",
@@ -14765,7 +15051,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहं वैकं सुराच्छेन दध्नो वा सगुडं सरम् वसां वराहजां सर्पिः पिप्पलीं लवणं तिलान्",
         "iast": "snehaṃ vaikaṃ surācchena dadhno vā saguḍaṃ saram vasāṃ varāhajāṃ sarpiḥ pippalīṃ lavaṇaṃ tilān",
         "iast_ru": "снехам̣ ваикам̣ сура̄ччхена дадхно ва̄ сагуд̣ам̣ сарам васа̄м̣ вара̄хаджа̄м̣ сарпих̣ пиппалӣм̣ лаван̣ам̣ тила̄н",
-        "text": "одно из умащающих средств с чистым вином; или же жидкую часть йогурта с патокой; жир кабана, гхи, пиппали, соль, кунжут;"
+        "text": "одно из умащающих средств с чистым вином; или же жидкую часть йогурта с патокой; жир кабана, гхи, пиппали, соль, кунжут;",
+        "text_en": "one of the oleating agents with pure wine; or else the liquid part of yogurt with molasses; boar fat, ghee, pippali, salt, sesame;"
       },
       {
         "type": "verse",
@@ -14773,7 +15060,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीं लवणं स्नेहांश्चतुरो दधिमस्तुकम् दध्ना सिद्धं व्योषगर्भं धात्रीद्राक्षारसे घृतम्",
         "iast": "pippalīṃ lavaṇaṃ snehāṃścaturo dadhimastukam dadhnā siddhaṃ vyoṣagarbhaṃ dhātrīdrākṣārase ghṛtam",
         "iast_ru": "пиппалӣм̣ лаван̣ам̣ снеха̄м̣ш́чатуро дадхимастукам дадхна̄ сиддхам̣ вйош̣агарбхам̣ дха̄трӣдра̄кш̣а̄расе гхр̣там",
-        "text": "пиппали, соль, все четыре умащающих вещества, сыворотку йогурта; гхи, сваренное с йогуртом, содержащее вьошу внутри; гхи, сваренное в соке амалаки и винограда;"
+        "text": "пиппали, соль, все четыре умащающих вещества, сыворотку йогурта; гхи, сваренное с йогуртом, содержащее вьошу внутри; гхи, сваренное в соке амалаки и винограда;",
+        "text_en": "pippali, salt, all four oleating substances, yogurt whey; ghee cooked with yogurt, containing vyosha within; ghee cooked in the juice of amalaki and grapes;"
       },
       {
         "type": "verse",
@@ -14781,7 +15069,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवकोलकुलत्थाम्बुक्षारक्षीरसुरादधि घृतं च सिद्धं तुल्यांशं सद्यःस्नेहनमुत्तमम्",
         "iast": "yavakolakulatthāmbukṣārakṣīrasurādadhi ghṛtaṃ ca siddhaṃ tulyāṃśaṃ sadyaḥsnehanamuttamam",
         "iast_ru": "йаваколакулаттха̄мбукш̣а̄ракш̣ӣрасура̄дадхи гхр̣там̣ ча сиддхам̣ тулйа̄м̣ш́ам̣ садйах̣снеханамуттамам",
-        "text": "гхи, сваренное в равных частях с ячменём, колой, кулаттхой, водой, щёлочью, молоком, вином, йогуртом, — лучшее из «быстрых умащений»;"
+        "text": "гхи, сваренное в равных частях с ячменём, колой, кулаттхой, водой, щёлочью, молоком, вином, йогуртом, — лучшее из «быстрых умащений»;",
+        "text_en": "ghee cooked in equal parts with barley, kola, kulattha, water, alkali, milk, wine, yogurt, is the best of the 'quick oleations';"
       },
       {
         "type": "verse",
@@ -14789,7 +15078,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिद्धांश्च चतुरः स्नेहान् बदरत्रिफलारसैः योनिशुक्रामयहरान् सद्यःस्नेहान् प्रयोजयेत्",
         "iast": "siddhāṃśca caturaḥ snehān badaratriphalārasaiḥ yoniśukrāmayaharān sadyaḥsnehān prayojayet",
         "iast_ru": "сиддха̄м̣ш́ча чатурах̣ снеха̄н бадаратрипхала̄расаих̣ йониш́укра̄майахара̄н садйах̣снеха̄н прайоджайет",
-        "text": "все четыре умащающих вещества, сваренные с соком колы и трифалы, — эти «быстрые умащения», устраняющие болезни влагалища и семени, следует применять."
+        "text": "все четыре умащающих вещества, сваренные с соком колы и трифалы, — эти «быстрые умащения», устраняющие болезни влагалища и семени, следует применять.",
+        "text_en": "all four oleating substances cooked with the juice of kola and triphala, these 'quick oleations', which remove diseases of the vagina and semen, should be applied."
       },
       {
         "type": "verse",
@@ -14797,7 +15087,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लवणोपहिताः स्नेहाः स्नेहयन्त्यचिरान्नरम् तद्धि विष्यन्द्यरूक्षं च सूक्ष्ममुष्णं व्यवायि च",
         "iast": "lavaṇopahitāḥ snehāḥ snehayantyacirānnaram taddhi viṣyandyarūkṣaṃ ca sūkṣmamuṣṇaṃ vyavāyi ca",
         "iast_ru": "лаван̣опахита̄х̣ снеха̄х̣ снехайантйачира̄ннарам таддхи виш̣йандйарӯкш̣ам̣ ча сӯкш̣мамуш̣н̣ам̣ вйава̄йи ча",
-        "text": "Умащающие вещества, соединённые с солью, быстро умащают человека; ибо соль обладает свойствами проникающей, но также и иссушающей, тонкой, тёплой и проникающей повсюду."
+        "text": "Умащающие вещества, соединённые с солью, быстро умащают человека; ибо соль обладает свойствами проникающей, но также и иссушающей, тонкой, тёплой и проникающей повсюду.",
+        "text_en": "Oleating substances combined with salt quickly oleate a person; for salt possesses the properties of penetrating, but also drying, subtle, warm and pervading everywhere."
       },
       {
         "type": "verse",
@@ -14805,7 +15096,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुडानूपामिषक्षीरतिलमाषसुरादधि कुष्टशोफप्रमेहेषु स्नेहार्थं न प्रकल्पयेत्",
         "iast": "guḍānūpāmiṣakṣīratilamāṣasurādadhi kuṣṭaśophaprameheṣu snehārthaṃ na prakalpayet",
         "iast_ru": "гуд̣а̄нӯпа̄миш̣акш̣ӣратилама̄ш̣асура̄дадхи куш̣т̣аш́опхапрамехеш̣у снеха̄ртхам̣ на пракалпайет",
-        "text": "Патоку, мясо болотистых земель, молоко, кунжут, маш, вино, йогурт — не следует применять для умащения при кожных болезнях, отёках, прамехе."
+        "text": "Патоку, мясо болотистых земель, молоко, кунжут, маш, вино, йогурт — не следует применять для умащения при кожных болезнях, отёках, прамехе.",
+        "text_en": "Molasses, meat of marshy lands, milk, sesame, masha, wine, yogurt should not be used for oleation in skin diseases, edema, prameha."
       },
       {
         "type": "verse",
