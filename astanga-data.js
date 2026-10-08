@@ -19450,7 +19450,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र पक्वजाम्बवसङ्काशमवसन्नमीषद्यथास्वविकारोपशान्तौ च सम्यग्दग्धं भवति तद्विपर्ययेण तोदकण्डूजाड्यादिभिश्चदुर्दग्धम् तत्र पुनः पातयेत् ऊषादाहरागशोफज्वरपाकविसर्पशिरोरोगवातपित्तकोपैरतिदग्धम् अपि च नेत्रे ऽतियोगाद्वर्त्मनिर्भेदेनेन्द्रियभ्रंशः घ्राणे नासावंशतरुणास्थिदरणं सङ्कोचो गन्धाज्ञानं च तद्वच्छोत्रादिष्वपि च यथास्वं व्यापत् गुदे विण्मूत्ररोधो ऽतीसारः पुंस्त्वोपघातो गुदविदरणाच्च मृत्युर्वा सर्वदा वा शोफतोदवेदनास्रावाः शकृन्मूत्रवातविधारणाशक्तिर्वा तमतिप्रवृत्तमाशु पूर्वोक्तैरेव निर्वापणैः पुनःपुनर्निर्वापयेत् अतश्च दाह्यमतिप्रमाणं न सकृदेव दहेदिति भवति चात्र",
         "iast": "tatra pakvajāmbavasaṅkāśamavasannamīṣadyathāsvavikāropaśāntau ca samyagdagdhaṃ bhavati tadviparyayeṇa todakaṇḍūjāḍyādibhiścadurdagdham tatra punaḥ pātayet ūṣādāharāgaśophajvarapākavisarpaśirorogavātapittakopairatidagdham api ca netre 'tiyogādvartmanirbhedenendriyabhraṃśaḥ ghrāṇe nāsāvaṃśataruṇāsthidaraṇaṃ saṅkoco gandhājñānaṃ ca tadvacchotrādiṣvapi ca yathāsvaṃ vyāpat gude viṇmūtrarodho 'tīsāraḥ puṃstvopaghāto gudavidaraṇācca mṛtyurvā sarvadā vā śophatodavedanāsrāvāḥ śakṛnmūtravātavidhāraṇāśaktirvā tamatipravṛttamāśu pūrvoktaireva nirvāpaṇaiḥ punaḥpunarnirvāpayet ataśca dāhyamatipramāṇaṃ na sakṛdeva dahediti bhavati cātra",
         "iast_ru": "татра пакваджа̄мбавасан̇ка̄ш́амавасаннамӣш̣адйатха̄свавика̄ропаш́а̄нтау ча самйагдагдхам̣ бхавати тадвипарйайен̣а тодакан̣д̣ӯджа̄д̣йа̄дибхиш́чадурдагдхам татра пунах̣ па̄тайет ӯш̣а̄да̄хара̄гаш́опхаджварапа̄кависарпаш́иророгава̄тапиттакопаиратидагдхам апи ча нетре 'тийога̄двартманирбхеденендрийабхрам̣ш́ах̣ гхра̄н̣е на̄са̄вам̣ш́атарун̣а̄стхидаран̣ам̣ сан̇кочо гандха̄джн̃а̄нам̣ ча тадваччхотра̄диш̣вапи ча йатха̄свам̣ вйа̄пат гуде вин̣мӯтрародхо 'тӣса̄рах̣ пум̣ствопагха̄то гудавидаран̣а̄чча мр̣тйурва̄ сарвада̄ ва̄ ш́опхатодаведана̄сра̄ва̄х̣ ш́акр̣нмӯтрава̄тавидха̄ран̣а̄ш́актирва̄ таматиправр̣ттама̄ш́у пӯрвоктаирева нирва̄пан̣аих̣ пунах̣пунарнирва̄пайет аташ́ча да̄хйаматипрама̄н̣ам̣ на сакр̣дева дахедити бхавати ча̄тра",
-        "text": "В этом случае, если ткань становится цвета зрелого плода джамбу, слегка вдавленной, и соответствующее расстройство успокаивается, — значит, ткань надлежащим образом прижжена. При обратном же эффекте, с колющей болью, зудом, оцепенением и подобным, — значит, ткань недостаточно прижжена; в этом случае следует снова нанести щёлочь. Признаки чрезмерного прижигания: жжение от щёлочи, сильное жжение, покраснение, отёк, лихорадка, нагноение, рожистое воспаление, болезнь головы, возбуждение ветра-питты. Кроме того, при избыточном действии на глазу — из-за прободения века, возможна потеря зрения; в носу — растрескивание носовой перегородки и хрящей, сужение, потеря обоняния; подобным же образом — соответствующее осложнение и в ушах и подобном. В заднем проходе — задержка кала и мочи, понос, поражение мужской силы, а от разрыва заднего прохода — возможна смерть; или же, во всех случаях, — отёк, колющая боль, боль, истечения, или неспособность удерживать кал, мочу, газы. Такое чрезмерное действие следует снова и снова нейтрализовать вышеупомянутыми охлаждающими средствами. Поэтому не следует прижигать всю требуемую область за один раз. И здесь также применимо:"
+        "text": "В этом случае, если ткань становится цвета зрелого плода джамбу, слегка вдавленной, и соответствующее расстройство успокаивается, — значит, ткань надлежащим образом прижжена. При обратном же эффекте, с колющей болью, зудом, оцепенением и подобным, — значит, ткань недостаточно прижжена; в этом случае следует снова нанести щёлочь. Признаки чрезмерного прижигания: жжение от щёлочи, сильное жжение, покраснение, отёк, лихорадка, нагноение, рожистое воспаление, болезнь головы, возбуждение ветра-питты. Кроме того, при избыточном действии на глазу — из-за прободения века, возможна потеря зрения; в носу — растрескивание носовой перегородки и хрящей, сужение, потеря обоняния; подобным же образом — соответствующее осложнение и в ушах и подобном. В заднем проходе — задержка кала и мочи, понос, поражение мужской силы, а от разрыва заднего прохода — возможна смерть; или же, во всех случаях, — отёк, колющая боль, боль, истечения, или неспособность удерживать кал, мочу, газы. Такое чрезмерное действие следует снова и снова нейтрализовать вышеупомянутыми охлаждающими средствами. Поэтому не следует прижигать всю требуемую область за один раз. И здесь также применимо:",
+        "text_en": "In this case, if the tissue becomes the colour of a ripe jambu fruit and slightly depressed, and the corresponding disorder subsides, it means the tissue has been properly cauterized. In the opposite case, with pricking pain, itching, numbness and the like, it means the tissue has been insufficiently cauterized; in that case the alkali should be applied again. The signs of excessive cauterization: burning from the alkali, intense burning, redness, swelling, fever, suppuration, erysipelas, disease of the head, aggravation of Vata-Pitta. Furthermore, with excessive action on the eye, through perforation of the eyelid, loss of sight may occur; in the nose, cracking of the nasal septum and cartilages, narrowing, loss of the sense of smell; likewise the corresponding complication occurs in the ears and the like. In the anus: retention of stool and urine, diarrhoea, impairment of virility, and from rupture of the anus death may occur; or else, in all cases, swelling, pricking pain, pain, discharges, or inability to retain stool, urine and flatus. Such excessive action should be neutralized again and again with the cooling remedies mentioned above. Therefore the whole required area should not be cauterized all at once. Here too it is said:"
       },
       {
         "type": "verse",
@@ -19458,7 +19459,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अम्लो हि शीतः स्पर्शेन क्षारस्तेनोपसंहितः यात्याशु स्वादुतां तमादम्लैर्निर्वापयेत्तराम्",
         "iast": "amlo hi śītaḥ sparśena kṣārastenopasaṃhitaḥ yātyāśu svādutāṃ tamādamlairnirvāpayettarām",
         "iast_ru": "амло хи ш́ӣтах̣ спарш́ена кш̣а̄растенопасам̣хитах̣ йа̄тйа̄ш́у сва̄дута̄м̣ тама̄дамлаирнирва̄пайеттара̄м",
-        "text": "Ибо кислое на ощупь холодное; щёлочь же, соединённая с этим кислым, быстро приобретает сладкий вкус, то есть нейтрализуется; поэтому его следует особенно активно нейтрализовать кислыми средствами."
+        "text": "Ибо кислое на ощупь холодное; щёлочь же, соединённая с этим кислым, быстро приобретает сладкий вкус, то есть нейтрализуется; поэтому его следует особенно активно нейтрализовать кислыми средствами.",
+        "text_en": "For the sour is cold to the touch; and the alkali, combined with this sour substance, quickly acquires a sweet taste, that is, it is neutralized; therefore it should be neutralized especially vigorously with sour remedies."
       },
       {
         "type": "verse",
@@ -19466,7 +19468,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ज्वरातिसारतृण्मोहमूर्छाहृद्वेदनार्तिभिः कक्षं दहत्यग्निरिव शरीरं क्षारविभ्रमः",
         "iast": "jvarātisāratṛṇmohamūrchāhṛdvedanārtibhiḥ kakṣaṃ dahatyagniriva śarīraṃ kṣāravibhramaḥ",
         "iast_ru": "джвара̄тиса̄ратр̣н̣мохамӯрчха̄хр̣дведана̄ртибхих̣ какш̣ам̣ дахатйагнирива ш́арӣрам̣ кш̣а̄равибхрамах̣",
-        "text": "Расстройство от неправильного применения щёлочи, сопровождающееся лихорадкой, поносом, жаждой, помрачением, обмороком, болью в сердце, страданием, — сжигает тело, подобно огню, сжигающему сухую траву."
+        "text": "Расстройство от неправильного применения щёлочи, сопровождающееся лихорадкой, поносом, жаждой, помрачением, обмороком, болью в сердце, страданием, — сжигает тело, подобно огню, сжигающему сухую траву.",
+        "text_en": "The disorder arising from improper application of alkali, accompanied by fever, diarrhoea, thirst, delusion, fainting, pain in the heart region and distress, burns the body as fire burns dry grass."
       },
       {
         "type": "verse",
@@ -19474,7 +19477,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पाययेतातियोगे ऽतस्तं शीघ्रं सघृतं दधि सगुडं वा दधिसरं तैलं वा ससितोपलम्",
         "iast": "pāyayetātiyoge 'tastaṃ śīghraṃ saghṛtaṃ dadhi saguḍaṃ vā dadhisaraṃ tailaṃ vā sasitopalam",
         "iast_ru": "па̄йайета̄тийоге 'тастам̣ ш́ӣгхрам̣ сагхр̣там̣ дадхи сагуд̣ам̣ ва̄ дадхисарам̣ таилам̣ ва̄ саситопалам",
-        "text": "При избыточном действии щёлочи, следует поэтому быстро дать выпить пациенту: йогурт с гхи, или сливки йогурта с патокой, или масло с сахаром."
+        "text": "При избыточном действии щёлочи, следует поэтому быстро дать выпить пациенту: йогурт с гхи, или сливки йогурта с патокой, или масло с сахаром.",
+        "text_en": "In excessive action of the alkali, the patient should therefore be quickly given to drink: curd with ghee, or the cream of curd with jaggery, or butter with sugar."
       },
       {
         "type": "verse",
@@ -19482,7 +19486,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धात्रीफलकपित्थाम्लदाडिमस्वरसे घृतम् द्विगुणे साधितं पानसेकैः क्षारातिरुग्धरम्",
         "iast": "dhātrīphalakapitthāmladāḍimasvarase ghṛtam dviguṇe sādhitaṃ pānasekaiḥ kṣārātirugdharam",
         "iast_ru": "дха̄трӣпхалакапиттха̄млада̄д̣имасварасе гхр̣там двигун̣е са̄дхитам̣ па̄насекаих̣ кш̣а̄ра̄тиругдхарам",
-        "text": "Гхи, сваренное в двойном объёме кислого сока плода амалаки, капиттхи или граната, — следует давать для питья и обливания; оно устраняет чрезмерную боль от щёлочи."
+        "text": "Гхи, сваренное в двойном объёме кислого сока плода амалаки, капиттхи или граната, — следует давать для питья и обливания; оно устраняет чрезмерную боль от щёлочи.",
+        "text_en": "Ghee cooked with twice its quantity of the sour juice of amalaki, kapittha or pomegranate should be given for drinking and for pouring over the part; it relieves the excessive pain caused by alkali."
       },
       {
         "type": "verse",
@@ -19490,7 +19495,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दाडिमामलकाम्रातकपित्थकरमर्दकान् आम्राच्च मातुलुङ्गाच्च रसं मृद्वग्निना पचेत्",
         "iast": "dāḍimāmalakāmrātakapitthakaramardakān āmrācca mātuluṅgācca rasaṃ mṛdvagninā pacet",
         "iast_ru": "да̄д̣има̄малака̄мра̄такапиттхакарамардака̄н а̄мра̄чча ма̄тулун̇га̄чча расам̣ мр̣двагнина̄ пачет",
-        "text": "Сок граната, амалаки, амратаки, капиттхи, карамарды, манго и цитрона следует варить на слабом огне до сгущения."
+        "text": "Сок граната, амалаки, амратаки, капиттхи, карамарды, манго и цитрона следует варить на слабом огне до сгущения.",
+        "text_en": "The juices of pomegranate, amalaki, amrataka, kapittha, karamarda, mango and citron should be boiled over a gentle fire until thickened."
       },
       {
         "type": "verse",
@@ -19498,7 +19504,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततो ऽतिवृत्तक्षाराय दद्यान्मात्रां यथाबलम् क्षारो निवर्तते तेन प्रसादं त्वक् च गच्छति",
         "iast": "tato 'tivṛttakṣārāya dadyānmātrāṃ yathābalam kṣāro nivartate tena prasādaṃ tvak ca gacchati",
         "iast_ru": "тато 'тивр̣ттакш̣а̄ра̄йа дадйа̄нма̄тра̄м̣ йатха̄балам кш̣а̄ро нивартате тена праса̄дам̣ твак ча гаччхати",
-        "text": "Затем, пациенту, пострадавшему от чрезмерного действия щёлочи, следует дать дозу этого сока соответственно силе пациента; благодаря этому действие щёлочи прекращается, и кожа обретает ясность."
+        "text": "Затем, пациенту, пострадавшему от чрезмерного действия щёлочи, следует дать дозу этого сока соответственно силе пациента; благодаря этому действие щёлочи прекращается, и кожа обретает ясность.",
+        "text_en": "Then, to the patient afflicted by excessive action of alkali, a dose of this juice should be given in accordance with the patient's strength; by this the action of the alkali ceases and the skin regains its clarity."
       },
       {
         "type": "verse",
@@ -19506,7 +19513,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शोणितातिप्रवृत्तौ तु बाह्यान्तः शिशिरो विधिः",
         "iast": "śoṇitātipravṛttau tu bāhyāntaḥ śiśiro vidhiḥ",
         "iast_ru": "ш́он̣ита̄типравр̣ттау ту ба̄хйа̄нтах̣ ш́иш́иро видхих̣",
-        "text": "При же чрезмерном истечении крови после прижигания — режим должен быть охлаждающим, как снаружи, так и внутри."
+        "text": "При же чрезмерном истечении крови после прижигания — режим должен быть охлаждающим, как снаружи, так и внутри.",
+        "text_en": "In excessive bleeding after cauterization, the regimen should be cooling, both externally and internally."
       }
     ]
   },
@@ -19528,7 +19536,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो ऽग्निकर्मविधिमध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto 'gnikarmavidhimadhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то 'гникармавидхимадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Агникармавидхи» («Метод прижигания огнём») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Агникармавидхи» («Метод прижигания огнём») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter entitled \"Agnikarmavidhi\" (\"The Method of Cauterization by Fire\"), as the great sages, beginning with Atreya, declared."
       },
       {
         "type": "verse",
@@ -19536,7 +19545,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अग्निः क्षारादपि गरीयानौषधशस्त्रक्षारैरसिद्धानां तद्दाहसिद्धेरपुनर्भवाच्च तत्राग्निकर्म त्वचि मांसे सिरास्नायुसन्ध्यस्थिषु च प्रयुज्यते तत्र मशतिलकालकचर्मकीलसरुक्स्तब्धप्रम्लानाङ्गाभिष्यन्दाधिमन्थशिरोभ्रूशङ्खललाटरुजार्दितेषु सूर्यकान्तपिप्पल्यजाशकृद्गोदन्तशरशलाकाभिस्त्वग्दाहो यथास्वमभिष्यन्दादिषु तु भ्रूशङ्खललाटदेशेषु ग्रन्थ्यर्बुदार्शोभगन्दरगण्डमालाश्लीपदान्त्रवृद्धिदुष्टव्रणगतिनाड्यवगाढपूयालसकेषु जाम्बवौष्ठसूचीशलाकाघृतगुडमधुमधूच्छिष्टतैलवसाहेमताम्रायोरूप्यकांस्यैर्मांसदाहः सिरास्नायुसन्ध्यस्थिच्छदेशोणितातिप्रवृत्तिदन्तनाडीश्लिष्टवर्त्मोपपक्ष्मलगणलिङ्गनाशासम्यग्व्यधेषु जाम्ववौष्ठसूचीशलाकामधुमधूच्छिष्टगुडस्नेहैः सिरादिदाहः",
         "iast": "agniḥ kṣārādapi garīyānauṣadhaśastrakṣārairasiddhānāṃ taddāhasiddherapunarbhavācca tatrāgnikarma tvaci māṃse sirāsnāyusandhyasthiṣu ca prayujyate tatra maśatilakālakacarmakīlasarukstabdhapramlānāṅgābhiṣyandādhimanthaśirobhrūśaṅkhalalāṭarujārditeṣu sūryakāntapippalyajāśakṛdgodantaśaraśalākābhistvagdāho yathāsvamabhiṣyandādiṣu tu bhrūśaṅkhalalāṭadeśeṣu granthyarbudārśobhagandaragaṇḍamālāślīpadāntravṛddhiduṣṭavraṇagatināḍyavagāḍhapūyālasakeṣu jāmbavauṣṭhasūcīśalākāghṛtaguḍamadhumadhūcchiṣṭatailavasāhematāmrāyorūpyakāṃsyairmāṃsadāhaḥ sirāsnāyusandhyasthicchadeśoṇitātipravṛttidantanāḍīśliṣṭavartmopapakṣmalagaṇaliṅganāśāsamyagvyadheṣu jāmvavauṣṭhasūcīśalākāmadhumadhūcchiṣṭAguḍasnehaiḥ sirādidāhaḥ",
         "iast_ru": "агних̣ кш̣а̄ра̄дапи гарӣйа̄науш̣адхаш́астракш̣а̄раирасиддха̄на̄м̣ тадда̄хасиддхерапунарбхава̄чча татра̄гникарма твачи ма̄м̣се сира̄сна̄йусандхйастхиш̣у ча прайуджйате татра маш́атилака̄лакачармакӣласарукстабдхапрамла̄на̄н̇га̄бхиш̣йанда̄дхимантхаш́иробхрӯш́ан̇кхалала̄т̣аруджа̄рдитеш̣у сӯрйака̄нтапиппалйаджа̄ш́акр̣дгоданташ́араш́ала̄ка̄бхиствагда̄хо йатха̄свамабхиш̣йанда̄диш̣у ту бхрӯш́ан̇кхалала̄т̣адеш́еш̣у грантхйарбуда̄рш́обхагандараган̣д̣ама̄ла̄ш́лӣпада̄нтравр̣ддхидуш̣т̣авран̣агатина̄д̣йавага̄д̣хапӯйа̄ласакеш̣у джа̄мбавауш̣т̣хасӯчӣш́ала̄ка̄гхр̣тагуд̣амадхумадхӯччхиш̣т̣атаилаваса̄хемата̄мра̄йорӯпйака̄м̣сйаирма̄м̣сада̄хах̣ сира̄сна̄йусандхйастхиччхадеш́он̣ита̄типравр̣ттидантана̄д̣ӣш́лиш̣т̣авартмопапакш̣малаган̣алин̇гана̄ш́а̄самйагвйадхеш̣у джа̄мвавауш̣т̣хасӯчӣш́ала̄ка̄мадхумадхӯччхиш̣т̣агуд̣аснехаих̣ сира̄дида̄хах̣",
-        "text": "Огонь превосходит даже щёлочь для лечения болезней, не поддавшихся лекарствам, режущим орудиям и щёлочи, — благодаря надёжности прижигания и отсутствию рецидива. В этом случае прижигание огнём применяется на коже, мясе, сосудах, сухожилиях, суставах, костях. При родинках, тёмных пятнах, кожных бородавках, и боли, скованности, увядании членов тела; при абхишьянде, адхиманатхе, боли в голове, бровях, висках, лбу, — прижигание кожи следует проводить солнечным камнем (линзой), пиппали, козьим калом, воловьим зубом, раскалённой стрелой или зондом, соответственно случаю. При абхишьянде и подобном же, в области бровей, висков, лба; при узлах, опухолях, геморрое, свищах, зобе, слоновой болезни, грыже кишечника, испорченных ранах, фистулах, глубоко проникшем гное, аласаке, — прижигание мяса проводится «джамбавоштхой», иглой, зондом, гхи, патокой, мёдом, пчелиным воском, маслом, жиром, золотом, медью, железом, серебром, бронзой. При ранах сосудов, сухожилий, суставов, костных перегородок; при чрезмерном истечении крови; при болезнях зубов, фистул; при слипшемся веке, чрезмерном волосяном покрове, поражении семени, и при неправильно проведённом прокалывании, — прижигание сосудов и подобного проводится «джамбавоштхой», иглой, зондом, мёдом, пчелиным воском, патокой, умащением."
+        "text": "Огонь превосходит даже щёлочь для лечения болезней, не поддавшихся лекарствам, режущим орудиям и щёлочи, — благодаря надёжности прижигания и отсутствию рецидива. В этом случае прижигание огнём применяется на коже, мясе, сосудах, сухожилиях, суставах, костях. При родинках, тёмных пятнах, кожных бородавках, и боли, скованности, увядании членов тела; при абхишьянде, адхиманатхе, боли в голове, бровях, висках, лбу, — прижигание кожи следует проводить солнечным камнем (линзой), пиппали, козьим калом, воловьим зубом, раскалённой стрелой или зондом, соответственно случаю. При абхишьянде и подобном же, в области бровей, висков, лба; при узлах, опухолях, геморрое, свищах, зобе, слоновой болезни, грыже кишечника, испорченных ранах, фистулах, глубоко проникшем гное, аласаке, — прижигание мяса проводится «джамбавоштхой», иглой, зондом, гхи, патокой, мёдом, пчелиным воском, маслом, жиром, золотом, медью, железом, серебром, бронзой. При ранах сосудов, сухожилий, суставов, костных перегородок; при чрезмерном истечении крови; при болезнях зубов, фистул; при слипшемся веке, чрезмерном волосяном покрове, поражении семени, и при неправильно проведённом прокалывании, — прижигание сосудов и подобного проводится «джамбавоштхой», иглой, зондом, мёдом, пчелиным воском, патокой, умащением.",
+        "text_en": "Fire is superior even to alkali for the treatment of diseases that have not yielded to medicines, cutting instruments and alkali, owing to the certainty of the cauterization and the absence of recurrence. In this case, cauterization by fire is applied to the skin, flesh, vessels, tendons, joints and bones. In moles, dark spots, skin warts, and in pain, stiffness and wasting of the limbs; in abhishyanda, adhimantha, and pain in the head, eyebrows, temples and forehead, cauterization of the skin should be performed with a sunstone (lens), pippali, goat's dung, a cow's tooth, a heated arrow or probe, as appropriate to the case. In abhishyanda and the like, in the region of the eyebrows, temples and forehead; in nodules, tumours, haemorrhoids, fistulae, goitre, elephantiasis, intestinal hernia, vitiated wounds, sinuses, deeply penetrating pus, and alasaka, cauterization of the flesh is performed with the \"jambavoshtha\", a needle, a probe, ghee, jaggery, honey, beeswax, butter, fat, gold, copper, iron, silver or bronze. In wounds of the vessels, tendons, joints and bony partitions; in excessive bleeding; in diseases of the teeth and fistulae; in adhesion of the eyelid, excessive hairiness, injury of the semen, and in improperly performed puncturing, cauterization of the vessels and the like is performed with the \"jambavoshtha\", a needle, a probe, honey, beeswax, jaggery or an unguent."
       },
       {
         "type": "verse",
@@ -19544,7 +19554,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "न तु दहेद्भिन्नकोष्ठमन्तश्शोणितमनुद्धृतशल्यमनेकव्रणपीडितमुष्णे च काले तथा क्षारानर्हं च आत्ययिके तु व्याधौ कृतोष्णप्रतीकारस्य पिच्छिलमन्नमशितवतो ऽग्निकर्म कुर्यात्",
         "iast": "na tu dahedbhinnakoṣṭhamantaśśoṇitamanuddhṛtaśalyamanekavraṇapīḍitamuṣṇe ca kāle tathā kṣārānarhaṃ ca ātyayike tu vyādhau kṛtoṣṇapratīkārasya picchilamannamaśitavato 'gnikarma kuryāt",
         "iast_ru": "на ту дахедбхиннакош̣т̣хаманташ́ш́он̣итамануддхр̣таш́алйаманекавран̣апӣд̣итамуш̣н̣е ча ка̄ле татха̄ кш̣а̄ра̄нархам̣ ча а̄тйайике ту вйа̄дхау кр̣тош̣н̣апратӣка̄расйа пиччхиламаннамаш́итавато 'гникарма курйа̄т",
-        "text": "Не следует прижигать пациента с: разорванным желудочно-кишечным трактом, внутренним кровотечением, неизвлечённой шальей, многочисленными ранами; в жаркое время года; а также пациента, которому противопоказана щёлочь. При неотложной же болезни, пациенту, которому уже применено охлаждающее противодействие жаре и который поел слизистую пищу, — можно провести прижигание огнём."
+        "text": "Не следует прижигать пациента с: разорванным желудочно-кишечным трактом, внутренним кровотечением, неизвлечённой шальей, многочисленными ранами; в жаркое время года; а также пациента, которому противопоказана щёлочь. При неотложной же болезни, пациенту, которому уже применено охлаждающее противодействие жаре и который поел слизистую пищу, — можно провести прижигание огнём.",
+        "text_en": "Cauterization should not be done in a patient with a ruptured gastrointestinal tract, internal haemorrhage, an unextracted foreign body (shalya), or numerous wounds; in the hot season; nor in a patient for whom alkali is contraindicated. But in an urgent disease, in a patient to whom a cooling counter-measure against the heat has already been applied and who has eaten Kapha-producing food, cauterization by fire may be performed."
       },
       {
         "type": "verse",
@@ -19552,7 +19563,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ दाहार्हमातुरं कृतस्वस्त्ययनमुपहृतसर्वोपकरणं प्राक्शिरःसंविष्टमाप्तावलम्बितं कृत्वा वैद्यो निर्धूमबृहत्स्थिरदीप्तखदिरबदराद्यङ्गारैरयोघटनप्रकारेण भस्त्रानिलाध्मातैर्व्यजनेन चोर्ध्वानिर्गच्छज्ज्वालतयापादितापद्यमानभासुराग्निवर्णैर्जाम्बवौष्ठादिभिर्व्याधिप्रदेशवशाद्वलयार्धचन्दस्वस्तिकाष्टापदबिन्दुरेखाप्रतिसारणविकल्पेन मुहुर्मुहुर्हितोपहिताभिर्वाग्भिरद्भिश्चातुरमाश्वासयन् दहेदा सम्यग्दाहलिङ्गोत्पत्तेः उच्छूनसुषिरप्रलूनदन्तनाडीसजन्तुदुष्टव्रणेषु तु स्नेहमधूच्छिष्टमधुगुडेः पूरयित्वा दहेत् सम्यग्दग्धे च मधुसर्पिषी दद्याच्छीतस्निग्धाश्च प्रदेहान्",
         "iast": "atha dāhārhamāturaṃ kṛtasvastyayanamupahṛtasarvopakaraṇaṃ prākśiraḥsaṃviṣṭamāptāvalambitaṃ kṛtvā vaidyo nirdhūmabṛhatsthiradīptakhadirabadarādyaṅgārairayoghaṭanaprakāreṇa bhastrānilādhmātairvyajanena cordhvānirgacchajjvālatayāpāditāpadyamānabhāsurāgnivarṇairjāmbavauṣṭhādibhirvyādhipradeśavaśādvalayārdhacandasvastikāṣṭāpadabindurekhāpratisāraṇavikalpena muhurmuhurhitopahitābhirvāgbhiradbhiścāturamāśvāsayan dahedā samyagdāhaliṅgotpatteḥ ucchūnasuṣirapralūnadantanāḍīsajantuduṣṭavraṇeṣu tu snehamadhūcchiṣṭamadhuguḍeḥ pūrayitvā dahet samyagdagdhe ca madhusarpiṣī dadyācchītasnigdhāśca pradehān",
         "iast_ru": "атха да̄ха̄рхама̄турам̣ кр̣тасвастйайанамупахр̣тасарвопакаран̣ам̣ пра̄кш́ирах̣сам̣виш̣т̣ама̄пта̄валамбитам̣ кр̣тва̄ ваидйо нирдхӯмабр̣хатстхирадӣптакхадирабадара̄дйан̇га̄раирайогхат̣анапрака̄рен̣а бхастра̄нила̄дхма̄таирвйаджанена чордхва̄ниргаччхаджджва̄латайа̄па̄дита̄падйама̄набха̄сура̄гниварн̣аирджа̄мбавауш̣т̣ха̄дибхирвйа̄дхипрадеш́аваш́а̄двалайа̄рдхачандасвастика̄ш̣т̣а̄падабиндурекха̄пратиса̄ран̣авикалпена мухурмухурхитопахита̄бхирва̄гбхирадбхиш́ча̄турама̄ш́ва̄сайан дахеда̄ самйагда̄халин̇готпаттех̣ уччхӯнасуш̣ирапралӯнадантана̄д̣ӣсаджантудуш̣т̣авран̣еш̣у ту снехамадхӯччхиш̣т̣амадхугуд̣ех̣ пӯрайитва̄ дахет самйагдагдхе ча мадхусарпиш̣ӣ дадйа̄ччхӣтаснигдха̄ш́ча прадеха̄н",
-        "text": "Далее, пациента, подлежащего прижиганию, совершившего благоприятный обряд, для которого подготовлены все необходимые инструменты, — уложив головой на восток, придерживаемого надёжным помощником, — врач, нагрев инструменты «джамбавоштха» и подобные докрасна на бездымных, больших, устойчивых, разожжённых углях кхадиры, бадары и подобного, раздутых мехами наподобие обработки железа кузнецом, или веером, так чтобы пламя вздымалось вверх, — соответственно месту болезни, в форме кольца, полумесяца, свастики, восьмиугольника, точки, линии, или же способом растирания, — снова и снова успокаивая пациента приятными, ободряющими словами, — должен прижигать до появления признаков надлежащего прижигания. При же вздутых, полых, изъеденных гноем, заражённых червями зубных фистулах, испорченных ранах, следует, наполнив их умащением, пчелиным воском, мёдом, патокой, прижечь. При надлежащем прижигании следует дать мёд и гхи, а также холодные, маслянистые обмазывания."
+        "text": "Далее, пациента, подлежащего прижиганию, совершившего благоприятный обряд, для которого подготовлены все необходимые инструменты, — уложив головой на восток, придерживаемого надёжным помощником, — врач, нагрев инструменты «джамбавоштха» и подобные докрасна на бездымных, больших, устойчивых, разожжённых углях кхадиры, бадары и подобного, раздутых мехами наподобие обработки железа кузнецом, или веером, так чтобы пламя вздымалось вверх, — соответственно месту болезни, в форме кольца, полумесяца, свастики, восьмиугольника, точки, линии, или же способом растирания, — снова и снова успокаивая пациента приятными, ободряющими словами, — должен прижигать до появления признаков надлежащего прижигания. При же вздутых, полых, изъеденных гноем, заражённых червями зубных фистулах, испорченных ранах, следует, наполнив их умащением, пчелиным воском, мёдом, патокой, прижечь. При надлежащем прижигании следует дать мёд и гхи, а также холодные, маслянистые обмазывания.",
+        "text_en": "Next, the patient who is to be cauterized, having performed an auspicious rite and with all the necessary instruments prepared, laid with the head to the east and held by a reliable assistant, the physician, having heated the instruments such as the \"jambavoshtha\" red-hot over smokeless, large, steady, well-kindled coals of khadira, badara and the like, fanned with bellows like the working of iron by a smith, or with a fan, so that the flame rises upward, should cauterize, according to the site of the disease, in the form of a ring, crescent, svastika, octagon, dot or line, or else by the method of rubbing, repeatedly reassuring the patient with pleasant, encouraging words, until the signs of proper cauterization appear. But in swollen, hollow, pus-eaten, worm-infested dental fistulae and vitiated wounds, one should fill them with an unguent, beeswax, honey or jaggery and cauterize. After proper cauterization, honey and ghee should be given, together with cold, unctuous plasters."
       },
       {
         "type": "verse",
@@ -19560,7 +19572,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सम्यग्दग्धलिङ्गं पुनस्सशब्दं दहनं दुर्गन्धित्वं त्वक्सङ्कोचश्च त्वग्दग्धे कपोतवर्णत्वमल्पशोफरुजता शुष्कसङ्कुचितव्रणता च मांसदग्धे कृष्णोन्नतव्रणत्वं स्थिते च रक्ते लसीकास्रुतिः सिरादग्धे कृष्णारुणकर्कशस्थिरव्रणता स्नाय्वादिदग्धे च दुर्दग्धातिदग्धयोस्तु प्रमाददग्धवल्लक्षणम् चिकित्सितं च",
         "iast": "samyagdagdhaliṅgaṃ punassaśabdaṃ dahanaṃ durgandhitvaṃ tvaksaṅkocaśca tvagdagdhe kapotavarṇatvamalpaśopharujatā śuṣkasaṅkucitavraṇatā ca māṃsadagdhe kṛṣṇonnatavraṇatvaṃ sthite ca rakte lasīkāsrutiḥ sirādagdhe kṛṣṇāruṇakarkaśasthiravraṇatā snāyvādidagdhe ca durdagdhātidagdhayostu pramādadagdhavallakṣaṇam cikitsitaṃ ca",
         "iast_ru": "самйагдагдхалин̇гам̣ пунассаш́абдам̣ даханам̣ дургандхитвам̣ тваксан̇кочаш́ча твагдагдхе капотаварн̣атвамалпаш́опхаруджата̄ ш́уш̣касан̇кучитавран̣ата̄ ча ма̄м̣садагдхе кр̣ш̣н̣оннатавран̣атвам̣ стхите ча ракте ласӣка̄срутих̣ сира̄дагдхе кр̣ш̣н̣а̄рун̣акаркаш́астхиравран̣ата̄ сна̄йва̄дидагдхе ча дурдагдха̄тидагдхайосту прама̄дадагдхаваллакш̣ан̣ам чикитситам̣ ча",
-        "text": "Признак надлежащего прижигания: звучное шипение при прижигании, зловоние, сжатие кожи; при прижигании кожи — цвет голубя, малый отёк, боль, сухость и сжатие краёв раны; при прижигании мяса — тёмная, выпуклая рана, а при остановке крови — истечение лимфы; при прижигании сосуда — тёмно-красная, грубая, устойчивая рана; при прижигании сухожилия и подобного — аналогичные признаки. При недостаточном же и чрезмерном прижигании признаки такие же, как при неосторожном ожоге; и лечение также аналогично."
+        "text": "Признак надлежащего прижигания: звучное шипение при прижигании, зловоние, сжатие кожи; при прижигании кожи — цвет голубя, малый отёк, боль, сухость и сжатие краёв раны; при прижигании мяса — тёмная, выпуклая рана, а при остановке крови — истечение лимфы; при прижигании сосуда — тёмно-красная, грубая, устойчивая рана; при прижигании сухожилия и подобного — аналогичные признаки. При недостаточном же и чрезмерном прижигании признаки такие же, как при неосторожном ожоге; и лечение также аналогично.",
+        "text_en": "The sign of proper cauterization: a distinct hissing sound during cauterization, a foul smell, contraction of the skin; in cauterization of the skin, a dove-grey colour, slight swelling, pain, dryness and contraction of the edges of the wound; in cauterization of the flesh, a dark, raised wound, and when the blood is arrested, the discharge of lymph; in cauterization of a vessel, a dark-red, rough, firm wound; in cauterization of a tendon and the like, similar signs. In insufficient and excessive cauterization the signs are the same as in an accidental burn, and the treatment is likewise similar."
       },
       {
         "type": "verse",
@@ -19568,7 +19581,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रमाददग्धं पुनश्चतुर्विधं भवति तुत्थं दुर्दग्धं सम्यग्दग्धमतिदग्धं च तत्र यद्विवर्णमूष्यते ऽतिमात्रं तत्तुथम् यत्रोत्तिष्ठन्ति स्फोटास्तीव्रोषादाहरुज श्चिराच्चोपशाम्यन्ति तद्दुर्दग्धम् पक्वतालफलवर्णं समस्थितं पूर्वलक्षणयुक्तं च सम्यग्दग्धम् अतिदग्धे तूग्ररुजता धूमायनं मांसावलम्बनं सिरादिव्यापदो गम्भीरव्रणता ज्वरदाहतृण्मूर्छाच्छर्दयः शोणितातिप्रवृत्तिस्तन्निमित्ताश्चोपदवाः कृच्छ्रेण रोहणं रूढे च विवर्णतेति स्नेहदाहस्तु कष्टतरो भवति स हि स्नेहस्य सूक्ष्ममार्गानुसारित्वाद् दूरमनुप्रविशतीति भवति चात्र",
         "iast": "pramādadagdhaṃ punaścaturvidhaṃ bhavati tutthaṃ durdagdhaṃ samyagdagdhamatidagdhaṃ ca tatra yadvivarṇamūṣyate 'timātraṃ tattutham yatrottiṣṭhanti sphoṭāstīvroṣādāharuja ścirāccopaśāmyanti taddurdagdham pakvatālaphalavarṇaṃ samasthitaṃ pūrvalakṣaṇayuktaṃ ca samyagdagdham atidagdhe tūgrarujatā dhūmāyanaṃ māṃsāvalambanaṃ sirādivyāpado gambhīravraṇatā jvaradāhatṛṇmūrchācchardayaḥ śoṇitātipravṛttistannimittāścopadavāḥ kṛcchreṇa rohaṇaṃ rūḍhe ca vivarṇateti snehadāhastu kaṣṭataro bhavati sa hi snehasya sūkṣmamārgānusāritvād dūramanupraviśatīti bhavati cātra",
         "iast_ru": "прама̄дадагдхам̣ пунаш́чатурвидхам̣ бхавати туттхам̣ дурдагдхам̣ самйагдагдхаматидагдхам̣ ча татра йадвиварн̣амӯш̣йате 'тима̄трам̣ таттутхам йатроттиш̣т̣ханти спхот̣а̄стӣврош̣а̄да̄харуджа ш́чира̄ччопаш́а̄мйанти таддурдагдхам паквата̄лапхалаварн̣ам̣ самастхитам̣ пӯрвалакш̣ан̣айуктам̣ ча самйагдагдхам атидагдхе тӯграруджата̄ дхӯма̄йанам̣ ма̄м̣са̄валамбанам̣ сира̄дивйа̄падо гамбхӣравран̣ата̄ джварада̄хатр̣н̣мӯрчха̄ччхардайах̣ ш́он̣ита̄типравр̣ттистаннимитта̄ш́чопадава̄х̣ кр̣ччхрен̣а рохан̣ам̣ рӯд̣хе ча виварн̣атети снехада̄хасту каш̣т̣атаро бхавати са хи снехасйа сӯкш̣мама̄рга̄нуса̄ритва̄д дӯрамануправиш́атӣти бхавати ча̄тра",
-        "text": "Случайный ожог, в свою очередь, четырёх видов: «тутха» (лёгкий), недостаточный, надлежащий и чрезмерный. Из них, ожог, который обесцвечен и чрезмерно жжётся, — «тутха»; там же, где возникают волдыри, сильное жжение и боль, и которые успокаиваются лишь спустя долгое время, — недостаточный ожог; ожог цвета созревшего плода пальмиры, ровный, обладающий вышеупомянутыми признаками, — надлежащий; при чрезмерном же ожоге — сильная боль, ощущение дымления, свисание мяса, повреждение сосудов и подобного, глубокая рана, лихорадка, жжение, жажда, обморок, рвота, чрезмерное истечение крови и связанные с этим осложнения; заживление с трудом, а после заживления — изменение цвета кожи. Ожог же от умащения более тяжёлый; ибо умащение, из-за способности проникать по тонким путям, проникает глубоко. И здесь также применимо:"
+        "text": "Случайный ожог, в свою очередь, четырёх видов: «тутха» (лёгкий), недостаточный, надлежащий и чрезмерный. Из них, ожог, который обесцвечен и чрезмерно жжётся, — «тутха»; там же, где возникают волдыри, сильное жжение и боль, и которые успокаиваются лишь спустя долгое время, — недостаточный ожог; ожог цвета созревшего плода пальмиры, ровный, обладающий вышеупомянутыми признаками, — надлежащий; при чрезмерном же ожоге — сильная боль, ощущение дымления, свисание мяса, повреждение сосудов и подобного, глубокая рана, лихорадка, жжение, жажда, обморок, рвота, чрезмерное истечение крови и связанные с этим осложнения; заживление с трудом, а после заживления — изменение цвета кожи. Ожог же от умащения более тяжёлый; ибо умащение, из-за способности проникать по тонким путям, проникает глубоко. И здесь также применимо:",
+        "text_en": "The accidental burn, in turn, is of four kinds: \"tuttha\" (mild), insufficient, proper and excessive. Of these, a burn that is discoloured and burns excessively is \"tuttha\"; where blisters, intense burning and pain arise and which subside only after a long time, it is an insufficient burn; a burn of the colour of a ripe palmyra fruit, even, and having the signs mentioned above, is proper; but in an excessive burn there is severe pain, a sensation of fuming, sloughing of the flesh, damage to the vessels and the like, a deep wound, fever, burning, thirst, fainting, vomiting, excessive bleeding and the complications connected with it; healing with difficulty, and after healing, a change in the colour of the skin. The burn from an unguent is more severe; for the unguent, owing to its capacity to penetrate through subtle channels, penetrates deeply. Here too it is said:"
       },
       {
         "type": "verse",
@@ -19576,7 +19590,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तुत्थस्यग्निप्रतपनं कार्यमुष्णं च भेषजम् स्त्याने रक्ते हिमैर्नोष्मा निष्क्रामति यतो बहिः",
         "iast": "tutthasyagnipratapanaṃ kāryamuṣṇaṃ ca bheṣajam styāne rakte himairnoṣmā niṣkrāmati yato bahiḥ",
         "iast_ru": "туттхасйагнипратапанам̣ ка̄рйамуш̣н̣ам̣ ча бхеш̣аджам стйа̄не ракте химаирнош̣ма̄ ниш̣кра̄мати йато бахих̣",
-        "text": "При «тутхе» следует применять повторное прогревание огнём и горячее лекарство; ибо, если кровь застаивается из-за применения холодных средств, жар не выходит наружу."
+        "text": "При «тутхе» следует применять повторное прогревание огнём и горячее лекарство; ибо, если кровь застаивается из-за применения холодных средств, жар не выходит наружу.",
+        "text_en": "In \"tuttha\", repeated warming with fire and a hot medicine should be applied; for if the blood becomes stagnant through the application of cold measures, the heat does not escape outward."
       },
       {
         "type": "verse",
@@ -19584,7 +19599,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वेदना वर्धते तेन रुधिरं च विदह्यते उष्णं निष्क्रामयत् कुर्यादूष्माणं मन्दतां रुजः",
         "iast": "vedanā vardhate tena rudhiraṃ ca vidahyate uṣṇaṃ niṣkrāmayat kuryādūṣmāṇaṃ mandatāṃ rujaḥ",
         "iast_ru": "ведана̄ вардхате тена рудхирам̣ ча видахйате уш̣н̣ам̣ ниш̣кра̄майат курйа̄дӯш̣ма̄н̣ам̣ мандата̄м̣ руджах̣",
-        "text": "От этого усиливается боль, и кровь начинает «гореть» изнутри; горячее же лечение, выводя жар наружу, ослабляет жар и боль."
+        "text": "От этого усиливается боль, и кровь начинает «гореть» изнутри; горячее же лечение, выводя жар наружу, ослабляет жар и боль.",
+        "text_en": "From this the pain increases and the blood begins to \"burn\" within; but hot treatment, by drawing the heat outward, reduces the heat and the pain."
       },
       {
         "type": "verse",
@@ -19592,7 +19608,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीतामुष्णां च दुर्दग्धे क्रियां कृत्वा ततः पुनः घृतालेपनसेकांस्तु शीतानेवावचारयेत्",
         "iast": "śītāmuṣṇāṃ ca durdagdhe kriyāṃ kṛtvā tataḥ punaḥ ghṛtālepanasekāṃstu śītānevāvacārayet",
         "iast_ru": "ш́ӣта̄муш̣н̣а̄м̣ ча дурдагдхе крийа̄м̣ кр̣тва̄ татах̣ пунах̣ гхр̣та̄лепанасека̄м̣сту ш́ӣта̄нева̄вача̄райет",
-        "text": "При недостаточном ожоге следует применить холодную, а затем горячую процедуру; затем же следует применять только холодные обмазывания гхи и орошения."
+        "text": "При недостаточном ожоге следует применить холодную, а затем горячую процедуру; затем же следует применять только холодные обмазывания гхи и орошения.",
+        "text_en": "In an insufficient burn, a cold and then a hot procedure should be applied; thereafter only cold ghee plasters and affusions should be used."
       },
       {
         "type": "verse",
@@ -19600,7 +19617,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सम्यग्दग्धे तवक्षीरीप्लक्षचन्दनगैरिकैः सामृतैः सघृतैर्लेपः कल्कैर्वानूपमांसजैः",
         "iast": "samyagdagdhe tavakṣīrīplakṣacandanagairikaiḥ sāmṛtaiḥ saghṛtairlepaḥ kalkairvānūpamāṃsajaiḥ",
         "iast_ru": "самйагдагдхе тавакш̣ӣрӣплакш̣ачанданагаирикаих̣ са̄мр̣таих̣ сагхр̣таирлепах̣ калкаирва̄нӯпама̄м̣саджаих̣",
-        "text": "При надлежащем ожоге — обмазывание тавакшири, корой плакши, сандалом, охрой, приготовленное с амритой и гхи; или же кальками, приготовленными из мяса животных болотистых земель."
+        "text": "При надлежащем ожоге — обмазывание тавакшири, корой плакши, сандалом, охрой, приготовленное с амритой и гхи; или же кальками, приготовленными из мяса животных болотистых земель.",
+        "text_en": "In a proper burn: a plaster of tavakshiri, plaksha bark, sandalwood and ochre, prepared with amrita and ghee; or else pastes prepared from the flesh of animals of marshy regions."
       },
       {
         "type": "verse",
@@ -19608,7 +19626,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शान्तोष्मणि परं कुर्यात् पित्तविद्रधिसाधनम् अतिदग्धे विशीर्णानिमांसान्युद् वृत्य शीतलाम्",
         "iast": "śāntoṣmaṇi paraṃ kuryāt pittavidradhisādhanam atidagdhe viśīrṇānimāṃsānyud vṛtya śītalām",
         "iast_ru": "ш́а̄нтош̣ман̣и парам̣ курйа̄т питтавидрадхиса̄дханам атидагдхе виш́ӣрн̣а̄нима̄м̣са̄нйуд вр̣тйа ш́ӣтала̄м",
-        "text": "Когда жар успокоится, следует далее применять средства, как при абсцессе от питты. При чрезмерном же ожоге, удалив распадающуюся плоть, следует применить холодную"
+        "text": "Когда жар успокоится, следует далее применять средства, как при абсцессе от питты. При чрезмерном же ожоге, удалив распадающуюся плоть, следует применить холодную",
+        "text_en": "When the heat has subsided, one should further apply the measures prescribed for a Pitta abscess. In an excessive burn, having removed the disintegrating flesh, one should apply the cooling"
       },
       {
         "type": "verse",
@@ -19616,7 +19635,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रियां कुर्यात्ततः पश्चाच्छालितण्डुलकण्डनैः तिन्दुकीत्वक्कषायैर्वा पिष्टैः साज्यैः प्रेलेपयेत्",
         "iast": "kriyāṃ kuryāttataḥ paścācchālitaṇḍulakaṇḍanaiḥ tindukītvakkaṣāyairvā piṣṭaiḥ sājyaiḥ prelepayet",
         "iast_ru": "крийа̄м̣ курйа̄ттатах̣ паш́ча̄ччха̄литан̣д̣улакан̣д̣анаих̣ тиндукӣтваккаш̣а̄йаирва̄ пиш̣т̣аих̣ са̄джйаих̣ прелепайет",
-        "text": "процедуру; затем следует наносить обмазывание порошком риса шали или пастой из коры тиндуки, вяжущей, растёртой, с гхи."
+        "text": "процедуру; затем следует наносить обмазывание порошком риса шали или пастой из коры тиндуки, вяжущей, растёртой, с гхи.",
+        "text_en": "procedure; thereafter a plaster of powdered shali rice, or a paste of tinduka bark, astringent, ground, with ghee, should be applied."
       },
       {
         "type": "verse",
@@ -19624,7 +19644,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुडूच्याश्छादयेत् पत्रैरथवौपोदकैर्व्रणम् भेषजं चास्य कुर्वीत सर्वं पित्तविसर्पवत्",
         "iast": "guḍūcyāśchādayet patrairathavaupodakairvraṇam bheṣajaṃ cāsya kurvīta sarvaṃ pittavisarpavat",
         "iast_ru": "гуд̣ӯчйа̄ш́чха̄дайет патраиратхавауподакаирвран̣ам бхеш̣аджам̣ ча̄сйа курвӣта сарвам̣ питтависарпават",
-        "text": "Следует накрыть рану листьями гудучи или уподаки; и всё лечение для неё следует проводить так же, как при рожистом воспалении от питты."
+        "text": "Следует накрыть рану листьями гудучи или уподаки; и всё лечение для неё следует проводить так же, как при рожистом воспалении от питты.",
+        "text_en": "The wound should be covered with leaves of guduchi or upodaka; and the whole treatment for it should be carried out as for Pitta erysipelas."
       },
       {
         "type": "verse",
@@ -19632,7 +19653,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहदग्धे भृशतरं रूक्षं तत्र तु योजयेत् शस्त्रक्षाराग्नयो यस्मान्मृत्योः परममायुधम् अप्रमत्तो भिषक् तस्मात्तान् सम्यगवचारयेत्",
         "iast": "snehadagdhe bhṛśataraṃ rūkṣaṃ tatra tu yojayet śastrakṣārāgnayo yasmānmṛtyoḥ paramamāyudham apramatto bhiṣak tasmāttān samyagavacārayet",
         "iast_ru": "снехадагдхе бхр̣ш́атарам̣ рӯкш̣ам̣ татра ту йоджайет ш́астракш̣а̄ра̄гнайо йасма̄нмр̣тйох̣ парамама̄йудхам апраматто бхиш̣ак тасма̄тта̄н самйагавача̄райет",
-        "text": "При ожоге от умащения следует применять ещё более сильные сухие средства. Поскольку режущее орудие, щёлочь и огонь — высшее оружие даже против смерти, — врачу, поэтому, не следует проявлять небрежность, и следует применять их надлежащим образом."
+        "text": "При ожоге от умащения следует применять ещё более сильные сухие средства. Поскольку режущее орудие, щёлочь и огонь — высшее оружие даже против смерти, — врачу, поэтому, не следует проявлять небрежность, и следует применять их надлежащим образом.",
+        "text_en": "In a burn from an unguent, still stronger drying measures should be applied. Since the cutting instrument, alkali and fire are the supreme weapons even against death, the physician therefore should not be negligent, and should apply them properly."
       },
       {
         "type": "verse",
@@ -19640,7 +19662,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इति तन्त्रस्य हृदयं सूत्रस्थानं समाप्यते अत्रार्थाः सूत्रिताः सूक्ष्माः प्रतन्यन्ते हि सर्वतः",
         "iast": "iti tantrasya hṛdayaṃ sūtrasthānaṃ samāpyate atrārthāḥ sūtritāḥ sūkṣmāḥ pratanyante hi sarvataḥ",
         "iast_ru": "ити тантрасйа хр̣дайам̣ сӯтрастха̄нам̣ сама̄пйате атра̄ртха̄х̣ сӯтрита̄х̣ сӯкш̣ма̄х̣ пратанйанте хи сарватах̣",
-        "text": "Так завершается «Сутрастхана» — сердце этого трактата. Здесь темы изложены кратко в виде сутр; они же будут подробно раскрыты повсюду далее."
+        "text": "Так завершается «Сутрастхана» — сердце этого трактата. Здесь темы изложены кратко в виде сутр; они же будут подробно раскрыты повсюду далее.",
+        "text_en": "Thus ends the \"Sutrasthana\", the heart of this treatise. Here the subjects are stated briefly in the form of sutras; they will be set forth in detail throughout what follows."
       }
     ]
   },
@@ -19662,7 +19685,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातः पुत्रकामीयमध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athātaḥ putrakāmīyamadhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄тах̣ путрака̄мӣйамадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Путракамийя» («О желающих потомства») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Путракамийя» («О желающих потомства») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter entitled \"Putrakamiya\" (\"On Those Desiring Offspring\"), as the great sages, beginning with Atreya, declared."
       },
       {
         "type": "verse",
@@ -19670,7 +19694,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ खलु पुमानेकविंशतिवर्षः कन्यामतुल्यगोत्रां तुल्याभिजनामसञ्चारिरोगकुलप्रसूतं रूपशीललक्षणसम्पन्नामनूनाविनष्टदन्तौष्ठकर्णनासानखकेशस्तनीं मृदुमरोगप्रकृतिमकपिलमपिङ्गलामहीनाधिकाङ्गीं द्वादशवर्षदेशीयाममरभुजगसरिदचलवृक्षपक्षिनक्षत्रान्त्यप्रेष्यभीषणकनामान्यनुद्वहन्तीमनघामनिन्द्यामनिन्द्येन विधिनोद्वहेत्",
         "iast": "atha khalu pumānekaviṃśativarṣaḥ kanyāmatulyagotrāṃ tulyābhijanāmasañcārirogakulaprasūtaṃ rūpaśīlalakṣaṇasampannāmanūnāvinaṣṭadantauṣṭhakarṇanāsānakhakeśastanīṃ mṛdumarogaprakṛtimakapilamapiṅgalāmahīnādhikāṅgīṃ dvādaśavarṣadeśīyāmamarabhujagasaridacalavṛkṣapakṣinakṣatrāntyapreṣyabhīṣaṇakanāmānyanudvahantīmanaghāmanindyāmanindyena vidhinodvahet",
         "iast_ru": "атха кхалу пума̄некавим̣ш́ативарш̣ах̣ канйа̄матулйаготра̄м̣ тулйа̄бхиджана̄масан̃ча̄рирогакулапрасӯтам̣ рӯпаш́ӣлалакш̣ан̣асампанна̄манӯна̄винаш̣т̣адантауш̣т̣хакарн̣ана̄са̄накхакеш́астанӣм̣ мр̣думарогапракр̣тимакапиламапин̇гала̄махӣна̄дхика̄н̇гӣм̣ два̄даш́аварш̣адеш́ӣйа̄мамарабхуджагасаридачалавр̣кш̣апакш̣инакш̣атра̄нтйапреш̣йабхӣш̣ан̣акана̄ма̄нйанудвахантӣманагха̄маниндйа̄маниндйена видхинодвахет",
-        "text": "Далее, поистине, мужчина двадцати одного года должен взять в жёны девушку из семьи, не имеющей общей готры, но равного происхождения, рождённую из рода, свободного от наследственных болезней; наделённую красотой, нравом, благоприятными признаками; с полными, неповреждёнными зубами, губами, ушами, носом, ногтями, волосами, грудью; мягкого, здорового телосложения; не рыжеватую, не желтоватую; с не увеличенными и не уменьшенными частями тела; примерно двенадцати лет; чьё имя не связано с названиями богов, змеев, рек, гор, деревьев, птиц, звёзд, касты неприкасаемых, слуг или чего-либо устрашающего; безупречную, безукоризненную, — взять в жёны безукоризненным образом."
+        "text": "Далее, поистине, мужчина двадцати одного года должен взять в жёны девушку из семьи, не имеющей общей готры, но равного происхождения, рождённую из рода, свободного от наследственных болезней; наделённую красотой, нравом, благоприятными признаками; с полными, неповреждёнными зубами, губами, ушами, носом, ногтями, волосами, грудью; мягкого, здорового телосложения; не рыжеватую, не желтоватую; с не увеличенными и не уменьшенными частями тела; примерно двенадцати лет; чьё имя не связано с названиями богов, змеев, рек, гор, деревьев, птиц, звёзд, касты неприкасаемых, слуг или чего-либо устрашающего; безупречную, безукоризненную, — взять в жёны безукоризненным образом.",
+        "text_en": "Now, indeed, a man of twenty-one years should take as wife a girl from a family that does not share his gotra but is of equal birth, born of a lineage free from hereditary diseases; endowed with beauty, good character and auspicious marks; with complete, undamaged teeth, lips, ears, nose, nails, hair and breasts; of soft, healthy constitution; not reddish-brown, not yellowish; with limbs neither enlarged nor diminished; about twelve years of age; whose name is not connected with the names of gods, serpents, rivers, mountains, trees, birds, stars, the untouchable castes, servants, or anything frightening; faultless and irreproachable. He should take her as wife in an irreproachable manner."
       },
       {
         "type": "verse",
@@ -19678,7 +19703,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्यां षोडशवर्षायां पञ्चविंशतिवर्षः पुरुषः पुत्रार्थं प्रयतेत तदा हि तौ प्राप्तवीर्यौ वीर्यान्वितमपत्यं जनयतः ऊनपञ्चविंशतिवर्षेणोनषोडशवर्षायामाहितो गर्भः कुक्षिस्थ एव विनाशमाप्नुयादल्पायुर्बलारोग्यविभवो वा स्याद्विकलेन्द्रियो वा ऋतावाद्ये च रात्रित्रये तथा दुष्टे शुक्रार्तव इति",
         "iast": "tasyāṃ ṣoḍaśavarṣāyāṃ pañcaviṃśativarṣaḥ puruṣaḥ putrārthaṃ prayateta tadā hi tau prāptavīryau vīryānvitamapatyaṃ janayataḥ ūnapañcaviṃśativarṣeṇonaṣoḍaśavarṣāyāmāhito garbhaḥ kukṣistha eva vināśamāpnuyādalpāyurbalārogyavibhavo vā syādvikalendriyo vā ṛtāvādye ca rātritraye tathā duṣṭe śukrārtava iti",
         "iast_ru": "тасйа̄м̣ ш̣од̣аш́аварш̣а̄йа̄м̣ пан̃чавим̣ш́ативарш̣ах̣ пуруш̣ах̣ путра̄ртхам̣ прайатета тада̄ хи тау пра̄птавӣрйау вӣрйа̄нвитамапатйам̣ джанайатах̣ ӯнапан̃чавим̣ш́ативарш̣ен̣онаш̣од̣аш́аварш̣а̄йа̄ма̄хито гарбхах̣ кукш̣истха ева вина̄ш́ама̄пнуйа̄далпа̄йурбала̄рогйавибхаво ва̄ сйа̄двикалендрийо ва̄ р̣та̄ва̄дйе ча ра̄тритрайе татха̄ душ̣т̣е ш́укра̄ртава ити",
-        "text": "Когда ей исполнится шестнадцать лет, мужчина двадцати пяти лет должен стремиться к зачатию потомства; ибо тогда оба, достигшие полной силы, порождают потомство, наделённое этой силой. Если же зачатие происходит мужчиной моложе двадцати пяти лет с женщиной моложе шестнадцати лет, — плод, зачатый так, может погибнуть, ещё находясь в утробе, или же будет иметь малую продолжительность жизни, силу, здоровье, благополучие, или же будет с повреждёнными органами чувств; то же самое происходит в первые три ночи менструального цикла, а также при испорченном семени или менструальной крови."
+        "text": "Когда ей исполнится шестнадцать лет, мужчина двадцати пяти лет должен стремиться к зачатию потомства; ибо тогда оба, достигшие полной силы, порождают потомство, наделённое этой силой. Если же зачатие происходит мужчиной моложе двадцати пяти лет с женщиной моложе шестнадцати лет, — плод, зачатый так, может погибнуть, ещё находясь в утробе, или же будет иметь малую продолжительность жизни, силу, здоровье, благополучие, или же будет с повреждёнными органами чувств; то же самое происходит в первые три ночи менструального цикла, а также при испорченном семени или менструальной крови.",
+        "text_en": "When she reaches sixteen years, the man of twenty-five years should seek to conceive offspring; for then both, having attained full strength, produce offspring endowed with that strength. But if conception takes place by a man younger than twenty-five with a woman younger than sixteen, the foetus so conceived may perish while still in the womb, or will have a short span of life, little strength, poor health and little prosperity, or will have impaired sense organs; the same happens in the first three nights of the menstrual cycle, and also with vitiated semen or menstrual blood."
       },
       {
         "type": "verse",
@@ -19686,7 +19712,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्राहारस्य सम्यक्परिणतस्य क्रमान्मज्जानमनुप्राप्तस्य सारः शुक्रसंज्ञां लभते तत्तु क्षीर इव सर्पिरिक्षुरस इव गुडः शरीरे शुक्रधरां कलामाश्रित्यास्रुतं सर्वाङ्गव्यापितया स्थितम् विशेषतश्च मज्जमुष्कस्तनेषु हर्षोदीरितं तु संघट्टनेन हृदयावेशात् पिण्डीभूतमङ्गादङ्गात् प्रवर्तते तत् सौम्यं स्निग्धं गुरु शुक्लं मधुगन्धि मधुरं पिच्छिलं बहु बहलं घृततैलक्षौद्रान्यतमवर्णं च शुक्रं गर्भाधानयोग्यं भवति",
         "iast": "tatrāhārasya samyakpariṇatasya kramānmajjānamanuprāptasya sāraḥ śukrasaṃjñāṃ labhate tattu kṣīra iva sarpirikṣurasa iva guḍaḥ śarīre śukradharāṃ kalāmāśrityāsrutaṃ sarvāṅgavyāpitayā sthitam viśeṣataśca majjamuṣkastaneṣu harṣodīritaṃ tu saṃghaṭṭanena hṛdayāveśāt piṇḍībhūtamaṅgādaṅgāt pravartate tat saumyaṃ snigdhaṃ guru śuklaṃ madhugandhi madhuraṃ picchilaṃ bahu bahalaṃ ghṛtatailakṣaudrānyatamavarṇaṃ ca śukraṃ garbhādhānayogyaṃ bhavati",
         "iast_ru": "татра̄ха̄расйа самйакпарин̣атасйа крама̄нмаджджа̄наманупра̄птасйа са̄рах̣ ш́украсам̣джн̃а̄м̣ лабхате татту кш̣ӣра ива сарпирикш̣ураса ива гуд̣ах̣ ш́арӣре ш́украдхара̄м̣ кала̄ма̄ш́ритйа̄срутам̣ сарва̄н̇гавйа̄питайа̄ стхитам виш́еш̣аташ́ча маджджамуш̣кастанеш̣у харш̣одӣритам̣ ту сам̣гхат̣т̣анена хр̣дайа̄веш́а̄т пин̣д̣ӣбхӯтаман̇га̄дан̇га̄т правартате тат саумйам̣ снигдхам̣ гуру ш́уклам̣ мадхугандхи мадхурам̣ пиччхилам̣ баху бахалам̣ гхр̣татаилакш̣аудра̄нйатамаварн̣ам̣ ча ш́украм̣ гарбха̄дха̄найогйам̣ бхавати",
-        "text": "В этом случае сущность (сара) надлежащим образом переваренной пищи, последовательно достигающая костного мозга, обретает название «шукра» (семя); оно же, подобно тому, как гхи содержится в молоке или патока в соке сахарного тростника, — пребывает в теле, находясь в скрытом виде во всех частях тела, опираясь на свою «шукрадхара калу»; особенно же оно сосредоточено в костном мозге, яичках, груди. Возбуждённое же наслаждением, от трения, из-за вовлечения сердца, — оно, собравшись из всех частей тела, изливается. Оно, если сомово (лунной природы), маслянистое, тяжёлое, белое, пахнущее мёдом, сладкое, слизистое, обильное, густое, и цвета гхи, масла или мёда, — такое семя пригодно для зачатия."
+        "text": "В этом случае сущность (сара) надлежащим образом переваренной пищи, последовательно достигающая костного мозга, обретает название «шукра» (семя); оно же, подобно тому, как гхи содержится в молоке или патока в соке сахарного тростника, — пребывает в теле, находясь в скрытом виде во всех частях тела, опираясь на свою «шукрадхара калу»; особенно же оно сосредоточено в костном мозге, яичках, груди. Возбуждённое же наслаждением, от трения, из-за вовлечения сердца, — оно, собравшись из всех частей тела, изливается. Оно, если сомово (лунной природы), маслянистое, тяжёлое, белое, пахнущее мёдом, сладкое, слизистое, обильное, густое, и цвета гхи, масла или мёда, — такое семя пригодно для зачатия.",
+        "text_en": "In this regard, the essence (sara) of properly digested food, reaching successively the bone marrow, acquires the name \"shukra\" (semen); like ghee contained in milk or jaggery in sugarcane juice, it dwells in the body in a latent state in all parts of the body, resting on its own \"shukradhara kala\"; it is especially concentrated in the bone marrow, the testicles and the breast. Excited by pleasure, by friction, through the involvement of the heart, it is collected from all parts of the body and is discharged. If it is saumya (lunar in nature), unctuous, heavy, white, smelling of honey, sweet, slimy, abundant, thick, and of the colour of ghee, butter or honey, such semen is fit for conception."
       },
       {
         "type": "verse",
@@ -19694,7 +19721,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा रक्तमेव च स्त्रीणां मासे मासे गर्भकोष्ठमनुप्राप्य त्र्यहं प्रवर्तमानमार्तवमित्याहुः अतिप्रसङ्गेनानृतावृतौ वा तदेवासृग्दरं प्रदरं व्यापदं च रक्तयोनिसंज्ञां लभते तत्साधने रक्तपित्तचिकित्सितं गुह्यरोगप्रतिषेधं चेक्षेत",
         "iast": "tathā raktameva ca strīṇāṃ māse māse garbhakoṣṭhamanuprāpya tryahaṃ pravartamānamārtavamityāhuḥ atiprasaṅgenānṛtāvṛtau vā tadevāsṛgdaraṃ pradaraṃ vyāpadaṃ ca raktayonisaṃjñāṃ labhate tatsādhane raktapittacikitsitaṃ guhyarogapratiṣedhaṃ cekṣeta",
         "iast_ru": "татха̄ рактамева ча стрӣн̣а̄м̣ ма̄се ма̄се гарбхакош̣т̣хаманупра̄пйа трйахам̣ правартама̄нама̄ртавамитйа̄хух̣ атипрасан̇гена̄нр̣та̄вр̣тау ва̄ тадева̄ср̣гдарам̣ прадарам̣ вйа̄падам̣ ча рактайонисам̣джн̃а̄м̣ лабхате татса̄дхане рактапиттачикитситам̣ гухйарогапратиш̣едхам̣ чекш̣ета",
-        "text": "Подобным же образом, кровь у женщин, ежемесячно достигающая полости матки и истекающая в течение трёх дней, называется «артава» (менструальной кровью). При чрезмерном же истечении, не вовремя или во время самого цикла, — та же кровь называется «асригдара», «прадара» или расстройством, получающим название «ракта-йони»; для её лечения следует обратиться к разделу о лечении кровяной питты и к разделу о противодействии интимным болезням."
+        "text": "Подобным же образом, кровь у женщин, ежемесячно достигающая полости матки и истекающая в течение трёх дней, называется «артава» (менструальной кровью). При чрезмерном же истечении, не вовремя или во время самого цикла, — та же кровь называется «асригдара», «прадара» или расстройством, получающим название «ракта-йони»; для её лечения следует обратиться к разделу о лечении кровяной питты и к разделу о противодействии интимным болезням.",
+        "text_en": "Likewise, the blood in women, which reaches the cavity of the uterus every month and flows for three days, is called \"artava\" (menstrual blood). But in excessive flow, at the wrong time or in the midst of the cycle, the same blood is called \"asrigdara\", \"pradara\", or a disorder known as \"rakta-yoni\"; for its treatment one should refer to the section on the treatment of Raktapitta and the section on the treatment of diseases of the genital tract."
       },
       {
         "type": "verse",
@@ -19702,7 +19730,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातकफावृतमार्गाणां चाप्रवर्तमानं पित्तलैरुपाचरेत् तद्धि वर्द्धमानमन्तर्वर्तमानं सशुक्रमशुक्रं वा जीवरहितं वातलान्यासेवमानाया योषितो गर्भलिङ्गानि दर्शयद् गुल्मीभवति तत्र गुल्मचिकित्सितमीक्षेत",
         "iast": "vātakaphāvṛtamārgāṇāṃ cāpravartamānaṃ pittalairupācaret taddhi varddhamānamantarvartamānaṃ saśukramaśukraṃ vā jīvarahitaṃ vātalānyāsevamānāyā yoṣito garbhaliṅgāni darśayad gulmībhavati tatra gulmacikitsitamīkṣeta",
         "iast_ru": "ва̄такапха̄вр̣тама̄рга̄н̣а̄м̣ ча̄правартама̄нам̣ питталаирупа̄чарет таддхи варддхама̄намантарвартама̄нам̣ саш́украмаш́украм̣ ва̄ джӣварахитам̣ ва̄тала̄нйа̄севама̄на̄йа̄ йош̣ито гарбхалин̇га̄ни дарш́айад гулмӣбхавати татра гулмачикитситамӣкш̣ета",
-        "text": "При непроходимости, вызванной закупоркой путей ветром-капхой, следует лечить средствами, устраняющими питту. Ибо эта кровь, возрастая, и находясь внутри, — соединённая с семенем или без семени, но лишённая жизни, — у женщины, употребляющей пищу, вызывающую избыток ветра, проявляя признаки беременности, превращается в гульму; в этом случае следует обратиться к лечению гульмы."
+        "text": "При непроходимости, вызванной закупоркой путей ветром-капхой, следует лечить средствами, устраняющими питту. Ибо эта кровь, возрастая, и находясь внутри, — соединённая с семенем или без семени, но лишённая жизни, — у женщины, употребляющей пищу, вызывающую избыток ветра, проявляя признаки беременности, превращается в гульму; в этом случае следует обратиться к лечению гульмы.",
+        "text_en": "In obstruction caused by blockage of the channels by Vata-Kapha, one should treat with remedies that pacify Pitta. For this blood, increasing and remaining within, combined with semen or without semen but lacking life, in a woman who takes food that causes an excess of Vata, showing the signs of pregnancy, turns into gulma; in this case one should refer to the treatment of gulma."
       },
       {
         "type": "verse",
@@ -19710,7 +19739,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कदाचिद्वा गर्भ इव वातोदरं भवति तद्वातोपशमनैरुपशाम्यति",
         "iast": "kadācidvā garbha iva vātodaraṃ bhavati tadvātopaśamanairupaśāmyati",
         "iast_ru": "када̄чидва̄ гарбха ива ва̄тодарам̣ бхавати тадва̄топаш́аманаирупаш́а̄мйати",
-        "text": "Иногда же, подобно беременности, возникает «ватодара» (вздутие живота от ветра); оно успокаивается средствами, устраняющими ветер."
+        "text": "Иногда же, подобно беременности, возникает «ватодара» (вздутие живота от ветра); оно успокаивается средствами, устраняющими ветер.",
+        "text_en": "Sometimes, resembling pregnancy, \"vatodara\" (distension of the abdomen from Vata) arises; it subsides with remedies that pacify Vata."
       },
       {
         "type": "verse",
@@ -19718,7 +19748,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तदेव कदाचिदार्तवं सौम्यैर्बृंहणात्मभिराहारविहारैः स्तम्भितमनुपद्रवमेवोदरं गर्भाधिष्ठितमिव वर्धयति येन तामगर्भां गर्भिणीमाहुर्मूढाः ततो विपरीतैर्यदृच्छया वा प्रवृत्ते रक्ते गर्भशरीरमपश्यन्तो भूतहृतमित्यज्ञा व्रुवते यस्मात्सम्भवत्योजसो ऽपहरणं रक्षोभिर्न तु शरीरापहरणमनिष्टत्वादशक्तेर्वा इच्छाशक्त्योर्हि प्रवृत्तेरुपलब्धिः न च दृश्यते कस्यचिदमानुषैर्देहापहारः",
         "iast": "tadeva kadācidārtavaṃ saumyairbṛṃhaṇātmabhirāhāravihāraiḥ stambhitamanupadravamevodaraṃ garbhādhiṣṭhitamiva vardhayati yena tāmagarbhāṃ garbhiṇīmāhurmūḍhāḥ tato viparītairyadṛcchayā vā pravṛtte rakte garbhaśarīramapaśyanto bhūtahṛtamityajñā vruvate yasmātsambhavatyojaso 'paharaṇaṃ rakṣobhirna tu śarīrāpaharaṇamaniṣṭatvādaśaktervā icchāśaktyorhi pravṛtterupalabdhiḥ na ca dṛśyate kasyacidamānuṣairdehāpahāraḥ",
         "iast_ru": "тадева када̄чида̄ртавам̣ саумйаирбр̣м̣хан̣а̄тмабхира̄ха̄равиха̄раих̣ стамбхитаманупадравамеводарам̣ гарбха̄дхиш̣т̣хитамива вардхайати йена та̄магарбха̄м̣ гарбхин̣ӣма̄хурмӯд̣ха̄х̣ тато випарӣтаирйадр̣ччхайа̄ ва̄ правр̣тте ракте гарбхаш́арӣрамапаш́йанто бхӯтахр̣тамитйаджн̃а̄ врувате йасма̄тсамбхаватйоджасо 'пахаран̣ам̣ ракш̣обхирна ту ш́арӣра̄пахаран̣аманиш̣т̣атва̄даш́актерва̄ иччха̄ш́актйорхи правр̣ттерупалабдхих̣ на ча др̣ш́йате касйачидама̄нуш̣аирдеха̄паха̄рах̣",
-        "text": "Иногда же именно эта менструальная кровь, задержанная мягкими, укрепляющими по своей природе пищей и образом жизни, без осложнений, увеличивает живот, подобно тому, как это происходит при беременности, — из-за чего невежды называют такую женщину, не беременную на самом деле, «беременной». Затем, при обратных условиях, или же случайно, когда кровь снова начинает течь, не увидев тела плода, невежественные люди говорят, что оно «похищено духами»; но это неверно, поскольку возможно похищение оджаса злыми духами, но не похищение самого тела — из-за нежелательности этого или неспособности на это; ибо о действии желания и способности можно судить лишь по их проявлению; и никогда не наблюдалось похищения тела нечеловеческими существами у кого бы то ни было."
+        "text": "Иногда же именно эта менструальная кровь, задержанная мягкими, укрепляющими по своей природе пищей и образом жизни, без осложнений, увеличивает живот, подобно тому, как это происходит при беременности, — из-за чего невежды называют такую женщину, не беременную на самом деле, «беременной». Затем, при обратных условиях, или же случайно, когда кровь снова начинает течь, не увидев тела плода, невежественные люди говорят, что оно «похищено духами»; но это неверно, поскольку возможно похищение оджаса злыми духами, но не похищение самого тела — из-за нежелательности этого или неспособности на это; ибо о действии желания и способности можно судить лишь по их проявлению; и никогда не наблюдалось похищения тела нечеловеческими существами у кого бы то ни было.",
+        "text_en": "Sometimes this very menstrual blood, retained through soft, nourishing food and regimen, without complications, enlarges the abdomen, as happens in pregnancy, on account of which the ignorant call such a woman, who is not actually pregnant, \"pregnant\". Then, under opposite conditions, or by chance, when the blood begins to flow again, the foetal body not having been seen, ignorant people say that it was \"carried off by spirits\"; but this is incorrect, since the carrying off of ojas by malignant spirits is possible, but not the carrying off of the body itself, owing to the undesirability of this or the incapacity for it; for the action of desire and capacity can be judged only by their manifestation; and the carrying off of a body by non-human beings has never been observed in anyone."
       },
       {
         "type": "verse",
@@ -19726,7 +19757,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदि च दृष्टमपि समुल्लङ्घ्य केचिदतिशक्तियुक्ता गर्भस्य शरीराक्षेपे प्रवर्तन्ते तदा कथमिव प्राप्तावसरास्तज्जननीमुपेक्षेरन्",
         "iast": "yadi ca dṛṣṭamapi samullaṅghya kecidatiśaktiyuktā garbhasya śarīrākṣepe pravartante tadā kathamiva prāptāvasarāstajjananīmupekṣeran",
         "iast_ru": "йади ча др̣ш̣т̣амапи самуллан̇гхйа кечидатиш́актийукта̄ гарбхасйа ш́арӣра̄кш̣епе правартанте тада̄ катхамива пра̄пта̄васара̄стаджджананӣмупекш̣еран",
-        "text": "И если бы некие существа, обладающие чрезмерной силой, превосходящей обычно наблюдаемое, действительно приступали к похищению тела плода, — то как бы они, имея такую возможность, оставили бы без внимания саму его мать?"
+        "text": "И если бы некие существа, обладающие чрезмерной силой, превосходящей обычно наблюдаемое, действительно приступали к похищению тела плода, — то как бы они, имея такую возможность, оставили бы без внимания саму его мать?",
+        "text_en": "And if certain beings possessing excessive power, beyond what is commonly observed, really set about carrying off the body of the foetus, then how, having such a capacity, would they leave unnoticed the mother herself?"
       },
       {
         "type": "verse",
@@ -19734,7 +19766,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आर्तवं पुनश्शशरुधिरलाक्षारसोपमं धौतं च विरज्यमानं शुद्धमाहुः",
         "iast": "ārtavaṃ punaśśaśarudhiralākṣārasopamaṃ dhautaṃ ca virajyamānaṃ śuddhamāhuḥ",
         "iast_ru": "а̄ртавам̣ пунаш́ш́аш́арудхирала̄кш̣а̄расопамам̣ дхаутам̣ ча вираджйама̄нам̣ ш́уддхама̄хух̣",
-        "text": "Менструальную же кровь, подобную крови зайца или соку лака, чистую и не оставляющую пятен при смывании, называют «чистой» (нормальной)."
+        "text": "Менструальную же кровь, подобную крови зайца или соку лака, чистую и не оставляющую пятен при смывании, называют «чистой» (нормальной).",
+        "text_en": "Menstrual blood that resembles the blood of a hare or the juice of lac, is pure and leaves no stain on washing, is called \"pure\" (normal)."
       },
       {
         "type": "verse",
@@ -19742,7 +19775,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथा च बालस्य जीर्णस्य वा तरोः पुष्पफलं पुष्पफलस्य वा तद्विधस्य गन्धो नोपलभ्यते तथैव नोनषोडशातीतसप्तीतवर्षस्य पुंसः शुक्ररोमादयो योषितश्चोनद्वादशातीतपञ्चाशद्वर्षाया रजस्तन्यादय इति",
         "iast": "yathā ca bālasya jīrṇasya vā taroḥ puṣpaphalaṃ puṣpaphalasya vā tadvidhasya gandho nopalabhyate tathaiva nonaṣoḍaśātītasaptītavarṣasya puṃsaḥ śukraromādayo yoṣitaśconadvādaśātītapañcāśadvarṣāyā rajastanyādaya iti",
         "iast_ru": "йатха̄ ча ба̄ласйа джӣрн̣асйа ва̄ тарох̣ пуш̣папхалам̣ пуш̣папхаласйа ва̄ тадвидхасйа гандхо нопалабхйате татхаива нонаш̣од̣аш́а̄тӣтасаптӣтаварш̣асйа пум̣сах̣ ш́украрома̄дайо йош̣иташ́чонадва̄даш́а̄тӣтапан̃ча̄ш́адварш̣а̄йа̄ раджастанйа̄дайа ити",
-        "text": "И подобно тому, как у молодого или старого дерева не обнаруживается цветка и плода, или же у такого цветка и плода — должного аромата, — точно так же у мужчины моложе шестнадцати лет или старше семидесяти лет не проявляются в полной мере семя, волосы на теле и подобное; а у женщины моложе двенадцати лет или старше пятидесяти лет — менструация, молоко и подобное."
+        "text": "И подобно тому, как у молодого или старого дерева не обнаруживается цветка и плода, или же у такого цветка и плода — должного аромата, — точно так же у мужчины моложе шестнадцати лет или старше семидесяти лет не проявляются в полной мере семя, волосы на теле и подобное; а у женщины моложе двенадцати лет или старше пятидесяти лет — менструация, молоко и подобное.",
+        "text_en": "And just as a young or an old tree shows no flower and fruit, or such flower and fruit lack the proper fragrance, in the same way in a man younger than sixteen or older than seventy, semen, body hair and the like do not manifest fully; and in a woman younger than twelve or older than fifty, menstruation, milk and the like do not."
       },
       {
         "type": "verse",
@@ -19750,7 +19784,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ शुद्धशुक्रार्तवमरोगं मिथो ऽनुरक्तं मिथुनमुपस्नेह्य विधिवत् संशोध्यास्थापनानुवासनाभ्यामुपाचरेत् विशेषतस्तु घृतक्षीरवद्भिर्मधुरौषधसंस्कारैः पुरुषम् तैलेन नारीं पित्तलैश्च मांसैः एवं हि समानगुणतया शुक्रार्तवमाप्यायते",
         "iast": "atha śuddhaśukrārtavamarogaṃ mitho 'nuraktaṃ mithunamupasnehya vidhivat saṃśodhyāsthāpanānuvāsanābhyāmupācaret viśeṣatastu ghṛtakṣīravadbhirmadhurauṣadhasaṃskāraiḥ puruṣam tailena nārīṃ pittalaiśca māṃsaiḥ evaṃ hi samānaguṇatayā śukrārtavamāpyāyate",
         "iast_ru": "атха ш́уддхаш́укра̄ртавамарогам̣ митхо 'нурактам̣ митхунамупаснехйа видхиват сам̣ш́одхйа̄стха̄пана̄нува̄сана̄бхйа̄мупа̄чарет виш́еш̣атасту гхр̣такш̣ӣравадбхирмадхурауш̣адхасам̣ска̄раих̣ пуруш̣ам таилена на̄рӣм̣ питталаиш́ча ма̄м̣саих̣ евам̣ хи сама̄нагун̣атайа̄ ш́укра̄ртавама̄пйа̄йате",
-        "text": "Далее, здоровую пару, обладающую чистым семенем и менструальной кровью, свободную от болезней, взаимно влюблённую, следует, надлежащим образом умастив, очистить посредством астхапаны и анувасаны. В особенности же, мужчину следует лечить сладкими лекарственными препаратами с гхи и молоком; женщину — маслом; и обоих — мясом, устраняющим питту; ибо таким образом, благодаря сходству свойств, семя и менструальная кровь насыщаются."
+        "text": "Далее, здоровую пару, обладающую чистым семенем и менструальной кровью, свободную от болезней, взаимно влюблённую, следует, надлежащим образом умастив, очистить посредством астхапаны и анувасаны. В особенности же, мужчину следует лечить сладкими лекарственными препаратами с гхи и молоком; женщину — маслом; и обоих — мясом, устраняющим питту; ибо таким образом, благодаря сходству свойств, семя и менструальная кровь насыщаются.",
+        "text_en": "Next, a healthy couple, possessing pure semen and menstrual blood, free from diseases and mutually in love, should be purified, after proper oleation, by asthapana and anuvasana. In particular, the man should be treated with sweet medicinal preparations with ghee and milk; the woman with oil; and both with meat that pacifies Pitta; for in this way, owing to the similarity of properties, the semen and menstrual blood are nourished."
       },
       {
         "type": "verse",
@@ -19758,7 +19793,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातपित्तश्लेष्मकुणपगन्धिग्रन्थिपूयक्षीणमूत्रपुरीषरेतांसि त्वबीजानि भवन्ति तत्र तनु रूक्षं फेनिलमरुणमल्पं विच्छिन्नं सरुजं चिराच्च निषिच्येत वातेन किञ्चित्पीतमपिच्छिलमानीलं वा दहदिव प्रवर्तते पित्तेन मज्जोपसंसृष्टं प्रभूतं विबद्धं चाम्भसि च किञ्चिन्मज्जति श्लेष्मणा कुणपगन्ध्यनल्पं रक्तेन ग्रन्थिभूतं वातश्लेष्मभ्याम् पूतिपूयनिभं पित्तश्लेष्मभ्याम् क्षीणं वातपित्ताभ्याम् तदुक्तं ससाधनं प्राक् मूत्रपुरीषगन्धि सन्निपातेन",
         "iast": "vātapittaśleṣmakuṇapagandhigranthipūyakṣīṇamūtrapurīṣaretāṃsi tvabījāni bhavanti tatra tanu rūkṣaṃ phenilamaruṇamalpaṃ vicchinnaṃ sarujaṃ cirācca niṣicyeta vātena kiñcitpītamapicchilamānīlaṃ vā dahadiva pravartate pittena majjopasaṃsṛṣṭaṃ prabhūtaṃ vibaddhaṃ cāmbhasi ca kiñcinmajjati śleṣmaṇā kuṇapagandhyanalpaṃ raktena granthibhūtaṃ vātaśleṣmabhyām pūtipūyanibhaṃ pittaśleṣmabhyām kṣīṇaṃ vātapittābhyām taduktaṃ sasādhanaṃ prāk mūtrapurīṣagandhi sannipātena",
         "iast_ru": "ва̄тапитташ́леш̣макун̣апагандхигрантхипӯйакш̣ӣн̣амӯтрапурӣш̣арета̄м̣си твабӣджа̄ни бхаванти татра тану рӯкш̣ам̣ пхениламарун̣амалпам̣ виччхиннам̣ саруджам̣ чира̄чча ниш̣ичйета ва̄тена кин̃читпӣтамапиччхилама̄нӣлам̣ ва̄ дахадива правартате питтена маджджопасам̣ср̣ш̣т̣ам̣ прабхӯтам̣ вибаддхам̣ ча̄мбхаси ча кин̃чинмаджджати ш́леш̣ман̣а̄ кун̣апагандхйаналпам̣ рактена грантхибхӯтам̣ ва̄таш́леш̣мабхйа̄м пӯтипӯйанибхам̣ питташ́леш̣мабхйа̄м кш̣ӣн̣ам̣ ва̄тапитта̄бхйа̄м тадуктам̣ саса̄дханам̣ пра̄к мӯтрапурӣш̣агандхи саннипа̄тена",
-        "text": "Семя же, расстроенное ветром, питтой, капхой; обладающее запахом трупа, узловатое, гнойное, скудное, пахнущее мочой, калом, — бесплодно. Из них, семя, испорченное ветром, — тонкое, сухое, пенистое, красноватое, скудное, прерывистое, болезненное и изливается лишь спустя долгое время. Испорченное питтой — слегка жёлтое, нежидкое или синеватое, изливается, будто обжигая. Испорченное капхой — смешанное с костным мозгом, обильное, вязкое, слегка тонущее в воде. Испорченное кровью — с запахом трупа, немалое по количеству. Испорченное ветром-капхой — превратившееся в узел. Испорченное питтой-капхой — подобное гнилостному гною. Испорченное ветром-питтой — скудное. Это семя, вместе со средствами его лечения, уже было упомянуто ранее. Испорченное саннипатой — пахнущее мочой и калом."
+        "text": "Семя же, расстроенное ветром, питтой, капхой; обладающее запахом трупа, узловатое, гнойное, скудное, пахнущее мочой, калом, — бесплодно. Из них, семя, испорченное ветром, — тонкое, сухое, пенистое, красноватое, скудное, прерывистое, болезненное и изливается лишь спустя долгое время. Испорченное питтой — слегка жёлтое, нежидкое или синеватое, изливается, будто обжигая. Испорченное капхой — смешанное с костным мозгом, обильное, вязкое, слегка тонущее в воде. Испорченное кровью — с запахом трупа, немалое по количеству. Испорченное ветром-капхой — превратившееся в узел. Испорченное питтой-капхой — подобное гнилостному гною. Испорченное ветром-питтой — скудное. Это семя, вместе со средствами его лечения, уже было упомянуто ранее. Испорченное саннипатой — пахнущее мочой и калом.",
+        "text_en": "Semen vitiated by Vata, Pitta or Kapha; having the smell of a corpse, knotty, purulent, scanty, smelling of urine or faeces, is sterile. Of these, semen vitiated by Vata is thin, dry, frothy, reddish, scanty, interrupted, painful, and is discharged only after a long time. Vitiated by Pitta, it is slightly yellow, not liquid, or bluish, and is discharged as if burning. Vitiated by Kapha, it is mixed with marrow, abundant, viscid and sinks slightly in water. Vitiated by blood, it has a corpse-like smell and is considerable in quantity. Vitiated by Vata-Kapha, it has become a knot. Vitiated by Pitta-Kapha, it is like putrid pus. Vitiated by Vata-Pitta, it is scanty. This semen, together with the remedies for its treatment, has already been mentioned earlier. Vitiated by sannipata, it smells of urine and faeces."
       },
       {
         "type": "verse",
@@ -19766,7 +19802,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आर्तवमपि शुक्रवद्दोषैरुपसृष्टमबीजमेव तस्य लिङ्गं नाम च पूर्ववत् तेषु कुणपग्रन्थिपूयक्षीणरेतांसि कृच्छ्रसाध्यानि मूत्रपुरीषशुक्रातवं त्वसाध्यं कुणपग्रन्थिपूयार्तवं च तत्राद्यांस्त्रीन् शुक्रार्तवदोषान्यथास्वं दोषसाधनेन साधयेत् गुह्ययोनिरोगप्रतिषेधेन चोभयान्",
         "iast": "ārtavamapi śukravaddoṣairupasṛṣṭamabījameva tasya liṅgaṃ nāma ca pūrvavat teṣu kuṇapagranthipūyakṣīṇaretāṃsi kṛcchrasādhyāni mūtrapurīṣaśukrātavaṃ tvasādhyaṃ kuṇapagranthipūyārtavaṃ ca tatrādyāṃstrīn śukrārtavadoṣānyathāsvaṃ doṣasādhanena sādhayet guhyayonirogapratiṣedhena cobhayān",
         "iast_ru": "а̄ртавамапи ш́украваддош̣аирупаср̣ш̣т̣амабӣджамева тасйа лин̇гам̣ на̄ма ча пӯрвават теш̣у кун̣апагрантхипӯйакш̣ӣн̣арета̄м̣си кр̣ччхраса̄дхйа̄ни мӯтрапурӣш̣аш́укра̄тавам̣ тваса̄дхйам̣ кун̣апагрантхипӯйа̄ртавам̣ ча татра̄дйа̄м̣стрӣн ш́укра̄ртавадош̣а̄нйатха̄свам̣ дош̣аса̄дханена са̄дхайет гухйайонирогапратиш̣едхена чобхайа̄н",
-        "text": "Менструальная же кровь, подобно семени, поражённая дошами, также бесплодна; её признаки и названия — такие же, как прежде. Из них, расстройства «кунапа» (трупный запах), «грантхи» (узел), «пуйа» (гной), «кшина» (истощение) семени или крови — излечимы с трудом; же расстройство «мутра-пуриша» (моча-кал) для семени-менструации — неизлечимо, как и «кунапа-грантхи-пуйа» менструальной крови. Из них, первые три расстройства семени-менструации следует лечить соответствующим лечением каждой доши; оба же вида крови и семени в целом — противодействием интимным и вагинальным болезням."
+        "text": "Менструальная же кровь, подобно семени, поражённая дошами, также бесплодна; её признаки и названия — такие же, как прежде. Из них, расстройства «кунапа» (трупный запах), «грантхи» (узел), «пуйа» (гной), «кшина» (истощение) семени или крови — излечимы с трудом; же расстройство «мутра-пуриша» (моча-кал) для семени-менструации — неизлечимо, как и «кунапа-грантхи-пуйа» менструальной крови. Из них, первые три расстройства семени-менструации следует лечить соответствующим лечением каждой доши; оба же вида крови и семени в целом — противодействием интимным и вагинальным болезням.",
+        "text_en": "Menstrual blood, like semen, if afflicted by the doshas, is likewise sterile; its signs and names are the same as before. Of these, the disorders \"kunapa\" (corpse smell), \"granthi\" (knot), \"puya\" (pus) and \"kshina\" (depletion) of semen or blood are difficult to cure; but the disorder \"mutra-purisha\" (urine-faeces) of semen-menstruation is incurable, as is the \"kunapa-granthi-puya\" of menstrual blood. Of these, the first three disorders of semen-menstruation should be treated with the treatment appropriate to each dosha; and both kinds of blood and semen in general with the remedies for diseases of the genital tract and vagina."
       },
       {
         "type": "verse",
@@ -19774,7 +19811,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अपि च वातिके शुक्रदोषे वसुकसैन्धवफलाम्लसिद्धं यवक्षारप्रतीवापं सर्पिष्पानम् बिल्वविदारीसिद्धं क्षीरयुक्तमास्थापनम् मधुकभद्रदारुसिद्धं तैलमनुवासनम् क्षीरकुलीररससिद्धं तैलमुत्तरबस्तिः पैत्तिके काण्डेक्षुश्वदंष्ट्रागुडूचीसिद्धं मूर्वामधूकप्रतीवापं सर्पिष्पानम् त्रिवृच्चूर्णः सघृतो विरेकः पयस्याश्रीपर्णीसिद्धं क्षीरयुक्तमास्थापनम् मधुकमुद्गपर्णीसिद्धं तैलमनुवासनमुत्तरबस्तिश्च श्लैष्मिके पाषाणभेदाश्मन्तकामलकक्वाथसिद्धं पिप्पलीमधुकचूर्णप्रतीवापं सर्पिष्पानम् मदनफलकषायो वमनम् दन्तीविडङ्गचूर्णस्तैललीढो विरेकः राजवृक्षमदनफलकषायप्रगाढमास्थापनम् मधुकपिप्पलीसिद्धं तैलमनुवासनमुत्तरबस्तिश्च",
         "iast": "api ca vātike śukradoṣe vasukasaindhavaphalāmlasiddhaṃ yavakṣārapratīvāpaṃ sarpiṣpānam bilvavidārīsiddhaṃ kṣīrayuktamāsthāpanam madhukabhadradārusiddhaṃ tailamanuvāsanam kṣīrakulīrarasasiddhaṃ tailamuttarabastiḥ paittike kāṇḍekṣuśvadaṃṣṭrāguḍūcīsiddhaṃ mūrvāmadhūkapratīvāpaṃ sarpiṣpānam trivṛccūrṇaḥ saghṛto virekaḥ payasyāśrīparṇīsiddhaṃ kṣīrayuktamāsthāpanam madhukamudgaparṇīsiddhaṃ tailamanuvāsanamuttarabastiśca ślaiṣmike pāṣāṇabhedāśmantakāmalakakvāthasiddhaṃ pippalīmadhukacūrṇapratīvāpaṃ sarpiṣpānam madanaphalakaṣāyo vamanam dantīviḍaṅgacūrṇastailalīḍho virekaḥ rājavṛkṣamadanaphalakaṣāyapragāḍhamāsthāpanam madhukapippalīsiddhaṃ tailamanuvāsanamuttarabastiśca",
         "iast_ru": "апи ча ва̄тике ш́украдош̣е васукасаиндхавапхала̄мласиддхам̣ йавакш̣а̄рапратӣва̄пам̣ сарпиш̣па̄нам билвавида̄рӣсиддхам̣ кш̣ӣрайуктама̄стха̄панам мадхукабхадрада̄русиддхам̣ таиламанува̄санам кш̣ӣракулӣрарасасиддхам̣ таиламуттарабастих̣ паиттике ка̄н̣д̣екш̣уш́вадам̣ш̣т̣ра̄гуд̣ӯчӣсиддхам̣ мӯрва̄мадхӯкапратӣва̄пам̣ сарпиш̣па̄нам тривр̣ччӯрн̣ах̣ сагхр̣то виреках̣ пайасйа̄ш́рӣпарн̣ӣсиддхам̣ кш̣ӣрайуктама̄стха̄панам мадхукамудгапарн̣ӣсиддхам̣ таиламанува̄санамуттарабастиш́ча ш́лаиш̣мике па̄ш̣а̄н̣абхеда̄ш́мантака̄малакаква̄тхасиддхам̣ пиппалӣмадхукачӯрн̣апратӣва̄пам̣ сарпиш̣па̄нам маданапхалакаш̣а̄йо ваманам дантӣвид̣ан̇гачӯрн̣астаилалӣд̣хо виреках̣ ра̄джавр̣кш̣амаданапхалакаш̣а̄йапрага̄д̣хама̄стха̄панам мадхукапиппалӣсиддхам̣ таиламанува̄санамуттарабастиш́ча",
-        "text": "Кроме того, при расстройстве семени от ветра: гхи, сваренное с васукой, каменной солью, плодами кислых растений, с добавлением ячменной щёлочи, — для питья; молоко, сваренное с билвой и видари, — для астхапаны; масло, сваренное с солодкой и деодаром, — для анувасаны; масло, сваренное с молоком и соком краба, — для уттара-басти. При расстройстве от питты: гхи, сваренное с тростником, швадамштрой, гудучи, с добавлением мурвы и мадхуки, — для питья; порошок тривита с гхи — для слабительного; молоко, сваренное с паясьей и шрипарни, — для астхапаны; масло, сваренное с солодкой и мудгапарни, — для анувасаны и уттара-басти. При расстройстве от капхи: гхи, сваренное с пашанабхедой, ашмантакой, амалаки, с добавлением порошка пиппали и солодки, — для питья; отвар плода маданы — для рвотного; порошок данти и виданги с маслом — для слабительного; астхапана, насыщенная отваром раджавркши и плода маданы; масло, сваренное с солодкой и пиппали, — для анувасаны и уттара-басти."
+        "text": "Кроме того, при расстройстве семени от ветра: гхи, сваренное с васукой, каменной солью, плодами кислых растений, с добавлением ячменной щёлочи, — для питья; молоко, сваренное с билвой и видари, — для астхапаны; масло, сваренное с солодкой и деодаром, — для анувасаны; масло, сваренное с молоком и соком краба, — для уттара-басти. При расстройстве от питты: гхи, сваренное с тростником, швадамштрой, гудучи, с добавлением мурвы и мадхуки, — для питья; порошок тривита с гхи — для слабительного; молоко, сваренное с паясьей и шрипарни, — для астхапаны; масло, сваренное с солодкой и мудгапарни, — для анувасаны и уттара-басти. При расстройстве от капхи: гхи, сваренное с пашанабхедой, ашмантакой, амалаки, с добавлением порошка пиппали и солодки, — для питья; отвар плода маданы — для рвотного; порошок данти и виданги с маслом — для слабительного; астхапана, насыщенная отваром раджавркши и плода маданы; масло, сваренное с солодкой и пиппали, — для анувасаны и уттара-басти.",
+        "text_en": "Furthermore, in the disorder of semen due to Vata: ghee cooked with vasuka, rock salt and fruits of sour plants, with the addition of barley alkali, for drinking; milk cooked with bilva and vidari for asthapana; oil cooked with liquorice and devadaru for anuvasana; oil cooked with milk and the juice of crab for uttara basti. In the disorder due to Pitta: ghee cooked with sugarcane, shvadamshtra and guduchi, with the addition of murva and madhuka, for drinking; powder of trivrit with ghee for purgation; milk cooked with payasya and shriparni for asthapana; oil cooked with liquorice and mudgaparni for anuvasana and uttara basti. In the disorder due to Kapha: ghee cooked with pashanabheda, ashmantaka and amalaki, with the addition of powdered pippali and liquorice, for drinking; decoction of madana fruit for emesis; powder of danti and vidanga with oil for purgation; asthapana saturated with a decoction of rajavriksha and madana fruit; oil cooked with liquorice and pippali for anuvasana and uttara basti."
       },
       {
         "type": "verse",
@@ -19782,7 +19820,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातजे पुष्पदोषे भार्ङ्गीमधुकभद्रदारुसिद्धं सर्पिष्पानम् काश्मर्यक्षुद्रसहासिद्धं वा क्षीरम् मधुकसृगालविन्नाकल्कं पयस्सर्पिस्सहितं प्रियङ्गुतिलकल्कं वा योनौ धारयेत् सरलमुद्गपर्णीकषायः प्रक्षालनम् पित्तजे काकोलीद्वयविदारीमूलक्वाथमुत्पलपद्मकक्वाथं मधूकपुष्पकाश्मर्यफलक्वाथं वा सशर्करं पिबेत् श्वेतचन्दक्वाथं वा सक्षौद्रम् धवधातकीकल्कं वा घृतेन वा मधुकमधुरसामृद्वीकाकल्कम् शम्याकगवाक्षीक्षीरं विरेकः चन्दनपयस्याकल्कं योनौ धारयेत् गौरिकारिष्टकषायः प्रक्षालनम् श्लैष्मिके कुटजकटुकाश्वगन्धाक्वाथं पिबेत् समाक्षिकं वा क्षीरिवृक्षप्रवालक्वाथमेतेषामेव वा चूर्णं मधुघृताभ्यां लिह्यात् मदनफलकषायेण वमनम् तत्कल्कमेव च योनौ धारयेत् लोध्रतिन्दुककषायः प्रक्षालनं बस्तमेषमूत्रं वा",
         "iast": "vātaje puṣpadoṣe bhārṅgīmadhukabhadradārusiddhaṃ sarpiṣpānam kāśmaryakṣudrasahāsiddhaṃ vā kṣīram madhukasṛgālavinnākalkaṃ payassarpissahitaṃ priyaṅgutilakalkaṃ vā yonau dhārayet saralamudgaparṇīkaṣāyaḥ prakṣālanam pittaje kākolīdvayavidārīmūlakvāthamutpalapadmakakvāthaṃ madhūkapuṣpakāśmaryaphalakvāthaṃ vā saśarkaraṃ pibet śvetacandakvāthaṃ vā sakṣaudram dhavadhātakīkalkaṃ vā ghṛtena vā madhukamadhurasāmṛdvīkākalkam śamyākagavākṣīkṣīraṃ virekaḥ candanapayasyākalkaṃ yonau dhārayet gaurikāriṣṭakaṣāyaḥ prakṣālanam ślaiṣmike kuṭajakaṭukāśvagandhākvāthaṃ pibet samākṣikaṃ vā kṣīrivṛkṣapravālakvāthameteṣāmeva vā cūrṇaṃ madhughṛtābhyāṃ lihyāt madanaphalakaṣāyeṇa vamanam tatkalkameva ca yonau dhārayet lodhratindukakaṣāyaḥ prakṣālanaṃ bastameṣamūtraṃ vā",
         "iast_ru": "ва̄тадже пуш̣падош̣е бха̄рн̇гӣмадхукабхадрада̄русиддхам̣ сарпиш̣па̄нам ка̄ш́марйакш̣удрасаха̄сиддхам̣ ва̄ кш̣ӣрам мадхукаср̣га̄лавинна̄калкам̣ пайассарписсахитам̣ прийан̇гутилакалкам̣ ва̄ йонау дха̄райет сараламудгапарн̣ӣкаш̣а̄йах̣ пракш̣а̄ланам питтадже ка̄колӣдвайавида̄рӣмӯлаква̄тхамутпалападмакаква̄тхам̣ мадхӯкапуш̣пака̄ш́марйапхалаква̄тхам̣ ва̄ саш́аркарам̣ пибет ш́ветачандаква̄тхам̣ ва̄ сакш̣аудрам дхавадха̄такӣкалкам̣ ва̄ гхр̣тена ва̄ мадхукамадхураса̄мр̣двӣка̄калкам ш́амйа̄кагава̄кш̣ӣкш̣ӣрам̣ виреках̣ чанданапайасйа̄калкам̣ йонау дха̄райет гаурика̄риш̣т̣акаш̣а̄йах̣ пракш̣а̄ланам ш́лаиш̣мике кут̣аджакат̣ука̄ш́вагандха̄ква̄тхам̣ пибет сама̄кш̣икам̣ ва̄ кш̣ӣривр̣кш̣аправа̄лаква̄тхаметеш̣а̄мева ва̄ чӯрн̣ам̣ мадхугхр̣та̄бхйа̄м̣ лихйа̄т маданапхалакаш̣а̄йен̣а ваманам таткалкамева ча йонау дха̄райет лодхратиндукакаш̣а̄йах̣ пракш̣а̄ланам̣ бастамеш̣амӯтрам̣ ва̄",
-        "text": "При расстройстве менструации от ветра: гхи, сваренное с бхаргхи, солодкой и деодаром, — для питья; или молоко, сваренное с кашмари и кшудрасахой; следует держать во влагалище пасту из солодки, шакальих экскрементов или винны, смешанную с молоком и гхи; или пасту приянгу с кунжутом; отвар сарала и мудгапарни — для промывания. При расстройстве от питты: следует пить отвар обеих каколи и корня видари, отвар синего лотоса и падмаки, или отвар цветка мадхуки и плода кашмари, с сахаром; или отвар белого сандала с мёдом; или пасту дхавы и дхатаки с гхи; или пасту солодки, мадхурасы и изюма; шамьяка и сок гавакши с молоком — для слабительного; следует держать во влагалище пасту сандала и паясьи; отвар гаурики и аристы — для промывания. При расстройстве от капхи: следует пить отвар кутаджи, катуки и ашвагандхи, с мёдом; или отвар побегов млечных деревьев; или же порошок этих же веществ, слизывая с мёдом и гхи; отвар плода маданы — для рвотного; и следует держать эту же пасту во влагалище; отвар лодхры и тиндуки — для промывания, или мочу козла или барана."
+        "text": "При расстройстве менструации от ветра: гхи, сваренное с бхаргхи, солодкой и деодаром, — для питья; или молоко, сваренное с кашмари и кшудрасахой; следует держать во влагалище пасту из солодки, шакальих экскрементов или винны, смешанную с молоком и гхи; или пасту приянгу с кунжутом; отвар сарала и мудгапарни — для промывания. При расстройстве от питты: следует пить отвар обеих каколи и корня видари, отвар синего лотоса и падмаки, или отвар цветка мадхуки и плода кашмари, с сахаром; или отвар белого сандала с мёдом; или пасту дхавы и дхатаки с гхи; или пасту солодки, мадхурасы и изюма; шамьяка и сок гавакши с молоком — для слабительного; следует держать во влагалище пасту сандала и паясьи; отвар гаурики и аристы — для промывания. При расстройстве от капхи: следует пить отвар кутаджи, катуки и ашвагандхи, с мёдом; или отвар побегов млечных деревьев; или же порошок этих же веществ, слизывая с мёдом и гхи; отвар плода маданы — для рвотного; и следует держать эту же пасту во влагалище; отвар лодхры и тиндуки — для промывания, или мочу козла или барана.",
+        "text_en": "In the disorder of menstruation due to Vata: ghee cooked with bharngi, liquorice and devadaru for drinking; or milk cooked with kashmari and kshudrasaha; a paste of liquorice, jackal dung or vinna mixed with milk and ghee should be kept in the vagina; or a paste of priyangu with sesame; a decoction of sarala and mudgaparni for washing. In the disorder due to Pitta: one should drink a decoction of both kakolis and the root of vidari, a decoction of blue lotus and padmaka, or a decoction of madhuka flower and kashmari fruit, with sugar; or a decoction of white sandalwood with honey; or a paste of dhava and dhataki with ghee; or a paste of liquorice, madhurasa and raisins; shamyaka and the juice of gavakshi with milk for purgation; a paste of sandalwood and payasya should be kept in the vagina; a decoction of gaurika and arishta for washing. In the disorder due to Kapha: one should drink a decoction of kutaja, katuka and ashvagandha, with honey; or a decoction of the shoots of milky trees; or else a powder of these same substances, licked with honey and ghee; a decoction of madana fruit for emesis; and the same paste should be kept in the vagina; a decoction of lodhra and tinduka for washing, or the urine of a he-goat or ram."
       },
       {
         "type": "verse",
@@ -19790,7 +19829,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कुणपरेतसि धातकीपुष्पखदिरार्जुनदाडिमैः सिद्धमसनादिभिर्वा सर्पिः पाययेत् ग्रन्थिरेतसि पाषाणाभिदा पलाशभस्मना वा पूयरेतसि परूषकादिन्यग्रोधादिभ्याम् मूत्रपुरीषरेतसि वायुनातिविकृते हिङ्गूशीरचित्रकैरथवा चित्रकवितुन्नकप्रियङ्गुहिङ्गुसमङ्गामृणालसिद्धमेलामोचचूर्णप्रतीवापम् तथा ग्रन्थ्यार्तवे पाठात्रिकण्टकवृक्षकक्वाथम् कुणपपूयार्तवे चन्दनक्वाथं पिबेत् त्रिफलाकल्कक्वाथौ चात्र धारणाचमने",
         "iast": "kuṇaparetasi dhātakīpuṣpakhadirārjunadāḍimaiḥ siddhamasanādibhirvā sarpiḥ pāyayet granthiretasi pāṣāṇābhidā palāśabhasmanā vā pūyaretasi parūṣakādinyagrodhādibhyām mūtrapurīṣaretasi vāyunātivikṛte hiṅgūśīracitrakairathavā citrakavitunnakapriyaṅguhiṅgusamaṅgāmṛṇālasiddhamelāmocacūrṇapratīvāpam tathā granthyārtave pāṭhātrikaṇṭakavṛkṣakakvātham kuṇapapūyārtave candanakvāthaṃ pibet triphalākalkakvāthau cātra dhāraṇācamane",
         "iast_ru": "кун̣апаретаси дха̄такӣпуш̣пакхадира̄рджунада̄д̣имаих̣ сиддхамасана̄дибхирва̄ сарпих̣ па̄йайет грантхиретаси па̄ш̣а̄н̣а̄бхида̄ пала̄ш́абхасмана̄ ва̄ пӯйаретаси парӯш̣ака̄динйагродха̄дибхйа̄м мӯтрапурӣш̣аретаси ва̄йуна̄тивикр̣те хин̇гӯш́ӣрачитракаиратхава̄ читракавитуннакаприйан̇гухин̇гусаман̇га̄мр̣н̣а̄ласиддхамела̄мочачӯрн̣апратӣва̄пам татха̄ грантхйа̄ртаве па̄т̣ха̄трикан̣т̣акавр̣кш̣акаква̄тхам кун̣апапӯйа̄ртаве чанданаква̄тхам̣ пибет трипхала̄калкаква̄тхау ча̄тра дха̄ран̣а̄чамане",
-        "text": "При расстройстве семени «кунапа» (трупный запах): следует давать пить гхи, сваренное с цветком дхатаки, кхадирой, арджуной, гранатом, или же с асаной и подобным. При «грантхи»: сваренное с пашанабхедой или золой палаши. При «пуйа»: с парушакой и подобным, или с ньягродхой и подобным. При «мутра-пуриша», когда семя сильно расстроено ветром: с хингу, уширой, читракой; или же гхи, сваренное с читракой, витунакой, приянги, хингу, самангой, стеблем лотоса, с добавлением порошка элы. Подобным же образом, при менструальном расстройстве «грантхи»: следует пить отвар патхи и трикантака-врикшаки. При менструальном расстройстве «кунапа-пуйа»: следует пить отвар сандала. Отвар и паста трифалы применяются здесь для внутреннего удержания и полоскания."
+        "text": "При расстройстве семени «кунапа» (трупный запах): следует давать пить гхи, сваренное с цветком дхатаки, кхадирой, арджуной, гранатом, или же с асаной и подобным. При «грантхи»: сваренное с пашанабхедой или золой палаши. При «пуйа»: с парушакой и подобным, или с ньягродхой и подобным. При «мутра-пуриша», когда семя сильно расстроено ветром: с хингу, уширой, читракой; или же гхи, сваренное с читракой, витунакой, приянги, хингу, самангой, стеблем лотоса, с добавлением порошка элы. Подобным же образом, при менструальном расстройстве «грантхи»: следует пить отвар патхи и трикантака-врикшаки. При менструальном расстройстве «кунапа-пуйа»: следует пить отвар сандала. Отвар и паста трифалы применяются здесь для внутреннего удержания и полоскания.",
+        "text_en": "In the semen disorder \"kunapa\" (corpse smell): one should give to drink ghee cooked with the flower of dhataki, khadira, arjuna, pomegranate, or else with asana and the like. In \"granthi\": cooked with pashanabheda or the ash of palasha. In \"puya\": with parushaka and the like, or with nyagrodha and the like. In \"mutra-purisha\", when the semen is strongly vitiated by Vata: with hingu, ushira and chitraka; or else ghee cooked with chitraka, vitunaka, priyangu, hingu, samanga and lotus stalk, with the addition of powdered ela. Likewise, in the menstrual disorder \"granthi\": one should drink a decoction of patha and trikantaka-vriksha. In the menstrual disorder \"kunapa-puya\": one should drink a decoction of sandalwood. A decoction and paste of triphala are applied here for internal retention and rinsing."
       },
       {
         "type": "verse",
@@ -19798,7 +19838,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्वेषु च शुक्रार्तवदोषेषु स्त्रीपुंसौ स्नेहादिकर्मभिर्विशेषेण चोत्तरबस्तिभिः पुनः पुनरुपाचरेत् यथास्वं च योनौ कल्कैः पिचुभिश्च इत्येवं विशुद्धशुक्रार्तवौ पूर्वोक्तं विधिमासेवेवाम्",
         "iast": "sarveṣu ca śukrārtavadoṣeṣu strīpuṃsau snehādikarmabhirviśeṣeṇa cottarabastibhiḥ punaḥ punarupācaret yathāsvaṃ ca yonau kalkaiḥ picubhiśca ityevaṃ viśuddhaśukrārtavau pūrvoktaṃ vidhimāsevevām",
         "iast_ru": "сарвеш̣у ча ш́укра̄ртавадош̣еш̣у стрӣпум̣сау снеха̄дикармабхирвиш́еш̣ен̣а чоттарабастибхих̣ пунах̣ пунарупа̄чарет йатха̄свам̣ ча йонау калкаих̣ пичубхиш́ча итйевам̣ виш́уддхаш́укра̄ртавау пӯрвоктам̣ видхима̄севева̄м",
-        "text": "И при всех расстройствах семени-менструации, женщину и мужчину следует снова и снова лечить процедурами умащения и подобного, а также, в особенности, уттара-басти; и, соответственно, применять пасты и тампоны во влагалище. Таким образом, когда семя и менструальная кровь очищены, — паре следует соблюдать вышеупомянутый режим зачатия."
+        "text": "И при всех расстройствах семени-менструации, женщину и мужчину следует снова и снова лечить процедурами умащения и подобного, а также, в особенности, уттара-басти; и, соответственно, применять пасты и тампоны во влагалище. Таким образом, когда семя и менструальная кровь очищены, — паре следует соблюдать вышеупомянутый режим зачатия.",
+        "text_en": "And in all disorders of semen-menstruation, the woman and the man should be treated again and again with oleation and the like, and especially with uttara basti; and, accordingly, pastes and tampons should be applied in the vagina. Thus, when the semen and menstrual blood have been purified, the couple should observe the above-mentioned regimen for conception."
       },
       {
         "type": "verse",
@@ -19806,7 +19847,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऋतुस्तु दृष्टार्तवो द्वादशरात्रं भवति षोडशरात्रमित्यन्ये शुद्धयोनिगर्भाशयार्तवाया मासमपि केचित् तद्वददृष्टार्तवो ऽप्यस्तीत्यपरे",
         "iast": "ṛtustu dṛṣṭārtavo dvādaśarātraṃ bhavati ṣoḍaśarātramityanye śuddhayonigarbhāśayārtavāyā māsamapi kecit tadvadadṛṣṭārtavo 'pyastītyapare",
         "iast_ru": "р̣тусту др̣ш̣т̣а̄ртаво два̄даш́ара̄трам̣ бхавати ш̣од̣аш́ара̄трамитйанйе ш́уддхайонигарбха̄ш́айа̄ртава̄йа̄ ма̄самапи кечит тадвададр̣ш̣т̣а̄ртаво 'пйастӣтйапаре",
-        "text": "«Рита» же (фертильный период) — длится двенадцать ночей от появления менструации; другие говорят — шестнадцать ночей; некоторые же говорят, что для женщины с чистым влагалищем, маткой и менструацией — даже весь месяц; иные же говорят, что фертильный период существует даже без видимой менструации."
+        "text": "«Рита» же (фертильный период) — длится двенадцать ночей от появления менструации; другие говорят — шестнадцать ночей; некоторые же говорят, что для женщины с чистым влагалищем, маткой и менструацией — даже весь месяц; иные же говорят, что фертильный период существует даже без видимой менструации.",
+        "text_en": "\"Ritu\" (the fertile period) lasts twelve nights from the appearance of menstruation; others say sixteen nights; some say that for a woman with a clean vagina, uterus and menstruation it lasts even the whole month; others say that the fertile period exists even without visible menstruation."
       },
       {
         "type": "verse",
@@ -19814,7 +19856,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षामप्रसन्नवदनां स्फुरच्छ्रोणिपयोधराम् स्रास्ताक्षिकुक्षिं पुंस्कामां विद्यादृतुमतीं स्त्रियम्",
         "iast": "kṣāmaprasannavadanāṃ sphuracchroṇipayodharām srāstākṣikukṣiṃ puṃskāmāṃ vidyādṛtumatīṃ striyam",
         "iast_ru": "кш̣а̄мапрасаннавадана̄м̣ спхураччхрон̣ипайодхара̄м сра̄ста̄кш̣икукш̣им̣ пум̣ска̄ма̄м̣ видйа̄др̣туматӣм̣ стрийам",
-        "text": "Женщину с исхудавшим, но ясным лицом, трепещущими бёдрами и грудью, расслабленными глазами и животом, желающую мужчину, — следует распознавать как находящуюся в состоянии «рита» (фертильную)."
+        "text": "Женщину с исхудавшим, но ясным лицом, трепещущими бёдрами и грудью, расслабленными глазами и животом, желающую мужчину, — следует распознавать как находящуюся в состоянии «рита» (фертильную).",
+        "text_en": "A woman with a thin but clear face, trembling thighs and breasts, relaxed eyes and abdomen, who desires a man, should be recognized as being in the state of \"ritu\" (fertile)."
       },
       {
         "type": "verse",
@@ -19822,7 +19865,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पद्मं संकोचमायाति दिने ऽतीते यथा तथा ऋतावतीते योनिःस्याच्छुक्रंनातः प्रतीच्छति",
         "iast": "padmaṃ saṃkocamāyāti dine 'tīte yathā tathā ṛtāvatīte yoniḥsyācchukraṃnātaḥ pratīcchati",
         "iast_ru": "падмам̣ сам̣кочама̄йа̄ти дине 'тӣте йатха̄ татха̄ р̣та̄ватӣте йоних̣сйа̄ччхукрам̣на̄тах̣ пратӣччхати",
-        "text": "Подобно тому, как лотос сжимается по прошествии дня, — так же влагалище сжимается по прошествии фертильного периода и не принимает более семени."
+        "text": "Подобно тому, как лотос сжимается по прошествии дня, — так же влагалище сжимается по прошествии фертильного периода и не принимает более семени.",
+        "text_en": "Just as a lotus closes after the passing of the day, so the vagina contracts after the passing of the fertile period and no longer receives semen."
       },
       {
         "type": "verse",
@@ -19830,7 +19874,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मसेनोपचितं रक्तं धमनीभ्यामृतौ पुनः ईषत्कृष्णं विगन्धं च वायुर्योनिमुखान्नुदेत्",
         "iast": "masenopacitaṃ raktaṃ dhamanībhyāmṛtau punaḥ īṣatkṛṣṇaṃ vigandhaṃ ca vāyuryonimukhānnudet",
         "iast_ru": "масенопачитам̣ рактам̣ дхаманӣбхйа̄мр̣тау пунах̣ ӣш̣аткр̣ш̣н̣ам̣ вигандхам̣ ча ва̄йурйонимукха̄ннудет",
-        "text": "Кровь, накопленная за месяц, снова, во время менструации, через артерии; слегка тёмную и зловонную, — ветер выталкивает через устье влагалища."
+        "text": "Кровь, накопленная за месяц, снова, во время менструации, через артерии; слегка тёмную и зловонную, — ветер выталкивает через устье влагалища.",
+        "text_en": "The blood accumulated over a month, flowing again at the time of menstruation through the arteries, slightly dark and foul-smelling, is expelled by Vata through the mouth of the vagina."
       },
       {
         "type": "verse",
@@ -19838,7 +19883,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततः पुष्पदर्शने प्रथमदिवसात् प्रभृति ब्रह्मचारिणी स्नानाद्यलङ्काररहिता दर्भसंस्तरशायिनी त्रिरात्रमासीत पर्णशरावकरतलान्यतमेन यावकं पयसा सिद्धमल्पं कर्शनार्थमश्नीयात् तीक्ष्णोष्णाम्ललवणानि च वर्जयेत्",
         "iast": "tataḥ puṣpadarśane prathamadivasāt prabhṛti brahmacāriṇī snānādyalaṅkārarahitā darbhasaṃstaraśāyinī trirātramāsīta parṇaśarāvakaratalānyatamena yāvakaṃ payasā siddhamalpaṃ karśanārthamaśnīyāt tīkṣṇoṣṇāmlalavaṇāni ca varjayet",
         "iast_ru": "татах̣ пуш̣падарш́ане пратхамадиваса̄т прабхр̣ти брахмача̄рин̣ӣ сна̄на̄дйалан̇ка̄рарахита̄ дарбхасам̣стараш́а̄йинӣ трира̄трама̄сӣта парн̣аш́ара̄вакаратала̄нйатамена йа̄вакам̣ пайаса̄ сиддхамалпам̣ карш́ана̄ртхамаш́нӣйа̄т тӣкш̣н̣ош̣н̣а̄млалаван̣а̄ни ча варджайет",
-        "text": "Затем, начиная с первого дня появления менструации, женщина, соблюдая целомудрие, и воздерживаясь от омовения, украшений и подобного, должна спать на подстилке из травы дарбха и пребывать так три ночи; ей следует есть немного ячменной каши, сваренной на молоке, подаваемой в листовом черпаке или на ладони, — ради истощения избытка; и следует избегать резкой, горячей, кислой, солёной пищи."
+        "text": "Затем, начиная с первого дня появления менструации, женщина, соблюдая целомудрие, и воздерживаясь от омовения, украшений и подобного, должна спать на подстилке из травы дарбха и пребывать так три ночи; ей следует есть немного ячменной каши, сваренной на молоке, подаваемой в листовом черпаке или на ладони, — ради истощения избытка; и следует избегать резкой, горячей, кислой, солёной пищи.",
+        "text_en": "Then, from the first day of the appearance of menstruation, the woman, observing chastity and refraining from bathing, ornaments and the like, should sleep on a bed of darbha grass and remain so for three nights; she should eat a little barley gruel cooked in milk, served in a leaf-cup or on the palm, for the sake of depleting the excess; and she should avoid pungent, hot, sour and salty food."
       },
       {
         "type": "verse",
@@ -19846,7 +19892,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चतुर्थे ऽहन्युद्वर्तिता शीतसलिलस्नातानुलिप्तालङ्कृताशुक्लमाल्याम्बरा कृतमङ्गलस्वस्त्ययनैवंविधमेव भर्तारं पश्येदनन्यमनाः तदा हि यादृशमेव पश्यति चिन्तयति वा तादृशं प्रसूत इति",
         "iast": "caturthe 'hanyudvartitā śītasalilasnātānuliptālaṅkṛtāśuklamālyāmbarā kṛtamaṅgalasvastyayanaivaṃvidhameva bhartāraṃ paśyedananyamanāḥ tadā hi yādṛśameva paśyati cintayati vā tādṛśaṃ prasūta iti",
         "iast_ru": "чатуртхе 'ханйудвартита̄ ш́ӣтасалиласна̄та̄нулипта̄лан̇кр̣та̄ш́уклама̄лйа̄мбара̄ кр̣таман̇галасвастйайанаивам̣видхамева бхарта̄рам̣ паш́йедананйамана̄х̣ тада̄ хи йа̄др̣ш́амева паш́йати чинтайати ва̄ та̄др̣ш́ам̣ прасӯта ити",
-        "text": "На четвёртый же день, растёршись маслом, омывшись холодной водой, умастившись, украсившись, в белой одежде и гирлянде, совершив благоприятный обряд, — ей следует, с сосредоточенным умом, увидеть своего мужа в подобном же облачении; ибо тогда, каким бы обликом она в этот момент ни увидела его или ни задумалась, — таким же обликом родится ребёнок."
+        "text": "На четвёртый же день, растёршись маслом, омывшись холодной водой, умастившись, украсившись, в белой одежде и гирлянде, совершив благоприятный обряд, — ей следует, с сосредоточенным умом, увидеть своего мужа в подобном же облачении; ибо тогда, каким бы обликом она в этот момент ни увидела его или ни задумалась, — таким же обликом родится ребёнок.",
+        "text_en": "On the fourth day, having rubbed herself with oil, bathed in cold water, anointed and adorned herself, in white garments and a garland, having performed an auspicious rite, she should, with a concentrated mind, look upon her husband similarly attired; for then, whatever form she sees or thinks of at that moment, the child will be born with the same form."
       },
       {
         "type": "verse",
@@ -19854,7 +19901,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततः स्नानात् पुनरपि गुणवत्पुत्रार्थी त्रिरात्रमुपेक्षेत पुष्पदर्शनात् सप्तरात्रम् अथाष्टम्यां दशम्यां द्वादश्यां वा रात्रौ पुत्रकामः संवसेत् पच्चम्यां सप्तम्यां नवम्यां वा दुहितृकामः तासूत्तरोत्तरमायुरारोग्यैश्वर्यसौभाग्यबलवर्णेन्द्रियसम्पदपत्यस्य भवति अतः परं तूत्तरोत्तरमेवायुरादीनां ह्रासः",
         "iast": "tataḥ snānāt punarapi guṇavatputrārthī trirātramupekṣeta puṣpadarśanāt saptarātram athāṣṭamyāṃ daśamyāṃ dvādaśyāṃ vā rātrau putrakāmaḥ saṃvaset paccamyāṃ saptamyāṃ navamyāṃ vā duhitṛkāmaḥ tāsūttarottaramāyurārogyaiśvaryasaubhāgyabalavarṇendriyasampadapatyasya bhavati ataḥ paraṃ tūttarottaramevāyurādīnāṃ hrāsaḥ",
         "iast_ru": "татах̣ сна̄на̄т пунарапи гун̣аватпутра̄ртхӣ трира̄трамупекш̣ета пуш̣падарш́ана̄т саптара̄трам атха̄ш̣т̣амйа̄м̣ даш́амйа̄м̣ два̄даш́йа̄м̣ ва̄ ра̄трау путрака̄мах̣ сам̣васет паччамйа̄м̣ саптамйа̄м̣ навамйа̄м̣ ва̄ духитр̣ка̄мах̣ та̄сӯттароттарама̄йура̄рогйаиш́варйасаубха̄гйабалаварн̣ендрийасампадапатйасйа бхавати атах̣ парам̣ тӯттароттарамева̄йура̄дӣна̄м̣ хра̄сах̣",
-        "text": "Затем, после этого омовения, желающий добродетельного сына должен снова выждать три ночи, то есть всего семь ночей от появления менструации. Затем, на восьмую, десятую или двенадцатую ночь, желающий сына должен сойтись с женой; на пятую, седьмую или девятую ночь — желающий дочери. В этих ночах, по порядку возрастания, рождается потомство с возрастающей продолжительностью жизни, здоровьем, богатством, удачей, силой, цветом кожи, полнотой органов чувств; после же этого срока — по порядку возрастания ночи, происходит лишь убывание продолжительности жизни и подобного."
+        "text": "Затем, после этого омовения, желающий добродетельного сына должен снова выждать три ночи, то есть всего семь ночей от появления менструации. Затем, на восьмую, десятую или двенадцатую ночь, желающий сына должен сойтись с женой; на пятую, седьмую или девятую ночь — желающий дочери. В этих ночах, по порядку возрастания, рождается потомство с возрастающей продолжительностью жизни, здоровьем, богатством, удачей, силой, цветом кожи, полнотой органов чувств; после же этого срока — по порядку возрастания ночи, происходит лишь убывание продолжительности жизни и подобного.",
+        "text_en": "Then, after this bath, one desiring a virtuous son should wait three more nights, that is, seven nights in all from the appearance of menstruation. Then, on the eighth, tenth or twelfth night, one desiring a son should unite with his wife; on the fifth, seventh or ninth night, one desiring a daughter. In these nights, in ascending order, offspring are born with increasing longevity, health, wealth, fortune, strength, complexion and completeness of the sense organs; after this period, in ascending order of the nights, there is only a decline of longevity and the like."
       },
       {
         "type": "verse",
@@ -19862,7 +19910,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र युग्मासु रात्रिष्वल्पीभवत्यार्तवमयुग्मास्वाप्याय्यते तस्मात्तासु क्रमात् पुत्रस्य दुहितुश्च जन्म अत एव चानुपरतार्तवदर्शनां पुत्रार्थी विप्रकृष्टेष्वप्यहस्सु नोपेयात् यदि त्वाहारानुरोधादयुग्मासु शुक्रस्याधिकता युग्मासु च न्यूनता स्यात्ततः पुमान् स्त्र्याकृतिर्दुर्बलो हीनाङ्गो वा जायते स्त्री च पुरुषाकृतिर्दुर्बला हीनाङ्गा वा एकादशीत्रयोदश्योस्तु नपुंसकं स्यात्",
         "iast": "tatra yugmāsu rātriṣvalpībhavatyārtavamayugmāsvāpyāyyate tasmāttāsu kramāt putrasya duhituśca janma ata eva cānuparatārtavadarśanāṃ putrārthī viprakṛṣṭeṣvapyahassu nopeyāt yadi tvāhārānurodhādayugmāsu śukrasyādhikatā yugmāsu ca nyūnatā syāttataḥ pumān stryākṛtirdurbalo hīnāṅgo vā jāyate strī ca puruṣākṛtirdurbalā hīnāṅgā vā ekādaśītrayodaśyostu napuṃsakaṃ syāt",
         "iast_ru": "татра йугма̄су ра̄триш̣валпӣбхаватйа̄ртавамайугма̄сва̄пйа̄ййате тасма̄тта̄су крама̄т путрасйа духитуш́ча джанма ата ева ча̄нупарата̄ртавадарш́ана̄м̣ путра̄ртхӣ випракр̣ш̣т̣еш̣вапйахассу нопейа̄т йади тва̄ха̄ра̄нуродха̄дайугма̄су ш́украсйа̄дхиката̄ йугма̄су ча нйӯната̄ сйа̄ттатах̣ пума̄н стрйа̄кр̣тирдурбало хӣна̄н̇го ва̄ джа̄йате стрӣ ча пуруш̣а̄кр̣тирдурбала̄ хӣна̄н̇га̄ ва̄ ека̄даш́ӣтрайодаш́йосту напум̣сакам̣ сйа̄т",
-        "text": "В чётные ночи менструальная кровь убывает, в нечётные же — прибывает; поэтому в них, соответственно, происходит рождение сына и дочери. Именно поэтому желающему сына не следует сходиться с женой, у которой не прекратилось появление менструации, даже в отдалённые дни цикла. Если же, из-за неправильного режима питания, в нечётных ночах будет избыток семени, а в чётных — недостаток, — тогда рождается мужчина с женским обликом, слабый или с неполноценными членами; и женщина — с мужским обликом, слабая или с неполноценными членами. На одиннадцатую же и тринадцатую ночь может родиться гермафродит."
+        "text": "В чётные ночи менструальная кровь убывает, в нечётные же — прибывает; поэтому в них, соответственно, происходит рождение сына и дочери. Именно поэтому желающему сына не следует сходиться с женой, у которой не прекратилось появление менструации, даже в отдалённые дни цикла. Если же, из-за неправильного режима питания, в нечётных ночах будет избыток семени, а в чётных — недостаток, — тогда рождается мужчина с женским обликом, слабый или с неполноценными членами; и женщина — с мужским обликом, слабая или с неполноценными членами. На одиннадцатую же и тринадцатую ночь может родиться гермафродит.",
+        "text_en": "On the even nights menstrual blood decreases, on the odd nights it increases; therefore in them, respectively, a son and a daughter are born. For this very reason, one desiring a son should not unite with a wife in whom the menstrual flow has not ceased, even on the remote days of the cycle. But if, through improper diet, there is an excess of semen on the odd nights and a deficiency on the even nights, then a man is born with a feminine appearance, weak or with defective limbs; and a woman with a masculine appearance, weak or with defective limbs. On the eleventh and thirteenth night a hermaphrodite may be born."
       },
       {
         "type": "verse",
@@ -19870,7 +19919,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथोपाध्यायः पुत्रीयं विधानमाचरेत् शूद्रायास्तु मन्त्रवर्जितम् यादृशं च पुत्रमाशासीत तद्रूपवर्णचरितान् जनपदाननुचिन्तयेति स्त्री वाच्या तज्जनपदाहारविहारोपचारपरिच्छदांश्चानुविदघीत",
         "iast": "athopādhyāyaḥ putrīyaṃ vidhānamācaret śūdrāyāstu mantravarjitam yādṛśaṃ ca putramāśāsīta tadrūpavarṇacaritān janapadānanucintayeti strī vācyā tajjanapadāhāravihāropacāraparicchadāṃścānuvidaghīta",
         "iast_ru": "атхопа̄дхйа̄йах̣ путрӣйам̣ видха̄нама̄чарет ш́ӯдра̄йа̄сту мантраварджитам йа̄др̣ш́ам̣ ча путрама̄ш́а̄сӣта тадрӯпаварн̣ачарита̄н джанапада̄нанучинтайети стрӣ ва̄чйа̄ таджджанапада̄ха̄равиха̄ропача̄рапариччхада̄м̣ш́ча̄нувидагхӣта",
-        "text": "Далее, наставник должен провести обряд, способствующий рождению сына; для женщины касты шудра — без мантр. И следует сказать женщине: «Какого сына ты желаешь, — размышляй о людях той страны, обладающих таким обликом, цветом кожи и характером»; и следует применять пищу, образ жизни, уход и одеяния, свойственные этой стране."
+        "text": "Далее, наставник должен провести обряд, способствующий рождению сына; для женщины касты шудра — без мантр. И следует сказать женщине: «Какого сына ты желаешь, — размышляй о людях той страны, обладающих таким обликом, цветом кожи и характером»; и следует применять пищу, образ жизни, уход и одеяния, свойственные этой стране.",
+        "text_en": "Next, the preceptor should perform the rite conducive to the birth of a son; for a woman of the shudra caste, without mantras. And the woman should be told: \"Whatever kind of son you desire, think of the men of that country who possess such an appearance, complexion and character\"; and the food, regimen, care and clothing characteristic of that country should be employed."
       },
       {
         "type": "verse",
@@ -19878,7 +19928,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कर्मान्ते च पुमान् मासं ब्रह्मचारी सर्पिः क्षीराभ्या शाल्योदनमभिप्राश्य नात्याशितः सुखी स्रग्वी सुमनाः प्रीणिताङ्गः शुक्लनिवसनो मौहूर्तिकानुमते रात्रिभागे कल्याणानि चिन्तयानस्तदभिकामः स्वास्तीर्णं शयनं दक्षिणेन पादेन प्रागारोहेत् ताद्विधैव च प्रमदा कर्णिताङ्गी तैलमाषोत्तराहारा पूर्वं वामपादेन पुरुषस्य दक्षिणतः शय्यामधिरोहेत् तत्र मन्त्रं प्रयुञ्जीत आयुरसि सर्वतः प्रतिष्ठासि धाता त्वा दधातु विधाता त्वा दधातु ब्रह्मवर्चसा भवेति ब्रह्माबृहस्पतिर्विष्णुस्सोमस्सूर्यस्तथाश्विनौ भगो ऽथ मित्रावरुणौ वीरं दधतु मे सुतमिति",
         "iast": "karmānte ca pumān māsaṃ brahmacārī sarpiḥ kṣīrābhyā śālyodanamabhiprāśya nātyāśitaḥ sukhī sragvī sumanāḥ prīṇitāṅgaḥ śuklanivasano mauhūrtikānumate rātribhāge kalyāṇāni cintayānastadabhikāmaḥ svāstīrṇaṃ śayanaṃ dakṣiṇena pādena prāgārohet tādvidhaiva ca pramadā karṇitāṅgī tailamāṣottarāhārā pūrvaṃ vāmapādena puruṣasya dakṣiṇataḥ śayyāmadhirohet tatra mantraṃ prayuñjīta āyurasi sarvataḥ pratiṣṭhāsi dhātā tvā dadhātu vidhātā tvā dadhātu brahmavarcasā bhaveti brahmābṛhaspatirviṣṇussomassūryastathāśvinau bhago 'tha mitrāvaruṇau vīraṃ dadhatu me sutamiti",
         "iast_ru": "карма̄нте ча пума̄н ма̄сам̣ брахмача̄рӣ сарпих̣ кш̣ӣра̄бхйа̄ ш́а̄лйоданамабхипра̄ш́йа на̄тйа̄ш́итах̣ сукхӣ срагвӣ сумана̄х̣ прӣн̣ита̄н̇гах̣ ш́укланивасано маухӯртика̄нумате ра̄трибха̄ге калйа̄н̣а̄ни чинтайа̄настадабхика̄мах̣ сва̄стӣрн̣ам̣ ш́айанам̣ дакш̣ин̣ена па̄дена пра̄га̄рохет та̄двидхаива ча прамада̄ карн̣ита̄н̇гӣ таилама̄ш̣оттара̄ха̄ра̄ пӯрвам̣ ва̄мапа̄дена пуруш̣асйа дакш̣ин̣атах̣ ш́аййа̄мадхирохет татра мантрам̣ прайун̃джӣта а̄йураси сарватах̣ пратиш̣т̣ха̄си дха̄та̄ тва̄ дадха̄ту видха̄та̄ тва̄ дадха̄ту брахмаварчаса̄ бхавети брахма̄бр̣хаспатирвиш̣н̣уссомассӯрйастатха̄ш́винау бхаго 'тха митра̄варун̣ау вӣрам̣ дадхату ме сутамити",
-        "text": "По окончании же обряда, мужчина, месяц соблюдавший целомудрие, поевший риса шали с гхи и молоком, не переевший, счастливый, в гирлянде, в благом расположении духа, с умащённым телом, в белой одежде, — по совету астролога, в определённую часть ночи, размышляя о благоприятном, и, желая её, — должен взойти на хорошо застеленное ложе правой ногой, с востока. Подобным же образом и жена, с украшенным телом, поевшая пищи с маслом и машем, — прежде должна взойти на ложе левой ногой, с правой стороны от мужчины. При этом следует произнести мантру: «Ты — долголетие, ты утверждена во всём; Дхатар да утвердит тебя, Видхатар да утвердит тебя, — да будешь ты исполнена брахмического сияния»; «Брахма, Брихаспати, Вишну, Сома, Сурья, а также оба Ашвина, Бхага, затем Митра и Варуна — да даруют мне героического сына»."
+        "text": "По окончании же обряда, мужчина, месяц соблюдавший целомудрие, поевший риса шали с гхи и молоком, не переевший, счастливый, в гирлянде, в благом расположении духа, с умащённым телом, в белой одежде, — по совету астролога, в определённую часть ночи, размышляя о благоприятном, и, желая её, — должен взойти на хорошо застеленное ложе правой ногой, с востока. Подобным же образом и жена, с украшенным телом, поевшая пищи с маслом и машем, — прежде должна взойти на ложе левой ногой, с правой стороны от мужчины. При этом следует произнести мантру: «Ты — долголетие, ты утверждена во всём; Дхатар да утвердит тебя, Видхатар да утвердит тебя, — да будешь ты исполнена брахмического сияния»; «Брахма, Брихаспати, Вишну, Сома, Сурья, а также оба Ашвина, Бхага, затем Митра и Варуна — да даруют мне героического сына».",
+        "text_en": "After the rite is concluded, the man, having observed celibacy for a month, having eaten shali rice with ghee and milk, not overeaten, happy, garlanded, in good spirits, with his body anointed, in white garments, on the advice of an astrologer, at a determined part of the night, reflecting on auspicious things and desiring her, should ascend the well-spread bed with the right foot, from the east. Likewise the wife, with her body adorned, having eaten food with butter and masha, should first ascend the bed with the left foot, on the right side of the man. At this the mantra should be uttered: \"You are long life, you are established in all things; may Dhatar establish you, may Vidhatar establish you; may you be filled with Brahmic radiance\"; \"May Brahma, Brihaspati, Vishnu, Soma, Surya, and also the two Ashvins, Bhaga, then Mitra and Varuna grant me a heroic son.\""
       },
       {
         "type": "verse",
@@ -19886,7 +19937,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततः परस्परं सामभिरभिसान्त्व्य सहर्षमनुकूलं संविशेताम् पर्याप्ते चैनां शीतोदकेन सहसा परिषिञ्चेत्",
         "iast": "tataḥ parasparaṃ sāmabhirabhisāntvya saharṣamanukūlaṃ saṃviśetām paryāpte caināṃ śītodakena sahasā pariṣiñcet",
         "iast_ru": "татах̣ параспарам̣ са̄мабхирабхиса̄нтвйа сахарш̣аманукӯлам̣ сам̣виш́ета̄м парйа̄пте чаина̄м̣ ш́ӣтодакена сахаса̄ париш̣ин̃чет",
-        "text": "Затем, утешив друг друга ласковыми словами, им следует соединиться радостно и благосклонно. По завершении же следует внезапно окропить её холодной водой."
+        "text": "Затем, утешив друг друга ласковыми словами, им следует соединиться радостно и благосклонно. По завершении же следует внезапно окропить её холодной водой.",
+        "text_en": "Then, comforting each other with affectionate words, they should unite joyfully and amiably. At the conclusion, she should be suddenly sprinkled with cold water."
       },
       {
         "type": "verse",
@@ -19894,7 +19946,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्रात्याशिता क्षुधिता पिपासिता भीता विमनाः शोकार्ता क्रुद्धातिमेदुरान्यकामा ऽव्यवायकामा वा न गर्भं धत्ते विगुणं वा तथा पुरुषो ऽपि न चासौअधस्तिष्ठेत् तथा हि स्त्रीचेष्टः पुमान् जायते पुंश्चेष्टा वा स्त्री न च न्युब्जां पार्श्वगतां वा सेवेत न्युब्जाया वातो बलवान् स योनिं पीडयति दक्षिणपार्श्वगतायाः श्लेष्मा पीडितश्च्युतः पिदधाति गर्भाशयम् वामपार्श्वगतायास्तद्वत् पित्तं विदहति रक्तशुक्रे तस्मादुत्ताना बीजं गृह्णीयात् तथा हि यथास्थानमेव तिष्ठन्ति दोषाः",
         "iast": "tatrātyāśitā kṣudhitā pipāsitā bhītā vimanāḥ śokārtā kruddhātimedurānyakāmā 'vyavāyakāmā vā na garbhaṃ dhatte viguṇaṃ vā tathā puruṣo 'pi na cāsauadhastiṣṭhet tathā hi strīceṣṭaḥ pumān jāyate puṃśceṣṭā vā strī na ca nyubjāṃ pārśvagatāṃ vā seveta nyubjāyā vāto balavān sa yoniṃ pīḍayati dakṣiṇapārśvagatāyāḥ śleṣmā pīḍitaścyutaḥ pidadhāti garbhāśayam vāmapārśvagatāyāstadvat pittaṃ vidahati raktaśukre tasmāduttānā bījaṃ gṛhṇīyāt tathā hi yathāsthānameva tiṣṭhanti doṣāḥ",
         "iast_ru": "татра̄тйа̄ш́ита̄ кш̣удхита̄ пипа̄сита̄ бхӣта̄ вимана̄х̣ ш́ока̄рта̄ круддха̄тимедура̄нйака̄ма̄ 'вйава̄йака̄ма̄ ва̄ на гарбхам̣ дхатте вигун̣ам̣ ва̄ татха̄ пуруш̣о 'пи на ча̄сауадхастиш̣т̣хет татха̄ хи стрӣчеш̣т̣ах̣ пума̄н джа̄йате пум̣ш́чеш̣т̣а̄ ва̄ стрӣ на ча нйубджа̄м̣ па̄рш́вагата̄м̣ ва̄ севета нйубджа̄йа̄ ва̄то балава̄н са йоним̣ пӣд̣айати дакш̣ин̣апа̄рш́вагата̄йа̄х̣ ш́леш̣ма̄ пӣд̣иташ́чйутах̣ пидадха̄ти гарбха̄ш́айам ва̄мапа̄рш́вагата̄йа̄стадват питтам̣ видахати ракташ́укре тасма̄дутта̄на̄ бӣджам̣ гр̣хн̣ӣйа̄т татха̄ хи йатха̄стха̄намева тиш̣т̣ханти дош̣а̄х̣",
-        "text": "В этом случае, женщина, переевшая, голодная, жаждущая, испуганная, расстроенная умом, охваченная горем, разгневанная, чрезмерно тучная, желающая другого мужчину, или не желающая соития, — не зачинает здорового потомства, или зачинает с изъяном; так же и мужчина в подобном состоянии. И женщине не следует находиться внизу. И не следует ей лежать ничком или на боку; у лежащей ничком сильный ветер сдавливает влагалище; у лежащей на правом боку — сдавленная капха, сместившись, закрывает матку; у лежащей на левом боку, подобным же образом, питта обжигает кровь и семя. Поэтому следует зачинать семя, лёжа на спине; ибо тогда доши остаются каждая на своём месте."
+        "text": "В этом случае, женщина, переевшая, голодная, жаждущая, испуганная, расстроенная умом, охваченная горем, разгневанная, чрезмерно тучная, желающая другого мужчину, или не желающая соития, — не зачинает здорового потомства, или зачинает с изъяном; так же и мужчина в подобном состоянии. И женщине не следует находиться внизу. И не следует ей лежать ничком или на боку; у лежащей ничком сильный ветер сдавливает влагалище; у лежащей на правом боку — сдавленная капха, сместившись, закрывает матку; у лежащей на левом боку, подобным же образом, питта обжигает кровь и семя. Поэтому следует зачинать семя, лёжа на спине; ибо тогда доши остаются каждая на своём месте.",
+        "text_en": "In this regard, a woman who has overeaten, who is hungry, thirsty, frightened, disturbed in mind, overcome by grief, angry, excessively obese, desiring another man, or not desiring intercourse, does not conceive healthy offspring, or conceives with a defect; so also the man in a similar condition. And the woman should not be below. Nor should she lie prone or on her side; in one lying prone, strong Vata compresses the vagina; in one lying on the right side, compressed Kapha, becoming displaced, closes the uterus; in one lying on the left side, likewise, Pitta burns the blood and semen. Therefore the semen should be received lying on the back; for then the doshas remain each in its own place."
       },
       {
         "type": "verse",
@@ -19902,7 +19955,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लब्धगर्भां चैनां विदित्वा प्राग्व्यक्तीभावाद्गर्भस्य पुष्ये पुंसवनानि प्रयुञ्जीत द्वादशरात्रमित्यन्ये तत्रापि युग्मदिनेष्विति केचित् प्रत्यहमित्यपरे",
         "iast": "labdhagarbhāṃ caināṃ viditvā prāgvyaktībhāvādgarbhasya puṣye puṃsavanāni prayuñjīta dvādaśarātramityanye tatrāpi yugmadineṣviti kecit pratyahamityapare",
         "iast_ru": "лабдхагарбха̄м̣ чаина̄м̣ видитва̄ пра̄гвйактӣбха̄ва̄дгарбхасйа пуш̣йе пум̣савана̄ни прайун̃джӣта два̄даш́ара̄трамитйанйе татра̄пи йугмадинеш̣вити кечит пратйахамитйапаре",
-        "text": "Узнав же, что она зачала, следует, до того как проявятся явные признаки беременности, в день созвездия Пушья, применять «пумсавана» (обряды для рождения сына); другие говорят — двенадцать ночей; некоторые же говорят — в чётные дни из них; иные же — ежедневно."
+        "text": "Узнав же, что она зачала, следует, до того как проявятся явные признаки беременности, в день созвездия Пушья, применять «пумсавана» (обряды для рождения сына); другие говорят — двенадцать ночей; некоторые же говорят — в чётные дни из них; иные же — ежедневно.",
+        "text_en": "Having learned that she has conceived, one should, before the clear signs of pregnancy appear, on the day of the constellation Pushya, apply the \"pumsavana\" (rites for the birth of a son); others say twelve nights; some say on the even days among them; others say daily."
       },
       {
         "type": "verse",
@@ -19910,7 +19964,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्यथा लक्ष्मणावटशृङ्गसहदेवाविश्वदेवानामन्यतमं क्षीरे ऽभिषुत्य त्रींश्चतुरो वा बिन्दून् दक्षिणे नासापुटे स्वयमासिञ्चेत् पिचुना वामे तु दुहितृकामा न चैतान् निष्ठीवेत् तथा पुष्योद्घृतायाः श्वेतबृहत्या मूलकल्काद्रसं नावयेत् तद्वच्चोत्पलपत्रं कुमुदपत्र लक्ष्मणामूलं वटशृङ्गानि चाष्टौ च नावयेत्",
         "iast": "tadyathā lakṣmaṇāvaṭaśṛṅgasahadevāviśvadevānāmanyatamaṃ kṣīre 'bhiṣutya trīṃścaturo vā bindūn dakṣiṇe nāsāpuṭe svayamāsiñcet picunā vāme tu duhitṛkāmā na caitān niṣṭhīvet tathā puṣyodghṛtāyāḥ śvetabṛhatyā mūlakalkādrasaṃ nāvayet tadvaccotpalapatraṃ kumudapatra lakṣmaṇāmūlaṃ vaṭaśṛṅgāni cāṣṭau ca nāvayet",
         "iast_ru": "тадйатха̄ лакш̣ман̣а̄ват̣аш́р̣н̇гасахадева̄виш́вадева̄на̄манйатамам̣ кш̣ӣре 'бхиш̣утйа трӣм̣ш́чатуро ва̄ биндӯн дакш̣ин̣е на̄са̄пут̣е свайама̄син̃чет пичуна̄ ва̄ме ту духитр̣ка̄ма̄ на чаита̄н ниш̣т̣хӣвет татха̄ пуш̣йодгхр̣та̄йа̄х̣ ш́ветабр̣хатйа̄ мӯлакалка̄драсам̣ на̄вайет тадваччотпалапатрам̣ кумудапатра лакш̣ман̣а̄мӯлам̣ ват̣аш́р̣н̇га̄ни ча̄ш̣т̣ау ча на̄вайет",
-        "text": "А именно: отжав сок одного из растений — лакшманы, побега баньяна, сахадевы или вишвадевы — в молоке, следует самой закапать три или четыре капли в правую ноздрю тампоном; для желающей же дочери — в левую, тампоном; и не следует их сплёвывать. Подобным же образом, следует закапать в нос сок пасты корня белой брихати, собранной в день Пушья; таким же образом — сок листа синего лотоса, листа кумуды, корня лакшманы, и восьми побегов баньяна."
+        "text": "А именно: отжав сок одного из растений — лакшманы, побега баньяна, сахадевы или вишвадевы — в молоке, следует самой закапать три или четыре капли в правую ноздрю тампоном; для желающей же дочери — в левую, тампоном; и не следует их сплёвывать. Подобным же образом, следует закапать в нос сок пасты корня белой брихати, собранной в день Пушья; таким же образом — сок листа синего лотоса, листа кумуды, корня лакшманы, и восьми побегов баньяна.",
+        "text_en": "Namely: having pressed out the juice of one of the plants, lakshmana, a shoot of the banyan, sahadeva or vishvadeva, in milk, she herself should instil three or four drops into the right nostril with a swab; for one desiring a daughter, into the left, with a swab; and they should not be spat out. Likewise, the juice of the paste of the root of white brihati, gathered on the day of Pushya, should be instilled into the nose; in the same way the juice of the leaf of blue lotus, the leaf of kumuda, the root of lakshmana, and eight shoots of the banyan."
       },
       {
         "type": "verse",
@@ -19918,7 +19973,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शुक्लमाल्याम्बरधरा च नारी पुष्योद्धृताया लक्ष्मणाया मूलकल्कमुदुम्बरमात्रं पयसा पिबेत् पुत्रस्योत्पादनाय स्थितये च तद्वद्गौरदण्डमपामार्गं जीवकर्षभकौ शङ्खषुष्पीमध्यदण्डां सहचरं नग्नजितमग्निजिव्यामष्टौ वा वटशृङ्गानि शालिपिष्टस्य च पच्यमानस्योष्माणमाघ्राय तद्रसं देहल्यां स्थिता पूर्ववन्नावयेत्",
         "iast": "śuklamālyāmbaradharā ca nārī puṣyoddhṛtāyā lakṣmaṇāyā mūlakalkamudumbaramātraṃ payasā pibet putrasyotpādanāya sthitaye ca tadvadgauradaṇḍamapāmārgaṃ jīvakarṣabhakau śaṅkhaṣuṣpīmadhyadaṇḍāṃ sahacaraṃ nagnajitamagnijivyāmaṣṭau vā vaṭaśṛṅgāni śālipiṣṭasya ca pacyamānasyoṣmāṇamāghrāya tadrasaṃ dehalyāṃ sthitā pūrvavannāvayet",
         "iast_ru": "ш́уклама̄лйа̄мбарадхара̄ ча на̄рӣ пуш̣йоддхр̣та̄йа̄ лакш̣ман̣а̄йа̄ мӯлакалкамудумбарама̄трам̣ пайаса̄ пибет путрасйотпа̄дана̄йа стхитайе ча тадвадгаурадан̣д̣амапа̄ма̄ргам̣ джӣвакарш̣абхакау ш́ан̇кхаш̣уш̣пӣмадхйадан̣д̣а̄м̣ сахачарам̣ нагнаджитамагнидживйа̄маш̣т̣ау ва̄ ват̣аш́р̣н̇га̄ни ш́а̄липиш̣т̣асйа ча пачйама̄насйош̣ма̄н̣ама̄гхра̄йа тадрасам̣ дехалйа̄м̣ стхита̄ пӯрваванна̄вайет",
-        "text": "Женщина же, облачённая в белую гирлянду и одежду, должна выпить с молоком пасту корня лакшманы, собранной в день Пушья, размером с плод удумбары, — для зачатия и укрепления сына; подобным же образом следует применять: гауру-данду, апамаргу, дживаку и ришабхаку, шанкхапушпи со средним стеблем, сахачару, нагнаджиту, агниджихву, или же восемь побегов баньяна; вдохнув пар от варящейся рисовой пасты, стоя на пороге, следует, как прежде, закапать этот сок в нос."
+        "text": "Женщина же, облачённая в белую гирлянду и одежду, должна выпить с молоком пасту корня лакшманы, собранной в день Пушья, размером с плод удумбары, — для зачатия и укрепления сына; подобным же образом следует применять: гауру-данду, апамаргу, дживаку и ришабхаку, шанкхапушпи со средним стеблем, сахачару, нагнаджиту, агниджихву, или же восемь побегов баньяна; вдохнув пар от варящейся рисовой пасты, стоя на пороге, следует, как прежде, закапать этот сок в нос.",
+        "text_en": "The woman, clad in a white garland and garment, should drink with milk a paste of the root of lakshmana gathered on the day of Pushya, of the size of an udumbara fruit, for conception and for the strengthening of the son; likewise should be applied: gaura-danda, apamarga, jivaka and rishabhaka, shankhapushpi with the middle stalk, sahachara, nagnajit, agnijihva, or else eight shoots of the banyan; having inhaled the steam of a boiling rice paste, standing on the threshold, she should, as before, instil this juice into the nose."
       },
       {
         "type": "verse",
@@ -19926,7 +19982,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यच्चान्यदपि ब्राह्मणा वृद्धस्त्रियो वा ब्रूयुस्तच्च कुर्यात् ततः प्रजास्थापनाख्या दशौषधीः शिरसा दक्षिणेन च पाणिना धारयेत् एताभिश्च सिद्धं पयो घृतं वा पिबेत् एताभिरेव पुष्ये पुष्ये स्नायात् सदा च समालभेत तथा सर्वासां जीवनीयानामौषधीनां सदोपयोगस्तैस्तैर्विधानैरिति गर्भस्थापनानि",
         "iast": "yaccānyadapi brāhmaṇā vṛddhastriyo vā brūyustacca kuryāt tataḥ prajāsthāpanākhyā daśauṣadhīḥ śirasā dakṣiṇena ca pāṇinā dhārayet etābhiśca siddhaṃ payo ghṛtaṃ vā pibet etābhireva puṣye puṣye snāyāt sadā ca samālabheta tathā sarvāsāṃ jīvanīyānāmauṣadhīnāṃ sadopayogastaistairvidhānairiti garbhasthāpanāni",
         "iast_ru": "йачча̄нйадапи бра̄хман̣а̄ вр̣ддхастрийо ва̄ брӯйустачча курйа̄т татах̣ праджа̄стха̄пана̄кхйа̄ даш́ауш̣адхӣх̣ ш́ираса̄ дакш̣ин̣ена ча па̄н̣ина̄ дха̄райет ета̄бхиш́ча сиддхам̣ пайо гхр̣там̣ ва̄ пибет ета̄бхирева пуш̣йе пуш̣йе сна̄йа̄т сада̄ ча сама̄лабхета татха̄ сарва̄са̄м̣ джӣванӣйа̄на̄мауш̣адхӣна̄м̣ садопайогастаистаирвидха̄наирити гарбхастха̄пана̄ни",
-        "text": "И что бы ещё ни сказали брахманы или старые женщины, следует и это исполнить. Затем следует носить на голове и в правой руке десять трав, называемых «праджастхапана» (поддерживающие потомство); и следует пить молоко или гхи, сваренное с ними. Этими же травами следует омываться в каждый день Пушья, и постоянно ими умащаться. Подобным же образом, следует постоянно применять все укрепляющие жизнь травы, соответствующими способами; таковы средства «гарбхастхапана» (поддержания беременности)."
+        "text": "И что бы ещё ни сказали брахманы или старые женщины, следует и это исполнить. Затем следует носить на голове и в правой руке десять трав, называемых «праджастхапана» (поддерживающие потомство); и следует пить молоко или гхи, сваренное с ними. Этими же травами следует омываться в каждый день Пушья, и постоянно ими умащаться. Подобным же образом, следует постоянно применять все укрепляющие жизнь травы, соответствующими способами; таковы средства «гарбхастхапана» (поддержания беременности).",
+        "text_en": "And whatever else the brahmins or old women may say, that too should be carried out. Then one should wear on the head and in the right hand the ten herbs called \"prajasthapana\" (supporting the offspring); and one should drink milk or ghee cooked with them. With these same herbs one should bathe on every day of Pushya, and constantly anoint oneself with them. Likewise, all the life-promoting herbs should be constantly applied, in the appropriate ways; such are the measures of \"garbhasthapana\" (maintenance of pregnancy)."
       },
       {
         "type": "verse",
@@ -19934,7 +19991,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सौम्याकृतिवचनोपचारचेष्टाश्च प्रियहितानुवर्तिनः परिचारकास्तथा भर्तेति पुनश्चैनां मासादुपेयात्",
         "iast": "saumyākṛtivacanopacāraceṣṭāśca priyahitānuvartinaḥ paricārakāstathā bharteti punaścaināṃ māsādupeyāt",
         "iast_ru": "саумйа̄кр̣тивачанопача̄рачеш̣т̣а̄ш́ча прийахита̄нувартинах̣ парича̄рака̄статха̄ бхартети пунаш́чаина̄м̣ ма̄са̄дупейа̄т",
-        "text": "Пусть у неё будут обслуживающие люди с приятной внешностью, речью, обхождением, поведением, следующие её желаниям и благу; и муж — таков же. И снова ему следует сойтись с ней не раньше, чем через месяц."
+        "text": "Пусть у неё будут обслуживающие люди с приятной внешностью, речью, обхождением, поведением, следующие её желаниям и благу; и муж — таков же. И снова ему следует сойтись с ней не раньше, чем через месяц.",
+        "text_en": "Let her have attendants of pleasant appearance, speech, manners and conduct, who follow her wishes and her welfare; and the husband likewise. And he should unite with her again not earlier than after a month."
       },
       {
         "type": "verse",
@@ -19942,7 +20000,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र शुक्रे शुक्ले घृतमण्डाभे वा गर्भस्य गौरत्वं तैलाभे कृष्णत्वं मध्वाभे श्यामत्वम् तथा क्षीरादिमधुराणामुपयोगान्मातुरुदकविहाराच्च गौरता तिलान्नविदाहिना कृष्णता व्यामिश्राणां श्यामता देशकुलानुवृत्तितश्च वर्णभेदः",
         "iast": "tatra śukre śukle ghṛtamaṇḍābhe vā garbhasya gauratvaṃ tailābhe kṛṣṇatvaṃ madhvābhe śyāmatvam tathā kṣīrādimadhurāṇāmupayogānmāturudakavihārācca gauratā tilānnavidāhinā kṛṣṇatā vyāmiśrāṇāṃ śyāmatā deśakulānuvṛttitaśca varṇabhedaḥ",
         "iast_ru": "татра ш́укре ш́укле гхр̣таман̣д̣а̄бхе ва̄ гарбхасйа гауратвам̣ таила̄бхе кр̣ш̣н̣атвам̣ мадхва̄бхе ш́йа̄матвам татха̄ кш̣ӣра̄димадхура̄н̣а̄мупайога̄нма̄турудакавиха̄ра̄чча гаурата̄ тила̄ннавида̄хина̄ кр̣ш̣н̣ата̄ вйа̄миш́ра̄н̣а̄м̣ ш́йа̄мата̄ деш́акула̄нувр̣ттиташ́ча варн̣абхедах̣",
-        "text": "В этом случае, при белом семени или цвета сливок гхи — возникает светлый цвет кожи плода; при цвете масла — тёмный; при цвете мёда — смуглый. Подобным же образом, от употребления матерью молока и других сладких продуктов, а также водных процедур, — возникает светлый цвет; от жгучей кунжутной пищи — тёмный; от смешанной диеты — смуглый; а также различие цвета возникает в соответствии со страной и родом семьи."
+        "text": "В этом случае, при белом семени или цвета сливок гхи — возникает светлый цвет кожи плода; при цвете масла — тёмный; при цвете мёда — смуглый. Подобным же образом, от употребления матерью молока и других сладких продуктов, а также водных процедур, — возникает светлый цвет; от жгучей кунжутной пищи — тёмный; от смешанной диеты — смуглый; а также различие цвета возникает в соответствии со страной и родом семьи.",
+        "text_en": "In this regard, when the semen is white or of the colour of the cream of ghee, a fair complexion of the foetus arises; when it is of the colour of butter, a dark one; when it is of the colour of honey, a dusky one. Likewise, from the mother's use of milk and other sweet foods, and water procedures, a fair colour arises; from pungent sesame food, a dark one; from a mixed diet, a dusky one; and the difference of colour also arises in accordance with the country and the lineage of the family."
       },
       {
         "type": "verse",
@@ -19950,7 +20009,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा तेजोधातोरुदकाकाशधातुसम्पर्काद्गौरता भूवायुसम्पर्कात् कृष्णता सर्वधातुसाम्ये श्यामता",
         "iast": "tathā tejodhātorudakākāśadhātusamparkādgauratā bhūvāyusamparkāt kṛṣṇatā sarvadhātusāmye śyāmatā",
         "iast_ru": "татха̄ теджодха̄торудака̄ка̄ш́адха̄тусампарка̄дгаурата̄ бхӯва̄йусампарка̄т кр̣ш̣н̣ата̄ сарвадха̄туса̄мйе ш́йа̄мата̄",
-        "text": "Подобным же образом, от преобладания элемента огня в сочетании с элементами воды и пространства — возникает светлый цвет; от преобладания элементов земли и ветра — тёмный; при равновесии всех элементов — смуглый."
+        "text": "Подобным же образом, от преобладания элемента огня в сочетании с элементами воды и пространства — возникает светлый цвет; от преобладания элементов земли и ветра — тёмный; при равновесии всех элементов — смуглый.",
+        "text_en": "Likewise, from the predominance of the fire element in combination with the elements of water and space, a fair colour arises; from the predominance of the elements of earth and air, a dark one; with the balance of all elements, a dusky one."
       },
       {
         "type": "verse",
@@ -19958,7 +20018,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सत्वविशेषकराणि पुनर्मातापितृसत्वादयो ऽन्तर्वत्न्याः श्रुतयश्चाभीक्ष्णं स्वोपचितं च कर्म भवति पूर्वाभ्यासश्चेति",
         "iast": "satvaviśeṣakarāṇi punarmātāpitṛsatvādayo 'ntarvatnyāḥ śrutayaścābhīkṣṇaṃ svopacitaṃ ca karma bhavati pūrvābhyāsaśceti",
         "iast_ru": "сатвавиш́еш̣акара̄н̣и пунарма̄та̄питр̣сатва̄дайо 'нтарватнйа̄х̣ ш́рутайаш́ча̄бхӣкш̣н̣ам̣ свопачитам̣ ча карма бхавати пӯрва̄бхйа̄саш́чети",
-        "text": "Природу же характера ребёнка особо определяют: природа матери и отца, а также услышанное беременной женщиной неоднократно, и её собственное накопленное прошлое действие, а также прежние привычки из прошлых жизней."
+        "text": "Природу же характера ребёнка особо определяют: природа матери и отца, а также услышанное беременной женщиной неоднократно, и её собственное накопленное прошлое действие, а также прежние привычки из прошлых жизней.",
+        "text_en": "The nature of the child's character is especially determined by: the nature of the mother and father, what the pregnant woman has repeatedly heard, her own accumulated past action, as well as habits from former lives."
       },
       {
         "type": "verse",
@@ -19966,7 +20027,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भवन्ति चात्र घृतक्षीरादिनित्यासु मुदितासु कफात्मसु आर्तवं तिष्ठत्ति चिरं विपरीतास्वतो ऽन्यथा",
         "iast": "bhavanti cātra ghṛtakṣīrādinityāsu muditāsu kaphātmasu ārtavaṃ tiṣṭhatti ciraṃ viparītāsvato 'nyathā",
         "iast_ru": "бхаванти ча̄тра гхр̣такш̣ӣра̄динитйа̄су мудита̄су капха̄тмасу а̄ртавам̣ тиш̣т̣хатти чирам̣ випарӣта̄свато 'нйатха̄",
-        "text": "И здесь также применимо: у женщин, постоянно употребляющих гхи, молоко и подобное, радостных, с преобладанием капха-конституции, — менструальная кровь удерживается долго; у женщин обратного склада — иначе."
+        "text": "И здесь также применимо: у женщин, постоянно употребляющих гхи, молоко и подобное, радостных, с преобладанием капха-конституции, — менструальная кровь удерживается долго; у женщин обратного склада — иначе.",
+        "text_en": "And here too it is said: in women who constantly use ghee, milk and the like, who are cheerful and of predominantly Kapha constitution, the menstrual blood is retained for a long time; in women of the opposite type, it is otherwise."
       },
       {
         "type": "verse",
@@ -19974,7 +20036,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निपातादेव गृह्णाति रागं वासो यथा ऽमलम् ध्रुवं गर्भं तथा बीजं क्षेत्रं बीजमुपस्कृतम्",
         "iast": "nipātādeva gṛhṇāti rāgaṃ vāso yathā 'malam dhruvaṃ garbhaṃ tathā bījaṃ kṣetraṃ bījamupaskṛtam",
         "iast_ru": "нипа̄та̄дева гр̣хн̣а̄ти ра̄гам̣ ва̄со йатха̄ 'малам дхрувам̣ гарбхам̣ татха̄ бӣджам̣ кш̣етрам̣ бӣджамупаскр̣там",
-        "text": "Подобно тому, как чистая ткань немедленно воспринимает краску при погружении в неё, — так же семя, посаженное в надлежащим образом подготовленное «поле», несомненно образует зародыш."
+        "text": "Подобно тому, как чистая ткань немедленно воспринимает краску при погружении в неё, — так же семя, посаженное в надлежащим образом подготовленное «поле», несомненно образует зародыш.",
+        "text_en": "Just as a clean cloth immediately takes up dye when immersed in it, so semen sown in a properly prepared \"field\" undoubtedly forms an embryo."
       },
       {
         "type": "verse",
@@ -19982,7 +20045,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अविरुद्धे ध्रुवं दैवे काले युक्तस्य कर्मणः सिद्धिः पुंसवनाद्यस्मात् पूर्वं व्यक्तेः प्रयोजयेत्",
         "iast": "aviruddhe dhruvaṃ daive kāle yuktasya karmaṇaḥ siddhiḥ puṃsavanādyasmāt pūrvaṃ vyakteḥ prayojayet",
         "iast_ru": "авируддхе дхрувам̣ даиве ка̄ле йуктасйа карман̣ах̣ сиддхих̣ пум̣савана̄дйасма̄т пӯрвам̣ вйактех̣ прайоджайет",
-        "text": "При непротиворечащей судьбе, несомненно, достигается успех надлежащим образом проведённого действия в должное время; поэтому «пумсавана» и подобные обряды следует проводить до явного проявления признаков беременности."
+        "text": "При непротиворечащей судьбе, несомненно, достигается успех надлежащим образом проведённого действия в должное время; поэтому «пумсавана» и подобные обряды следует проводить до явного проявления признаков беременности.",
+        "text_en": "When destiny is not adverse, success undoubtedly attends a properly performed action at the proper time; therefore \"pumsavana\" and similar rites should be performed before the clear manifestation of the signs of pregnancy."
       },
       {
         "type": "verse",
@@ -19990,7 +20054,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जाताश्चैवं रूपवन्तो मासत्त्वाश्चिरायुषः ऋणान्मोचयितारः स्युः सुपुत्राः पुत्रिणां मताः",
         "iast": "jātāścaivaṃ rūpavanto māsattvāścirāyuṣaḥ ṛṇānmocayitāraḥ syuḥ suputrāḥ putriṇāṃ matāḥ",
         "iast_ru": "джа̄та̄ш́чаивам̣ рӯпаванто ма̄саттва̄ш́чира̄йуш̣ах̣ р̣н̣а̄нмочайита̄рах̣ сйух̣ супутра̄х̣ путрин̣а̄м̣ мата̄х̣",
-        "text": "Рождённые таким образом дети — красивы, обладают благим характером, долголетни, и способны освободить родителей от их родовых долгов; такие добрые сыновья почитаются благословением для имеющих их родителей."
+        "text": "Рождённые таким образом дети — красивы, обладают благим характером, долголетни, и способны освободить родителей от их родовых долгов; такие добрые сыновья почитаются благословением для имеющих их родителей.",
+        "text_en": "Children born in this way are beautiful, of good character, long-lived, and able to free their parents from their ancestral debts; such good sons are regarded as a blessing for the parents who have them."
       },
       {
         "type": "verse",
@@ -19998,7 +20063,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "देवताचारशौचादिरता सूते महागुणम् धावत्येवं चाचरितं प्राग्जन्माभ्यासयोगतः",
         "iast": "devatācāraśaucādiratā sūte mahāguṇam dhāvatyevaṃ cācaritaṃ prāgjanmābhyāsayogataḥ",
         "iast_ru": "девата̄ча̄раш́ауча̄дирата̄ сӯте маха̄гун̣ам дха̄ватйевам̣ ча̄чаритам̣ пра̄гджанма̄бхйа̄сайогатах̣",
-        "text": "Женщина, преданная почитанию божеств, благим обычаям, чистоте и подобному, рождает ребёнка с великими достоинствами; и таким образом проявляется в потомстве то, что было усвоено благодаря практике в предыдущих рождениях."
+        "text": "Женщина, преданная почитанию божеств, благим обычаям, чистоте и подобному, рождает ребёнка с великими достоинствами; и таким образом проявляется в потомстве то, что было усвоено благодаря практике в предыдущих рождениях.",
+        "text_en": "A woman devoted to the worship of deities, to good customs, purity and the like, bears a child of great merits; and thus what was acquired by practice in previous births is manifested in the offspring."
       },
       {
         "type": "verse",
@@ -20006,7 +20072,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "योषितो ऽपि स्रवत्येव शुक्रं पुंसः समागमे गर्भस्य तन्न किञ्चित्तु करोतीति न चिन्त्यते",
         "iast": "yoṣito 'pi sravatyeva śukraṃ puṃsaḥ samāgame garbhasya tanna kiñcittu karotīti na cintyate",
         "iast_ru": "йош̣ито 'пи сраватйева ш́украм̣ пум̣сах̣ сама̄гаме гарбхасйа танна кин̃читту каротӣти на чинтйате",
-        "text": "У женщины также, при соединении с мужчиной, действительно истекает некое выделение; но не следует полагать, что оно вносит какой-либо вклад в формирование плода."
+        "text": "У женщины также, при соединении с мужчиной, действительно истекает некое выделение; но не следует полагать, что оно вносит какой-либо вклад в формирование плода.",
+        "text_en": "In a woman, too, during union with a man, a certain discharge does indeed flow; but it should not be supposed that it makes any contribution to the formation of the foetus."
       }
     ]
   },
@@ -20028,7 +20095,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो गर्भावक्रान्तिं शारीरं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto garbhāvakrāntiṃ śārīraṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то гарбха̄вакра̄нтим̣ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу «Гарбхавакранти» («Вхождение зародыша») из раздела Шарира — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу «Гарбхавакранти» («Вхождение зародыша») из раздела Шарира — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter \"Garbhavakranti\" (\"Entry of the Embryo\") from the Sharira section, as the great sages, beginning with Atreya, declared."
       },
       {
         "type": "verse",
@@ -20036,7 +20104,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गते पुराणे रजसि नवे ऽवस्थिते शुद्धे गर्भस्याशये मार्गे च बीजात्मना शुक्रमविकृतमविकृतेन वायुना प्रेरितमन्यैश्च महाभूतैरनुगतमार्तवेनाभिमूर्च्छितमन्वक्षमेव रागादिक्लेशवशानुवर्तिना स्वकर्मचोदितेन मनोजवेन जीवेनाभिसंसृष्टं गर्भाशयमुपयाति",
         "iast": "gate purāṇe rajasi nave 'vasthite śuddhe garbhasyāśaye mārge ca bījātmanā śukramavikṛtamavikṛtena vāyunā preritamanyaiśca mahābhūtairanugatamārtavenābhimūrcchitamanvakṣameva rāgādikleśavaśānuvartinā svakarmacoditena manojavena jīvenābhisaṃsṛṣṭaṃ garbhāśayamupayāti",
         "iast_ru": "гате пура̄н̣е раджаси наве 'вастхите ш́уддхе гарбхасйа̄ш́айе ма̄рге ча бӣджа̄тмана̄ ш́украмавикр̣тамавикр̣тена ва̄йуна̄ преритаманйаиш́ча маха̄бхӯтаиранугатама̄ртавена̄бхимӯрччхитаманвакш̣амева ра̄га̄диклеш́аваш́а̄нувартина̄ свакармачодитена маноджавена джӣвена̄бхисам̣ср̣ш̣т̣ам̣ гарбха̄ш́айамупайа̄ти",
-        "text": "Когда старая менструальная кровь ушла, и новая ещё не установилась, когда полость матки, предназначенная для зародыша, и путь к ней чисты, — неповреждённое семя, в форме «биджи», гонимое неповреждённым ветром и сопровождаемое другими великими элементами, соединившееся с менструальной кровью, — немедленно, соединившись с дживой, следующей под влиянием клеш, таких как страсть и подобное, побуждаемой собственной кармой, и обладающей быстротой ума, — входит в полость матки."
+        "text": "Когда старая менструальная кровь ушла, и новая ещё не установилась, когда полость матки, предназначенная для зародыша, и путь к ней чисты, — неповреждённое семя, в форме «биджи», гонимое неповреждённым ветром и сопровождаемое другими великими элементами, соединившееся с менструальной кровью, — немедленно, соединившись с дживой, следующей под влиянием клеш, таких как страсть и подобное, побуждаемой собственной кармой, и обладающей быстротой ума, — входит в полость матки.",
+        "text_en": "When the old menstrual blood has gone and the new has not yet been established, when the cavity of the uterus meant for the embryo and the path to it are clean, the undamaged semen in the form of the \"bija\" (seed), driven by undamaged Vata and accompanied by the other great elements, united with the menstrual blood, immediately, joined with the jiva, which follows under the influence of the kleshas such as passion and the like, impelled by its own karma and possessing the swiftness of the mind, enters the cavity of the uterus."
       },
       {
         "type": "verse",
@@ -20044,7 +20113,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कार्याणा च कारणानुविधायित्वात्तत्सभागतां प्रतिपद्यते तत एव च शुक्रस्य बाहुल्यात् पुमानार्तवस्य बाहुल्यात् स्त्री तयोः साम्येन नपुंसकम् शुक्रार्तवे ऽनिलेन खण्डशो भिन्ने यथाविभागमपत्यानामुत्पत्तिः विकृते वियोन्याकृतीनां च",
         "iast": "kāryāṇā ca kāraṇānuvidhāyitvāttatsabhāgatāṃ pratipadyate tata eva ca śukrasya bāhulyāt pumānārtavasya bāhulyāt strī tayoḥ sāmyena napuṃsakam śukrārtave 'nilena khaṇḍaśo bhinne yathāvibhāgamapatyānāmutpattiḥ vikṛte viyonyākṛtīnāṃ ca",
         "iast_ru": "ка̄рйа̄н̣а̄ ча ка̄ран̣а̄нувидха̄йитва̄ттатсабха̄гата̄м̣ пратипадйате тата ева ча ш́украсйа ба̄хулйа̄т пума̄на̄ртавасйа ба̄хулйа̄т стрӣ тайох̣ са̄мйена напум̣сакам ш́укра̄ртаве 'нилена кхан̣д̣аш́о бхинне йатха̄вибха̄гамапатйа̄на̄мутпаттих̣ викр̣те вийонйа̄кр̣тӣна̄м̣ ча",
-        "text": "И, поскольку следствие следует характеру причины, зародыш обретает с ней сходство. Именно поэтому: от избытка семени рождается мужчина; от избытка менструальной крови — женщина; при их равенстве — гермафродит. Когда семя и менструальная кровь разделены ветром на части, — возможно рождение многочисленного потомства, соответственно числу частей; при же расстройстве этого процесса — рождение существ с иным, чем обычно, обликом."
+        "text": "И, поскольку следствие следует характеру причины, зародыш обретает с ней сходство. Именно поэтому: от избытка семени рождается мужчина; от избытка менструальной крови — женщина; при их равенстве — гермафродит. Когда семя и менструальная кровь разделены ветром на части, — возможно рождение многочисленного потомства, соответственно числу частей; при же расстройстве этого процесса — рождение существ с иным, чем обычно, обликом.",
+        "text_en": "And since the effect follows the nature of the cause, the embryo acquires likeness to it. For this very reason: from an excess of semen a male is born; from an excess of menstrual blood a female; when they are equal, a hermaphrodite. When the semen and menstrual blood are divided by Vata into parts, the birth of numerous offspring is possible, corresponding to the number of parts; but in a disturbance of this process, the birth of beings with an appearance different from the usual."
       },
       {
         "type": "verse",
@@ -20052,7 +20122,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ नार्याः सद्योगृहीतगर्भायाश्च लिङ्गं योन्या बीजग्रहणं तृप्तिर्गरिमा स्फुरणं शुक्रार्तवयोरनुबन्धश्च तथा प्रहर्षो हृल्लासस्तन्द्राङ्गसादः प्रसेको हृदयव्यथा ग्लानिः पिपासा च क्रमेण तु व्यक्तगर्भायाः कुक्षिमात्रगौरवं क्षामनेत्रस्वरता योनिरोमसंलुलनं निद्रा जृम्भणं मूर्च्छा छर्दिररुचिः पादशोफो ऽम्ले ऽभिलाषस्तेषु तेषु चोच्चावचेषु भावेष्विति",
         "iast": "atha nāryāḥ sadyogṛhītagarbhāyāśca liṅgaṃ yonyā bījagrahaṇaṃ tṛptirgarimā sphuraṇaṃ śukrārtavayoranubandhaśca tathā praharṣo hṛllāsastandrāṅgasādaḥ praseko hṛdayavyathā glāniḥ pipāsā ca krameṇa tu vyaktagarbhāyāḥ kukṣimātragauravaṃ kṣāmanetrasvaratā yoniromasaṃlulanaṃ nidrā jṛmbhaṇaṃ mūrcchā chardiraruciḥ pādaśopho 'mle 'bhilāṣasteṣu teṣu coccāvaceṣu bhāveṣviti",
         "iast_ru": "атха на̄рйа̄х̣ садйогр̣хӣтагарбха̄йа̄ш́ча лин̇гам̣ йонйа̄ бӣджаграхан̣ам̣ тр̣птиргарима̄ спхуран̣ам̣ ш́укра̄ртавайоранубандхаш́ча татха̄ прахарш̣о хр̣лла̄састандра̄н̇гаса̄дах̣ прасеко хр̣дайавйатха̄ гла̄них̣ пипа̄са̄ ча крамен̣а ту вйактагарбха̄йа̄х̣ кукш̣има̄трагауравам̣ кш̣а̄манетрасварата̄ йониромасам̣луланам̣ нидра̄ джр̣мбхан̣ам̣ мӯрччха̄ чхардираручих̣ па̄даш́опхо 'мле 'бхила̄ш̣астеш̣у теш̣у чочча̄вачеш̣у бха̄веш̣вити",
-        "text": "Далее, признаки женщины, только что зачавшей: приём семени влагалищем, чувство насыщения, тяжесть, трепет в теле, а также удержание семени и менструальной крови; также воодушевление, тошнота, вялость, слабость тела, слюнотечение, боль в сердце, изнеможение и жажда. По порядку же, у женщины с явными признаками беременности: тяжесть только в животе, исхудание глаз и голоса, взъерошивание волос на лобке, повышенная сонливость, зевота, обморок, рвота, отсутствие аппетита, отёк ступней, тяга к кислому и к различным другим переменчивым состояниям желаний."
+        "text": "Далее, признаки женщины, только что зачавшей: приём семени влагалищем, чувство насыщения, тяжесть, трепет в теле, а также удержание семени и менструальной крови; также воодушевление, тошнота, вялость, слабость тела, слюнотечение, боль в сердце, изнеможение и жажда. По порядку же, у женщины с явными признаками беременности: тяжесть только в животе, исхудание глаз и голоса, взъерошивание волос на лобке, повышенная сонливость, зевота, обморок, рвота, отсутствие аппетита, отёк ступней, тяга к кислому и к различным другим переменчивым состояниям желаний.",
+        "text_en": "Next, the signs of a woman who has just conceived: reception of the semen by the vagina, a feeling of satiety, heaviness, trembling in the body, as well as retention of the semen and menstrual blood; also exhilaration, nausea, lassitude, weakness of the body, salivation, pain in the heart, exhaustion and thirst. In order, in a woman with clear signs of pregnancy: heaviness in the abdomen alone, emaciation of the eyes and voice, bristling of the hair on the pubic region, increased drowsiness, yawning, fainting, vomiting, loss of appetite, swelling of the feet, craving for sour things and for various other changeable states of desires."
       },
       {
         "type": "verse",
@@ -20060,7 +20131,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्याश्च रजोवाहिनां स्रोतसां वर्त्मान्युपरुध्यन्ते गर्भेण तस्मात्ततः परमार्तवं न दृश्यते ततस्तदधः प्रतिहतमपरमपरं चोपचीयमानमपरेत्याहुः जरायुरित्यन्ये स्थिते रक्ते रोमराजिः प्रादुर्भवति",
         "iast": "tasyāśca rajovāhināṃ srotasāṃ vartmānyuparudhyante garbheṇa tasmāttataḥ paramārtavaṃ na dṛśyate tatastadadhaḥ pratihatamaparamaparaṃ copacīyamānamaparetyāhuḥ jarāyurityanye sthite rakte romarājiḥ prādurbhavati",
         "iast_ru": "тасйа̄ш́ча раджова̄хина̄м̣ сротаса̄м̣ вартма̄нйупарудхйанте гарбхен̣а тасма̄ттатах̣ парама̄ртавам̣ на др̣ш́йате татастададхах̣ пратихатамапарамапарам̣ чопачӣйама̄намапаретйа̄хух̣ джара̄йуритйанйе стхите ракте ромара̄джих̣ пра̄дурбхавати",
-        "text": "И пути каналов, несущих менструальную кровь у неё, закупориваются зародышем; поэтому, после этого, менструация более не наблюдается. Затем, кровь, отражённая вниз, образует «апару» (плаценту), которая постепенно накапливается, — так говорят одни; другие же называют её «джараю» (оболочкой плода). Когда кровь останавливается, появляется линия волос на животе."
+        "text": "И пути каналов, несущих менструальную кровь у неё, закупориваются зародышем; поэтому, после этого, менструация более не наблюдается. Затем, кровь, отражённая вниз, образует «апару» (плаценту), которая постепенно накапливается, — так говорят одни; другие же называют её «джараю» (оболочкой плода). Когда кровь останавливается, появляется линия волос на животе.",
+        "text_en": "And the paths of the channels carrying her menstrual blood are blocked by the embryo; therefore, after this, menstruation is no longer observed. Then the blood, reflected downward, forms the \"apara\" (placenta), which gradually accumulates, so say some; others call it \"jarayu\" (the membrane of the foetus). When the blood stops, a line of hair appears on the abdomen."
       },
       {
         "type": "verse",
@@ -20068,7 +20140,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जरायुशेषं चोर्ध्वमसृक् प्रतिपद्यते तस्मात् पीनकपोलपयोधरता कृष्णौष्ठचूचुकत्वं च स्तनाश्रयमेव च कफोपरञ्जितं स्तन्यतामुपगतं प्रसूतायाः पूनराहाररसेनाप्यायते",
         "iast": "jarāyuśeṣaṃ cordhvamasṛk pratipadyate tasmāt pīnakapolapayodharatā kṛṣṇauṣṭhacūcukatvaṃ ca stanāśrayameva ca kaphoparañjitaṃ stanyatāmupagataṃ prasūtāyāḥ pūnarāhārarasenāpyāyate",
         "iast_ru": "джара̄йуш́еш̣ам̣ чордхвамаср̣к пратипадйате тасма̄т пӣнакаполапайодхарата̄ кр̣ш̣н̣ауш̣т̣хачӯчукатвам̣ ча стана̄ш́райамева ча капхопаран̃джитам̣ станйата̄мупагатам̣ прасӯта̄йа̄х̣ пӯнара̄ха̄рарасена̄пйа̄йате",
-        "text": "Остаток же крови от джараю поднимается вверх; отсюда — полнота щёк и груди, потемнение губ и сосков. И именно эта кровь, расположившись в груди, окрашенная капхой, превращается в молоко; у родившей же женщины оно снова насыщается соком принимаемой пищи."
+        "text": "Остаток же крови от джараю поднимается вверх; отсюда — полнота щёк и груди, потемнение губ и сосков. И именно эта кровь, расположившись в груди, окрашенная капхой, превращается в молоко; у родившей же женщины оно снова насыщается соком принимаемой пищи.",
+        "text_en": "The remainder of the blood, from the jarayu, rises upward; hence the fullness of the cheeks and breasts and the darkening of the lips and nipples. And this very blood, settled in the breast and coloured by Kapha, turns into milk; in a woman who has given birth it is again replenished by the essence of the food she takes."
       },
       {
         "type": "verse",
@@ -20076,7 +20149,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र प्रथमे मासे कललं जायते द्वितीये घनः पेश्यर्बुदं वा तेभ्यः क्रमात् पुंस्त्रीनपुंसकानि तृतीये पञ्चधा प्ररोहति तद्यथा सक्थिनी बाहू शिरश्च सक्थ्यादिप्ररोहैककालमेव च सर्वमङ्गावयवेन्द्रियाणि युगपत्सम्भवन्त्यन्यत्र जन्मोत्तरकालजेभ्यो दन्तादिभ्यः क्रमेण तु स्फुटीभवन्ति एषा प्रकृतिः विकृतिरतो ऽन्यथा",
         "iast": "tatra prathame māse kalalaṃ jāyate dvitīye ghanaḥ peśyarbudaṃ vā tebhyaḥ kramāt puṃstrīnapuṃsakāni tṛtīye pañcadhā prarohati tadyathā sakthinī bāhū śiraśca sakthyādiprarohaikakālameva ca sarvamaṅgāvayavendriyāṇi yugapatsambhavantyanyatra janmottarakālajebhyo dantādibhyaḥ krameṇa tu sphuṭībhavanti eṣā prakṛtiḥ vikṛtirato 'nyathā",
         "iast_ru": "татра пратхаме ма̄се калалам̣ джа̄йате двитӣйе гханах̣ пеш́йарбудам̣ ва̄ тебхйах̣ крама̄т пум̣стрӣнапум̣сака̄ни тр̣тӣйе пан̃чадха̄ прарохати тадйатха̄ сактхинӣ ба̄хӯ ш́ираш́ча сактхйа̄дипрарохаикака̄ламева ча сарваман̇га̄вайавендрийа̄н̣и йугапатсамбхавантйанйатра джанмоттарака̄ладжебхйо данта̄дибхйах̣ крамен̣а ту спхут̣ӣбхаванти еш̣а̄ пракр̣тих̣ викр̣тирато 'нйатха̄",
-        "text": "В этом случае, в первый месяц образуется «каляла» (студенистая масса); во второй — она становится плотной массой, либо мышечным комком, либо опухолевидной массой; из них, по порядку, возникают мужчина, женщина, гермафродит. В третий месяц зародыш прорастает пятью частями, а именно: обеими ногами, руками и головой. И одновременно с прорастанием ног и прочего, — все части тела и органы чувств возникают одновременно; кроме зубов и подобного, возникающих после рождения, — они же становятся отчётливыми постепенно. Это — норма; расстройство же проявляется иначе."
+        "text": "В этом случае, в первый месяц образуется «каляла» (студенистая масса); во второй — она становится плотной массой, либо мышечным комком, либо опухолевидной массой; из них, по порядку, возникают мужчина, женщина, гермафродит. В третий месяц зародыш прорастает пятью частями, а именно: обеими ногами, руками и головой. И одновременно с прорастанием ног и прочего, — все части тела и органы чувств возникают одновременно; кроме зубов и подобного, возникающих после рождения, — они же становятся отчётливыми постепенно. Это — норма; расстройство же проявляется иначе.",
+        "text_en": "In this regard, in the first month the \"kalala\" (gelatinous mass) is formed; in the second it becomes a dense mass, or a muscular lump, or a tumour-like mass; from these, in order, arise a male, a female, a hermaphrodite. In the third month the embryo sprouts with five parts, namely both legs, both arms and the head. And simultaneously with the sprouting of the legs and the rest, all the parts of the body and the sense organs arise at once; except the teeth and the like, which appear after birth, they become distinct gradually. This is the norm; a disorder manifests otherwise."
       },
       {
         "type": "verse",
@@ -20084,7 +20158,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथास्वं च गर्भस्य पुंस्त्रीनपुंसकान्यतमलिङ्गानुरूपा भावा मनसि शरीरे च सन्तिष्ठन्ते वैशेषिकलिङ्गसङ्करे तु यतो भूयस्त्वं ततो ऽन्तरा भावाः",
         "iast": "yathāsvaṃ ca garbhasya puṃstrīnapuṃsakānyatamaliṅgānurūpā bhāvā manasi śarīre ca santiṣṭhante vaiśeṣikaliṅgasaṅkare tu yato bhūyastvaṃ tato 'ntarā bhāvāḥ",
         "iast_ru": "йатха̄свам̣ ча гарбхасйа пум̣стрӣнапум̣сака̄нйатамалин̇га̄нурӯпа̄ бха̄ва̄ манаси ш́арӣре ча сантиш̣т̣ханте ваиш́еш̣икалин̇гасан̇каре ту йато бхӯйаствам̣ тато 'нтара̄ бха̄ва̄х̣",
-        "text": "Соответственно полу зародыша, состояния ума и тела, сообразные признакам мужчины, женщины или гермафродита, устанавливаются в уме и теле. При же смешении отличительных признаков — проявляются промежуточные состояния, в зависимости от того, чего больше."
+        "text": "Соответственно полу зародыша, состояния ума и тела, сообразные признакам мужчины, женщины или гермафродита, устанавливаются в уме и теле. При же смешении отличительных признаков — проявляются промежуточные состояния, в зависимости от того, чего больше.",
+        "text_en": "In accordance with the sex of the embryo, states of mind and body corresponding to the characteristics of a male, a female or a hermaphrodite are established in mind and body. When the distinguishing characteristics are mixed, intermediate states appear, depending on which predominates."
       },
       {
         "type": "verse",
@@ -20092,7 +20167,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्यथा क्लैब्यं भीरुत्वमवैशारद्यं मोहो ऽनवस्थानमधोगुरुत्वमसंहननं शैथिल्यं मार्दवं गर्भाशयबीजभागस्तथायुक्ताश्चापरे स्त्रीकरा भावाः ततो विपरीताः पुंस्कराः सङ्कीर्णा नपुंसकराः",
         "iast": "tadyathā klaibyaṃ bhīrutvamavaiśāradyaṃ moho 'navasthānamadhogurutvamasaṃhananaṃ śaithilyaṃ mārdavaṃ garbhāśayabījabhāgastathāyuktāścāpare strīkarā bhāvāḥ tato viparītāḥ puṃskarāḥ saṅkīrṇā napuṃsakarāḥ",
         "iast_ru": "тадйатха̄ клаибйам̣ бхӣрутвамаваиш́а̄радйам̣ мохо 'навастха̄намадхогурутвамасам̣хананам̣ ш́аитхилйам̣ ма̄рдавам̣ гарбха̄ш́айабӣджабха̄гастатха̄йукта̄ш́ча̄паре стрӣкара̄ бха̄ва̄х̣ тато випарӣта̄х̣ пум̣скара̄х̣ сан̇кӣрн̣а̄ напум̣сакара̄х̣",
-        "text": "А именно: женственность, боязливость, неопытность, помрачение, неустойчивость, тяжесть внизу тела, несвязанность, вялость, мягкость, и то, что часть семени приходится на полость матки, а также иные подобные качества — женские признаки; противоположные им — мужские; смешанные же — признаки гермафродита."
+        "text": "А именно: женственность, боязливость, неопытность, помрачение, неустойчивость, тяжесть внизу тела, несвязанность, вялость, мягкость, и то, что часть семени приходится на полость матки, а также иные подобные качества — женские признаки; противоположные им — мужские; смешанные же — признаки гермафродита.",
+        "text_en": "Namely: femininity, timidity, inexperience, delusion, instability, heaviness in the lower body, lack of cohesion, lassitude, softness, and the fact that part of the semen falls to the cavity of the uterus, as well as other similar qualities, are feminine signs; the opposite of these are masculine; the mixed ones are signs of a hermaphrodite."
       },
       {
         "type": "verse",
@@ -20100,7 +20176,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तदा चास्य वेदना प्रव्यक्ता भवति ततश्च तत्प्रभृति स्पन्दते ऽभिलाषं पञ्चेन्द्रियार्थेषु करोति",
         "iast": "tadā cāsya vedanā pravyaktā bhavati tataśca tatprabhṛti spandate 'bhilāṣaṃ pañcendriyārtheṣu karoti",
         "iast_ru": "тада̄ ча̄сйа ведана̄ правйакта̄ бхавати таташ́ча татпрабхр̣ти спандате 'бхила̄ш̣ам̣ пан̃чендрийа̄ртхеш̣у кароти",
-        "text": "Тогда же у него (зародыша) становится отчётливым ощущение боли; и с этого момента он начинает шевелиться и проявляет желание в отношении объектов пяти органов чувств."
+        "text": "Тогда же у него (зародыша) становится отчётливым ощущение боли; и с этого момента он начинает шевелиться и проявляет желание в отношении объектов пяти органов чувств.",
+        "text_en": "At that time the sensation of pain becomes distinct in him (the embryo); and from that moment he begins to move and shows desire for the objects of the five sense organs."
       },
       {
         "type": "verse",
@@ -20108,7 +20185,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मातृजं ह्यस्य हृदयं तद्रसहारिणीभिर्धर्मनीभिर्मातृहृदयेनाभिसम्बद्धं भवति तस्मात्तयोस्ताभिः श्रद्धा सम्पद्यते तथा च द्विहृदयां नारीं दौहृदिनीत्याचक्षते अन्ये तु पक्षत्रयात् प्रभृत्यापञ्चमान्मासाद्दौहृदकालमाहुः",
         "iast": "mātṛjaṃ hyasya hṛdayaṃ tadrasahāriṇībhirdharmanībhirmātṛhṛdayenābhisambaddhaṃ bhavati tasmāttayostābhiḥ śraddhā sampadyate tathā ca dvihṛdayāṃ nārīṃ dauhṛdinītyācakṣate anye tu pakṣatrayāt prabhṛtyāpañcamānmāsāddauhṛdakālamāhuḥ",
         "iast_ru": "ма̄тр̣джам̣ хйасйа хр̣дайам̣ тадрасаха̄рин̣ӣбхирдхарманӣбхирма̄тр̣хр̣дайена̄бхисамбаддхам̣ бхавати тасма̄ттайоста̄бхих̣ ш́раддха̄ сампадйате татха̄ ча двихр̣дайа̄м̣ на̄рӣм̣ даухр̣динӣтйа̄чакш̣ате анйе ту пакш̣атрайа̄т прабхр̣тйа̄пан̃чама̄нма̄са̄ддаухр̣дака̄лама̄хух̣",
-        "text": "Ибо его сердце, происходящее от матери, связано с сердцем матери сосудами, несущими сок пищи; поэтому у них обоих, через эти сосуды, возникает общее желание. И потому женщину, ставшую как бы «двухсердечной», называют «даухридини» (обладающей двойным сердечным желанием). Другие же говорят, что период «даухриды» (беременных желаний) длится от трёх недель до пятого месяца."
+        "text": "Ибо его сердце, происходящее от матери, связано с сердцем матери сосудами, несущими сок пищи; поэтому у них обоих, через эти сосуды, возникает общее желание. И потому женщину, ставшую как бы «двухсердечной», называют «даухридини» (обладающей двойным сердечным желанием). Другие же говорят, что период «даухриды» (беременных желаний) длится от трёх недель до пятого месяца.",
+        "text_en": "For his heart, derived from the mother, is connected with the mother's heart by vessels carrying the essence of food; therefore a common desire arises in both of them through these vessels. And so the woman, having become as it were \"two-hearted\", is called \"dauhridini\" (possessing the double heart-desire). Others say that the period of \"dauhrida\" (pregnancy cravings) lasts from three weeks to the fifth month."
       },
       {
         "type": "verse",
@@ -20116,7 +20194,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रार्थनायां च तीव्रायां काममहितमप्यस्यै हितोपसंहितं दद्यात् दौहृदविमाननाद्धि वायुः प्रकुपितो ऽन्तश्शरीरमनुचरन् गर्भस्य विनाशं वैरूप्यं वा कुर्यात् लब्धदौहृदा तु वीर्यवन्तं चिरायुषं च पुत्रं प्रसूते",
         "iast": "prārthanāyāṃ ca tīvrāyāṃ kāmamahitamapyasyai hitopasaṃhitaṃ dadyāt dauhṛdavimānanāddhi vāyuḥ prakupito 'ntaśśarīramanucaran garbhasya vināśaṃ vairūpyaṃ vā kuryāt labdhadauhṛdā tu vīryavantaṃ cirāyuṣaṃ ca putraṃ prasūte",
         "iast_ru": "пра̄ртхана̄йа̄м̣ ча тӣвра̄йа̄м̣ ка̄мамахитамапйасйаи хитопасам̣хитам̣ дадйа̄т даухр̣давима̄нана̄ддхи ва̄йух̣ пракупито 'нташ́ш́арӣраманучаран гарбхасйа вина̄ш́ам̣ ваирӯпйам̣ ва̄ курйа̄т лабдхадаухр̣да̄ ту вӣрйавантам̣ чира̄йуш̣ам̣ ча путрам̣ прасӯте",
-        "text": "При сильном же желании беременной следует дать ей даже нежелательное для здоровья, но в сочетании с чем-то полезным. Ибо от пренебрежения к её «даухриде», возбуждённый ветер, циркулируя внутри тела, может вызвать гибель зародыша или уродство. Женщина же, чьё желание было исполнено, рождает сильного и долголетнего сына."
+        "text": "При сильном же желании беременной следует дать ей даже нежелательное для здоровья, но в сочетании с чем-то полезным. Ибо от пренебрежения к её «даухриде», возбуждённый ветер, циркулируя внутри тела, может вызвать гибель зародыша или уродство. Женщина же, чьё желание было исполнено, рождает сильного и долголетнего сына.",
+        "text_en": "In a strong craving of the pregnant woman, even what is unwholesome should be given to her, but in combination with something beneficial. For through neglect of her \"dauhrida\", the aggravated Vata, circulating within the body, may cause the death of the embryo or a deformity. A woman whose craving has been fulfilled bears a strong and long-lived son."
       },
       {
         "type": "verse",
@@ -20124,7 +20203,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चतुर्थे ऽङ्गप्रत्यङ्गविभागः प्रव्यक्तो गर्भश्च स्थिरो भवति पञ्चमे मनः प्रतिबुद्धतरं भवति मांसशोणितोपचयश्च षष्ठे केशरोमनखास्थिस्नाय्वादीन्यभिव्यक्तानि बलवर्णोपचयश्च सप्तमे सर्वाङ्गसम्पूर्णता",
         "iast": "caturthe 'ṅgapratyaṅgavibhāgaḥ pravyakto garbhaśca sthiro bhavati pañcame manaḥ pratibuddhataraṃ bhavati māṃsaśoṇitopacayaśca ṣaṣṭhe keśaromanakhāsthisnāyvādīnyabhivyaktāni balavarṇopacayaśca saptame sarvāṅgasampūrṇatā",
         "iast_ru": "чатуртхе 'н̇гапратйан̇гавибха̄гах̣ правйакто гарбхаш́ча стхиро бхавати пан̃чаме манах̣ пратибуддхатарам̣ бхавати ма̄м̣саш́он̣итопачайаш́ча ш̣аш̣т̣хе кеш́ароманакха̄стхисна̄йва̄дӣнйабхивйакта̄ни балаварн̣опачайаш́ча саптаме сарва̄н̇гасампӯрн̣ата̄",
-        "text": "В четвёртый месяц разделение членов и частей тела становится отчётливым, и зародыш становится устойчивым. В пятый — ум становится более пробуждённым, и происходит нарастание мяса и крови. В шестой — волосы на голове, пушок на теле, ногти, кости, сухожилия и подобное становятся отчётливыми, и происходит нарастание силы и цвета кожи. В седьмой — полнота всех частей тела."
+        "text": "В четвёртый месяц разделение членов и частей тела становится отчётливым, и зародыш становится устойчивым. В пятый — ум становится более пробуждённым, и происходит нарастание мяса и крови. В шестой — волосы на голове, пушок на теле, ногти, кости, сухожилия и подобное становятся отчётливыми, и происходит нарастание силы и цвета кожи. В седьмой — полнота всех частей тела.",
+        "text_en": "In the fourth month the division of the limbs and parts of the body becomes distinct, and the embryo becomes stable. In the fifth the mind becomes more awakened, and there is an increase of flesh and blood. In the sixth, the hair of the head, the down on the body, the nails, bones, tendons and the like become distinct, and there is an increase of strength and complexion. In the seventh, completeness of all parts of the body."
       },
       {
         "type": "verse",
@@ -20132,7 +20212,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अष्टमे गर्भश्च मातृतो गर्भतश्च माता रसहारिणीभिर्वाहिनीभिर्मुहर्मुहुरोजः परस्परमाददाते तस्मात्तदा गर्भिणी मुहुर्मुदिता भवति मुहुर्ग्लाना तथा गर्भः एवं गर्भस्य जन्म व्यापत्तिमत्तदा भवति ओजसो ऽनवस्थितत्वात् तथा ह्यस्य निष्क्रमणोन्मुखस्य परिवर्तनादीन्यनुभवत एवौजसा वियोगः यद्यपि च किञ्चित्कालमस्योच्छ्वसनं स्यात्तच्छिन्नस्येवाङ्गस्यौजस्संस्कारानुवृत्तिकृतम् जनन्यास्तु स्थिरौजस्कतयैकदेशेन रसे सङ्क्रान्ते ग्लानिरेवेति",
         "iast": "aṣṭame garbhaśca mātṛto garbhataśca mātā rasahāriṇībhirvāhinībhirmuharmuhurojaḥ parasparamādadāte tasmāttadā garbhiṇī muhurmuditā bhavati muhurglānā tathā garbhaḥ evaṃ garbhasya janma vyāpattimattadā bhavati ojaso 'navasthitatvāt tathā hyasya niṣkramaṇonmukhasya parivartanādīnyanubhavata evaujasā viyogaḥ yadyapi ca kiñcitkālamasyocchvasanaṃ syāttacchinnasyevāṅgasyaujassaṃskārānuvṛttikṛtam jananyāstu sthiraujaskatayaikadeśena rase saṅkrānte glānireveti",
         "iast_ru": "аш̣т̣аме гарбхаш́ча ма̄тр̣то гарбхаташ́ча ма̄та̄ расаха̄рин̣ӣбхирва̄хинӣбхирмухармухуроджах̣ параспарама̄дада̄те тасма̄ттада̄ гарбхин̣ӣ мухурмудита̄ бхавати мухургла̄на̄ татха̄ гарбхах̣ евам̣ гарбхасйа джанма вйа̄паттиматтада̄ бхавати оджасо 'навастхитатва̄т татха̄ хйасйа ниш̣краман̣онмукхасйа паривартана̄дӣнйанубхавата евауджаса̄ вийогах̣ йадйапи ча кин̃читка̄ламасйоччхвасанам̣ сйа̄ттаччхиннасйева̄н̇гасйауджассам̣ска̄ра̄нувр̣ттикр̣там джананйа̄сту стхирауджаскатайаикадеш́ена расе сан̇кра̄нте гла̄ниревети",
-        "text": "В восьмой месяц зародыш получает оджас от матери, а мать — от зародыша; через сосуды, несущие сок, они снова и снова обмениваются оджасом друг с другом. Поэтому тогда беременная то радостна, то изнеможена; так же и зародыш. И поэтому, если роды происходят в этот месяц, они сопряжены с осложнениями, — из-за неустойчивости оджаса. Ибо, когда он, готовящийся к выходу, переживает переворачивание и подобное, происходит разлучение с оджасом. И хотя некоторое время его дыхание может ещё продолжаться, — это лишь следствие продолжающегося действия «санскары» оджаса на как бы отделённой от источника части тела. У матери же, из-за устойчивости её собственного оджаса, и лишь частичного перехода оджаса в сок ребёнка, — возникает лишь изнеможение."
+        "text": "В восьмой месяц зародыш получает оджас от матери, а мать — от зародыша; через сосуды, несущие сок, они снова и снова обмениваются оджасом друг с другом. Поэтому тогда беременная то радостна, то изнеможена; так же и зародыш. И поэтому, если роды происходят в этот месяц, они сопряжены с осложнениями, — из-за неустойчивости оджаса. Ибо, когда он, готовящийся к выходу, переживает переворачивание и подобное, происходит разлучение с оджасом. И хотя некоторое время его дыхание может ещё продолжаться, — это лишь следствие продолжающегося действия «санскары» оджаса на как бы отделённой от источника части тела. У матери же, из-за устойчивости её собственного оджаса, и лишь частичного перехода оджаса в сок ребёнка, — возникает лишь изнеможение.",
+        "text_en": "In the eighth month the embryo receives ojas from the mother, and the mother from the embryo; through the vessels carrying the essence they repeatedly exchange ojas with each other. Therefore at that time the pregnant woman is at one moment cheerful and at another exhausted; so also the embryo. And therefore, if delivery takes place in this month, it is attended with complications, owing to the instability of ojas. For when it, preparing for exit, undergoes turning and the like, separation from ojas occurs. And although its breathing may continue for some time, this is merely the result of the continuing action of the \"samskara\" of ojas on a part of the body as if separated from its source. In the mother, owing to the stability of her own ojas and the merely partial transfer of ojas into the child's essence, only exhaustion arises."
       },
       {
         "type": "verse",
@@ -20140,7 +20221,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्ये पुनराहुः नैरृतभागत्वात्तत्र गर्भस्य मरणम् तस्मात् प्रसवप्रतिषेधार्थं स्त्री स्नाता शुचिर्ब्रह्मचारिणी देवताराधनपरा स्यात् मांसौदनबालिं चात्र निर्वपेत् तस्मिन्नेकदिवसातिक्रान्ते ऽपि प्रसवकालमाहुरासंवत्सरात् अतः परं विकारी भवति",
         "iast": "anye punarāhuḥ nairṛtabhāgatvāttatra garbhasya maraṇam tasmāt prasavapratiṣedhārthaṃ strī snātā śucirbrahmacāriṇī devatārādhanaparā syāt māṃsaudanabāliṃ cātra nirvapet tasminnekadivasātikrānte 'pi prasavakālamāhurāsaṃvatsarāt ataḥ paraṃ vikārī bhavati",
         "iast_ru": "анйе пунара̄хух̣ наирр̣табха̄гатва̄ттатра гарбхасйа маран̣ам тасма̄т прасавапратиш̣едха̄ртхам̣ стрӣ сна̄та̄ ш́учирбрахмача̄рин̣ӣ девата̄ра̄дханапара̄ сйа̄т ма̄м̣сауданаба̄лим̣ ча̄тра нирвапет тасминнекадиваса̄тикра̄нте 'пи прасавака̄лама̄хура̄сам̣ватсара̄т атах̣ парам̣ вика̄рӣ бхавати",
-        "text": "Другие же говорят: из-за принадлежности этого месяца Ниррити (божеству разрушения), — там возможна смерть зародыша. Поэтому, ради предотвращения преждевременных родов, женщине следует, омывшись, быть чистой, соблюдать целомудрие и быть преданной почитанию божеств; и следует совершить подношение мясной пищи. Даже если этот восьмой месяц минует на один день, говорят, что время родов может наступить вплоть до конца года; после же этого срока роды становятся патологическими."
+        "text": "Другие же говорят: из-за принадлежности этого месяца Ниррити (божеству разрушения), — там возможна смерть зародыша. Поэтому, ради предотвращения преждевременных родов, женщине следует, омывшись, быть чистой, соблюдать целомудрие и быть преданной почитанию божеств; и следует совершить подношение мясной пищи. Даже если этот восьмой месяц минует на один день, говорят, что время родов может наступить вплоть до конца года; после же этого срока роды становятся патологическими.",
+        "text_en": "Others say: because this month belongs to Nirriti (the deity of destruction), the death of the embryo is possible then. Therefore, to prevent premature delivery, the woman should, having bathed, be clean, observe celibacy and be devoted to the worship of the deities; and an offering of meat food should be made. Even if this eighth month passes by one day, it is said that the time of delivery may come up to the end of the year; after this limit, delivery becomes pathological."
       },
       {
         "type": "verse",
@@ -20148,7 +20230,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भस्तु मातुः पृष्ठाभिमुखो ललाटे कृताञ्जलिः सङ्कुचिताङ्गो गर्भष्ठे दक्षिणपार्श्वमाश्रित्यावतिष्ठते पुमान् वामं स्त्री मध्यं नपुंसकम् तत्र स्थितश्च गर्भो मातरि स्वपन्त्यां प्रबुद्धायां प्रबुध्यते परतन्त्रवृत्तेश्च गर्भस्य निषेकात् प्रभृति गर्भाशयोपस्नेहोपस्वेदौ वर्तनम्",
         "iast": "garbhastu mātuḥ pṛṣṭhābhimukho lalāṭe kṛtāñjaliḥ saṅkucitāṅgo garbhaṣṭhe dakṣiṇapārśvamāśrityāvatiṣṭhate pumān vāmaṃ strī madhyaṃ napuṃsakam tatra sthitaśca garbho mātari svapantyāṃ prabuddhāyāṃ prabudhyate paratantravṛtteśca garbhasya niṣekāt prabhṛti garbhāśayopasnehopasvedau vartanam",
         "iast_ru": "гарбхасту ма̄тух̣ пр̣ш̣т̣ха̄бхимукхо лала̄т̣е кр̣та̄н̃джалих̣ сан̇кучита̄н̇го гарбхаш̣т̣хе дакш̣ин̣апа̄рш́вама̄ш́ритйа̄ватиш̣т̣хате пума̄н ва̄мам̣ стрӣ мадхйам̣ напум̣сакам татра стхиташ́ча гарбхо ма̄тари свапантйа̄м̣ прабуддха̄йа̄м̣ прабудхйате паратантравр̣ттеш́ча гарбхасйа ниш̣ека̄т прабхр̣ти гарбха̄ш́айопаснехопасведау вартанам",
-        "text": "Зародыш же пребывает лицом к спине матери, со сложенными у лба ладонями, со сжатыми членами тела; в матке, мужской зародыш располагается, опираясь на правую сторону; женский — на левую; гермафродит — посередине. Находящийся там зародыш просыпается, когда мать просыпается, и спит, когда она спит, — из-за зависимого от неё существования. С момента зачатия существование зародыша обеспечивается умащением и прогреванием, исходящими из матки."
+        "text": "Зародыш же пребывает лицом к спине матери, со сложенными у лба ладонями, со сжатыми членами тела; в матке, мужской зародыш располагается, опираясь на правую сторону; женский — на левую; гермафродит — посередине. Находящийся там зародыш просыпается, когда мать просыпается, и спит, когда она спит, — из-за зависимого от неё существования. С момента зачатия существование зародыша обеспечивается умащением и прогреванием, исходящими из матки.",
+        "text_en": "The embryo lies facing the mother's back, with the palms joined at the forehead and the limbs drawn together; in the uterus, a male embryo lies resting on the right side; a female on the left; a hermaphrodite in the middle. The embryo there wakes when the mother wakes, and sleeps when she sleeps, owing to its dependent existence. From the moment of conception the embryo's existence is sustained by the oleation and warming proceeding from the uterus."
       },
       {
         "type": "verse",
@@ -20156,7 +20239,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततो व्यक्तीभवदङ्गप्रत्यङ्गस्यास्य नाभ्यां प्रतिबद्धानाडी नाड्यामपरा तस्यां मातृहृदयम् ततो मातृहृदयादाहाररसो धमनीभिः स्यन्दमानो ऽपरामुपैति ततः क्रमान्नाभिम् ततश्च स पुनर्गर्भस्य पक्वाशये स्वकायाग्निना पच्यमानः प्रसादबाहुल्याद्धात्वादिपुष्टिकरः सम्पद्यते तथारोमकूपैरुपस्नेहो रस एव च पयोभूतः",
         "iast": "tato vyaktībhavadaṅgapratyaṅgasyāsya nābhyāṃ pratibaddhānāḍī nāḍyāmaparā tasyāṃ mātṛhṛdayam tato mātṛhṛdayādāhāraraso dhamanībhiḥ syandamāno 'parāmupaiti tataḥ kramānnābhim tataśca sa punargarbhasya pakvāśaye svakāyāgninā pacyamānaḥ prasādabāhulyāddhātvādipuṣṭikaraḥ sampadyate tathāromakūpairupasneho rasa eva ca payobhūtaḥ",
         "iast_ru": "тато вйактӣбхавадан̇гапратйан̇гасйа̄сйа на̄бхйа̄м̣ пратибаддха̄на̄д̣ӣ на̄д̣йа̄мапара̄ тасйа̄м̣ ма̄тр̣хр̣дайам тато ма̄тр̣хр̣дайа̄да̄ха̄рарасо дхаманӣбхих̣ сйандама̄но 'пара̄мупаити татах̣ крама̄нна̄бхим таташ́ча са пунаргарбхасйа паква̄ш́айе свака̄йа̄гнина̄ пачйама̄нах̣ праса̄даба̄хулйа̄ддха̄тва̄дипуш̣т̣икарах̣ сампадйате татха̄ромакӯпаирупаснехо раса ева ча пайобхӯтах̣",
-        "text": "Затем, у зародыша, у которого проявляются члены и части тела, к пупку прикреплён канал; к этому каналу прикреплена плацента; к ней же — сердце матери. Затем, из сердца матери, сок пищи, стекая по артериям, достигает плаценты; затем, по порядку, — пупка. И затем он, этот сок, снова попадая в толстую кишку зародыша, перевариваясь собственным телесным огнём, благодаря обилию своей ясной сущности, становится питающим для тканей и подобного; подобным же образом, через поры волосяных фолликулов осуществляется умащение; и именно этот сок становится «молоком» для зародыша."
+        "text": "Затем, у зародыша, у которого проявляются члены и части тела, к пупку прикреплён канал; к этому каналу прикреплена плацента; к ней же — сердце матери. Затем, из сердца матери, сок пищи, стекая по артериям, достигает плаценты; затем, по порядку, — пупка. И затем он, этот сок, снова попадая в толстую кишку зародыша, перевариваясь собственным телесным огнём, благодаря обилию своей ясной сущности, становится питающим для тканей и подобного; подобным же образом, через поры волосяных фолликулов осуществляется умащение; и именно этот сок становится «молоком» для зародыша.",
+        "text_en": "Then, in the embryo in which the limbs and parts of the body have appeared, a canal is attached to the navel; to this canal the placenta is attached; and to it, the mother's heart. Then, from the mother's heart, the essence of food, flowing down through the arteries, reaches the placenta; then, in order, the navel. And then this essence, entering again the large intestine of the embryo, being digested by its own bodily fire, by virtue of the abundance of its clear essence becomes nourishing for the tissues and the like; likewise, oleation is effected through the pores of the hair follicles; and this very essence becomes \"milk\" for the embryo."
       },
       {
         "type": "verse",
@@ -20164,7 +20248,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अजातस्य साक्षादन्नपानाननुप्रवेशादमलत्वाच्च रसस्य गर्भस्य स्थूलमलासम्भवः एवं जठरस्थो गर्भो जन्मकाले तु प्रसूतिमारुतयोगात् परिवृत्यावाक्शिरा निष्क्रामत्यनु चापरा च्युता मातृहृदयात् एषा प्रकृतिः विकृतिरतो ऽन्यथा",
         "iast": "ajātasya sākṣādannapānānanupraveśādamalatvācca rasasya garbhasya sthūlamalāsambhavaḥ evaṃ jaṭharastho garbho janmakāle tu prasūtimārutayogāt parivṛtyāvākśirā niṣkrāmatyanu cāparā cyutā mātṛhṛdayāt eṣā prakṛtiḥ vikṛtirato 'nyathā",
         "iast_ru": "аджа̄тасйа са̄кш̣а̄даннапа̄на̄нануправеш́а̄дамалатва̄чча расасйа гарбхасйа стхӯламала̄самбхавах̣ евам̣ джат̣харастхо гарбхо джанмака̄ле ту прасӯтима̄рутайога̄т паривр̣тйа̄ва̄кш́ира̄ ниш̣кра̄матйану ча̄пара̄ чйута̄ ма̄тр̣хр̣дайа̄т еш̣а̄ пракр̣тих̣ викр̣тирато 'нйатха̄",
-        "text": "У ещё не рождённого зародыша, из-за отсутствия непосредственного поступления пищи и питья, а также из-за чистоты этого сока, — не образуются грубые нечистоты зародыша. Так, находящийся в утробе зародыш, во время родов же, благодаря соединению с родовым ветром, перевернувшись, выходит головой вниз; вслед за ним, отделившись от сердца матери, выходит и плацента. Это — норма; расстройство же проявляется иначе."
+        "text": "У ещё не рождённого зародыша, из-за отсутствия непосредственного поступления пищи и питья, а также из-за чистоты этого сока, — не образуются грубые нечистоты зародыша. Так, находящийся в утробе зародыш, во время родов же, благодаря соединению с родовым ветром, перевернувшись, выходит головой вниз; вслед за ним, отделившись от сердца матери, выходит и плацента. Это — норма; расстройство же проявляется иначе.",
+        "text_en": "In the unborn embryo, owing to the absence of direct intake of food and drink, and owing to the purity of this essence, no gross impurities of the embryo are formed. Thus the embryo in the womb, at the time of delivery, through union with the parturient Vata, having turned over, comes out head downward; after it, separated from the mother's heart, the placenta also comes out. This is the norm; a disorder manifests otherwise."
       },
       {
         "type": "verse",
@@ -20172,7 +20257,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र या दक्षिणं पादं पूर्वमभिसरति दक्षिणश्च बाहुर्बलवांस्तेन चेष्टते तत्स्तने च प्राक् पयो दृश्यते अभ्युन्नतदक्षिणकुक्षिः परिमण्डलगर्भा पुन्नामदर्शनस्पर्शनप्रश्नदौहृदाभिरता पुन्नामधेयांश्च स्वप्नान् पश्यति प्रसन्नमुखवर्णा तीक्ष्णक्षुदूर्ध्वरोमराजिः पुरुषानभिलाषिणी च सा पुत्रं प्रसूते तद्विपर्यये कन्यां सङ्करे च नपुंसकम् प्रश्नकाले नारी यल्लिङ्गमङ्गं बाह्यद्रव्यं वा परामृशति तल्लिङ्गमस्या गर्भमादिशेत्",
         "iast": "tatra yā dakṣiṇaṃ pādaṃ pūrvamabhisarati dakṣiṇaśca bāhurbalavāṃstena ceṣṭate tatstane ca prāk payo dṛśyate abhyunnatadakṣiṇakukṣiḥ parimaṇḍalagarbhā punnāmadarśanasparśanapraśnadauhṛdābhiratā punnāmadheyāṃśca svapnān paśyati prasannamukhavarṇā tīkṣṇakṣudūrdhvaromarājiḥ puruṣānabhilāṣiṇī ca sā putraṃ prasūte tadviparyaye kanyāṃ saṅkare ca napuṃsakam praśnakāle nārī yalliṅgamaṅgaṃ bāhyadravyaṃ vā parāmṛśati talliṅgamasyā garbhamādiśet",
         "iast_ru": "татра йа̄ дакш̣ин̣ам̣ па̄дам̣ пӯрвамабхисарати дакш̣ин̣аш́ча ба̄хурбалава̄м̣стена чеш̣т̣ате татстане ча пра̄к пайо др̣ш́йате абхйуннатадакш̣ин̣акукш̣их̣ париман̣д̣алагарбха̄ пунна̄мадарш́анаспарш́анапраш́надаухр̣да̄бхирата̄ пунна̄мадхейа̄м̣ш́ча свапна̄н паш́йати прасаннамукхаварн̣а̄ тӣкш̣н̣акш̣удӯрдхваромара̄джих̣ пуруш̣а̄набхила̄ш̣ин̣ӣ ча са̄ путрам̣ прасӯте тадвипарйайе канйа̄м̣ сан̇каре ча напум̣сакам праш́нака̄ле на̄рӣ йаллин̇гаман̇гам̣ ба̄хйадравйам̣ ва̄ пара̄мр̣ш́ати таллин̇гамасйа̄ гарбхама̄диш́ет",
-        "text": "В этом случае, беременная, которая прежде начинает движение с правой ноги, у которой правая рука сильнее и ею она действует, и в той правой груди прежде появляется молоко; у которой правая сторона живота более выпуклая, и зародыш округлый; которая любит рассматривание, прикосновение, вопросы, и желания «даухриды», связанные с мужскими именами, и видит сны с мужскими именами; у которой ясный цвет лица, острый голод, поднятая вверх линия волос на животе, и которая желает мужчину, — такая рождает сына; при обратном же — дочь; при смешении признаков — гермафродита. В момент вопроса, на какую часть тела или внешний предмет женщина укажет, этот признак определяет пол её зародыша."
+        "text": "В этом случае, беременная, которая прежде начинает движение с правой ноги, у которой правая рука сильнее и ею она действует, и в той правой груди прежде появляется молоко; у которой правая сторона живота более выпуклая, и зародыш округлый; которая любит рассматривание, прикосновение, вопросы, и желания «даухриды», связанные с мужскими именами, и видит сны с мужскими именами; у которой ясный цвет лица, острый голод, поднятая вверх линия волос на животе, и которая желает мужчину, — такая рождает сына; при обратном же — дочь; при смешении признаков — гермафродита. В момент вопроса, на какую часть тела или внешний предмет женщина укажет, этот признак определяет пол её зародыша.",
+        "text_en": "In this regard, a pregnant woman who begins to move first with the right foot, whose right hand is stronger and with which she acts, in whose right breast milk appears first; whose right side of the abdomen is more prominent and the embryo round; who likes looking, touching, questions, and whose \"dauhrida\" desires are connected with masculine names and who sees dreams with masculine names; whose complexion is clear, whose hunger is keen, whose line of hair on the abdomen is raised upward, and who desires a man, bears a son; in the opposite case a daughter; with a mixture of signs a hermaphrodite. At the moment of a question, whatever part of the body or external object the woman points to, this sign determines the sex of her embryo."
       },
       {
         "type": "verse",
@@ -20180,7 +20266,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा तून्मार्गगो वातो गर्भस्य रसवाहीनि स्रोतांसि शोषयति तदा वातरोगी हीनाङ्गो वा जायते बहूनि वा वर्षाण्युदरे तिष्ठति",
         "iast": "yadā tūnmārgago vāto garbhasya rasavāhīni srotāṃsi śoṣayati tadā vātarogī hīnāṅgo vā jāyate bahūni vā varṣāṇyudare tiṣṭhati",
         "iast_ru": "йада̄ тӯнма̄ргаго ва̄то гарбхасйа расава̄хӣни срота̄м̣си ш́ош̣айати тада̄ ва̄тарогӣ хӣна̄н̇го ва̄ джа̄йате бахӯни ва̄ варш̣а̄н̣йударе тиш̣т̣хати",
-        "text": "Когда же ветер, идущий неправильным путём, иссушает каналы зародыша, несущие сок, — тогда ребёнок рождается больным от ветра или с неполноценными членами; или же он остаётся в утробе много лет."
+        "text": "Когда же ветер, идущий неправильным путём, иссушает каналы зародыша, несущие сок, — тогда ребёнок рождается больным от ветра или с неполноценными членами; или же он остаётся в утробе много лет.",
+        "text_en": "When Vata, going by a wrong path, dries up the embryo's channels carrying the essence, then the child is born diseased by Vata or with defective limbs; or else it remains in the womb for many years."
       },
       {
         "type": "verse",
@@ -20188,7 +20275,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा स्त्रीपुंसयोः सममेवार्थो निष्पद्यते बीजं वा तयोः समांशं संमुखं च यदा च बीजं भागे दुष्यति तदा द्विप्रकृतिर्द्विरेता नपुंसकं भवति",
         "iast": "yadā strīpuṃsayoḥ samamevārtho niṣpadyate bījaṃ vā tayoḥ samāṃśaṃ saṃmukhaṃ ca yadā ca bījaṃ bhāge duṣyati tadā dviprakṛtirdviretā napuṃsakaṃ bhavati",
         "iast_ru": "йада̄ стрӣпум̣сайох̣ самамева̄ртхо ниш̣падйате бӣджам̣ ва̄ тайох̣ сама̄м̣ш́ам̣ сам̣мукхам̣ ча йада̄ ча бӣджам̣ бха̄ге душ̣йати тада̄ двипракр̣тирдвирета̄ напум̣сакам̣ бхавати",
-        "text": "Когда у женщины и мужчины семяизвержение происходит совершенно одновременно, или же их семя представлено в равной части и направлено друг к другу, и когда семя обоих испорчено в равной части, — тогда рождается гермафродит двойной природы, с двойным семенем."
+        "text": "Когда у женщины и мужчины семяизвержение происходит совершенно одновременно, или же их семя представлено в равной части и направлено друг к другу, и когда семя обоих испорчено в равной части, — тогда рождается гермафродит двойной природы, с двойным семенем.",
+        "text_en": "When the emission of semen in the woman and the man occurs at exactly the same time, or their semen is present in equal part and directed toward each other, and when the semen of both is vitiated in equal part, then a hermaphrodite of double nature, with double semen, is born."
       },
       {
         "type": "verse",
@@ -20196,7 +20284,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा स्त्री प्रथमं कृतार्था भवति ततः पुरुषेण पश्चाच्छुक्रमुत्सृष्टं हर्षानवस्थितचेतसः स्त्रिया वातो विगुणीकरोति पुंस्त्ववाहीनि स्रोतांसि चोपहन्ति तदा वातेन्द्रियं भवति तन्मैथुने वातमेवोत्सृजति",
         "iast": "yadā strī prathamaṃ kṛtārthā bhavati tataḥ puruṣeṇa paścācchukramutsṛṣṭaṃ harṣānavasthitacetasaḥ striyā vāto viguṇīkaroti puṃstvavāhīni srotāṃsi copahanti tadā vātendriyaṃ bhavati tanmaithune vātamevotsṛjati",
         "iast_ru": "йада̄ стрӣ пратхамам̣ кр̣та̄ртха̄ бхавати татах̣ пуруш̣ен̣а паш́ча̄ччхукрамутср̣ш̣т̣ам̣ харш̣а̄навастхитачетасах̣ стрийа̄ ва̄то вигун̣ӣкароти пум̣ствава̄хӣни срота̄м̣си чопаханти тада̄ ва̄тендрийам̣ бхавати танмаитхуне ва̄тамевотср̣джати",
-        "text": "Когда женщина первой достигает удовлетворения, а затем мужчина испускает семя, — то ветер, возникший от её удовлетворённого, но затем неустойчивого сознания, у женщины, ослабляет семя мужчины и повреждает каналы, несущие мужскую силу; тогда рождается ребёнок с «ветряным органом» (импотент); при совокуплении он испускает лишь ветер."
+        "text": "Когда женщина первой достигает удовлетворения, а затем мужчина испускает семя, — то ветер, возникший от её удовлетворённого, но затем неустойчивого сознания, у женщины, ослабляет семя мужчины и повреждает каналы, несущие мужскую силу; тогда рождается ребёнок с «ветряным органом» (импотент); при совокуплении он испускает лишь ветер.",
+        "text_en": "When the woman is the first to reach satisfaction and then the man emits semen, the Vata arising from her satisfied but then unstable consciousness weakens the man's semen in the woman and damages the channels carrying male potency; then a child is born with a \"windy organ\" (impotent); in intercourse he emits only wind."
       },
       {
         "type": "verse",
@@ -20204,7 +20293,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा तु कार्त्स्न्येन नोपहन्ति अनुपघ्नन्नेव वा स्रोतोमुखं पिधत्ते तदा संस्कारवाह्यं भवति तत्र संस्कारो वाजीकरा बस्तयो ऽभ्यवहारश्चेतोहर्षणानि च तानि हि शुक्रे बलमादधानानि स्रोतांस्यस्याप्याययन्तीति",
         "iast": "yadā tu kārtsnyena nopahanti anupaghnanneva vā srotomukhaṃ pidhatte tadā saṃskāravāhyaṃ bhavati tatra saṃskāro vājīkarā bastayo 'bhyavahāraścetoharṣaṇāni ca tāni hi śukre balamādadhānāni srotāṃsyasyāpyāyayantīti",
         "iast_ru": "йада̄ ту ка̄ртснйена нопаханти анупагхнаннева ва̄ сротомукхам̣ пидхатте тада̄ сам̣ска̄рава̄хйам̣ бхавати татра сам̣ска̄ро ва̄джӣкара̄ бастайо 'бхйаваха̄раш́четохарш̣ан̣а̄ни ча та̄ни хи ш́укре балама̄дадха̄на̄ни срота̄м̣сйасйа̄пйа̄йайантӣти",
-        "text": "Когда же он, ветер, не повреждает полностью, или же, не повреждая, лишь закупоривает устье канала, — тогда рождается ребёнок, поддающийся лечебному воздействию (санскаре). В этом случае, «санскара» — это средства, усиливающие половую силу, клизмы, подходящая пища и вещи, радующие ум; ибо они, придавая силу семени, также насыщают его каналы."
+        "text": "Когда же он, ветер, не повреждает полностью, или же, не повреждая, лишь закупоривает устье канала, — тогда рождается ребёнок, поддающийся лечебному воздействию (санскаре). В этом случае, «санскара» — это средства, усиливающие половую силу, клизмы, подходящая пища и вещи, радующие ум; ибо они, придавая силу семени, также насыщают его каналы.",
+        "text_en": "When that Vata does not damage completely, or, without damaging, merely blocks the mouth of the channel, then a child is born who is amenable to therapeutic treatment (samskara). In this case \"samskara\" means aphrodisiac remedies, enemas, suitable food and things that gladden the mind; for they, imparting strength to the semen, also nourish its channels."
       },
       {
         "type": "verse",
@@ -20212,7 +20302,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदाल्पबीजो ऽल्पबलः पुमानुद्वेगः स्त्रीद्वेषयुक्तो ऽन्यकामो वा नार्या व्यवायप्रतिघातं करोति तद्विधा वा नारी पुंसः तदा आसेक्यं नाम भवति तच्शुक्रास्वादाद्ध्वजोच्छ्रायं लभते",
         "iast": "yadālpabījo 'lpabalaḥ pumānudvegaḥ strīdveṣayukto 'nyakāmo vā nāryā vyavāyapratighātaṃ karoti tadvidhā vā nārī puṃsaḥ tadā āsekyaṃ nāma bhavati tacśukrāsvādāddhvajocchrāyaṃ labhate",
         "iast_ru": "йада̄лпабӣджо 'лпабалах̣ пума̄нудвегах̣ стрӣдвеш̣айукто 'нйака̄мо ва̄ на̄рйа̄ вйава̄йапратигха̄там̣ кароти тадвидха̄ ва̄ на̄рӣ пум̣сах̣ тада̄ а̄секйам̣ на̄ма бхавати тачш́укра̄сва̄да̄ддхваджоччхра̄йам̣ лабхате",
-        "text": "Когда мужчина с малым количеством семени, слабосильный, встревоженный, испытывающий отвращение к этой женщине или желающий другую, препятствует соитию с этой женщиной; или же женщина подобным образом препятствует мужчине, — тогда возникает состояние, называемое «асекья»; он обретает эрекцию только от вкушения чужого семени."
+        "text": "Когда мужчина с малым количеством семени, слабосильный, встревоженный, испытывающий отвращение к этой женщине или желающий другую, препятствует соитию с этой женщиной; или же женщина подобным образом препятствует мужчине, — тогда возникает состояние, называемое «асекья»; он обретает эрекцию только от вкушения чужого семени.",
+        "text_en": "When a man with little semen, weak, anxious, feeling aversion to this woman or desiring another, hinders intercourse with this woman; or the woman likewise hinders the man, then the condition called \"asekya\" arises; he obtains an erection only from tasting another's semen."
       },
       {
         "type": "verse",
@@ -20220,7 +20311,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा पुनरुभावपि भवतः स्त्रीपुंसौ तद्विधौ तदा वक्रध्वजो भवति तस्य नैव ध्वजः स्तभ्यते",
         "iast": "yadā punarubhāvapi bhavataḥ strīpuṃsau tadvidhau tadā vakradhvajo bhavati tasya naiva dhvajaḥ stabhyate",
         "iast_ru": "йада̄ пунарубха̄вапи бхаватах̣ стрӣпум̣сау тадвидхау тада̄ вакрадхваджо бхавати тасйа наива дхваджах̣ стабхйате",
-        "text": "Когда же оба — и женщина, и мужчина — оказываются в подобном состоянии, — тогда рождается «вакрадхваджа» (с искривлённым половым органом); у него эрекция вовсе не удерживается."
+        "text": "Когда же оба — и женщина, и мужчина — оказываются в подобном состоянии, — тогда рождается «вакрадхваджа» (с искривлённым половым органом); у него эрекция вовсе не удерживается.",
+        "text_en": "When both, the woman and the man, are in such a condition, then \"vakradhvaja\" (with a crooked organ) is born; in him an erection is not maintained at all."
       },
       {
         "type": "verse",
@@ -20228,7 +20320,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा पूतियोन्याः स्त्रिया गर्भो भवति सौगन्धिकाख्यः स योनिध्वजगन्धेन बलं लभते",
         "iast": "yadā pūtiyonyāḥ striyā garbho bhavati saugandhikākhyaḥ sa yonidhvajagandhena balaṃ labhate",
         "iast_ru": "йада̄ пӯтийонйа̄х̣ стрийа̄ гарбхо бхавати саугандхика̄кхйах̣ са йонидхваджагандхена балам̣ лабхате",
-        "text": "Когда зачатие происходит от женщины с болезнью «пути-йони» (зловонное влагалище), — рождается называемый «саугандхика»; он обретает сексуальную силу лишь от запаха влагалища или полового органа."
+        "text": "Когда зачатие происходит от женщины с болезнью «пути-йони» (зловонное влагалище), — рождается называемый «саугандхика»; он обретает сексуальную силу лишь от запаха влагалища или полового органа.",
+        "text_en": "When conception occurs from a woman with the disease \"puti-yoni\" (foul-smelling vagina), the one called \"saugandhika\" is born; he acquires sexual power only from the smell of the vagina or the sexual organ."
       },
       {
         "type": "verse",
@@ -20236,7 +20329,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा त्वीर्ष्याभिभूतौ मन्दहर्षौ संसृज्येते तदेर्ष्यारतिसंज्ञम् तस्य परं मिथुनीभूतं दृष्ट्वा मैथुनप्रवृत्तिर्भवति",
         "iast": "yadā tvīrṣyābhibhūtau mandaharṣau saṃsṛjyete taderṣyāratisaṃjñam tasya paraṃ mithunībhūtaṃ dṛṣṭvā maithunapravṛttirbhavati",
         "iast_ru": "йада̄ твӣрш̣йа̄бхибхӯтау мандахарш̣ау сам̣ср̣джйете тадерш̣йа̄ратисам̣джн̃ам тасйа парам̣ митхунӣбхӯтам̣ др̣ш̣т̣ва̄ маитхунаправр̣ттирбхавати",
-        "text": "Когда же оба, охваченные ревностью, с притупленным возбуждением, соединяются, — рождается ребёнок, называемый «иршья-рати»; у него склонность к соитию возникает лишь при виде другой совокупляющейся пары."
+        "text": "Когда же оба, охваченные ревностью, с притупленным возбуждением, соединяются, — рождается ребёнок, называемый «иршья-рати»; у него склонность к соитию возникает лишь при виде другой совокупляющейся пары.",
+        "text_en": "When both, seized by jealousy, with dulled excitement, unite, a child called \"irshya-rati\" is born; in him the inclination to intercourse arises only at the sight of another couple copulating."
       },
       {
         "type": "verse",
@@ -20244,7 +20338,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा पुरुषस्य गर्भस्य वाय्वग्निदोषाद् वृषणनाशस्तदा वातषण्डकाख्यं भवति एताः कर्मवैचित्र्यादष्टौ षण्डयोनयो ऽसङ्कीर्णाः कथिताः",
         "iast": "yadā puruṣasya garbhasya vāyvagnidoṣād vṛṣaṇanāśastadā vātaṣaṇḍakākhyaṃ bhavati etāḥ karmavaicitryādaṣṭau ṣaṇḍayonayo 'saṅkīrṇāḥ kathitāḥ",
         "iast_ru": "йада̄ пуруш̣асйа гарбхасйа ва̄йвагнидош̣а̄д вр̣ш̣ан̣ана̄ш́астада̄ ва̄таш̣ан̣д̣ака̄кхйам̣ бхавати ета̄х̣ кармаваичитрйа̄даш̣т̣ау ш̣ан̣д̣айонайо 'сан̇кӣрн̣а̄х̣ катхита̄х̣",
-        "text": "Когда у зародыша мужского пола, из-за расстройства ветра-огня, происходит потеря яичек, — возникает состояние, называемое «ватасхандака». Эти восемь несмешанных типов бесплодия/импотенции названы согласно многообразию лежащих в их основе причин."
+        "text": "Когда у зародыша мужского пола, из-за расстройства ветра-огня, происходит потеря яичек, — возникает состояние, называемое «ватасхандака». Эти восемь несмешанных типов бесплодия/импотенции названы согласно многообразию лежащих в их основе причин.",
+        "text_en": "When in a male embryo, owing to disorder of Vata-fire, loss of the testicles occurs, a condition called \"vatashandaka\" arises. These eight unmixed types of sterility/impotence are named according to the variety of the causes underlying them."
       },
       {
         "type": "verse",
@@ -20252,7 +20347,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा तु स्त्रियाः शोणितगर्भाशयौ दोषाः किञ्चित् प्रदूषयन्ति तदा यो गर्भो भवति तस्य गर्भस्य यस्य यस्य मातृजस्यावयवस्य बीजे बीजांशे वा दोषः प्रकोपमापद्यते तं तमवयवं विकृतिराविशति",
         "iast": "yadā tu striyāḥ śoṇitagarbhāśayau doṣāḥ kiñcit pradūṣayanti tadā yo garbho bhavati tasya garbhasya yasya yasya mātṛjasyāvayavasya bīje bījāṃśe vā doṣaḥ prakopamāpadyate taṃ tamavayavaṃ vikṛtirāviśati",
         "iast_ru": "йада̄ ту стрийа̄х̣ ш́он̣итагарбха̄ш́айау дош̣а̄х̣ кин̃чит прадӯш̣айанти тада̄ йо гарбхо бхавати тасйа гарбхасйа йасйа йасйа ма̄тр̣джасйа̄вайавасйа бӣдже бӣджа̄м̣ш́е ва̄ дош̣ах̣ пракопама̄падйате там̣ тамавайавам̣ викр̣тира̄виш́ати",
-        "text": "Когда же доши в некоторой степени портят кровь и матку женщины, — тогда у зародыша, который образуется, — в той части тела, происходящей от матери, в семени или части семени которой доша подвергается возбуждению, — в ту самую часть проникает расстройство."
+        "text": "Когда же доши в некоторой степени портят кровь и матку женщины, — тогда у зародыша, который образуется, — в той части тела, происходящей от матери, в семени или части семени которой доша подвергается возбуждению, — в ту самую часть проникает расстройство.",
+        "text_en": "When the doshas to some extent vitiate the blood and the uterus of the woman, then in the embryo that is formed, in that part of the body derived from the mother, in whose semen or part of the semen the dosha is aggravated, the disorder enters that very part."
       },
       {
         "type": "verse",
@@ -20260,7 +20356,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा ह्यस्याः शोणिताख्ये बीजे गर्भाशयस्थे निर्वर्तकं बीजं प्रदुष्यति तदा वन्ध्यां जनयति यदा तस्यावयवस्तदा पूतिप्रजाम् तस्या जातं जातं म्रियते",
         "iast": "yadā hyasyāḥ śoṇitākhye bīje garbhāśayasthe nirvartakaṃ bījaṃ praduṣyati tadā vandhyāṃ janayati yadā tasyāvayavastadā pūtiprajām tasyā jātaṃ jātaṃ mriyate",
         "iast_ru": "йада̄ хйасйа̄х̣ ш́он̣ита̄кхйе бӣдже гарбха̄ш́айастхе нирвартакам̣ бӣджам̣ прадуш̣йати тада̄ вандхйа̄м̣ джанайати йада̄ тасйа̄вайавастада̄ пӯтипраджа̄м тасйа̄ джа̄там̣ джа̄там̣ мрийате",
-        "text": "Ибо когда у неё, в семени, называемом «кровь» (женском семени), находящемся в матке, портится сама порождающая способность семени, — тогда рождается бесплодная дочь; когда же портится лишь часть его, — тогда рождается женщина, производящая на свет «путипраджу» (гниющее потомство); у неё каждый рождённый ребёнок умирает."
+        "text": "Ибо когда у неё, в семени, называемом «кровь» (женском семени), находящемся в матке, портится сама порождающая способность семени, — тогда рождается бесплодная дочь; когда же портится лишь часть его, — тогда рождается женщина, производящая на свет «путипраджу» (гниющее потомство); у неё каждый рождённый ребёнок умирает.",
+        "text_en": "For when in her, in the semen called \"blood\" (the female seed) situated in the uterus, the generative capacity of the semen itself is spoiled, then a sterile daughter is born; when only a part of it is spoiled, then a woman is born who produces \"putiprajas\" (decaying offspring); in her every child born dies."
       },
       {
         "type": "verse",
@@ -20268,7 +20365,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा पुनः सो ऽवयवः स्त्रीकराणां च शरीरसंश्रयाणामधोगुरुत्वादीनां निर्वर्तका ये बीजांशास्तेषामेकदेशः तदा स्त्र्याकृतिप्रायामस्त्रियं वार्तां नाम जनयति तां स्त्रीव्यापदमाचक्षते",
         "iast": "yadā punaḥ so 'vayavaḥ strīkarāṇāṃ ca śarīrasaṃśrayāṇāmadhogurutvādīnāṃ nirvartakā ye bījāṃśāsteṣāmekadeśaḥ tadā stryākṛtiprāyāmastriyaṃ vārtāṃ nāma janayati tāṃ strīvyāpadamācakṣate",
         "iast_ru": "йада̄ пунах̣ со 'вайавах̣ стрӣкара̄н̣а̄м̣ ча ш́арӣрасам̣ш́райа̄н̣а̄мадхогурутва̄дӣна̄м̣ нирвартака̄ йе бӣджа̄м̣ш́а̄стеш̣а̄мекадеш́ах̣ тада̄ стрйа̄кр̣типра̄йа̄мастрийам̣ ва̄рта̄м̣ на̄ма джанайати та̄м̣ стрӣвйа̄падама̄чакш̣ате",
-        "text": "Когда же эта часть семени затрагивает лишь одну область тех частей семени, которые порождают женские, связанные с телом качества — тяжесть внизу тела и подобное, — тогда рождается существо, называемое «варта», по большей части с женским обликом, но не являющееся полноценной женщиной; её называют «стри-вьяпад» (женским пороком)."
+        "text": "Когда же эта часть семени затрагивает лишь одну область тех частей семени, которые порождают женские, связанные с телом качества — тяжесть внизу тела и подобное, — тогда рождается существо, называемое «варта», по большей части с женским обликом, но не являющееся полноценной женщиной; её называют «стри-вьяпад» (женским пороком).",
+        "text_en": "When this part of the semen affects only one region of those parts of the semen that produce the feminine, body-related qualities, such as heaviness in the lower body and the like, then a being called \"varta\" is born, for the most part with a feminine appearance but not a complete woman; she is called \"stri-vyapad\" (female defect)."
       },
       {
         "type": "verse",
@@ -20276,7 +20374,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एवमेव पुंसो यदा शुक्राख्ये बीजे बीजं प्रदुष्यतीत्यादि योजयेद्वन्ध्यं पूतिप्रजं तथा पुरुषाकृतिप्रायमपुरुषं तृणमुखिनं नाम जनयतीत्येतेन मातृजानां पितृजानां चावयवानां विकृतिर्व्याख्याता",
         "iast": "evameva puṃso yadā śukrākhye bīje bījaṃ praduṣyatītyādi yojayedvandhyaṃ pūtiprajaṃ tathā puruṣākṛtiprāyamapuruṣaṃ tṛṇamukhinaṃ nāma janayatītyetena mātṛjānāṃ pitṛjānāṃ cāvayavānāṃ vikṛtirvyākhyātā",
         "iast_ru": "евамева пум̣со йада̄ ш́укра̄кхйе бӣдже бӣджам̣ прадуш̣йатӣтйа̄ди йоджайедвандхйам̣ пӯтипраджам̣ татха̄ пуруш̣а̄кр̣типра̄йамапуруш̣ам̣ тр̣н̣амукхинам̣ на̄ма джанайатӣтйетена ма̄тр̣джа̄на̄м̣ питр̣джа̄на̄м̣ ча̄вайава̄на̄м̣ викр̣тирвйа̄кхйа̄та̄",
-        "text": "Точно так же, когда у мужчины, в семени, называемом «шукра», портится само семя, — следует применить аналогичное рассуждение: рождается бесплодный, производящий «гниющее потомство»; подобным же образом рождается по большей части с мужским обликом, но не являющийся полноценным мужчиной, называемый «тринамукхин». Этим объяснено расстройство частей тела, происходящих от матери и от отца."
+        "text": "Точно так же, когда у мужчины, в семени, называемом «шукра», портится само семя, — следует применить аналогичное рассуждение: рождается бесплодный, производящий «гниющее потомство»; подобным же образом рождается по большей части с мужским обликом, но не являющийся полноценным мужчиной, называемый «тринамукхин». Этим объяснено расстройство частей тела, происходящих от матери и от отца.",
+        "text_en": "In just the same way, when in a man the semen called \"shukra\" is itself spoiled, an analogous reasoning should be applied: a sterile one is born, producing \"decaying offspring\"; likewise one is born for the most part with a masculine appearance but not a complete man, called \"trinamukhin\". By this the disorder of the parts of the body derived from the mother and from the father is explained."
       },
       {
         "type": "verse",
@@ -20284,7 +20383,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अनेन सात्म्यजानां रसजानां सत्त्वजानां चावयवानां विकृतिर्व्याख्याता भवति यस्य यस्याङ्गावयवस्य बीजे बीजांशे वा उपतप्तिर्भवति तस्य तस्याङ्गावयवस्य विकृतिरुपजायते नोपजायते ऽनुतापात्",
         "iast": "anena sātmyajānāṃ rasajānāṃ sattvajānāṃ cāvayavānāṃ vikṛtirvyākhyātā bhavati yasya yasyāṅgāvayavasya bīje bījāṃśe vā upataptirbhavati tasya tasyāṅgāvayavasya vikṛtirupajāyate nopajāyate 'nutāpāt",
         "iast_ru": "анена са̄тмйаджа̄на̄м̣ расаджа̄на̄м̣ саттваджа̄на̄м̣ ча̄вайава̄на̄м̣ викр̣тирвйа̄кхйа̄та̄ бхавати йасйа йасйа̄н̇га̄вайавасйа бӣдже бӣджа̄м̣ш́е ва̄ упатаптирбхавати тасйа тасйа̄н̇га̄вайавасйа викр̣тирупаджа̄йате нопаджа̄йате 'нута̄па̄т",
-        "text": "Этим же объяснено расстройство частей тела, происходящих от конституциональной совместимости, от материнского сока и от индивидуальной природы. В той части тела, в семени или части семени которой возникает повреждение, — в той самой части тела возникает расстройство; если же повреждения нет — расстройство не возникает."
+        "text": "Этим же объяснено расстройство частей тела, происходящих от конституциональной совместимости, от материнского сока и от индивидуальной природы. В той части тела, в семени или части семени которой возникает повреждение, — в той самой части тела возникает расстройство; если же повреждения нет — расстройство не возникает.",
+        "text_en": "By this too is explained the disorder of the parts of the body derived from constitutional compatibility, from the maternal essence and from individual nature. In that part of the body in whose semen or part of semen the damage arises, in that very part of the body the disorder arises; if there is no damage, no disorder arises."
       },
       {
         "type": "verse",
@@ -20292,7 +20392,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यदा च लब्धगर्भा ऽन्वक्षमेव वातलान्यासेवते तदास्या वायुः प्रकुपितः शरीरमनुसर्पन् गर्भाशये ऽवतिष्ठमानो गर्भस्य जडबधिरमूकमिन्मिणगद्गदखञ्जकुब्जवामनहीनाङ्गाधिकाङ्गत्वान्यन्यं वा वातविकारं करोति तथा वायुवत् पित्तमपि खलतिपलितश्मश्रुहीनतात्वङ्नखकेशपैङ्गल्यादीनि श्लेष्मा तु कुष्ठकिलाससदन्तत्त्वादीनि त्रिवर्गो मिश्रान्विकारान्",
         "iast": "yadā ca labdhagarbhā 'nvakṣameva vātalānyāsevate tadāsyā vāyuḥ prakupitaḥ śarīramanusarpan garbhāśaye 'vatiṣṭhamāno garbhasya jaḍabadhiramūkaminmiṇagadgadakhañjakubjavāmanahīnāṅgādhikāṅgatvānyanyaṃ vā vātavikāraṃ karoti tathā vāyuvat pittamapi khalatipalitaśmaśruhīnatātvaṅnakhakeśapaiṅgalyādīni śleṣmā tu kuṣṭhakilāsasadantattvādīni trivargo miśrānvikārān",
         "iast_ru": "йада̄ ча лабдхагарбха̄ 'нвакш̣амева ва̄тала̄нйа̄севате тада̄сйа̄ ва̄йух̣ пракупитах̣ ш́арӣраманусарпан гарбха̄ш́айе 'ватиш̣т̣хама̄но гарбхасйа джад̣абадхирамӯкаминмин̣агадгадакхан̃джакубджава̄манахӣна̄н̇га̄дхика̄н̇гатва̄нйанйам̣ ва̄ ва̄тавика̄рам̣ кароти татха̄ ва̄йуват питтамапи кхалатипалиташ́маш́рухӣната̄тван̇накхакеш́апаин̇галйа̄дӣни ш́леш̣ма̄ ту куш̣т̣хакила̄сасадантаттва̄дӣни триварго миш́ра̄нвика̄ра̄н",
-        "text": "И когда женщина, зачавшая, немедленно после этого употребляет пищу, вызывающую избыток ветра, — тогда её ветер, возбудившись, циркулируя по телу и задерживаясь в матке, вызывает у зародыша тупоумие, глухоту, немоту, заикание типа «инмина», заикание типа «гадгада», хромоту, горбатость, карликовость, недостаток или избыток членов тела, или иное расстройство от ветра. Подобным же образом, от избытка пищи, вызывающей питту, возникают: облысение, седина, недостаток бороды, потемнение кожи, ногтей, желтизна волос и подобное; от капхи же: кожные болезни, «киласа», недостаток зубов и подобное; а от сочетания трёх дош — смешанные расстройства."
+        "text": "И когда женщина, зачавшая, немедленно после этого употребляет пищу, вызывающую избыток ветра, — тогда её ветер, возбудившись, циркулируя по телу и задерживаясь в матке, вызывает у зародыша тупоумие, глухоту, немоту, заикание типа «инмина», заикание типа «гадгада», хромоту, горбатость, карликовость, недостаток или избыток членов тела, или иное расстройство от ветра. Подобным же образом, от избытка пищи, вызывающей питту, возникают: облысение, седина, недостаток бороды, потемнение кожи, ногтей, желтизна волос и подобное; от капхи же: кожные болезни, «киласа», недостаток зубов и подобное; а от сочетания трёх дош — смешанные расстройства.",
+        "text_en": "And when a woman who has conceived immediately afterwards takes food that causes an excess of Vata, then her Vata, aggravated, circulating through the body and lodging in the uterus, causes in the embryo dullness of intellect, deafness, muteness, stammering of the \"minmina\" type, stammering of the \"gadgada\" type, lameness, hunchback, dwarfism, deficiency or excess of limbs, or another disorder due to Vata. Likewise, from an excess of Pitta-producing food arise: baldness, greying, lack of beard, darkening of the skin and nails, yellowness of the hair and the like; from Kapha: skin diseases, \"kilasa\", deficiency of teeth and the like; and from a combination of the three doshas, mixed disorders."
       },
       {
         "type": "verse",
@@ -20300,7 +20401,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अपि च दृष्टिभागमप्रतिपन्नं तेजो जात्यन्धत्वम् तदेव वातानुगतं विकृतरूक्षारुणाक्षम् पित्तानुगतं पिङ्गाक्षम् श्लेष्मानुगतं शुक्लाक्षम् रक्तानुगतं रक्ताक्षमिति",
         "iast": "api ca dṛṣṭibhāgamapratipannaṃ tejo jātyandhatvam tadeva vātānugataṃ vikṛtarūkṣāruṇākṣam pittānugataṃ piṅgākṣam śleṣmānugataṃ śuklākṣam raktānugataṃ raktākṣamiti",
         "iast_ru": "апи ча др̣ш̣т̣ибха̄гамапратипаннам̣ теджо джа̄тйандхатвам тадева ва̄та̄нугатам̣ викр̣тарӯкш̣а̄рун̣а̄кш̣ам питта̄нугатам̣ пин̇га̄кш̣ам ш́леш̣ма̄нугатам̣ ш́укла̄кш̣ам ракта̄нугатам̣ ракта̄кш̣амити",
-        "text": "Кроме того, если огонь зрения не достигает должного развития, — возникает врождённая слепота. Она же, если сопровождается ветром, — даёт расстроенный, сухой, красноватый глаз; сопровождается питтой — жёлтый глаз; сопровождается капхой — белый (мутный) глаз; сопровождается кровью — красный глаз."
+        "text": "Кроме того, если огонь зрения не достигает должного развития, — возникает врождённая слепота. Она же, если сопровождается ветром, — даёт расстроенный, сухой, красноватый глаз; сопровождается питтой — жёлтый глаз; сопровождается капхой — белый (мутный) глаз; сопровождается кровью — красный глаз.",
+        "text_en": "Furthermore, if the fire of vision does not attain proper development, congenital blindness arises. If it is accompanied by Vata, it gives a disordered, dry, reddish eye; accompanied by Pitta, a yellow eye; accompanied by Kapha, a white (cloudy) eye; accompanied by blood, a red eye."
       },
       {
         "type": "verse",
@@ -20308,7 +20410,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भसमानयोगक्षेमा हि गर्भिणी भवति तस्माद्विशेषतस्तां प्रियहिताभ्यां गर्भोपधातकरेभ्यो रक्षेत् यथा यथा च गर्भो वृद्धिमाप्नोति तथा तथा भाराहारानादानादाहाररसापहाराच्च स्त्रिया बलक्षयः तत्रेमे गर्भोपघातकराः तद्यथा व्यवायव्यायामकर्शनाभिघातातिमात्रसङ्क्षोभियानयानरात्रिजागरणदिवास्वप्नवेगविधारणाजीर्णातपाग्निकोधशोकभयोत्त्रासोपवासोत्कटकविषमकठिनासनश्वभ्रकूपप्रपाताप्रियावलोकनश्रवणादयः समासतः सर्वमतिगुरूष्णतीक्ष्णरूक्षमन्नपानं दारुणाश्च चेष्टाः",
         "iast": "garbhasamānayogakṣemā hi garbhiṇī bhavati tasmādviśeṣatastāṃ priyahitābhyāṃ garbhopadhātakarebhyo rakṣet yathā yathā ca garbho vṛddhimāpnoti tathā tathā bhārāhārānādānādāhārarasāpahārācca striyā balakṣayaḥ tatreme garbhopaghātakarāḥ tadyathā vyavāyavyāyāmakarśanābhighātātimātrasaṅkṣobhiyānayānarātrijāgaraṇadivāsvapnavegavidhāraṇājīrṇātapāgnikodhaśokabhayottrāsopavāsotkaṭakaviṣamakaṭhināsanaśvabhrakūpaprapātāpriyāvalokanaśravaṇādayaḥ samāsataḥ sarvamatigurūṣṇatīkṣṇarūkṣamannapānaṃ dāruṇāśca ceṣṭāḥ",
         "iast_ru": "гарбхасама̄найогакш̣ема̄ хи гарбхин̣ӣ бхавати тасма̄двиш́еш̣атаста̄м̣ прийахита̄бхйа̄м̣ гарбхопадха̄такаребхйо ракш̣ет йатха̄ йатха̄ ча гарбхо вр̣ддхима̄пноти татха̄ татха̄ бха̄ра̄ха̄ра̄на̄да̄на̄да̄ха̄рараса̄паха̄ра̄чча стрийа̄ балакш̣айах̣ татреме гарбхопагха̄такара̄х̣ тадйатха̄ вйава̄йавйа̄йа̄макарш́ана̄бхигха̄та̄тима̄трасан̇кш̣обхийа̄найа̄нара̄триджа̄гаран̣адива̄свапнавегавидха̄ран̣а̄джӣрн̣а̄тапа̄гникодхаш́окабхайоттра̄сопава̄соткат̣акавиш̣амакат̣хина̄санаш́вабхракӯпапрапа̄та̄прийа̄валоканаш́раван̣а̄дайах̣ сама̄сатах̣ сарваматигурӯш̣н̣атӣкш̣н̣арӯкш̣аманнапа̄нам̣ да̄рун̣а̄ш́ча чеш̣т̣а̄х̣",
-        "text": "Ибо благополучие и безопасность беременной тождественны благополучию зародыша; поэтому её следует особенно оберегать приятным и полезным от факторов, причиняющих вред зародышу. И по мере того, как зародыш растёт, — из-за возросшего бремени, отсутствия достаточного приёма пищи и отбора сока пищи зародышем, у женщины истощается сила. В этом случае, вот факторы, причиняющие вред зародышу: соитие, физическое упражнение, истощение, удар, чрезмерное потрясение, езда на повозке или верхом, ночное бодрствование, дневной сон, сдерживание естественных позывов, недоваренность пищи, чрезмерное воздействие солнца, огня; гнев, горе, страх, испуг; голодание; сидение на корточках, на неровном, твёрдом сиденье; приближение к яме, колодцу, обрыву; наблюдение или слушание неприятного и подобное. Вкратце — вся чрезмерно тяжёлая, горячая, резкая, сухая пища и питьё, а также резкие действия."
+        "text": "Ибо благополучие и безопасность беременной тождественны благополучию зародыша; поэтому её следует особенно оберегать приятным и полезным от факторов, причиняющих вред зародышу. И по мере того, как зародыш растёт, — из-за возросшего бремени, отсутствия достаточного приёма пищи и отбора сока пищи зародышем, у женщины истощается сила. В этом случае, вот факторы, причиняющие вред зародышу: соитие, физическое упражнение, истощение, удар, чрезмерное потрясение, езда на повозке или верхом, ночное бодрствование, дневной сон, сдерживание естественных позывов, недоваренность пищи, чрезмерное воздействие солнца, огня; гнев, горе, страх, испуг; голодание; сидение на корточках, на неровном, твёрдом сиденье; приближение к яме, колодцу, обрыву; наблюдение или слушание неприятного и подобное. Вкратце — вся чрезмерно тяжёлая, горячая, резкая, сухая пища и питьё, а также резкие действия.",
+        "text_en": "For the well-being and safety of the pregnant woman are identical with the well-being of the embryo; therefore she should be especially protected, by what is pleasant and wholesome, from factors that harm the embryo. And as the embryo grows, owing to the increased burden and the lack of sufficient intake of food and the extraction of the essence of food by the embryo, the woman's strength is depleted. In this regard, the following are the factors that harm the embryo: sexual intercourse, physical exercise, exhaustion, a blow, excessive jolting, riding in a cart or on horseback, night vigil, daytime sleep, suppression of natural urges, undercooked food, excessive exposure to the sun or fire; anger, grief, fear, fright; fasting; sitting in a squatting position or on an uneven, hard seat; approaching a pit, a well or a precipice; seeing or hearing unpleasant things and the like. In brief, all excessively heavy, hot, pungent, dry food and drink, as well as violent actions."
       },
       {
         "type": "verse",
@@ -20316,7 +20419,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा देवतारक्षो ऽनुपचयपरिरक्षणार्थं न रक्तानि वासासि धारयेन्न यानमधिरोहेन्न मद्यमांसमश्नीयात् यच्चान्यदपि वृद्धस्त्रियो ब्रूयुः प्रततोत्तानशायिन्याः पुनर्गर्भस्य नाभ्याश्रया नाडी कण्ठमनुवेष्ट्य व्यापत्तिं करोति विवृतशया नक्तचारिणी चोन्मत्तं जनयति कलहशीलापस्मारिणम् व्यवायशीला दुर्वपुषमह्रीकं स्त्रैणं वा शोकनित्या भीरुमपचितमल्पायुषं वा अभिध्यायिनी परोपतापिनमीर्ष्यालुं स्त्रैणं वा स्तेना त्वायासबहुलमभिद्रोहिणमकर्मशीलं वा अमर्षणा चण्डमौपधिकं वा स्वप्नशीला निद्रालुमबुधमल्पाग्निं वा मद्यनित्या तृष्णालुमल्पस्मृतिमनवस्थितं वा गोधामांसनित्याश्मरिणं शनैर्मेहिनं वा बराहमांसनित्या रक्ताक्षं क्रथनमतिपरुषरोमाणं वा मत्स्यमांसनित्या चिरनिमेषं स्तब्धाक्षं वा मधुरनित्या प्रमेहिणं मूकमतिस्थूलं वा अम्लनित्या रक्तपित्तिनं त्वगक्षिरोगिणं वा लवणनित्या शीघ्रवलीपलितं खलतिकं वा तिक्तनित्या शोषिणमबलमपचितं वा कटुकनित्या दुर्बलमल्पशुक्रमनपत्यं वा कषायनित्या श्याममानाहिनमुदावर्तिनं वा यच्च यच्च यस्य व्याधेर्निदानं तत्तदासेवमानान्तर्वत्नी स्त्री तत्तद्विकारबहुलमपत्यं जनयति एतेन पितृजा अपि शुक्रदोषा व्याख्याताः",
         "iast": "tathā devatārakṣo 'nupacayaparirakṣaṇārthaṃ na raktāni vāsāsi dhārayenna yānamadhirohenna madyamāṃsamaśnīyāt yaccānyadapi vṛddhastriyo brūyuḥ pratatottānaśāyinyāḥ punargarbhasya nābhyāśrayā nāḍī kaṇṭhamanuveṣṭya vyāpattiṃ karoti vivṛtaśayā naktacāriṇī conmattaṃ janayati kalahaśīlāpasmāriṇam vyavāyaśīlā durvapuṣamahrīkaṃ straiṇaṃ vā śokanityā bhīrumapacitamalpāyuṣaṃ vā abhidhyāyinī paropatāpinamīrṣyāluṃ straiṇaṃ vā stenā tvāyāsabahulamabhidrohiṇamakarmaśīlaṃ vā amarṣaṇā caṇḍamaupadhikaṃ vā svapnaśīlā nidrālumabudhamalpāgniṃ vā madyanityā tṛṣṇālumalpasmṛtimanavasthitaṃ vā godhāmāṃsanityāśmariṇaṃ śanairmehinaṃ vā barāhamāṃsanityā raktākṣaṃ krathanamatiparuṣaromāṇaṃ vā matsyamāṃsanityā ciranimeṣaṃ stabdhākṣaṃ vā madhuranityā pramehiṇaṃ mūkamatisthūlaṃ vā amlanityā raktapittinaṃ tvagakṣirogiṇaṃ vā lavaṇanityā śīghravalīpalitaṃ khalatikaṃ vā tiktanityā śoṣiṇamabalamapacitaṃ vā kaṭukanityā durbalamalpaśukramanapatyaṃ vā kaṣāyanityā śyāmamānāhinamudāvartinaṃ vā yacca yacca yasya vyādhernidānaṃ tattadāsevamānāntarvatnī strī tattadvikārabahulamapatyaṃ janayati etena pitṛjā api śukradoṣā vyākhyātāḥ",
         "iast_ru": "татха̄ девата̄ракш̣о 'нупачайапариракш̣ан̣а̄ртхам̣ на ракта̄ни ва̄са̄си дха̄райенна йа̄намадхирохенна мадйама̄м̣самаш́нӣйа̄т йачча̄нйадапи вр̣ддхастрийо брӯйух̣ прататотта̄наш́а̄йинйа̄х̣ пунаргарбхасйа на̄бхйа̄ш́райа̄ на̄д̣ӣ кан̣т̣хаманувеш̣т̣йа вйа̄паттим̣ кароти вивр̣таш́айа̄ нактача̄рин̣ӣ чонматтам̣ джанайати калахаш́ӣла̄пасма̄рин̣ам вйава̄йаш́ӣла̄ дурвапуш̣амахрӣкам̣ страин̣ам̣ ва̄ ш́оканитйа̄ бхӣрумапачитамалпа̄йуш̣ам̣ ва̄ абхидхйа̄йинӣ паропата̄пинамӣрш̣йа̄лум̣ страин̣ам̣ ва̄ стена̄ тва̄йа̄сабахуламабхидрохин̣амакармаш́ӣлам̣ ва̄ амарш̣ан̣а̄ чан̣д̣амаупадхикам̣ ва̄ свапнаш́ӣла̄ нидра̄лумабудхамалпа̄гним̣ ва̄ мадйанитйа̄ тр̣ш̣н̣а̄лумалпасмр̣тиманавастхитам̣ ва̄ годха̄ма̄м̣санитйа̄ш́марин̣ам̣ ш́анаирмехинам̣ ва̄ бара̄хама̄м̣санитйа̄ ракта̄кш̣ам̣ кратханаматипаруш̣арома̄н̣ам̣ ва̄ матсйама̄м̣санитйа̄ чиранимеш̣ам̣ стабдха̄кш̣ам̣ ва̄ мадхуранитйа̄ прамехин̣ам̣ мӯкаматистхӯлам̣ ва̄ амланитйа̄ рактапиттинам̣ твагакш̣ирогин̣ам̣ ва̄ лаван̣анитйа̄ ш́ӣгхравалӣпалитам̣ кхалатикам̣ ва̄ тиктанитйа̄ ш́ош̣ин̣амабаламапачитам̣ ва̄ кат̣уканитйа̄ дурбаламалпаш́украманапатйам̣ ва̄ каш̣а̄йанитйа̄ ш́йа̄мама̄на̄хинамуда̄вартинам̣ ва̄ йачча йачча йасйа вйа̄дхернида̄нам̣ таттада̄севама̄на̄нтарватнӣ стрӣ таттадвика̄рабахуламапатйам̣ джанайати етена питр̣джа̄ апи ш́украдош̣а̄ вйа̄кхйа̄та̄х̣",
-        "text": "Подобным же образом, ради защиты от вреда со стороны злых духов, ей не следует носить красные одежды, не следует садиться в повозку, не следует есть вино или мясо. И что бы ещё ни сказали старые женщины, — следует это исполнить. Далее, если беременная постоянно лежит навзничь, вытянувшись, — тогда канал, связанный с пуповиной зародыша, обвившись вокруг шеи, может вызвать осложнение. Если она спит с открытым телом или бродит ночью — рождает безумного. Если она склонна к ссорам — рождает эпилептика. Если она предаётся соитию чрезмерно — рождает ребёнка с уродливым телом, бесстыдного или женоподобного. Если она постоянно скорбит — рождает боязливого, слабого или недолговечного. Если она погружена в размышления о вреде другим — рождает причиняющего вред другим, ревнивого или женоподобного. Если она ворует — рождает чрезмерно беспокойного, склонного вредить или бездеятельного. Если она нетерпелива — рождает вспыльчивого или коварного. Если она сонлива — рождает сонливого, глупого или со слабым огнём пищеварения. Если она постоянно употребляет вино — рождает жаждущего, с плохой памятью или неустойчивого. Если она постоянно ест мясо игуаны — рождает страдающего мочекаменной болезнью или медленно мочащегося. Если она постоянно ест мясо кабана — рождает красноглазого, шумного или с чрезмерно грубыми волосами. Если она постоянно ест рыбу — рождает редко моргающего или с неподвижным взглядом. Если она постоянно ест сладкое — рождает страдающего прамехой, немого или чрезмерно тучного. Если она постоянно ест кислое — рождает страдающего кровяной питтой или болезнями кожи-глаз. Если она постоянно ест солёное — рождает быстро покрывающегося морщинами и сединой или лысого. Если она постоянно ест горькое — рождает истощённого, слабого или худого. Если она постоянно ест острое — рождает слабого, с малым семенем или бездетного. Если она постоянно ест вяжущее — рождает смуглого, страдающего вздутием или удавартой. И что бы ни было причиной каждой отдельной болезни, беременная женщина, употребляющая соответствующее вещество, рождает потомство, преисполненное этого расстройства. Этим также объяснены дефекты семени, происходящие от отца."
+        "text": "Подобным же образом, ради защиты от вреда со стороны злых духов, ей не следует носить красные одежды, не следует садиться в повозку, не следует есть вино или мясо. И что бы ещё ни сказали старые женщины, — следует это исполнить. Далее, если беременная постоянно лежит навзничь, вытянувшись, — тогда канал, связанный с пуповиной зародыша, обвившись вокруг шеи, может вызвать осложнение. Если она спит с открытым телом или бродит ночью — рождает безумного. Если она склонна к ссорам — рождает эпилептика. Если она предаётся соитию чрезмерно — рождает ребёнка с уродливым телом, бесстыдного или женоподобного. Если она постоянно скорбит — рождает боязливого, слабого или недолговечного. Если она погружена в размышления о вреде другим — рождает причиняющего вред другим, ревнивого или женоподобного. Если она ворует — рождает чрезмерно беспокойного, склонного вредить или бездеятельного. Если она нетерпелива — рождает вспыльчивого или коварного. Если она сонлива — рождает сонливого, глупого или со слабым огнём пищеварения. Если она постоянно употребляет вино — рождает жаждущего, с плохой памятью или неустойчивого. Если она постоянно ест мясо игуаны — рождает страдающего мочекаменной болезнью или медленно мочащегося. Если она постоянно ест мясо кабана — рождает красноглазого, шумного или с чрезмерно грубыми волосами. Если она постоянно ест рыбу — рождает редко моргающего или с неподвижным взглядом. Если она постоянно ест сладкое — рождает страдающего прамехой, немого или чрезмерно тучного. Если она постоянно ест кислое — рождает страдающего кровяной питтой или болезнями кожи-глаз. Если она постоянно ест солёное — рождает быстро покрывающегося морщинами и сединой или лысого. Если она постоянно ест горькое — рождает истощённого, слабого или худого. Если она постоянно ест острое — рождает слабого, с малым семенем или бездетного. Если она постоянно ест вяжущее — рождает смуглого, страдающего вздутием или удавартой. И что бы ни было причиной каждой отдельной болезни, беременная женщина, употребляющая соответствующее вещество, рождает потомство, преисполненное этого расстройства. Этим также объяснены дефекты семени, происходящие от отца.",
+        "text_en": "Likewise, for protection from harm by evil spirits, she should not wear red garments, should not get into a cart, should not eat wine or meat. And whatever else the old women may say, that should be carried out. Next, if the pregnant woman constantly lies on her back, stretched out, then the channel connected with the umbilical cord of the embryo, winding around the neck, may cause a complication. If she sleeps with the body uncovered or wanders at night, she bears a mad child. If she is given to quarrels, she bears an epileptic. If she indulges in sexual intercourse excessively, she bears a child with a deformed body, shameless or effeminate. If she constantly grieves, she bears a timid, weak or short-lived child. If she is absorbed in thoughts of harm to others, she bears one who harms others, jealous or effeminate. If she steals, she bears an excessively restless child, inclined to do harm or inactive. If she is impatient, she bears a choleric or treacherous child. If she is drowsy, she bears a drowsy, foolish child or one with weak digestive fire. If she constantly drinks wine, she bears one who is thirsty, with poor memory or unsteady. If she constantly eats the flesh of the iguana, she bears one suffering from urinary stones or urinating slowly. If she constantly eats the flesh of the boar, she bears one with red eyes, noisy or with excessively coarse hair. If she constantly eats fish, she bears one who rarely blinks or with a fixed gaze. If she constantly eats sweet things, she bears one suffering from prameha, mute or excessively obese. If she constantly eats sour things, she bears one suffering from Raktapitta or diseases of the skin and eyes. If she constantly eats salty things, she bears one quickly covered with wrinkles and grey hair, or bald. If she constantly eats bitter things, she bears an emaciated, weak or thin child. If she constantly eats pungent things, she bears a weak child, with little semen or childless. If she constantly eats astringent things, she bears a dark child, suffering from flatulence or udavarta. And whatever the cause of each separate disease, the pregnant woman who uses the corresponding substance bears offspring full of that disorder. By this the defects of the semen arising from the father are also explained."
       },
       {
         "type": "verse",
@@ -20324,7 +20428,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्मात् प्रजासम्पदमिच्छन्तौ साध्वात्मान्नसुपाचरेताम् विशेषेण नारी व्याधींश्चास्या मृदुमधुरशिशिरसुखैरौषधाहारविहारैरुपाचरेत् न चास्या वमनादीनि प्रयोजयेत् न रक्तावसेचनम् केवलं त्वष्टममासमुपादायास्थापामनुवासनं वा वमनादिसाध्येषु पुनर्विकारेषु मृदुभिस्तदर्थकारिभिर्वोपक्रमेत् पूर्णमिव तैलपात्रमसंक्षोभयद्गर्भिणीमुपाचरेदिति भवन्ति चात्र",
         "iast": "tasmāt prajāsampadamicchantau sādhvātmānnasupācaretām viśeṣeṇa nārī vyādhīṃścāsyā mṛdumadhuraśiśirasukhairauṣadhāhāravihārairupācaret na cāsyā vamanādīni prayojayet na raktāvasecanam kevalaṃ tvaṣṭamamāsamupādāyāsthāpāmanuvāsanaṃ vā vamanādisādhyeṣu punarvikāreṣu mṛdubhistadarthakāribhirvopakramet pūrṇamiva tailapātramasaṃkṣobhayadgarbhiṇīmupācarediti bhavanti cātra",
         "iast_ru": "тасма̄т праджа̄сампадамиччхантау са̄дхва̄тма̄ннасупа̄чарета̄м виш́еш̣ен̣а на̄рӣ вйа̄дхӣм̣ш́ча̄сйа̄ мр̣думадхураш́иш́ирасукхаирауш̣адха̄ха̄равиха̄раирупа̄чарет на ча̄сйа̄ вамана̄дӣни прайоджайет на ракта̄васечанам кевалам̣ тваш̣т̣амама̄самупа̄да̄йа̄стха̄па̄манува̄санам̣ ва̄ вамана̄диса̄дхйеш̣у пунарвика̄реш̣у мр̣дубхистадартхака̄рибхирвопакрамет пӯрн̣амива таилапа̄трамасам̣кш̣обхайадгарбхин̣ӣмупа̄чаредити бхаванти ча̄тра",
-        "text": "Поэтому оба супруга, желающие благополучного потомства, должны надлежащим образом заботиться о своём теле; в особенности же следует лечить болезни женщины мягкими, сладкими, холодными, приятными лекарствами, пищей и образом жизни. Не следует применять для неё рвотное и подобное, а также не следует проводить кровопускание. Только начиная с восьмого месяца допустимы астхапана или анувасана. При же прочих расстройствах, излечимых обычно рвотным и подобным, следует применять мягкие средства, достигающие той же цели. Следует обращаться с беременной, не сотрясая её, подобно полному сосуду масла. И здесь также применимо:"
+        "text": "Поэтому оба супруга, желающие благополучного потомства, должны надлежащим образом заботиться о своём теле; в особенности же следует лечить болезни женщины мягкими, сладкими, холодными, приятными лекарствами, пищей и образом жизни. Не следует применять для неё рвотное и подобное, а также не следует проводить кровопускание. Только начиная с восьмого месяца допустимы астхапана или анувасана. При же прочих расстройствах, излечимых обычно рвотным и подобным, следует применять мягкие средства, достигающие той же цели. Следует обращаться с беременной, не сотрясая её, подобно полному сосуду масла. И здесь также применимо:",
+        "text_en": "Therefore both spouses, desiring prosperous offspring, should take proper care of their bodies; in particular, the woman's diseases should be treated with mild, sweet, cold, pleasant medicines, food and regimen. Emesis and the like should not be applied for her, nor should bloodletting be performed. Only from the eighth month are asthapana or anuvasana permissible. In other disorders usually curable by emesis and the like, mild measures achieving the same aim should be applied. The pregnant woman should be handled without shaking her, like a vessel full of oil. Here too it is said:"
       },
       {
         "type": "verse",
@@ -20332,7 +20437,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इत्यनात्ययिके व्याधौ विधिरात्यीयके पुनः तीक्ष्णैरपि क्रियायोगैः स्त्रियं यत्नेन पालयेत्",
         "iast": "ityanātyayike vyādhau vidhirātyīyake punaḥ tīkṣṇairapi kriyāyogaiḥ striyaṃ yatnena pālayet",
         "iast_ru": "итйана̄тйайике вйа̄дхау видхира̄тйӣйаке пунах̣ тӣкш̣н̣аирапи крийа̄йогаих̣ стрийам̣ йатнена па̄лайет",
-        "text": "Таков режим при неопасной болезни; при неотложной же — следует, старательно оберегая женщину, применять даже резкие лечебные меры."
+        "text": "Таков режим при неопасной болезни; при неотложной же — следует, старательно оберегая женщину, применять даже резкие лечебные меры.",
+        "text_en": "This is the regimen in a non-dangerous disease; in an urgent one, however, even strong therapeutic measures should be applied, while carefully protecting the woman."
       },
       {
         "type": "verse",
@@ -20340,7 +20446,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्त्री हि मूलमपत्यानां स्त्री हि रक्षति रक्षिता सर्वाश्रमाणां प्रथमं गृहस्थत्वमनिन्दितम्",
         "iast": "strī hi mūlamapatyānāṃ strī hi rakṣati rakṣitā sarvāśramāṇāṃ prathamaṃ gṛhasthatvamaninditam",
         "iast_ru": "стрӣ хи мӯламапатйа̄на̄м̣ стрӣ хи ракш̣ати ракш̣ита̄ сарва̄ш́рама̄н̣а̄м̣ пратхамам̣ гр̣хастхатваманиндитам",
-        "text": "Ибо женщина — корень потомства; женщина, будучи защищена сама, защищает и других. Гриха-стха (домохозяйство) — первая и безупречная из всех ашрам."
+        "text": "Ибо женщина — корень потомства; женщина, будучи защищена сама, защищает и других. Гриха-стха (домохозяйство) — первая и безупречная из всех ашрам.",
+        "text_en": "For woman is the root of progeny; a woman, when she herself is protected, protects others also. The grihastha (householder's life) is the first and the faultless among all the ashramas."
       },
       {
         "type": "verse",
@@ -20348,7 +20455,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जरायुणा मुखे छन्ने कण्ठे च कफवेष्टिते वायोर्मार्गनिरोधाच्च न गर्भस्थः प्ररोदिति",
         "iast": "jarāyuṇā mukhe channe kaṇṭhe ca kaphaveṣṭite vāyormārganirodhācca na garbhasthaḥ praroditi",
         "iast_ru": "джара̄йун̣а̄ мукхе чханне кан̣т̣хе ча капхавеш̣т̣ите ва̄йорма̄рганиродха̄чча на гарбхастхах̣ прародити",
-        "text": "Поскольку рот зародыша закрыт оболочкой джараю, а горло обёрнуто капхой, — и из-за закупорки пути ветра, — находящийся в утробе зародыш не плачет."
+        "text": "Поскольку рот зародыша закрыт оболочкой джараю, а горло обёрнуто капхой, — и из-за закупорки пути ветра, — находящийся в утробе зародыш не плачет.",
+        "text_en": "Since the mouth of the embryo is closed by the membrane of the jarayu, and the throat is wrapped by Kapha, and owing to the blockage of the path of Vata, the embryo in the womb does not cry."
       }
     ]
   },
@@ -20370,7 +20478,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो गर्भोपचरणीयमध्यायं व्याख्यास्यामः इति हस्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto garbhopacaraṇīyamadhyāyaṃ vyākhyāsyāmaḥ iti hasmāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то гарбхопачаран̣ӣйамадхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити хасма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Гарбхопачаранийя» («О должном уходе во время беременности») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Гарбхопачаранийя» («О должном уходе во время беременности») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter entitled \"Garbhopacharaniya\" (\"On Proper Care during Pregnancy\"), as the great sages, beginning with Atreya, declared."
       },
       {
         "type": "verse",
@@ -20378,7 +20487,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रथमे मासि गर्भिणी क्षीरमनुपसंस्कृतं मात्रावच्छीतं काले काले पिवेत् तस्मिन्नपि चाद्यं द्वादशरात्रं क्षीरोद्भवं सर्पिश्शालिपर्णीपलाशाभ्यां शृतं कनकरजतक्वथितं शीतोदकानुपानं पिबेत् स्वादु शीतं द्रवप्रायं सात्म्यं च सायंप्रातराहारयेत् न चाभ्यङ्गोद्वर्तनानि सेवेत यथोक्तानि च दोषकराणि परिहरेदापञ्चमान्मासाद्विशेषेण",
         "iast": "prathame māsi garbhiṇī kṣīramanupasaṃskṛtaṃ mātrāvacchītaṃ kāle kāle pivet tasminnapi cādyaṃ dvādaśarātraṃ kṣīrodbhavaṃ sarpiśśāliparṇīpalāśābhyāṃ śṛtaṃ kanakarajatakvathitaṃ śītodakānupānaṃ pibet svādu śītaṃ dravaprāyaṃ sātmyaṃ ca sāyaṃprātarāhārayet na cābhyaṅgodvartanāni seveta yathoktāni ca doṣakarāṇi pariharedāpañcamānmāsādviśeṣeṇa",
         "iast_ru": "пратхаме ма̄си гарбхин̣ӣ кш̣ӣраманупасам̣скр̣там̣ ма̄тра̄ваччхӣтам̣ ка̄ле ка̄ле пивет тасминнапи ча̄дйам̣ два̄даш́ара̄трам̣ кш̣ӣродбхавам̣ сарпиш́ш́а̄липарн̣ӣпала̄ш́а̄бхйа̄м̣ ш́р̣там̣ канакараджатакватхитам̣ ш́ӣтодака̄нупа̄нам̣ пибет сва̄ду ш́ӣтам̣ дравапра̄йам̣ са̄тмйам̣ ча са̄йам̣пра̄тара̄ха̄райет на ча̄бхйан̇годвартана̄ни севета йатхокта̄ни ча дош̣акара̄н̣и парихареда̄пан̃чама̄нма̄са̄двиш́еш̣ен̣а",
-        "text": "В первый месяц беременная должна пить необработанное молоко, холодное, в надлежащей дозе, в подходящее время. И в первые же двенадцать ночей этого месяца следует пить гхи, происходящее из молока, сваренное с шалипарни и палашей, прокипячённое с погружением раскалённых золота и серебра, запивая холодной водой. Сладкую, холодную, преимущественно жидкую и подходящую по конституции пищу следует принимать вечером и утром. Не следует применять умащение и растирание; и следует избегать вышеупомянутых факторов, вызывающих доши, — особенно вплоть до пятого месяца."
+        "text": "В первый месяц беременная должна пить необработанное молоко, холодное, в надлежащей дозе, в подходящее время. И в первые же двенадцать ночей этого месяца следует пить гхи, происходящее из молока, сваренное с шалипарни и палашей, прокипячённое с погружением раскалённых золота и серебра, запивая холодной водой. Сладкую, холодную, преимущественно жидкую и подходящую по конституции пищу следует принимать вечером и утром. Не следует применять умащение и растирание; и следует избегать вышеупомянутых факторов, вызывающих доши, — особенно вплоть до пятого месяца.",
+        "text_en": "In the first month the pregnant woman should drink raw milk, cold, in the proper dose, at the suitable time. And in the first twelve nights of this month she should drink ghee derived from milk, cooked with shaliparni and palasha, boiled with immersion of heated gold and silver, washing it down with cold water. Sweet, cold, predominantly liquid food suited to her constitution should be taken in the evening and morning. Oleation and massage should not be applied; and the above-mentioned factors that provoke the doshas should be avoided, especially up to the fifth month."
       },
       {
         "type": "verse",
@@ -20386,7 +20496,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वितीये मधुरौषधसिद्धं पयः पिबेत् तृतीये तदेव सर्पिर्मधुभ्याम् चतुर्थे ऽक्षमात्रनवनीतयुक्तम् पञ्चमे क्षीरसर्पिः षष्ठे तदेव मधुरौषधसिद्धम् सप्तमे च तस्मिंस्तु गर्भस्य केशोत्पत्त्या मातुर्विदाहो भवतीति स्त्रियो भाषन्ते नेति भगवानात्रेयः गर्भोत्पीडनात्तु दोषा हृदयं प्राप्य विदहन्ति ततः कण्डूर्जायते कण्ड्वा किक्किसम्",
         "iast": "dvitīye madhurauṣadhasiddhaṃ payaḥ pibet tṛtīye tadeva sarpirmadhubhyām caturthe 'kṣamātranavanītayuktam pañcame kṣīrasarpiḥ ṣaṣṭhe tadeva madhurauṣadhasiddham saptame ca tasmiṃstu garbhasya keśotpattyā māturvidāho bhavatīti striyo bhāṣante neti bhagavānātreyaḥ garbhotpīḍanāttu doṣā hṛdayaṃ prāpya vidahanti tataḥ kaṇḍūrjāyate kaṇḍvā kikkisam",
         "iast_ru": "двитӣйе мадхурауш̣адхасиддхам̣ пайах̣ пибет тр̣тӣйе тадева сарпирмадхубхйа̄м чатуртхе 'кш̣ама̄транаванӣтайуктам пан̃чаме кш̣ӣрасарпих̣ ш̣аш̣т̣хе тадева мадхурауш̣адхасиддхам саптаме ча тасмим̣сту гарбхасйа кеш́отпаттйа̄ ма̄турвида̄хо бхаватӣти стрийо бха̄ш̣анте нети бхагава̄на̄трейах̣ гарбхотпӣд̣ана̄тту дош̣а̄ хр̣дайам̣ пра̄пйа видаханти татах̣ кан̣д̣ӯрджа̄йате кан̣д̣ва̄ киккисам",
-        "text": "Во второй месяц следует пить молоко, сваренное со сладкими лекарствами; в третий — гхи, сваренное с ними же, и с мёдом; в четвёртый — с добавлением свежего масла в размере акши; в пятый — молоко и гхи; в шестой — то же самое, сваренное со сладкими лекарствами; и в седьмой, в этот месяц, из-за роста волос у зародыша, у матери якобы возникает жжение, — так говорят женщины; но не так считает Блаженный Атрея: на самом деле из-за давления растущего зародыша, доши, достигая сердца, вызывают жжение; отсюда возникает зуд, а от зуда — «киккиса» (трещины на коже)."
+        "text": "Во второй месяц следует пить молоко, сваренное со сладкими лекарствами; в третий — гхи, сваренное с ними же, и с мёдом; в четвёртый — с добавлением свежего масла в размере акши; в пятый — молоко и гхи; в шестой — то же самое, сваренное со сладкими лекарствами; и в седьмой, в этот месяц, из-за роста волос у зародыша, у матери якобы возникает жжение, — так говорят женщины; но не так считает Блаженный Атрея: на самом деле из-за давления растущего зародыша, доши, достигая сердца, вызывают жжение; отсюда возникает зуд, а от зуда — «киккиса» (трещины на коже).",
+        "text_en": "In the second month she should drink milk cooked with sweet medicines; in the third, ghee cooked with the same and with honey; in the fourth, with the addition of fresh butter in the quantity of an aksha; in the fifth, milk and ghee; in the sixth, the same cooked with sweet medicines; and in the seventh, in this month, owing to the growth of the hair of the embryo, a burning sensation is said to arise in the mother, so women say; but the Blessed Atreya does not hold this: in fact, owing to the pressure of the growing embryo, the doshas, reaching the heart, cause burning; hence itching arises, and from itching, \"kikkisa\" (cracks in the skin)."
       },
       {
         "type": "verse",
@@ -20394,7 +20505,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र कोलोदकेन नवनीतस्य मधुरौषधसिद्धस्य पाणितलमात्रमस्यै दद्यात् चन्दनमृणालकल्कैश्च स्तनोदरं मृद्नीयात् शिरीषधातकीसर्षपमधुकचूर्णैर्वा कुटजार्जकबीजमुस्ताहरिद्राकल्कैर्वा निम्बकोलसुरसमञ्जिष्ठाकल्कैर्वा शशहरिणपृषतरुधिरयुक्तया वा त्रिफलया करवीरकरञ्जपत्रकल्कसिद्धेन च तैलेनाभ्यङ्गः परिषेकः पुनर्मालतीमधुकसिद्धेनाम्भसा कण्डूयनं वर्जयेत् त्वग्भेदवैरूप्यपरिहारार्थं स्नानोद्वर्तनं च शीलयेत् मधुरं चाहारमल्पमल्पस्नेहलवणमल्पोदकानुपानं भुञ्जीत",
         "iast": "tatra kolodakena navanītasya madhurauṣadhasiddhasya pāṇitalamātramasyai dadyāt candanamṛṇālakalkaiśca stanodaraṃ mṛdnīyāt śirīṣadhātakīsarṣapamadhukacūrṇairvā kuṭajārjakabījamustāharidrākalkairvā nimbakolasurasamañjiṣṭhākalkairvā śaśahariṇapṛṣatarudhirayuktayā vā triphalayā karavīrakarañjapatrakalkasiddhena ca tailenābhyaṅgaḥ pariṣekaḥ punarmālatīmadhukasiddhenāmbhasā kaṇḍūyanaṃ varjayet tvagbhedavairūpyaparihārārthaṃ snānodvartanaṃ ca śīlayet madhuraṃ cāhāramalpamalpasnehalavaṇamalpodakānupānaṃ bhuñjīta",
         "iast_ru": "татра колодакена наванӣтасйа мадхурауш̣адхасиддхасйа па̄н̣италама̄трамасйаи дадйа̄т чанданамр̣н̣а̄лакалкаиш́ча станодарам̣ мр̣днӣйа̄т ш́ирӣш̣адха̄такӣсарш̣апамадхукачӯрн̣аирва̄ кут̣аджа̄рджакабӣджамуста̄харидра̄калкаирва̄ нимбаколасурасаман̃джиш̣т̣ха̄калкаирва̄ ш́аш́ахарин̣апр̣ш̣атарудхирайуктайа̄ ва̄ трипхалайа̄ каравӣракаран̃джапатракалкасиддхена ча таилена̄бхйан̇гах̣ париш̣еках̣ пунарма̄латӣмадхукасиддхена̄мбхаса̄ кан̣д̣ӯйанам̣ варджайет твагбхедаваирӯпйапариха̄ра̄ртхам̣ сна̄нодвартанам̣ ча ш́ӣлайет мадхурам̣ ча̄ха̄рамалпамалпаснехалаван̣амалподака̄нупа̄нам̣ бхун̃джӣта",
-        "text": "В этом случае, ей следует дать примерно с ладонь свежего масла, сваренного со сладкими лекарствами, запивая водой, настоянной на плодах колы; и следует растирать грудь и живот пастой сандала и стебля лотоса; или же порошком шириши, дхатаки, горчицы, солодки; или пастой кутаджи, арджаки, мусты, куркумы; или пастой нимбы, колы, сурасы, манджиштхи; или трифалой, соединённой с кровью зайца, оленя или пятнистого оленя; а также маслом, сваренным с пастой листьев каравиры и каранджи, — для умащения и обливания. Снова, умываясь водой, сваренной с малати и солодкой, следует избегать расчёсывания. Ради предотвращения растрескивания кожи и обезображивания, следует практиковать купание и растирание. И следует есть сладкую пищу, в малом количестве, с малым количеством умащения и соли, запивая малым количеством воды."
+        "text": "В этом случае, ей следует дать примерно с ладонь свежего масла, сваренного со сладкими лекарствами, запивая водой, настоянной на плодах колы; и следует растирать грудь и живот пастой сандала и стебля лотоса; или же порошком шириши, дхатаки, горчицы, солодки; или пастой кутаджи, арджаки, мусты, куркумы; или пастой нимбы, колы, сурасы, манджиштхи; или трифалой, соединённой с кровью зайца, оленя или пятнистого оленя; а также маслом, сваренным с пастой листьев каравиры и каранджи, — для умащения и обливания. Снова, умываясь водой, сваренной с малати и солодкой, следует избегать расчёсывания. Ради предотвращения растрескивания кожи и обезображивания, следует практиковать купание и растирание. И следует есть сладкую пищу, в малом количестве, с малым количеством умащения и соли, запивая малым количеством воды.",
+        "text_en": "In this case she should be given about a palmful of fresh butter cooked with sweet medicines, washed down with water infused with kola fruits; and the breast and abdomen should be rubbed with a paste of sandalwood and lotus stalk; or with powder of shirisha, dhataki, mustard and liquorice; or with a paste of kutaja, arjaka, musta and turmeric; or with a paste of nimba, kola, surasa and manjishtha; or with triphala combined with the blood of a hare, deer or spotted deer; and also with oil cooked with a paste of the leaves of karavira and karanja, for anointing and pouring. Again, washing with water boiled with malati and liquorice, she should avoid scratching. To prevent cracking of the skin and disfigurement, bathing and rubbing should be practised. And she should eat sweet food, in small quantity, with little unction and salt, washing it down with a small quantity of water."
       },
       {
         "type": "verse",
@@ -20402,7 +20514,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अष्टमे क्षीरयवागूं सर्पिष्मतीं पिबेत् नेति खण्डकाप्यः गर्भस्य पैङ्गल्याबाधभयात् अस्तु पैङ्गल्याबाधस्तथाप्येवं कुर्वीत नीरुजं बलवर्णसत्वसंहननसम्पदुपेतं ज्ञातीनामग्रगण्यमपत्यं जनयतीति भगवानात्रेयः",
         "iast": "aṣṭame kṣīrayavāgūṃ sarpiṣmatīṃ pibet neti khaṇḍakāpyaḥ garbhasya paiṅgalyābādhabhayāt astu paiṅgalyābādhastathāpyevaṃ kurvīta nīrujaṃ balavarṇasatvasaṃhananasampadupetaṃ jñātīnāmagragaṇyamapatyaṃ janayatīti bhagavānātreyaḥ",
         "iast_ru": "аш̣т̣аме кш̣ӣрайава̄гӯм̣ сарпиш̣матӣм̣ пибет нети кхан̣д̣ака̄пйах̣ гарбхасйа паин̇галйа̄ба̄дхабхайа̄т асту паин̇галйа̄ба̄дхастатха̄пйевам̣ курвӣта нӣруджам̣ балаварн̣асатвасам̣хананасампадупетам̣ джн̃а̄тӣна̄маграган̣йамапатйам̣ джанайатӣти бхагава̄на̄трейах̣",
-        "text": "В восьмой месяц следует пить молочную кашицу-ягью с гхи; но не так считает Кхандакапья, — из-за опасения пожелтения глаз зародыша. Пусть даже возникнет пожелтение глаз, всё же следует поступать таким же образом; ибо это порождает потомство, свободное от болезней, наделённое силой, цветом кожи, благой природой, крепким телосложением, — первое среди своих родичей, — так говорит Блаженный Атрея."
+        "text": "В восьмой месяц следует пить молочную кашицу-ягью с гхи; но не так считает Кхандакапья, — из-за опасения пожелтения глаз зародыша. Пусть даже возникнет пожелтение глаз, всё же следует поступать таким же образом; ибо это порождает потомство, свободное от болезней, наделённое силой, цветом кожи, благой природой, крепким телосложением, — первое среди своих родичей, — так говорит Блаженный Атрея.",
+        "text_en": "In the eighth month she should drink milk gruel (yavagu) with ghee; but Khandakapya does not hold this, fearing yellowing of the eyes of the embryo. Even if yellowing of the eyes should arise, one should nevertheless act in the same way; for this produces offspring free from disease, endowed with strength, complexion, good nature and a firm physique, the first among his kinsmen, so says the Blessed Atreya."
       },
       {
         "type": "verse",
@@ -20410,7 +20523,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बदरोदकेन पललपयोदधिमस्तुतैललवणफलघृतमधुयुक्तेनास्थापयेत् पुराणविड्विशुध्यर्थं मधुकादिमधुरौषधसिद्धेन च तैलेनानुवासयेदनुलोमनाय वायोः अनुलोमे हि मारुते सा सुखमनुपद्रवा प्रसूते",
         "iast": "badarodakena palalapayodadhimastutailalavaṇaphalaghṛtamadhuyuktenāsthāpayet purāṇaviḍviśudhyarthaṃ madhukādimadhurauṣadhasiddhena ca tailenānuvāsayedanulomanāya vāyoḥ anulome hi mārute sā sukhamanupadravā prasūte",
         "iast_ru": "бадародакена палалапайодадхимастутаилалаван̣апхалагхр̣тамадхуйуктена̄стха̄пайет пура̄н̣авид̣виш́удхйартхам̣ мадхука̄димадхурауш̣адхасиддхена ча таилена̄нува̄сайедануломана̄йа ва̄йох̣ ануломе хи ма̄руте са̄ сукхаманупадрава̄ прасӯте",
-        "text": "Ей следует провести астхапану клизмой с водой, настоянной на плодах колы, соединённой с мясной пастой, молоком, йогуртом, сывороткой, маслом, солью, плодами, гхи, мёдом, — ради очищения от застарелого кала; и следует применить анувасану маслом, сваренным со сладкими лекарствами, начиная с солодки, — для направления ветра в правильное русло. Ибо, при правильно направленном ветре, она рожает легко и без осложнений."
+        "text": "Ей следует провести астхапану клизмой с водой, настоянной на плодах колы, соединённой с мясной пастой, молоком, йогуртом, сывороткой, маслом, солью, плодами, гхи, мёдом, — ради очищения от застарелого кала; и следует применить анувасану маслом, сваренным со сладкими лекарствами, начиная с солодки, — для направления ветра в правильное русло. Ибо, при правильно направленном ветре, она рожает легко и без осложнений.",
+        "text_en": "She should be given asthapana with an enema of water infused with kola fruits, combined with a paste of meat, milk, curd, whey, butter, salt, fruits, ghee and honey, for purification from old faeces; and anuvasana should be applied with oil cooked with sweet medicines, beginning with liquorice, to direct Vata into the right course. For when Vata is rightly directed, she gives birth easily and without complications."
       },
       {
         "type": "verse",
@@ -20418,7 +20532,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भिणीं तु न्युब्जामास्थापयेदनुवासयेद्वा तथास्या विवृतमार्गतया सम्यगौषधमनुप्रविशति",
         "iast": "garbhiṇīṃ tu nyubjāmāsthāpayedanuvāsayedvā tathāsyā vivṛtamārgatayā samyagauṣadhamanupraviśati",
         "iast_ru": "гарбхин̣ӣм̣ ту нйубджа̄ма̄стха̄пайеданува̄сайедва̄ татха̄сйа̄ вивр̣тама̄ргатайа̄ самйагауш̣адхамануправиш́ати",
-        "text": "Беременную же следует подвергать астхапане или анувасане в положении лёжа ничком; ибо тогда, благодаря открытости пути, лекарство надлежащим образом проникает внутрь."
+        "text": "Беременную же следует подвергать астхапане или анувасане в положении лёжа ничком; ибо тогда, благодаря открытости пути, лекарство надлежащим образом проникает внутрь.",
+        "text_en": "The pregnant woman should be given asthapana or anuvasana lying prone; for then, owing to the openness of the passage, the medicine penetrates inward properly."
       },
       {
         "type": "verse",
@@ -20426,7 +20541,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत ऊर्ध्वं स्निग्धाभिर्यवागूभिर्जाङ्गलरसैश्चोपाचरेदाप्रसवकालादिति भगवान् धन्वन्तरिः",
         "iast": "tata ūrdhvaṃ snigdhābhiryavāgūbhirjāṅgalarasaiścopācaredāprasavakālāditi bhagavān dhanvantariḥ",
         "iast_ru": "тата ӯрдхвам̣ снигдха̄бхирйава̄гӯбхирджа̄н̇галарасаиш́чопа̄чареда̄прасавака̄ла̄дити бхагава̄н дханвантарих̣",
-        "text": "После этого следует лечить её маслянистыми кашицами-ягьями и мясными соками животных сухих земель, вплоть до времени родов, — так говорит Блаженный Дхантанвари."
+        "text": "После этого следует лечить её маслянистыми кашицами-ягьями и мясными соками животных сухих земель, вплоть до времени родов, — так говорит Блаженный Дхантанвари.",
+        "text_en": "After this she should be treated with unctuous gruels (yavagu) and the meat juices of animals of dry regions, up to the time of delivery, so says the Blessed Dhanvantari."
       },
       {
         "type": "verse",
@@ -20434,7 +20550,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नवमे तु तत एवानुवासनतैलात् पिचुं योनौप्रणयेद्गर्भमार्गाशययोः स्नेहनार्थमिति अनेन प्रथममासादाराभ्य क्रमेण गर्भिण्याः प्रसवकाले गर्भधारिणीकुक्षिकटीपार्श्वपृष्ठं मृदु भवति वायुश्चानुलोमः सम्पद्यते मूत्रपुरीषं च प्रकृतिभूतं जरायुश्च मार्गं प्रतिपद्यते पुत्रं चेष्टं कल्यमायुष्मन्तं सुखिनं सुखेन काले बलवती प्रसूते",
         "iast": "navame tu tata evānuvāsanatailāt picuṃ yonaupraṇayedgarbhamārgāśayayoḥ snehanārthamiti anena prathamamāsādārābhya krameṇa garbhiṇyāḥ prasavakāle garbhadhāriṇīkukṣikaṭīpārśvapṛṣṭhaṃ mṛdu bhavati vāyuścānulomaḥ sampadyate mūtrapurīṣaṃ ca prakṛtibhūtaṃ jarāyuśca mārgaṃ pratipadyate putraṃ ceṣṭaṃ kalyamāyuṣmantaṃ sukhinaṃ sukhena kāle balavatī prasūte",
         "iast_ru": "наваме ту тата ева̄нува̄санатаила̄т пичум̣ йонаупран̣айедгарбхама̄рга̄ш́айайох̣ снехана̄ртхамити анена пратхамама̄са̄да̄ра̄бхйа крамен̣а гарбхин̣йа̄х̣ прасавака̄ле гарбхадха̄рин̣ӣкукш̣икат̣ӣпа̄рш́вапр̣ш̣т̣хам̣ мр̣ду бхавати ва̄йуш́ча̄нуломах̣ сампадйате мӯтрапурӣш̣ам̣ ча пракр̣тибхӯтам̣ джара̄йуш́ча ма̄ргам̣ пратипадйате путрам̣ чеш̣т̣ам̣ калйама̄йуш̣мантам̣ сукхинам̣ сукхена ка̄ле балаватӣ прасӯте",
-        "text": "В девятый же месяц следует вводить во влагалище тампон с тем же самым маслом для анувасаны — для умащения родового пути и полости матки. Благодаря этому режиму, проводимому по порядку начиная с первого месяца, у беременной, ко времени родов, живот, поясница, бок, спина в области вынашивания плода становятся мягкими; ветер направляется правильно; моча и кал приходят в нормальное состояние; и плацента следует естественному пути. И такая женщина, обладающая силой, легко рожает в срок желанного, здорового, долголетнего, счастливого сына."
+        "text": "В девятый же месяц следует вводить во влагалище тампон с тем же самым маслом для анувасаны — для умащения родового пути и полости матки. Благодаря этому режиму, проводимому по порядку начиная с первого месяца, у беременной, ко времени родов, живот, поясница, бок, спина в области вынашивания плода становятся мягкими; ветер направляется правильно; моча и кал приходят в нормальное состояние; и плацента следует естественному пути. И такая женщина, обладающая силой, легко рожает в срок желанного, здорового, долголетнего, счастливого сына.",
+        "text_en": "In the ninth month a tampon with the same oil used for anuvasana should be introduced into the vagina, for oleation of the birth canal and the cavity of the uterus. By this regimen, carried out in order from the first month, in the pregnant woman, by the time of delivery, the abdomen, loins, flank and back in the region where the foetus is borne become soft; Vata is directed rightly; urine and faeces return to normal; and the placenta follows the natural path. And such a woman, possessing strength, easily gives birth at the proper time to a desired, healthy, long-lived, happy son."
       },
       {
         "type": "verse",
@@ -20442,7 +20559,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बिल्वकार्पासीपफ्फणापाटलीपिचुमन्दाग्निमन्थमासीवर्धमानकपत्रभङ्गक्वाथेन शीतेन सर्वगन्धोदकेन वा गर्भिण्याः प्रत्यहं स्नानमुपदिशेत्",
         "iast": "bilvakārpāsīpaphphaṇāpāṭalīpicumandāgnimanthamāsīvardhamānakapatrabhaṅgakvāthena śītena sarvagandhodakena vā garbhiṇyāḥ pratyahaṃ snānamupadiśet",
         "iast_ru": "билвака̄рпа̄сӣпапхпхан̣а̄па̄т̣алӣпичуманда̄гнимантхама̄сӣвардхама̄накапатрабхан̇гаква̄тхена ш́ӣтена сарвагандходакена ва̄ гарбхин̣йа̄х̣ пратйахам̣ сна̄намупадиш́ет",
-        "text": "Следует предписывать беременной ежедневное купание в холодном отваре из побегов и листьев билвы, карпаси, паффаны, паталы, нимбы, агнимантхи, маши, вардхаманаки; или же в воде со всевозможными ароматическими веществами."
+        "text": "Следует предписывать беременной ежедневное купание в холодном отваре из побегов и листьев билвы, карпаси, паффаны, паталы, нимбы, агнимантхи, маши, вардхаманаки; или же в воде со всевозможными ароматическими веществами.",
+        "text_en": "The pregnant woman should be prescribed daily bathing in a cold decoction of the shoots and leaves of bilva, karpasi, paffana, patala, nimba, agnimantha, masha and vardhamanaka; or in water with all kinds of aromatic substances."
       },
       {
         "type": "verse",
@@ -20450,7 +20568,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्राक् चैवास्या नवमान्मासादपहृतास्थिशर्कराकपाले प्रशस्ते देशे वास्तुविद्याप्रशस्तं सर्वर्तुसुखमुपहृतसर्वोपकरणं सन्निहितज्वलनं प्राग्द्वारमुदग्द्वारं वा सूतिकागारं कारयेत्",
         "iast": "prāk caivāsyā navamānmāsādapahṛtāsthiśarkarākapāle praśaste deśe vāstuvidyāpraśastaṃ sarvartusukhamupahṛtasarvopakaraṇaṃ sannihitajvalanaṃ prāgdvāramudagdvāraṃ vā sūtikāgāraṃ kārayet",
         "iast_ru": "пра̄к чаива̄сйа̄ навама̄нма̄са̄дапахр̣та̄стхиш́аркара̄капа̄ле праш́асте деш́е ва̄стувидйа̄праш́астам̣ сарвартусукхамупахр̣тасарвопакаран̣ам̣ саннихитаджваланам̣ пра̄гдва̄рамудагдва̄рам̣ ва̄ сӯтика̄га̄рам̣ ка̄райет",
-        "text": "Ещё до её девятого месяца следует, на благоприятном участке, очищенном от костей, черепков и подобного, построенном согласно предписаниям науки о зодчестве, удобном во все сезоны, со всем необходимым снаряжением, с готовым к использованию огнём, дверью на восток или на север, — построить родильный дом."
+        "text": "Ещё до её девятого месяца следует, на благоприятном участке, очищенном от костей, черепков и подобного, построенном согласно предписаниям науки о зодчестве, удобном во все сезоны, со всем необходимым снаряжением, с готовым к использованию огнём, дверью на восток или на север, — построить родильный дом.",
+        "text_en": "Even before her ninth month, on an auspicious site, cleared of bones, potsherds and the like, built according to the prescriptions of the science of architecture, comfortable in all seasons, with all the necessary equipment, with fire ready for use, with the door to the east or north, a delivery house should be built."
       },
       {
         "type": "verse",
@@ -20458,7 +20577,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्रानुकूलेषु नक्षत्रादिषु पुण्याहशब्देन गोब्राह्मणवृद्धान् नत्वा आवर्तमाना प्रदक्षिणं प्रविश्य बहुशः प्रसूताभिरनुरक्ताभिरविषादाभिः क्लेशक्षमाभिः परिवृता स्वस्त्ययनपरानुलोमनैराहारविहारैरनुलोमितवातमूत्रपुरीषा प्रसवकालमुदीक्षेत स्वल्पे ऽपि च विण्मूत्रविबन्धे फलवर्तीः प्रणिदद्यात्",
         "iast": "tatrānukūleṣu nakṣatrādiṣu puṇyāhaśabdena gobrāhmaṇavṛddhān natvā āvartamānā pradakṣiṇaṃ praviśya bahuśaḥ prasūtābhiranuraktābhiraviṣādābhiḥ kleśakṣamābhiḥ parivṛtā svastyayanaparānulomanairāhāravihārairanulomitavātamūtrapurīṣā prasavakālamudīkṣeta svalpe 'pi ca viṇmūtravibandhe phalavartīḥ praṇidadyāt",
         "iast_ru": "татра̄нукӯлеш̣у накш̣атра̄диш̣у пун̣йа̄хаш́абдена гобра̄хман̣авр̣ддха̄н натва̄ а̄вартама̄на̄ прадакш̣ин̣ам̣ правиш́йа бахуш́ах̣ прасӯта̄бхирануракта̄бхиравиш̣а̄да̄бхих̣ клеш́акш̣ама̄бхих̣ паривр̣та̄ свастйайанапара̄нуломанаира̄ха̄равиха̄раирануломитава̄тамӯтрапурӣш̣а̄ прасавака̄ламудӣкш̣ета свалпе 'пи ча вин̣мӯтравибандхе пхалавартӣх̣ пран̣идадйа̄т",
-        "text": "В этот срок, при благоприятных созвездиях и подобном, произнеся слова благословения, поклонившись коровам, брахманам, старшим, и, обойдя дом по часовой стороне, войдя в него, — ей, окружённой многочисленными, уже рожавшими прежде, преданными, не унывающими, выносливыми к трудностям женщинами, — с помощью благоприятной, направляющей естественные функции пищи и образа жизни, направив должным образом ветер, мочу и кал, — следует ожидать времени родов. И даже при малейшей задержке кала или мочи следует применять ректальные свечи."
+        "text": "В этот срок, при благоприятных созвездиях и подобном, произнеся слова благословения, поклонившись коровам, брахманам, старшим, и, обойдя дом по часовой стороне, войдя в него, — ей, окружённой многочисленными, уже рожавшими прежде, преданными, не унывающими, выносливыми к трудностям женщинами, — с помощью благоприятной, направляющей естественные функции пищи и образа жизни, направив должным образом ветер, мочу и кал, — следует ожидать времени родов. И даже при малейшей задержке кала или мочи следует применять ректальные свечи.",
+        "text_en": "At this time, under auspicious constellations and the like, having pronounced words of blessing, bowed to cows, brahmins and elders, and having circumambulated the house clockwise and entered it, she, surrounded by many women who have given birth before, devoted, not despondent and able to endure hardships, by means of auspicious food and regimen that regulate the natural functions, having directed Vata, urine and faeces properly, should await the time of delivery. And even at the slightest retention of faeces or urine, rectal suppositories should be applied."
       },
       {
         "type": "verse",
@@ -20466,7 +20586,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्रासन्नप्रसवायाः क्लमो ग्लानिर्मुक्तबन्धने इवाक्षिणी निष्ठीविका मूत्रपुरीषबाहुल्यं शिथिलकुक्षिताधोगुरुत्वमन्नानभिलाषो वेदनोदरहृदयकटीबस्तिवङ्क्षणेषु तोदभेदशूलस्फुरणस्रवणानि च योन्यां भवन्ति तदनन्तरमावीनां प्रादुर्भावो गर्भोदकप्रवाहश्च",
         "iast": "tatrāsannaprasavāyāḥ klamo glānirmuktabandhane ivākṣiṇī niṣṭhīvikā mūtrapurīṣabāhulyaṃ śithilakukṣitādhogurutvamannānabhilāṣo vedanodarahṛdayakaṭībastivaṅkṣaṇeṣu todabhedaśūlasphuraṇasravaṇāni ca yonyāṃ bhavanti tadanantaramāvīnāṃ prādurbhāvo garbhodakapravāhaśca",
         "iast_ru": "татра̄саннапрасава̄йа̄х̣ кламо гла̄нирмуктабандхане ива̄кш̣ин̣ӣ ниш̣т̣хӣвика̄ мӯтрапурӣш̣аба̄хулйам̣ ш́итхилакукш̣ита̄дхогурутваманна̄набхила̄ш̣о веданодарахр̣дайакат̣ӣбастиван̇кш̣ан̣еш̣у тодабхедаш́ӯласпхуран̣асраван̣а̄ни ча йонйа̄м̣ бхаванти таданантарама̄вӣна̄м̣ пра̄дурбха̄во гарбходакаправа̄хаш́ча",
-        "text": "У той, чьи роды приближаются, возникают: усталость, изнеможение, ощущение глаз, как будто освобождённых от повязки, слюнотечение, обилие мочи и кала, расслабленность живота, тяжесть внизу тела, отсутствие аппетита; боль в животе, сердце, пояснице, мочевом пузыре, паху; а также колющая боль, растрескивающая боль, боль, трепет и истечение во влагалище. Вслед за этим — появление схваток и истечение околоплодных вод."
+        "text": "У той, чьи роды приближаются, возникают: усталость, изнеможение, ощущение глаз, как будто освобождённых от повязки, слюнотечение, обилие мочи и кала, расслабленность живота, тяжесть внизу тела, отсутствие аппетита; боль в животе, сердце, пояснице, мочевом пузыре, паху; а также колющая боль, растрескивающая боль, боль, трепет и истечение во влагалище. Вслед за этим — появление схваток и истечение околоплодных вод.",
+        "text_en": "In her whose delivery is approaching, there arise: fatigue, exhaustion, a sensation in the eyes as if freed from a bandage, salivation, abundance of urine and faeces, relaxation of the abdomen, heaviness in the lower body, loss of appetite; pain in the abdomen, heart, loins, urinary bladder and groin; as well as pricking pain, cracking pain, pain, trembling and discharge in the vagina. Following this, labour pains appear and the amniotic fluid flows out."
       },
       {
         "type": "verse",
@@ -20474,7 +20595,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथैनामुपस्थितगर्भां कृतकौतुकमङ्गलां पुन्नामफलहस्तां स्वभ्यक्तामुष्णोदकपरिषिक्तां सघृतां यवागूं पाययेत् ततः सुरक्तार्षभचर्मप्रच्छदे मृदुनि भूमिशयने शयानामुत्तानामाभुग्नसक्थिपृष्ठामहतवाससो ऽशङ्कनीयाः प्रियदर्शनाः परिणतवयसः प्रजननकुशलाः प्रगल्भाः कृत्तनखाः स्त्रियः सूतिकां सूनृताभिर्वाणीभिराश्वासयन्त्यः पर्युपासीरन्",
         "iast": "athaināmupasthitagarbhāṃ kṛtakautukamaṅgalāṃ punnāmaphalahastāṃ svabhyaktāmuṣṇodakapariṣiktāṃ saghṛtāṃ yavāgūṃ pāyayet tataḥ suraktārṣabhacarmapracchade mṛduni bhūmiśayane śayānāmuttānāmābhugnasakthipṛṣṭhāmahatavāsaso 'śaṅkanīyāḥ priyadarśanāḥ pariṇatavayasaḥ prajananakuśalāḥ pragalbhāḥ kṛttanakhāḥ striyaḥ sūtikāṃ sūnṛtābhirvāṇībhirāśvāsayantyaḥ paryupāsīran",
         "iast_ru": "атхаина̄мупастхитагарбха̄м̣ кр̣такаутукаман̇гала̄м̣ пунна̄мапхалахаста̄м̣ свабхйакта̄муш̣н̣одакапариш̣икта̄м̣ сагхр̣та̄м̣ йава̄гӯм̣ па̄йайет татах̣ суракта̄рш̣абхачармапраччхаде мр̣дуни бхӯмиш́айане ш́айа̄на̄мутта̄на̄ма̄бхугнасактхипр̣ш̣т̣ха̄махатава̄сасо 'ш́ан̇канӣйа̄х̣ прийадарш́ана̄х̣ парин̣атавайасах̣ праджананакуш́ала̄х̣ прагалбха̄х̣ кр̣ттанакха̄х̣ стрийах̣ сӯтика̄м̣ сӯнр̣та̄бхирва̄н̣ӣбхира̄ш́ва̄сайантйах̣ парйупа̄сӣран",
-        "text": "Далее, пациентке, у которой роды приблизились, совершившей обряд благоприятного амулета, держащей в руке плод с мужским названием, — умащённой, омытой тёплой водой, — следует дать выпить кашицу-ягью с гхи. Затем, уложив её на мягкое ложе на полу, покрытое шкурой хорошо окрашенного бычьего цвета, лежащую на спине, с согнутыми ногами и спиной, — надёжные, приятные на вид, зрелого возраста, искусные в родовспоможении, опытные женщины, с обрезанными ногтями, в новой одежде, — должны, успокаивая роженицу приятными словами, ухаживать за ней."
+        "text": "Далее, пациентке, у которой роды приблизились, совершившей обряд благоприятного амулета, держащей в руке плод с мужским названием, — умащённой, омытой тёплой водой, — следует дать выпить кашицу-ягью с гхи. Затем, уложив её на мягкое ложе на полу, покрытое шкурой хорошо окрашенного бычьего цвета, лежащую на спине, с согнутыми ногами и спиной, — надёжные, приятные на вид, зрелого возраста, искусные в родовспоможении, опытные женщины, с обрезанными ногтями, в новой одежде, — должны, успокаивая роженицу приятными словами, ухаживать за ней.",
+        "text_en": "Next, for the patient whose delivery has drawn near, who has performed the rite of the auspicious amulet and holds in her hand a fruit with a masculine name, anointed and bathed with warm water, she should be given yavagu with ghee to drink. Then, having laid her on a soft bed on the floor, covered with a well-dyed bull's hide, lying on her back with legs and back bent, reliable, pleasant-looking, mature, skilled in midwifery, experienced women, with trimmed nails and in new clothes, should attend her, soothing the woman in labour with pleasant words."
       },
       {
         "type": "verse",
@@ -20482,7 +20604,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथास्यै दद्यात् कुष्ठैलालाङ्गलीवचाचव्यचित्रकचिरिबिल्वचूर्णमुपाघ्रातुं मुहुर्मुहुः तथा भूर्जपत्रशिंशपासर्जरसान्यतमधूममन्तरान्तरा च पार्श्वपृष्ठकटीसक्थिदेशान् कोष्णेन तैलेनाभ्यज्यानुसुखमस्या मृद्नीयात्",
         "iast": "athāsyai dadyāt kuṣṭhailālāṅgalīvacācavyacitrakaciribilvacūrṇamupāghrātuṃ muhurmuhuḥ tathā bhūrjapatraśiṃśapāsarjarasānyatamadhūmamantarāntarā ca pārśvapṛṣṭhakaṭīsakthideśān koṣṇena tailenābhyajyānusukhamasyā mṛdnīyāt",
         "iast_ru": "атха̄сйаи дадйа̄т куш̣т̣хаила̄ла̄н̇галӣвача̄чавйачитракачирибилвачӯрн̣амупа̄гхра̄тум̣ мухурмухух̣ татха̄ бхӯрджапатраш́им̣ш́апа̄сарджараса̄нйатамадхӯмамантара̄нтара̄ ча па̄рш́вапр̣ш̣т̣хакат̣ӣсактхидеш́а̄н кош̣н̣ена таилена̄бхйаджйа̄нусукхамасйа̄ мр̣днӣйа̄т",
-        "text": "Далее, следует дать ей нюхать снова и снова порошок куштхи, кардамона, лангали, вачи, чавьи, читраки, чирибилвы; а также, время от времени, дым от бересты, шишапы или смолы сарджи; и, умастив слегка тёплым маслом, следует приятно размять ей бок, спину, поясницу, бёдра."
+        "text": "Далее, следует дать ей нюхать снова и снова порошок куштхи, кардамона, лангали, вачи, чавьи, читраки, чирибилвы; а также, время от времени, дым от бересты, шишапы или смолы сарджи; и, умастив слегка тёплым маслом, следует приятно размять ей бок, спину, поясницу, бёдра.",
+        "text_en": "Next, she should be given to smell, again and again, the powder of kushtha, cardamom, langali, vacha, chavya, chitraka and chiribilva; and also, from time to time, the smoke of birch bark, shishapa or sarja resin; and, having anointed with slightly warm oil, one should pleasantly knead her flank, back, loins and thighs."
       },
       {
         "type": "verse",
@@ -20490,7 +20613,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एकमवाक् परिवर्तते गर्भः तस्य लक्षणम् विमुच्य हृदयमुदरमाविशति बस्तिशिरो ऽवगृह्णाति त्वरयन्त्येनामाव्यः न चेदेवं परिवर्तते ततो मुहुर्मुहुर्जृम्भणं चङ्क्रमणं च कारयितव्यानन्तरोक्तं विधिम्",
         "iast": "ekamavāk parivartate garbhaḥ tasya lakṣaṇam vimucya hṛdayamudaramāviśati bastiśiro 'vagṛhṇāti tvarayantyenāmāvyaḥ na cedevaṃ parivartate tato muhurmuhurjṛmbhaṇaṃ caṅkramaṇaṃ ca kārayitavyānantaroktaṃ vidhim",
         "iast_ru": "екамава̄к паривартате гарбхах̣ тасйа лакш̣ан̣ам вимучйа хр̣дайамударама̄виш́ати бастиш́иро 'вагр̣хн̣а̄ти тварайантйена̄ма̄вйах̣ на чедевам̣ паривартате тато мухурмухурджр̣мбхан̣ам̣ чан̇краман̣ам̣ ча ка̄райитавйа̄нантароктам̣ видхим",
-        "text": "Зародыш переворачивается так, что оказывается головой вниз, лишь раз; признак этого: он, отделяясь от верхней части, входит в живот, своей головой достигает мочевого пузыря; и схватки поторапливают её. Если же он не переворачивается таким образом, тогда следует снова и снова заставлять роженицу зевать и ходить, а также применять только что упомянутый метод."
+        "text": "Зародыш переворачивается так, что оказывается головой вниз, лишь раз; признак этого: он, отделяясь от верхней части, входит в живот, своей головой достигает мочевого пузыря; и схватки поторапливают её. Если же он не переворачивается таким образом, тогда следует снова и снова заставлять роженицу зевать и ходить, а также применять только что упомянутый метод.",
+        "text_en": "The embryo turns so that it lies head downward only once; the sign of this: separating from the upper part, it enters the abdomen, its head reaches the urinary bladder; and the labour pains urge her on. If it does not turn in this way, then the woman in labour should be made again and again to yawn and walk, and the method just mentioned should be applied."
       },
       {
         "type": "verse",
@@ -20498,7 +20622,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्ये तु मुसलेनोलूखलं धान्यपूर्णमाहननीयमित्याहुः तत्तु न सम्यक् दारुणव्यायामवर्जनं हि गर्भिण्याः सततमुपदिश्यते विशेषतश्च प्रसवकाले प्रचलितसर्वधातुदोषायाः सौकुमार्यत्वान्नार्या मुसलव्यायामेनेरितो वायुरन्तरं लब्ध्वा प्राणान् हिंस्यादिति",
         "iast": "anye tu musalenolūkhalaṃ dhānyapūrṇamāhananīyamityāhuḥ tattu na samyak dāruṇavyāyāmavarjanaṃ hi garbhiṇyāḥ satatamupadiśyate viśeṣataśca prasavakāle pracalitasarvadhātudoṣāyāḥ saukumāryatvānnāryā musalavyāyāmenerito vāyurantaraṃ labdhvā prāṇān hiṃsyāditi",
         "iast_ru": "анйе ту мусаленолӯкхалам̣ дха̄нйапӯрн̣ама̄хананӣйамитйа̄хух̣ татту на самйак да̄рун̣авйа̄йа̄маварджанам̣ хи гарбхин̣йа̄х̣ сататамупадиш́йате виш́еш̣аташ́ча прасавака̄ле прачалитасарвадха̄тудош̣а̄йа̄х̣ саукума̄рйатва̄нна̄рйа̄ мусалавйа̄йа̄менерито ва̄йурантарам̣ лабдхва̄ пра̄н̣а̄н хим̣сйа̄дити",
-        "text": "Иные же говорят, что следует толочь ступу, наполненную зерном, пестом, чтобы вызвать роды. Но это неправильно; ибо избегание тяжёлого физического упражнения постоянно предписывается беременной; и особенно во время родов, когда все ткани и доши уже и так в движении, — из-за нежности организма женщины, ветер, возбуждённый упражнением с пестом, обретя лазейку, может лишить её жизни."
+        "text": "Иные же говорят, что следует толочь ступу, наполненную зерном, пестом, чтобы вызвать роды. Но это неправильно; ибо избегание тяжёлого физического упражнения постоянно предписывается беременной; и особенно во время родов, когда все ткани и доши уже и так в движении, — из-за нежности организма женщины, ветер, возбуждённый упражнением с пестом, обретя лазейку, может лишить её жизни.",
+        "text_en": "Others say that a mortar filled with grain should be pounded with a pestle to induce delivery. But this is incorrect; for avoidance of heavy physical exertion is constantly prescribed for the pregnant woman; and especially at the time of delivery, when all the tissues and doshas are already in motion, owing to the delicacy of the woman's organism, Vata, aggravated by the exertion with the pestle, having found an opening, may deprive her of life."
       },
       {
         "type": "verse",
@@ -20506,7 +20631,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ परिवृत्तगर्भां पर्यङ्कमेनामारोप्य कुशला स्त्री पादतो ऽस्या निषण्णाया योनिमनुलोममनुसुखमभ्यज्ज्य स्फिजौ पादाभ्यां पीडयेत् योनिं च पुनः पुनः प्रसाधयेत् ब्रूयाच्च सुभगे शनैश्शनैः प्रवाहयस्व सुप्रसन्नस्ते मुखवर्णः पुत्रं जनयिष्यतीति",
         "iast": "atha parivṛttagarbhāṃ paryaṅkamenāmāropya kuśalā strī pādato 'syā niṣaṇṇāyā yonimanulomamanusukhamabhyajjya sphijau pādābhyāṃ pīḍayet yoniṃ ca punaḥ punaḥ prasādhayet brūyācca subhage śanaiśśanaiḥ pravāhayasva suprasannaste mukhavarṇaḥ putraṃ janayiṣyatīti",
         "iast_ru": "атха паривр̣ттагарбха̄м̣ парйан̇камена̄ма̄ропйа куш́ала̄ стрӣ па̄дато 'сйа̄ ниш̣ан̣н̣а̄йа̄ йонимануломаманусукхамабхйаджджйа спхиджау па̄да̄бхйа̄м̣ пӣд̣айет йоним̣ ча пунах̣ пунах̣ праса̄дхайет брӯйа̄чча субхаге ш́анаиш́ш́анаих̣ права̄хайасва супрасаннасте мукхаварн̣ах̣ путрам̣ джанайиш̣йатӣти",
-        "text": "Далее, когда зародыш перевернулся, следует уложить её на ложе; искусная женщина, сидя у её ног, пока роженица сидит, умастив влагалище в направлении выхода, приятно, должна надавливать на ягодицы обеими своими ногами; и следует снова и снова готовить влагалище. И следует сказать: «Милая, медленно тужься; лицо твоё сияет благоприятно — ты родишь сына»."
+        "text": "Далее, когда зародыш перевернулся, следует уложить её на ложе; искусная женщина, сидя у её ног, пока роженица сидит, умастив влагалище в направлении выхода, приятно, должна надавливать на ягодицы обеими своими ногами; и следует снова и снова готовить влагалище. И следует сказать: «Милая, медленно тужься; лицо твоё сияет благоприятно — ты родишь сына».",
+        "text_en": "Next, when the embryo has turned, she should be laid on the bed; a skilled woman, sitting at her feet while the woman in labour is seated, having anointed the vagina in the direction of exit, should gently press on the buttocks with both her feet; and the vagina should be prepared again and again. And she should say: \"Dear one, bear down slowly; your face shines auspiciously, you will bear a son.\""
       },
       {
         "type": "verse",
@@ -20514,7 +20640,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्या तु वामकर्णे ऽस्या मन्त्रमिमं जपेत्",
         "iast": "anyā tu vāmakarṇe 'syā mantramimaṃ japet",
         "iast_ru": "анйа̄ ту ва̄макарн̣е 'сйа̄ мантрамимам̣ джапет",
-        "text": "Другая же женщина должна прошептать ей в левое ухо следующую мантру:"
+        "text": "Другая же женщина должна прошептать ей в левое ухо следующую мантру:",
+        "text_en": "Another woman should whisper to her in the left ear the following mantra:"
       },
       {
         "type": "verse",
@@ -20522,7 +20649,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षितिर्जलं वियत्तेजो वायुर्विष्णुः प्रजापतिः सगर्भां त्वां सदा पातु वैशल्यं वा दधात्वपि",
         "iast": "kṣitirjalaṃ viyattejo vāyurviṣṇuḥ prajāpatiḥ sagarbhāṃ tvāṃ sadā pātu vaiśalyaṃ vā dadhātvapi",
         "iast_ru": "кш̣итирджалам̣ вийаттеджо ва̄йурвиш̣н̣ух̣ праджа̄патих̣ сагарбха̄м̣ тва̄м̣ сада̄ па̄ту ваиш́алйам̣ ва̄ дадха̄твапи",
-        "text": "«Земля, вода, пространство, огонь, ветер, Вишну, Праджапати — да защитят тебя всегда вместе с зародышем, или же да дадут тебе лёгкие роды»."
+        "text": "«Земля, вода, пространство, огонь, ветер, Вишну, Праджапати — да защитят тебя всегда вместе с зародышем, или же да дадут тебе лёгкие роды».",
+        "text_en": "\"May Earth, Water, Space, Fire, Air, Vishnu and Prajapati protect you always together with the embryo, or else grant you an easy delivery.\""
       },
       {
         "type": "verse",
@@ -20530,7 +20658,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रसूष्व त्वमविक्लिष्टमविक्लिष्टा शुभानने कार्तिकेयद्युतिं पुत्रं कार्तिकेयादिरक्षितमिति",
         "iast": "prasūṣva tvamavikliṣṭamavikliṣṭā śubhānane kārtikeyadyutiṃ putraṃ kārtikeyādirakṣitamiti",
         "iast_ru": "прасӯш̣ва твамавиклиш̣т̣амавиклиш̣т̣а̄ ш́убха̄нане ка̄ртикейадйутим̣ путрам̣ ка̄ртикейа̄диракш̣итамити",
-        "text": "«Роди же ты, не страдая, о прекрасноликая, не страдающая, — сына, сияющего подобно Картикее, защищённого Картикеей и другими божествами»."
+        "text": "«Роди же ты, не страдая, о прекрасноликая, не страдающая, — сына, сияющего подобно Картикее, защищённого Картикеей и другими божествами».",
+        "text_en": "\"Bear, then, without suffering, O fair-faced one, without suffering, a son shining like Kartikeya, protected by Kartikeya and the other deities.\""
       },
       {
         "type": "verse",
@@ -20538,7 +20667,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा--- इहामृतञ्च सोमश्च चित्रभानुश्च भामिनि उच्चैश्श्चवाश्च तुरगो मन्दिरे निवसन्तु ते",
         "iast": "tathā--- ihāmṛtañca somaśca citrabhānuśca bhāmini uccaiśścavāśca turago mandire nivasantu te",
         "iast_ru": "татха̄--- иха̄мр̣тан̃ча сомаш́ча читрабха̄нуш́ча бха̄мини уччаиш́ш́чава̄ш́ча тураго мандире нивасанту те",
-        "text": "Также: «Здесь пусть амрита, Сома и Читрабхану, о сияющая, и конь Уччайхшравас пребудут в твоём доме»."
+        "text": "Также: «Здесь пусть амрита, Сома и Читрабхану, о сияющая, и конь Уччайхшравас пребудут в твоём доме».",
+        "text_en": "Also: \"Here may amrita, Soma and Chitrabhanu, O radiant one, and the horse Uchchaihshravas dwell in your house.\""
       },
       {
         "type": "verse",
@@ -20546,7 +20676,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इदममृतमपां समुद्वृतं वै तव लघुगर्भमिमं प्रमुञ्चतु स्त्री तदनलपवनार्कवासवास्ते सह लवणाम्बुधरैर्दिशन्तु शान्तिमिति",
         "iast": "idamamṛtamapāṃ samudvṛtaṃ vai tava laghugarbhamimaṃ pramuñcatu strī tadanalapavanārkavāsavāste saha lavaṇāmbudharairdiśantu śāntimiti",
         "iast_ru": "идамамр̣тамапа̄м̣ самудвр̣там̣ ваи тава лагхугарбхамимам̣ прамун̃чату стрӣ таданалапавана̄ркава̄сава̄сте саха лаван̣а̄мбудхараирдиш́анту ш́а̄нтимити",
-        "text": "«Эта амрита, извлечённая из вод, — да позволит она тебе, женщина, легко освободиться от этого зародыша; и пусть огонь, ветер, солнце, Васавы, вместе с богами солёного океана, дадут тебе покой»."
+        "text": "«Эта амрита, извлечённая из вод, — да позволит она тебе, женщина, легко освободиться от этого зародыша; и пусть огонь, ветер, солнце, Васавы, вместе с богами солёного океана, дадут тебе покой».",
+        "text_en": "\"May this amrita, drawn from the waters, enable you, woman, to be freed easily from this embryo; and may fire, wind, the sun, the Vasus, together with the gods of the salt ocean, grant you peace.\""
       },
       {
         "type": "verse",
@@ -20554,7 +20685,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा परा ऽनुशिष्यात् अनागतायां वेदनायां मा प्रवाहिष्ठाः अकालप्रवाहणं हि विण्मूत्रादिवेगानामिवोदीरणमनर्थकरमहितं च गर्भस्य श्वासकासशोषकुब्जतादिकारित्वात् तथा तेषामेव विधारणमिव वेदनायामप्रवाहणमुपघाताय ततो यथोक्तं कुरुष्व",
         "iast": "tathā parā 'nuśiṣyāt anāgatāyāṃ vedanāyāṃ mā pravāhiṣṭhāḥ akālapravāhaṇaṃ hi viṇmūtrādivegānāmivodīraṇamanarthakaramahitaṃ ca garbhasya śvāsakāsaśoṣakubjatādikāritvāt tathā teṣāmeva vidhāraṇamiva vedanāyāmapravāhaṇamupaghātāya tato yathoktaṃ kuruṣva",
         "iast_ru": "татха̄ пара̄ 'нуш́иш̣йа̄т ана̄гата̄йа̄м̣ ведана̄йа̄м̣ ма̄ права̄хиш̣т̣ха̄х̣ ака̄лаправа̄хан̣ам̣ хи вин̣мӯтра̄дивега̄на̄миводӣран̣аманартхакарамахитам̣ ча гарбхасйа ш́ва̄сака̄саш́ош̣акубджата̄дика̄ритва̄т татха̄ теш̣а̄мева видха̄ран̣амива ведана̄йа̄маправа̄хан̣амупагха̄та̄йа тато йатхоктам̣ куруш̣ва",
-        "text": "Далее, другая женщина должна наставить её: «Пока боль ещё не наступила, не тужься; ибо преждевременное натуживание, подобно принуждению позывов кала-мочи и подобного, — вредно и неблагоприятно, поскольку вызывает у зародыша одышку, кашель, истощение, горбатость и подобное. Подобным же образом, воздержание от натуживания при уже наступившей боли, подобно сдерживанию тех же позывов, — также вредно. Поэтому поступай, как сказано:"
+        "text": "Далее, другая женщина должна наставить её: «Пока боль ещё не наступила, не тужься; ибо преждевременное натуживание, подобно принуждению позывов кала-мочи и подобного, — вредно и неблагоприятно, поскольку вызывает у зародыша одышку, кашель, истощение, горбатость и подобное. Подобным же образом, воздержание от натуживания при уже наступившей боли, подобно сдерживанию тех же позывов, — также вредно. Поэтому поступай, как сказано:",
+        "text_en": "Next, another woman should instruct her: \"Do not bear down until the pain has come; for premature straining, like forcing the urges of faeces, urine and the like, is harmful and inauspicious, since it causes in the embryo dyspnoea, cough, emaciation, hunchback and the like. Likewise, refraining from bearing down when pain has already come, like holding back those same urges, is also harmful. Therefore act as directed:"
       },
       {
         "type": "verse",
@@ -20562,7 +20694,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शनैश्शनैश्च पूर्वं प्रवाहिष्ठाः निर्गमे बाढं गर्भस्य योनिमुखप्रतिपत्तौ बाढतरमाप्रसवादिति तस्यास्तु प्रवाहमानायाः स्त्रियः शब्दं कुर्युः प्रजाता प्रजाता धन्यं धन्यं पुत्रमिति तथास्या हर्षेण प्राणा आप्यायन्ते",
         "iast": "śanaiśśanaiśca pūrvaṃ pravāhiṣṭhāḥ nirgame bāḍhaṃ garbhasya yonimukhapratipattau bāḍhataramāprasavāditi tasyāstu pravāhamānāyāḥ striyaḥ śabdaṃ kuryuḥ prajātā prajātā dhanyaṃ dhanyaṃ putramiti tathāsyā harṣeṇa prāṇā āpyāyante",
         "iast_ru": "ш́анаиш́ш́анаиш́ча пӯрвам̣ права̄хиш̣т̣ха̄х̣ ниргаме ба̄д̣хам̣ гарбхасйа йонимукхапратипаттау ба̄д̣хатарама̄прасава̄дити тасйа̄сту права̄хама̄на̄йа̄х̣ стрийах̣ ш́абдам̣ курйух̣ праджа̄та̄ праджа̄та̄ дханйам̣ дханйам̣ путрамити татха̄сйа̄ харш̣ен̣а пра̄н̣а̄ а̄пйа̄йанте",
-        "text": "сначала тужься медленно; при выходе — сильно; когда голова зародыша достигает устья влагалища — ещё сильнее, вплоть до самих родов». Женщины, пока она тужится, должны восклицать: «Родила, родила! Благословенного, благословенного сына!» — так, благодаря этой радости, её жизненные силы укрепляются."
+        "text": "сначала тужься медленно; при выходе — сильно; когда голова зародыша достигает устья влагалища — ещё сильнее, вплоть до самих родов». Женщины, пока она тужится, должны восклицать: «Родила, родила! Благословенного, благословенного сына!» — так, благодаря этой радости, её жизненные силы укрепляются.",
+        "text_en": "at first bear down slowly; at the exit, strongly; when the head of the embryo reaches the mouth of the vagina, still more strongly, right up to the delivery itself.\" While she is bearing down, the women should exclaim: \"She has given birth, she has given birth! A blessed, blessed son!\" so that, through this joy, her vital forces are strengthened."
       },
       {
         "type": "verse",
@@ -20570,7 +20703,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भसङ्गे तु योनिं धूपयेत् कृष्णसर्पनिर्मोकेन पिण्डीतकेन वा बध्नीयाच्च हिरण्यपुष्पीमूलं हस्तपादे धारयेच्च सुवर्चलां विशल्यां वा",
         "iast": "garbhasaṅge tu yoniṃ dhūpayet kṛṣṇasarpanirmokena piṇḍītakena vā badhnīyācca hiraṇyapuṣpīmūlaṃ hastapāde dhārayecca suvarcalāṃ viśalyāṃ vā",
         "iast_ru": "гарбхасан̇ге ту йоним̣ дхӯпайет кр̣ш̣н̣асарпанирмокена пин̣д̣ӣтакена ва̄ бадхнӣйа̄чча хиран̣йапуш̣пӣмӯлам̣ хастапа̄де дха̄райечча суварчала̄м̣ виш́алйа̄м̣ ва̄",
-        "text": "При же задержке зародыша, следует окурить влагалище сброшенной кожей чёрной змеи или пиндитакой; и следует привязать корень хираньяпушпи к руке и ноге; и следует носить амулет из сувархалы или вишальи."
+        "text": "При же задержке зародыша, следует окурить влагалище сброшенной кожей чёрной змеи или пиндитакой; и следует привязать корень хираньяпушпи к руке и ноге; и следует носить амулет из сувархалы или вишальи.",
+        "text_en": "In retention of the embryo, the vagina should be fumigated with the cast-off skin of a black snake or with pindataka; and the root of hiranyapushpi should be tied to the hand and foot; and an amulet of suvarchala or vishalya should be worn."
       },
       {
         "type": "verse",
@@ -20578,7 +20712,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ प्रसूताया न चेदपरा पतति ततो दक्षिणेन पाणिना नाभेरुपरिष्टाद्बलवदुपपीड्य अन्येन पृष्ठत उपसङ्गृह्य विधुनुयात्",
         "iast": "atha prasūtāyā na cedaparā patati tato dakṣiṇena pāṇinā nābherupariṣṭādbalavadupapīḍya anyena pṛṣṭhata upasaṅgṛhya vidhunuyāt",
         "iast_ru": "атха прасӯта̄йа̄ на чедапара̄ патати тато дакш̣ин̣ена па̄н̣ина̄ на̄бхерупариш̣т̣а̄дбалавадупапӣд̣йа анйена пр̣ш̣т̣хата упасан̇гр̣хйа видхунуйа̄т",
-        "text": "Далее, если у родившей плацента не отходит, тогда следует сильно надавить правой рукой выше пупка, а другой рукой, поддерживая со спины, встряхнуть её."
+        "text": "Далее, если у родившей плацента не отходит, тогда следует сильно надавить правой рукой выше пупка, а другой рукой, поддерживая со спины, встряхнуть её.",
+        "text_en": "Next, if the placenta of the woman who has given birth does not come away, then one should press strongly with the right hand above the navel, and with the other hand, supporting from the back, shake her."
       },
       {
         "type": "verse",
@@ -20586,7 +20721,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पार्ष्ण्या वा श्रोणीमाकोटयेत् स्फिजौ वोपसंगृह्य सुपीडितं निपीडयेत् वेण्याङ्गुल्या वा केशवेष्टितया च कण्ठतालू परामृशेत्",
         "iast": "pārṣṇyā vā śroṇīmākoṭayet sphijau vopasaṃgṛhya supīḍitaṃ nipīḍayet veṇyāṅgulyā vā keśaveṣṭitayā ca kaṇṭhatālū parāmṛśet",
         "iast_ru": "па̄рш̣н̣йа̄ ва̄ ш́рон̣ӣма̄кот̣айет спхиджау вопасам̣гр̣хйа супӣд̣итам̣ нипӣд̣айет вен̣йа̄н̇гулйа̄ ва̄ кеш́авеш̣т̣итайа̄ ча кан̣т̣хата̄лӯ пара̄мр̣ш́ет",
-        "text": "Или же следует постучать пяткой по тазу; или, обхватив ягодицы, надавить с силой; или же, обвернув палец волосами в косу, следует коснуться горла и нёба, чтобы вызвать рвотный рефлекс."
+        "text": "Или же следует постучать пяткой по тазу; или, обхватив ягодицы, надавить с силой; или же, обвернув палец волосами в косу, следует коснуться горла и нёба, чтобы вызвать рвотный рефлекс.",
+        "text_en": "Or else one should tap the heel against the pelvis; or, clasping the buttocks, press with force; or else, having wrapped a finger in a plait of hair, one should touch the throat and palate to induce vomiting."
       },
       {
         "type": "verse",
@@ -20594,7 +20730,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भूर्जपत्रकाचमणिसर्पनिर्मोकैश्च योनिं धूपयेत् भूर्जगुग्गुलुभ्यां वा शालिमूलसिद्धेन वा सर्पिषा योनिमभ्यज्य कटुकालाबुजालिनीनिम्बसर्पनिर्मोकैर्धूपयेत् अनभ्यक्तां वा कटुतैलमिश्रैः कल्कीकृतैर्वा तैलाक्तैरालिम्पेत् गुडनागरकल्केन वा तदेव वा भक्षयेत् लाङ्गलीमूलकल्केन वा पाणिमुदरं चालिम्पेत् महावृक्षक्षीरं वा मूर्धन्यनुषेचयेत्",
         "iast": "bhūrjapatrakācamaṇisarpanirmokaiśca yoniṃ dhūpayet bhūrjaguggulubhyāṃ vā śālimūlasiddhena vā sarpiṣā yonimabhyajya kaṭukālābujālinīnimbasarpanirmokairdhūpayet anabhyaktāṃ vā kaṭutailamiśraiḥ kalkīkṛtairvā tailāktairālimpet guḍanāgarakalkena vā tadeva vā bhakṣayet lāṅgalīmūlakalkena vā pāṇimudaraṃ cālimpet mahāvṛkṣakṣīraṃ vā mūrdhanyanuṣecayet",
         "iast_ru": "бхӯрджапатрака̄чаман̣исарпанирмокаиш́ча йоним̣ дхӯпайет бхӯрджагуггулубхйа̄м̣ ва̄ ш́а̄лимӯласиддхена ва̄ сарпиш̣а̄ йонимабхйаджйа кат̣ука̄ла̄буджа̄линӣнимбасарпанирмокаирдхӯпайет анабхйакта̄м̣ ва̄ кат̣утаиламиш́раих̣ калкӣкр̣таирва̄ таила̄ктаира̄лимпет гуд̣ана̄гаракалкена ва̄ тадева ва̄ бхакш̣айет ла̄н̇галӣмӯлакалкена ва̄ па̄н̣имударам̣ ча̄лимпет маха̄вр̣кш̣акш̣ӣрам̣ ва̄ мӯрдханйануш̣ечайет",
-        "text": "Следует окурить влагалище берёзовой корой, стеклом или горным хрусталём, сброшенной змеиной кожей; или же берёзой и гуггулу; или, умастив влагалище гхи, сваренным с корнем шали, окурить его горькой тыквой-горлянкой, джалини, нимбой и сброшенной змеиной кожей. Или же, не умащая её, следует обмазать маслами, смешанными с горьким маслом, или растёртыми в пасту; или намазать маслом. Или следует дать ей пасту патоки и сушёного имбиря; или же съесть это же самое. Или же следует обмазать руку и живот пастой корня лангали. Или же следует полить голову соком млечного дерева."
+        "text": "Следует окурить влагалище берёзовой корой, стеклом или горным хрусталём, сброшенной змеиной кожей; или же берёзой и гуггулу; или, умастив влагалище гхи, сваренным с корнем шали, окурить его горькой тыквой-горлянкой, джалини, нимбой и сброшенной змеиной кожей. Или же, не умащая её, следует обмазать маслами, смешанными с горьким маслом, или растёртыми в пасту; или намазать маслом. Или следует дать ей пасту патоки и сушёного имбиря; или же съесть это же самое. Или же следует обмазать руку и живот пастой корня лангали. Или же следует полить голову соком млечного дерева.",
+        "text_en": "One should fumigate the vagina with birch bark, glass or rock crystal, or a cast-off snake skin; or else with birch and guggulu; or, having anointed the vagina with ghee cooked with the root of shali, fumigate it with bitter gourd, jalini, nimba and a cast-off snake skin. Or else, without anointing it, one should smear it with oils mixed with bitter oil, or ground into a paste; or anoint with oil. Or one should give her a paste of jaggery and dry ginger; or else she should eat the same. Or else one should smear the hand and abdomen with a paste of the root of langali. Or else one should pour over the head the juice of a milky tree."
       },
       {
         "type": "verse",
@@ -20602,7 +20739,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कुष्ठतालीसकल्कं बिल्वबल्वजयूषमैरेयासवसुरामण्डान्यतमेन व्योषतीक्ष्णोष्णेन वाम्लेन कुलत्थरसेन मधुकपिप्पलीसम्पाकेन वा पाययेत् पिप्पल्येलाकोलविबिडचव्यचित्रकोपकुञ्चिकाकल्कं वा खरस्य वृषभस्य वा जीवतो दक्षिणं कर्णमुद्धृत्य बिल्वकुलत्थबल्वजयूषादीनामाप्लावनानामन्यतमे प्रक्षिप्य मुहूर्तस्थितमुद्धृत्य तदाप्लावनं पाययेत्",
         "iast": "kuṣṭhatālīsakalkaṃ bilvabalvajayūṣamaireyāsavasurāmaṇḍānyatamena vyoṣatīkṣṇoṣṇena vāmlena kulattharasena madhukapippalīsampākena vā pāyayet pippalyelākolavibiḍacavyacitrakopakuñcikākalkaṃ vā kharasya vṛṣabhasya vā jīvato dakṣiṇaṃ karṇamuddhṛtya bilvakulatthabalvajayūṣādīnāmāplāvanānāmanyatame prakṣipya muhūrtasthitamuddhṛtya tadāplāvanaṃ pāyayet",
         "iast_ru": "куш̣т̣хата̄лӣсакалкам̣ билвабалваджайӯш̣амаирейа̄савасура̄ман̣д̣а̄нйатамена вйош̣атӣкш̣н̣ош̣н̣ена ва̄млена кулаттхарасена мадхукапиппалӣсампа̄кена ва̄ па̄йайет пиппалйела̄колавибид̣ачавйачитракопакун̃чика̄калкам̣ ва̄ кхарасйа вр̣ш̣абхасйа ва̄ джӣвато дакш̣ин̣ам̣ карн̣амуддхр̣тйа билвакулаттхабалваджайӯш̣а̄дӣна̄ма̄пла̄вана̄на̄манйатаме пракш̣ипйа мухӯртастхитамуддхр̣тйа тада̄пла̄ванам̣ па̄йайет",
-        "text": "Следует дать выпить пасту куштхи и талиси с супом билвы и бальваджи, или одним из напитков — эйрея, асава, или сура-манда; или же острым, горячим вьошей, кислым соком кулаттхи, или отваром солодки с пиппали. Или же пасту пиппали, кардамона, колы, вибиды, чавьи, читраки, упакунчики; взяв правое ухо живого осла или быка, погрузив его в один из напитков — суп билвы, кулаттхи, бальваджи и подобное, — оставив его на мухурту, затем вынув, следует дать выпить этот напиток."
+        "text": "Следует дать выпить пасту куштхи и талиси с супом билвы и бальваджи, или одним из напитков — эйрея, асава, или сура-манда; или же острым, горячим вьошей, кислым соком кулаттхи, или отваром солодки с пиппали. Или же пасту пиппали, кардамона, колы, вибиды, чавьи, читраки, упакунчики; взяв правое ухо живого осла или быка, погрузив его в один из напитков — суп билвы, кулаттхи, бальваджи и подобное, — оставив его на мухурту, затем вынув, следует дать выпить этот напиток.",
+        "text_en": "One should give to drink a paste of kushtha and talisa with a soup of bilva and balvaja, or one of the drinks, eraya, asava or sura-manda; or else a pungent, hot vyosha, the sour juice of kulattha, or a decoction of liquorice with pippali. Or else a paste of pippali, cardamom, kola, vibida, chavya, chitraka and upakunchika; having taken the right ear of a living donkey or bull, immersed it in one of the drinks, a soup of bilva, kulattha, balvaja and the like, left it for a muhurta, and then removed it, one should give this drink to drink."
       },
       {
         "type": "verse",
@@ -20610,7 +20748,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कुष्ठैलाकल्कं वा सुरया अर्कालर्ककषायं वा प्रजातां सुरोन्मिश्रम् कुष्ठलाङ्गलिकीमूलककल्कं वा मद्यमूत्रान्यतमेन वत्सकादिचूर्णं वा मद्येन शतपुष्पाकुष्ठमदनहिङ्गुसिद्धस्य च तैलस्य पिचुं ग्राहयेत् ततश्चैनामनुवासनकाले ऽनुवासयेत्",
         "iast": "kuṣṭhailākalkaṃ vā surayā arkālarkakaṣāyaṃ vā prajātāṃ suronmiśram kuṣṭhalāṅgalikīmūlakakalkaṃ vā madyamūtrānyatamena vatsakādicūrṇaṃ vā madyena śatapuṣpākuṣṭhamadanahiṅgusiddhasya ca tailasya picuṃ grāhayet tataścaināmanuvāsanakāle 'nuvāsayet",
         "iast_ru": "куш̣т̣хаила̄калкам̣ ва̄ сурайа̄ арка̄ларкакаш̣а̄йам̣ ва̄ праджа̄та̄м̣ суронмиш́рам куш̣т̣хала̄н̇галикӣмӯлакакалкам̣ ва̄ мадйамӯтра̄нйатамена ватсака̄дичӯрн̣ам̣ ва̄ мадйена ш́атапуш̣па̄куш̣т̣хамаданахин̇гусиддхасйа ча таиласйа пичум̣ гра̄хайет таташ́чаина̄манува̄санака̄ле 'нува̄сайет",
-        "text": "Или же следует дать пасту куштхи с кардамоном, с вином; или отвар арки и алар-ки, смешанный с вином, — родившей женщине; или пасту куштхи с корнем лангалики, с одним из видов — вином или мочой; или порошок ватсаки и подобного, с вином. Следует ввести тампон с маслом, сваренным с шатапушпой, куштхой, маданой, хингу. Затем следует подвергнуть её анувасане в подходящее время."
+        "text": "Или же следует дать пасту куштхи с кардамоном, с вином; или отвар арки и алар-ки, смешанный с вином, — родившей женщине; или пасту куштхи с корнем лангалики, с одним из видов — вином или мочой; или порошок ватсаки и подобного, с вином. Следует ввести тампон с маслом, сваренным с шатапушпой, куштхой, маданой, хингу. Затем следует подвергнуть её анувасане в подходящее время.",
+        "text_en": "Or else one should give a paste of kushtha with cardamom, with wine; or a decoction of arka and alarka mixed with wine to the woman who has given birth; or a paste of kushtha with the root of langalika, with one of the liquids, wine or urine; or a powder of vatsaka and the like, with wine. A tampon with oil cooked with shatapushpa, kushtha, madana and hingu should be introduced. Then one should administer anuvasana at a suitable time."
       },
       {
         "type": "verse",
@@ -20618,7 +20757,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बिल्वबल्बजयूषाद्याप्लावनैश्च फलजीमूतकेक्ष्वाकुधामार्गवकुटजार्ककृतवेधनहस्तिपर्ण्यभीरूपहितैरास्थापयेत् सिद्धार्थककुष्ठलाङ्गलिकीमहावृक्षक्षीरमिश्रेण वा सुरामण्डेन शाल्मलीवृन्तानि वा स्विन्नान्यापोथ्य पञ्चमूलकषाये विमर्दयेत् तेन च पूतेन स्नेहवता फलादियुक्तेन",
         "iast": "bilvabalbajayūṣādyāplāvanaiśca phalajīmūtakekṣvākudhāmārgavakuṭajārkakṛtavedhanahastiparṇyabhīrūpahitairāsthāpayet siddhārthakakuṣṭhalāṅgalikīmahāvṛkṣakṣīramiśreṇa vā surāmaṇḍena śālmalīvṛntāni vā svinnānyāpothya pañcamūlakaṣāye vimardayet tena ca pūtena snehavatā phalādiyuktena",
         "iast_ru": "билвабалбаджайӯш̣а̄дйа̄пла̄ванаиш́ча пхаладжӣмӯтакекш̣ва̄кудха̄ма̄ргавакут̣аджа̄ркакр̣таведханахастипарн̣йабхӣрӯпахитаира̄стха̄пайет сиддха̄ртхакакуш̣т̣хала̄н̇галикӣмаха̄вр̣кш̣акш̣ӣрамиш́рен̣а ва̄ сура̄ман̣д̣ена ш́а̄лмалӣвр̣нта̄ни ва̄ свинна̄нйа̄потхйа пан̃чамӯлакаш̣а̄йе вимардайет тена ча пӯтена снехавата̄ пхала̄дийуктена",
-        "text": "Следует провести астхапану напитками, приготовленными с супом билвы, бальваджи и подобного, с добавлением плода джимутаки, экшваку, дхамарги, кутаджи, арки, критаведханы, хастипарни, абхиру. Или же смесью сиддхартхаки, куштхи, лангалики, сока махавркши, с сура-мандой. Или же следует растолочь распаренные стебли шалмали и растереть их в отваре панчамулы; и этим процеженным составом, смешанным с умащением и плодом маданы и подобным, провести астхапану."
+        "text": "Следует провести астхапану напитками, приготовленными с супом билвы, бальваджи и подобного, с добавлением плода джимутаки, экшваку, дхамарги, кутаджи, арки, критаведханы, хастипарни, абхиру. Или же смесью сиддхартхаки, куштхи, лангалики, сока махавркши, с сура-мандой. Или же следует растолочь распаренные стебли шалмали и растереть их в отваре панчамулы; и этим процеженным составом, смешанным с умащением и плодом маданы и подобным, провести астхапану.",
+        "text_en": "Asthapana should be given with drinks prepared with a soup of bilva, balvaja and the like, with the addition of the fruit of jimutaka, ikshvaku, dhamarga, kutaja, arka, kritavedhana, hastiparni and abhiru. Or else with a mixture of siddharthaka, kushtha, langalika and the juice of mahavriksha, with sura-manda. Or else one should pound the steamed stalks of shalmali and grind them in a decoction of the panchamula; and with this strained mixture, combined with unction and madana fruit and the like, administer asthapana."
       },
       {
         "type": "verse",
@@ -20626,7 +20766,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथोक्तास्थापनद्रव्यसिद्धेन कटुतैलोत्तरबस्तिं दद्यात् शिग्रुसुमुखमरिचाजाजीचित्रककल्कक्षीरगोमूत्रसिद्धेन वा कटुतैलेनानुवासयेत् उमाशाल्मलीपिच्छया वा सघृतया योनिं पूरयित्वा विधुनुयात् स्निग्धेन वा कृत्तनखेन पाणिना नालानुसारतो ऽपहरेत्",
         "iast": "yathoktāsthāpanadravyasiddhena kaṭutailottarabastiṃ dadyāt śigrusumukhamaricājājīcitrakakalkakṣīragomūtrasiddhena vā kaṭutailenānuvāsayet umāśālmalīpicchayā vā saghṛtayā yoniṃ pūrayitvā vidhunuyāt snigdhena vā kṛttanakhena pāṇinā nālānusārato 'paharet",
         "iast_ru": "йатхокта̄стха̄панадравйасиддхена кат̣утаилоттарабастим̣ дадйа̄т ш́игрусумукхамарича̄джа̄джӣчитракакалкакш̣ӣрагомӯтрасиддхена ва̄ кат̣утаилена̄нува̄сайет ума̄ш́а̄лмалӣпиччхайа̄ ва̄ сагхр̣тайа̄ йоним̣ пӯрайитва̄ видхунуйа̄т снигдхена ва̄ кр̣ттанакхена па̄н̣ина̄ на̄ла̄нуса̄рато 'пахарет",
-        "text": "Следует дать уттара-басти острого масла, сваренного с вышеупомянутыми веществами для астхапаны; или же провести анувасану острым маслом, сваренным с пастой шигру, сумукхи, чёрного перца, тмина, читраки, с молоком и коровьей мочой. Или же, наполнив влагалище слизью льна или шалмали с гхи, следует встряхнуть её. Или же, умащённой рукой с обрезанными ногтями, следует извлечь плаценту, следуя вдоль пуповины."
+        "text": "Следует дать уттара-басти острого масла, сваренного с вышеупомянутыми веществами для астхапаны; или же провести анувасану острым маслом, сваренным с пастой шигру, сумукхи, чёрного перца, тмина, читраки, с молоком и коровьей мочой. Или же, наполнив влагалище слизью льна или шалмали с гхи, следует встряхнуть её. Или же, умащённой рукой с обрезанными ногтями, следует извлечь плаценту, следуя вдоль пуповины.",
+        "text_en": "One should give an uttara basti of pungent oil cooked with the substances mentioned above for asthapana; or else administer anuvasana with pungent oil cooked with a paste of shigru, sumukha, black pepper, cumin and chitraka, with milk and cow's urine. Or else, having filled the vagina with the mucilage of flax or shalmali with ghee, one should shake her. Or else, with an anointed hand with trimmed nails, one should extract the placenta, following along the umbilical cord."
       },
       {
         "type": "verse",
@@ -20634,7 +20775,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रजातायां चेद्बस्तिमूर्धोदरेषु शूलं मक्कलाख्यं स्यात्तत्र यवक्षारचूर्णं सर्पिषा सुखोष्णोदकेन वा पिबेत् वरणादिं वा सपञ्चकोलमेलाप्रतीवापम्",
         "iast": "prajātāyāṃ cedbastimūrdhodareṣu śūlaṃ makkalākhyaṃ syāttatra yavakṣāracūrṇaṃ sarpiṣā sukhoṣṇodakena vā pibet varaṇādiṃ vā sapañcakolamelāpratīvāpam",
         "iast_ru": "праджа̄та̄йа̄м̣ чедбастимӯрдходареш̣у ш́ӯлам̣ маккала̄кхйам̣ сйа̄ттатра йавакш̣а̄рачӯрн̣ам̣ сарпиш̣а̄ сукхош̣н̣одакена ва̄ пибет варан̣а̄дим̣ ва̄ сапан̃чаколамела̄пратӣва̄пам",
-        "text": "Если же у родившей возникает боль, называемая «маккала», в мочевом пузыре, голове, животе, — в этом случае следует пить порошок ячменной щёлочи с гхи или приятно тёплой водой; или отвар варана и подобного, с добавлением панчаколы и кардамона."
+        "text": "Если же у родившей возникает боль, называемая «маккала», в мочевом пузыре, голове, животе, — в этом случае следует пить порошок ячменной щёлочи с гхи или приятно тёплой водой; или отвар варана и подобного, с добавлением панчаколы и кардамона.",
+        "text_en": "If in the woman who has given birth there arises the pain called \"makkala\" in the urinary bladder, head and abdomen, in this case one should drink a powder of barley alkali with ghee or pleasantly warm water; or a decoction of varana and the like, with the addition of panchakola and cardamom."
       },
       {
         "type": "verse",
@@ -20642,7 +20784,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथवा वीरतरादिमूषरादिप्रतीवापम् लवणचूर्णं वा वत्सकादिनिर्यूहेण वत्सकादिं वा मदिरया अंशुमतीद्वयक्वाथेन वा मरिचभद्रदारुकल्कम् भार्ङ्गीनागरदेवदारुकल्कं वोष्णाम्भसा पुराणगुडं वा त्रिकटुत्रिजातकधनिकाचूर्णसंसृष्टं भक्षयेत्",
         "iast": "athavā vīratarādimūṣarādipratīvāpam lavaṇacūrṇaṃ vā vatsakādiniryūheṇa vatsakādiṃ vā madirayā aṃśumatīdvayakvāthena vā maricabhadradārukalkam bhārṅgīnāgaradevadārukalkaṃ voṣṇāmbhasā purāṇaguḍaṃ vā trikaṭutrijātakadhanikācūrṇasaṃsṛṣṭaṃ bhakṣayet",
         "iast_ru": "атхава̄ вӣратара̄димӯш̣ара̄дипратӣва̄пам лаван̣ачӯрн̣ам̣ ва̄ ватсака̄динирйӯхен̣а ватсака̄дим̣ ва̄ мадирайа̄ ам̣ш́уматӣдвайаква̄тхена ва̄ маричабхадрада̄рукалкам бха̄рн̇гӣна̄гарадевада̄рукалкам̣ вош̣н̣а̄мбхаса̄ пура̄н̣агуд̣ам̣ ва̄ трикат̣утриджа̄такадханика̄чӯрн̣асам̣ср̣ш̣т̣ам̣ бхакш̣айет",
-        "text": "Или же отвар виратары и подобного, с добавлением мушары и подобного; или же порошок соли; или ватсаку и подобное, с отваром отрубей ватсаки; или же с вином; или отваром обоих видов амшумати; пасту чёрного перца и деодара; или пасту бхаргхи, сушёного имбиря, деодара, с тёплой водой. Или же следует съесть старую патоку, смешанную с порошком трикату, триджатаки, кориандра."
+        "text": "Или же отвар виратары и подобного, с добавлением мушары и подобного; или же порошок соли; или ватсаку и подобное, с отваром отрубей ватсаки; или же с вином; или отваром обоих видов амшумати; пасту чёрного перца и деодара; или пасту бхаргхи, сушёного имбиря, деодара, с тёплой водой. Или же следует съесть старую патоку, смешанную с порошком трикату, триджатаки, кориандра.",
+        "text_en": "Or else a decoction of viratara and the like, with the addition of musha and the like; or else a powder of salt; or vatsaka and the like, with a decoction of vatsaka bran; or else with wine; or a decoction of both kinds of amshumati; a paste of black pepper and devadaru; or a paste of bharngi, dry ginger and devadaru, with warm water. Or else one should eat old jaggery mixed with the powder of trikatu, trijataka and coriander."
       },
       {
         "type": "verse",
@@ -20650,7 +20793,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्याश्चेत् स्वस्थानतो योनिर्भ्रश्येत् ततो यस्य कस्यचिच्छोणितेनाभ्यज्य योनिं यथास्थानं कुशला स्त्री निवेशयेत् निविष्टां चाशोकरोहिणीबर्हिषोशीरप्रियङ्गुदेवदारुकल्कविपक्वेन तैलेन बहुशः स्वेदयेत् पूरयेत् ब्रूयाच्च गच्छ सुभगे स्वस्थानमिति",
         "iast": "tasyāścet svasthānato yonirbhraśyet tato yasya kasyacicchoṇitenābhyajya yoniṃ yathāsthānaṃ kuśalā strī niveśayet niviṣṭāṃ cāśokarohiṇībarhiṣośīrapriyaṅgudevadārukalkavipakvena tailena bahuśaḥ svedayet pūrayet brūyācca gaccha subhage svasthānamiti",
         "iast_ru": "тасйа̄ш́чет свастха̄нато йонирбхраш́йет тато йасйа касйачиччхон̣итена̄бхйаджйа йоним̣ йатха̄стха̄нам̣ куш́ала̄ стрӣ нивеш́айет нивиш̣т̣а̄м̣ ча̄ш́окарохин̣ӣбархиш̣ош́ӣраприйан̇гудевада̄рукалкавипаквена таилена бахуш́ах̣ сведайет пӯрайет брӯйа̄чча гаччха субхаге свастха̄намити",
-        "text": "Если же у неё влагалище выпадает из своего места, — тогда, умастив его кровью какого-либо животного, искусная женщина должна вправить влагалище на его место. И, когда оно вправлено, следует многократно прогревать его маслом, сваренным с пастой ашоки, рохини, павлиньего пера, уширы, приянгу, деодара; наполнить его этим маслом; и сказать: «Иди, милая, на своё место»."
+        "text": "Если же у неё влагалище выпадает из своего места, — тогда, умастив его кровью какого-либо животного, искусная женщина должна вправить влагалище на его место. И, когда оно вправлено, следует многократно прогревать его маслом, сваренным с пастой ашоки, рохини, павлиньего пера, уширы, приянгу, деодара; наполнить его этим маслом; и сказать: «Иди, милая, на своё место».",
+        "text_en": "If in her the vagina prolapses from its place, then, having anointed it with the blood of some animal, a skilled woman should replace the vagina in its position. And when it has been replaced, one should repeatedly warm it with oil cooked with a paste of ashoka, rohini, peacock feather, ushira, priyangu and devadaru; fill it with this oil; and say: \"Go, dear one, to your own place.\""
       },
       {
         "type": "verse",
@@ -20658,7 +20802,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्वच्चान्यतमा स्त्री जातमात्रमेव बालं बालोपचरणीयेन विधिनोपपादयेत् तमुपदेक्ष्यते तूतारेषु अथ सूतिकां बलातैलेनाभ्यज्यात् बुभुक्षितां च पञ्चकोलचूर्णेन यवान्युपकुञ्चिकाचव्यचित्रकव्योषसैन्धवचूर्णेन वा युक्तामहःपरिणामिनीं यथासात्म्यं स्नेहमात्रां पाययेत् स्नेहायोग्यां वातहरौषधक्वाथं ह्रस्वपज्चमूलक्वाथं वा",
         "iast": "tadvaccānyatamā strī jātamātrameva bālaṃ bālopacaraṇīyena vidhinopapādayet tamupadekṣyate tūtāreṣu atha sūtikāṃ balātailenābhyajyāt bubhukṣitāṃ ca pañcakolacūrṇena yavānyupakuñcikācavyacitrakavyoṣasaindhavacūrṇena vā yuktāmahaḥpariṇāminīṃ yathāsātmyaṃ snehamātrāṃ pāyayet snehāyogyāṃ vātaharauṣadhakvāthaṃ hrasvapajcamūlakvāthaṃ vā",
         "iast_ru": "тадвачча̄нйатама̄ стрӣ джа̄тама̄трамева ба̄лам̣ ба̄лопачаран̣ӣйена видхинопапа̄дайет тамупадекш̣йате тӯта̄реш̣у атха сӯтика̄м̣ бала̄таилена̄бхйаджйа̄т бубхукш̣ита̄м̣ ча пан̃чаколачӯрн̣ена йава̄нйупакун̃чика̄чавйачитракавйош̣асаиндхавачӯрн̣ена ва̄ йукта̄махах̣парин̣а̄минӣм̣ йатха̄са̄тмйам̣ снехама̄тра̄м̣ па̄йайет снеха̄йогйа̄м̣ ва̄тахарауш̣адхаква̄тхам̣ храсвападжчамӯлаква̄тхам̣ ва̄",
-        "text": "Подобным же образом, другая женщина должна позаботиться о только что рождённом ребёнке согласно методу ухода за детьми, — он будет изложен далее, в разделе о новорождённых. Далее, родившую следует умастить маслом балы; и, когда она проголодается, следует, соответственно её конституции, дать ей выпить надлежащую дозу умащения с порошком панчаколы, ячменём с упакунчикой, чавьей, читракой, вьошей, каменной солью, — дозу, которая переваривается в течение дня. Женщине, не подходящей для умащения, — отвар устраняющих ветер трав или отвар малой панчамулы."
+        "text": "Подобным же образом, другая женщина должна позаботиться о только что рождённом ребёнке согласно методу ухода за детьми, — он будет изложен далее, в разделе о новорождённых. Далее, родившую следует умастить маслом балы; и, когда она проголодается, следует, соответственно её конституции, дать ей выпить надлежащую дозу умащения с порошком панчаколы, ячменём с упакунчикой, чавьей, читракой, вьошей, каменной солью, — дозу, которая переваривается в течение дня. Женщине, не подходящей для умащения, — отвар устраняющих ветер трав или отвар малой панчамулы.",
+        "text_en": "Likewise, another woman should take care of the newborn child according to the method of child care, which will be set forth further on, in the section on the newborn. Next, the woman who has given birth should be anointed with bala oil; and when she is hungry, in accordance with her constitution, she should be given to drink a proper dose of unction with the powder of panchakola, barley with upakunchika, chavya, chitraka, vyosha and rock salt, a dose that is digested within the day. For a woman unsuited for unction, a decoction of Vata-relieving herbs or a decoction of the lesser panchamula."
       },
       {
         "type": "verse",
@@ -20666,7 +20811,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पीतवत्याश्च यमकेनाभ्यज्य वेष्टयेदुदरं वस्त्रेण तथा न वायुरुदरविकृतिमुत्पादयेदयेदनवकाशत्वात् जीएणे तु स्नेहे पूर्वैषधैरेव सिद्धां विदार्यादिगणक्वाथेन क्षीरेण वा यवागूं सुस्विन्नां द्रवां मात्रया पाययेत् प्राक् स्नेहयवागूपानाभ्यां चोभयकालमुष्णोदकेन परिषेचयेत्",
         "iast": "pītavatyāśca yamakenābhyajya veṣṭayedudaraṃ vastreṇa tathā na vāyurudaravikṛtimutpādayedayedanavakāśatvāt jīeṇe tu snehe pūrvaiṣadhaireva siddhāṃ vidāryādigaṇakvāthena kṣīreṇa vā yavāgūṃ susvinnāṃ dravāṃ mātrayā pāyayet prāk snehayavāgūpānābhyāṃ cobhayakālamuṣṇodakena pariṣecayet",
         "iast_ru": "пӣтаватйа̄ш́ча йамакена̄бхйаджйа веш̣т̣айедударам̣ вастрен̣а татха̄ на ва̄йурударавикр̣тимутпа̄дайедайеданавака̄ш́атва̄т джӣен̣е ту снехе пӯрваиш̣адхаирева сиддха̄м̣ вида̄рйа̄диган̣аква̄тхена кш̣ӣрен̣а ва̄ йава̄гӯм̣ сусвинна̄м̣ драва̄м̣ ма̄трайа̄ па̄йайет пра̄к снехайава̄гӯпа̄на̄бхйа̄м̣ чобхайака̄ламуш̣н̣одакена париш̣ечайет",
-        "text": "Ей, выпившей умащение, следует умастить живот «ямакой» и обвязать живот тканью; таким образом ветер не вызовет расстройства живота, из-за отсутствия для него возможности проникнуть. Когда же умащение переварилось, следует дать ей выпить, в надлежащей дозе, хорошо разваренную жидкую кашицу-ягью, сваренную с теми же лекарствами, отваром группы видари или молоком. Прежде, до приёма умащения и кашицы-ягьи, в оба времени дня следует обливать её тёплой водой."
+        "text": "Ей, выпившей умащение, следует умастить живот «ямакой» и обвязать живот тканью; таким образом ветер не вызовет расстройства живота, из-за отсутствия для него возможности проникнуть. Когда же умащение переварилось, следует дать ей выпить, в надлежащей дозе, хорошо разваренную жидкую кашицу-ягью, сваренную с теми же лекарствами, отваром группы видари или молоком. Прежде, до приёма умащения и кашицы-ягьи, в оба времени дня следует обливать её тёплой водой.",
+        "text_en": "After she has drunk the unction, her abdomen should be anointed with \"yamaka\" and bound with a cloth; in this way Vata will not cause disorder of the abdomen, having no opportunity to enter. When the unction has been digested, she should be given to drink, in the proper dose, well-cooked thin gruel (yavagu) prepared with the same medicines, with a decoction of the vidari group, or with milk. Before taking the unction and the yavagu, at both times of the day she should be bathed with warm water."
       },
       {
         "type": "verse",
@@ -20674,7 +20820,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एवं त्रिरात्रं पञ्चरात्रं सप्तरात्रं वानुपाल्य ततो यवकोलकुलत्थयूषेण लघुना चान्नपानेन द्वादशरात्रात् परं जाङ्गलरसादिभिश्च क्रमादाप्याययेदग्निबलादीन्यपेक्ष्य क्वथितशीतं च तोयं पाययेत् तथा जीवनीयबृंहणीयमधुरवातहरसिद्धैरभ्यङ्गोद्वर्तनपरिषेकावगाहैरन्नपानैश्च हृद्यैरुपाचरेत् एवं हि गर्भवृद्धिक्षपितशिथिलसर्वशरीरधातुप्रवाहणवेदनाक्लेदरक्तनिस्स्रुतिविशेषशून्यशरीराच्च पुअर्नवीभवति",
         "iast": "evaṃ trirātraṃ pañcarātraṃ saptarātraṃ vānupālya tato yavakolakulatthayūṣeṇa laghunā cānnapānena dvādaśarātrāt paraṃ jāṅgalarasādibhiśca kramādāpyāyayedagnibalādīnyapekṣya kvathitaśītaṃ ca toyaṃ pāyayet tathā jīvanīyabṛṃhaṇīyamadhuravātaharasiddhairabhyaṅgodvartanapariṣekāvagāhairannapānaiśca hṛdyairupācaret evaṃ hi garbhavṛddhikṣapitaśithilasarvaśarīradhātupravāhaṇavedanākledaraktanissrutiviśeṣaśūnyaśarīrācca puarnavībhavati",
         "iast_ru": "евам̣ трира̄трам̣ пан̃чара̄трам̣ саптара̄трам̣ ва̄нупа̄лйа тато йаваколакулаттхайӯш̣ен̣а лагхуна̄ ча̄ннапа̄нена два̄даш́ара̄тра̄т парам̣ джа̄н̇галараса̄дибхиш́ча крама̄да̄пйа̄йайедагнибала̄дӣнйапекш̣йа кватхиташ́ӣтам̣ ча тойам̣ па̄йайет татха̄ джӣванӣйабр̣м̣хан̣ӣйамадхурава̄тахарасиддхаирабхйан̇годвартанапариш̣ека̄вага̄хаираннапа̄наиш́ча хр̣дйаирупа̄чарет евам̣ хи гарбхавр̣ддхикш̣апиташ́итхиласарваш́арӣрадха̄туправа̄хан̣аведана̄кледарактаниссрутивиш́еш̣аш́ӯнйаш́арӣра̄чча пуарнавӣбхавати",
-        "text": "Соблюдая таким образом режим три, пять или семь ночей, следует затем, супом из ячменя, колы, кулаттхи и лёгкой пищей, а после двенадцати ночей — постепенно, мясным соком животных сухих земель и подобным, её насыщать, учитывая силу огня пищеварения и подобное; и следует давать пить кипячёную, охлаждённую воду. Подобным же образом, следует лечить укрепляющими жизнь, питательными, сладкими, устраняющими ветер средствами: умащением, растиранием, обливанием, погружением в воду, а также приятной сердцу пищей и питьём. Ибо таким образом женщина, чьё тело истощено и расслаблено ростом плода, натуживанием, болью, влажностью, истечением крови, и лишённое особой силы, — обновляется заново."
+        "text": "Соблюдая таким образом режим три, пять или семь ночей, следует затем, супом из ячменя, колы, кулаттхи и лёгкой пищей, а после двенадцати ночей — постепенно, мясным соком животных сухих земель и подобным, её насыщать, учитывая силу огня пищеварения и подобное; и следует давать пить кипячёную, охлаждённую воду. Подобным же образом, следует лечить укрепляющими жизнь, питательными, сладкими, устраняющими ветер средствами: умащением, растиранием, обливанием, погружением в воду, а также приятной сердцу пищей и питьём. Ибо таким образом женщина, чьё тело истощено и расслаблено ростом плода, натуживанием, болью, влажностью, истечением крови, и лишённое особой силы, — обновляется заново.",
+        "text_en": "Having observed this regimen for three, five or seven nights, one should then satisfy her with a soup of barley, kola and kulattha and with light food, and after twelve nights gradually with the meat juice of animals of dry regions and the like, taking into account the strength of the digestive fire and so on; and she should be given boiled and cooled water to drink. Likewise, she should be treated with life-promoting, nourishing, sweet, Vata-relieving measures: oleation, massage, pouring, immersion in water, as well as food and drink pleasing to the heart. For in this way the woman, whose body is exhausted and relaxed by the growth of the foetus, the straining, the pain, the moisture and the loss of blood, and who lacks particular strength, is renewed afresh."
       },
       {
         "type": "verse",
@@ -20682,7 +20829,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अत एव च सूतिकाया व्याधिः कृच्छ्रसाध्यो भवत्यसाध्यो वा तस्मात्तां यथोक्तेन विधिना प्रयत्नेनोपचरेत् एवं साध्यर्धमासमुपसंस्कृता क्रमेण विमुक्ताहारविहारयन्त्रणा विगतसूतिकाभिघाना स्यात् पुनरार्तवदर्शनादित्येके",
         "iast": "ata eva ca sūtikāyā vyādhiḥ kṛcchrasādhyo bhavatyasādhyo vā tasmāttāṃ yathoktena vidhinā prayatnenopacaret evaṃ sādhyardhamāsamupasaṃskṛtā krameṇa vimuktāhāravihārayantraṇā vigatasūtikābhighānā syāt punarārtavadarśanādityeke",
         "iast_ru": "ата ева ча сӯтика̄йа̄ вйа̄дхих̣ кр̣ччхраса̄дхйо бхаватйаса̄дхйо ва̄ тасма̄тта̄м̣ йатхоктена видхина̄ прайатненопачарет евам̣ са̄дхйардхама̄самупасам̣скр̣та̄ крамен̣а вимукта̄ха̄равиха̄райантран̣а̄ вигатасӯтика̄бхигха̄на̄ сйа̄т пунара̄ртавадарш́ана̄дитйеке",
-        "text": "Именно поэтому болезнь родившей женщины трудноизлечима или неизлечима; поэтому её следует старательно лечить вышеупомянутым методом. Таким образом, восстановленная в течение полутора месяцев, постепенно освобождённая от ограничений в питании и образе жизни, она избавляется от послеродовых расстройств; — это происходит с возобновлением менструации, — так говорят некоторые."
+        "text": "Именно поэтому болезнь родившей женщины трудноизлечима или неизлечима; поэтому её следует старательно лечить вышеупомянутым методом. Таким образом, восстановленная в течение полутора месяцев, постепенно освобождённая от ограничений в питании и образе жизни, она избавляется от послеродовых расстройств; — это происходит с возобновлением менструации, — так говорят некоторые.",
+        "text_en": "For this very reason the disease of a woman who has given birth is difficult to cure or incurable; therefore she should be treated carefully by the method mentioned above. Thus restored within a month and a half, gradually released from restrictions in diet and regimen, she is freed from the postpartum disorders; this happens with the resumption of menstruation, so say some."
       },
       {
         "type": "verse",
@@ -20690,7 +20838,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इत्याद्यं मासमादाय यावद्गर्भक्षमा पुनः स्त्री स्यात्तावद्विधिः सर्वः सर्वथा साधु दर्शितः",
         "iast": "ityādyaṃ māsamādāya yāvadgarbhakṣamā punaḥ strī syāttāvadvidhiḥ sarvaḥ sarvathā sādhu darśitaḥ",
         "iast_ru": "итйа̄дйам̣ ма̄сама̄да̄йа йа̄вадгарбхакш̣ама̄ пунах̣ стрӣ сйа̄тта̄вадвидхих̣ сарвах̣ сарватха̄ са̄дху дарш́итах̣",
-        "text": "Таким образом, начиная с первого месяца беременности и до тех пор, пока женщина снова не станет способной к зачатию, — весь этот режим полностью и надлежащим образом изложен."
+        "text": "Таким образом, начиная с первого месяца беременности и до тех пор, пока женщина снова не станет способной к зачатию, — весь этот режим полностью и надлежащим образом изложен.",
+        "text_en": "Thus, from the first month of pregnancy until the woman again becomes capable of conception, this whole regimen has been set forth fully and properly."
       }
     ]
   },
@@ -20712,7 +20861,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो गर्भव्यापदं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto garbhavyāpadaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то гарбхавйа̄падам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу «Гарбхавьяпад» («Осложнения беременности») — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу «Гарбхавьяпад» («Осложнения беременности») — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter \"Garbhavyapad\" (\"Complications of Pregnancy\"), as the great sages, beginning with Atreya, declared."
       },
       {
         "type": "verse",
@@ -20720,7 +20870,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्त्री चेदापन्नगर्भा परिहार्याण्यासेवेत ततश्च यस्या बस्तिपार्श्वश्रोणियोनिमुखेषु शूलं पुष्पदर्शनं च स्यात् तां मृदुसुखशिशिरास्तरणशयनस्थामीषदवनतशिरसं शीतप्रदेहपरिषेकादिभिरुपाचरेत्",
         "iast": "strī cedāpannagarbhā parihāryāṇyāseveta tataśca yasyā bastipārśvaśroṇiyonimukheṣu śūlaṃ puṣpadarśanaṃ ca syāt tāṃ mṛdusukhaśiśirāstaraṇaśayanasthāmīṣadavanataśirasaṃ śītapradehapariṣekādibhirupācaret",
         "iast_ru": "стрӣ чеда̄паннагарбха̄ париха̄рйа̄н̣йа̄севета таташ́ча йасйа̄ бастипа̄рш́ваш́рон̣ийонимукхеш̣у ш́ӯлам̣ пуш̣падарш́анам̣ ча сйа̄т та̄м̣ мр̣дусукхаш́иш́ира̄старан̣аш́айанастха̄мӣш̣адаванаташ́ирасам̣ ш́ӣтапрадехапариш̣ека̄дибхирупа̄чарет",
-        "text": "Если беременная женщина употребляет то, чего следует избегать, — и в результате у неё возникает боль в мочевом пузыре, боку, тазу, устье влагалища, а также кровянистые выделения, подобные преждевременной менструации, — в этом случае следует уложить её на мягкое, удобное, прохладное застеленное ложе, с чуть опущенной головой, и лечить холодными обмазываниями, орошениями и подобным."
+        "text": "Если беременная женщина употребляет то, чего следует избегать, — и в результате у неё возникает боль в мочевом пузыре, боку, тазу, устье влагалища, а также кровянистые выделения, подобные преждевременной менструации, — в этом случае следует уложить её на мягкое, удобное, прохладное застеленное ложе, с чуть опущенной головой, и лечить холодными обмазываниями, орошениями и подобным.",
+        "text_en": "If a pregnant woman takes what should be avoided, and as a result there arises in her pain in the urinary bladder, flank, pelvis and mouth of the vagina, together with bloody discharges resembling premature menstruation, in this case she should be laid on a soft, comfortable, cool, spread bed, with the head slightly lowered, and treated with cold plasters, affusions and the like."
       },
       {
         "type": "verse",
@@ -20728,7 +20879,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्यथा सहस्रधौतेन सर्पिषाधोनाभेः सर्वतः प्रदिह्यात् मधुकसिद्धसर्पिषा सुशीतेन पिचुमाप्लाव्य योनिसमीपे स्थापयेत् गव्येन पयसा मधुकाम्बुना न्यग्रोधादिकषायेण वा परिषेचयेत् परिपीततत्स्वरसानि च तैलानि योनौ निधापयेत् तच्छृङ्गसिद्धस्य वा क्षीरसर्पिषः पिचुम्",
         "iast": "tadyathā sahasradhautena sarpiṣādhonābheḥ sarvataḥ pradihyāt madhukasiddhasarpiṣā suśītena picumāplāvya yonisamīpe sthāpayet gavyena payasā madhukāmbunā nyagrodhādikaṣāyeṇa vā pariṣecayet paripītatatsvarasāni ca tailāni yonau nidhāpayet tacchṛṅgasiddhasya vā kṣīrasarpiṣaḥ picum",
         "iast_ru": "тадйатха̄ сахасрадхаутена сарпиш̣а̄дхона̄бхех̣ сарватах̣ прадихйа̄т мадхукасиддхасарпиш̣а̄ суш́ӣтена пичума̄пла̄вйа йонисамӣпе стха̄пайет гавйена пайаса̄ мадхука̄мбуна̄ нйагродха̄дикаш̣а̄йен̣а ва̄ париш̣ечайет парипӣтататсвараса̄ни ча таила̄ни йонау нидха̄пайет таччхр̣н̇гасиддхасйа ва̄ кш̣ӣрасарпиш̣ах̣ пичум",
-        "text": "А именно: следует обмазать область ниже пупка со всех сторон гхи, промытым тысячу раз; смочив тампон очень холодным гхи, сваренным с солодкой, следует поместить его вблизи влагалища; следует орошать коровьим молоком, водой с солодкой, или отваром баньяна и подобного; и следует поместить во влагалище масла, пропитанные соком этих же растений; или же тампон с молоком-гхи, сваренным с рогом этого же животного."
+        "text": "А именно: следует обмазать область ниже пупка со всех сторон гхи, промытым тысячу раз; смочив тампон очень холодным гхи, сваренным с солодкой, следует поместить его вблизи влагалища; следует орошать коровьим молоком, водой с солодкой, или отваром баньяна и подобного; и следует поместить во влагалище масла, пропитанные соком этих же растений; или же тампон с молоком-гхи, сваренным с рогом этого же животного.",
+        "text_en": "Namely: the region below the navel should be smeared on all sides with ghee washed a thousand times; having moistened a tampon with very cold ghee cooked with liquorice, one should place it near the vagina; one should irrigate with cow's milk, with water with liquorice, or with a decoction of the banyan and the like; and one should place in the vagina oils impregnated with the juice of these same plants; or else a tampon with milk-ghee cooked with the horn of the same animal."
       },
       {
         "type": "verse",
@@ -20736,7 +20888,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतिस्रवति तु रक्ते तत एवाक्षमात्रं प्राशयेत् केवलादेव वा क्षीरसर्पिषः पद्मोत्पलकुमुदकिञ्जल्कं च समधुशर्करं लेहयेत्",
         "iast": "atisravati tu rakte tata evākṣamātraṃ prāśayet kevalādeva vā kṣīrasarpiṣaḥ padmotpalakumudakiñjalkaṃ ca samadhuśarkaraṃ lehayet",
         "iast_ru": "атисравати ту ракте тата ева̄кш̣ама̄трам̣ пра̄ш́айет кевала̄дева ва̄ кш̣ӣрасарпиш̣ах̣ падмотпалакумудакин̃джалкам̣ ча самадхуш́аркарам̣ лехайет",
-        "text": "При чрезмерном же истечении крови, следует дать проглотить одну акшу этого же молока-гхи; или же следует дать слизывать пыльцу лотоса, синего лотоса, кувшинки, только с молоком-гхи, с добавлением мёда и сахара."
+        "text": "При чрезмерном же истечении крови, следует дать проглотить одну акшу этого же молока-гхи; или же следует дать слизывать пыльцу лотоса, синего лотоса, кувшинки, только с молоком-гхи, с добавлением мёда и сахара.",
+        "text_en": "In excessive bleeding, one should give to swallow one aksha of this same milk-ghee; or else one should give to lick the pollen of the lotus, blue lotus and water lily, with milk-ghee only, with the addition of honey and sugar."
       },
       {
         "type": "verse",
@@ -20744,7 +20897,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धातकीगैरिकसर्जरसाञ्जनचूर्णं वा मधुना न्यग्रोधादित्वक्प्रवालकल्कं वा शशैणहरिणरुधिरं वा सक्षौद्रं पाययेत् ऋद्धिविदारीजीवन्तीर्वा पयसा नीलोत्पलसितापक्वलोष्टचन्दनादि वा तण्डुलशालूकोदुम्बरशलाटुन्यग्रोधशृङ्गानि वा आजेन पयसा",
         "iast": "dhātakīgairikasarjarasāñjanacūrṇaṃ vā madhunā nyagrodhāditvakpravālakalkaṃ vā śaśaiṇahariṇarudhiraṃ vā sakṣaudraṃ pāyayet ṛddhividārījīvantīrvā payasā nīlotpalasitāpakvaloṣṭacandanādi vā taṇḍulaśālūkodumbaraśalāṭunyagrodhaśṛṅgāni vā ājena payasā",
         "iast_ru": "дха̄такӣгаирикасарджараса̄н̃джаначӯрн̣ам̣ ва̄ мадхуна̄ нйагродха̄дитвакправа̄лакалкам̣ ва̄ ш́аш́аин̣ахарин̣арудхирам̣ ва̄ сакш̣аудрам̣ па̄йайет р̣ддхивида̄рӣджӣвантӣрва̄ пайаса̄ нӣлотпаласита̄паквалош̣т̣ачандана̄ди ва̄ тан̣д̣улаш́а̄лӯкодумбараш́ала̄т̣унйагродхаш́р̣н̇га̄ни ва̄ а̄джена пайаса̄",
-        "text": "Или же следует дать выпить порошок дхатаки, охры, смолы сарджи, коллирия, с мёдом; или пасту коры и побегов баньяна и подобного; или кровь зайца, антилопы, оленя, с мёдом; или риддхи, видари, дживанти с молоком; или синий лотос, сахар, обожжённый комок земли, сандал и подобное; или рис, шалуку, побеги удумбары, баньяна, с козьим молоком."
+        "text": "Или же следует дать выпить порошок дхатаки, охры, смолы сарджи, коллирия, с мёдом; или пасту коры и побегов баньяна и подобного; или кровь зайца, антилопы, оленя, с мёдом; или риддхи, видари, дживанти с молоком; или синий лотос, сахар, обожжённый комок земли, сандал и подобное; или рис, шалуку, побеги удумбары, баньяна, с козьим молоком.",
+        "text_en": "Or else one should give to drink a powder of dhataki, ochre, sarja resin and collyrium, with honey; or a paste of the bark and shoots of the banyan and the like; or the blood of a hare, antelope or deer, with honey; or riddhi, vidari and jivanti with milk; or blue lotus, sugar, a burnt lump of earth, sandalwood and the like; or rice, shaluka, and shoots of udumbara and banyan, with goat's milk."
       },
       {
         "type": "verse",
@@ -20752,7 +20906,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कशेरुकमृणालकशृङ्गाटककाश्मर्यपरूषकद्राक्षासारिवाप्रपौण्डरीकानन्तोत्पलकदम्बबीजक्वाथेन वा शर्करामधुमधुरेण शालिचूर्णम् जीवनीयशृतं वा क्षीरम् बलातिबलाशालिषष्टिकेक्षुमूलकाकोलीशृतेन पयसा समधुशर्करेण रक्तशाल्योदनं सुशीतं भोजयेत् शीतवीर्यजाङ्गलरसेन वा रक्तपित्तक्रियाश्च शोधनवर्ज्याः प्रयुञ्जीत सौम्याश्च मनो ऽनुकूलाः कथाः",
         "iast": "kaśerukamṛṇālakaśṛṅgāṭakakāśmaryaparūṣakadrākṣāsārivāprapauṇḍarīkānantotpalakadambabījakvāthena vā śarkarāmadhumadhureṇa śālicūrṇam jīvanīyaśṛtaṃ vā kṣīram balātibalāśāliṣaṣṭikekṣumūlakākolīśṛtena payasā samadhuśarkareṇa raktaśālyodanaṃ suśītaṃ bhojayet śītavīryajāṅgalarasena vā raktapittakriyāśca śodhanavarjyāḥ prayuñjīta saumyāśca mano 'nukūlāḥ kathāḥ",
         "iast_ru": "каш́ерукамр̣н̣а̄лакаш́р̣н̇га̄т̣акака̄ш́марйапарӯш̣акадра̄кш̣а̄са̄рива̄прапаун̣д̣арӣка̄нантотпалакадамбабӣджаква̄тхена ва̄ ш́аркара̄мадхумадхурен̣а ш́а̄личӯрн̣ам джӣванӣйаш́р̣там̣ ва̄ кш̣ӣрам бала̄тибала̄ш́а̄лиш̣аш̣т̣икекш̣умӯлака̄колӣш́р̣тена пайаса̄ самадхуш́аркарен̣а ракташ́а̄лйоданам̣ суш́ӣтам̣ бходжайет ш́ӣтавӣрйаджа̄н̇галарасена ва̄ рактапиттакрийа̄ш́ча ш́одханаварджйа̄х̣ прайун̃джӣта саумйа̄ш́ча мано 'нукӯла̄х̣ катха̄х̣",
-        "text": "Или же следует дать порошок риса шали с отваром кашеруки, стебля лотоса, шрингатаки, кашмари, парушаки, изюма, саривы, прапаундарики, ананты, синего лотоса, семени кадамбы, — сладкий, с сахаром и мёдом; или же молоко, сваренное с укрепляющими жизнь травами; следует накормить очень холодным красным рисом шали, сваренным с молоком, сваренным с балой, атибалой, шали, шаштикой, корнем сахарного тростника, каколи, с добавлением мёда и сахара; или же холодным по своему воздействию мясным соком животных сухих земель. Следует применять процедуры лечения кровяной питты, за исключением очистительных; и вести с ней спокойные, приятные для ума разговоры."
+        "text": "Или же следует дать порошок риса шали с отваром кашеруки, стебля лотоса, шрингатаки, кашмари, парушаки, изюма, саривы, прапаундарики, ананты, синего лотоса, семени кадамбы, — сладкий, с сахаром и мёдом; или же молоко, сваренное с укрепляющими жизнь травами; следует накормить очень холодным красным рисом шали, сваренным с молоком, сваренным с балой, атибалой, шали, шаштикой, корнем сахарного тростника, каколи, с добавлением мёда и сахара; или же холодным по своему воздействию мясным соком животных сухих земель. Следует применять процедуры лечения кровяной питты, за исключением очистительных; и вести с ней спокойные, приятные для ума разговоры.",
+        "text_en": "Or else one should give a powder of shali rice with a decoction of kasheruka, lotus stalk, shringataka, kashmari, parushaka, raisins, sariva, prapaundarika, ananta, blue lotus and kadamba seed, sweet, with sugar and honey; or else milk cooked with life-promoting herbs; one should feed her very cold red shali rice cooked with milk, boiled with bala, atibala, shali, shashtika, the root of sugarcane and kakoli, with the addition of honey and sugar; or else with cold-acting meat juice of animals of dry regions. The procedures for the treatment of Raktapitta should be applied, with the exception of the purificatory ones; and calm conversations pleasant to the mind should be held with her."
       },
       {
         "type": "verse",
@@ -20760,7 +20915,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अदृष्टशोणितां तु मधुकपयस्यासुरदारुभिः सिद्धं पयः पाययेत् ताम्रवल्यश्मन्तकशतावरीपयस्याभिर्वा विदार्यादिगणेन वा श्वदंष्ट्रास्वरसक्षीरसिद्धं वा सर्पिः पलाण्डुरससिद्धं वा सक्षौद्रम्",
         "iast": "adṛṣṭaśoṇitāṃ tu madhukapayasyāsuradārubhiḥ siddhaṃ payaḥ pāyayet tāmravalyaśmantakaśatāvarīpayasyābhirvā vidāryādigaṇena vā śvadaṃṣṭrāsvarasakṣīrasiddhaṃ vā sarpiḥ palāṇḍurasasiddhaṃ vā sakṣaudram",
         "iast_ru": "адр̣ш̣т̣аш́он̣ита̄м̣ ту мадхукапайасйа̄сурада̄рубхих̣ сиддхам̣ пайах̣ па̄йайет та̄мравалйаш́мантакаш́ата̄варӣпайасйа̄бхирва̄ вида̄рйа̄диган̣ена ва̄ ш́вадам̣ш̣т̣ра̄сварасакш̣ӣрасиддхам̣ ва̄ сарпих̣ пала̄н̣д̣урасасиддхам̣ ва̄ сакш̣аудрам",
-        "text": "Женщине же, у которой кровь ещё не видна, следует дать выпить молоко, сваренное с солодкой, паясьей, деодаром; или же с тамравалли, ашмантакой, шатавари, паясьей; или же с группой видари; или гхи, сваренное со свежим соком и молоком швадамштры; или же сваренное с соком лука, с мёдом."
+        "text": "Женщине же, у которой кровь ещё не видна, следует дать выпить молоко, сваренное с солодкой, паясьей, деодаром; или же с тамравалли, ашмантакой, шатавари, паясьей; или же с группой видари; или гхи, сваренное со свежим соком и молоком швадамштры; или же сваренное с соком лука, с мёдом.",
+        "text_en": "For a woman in whom blood is not yet visible, one should give to drink milk cooked with liquorice, payasya and devadaru; or else with tamravalli, ashmantaka, shatavari and payasya; or else with the vidari group; or ghee cooked with fresh juice and milk of shvadamshtra; or else cooked with onion juice, with honey."
       },
       {
         "type": "verse",
@@ -20768,7 +20924,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "असम्पूर्णत्रिमासायास्तु पुष्पदर्शने गर्भः प्रायो न तिष्ठत्यसञ्जातसारत्वात्",
         "iast": "asampūrṇatrimāsāyāstu puṣpadarśane garbhaḥ prāyo na tiṣṭhatyasañjātasāratvāt",
         "iast_ru": "асампӯрн̣атрима̄са̄йа̄сту пуш̣падарш́ане гарбхах̣ пра̄йо на тиш̣т̣хатйасан̃джа̄таса̄ратва̄т",
-        "text": "У же женщины с неполными тремя месяцами беременности, при появлении кровянистых выделений, зародыш, как правило, не удерживается, — из-за ещё не сформировавшейся собственной сущности."
+        "text": "У же женщины с неполными тремя месяцами беременности, при появлении кровянистых выделений, зародыш, как правило, не удерживается, — из-за ещё не сформировавшейся собственной сущности.",
+        "text_en": "In a woman with less than three months of pregnancy, when bloody discharges appear, the embryo, as a rule, is not retained, since its own essence has not yet formed."
       },
       {
         "type": "verse",
@@ -20776,7 +20933,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आमान्वये चोर्ध्वमपि विरुद्धोपक्रमत्वात् तत्र रूक्षशीतानि प्रयुञ्जीत",
         "iast": "āmānvaye cordhvamapi viruddhopakramatvāt tatra rūkṣaśītāni prayuñjīta",
         "iast_ru": "а̄ма̄нвайе чордхвамапи вируддхопакраматва̄т татра рӯкш̣аш́ӣта̄ни прайун̃джӣта",
-        "text": "И даже позже, при сопутствующей недоваренности, — из-за противоречивости лечебного подхода, — в этом случае следует применять сухие, холодные средства."
+        "text": "И даже позже, при сопутствующей недоваренности, — из-за противоречивости лечебного подхода, — в этом случае следует применять сухие, холодные средства.",
+        "text_en": "And even later, with accompanying undigested matter (ama), owing to the conflicting nature of the therapeutic approach, in this case dry, cold measures should be applied."
       },
       {
         "type": "verse",
@@ -20784,7 +20942,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्यथा प्रागुपवासं ततो दुरालभामृतोशीरपर्पटकघनचन्दनातिविषाबलाकट्वङ्गधान्याकक्वाथपानम् तृणधान्यशालिषष्टिकपेयामशनं च मुद्गादियूषैः जिते त्वामे स्निग्धशीतानि पूर्ववत्",
         "iast": "tadyathā prāgupavāsaṃ tato durālabhāmṛtośīraparpaṭakaghanacandanātiviṣābalākaṭvaṅgadhānyākakvāthapānam tṛṇadhānyaśāliṣaṣṭikapeyāmaśanaṃ ca mudgādiyūṣaiḥ jite tvāme snigdhaśītāni pūrvavat",
         "iast_ru": "тадйатха̄ пра̄гупава̄сам̣ тато дура̄лабха̄мр̣тош́ӣрапарпат̣акагханачандана̄тивиш̣а̄бала̄кат̣ван̇гадха̄нйа̄каква̄тхапа̄нам тр̣н̣адха̄нйаш́а̄лиш̣аш̣т̣икапейа̄маш́анам̣ ча мудга̄дийӯш̣аих̣ джите тва̄ме снигдхаш́ӣта̄ни пӯрвават",
-        "text": "А именно: сначала — голодание; затем — питьё отвара дуралабхи, гудучи, уширы, парпатаки, гханы, сандала, атививиши, балы, катванги, кориандра; затем пищу в виде жидкой каши из тростникового зерна, риса шали, шаштики, с супами маша и подобного. Когда же ама побеждена, — следует применять маслянистые, холодные средства, как прежде."
+        "text": "А именно: сначала — голодание; затем — питьё отвара дуралабхи, гудучи, уширы, парпатаки, гханы, сандала, атививиши, балы, катванги, кориандра; затем пищу в виде жидкой каши из тростникового зерна, риса шали, шаштики, с супами маша и подобного. Когда же ама побеждена, — следует применять маслянистые, холодные средства, как прежде.",
+        "text_en": "Namely: first fasting; then drinking a decoction of duralabha, guduchi, ushira, parpataka, ghana, sandalwood, ativisha, bala, katvanga and coriander; then food in the form of a thin gruel of reed grain, shali rice and shashtika, with soups of masha and the like. When ama has been overcome, unctuous, cold measures should be applied, as before."
       },
       {
         "type": "verse",
@@ -20792,7 +20951,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आमगर्भे तु पतिते मद्यानामन्यतमं सामर्थ्यतः पाययेत् गर्भकोष्ठविशुध्यर्थमार्तिविस्मरणार्थं च अमद्यपां पाचनीयद्रव्योपहिताभिः स्नेहलवणवर्ज्याभिः सतिलाभिरुद्दालकादियवागूभिरुपाचरेद्यावन्तो मासास्तावन्त्यहानीति",
         "iast": "āmagarbhe tu patite madyānāmanyatamaṃ sāmarthyataḥ pāyayet garbhakoṣṭhaviśudhyarthamārtivismaraṇārthaṃ ca amadyapāṃ pācanīyadravyopahitābhiḥ snehalavaṇavarjyābhiḥ satilābhiruddālakādiyavāgūbhirupācaredyāvanto māsāstāvantyahānīti",
         "iast_ru": "а̄магарбхе ту патите мадйа̄на̄манйатамам̣ са̄мартхйатах̣ па̄йайет гарбхакош̣т̣хавиш́удхйартхама̄ртивисмаран̣а̄ртхам̣ ча амадйапа̄м̣ па̄чанӣйадравйопахита̄бхих̣ снехалаван̣аварджйа̄бхих̣ сатила̄бхирудда̄лака̄дийава̄гӯбхирупа̄чаредйа̄ванто ма̄са̄ста̄вантйаха̄нӣти",
-        "text": "Когда же недоваренный зародыш выкидывается, следует дать выпить, соответственно её переносимости, одно из видов вина, — ради очищения полости матки и забвения боли. Женщину же, не пьющую вино, следует лечить кашицами-ягьями с уддалакой и подобным, содержащими кунжут, приготовленными со способствующими перевариванию веществами, без умащения и соли, — столько дней, сколько было месяцев беременности."
+        "text": "Когда же недоваренный зародыш выкидывается, следует дать выпить, соответственно её переносимости, одно из видов вина, — ради очищения полости матки и забвения боли. Женщину же, не пьющую вино, следует лечить кашицами-ягьями с уддалакой и подобным, содержащими кунжут, приготовленными со способствующими перевариванию веществами, без умащения и соли, — столько дней, сколько было месяцев беременности.",
+        "text_en": "When an incompletely developed embryo is aborted, one should give to drink, according to her tolerance, one of the kinds of wine, for purification of the cavity of the uterus and for forgetfulness of pain. A woman who does not drink wine should be treated with yavagu with uddalaka and the like, containing sesame, prepared with digestive substances, without unction and salt, for as many days as there were months of pregnancy."
       },
       {
         "type": "verse",
@@ -20800,7 +20960,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ततः प्रीणनैर्बलानुरक्षिभिरस्नेहैराहारैरादोषधातुक्लेदशुद्धेः आमगर्भशेषेण हि पुनःपुनरकुशलमनुषज्येत तस्मात्तीक्ष्णैरनवशेषयन्नुपाचरेत् ततः परं स्नेहपानैर्बस्तिभिराहारैश्च दीपनीयपाचनीयजीवनीयबृंहणीयमधुरवातहरैरिति",
         "iast": "tataḥ prīṇanairbalānurakṣibhirasnehairāhārairādoṣadhātukledaśuddheḥ āmagarbhaśeṣeṇa hi punaḥpunarakuśalamanuṣajyeta tasmāttīkṣṇairanavaśeṣayannupācaret tataḥ paraṃ snehapānairbastibhirāhāraiśca dīpanīyapācanīyajīvanīyabṛṃhaṇīyamadhuravātaharairiti",
         "iast_ru": "татах̣ прӣн̣анаирбала̄нуракш̣ибхираснехаира̄ха̄раира̄дош̣адха̄тукледаш́уддхех̣ а̄магарбхаш́еш̣ен̣а хи пунах̣пунаракуш́аламануш̣аджйета тасма̄ттӣкш̣н̣аиранаваш́еш̣айаннупа̄чарет татах̣ парам̣ снехапа̄наирбастибхира̄ха̄раиш́ча дӣпанӣйапа̄чанӣйаджӣванӣйабр̣м̣хан̣ӣйамадхурава̄тахараирити",
-        "text": "Затем — приятной, поддерживающей силу пищей без умащения, — до очищения от доши, нездоровой ткани и влаги. Ибо от остатка недоваренного зародыша в теле снова и снова возникает нездоровье; поэтому следует лечить резкими средствами, не оставляя ничего в остатке. После этого — питьём умащения, клизмами, а также пищей, разжигающей огонь, способствующей перевариванию, укрепляющей жизнь, питательной, сладкой, устраняющей ветер."
+        "text": "Затем — приятной, поддерживающей силу пищей без умащения, — до очищения от доши, нездоровой ткани и влаги. Ибо от остатка недоваренного зародыша в теле снова и снова возникает нездоровье; поэтому следует лечить резкими средствами, не оставляя ничего в остатке. После этого — питьём умащения, клизмами, а также пищей, разжигающей огонь, способствующей перевариванию, укрепляющей жизнь, питательной, сладкой, устраняющей ветер.",
+        "text_en": "Then with pleasant, strength-sustaining food without unction, until purification from the dosha, the unhealthy tissue and moisture. For from the remnant of the incompletely developed embryo in the body, ill health arises again and again; therefore one should treat with strong measures, leaving nothing remaining. After this, with drinking of unction, enemas, and food that kindles the fire, aids digestion, promotes life, nourishes, and is sweet and Vata-relieving."
       },
       {
         "type": "verse",
@@ -20808,7 +20969,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यस्याः पुनर्महति जातसारे गर्भे वर्ज्यानामवर्जनात् पुष्पदर्शनं स्यादन्यद्वा योनिस्रवणम् तस्यास्तन्निमित्तं वायुः प्रकुपितः पित्तश्लेष्माणौ परिगृह्य गर्भस्य रसवहां नाडीं प्रतिपीड्यावतिष्ठते ततो नाड्यां दोषैः कुल्यायामिव तृणपत्रादिभिः प्रतिच्छन्नायां रसस्यासम्यग्वहनाद्गर्भो वृद्धिमनाप्नुवन्नुपविशत्युपशुष्यति वा",
         "iast": "yasyāḥ punarmahati jātasāre garbhe varjyānāmavarjanāt puṣpadarśanaṃ syādanyadvā yonisravaṇam tasyāstannimittaṃ vāyuḥ prakupitaḥ pittaśleṣmāṇau parigṛhya garbhasya rasavahāṃ nāḍīṃ pratipīḍyāvatiṣṭhate tato nāḍyāṃ doṣaiḥ kulyāyāmiva tṛṇapatrādibhiḥ praticchannāyāṃ rasasyāsamyagvahanādgarbho vṛddhimanāpnuvannupaviśatyupaśuṣyati vā",
         "iast_ru": "йасйа̄х̣ пунармахати джа̄таса̄ре гарбхе варджйа̄на̄маварджана̄т пуш̣падарш́анам̣ сйа̄данйадва̄ йонисраван̣ам тасйа̄станнимиттам̣ ва̄йух̣ пракупитах̣ питташ́леш̣ма̄н̣ау паригр̣хйа гарбхасйа расаваха̄м̣ на̄д̣ӣм̣ пратипӣд̣йа̄ватиш̣т̣хате тато на̄д̣йа̄м̣ дош̣аих̣ кулйа̄йа̄мива тр̣н̣апатра̄дибхих̣ пратиччханна̄йа̄м̣ расасйа̄самйагвахана̄дгарбхо вр̣ддхимана̄пнуваннупавиш́атйупаш́уш̣йати ва̄",
-        "text": "У же той, у кого при уже большом, сформировавшемся зародыше, из-за неизбегания того, чего следует избегать, возникают кровянистые выделения или иное истечение из влагалища, — по этой причине у неё ветер, возбудившись, захватив питту-капху, сдавливает канал, несущий сок к зародышу, и застаивается там. Затем, из-за закупорки канала дошами, подобно тому, как закупоривается оросительный канал травой, листьями и подобным, — из-за неправильного протекания сока, зародыш, не достигая роста, либо останавливается в развитии, либо иссыхает."
+        "text": "У же той, у кого при уже большом, сформировавшемся зародыше, из-за неизбегания того, чего следует избегать, возникают кровянистые выделения или иное истечение из влагалища, — по этой причине у неё ветер, возбудившись, захватив питту-капху, сдавливает канал, несущий сок к зародышу, и застаивается там. Затем, из-за закупорки канала дошами, подобно тому, как закупоривается оросительный канал травой, листьями и подобным, — из-за неправильного протекания сока, зародыш, не достигая роста, либо останавливается в развитии, либо иссыхает.",
+        "text_en": "In the woman in whom, with an already large, formed embryo, owing to failure to avoid what should be avoided, bloody discharges or other discharge from the vagina occur, for this reason her Vata, aggravated, having seized Pitta and Kapha, compresses the channel carrying the essence to the embryo and stagnates there. Then, owing to the blockage of the channel by the doshas, just as an irrigation channel is blocked by grass, leaves and the like, owing to the improper flow of the essence, the embryo, not attaining growth, either stops in its development or dries up."
       },
       {
         "type": "verse",
@@ -20816,7 +20978,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र यस्याः कादाचित्कार्तवपरिस्रावावल्पौ च दृश्येते सततं च गर्भः प्राप्तात्परिमाणादपरिहीयमान एव स्फुरति न च कुक्षिर्विवर्धते तमुपविष्टकमित्याचक्षते यदा तु प्रतिमासमार्तवं प्रत्यहं वा परिस्रवणं नात्यल्पं च तथा परिहीयमाणो गर्भश्चिरात् किञ्चित् स्पन्दते कुक्षिश्च वृद्धो ऽपि परिहीयते तदुपशुष्ककं नागोदरं च",
         "iast": "tatra yasyāḥ kādācitkārtavaparisrāvāvalpau ca dṛśyete satataṃ ca garbhaḥ prāptātparimāṇādaparihīyamāna eva sphurati na ca kukṣirvivardhate tamupaviṣṭakamityācakṣate yadā tu pratimāsamārtavaṃ pratyahaṃ vā parisravaṇaṃ nātyalpaṃ ca tathā parihīyamāṇo garbhaścirāt kiñcit spandate kukṣiśca vṛddho 'pi parihīyate tadupaśuṣkakaṃ nāgodaraṃ ca",
         "iast_ru": "татра йасйа̄х̣ ка̄да̄читка̄ртавапарисра̄ва̄валпау ча др̣ш́йете сататам̣ ча гарбхах̣ пра̄пта̄тпарима̄н̣а̄дапарихӣйама̄на ева спхурати на ча кукш̣ирвивардхате тамупавиш̣т̣акамитйа̄чакш̣ате йада̄ ту пратима̄сама̄ртавам̣ пратйахам̣ ва̄ парисраван̣ам̣ на̄тйалпам̣ ча татха̄ парихӣйама̄н̣о гарбхаш́чира̄т кин̃чит спандате кукш̣иш́ча вр̣ддхо 'пи парихӣйате тадупаш́уш̣какам̣ на̄годарам̣ ча",
-        "text": "В этом случае, у той, у кого изредка появляются менструальные кровянистые выделения и они незначительны, и у которой зародыш, постоянно оставаясь в своих уже достигнутых размерах, без убывания, лишь шевелится, но живот не увеличивается, — это состояние называют «упавиштака» (застойный). Когда же ежемесячные, либо ежедневные выделения не слишком малы, и зародыш, таким образом убывающий, лишь изредка, спустя долгое время, слегка шевелится, а живот, даже увеличившись, затем снова убывает, — это называют «упашушкака» (иссыхающий) и «нагодара» (змеиный живот)."
+        "text": "В этом случае, у той, у кого изредка появляются менструальные кровянистые выделения и они незначительны, и у которой зародыш, постоянно оставаясь в своих уже достигнутых размерах, без убывания, лишь шевелится, но живот не увеличивается, — это состояние называют «упавиштака» (застойный). Когда же ежемесячные, либо ежедневные выделения не слишком малы, и зародыш, таким образом убывающий, лишь изредка, спустя долгое время, слегка шевелится, а живот, даже увеличившись, затем снова убывает, — это называют «упашушкака» (иссыхающий) и «нагодара» (змеиный живот).",
+        "text_en": "In this regard, in the woman in whom menstrual-like bloody discharges appear occasionally and are insignificant, and in whom the embryo, constantly remaining at its already attained size without diminishing, only moves but the abdomen does not enlarge, this condition is called \"upavishtaka\" (stagnant). When, however, the monthly or daily discharges are not too small, and the embryo, thus diminishing, only occasionally, after a long time, moves slightly, and the abdomen, even after enlarging, again diminishes, this is called \"upashushkaka\" (drying up) and \"nagodara\" (serpent belly)."
       },
       {
         "type": "verse",
@@ -20824,7 +20987,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तौ तु मातुराहारतेजसाल्पेनाप्याय्यमानौ यदा पुष्टौ स्यातां केशदशनादियुक्तौ तदा वर्षगणैरपि प्रमदा प्रसूयत एव",
         "iast": "tau tu māturāhāratejasālpenāpyāyyamānau yadā puṣṭau syātāṃ keśadaśanādiyuktau tadā varṣagaṇairapi pramadā prasūyata eva",
         "iast_ru": "тау ту ма̄тура̄ха̄ратеджаса̄лпена̄пйа̄ййама̄нау йада̄ пуш̣т̣ау сйа̄та̄м̣ кеш́адаш́ана̄дийуктау тада̄ варш̣аган̣аирапи прамада̄ прасӯйата ева",
-        "text": "Оба же этих состояния, зародыш которых насыщается лишь малым количеством силы материнской пищи, — когда они наконец упитаны, обладают волосами, зубами и подобным, — тогда женщина, даже спустя многие годы, всё же родит."
+        "text": "Оба же этих состояния, зародыш которых насыщается лишь малым количеством силы материнской пищи, — когда они наконец упитаны, обладают волосами, зубами и подобным, — тогда женщина, даже спустя многие годы, всё же родит.",
+        "text_en": "But in both these conditions, whose embryo is nourished only by a small quantity of the strength of the mother's food, when they are finally nourished and possess hair, teeth and the like, then the woman, even after many years, will nevertheless give birth."
       },
       {
         "type": "verse",
@@ -20832,7 +20996,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र वातेनोपविष्टकोपशुष्ककयोर्वायुः प्रतिहन्यते सशब्दं फेनिलं विच्छिन्नं शकृदुपवेश्यते मूत्रमुपरुध्यते कटीपृष्ठहृदयेषु वेदना जृम्भा निद्रानाशो ऽभीक्ष्णं प्रतिश्यायः शुष्ककासः सादः क्ष्वेडेते इव कर्णौ तुद्येते इव शङ्खौ पिपीलिकाभिरिव संसृज्यते शरीरं परिकृन्तन्निव वायुर्भ्रमति कुक्षौ तम इव प्रवेश्यते दुःखेनान्नस्य जरणमहरहः परिहानिः स्फुटितविवर्णपरुषत्वक्त्वं च भवति",
         "iast": "tatra vātenopaviṣṭakopaśuṣkakayorvāyuḥ pratihanyate saśabdaṃ phenilaṃ vicchinnaṃ śakṛdupaveśyate mūtramuparudhyate kaṭīpṛṣṭhahṛdayeṣu vedanā jṛmbhā nidrānāśo 'bhīkṣṇaṃ pratiśyāyaḥ śuṣkakāsaḥ sādaḥ kṣveḍete iva karṇau tudyete iva śaṅkhau pipīlikābhiriva saṃsṛjyate śarīraṃ parikṛntanniva vāyurbhramati kukṣau tama iva praveśyate duḥkhenānnasya jaraṇamaharahaḥ parihāniḥ sphuṭitavivarṇaparuṣatvaktvaṃ ca bhavati",
         "iast_ru": "татра ва̄тенопавиш̣т̣акопаш́уш̣какайорва̄йух̣ пратиханйате саш́абдам̣ пхенилам̣ виччхиннам̣ ш́акр̣дупавеш́йате мӯтрамупарудхйате кат̣ӣпр̣ш̣т̣хахр̣дайеш̣у ведана̄ джр̣мбха̄ нидра̄на̄ш́о 'бхӣкш̣н̣ам̣ пратиш́йа̄йах̣ ш́уш̣кака̄сах̣ са̄дах̣ кш̣вед̣ете ива карн̣ау тудйете ива ш́ан̇кхау пипӣлика̄бхирива сам̣ср̣джйате ш́арӣрам̣ парикр̣нтаннива ва̄йурбхрамати кукш̣ау тама ива правеш́йате дух̣кхена̄ннасйа джаран̣амахарахах̣ париха̄них̣ спхут̣итавиварн̣апаруш̣атвактвам̣ ча бхавати",
-        "text": "В этом случае, при «упавиштаке» и «упашушкаке» от ветра: ветер задерживается и выходит со звуком; кал становится пенистым, прерывистым; моча задерживается; боль в пояснице, спине, сердце; зевота, бессонница; постоянный насморк, сухой кашель, слабость; ощущение, будто в ушах свистит; будто виски пронзают; будто тело покрыто ползающими муравьями; ветер, будто разрезая, кружит в животе; ощущение, будто в живот проникает тьма; пища переваривается с трудом; ежедневное истощение; и кожа становится растрескавшейся, обесцвеченной, грубой."
+        "text": "В этом случае, при «упавиштаке» и «упашушкаке» от ветра: ветер задерживается и выходит со звуком; кал становится пенистым, прерывистым; моча задерживается; боль в пояснице, спине, сердце; зевота, бессонница; постоянный насморк, сухой кашель, слабость; ощущение, будто в ушах свистит; будто виски пронзают; будто тело покрыто ползающими муравьями; ветер, будто разрезая, кружит в животе; ощущение, будто в живот проникает тьма; пища переваривается с трудом; ежедневное истощение; и кожа становится растрескавшейся, обесцвеченной, грубой.",
+        "text_en": "In this regard, in \"upavishtaka\" and \"upashushkaka\" due to Vata: flatus is retained and passes with sound; the stool becomes frothy and interrupted; urine is retained; pain in the loins, back and heart; yawning, insomnia; constant coryza, dry cough, weakness; a sensation as if whistling in the ears; as if the temples were being pierced; as if the body were covered with crawling ants; Vata, as if cutting, circles in the abdomen; a sensation as if darkness entered the abdomen; food is digested with difficulty; daily emaciation; and the skin becomes cracked, discoloured and rough."
       },
       {
         "type": "verse",
@@ -20840,7 +21005,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तेन ताम्रहरितमुपवेश्यते धूमको ऽम्लकश्छर्दिर्मूर्छा कुक्षिहृदयदाहः पीतरक्तगोमूत्राभनेत्रमूत्रनखत्वक्त्वं काली दुर्बला नित्यशूना च नारी भवति",
         "iast": "pittena tāmraharitamupaveśyate dhūmako 'mlakaśchardirmūrchā kukṣihṛdayadāhaḥ pītaraktagomūtrābhanetramūtranakhatvaktvaṃ kālī durbalā nityaśūnā ca nārī bhavati",
         "iast_ru": "питтена та̄мрахаритамупавеш́йате дхӯмако 'млакаш́чхардирмӯрчха̄ кукш̣ихр̣дайада̄хах̣ пӣтарактагомӯтра̄бханетрамӯтранакхатвактвам̣ ка̄лӣ дурбала̄ нитйаш́ӯна̄ ча на̄рӣ бхавати",
-        "text": "От питты: кал становится медно-зелёного цвета; ощущение дымления, кислая отрыжка, рвота, обморок; жжение в животе и сердце; глаза, моча, ногти, кожа приобретают жёлто-красный цвет, цвет коровьей мочи; женщина становится смуглой, слабой, постоянно отёчной."
+        "text": "От питты: кал становится медно-зелёного цвета; ощущение дымления, кислая отрыжка, рвота, обморок; жжение в животе и сердце; глаза, моча, ногти, кожа приобретают жёлто-красный цвет, цвет коровьей мочи; женщина становится смуглой, слабой, постоянно отёчной.",
+        "text_en": "Due to Pitta: the stool becomes coppery-green in colour; a sensation of fuming, sour belching, vomiting, fainting; burning in the abdomen and heart; the eyes, urine, nails and skin acquire a yellow-red colour, the colour of cow's urine; the woman becomes dusky, weak, constantly swollen."
       },
       {
         "type": "verse",
@@ -20848,7 +21014,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्लेष्मणा मधुरास्यत्वमुत्क्लेशः श्लेष्मोद्वमनं भक्तद्वेषः श्वेतहस्तपादनेत्रता कासः श्वासश्च",
         "iast": "śleṣmaṇā madhurāsyatvamutkleśaḥ śleṣmodvamanaṃ bhaktadveṣaḥ śvetahastapādanetratā kāsaḥ śvāsaśca",
         "iast_ru": "ш́леш̣ман̣а̄ мадхура̄сйатвамутклеш́ах̣ ш́леш̣модваманам̣ бхактадвеш̣ах̣ ш́ветахастапа̄данетрата̄ ка̄сах̣ ш́ва̄саш́ча",
-        "text": "От капхи: сладкий привкус во рту, тошнота, отрыгивание капхи, отвращение к пище, побеление рук, ступней, глаз, кашель, одышка."
+        "text": "От капхи: сладкий привкус во рту, тошнота, отрыгивание капхи, отвращение к пище, побеление рук, ступней, глаз, кашель, одышка.",
+        "text_en": "Due to Kapha: sweet taste in the mouth, nausea, expectoration of Kapha, aversion to food, whitening of the hands, feet and eyes, cough, dyspnoea."
       },
       {
         "type": "verse",
@@ -20856,7 +21023,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तयोर्जीवनीयबृंहणीयमधुरौषधसिद्धानां संपिषामुपयोगः तथा पयसां रसानामामगर्भाणां च गर्भवृद्धिकरः तथा सम्भोजनमेतैरेव च घृतादिभिः सुभिक्षाया अभीक्ष्णं यानवाहनापवर्जनबृंहणैरुपपादनम्",
         "iast": "tayorjīvanīyabṛṃhaṇīyamadhurauṣadhasiddhānāṃ saṃpiṣāmupayogaḥ tathā payasāṃ rasānāmāmagarbhāṇāṃ ca garbhavṛddhikaraḥ tathā sambhojanametaireva ca ghṛtādibhiḥ subhikṣāyā abhīkṣṇaṃ yānavāhanāpavarjanabṛṃhaṇairupapādanam",
         "iast_ru": "тайорджӣванӣйабр̣м̣хан̣ӣйамадхурауш̣адхасиддха̄на̄м̣ сам̣пиш̣а̄мупайогах̣ татха̄ пайаса̄м̣ раса̄на̄ма̄магарбха̄н̣а̄м̣ ча гарбхавр̣ддхикарах̣ татха̄ самбходжанаметаирева ча гхр̣та̄дибхих̣ субхикш̣а̄йа̄ абхӣкш̣н̣ам̣ йа̄нава̄хана̄паварджанабр̣м̣хан̣аирупапа̄данам",
-        "text": "Для обоих этих состояний полезно применение маслянистых веществ, сваренных с укрепляющими жизнь, питательными, сладкими лекарствами; а также молока, мясных соков, они, пока зародыш недоваренный, способствуют его росту. Подобным же образом полезно питание этими же веществами вместе с гхи и подобным; а также для хорошо питающейся женщины — постоянное обеспечение хорошим питанием, отказом от езды на транспорте и укреплением."
+        "text": "Для обоих этих состояний полезно применение маслянистых веществ, сваренных с укрепляющими жизнь, питательными, сладкими лекарствами; а также молока, мясных соков, они, пока зародыш недоваренный, способствуют его росту. Подобным же образом полезно питание этими же веществами вместе с гхи и подобным; а также для хорошо питающейся женщины — постоянное обеспечение хорошим питанием, отказом от езды на транспорте и укреплением.",
+        "text_en": "For both these conditions the use of unctuous substances cooked with life-promoting, nourishing, sweet medicines is beneficial; as well as milk and meat juices; while the embryo is not fully developed, they promote its growth. Likewise, nourishment with these same substances together with ghee and the like is beneficial; and also, for a well-nourished woman, constant provision of good nourishment, avoidance of riding in vehicles, and strengthening measures."
       },
       {
         "type": "verse",
@@ -20864,7 +21032,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ विशेषेण वाते पूर्वमेव सैन्धबोपहितं क्षीरबस्तिं दत्वा शीतोदकस्नातां मृदु शाल्योदनं भोजयेत् ततो विदार्यादिगणसाधितेन संषिषानुवासयेत् निवातं च सेवेत पित्ते मधुकविदारीनिर्यूहसिद्धं पयः पिबेत् तिस्रः स्थूलकुक्कुटीर्निस्तुषमाषाढकं च क्षीरोदकेनोलूखले सङ्क्षुद्य तद्रसेन सर्पिषा च तित्तिरिकपिञ्जलान्यतररसं साघयित्वा पाययेदुपविष्टकविवर्धनार्थमुपशुष्ककबृंहणार्थं च अजासंपिषा क्षीरेण जीवनीयैश्च संस्कृतां यवागूं पिबेत्",
         "iast": "atha viśeṣeṇa vāte pūrvameva saindhabopahitaṃ kṣīrabastiṃ datvā śītodakasnātāṃ mṛdu śālyodanaṃ bhojayet tato vidāryādigaṇasādhitena saṃṣiṣānuvāsayet nivātaṃ ca seveta pitte madhukavidārīniryūhasiddhaṃ payaḥ pibet tisraḥ sthūlakukkuṭīrnistuṣamāṣāḍhakaṃ ca kṣīrodakenolūkhale saṅkṣudya tadrasena sarpiṣā ca tittirikapiñjalānyatararasaṃ sāghayitvā pāyayedupaviṣṭakavivardhanārthamupaśuṣkakabṛṃhaṇārthaṃ ca ajāsaṃpiṣā kṣīreṇa jīvanīyaiśca saṃskṛtāṃ yavāgūṃ pibet",
         "iast_ru": "атха виш́еш̣ен̣а ва̄те пӯрвамева саиндхабопахитам̣ кш̣ӣрабастим̣ датва̄ ш́ӣтодакасна̄та̄м̣ мр̣ду ш́а̄лйоданам̣ бходжайет тато вида̄рйа̄диган̣аса̄дхитена сам̣ш̣иш̣а̄нува̄сайет нива̄там̣ ча севета питте мадхукавида̄рӣнирйӯхасиддхам̣ пайах̣ пибет тисрах̣ стхӯлакуккут̣ӣрнистуш̣ама̄ш̣а̄д̣хакам̣ ча кш̣ӣродакенолӯкхале сан̇кш̣удйа тадрасена сарпиш̣а̄ ча титтирикапин̃джала̄нйатарарасам̣ са̄гхайитва̄ па̄йайедупавиш̣т̣акавивардхана̄ртхамупаш́уш̣какабр̣м̣хан̣а̄ртхам̣ ча аджа̄сам̣пиш̣а̄ кш̣ӣрен̣а джӣванӣйаиш́ча сам̣скр̣та̄м̣ йава̄гӯм̣ пибет",
-        "text": "Далее, в особенности при расстройстве ветра, следует прежде всего дать молочную клизму с добавлением каменной соли, затем, омыв её холодной водой, накормить лёгким рисом шали. Затем следует провести анувасану умащением, сваренным с группой видари; и следует пребывать в защищённом от ветра месте. При питте: следует пить молоко, сваренное с отваром солодки и видари; трёх крупных кур и адхаку очищенного от шелухи маша, растолчённых в ступе с молоком и водой, — соком этого и гхи, а также соком куропатки или фазана, следует сварить блюдо и дать выпить — для роста зародыша при упавиштаке и для укрепления при упашушкаке. Следует пить кашицу-ягью, приготовленную с козьим умащением, молоком и укрепляющими жизнь травами."
+        "text": "Далее, в особенности при расстройстве ветра, следует прежде всего дать молочную клизму с добавлением каменной соли, затем, омыв её холодной водой, накормить лёгким рисом шали. Затем следует провести анувасану умащением, сваренным с группой видари; и следует пребывать в защищённом от ветра месте. При питте: следует пить молоко, сваренное с отваром солодки и видари; трёх крупных кур и адхаку очищенного от шелухи маша, растолчённых в ступе с молоком и водой, — соком этого и гхи, а также соком куропатки или фазана, следует сварить блюдо и дать выпить — для роста зародыша при упавиштаке и для укрепления при упашушкаке. Следует пить кашицу-ягью, приготовленную с козьим умащением, молоком и укрепляющими жизнь травами.",
+        "text_en": "Next, especially in a disorder of Vata, one should first give a milk enema with the addition of rock salt, then, having washed her with cold water, feed her light shali rice. Then one should administer anuvasana with unction cooked with the vidari group; and she should stay in a place protected from wind. In Pitta: she should drink milk cooked with a decoction of liquorice and vidari; three large hens and an adhaka of husked masha, pounded in a mortar with milk and water, the juice of this and ghee, as well as the juice of the partridge or pheasant, should be cooked into a dish and given to drink, for the growth of the embryo in upavishtaka and for strengthening in upashushkaka. She should drink yavagu prepared with goat's unction, milk and life-promoting herbs."
       },
       {
         "type": "verse",
@@ -20872,7 +21041,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पयस्याकाकोलीद्वयसुनिषण्णककल्केन पयसा च सर्पिर्विपाचयेत् तत् काल्यं क्षीरानुपानमुपयुञ्जीत आमगर्भरसेन चाश्नीयात् तानेव च तत्र भृष्टान् भक्षयेत् जलचरमांसानि च कफे त्वानूपौदकपिशितोपदंशामच्छसुरां त्रिरात्रं पञ्चरात्रं सप्तरात्रं वा पिबेत्",
         "iast": "payasyākākolīdvayasuniṣaṇṇakakalkena payasā ca sarpirvipācayet tat kālyaṃ kṣīrānupānamupayuñjīta āmagarbharasena cāśnīyāt tāneva ca tatra bhṛṣṭān bhakṣayet jalacaramāṃsāni ca kaphe tvānūpaudakapiśitopadaṃśāmacchasurāṃ trirātraṃ pañcarātraṃ saptarātraṃ vā pibet",
         "iast_ru": "пайасйа̄ка̄колӣдвайасуниш̣ан̣н̣акакалкена пайаса̄ ча сарпирвипа̄чайет тат ка̄лйам̣ кш̣ӣра̄нупа̄намупайун̃джӣта а̄магарбхарасена ча̄ш́нӣйа̄т та̄нева ча татра бхр̣ш̣т̣а̄н бхакш̣айет джалачарама̄м̣са̄ни ча капхе тва̄нӯпаудакапиш́итопадам̣ш́а̄маччхасура̄м̣ трира̄трам̣ пан̃чара̄трам̣ саптара̄трам̣ ва̄ пибет",
-        "text": "Следует сварить гхи с пастой паясьи, обоих каколи, сунишанаки, с молоком. Его следует принимать по утрам, запивая молоком. Следует есть пищу с мясным соком, пока зародыш недоваренный; следует есть также обжаренное мясо этих же животных; и мясо водных животных. При же капхе — с закуской из мяса животных болотистых и водных земель, следует пить чистое вино в течение трёх, пяти или семи ночей."
+        "text": "Следует сварить гхи с пастой паясьи, обоих каколи, сунишанаки, с молоком. Его следует принимать по утрам, запивая молоком. Следует есть пищу с мясным соком, пока зародыш недоваренный; следует есть также обжаренное мясо этих же животных; и мясо водных животных. При же капхе — с закуской из мяса животных болотистых и водных земель, следует пить чистое вино в течение трёх, пяти или семи ночей.",
+        "text_en": "Ghee should be cooked with a paste of payasya, both kakolis and sunishannaka, with milk. It should be taken in the morning, washed down with milk. She should eat food with meat juice while the embryo is not fully developed; she should also eat roasted meat of the same animals; and the meat of aquatic animals. In Kapha, with an accompaniment of the meat of animals of marshy and aquatic regions, she should drink clear wine for three, five or seven nights."
       },
       {
         "type": "verse",
@@ -20880,7 +21050,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तिलमुद्गमाषलवणाबिल्वपात्रैः पञ्चभिर्घृतपात्रं संयोज्य स्वनुगुप्तं निधापयेत् ततः प्रातः पिण्डं बिल्वमात्रं शृतशीतच्छागदुग्धानुपानं वाश्नीयात् अत्रैव वा बदरचूर्णपात्रमपि निदध्यात् एवमवृद्धौ तीक्ष्णैर्विरेचयेदपरापातनीयैश्च पातयेत्",
         "iast": "tilamudgamāṣalavaṇābilvapātraiḥ pañcabhirghṛtapātraṃ saṃyojya svanuguptaṃ nidhāpayet tataḥ prātaḥ piṇḍaṃ bilvamātraṃ śṛtaśītacchāgadugdhānupānaṃ vāśnīyāt atraiva vā badaracūrṇapātramapi nidadhyāt evamavṛddhau tīkṣṇairvirecayedaparāpātanīyaiśca pātayet",
         "iast_ru": "тиламудгама̄ш̣алаван̣а̄билвапа̄траих̣ пан̃чабхиргхр̣тапа̄трам̣ сам̣йоджйа сванугуптам̣ нидха̄пайет татах̣ пра̄тах̣ пин̣д̣ам̣ билвама̄трам̣ ш́р̣таш́ӣтаччха̄гадугдха̄нупа̄нам̣ ва̄ш́нӣйа̄т атраива ва̄ бадарачӯрн̣апа̄трамапи нидадхйа̄т евамавр̣ддхау тӣкш̣н̣аирвиречайедапара̄па̄танӣйаиш́ча па̄тайет",
-        "text": "Соединив пять сосудов кунжута, мунга, маша, соли, семян билвы, с сосудом гхи, следует хранить это надёжно укрытым. Затем, утром, следует есть комок размером с плод билва, запивая охлаждённым варёным козьим молоком. Сюда же следует добавить сосуд порошка колы. Если же зародыш так и не растёт, — следует дать резкое слабительное, и, если необходимо, вызвать выкидыш средствами, вызывающими преждевременные роды."
+        "text": "Соединив пять сосудов кунжута, мунга, маша, соли, семян билвы, с сосудом гхи, следует хранить это надёжно укрытым. Затем, утром, следует есть комок размером с плод билва, запивая охлаждённым варёным козьим молоком. Сюда же следует добавить сосуд порошка колы. Если же зародыш так и не растёт, — следует дать резкое слабительное, и, если необходимо, вызвать выкидыш средствами, вызывающими преждевременные роды.",
+        "text_en": "Having combined five vessels of sesame, mung, masha, salt and bilva seeds with a vessel of ghee, one should store this securely covered. Then, in the morning, one should eat a lump the size of a bilva fruit, washing it down with cooled boiled goat's milk. To this one should add a vessel of kola powder. If the embryo still does not grow, one should give a strong purgative, and, if necessary, induce abortion with remedies that cause premature delivery."
       },
       {
         "type": "verse",
@@ -20888,7 +21059,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यस्याः पुनर्वातोपसृष्टस्रोतसि लीनो गर्भः प्रसुप्तो न स्पन्दते तं लीनमित्याहुः तत्र श्येनोत्क्रोशगोमत्स्यगोधाशिखिकुक्कुटतित्तिरीणामन्यतमस्य रसेन भूरिसर्पिष्केण माषयूषेण वा घृताढ्येन रक्तशाल्योदनं भोजयेत् सक्तून्वा तिलमाषबिल्वशलाटुयुक्तान् पयसा पाययेत् मेद्यमांसोपदंशं वा मार्द्वीकम् तैलेन चाभीक्ष्णमुदरवङ्क्षणोरुकटीपार्श्वपृष्ठान्यभ्यज्यात् मुहुर्मुहुश्चैनां हर्षयेत् पूर्वोक्तं चेक्षेत यस्याः पुनरुदावर्तविबन्धः स्यात्तां वातहरस्निग्धान्नपानैरुपाचरेत्",
         "iast": "yasyāḥ punarvātopasṛṣṭasrotasi līno garbhaḥ prasupto na spandate taṃ līnamityāhuḥ tatra śyenotkrośagomatsyagodhāśikhikukkuṭatittirīṇāmanyatamasya rasena bhūrisarpiṣkeṇa māṣayūṣeṇa vā ghṛtāḍhyena raktaśālyodanaṃ bhojayet saktūnvā tilamāṣabilvaśalāṭuyuktān payasā pāyayet medyamāṃsopadaṃśaṃ vā mārdvīkam tailena cābhīkṣṇamudaravaṅkṣaṇorukaṭīpārśvapṛṣṭhānyabhyajyāt muhurmuhuścaināṃ harṣayet pūrvoktaṃ cekṣeta yasyāḥ punarudāvartavibandhaḥ syāttāṃ vātaharasnigdhānnapānairupācaret",
         "iast_ru": "йасйа̄х̣ пунарва̄топаср̣ш̣т̣асротаси лӣно гарбхах̣ прасупто на спандате там̣ лӣнамитйа̄хух̣ татра ш́йеноткрош́агоматсйагодха̄ш́икхикуккут̣атиттирӣн̣а̄манйатамасйа расена бхӯрисарпиш̣кен̣а ма̄ш̣айӯш̣ен̣а ва̄ гхр̣та̄д̣хйена ракташ́а̄лйоданам̣ бходжайет сактӯнва̄ тилама̄ш̣абилваш́ала̄т̣уйукта̄н пайаса̄ па̄йайет медйама̄м̣сопадам̣ш́ам̣ ва̄ ма̄рдвӣкам таилена ча̄бхӣкш̣н̣амудараван̇кш̣ан̣орукат̣ӣпа̄рш́вапр̣ш̣т̣ха̄нйабхйаджйа̄т мухурмухуш́чаина̄м̣ харш̣айет пӯрвоктам̣ чекш̣ета йасйа̄х̣ пунаруда̄вартавибандхах̣ сйа̄тта̄м̣ ва̄тахараснигдха̄ннапа̄наирупа̄чарет",
-        "text": "У же той, у кого зародыш, застрявший в канале, поражённом ветром, как бы спит, и не шевелится, — это состояние называют «лина» (застывший). В этом случае, следует накормить красным рисом шали с соком одного из животных — сокола, орла, коровы, рыбы, игуаны, павлина, петуха, куропатки, — обильным с гхи, или с супом маша, обильным гхи. Или следует дать выпить сакту с кунжутом, машем, побегами билвы, с молоком; или закуску из жирного мяса с вином. И следует постоянно умащать маслом живот, пах, бёдра, поясницу, бок, спину. И следует снова и снова радовать её. Также следует применять вышеупомянутое лечение. У же той, у кого возникает удаварта с запором, — её следует лечить устраняющей ветер, маслянистой пищей и питьём."
+        "text": "У же той, у кого зародыш, застрявший в канале, поражённом ветром, как бы спит, и не шевелится, — это состояние называют «лина» (застывший). В этом случае, следует накормить красным рисом шали с соком одного из животных — сокола, орла, коровы, рыбы, игуаны, павлина, петуха, куропатки, — обильным с гхи, или с супом маша, обильным гхи. Или следует дать выпить сакту с кунжутом, машем, побегами билвы, с молоком; или закуску из жирного мяса с вином. И следует постоянно умащать маслом живот, пах, бёдра, поясницу, бок, спину. И следует снова и снова радовать её. Также следует применять вышеупомянутое лечение. У же той, у кого возникает удаварта с запором, — её следует лечить устраняющей ветер, маслянистой пищей и питьём.",
+        "text_en": "In the woman in whom the embryo, lodged in a channel afflicted by Vata, as if sleeps and does not move, this condition is called \"lina\" (dormant). In this case one should feed her red shali rice with the juice of one of the animals, falcon, eagle, cow, fish, iguana, peacock, cock or partridge, abundant with ghee, or with a soup of masha abundant in ghee. Or one should give to drink saktu with sesame, masha and bilva shoots, with milk; or an accompaniment of fatty meat with wine. And one should constantly anoint the abdomen, groin, thighs, loins, flank and back with oil. And one should delight her again and again. The above-mentioned treatment should also be applied. In the woman who develops udavarta with constipation, she should be treated with Vata-relieving, unctuous food and drink."
       },
       {
         "type": "verse",
@@ -20896,7 +21068,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अष्टमे तु मासे मधुकसिद्धेन तैलेनानुवासयेत् तदसिद्धौ वीरणशालिकुशकाशेक्षुबालिकावेतसपरिव्याधमूलानां भूतीकानन्ताकाश्मर्यपरूषकमधूकमधुकमृद्वीकानां च पयसार्धोदकेनोद्गृह्य रसं तेन प्रियालबिभीतकमज्जतिलकल्कयुक्तेनेषल्लवणोष्णेन निरूहयेत् विगतविबन्धां च स्नाताशितां सायं तेनैव तैलेनानुवासयेत्",
         "iast": "aṣṭame tu māse madhukasiddhena tailenānuvāsayet tadasiddhau vīraṇaśālikuśakāśekṣubālikāvetasaparivyādhamūlānāṃ bhūtīkānantākāśmaryaparūṣakamadhūkamadhukamṛdvīkānāṃ ca payasārdhodakenodgṛhya rasaṃ tena priyālabibhītakamajjatilakalkayukteneṣallavaṇoṣṇena nirūhayet vigatavibandhāṃ ca snātāśitāṃ sāyaṃ tenaiva tailenānuvāsayet",
         "iast_ru": "аш̣т̣аме ту ма̄се мадхукасиддхена таилена̄нува̄сайет тадасиддхау вӣран̣аш́а̄ликуш́ака̄ш́екш̣уба̄лика̄ветасапаривйа̄дхамӯла̄на̄м̣ бхӯтӣка̄нанта̄ка̄ш́марйапарӯш̣акамадхӯкамадхукамр̣двӣка̄на̄м̣ ча пайаса̄рдходакенодгр̣хйа расам̣ тена прийа̄лабибхӣтакамаджджатилакалкайуктенеш̣аллаван̣ош̣н̣ена нирӯхайет вигатавибандха̄м̣ ча сна̄та̄ш́ита̄м̣ са̄йам̣ тенаива таилена̄нува̄сайет",
-        "text": "В восьмой же месяц следует провести анувасану маслом, сваренным с солодкой. При отсутствии же его, — извлекши сок корней вирана, шали, куша, каша, тростника, балики, ветаса, паривьядха; бхутики, ананты, кашмари, парушаки, мадхуки, солодки, изюма, сваренных с молоком в равном количестве воды, — этим соком, соединённым с пастой ядра приялы, бибхитаки, кунжута, слегка солёным, тёплым, следует провести нирудху. И когда запор устранён, пациентку, омывшуюся и поевшую, следует вечером подвергнуть анувасане тем же самым маслом."
+        "text": "В восьмой же месяц следует провести анувасану маслом, сваренным с солодкой. При отсутствии же его, — извлекши сок корней вирана, шали, куша, каша, тростника, балики, ветаса, паривьядха; бхутики, ананты, кашмари, парушаки, мадхуки, солодки, изюма, сваренных с молоком в равном количестве воды, — этим соком, соединённым с пастой ядра приялы, бибхитаки, кунжута, слегка солёным, тёплым, следует провести нирудху. И когда запор устранён, пациентку, омывшуюся и поевшую, следует вечером подвергнуть анувасане тем же самым маслом.",
+        "text_en": "In the eighth month, anuvasana should be administered with oil cooked with liquorice. In its absence, having extracted the juice of the roots of virana, shali, kusha, kasha, reed, balika, vetasa and parivyadha; of bhutika, ananta, kashmari, parushaka, madhuka, liquorice and raisins, cooked with milk in an equal quantity of water, with this juice, combined with a paste of the kernel of priyala, bibhitaka and sesame, slightly salty, warm, one should administer a niruha. And when the constipation has been relieved, the patient, after bathing and eating, should in the evening be given anuvasana with the same oil."
       },
       {
         "type": "verse",
@@ -20904,7 +21077,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उदावर्तो हि समुपेक्षितः सहसा सगर्भां गर्भिणीमतिपातयेत्",
         "iast": "udāvarto hi samupekṣitaḥ sahasā sagarbhāṃ garbhiṇīmatipātayet",
         "iast_ru": "уда̄варто хи самупекш̣итах̣ сахаса̄ сагарбха̄м̣ гарбхин̣ӣматипа̄тайет",
-        "text": "Ибо оставленная без внимания удаварта может внезапно погубить беременную вместе с зародышем."
+        "text": "Ибо оставленная без внимания удаварта может внезапно погубить беременную вместе с зародышем.",
+        "text_en": "For udavarta, if neglected, may suddenly destroy the pregnant woman together with the embryo."
       },
       {
         "type": "verse",
@@ -20912,7 +21086,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यस्याः पुनरतिमात्रदोषोपचयाद्यथोक्तैर्वा व्यवायादिभिरन्यैर्वा व्याधिभिः पूर्वोपचितेन वा जनन्यपत्ययोः कर्मणा बन्धनान्मुच्यते गर्भः फलमिव वृन्तात् स मुक्तबन्धनो गर्भशय्यामतिक्रम्य यकृत्प्लीहान्त्रविवरैरवस्रंसमानः कोष्ठसङ्क्षोभमापादयति ततः कोष्ठसङ्क्षोभाद्वायुरपानो मूढः कुक्षिबस्तिपार्श्वोदरयोनिशूलानाहविण्मूत्रसङ्गानापाद्य गर्भं च्यावयति तरुणं शोणितभावेन सो ऽभिहितः प्राक्",
         "iast": "yasyāḥ punaratimātradoṣopacayādyathoktairvā vyavāyādibhiranyairvā vyādhibhiḥ pūrvopacitena vā jananyapatyayoḥ karmaṇā bandhanānmucyate garbhaḥ phalamiva vṛntāt sa muktabandhano garbhaśayyāmatikramya yakṛtplīhāntravivarairavasraṃsamānaḥ koṣṭhasaṅkṣobhamāpādayati tataḥ koṣṭhasaṅkṣobhādvāyurapāno mūḍhaḥ kukṣibastipārśvodarayoniśūlānāhaviṇmūtrasaṅgānāpādya garbhaṃ cyāvayati taruṇaṃ śoṇitabhāvena so 'bhihitaḥ prāk",
         "iast_ru": "йасйа̄х̣ пунаратима̄традош̣опачайа̄дйатхоктаирва̄ вйава̄йа̄дибхиранйаирва̄ вйа̄дхибхих̣ пӯрвопачитена ва̄ джананйапатйайох̣ карман̣а̄ бандхана̄нмучйате гарбхах̣ пхаламива вр̣нта̄т са муктабандхано гарбхаш́аййа̄матикрамйа йакр̣тплӣха̄нтравивараиравасрам̣сама̄нах̣ кош̣т̣хасан̇кш̣обхама̄па̄дайати татах̣ кош̣т̣хасан̇кш̣обха̄два̄йурапа̄но мӯд̣хах̣ кукш̣ибастипа̄рш́водарайониш́ӯла̄на̄хавин̣мӯтрасан̇га̄на̄па̄дйа гарбхам̣ чйа̄вайати тарун̣ам̣ ш́он̣итабха̄вена со 'бхихитах̣ пра̄к",
-        "text": "У же той, у кого, из-за чрезмерного накопления дош, или же от вышеупомянутого соития и подобного, или от иных болезней, или же от прежде накопленного неблагоприятного действия матери или ребёнка, — зародыш освобождается от своего прикрепления, подобно плоду от стебля. Он, освободившись от прикрепления, минуя ложе матки, соскальзывая через промежутки печени, селезёнки, кишечника, вызывает возмущение желудочно-кишечного тракта. Затем, от этого возмущения, апана-ветер, сбившись с пути, вызывая боль в животе, мочевом пузыре, боку, животе, влагалище; вздутие; задержку кала и мочи, — изгоняет зародыш. Если это происходит на раннем сроке, в форме ещё лишь крови, — это было упомянуто ранее."
+        "text": "У же той, у кого, из-за чрезмерного накопления дош, или же от вышеупомянутого соития и подобного, или от иных болезней, или же от прежде накопленного неблагоприятного действия матери или ребёнка, — зародыш освобождается от своего прикрепления, подобно плоду от стебля. Он, освободившись от прикрепления, минуя ложе матки, соскальзывая через промежутки печени, селезёнки, кишечника, вызывает возмущение желудочно-кишечного тракта. Затем, от этого возмущения, апана-ветер, сбившись с пути, вызывая боль в животе, мочевом пузыре, боку, животе, влагалище; вздутие; задержку кала и мочи, — изгоняет зародыш. Если это происходит на раннем сроке, в форме ещё лишь крови, — это было упомянуто ранее.",
+        "text_en": "In the woman in whom, owing to excessive accumulation of the doshas, or from the above-mentioned intercourse and the like, or from other diseases, or from the previously accumulated unfavourable action of the mother or the child, the embryo is released from its attachment, like a fruit from its stalk, it, having been released from its attachment, bypassing the bed of the uterus, slipping through the spaces of the liver, spleen and intestine, causes disturbance of the gastrointestinal tract. Then, from this disturbance, Apana Vata, having strayed from its path, causing pain in the abdomen, urinary bladder, flank, belly and vagina; distension; retention of faeces and urine, expels the embryo. If this takes place at an early stage, when it is still in the form of blood only, this has been mentioned earlier."
       },
       {
         "type": "verse",
@@ -20920,7 +21095,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विवृद्धे तु गर्भे स्तब्धं स्तिमितं शीतमश्मगर्भमिवोदरमाभाति शूलमधिकमुपजायते न च स्पन्दते गर्भो नाव्यः प्रादुर्भवन्ति न स्रवति योनिरक्षिणी चास्याः स्रंस्येते तथा भृशमरतिपरीता व्यथते ऽन्यथा चेष्टते ताम्यति भ्राम्यति रोदित्यहर्निशं न स्वपिति पूत्युच्छवासा कृच्छ्राच्छ्रवसित्यतिकष्टं प्राणिति जक्षितीत्येवंविधां स्त्रियं मृतगर्भां विद्यात्",
         "iast": "vivṛddhe tu garbhe stabdhaṃ stimitaṃ śītamaśmagarbhamivodaramābhāti śūlamadhikamupajāyate na ca spandate garbho nāvyaḥ prādurbhavanti na sravati yonirakṣiṇī cāsyāḥ sraṃsyete tathā bhṛśamaratiparītā vyathate 'nyathā ceṣṭate tāmyati bhrāmyati rodityaharniśaṃ na svapiti pūtyucchavāsā kṛcchrācchravasityatikaṣṭaṃ prāṇiti jakṣitītyevaṃvidhāṃ striyaṃ mṛtagarbhāṃ vidyāt",
         "iast_ru": "вивр̣ддхе ту гарбхе стабдхам̣ стимитам̣ ш́ӣтамаш́магарбхамиводарама̄бха̄ти ш́ӯламадхикамупаджа̄йате на ча спандате гарбхо на̄вйах̣ пра̄дурбхаванти на сравати йониракш̣ин̣ӣ ча̄сйа̄х̣ срам̣сйете татха̄ бхр̣ш́амаратипарӣта̄ вйатхате 'нйатха̄ чеш̣т̣ате та̄мйати бхра̄мйати родитйахарниш́ам̣ на свапити пӯтйуччхава̄са̄ кр̣ччхра̄ччхраваситйатикаш̣т̣ам̣ пра̄н̣ити джакш̣итӣтйевам̣видха̄м̣ стрийам̣ мр̣тагарбха̄м̣ видйа̄т",
-        "text": "При же выросшем уже зародыше, если он погибает: живот становится скованным, неподвижным, холодным, твёрдым, будто содержащим камень; возникает усиленная боль; зародыш не шевелится; жилы на животе не проявляются; влагалище не выделяет жидкости; и оба её глаза становятся впалыми; она сильно охвачена беспокойством; страдает; ведёт себя необычно; изнемогает; кружится голова; плачет днём и ночью; не спит; дыхание её зловонно; дышит с трудом, тяжело; издаёт хрипящие звуки. Такую женщину следует распознавать как имеющую мёртвый плод."
+        "text": "При же выросшем уже зародыше, если он погибает: живот становится скованным, неподвижным, холодным, твёрдым, будто содержащим камень; возникает усиленная боль; зародыш не шевелится; жилы на животе не проявляются; влагалище не выделяет жидкости; и оба её глаза становятся впалыми; она сильно охвачена беспокойством; страдает; ведёт себя необычно; изнемогает; кружится голова; плачет днём и ночью; не спит; дыхание её зловонно; дышит с трудом, тяжело; издаёт хрипящие звуки. Такую женщину следует распознавать как имеющую мёртвый плод.",
+        "text_en": "In a fully grown embryo, if it dies: the abdomen becomes stiff, motionless, cold, hard, as if containing a stone; intensified pain arises; the embryo does not move; the veins of the abdomen do not appear; the vagina does not discharge fluid; and both her eyes become sunken; she is strongly seized by restlessness; she suffers; behaves unusually; becomes exhausted; has giddiness; weeps day and night; does not sleep; her breath is foul-smelling; she breathes with difficulty, heavily; and makes wheezing sounds. Such a woman should be recognized as having a dead foetus."
       },
       {
         "type": "verse",
@@ -20928,7 +21104,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तं तु गर्भं कदाचिदसम्यगपत्यपथमनेकधा प्रतिपन्नं विगुणेनेव वायुना षीडितं मोहितं च मूढ गर्भमित्याहुः विगुणानिलप्रतिपीडनवैचित्र्यादसङ्ख्यगतिं च",
         "iast": "taṃ tu garbhaṃ kadācidasamyagapatyapathamanekadhā pratipannaṃ viguṇeneva vāyunā ṣīḍitaṃ mohitaṃ ca mūḍha garbhamityāhuḥ viguṇānilapratipīḍanavaicitryādasaṅkhyagatiṃ ca",
         "iast_ru": "там̣ ту гарбхам̣ када̄чидасамйагапатйапатхаманекадха̄ пратипаннам̣ вигун̣енева ва̄йуна̄ ш̣ӣд̣итам̣ мохитам̣ ча мӯд̣ха гарбхамитйа̄хух̣ вигун̣а̄нилапратипӣд̣анаваичитрйа̄дасан̇кхйагатим̣ ча",
-        "text": "Тот же зародыш, который иногда неправильно, многообразно вступает на родовой путь, будучи сдавлен и приведён в замешательство расстроенным ветром, — называют «мудха-гарбха» (заплутавшим); и он может принимать неисчислимые положения из-за многообразия сдавливания расстроенным ветром."
+        "text": "Тот же зародыш, который иногда неправильно, многообразно вступает на родовой путь, будучи сдавлен и приведён в замешательство расстроенным ветром, — называют «мудха-гарбха» (заплутавшим); и он может принимать неисчислимые положения из-за многообразия сдавливания расстроенным ветром.",
+        "text_en": "That embryo which sometimes enters the birth canal wrongly, in various ways, being compressed and confused by disordered Vata, is called \"mudha-garbha\" (entangled); and it may assume innumerable positions owing to the variety of compression by the disordered Vata."
       },
       {
         "type": "verse",
@@ -20936,7 +21113,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समासतस्तु त्रिविधा ग....र्ध्व तिर्यङ् न्युब्जा च संस्थानानि षुनरष्टौ तान्यत्रैवोत्तरत्र वक्ष्यन्ते",
         "iast": "samāsatastu trividhā ga....rdhva tiryaṅ nyubjā ca saṃsthānāni ṣunaraṣṭau tānyatraivottaratra vakṣyante",
         "iast_ru": "сама̄сатасту тривидха̄ га....рдхва тирйан̇ нйубджа̄ ча сам̣стха̄на̄ни ш̣унараш̣т̣ау та̄нйатраивоттаратра вакш̣йанте",
-        "text": "Вкратце же, его положения трёх видов: вверх, вкось и ничком; положений же, в свою очередь, восемь; они будут изложены далее, в последующем разделе."
+        "text": "Вкратце же, его положения трёх видов: вверх, вкось и ничком; положений же, в свою очередь, восемь; они будут изложены далее, в последующем разделе.",
+        "text_en": "In brief, its positions are of three kinds: upward, oblique and prone; the positions, in turn, are eight; they will be set forth further on, in the following section."
       },
       {
         "type": "verse",
@@ -20944,7 +21122,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तेषु संवेष्वपि विपरीतेन्द्रियार्थामाक्षेपयोनि भ्रंशसंवरणमक्कलश्वासभ्रमाभिपन्नां शीतगात्रां पूत्युद्गारां च वर्जयेत्",
         "iast": "teṣu saṃveṣvapi viparītendriyārthāmākṣepayoni bhraṃśasaṃvaraṇamakkalaśvāsabhramābhipannāṃ śītagātrāṃ pūtyudgārāṃ ca varjayet",
         "iast_ru": "теш̣у сам̣веш̣вапи випарӣтендрийа̄ртха̄ма̄кш̣епайони бхрам̣ш́асам̣варан̣амаккалаш́ва̄сабхрама̄бхипанна̄м̣ ш́ӣтага̄тра̄м̣ пӯтйудга̄ра̄м̣ ча варджайет",
-        "text": "При всех этих положениях, если пациентка с извращённым восприятием объектов чувств, судорогами, выпадением или сужением влагалища, болью «маккала», одышкой, головокружением, с холодным телом, зловонной отрыжкой, — операцию следует прекратить как безнадёжную."
+        "text": "При всех этих положениях, если пациентка с извращённым восприятием объектов чувств, судорогами, выпадением или сужением влагалища, болью «маккала», одышкой, головокружением, с холодным телом, зловонной отрыжкой, — операцию следует прекратить как безнадёжную.",
+        "text_en": "In all these positions, if the patient has perverted perception of the objects of the senses, convulsions, prolapse or narrowing of the vagina, \"makkala\" pain, dyspnoea, giddiness, a cold body and foul belching, the operation should be abandoned as hopeless."
       },
       {
         "type": "verse",
@@ -20952,7 +21131,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "न तु क्षणमप्युपेक्षेत गर्भशल्यम् तद्धि निरुच्छ्वासीकृत्याशु जननीं हन्यात्",
         "iast": "na tu kṣaṇamapyupekṣeta garbhaśalyam taddhi nirucchvāsīkṛtyāśu jananīṃ hanyāt",
         "iast_ru": "на ту кш̣ан̣амапйупекш̣ета гарбхаш́алйам таддхи нируччхва̄сӣкр̣тйа̄ш́у джананӣм̣ ханйа̄т",
-        "text": "Не следует медлить ни мгновения с извлечением «шальи»-зародыша; ибо, лишив мать дыхания, он может быстро погубить её."
+        "text": "Не следует медлить ни мгновения с извлечением «шальи»-зародыша; ибо, лишив мать дыхания, он может быстро погубить её.",
+        "text_en": "Not a moment should be lost in extracting the \"shalya\"-embryo; for, depriving the mother of breath, it may quickly destroy her."
       },
       {
         "type": "verse",
@@ -20960,7 +21140,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सचेतनश्च गर्भः शस्त्रेण विदार्यमाणो विषममङ्गानि विक्षिपेत्",
         "iast": "sacetanaśca garbhaḥ śastreṇa vidāryamāṇo viṣamamaṅgāni vikṣipet",
         "iast_ru": "сачетанаш́ча гарбхах̣ ш́астрен̣а вида̄рйама̄н̣о виш̣амаман̇га̄ни викш̣ипет",
-        "text": "И живой ещё зародыш, будучи рассекаем режущим орудием, может беспорядочно задвигать членами."
+        "text": "И живой ещё зародыш, будучи рассекаем режущим орудием, может беспорядочно задвигать членами.",
+        "text_en": "And a still-living embryo, when cut by a cutting instrument, may move its limbs convulsively."
       },
       {
         "type": "verse",
@@ -20968,7 +21149,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्मात्तत्सङ्गे सूत्यः प्रयतेरन् पूर्वोक्तानि च मन्त्रौषधानि प्रयुञ्जीत त्रिविधस्तु सङ्गो भवति शिरस्यंसे जघने वा",
         "iast": "tasmāttatsaṅge sūtyaḥ prayateran pūrvoktāni ca mantrauṣadhāni prayuñjīta trividhastu saṅgo bhavati śirasyaṃse jaghane vā",
         "iast_ru": "тасма̄ттатсан̇ге сӯтйах̣ прайатеран пӯрвокта̄ни ча мантрауш̣адха̄ни прайун̃джӣта тривидхасту сан̇го бхавати ш́ирасйам̣се джагхане ва̄",
-        "text": "Поэтому, при такой задержке родов, повитухи должны прилагать усилия и применять вышеупомянутые мантры и лекарства. Задержка же бывает трёх видов: в голове, в плече или в тазовой области."
+        "text": "Поэтому, при такой задержке родов, повитухи должны прилагать усилия и применять вышеупомянутые мантры и лекарства. Задержка же бывает трёх видов: в голове, в плече или в тазовой области.",
+        "text_en": "Therefore, in such a delay of delivery, the midwives should make efforts and apply the above-mentioned mantras and medicines. The delay is of three kinds: in the head, in the shoulder or in the pelvic region."
       },
       {
         "type": "verse",
@@ -20976,7 +21158,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मूढगर्भस्य तु जरायुपातनसामान्यं कर्मेत्येके मन्त्रादिकर्माथर्ववेदविहितमित्येके दृष्टकर्मणा शल्यहर्त्रा शल्याहरणमित्येके",
         "iast": "mūḍhagarbhasya tu jarāyupātanasāmānyaṃ karmetyeke mantrādikarmātharvavedavihitamityeke dṛṣṭakarmaṇā śalyahartrā śalyāharaṇamityeke",
         "iast_ru": "мӯд̣хагарбхасйа ту джара̄йупа̄танаса̄ма̄нйам̣ карметйеке мантра̄дикарма̄тхарваведавихитамитйеке др̣ш̣т̣акарман̣а̄ ш́алйахартра̄ ш́алйа̄харан̣амитйеке",
-        "text": "При «мудха-гарбхе», по мнению одних, следует применять обычные меры для изгнания последа; по мнению других — мантры и подобные действия, предписанные Атхарваведой; по мнению третьих — извлечение шальи опытным в этом деле извлекателем шальи."
+        "text": "При «мудха-гарбхе», по мнению одних, следует применять обычные меры для изгнания последа; по мнению других — мантры и подобные действия, предписанные Атхарваведой; по мнению третьих — извлечение шальи опытным в этом деле извлекателем шальи.",
+        "text_en": "In \"mudha-garbha\", in the opinion of some, the usual measures for expelling the afterbirth should be applied; in the opinion of others, mantras and similar actions prescribed by the Atharvaveda; in the opinion of still others, extraction of the shalya by an extractor of shalya experienced in this matter."
       },
       {
         "type": "verse",
@@ -20984,7 +21167,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "न त्वतः कष्टतममस्ति शस्त्रकर्म यतो योनियकृत्प्लीहान्त्रगर्भशयादीनां मध्ये ताननुपहिंसता स्पर्शवता शस्त्रमवचार्यमुत्कर्षणव्यावर्तमोत्कर्तच्छेदनभेदनपीडनर्जूकरणानि चैकेन पाणिना कार्याणि",
         "iast": "na tvataḥ kaṣṭatamamasti śastrakarma yato yoniyakṛtplīhāntragarbhaśayādīnāṃ madhye tānanupahiṃsatā sparśavatā śastramavacāryamutkarṣaṇavyāvartamotkartacchedanabhedanapīḍanarjūkaraṇāni caikena pāṇinā kāryāṇi",
         "iast_ru": "на тватах̣ каш̣т̣атамамасти ш́астракарма йато йонийакр̣тплӣха̄нтрагарбхаш́айа̄дӣна̄м̣ мадхйе та̄нанупахим̣сата̄ спарш́авата̄ ш́астрамавача̄рйамуткарш̣ан̣авйа̄вартамоткартаччхеданабхеданапӣд̣анарджӯкаран̣а̄ни чаикена па̄н̣ина̄ ка̄рйа̄н̣и",
-        "text": "И нет ничего труднее этой хирургической операции; ибо здесь, среди влагалища, печени, селезёнки, кишечника, ложа матки и подобного, — оперирующий должен чутко ощупывающей рукой применять режущее орудие, не повреждая их; и извлечение, поворачивание, рассечение, разрезание, прокалывание, надавливание, выпрямление, — всё это должно выполняться одной рукой."
+        "text": "И нет ничего труднее этой хирургической операции; ибо здесь, среди влагалища, печени, селезёнки, кишечника, ложа матки и подобного, — оперирующий должен чутко ощупывающей рукой применять режущее орудие, не повреждая их; и извлечение, поворачивание, рассечение, разрезание, прокалывание, надавливание, выпрямление, — всё это должно выполняться одной рукой.",
+        "text_en": "And there is nothing more difficult than this surgical operation; for here, among the vagina, liver, spleen, intestine, the bed of the uterus and the like, the operator must apply the cutting instrument with a sensitively feeling hand, without injuring them; and extracting, turning, dissecting, cutting, piercing, pressing and straightening, all this must be performed with one hand."
       },
       {
         "type": "verse",
@@ -20992,7 +21176,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्मादीश्वरमापृच्छ्य परं च यत्नमास्थाय तद्विद्यसहितस्तमुपक्रमेत् अक्रियायां ध्रुवं मरणम् उपक्रमे संशयः तथोदराश्मरीप्रभृतीनपि",
         "iast": "tasmādīśvaramāpṛcchya paraṃ ca yatnamāsthāya tadvidyasahitastamupakramet akriyāyāṃ dhruvaṃ maraṇam upakrame saṃśayaḥ tathodarāśmarīprabhṛtīnapi",
         "iast_ru": "тасма̄дӣш́варама̄пр̣ччхйа парам̣ ча йатнама̄стха̄йа тадвидйасахитастамупакрамет акрийа̄йа̄м̣ дхрувам̣ маран̣ам упакраме сам̣ш́айах̣ татходара̄ш́марӣпрабхр̣тӣнапи",
-        "text": "Поэтому, испросив благословения Ишвары и приложив величайшее старание, врачу, вместе со своими учениками, следует приступить к этой операции. При бездействии — верная смерть; при же проведении операции — лишь сомнение в исходе. Так же следует поступать и при операциях по поводу болезни живота, мочекаменной болезни и подобного."
+        "text": "Поэтому, испросив благословения Ишвары и приложив величайшее старание, врачу, вместе со своими учениками, следует приступить к этой операции. При бездействии — верная смерть; при же проведении операции — лишь сомнение в исходе. Так же следует поступать и при операциях по поводу болезни живота, мочекаменной болезни и подобного.",
+        "text_en": "Therefore, having asked the blessing of Ishvara and applied the utmost effort, the physician, together with his pupils, should undertake this operation. In inaction there is certain death; in performing the operation there is only doubt about the outcome. The same should be done in operations for abdominal disease, urinary stone and the like."
       },
       {
         "type": "verse",
@@ -21000,7 +21185,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथोत्तानाया व्याभुग्नसक्थ्या वस्त्रचुम्बलोन्नमितकटिप्रदेशायाश्च धन्वनागवृन्तिकाशाल्मलीपिच्छाघृतैरभ्यज्य हस्तं योनिं च गर्भमाहरेत्",
         "iast": "athottānāyā vyābhugnasakthyā vastracumbalonnamitakaṭipradeśāyāśca dhanvanāgavṛntikāśālmalīpicchāghṛtairabhyajya hastaṃ yoniṃ ca garbhamāharet",
         "iast_ru": "атхотта̄на̄йа̄ вйа̄бхугнасактхйа̄ вастрачумбалоннамитакат̣ипрадеш́а̄йа̄ш́ча дханвана̄гавр̣нтика̄ш́а̄лмалӣпиччха̄гхр̣таирабхйаджйа хастам̣ йоним̣ ча гарбхама̄харет",
-        "text": "Далее, уложив пациентку на спину, с согнутыми ногами, с областью поясницы, приподнятой свёрнутой тканью, — умастив руку и влагалище маслом дханваны, наги, врунтики, слизью шалмали, гхи, — следует извлечь зародыша."
+        "text": "Далее, уложив пациентку на спину, с согнутыми ногами, с областью поясницы, приподнятой свёрнутой тканью, — умастив руку и влагалище маслом дханваны, наги, врунтики, слизью шалмали, гхи, — следует извлечь зародыша.",
+        "text_en": "Next, having laid the patient on her back with legs bent, with the loin region raised by a rolled cloth, having anointed the hand and vagina with oil of dhanvana, naga, vruntika, mucilage of shalmali and ghee, one should extract the embryo."
       },
       {
         "type": "verse",
@@ -21008,7 +21194,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र सक्थिभ्यामागतस्यानुलोममाञ्छनमेव एकसक्थिप्रपन्नस्येतरं सक्थिः प्रसार्य स्फिग्देशागतस्य स्फिग्देशं प्रतिषिध्योर्ध्वमुत्क्षिप्य सक्थिनी प्रसार्य तिर्यगागतस्य परिघस्येवापरार्धमुत्क्षिप्य पूर्वार्धमपत्यपथं प्रत्यार्जवमानीय पार्श्वापवृत्तशिरसो ऽसं प्रतिपीड्योर्ध्वमुत्क्षिप्य शिरोपत्यपथमानीय बाहुद्वयप्रपन्नस्योर्ध्वमुत्पीड्यासौ शिरोमूअमानीय",
         "iast": "tatra sakthibhyāmāgatasyānulomamāñchanameva ekasakthiprapannasyetaraṃ sakthiḥ prasārya sphigdeśāgatasya sphigdeśaṃ pratiṣidhyordhvamutkṣipya sakthinī prasārya tiryagāgatasya parighasyevāparārdhamutkṣipya pūrvārdhamapatyapathaṃ pratyārjavamānīya pārśvāpavṛttaśiraso 'saṃ pratipīḍyordhvamutkṣipya śiropatyapathamānīya bāhudvayaprapannasyordhvamutpīḍyāsau śiromūamānīya",
         "iast_ru": "татра сактхибхйа̄ма̄гатасйа̄нуломама̄н̃чханамева екасактхипрапаннасйетарам̣ сактхих̣ праса̄рйа спхигдеш́а̄гатасйа спхигдеш́ам̣ пратиш̣идхйордхвамуткш̣ипйа сактхинӣ праса̄рйа тирйага̄гатасйа паригхасйева̄пара̄рдхамуткш̣ипйа пӯрва̄рдхамапатйапатхам̣ пратйа̄рджавама̄нӣйа па̄рш́ва̄павр̣тташ́ирасо 'сам̣ пратипӣд̣йордхвамуткш̣ипйа ш́иропатйапатхама̄нӣйа ба̄худвайапрапаннасйордхвамутпӣд̣йа̄сау ш́иромӯама̄нӣйа",
-        "text": "В этом случае: если зародыш выходит обеими ногами вперёд — просто извлечение по направлению хода. У зародыша, вышедшего одной ногой, — вытянув другую ногу также вперёд, извлечь. У зародыша, идущего ягодицами, — оттолкнув назад ягодичную область, приподняв вверх, и вытянув обе ноги, извлечь. У зародыша, идущего поперёк, подобно засову двери, — приподняв заднюю половину, направив переднюю половину прямо в родовой путь, извлечь. У зародыша с головой, повёрнутой набок, — надавив на плечо, приподняв вверх, направив голову в родовой путь, извлечь. У зародыша, вышедшего обеими руками вперёд, — приподняв их вверх, направив затем голову в путь, извлечь."
+        "text": "В этом случае: если зародыш выходит обеими ногами вперёд — просто извлечение по направлению хода. У зародыша, вышедшего одной ногой, — вытянув другую ногу также вперёд, извлечь. У зародыша, идущего ягодицами, — оттолкнув назад ягодичную область, приподняв вверх, и вытянув обе ноги, извлечь. У зародыша, идущего поперёк, подобно засову двери, — приподняв заднюю половину, направив переднюю половину прямо в родовой путь, извлечь. У зародыша с головой, повёрнутой набок, — надавив на плечо, приподняв вверх, направив голову в родовой путь, извлечь. У зародыша, вышедшего обеими руками вперёд, — приподняв их вверх, направив затем голову в путь, извлечь.",
+        "text_en": "In this regard: if the embryo comes out with both feet first, simple extraction in the direction of its course. For an embryo that has come out with one foot, having drawn the other foot also forward, extract it. For an embryo presenting by the buttocks, having pushed back the gluteal region, raised it upward and drawn out both legs, extract it. For an embryo lying transversely, like the bolt of a door, having raised the rear half and directed the front half straight into the birth canal, extract it. For an embryo with the head turned to the side, having pressed on the shoulder and raised it upward, directing the head into the birth canal, extract it. For an embryo that has come out with both arms forward, having raised them upward, then directing the head into the passage, extract it."
       },
       {
         "type": "verse",
@@ -21016,7 +21203,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यस्त्वाभुग्नमध्यः पाणिपादशिरोभिर्योनिं प्रतिपद्यते यश्चाभुग्न एवैकेन पादेन योनिं द्वितीयेन पायुम् तौ मूढौ हस्तेनाहर्तुमशक्याविति शस्त्रमवचारयेत्",
         "iast": "yastvābhugnamadhyaḥ pāṇipādaśirobhiryoniṃ pratipadyate yaścābhugna evaikena pādena yoniṃ dvitīyena pāyum tau mūḍhau hastenāhartumaśakyāviti śastramavacārayet",
         "iast_ru": "йаства̄бхугнамадхйах̣ па̄н̣ипа̄даш́иробхирйоним̣ пратипадйате йаш́ча̄бхугна еваикена па̄дена йоним̣ двитӣйена па̄йум тау мӯд̣хау хастена̄хартумаш́акйа̄вити ш́астрамавача̄райет",
-        "text": "Тот же зародыш, который, согнутый в середине тела, входит во влагалище одновременно руками, ногами и головой; и тот, который, будучи согнутым, направляется одной ногой во влагалище, а другой — в задний проход, — эти два положения «мудха» невозможно извлечь рукой; в этом случае следует применить режущее орудие."
+        "text": "Тот же зародыш, который, согнутый в середине тела, входит во влагалище одновременно руками, ногами и головой; и тот, который, будучи согнутым, направляется одной ногой во влагалище, а другой — в задний проход, — эти два положения «мудха» невозможно извлечь рукой; в этом случае следует применить режущее орудие.",
+        "text_en": "That embryo which, bent in the middle of the body, enters the vagina simultaneously with arms, legs and head; and that which, being bent, is directed with one leg into the vagina and with the other into the anus, these two \"mudha\" positions cannot be extracted by hand; in this case a cutting instrument should be applied."
       },
       {
         "type": "verse",
@@ -21024,7 +21212,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ स्त्रियमाश्वास्य मण्डलाग्रेणाङ्गुलिशस्त्रेण वा विदार्य शिरः कपालान्याहृत्य गर्भशङ्कुना गृहीत्वा चिबुके तालुन्युरसि कक्ष्यायां वापहरेत् अभिन्नशिरसं चाक्षिकूटे वा तथांससक्तस्यांसदेशे बाहुं छित्वा दृतेरिवाध्मातस्य वातपूर्णमुदरमवदार्य निरस्यान्त्राणि शिथिलीभूतमाहरेत् जघनसक्तस्य जघनकपालानि दारयित्वेति",
         "iast": "atha striyamāśvāsya maṇḍalāgreṇāṅguliśastreṇa vā vidārya śiraḥ kapālānyāhṛtya garbhaśaṅkunā gṛhītvā cibuke tālunyurasi kakṣyāyāṃ vāpaharet abhinnaśirasaṃ cākṣikūṭe vā tathāṃsasaktasyāṃsadeśe bāhuṃ chitvā dṛterivādhmātasya vātapūrṇamudaramavadārya nirasyāntrāṇi śithilībhūtamāharet jaghanasaktasya jaghanakapālāni dārayitveti",
         "iast_ru": "атха стрийама̄ш́ва̄сйа ман̣д̣ала̄грен̣а̄н̇гулиш́астрен̣а ва̄ вида̄рйа ш́ирах̣ капа̄ла̄нйа̄хр̣тйа гарбхаш́ан̇куна̄ гр̣хӣтва̄ чибуке та̄лунйураси какш̣йа̄йа̄м̣ ва̄пахарет абхиннаш́ирасам̣ ча̄кш̣икӯт̣е ва̄ татха̄м̣сасактасйа̄м̣садеш́е ба̄хум̣ чхитва̄ др̣терива̄дхма̄тасйа ва̄тапӯрн̣амударамавада̄рйа нирасйа̄нтра̄н̣и ш́итхилӣбхӯтама̄харет джагханасактасйа джагханакапа̄ла̄ни да̄райитвети",
-        "text": "Далее, успокоив женщину, следует, инструментом «мандалагра» или пальцевым режущим орудием, рассечь голову; извлечь черепные кости; захватив зародыша плодным крючком, — извлечь за подбородок, нёбо, грудь или подмышку. У зародыша с нерассечённой головой — извлечь за наружный угол глаза; у застрявшего же плечом — рассечь руку в области плеча. У зародыша с животом, вздутым ветром, подобно раздутому бурдюку, — рассечь живот, удалить внутренности и извлечь ставшее дряблым тело. У застрявшего в тазовой области — рассечь тазовые кости."
+        "text": "Далее, успокоив женщину, следует, инструментом «мандалагра» или пальцевым режущим орудием, рассечь голову; извлечь черепные кости; захватив зародыша плодным крючком, — извлечь за подбородок, нёбо, грудь или подмышку. У зародыша с нерассечённой головой — извлечь за наружный угол глаза; у застрявшего же плечом — рассечь руку в области плеча. У зародыша с животом, вздутым ветром, подобно раздутому бурдюку, — рассечь живот, удалить внутренности и извлечь ставшее дряблым тело. У застрявшего в тазовой области — рассечь тазовые кости.",
+        "text_en": "Next, having calmed the woman, one should, with the instrument \"mandalagra\" or a finger-knife, cut open the head; extract the cranial bones; having seized the embryo with a foetal hook, extract it by the chin, palate, chest or armpit. In an embryo with an undivided head, extract it by the outer corner of the eye; in one stuck by the shoulder, cut off the arm in the region of the shoulder. In an embryo with the abdomen distended by Vata like an inflated water-skin, cut open the abdomen, remove the viscera and extract the body, which has become flaccid. In one stuck in the pelvic region, cut through the pelvic bones."
       },
       {
         "type": "verse",
@@ -21032,7 +21221,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अपि च यद्यद्वायुवशादङ्गं सज्जेद्गर्भस्य खण्डशः तत्तच्छित्वा हरेत्सम्यग्रक्षन्नारीं च यत्नतः",
         "iast": "api ca yadyadvāyuvaśādaṅgaṃ sajjedgarbhasya khaṇḍaśaḥ tattacchitvā haretsamyagrakṣannārīṃ ca yatnataḥ",
         "iast_ru": "апи ча йадйадва̄йуваш́а̄дан̇гам̣ саджджедгарбхасйа кхан̣д̣аш́ах̣ таттаччхитва̄ харетсамйагракш̣анна̄рӣм̣ ча йатнатах̣",
-        "text": "И кроме того, какая бы часть тела зародыша ни застряла из-за неправильного положения от ветра, — её следует, разрезав на части, извлечь, надлежащим образом старательно оберегая женщину."
+        "text": "И кроме того, какая бы часть тела зародыша ни застряла из-за неправильного положения от ветра, — её следует, разрезав на части, извлечь, надлежащим образом старательно оберегая женщину.",
+        "text_en": "And moreover, whatever part of the embryo's body is stuck owing to a wrong position due to Vata, it should be cut into pieces and extracted, the woman being carefully protected in the proper manner."
       },
       {
         "type": "verse",
@@ -21040,7 +21230,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथापतन्तीमपरां पातयेत् पूर्ववद्भिषक् एवं निर्हृतशल्यां तु सिञ्चेदुष्णेन वारिणा",
         "iast": "athāpatantīmaparāṃ pātayet pūrvavadbhiṣak evaṃ nirhṛtaśalyāṃ tu siñceduṣṇena vāriṇā",
         "iast_ru": "атха̄патантӣмапара̄м̣ па̄тайет пӯрвавадбхиш̣ак евам̣ нирхр̣таш́алйа̄м̣ ту син̃чедуш̣н̣ена ва̄рин̣а̄",
-        "text": "Затем врачу следует извлечь плаценту, если она сама не отходит, как прежде описано. Таким образом, пациентку, у которой шалья извлечена, следует оросить тёплой водой."
+        "text": "Затем врачу следует извлечь плаценту, если она сама не отходит, как прежде описано. Таким образом, пациентку, у которой шалья извлечена, следует оросить тёплой водой.",
+        "text_en": "Then the physician should extract the placenta if it does not come away by itself, as described before. Thus the patient, from whom the shalya has been extracted, should be bathed with warm water."
       },
       {
         "type": "verse",
@@ -21048,7 +21239,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दद्यादभ्यक्तदेहायै योनौ स्नेहपिचुं ततः योनिर्मृदुर्भवेत्तेन शूलं चास्याः प्रशाम्यति",
         "iast": "dadyādabhyaktadehāyai yonau snehapicuṃ tataḥ yonirmṛdurbhavettena śūlaṃ cāsyāḥ praśāmyati",
         "iast_ru": "дадйа̄дабхйактадеха̄йаи йонау снехапичум̣ татах̣ йонирмр̣дурбхаветтена ш́ӯлам̣ ча̄сйа̄х̣ праш́а̄мйати",
-        "text": "Ей, с умащённым телом, следует затем ввести во влагалище тампон с умащением; благодаря этому влагалище становится мягким, и боль у неё успокаивается."
+        "text": "Ей, с умащённым телом, следует затем ввести во влагалище тампон с умащением; благодаря этому влагалище становится мягким, и боль у неё успокаивается.",
+        "text_en": "In her, with her body anointed, a tampon with unction should then be introduced into the vagina; by this the vagina becomes soft and her pain subsides."
       },
       {
         "type": "verse",
@@ -21056,7 +21248,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दीप्यकातिविषारास्नाहिङ्ग्वेलापञ्चकोलकात् चूर्णं स्नेहेन कल्कं वा क्वाथं वा पाययेत्ततः",
         "iast": "dīpyakātiviṣārāsnāhiṅgvelāpañcakolakāt cūrṇaṃ snehena kalkaṃ vā kvāthaṃ vā pāyayettataḥ",
         "iast_ru": "дӣпйака̄тивиш̣а̄ра̄сна̄хин̇гвела̄пан̃чаколака̄т чӯрн̣ам̣ снехена калкам̣ ва̄ ква̄тхам̣ ва̄ па̄йайеттатах̣",
-        "text": "Затем следует дать выпить порошок дипьяки, атививиши, расны, хингу, кардамона, панчаколы, с умащением; или пасту; или отвар."
+        "text": "Затем следует дать выпить порошок дипьяки, атививиши, расны, хингу, кардамона, панчаколы, с умащением; или пасту; или отвар.",
+        "text_en": "Then one should give to drink a powder of dipyaka, ativisha, rasna, hingu, cardamom and panchakola, with unction; or a paste; or a decoction."
       },
       {
         "type": "verse",
@@ -21064,7 +21257,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कटुकातिविषापाठाशाकत्वग्धिङ्गुतैजनीः तद्वच्च दोषस्यन्दार्थं वेदनोपशमाय च",
         "iast": "kaṭukātiviṣāpāṭhāśākatvagdhiṅgutaijanīḥ tadvacca doṣasyandārthaṃ vedanopaśamāya ca",
         "iast_ru": "кат̣ука̄тивиш̣а̄па̄т̣ха̄ш́а̄катвагдхин̇гутаиджанӣх̣ тадвачча дош̣асйанда̄ртхам̣ веданопаш́ама̄йа ча",
-        "text": "Или же катуку, ативишу, патху, кору шаки, хингу, тайджани, — подобным же образом, для истечения доши и успокоения боли."
+        "text": "Или же катуку, ативишу, патху, кору шаки, хингу, тайджани, — подобным же образом, для истечения доши и успокоения боли.",
+        "text_en": "Or else katuka, ativisha, patha, shaka bark, hingu and taijani, likewise, for the discharge of the dosha and the relief of pain."
       },
       {
         "type": "verse",
@@ -21072,7 +21266,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिरात्रमेवं सप्ताहं स्नेहमेव ततः पिबेत् सायं पिबेदरिष्टं च तथा सुकृतमासवम्",
         "iast": "trirātramevaṃ saptāhaṃ snehameva tataḥ pibet sāyaṃ pibedariṣṭaṃ ca tathā sukṛtamāsavam",
         "iast_ru": "трира̄трамевам̣ сапта̄хам̣ снехамева татах̣ пибет са̄йам̣ пибедариш̣т̣ам̣ ча татха̄ сукр̣тама̄савам",
-        "text": "Таким образом следует давать умащение три ночи или неделю; затем следует пить его вечером; а также аристу и хорошо приготовленный асаву."
+        "text": "Таким образом следует давать умащение три ночи или неделю; затем следует пить его вечером; а также аристу и хорошо приготовленный асаву.",
+        "text_en": "In this way unction should be given for three nights or a week; then it should be drunk in the evening; and also arishta and well-prepared asava."
       },
       {
         "type": "verse",
@@ -21080,7 +21275,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिरीषककुभक्वाथपिचून्योनौ च निक्षिपेत्",
         "iast": "śirīṣakakubhakvāthapicūnyonau ca nikṣipet",
         "iast_ru": "ш́ирӣш̣акакубхаква̄тхапичӯнйонау ча никш̣ипет",
-        "text": "И следует вводить во влагалище тампоны с отваром шириши и какубхи."
+        "text": "И следует вводить во влагалище тампоны с отваром шириши и какубхи.",
+        "text_en": "And tampons with a decoction of shirisha and kakubha should be introduced into the vagina."
       },
       {
         "type": "verse",
@@ -21088,7 +21284,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उपद्रवाश्च ये ऽन्ये स्युस्तान्यथास्वमुपाचरेत् पयो वातहरैः सिद्धं दशाहं भोजने हितम्",
         "iast": "upadravāśca ye 'nye syustānyathāsvamupācaret payo vātaharaiḥ siddhaṃ daśāhaṃ bhojane hitam",
         "iast_ru": "упадрава̄ш́ча йе 'нйе сйуста̄нйатха̄свамупа̄чарет пайо ва̄тахараих̣ сиддхам̣ даш́а̄хам̣ бходжане хитам",
-        "text": "А прочие осложнения, которые могут возникнуть, следует лечить соответствующим образом. Молоко, сваренное с устраняющими ветер травами, полезно в пище в течение десяти дней."
+        "text": "А прочие осложнения, которые могут возникнуть, следует лечить соответствующим образом. Молоко, сваренное с устраняющими ветер травами, полезно в пище в течение десяти дней.",
+        "text_en": "Other complications that may arise should be treated accordingly. Milk cooked with Vata-relieving herbs is beneficial in the diet for ten days."
       },
       {
         "type": "verse",
@@ -21096,7 +21293,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रसो दशाहं च परं लघुपथ्याल्पभोजना",
         "iast": "raso daśāhaṃ ca paraṃ laghupathyālpabhojanā",
         "iast_ru": "расо даш́а̄хам̣ ча парам̣ лагхупатхйа̄лпабходжана̄",
-        "text": "Мясной сок — ещё десять дней сверх того; затем лёгкая, благоприятная пища в малом количестве."
+        "text": "Мясной сок — ещё десять дней сверх того; затем лёгкая, благоприятная пища в малом количестве.",
+        "text_en": "Meat juice for ten days more beyond that; then light, favourable food in small quantity."
       },
       {
         "type": "verse",
@@ -21104,7 +21302,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहाभ्यङ्गपरा स्नेहान बलातैलादिकान् भजेत् ऊर्ध्वं चतुर्भ्यो मासेभ्यः सा क्रमेण सुखानि च",
         "iast": "snehābhyaṅgaparā snehāna balātailādikān bhajet ūrdhvaṃ caturbhyo māsebhyaḥ sā krameṇa sukhāni ca",
         "iast_ru": "снеха̄бхйан̇гапара̄ снеха̄на бала̄таила̄дика̄н бхаджет ӯрдхвам̣ чатурбхйо ма̄себхйах̣ са̄ крамен̣а сукха̄ни ча",
-        "text": "Женщине, преданной умащению и растиранию, следует применять умащающие средства — масло балы и подобное. По прошествии же четырёх месяцев, она постепенно, по порядку возвращается к приятным занятиям."
+        "text": "Женщине, преданной умащению и растиранию, следует применять умащающие средства — масло балы и подобное. По прошествии же четырёх месяцев, она постепенно, по порядку возвращается к приятным занятиям.",
+        "text_en": "For a woman devoted to oleation and massage, oleating measures such as bala oil should be applied. After four months have passed, she gradually, in order, returns to pleasurable pursuits."
       },
       {
         "type": "verse",
@@ -21112,7 +21311,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथ बलातैलमुपदेक्ष्यामः बलामूलकषायस्य भागाः षट् तावन्त एव पयसो यवकोलकुलत्थदशमूलकषायस्य भागो भागश्चतुर्दशस्तैलस्य तत्सर्वमैकध्यं कृत्वा श्लक्ष्णपिष्टानि चावाप्य काकोलीक्षीरकाकोलीजीवकर्षभकमुद्गपर्णीमाषपर्णी मोदामहामेदाक्षीरशुक्लामधुकदेवदारुमञ्जिष्ठाचन्दनसारिवातगरकुष्ठशतावर्यश्वगन्धापुनर्नवाशतपुष्पावरापत्ररससरलशैलेयैलावचागरुकालानुसारीसैन्धवानि शनैर्मृद्वग्निना साधयित्वा सुभाजने ऽनुगुप्तं निदध्यादेष भगवतो धन्वन्तरेरभिमतस्तैलराजो राज्ञां राजमात्राणां सूतिकानां कृशानां शिशूनामतीतवयसां सुकुमाराणां शूलिनां महाग्रहगृहीतानां दीर्घरोगक्षपितवपुषां मर्मविद्धपतिताभिहतभग्नविश्लिष्टदेहानां दैवोपघाताभिशप्तमनोज्वरपरीतानां पाननावनाभ्यङ्गबस्तिषु प्रयोज्यः तेन बलपौरुषस्मृतिमतिमेधाग्निवीर्यौजांसि विवर्धन्ते पक्षाघाताक्षेपकार्दितादिविविधवातविकारगुल्महिक्काश्वासकासा निवर्तन्ते अहरहश्चोपयुज्यमाने षण्मासादान्त्रवृद्धिः प्रशाम्यति च वन्ध्या च पुत्रं गुणवन्तमिच्छया लभत इति भवन्ति चात्र",
         "iast": "atha balātailamupadekṣyāmaḥ balāmūlakaṣāyasya bhāgāḥ ṣaṭ tāvanta eva payaso yavakolakulatthadaśamūlakaṣāyasya bhāgo bhāgaścaturdaśastailasya tatsarvamaikadhyaṃ kṛtvā ślakṣṇapiṣṭāni cāvāpya kākolīkṣīrakākolījīvakarṣabhakamudgaparṇīmāṣaparṇī modāmahāmedākṣīraśuklāmadhukadevadārumañjiṣṭhācandanasārivātagarakuṣṭhaśatāvaryaśvagandhāpunarnavāśatapuṣpāvarāpatrarasasaralaśaileyailāvacāgarukālānusārīsaindhavāni śanairmṛdvagninā sādhayitvā subhājane 'nuguptaṃ nidadhyādeṣa bhagavato dhanvantarerabhimatastailarājo rājñāṃ rājamātrāṇāṃ sūtikānāṃ kṛśānāṃ śiśūnāmatītavayasāṃ sukumārāṇāṃ śūlināṃ mahāgrahagṛhītānāṃ dīrgharogakṣapitavapuṣāṃ marmaviddhapatitābhihatabhagnaviśliṣṭadehānāṃ daivopaghātābhiśaptamanojvaraparītānāṃ pānanāvanābhyaṅgabastiṣu prayojyaḥ tena balapauruṣasmṛtimatimedhāgnivīryaujāṃsi vivardhante pakṣāghātākṣepakārditādivividhavātavikāragulmahikkāśvāsakāsā nivartante aharahaścopayujyamāne ṣaṇmāsādāntravṛddhiḥ praśāmyati ca vandhyā ca putraṃ guṇavantamicchayā labhata iti bhavanti cātra",
         "iast_ru": "атха бала̄таиламупадекш̣йа̄мах̣ бала̄мӯлакаш̣а̄йасйа бха̄га̄х̣ ш̣ат̣ та̄ванта ева пайасо йаваколакулаттхадаш́амӯлакаш̣а̄йасйа бха̄го бха̄гаш́чатурдаш́астаиласйа татсарвамаикадхйам̣ кр̣тва̄ ш́лакш̣н̣апиш̣т̣а̄ни ча̄ва̄пйа ка̄колӣкш̣ӣрака̄колӣджӣвакарш̣абхакамудгапарн̣ӣма̄ш̣апарн̣ӣ мода̄маха̄меда̄кш̣ӣраш́укла̄мадхукадевада̄руман̃джиш̣т̣ха̄чанданаса̄рива̄тагаракуш̣т̣хаш́ата̄варйаш́вагандха̄пунарнава̄ш́атапуш̣па̄вара̄патрарасасаралаш́аилейаила̄вача̄гарука̄ла̄нуса̄рӣсаиндхава̄ни ш́анаирмр̣двагнина̄ са̄дхайитва̄ субха̄джане 'нугуптам̣ нидадхйа̄деш̣а бхагавато дханвантарерабхиматастаилара̄джо ра̄джн̃а̄м̣ ра̄джама̄тра̄н̣а̄м̣ сӯтика̄на̄м̣ кр̣ш́а̄на̄м̣ ш́иш́ӯна̄матӣтавайаса̄м̣ сукума̄ра̄н̣а̄м̣ ш́ӯлина̄м̣ маха̄грахагр̣хӣта̄на̄м̣ дӣргхарогакш̣апитавапуш̣а̄м̣ мармавиддхапатита̄бхихатабхагнавиш́лиш̣т̣адеха̄на̄м̣ даивопагха̄та̄бхиш́аптаманоджварапарӣта̄на̄м̣ па̄нана̄вана̄бхйан̇габастиш̣у прайоджйах̣ тена балапауруш̣асмр̣тиматимедха̄гнивӣрйауджа̄м̣си вивардханте пакш̣а̄гха̄та̄кш̣епака̄рдита̄дививидхава̄тавика̄рагулмахикка̄ш́ва̄сака̄са̄ нивартанте ахарахаш́чопайуджйама̄не ш̣ан̣ма̄са̄да̄нтравр̣ддхих̣ праш́а̄мйати ча вандхйа̄ ча путрам̣ гун̣авантамиччхайа̄ лабхата ити бхаванти ча̄тра",
-        "text": "Далее мы изложим рецепт масла балы: шесть частей отвара корня балы; столько же молока; одна часть отвара ячменя, колы, кулаттхи, дашамулы; четырнадцать частей масла. Всё это, соединив вместе, и добавив тонко растёртые: каколи, кширакаколи, дживаку, ришабхаку, мудгапарни, машапарни, моду, махамеду, кширашуклу, солодку, деодар, манджиштху, сандал, сариву, тагару, куштху, шатавари, ашвагандху, пунарнаву, шатапушпу, вара-патру, сок сарала, шайлею, кардамон, вачу, агуру, каланусари, каменную соль, — следует медленно варить на слабом огне и хранить в хорошем сосуде, надёжно укрытом. Это — «Тайла-раджа» (Царь масел), одобренный Блаженным Дхантанвари; он применяется в питье, назальной терапии, умащении, клизмах — для царей, цариц, родивших женщин, истощённых, детей, стариков, нежных телом, страдающих коликами, охваченных великими грахами, с телом, истощённым долгой болезнью, для тех, у кого тело повреждено ранением жизненно важных точек, падением, ударом, переломом, разрывом, для страдающих безумием от кары судьбы или проклятия. Благодаря ему возрастают: сила, мужество, память, разум, интеллект, огонь пищеварения, половая сила, оджас; устраняются: паралич, судороги, ардита и различные другие расстройства ветра, гульма, икота, одышка, кашель. При ежедневном применении в течение шести месяцев успокаивается даже грыжа кишечника; и бесплодная женщина может по желанию обрести добродетельного сына. И здесь также применимо:"
+        "text": "Далее мы изложим рецепт масла балы: шесть частей отвара корня балы; столько же молока; одна часть отвара ячменя, колы, кулаттхи, дашамулы; четырнадцать частей масла. Всё это, соединив вместе, и добавив тонко растёртые: каколи, кширакаколи, дживаку, ришабхаку, мудгапарни, машапарни, моду, махамеду, кширашуклу, солодку, деодар, манджиштху, сандал, сариву, тагару, куштху, шатавари, ашвагандху, пунарнаву, шатапушпу, вара-патру, сок сарала, шайлею, кардамон, вачу, агуру, каланусари, каменную соль, — следует медленно варить на слабом огне и хранить в хорошем сосуде, надёжно укрытом. Это — «Тайла-раджа» (Царь масел), одобренный Блаженным Дхантанвари; он применяется в питье, назальной терапии, умащении, клизмах — для царей, цариц, родивших женщин, истощённых, детей, стариков, нежных телом, страдающих коликами, охваченных великими грахами, с телом, истощённым долгой болезнью, для тех, у кого тело повреждено ранением жизненно важных точек, падением, ударом, переломом, разрывом, для страдающих безумием от кары судьбы или проклятия. Благодаря ему возрастают: сила, мужество, память, разум, интеллект, огонь пищеварения, половая сила, оджас; устраняются: паралич, судороги, ардита и различные другие расстройства ветра, гульма, икота, одышка, кашель. При ежедневном применении в течение шести месяцев успокаивается даже грыжа кишечника; и бесплодная женщина может по желанию обрести добродетельного сына. И здесь также применимо:",
+        "text_en": "Next we shall set forth the recipe for bala oil: six parts of decoction of the root of bala; the same quantity of milk; one part of decoction of barley, kola, kulattha and dashamula; fourteen parts of oil. Having combined all this, and adding finely ground kakoli, kshirakakoli, jivaka, rishabhaka, mudgaparni, mashaparni, meda, mahameda, kshirashukla, liquorice, devadaru, manjishtha, sandalwood, sariva, tagara, kushtha, shatavari, ashvagandha, punarnava, shatapushpa, vara-patra, the juice of sarala, shaileya, cardamom, vacha, aguru, kalanusari and rock salt, one should cook slowly over a gentle fire and store in a good vessel, securely covered. This is \"Taila-raja\" (King of Oils), approved by the Blessed Dhanvantari; it is used for drinking, nasal therapy, anointing and enemas, for kings, queens, women who have given birth, the emaciated, children, the aged, those of delicate body, those suffering from colic, those seized by the great grahas, those whose body is wasted by long illness, those whose body is injured by wounds to vital points, a fall, a blow, a fracture or a tear, and those suffering from madness through the punishment of fate or a curse. Through it there increase: strength, courage, memory, intellect, understanding, digestive fire, sexual power and ojas; and there are relieved: paralysis, convulsions, ardita and various other disorders of Vata, gulma, hiccup, dyspnoea and cough. When used daily for six months, even intestinal hernia subsides; and a barren woman may, as she wishes, obtain a virtuous son. Here too it is said:"
       },
       {
         "type": "verse",
@@ -21120,7 +21320,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बस्तिद्वारे विपन्नायाः कुक्षिः प्रस्पन्दते यदि जन्मकाले ततः शीघ्रं पाटयित्वोद्धरेच्छिशुम्",
         "iast": "bastidvāre vipannāyāḥ kukṣiḥ praspandate yadi janmakāle tataḥ śīghraṃ pāṭayitvoddharecchiśum",
         "iast_ru": "бастидва̄ре випанна̄йа̄х̣ кукш̣их̣ праспандате йади джанмака̄ле татах̣ ш́ӣгхрам̣ па̄т̣айитводдхареччхиш́ум",
-        "text": "Если у женщины, у которой роды не удаются, живот шевелится в области мочевого пузыря во время родов, — тогда следует немедленно рассечь это место и извлечь ребёнка."
+        "text": "Если у женщины, у которой роды не удаются, живот шевелится в области мочевого пузыря во время родов, — тогда следует немедленно рассечь это место и извлечь ребёнка.",
+        "text_en": "If in a woman in whom delivery does not succeed the abdomen moves in the region of the urinary bladder during labour, then this place should immediately be cut open and the child extracted."
       },
       {
         "type": "verse",
@@ -21128,7 +21329,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुकं शाकबीजं च पयस्या सुरदारु च अश्मन्तकः कृष्णतिलास्ताम्रवल्ली शतावरी",
         "iast": "madhukaṃ śākabījaṃ ca payasyā suradāru ca aśmantakaḥ kṛṣṇatilāstāmravallī śatāvarī",
         "iast_ru": "мадхукам̣ ш́а̄кабӣджам̣ ча пайасйа̄ сурада̄ру ча аш́мантаках̣ кр̣ш̣н̣атила̄ста̄мраваллӣ ш́ата̄варӣ",
-        "text": "Солодка, семя шаки, паясья, деодар; ашмантака, чёрный кунжут, тамравалли, шатавари —"
+        "text": "Солодка, семя шаки, паясья, деодар; ашмантака, чёрный кунжут, тамравалли, шатавари —",
+        "text_en": "Liquorice, seed of shaka, payasya, devadaru; ashmantaka, black sesame, tamravalli, shatavari"
       },
       {
         "type": "verse",
@@ -21136,7 +21338,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वृक्षादनी पयस्या च लता चोत्पलसारिबा अनन्ता सारिवा रास्ना पद्मा च मधुयष्टिका",
         "iast": "vṛkṣādanī payasyā ca latā cotpalasāribā anantā sārivā rāsnā padmā ca madhuyaṣṭikā",
         "iast_ru": "вр̣кш̣а̄данӣ пайасйа̄ ча лата̄ чотпаласа̄риба̄ ананта̄ са̄рива̄ ра̄сна̄ падма̄ ча мадхуйаш̣т̣ика̄",
-        "text": "вркшадани, паясья, лата, синий лотос, сарива; ананта, сарива, расна, лотос, солодка —"
+        "text": "вркшадани, паясья, лата, синий лотос, сарива; ананта, сарива, расна, лотос, солодка —",
+        "text_en": "vrikshadani, payasya, lata, blue lotus, sariva; ananta, sariva, rasna, lotus, liquorice"
       },
       {
         "type": "verse",
@@ -21144,7 +21347,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृहतीद्वयकाश्मर्यक्षीरिशृङ्गत्वचो घृतम् पृश्निपर्णी बला शिग्रुः श्वदंष्ट्रा मधुपर्णिका",
         "iast": "bṛhatīdvayakāśmaryakṣīriśṛṅgatvaco ghṛtam pṛśniparṇī balā śigruḥ śvadaṃṣṭrā madhuparṇikā",
         "iast_ru": "бр̣хатӣдвайака̄ш́марйакш̣ӣриш́р̣н̇гатвачо гхр̣там пр̣ш́нипарн̣ӣ бала̄ ш́игрух̣ ш́вадам̣ш̣т̣ра̄ мадхупарн̣ика̄",
-        "text": "гхи с обоими видами брихати, кашмари, рогом млечного дерева, корой; пришнипарни, бала, шигру, швадамштра, мадхупарника —"
+        "text": "гхи с обоими видами брихати, кашмари, рогом млечного дерева, корой; пришнипарни, бала, шигру, швадамштра, мадхупарника —",
+        "text_en": "ghee with both kinds of brihati, kashmari, the horn of a milky tree, bark; prishniparni, bala, shigru, shvadamshtra, madhuparnika"
       },
       {
         "type": "verse",
@@ -21152,7 +21356,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शृङ्गाटकं बिसं द्राक्षा कशेरुमधुकं बला सप्तैतान् पयसा योगानर्धश्लोकसमापनान्",
         "iast": "śṛṅgāṭakaṃ bisaṃ drākṣā kaśerumadhukaṃ balā saptaitān payasā yogānardhaślokasamāpanān",
         "iast_ru": "ш́р̣н̇га̄т̣акам̣ бисам̣ дра̄кш̣а̄ каш́ерумадхукам̣ бала̄ саптаита̄н пайаса̄ йога̄нардхаш́локасама̄пана̄н",
-        "text": "шрингатака, стебель лотоса, изюм, кашеру, солодка, бала — эти семь составов следует применять с молоком, завершая приём каждого в течение половины лунного месяца."
+        "text": "шрингатака, стебель лотоса, изюм, кашеру, солодка, бала — эти семь составов следует применять с молоком, завершая приём каждого в течение половины лунного месяца.",
+        "text_en": "shringataka, lotus stalk, raisins, kaseru, liquorice, bala: these seven preparations should be used with milk, completing the course of each over a half lunar month."
       },
       {
         "type": "verse",
@@ -21160,7 +21365,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रमात् सप्तसु मासेषु गर्भे स्रवति योजयेत् कपित्थबिल्वबृहतीपटोलेक्षुनिदिग्धिकात्",
         "iast": "kramāt saptasu māseṣu garbhe sravati yojayet kapitthabilvabṛhatīpaṭolekṣunidigdhikāt",
         "iast_ru": "крама̄т саптасу ма̄сеш̣у гарбхе сравати йоджайет капиттхабилвабр̣хатӣпат̣олекш̣унидигдхика̄т",
-        "text": "По порядку, в течение семи месяцев, при истечении у беременной, следует применять составы с капиттхой, билвой, брихати, патолой, тростником, нидигдхикой —"
+        "text": "По порядку, в течение семи месяцев, при истечении у беременной, следует применять составы с капиттхой, билвой, брихати, патолой, тростником, нидигдхикой —",
+        "text_en": "In order, over seven months, in discharge in a pregnant woman, one should apply preparations with kapittha, bilva, brihati, patola, reed and nidigdhika"
       },
       {
         "type": "verse",
@@ -21168,7 +21374,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मूलैः शृतं प्रयुञ्जीत क्षीरं मासे तथाष्टमे नममे सारिवानन्तापयस्यामधुयष्टिभिः",
         "iast": "mūlaiḥ śṛtaṃ prayuñjīta kṣīraṃ māse tathāṣṭame namame sārivānantāpayasyāmadhuyaṣṭibhiḥ",
         "iast_ru": "мӯлаих̣ ш́р̣там̣ прайун̃джӣта кш̣ӣрам̣ ма̄се татха̄ш̣т̣аме намаме са̄рива̄нанта̄пайасйа̄мадхуйаш̣т̣ибхих̣",
-        "text": "молоко, сваренное с их корнями, следует применять; так же в восьмой месяц; в девятый — с саривой, анантой, паясьей, солодкой."
+        "text": "молоко, сваренное с их корнями, следует применять; так же в восьмой месяц; в девятый — с саривой, анантой, паясьей, солодкой.",
+        "text_en": "milk cooked with their roots should be used; likewise in the eighth month; in the ninth, with sariva, ananta, payasya and liquorice."
       },
       {
         "type": "verse",
@@ -21176,7 +21383,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "योजयेद्दशमे मासि सिद्धं क्षीरं पयस्यया अथवा यष्टिमधुकनागरामरदारुभिः",
         "iast": "yojayeddaśame māsi siddhaṃ kṣīraṃ payasyayā athavā yaṣṭimadhukanāgarāmaradārubhiḥ",
         "iast_ru": "йоджайеддаш́аме ма̄си сиддхам̣ кш̣ӣрам̣ пайасйайа̄ атхава̄ йаш̣т̣имадхукана̄гара̄марада̄рубхих̣",
-        "text": "В десятый месяц следует применять молоко, сваренное с паясьей; или же с солодкой, сушёным имбирём, деодаром."
+        "text": "В десятый месяц следует применять молоко, сваренное с паясьей; или же с солодкой, сушёным имбирём, деодаром.",
+        "text_en": "In the tenth month one should use milk cooked with payasya; or else with liquorice, dry ginger and devadaru."
       }
     ]
   },
@@ -21198,7 +21406,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो ऽङ्गविभागं शारीरं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto 'ṅgavibhāgaṃ śārīraṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то 'н̇гавибха̄гам̣ ш́а̄рӣрам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу «Ангавибхага» («Разделение частей тела») из раздела Шарира — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу «Ангавибхага» («Разделение частей тела») из раздела Шарира — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now we shall expound the chapter \"Angavibhaga\" (\"Division of the Parts of the Body\") from the Sharira section, as the great sages, beginning with Atreya, declared."
       },
       {
         "type": "verse",
@@ -21206,7 +21415,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सकलमपि शरीरमङ्गमित्युच्यते तत्र पुनः षडङ्गं शिरोन्तराधिर्द्वौ बाहू सक्थिनी च नेत्रनाभिपाणिपादादीनि त्वस्य प्रत्यङ्गानि",
         "iast": "sakalamapi śarīramaṅgamityucyate tatra punaḥ ṣaḍaṅgaṃ śirontarādhirdvau bāhū sakthinī ca netranābhipāṇipādādīni tvasya pratyaṅgāni",
         "iast_ru": "сакаламапи ш́арӣраман̇гамитйучйате татра пунах̣ ш̣ад̣ан̇гам̣ ш́иронтара̄дхирдвау ба̄хӯ сактхинӣ ча нетрана̄бхипа̄н̣ипа̄да̄дӣни твасйа пратйан̇га̄ни",
-        "text": "Всё тело целиком называется «анга» (часть); в нём же, в свою очередь, шесть главных частей: голова, туловище, обе руки и обе ноги; глаза, пупок, кисти, стопы и подобное — его вторичные части («пратьянга»)."
+        "text": "Всё тело целиком называется «анга» (часть); в нём же, в свою очередь, шесть главных частей: голова, туловище, обе руки и обе ноги; глаза, пупок, кисти, стопы и подобное — его вторичные части («пратьянга»).",
+        "text_en": "The whole body is called \"anga\" (part); and in it, in turn, there are six principal parts: the head, the trunk, both arms and both legs; the eyes, navel, hands, feet and the like are its secondary parts (\"pratyanga\")."
       },
       {
         "type": "verse",
@@ -21214,7 +21424,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "महागुणमयेभ्यश्च खपवनतेजोजलभूम्याख्येभ्यो महाभूतेभ्यश्चेतनाधिष्ठितेभ्यो ऽभिनिर्वृत्तिरङ्गस्य",
         "iast": "mahāguṇamayebhyaśca khapavanatejojalabhūmyākhyebhyo mahābhūtebhyaścetanādhiṣṭhitebhyo 'bhinirvṛttiraṅgasya",
         "iast_ru": "маха̄гун̣амайебхйаш́ча кхапаванатеджоджалабхӯмйа̄кхйебхйо маха̄бхӯтебхйаш́четана̄дхиш̣т̣хитебхйо 'бхинирвр̣ттиран̇гасйа",
-        "text": "Возникновение этой части тела происходит от великих элементов, обладающих великими качествами, называемых пространством, ветром, огнём, водой, землёй, пронизанных сознанием."
+        "text": "Возникновение этой части тела происходит от великих элементов, обладающих великими качествами, называемых пространством, ветром, огнём, водой, землёй, пронизанных сознанием.",
+        "text_en": "The origin of this part of the body is from the great elements possessing great qualities, called space, air, fire, water and earth, permeated by consciousness."
       },
       {
         "type": "verse",
@@ -21222,7 +21433,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भूतानामेव च दृष्टादृष्टविविधकर्मवशादनेकरूपात्सन्निवेशविशेषादाकृतिप्रमाणस्नेहदीप्तिस्वरादीनां सारूप्यमसारूप्यं वा सूक्ष्मस्थूलतारतम्यभेदभिन्नमतिबहुप्रकारं निष्पद्यते",
         "iast": "bhūtānāmeva ca dṛṣṭādṛṣṭavividhakarmavaśādanekarūpātsanniveśaviśeṣādākṛtipramāṇasnehadīptisvarādīnāṃ sārūpyamasārūpyaṃ vā sūkṣmasthūlatāratamyabhedabhinnamatibahuprakāraṃ niṣpadyate",
         "iast_ru": "бхӯта̄на̄мева ча др̣ш̣т̣а̄др̣ш̣т̣авивидхакармаваш́а̄данекарӯпа̄тсаннивеш́авиш́еш̣а̄да̄кр̣типрама̄н̣аснехадӣптисвара̄дӣна̄м̣ са̄рӯпйамаса̄рӯпйам̣ ва̄ сӯкш̣мастхӯлата̄ратамйабхедабхиннаматибахупрака̄рам̣ ниш̣падйате",
-        "text": "И именно из-за многообразия видимых и невидимых действий элементов, из-за особого расположения их многочисленных форм, — возникает сходство или несходство формы, размера, маслянистости, блеска, голоса и подобного, различающееся по степени тонкости и грубости, весьма многообразными способами."
+        "text": "И именно из-за многообразия видимых и невидимых действий элементов, из-за особого расположения их многочисленных форм, — возникает сходство или несходство формы, размера, маслянистости, блеска, голоса и подобного, различающееся по степени тонкости и грубости, весьма многообразными способами.",
+        "text_en": "And it is precisely owing to the diversity of the visible and invisible actions of the elements, owing to the particular arrangement of their numerous forms, that similarity or dissimilarity of form, size, unctuousness, lustre, voice and the like arises, differing in degrees of fineness and coarseness, in very diverse ways."
       },
       {
         "type": "verse",
@@ -21230,7 +21442,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र सत्त्वबहुलमाकाशम् रजोबहुलो वायुः उभयबहुलो ऽग्निः सत्त्वतमोबहुलमम्बु तमोबहुला भूः तेषामप्रतिघातश्चलत्वमौष्ण्यं द्रवता काठिन्यमिति क्रमाल्लिङ्गानि विशेषतश्च श्रोत्रादिष्विन्द्रियेष्ववस्थानम् शब्दस्पर्शरूपरसगन्धैरेकैकप्रवृद्धैरन्वयः",
         "iast": "tatra sattvabahulamākāśam rajobahulo vāyuḥ ubhayabahulo 'gniḥ sattvatamobahulamambu tamobahulā bhūḥ teṣāmapratighātaścalatvamauṣṇyaṃ dravatā kāṭhinyamiti kramālliṅgāni viśeṣataśca śrotrādiṣvindriyeṣvavasthānam śabdasparśarūparasagandhairekaikapravṛddhairanvayaḥ",
         "iast_ru": "татра саттвабахулама̄ка̄ш́ам раджобахуло ва̄йух̣ убхайабахуло 'гних̣ саттватамобахуламамбу тамобахула̄ бхӯх̣ теш̣а̄мапратигха̄таш́чалатвамауш̣н̣йам̣ дравата̄ ка̄т̣хинйамити крама̄ллин̇га̄ни виш́еш̣аташ́ча ш́ротра̄диш̣виндрийеш̣вавастха̄нам ш́абдаспарш́арӯпарасагандхаирекаикаправр̣ддхаиранвайах̣",
-        "text": "В этом случае: пространство преимущественно обладает качеством саттвы; ветер — преимущественно раджаса; огонь — преимущественно обоими; вода — преимущественно саттвой-тамасом; земля — преимущественно тамасом. Их признаки, по порядку: беспрепятственность, подвижность, теплота, текучесть, твёрдость; а особенно — расположение в органах чувств, начиная со слуха; связь с ними определяется через звук, осязание, форму, вкус, запах, возрастающие каждый по отдельности."
+        "text": "В этом случае: пространство преимущественно обладает качеством саттвы; ветер — преимущественно раджаса; огонь — преимущественно обоими; вода — преимущественно саттвой-тамасом; земля — преимущественно тамасом. Их признаки, по порядку: беспрепятственность, подвижность, теплота, текучесть, твёрдость; а особенно — расположение в органах чувств, начиная со слуха; связь с ними определяется через звук, осязание, форму, вкус, запах, возрастающие каждый по отдельности.",
+        "text_en": "In this regard: space predominantly possesses the quality of sattva; air, predominantly of rajas; fire, predominantly of both; water, predominantly sattva-tamas; earth, predominantly tamas. Their characteristics, in order: unobstructedness, mobility, warmth, fluidity, hardness; and especially their location in the sense organs, beginning with hearing; the connection with them is determined through sound, touch, form, taste and smell, increasing each by one."
       },
       {
         "type": "verse",
@@ -21238,7 +21451,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्राकाशजानि श्रोत्रं शब्दः सर्वस्रोतांसि विविक्ता च वायवीयानि स्पर्शनं स्पर्शः प्रश्वासोच्छ्वासादिपरिस्पन्दनानि लाघवं च आग्नेयानि दर्शनं रूपं पित्तमूष्मा पक्तिः सन्तापो मेधा वर्णो भास्तेजः शौर्यं च आम्भसानि रसनं रसः स्वेदक्लेदवसारसासृक्शुक्रमूत्रादिद्रवसमूहः शैत्यं स्नेहश्च पार्थिवानि घ्राणं गन्धः केशनखास्थ्यादिमूर्तसमूहो धैर्यं स्थैर्यं च",
         "iast": "tatrākāśajāni śrotraṃ śabdaḥ sarvasrotāṃsi viviktā ca vāyavīyāni sparśanaṃ sparśaḥ praśvāsocchvāsādiparispandanāni lāghavaṃ ca āgneyāni darśanaṃ rūpaṃ pittamūṣmā paktiḥ santāpo medhā varṇo bhāstejaḥ śauryaṃ ca āmbhasāni rasanaṃ rasaḥ svedakledavasārasāsṛkśukramūtrādidravasamūhaḥ śaityaṃ snehaśca pārthivāni ghrāṇaṃ gandhaḥ keśanakhāsthyādimūrtasamūho dhairyaṃ sthairyaṃ ca",
         "iast_ru": "татра̄ка̄ш́аджа̄ни ш́ротрам̣ ш́абдах̣ сарвасрота̄м̣си вивикта̄ ча ва̄йавӣйа̄ни спарш́анам̣ спарш́ах̣ праш́ва̄соччхва̄са̄дипариспандана̄ни ла̄гхавам̣ ча а̄гнейа̄ни дарш́анам̣ рӯпам̣ питтамӯш̣ма̄ пактих̣ санта̄по медха̄ варн̣о бха̄стеджах̣ ш́аурйам̣ ча а̄мбхаса̄ни расанам̣ расах̣ сведакледаваса̄раса̄ср̣кш́украмӯтра̄дидравасамӯхах̣ ш́аитйам̣ снехаш́ча па̄ртхива̄ни гхра̄н̣ам̣ гандхах̣ кеш́анакха̄стхйа̄димӯртасамӯхо дхаирйам̣ стхаирйам̣ ча",
-        "text": "Из них, происходящие от пространства: слух, звук, все каналы тела, разделённость. Происходящие от ветра: осязание, прикосновение, движения вроде выдоха, вдоха и подобного, лёгкость. Происходящие от огня: зрение, форма, питта, жар, переваривание, разгорячение, интеллект, цвет кожи, сияние, теджас, доблесть. Происходящие от воды: вкус, сок, а также совокупность жидкостей — пот, влага, жир, лимфа, кровь, семя, моча и подобное; холод, маслянистость. Происходящие от земли: обоняние, запах, совокупность плотных образований — волосы, ногти, кости и подобное; стойкость, устойчивость."
+        "text": "Из них, происходящие от пространства: слух, звук, все каналы тела, разделённость. Происходящие от ветра: осязание, прикосновение, движения вроде выдоха, вдоха и подобного, лёгкость. Происходящие от огня: зрение, форма, питта, жар, переваривание, разгорячение, интеллект, цвет кожи, сияние, теджас, доблесть. Происходящие от воды: вкус, сок, а также совокупность жидкостей — пот, влага, жир, лимфа, кровь, семя, моча и подобное; холод, маслянистость. Происходящие от земли: обоняние, запах, совокупность плотных образований — волосы, ногти, кости и подобное; стойкость, устойчивость.",
+        "text_en": "Of these, those derived from space: hearing, sound, all the channels of the body, separateness. Those derived from air: the sense of touch, contact, movements such as exhalation, inhalation and the like, lightness. Those derived from fire: vision, form, Pitta, heat, digestion, warmth, intellect, complexion, radiance, tejas, valour. Those derived from water: taste, rasa, and also the entire group of fluids, sweat, moisture, fat, lymph, blood, semen, urine and the like; coldness, unctuousness. Those derived from earth: the sense of smell, odour, the entire group of solid formations, hair, nails, bones and the like; firmness, stability."
       },
       {
         "type": "verse",
@@ -21246,7 +21460,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तेषु मातृजानि मृदूनि त्वग्रक्तमांसमेदोमज्जनाभिहृदयामाशयगर्भशययकृत्प्लीहाक्लोमान्त्रगुदादीनि",
         "iast": "teṣu mātṛjāni mṛdūni tvagraktamāṃsamedomajjanābhihṛdayāmāśayagarbhaśayayakṛtplīhāklomāntragudādīni",
         "iast_ru": "теш̣у ма̄тр̣джа̄ни мр̣дӯни тваграктама̄м̣самедомаджджана̄бхихр̣дайа̄ма̄ш́айагарбхаш́айайакр̣тплӣха̄клома̄нтрагуда̄дӣни",
-        "text": "Среди них, происходящие от матери, — мягкие: кожа, кровь, мясо, жир, костный мозг, пупок, сердце, желудок, ложе матки, печень, селезёнка, лёгкое, кишечник, задний проход и подобное."
+        "text": "Среди них, происходящие от матери, — мягкие: кожа, кровь, мясо, жир, костный мозг, пупок, сердце, желудок, ложе матки, печень, селезёнка, лёгкое, кишечник, задний проход и подобное.",
+        "text_en": "Among them, those derived from the mother are soft: skin, blood, flesh, fat, bone marrow, navel, heart, stomach, bed of the uterus, liver, spleen, lung, intestine, anus and the like."
       },
       {
         "type": "verse",
@@ -21254,7 +21469,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षितृजानि स्थिराणि केशनखास्थिशुक्रसिरास्नाय्वादीनि",
         "iast": "ṣitṛjāni sthirāṇi keśanakhāsthiśukrasirāsnāyvādīni",
         "iast_ru": "ш̣итр̣джа̄ни стхира̄н̣и кеш́анакха̄стхиш́украсира̄сна̄йва̄дӣни",
-        "text": "Происходящие от отца, — твёрдые: волосы, ногти, кости, семя, сосуды, сухожилия и подобное."
+        "text": "Происходящие от отца, — твёрдые: волосы, ногти, кости, семя, сосуды, сухожилия и подобное.",
+        "text_en": "Those derived from the father are hard: hair, nails, bones, semen, vessels, tendons and the like."
       },
       {
         "type": "verse",
@@ -21262,7 +21478,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आत्मजानि नानायोनिषूत्पत्तिर्मनश्चेतनेन्द्रियाणि प्राणापानौ धारणमाकृतिस्वरवर्णविशेषाः कामक्रोधलोभभयहर्षधर्मार्धमशीलतास्मृतिबुद्धीच्छाद्वेषप्रयत्नाहङ्कारसुखदुःखायुरात्मज्ञानानि च",
         "iast": "ātmajāni nānāyoniṣūtpattirmanaścetanendriyāṇi prāṇāpānau dhāraṇamākṛtisvaravarṇaviśeṣāḥ kāmakrodhalobhabhayaharṣadharmārdhamaśīlatāsmṛtibuddhīcchādveṣaprayatnāhaṅkārasukhaduḥkhāyurātmajñānāni ca",
         "iast_ru": "а̄тмаджа̄ни на̄на̄йониш̣ӯтпаттирманаш́четанендрийа̄н̣и пра̄н̣а̄па̄нау дха̄ран̣ама̄кр̣тисвараварн̣авиш́еш̣а̄х̣ ка̄макродхалобхабхайахарш̣адхарма̄рдхамаш́ӣлата̄смр̣тибуддхӣччха̄двеш̣апрайатна̄хан̇ка̄расукхадух̣кха̄йура̄тмаджн̃а̄на̄ни ча",
-        "text": "Происходящие от индивидуальной души: рождение в различных лонах существ; ум, сознание, органы чувств; прана и апана; выдержка; особенности облика, голоса, цвета кожи; желание, гнев, жадность, страх, радость; дхарма, артха, нравственность; память, разум, воля, привязанность, неприязнь; усилие, самость; счастье, страдание; долголетие; и знание о душе."
+        "text": "Происходящие от индивидуальной души: рождение в различных лонах существ; ум, сознание, органы чувств; прана и апана; выдержка; особенности облика, голоса, цвета кожи; желание, гнев, жадность, страх, радость; дхарма, артха, нравственность; память, разум, воля, привязанность, неприязнь; усилие, самость; счастье, страдание; долголетие; и знание о душе.",
+        "text_en": "Those derived from the individual soul: birth in the various wombs of beings; mind, consciousness, sense organs; prana and apana; endurance; particularities of appearance, voice and complexion; desire, anger, greed, fear, joy; dharma, artha, morality; memory, understanding, will, attachment, aversion; effort, selfhood; happiness, suffering; longevity; and knowledge of the soul."
       },
       {
         "type": "verse",
@@ -21270,7 +21487,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सात्म्यजान्यायुरारोग्यमनालस्यलोलुपत्वमिन्द्रियप्रसादस्वरवर्णौजःसम्पत्प्रशस्तता प्रहर्षभूयस्त्वं मेधाबलं च",
         "iast": "sātmyajānyāyurārogyamanālasyalolupatvamindriyaprasādasvaravarṇaujaḥsampatpraśastatā praharṣabhūyastvaṃ medhābalaṃ ca",
         "iast_ru": "са̄тмйаджа̄нйа̄йура̄рогйамана̄ласйалолупатваминдрийапраса̄дасвараварн̣ауджах̣сампатпраш́астата̄ прахарш̣абхӯйаствам̣ медха̄балам̣ ча",
-        "text": "Происходящие от конституциональной совместимости: долголетие, здоровье, отсутствие лени, отсутствие жадности; ясность органов чувств, голоса, цвета кожи, оджаса; благоприятность телосложения; преобладание радости; интеллект и сила."
+        "text": "Происходящие от конституциональной совместимости: долголетие, здоровье, отсутствие лени, отсутствие жадности; ясность органов чувств, голоса, цвета кожи, оджаса; благоприятность телосложения; преобладание радости; интеллект и сила.",
+        "text_en": "Those derived from constitutional compatibility: longevity, health, absence of laziness, absence of greed; clarity of the sense organs, voice, complexion and ojas; auspiciousness of physique; predominance of cheerfulness; intellect and strength."
       },
       {
         "type": "verse",
@@ -21278,7 +21496,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रसजानि कृत्स्नस्य देहस्य सम्भवो वृत्तिर्वृद्धिस्तृप्तिरलौल्यं पुष्टिरुत्साहश्च",
         "iast": "rasajāni kṛtsnasya dehasya sambhavo vṛttirvṛddhistṛptiralaulyaṃ puṣṭirutsāhaśca",
         "iast_ru": "расаджа̄ни кр̣тснасйа дехасйа самбхаво вр̣ттирвр̣ддхистр̣птиралаулйам̣ пуш̣т̣ирутса̄хаш́ча",
-        "text": "Происходящие от материнского сока: возникновение всего тела, его поддержание, рост, насыщение, отсутствие чрезмерной жадности, полнота и энергичность."
+        "text": "Происходящие от материнского сока: возникновение всего тела, его поддержание, рост, насыщение, отсутствие чрезмерной жадности, полнота и энергичность.",
+        "text_en": "Those derived from the maternal essence (rasa): the origin of the entire body, its maintenance, growth, satiety, absence of excessive greed, fullness and vigour."
       },
       {
         "type": "verse",
@@ -21286,7 +21505,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शुद्धसत्त्वजानि शौचमास्तिकत्वं कृत्ज्ञता दाक्षिण्यं व्यवसायः शौर्यं गाम्भीर्यं बुद्धिर्मेधा स्मृतिः शुक्लवर्त्मरुचिर्भाक्तिराभिषङ्गाभावस्तमोगुणविपर्ययश्च",
         "iast": "śuddhasattvajāni śaucamāstikatvaṃ kṛtjñatā dākṣiṇyaṃ vyavasāyaḥ śauryaṃ gāmbhīryaṃ buddhirmedhā smṛtiḥ śuklavartmarucirbhāktirābhiṣaṅgābhāvastamoguṇaviparyayaśca",
         "iast_ru": "ш́уддхасаттваджа̄ни ш́аучама̄стикатвам̣ кр̣тджн̃ата̄ да̄кш̣ин̣йам̣ вйаваса̄йах̣ ш́аурйам̣ га̄мбхӣрйам̣ буддхирмедха̄ смр̣тих̣ ш́уклавартмаручирбха̄ктира̄бхиш̣ан̇га̄бха̄вастамогун̣авипарйайаш́ча",
-        "text": "Происходящие от чистой саттвы: чистота, вера в существование иного мира, благодарность, вежливость, усердие, доблесть, серьёзность, разум, интеллект, память, склонность к светлому пути, преданность, отсутствие пристрастий, и противоположность качеству тамаса."
+        "text": "Происходящие от чистой саттвы: чистота, вера в существование иного мира, благодарность, вежливость, усердие, доблесть, серьёзность, разум, интеллект, память, склонность к светлому пути, преданность, отсутствие пристрастий, и противоположность качеству тамаса.",
+        "text_en": "Those derived from pure sattva: purity, faith in the existence of the other world, gratitude, courtesy, diligence, valour, seriousness, understanding, intellect, memory, inclination toward the bright path, devotion, freedom from attachments, and the opposite of the quality of tamas."
       },
       {
         "type": "verse",
@@ -21294,7 +21514,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "राजसानि दुरुपचारता ऽनार्यं शौर्यं मात्सर्यममितभाषित्वमहङ्कारो लोलुपत्वं दम्भो मानः क्रोधो हर्षः कामश्च",
         "iast": "rājasāni durupacāratā 'nāryaṃ śauryaṃ mātsaryamamitabhāṣitvamahaṅkāro lolupatvaṃ dambho mānaḥ krodho harṣaḥ kāmaśca",
         "iast_ru": "ра̄джаса̄ни дурупача̄рата̄ 'на̄рйам̣ ш́аурйам̣ ма̄тсарйамамитабха̄ш̣итвамахан̇ка̄ро лолупатвам̣ дамбхо ма̄нах̣ кродхо харш̣ах̣ ка̄маш́ча",
-        "text": "Происходящие от раджаса: грубое обхождение, неблагородная доблесть, зависть, чрезмерная болтливость, самость, жадность, лицемерие, гордость, гнев, чрезмерная радость, вожделение."
+        "text": "Происходящие от раджаса: грубое обхождение, неблагородная доблесть, зависть, чрезмерная болтливость, самость, жадность, лицемерие, гордость, гнев, чрезмерная радость, вожделение.",
+        "text_en": "Those derived from rajas: coarse behaviour, ignoble valour, envy, excessive talkativeness, egoism, greed, hypocrisy, pride, anger, excessive joy, lust."
       },
       {
         "type": "verse",
@@ -21302,7 +21523,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तामसान्यज्ञानं विषादः प्रमादो निद्रालस्यं क्षुत्तृष्णा शोको मात्सर्यं विप्रतिपत्तिः परातिसन्धानं सत्त्वगुणवैपरीत्यं च",
         "iast": "tāmasānyajñānaṃ viṣādaḥ pramādo nidrālasyaṃ kṣuttṛṣṇā śoko mātsaryaṃ vipratipattiḥ parātisandhānaṃ sattvaguṇavaiparītyaṃ ca",
         "iast_ru": "та̄маса̄нйаджн̃а̄нам̣ виш̣а̄дах̣ прама̄до нидра̄ласйам̣ кш̣уттр̣ш̣н̣а̄ ш́око ма̄тсарйам̣ випратипаттих̣ пара̄тисандха̄нам̣ саттвагун̣аваипарӣтйам̣ ча",
-        "text": "Происходящие от тамаса: невежество, уныние, беспечность, чрезмерный сон, лень, неутолимый голод, жажда, горе, зависть, заблуждение, обман других, и противоположность качеству саттвы."
+        "text": "Происходящие от тамаса: невежество, уныние, беспечность, чрезмерный сон, лень, неутолимый голод, жажда, горе, зависть, заблуждение, обман других, и противоположность качеству саттвы.",
+        "text_en": "Those derived from tamas: ignorance, despondency, carelessness, excessive sleep, laziness, insatiable hunger, thirst, grief, envy, delusion, deceiving others, and the opposite of the quality of sattva."
       },
       {
         "type": "verse",
@@ -21310,7 +21532,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र सत्त्वं मनस्तस्योषप्लवो रजस्तमश्चेत्येवं भूतात्मकं देहमाहुः",
         "iast": "tatra sattvaṃ manastasyoṣaplavo rajastamaścetyevaṃ bhūtātmakaṃ dehamāhuḥ",
         "iast_ru": "татра саттвам̣ манастасйош̣аплаво раджастамаш́четйевам̣ бхӯта̄тмакам̣ дехама̄хух̣",
-        "text": "В этом случае, саттва — это ум; расстройство же его — раджас и тамас. Таким образом, тело называют состоящим из пяти элементов и одушевлённым душой."
+        "text": "В этом случае, саттва — это ум; расстройство же его — раджас и тамас. Таким образом, тело называют состоящим из пяти элементов и одушевлённым душой.",
+        "text_en": "In this regard, sattva is the mind; its disorder is rajas and tamas. Thus the body is described as composed of the five elements and animated by the soul."
       },
       {
         "type": "verse",
@@ -21318,7 +21541,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तस्य पुनः प्रविभागः त्वचः कला दोषा धातवो मला बुद्धीन्द्रियाणि तदधिष्ठितानि कर्मेन्द्रियाण्यतीन्द्रियमाशयाः प्राणायतनानि कण्डराजालानि कूर्चारज्जवस्सीवन्यो ऽस्थिसङ्घाताःसीमन्ता अस्थीन्यस्थिसन्धयः स्नायूनि पेश्यस्सिराधमन्यस्स्रोतांस्यूष्माणो मर्माणि केशश्मश्नुलोमानि प्रकृतिविकृतिभेदाश्च तत्रासृजः पच्यमानस्य क्षीरस्येव सन्तानिकाः षट् त्वचो भवन्ति त्वक्प्रसादाद्रक्तस्य प्रसादः",
         "iast": "tasya punaḥ pravibhāgaḥ tvacaḥ kalā doṣā dhātavo malā buddhīndriyāṇi tadadhiṣṭhitāni karmendriyāṇyatīndriyamāśayāḥ prāṇāyatanāni kaṇḍarājālāni kūrcārajjavassīvanyo 'sthisaṅghātāḥsīmantā asthīnyasthisandhayaḥ snāyūni peśyassirādhamanyassrotāṃsyūṣmāṇo marmāṇi keśaśmaśnulomāni prakṛtivikṛtibhedāśca tatrāsṛjaḥ pacyamānasya kṣīrasyeva santānikāḥ ṣaṭ tvaco bhavanti tvakprasādādraktasya prasādaḥ",
         "iast_ru": "тасйа пунах̣ правибха̄гах̣ твачах̣ кала̄ дош̣а̄ дха̄таво мала̄ буддхӣндрийа̄н̣и тададхиш̣т̣хита̄ни кармендрийа̄н̣йатӣндрийама̄ш́айа̄х̣ пра̄н̣а̄йатана̄ни кан̣д̣ара̄джа̄ла̄ни кӯрча̄раджджавассӣванйо 'стхисан̇гха̄та̄х̣сӣманта̄ астхӣнйастхисандхайах̣ сна̄йӯни пеш́йассира̄дхаманйассрота̄м̣сйӯш̣ма̄н̣о марма̄н̣и кеш́аш́маш́нулома̄ни пракр̣тивикр̣тибхеда̄ш́ча татра̄ср̣джах̣ пачйама̄насйа кш̣ӣрасйева санта̄ника̄х̣ ш̣ат̣ твачо бхаванти твакпраса̄да̄драктасйа праса̄дах̣",
-        "text": "Разделение же его таково: кожа, «кала» (тонкие оболочки), доши, ткани, нечистоты, органы чувств восприятия и подчинённые им органы действия, а также сверхчувственный орган — ум; вместилища; обители жизненного дыхания; сети сухожилий; пучки-верёвки; швы; костные соединения; проборы; кости; суставы; сухожилия; мышцы; сосуды; артерии; каналы; жар; жизненно важные точки; волосы, борода, пушок на теле; и различия нормы и патологии. В этом случае, у переваривающейся крови, подобно створаживающемуся молоку, образуется шесть плёнок-«кожиц»; от чистоты кожи зависит чистота крови."
+        "text": "Разделение же его таково: кожа, «кала» (тонкие оболочки), доши, ткани, нечистоты, органы чувств восприятия и подчинённые им органы действия, а также сверхчувственный орган — ум; вместилища; обители жизненного дыхания; сети сухожилий; пучки-верёвки; швы; костные соединения; проборы; кости; суставы; сухожилия; мышцы; сосуды; артерии; каналы; жар; жизненно важные точки; волосы, борода, пушок на теле; и различия нормы и патологии. В этом случае, у переваривающейся крови, подобно створаживающемуся молоку, образуется шесть плёнок-«кожиц»; от чистоты кожи зависит чистота крови.",
+        "text_en": "Its division is as follows: skin, \"kala\" (thin membranes), doshas, tissues, waste products, the sensory organs of perception and the organs of action subordinate to them, and also the supra-sensory organ, the mind; the receptacles; the abodes of the vital breath; the networks of tendons; the bundle-cords; the sutures; the bony joints; the partings; the bones; the joints; the tendons; the muscles; the vessels; the arteries; the channels; heat; the vital points (marma); hair, beard and body down; and the distinctions of the normal and the pathological. In this regard, in the blood undergoing digestion, like coagulating milk, six membranes, \"skins\", are formed; the purity of the blood depends on the purity of the skin."
       },
       {
         "type": "verse",
@@ -21326,7 +21550,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तासामुदकधरा चाद्या द्वितीया ऽसृग्धरा तृतीया सिध्मकिलासाधिष्ठाना चतुर्थी सर्वकुष्ठाधिष्ठाना पञ्चमी पुनरलजीविद्रध्यधिष्ठाना षष्ठी तु प्राणधरा यस्यां छिन्नायां ताम्यत्यन्धमिव च तमः प्रविशति यां चाधिष्ठायारूपंषि जायन्ते पर्वसु कृष्णरक्तानि स्थूलमूलानि दुश्चिकित्स्यतमानि",
         "iast": "tāsāmudakadharā cādyā dvitīyā 'sṛgdharā tṛtīyā sidhmakilāsādhiṣṭhānā caturthī sarvakuṣṭhādhiṣṭhānā pañcamī punaralajīvidradhyadhiṣṭhānā ṣaṣṭhī tu prāṇadharā yasyāṃ chinnāyāṃ tāmyatyandhamiva ca tamaḥ praviśati yāṃ cādhiṣṭhāyārūpaṃṣi jāyante parvasu kṛṣṇaraktāni sthūlamūlāni duścikitsyatamāni",
         "iast_ru": "та̄са̄мудакадхара̄ ча̄дйа̄ двитӣйа̄ 'ср̣гдхара̄ тр̣тӣйа̄ сидхмакила̄са̄дхиш̣т̣ха̄на̄ чатуртхӣ сарвакуш̣т̣ха̄дхиш̣т̣ха̄на̄ пан̃чамӣ пунараладжӣвидрадхйадхиш̣т̣ха̄на̄ ш̣аш̣т̣хӣ ту пра̄н̣адхара̄ йасйа̄м̣ чхинна̄йа̄м̣ та̄мйатйандхамива ча тамах̣ правиш́ати йа̄м̣ ча̄дхиш̣т̣ха̄йа̄рӯпам̣ш̣и джа̄йанте парвасу кр̣ш̣н̣аракта̄ни стхӯламӯла̄ни душ́чикитсйатама̄ни",
-        "text": "Из них, первая — «удакадхара» (несущая воду); вторая — «асригдхара» (несущая кровь); третья — вместилище сидхмы и киласы; четвёртая — вместилище всех видов кожных болезней «кустха»; пятая — вместилище аладжи и абсцесса; шестая же — «пранадхара» (несущая жизнь); при её повреждении человек впадает в помрачение, и словно тьма проникает в него, будто он ослеп. Опираясь же на неё, возникают «арумши» в суставах, тёмно-красные, с широким основанием, труднее всего поддающиеся лечению."
+        "text": "Из них, первая — «удакадхара» (несущая воду); вторая — «асригдхара» (несущая кровь); третья — вместилище сидхмы и киласы; четвёртая — вместилище всех видов кожных болезней «кустха»; пятая — вместилище аладжи и абсцесса; шестая же — «пранадхара» (несущая жизнь); при её повреждении человек впадает в помрачение, и словно тьма проникает в него, будто он ослеп. Опираясь же на неё, возникают «арумши» в суставах, тёмно-красные, с широким основанием, труднее всего поддающиеся лечению.",
+        "text_en": "Of these, the first is \"udakadhara\" (carrying water); the second is \"asrigdhara\" (carrying blood); the third is the site of sidhma and kilasa; the fourth is the site of all kinds of skin diseases, \"kushtha\"; the fifth is the site of alaji and abscess; the sixth is \"pranadhara\" (carrying life); when it is damaged, the person falls into delusion, and it is as if darkness enters him, as though he had gone blind. Resting upon it, \"arumshi\" arise in the joints, dark red, with a broad base, the most difficult to treat."
       },
       {
         "type": "verse",
@@ -21334,7 +21559,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्ये सप्त त्वचो वदन्ति तत्र प्रथमा भासिनी नाम या वर्णानामवभासिनी खादीनाञ्च षञ्चानां छायानां सा व्रीहेरष्टादशभागप्रमाणा द्वितीया लोहिनी नाम षोडशभागप्रमाणा तृतीया श्वेता नाम द्वादशभागप्रमाणा चतुर्थी ताम्रा नामाष्टभागप्रमाणा पञ्चमी वेदिनी नाम पञ्चभागप्रमाणा षष्ठी रोहिणी नाम व्रीहिप्रमाणा सप्तमी मांसधरा नाम व्रीहिद्वयप्रमाणा",
         "iast": "anye sapta tvaco vadanti tatra prathamā bhāsinī nāma yā varṇānāmavabhāsinī khādīnāñca ṣañcānāṃ chāyānāṃ sā vrīheraṣṭādaśabhāgapramāṇā dvitīyā lohinī nāma ṣoḍaśabhāgapramāṇā tṛtīyā śvetā nāma dvādaśabhāgapramāṇā caturthī tāmrā nāmāṣṭabhāgapramāṇā pañcamī vedinī nāma pañcabhāgapramāṇā ṣaṣṭhī rohiṇī nāma vrīhipramāṇā saptamī māṃsadharā nāma vrīhidvayapramāṇā",
         "iast_ru": "анйе сапта твачо ваданти татра пратхама̄ бха̄синӣ на̄ма йа̄ варн̣а̄на̄мавабха̄синӣ кха̄дӣна̄н̃ча ш̣ан̃ча̄на̄м̣ чха̄йа̄на̄м̣ са̄ врӣхераш̣т̣а̄даш́абха̄гапрама̄н̣а̄ двитӣйа̄ лохинӣ на̄ма ш̣од̣аш́абха̄гапрама̄н̣а̄ тр̣тӣйа̄ ш́вета̄ на̄ма два̄даш́абха̄гапрама̄н̣а̄ чатуртхӣ та̄мра̄ на̄ма̄ш̣т̣абха̄гапрама̄н̣а̄ пан̃чамӣ вединӣ на̄ма пан̃чабха̄гапрама̄н̣а̄ ш̣аш̣т̣хӣ рохин̣ӣ на̄ма врӣхипрама̄н̣а̄ саптамӣ ма̄м̣садхара̄ на̄ма врӣхидвайапрама̄н̣а̄",
-        "text": "Другие же говорят о семи кожах. Из них, первая, называемая «бхасини» (сияющая), которая проявляет цвета и шесть видов оттенков элементов, — она размером в одну восемнадцатую долю рисового зерна. Вторая, называемая «лохини» (кровяная), — размером в одну шестнадцатую. Третья, называемая «швета» (белая), — размером в одну двенадцатую. Четвёртая, называемая «тамра» (медная), — размером в одну восьмую. Пятая, называемая «ведини» (чувствующая), — размером в одну пятую. Шестая, называемая «рохини» (растущая), — размером с целое рисовое зерно. Седьмая, называемая «мамсадхара» (несущая мясо), — размером в два рисовых зерна."
+        "text": "Другие же говорят о семи кожах. Из них, первая, называемая «бхасини» (сияющая), которая проявляет цвета и шесть видов оттенков элементов, — она размером в одну восемнадцатую долю рисового зерна. Вторая, называемая «лохини» (кровяная), — размером в одну шестнадцатую. Третья, называемая «швета» (белая), — размером в одну двенадцатую. Четвёртая, называемая «тамра» (медная), — размером в одну восьмую. Пятая, называемая «ведини» (чувствующая), — размером в одну пятую. Шестая, называемая «рохини» (растущая), — размером с целое рисовое зерно. Седьмая, называемая «мамсадхара» (несущая мясо), — размером в два рисовых зерна.",
+        "text_en": "Others speak of seven skins. Of these, the first, called \"bhasini\" (shining), which manifests the colours and the six kinds of shades of the elements, is of the size of one eighteenth part of a grain of rice. The second, called \"lohini\" (blood-coloured), is of the size of one sixteenth. The third, called \"sveta\" (white), is of the size of one twelfth. The fourth, called \"tamra\" (copper-coloured), is of the size of one eighth. The fifth, called \"vedini\" (sensitive), is of the size of one fifth. The sixth, called \"rohini\" (growing), is of the size of a whole grain of rice. The seventh, called \"mamsadhara\" (carrying flesh), is of the size of two grains of rice."
       },
       {
         "type": "verse",
@@ -21342,7 +21568,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यस्तु धात्वाशयान्तरेषु क्लेदो ऽवतिष्ठते स यथास्वमूष्मभिर्विपक्वः स्नायुश्लेष्मजरायुच्छन्नः काष्ठ इव सारो धातुसारशेषो रसशेषोल्पत्वात् कलासंज्ञः ता धात्वाशयान्तरमर्यादाः सप्त कलाः",
         "iast": "yastu dhātvāśayāntareṣu kledo 'vatiṣṭhate sa yathāsvamūṣmabhirvipakvaḥ snāyuśleṣmajarāyucchannaḥ kāṣṭha iva sāro dhātusāraśeṣo rasaśeṣolpatvāt kalāsaṃjñaḥ tā dhātvāśayāntaramaryādāḥ sapta kalāḥ",
         "iast_ru": "йасту дха̄тва̄ш́айа̄нтареш̣у кледо 'ватиш̣т̣хате са йатха̄свамӯш̣мабхирвипаквах̣ сна̄йуш́леш̣маджара̄йуччханнах̣ ка̄ш̣т̣ха ива са̄ро дха̄туса̄раш́еш̣о расаш́еш̣олпатва̄т кала̄сам̣джн̃ах̣ та̄ дха̄тва̄ш́айа̄нтарамарйа̄да̄х̣ сапта кала̄х̣",
-        "text": "Влага же, которая находится между тканями и вместилищами, — соответственно своему месту, переваренная телесными жарами, покрытая сухожилиями, капхой, оболочкой, подобно тому, как сердцевина образуется в дереве, — представляет собой остаток сущности ткани, и, из-за малости оставшегося сока, называется «кала». Эти «калы», представляющие собой границы между тканями и вместилищами, — числом семь."
+        "text": "Влага же, которая находится между тканями и вместилищами, — соответственно своему месту, переваренная телесными жарами, покрытая сухожилиями, капхой, оболочкой, подобно тому, как сердцевина образуется в дереве, — представляет собой остаток сущности ткани, и, из-за малости оставшегося сока, называется «кала». Эти «калы», представляющие собой границы между тканями и вместилищами, — числом семь.",
+        "text_en": "The moisture that lies between the tissues and receptacles, according to its place, digested by the bodily heats, covered by tendons, Kapha and membrane, just as the heartwood forms in a tree, represents the residue of the essence of the tissue, and, owing to the smallness of the remaining essence, is called \"kala\". These \"kalas\", which are the boundaries between the tissues and receptacles, are seven in number."
       },
       {
         "type": "verse",
@@ -21350,7 +21577,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तासां प्रथमा मांसधरा नाम यस्यां मांसे सिरास्नायुधमनीस्रोतसां भूमाविव पङ्कोदकेन बिसमृणालानां प्रतानानि भवन्ति",
         "iast": "tāsāṃ prathamā māṃsadharā nāma yasyāṃ māṃse sirāsnāyudhamanīsrotasāṃ bhūmāviva paṅkodakena bisamṛṇālānāṃ pratānāni bhavanti",
         "iast_ru": "та̄са̄м̣ пратхама̄ ма̄м̣садхара̄ на̄ма йасйа̄м̣ ма̄м̣се сира̄сна̄йудхаманӣсротаса̄м̣ бхӯма̄вива пан̇кодакена бисамр̣н̣а̄ла̄на̄м̣ прата̄на̄ни бхаванти",
-        "text": "Из них, первая называется «мамсадхара» (несущая мясо); в ней, в мясе, подобно тому, как в земле, насыщенной грязью и водой, прорастают побеги стебля и корневища лотоса, — образуются разветвления сосудов, сухожилий, артерий, каналов."
+        "text": "Из них, первая называется «мамсадхара» (несущая мясо); в ней, в мясе, подобно тому, как в земле, насыщенной грязью и водой, прорастают побеги стебля и корневища лотоса, — образуются разветвления сосудов, сухожилий, артерий, каналов.",
+        "text_en": "Of these, the first is called \"mamsadhara\" (carrying flesh); in it, in the flesh, just as in earth saturated with mud and water the shoots of the stalk and rootstock of the lotus sprout, branchings of vessels, tendons, arteries and channels are formed."
       },
       {
         "type": "verse",
@@ -21358,7 +21586,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वितीया रक्तधरा नाम मांसस्याभ्यन्तरतस्तस्यां शोणितं विशेषतश्च सिराप्लीहयकृत्सु भवति मांसाच्च क्षतात् क्षतजं वृक्षादिव क्षीरिणः क्षीरं प्रवर्तते",
         "iast": "dvitīyā raktadharā nāma māṃsasyābhyantaratastasyāṃ śoṇitaṃ viśeṣataśca sirāplīhayakṛtsu bhavati māṃsācca kṣatāt kṣatajaṃ vṛkṣādiva kṣīriṇaḥ kṣīraṃ pravartate",
         "iast_ru": "двитӣйа̄ рактадхара̄ на̄ма ма̄м̣сасйа̄бхйантаратастасйа̄м̣ ш́он̣итам̣ виш́еш̣аташ́ча сира̄плӣхайакр̣тсу бхавати ма̄м̣са̄чча кш̣ата̄т кш̣атаджам̣ вр̣кш̣а̄дива кш̣ӣрин̣ах̣ кш̣ӣрам̣ правартате",
-        "text": "Вторая называется «рактадхара» (несущая кровь); она внутри мяса; в ней находится кровь, особенно же в сосудах, селезёнке, печени; и из повреждённого мяса истекает «кшатаджа» (кровь из раны), подобно тому, как из повреждённого млечного дерева течёт млечный сок."
+        "text": "Вторая называется «рактадхара» (несущая кровь); она внутри мяса; в ней находится кровь, особенно же в сосудах, селезёнке, печени; и из повреждённого мяса истекает «кшатаджа» (кровь из раны), подобно тому, как из повреждённого млечного дерева течёт млечный сок.",
+        "text_en": "The second is called \"raktadhara\" (carrying blood); it lies within the flesh; in it is the blood, especially in the vessels, spleen and liver; and from damaged flesh \"kshataja\" (blood from a wound) flows, just as milky sap flows from a damaged milky tree."
       },
       {
         "type": "verse",
@@ -21366,7 +21595,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तृतीया मेदोधरा नाम मेदो हि तस्यामुदरे ऽण्वस्थिषु च सरक्तं भवति तदेव च शिरसि कपालप्रतिच्छन्नं मस्तिष्काख्यं मस्तुलुङ्गाख्यं च स्थूलास्थिषु च मज्जा चतुर्थी श्लेष्मधरा नाम तत्स्थेन हि श्लेष्मणा श्लेषिताः सर्वसन्धयो दृढा भवन्ति सोपाङ्गा इवाक्षाः पञ्चमी पुरीषधरा नाम सा ह्यत्रामपक्वाशयाश्रिता कोष्ठान्तरुण्डुकस्थं मलं विभजति",
         "iast": "tṛtīyā medodharā nāma medo hi tasyāmudare 'ṇvasthiṣu ca saraktaṃ bhavati tadeva ca śirasi kapālapraticchannaṃ mastiṣkākhyaṃ mastuluṅgākhyaṃ ca sthūlāsthiṣu ca majjā caturthī śleṣmadharā nāma tatsthena hi śleṣmaṇā śleṣitāḥ sarvasandhayo dṛḍhā bhavanti sopāṅgā ivākṣāḥ pañcamī purīṣadharā nāma sā hyatrāmapakvāśayāśritā koṣṭhāntaruṇḍukasthaṃ malaṃ vibhajati",
         "iast_ru": "тр̣тӣйа̄ медодхара̄ на̄ма медо хи тасйа̄мударе 'н̣вастхиш̣у ча сарактам̣ бхавати тадева ча ш́ираси капа̄лапратиччханнам̣ мастиш̣ка̄кхйам̣ мастулун̇га̄кхйам̣ ча стхӯла̄стхиш̣у ча маджджа̄ чатуртхӣ ш́леш̣мадхара̄ на̄ма татстхена хи ш́леш̣ман̣а̄ ш́леш̣ита̄х̣ сарвасандхайо др̣д̣ха̄ бхаванти сопа̄н̇га̄ ива̄кш̣а̄х̣ пан̃чамӣ пурӣш̣адхара̄ на̄ма са̄ хйатра̄мапаква̄ш́айа̄ш́рита̄ кош̣т̣ха̄нтарун̣д̣укастхам̣ малам̣ вибхаджати",
-        "text": "Третья называется «медодхара» (несущая жир); ибо жир, в ней, находится в животе и в мелких костях, смешанный с кровью; он же, в голове, покрытый черепом, называется «мастишка» (головной мозг) и «мастулунга»; а в крупных костях — это костный мозг. Четвёртая называется «шлешмадхара» (несущая капху); ибо благодаря капхе, находящейся в ней, все суставы, скреплённые ею, становятся крепкими, подобно оси колеса с втулкой. Пятая называется «пуришадхара» (несущая кал); ибо она, расположенная между желудком и толстой кишкой, разделяет нечистоты, находящиеся в полости ундука (слепой кишки)."
+        "text": "Третья называется «медодхара» (несущая жир); ибо жир, в ней, находится в животе и в мелких костях, смешанный с кровью; он же, в голове, покрытый черепом, называется «мастишка» (головной мозг) и «мастулунга»; а в крупных костях — это костный мозг. Четвёртая называется «шлешмадхара» (несущая капху); ибо благодаря капхе, находящейся в ней, все суставы, скреплённые ею, становятся крепкими, подобно оси колеса с втулкой. Пятая называется «пуришадхара» (несущая кал); ибо она, расположенная между желудком и толстой кишкой, разделяет нечистоты, находящиеся в полости ундука (слепой кишки).",
+        "text_en": "The third is called \"medodhara\" (carrying fat); for the fat in it is found in the abdomen and in the small bones, mixed with blood; in the head, covered by the skull, it is called \"mastishka\" (brain) and \"mastulunga\"; and in the large bones it is the bone marrow. The fourth is called \"shleshmadhara\" (carrying Kapha); for through the Kapha located in it all the joints, bound by it, become firm, like the axle of a wheel with its hub. The fifth is called \"purishadhara\" (carrying faeces); for it, situated between the stomach and the large intestine, separates the waste products located in the cavity of the unduka (caecum)."
       },
       {
         "type": "verse",
@@ -21374,7 +21604,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षष्ठी पित्तधरा नाम पक्वामाशयमध्यस्था सा ह्यन्तरग्नेराधिष्ठानतयामाशयात् पक्वाशयोन्मुखमन्नं बलेन विधार्य पित्ततेजसा शोषयति पचति पक्वं च विमुञ्चति दोषाधिष्ठिता तु दौर्बल्यादाममेव ततो ऽसावन्नस्य ग्रहणात् पुनर्ग्रहणीसंज्ञा बलं च तस्याः पित्तमेवाग्न्यभिधानमतः साग्निनोपस्तब्धोपबृंहितैकयोगक्षेमा शरीरं वर्तयति",
         "iast": "ṣaṣṭhī pittadharā nāma pakvāmāśayamadhyasthā sā hyantaragnerādhiṣṭhānatayāmāśayāt pakvāśayonmukhamannaṃ balena vidhārya pittatejasā śoṣayati pacati pakvaṃ ca vimuñcati doṣādhiṣṭhitā tu daurbalyādāmameva tato 'sāvannasya grahaṇāt punargrahaṇīsaṃjñā balaṃ ca tasyāḥ pittamevāgnyabhidhānamataḥ sāgninopastabdhopabṛṃhitaikayogakṣemā śarīraṃ vartayati",
         "iast_ru": "ш̣аш̣т̣хӣ питтадхара̄ на̄ма паква̄ма̄ш́айамадхйастха̄ са̄ хйантарагнера̄дхиш̣т̣ха̄натайа̄ма̄ш́айа̄т паква̄ш́айонмукхаманнам̣ балена видха̄рйа питтатеджаса̄ ш́ош̣айати пачати паквам̣ ча вимун̃чати дош̣а̄дхиш̣т̣хита̄ ту даурбалйа̄да̄мамева тато 'са̄ваннасйа грахан̣а̄т пунарграхан̣ӣсам̣джн̃а̄ балам̣ ча тасйа̄х̣ питтамева̄гнйабхидха̄наматах̣ са̄гнинопастабдхопабр̣м̣хитаикайогакш̣ема̄ ш́арӣрам̣ вартайати",
-        "text": "Шестая называется «питтадхара» (несущая питту); она находится между желудком и толстой кишкой; ибо она, будучи вместилищем внутреннего огня, силой удерживая пищу, движущуюся из желудка к толстой кишке, иссушает её жаром питты, переваривает и, переваренную, выпускает далее. Поражённая же дошами, из-за слабости, выпускает пищу недоваренной. Поэтому она, из-за этой функции удержания пищи, называется «грахани» (удерживающая); сила же её — именно питта, называемая огнём пищеварения. Поэтому она, поддерживаемая и укрепляемая этим огнём, обеспечивая единое благополучие организма, поддерживает существование тела."
+        "text": "Шестая называется «питтадхара» (несущая питту); она находится между желудком и толстой кишкой; ибо она, будучи вместилищем внутреннего огня, силой удерживая пищу, движущуюся из желудка к толстой кишке, иссушает её жаром питты, переваривает и, переваренную, выпускает далее. Поражённая же дошами, из-за слабости, выпускает пищу недоваренной. Поэтому она, из-за этой функции удержания пищи, называется «грахани» (удерживающая); сила же её — именно питта, называемая огнём пищеварения. Поэтому она, поддерживаемая и укрепляемая этим огнём, обеспечивая единое благополучие организма, поддерживает существование тела.",
+        "text_en": "The sixth is called \"pittadhara\" (carrying Pitta); it is located between the stomach and the large intestine; for it, being the receptacle of the internal fire, forcibly retaining the food moving from the stomach to the large intestine, dries it with the heat of Pitta, digests it and, when digested, passes it onward. When afflicted by the doshas, owing to weakness, it passes the food undigested. Therefore, because of this function of retaining food, it is called \"grahani\" (the retainer); its power is precisely Pitta, called the digestive fire. Therefore it, supported and strengthened by this fire, ensuring the unified well-being of the organism, maintains the existence of the body."
       },
       {
         "type": "verse",
@@ -21382,7 +21613,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सप्तमी शुक्रधरा नाम द्व्यङ्गुले दक्षिणे पार्ण्वे बस्तिद्वारस्याधो मूत्रमार्गमाश्रिता सकलशरीरव्यापिनी शुक्रं प्रवर्तयति",
         "iast": "saptamī śukradharā nāma dvyaṅgule dakṣiṇe pārṇve bastidvārasyādho mūtramārgamāśritā sakalaśarīravyāpinī śukraṃ pravartayati",
         "iast_ru": "саптамӣ ш́украдхара̄ на̄ма двйан̇гуле дакш̣ин̣е па̄рн̣ве бастидва̄расйа̄дхо мӯтрама̄ргама̄ш́рита̄ сакалаш́арӣравйа̄пинӣ ш́украм̣ правартайати",
-        "text": "Седьмая называется «шукрадхара» (несущая семя); расположенная в двух пальцах справа от пятки, ниже устья мочевого пузыря, опираясь на мочевой путь, пронизывая всё тело, приводит в движение семя."
+        "text": "Седьмая называется «шукрадхара» (несущая семя); расположенная в двух пальцах справа от пятки, ниже устья мочевого пузыря, опираясь на мочевой путь, пронизывая всё тело, приводит в движение семя.",
+        "text_en": "The seventh is called \"shukradhara\" (carrying semen); situated two fingers to the right of the heel, below the mouth of the urinary bladder, resting on the urinary tract, pervading the whole body, it sets the semen in motion."
       },
       {
         "type": "verse",
@@ -21390,7 +21622,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दोषा धातवो मलाश्च प्रागुदिताः पञ्च बुद्धीन्द्रियाणि श्रोत्रं स्पर्शनं दर्शनं रसनं घ्राणं च तेषां सभागतया क्रमाद्विषयाः शब्दस्पर्शरूपरसगन्धाः पञ्चबुद्धीन्द्रियाधिष्ठानानि कर्णौ त्वगक्षिणी जिह्वा नासिके च",
         "iast": "doṣā dhātavo malāśca prāguditāḥ pañca buddhīndriyāṇi śrotraṃ sparśanaṃ darśanaṃ rasanaṃ ghrāṇaṃ ca teṣāṃ sabhāgatayā kramādviṣayāḥ śabdasparśarūparasagandhāḥ pañcabuddhīndriyādhiṣṭhānāni karṇau tvagakṣiṇī jihvā nāsike ca",
         "iast_ru": "дош̣а̄ дха̄таво мала̄ш́ча пра̄гудита̄х̣ пан̃ча буддхӣндрийа̄н̣и ш́ротрам̣ спарш́анам̣ дарш́анам̣ расанам̣ гхра̄н̣ам̣ ча теш̣а̄м̣ сабха̄гатайа̄ крама̄двиш̣айа̄х̣ ш́абдаспарш́арӯпарасагандха̄х̣ пан̃чабуддхӣндрийа̄дхиш̣т̣ха̄на̄ни карн̣ау твагакш̣ин̣ӣ джихва̄ на̄сике ча",
-        "text": "Доши, ткани и нечистоты уже были упомянуты ранее. Пять органов чувств восприятия: слух, осязание, зрение, вкус, обоняние. Соответственно им, по порядку, их объекты: звук, прикосновение, форма, вкус, запах. Вместилища пяти органов чувств восприятия: оба уха, кожа, оба глаза, язык и обе ноздри."
+        "text": "Доши, ткани и нечистоты уже были упомянуты ранее. Пять органов чувств восприятия: слух, осязание, зрение, вкус, обоняние. Соответственно им, по порядку, их объекты: звук, прикосновение, форма, вкус, запах. Вместилища пяти органов чувств восприятия: оба уха, кожа, оба глаза, язык и обе ноздри.",
+        "text_en": "The doshas, tissues and waste products have already been mentioned earlier. The five sensory organs of perception: hearing, touch, sight, taste, smell. Corresponding to them, in order, their objects: sound, contact, form, taste, smell. The seats of the five sensory organs of perception: both ears, the skin, both eyes, the tongue and both nostrils."
       },
       {
         "type": "verse",
@@ -21398,7 +21631,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पञ्च कर्मेन्दिर्याणि वाक्पायूपस्थपाणिपादसंज्ञकानि तान्यपि च वचनोत्सर्गहर्षादानगमनार्थानि",
         "iast": "pañca karmendiryāṇi vākpāyūpasthapāṇipādasaṃjñakāni tānyapi ca vacanotsargaharṣādānagamanārthāni",
         "iast_ru": "пан̃ча кармендирйа̄н̣и ва̄кпа̄йӯпастхапа̄н̣ипа̄дасам̣джн̃ака̄ни та̄нйапи ча вачанотсаргахарш̣а̄да̄нагамана̄ртха̄ни",
-        "text": "Пять органов действия, называемые: речь, задний проход, детородный орган, руки, ноги; они же, соответственно, служат для целей речи, выделения, наслаждения, взятия и удержания, и передвижения."
+        "text": "Пять органов действия, называемые: речь, задний проход, детородный орган, руки, ноги; они же, соответственно, служат для целей речи, выделения, наслаждения, взятия и удержания, и передвижения.",
+        "text_en": "The five organs of action are called: speech, anus, generative organ, hands and feet; and they serve, respectively, the purposes of speech, excretion, pleasure, taking and holding, and locomotion."
       },
       {
         "type": "verse",
@@ -21406,7 +21640,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतीन्द्रियं तु मनः सर्वार्थैरन्वयात् तद्योगेन पञ्चेन्द्रियाणामर्थप्रवृत्तेः बुद्धिकर्मेन्द्रियोभयात्मकत्वाच्च",
         "iast": "atīndriyaṃ tu manaḥ sarvārthairanvayāt tadyogena pañcendriyāṇāmarthapravṛtteḥ buddhikarmendriyobhayātmakatvācca",
         "iast_ru": "атӣндрийам̣ ту манах̣ сарва̄ртхаиранвайа̄т тадйогена пан̃чендрийа̄н̣а̄мартхаправр̣ттех̣ буддхикармендрийобхайа̄тмакатва̄чча",
-        "text": "Сверхчувственный же орган — ум; он связан со всеми объектами через связь с ними; ибо через его соединение с органами чувств происходит восприятие объектов пятью органами чувств; и он обладает природой обоих — органа восприятия и органа действия."
+        "text": "Сверхчувственный же орган — ум; он связан со всеми объектами через связь с ними; ибо через его соединение с органами чувств происходит восприятие объектов пятью органами чувств; и он обладает природой обоих — органа восприятия и органа действия.",
+        "text_en": "The supra-sensory organ is the mind; it is connected with all objects through its connection with them; for through its union with the sense organs the perception of objects by the five sense organs takes place; and it has the nature of both, of the organ of perception and of the organ of action."
       },
       {
         "type": "verse",
@@ -21414,7 +21649,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सप्ताशयः क्रमादसृक्कफामपित्तपक्ववायुमूत्राधाराः स्त्रीणां पित्तपक्वाशययोर्मध्ये गर्भाशयो ऽष्टमः तेषु सप्तसु प्रतिबद्धानि कोष्ठाङ्गानि हृदययकृत्प्लीहफुफ्फुसोण्डुकवृक्कान्त्रादीनि तत्र समानेनाध्मायमानस्य देहोष्मणा पच्यमानस्य शोणितस्याच्छतो जायते यकृत् प्लीहा च रक्तफेनात् फुफ्फुसम् रक्तकिट्टादुण्डुकः रक्तमेदःप्रसादाद् वृक्कौ रक्तमांसप्रसादादान्त्राणि तानि सार्धत्रिव्यामानि पुंसाम् त्रिव्यामानि स्रीणाम् रक्तस्यानिलयोगात् कालीयम् हृदयं पुनः श्लेष्मरक्तप्रसादात् सम्भवति पद्मकोशसङ्काशं सुषिरमधोमुखम् तद्विशेषेण चेतनायाः स्थानं सर्वभावानां च चेतनानुगतानाम् तस्य वामपार्ण्वे प्लीहा फुफ्फुसश्च दक्षिणतो यकृत् क्लोम च",
         "iast": "saptāśayaḥ kramādasṛkkaphāmapittapakvavāyumūtrādhārāḥ strīṇāṃ pittapakvāśayayormadhye garbhāśayo 'ṣṭamaḥ teṣu saptasu pratibaddhāni koṣṭhāṅgāni hṛdayayakṛtplīhaphuphphusoṇḍukavṛkkāntrādīni tatra samānenādhmāyamānasya dehoṣmaṇā pacyamānasya śoṇitasyācchato jāyate yakṛt plīhā ca raktaphenāt phuphphusam raktakiṭṭāduṇḍukaḥ raktamedaḥprasādād vṛkkau raktamāṃsaprasādādāntrāṇi tāni sārdhatrivyāmāni puṃsām trivyāmāni srīṇām raktasyānilayogāt kālīyam hṛdayaṃ punaḥ śleṣmaraktaprasādāt sambhavati padmakośasaṅkāśaṃ suṣiramadhomukham tadviśeṣeṇa cetanāyāḥ sthānaṃ sarvabhāvānāṃ ca cetanānugatānām tasya vāmapārṇve plīhā phuphphusaśca dakṣiṇato yakṛt kloma ca",
         "iast_ru": "сапта̄ш́айах̣ крама̄даср̣ккапха̄мапиттапаквава̄йумӯтра̄дха̄ра̄х̣ стрӣн̣а̄м̣ питтапаква̄ш́айайормадхйе гарбха̄ш́айо 'ш̣т̣амах̣ теш̣у саптасу пратибаддха̄ни кош̣т̣ха̄н̇га̄ни хр̣дайайакр̣тплӣхапхупхпхусон̣д̣укавр̣кка̄нтра̄дӣни татра сама̄нена̄дхма̄йама̄насйа дехош̣ман̣а̄ пачйама̄насйа ш́он̣итасйа̄ччхато джа̄йате йакр̣т плӣха̄ ча рактапхена̄т пхупхпхусам рактакит̣т̣а̄дун̣д̣уках̣ рактамедах̣праса̄да̄д вр̣ккау рактама̄м̣сапраса̄да̄да̄нтра̄н̣и та̄ни са̄рдхатривйа̄ма̄ни пум̣са̄м тривйа̄ма̄ни срӣн̣а̄м рактасйа̄нилайога̄т ка̄лӣйам хр̣дайам̣ пунах̣ ш́леш̣марактапраса̄да̄т самбхавати падмакош́асан̇ка̄ш́ам̣ суш̣ирамадхомукхам тадвиш́еш̣ен̣а четана̄йа̄х̣ стха̄нам̣ сарвабха̄ва̄на̄м̣ ча четана̄нугата̄на̄м тасйа ва̄мапа̄рн̣ве плӣха̄ пхупхпхусаш́ча дакш̣ин̣ато йакр̣т клома ча",
-        "text": "Семь вместилищ, по порядку: вместилища крови, капхи, амы, питты, недоваренного желудка, ветра, мочи. У женщин же, между вместилищами питты и толстой кишки, находится восьмое — ложе матки. В этих семи вместилищах заключены органы желудочно-кишечного тракта: сердце, печень, селезёнка, лёгкое, слепая кишка, почки, кишечник и подобное. В этом случае, из крови, раздуваемой саманой, перевариваемой телесным жаром, и ставшей чистой, возникает печень и селезёнка; из кровяной пены — лёгкое; из осадка крови — «ундука»; из чистой сущности крови-жира — обе почки; из чистой сущности крови-мяса — кишечник. Они — в три с половиной вьямы длиной у мужчин, три вьямы — у женщин; из-за соединения крови с ветром они приобретают тёмный цвет. Сердце же возникает из чистой сущности капхи-крови, подобное чашечке лотоса, полое, обращённое вниз; оно, в особенности, — место сознания и всех состояний, сопутствующих сознанию. С левой стороны от него — селезёнка и лёгкое; справа — печень и клома."
+        "text": "Семь вместилищ, по порядку: вместилища крови, капхи, амы, питты, недоваренного желудка, ветра, мочи. У женщин же, между вместилищами питты и толстой кишки, находится восьмое — ложе матки. В этих семи вместилищах заключены органы желудочно-кишечного тракта: сердце, печень, селезёнка, лёгкое, слепая кишка, почки, кишечник и подобное. В этом случае, из крови, раздуваемой саманой, перевариваемой телесным жаром, и ставшей чистой, возникает печень и селезёнка; из кровяной пены — лёгкое; из осадка крови — «ундука»; из чистой сущности крови-жира — обе почки; из чистой сущности крови-мяса — кишечник. Они — в три с половиной вьямы длиной у мужчин, три вьямы — у женщин; из-за соединения крови с ветром они приобретают тёмный цвет. Сердце же возникает из чистой сущности капхи-крови, подобное чашечке лотоса, полое, обращённое вниз; оно, в особенности, — место сознания и всех состояний, сопутствующих сознанию. С левой стороны от него — селезёнка и лёгкое; справа — печень и клома.",
+        "text_en": "The seven receptacles, in order: the receptacles of blood, Kapha, ama, Pitta, the undigested stomach, Vata and urine. In women, between the receptacles of Pitta and the large intestine, there is an eighth, the bed of the uterus. In these seven receptacles the organs of the gastrointestinal tract are enclosed: heart, liver, spleen, lung, caecum, kidneys, intestine and the like. In this regard, from the blood, blown up by Samana, digested by the bodily heat and become pure, arise the liver and spleen; from the froth of blood, the lung; from the sediment of blood, the \"unduka\"; from the pure essence of blood and fat, both kidneys; from the pure essence of blood and flesh, the intestine. They are three and a half vyamas long in men, three vyamas in women; owing to the union of blood with Vata, they acquire a dark colour. The heart arises from the pure essence of Kapha and blood, like the calyx of a lotus, hollow, turned downward; it is, in particular, the seat of consciousness and of all states accompanying consciousness. On its left side are the spleen and lung; on the right, the liver and kloma."
       },
       {
         "type": "verse",
@@ -21422,7 +21658,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा कफरक्तवाहिनां स्रोतसां महाभूतानां च प्रसादादिन्द्रियाणि तेष्वपि च नेत्रे श्लेष्मणः प्रसादाच्छुक्लमण्डलं तत् पितृजम् असृजः कृष्णमण्डलं तन्मातृजम् मध्ये दृष्टिमण्डलं तदुभयात्मकम्",
         "iast": "tathā kapharaktavāhināṃ srotasāṃ mahābhūtānāṃ ca prasādādindriyāṇi teṣvapi ca netre śleṣmaṇaḥ prasādācchuklamaṇḍalaṃ tat pitṛjam asṛjaḥ kṛṣṇamaṇḍalaṃ tanmātṛjam madhye dṛṣṭimaṇḍalaṃ tadubhayātmakam",
         "iast_ru": "татха̄ капхарактава̄хина̄м̣ сротаса̄м̣ маха̄бхӯта̄на̄м̣ ча праса̄да̄диндрийа̄н̣и теш̣вапи ча нетре ш́леш̣ман̣ах̣ праса̄да̄ччхукламан̣д̣алам̣ тат питр̣джам аср̣джах̣ кр̣ш̣н̣аман̣д̣алам̣ танма̄тр̣джам мадхйе др̣ш̣т̣иман̣д̣алам̣ тадубхайа̄тмакам",
-        "text": "Подобным же образом, от чистой сущности каналов, несущих капху-кровь, и великих элементов, возникают органы чувств. Среди них же, в глазу: от чистой сущности капхи — белый круг; он происходит от отца. От чистой сущности крови — чёрный круг; он происходит от матери. В середине — круг зрения; он обладает обеими природами."
+        "text": "Подобным же образом, от чистой сущности каналов, несущих капху-кровь, и великих элементов, возникают органы чувств. Среди них же, в глазу: от чистой сущности капхи — белый круг; он происходит от отца. От чистой сущности крови — чёрный круг; он происходит от матери. В середине — круг зрения; он обладает обеими природами.",
+        "text_en": "Likewise, from the pure essence of the channels carrying Kapha and blood, and from the great elements, the sense organs arise. Among them, in the eye: from the pure essence of Kapha, the white circle; it is derived from the father. From the pure essence of blood, the black circle; it is derived from the mother. In the middle is the circle of vision; it possesses both natures."
       },
       {
         "type": "verse",
@@ -21430,7 +21667,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पक्ष्मवत्मर्शुक्लकृष्णदृष्ट्याख्यानि पञ्च मण्डलानि तत्सन्धयश्चत्वारः द्वौ चापाङ्गकनीनयोः इति ते षट् षट् च पटलानि द्वे वर्त्मनी बाह्यं चाश्रितमग्न्यम्भसी द्वितीयं मांसं तृतीयं मेदश्चतुर्थमस्थि तेषां बहलता दृष्टेः पञ्चमांशेन",
         "iast": "pakṣmavatmarśuklakṛṣṇadṛṣṭyākhyāni pañca maṇḍalāni tatsandhayaścatvāraḥ dvau cāpāṅgakanīnayoḥ iti te ṣaṭ ṣaṭ ca paṭalāni dve vartmanī bāhyaṃ cāśritamagnyambhasī dvitīyaṃ māṃsaṃ tṛtīyaṃ medaścaturthamasthi teṣāṃ bahalatā dṛṣṭeḥ pañcamāṃśena",
         "iast_ru": "пакш̣маватмарш́уклакр̣ш̣н̣адр̣ш̣т̣йа̄кхйа̄ни пан̃ча ман̣д̣ала̄ни татсандхайаш́чатва̄рах̣ двау ча̄па̄н̇гаканӣнайох̣ ити те ш̣ат̣ ш̣ат̣ ча пат̣ала̄ни две вартманӣ ба̄хйам̣ ча̄ш́ритамагнйамбхасӣ двитӣйам̣ ма̄м̣сам̣ тр̣тӣйам̣ медаш́чатуртхамастхи теш̣а̄м̣ бахалата̄ др̣ш̣т̣ех̣ пан̃чама̄м̣ш́ена",
-        "text": "Пять кругов, называемых: ресница, веко, белое, чёрное, зрение. Их соединений — четыре: два — в наружном и внутреннем углах глаза; итак, их всего шесть. И шесть же плёнок; два века; наружная опирается на огонь-воду; вторая — мясо; третья — жир; четвёртая — кость. Их толщина составляет пятую часть толщины самого зрения."
+        "text": "Пять кругов, называемых: ресница, веко, белое, чёрное, зрение. Их соединений — четыре: два — в наружном и внутреннем углах глаза; итак, их всего шесть. И шесть же плёнок; два века; наружная опирается на огонь-воду; вторая — мясо; третья — жир; четвёртая — кость. Их толщина составляет пятую часть толщины самого зрения.",
+        "text_en": "The five circles are called: eyelash, eyelid, white, black, vision. Their junctions are four: two at the outer and inner corners of the eye; thus there are six in all. And there are six membranes; the two eyelids; the outer rests on fire-water; the second is flesh; the third is fat; the fourth is bone. Their thickness is one fifth of the thickness of the vision itself."
       },
       {
         "type": "verse",
@@ -21438,7 +21676,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बन्धनगुणास्तु चत्वारः सिराकण्डरामेदःकफात्मकाः श्लेष्मा तु परं सर्वसन्धिबन्धनमित्युक्तं प्राक् नेत्राश्रितं तु तेजो बाह्यतेजसा स्वयोनिना योगाच्छस्त्रमिवाश्मना कर्मण्यं भवति अतियोगादुपहन्यते तच्च वैद्युतवद् बडवामुखवच्चाम्भोमध्यगमपि वीर्योत्कर्षात्तेजस्त्वं न जहाति मांसासृक्कफप्रसादात्तु जिह्वा जायते मांसासृक्कफमेदःप्रसादाद् वृषणाविति",
         "iast": "bandhanaguṇāstu catvāraḥ sirākaṇḍarāmedaḥkaphātmakāḥ śleṣmā tu paraṃ sarvasandhibandhanamityuktaṃ prāk netrāśritaṃ tu tejo bāhyatejasā svayoninā yogācchastramivāśmanā karmaṇyaṃ bhavati atiyogādupahanyate tacca vaidyutavad baḍavāmukhavaccāmbhomadhyagamapi vīryotkarṣāttejastvaṃ na jahāti māṃsāsṛkkaphaprasādāttu jihvā jāyate māṃsāsṛkkaphamedaḥprasādād vṛṣaṇāviti",
         "iast_ru": "бандханагун̣а̄сту чатва̄рах̣ сира̄кан̣д̣ара̄медах̣капха̄тмака̄х̣ ш́леш̣ма̄ ту парам̣ сарвасандхибандханамитйуктам̣ пра̄к нетра̄ш́ритам̣ ту теджо ба̄хйатеджаса̄ свайонина̄ йога̄ччхастрамива̄ш́мана̄ карман̣йам̣ бхавати атийога̄дупаханйате тачча ваидйутавад бад̣ава̄мукхавачча̄мбхомадхйагамапи вӣрйоткарш̣а̄ттеджаствам̣ на джаха̄ти ма̄м̣са̄ср̣ккапхапраса̄да̄тту джихва̄ джа̄йате ма̄м̣са̄ср̣ккапхамедах̣праса̄да̄д вр̣ш̣ан̣а̄вити",
-        "text": "Скрепляющих же качеств — четыре: природы сосуда, сухожилия, жира, капхи. Капха же, как было сказано ранее, — высшее скрепление всех суставов. Огонь же, заключённый в глазу, при соединении с внешним огнём, своим сородичем, становится действенным, подобно заточке режущего орудия о камень; при избыточном же соединении он повреждается. И он, подобно молнии или подводному огню, даже находясь посреди воды, из-за превосходства своей силы, не утрачивает свою огненную природу. От чистой сущности мяса-крови-капхи возникает язык; от чистой сущности мяса-крови-капхи-жира — оба яичка."
+        "text": "Скрепляющих же качеств — четыре: природы сосуда, сухожилия, жира, капхи. Капха же, как было сказано ранее, — высшее скрепление всех суставов. Огонь же, заключённый в глазу, при соединении с внешним огнём, своим сородичем, становится действенным, подобно заточке режущего орудия о камень; при избыточном же соединении он повреждается. И он, подобно молнии или подводному огню, даже находясь посреди воды, из-за превосходства своей силы, не утрачивает свою огненную природу. От чистой сущности мяса-крови-капхи возникает язык; от чистой сущности мяса-крови-капхи-жира — оба яичка.",
+        "text_en": "The binding qualities are four: of the nature of vessel, tendon, fat and Kapha. Kapha, as was said earlier, is the supreme binding of all joints. The fire enclosed in the eye, when united with the external fire, its kin, becomes effective, like the sharpening of a cutting instrument on a stone; but in excessive union it is damaged. And it, like lightning or the submarine fire, even while in the midst of water, owing to the superiority of its power, does not lose its fiery nature. From the pure essence of flesh, blood and Kapha the tongue arises; from the pure essence of flesh, blood, Kapha and fat, both testicles."
       },
       {
         "type": "verse",
@@ -21446,7 +21685,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दश प्राणायतनानि मूर्धा जिह्वाबन्धनं कण्ठो हृदयं नाभिर्बस्तिर्गुदः शुक्रमोजो रक्तं च तेषामाद्यानि सप्त पुनर्महामर्मसंज्ञानि",
         "iast": "daśa prāṇāyatanāni mūrdhā jihvābandhanaṃ kaṇṭho hṛdayaṃ nābhirbastirgudaḥ śukramojo raktaṃ ca teṣāmādyāni sapta punarmahāmarmasaṃjñāni",
         "iast_ru": "даш́а пра̄н̣а̄йатана̄ни мӯрдха̄ джихва̄бандханам̣ кан̣т̣хо хр̣дайам̣ на̄бхирбастиргудах̣ ш́украмоджо рактам̣ ча теш̣а̄ма̄дйа̄ни сапта пунармаха̄мармасам̣джн̃а̄ни",
-        "text": "Десять «пранаятан»: голова, корень языка, горло, сердце, пупок, мочевой пузырь, задний проход, семя, оджас, кровь. Первые же семь из них называются «маха-марма»."
+        "text": "Десять «пранаятан»: голова, корень языка, горло, сердце, пупок, мочевой пузырь, задний проход, семя, оджас, кровь. Первые же семь из них называются «маха-марма».",
+        "text_en": "The ten \"pranayatanas\" (seats of life): the head, root of the tongue, throat, heart, navel, urinary bladder, anus, semen, ojas and blood. The first seven of these are called \"maha-marma\"."
       },
       {
         "type": "verse",
@@ -21454,7 +21694,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षोडश कण्डराः तासां द्वे द्वे करचरणेषु चतस्रः पृथग्ग्रीवापृष्ठयोः",
         "iast": "ṣoḍaśa kaṇḍarāḥ tāsāṃ dve dve karacaraṇeṣu catasraḥ pṛthaggrīvāpṛṣṭhayoḥ",
         "iast_ru": "ш̣од̣аш́а кан̣д̣ара̄х̣ та̄са̄м̣ две две карачаран̣еш̣у чатасрах̣ пр̣тхаггрӣва̄пр̣ш̣т̣хайох̣",
-        "text": "Шестнадцать сухожильных пучков «кандара»: по два на каждой руке и ноге; отдельно четыре — на шее и спине."
+        "text": "Шестнадцать сухожильных пучков «кандара»: по два на каждой руке и ноге; отдельно четыре — на шее и спине.",
+        "text_en": "Sixteen tendon bundles, \"kandara\": two on each arm and leg; separately, four on the neck and back."
       },
       {
         "type": "verse",
@@ -21462,7 +21703,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षोडश जालानि तेषां मांससिरास्नाय्वस्थिजानि चत्वार्येकैकत्र गुल्फे मणिबन्धे च प्रस्परगवाक्षितानि तानि स्थितानि",
         "iast": "ṣoḍaśa jālāni teṣāṃ māṃsasirāsnāyvasthijāni catvāryekaikatra gulphe maṇibandhe ca prasparagavākṣitāni tāni sthitāni",
         "iast_ru": "ш̣од̣аш́а джа̄ла̄ни теш̣а̄м̣ ма̄м̣сасира̄сна̄йвастхиджа̄ни чатва̄рйекаикатра гулпхе ман̣ибандхе ча праспарагава̄кш̣ита̄ни та̄ни стхита̄ни",
-        "text": "Шестнадцать сетей: происходящих от мяса, сосудов, сухожилий, костей — по четыре вида в каждой; они расположены, взаимно переплетаясь, подобно решётке, в каждой лодыжке и запястье."
+        "text": "Шестнадцать сетей: происходящих от мяса, сосудов, сухожилий, костей — по четыре вида в каждой; они расположены, взаимно переплетаясь, подобно решётке, в каждой лодыжке и запястье.",
+        "text_en": "Sixteen networks: derived from flesh, vessels, tendons and bones, four kinds each; they are arranged mutually interlaced, like a lattice, at each ankle and wrist."
       },
       {
         "type": "verse",
@@ -21470,7 +21712,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षट् कूर्चा हस्तपादग्रीवामेढ्रेषु",
         "iast": "ṣaṭ kūrcā hastapādagrīvāmeḍhreṣu",
         "iast_ru": "ш̣ат̣ кӯрча̄ хастапа̄дагрӣва̄мед̣хреш̣у",
-        "text": "Шесть пучков «курча»: на руках, ногах, шее, половом органе."
+        "text": "Шесть пучков «курча»: на руках, ногах, шее, половом органе.",
+        "text_en": "Six bundles, \"kurcha\": on the arms, legs, neck and sexual organ."
       },
       {
         "type": "verse",
@@ -21478,7 +21721,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चतस्रो मांसरज्जवः पृष्ठवंशमुभयतः पेशीनिबन्धनार्यं तासां द्वे बाह्ये द्वे चाभ्यन्तरस्थिते",
         "iast": "catasro māṃsarajjavaḥ pṛṣṭhavaṃśamubhayataḥ peśīnibandhanāryaṃ tāsāṃ dve bāhye dve cābhyantarasthite",
         "iast_ru": "чатасро ма̄м̣сараджджавах̣ пр̣ш̣т̣хавам̣ш́амубхайатах̣ пеш́ӣнибандхана̄рйам̣ та̄са̄м̣ две ба̄хйе две ча̄бхйантарастхите",
-        "text": "Четыре мясистых «верёвки»: по обе стороны позвоночного столба, для скрепления мышц; из них две — снаружи, две — расположены внутри."
+        "text": "Четыре мясистых «верёвки»: по обе стороны позвоночного столба, для скрепления мышц; из них две — снаружи, две — расположены внутри.",
+        "text_en": "Four fleshy \"cords\": on both sides of the vertebral column, for binding the muscles; of these two are on the outside, two are located inside."
       },
       {
         "type": "verse",
@@ -21486,7 +21730,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सप्त सीवन्यः ताः पञ्च शिरसि जिह्वामेहनयोरेकैका परिहार्याश्च शस्त्रेण",
         "iast": "sapta sīvanyaḥ tāḥ pañca śirasi jihvāmehanayorekaikā parihāryāśca śastreṇa",
         "iast_ru": "сапта сӣванйах̣ та̄х̣ пан̃ча ш́ираси джихва̄механайорекаика̄ париха̄рйа̄ш́ча ш́астрен̣а",
-        "text": "Семь швов: пять — на голове; по одному — на языке и на половом органе; их следует избегать при применении режущего орудия."
+        "text": "Семь швов: пять — на голове; по одному — на языке и на половом органе; их следует избегать при применении режущего орудия.",
+        "text_en": "Seven sutures: five on the head; one each on the tongue and the sexual organ; they should be avoided in the application of cutting instruments."
       },
       {
         "type": "verse",
@@ -21494,7 +21739,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चतुर्दशास्थिसङ्घाताः तेषामेकैको गुल्फजानुवङ्क्षणमणिबन्धकूर्परकक्ष्यासु त्रिकशिरसोश्च",
         "iast": "caturdaśāsthisaṅghātāḥ teṣāmekaiko gulphajānuvaṅkṣaṇamaṇibandhakūrparakakṣyāsu trikaśirasośca",
         "iast_ru": "чатурдаш́а̄стхисан̇гха̄та̄х̣ теш̣а̄мекаико гулпхаджа̄нуван̇кш̣ан̣аман̣ибандхакӯрпаракакш̣йа̄су трикаш́ирасош́ча",
-        "text": "Четырнадцать костных соединений «сангхата»: по одному — на лодыжке, колене, паху, запястье, локте, подмышке с каждой стороны; и на крестце и голове."
+        "text": "Четырнадцать костных соединений «сангхата»: по одному — на лодыжке, колене, паху, запястье, локте, подмышке с каждой стороны; и на крестце и голове.",
+        "text_en": "Fourteen bony junctions, \"sanghata\": one each at the ankle, knee, groin, wrist, elbow and armpit on each side; and on the sacrum and head."
       },
       {
         "type": "verse",
@@ -21502,7 +21748,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्वत् सीमन्ताः ते तु पञ्च शिरसीत्यष्टादश",
         "iast": "tadvat sīmantāḥ te tu pañca śirasītyaṣṭādaśa",
         "iast_ru": "тадват сӣманта̄х̣ те ту пан̃ча ш́ирасӣтйаш̣т̣а̄даш́а",
-        "text": "Подобным же образом — «симанты» (проборы черепа); их же пять на голове; итак, всего восемнадцать."
+        "text": "Подобным же образом — «симанты» (проборы черепа); их же пять на голове; итак, всего восемнадцать.",
+        "text_en": "Likewise, the \"simantas\" (partings of the skull); there are five of them on the head; thus eighteen in all."
       },
       {
         "type": "verse",
@@ -21510,7 +21757,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रीणि षष्ट्यधिकान्यस्थिशतानि तेषां च चत्वारिंशच्छतं शाखासु सविंशं शतमन्तराधौ शतमूर्ध्वमिति तत्रैकैकस्मिन् सक्थ्नि पञ्च पादनखाः प्रत्येकमङ्ग्ल्यां त्रीण्यस्थीनि तानि पञ्चदश पञ्चपादशलाकाः तत्प्रतिबन्धकमेकम् द्वे द्वे कूर्चगुल्फजङ्घास्वेकैकं पार्ष्णिजानूरुषु सर्वाणि च नखास्थ्यादीनि सक्थिवद् बाह्वोश्च",
         "iast": "trīṇi ṣaṣṭyadhikānyasthiśatāni teṣāṃ ca catvāriṃśacchataṃ śākhāsu saviṃśaṃ śatamantarādhau śatamūrdhvamiti tatraikaikasmin sakthni pañca pādanakhāḥ pratyekamaṅglyāṃ trīṇyasthīni tāni pañcadaśa pañcapādaśalākāḥ tatpratibandhakamekam dve dve kūrcagulphajaṅghāsvekaikaṃ pārṣṇijānūruṣu sarvāṇi ca nakhāsthyādīni sakthivad bāhvośca",
         "iast_ru": "трӣн̣и ш̣аш̣т̣йадхика̄нйастхиш́ата̄ни теш̣а̄м̣ ча чатва̄рим̣ш́аччхатам̣ ш́а̄кха̄су савим̣ш́ам̣ ш́атамантара̄дхау ш́атамӯрдхвамити татраикаикасмин сактхни пан̃ча па̄данакха̄х̣ пратйекаман̇глйа̄м̣ трӣн̣йастхӣни та̄ни пан̃чадаш́а пан̃чапа̄даш́ала̄ка̄х̣ татпратибандхакамекам две две кӯрчагулпхаджан̇гха̄свекаикам̣ па̄рш̣н̣иджа̄нӯруш̣у сарва̄н̣и ча накха̄стхйа̄дӣни сактхивад ба̄хвош́ча",
-        "text": "Триста шестьдесят костей: из них сто сорок — на конечностях; сто двадцать — в туловище; сто — вверху. При этом, на каждой ноге — пять ногтевых костей пальцев ног; по три кости на каждом пальце; их всего пятнадцать; пять костей плюсны; одна кость, их соединяющая; по две — на «курче», лодыжке, голени; по одной — на пятке, колене, бедре. И все ногтевые кости и подобное — так же на руках, как и на ногах."
+        "text": "Триста шестьдесят костей: из них сто сорок — на конечностях; сто двадцать — в туловище; сто — вверху. При этом, на каждой ноге — пять ногтевых костей пальцев ног; по три кости на каждом пальце; их всего пятнадцать; пять костей плюсны; одна кость, их соединяющая; по две — на «курче», лодыжке, голени; по одной — на пятке, колене, бедре. И все ногтевые кости и подобное — так же на руках, как и на ногах.",
+        "text_en": "Three hundred and sixty bones: of these, one hundred and forty are in the extremities; one hundred and twenty in the trunk; one hundred above. In this regard, in each foot there are five nail bones of the toes; three bones in each toe; fifteen in all; five bones of the metatarsus; one bone joining them; two each in the \"kurcha\", ankle and shank; one each in the heel, knee and thigh. And all the nail bones and the like are the same in the hands as in the feet."
       },
       {
         "type": "verse",
@@ -21518,7 +21766,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चतुर्विंशतिः परशुकाः तावन्त्येव स्थालकान्यर्बुदानि च त्रिंशत् पृष्ठे अष्टावुरसि एकैकं भागे त्रिके नितम्बयोश्च द्वे तद्वदक्षकांसांसफलकेषु",
         "iast": "caturviṃśatiḥ paraśukāḥ tāvantyeva sthālakānyarbudāni ca triṃśat pṛṣṭhe aṣṭāvurasi ekaikaṃ bhāge trike nitambayośca dve tadvadakṣakāṃsāṃsaphalakeṣu",
         "iast_ru": "чатурвим̣ш́атих̣ параш́ука̄х̣ та̄вантйева стха̄лака̄нйарбуда̄ни ча трим̣ш́ат пр̣ш̣т̣хе аш̣т̣а̄вураси екаикам̣ бха̄ге трике нитамбайош́ча две тадвадакш̣ака̄м̣са̄м̣сапхалакеш̣у",
-        "text": "Двадцать четыре ребра «парашука»; столько же грудинных пластин «сталака» и «арбуда»; тридцать — в спине; восемь — в груди; по одной — в области крестца, обоих тазовых костей; по две — подобным же образом — в ключице, плече, лопатке с каждой стороны."
+        "text": "Двадцать четыре ребра «парашука»; столько же грудинных пластин «сталака» и «арбуда»; тридцать — в спине; восемь — в груди; по одной — в области крестца, обоих тазовых костей; по две — подобным же образом — в ключице, плече, лопатке с каждой стороны.",
+        "text_en": "Twenty-four ribs, \"parashuka\"; the same number of sternal plates, \"sthalaka\" and \"arbuda\"; thirty in the back; eight in the chest; one each in the sacral region and in both pelvic bones; two each, likewise, in the clavicle, shoulder and shoulder blade on each side."
       },
       {
         "type": "verse",
@@ -21526,7 +21775,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथा गण्डक्र्णशङ्खेषु जत्रुतालुनोश्च त्रयोदश ग्रीवायाम् चत्वारि कण्ठनाड्याम् द्वे हनुबन्धने द्वात्रिंशद्दन्ताः तद्वदुलूखलानि च त्रीणि नासायां षट् शिरसि",
         "iast": "tathā gaṇḍakrṇaśaṅkheṣu jatrutālunośca trayodaśa grīvāyām catvāri kaṇṭhanāḍyām dve hanubandhane dvātriṃśaddantāḥ tadvadulūkhalāni ca trīṇi nāsāyāṃ ṣaṭ śirasi",
         "iast_ru": "татха̄ ган̣д̣акрн̣аш́ан̇кхеш̣у джатрута̄лунош́ча трайодаш́а грӣва̄йа̄м чатва̄ри кан̣т̣хана̄д̣йа̄м две ханубандхане два̄трим̣ш́адданта̄х̣ тадвадулӯкхала̄ни ча трӣн̣и на̄са̄йа̄м̣ ш̣ат̣ ш́ираси",
-        "text": "Подобным же образом по одной кости — в щеке, ухе, виске, ключице и нёбе с каждой стороны. Тринадцать — в шее; четыре — в горловой трубке; две — в челюстном соединении; тридцать два зуба; столько же лунок для них; три — в носу; шесть — в голове."
+        "text": "Подобным же образом по одной кости — в щеке, ухе, виске, ключице и нёбе с каждой стороны. Тринадцать — в шее; четыре — в горловой трубке; две — в челюстном соединении; тридцать два зуба; столько же лунок для них; три — в носу; шесть — в голове.",
+        "text_en": "Likewise, one bone each in the cheek, ear, temple, clavicle and palate on each side. Thirteen in the neck; four in the windpipe; two in the jaw joint; thirty-two teeth; the same number of sockets for them; three in the nose; six in the head."
       },
       {
         "type": "verse",
@@ -21534,7 +21784,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तानि जानुनितम्बांसगण्डतालुशङ्खवङ्क्षणमध्यशिरस्सु कपालसंज्ञानि दशनास्तु रुचकाः घ्राणकर्णग्रीवाक्षिकोशेषु तरुणानि पाणिपादपार्श्वपृष्ठेषु वलयानि शेषाणि नलकानीति नामानुगताकृतीनि पञ्चविधान्यस्थीनि तेषु हि सिराभिः स्नायुभिश्च निबद्धानि मांसानि",
         "iast": "tāni jānunitambāṃsagaṇḍatāluśaṅkhavaṅkṣaṇamadhyaśirassu kapālasaṃjñāni daśanāstu rucakāḥ ghrāṇakarṇagrīvākṣikośeṣu taruṇāni pāṇipādapārśvapṛṣṭheṣu valayāni śeṣāṇi nalakānīti nāmānugatākṛtīni pañcavidhānyasthīni teṣu hi sirābhiḥ snāyubhiśca nibaddhāni māṃsāni",
         "iast_ru": "та̄ни джа̄нунитамба̄м̣саган̣д̣ата̄луш́ан̇кхаван̇кш̣ан̣амадхйаш́ирассу капа̄ласам̣джн̃а̄ни даш́ана̄сту ручака̄х̣ гхра̄н̣акарн̣агрӣва̄кш̣икош́еш̣у тарун̣а̄ни па̄н̣ипа̄дапа̄рш́вапр̣ш̣т̣хеш̣у валайа̄ни ш́еш̣а̄н̣и налака̄нӣти на̄ма̄нугата̄кр̣тӣни пан̃чавидха̄нйастхӣни теш̣у хи сира̄бхих̣ сна̄йубхиш́ча нибаддха̄ни ма̄м̣са̄ни",
-        "text": "Кости в колене, тазу, плече, щеке, нёбе, виске, паху, середине головы называются «капала» (плоские); зубы же — «ручака»; в носу, ушах, шее, глазнице — «таруна» (хрящевидные); в кистях, стопах, боку, спине — «валая» (кольцевидные); остальные — «налака» (трубчатые). Таковы пять видов костей, названных по форме. В них, посредством сосудов и сухожилий, скреплены мышцы."
+        "text": "Кости в колене, тазу, плече, щеке, нёбе, виске, паху, середине головы называются «капала» (плоские); зубы же — «ручака»; в носу, ушах, шее, глазнице — «таруна» (хрящевидные); в кистях, стопах, боку, спине — «валая» (кольцевидные); остальные — «налака» (трубчатые). Таковы пять видов костей, названных по форме. В них, посредством сосудов и сухожилий, скреплены мышцы.",
+        "text_en": "The bones in the knee, pelvis, shoulder, cheek, palate, temple, groin and middle of the head are called \"kapala\" (flat); the teeth, \"ruchaka\"; in the nose, ears, neck and eye socket, \"taruna\" (cartilaginous); in the hands, feet, flank and back, \"valaya\" (ring-shaped); the remaining ones, \"nalaka\" (tubular). Such are the five kinds of bones, named according to shape. In them, by means of vessels and tendons, the muscles are bound."
       },
       {
         "type": "verse",
@@ -21542,7 +21793,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशोत्तरं शतद्वयमस्थिसन्धीनाम् तेषामष्टषष्टिः शाखासु एकोनषष्टिरन्तराधौ त्र्यशीतिरूर्ध्वम् तत्रैकैकस्मिन् सक्थ्नि पादाङ्गुलौ प्रत्येकं त्रयः द्वावङ्गुष्ठे ते चतुर्दश एकैको गुल्फजानुवङ्क्षणेषु",
         "iast": "daśottaraṃ śatadvayamasthisandhīnām teṣāmaṣṭaṣaṣṭiḥ śākhāsu ekonaṣaṣṭirantarādhau tryaśītirūrdhvam tatraikaikasmin sakthni pādāṅgulau pratyekaṃ trayaḥ dvāvaṅguṣṭhe te caturdaśa ekaiko gulphajānuvaṅkṣaṇeṣu",
         "iast_ru": "даш́оттарам̣ ш́атадвайамастхисандхӣна̄м теш̣а̄маш̣т̣аш̣аш̣т̣их̣ ш́а̄кха̄су еконаш̣аш̣т̣ирантара̄дхау трйаш́ӣтирӯрдхвам татраикаикасмин сактхни па̄да̄н̇гулау пратйекам̣ трайах̣ два̄ван̇гуш̣т̣хе те чатурдаш́а екаико гулпхаджа̄нуван̇кш̣ан̣еш̣у",
-        "text": "Двести десять костных суставов: из них шестьдесят восемь — на конечностях; пятьдесят девять — в туловище; восемьдесят три — вверху. При этом, на каждой ноге, — по три на каждом пальце ноги; два — на большом пальце; их всего четырнадцать; по одному — на лодыжке, колене, паху."
+        "text": "Двести десять костных суставов: из них шестьдесят восемь — на конечностях; пятьдесят девять — в туловище; восемьдесят три — вверху. При этом, на каждой ноге, — по три на каждом пальце ноги; два — на большом пальце; их всего четырнадцать; по одному — на лодыжке, колене, паху.",
+        "text_en": "Two hundred and ten bony joints: of these sixty-eight are in the extremities; fifty-nine in the trunk; eighty-three above. In this regard, in each foot there are three in each toe; two in the great toe; fourteen in all; one each in the ankle, knee and groin."
       },
       {
         "type": "verse",
@@ -21550,7 +21802,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रयः कटीकपालेषु चतुर्विंशतिः पृष्ठवंशे तद्वत् पार्श्वयोः अष्टावुरसि",
         "iast": "trayaḥ kaṭīkapāleṣu caturviṃśatiḥ pṛṣṭhavaṃśe tadvat pārśvayoḥ aṣṭāvurasi",
         "iast_ru": "трайах̣ кат̣ӣкапа̄леш̣у чатурвим̣ш́атих̣ пр̣ш̣т̣хавам̣ш́е тадват па̄рш́вайох̣ аш̣т̣а̄вураси",
-        "text": "Три — в костях таза; двадцать четыре — в позвоночном столбе; столько же — в боках с обеих сторон; восемь — в груди."
+        "text": "Три — в костях таза; двадцать четыре — в позвоночном столбе; столько же — в боках с обеих сторон; восемь — в груди.",
+        "text_en": "Three in the bones of the pelvis; twenty-four in the vertebral column; the same number in the flanks on both sides; eight in the chest."
       },
       {
         "type": "verse",
@@ -21558,7 +21811,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अष्टौ ग्रीवायाम् त्रयः कण्ठनाड्याम् अष्टदश कण्ठनाडीनिबद्धा हृदययकृत्क्लोमनाडीषु द्वात्रिंशद्दन्तमूलेषु एकैकः काकलनासामूर्द्धसु द्वौ द्वौ गण्डकर्णशङ्खवर्त्मनेत्रहनुसन्धिषु द्वावुपरिष्टात् भ्रुवोः पञ्च शिरःकपालेषु",
         "iast": "aṣṭau grīvāyām trayaḥ kaṇṭhanāḍyām aṣṭadaśa kaṇṭhanāḍīnibaddhā hṛdayayakṛtklomanāḍīṣu dvātriṃśaddantamūleṣu ekaikaḥ kākalanāsāmūrddhasu dvau dvau gaṇḍakarṇaśaṅkhavartmanetrahanusandhiṣu dvāvupariṣṭāt bhruvoḥ pañca śiraḥkapāleṣu",
         "iast_ru": "аш̣т̣ау грӣва̄йа̄м трайах̣ кан̣т̣хана̄д̣йа̄м аш̣т̣адаш́а кан̣т̣хана̄д̣ӣнибаддха̄ хр̣дайайакр̣ткломана̄д̣ӣш̣у два̄трим̣ш́аддантамӯлеш̣у екаиках̣ ка̄калана̄са̄мӯрддхасу двау двау ган̣д̣акарн̣аш́ан̇кхавартманетраханусандхиш̣у два̄вупариш̣т̣а̄т бхрувох̣ пан̃ча ш́ирах̣капа̄леш̣у",
-        "text": "Восемь — в шее; три — в горловой трубке; восемнадцать — в трубках, связанных с горлом, сердцем, печенью, кломой; тридцать два — у корней зубов; по одному — в кадыке, носу, темени; по два — в суставах щеки, уха, виска, века, глаза, челюсти; два — выше бровей; пять — в костях черепа."
+        "text": "Восемь — в шее; три — в горловой трубке; восемнадцать — в трубках, связанных с горлом, сердцем, печенью, кломой; тридцать два — у корней зубов; по одному — в кадыке, носу, темени; по два — в суставах щеки, уха, виска, века, глаза, челюсти; два — выше бровей; пять — в костях черепа.",
+        "text_en": "Eight in the neck; three in the windpipe; eighteen in the tubes connected with the throat, heart, liver and kloma; thirty-two at the roots of the teeth; one each in the Adam's apple, nose and crown of the head; two each in the joints of the cheek, ear, temple, eyelid, eye and jaw; two above the eyebrows; five in the bones of the skull."
       },
       {
         "type": "verse",
@@ -21566,7 +21820,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ते ऽङ्गुलिगुल्फजानुमणिबन्धकूर्परेषु कोरसंज्ञाः कक्षावङ्क्षणदन्तमूलेषूलूखलसंज्ञाः अंसपीठगुदभगनितम्बेषु सामुद्गाः ग्रीवापृष्ठवंशयोः प्रतराः शिरःकटीकपालेषु तुन्नसेवनीसंज्ञाः हनूभयतो वायसतुण्डाः कण्ठनेत्रहृदययकृत्प्लीहक्लोमनाडीषु मण्डलसंज्ञाः श्रोत्रशृङ्गाटकेषु शङ्खावर्ताः इत्यस्थिसन्धयो ऽष्टविधाः",
         "iast": "te 'ṅguligulphajānumaṇibandhakūrpareṣu korasaṃjñāḥ kakṣāvaṅkṣaṇadantamūleṣūlūkhalasaṃjñāḥ aṃsapīṭhagudabhaganitambeṣu sāmudgāḥ grīvāpṛṣṭhavaṃśayoḥ pratarāḥ śiraḥkaṭīkapāleṣu tunnasevanīsaṃjñāḥ hanūbhayato vāyasatuṇḍāḥ kaṇṭhanetrahṛdayayakṛtplīhaklomanāḍīṣu maṇḍalasaṃjñāḥ śrotraśṛṅgāṭakeṣu śaṅkhāvartāḥ ityasthisandhayo 'ṣṭavidhāḥ",
         "iast_ru": "те 'н̇гулигулпхаджа̄нуман̣ибандхакӯрпареш̣у корасам̣джн̃а̄х̣ какш̣а̄ван̇кш̣ан̣адантамӯлеш̣ӯлӯкхаласам̣джн̃а̄х̣ ам̣сапӣт̣хагудабхаганитамбеш̣у са̄мудга̄х̣ грӣва̄пр̣ш̣т̣хавам̣ш́айох̣ пратара̄х̣ ш́ирах̣кат̣ӣкапа̄леш̣у туннасеванӣсам̣джн̃а̄х̣ ханӯбхайато ва̄йасатун̣д̣а̄х̣ кан̣т̣ханетрахр̣дайайакр̣тплӣхакломана̄д̣ӣш̣у ман̣д̣аласам̣джн̃а̄х̣ ш́ротраш́р̣н̇га̄т̣акеш̣у ш́ан̇кха̄варта̄х̣ итйастхисандхайо 'ш̣т̣авидха̄х̣",
-        "text": "Суставы в пальцах, лодыжке, колене, запястье, локте называются «кора» (шарнирными); в подмышке, паху, у корней зубов — «улукхала» (ступовидными); в лопатке, заднем проходе, половых органах, тазовых костях — «самудга» (коробчатыми); в шее и позвоночном столбе — «пратара» (пластинчатыми); в костях черепа и таза — «тунна-севани» (прошитыми швами); по обе стороны челюсти — «ваяса-тунда» (вороноклювыми); в горле, глазах, сердце, печени, селезёнке, кломе — «мандала» (круговыми); в ушах и шрингатаке — «шанкхаварта» (спиралевидными). Таковы восемь видов костных суставов."
+        "text": "Суставы в пальцах, лодыжке, колене, запястье, локте называются «кора» (шарнирными); в подмышке, паху, у корней зубов — «улукхала» (ступовидными); в лопатке, заднем проходе, половых органах, тазовых костях — «самудга» (коробчатыми); в шее и позвоночном столбе — «пратара» (пластинчатыми); в костях черепа и таза — «тунна-севани» (прошитыми швами); по обе стороны челюсти — «ваяса-тунда» (вороноклювыми); в горле, глазах, сердце, печени, селезёнке, кломе — «мандала» (круговыми); в ушах и шрингатаке — «шанкхаварта» (спиралевидными). Таковы восемь видов костных суставов.",
+        "text_en": "The joints in the fingers, ankle, knee, wrist and elbow are called \"kora\" (hinge-like); those in the armpit, groin and roots of the teeth, \"ulukhala\" (mortar-like); those in the shoulder blade, anus, sexual organs and pelvic bones, \"samudga\" (box-like); those in the neck and vertebral column, \"pratara\" (plate-like); those in the bones of the skull and pelvis, \"tunna-sevani\" (stitched with seams); those on both sides of the jaw, \"vayasa-tunda\" (crow-beaked); those in the throat, eyes, heart, liver, spleen and kloma, \"mandala\" (circular); those in the ears and shringataka, \"shankhavarta\" (spiral). Such are the eight kinds of bony joints."
       },
       {
         "type": "verse",
@@ -21574,7 +21829,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नायुपेशीसिराश्रितैस्तु सहस्रद्वयं न पुनः शस्त्रप्रणिधाने तेषु वाच्यमस्तीति पृथङ् नोच्यते",
         "iast": "snāyupeśīsirāśritaistu sahasradvayaṃ na punaḥ śastrapraṇidhāne teṣu vācyamastīti pṛthaṅ nocyate",
         "iast_ru": "сна̄йупеш́ӣсира̄ш́ритаисту сахасрадвайам̣ на пунах̣ ш́астрапран̣идха̄не теш̣у ва̄чйамастӣти пр̣тхан̇ ночйате",
-        "text": "Суставов же, связанных с сухожилиями, мышцами, сосудами, — ещё две тысячи; но, поскольку о них нечего сказать применительно к введению режущего орудия, они не перечисляются отдельно."
+        "text": "Суставов же, связанных с сухожилиями, мышцами, сосудами, — ещё две тысячи; но, поскольку о них нечего сказать применительно к введению режущего орудия, они не перечисляются отдельно.",
+        "text_en": "The joints connected with tendons, muscles and vessels number a further two thousand; but since there is nothing to be said about them in relation to the use of cutting instruments, they are not listed separately."
       },
       {
         "type": "verse",
@@ -21582,7 +21838,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नव स्नायुशतानि तेषां षट् शतानि शाखासु त्रिंशच्छतद्वयमन्तराधौ ऊर्ध्वं सप्ततिः तत्रैकैकस्मिन् सक्थ्नि पादाङ्गुल्यां प्रत्येकं षट् षट् तानि त्रिंशत् दश दश पादतलकूर्चगुल्फेषु त्रिंशज्जङ्घायाम् दश जानुनि चत्वारिंशदूरौ दश वङ्क्षणे",
         "iast": "nava snāyuśatāni teṣāṃ ṣaṭ śatāni śākhāsu triṃśacchatadvayamantarādhau ūrdhvaṃ saptatiḥ tatraikaikasmin sakthni pādāṅgulyāṃ pratyekaṃ ṣaṭ ṣaṭ tāni triṃśat daśa daśa pādatalakūrcagulpheṣu triṃśajjaṅghāyām daśa jānuni catvāriṃśadūrau daśa vaṅkṣaṇe",
         "iast_ru": "нава сна̄йуш́ата̄ни теш̣а̄м̣ ш̣ат̣ ш́ата̄ни ш́а̄кха̄су трим̣ш́аччхатадвайамантара̄дхау ӯрдхвам̣ саптатих̣ татраикаикасмин сактхни па̄да̄н̇гулйа̄м̣ пратйекам̣ ш̣ат̣ ш̣ат̣ та̄ни трим̣ш́ат даш́а даш́а па̄даталакӯрчагулпхеш̣у трим̣ш́аджджан̇гха̄йа̄м даш́а джа̄нуни чатва̄рим̣ш́адӯрау даш́а ван̇кш̣ан̣е",
-        "text": "Девятьсот сухожилий: из них шестьсот — на конечностях; двести тридцать — в туловище; семьдесят — вверху. При этом, на каждой ноге, — по шесть на каждом пальце ноги; их всего тридцать; по десять — на стопе, пятке, лодыжке; тридцать — на голени; десять — на колене; сорок — на бедре; десять — в паху."
+        "text": "Девятьсот сухожилий: из них шестьсот — на конечностях; двести тридцать — в туловище; семьдесят — вверху. При этом, на каждой ноге, — по шесть на каждом пальце ноги; их всего тридцать; по десять — на стопе, пятке, лодыжке; тридцать — на голени; десять — на колене; сорок — на бедре; десять — в паху.",
+        "text_en": "Nine hundred tendons: of these six hundred are in the extremities; two hundred and thirty in the trunk; seventy above. In this regard, in each foot there are six in each toe; thirty in all; ten each in the sole, heel and ankle; thirty in the shank; ten in the knee; forty in the thigh; ten in the groin."
       },
       {
         "type": "verse",
@@ -21590,7 +21847,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चत्वारिंशत् कट्याम् विंशतिर्मुष्कमेढ्रबस्त्यन्त्रेषु अशीतिः पृष्ठे षष्टिः प्रार्श्वयोः अष्टादशोरसि चत्वार्यक्षकयोः अष्टावंसयोः",
         "iast": "catvāriṃśat kaṭyām viṃśatirmuṣkameḍhrabastyantreṣu aśītiḥ pṛṣṭhe ṣaṣṭiḥ prārśvayoḥ aṣṭādaśorasi catvāryakṣakayoḥ aṣṭāvaṃsayoḥ",
         "iast_ru": "чатва̄рим̣ш́ат кат̣йа̄м вим̣ш́атирмуш̣камед̣храбастйантреш̣у аш́ӣтих̣ пр̣ш̣т̣хе ш̣аш̣т̣их̣ пра̄рш́вайох̣ аш̣т̣а̄даш́ораси чатва̄рйакш̣акайох̣ аш̣т̣а̄вам̣сайох̣",
-        "text": "Сорок — в пояснице; двадцать — в мошонке, половом органе, мочевом пузыре, кишечнике; восемьдесят — в спине; шестьдесят — в боках; восемнадцать — в груди; четыре — в ключицах; восемь — в плечах."
+        "text": "Сорок — в пояснице; двадцать — в мошонке, половом органе, мочевом пузыре, кишечнике; восемьдесят — в спине; шестьдесят — в боках; восемнадцать — в груди; четыре — в ключицах; восемь — в плечах.",
+        "text_en": "Forty in the loins; twenty in the scrotum, sexual organ, urinary bladder and intestine; eighty in the back; sixty in the flanks; eighteen in the chest; four in the clavicles; eight in the shoulders."
       },
       {
         "type": "verse",
@@ -21598,7 +21856,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वे द्वे मन्यावटुनेत्रौष्ठतालुषु त्रिंशद् ग्रीवायाम् त्रीणि जत्रुणि चत्वारि हन्वोः पञ्च जिह्वायाम् द्वादशोत्तराधरेषु दन्तमांसेषु षण्मूर्धनि",
         "iast": "dve dve manyāvaṭunetrauṣṭhatāluṣu triṃśad grīvāyām trīṇi jatruṇi catvāri hanvoḥ pañca jihvāyām dvādaśottarādhareṣu dantamāṃseṣu ṣaṇmūrdhani",
         "iast_ru": "две две манйа̄ват̣унетрауш̣т̣хата̄луш̣у трим̣ш́ад грӣва̄йа̄м трӣн̣и джатрун̣и чатва̄ри ханвох̣ пан̃ча джихва̄йа̄м два̄даш́оттара̄дхареш̣у дантама̄м̣сеш̣у ш̣ан̣мӯрдхани",
-        "text": "По два — в манье, языковой уздечке, глазах, губах, нёбе с каждой стороны; тридцать — в шее; три — в ключице; четыре — в челюстях; пять — в языке; двенадцать — в верхней и нижней дёснах, дёсенной плоти; шесть — в голове."
+        "text": "По два — в манье, языковой уздечке, глазах, губах, нёбе с каждой стороны; тридцать — в шее; три — в ключице; четыре — в челюстях; пять — в языке; двенадцать — в верхней и нижней дёснах, дёсенной плоти; шесть — в голове.",
+        "text_en": "Two each in the manya, the frenulum of the tongue, the eyes, lips and palate on each side; thirty in the neck; three in the clavicle; four in the jaws; five in the tongue; twelve in the upper and lower gums and gum flesh; six in the head."
       },
       {
         "type": "verse",
