@@ -33429,7 +33429,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीतोष्णस्निग्धरूक्षाद्यैर्ज्वरो यस्य न शाम्यति शाखानुसारी तस्याशु मुञ्चेद्बाह्वाःक्रमात्सिराम्",
         "iast": "śītoṣṇasnigdharūkṣādyairjvaro yasya na śāmyati śākhānusārī tasyāśu muñcedbāhvāḥkramātsirām",
         "iast_ru": "ш́ӣтош̣н̣аснигдхарӯкш̣а̄дйаирджваро йасйа на ш́а̄мйати ш́а̄кха̄нуса̄рӣ тасйа̄ш́у мун̃чедба̄хва̄х̣крама̄тсира̄м",
-        "text": "Тому, чья лихорадка не стихает от холодных, горячих, маслянистых, сухих и подобных средств, — если она распространяется по конечностям, — следует быстро вскрыть сосуды на руках, соответственно."
+        "text": "Тому, чья лихорадка не стихает от холодных, горячих, маслянистых, сухих и подобных средств, — если она распространяется по конечностям, — следует быстро вскрыть сосуды на руках, соответственно.",
+        "text_en": "For one whose fever does not subside with cold, hot, unctuous, dry and similar measures, if it spreads into the limbs, the veins of the arms should be opened promptly, as appropriate."
       },
       {
         "type": "verse",
@@ -33437,7 +33438,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अयमेव विधिः कार्यो विषमे ऽपि यथायथम् ज्वरे विभज्य वातादीन्यश्चानन्तरमुच्यते",
         "iast": "ayameva vidhiḥ kāryo viṣame 'pi yathāyatham jvare vibhajya vātādīnyaścānantaramucyate",
         "iast_ru": "айамева видхих̣ ка̄рйо виш̣аме 'пи йатха̄йатхам джваре вибхаджйа ва̄та̄дӣнйаш́ча̄нантарамучйате",
-        "text": "Этот же метод следует применять при неправильной (вишама) лихорадке, соответственно, различая преобладание Ваты и прочих дош; далее же будет сказано следующее:"
+        "text": "Этот же метод следует применять при неправильной (вишама) лихорадке, соответственно, различая преобладание Ваты и прочих дош; далее же будет сказано следующее:",
+        "text_en": "This same method should be applied in irregular (vishama) fever, distinguishing the predominance of Vata and the other doshas; what follows will be stated further on:"
       },
       {
         "type": "verse",
@@ -33445,7 +33447,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पटोलकटुकामुस्ताप्राणदामधुकैः कृताः त्रिचतुष्पञ्चशः क्वाथा विषमज्वरनाशनाः",
         "iast": "paṭolakaṭukāmustāprāṇadāmadhukaiḥ kṛtāḥ tricatuṣpañcaśaḥ kvāthā viṣamajvaranāśanāḥ",
         "iast_ru": "пат̣олакат̣ука̄муста̄пра̄н̣ада̄мадхукаих̣ кр̣та̄х̣ тричатуш̣пан̃чаш́ах̣ ква̄тха̄ виш̣амаджварана̄ш́ана̄х̣",
-        "text": "Отвары, приготовленные с патолой, катукой, мустой, пранадой и солодкой, принимаемые три, четыре или пять раз, устраняют неправильную лихорадку;"
+        "text": "Отвары, приготовленные с патолой, катукой, мустой, пранадой и солодкой, принимаемые три, четыре или пять раз, устраняют неправильную лихорадку;",
+        "text_en": "Decoctions prepared with patola, katuka, musta, pranada and licorice, taken three, four or five times, relieve irregular fever;"
       },
       {
         "type": "verse",
@@ -33453,7 +33456,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "योजयेत्त्रिफलां पथ्या गुडूचीं पिप्पलीं पृथक् तैस्तैर्विधानैः सगुडं भल्लातकमथापि वा",
         "iast": "yojayettriphalāṃ pathyā guḍūcīṃ pippalīṃ pṛthak taistairvidhānaiḥ saguḍaṃ bhallātakamathāpi vā",
         "iast_ru": "йоджайеттрипхала̄м̣ патхйа̄ гуд̣ӯчӣм̣ пиппалӣм̣ пр̣тхак таистаирвидха̄наих̣ сагуд̣ам̣ бхалла̄такаматха̄пи ва̄",
-        "text": "следует применять трифалу, харитаки, гудучи и пиппали по отдельности, различными способами, вместе с патокой, или же плод бхаллатаки."
+        "text": "следует применять трифалу, харитаки, гудучи и пиппали по отдельности, различными способами, вместе с патокой, или же плод бхаллатаки.",
+        "text_en": "Triphala, haritaki, guduchi and pippali should be used singly, in various ways, together with jaggery, or else the fruit of bhallataka."
       },
       {
         "type": "verse",
@@ -33461,7 +33465,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लङ्घनं बृंहणं वापि ज्वरागमनवासरे प्रातः सतैलं लशुनं प्राग्भक्तं वा तथा घृतम्",
         "iast": "laṅghanaṃ bṛṃhaṇaṃ vāpi jvarāgamanavāsare prātaḥ satailaṃ laśunaṃ prāgbhaktaṃ vā tathā ghṛtam",
         "iast_ru": "лан̇гханам̣ бр̣м̣хан̣ам̣ ва̄пи джвара̄гаманава̄саре пра̄тах̣ сатаилам̣ лаш́унам̣ пра̄гбхактам̣ ва̄ татха̄ гхр̣там",
-        "text": "Голодание или, напротив, укрепляющую пищу, в день ожидаемого наступления приступа лихорадки, утром, следует применять: чеснок с маслом, принятый перед едой, или же топлёное масло;"
+        "text": "Голодание или, напротив, укрепляющую пищу, в день ожидаемого наступления приступа лихорадки, утром, следует применять: чеснок с маслом, принятый перед едой, или же топлёное масло;",
+        "text_en": "Fasting or, on the contrary, nourishing food should be applied on the day the fever attack is expected, in the morning: garlic with oil, taken before meals, or else ghee;"
       },
       {
         "type": "verse",
@@ -33469,7 +33474,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीर्णं तद्वद्दधि पयस्तक्रं सर्पिश्च षट्पलम् कल्याणकं पञ्चगव्यं तिक्ताख्यं वृषसाधितम्",
         "iast": "jīrṇaṃ tadvaddadhi payastakraṃ sarpiśca ṣaṭpalam kalyāṇakaṃ pañcagavyaṃ tiktākhyaṃ vṛṣasādhitam",
         "iast_ru": "джӣрн̣ам̣ тадваддадхи пайастакрам̣ сарпиш́ча ш̣ат̣палам калйа̄н̣акам̣ пан̃чагавйам̣ тикта̄кхйам̣ вр̣ш̣аса̄дхитам",
-        "text": "после переваривания — подобным же образом простоквашу, молоко, пахту и топлёное масло, до шести пал; кальянака-гхриту, панчагавья-гхриту, тиктаку-гхриту, приготовленную с вришей,"
+        "text": "после переваривания — подобным же образом простоквашу, молоко, пахту и топлёное масло, до шести пал; кальянака-гхриту, панчагавья-гхриту, тиктаку-гхриту, приготовленную с вришей,",
+        "text_en": "after digestion, in the same way, curd, milk, buttermilk and ghee, up to six palas; Kalyanaka ghrita, Panchagavya ghrita, Tiktaka ghrita prepared with vrisha,"
       },
       {
         "type": "verse",
@@ -33477,7 +33483,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पञ्चगव्यस्य महतो विधिना पञ्चमाहिषम् पञ्चाजं चतुरौष्ट्रं च सिद्धं सिद्धं घृतं तथा",
         "iast": "pañcagavyasya mahato vidhinā pañcamāhiṣam pañcājaṃ caturauṣṭraṃ ca siddhaṃ siddhaṃ ghṛtaṃ tathā",
         "iast_ru": "пан̃чагавйасйа махато видхина̄ пан̃чама̄хиш̣ам пан̃ча̄джам̣ чатурауш̣т̣рам̣ ча сиддхам̣ сиддхам̣ гхр̣там̣ татха̄",
-        "text": "по методу большой панчагавьи — топлёное масло из пяти продуктов буйволицы, пяти продуктов козы, четырёх продуктов верблюдицы, каждое приготовленное соответствующим образом;"
+        "text": "по методу большой панчагавьи — топлёное масло из пяти продуктов буйволицы, пяти продуктов козы, четырёх продуктов верблюдицы, каждое приготовленное соответствующим образом;",
+        "text_en": "by the method of the great Panchagavya, ghee from five products of the buffalo, five of the goat, and four of the she-camel, each prepared in the proper manner;"
       },
       {
         "type": "verse",
@@ -33485,7 +33492,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कटुरोहिणिमञ्जिष्ठावृषग्रन्थिकचित्रकैः पाठास्वगुप्ताद्विनिशैः पञ्चगव्यस्य पञ्चसु",
         "iast": "kaṭurohiṇimañjiṣṭhāvṛṣagranthikacitrakaiḥ pāṭhāsvaguptādviniśaiḥ pañcagavyasya pañcasu",
         "iast_ru": "кат̣урохин̣иман̃джиш̣т̣ха̄вр̣ш̣агрантхикачитракаих̣ па̄т̣ха̄свагупта̄двиниш́аих̣ пан̃чагавйасйа пан̃часу",
-        "text": "топлёное масло, приготовленное с катурохини, манджиштхой, вришей, грантхикой, читраком, патхой, свагуптой, двумя куркумами, на основе панчагавьи, в пяти"
+        "text": "топлёное масло, приготовленное с катурохини, манджиштхой, вришей, грантхикой, читраком, патхой, свагуптой, двумя куркумами, на основе панчагавьи, в пяти",
+        "text_en": "ghee prepared with katurohini, manjishtha, vrisha, granthika, chitraka, patha, svagupta and the two turmerics, with Panchagavya as the base, in five"
       },
       {
         "type": "verse",
@@ -33493,7 +33501,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रस्थेषु संयुतैः सेव्यं विषमज्वरजित् परम् वाक्स्वरस्मृतिमेधाग्निबलारोग्यवृषत्वकृत्",
         "iast": "prastheṣu saṃyutaiḥ sevyaṃ viṣamajvarajit param vāksvarasmṛtimedhāgnibalārogyavṛṣatvakṛt",
         "iast_ru": "прастхеш̣у сам̣йутаих̣ севйам̣ виш̣амаджвараджит парам ва̄ксварасмр̣тимедха̄гнибала̄рогйавр̣ш̣атвакр̣т",
-        "text": "прастхах масла, — следует принимать; оно превосходно побеждает неправильную лихорадку, улучшает речь, голос, память, разум, пищеварительный огонь, силу, здоровье и мужскую силу."
+        "text": "прастхах масла, — следует принимать; оно превосходно побеждает неправильную лихорадку, улучшает речь, голос, память, разум, пищеварительный огонь, силу, здоровье и мужскую силу.",
+        "text_en": "prasthas of ghee, should be taken; it excellently overcomes irregular fever and improves speech, voice, memory, intellect, digestive fire, strength, health and virility."
       },
       {
         "type": "verse",
@@ -33501,7 +33510,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कोलाग्निमन्थत्रिफलाक्वाथे दध्ना घृतं पचेत् तिल्वकावापमेतच्च विषमज्वरनाशनम्",
         "iast": "kolāgnimanthatriphalākvāthe dadhnā ghṛtaṃ pacet tilvakāvāpametacca viṣamajvaranāśanam",
         "iast_ru": "кола̄гнимантхатрипхала̄ква̄тхе дадхна̄ гхр̣там̣ пачет тилвака̄ва̄паметачча виш̣амаджварана̄ш́анам",
-        "text": "На отваре из кола, агнимантхи и трифалы, вместе с простоквашей, следует сварить топлёное масло с добавлением тилваки — оно устраняет неправильную лихорадку."
+        "text": "На отваре из кола, агнимантхи и трифалы, вместе с простоквашей, следует сварить топлёное масло с добавлением тилваки — оно устраняет неправильную лихорадку.",
+        "text_en": "Ghee should be cooked in a decoction of kola, agnimantha and triphala, together with curd, with the addition of tilvaka; it relieves irregular fever."
       },
       {
         "type": "verse",
@@ -33509,7 +33519,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शृतक्षीरघृतक्षौद्रसिताकृष्णाः स्वजाहताः विषमज्वरहृद्रोगक्षतकासक्षयापहाः",
         "iast": "śṛtakṣīraghṛtakṣaudrasitākṛṣṇāḥ svajāhatāḥ viṣamajvarahṛdrogakṣatakāsakṣayāpahāḥ",
         "iast_ru": "ш́р̣такш̣ӣрагхр̣такш̣аудрасита̄кр̣ш̣н̣а̄х̣ сваджа̄хата̄х̣ виш̣амаджварахр̣дрогакш̣атака̄сакш̣айа̄паха̄х̣",
-        "text": "Сваренное молоко, топлёное масло, мёд, сахар и пиппали, приготовленные вместе надлежащим образом, устраняют неправильную лихорадку, болезнь сердца, кашель от травмы и истощение."
+        "text": "Сваренное молоко, топлёное масло, мёд, сахар и пиппали, приготовленные вместе надлежащим образом, устраняют неправильную лихорадку, болезнь сердца, кашель от травмы и истощение.",
+        "text_en": "Boiled milk, ghee, honey, sugar and pippali, prepared together in the proper manner, relieve irregular fever, heart disease, cough from injury and emaciation."
       },
       {
         "type": "verse",
@@ -33517,7 +33528,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुरां तीक्ष्णं च यन्मद्य्ंअ शिखितित्तिरिदक्षजम् मांसं मेध्योष्णवीर्यं च सहान्नेन प्रकामतः",
         "iast": "surāṃ tīkṣṇaṃ ca yanmadyṃa śikhitittiridakṣajam māṃsaṃ medhyoṣṇavīryaṃ ca sahānnena prakāmataḥ",
         "iast_ru": "сура̄м̣ тӣкш̣н̣ам̣ ча йанмадйм̣а ш́икхититтиридакш̣аджам ма̄м̣сам̣ медхйош̣н̣авӣрйам̣ ча саха̄ннена прака̄матах̣",
-        "text": "Хмельной напиток сура, а также острые хмельные напитки; мясо павлина, куропатки и дакши (петуха), чистое, горячее по природе, вместе с пищей, в достаточном количестве —"
+        "text": "Хмельной напиток сура, а также острые хмельные напитки; мясо павлина, куропатки и дакши (петуха), чистое, горячее по природе, вместе с пищей, в достаточном количестве —",
+        "text_en": "Sura (fermented liquor), as well as sharp intoxicating drinks; the meat of the peacock, partridge and daksha (cock), clean and hot by nature, together with food, in sufficient quantity;"
       },
       {
         "type": "verse",
@@ -33525,7 +33537,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सेवित्वा तदहः स्वप्यादथवा पुनरुल्लिखेत् सर्पिषो महतीं मात्रां पीत्वा वा छर्दयेत् पुनः",
         "iast": "sevitvā tadahaḥ svapyādathavā punarullikhet sarpiṣo mahatīṃ mātrāṃ pītvā vā chardayet punaḥ",
         "iast_ru": "севитва̄ тадахах̣ свапйа̄датхава̄ пунарулликхет сарпиш̣о махатӣм̣ ма̄тра̄м̣ пӣтва̄ ва̄ чхардайет пунах̣",
-        "text": "приняв это, следует в тот же день лечь спать, либо снова вызвать искусственную рвоту; или, выпив большую дозу топлёного масла, вновь вызвать рвоту."
+        "text": "приняв это, следует в тот же день лечь спать, либо снова вызвать искусственную рвоту; или, выпив большую дозу топлёного масла, вновь вызвать рвоту.",
+        "text_en": "having taken this, one should go to sleep the same day, or else induce vomiting again; or, having drunk a large dose of ghee, vomit once more."
       },
       {
         "type": "verse",
@@ -33533,7 +33546,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नीलिनीमजगन्धां च त्रिवृतां कटुरोहिणीम् पिबेज्ज्वरस्यागमने स्नेहस्वेदोपपादितः",
         "iast": "nīlinīmajagandhāṃ ca trivṛtāṃ kaṭurohiṇīm pibejjvarasyāgamane snehasvedopapāditaḥ",
         "iast_ru": "нӣлинӣмаджагандха̄м̣ ча тривр̣та̄м̣ кат̣урохин̣ӣм пибеджджварасйа̄гамане снехасведопапа̄дитах̣",
-        "text": "Нилини, аджагандху, тривриту и катурохини следует пить при наступлении приступа лихорадки, предварительно подготовившись маслом и потогонной процедурой;"
+        "text": "Нилини, аджагандху, тривриту и катурохини следует пить при наступлении приступа лихорадки, предварительно подготовившись маслом и потогонной процедурой;",
+        "text_en": "Nilini, ajagandha, trivrit and katurohini should be drunk at the onset of the fever attack, after preparation with oil and sudation;"
       },
       {
         "type": "verse",
@@ -33541,7 +33555,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आस्थापनं वा तदहर्दद्यात्स्विन्नस्य यापनम् पयसा वृपदंशस्य शकृद्वा तदहः पिबेत्",
         "iast": "āsthāpanaṃ vā tadahardadyātsvinnasya yāpanam payasā vṛpadaṃśasya śakṛdvā tadahaḥ pibet",
         "iast_ru": "а̄стха̄панам̣ ва̄ тадахардадйа̄тсвиннасйа йа̄панам пайаса̄ вр̣падам̣ш́асйа ш́акр̣два̄ тадахах̣ пибет",
-        "text": "или в тот же день следует дать очистительную клизму (астхапана) пропотевшему больному; или же в тот же день следует выпить, с молоком, помёт вришадамши (шакала) или подобного животного;"
+        "text": "или в тот же день следует дать очистительную клизму (астхапана) пропотевшему больному; или же в тот же день следует выпить, с молоком, помёт вришадамши (шакала) или подобного животного;",
+        "text_en": "or on the same day an cleansing enema (asthapana) should be given to the sweated patient; or on the same day the dung of the vrishadamsha (jackal) or a similar animal should be drunk with milk;"
       },
       {
         "type": "verse",
@@ -33549,7 +33564,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मस्तुना वा वृषशकृत् सुरया वाथ सैन्धवम् मनोह्वा सैन्धवं कृष्णा तैलेन नयनाञ्जनम्",
         "iast": "mastunā vā vṛṣaśakṛt surayā vātha saindhavam manohvā saindhavaṃ kṛṣṇā tailena nayanāñjanam",
         "iast_ru": "мастуна̄ ва̄ вр̣ш̣аш́акр̣т сурайа̄ ва̄тха саиндхавам манохва̄ саиндхавам̣ кр̣ш̣н̣а̄ таилена найана̄н̃джанам",
-        "text": "или помёт быка с мастху (сывороткой), или же с хмельным напитком сура и каменной солью; манахву с каменной солью и пиппали, вместе с маслом, следует применить как коллирий для глаз;"
+        "text": "или помёт быка с мастху (сывороткой), или же с хмельным напитком сура и каменной солью; манахву с каменной солью и пиппали, вместе с маслом, следует применить как коллирий для глаз;",
+        "text_en": "or the dung of a bull with mastu (whey), or with sura liquor and rock salt; manahva with rock salt and pippali, together with oil, should be applied as a collyrium for the eyes;"
       },
       {
         "type": "verse",
@@ -33557,7 +33573,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "योज्या हिङ्गुसमा व्याघ्रीवसा नस्ये ससैन्धवा पुराणसर्पिः संहस्य वसा तद्वत् ससैन्धवा",
         "iast": "yojyā hiṅgusamā vyāghrīvasā nasye sasaindhavā purāṇasarpiḥ saṃhasya vasā tadvat sasaindhavā",
         "iast_ru": "йоджйа̄ хин̇гусама̄ вйа̄гхрӣваса̄ насйе сасаиндхава̄ пура̄н̣асарпих̣ сам̣хасйа васа̄ тадват сасаиндхава̄",
-        "text": "следует применять хингу в равной пропорции с жиром вьягхри, вместе с каменной солью, как назальное средство; старое топлёное масло, растёртое с жиром вьягхри, подобным же образом, с каменной солью;"
+        "text": "следует применять хингу в равной пропорции с жиром вьягхри, вместе с каменной солью, как назальное средство; старое топлёное масло, растёртое с жиром вьягхри, подобным же образом, с каменной солью;",
+        "text_en": "asafoetida in equal proportion with tiger fat, together with rock salt, should be applied as a nasal remedy; old ghee ground with tiger fat, likewise, with rock salt;"
       },
       {
         "type": "verse",
@@ -33565,7 +33582,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पलङ्कषा निम्बपत्रं वचा कुष्ठं हरीतकी सर्षपाः सयवाः सर्पिर्धूपो विड्वा बिडालजा",
         "iast": "palaṅkaṣā nimbapatraṃ vacā kuṣṭhaṃ harītakī sarṣapāḥ sayavāḥ sarpirdhūpo viḍvā biḍālajā",
         "iast_ru": "палан̇каш̣а̄ нимбапатрам̣ вача̄ куш̣т̣хам̣ харӣтакӣ сарш̣апа̄х̣ сайава̄х̣ сарпирдхӯпо вид̣ва̄ бид̣а̄ладжа̄",
-        "text": "паланкшу, листья нима, вачу, куштху, харитаки, горчицу вместе с ячменём и топлёным маслом — следует использовать как окуривание; или же кал (навоз) кошки;"
+        "text": "паланкшу, листья нима, вачу, куштху, харитаки, горчицу вместе с ячменём и топлёным маслом — следует использовать как окуривание; или же кал (навоз) кошки;",
+        "text_en": "palankasha, neem leaves, vacha, kushtha, haritaki and mustard, together with barley and ghee, should be used as fumigation; or else the dung of a cat;"
       },
       {
         "type": "verse",
@@ -33573,7 +33591,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पुरध्यामवचासर्जनिम्बार्कागरुदारुभिः धूपो ज्वरेषु सर्वेषु कार्यो ऽयमपराजितः",
         "iast": "puradhyāmavacāsarjanimbārkāgarudārubhiḥ dhūpo jvareṣu sarveṣu kāryo 'yamaparājitaḥ",
         "iast_ru": "пурадхйа̄мавача̄сарджанимба̄рка̄гаруда̄рубхих̣ дхӯпо джвареш̣у сарвеш̣у ка̄рйо 'йамапара̄джитах̣",
-        "text": "окуривание с пурадхьямой, вачей, сарджей, нимом, аркой, агуру и дару — это непобедимое средство следует применять при всех видах лихорадки."
+        "text": "окуривание с пурадхьямой, вачей, сарджей, нимом, аркой, агуру и дару — это непобедимое средство следует применять при всех видах лихорадки.",
+        "text_en": "fumigation with puradhyama, vacha, sarja, neem, arka, aguru and daru: this unconquerable remedy should be applied in all kinds of fever."
       },
       {
         "type": "verse",
@@ -33581,7 +33600,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सहदेवावचाभद्रानाकुलीभिःप्रयोजयेत् धूपनोद्वर्तनालेपान् सर्वज्वरनिबर्हणान्",
         "iast": "sahadevāvacābhadrānākulībhiḥprayojayet dhūpanodvartanālepān sarvajvaranibarhaṇān",
         "iast_ru": "сахадева̄вача̄бхадра̄на̄кулӣбхих̣прайоджайет дхӯпанодвартана̄лепа̄н сарваджваранибархан̣а̄н",
-        "text": "Следует применять окуривания, растирания и обмазывания с сахадевой, вачей, бхадрой и накули, устраняющие все виды лихорадки."
+        "text": "Следует применять окуривания, растирания и обмазывания с сахадевой, вачей, бхадрой и накули, устраняющие все виды лихорадки.",
+        "text_en": "Fumigations, rubbings and ointments with sahadeva, vacha, bhadra and nakuli should be applied; they relieve all kinds of fever."
       },
       {
         "type": "verse",
@@ -33589,7 +33609,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धूमनस्याञ्जनोत्तासा ये चोक्ताश्चित्तवैकृते दवाश्रयं च भैषज्यं ज्वरान् सर्वानपोहति विशेषाद्विषमान् प्रायस्ते ह्यागन्त्वनुबन्धजाः",
         "iast": "dhūmanasyāñjanottāsā ye coktāścittavaikṛte davāśrayaṃ ca bhaiṣajyaṃ jvarān sarvānapohati viśeṣādviṣamān prāyaste hyāgantvanubandhajāḥ",
         "iast_ru": "дхӯманасйа̄н̃джанотта̄са̄ йе чокта̄ш́читтаваикр̣те дава̄ш́райам̣ ча бхаиш̣аджйам̣ джвара̄н сарва̄напохати виш́еш̣а̄двиш̣ама̄н пра̄йасте хйа̄гантванубандхаджа̄х̣",
-        "text": "Окуривания дымом, назальные средства, коллирии и прочие средства, упомянутые при расстройстве ума, а также лекарства, применяемые при отравлении лесным пожаром, устраняют все виды лихорадки, в особенности неправильные, поскольку они, как правило, связаны с внешним воздействием (агантуджа)."
+        "text": "Окуривания дымом, назальные средства, коллирии и прочие средства, упомянутые при расстройстве ума, а также лекарства, применяемые при отравлении лесным пожаром, устраняют все виды лихорадки, в особенности неправильные, поскольку они, как правило, связаны с внешним воздействием (агантуджа).",
+        "text_en": "Fumigations with smoke, nasal remedies, collyria and other measures mentioned under disorders of the mind, as well as the medicines used in poisoning by forest fire, relieve all kinds of fever, especially irregular ones, since these are generally connected with an external cause (agantuja)."
       },
       {
         "type": "verse",
@@ -33597,7 +33618,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथास्वं च सिरां विध्येदशान्तौ विषमज्वरे",
         "iast": "yathāsvaṃ ca sirāṃ vidhyedaśāntau viṣamajvare",
         "iast_ru": "йатха̄свам̣ ча сира̄м̣ видхйедаш́а̄нтау виш̣амаджваре",
-        "text": "При неутихающей неправильной лихорадке следует, соответственно, вскрыть сосуд (провести кровопускание)."
+        "text": "При неутихающей неправильной лихорадке следует, соответственно, вскрыть сосуд (провести кровопускание).",
+        "text_en": "In irregular fever that does not subside, a vein should be opened (bloodletting should be performed), as appropriate."
       },
       {
         "type": "verse",
@@ -33605,7 +33627,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रससंस्थे तु सर्वस्मिन् कुर्याद्वमनलङ्घने सेकसंशमनालेपरक्तमोक्षानसृक्स्थिते",
         "iast": "rasasaṃsthe tu sarvasmin kuryādvamanalaṅghane sekasaṃśamanāleparaktamokṣānasṛksthite",
         "iast_ru": "расасам̣стхе ту сарвасмин курйа̄дваманалан̇гхане секасам̣ш́амана̄лепарактамокш̣а̄наср̣кстхите",
-        "text": "Когда лихорадка полностью расположена в расе, следует провести рвотное и голодание; когда она расположена в крови — орошение, успокаивающие средства, обмазывания и кровопускание;"
+        "text": "Когда лихорадка полностью расположена в расе, следует провести рвотное и голодание; когда она расположена в крови — орошение, успокаивающие средства, обмазывания и кровопускание;",
+        "text_en": "When the fever is entirely lodged in rasa, emesis and fasting should be given; when it is lodged in the blood, sprinkling, soothing measures, ointments and bloodletting;"
       },
       {
         "type": "verse",
@@ -33613,7 +33636,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तीक्ष्णान् विरेकान् मांसस्थे मेदोघ्नं मेदसि स्थिते अस्थिस्थे वातशमनमभ्यङ्गस्वेदमर्दनम् ज्वरे वातार्तिशमनं विशेषाद्बस्तिकर्म च",
         "iast": "tīkṣṇān virekān māṃsasthe medoghnaṃ medasi sthite asthisthe vātaśamanamabhyaṅgasvedamardanam jvare vātārtiśamanaṃ viśeṣādbastikarma ca",
         "iast_ru": "тӣкш̣н̣а̄н вирека̄н ма̄м̣састхе медогхнам̣ медаси стхите астхистхе ва̄таш́аманамабхйан̇гасведамарданам джваре ва̄та̄ртиш́аманам̣ виш́еш̣а̄дбастикарма ча",
-        "text": "когда она расположена в мышечной ткани — сильные слабительные; когда в жировой ткани — средства, устраняющие жир; когда в кости — успокаивающие Вату средства, умащение, потогонные процедуры и массаж; при лихорадке со страданием от Ваты — в особенности клизменные процедуры."
+        "text": "когда она расположена в мышечной ткани — сильные слабительные; когда в жировой ткани — средства, устраняющие жир; когда в кости — успокаивающие Вату средства, умащение, потогонные процедуры и массаж; при лихорадке со страданием от Ваты — в особенности клизменные процедуры.",
+        "text_en": "when it is lodged in muscle tissue, strong purgatives; when in fat tissue, fat-reducing measures; when in bone, Vata-pacifying measures, oleation, sudation and massage; in fever with affliction by Vata, enema treatments especially."
       },
       {
         "type": "verse",
@@ -33621,7 +33645,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "केवलानिलवीसर्पविस्फोटाभिहतज्वरे सर्पिष्पानहिमालेपसेकमांसरसाशनम्",
         "iast": "kevalānilavīsarpavisphoṭābhihatajvare sarpiṣpānahimālepasekamāṃsarasāśanam",
         "iast_ru": "кевала̄нилавӣсарпависпхот̣а̄бхихатаджваре сарпиш̣па̄нахима̄лепасекама̄м̣сараса̄ш́анам",
-        "text": "При лихорадке, вызванной исключительно Ватой, а также при рожистом воспалении и пузырчатке — приём топлёного масла, холодные обмазывания и орошения, приём мясного бульона в пищу;"
+        "text": "При лихорадке, вызванной исключительно Ватой, а также при рожистом воспалении и пузырчатке — приём топлёного масла, холодные обмазывания и орошения, приём мясного бульона в пищу;",
+        "text_en": "In fever caused by Vata alone, as well as in erysipelas and pemphigus: intake of ghee, cold ointments and sprinkling, and meat broth taken with food;"
       },
       {
         "type": "verse",
@@ -33629,7 +33654,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कुर्याद्यथास्वमुक्तं च रक्तमोक्षादिसाधनम् ग्रहोत्थे भूतविद्योक्तं मणिमन्त्रादिसाधनम् औषधीगन्धजे पित्तशमनं विषजिद्रिषे",
         "iast": "kuryādyathāsvamuktaṃ ca raktamokṣādisādhanam grahotthe bhūtavidyoktaṃ maṇimantrādisādhanam auṣadhīgandhaje pittaśamanaṃ viṣajidriṣe",
         "iast_ru": "курйа̄дйатха̄свамуктам̣ ча рактамокш̣а̄диса̄дханам грахоттхе бхӯтавидйоктам̣ ман̣имантра̄диса̄дханам ауш̣адхӣгандхадже питташ́аманам̣ виш̣аджидриш̣е",
-        "text": "следует применять соответственно указанные средства, начиная с кровопускания. При лихорадке, вызванной одержимостью духами, — методы, упомянутые в разделе о лечении одержимости, с использованием драгоценных камней, мантр и подобного; при лихорадке от запаха трав — средства, успокаивающие Питту; при лихорадке от яда — противоядные средства."
+        "text": "следует применять соответственно указанные средства, начиная с кровопускания. При лихорадке, вызванной одержимостью духами, — методы, упомянутые в разделе о лечении одержимости, с использованием драгоценных камней, мантр и подобного; при лихорадке от запаха трав — средства, успокаивающие Питту; при лихорадке от яда — противоядные средства.",
+        "text_en": "the measures indicated, beginning with bloodletting, should be applied accordingly. In fever caused by possession by spirits: the methods mentioned in the section on the treatment of possession, using gems, mantras and the like; in fever caused by the smell of herbs: Pitta-pacifying measures; in fever from poison: antidotal remedies."
       },
       {
         "type": "verse",
@@ -33637,7 +33663,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इष्टैरर्थैर्मनोज्ञैश्च यथादोसशमेन च हिताहितविवेकैश्च ज्वरं क्रोधादिजं जयेत्",
         "iast": "iṣṭairarthairmanojñaiśca yathādosaśamena ca hitāhitavivekaiśca jvaraṃ krodhādijaṃ jayet",
         "iast_ru": "иш̣т̣аирартхаирманоджн̃аиш́ча йатха̄досаш́амена ча хита̄хитавивекаиш́ча джварам̣ кродха̄диджам̣ джайет",
-        "text": "Приятными для сердца вещами, а также успокоением дош и различением полезного и вредного следует побеждать лихорадку, вызванную гневом и подобными эмоциями."
+        "text": "Приятными для сердца вещами, а также успокоением дош и различением полезного и вредного следует побеждать лихорадку, вызванную гневом и подобными эмоциями.",
+        "text_en": "Fever caused by anger and similar emotions should be overcome by things pleasing to the heart, by pacifying the doshas, and by discrimination between what is wholesome and unwholesome."
       },
       {
         "type": "verse",
@@ -33645,7 +33672,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रोधजो याति कामेन शान्तिं क्रोधेन कामजः भयशोकोद्भवौ ताभ्यां भीशोकाभ्यां तथेतरौ शापाथर्वणमन्त्रोत्थे विधिर्दैवव्यपाश्रयः",
         "iast": "krodhajo yāti kāmena śāntiṃ krodhena kāmajaḥ bhayaśokodbhavau tābhyāṃ bhīśokābhyāṃ tathetarau śāpātharvaṇamantrotthe vidhirdaivavyapāśrayaḥ",
         "iast_ru": "кродхаджо йа̄ти ка̄мена ш́а̄нтим̣ кродхена ка̄маджах̣ бхайаш́окодбхавау та̄бхйа̄м̣ бхӣш́ока̄бхйа̄м̣ татхетарау ш́а̄па̄тхарван̣амантроттхе видхирдаивавйапа̄ш́райах̣",
-        "text": "Лихорадка, возникшая от гнева, успокаивается любовным желанием; возникшая от любовного желания — гневом; лихорадки, возникшие от страха и горя, успокаиваются противоположными им эмоциями, а также страхом и горем — если они вызваны иными причинами. При лихорадке, возникшей от проклятия или заклинаний чёрной магии, применяется метод, основанный на божественном покровительстве (мантры, ритуалы)."
+        "text": "Лихорадка, возникшая от гнева, успокаивается любовным желанием; возникшая от любовного желания — гневом; лихорадки, возникшие от страха и горя, успокаиваются противоположными им эмоциями, а также страхом и горем — если они вызваны иными причинами. При лихорадке, возникшей от проклятия или заклинаний чёрной магии, применяется метод, основанный на божественном покровительстве (мантры, ритуалы).",
+        "text_en": "Fever arising from anger is pacified by amorous desire; that arising from amorous desire, by anger; fevers arising from fear and grief are pacified by their opposite emotions, and also by fear and grief if they arise from other causes. In fever arising from a curse or from black magic spells, the method based on divine protection (mantras, rituals) is applied."
       },
       {
         "type": "verse",
@@ -33653,7 +33681,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ते ज्वराः केवलाःपूर्व व्याप्यन्ते ऽनन्तरं मलैः तस्माद्दोषानुसारेण तेष्वाहारादि कल्पयेत् न हि ज्वरो ऽनुबध्नाति मारुताद्यैर्विनाकृतः",
         "iast": "te jvarāḥ kevalāḥpūrva vyāpyante 'nantaraṃ malaiḥ tasmāddoṣānusāreṇa teṣvāhārādi kalpayet na hi jvaro 'nubadhnāti mārutādyairvinākṛtaḥ",
         "iast_ru": "те джвара̄х̣ кевала̄х̣пӯрва вйа̄пйанте 'нантарам̣ малаих̣ тасма̄ддош̣а̄нуса̄рен̣а теш̣ва̄ха̄ра̄ди калпайет на хи джваро 'нубадхна̄ти ма̄рута̄дйаирвина̄кр̣тах̣",
-        "text": "Эти лихорадки вначале возникают в чистом виде, а затем охватываются обычными продуктами расстройства; поэтому в них следует применять пищу и прочее в соответствии с преобладающей дошей — ведь лихорадка не сохраняется долго без участия Ваты и прочих дош."
+        "text": "Эти лихорадки вначале возникают в чистом виде, а затем охватываются обычными продуктами расстройства; поэтому в них следует применять пищу и прочее в соответствии с преобладающей дошей — ведь лихорадка не сохраняется долго без участия Ваты и прочих дош.",
+        "text_en": "These fevers first arise in a pure form, and are then overtaken by the ordinary products of derangement; therefore food and the rest should be applied in them according to the predominant dosha, for fever does not persist long without the participation of Vata and the other doshas."
       },
       {
         "type": "verse",
@@ -33661,7 +33690,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कथास्त्रिवर्गसंयुक्ता रुङ्निद्रादिविनोदिनीः शस्ता विचित्राः शृणुयान्न प्रेतव्याधिताश्रयाः",
         "iast": "kathāstrivargasaṃyuktā ruṅnidrādivinodinīḥ śastā vicitrāḥ śṛṇuyānna pretavyādhitāśrayāḥ",
         "iast_ru": "катха̄стриваргасам̣йукта̄ рун̇нидра̄дивинодинӣх̣ ш́аста̄ вичитра̄х̣ ш́р̣н̣уйа̄нна претавйа̄дхита̄ш́райа̄х̣",
-        "text": "Больному следует слушать занимательные истории, связанные с триадой целей жизни (дхарма, артха, кама), развлекающие ум и устраняющие боль и бессонницу; такие истории должны быть похвальными и разнообразными, но не касающимися умерших или больных."
+        "text": "Больному следует слушать занимательные истории, связанные с триадой целей жизни (дхарма, артха, кама), развлекающие ум и устраняющие боль и бессонницу; такие истории должны быть похвальными и разнообразными, но не касающимися умерших или больных.",
+        "text_en": "The patient should listen to entertaining stories connected with the three aims of life (dharma, artha, kama), which amuse the mind and remove pain and sleeplessness; such stories should be praiseworthy and varied, but not concerning the dead or the sick."
       },
       {
         "type": "verse",
@@ -33669,7 +33699,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ज्वरकालस्मृतिं चास्य हारिभिर्विषयैर्हरेत् त्यजेदाबललाभाच्च व्यायामस्नानमैथुनम्",
         "iast": "jvarakālasmṛtiṃ cāsya hāribhirviṣayairharet tyajedābalalābhācca vyāyāmasnānamaithunam",
         "iast_ru": "джварака̄ласмр̣тим̣ ча̄сйа ха̄рибхирвиш̣айаирхарет тйаджеда̄балала̄бха̄чча вйа̄йа̄масна̄намаитхунам",
-        "text": "Воспоминание о времени приступа лихорадки следует устранять привлекательными предметами для отвлечения ума; следует избегать физических упражнений, купания и соития до восстановления сил."
+        "text": "Воспоминание о времени приступа лихорадки следует устранять привлекательными предметами для отвлечения ума; следует избегать физических упражнений, купания и соития до восстановления сил.",
+        "text_en": "The memory of the time of the fever attack should be dispelled by attractive objects that divert the mind; physical exercise, bathing and sexual intercourse should be avoided until strength is restored."
       },
       {
         "type": "verse",
@@ -33677,7 +33708,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुर्वसात्म्यं विदाह्यन्नं यच्चान्यज्ज्वरकारणम् न विज्वरो ऽपि सहसा सर्वान्नीनो भवेत् तथा",
         "iast": "gurvasātmyaṃ vidāhyannaṃ yaccānyajjvarakāraṇam na vijvaro 'pi sahasā sarvānnīno bhavet tathā",
         "iast_ru": "гурваса̄тмйам̣ вида̄хйаннам̣ йачча̄нйаджджварака̄ран̣ам на виджваро 'пи сахаса̄ сарва̄ннӣно бхавет татха̄",
-        "text": "Тяжёлой, непривычной, вызывающей жжение пищи и всего прочего, что является причиной лихорадки, следует избегать; даже избавившись от лихорадки, не следует внезапно переходить на неограниченное питание всем подряд."
+        "text": "Тяжёлой, непривычной, вызывающей жжение пищи и всего прочего, что является причиной лихорадки, следует избегать; даже избавившись от лихорадки, не следует внезапно переходить на неограниченное питание всем подряд.",
+        "text_en": "Heavy, unaccustomed, burning food, and everything else that is a cause of fever, should be avoided; even after being freed from fever, one should not suddenly go over to unrestricted eating of everything."
       },
       {
         "type": "verse",
@@ -33685,7 +33717,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सद्यः प्राणहरो यस्मात्तस्मात्तस्य विशेषतः तस्यां तस्यामवस्थायां कुर्यात्तत्तधिषग्जितम्",
         "iast": "sadyaḥ prāṇaharo yasmāttasmāttasya viśeṣataḥ tasyāṃ tasyāmavasthāyāṃ kuryāttattadhiṣagjitam",
         "iast_ru": "садйах̣ пра̄н̣ахаро йасма̄ттасма̄ттасйа виш́еш̣атах̣ тасйа̄м̣ тасйа̄мавастха̄йа̄м̣ курйа̄ттаттадхиш̣агджитам",
-        "text": "Поскольку неосторожность может мгновенно унести жизнь, поэтому в каждом отдельном состоянии больного следует применять то, что указано врачами."
+        "text": "Поскольку неосторожность может мгновенно унести жизнь, поэтому в каждом отдельном состоянии больного следует применять то, что указано врачами.",
+        "text_en": "Since carelessness can take life in an instant, therefore in each particular condition of the patient one should apply what is prescribed by physicians."
       },
       {
         "type": "verse",
@@ -33693,7 +33726,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मनोभिरामा विषया वचनं ह्लादि दक्षिणम् करुणार्द्रं मनः शुद्धं सर्वज्वरनिषूदनम्",
         "iast": "manobhirāmā viṣayā vacanaṃ hlādi dakṣiṇam karuṇārdraṃ manaḥ śuddhaṃ sarvajvaraniṣūdanam",
         "iast_ru": "манобхира̄ма̄ виш̣айа̄ вачанам̣ хла̄ди дакш̣ин̣ам карун̣а̄рдрам̣ манах̣ ш́уддхам̣ сарваджвараниш̣ӯданам",
-        "text": "Приятные для ума предметы, ласковая, учтивая речь, сострадательный, чистый ум — устраняют всякую лихорадку."
+        "text": "Приятные для ума предметы, ласковая, учтивая речь, сострадательный, чистый ум — устраняют всякую лихорадку.",
+        "text_en": "Things pleasing to the mind, gentle and courteous speech, and a compassionate, pure mind remove every fever."
       },
       {
         "type": "verse",
@@ -33701,7 +33735,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मातरं पितरं देवान् वैद्यान् विप्रान् हरं हरिम् पूजयेच्छीलयेद्दानदमसत्यदयार्जवान् धारयेच्च सदा मन्त्रमणिरत्नमहौषधीः",
         "iast": "mātaraṃ pitaraṃ devān vaidyān viprān haraṃ harim pūjayecchīlayeddānadamasatyadayārjavān dhārayecca sadā mantramaṇiratnamahauṣadhīḥ",
         "iast_ru": "ма̄тарам̣ питарам̣ дева̄н ваидйа̄н випра̄н харам̣ харим пӯджайеччхӣлайедда̄надамасатйадайа̄рджава̄н дха̄райечча сада̄ мантраман̣иратнамахауш̣адхӣх̣",
-        "text": "Следует почитать мать, отца, богов, врачей, брахманов, Шиву и Вишну; следует практиковать благотворительность, самообладание, правдивость, сострадание и прямоту; следует всегда носить защитные мантры, драгоценные камни и целебные травы."
+        "text": "Следует почитать мать, отца, богов, врачей, брахманов, Шиву и Вишну; следует практиковать благотворительность, самообладание, правдивость, сострадание и прямоту; следует всегда носить защитные мантры, драгоценные камни и целебные травы.",
+        "text_en": "One should honour mother, father, the gods, physicians, brahmanas, Shiva and Vishnu; one should practise charity, self-control, truthfulness, compassion and uprightness; one should always wear protective mantras, gems and medicinal herbs."
       },
       {
         "type": "verse",
@@ -33709,7 +33744,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आर्यावलोकितं पर्णशबरीमपराजिताम् प्रणमेदार्यतारां च सर्वज्वरनिवृत्तये",
         "iast": "āryāvalokitaṃ parṇaśabarīmaparājitām praṇamedāryatārāṃ ca sarvajvaranivṛttaye",
         "iast_ru": "а̄рйа̄валокитам̣ парн̣аш́абарӣмапара̄джита̄м пран̣амеда̄рйата̄ра̄м̣ ча сарваджваранивр̣ттайе",
-        "text": "Следует поклоняться Арья Авалокитешваре, Парнашабари, Апараджите и Арья Таре — ради избавления от всех видов лихорадки."
+        "text": "Следует поклоняться Арья Авалокитешваре, Парнашабари, Апараджите и Арья Таре — ради избавления от всех видов лихорадки.",
+        "text_en": "One should worship Arya Avalokiteshvara, Parnashabari, Aparajita and Arya Tara, for deliverance from all kinds of fever."
       },
       {
         "type": "verse",
@@ -33717,7 +33753,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जपंस्तथा गतोष्णीषं सर्वव्याधिचिकित्सितम् आगन्तुदोषसहजैः सर्वरोगैर्विमुच्यते",
         "iast": "japaṃstathā gatoṣṇīṣaṃ sarvavyādhicikitsitam āgantudoṣasahajaiḥ sarvarogairvimucyate",
         "iast_ru": "джапам̣статха̄ гатош̣н̣ӣш̣ам̣ сарвавйа̄дхичикитситам а̄гантудош̣асахаджаих̣ сарварогаирвимучйате",
-        "text": "Читая мантры, а также практикуя «гатошнишу» (устранение жара), упомянутое в лечении всех болезней, больной освобождается от всех болезней, как врождённых, так и вызванных внешним воздействием."
+        "text": "Читая мантры, а также практикуя «гатошнишу» (устранение жара), упомянутое в лечении всех болезней, больной освобождается от всех болезней, как врождённых, так и вызванных внешним воздействием.",
+        "text_en": "By reciting mantras, and also by practising the \"gatoshnisha\" (removal of heat) mentioned in the treatment of all diseases, the patient is freed from all diseases, both innate and those caused by external factors."
       }
     ]
   },
@@ -33739,7 +33776,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो रक्तपित्तचिकित्सितं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto raktapittacikitsitaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то рактапиттачикитситам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним лечение раактапитты (кровотечения) — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним лечение раактапитты (кровотечения) — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now, further, we shall explain the treatment of raktapitta (bleeding disorder), as the great rishis beginning with Atreya declared."
       },
       {
         "type": "verse",
@@ -33747,7 +33785,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऊर्ध्वगं बलिनो ऽवेगमेकदोषानुगं नवम् रक्तपित्तं सुखे काले साधयेन्निरुपद्रवम्",
         "iast": "ūrdhvagaṃ balino 'vegamekadoṣānugaṃ navam raktapittaṃ sukhe kāle sādhayennirupadravam",
         "iast_ru": "ӯрдхвагам̣ балино 'вегамекадош̣а̄нугам̣ навам рактапиттам̣ сукхе ка̄ле са̄дхайеннирупадравам",
-        "text": "Раактапитту, проявляющуюся вверх, у сильного больного, без острого приступа, вызванную одной дошей, свежую, без осложнений, следует лечить в благоприятное время."
+        "text": "Раактапитту, проявляющуюся вверх, у сильного больного, без острого приступа, вызванную одной дошей, свежую, без осложнений, следует лечить в благоприятное время.",
+        "text_en": "Raktapitta manifesting upward, in a strong patient, without an acute attack, caused by a single dosha, recent, and without complications, should be treated in a favourable season."
       },
       {
         "type": "verse",
@@ -33755,7 +33794,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अधोगं यापयेद्रक्तं यच्च दोषद्वयानुगम् शान्तं शान्तं पुनः कुप्यन्मार्गान्मार्गान्तरञ्च यत्",
         "iast": "adhogaṃ yāpayedraktaṃ yacca doṣadvayānugam śāntaṃ śāntaṃ punaḥ kupyanmārgānmārgāntarañca yat",
         "iast_ru": "адхогам̣ йа̄пайедрактам̣ йачча дош̣адвайа̄нугам ш́а̄нтам̣ ш́а̄нтам̣ пунах̣ купйанма̄рга̄нма̄рга̄нтаран̃ча йат",
-        "text": "Раактапитта, проявляющаяся вниз, лишь облегчается; та, что вызвана двумя дошами, то стихая, то вновь возмущаясь, переходящая с одного пути на другой,"
+        "text": "Раактапитта, проявляющаяся вниз, лишь облегчается; та, что вызвана двумя дошами, то стихая, то вновь возмущаясь, переходящая с одного пути на другой,",
+        "text_en": "Raktapitta manifesting downward is only palliated; that caused by two doshas, subsiding and then flaring up again, passing from one channel to another,"
       },
       {
         "type": "verse",
@@ -33763,7 +33803,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतिप्रवृत्तं मन्दाग्नोस्त्रिदोषं द्विपथं त्यजेत् ज्ञात्वा निदानमयनं मलावनुबलौ बलम्",
         "iast": "atipravṛttaṃ mandāgnostridoṣaṃ dvipathaṃ tyajet jñātvā nidānamayanaṃ malāvanubalau balam",
         "iast_ru": "атиправр̣ттам̣ манда̄гностридош̣ам̣ двипатхам̣ тйаджет джн̃а̄тва̄ нида̄намайанам̣ мала̄ванубалау балам",
-        "text": "чрезмерно активная, у больного со слабым пищеварительным огнём, вызванная тремя дошами, проявляющаяся по двум путям, — от такой следует отказаться. Установив причину, путь проявления, состояние продуктов расстройства, их дальнейшее развитие и силу больного,"
+        "text": "чрезмерно активная, у больного со слабым пищеварительным огнём, вызванная тремя дошами, проявляющаяся по двум путям, — от такой следует отказаться. Установив причину, путь проявления, состояние продуктов расстройства, их дальнейшее развитие и силу больного,",
+        "text_en": "that which is excessively active, in a patient with weak digestive fire, caused by three doshas, manifesting through two channels, should be abandoned. Having determined the cause, the route of manifestation, the state of the products of derangement, their further development and the strength of the patient,"
       },
       {
         "type": "verse",
@@ -33771,7 +33812,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "देशकालाद्यवस्थां च रक्तपित्ते प्रयोजयेत् लङ्घनं बृंहणं चादौ शोधनं शमनं तथा",
         "iast": "deśakālādyavasthāṃ ca raktapitte prayojayet laṅghanaṃ bṛṃhaṇaṃ cādau śodhanaṃ śamanaṃ tathā",
         "iast_ru": "деш́ака̄ла̄дйавастха̄м̣ ча рактапитте прайоджайет лан̇гханам̣ бр̣м̣хан̣ам̣ ча̄дау ш́одханам̣ ш́аманам̣ татха̄",
-        "text": "а также место, время и прочие обстоятельства, следует применять при раактапитте, прежде всего, голодание или укрепление, затем очищение и успокоение."
+        "text": "а также место, время и прочие обстоятельства, следует применять при раактапитте, прежде всего, голодание или укрепление, затем очищение и успокоение.",
+        "text_en": "as well as the place, time and other circumstances, one should apply in raktapitta, first of all, fasting or nourishment, then purification and pacification."
       },
       {
         "type": "verse",
@@ -33779,7 +33821,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सन्तर्पणोत्थं बलिनो बहुदोषस्य साधयेत् ऊर्ध्वभागं विरेकेण वमनेन त्वधोगतम् शमनैर्बृंहणैश्चान्यल्लङ्घ्यबृंह्यानवेक्ष्य च",
         "iast": "santarpaṇotthaṃ balino bahudoṣasya sādhayet ūrdhvabhāgaṃ virekeṇa vamanena tvadhogatam śamanairbṛṃhaṇaiścānyallaṅghyabṛṃhyānavekṣya ca",
         "iast_ru": "сантарпан̣оттхам̣ балино бахудош̣асйа са̄дхайет ӯрдхвабха̄гам̣ вирекен̣а ваманена твадхогатам ш́аманаирбр̣м̣хан̣аиш́ча̄нйаллан̇гхйабр̣м̣хйа̄навекш̣йа ча",
-        "text": "У сильного больного с обильной дошей раактапитту, возникшую от перекармливания, следует лечить: проявляющуюся вверх — слабительным, а проявляющуюся вниз — рвотным; прочую же — успокаивающими и укрепляющими средствами, учитывая, показано ли голодание или укрепление."
+        "text": "У сильного больного с обильной дошей раактапитту, возникшую от перекармливания, следует лечить: проявляющуюся вверх — слабительным, а проявляющуюся вниз — рвотным; прочую же — успокаивающими и укрепляющими средствами, учитывая, показано ли голодание или укрепление.",
+        "text_en": "In a strong patient with abundant dosha, raktapitta arising from overeating should be treated thus: that manifesting upward with a purgative, and that manifesting downward with an emetic; the rest with pacifying and nourishing measures, considering whether fasting or nourishment is indicated."
       },
       {
         "type": "verse",
@@ -33787,7 +33830,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऊर्ध्वं प्रवृत्ते शमनौ रसौ तिक्तकषायकौ उपवासश्च निःशुण्ठीषडङ्गोदकपायिनः",
         "iast": "ūrdhvaṃ pravṛtte śamanau rasau tiktakaṣāyakau upavāsaśca niḥśuṇṭhīṣaḍaṅgodakapāyinaḥ",
         "iast_ru": "ӯрдхвам̣ правр̣тте ш́аманау расау тиктакаш̣а̄йакау упава̄саш́ча них̣ш́ун̣т̣хӣш̣ад̣ан̇годакапа̄йинах̣",
-        "text": "При кровотечении, проявляющемся вверх, успокаивающими средствами служат горький и вяжущий соки; голодание; а также питьё воды настоя шадаанги без сухого имбиря."
+        "text": "При кровотечении, проявляющемся вверх, успокаивающими средствами служат горький и вяжущий соки; голодание; а также питьё воды настоя шадаанги без сухого имбиря.",
+        "text_en": "In bleeding that manifests upward, the pacifying measures are the bitter and astringent tastes, fasting, and drinking water treated with shadanga (six-part) decoction without dry ginger."
       },
       {
         "type": "verse",
@@ -33795,7 +33839,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अधोगे रक्तपित्ते तु बृंहणो मधुरो रसः ऊर्ध्वगे तर्पणं योज्यं पेया पूर्वमधोगते",
         "iast": "adhoge raktapitte tu bṛṃhaṇo madhuro rasaḥ ūrdhvage tarpaṇaṃ yojyaṃ peyā pūrvamadhogate",
         "iast_ru": "адхоге рактапитте ту бр̣м̣хан̣о мадхуро расах̣ ӯрдхваге тарпан̣ам̣ йоджйам̣ пейа̄ пӯрвамадхогате",
-        "text": "При раактапитте, проявляющейся вниз, укрепляющим средством служит сладкий сок; при проявляющейся вверх следует применять тарпану (охлаждающий напиток), а при проявляющейся вниз — прежде всего пею."
+        "text": "При раактапитте, проявляющейся вниз, укрепляющим средством служит сладкий сок; при проявляющейся вверх следует применять тарпану (охлаждающий напиток), а при проявляющейся вниз — прежде всего пею.",
+        "text_en": "In raktapitta manifesting downward, the nourishing measure is the sweet taste; in that manifesting upward one should apply tarpana (a cooling drink), and in that manifesting downward, above all, peya (thin gruel)."
       },
       {
         "type": "verse",
@@ -33803,7 +33848,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अश्नतो बलिनो ऽशुद्धं न धार्यं तद्धि रोगकृत् धारयेदन्यथा शीघ्रमग्निवच्छीघ्रकारि तत्",
         "iast": "aśnato balino 'śuddhaṃ na dhāryaṃ taddhi rogakṛt dhārayedanyathā śīghramagnivacchīghrakāri tat",
         "iast_ru": "аш́нато балино 'ш́уддхам̣ на дха̄рйам̣ таддхи рогакр̣т дха̄райеданйатха̄ ш́ӣгхрамагниваччхӣгхрака̄ри тат",
-        "text": "У сильного больного, принимающего пищу, неочищенное расстройство не следует сдерживать — ведь оно порождает болезнь; в противном же случае, следует сдерживать — иначе оно, подобно огню, стремительно нанесёт вред."
+        "text": "У сильного больного, принимающего пищу, неочищенное расстройство не следует сдерживать — ведь оно порождает болезнь; в противном же случае, следует сдерживать — иначе оно, подобно огню, стремительно нанесёт вред.",
+        "text_en": "In a strong patient who is taking food, the unpurified derangement should not be restrained, for it gives rise to disease; otherwise it should be restrained, lest it quickly do harm like fire."
       },
       {
         "type": "verse",
@@ -33811,7 +33857,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिवृतात्रिफलाधात्रीत्रायन्त्यारग्वधाभयाः गवाक्षीक्षुरसक्षीरद्राक्षाक्षौद्रसितोत्कटाः यथास्वं कल्पविहिता विरेकार्थं प्रयोजयेत्",
         "iast": "trivṛtātriphalādhātrītrāyantyāragvadhābhayāḥ gavākṣīkṣurasakṣīradrākṣākṣaudrasitotkaṭāḥ yathāsvaṃ kalpavihitā virekārthaṃ prayojayet",
         "iast_ru": "тривр̣та̄трипхала̄дха̄трӣтра̄йантйа̄рагвадха̄бхайа̄х̣ гава̄кш̣ӣкш̣урасакш̣ӣрадра̄кш̣а̄кш̣аудраситоткат̣а̄х̣ йатха̄свам̣ калпавихита̄ вирека̄ртхам̣ прайоджайет",
-        "text": "Тривриту, трифалу, амалаки, траянти, арагвадху, харитаки, гавакши, сок сахарного тростника, молоко, изюм, мёд и сахар, приготовленные надлежащим образом, следует применять для слабительного действия, соответственно состоянию больного."
+        "text": "Тривриту, трифалу, амалаки, траянти, арагвадху, харитаки, гавакши, сок сахарного тростника, молоко, изюм, мёд и сахар, приготовленные надлежащим образом, следует применять для слабительного действия, соответственно состоянию больного.",
+        "text_en": "Trivrit, triphala, amalaki, trayanti, aragvadha, haritaki, gavakshi, sugarcane juice, milk, raisins, honey and sugar, prepared in the proper manner, should be used for purgation, according to the condition of the patient."
       },
       {
         "type": "verse",
@@ -33819,7 +33866,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिवृच्छ्यामाकषायेण कल्केन च सशर्करम् साधयेद्विधिवल्लेहं लिह्यात् पाणितलं ततः",
         "iast": "trivṛcchyāmākaṣāyeṇa kalkena ca saśarkaram sādhayedvidhivallehaṃ lihyāt pāṇitalaṃ tataḥ",
         "iast_ru": "тривр̣ччхйа̄ма̄каш̣а̄йен̣а калкена ча саш́аркарам са̄дхайедвидхиваллехам̣ лихйа̄т па̄н̣италам̣ татах̣",
-        "text": "На отваре тривриты и шьямы, вместе с пастой этих же трав и сахаром, следует надлежащим образом приготовить лехью (сироп); затем следует принять слизыванием одну ладонь этого средства."
+        "text": "На отваре тривриты и шьямы, вместе с пастой этих же трав и сахаром, следует надлежащим образом приготовить лехью (сироп); затем следует принять слизыванием одну ладонь этого средства.",
+        "text_en": "In a decoction of trivrit and shyama, together with a paste of these same herbs and sugar, a lehya (confection) should be prepared in the proper manner; then one palm's measure of this remedy should be taken by licking."
       },
       {
         "type": "verse",
@@ -33827,7 +33875,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिफला त्रिवृता श्यामा पिप्पली शर्करा मधु मोदकः सन्निपातोर्ध्वरक्तपित्तज्वरापहः",
         "iast": "triphalā trivṛtā śyāmā pippalī śarkarā madhu modakaḥ sannipātordhvaraktapittajvarāpahaḥ",
         "iast_ru": "трипхала̄ тривр̣та̄ ш́йа̄ма̄ пиппалӣ ш́аркара̄ мадху модаках̣ саннипа̄тордхварактапиттаджвара̄пахах̣",
-        "text": "Модака (шарик) из трифалы, тривриты, шьямы, пиппали, сахара и мёда устраняет саннипатную лихорадку и раактапитту, проявляющуюся вверх."
+        "text": "Модака (шарик) из трифалы, тривриты, шьямы, пиппали, сахара и мёда устраняет саннипатную лихорадку и раактапитту, проявляющуюся вверх.",
+        "text_en": "A modaka (ball) of triphala, trivrit, shyama, pippali, sugar and honey relieves sannipata fever and raktapitta manifesting upward."
       },
       {
         "type": "verse",
@@ -33835,7 +33884,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिवृत्समसिता तद्वत् पिप्पलीपादसंयुता वमनं फलसंयुक्तं तर्पणं ससितामधु",
         "iast": "trivṛtsamasitā tadvat pippalīpādasaṃyutā vamanaṃ phalasaṃyuktaṃ tarpaṇaṃ sasitāmadhu",
         "iast_ru": "тривр̣тсамасита̄ тадват пиппалӣпа̄дасам̣йута̄ ваманам̣ пхаласам̣йуктам̣ тарпан̣ам̣ сасита̄мадху",
-        "text": "Тривриту в равной пропорции с сахаром, вместе с четвертью части пиппали, следует применять как слабительное; рвотное — вместе с маданафалой; тарпану — с сахаром и мёдом."
+        "text": "Тривриту в равной пропорции с сахаром, вместе с четвертью части пиппали, следует применять как слабительное; рвотное — вместе с маданафалой; тарпану — с сахаром и мёдом.",
+        "text_en": "Trivrit in equal proportion with sugar, together with a quarter part of pippali, should be used as a purgative; for emesis, together with madanaphala; as tarpana, with sugar and honey."
       },
       {
         "type": "verse",
@@ -33843,7 +33893,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ससितं वा जलं क्षौद्रयुक्तं वा मधुकोदकम् फलेन्द्रयवगाङ्गेयीमधुकं वा समाक्षिकम्",
         "iast": "sasitaṃ vā jalaṃ kṣaudrayuktaṃ vā madhukodakam phalendrayavagāṅgeyīmadhukaṃ vā samākṣikam",
         "iast_ru": "саситам̣ ва̄ джалам̣ кш̣аудрайуктам̣ ва̄ мадхукодакам пхалендрайавага̄н̇гейӣмадхукам̣ ва̄ сама̄кш̣икам",
-        "text": "Или воду с сахаром, или медовую воду, или воду с солодкой; или настой маданафалы, индраявы, гангейи и солодки, вместе с мёдом;"
+        "text": "Или воду с сахаром, или медовую воду, или воду с солодкой; или настой маданафалы, индраявы, гангейи и солодки, вместе с мёдом;",
+        "text_en": "Or water with sugar, or honey water, or water with licorice; or a decoction of madanaphala, indrayava, gangeya and licorice, together with honey;"
       },
       {
         "type": "verse",
@@ -33851,7 +33902,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरं वा रसमिक्षोर्वा शुद्धस्यानन्तरो विधिः यथास्वं मन्थपेयादिः प्रयोज्यो रक्षता बलम्",
         "iast": "kṣīraṃ vā rasamikṣorvā śuddhasyānantaro vidhiḥ yathāsvaṃ manthapeyādiḥ prayojyo rakṣatā balam",
         "iast_ru": "кш̣ӣрам̣ ва̄ расамикш̣орва̄ ш́уддхасйа̄нантаро видхих̣ йатха̄свам̣ мантхапейа̄дих̣ прайоджйо ракш̣ата̄ балам",
-        "text": "или молоко, или сок сахарного тростника — таков порядок действий сразу после очищения. Затем следует применять, соответственно, мантху (взбитый напиток), пею и подобное, оберегая силы больного."
+        "text": "или молоко, или сок сахарного тростника — таков порядок действий сразу после очищения. Затем следует применять, соответственно, мантху (взбитый напиток), пею и подобное, оберегая силы больного.",
+        "text_en": "or milk, or sugarcane juice: such is the procedure immediately after purification. Then, accordingly, mantha (a churned drink), peya and the like should be given, protecting the strength of the patient."
       },
       {
         "type": "verse",
@@ -33859,7 +33911,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मन्थो ज्वरोक्तो द्राक्षादिः पित्तघ्नैर्वा फलः कृतः मधुखर्जूरमृद्वीकापरूषकसिताम्भसा",
         "iast": "mantho jvarokto drākṣādiḥ pittaghnairvā phalaḥ kṛtaḥ madhukharjūramṛdvīkāparūṣakasitāmbhasā",
         "iast_ru": "мантхо джварокто дра̄кш̣а̄дих̣ питтагхнаирва̄ пхалах̣ кр̣тах̣ мадхукхарджӯрамр̣двӣка̄парӯш̣акасита̄мбхаса̄",
-        "text": "Мантха, упомянутая в разделе о лихорадке, приготовленная с изюмом и подобным, или же с плодами, устраняющими Питту, приготовленная с мёдом, финиками, изюмом, парушакой, сахаром и водой;"
+        "text": "Мантха, упомянутая в разделе о лихорадке, приготовленная с изюмом и подобным, или же с плодами, устраняющими Питту, приготовленная с мёдом, финиками, изюмом, парушакой, сахаром и водой;",
+        "text_en": "The mantha mentioned in the section on fever, prepared with raisins and the like, or with Pitta-pacifying fruits, prepared with honey, dates, raisins, parushaka, sugar and water;"
       },
       {
         "type": "verse",
@@ -33867,7 +33920,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मन्थो वा पञ्चसारेण सघृतैर्लाजसक्तुभिः दाडिमामलकाम्लो वा मन्दाग्न्यम्लाभिलाषिणः",
         "iast": "mantho vā pañcasāreṇa saghṛtairlājasaktubhiḥ dāḍimāmalakāmlo vā mandāgnyamlābhilāṣiṇaḥ",
         "iast_ru": "мантхо ва̄ пан̃часа̄рен̣а сагхр̣таирла̄джасактубхих̣ да̄д̣има̄малака̄мло ва̄ манда̄гнйамла̄бхила̄ш̣ин̣ах̣",
-        "text": "или мантха с пятью сара (соками), вместе с топлёным маслом, поджаренным рисом и мукой; или кислая, приготовленная с гранатом и амалаки, — для того, у кого слабый пищеварительный огонь и есть желание кислого."
+        "text": "или мантха с пятью сара (соками), вместе с топлёным маслом, поджаренным рисом и мукой; или кислая, приготовленная с гранатом и амалаки, — для того, у кого слабый пищеварительный огонь и есть желание кислого.",
+        "text_en": "or mantha with the five sara (juices), together with ghee, parched rice and flour; or a sour one prepared with pomegranate and amalaki, for one whose digestive fire is weak and who has a desire for sour things."
       },
       {
         "type": "verse",
@@ -33875,7 +33929,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कमलोत्पलकिञ्जल्कपृश्निपर्णीप्रियङ्गुकाः उशीरं शाबरं लोध्रं शृङ्गवेरं कुचन्दनम्",
         "iast": "kamalotpalakiñjalkapṛśniparṇīpriyaṅgukāḥ uśīraṃ śābaraṃ lodhraṃ śṛṅgaveraṃ kucandanam",
         "iast_ru": "камалотпалакин̃джалкапр̣ш́нипарн̣ӣприйан̇гука̄х̣ уш́ӣрам̣ ш́а̄барам̣ лодхрам̣ ш́р̣н̇гаверам̣ кучанданам",
-        "text": "Тычинки лотоса и синего лотоса, пришнипарни, приянгу; ушира, шабара, лодхра, свежий имбирь, кучандана;"
+        "text": "Тычинки лотоса и синего лотоса, пришнипарни, приянгу; ушира, шабара, лодхра, свежий имбирь, кучандана;",
+        "text_en": "The filaments of lotus and blue lotus, prishniparni, priyangu; ushira, shabara, lodhra, fresh ginger, kuchandana;"
       },
       {
         "type": "verse",
@@ -33883,7 +33938,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ह्रीबेरं धातकीपुस्पं बिल्वमध्यं दुरालभा अर्धार्धैर्विहिताः पेया वक्ष्यन्ते पादयौगिकाः",
         "iast": "hrīberaṃ dhātakīpuspaṃ bilvamadhyaṃ durālabhā ardhārdhairvihitāḥ peyā vakṣyante pādayaugikāḥ",
         "iast_ru": "хрӣберам̣ дха̄такӣпуспам̣ билвамадхйам̣ дура̄лабха̄ ардха̄рдхаирвихита̄х̣ пейа̄ вакш̣йанте па̄дайаугика̄х̣",
-        "text": "хривера, цветок дхатаки, мякоть билвы, дуралабха — взятые в убывающих пропорциях; далее будут описаны пеи, приготовленные в четвертных пропорциях:"
+        "text": "хривера, цветок дхатаки, мякоть билвы, дуралабха — взятые в убывающих пропорциях; далее будут описаны пеи, приготовленные в четвертных пропорциях:",
+        "text_en": "hrivera, dhataki flower, bilva pulp, duralabha: taken in decreasing proportions; further on, peyas prepared in quarter proportions will be described:"
       },
       {
         "type": "verse",
@@ -33891,7 +33947,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भूनिम्बसेव्यजलदाश्चन्दनाम्बुप्रियङ्गवः शालिपर्ण्या युता मुद्गाः पृश्निपर्ण्या मसूरकाः",
         "iast": "bhūnimbasevyajaladāścandanāmbupriyaṅgavaḥ śāliparṇyā yutā mudgāḥ pṛśniparṇyā masūrakāḥ",
         "iast_ru": "бхӯнимбасевйаджалада̄ш́чандана̄мбуприйан̇гавах̣ ш́а̄липарн̣йа̄ йута̄ мудга̄х̣ пр̣ш́нипарн̣йа̄ масӯрака̄х̣",
-        "text": "пея с бхунимбой, севьей и мустой; пея с сандалом, водой и приянгу; пея с шалипарни вместе с зелёным машем; пея с пришнипарни вместе с чечевицей;"
+        "text": "пея с бхунимбой, севьей и мустой; пея с сандалом, водой и приянгу; пея с шалипарни вместе с зелёным машем; пея с пришнипарни вместе с чечевицей;",
+        "text_en": "peya with bhunimba, sevya and musta; peya with sandal, water and priyangu; peya with shalaparni together with green gram; peya with prishniparni together with lentils;"
       },
       {
         "type": "verse",
@@ -33899,7 +33956,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तुवर्यो वातिबलया बलया वा हरेणवः तत्कषाये हिताः पेया मांसपेयास्तथा रसाः",
         "iast": "tuvaryo vātibalayā balayā vā hareṇavaḥ tatkaṣāye hitāḥ peyā māṃsapeyāstathā rasāḥ",
         "iast_ru": "туварйо ва̄тибалайа̄ балайа̄ ва̄ харен̣авах̣ таткаш̣а̄йе хита̄х̣ пейа̄ ма̄м̣сапейа̄статха̄ раса̄х̣",
-        "text": "тувари с ватибалой или балой, харенавы, — приготовленные в их отваре, полезны как пеи; подобным же образом мясные пеи и соки полезны."
+        "text": "тувари с ватибалой или балой, харенавы, — приготовленные в их отваре, полезны как пеи; подобным же образом мясные пеи и соки полезны.",
+        "text_en": "tuvari with vatibala or bala, and harenava, prepared in their decoction, are beneficial as peyas; likewise meat peyas and juices are beneficial."
       },
       {
         "type": "verse",
@@ -33907,7 +33965,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अनम्लाः किञ्चिदम्ला वा सघृतक्षौद्रशर्कराः शूकशिम्बीभवं धान्यं शाकं मांसं च शस्यते",
         "iast": "anamlāḥ kiñcidamlā vā saghṛtakṣaudraśarkarāḥ śūkaśimbībhavaṃ dhānyaṃ śākaṃ māṃsaṃ ca śasyate",
         "iast_ru": "анамла̄х̣ кин̃чидамла̄ ва̄ сагхр̣такш̣аудраш́аркара̄х̣ ш́ӯкаш́имбӣбхавам̣ дха̄нйам̣ ш́а̄кам̣ ма̄м̣сам̣ ча ш́асйате",
-        "text": "Неострые или слегка кислые, вместе с топлёным маслом, мёдом и сахаром; злаки из зерновых и бобовых, овощи и мясо — рекомендуются."
+        "text": "Неострые или слегка кислые, вместе с топлёным маслом, мёдом и сахаром; злаки из зерновых и бобовых, овощи и мясо — рекомендуются.",
+        "text_en": "Not pungent, or slightly sour, together with ghee, honey and sugar; cereals from grains and pulses, vegetables and meat are recommended."
       },
       {
         "type": "verse",
@@ -33915,7 +33974,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्नस्वरूपविज्ञाने यदुक्तं लघु शीतलम् पूर्वोक्तमम्बु पानीयं पञ्चमूलेन वा शृतम्",
         "iast": "annasvarūpavijñāne yaduktaṃ laghu śītalam pūrvoktamambu pānīyaṃ pañcamūlena vā śṛtam",
         "iast_ru": "аннасварӯпавиджн̃а̄не йадуктам̣ лагху ш́ӣталам пӯрвоктамамбу па̄нӣйам̣ пан̃чамӯлена ва̄ ш́р̣там",
-        "text": "То, что упомянуто в разделе о природе пищи как лёгкое и холодное; ранее упомянутая вода для питья, или же вода, сваренная с панчамули;"
+        "text": "То, что упомянуто в разделе о природе пищи как лёгкое и холодное; ранее упомянутая вода для питья, или же вода, сваренная с панчамули;",
+        "text_en": "That which was mentioned in the section on the nature of foods as light and cold; the drinking water mentioned earlier, or else water boiled with the panchamula;"
       },
       {
         "type": "verse",
@@ -33923,7 +33983,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लघुना शृतशीतं वा मध्वम्भो वा फलाम्बु वा पद्मकाद्यञ्जनादिं च सारिवादिं च कल्पयेत्",
         "iast": "laghunā śṛtaśītaṃ vā madhvambho vā phalāmbu vā padmakādyañjanādiṃ ca sārivādiṃ ca kalpayet",
         "iast_ru": "лагхуна̄ ш́р̣таш́ӣтам̣ ва̄ мадхвамбхо ва̄ пхала̄мбу ва̄ падмака̄дйан̃джана̄дим̣ ча са̄рива̄дим̣ ча калпайет",
-        "text": "или вода, сваренная с лёгким средством и охлаждённая; или медовая вода, или вода на плодах; следует приготовить также составы падмакади, анджанади и саривади,"
+        "text": "или вода, сваренная с лёгким средством и охлаждённая; или медовая вода, или вода на плодах; следует приготовить также составы падмакади, анджанади и саривади,",
+        "text_en": "or water boiled with a light remedy and cooled; or honey water, or water prepared with fruits; the compounds Padmakadi, Anjanadi and Sarivadi should also be prepared,"
       },
       {
         "type": "verse",
@@ -33931,7 +33992,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्नपाने गणं तद्वद्दशकं दाहनाशनम् कफानुगे यूषशाकं मारुतानुगते रसः",
         "iast": "annapāne gaṇaṃ tadvaddaśakaṃ dāhanāśanam kaphānuge yūṣaśākaṃ mārutānugate rasaḥ",
         "iast_ru": "аннапа̄не ган̣ам̣ тадваддаш́акам̣ да̄хана̄ш́анам капха̄нуге йӯш̣аш́а̄кам̣ ма̄рута̄нугате расах̣",
-        "text": "а также группу из десяти веществ, устраняющих жжение, в качестве еды и питья. При раактапитте, сопровождаемой Капхой, — суп и овощи; при сопровождаемой Ватой — мясной бульон;"
+        "text": "а также группу из десяти веществ, устраняющих жжение, в качестве еды и питья. При раактапитте, сопровождаемой Капхой, — суп и овощи; при сопровождаемой Ватой — мясной бульон;",
+        "text_en": "as well as the group of ten substances that relieve burning, as food and drink. In raktapitta accompanied by Kapha: soup and vegetables; when accompanied by Vata: meat broth;"
       },
       {
         "type": "verse",
@@ -33939,7 +34001,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अभीरोरङ्कुरैर्लावाः सहमुद्गाः पटोलजैः मकुष्ठाधन्वयासोत्थैरस्रपित्ते परं मताः",
         "iast": "abhīroraṅkurairlāvāḥ sahamudgāḥ paṭolajaiḥ makuṣṭhādhanvayāsotthairasrapitte paraṃ matāḥ",
         "iast_ru": "абхӣроран̇кураирла̄ва̄х̣ сахамудга̄х̣ пат̣оладжаих̣ макуш̣т̣ха̄дханвайа̄соттхаирасрапитте парам̣ мата̄х̣",
-        "text": "бульон из перепёлки с ростками абхиру и зелёным машем, приготовленный с патолой, а также бульон из макуштхи и дханваясы считаются наилучшими при раактапитте;"
+        "text": "бульон из перепёлки с ростками абхиру и зелёным машем, приготовленный с патолой, а также бульон из макуштхи и дханваясы считаются наилучшими при раактапитте;",
+        "text_en": "quail broth with sprouts of abhiru and green gram, prepared with patola, as well as broth of makushtha and dhanvayasa, are considered the best in raktapitta;"
       },
       {
         "type": "verse",
@@ -33947,7 +34010,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शशः सवास्तुकः शस्तो विबन्धे तित्तिरिः पुनः उदुम्बरस्य निर्यूहे साधितो मारुते ऽधिके",
         "iast": "śaśaḥ savāstukaḥ śasto vibandhe tittiriḥ punaḥ udumbarasya niryūhe sādhito mārute 'dhike",
         "iast_ru": "ш́аш́ах̣ сава̄стуках̣ ш́асто вибандхе титтирих̣ пунах̣ удумбарасйа нирйӯхе са̄дхито ма̄руте 'дхике",
-        "text": "мясо зайца вместе с вастукой рекомендуется при запоре; мясо куропатки, приготовленное в отваре плода удумбары, — при преобладании Ваты;"
+        "text": "мясо зайца вместе с вастукой рекомендуется при запоре; мясо куропатки, приготовленное в отваре плода удумбары, — при преобладании Ваты;",
+        "text_en": "the meat of the hare together with vastuka is recommended in constipation; the meat of the partridge, prepared in a decoction of udumbara fruit, when Vata predominates;"
       },
       {
         "type": "verse",
@@ -33955,7 +34019,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्लक्षस्य बर्हिणस्तद्वन्न्यग्रोधस्य च कुक्कुटः बिसोत्पलमृणालानां वर्तकक्रकरौ हितौ",
         "iast": "plakṣasya barhiṇastadvannyagrodhasya ca kukkuṭaḥ bisotpalamṛṇālānāṃ vartakakrakarau hitau",
         "iast_ru": "плакш̣асйа бархин̣астадваннйагродхасйа ча куккут̣ах̣ бисотпаламр̣н̣а̄ла̄на̄м̣ вартакакракарау хитау",
-        "text": "мясо павлина в отваре плакши; подобным же образом мясо петуха в отваре ньягродхи; мясо перепела и куропатки полезны в отваре лотосового корневища, синего лотоса и корневища лотоса;"
+        "text": "мясо павлина в отваре плакши; подобным же образом мясо петуха в отваре ньягродхи; мясо перепела и куропатки полезны в отваре лотосового корневища, синего лотоса и корневища лотоса;",
+        "text_en": "the meat of the peacock in a decoction of plaksha; likewise the meat of the cock in a decoction of nyagrodha; the meat of the quail and partridge is beneficial in a decoction of lotus rhizome, blue lotus and lotus root;"
       },
       {
         "type": "verse",
@@ -33963,7 +34028,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वर्तिकाम्भोजनालानामश्वत्थस्य कपिञ्जलः यत्किञ्चिद्रक्तपित्तस्य निदानं तच्च वर्जयेत्",
         "iast": "vartikāmbhojanālānāmaśvatthasya kapiñjalaḥ yatkiñcidraktapittasya nidānaṃ tacca varjayet",
         "iast_ru": "вартика̄мбходжана̄ла̄на̄маш́ваттхасйа капин̃джалах̣ йаткин̃чидрактапиттасйа нида̄нам̣ тачча варджайет",
-        "text": "мясо капинджалы в отваре стебля перепела, лотоса и плода ашваттхи. Всё, что является причиной раактапитты, следует избегать."
+        "text": "мясо капинджалы в отваре стебля перепела, лотоса и плода ашваттхи. Всё, что является причиной раактапитты, следует избегать.",
+        "text_en": "the meat of the kapinjala in a decoction of the stalk of the quail-plant, lotus and the fruit of ashvattha. Everything that is a cause of raktapitta should be avoided."
       },
       {
         "type": "verse",
@@ -33971,7 +34037,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वासारसेन फलिनीमृल्लोध्राञ्जनमाक्षिकम् पित्तासृक् शमयेत् पीतं निर्यासो वाटरूषकात्",
         "iast": "vāsārasena phalinīmṛllodhrāñjanamākṣikam pittāsṛk śamayet pītaṃ niryāso vāṭarūṣakāt",
         "iast_ru": "ва̄са̄расена пхалинӣмр̣ллодхра̄н̃джанама̄кш̣икам питта̄ср̣к ш́амайет пӣтам̣ нирйа̄со ва̄т̣арӯш̣ака̄т",
-        "text": "Сок васы, смешанный с фалини, глиной, лодхрой, коллирием и мёдом, выпитый, успокаивает раактапитту; сок, полученный из ватарушаки,"
+        "text": "Сок васы, смешанный с фалини, глиной, лодхрой, коллирием и мёдом, выпитый, успокаивает раактапитту; сок, полученный из ватарушаки,",
+        "text_en": "The juice of vasa, mixed with phalini, clay, lodhra, collyrium and honey, when drunk, pacifies raktapitta; the juice obtained from vatarushaka,"
       },
       {
         "type": "verse",
@@ -33979,7 +34046,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शर्करामधुसंयुक्तः केवलो वा शृतो ऽपि वा वृषः सद्यो जयत्यस्रं स ह्यस्य परमौषधम्",
         "iast": "śarkarāmadhusaṃyuktaḥ kevalo vā śṛto 'pi vā vṛṣaḥ sadyo jayatyasraṃ sa hyasya paramauṣadham",
         "iast_ru": "ш́аркара̄мадхусам̣йуктах̣ кевало ва̄ ш́р̣то 'пи ва̄ вр̣ш̣ах̣ садйо джайатйасрам̣ са хйасйа парамауш̣адхам",
-        "text": "вместе с сахаром и мёдом, или же один, или сваренный, — вриша быстро побеждает кровотечение; ведь она — лучшее лекарство для этого."
+        "text": "вместе с сахаром и мёдом, или же один, или сваренный, — вриша быстро побеждает кровотечение; ведь она — лучшее лекарство для этого.",
+        "text_en": "together with sugar and honey, or alone, or cooked: vrisha swiftly conquers bleeding; indeed it is the best medicine for this."
       },
       {
         "type": "verse",
@@ -33987,7 +34055,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वासारसेन भूनिम्बकटुकाशर्कराः पिबेत् तेनैव वा क्षौद्रयुतं पद्मकेसरपद्मकम्",
         "iast": "vāsārasena bhūnimbakaṭukāśarkarāḥ pibet tenaiva vā kṣaudrayutaṃ padmakesarapadmakam",
         "iast_ru": "ва̄са̄расена бхӯнимбакат̣ука̄ш́аркара̄х̣ пибет тенаива ва̄ кш̣аудрайутам̣ падмакесарападмакам",
-        "text": "С соком васы следует пить бхунимбу, катуку и сахар; или же, вместе с мёдом, — тычинки лотоса и падмаку;"
+        "text": "С соком васы следует пить бхунимбу, катуку и сахар; или же, вместе с мёдом, — тычинки лотоса и падмаку;",
+        "text_en": "With the juice of vasa one should drink bhunimba, katuka and sugar; or else, together with honey, lotus filaments and padmaka;"
       },
       {
         "type": "verse",
@@ -33995,7 +34064,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सलोध्रनागकुसुमशाड्वलोत्पलवास्तुकम् लिह्याद्वा मधुसर्पिर्भ्यां गवाश्वशकृतो रसम्",
         "iast": "salodhranāgakusumaśāḍvalotpalavāstukam lihyādvā madhusarpirbhyāṃ gavāśvaśakṛto rasam",
         "iast_ru": "салодхрана̄гакусумаш́а̄д̣валотпалава̄стукам лихйа̄два̄ мадхусарпирбхйа̄м̣ гава̄ш́ваш́акр̣то расам",
-        "text": "вместе с лодхрой, нагакусумой, шадвалой, синим лотосом и вастукой; или же следует принять слизыванием, с мёдом и топлёным маслом, сок коровьего или конского помёта;"
+        "text": "вместе с лодхрой, нагакусумой, шадвалой, синим лотосом и вастукой; или же следует принять слизыванием, с мёдом и топлёным маслом, сок коровьего или конского помёта;",
+        "text_en": "together with lodhra, nagakusuma, shadvala, blue lotus and vastuka; or else one should lick, with honey and ghee, the juice of cow or horse dung;"
       },
       {
         "type": "verse",
@@ -34003,7 +34073,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पथ्यारजन्यहिंस्रा वा पलाण्डुं तद्वदेव वा फलिनीलोध्रखदिरशाल्मकोविदारजम्",
         "iast": "pathyārajanyahiṃsrā vā palāṇḍuṃ tadvadeva vā phalinīlodhrakhadiraśālmakovidārajam",
         "iast_ru": "патхйа̄раджанйахим̣сра̄ ва̄ пала̄н̣д̣ум̣ тадвадева ва̄ пхалинӣлодхракхадираш́а̄лмаковида̄раджам",
-        "text": "или харитаки, куркуму, химсру; или, подобным же образом, лук; или сок фалини, лодхры, кхадиры, шалмали и видари;"
+        "text": "или харитаки, куркуму, химсру; или, подобным же образом, лук; или сок фалини, лодхры, кхадиры, шалмали и видари;",
+        "text_en": "or haritaki, turmeric, himsra; or, likewise, onion; or the juice of phalini, lodhra, khadira, shalmali and vidari;"
       },
       {
         "type": "verse",
@@ -34011,7 +34082,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिरीषशेलुककुभीसिन्दुवारातिमुक्तजम् पलाशयूथिकाशिग्रुमधूकासनजन्म च",
         "iast": "śirīṣaśelukakubhīsinduvārātimuktajam palāśayūthikāśigrumadhūkāsanajanma ca",
         "iast_ru": "ш́ирӣш̣аш́елукакубхӣсиндува̄ра̄тимуктаджам пала̄ш́айӯтхика̄ш́игрумадхӯка̄санаджанма ча",
-        "text": "или сок шириши, шелуки, кубхи, синдувары, атимуктаки; или происходящий от палаши, ютхики, шигру, мадхуки, асаны;"
+        "text": "или сок шириши, шелуки, кубхи, синдувары, атимуктаки; или происходящий от палаши, ютхики, шигру, мадхуки, асаны;",
+        "text_en": "or the juice of shirisha, shelu, kubha, sinduvara, atimuktaka; or that derived from palasha, yuthika, shigru, madhuka, asana;"
       },
       {
         "type": "verse",
@@ -34019,7 +34091,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुना चूर्णितं पुष्पमेकत्र पृथगेव वा पुष्पैरेभिर्विपक्वं च सक्षौद्रं माहिषं घृतम्",
         "iast": "madhunā cūrṇitaṃ puṣpamekatra pṛthageva vā puṣpairebhirvipakvaṃ ca sakṣaudraṃ māhiṣaṃ ghṛtam",
         "iast_ru": "мадхуна̄ чӯрн̣итам̣ пуш̣памекатра пр̣тхагева ва̄ пуш̣паиребхирвипаквам̣ ча сакш̣аудрам̣ ма̄хиш̣ам̣ гхр̣там",
-        "text": "растёртые с мёдом цветки, все вместе или по отдельности; или буйволиное топлёное масло, сваренное с этими цветками, вместе с мёдом,"
+        "text": "растёртые с мёдом цветки, все вместе или по отдельности; или буйволиное топлёное масло, сваренное с этими цветками, вместе с мёдом,",
+        "text_en": "flowers ground with honey, all together or separately; or buffalo ghee cooked with these flowers, together with honey,"
       },
       {
         "type": "verse",
@@ -34027,7 +34100,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिह्यात् क्षौद्रेण पथ्यां वा किञ्जल्कं कमलस्य वा लाजाः शृङ्गाटकं मुस्तं खर्जूरं कृष्णमृत्तिकाम्",
         "iast": "lihyāt kṣaudreṇa pathyāṃ vā kiñjalkaṃ kamalasya vā lājāḥ śṛṅgāṭakaṃ mustaṃ kharjūraṃ kṛṣṇamṛttikām",
         "iast_ru": "лихйа̄т кш̣аудрен̣а патхйа̄м̣ ва̄ кин̃джалкам̣ камаласйа ва̄ ла̄джа̄х̣ ш́р̣н̇га̄т̣акам̣ мустам̣ кхарджӯрам̣ кр̣ш̣н̣амр̣ттика̄м",
-        "text": "следует принять слизыванием; или харитаки с мёдом; или тычинки лотоса; поджаренный рис, шрингатаку, мусту, финики, чёрную глину,"
+        "text": "следует принять слизыванием; или харитаки с мёдом; или тычинки лотоса; поджаренный рис, шрингатаку, мусту, финики, чёрную глину,",
+        "text_en": "should be taken by licking; or haritaki with honey; or lotus filaments; parched rice, shringataka, musta, dates, black clay,"
       },
       {
         "type": "verse",
@@ -34035,7 +34109,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरिवृक्षाङ्कुरान् द्राक्षां तवक्षीरीं सितोपलाम् गैरिकं मधुकं लोध्रं शङ्खं शम्बूकमञ्जनम्",
         "iast": "kṣīrivṛkṣāṅkurān drākṣāṃ tavakṣīrīṃ sitopalām gairikaṃ madhukaṃ lodhraṃ śaṅkhaṃ śambūkamañjanam",
         "iast_ru": "кш̣ӣривр̣кш̣а̄н̇кура̄н дра̄кш̣а̄м̣ тавакш̣ӣрӣм̣ ситопала̄м гаирикам̣ мадхукам̣ лодхрам̣ ш́ан̇кхам̣ ш́амбӯкаман̃джанам",
-        "text": "ростки млечных деревьев, изюм, тавакшири, кусковой сахар, герику, солодку, лодхру, раковину, шамбуку, коллирий,"
+        "text": "ростки млечных деревьев, изюм, тавакшири, кусковой сахар, герику, солодку, лодхру, раковину, шамбуку, коллирий,",
+        "text_en": "sprouts of milky trees, raisins, tavakshiri, rock sugar, geru, licorice, lodhra, conch shell, shambuka, collyrium,"
       },
       {
         "type": "verse",
@@ -34043,7 +34118,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तण्डूलीयकमूलं वा बीजं वा वास्तुकोद्भवम् पटोलमालतीनिम्बचन्दनद्वयपद्मकम्",
         "iast": "taṇḍūlīyakamūlaṃ vā bījaṃ vā vāstukodbhavam paṭolamālatīnimbacandanadvayapadmakam",
         "iast_ru": "тан̣д̣ӯлӣйакамӯлам̣ ва̄ бӣджам̣ ва̄ ва̄стукодбхавам пат̣олама̄латӣнимбачанданадвайападмакам",
-        "text": "или корень тандулияки, или семя, происходящее от вастуки; патолу, малати, ним, два вида сандала, падмаку,"
+        "text": "или корень тандулияки, или семя, происходящее от вастуки; патолу, малати, ним, два вида сандала, падмаку,",
+        "text_en": "or the root of tanduliyaka, or the seed derived from vastuka; patola, malati, neem, the two kinds of sandal, padmaka,"
       },
       {
         "type": "verse",
@@ -34051,7 +34127,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लोध्रो वृषस्तण्डुलीयः कृष्णा मृन्मदयन्तिका शतावरी गोपकन्याकाकोल्यौ मधुयष्टिका",
         "iast": "lodhro vṛṣastaṇḍulīyaḥ kṛṣṇā mṛnmadayantikā śatāvarī gopakanyākākolyau madhuyaṣṭikā",
         "iast_ru": "лодхро вр̣ш̣астан̣д̣улӣйах̣ кр̣ш̣н̣а̄ мр̣нмадайантика̄ ш́ата̄варӣ гопаканйа̄ка̄колйау мадхуйаш̣т̣ика̄",
-        "text": "лодхру, вришу, тандулияку, пиппали, глину, мадаянтику, шатавари, гопакканью, каколи и солодку —"
+        "text": "лодхру, вришу, тандулияку, пиппали, глину, мадаянтику, шатавари, гопакканью, каколи и солодку —",
+        "text_en": "lodhra, vrisha, tanduliyaka, pippali, clay, madayantika, shatavari, gopakkanya, kakoli and licorice:"
       },
       {
         "type": "verse",
@@ -34059,7 +34136,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्तपित्तहराः क्वाथास्त्रयः समधुशर्कराः सक्षौद्रं ग्रथिते रक्ते लिह्यात् पारावताच्छकृत्",
         "iast": "raktapittaharāḥ kvāthāstrayaḥ samadhuśarkarāḥ sakṣaudraṃ grathite rakte lihyāt pārāvatācchakṛt",
         "iast_ru": "рактапиттахара̄х̣ ква̄тха̄страйах̣ самадхуш́аркара̄х̣ сакш̣аудрам̣ гратхите ракте лихйа̄т па̄ра̄вата̄ччхакр̣т",
-        "text": "из этих составляющих готовят три отвара, устраняющих раактапитту, вместе с мёдом и сахаром; при свернувшейся крови следует принять слизыванием, с мёдом, помёт голубя;"
+        "text": "из этих составляющих готовят три отвара, устраняющих раактапитту, вместе с мёдом и сахаром; при свернувшейся крови следует принять слизыванием, с мёдом, помёт голубя;",
+        "text_en": "from these ingredients three decoctions are prepared that relieve raktapitta, together with honey and sugar; in clotted blood one should lick, with honey, pigeon droppings;"
       },
       {
         "type": "verse",
@@ -34067,7 +34145,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतिनिस्रुतरक्तो वा क्षौद्रेण रुधिरं पिबेत् जाङ्गलं भक्षयेद्वाजं मासं पित्तयुतं यकृत्",
         "iast": "atinisrutarakto vā kṣaudreṇa rudhiraṃ pibet jāṅgalaṃ bhakṣayedvājaṃ māsaṃ pittayutaṃ yakṛt",
         "iast_ru": "атинисрутаракто ва̄ кш̣аудрен̣а рудхирам̣ пибет джа̄н̇галам̣ бхакш̣айедва̄джам̣ ма̄сам̣ питтайутам̣ йакр̣т",
-        "text": "или же тот, у кого истекло слишком много крови, пусть выпьет собственную кровь с мёдом; следует есть мясо диких животных, баранину, а также печень с добавлением Питты (жёлчи);"
+        "text": "или же тот, у кого истекло слишком много крови, пусть выпьет собственную кровь с мёдом; следует есть мясо диких животных, баранину, а также печень с добавлением Питты (жёлчи);",
+        "text_en": "or else one who has lost too much blood should drink his own blood with honey; one should eat the meat of wild animals, mutton, and also liver with the addition of Pitta (bile);"
       },
       {
         "type": "verse",
@@ -34075,7 +34154,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लोध्रकालीयकोशीरफलिनीशङ्खगैरिकम् पटोलपत्रं दुस्पर्शा समङ्गा सारिवालता",
         "iast": "lodhrakālīyakośīraphalinīśaṅkhagairikam paṭolapatraṃ dusparśā samaṅgā sārivālatā",
         "iast_ru": "лодхрака̄лӣйакош́ӣрапхалинӣш́ан̇кхагаирикам пат̣олапатрам̣ дуспарш́а̄ саман̇га̄ са̄рива̄лата̄",
-        "text": "лодхру, калию, уширу, фалини, раковину, герику; лист патолы, дуспаршу, самангу, лиану саривы,"
+        "text": "лодхру, калию, уширу, фалини, раковину, герику; лист патолы, дуспаршу, самангу, лиану саривы,",
+        "text_en": "lodhra, kaliya, ushira, phalini, conch shell, geru; leaf of patola, duspansha, samanga, the creeper sariva,"
       },
       {
         "type": "verse",
@@ -34083,7 +34163,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्वग्जम्बुवेतसाश्वत्थहयाह्वोदुम्बरार्जुनात् किराततिक्तक्रमुकमुस्तकट्फलपद्मकम्",
         "iast": "tvagjambuvetasāśvatthahayāhvodumbarārjunāt kirātatiktakramukamustakaṭphalapadmakam",
         "iast_ru": "твагджамбуветаса̄ш́ваттхахайа̄хводумбара̄рджуна̄т кира̄татиктакрамукамустакат̣пхалападмакам",
-        "text": "кору джамбу, ветры, ашваттхи, хаяхвы, удумбары, арджуны; кираттикту, крамуку, мусту, катпхалу, падмаку,"
+        "text": "кору джамбу, ветры, ашваттхи, хаяхвы, удумбары, арджуны; кираттикту, крамуку, мусту, катпхалу, падмаку,",
+        "text_en": "bark of jambu, vetra, ashvattha, hayahva, udumbara, arjuna; kirattikta, kramuka, musta, katphala, padmaka,"
       },
       {
         "type": "verse",
@@ -34091,7 +34172,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रपौण्डरीकद्द्रीबेरकमलोत्पलपर्पटम् चन्दनेन पृथग्युक्तं समस्तं वा सशर्करम्",
         "iast": "prapauṇḍarīkaddrīberakamalotpalaparpaṭam candanena pṛthagyuktaṃ samastaṃ vā saśarkaram",
         "iast_ru": "прапаун̣д̣арӣкаддрӣберакамалотпалапарпат̣ам чанданена пр̣тхагйуктам̣ самастам̣ ва̄ саш́аркарам",
-        "text": "прапаундарику, драйберу, лотос, синий лотос, парпатаку; каждое по отдельности с сандалом, или всё вместе, вместе с сахаром,"
+        "text": "прапаундарику, драйберу, лотос, синий лотос, парпатаку; каждое по отдельности с сандалом, или всё вместе, вместе с сахаром,",
+        "text_en": "prapaundarika, draiberu, lotus, blue lotus, parpataka; each separately with sandal, or all together, with sugar,"
       },
       {
         "type": "verse",
@@ -34099,7 +34181,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "फाण्टीकृतं शृतं शीतं चूर्णं वा तण्डुलाम्भसा पीतमाशु जयत्यस्रं तृड्दाहतमकानपि",
         "iast": "phāṇṭīkṛtaṃ śṛtaṃ śītaṃ cūrṇaṃ vā taṇḍulāmbhasā pītamāśu jayatyasraṃ tṛḍdāhatamakānapi",
         "iast_ru": "пха̄н̣т̣ӣкр̣там̣ ш́р̣там̣ ш́ӣтам̣ чӯрн̣ам̣ ва̄ тан̣д̣ула̄мбхаса̄ пӣтама̄ш́у джайатйасрам̣ тр̣д̣да̄хатамака̄напи",
-        "text": "приготовленное как настой, отвар или охлаждённый порошок с рисовой водой, выпитое, быстро побеждает кровотечение, а также жажду, жжение и приступообразную одышку."
+        "text": "приготовленное как настой, отвар или охлаждённый порошок с рисовой водой, выпитое, быстро побеждает кровотечение, а также жажду, жжение и приступообразную одышку.",
+        "text_en": "prepared as an infusion, a decoction or a cooled powder with rice water, and drunk, swiftly conquers bleeding, as well as thirst, burning and paroxysmal dyspnoea."
       },
       {
         "type": "verse",
@@ -34107,7 +34190,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चन्दनोशीरजलदलाजमुद्गकणायवैः बलाजले पर्युषितैः कषायो रक्तपित्तहा",
         "iast": "candanośīrajaladalājamudgakaṇāyavaiḥ balājale paryuṣitaiḥ kaṣāyo raktapittahā",
         "iast_ru": "чанданош́ӣраджаладала̄джамудгакан̣а̄йаваих̣ бала̄джале парйуш̣итаих̣ каш̣а̄йо рактапиттаха̄",
-        "text": "Отвар с сандалом, уширой, мустой, поджаренным рисом, зелёным машем, пиппали, ячменём, настоянными в воде балы в течение ночи, устраняет раактапитту;"
+        "text": "Отвар с сандалом, уширой, мустой, поджаренным рисом, зелёным машем, пиппали, ячменём, настоянными в воде балы в течение ночи, устраняет раактапитту;",
+        "text_en": "A decoction with sandal, ushira, musta, parched rice, green gram, pippali and barley, steeped overnight in water with bala, relieves raktapitta;"
       },
       {
         "type": "verse",
@@ -34115,7 +34199,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रसादश्चन्दनाम्भोजसेव्यमृद्भृष्टलोष्टजः सुशीतः ससिताक्षौद्रः शोणितातिप्रवृत्तिजित्",
         "iast": "prasādaścandanāmbhojasevyamṛdbhṛṣṭaloṣṭajaḥ suśītaḥ sasitākṣaudraḥ śoṇitātipravṛttijit",
         "iast_ru": "праса̄даш́чандана̄мбходжасевйамр̣дбхр̣ш̣т̣алош̣т̣аджах̣ суш́ӣтах̣ сасита̄кш̣аудрах̣ ш́он̣ита̄типравр̣ттиджит",
-        "text": "осветлённый настой из сандала, лотоса, севьи, обожжённой глины, очень холодный, вместе с сахаром и мёдом, побеждает чрезмерное истечение крови;"
+        "text": "осветлённый настой из сандала, лотоса, севьи, обожжённой глины, очень холодный, вместе с сахаром и мёдом, побеждает чрезмерное истечение крови;",
+        "text_en": "a clarified infusion of sandal, lotus, sevya and burnt clay, very cold, together with sugar and honey, conquers excessive flow of blood;"
       },
       {
         "type": "verse",
@@ -34123,7 +34208,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्वदच्छः सितालोध्रमधुकोशीरचन्दनात् मृच्छ्यामासारिवामुस्ताधातकीयष्टिकान्वितात्",
         "iast": "tadvadacchaḥ sitālodhramadhukośīracandanāt mṛcchyāmāsārivāmustādhātakīyaṣṭikānvitāt",
         "iast_ru": "тадвадаччхах̣ сита̄лодхрамадхукош́ӣрачандана̄т мр̣ччхйа̄ма̄са̄рива̄муста̄дха̄такӣйаш̣т̣ика̄нвита̄т",
-        "text": "подобным же образом — прозрачный настой из сахара, лодхры, солодки, уширы, сандала; глины, шьямы, саривы, мусты, дхатаки, вместе с солодкой;"
+        "text": "подобным же образом — прозрачный настой из сахара, лодхры, солодки, уширы, сандала; глины, шьямы, саривы, мусты, дхатаки, вместе с солодкой;",
+        "text_en": "likewise a clear infusion of sugar, lodhra, licorice, ushira and sandal; clay, shyama, sariva, musta and dhataki, together with licorice;"
       },
       {
         "type": "verse",
@@ -34131,7 +34217,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वैडूर्यमुक्तामृच्छङ्खगैरिकामलकोदकम् मधूदकं रसं चेक्षोः पिबेन् जयति शोणितम्",
         "iast": "vaiḍūryamuktāmṛcchaṅkhagairikāmalakodakam madhūdakaṃ rasaṃ cekṣoḥ piben jayati śoṇitam",
         "iast_ru": "ваид̣ӯрйамукта̄мр̣ччхан̇кхагаирика̄малакодакам мадхӯдакам̣ расам̣ чекш̣ох̣ пибен джайати ш́он̣итам",
-        "text": "воду, настоянную на вайдурье, жемчуге, глине, раковине, герике, амалаки; медовую воду; сок сахарного тростника — выпив, больной побеждает кровотечение;"
+        "text": "воду, настоянную на вайдурье, жемчуге, глине, раковине, герике, амалаки; медовую воду; сок сахарного тростника — выпив, больной побеждает кровотечение;",
+        "text_en": "water steeped with vaidurya, pearl, clay, conch shell, geru and amalaki; honey water; sugarcane juice: having drunk these, the patient conquers bleeding;"
       },
       {
         "type": "verse",
@@ -34139,7 +34226,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आपोथ्य वा नवे कुम्भे प्लावयेदिक्षुगण्डिकाः स्थितं तत् गुप्तमाकाशे रात्रिं प्रातः स्रुतं जलम्",
         "iast": "āpothya vā nave kumbhe plāvayedikṣugaṇḍikāḥ sthitaṃ tat guptamākāśe rātriṃ prātaḥ srutaṃ jalam",
         "iast_ru": "а̄потхйа ва̄ наве кумбхе пла̄вайедикш̣уган̣д̣ика̄х̣ стхитам̣ тат гуптама̄ка̄ш́е ра̄трим̣ пра̄тах̣ срутам̣ джалам",
-        "text": "или же, растолов, следует замочить куски сахарного тростника в новом кувшине; сосуд следует оставить на ночь, скрытым, под открытым небом; утром стёкшую воду"
+        "text": "или же, растолов, следует замочить куски сахарного тростника в новом кувшине; сосуд следует оставить на ночь, скрытым, под открытым небом; утром стёкшую воду",
+        "text_en": "or else, having pounded them, pieces of sugarcane should be soaked in a new pot; the vessel should be left overnight, covered, under the open sky; in the morning the water that has drained off"
       },
       {
         "type": "verse",
@@ -34147,7 +34235,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुमद्विकचाम्भोजकृतोत्तंसं च तद्गुणम् त्रपुसीमूलकल्कं वा सक्षौद्रं तण्डुलाम्बुना",
         "iast": "madhumadvikacāmbhojakṛtottaṃsaṃ ca tadguṇam trapusīmūlakalkaṃ vā sakṣaudraṃ taṇḍulāmbunā",
         "iast_ru": "мадхумадвикача̄мбходжакр̣тоттам̣сам̣ ча тадгун̣ам трапусӣмӯлакалкам̣ ва̄ сакш̣аудрам̣ тан̣д̣ула̄мбуна̄",
-        "text": "следует выпить с мёдом, украшенную распустившимся лотосом, — она обладает теми же свойствами; или пасту корня трапуси, вместе с мёдом, с рисовой водой,"
+        "text": "следует выпить с мёдом, украшенную распустившимся лотосом, — она обладает теми же свойствами; или пасту корня трапуси, вместе с мёдом, с рисовой водой,",
+        "text_en": "should be drunk with honey, adorned with a fully opened lotus; it has the same properties; or a paste of trapusi root, together with honey, with rice water,"
       },
       {
         "type": "verse",
@@ -34155,7 +34244,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिबेत् करञ्जबीजं वा तेनक्षौद्रसितायुतम् लोध्रचन्दनयष्ट्याह्वं तेन यष्ट्याह्वमेव वा",
         "iast": "pibet karañjabījaṃ vā tenakṣaudrasitāyutam lodhracandanayaṣṭyāhvaṃ tena yaṣṭyāhvameva vā",
         "iast_ru": "пибет каран̃джабӣджам̣ ва̄ тенакш̣аудрасита̄йутам лодхрачанданайаш̣т̣йа̄хвам̣ тена йаш̣т̣йа̄хвамева ва̄",
-        "text": "следует выпить; или семя каранджи, вместе с мёдом и сахаром; лодхру, сандал, солодку, приготовленные с ней (рисовой водой), или же одну лишь солодку;"
+        "text": "следует выпить; или семя каранджи, вместе с мёдом и сахаром; лодхру, сандал, солодку, приготовленные с ней (рисовой водой), или же одну лишь солодку;",
+        "text_en": "should be drunk; or the seed of karanja, together with honey and sugar; lodhra, sandal and licorice prepared with it (rice water), or licorice alone;"
       },
       {
         "type": "verse",
@@ -34163,7 +34253,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नीलोत्पलं सिता यष्टी मधुकं पद्मकेसरम् छिन्नोद्भवा च शीतो ऽयं कषायो रक्तपित्तजित्",
         "iast": "nīlotpalaṃ sitā yaṣṭī madhukaṃ padmakesaram chinnodbhavā ca śīto 'yaṃ kaṣāyo raktapittajit",
         "iast_ru": "нӣлотпалам̣ сита̄ йаш̣т̣ӣ мадхукам̣ падмакесарам чхиннодбхава̄ ча ш́ӣто 'йам̣ каш̣а̄йо рактапиттаджит",
-        "text": "синий лотос, сахар, солодку, тычинки лотоса, гудучи — этот холодный отвар побеждает раактапитту."
+        "text": "синий лотос, сахар, солодку, тычинки лотоса, гудучи — этот холодный отвар побеждает раактапитту.",
+        "text_en": "blue lotus, sugar, licorice, lotus filaments, guduchi: this cold decoction conquers raktapitta."
       },
       {
         "type": "verse",
@@ -34171,7 +34262,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ये च पित्तज्वरे प्रोक्ताः कषायास्तांश्च योजयेत् कषायैर्विविधैरेभिर्दोप्ते ऽग्नौ विजिते कफे",
         "iast": "ye ca pittajvare proktāḥ kaṣāyāstāṃśca yojayet kaṣāyairvividhairebhirdopte 'gnau vijite kaphe",
         "iast_ru": "йе ча питтаджваре прокта̄х̣ каш̣а̄йа̄ста̄м̣ш́ча йоджайет каш̣а̄йаирвивидхаиребхирдопте 'гнау виджите капхе",
-        "text": "Отвары, упомянутые при лихорадке от Питты, также следует применять. Когда, благодаря этим различным отварам, пищеварительный огонь разгорелся, а Капха побеждена,"
+        "text": "Отвары, упомянутые при лихорадке от Питты, также следует применять. Когда, благодаря этим различным отварам, пищеварительный огонь разгорелся, а Капха побеждена,",
+        "text_en": "The decoctions mentioned in Pitta fever should also be applied. When, through these various decoctions, the digestive fire has been kindled and Kapha has been conquered,"
       },
       {
         "type": "verse",
@@ -34179,7 +34271,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्तपित्तं न चेच्छाम्येत्तत्र वातोल्बणे पयः युञ्ज्याज्छागं शृतं तद्वत् गव्यं पञ्चगुणे ऽम्भसि",
         "iast": "raktapittaṃ na cecchāmyettatra vātolbaṇe payaḥ yuñjyājchāgaṃ śṛtaṃ tadvat gavyaṃ pañcaguṇe 'mbhasi",
         "iast_ru": "рактапиттам̣ на чеччха̄мйеттатра ва̄толбан̣е пайах̣ йун̃джйа̄джчха̄гам̣ ш́р̣там̣ тадват гавйам̣ пан̃чагун̣е 'мбхаси",
-        "text": "а раактапитта всё же не стихает, — тогда, при преобладании Ваты, следует применять козье молоко, сваренное так же, или коровье молоко, сваренное в пяти частях воды;"
+        "text": "а раактапитта всё же не стихает, — тогда, при преобладании Ваты, следует применять козье молоко, сваренное так же, или коровье молоко, сваренное в пяти частях воды;",
+        "text_en": "and yet the raktapitta does not subside, then, when Vata predominates, goat's milk prepared in the same way should be applied, or cow's milk boiled in five parts of water;"
       },
       {
         "type": "verse",
@@ -34187,7 +34280,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पञ्चमूलेन लघुना शृतं वा ससितामधु जीवकर्षभकद्राक्षाबलागोक्षुरनागरैः",
         "iast": "pañcamūlena laghunā śṛtaṃ vā sasitāmadhu jīvakarṣabhakadrākṣābalāgokṣuranāgaraiḥ",
         "iast_ru": "пан̃чамӯлена лагхуна̄ ш́р̣там̣ ва̄ сасита̄мадху джӣвакарш̣абхакадра̄кш̣а̄бала̄гокш̣урана̄гараих̣",
-        "text": "или молоко, сваренное с лёгкой панчамули, вместе с сахаром и мёдом; или с дживакой, ршабхакой, изюмом, балой, гокшурой и сухим имбирём,"
+        "text": "или молоко, сваренное с лёгкой панчамули, вместе с сахаром и мёдом; или с дживакой, ршабхакой, изюмом, балой, гокшурой и сухим имбирём,",
+        "text_en": "or milk boiled with the light panchamula, together with sugar and honey; or with jivaka, rishabhaka, raisins, bala, gokshura and dry ginger,"
       },
       {
         "type": "verse",
@@ -34195,7 +34289,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पृथक् पृथक् शृतं शीतं सघृतं सितयाथवा क्षीरेण वमनीपुष्पं मधुकं मधुशर्कराम्",
         "iast": "pṛthak pṛthak śṛtaṃ śītaṃ saghṛtaṃ sitayāthavā kṣīreṇa vamanīpuṣpaṃ madhukaṃ madhuśarkarām",
         "iast_ru": "пр̣тхак пр̣тхак ш́р̣там̣ ш́ӣтам̣ сагхр̣там̣ ситайа̄тхава̄ кш̣ӣрен̣а ваманӣпуш̣пам̣ мадхукам̣ мадхуш́аркара̄м",
-        "text": "каждое по отдельности сваренное, охлаждённое, вместе с топлёным маслом или сахаром; или молоко с цветком ваманипушпы, солодкой, мёдом и сахаром;"
+        "text": "каждое по отдельности сваренное, охлаждённое, вместе с топлёным маслом или сахаром; или молоко с цветком ваманипушпы, солодкой, мёдом и сахаром;",
+        "text_en": "each prepared separately, cooled, together with ghee or sugar; or milk with the flower of vamanipushpa, licorice, honey and sugar;"
       },
       {
         "type": "verse",
@@ -34203,7 +34298,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गोकण्टकाभीरुशृतं पर्णिनीभिस्तथा पयः हन्त्याशु रक्तं सरुजं विशेषान्मूत्रमार्गगम्",
         "iast": "gokaṇṭakābhīruśṛtaṃ parṇinībhistathā payaḥ hantyāśu raktaṃ sarujaṃ viśeṣānmūtramārgagam",
         "iast_ru": "гокан̣т̣ака̄бхӣруш́р̣там̣ парн̣инӣбхистатха̄ пайах̣ хантйа̄ш́у рактам̣ саруджам̣ виш́еш̣а̄нмӯтрама̄ргагам",
-        "text": "молоко, сваренное с гокантакой и абхиру, а также с парни, быстро устраняет кровотечение с болью, в особенности проявляющееся через мочевыводящие пути."
+        "text": "молоко, сваренное с гокантакой и абхиру, а также с парни, быстро устраняет кровотечение с болью, в особенности проявляющееся через мочевыводящие пути.",
+        "text_en": "milk boiled with gokantaka and abhiru, as well as with parni, swiftly relieves bleeding with pain, especially that manifesting through the urinary passages."
       },
       {
         "type": "verse",
@@ -34211,7 +34307,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विण्मार्गगे विशेषेण हितं मोचरसेन तु वटप्ररोहैः शुङ्गैर्वा शुण्ठ्युदीच्योत्पलैरपि",
         "iast": "viṇmārgage viśeṣeṇa hitaṃ mocarasena tu vaṭaprarohaiḥ śuṅgairvā śuṇṭhyudīcyotpalairapi",
         "iast_ru": "вин̣ма̄ргаге виш́еш̣ен̣а хитам̣ мочарасена ту ват̣апрарохаих̣ ш́ун̇гаирва̄ ш́ун̣т̣хйудӣчйотпалаирапи",
-        "text": "При кровотечении через кишечник особенно полезно молоко с соком мочи (шалмали), а также с воздушными корнями баньяна, побегами, сухим имбирём, удичьей и лотосом;"
+        "text": "При кровотечении через кишечник особенно полезно молоко с соком мочи (шалмали), а также с воздушными корнями баньяна, побегами, сухим имбирём, удичьей и лотосом;",
+        "text_en": "In bleeding through the intestine, milk with the juice of mocha (shalmali), as well as with aerial roots of the banyan, shoots, dry ginger, udichya and lotus, is especially beneficial;"
       },
       {
         "type": "verse",
@@ -34219,7 +34316,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्तातिसारदुर्नामचिकित्सां चात्र कल्पयेत् पीत्वा कषायान् पयसा भुञ्जीत पयसैव तु कषाययोगैरेभिर्वा विपक्वं पाययेत् घृतम्",
         "iast": "raktātisāradurnāmacikitsāṃ cātra kalpayet pītvā kaṣāyān payasā bhuñjīta payasaiva tu kaṣāyayogairebhirvā vipakvaṃ pāyayet ghṛtam",
         "iast_ru": "ракта̄тиса̄радурна̄мачикитса̄м̣ ча̄тра калпайет пӣтва̄ каш̣а̄йа̄н пайаса̄ бхун̃джӣта пайасаива ту каш̣а̄йайогаиребхирва̄ випаквам̣ па̄йайет гхр̣там",
-        "text": "здесь же следует применять лечение, указанное для кровавого поноса и геморроя. Выпив отвары с молоком, следует принимать пищу с молоком же; или же следует дать выпить топлёное масло, сваренное с этими же отварными составами."
+        "text": "здесь же следует применять лечение, указанное для кровавого поноса и геморроя. Выпив отвары с молоком, следует принимать пищу с молоком же; или же следует дать выпить топлёное масло, сваренное с этими же отварными составами.",
+        "text_en": "here the treatment prescribed for bloody dysentery and haemorrhoids should be applied. Having drunk the decoctions with milk, one should take food also with milk; or else ghee cooked with these same decoction compounds should be given to drink."
       },
       {
         "type": "verse",
@@ -34227,7 +34325,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समूलमस्तकं क्षुण्णं वृषमष्टगुणे ऽम्भसि पक्त्वाष्टांशावशेषेण घृतं तेन विपाचयेत्",
         "iast": "samūlamastakaṃ kṣuṇṇaṃ vṛṣamaṣṭaguṇe 'mbhasi paktvāṣṭāṃśāvaśeṣeṇa ghṛtaṃ tena vipācayet",
         "iast_ru": "самӯламастакам̣ кш̣ун̣н̣ам̣ вр̣ш̣амаш̣т̣агун̣е 'мбхаси пактва̄ш̣т̣а̄м̣ш́а̄ваш́еш̣ен̣а гхр̣там̣ тена випа̄чайет",
-        "text": "Измельчённую вришу вместе с корнями следует сварить в восьми частях воды до остатка в одну восьмую; на этом отваре следует сварить топлёное масло,"
+        "text": "Измельчённую вришу вместе с корнями следует сварить в восьми частях воды до остатка в одну восьмую; на этом отваре следует сварить топлёное масло,",
+        "text_en": "Vrisha, chopped together with its roots, should be boiled in eight parts of water, reduced to one eighth; in this decoction ghee should be cooked,"
       },
       {
         "type": "verse",
@@ -34235,7 +34334,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्पुष्पगर्भं तच्छीतं सक्षौद्रं पित्तशोणितम् पित्तगुल्मज्वरश्वासकासहृद्रोगकामलाः",
         "iast": "tatpuṣpagarbhaṃ tacchītaṃ sakṣaudraṃ pittaśoṇitam pittagulmajvaraśvāsakāsahṛdrogakāmalāḥ",
         "iast_ru": "татпуш̣пагарбхам̣ таччхӣтам̣ сакш̣аудрам̣ питташ́он̣итам питтагулмаджвараш́ва̄сака̄сахр̣дрогака̄мала̄х̣",
-        "text": "введя туда сердцевину её цветков; это масло, охлаждённое, вместе с мёдом, устраняет раактапитту, а также гульму, лихорадку, одышку, кашель, болезнь сердца и желтуху от Питты,"
+        "text": "введя туда сердцевину её цветков; это масло, охлаждённое, вместе с мёдом, устраняет раактапитту, а также гульму, лихорадку, одышку, кашель, болезнь сердца и желтуху от Питты,",
+        "text_en": "introducing into it the pith of its flowers; this ghee, cooled, together with honey, relieves raktapitta, as well as gulma, fever, dyspnoea, cough, heart disease and Pitta jaundice,"
       },
       {
         "type": "verse",
@@ -34243,7 +34343,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तिमिरभ्रमवीसर्पस्वरसादांश्च नाशयेत् पलाशवृन्तस्वरसे तद्गर्भं च घृतं पचेत्",
         "iast": "timirabhramavīsarpasvarasādāṃśca nāśayet palāśavṛntasvarase tadgarbhaṃ ca ghṛtaṃ pacet",
         "iast_ru": "тимирабхрамавӣсарпасвараса̄да̄м̣ш́ча на̄ш́айет пала̄ш́авр̣нтасварасе тадгарбхам̣ ча гхр̣там̣ пачет",
-        "text": "устраняет помрачение зрения, головокружение, рожу и охриплость голоса. На соке черешка палаши, с той же начинкой, следует сварить топлёное масло,"
+        "text": "устраняет помрачение зрения, головокружение, рожу и охриплость голоса. На соке черешка палаши, с той же начинкой, следует сварить топлёное масло,",
+        "text_en": "relieves dimness of vision, giddiness, erysipelas and hoarseness of voice. In the juice of the leaf-stalk of palasha, with the same filling, ghee should be cooked,"
       },
       {
         "type": "verse",
@@ -34251,7 +34352,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सक्षौद्रं तच्च रक्तघ्नं तद्वद्वत्सकसाधितम् लोध्रोत्पलसमङ्गाभिस्तथैव त्रायमाणया",
         "iast": "sakṣaudraṃ tacca raktaghnaṃ tadvadvatsakasādhitam lodhrotpalasamaṅgābhistathaiva trāyamāṇayā",
         "iast_ru": "сакш̣аудрам̣ тачча рактагхнам̣ тадвадватсакаса̄дхитам лодхротпаласаман̇га̄бхистатхаива тра̄йама̄н̣айа̄",
-        "text": "вместе с мёдом — оно устраняет кровотечение; подобным же образом масло, приготовленное с ватсакой; с лодхрой, синим лотосом, самангой; а также с траяманой;"
+        "text": "вместе с мёдом — оно устраняет кровотечение; подобным же образом масло, приготовленное с ватсакой; с лодхрой, синим лотосом, самангой; а также с траяманой;",
+        "text_en": "together with honey; it relieves bleeding; likewise ghee prepared with vatsaka; with lodhra, blue lotus and samanga; and also with trayamana;"
       },
       {
         "type": "verse",
@@ -34259,7 +34361,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लाजगोधूममधुकसिताचूर्णं पयोद्रवम् घृतेनोत्करिकां कृत्वा खादेत् पित्तास्रवारिणीम्",
         "iast": "lājagodhūmamadhukasitācūrṇaṃ payodravam ghṛtenotkarikāṃ kṛtvā khādet pittāsravāriṇīm",
         "iast_ru": "ла̄джагодхӯмамадхукасита̄чӯрн̣ам̣ пайодравам гхр̣теноткарика̄м̣ кр̣тва̄ кха̄дет питта̄срава̄рин̣ӣм",
-        "text": "порошок из поджаренного риса, пшеницы, солодки и сахара, смешанный с молочной жидкостью, приготовленный в виде лепёшки на топлёном масле, следует есть — он сдерживает кровотечение от Питты;"
+        "text": "порошок из поджаренного риса, пшеницы, солодки и сахара, смешанный с молочной жидкостью, приготовленный в виде лепёшки на топлёном масле, следует есть — он сдерживает кровотечение от Питты;",
+        "text_en": "a powder of parched rice, wheat, licorice and sugar, mixed with a milky liquid, prepared as a cake in ghee, should be eaten; it checks bleeding from Pitta;"
       },
       {
         "type": "verse",
@@ -34267,7 +34370,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्ते सपिच्छे सकफे ग्राथिते कण्ठमार्गगे लिह्यान्माक्षिकसर्पिर्भ्यां क्षारमुत्पलनालजम्",
         "iast": "rakte sapicche sakaphe grāthite kaṇṭhamārgage lihyānmākṣikasarpirbhyāṃ kṣāramutpalanālajam",
         "iast_ru": "ракте сапиччхе сакапхе гра̄тхите кан̣т̣хама̄ргаге лихйа̄нма̄кш̣икасарпирбхйа̄м̣ кш̣а̄рамутпалана̄ладжам",
-        "text": "при слизистой, свернувшейся крови, выходящей со слизью через горло, следует принять слизыванием, с мёдом и топлёным маслом, щёлочь, полученную из стебля лотоса;"
+        "text": "при слизистой, свернувшейся крови, выходящей со слизью через горло, следует принять слизыванием, с мёдом и топлёным маслом, щёлочь, полученную из стебля лотоса;",
+        "text_en": "in mucous, clotted blood coming out with phlegm through the throat, one should lick, with honey and ghee, the alkali obtained from the lotus stalk;"
       },
       {
         "type": "verse",
@@ -34275,7 +34379,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मृणालाम्भोजकिञ्जम्ल्कश्यामासनमधूकजम् तद्वत् पृथक् पृथक् क्षारं घृतं क्षीरेण साधयेत्",
         "iast": "mṛṇālāmbhojakiñjamlkaśyāmāsanamadhūkajam tadvat pṛthak pṛthak kṣāraṃ ghṛtaṃ kṣīreṇa sādhayet",
         "iast_ru": "мр̣н̣а̄ла̄мбходжакин̃джамлкаш́йа̄ма̄санамадхӯкаджам тадват пр̣тхак пр̣тхак кш̣а̄рам̣ гхр̣там̣ кш̣ӣрен̣а са̄дхайет",
-        "text": "подобным же образом — щёлочь из лотосового корневища, лотоса, тычинок, шьямы, асаны и мадхуки, каждую по отдельности; топлёное масло следует приготовить с молоком,"
+        "text": "подобным же образом — щёлочь из лотосового корневища, лотоса, тычинок, шьямы, асаны и мадхуки, каждую по отдельности; топлёное масло следует приготовить с молоком,",
+        "text_en": "likewise the alkali of lotus rhizome, lotus, filaments, shyama, asana and madhuka, each separately; ghee should be prepared with milk,"
       },
       {
         "type": "verse",
@@ -34283,7 +34388,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिष्टैरभीरुकाकोलीमेदावृक्षाम्लदाडिमैः फलपूरकमूलेन विदार्या मधुकेन च",
         "iast": "piṣṭairabhīrukākolīmedāvṛkṣāmladāḍimaiḥ phalapūrakamūlena vidāryā madhukena ca",
         "iast_ru": "пиш̣т̣аирабхӣрука̄колӣмеда̄вр̣кш̣а̄млада̄д̣имаих̣ пхалапӯракамӯлена вида̄рйа̄ мадхукена ча",
-        "text": "растёртыми с абхиру, каколи, медой, вркшамлой, гранатом; с корнем пхалапурака, видари и солодкой,"
+        "text": "растёртыми с абхиру, каколи, медой, вркшамлой, гранатом; с корнем пхалапурака, видари и солодкой,",
+        "text_en": "ground with abhiru, kakoli, meda, vrikshamla and pomegranate; with the root of phalapuraka, vidari and licorice,"
       },
       {
         "type": "verse",
@@ -34291,7 +34397,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्विबन्धज्वरानाहशूलकासास्रपित्तजित् पञ्चभिः पञ्चमूलैश्च सिद्धमाद्यैस्तदर्थकृत्",
         "iast": "tadvibandhajvarānāhaśūlakāsāsrapittajit pañcabhiḥ pañcamūlaiśca siddhamādyaistadarthakṛt",
         "iast_ru": "тадвибандхаджвара̄на̄хаш́ӯлака̄са̄срапиттаджит пан̃чабхих̣ пан̃чамӯлаиш́ча сиддхама̄дйаистадартхакр̣т",
-        "text": "— это масло побеждает запор, лихорадку, вздутие, колику, кашель и раактапитту; масло, приготовленное с пятью видами панчамули, начиная с первого набора, оказывает то же действие."
+        "text": "— это масло побеждает запор, лихорадку, вздутие, колику, кашель и раактапитту; масло, приготовленное с пятью видами панчамули, начиная с первого набора, оказывает то же действие.",
+        "text_en": "this ghee conquers constipation, fever, distension, colic, cough and raktapitta; ghee prepared with the five kinds of panchamula, beginning with the first set, has the same effect."
       },
       {
         "type": "verse",
@@ -34299,7 +34406,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुदागमे विशेषेण शोणिते बस्तिरिष्यते मधुकाञ्जनमाञ्जिष्ठामृणालोत्पलगैरिकैः",
         "iast": "gudāgame viśeṣeṇa śoṇite bastiriṣyate madhukāñjanamāñjiṣṭhāmṛṇālotpalagairikaiḥ",
         "iast_ru": "гуда̄гаме виш́еш̣ен̣а ш́он̣ите бастириш̣йате мадхука̄н̃джанама̄н̃джиш̣т̣ха̄мр̣н̣а̄лотпалагаирикаих̣",
-        "text": "При кровотечении, проявляющемся через задний проход, в особенности показана клизма, приготовленная с солодкой, коллирием, манджиштхой, лотосовым корневищем, синим лотосом и герикой;"
+        "text": "При кровотечении, проявляющемся через задний проход, в особенности показана клизма, приготовленная с солодкой, коллирием, манджиштхой, лотосовым корневищем, синим лотосом и герикой;",
+        "text_en": "In bleeding manifesting through the anus, an enema prepared with licorice, collyrium, manjishtha, lotus rhizome, blue lotus and geru is especially indicated;"
       },
       {
         "type": "verse",
@@ -34307,7 +34415,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुवर्णलोध्रकालीयसमङ्गाम्बुजचन्दनैः सौगन्धिकसिताशङ्खैः पिष्टैर्मधुघृतान्वितैः",
         "iast": "suvarṇalodhrakālīyasamaṅgāmbujacandanaiḥ saugandhikasitāśaṅkhaiḥ piṣṭairmadhughṛtānvitaiḥ",
         "iast_ru": "суварн̣алодхрака̄лӣйасаман̇га̄мбуджачанданаих̣ саугандхикасита̄ш́ан̇кхаих̣ пиш̣т̣аирмадхугхр̣та̄нвитаих̣",
-        "text": "с сварной, лодхрой, калией, самангой, лотосом, сандалом; саугандхикой, сахаром, раковиной, растёртыми, вместе с мёдом и топлёным маслом,"
+        "text": "с сварной, лодхрой, калией, самангой, лотосом, сандалом; саугандхикой, сахаром, раковиной, растёртыми, вместе с мёдом и топлёным маслом,",
+        "text_en": "with sarja, lodhra, kaliya, samanga, lotus and sandal; saugandhika, sugar and conch shell, ground, together with honey and ghee,"
       },
       {
         "type": "verse",
@@ -34315,7 +34424,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरेणास्थापयेदेनं स्नातं च शिशिराम्भसा क्षीरेणैवाशयेच्छालीस्ततो मधुकसर्पिषा",
         "iast": "kṣīreṇāsthāpayedenaṃ snātaṃ ca śiśirāmbhasā kṣīreṇaivāśayecchālīstato madhukasarpiṣā",
         "iast_ru": "кш̣ӣрен̣а̄стха̄пайеденам̣ сна̄там̣ ча ш́иш́ира̄мбхаса̄ кш̣ӣрен̣аива̄ш́айеччха̄лӣстато мадхукасарпиш̣а̄",
-        "text": "с молоком следует поставить очистительную клизму (астхапана) больному, предварительно омытому холодной водой; молоком же следует напитать рис, а затем — солодкой с топлёным маслом;"
+        "text": "с молоком следует поставить очистительную клизму (астхапана) больному, предварительно омытому холодной водой; молоком же следует напитать рис, а затем — солодкой с топлёным маслом;",
+        "text_en": "with milk a cleansing enema (asthapana) should be given to the patient, previously washed with cold water; rice should be soaked in milk, and then with licorice and ghee;"
       },
       {
         "type": "verse",
@@ -34323,7 +34433,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "काले ऽनुवासयेदेवमतिसारे ऽपि दुस्तरे जीर्णे ऽसृक्प्रबले कुर्याद्विरेके चातियोगिनि",
         "iast": "kāle 'nuvāsayedevamatisāre 'pi dustare jīrṇe 'sṛkprabale kuryādvireke cātiyogini",
         "iast_ru": "ка̄ле 'нува̄сайедеваматиса̄ре 'пи дустаре джӣрн̣е 'ср̣кпрабале курйа̄двиреке ча̄тийогини",
-        "text": "в надлежащее время следует таким же образом поставить масляную клизму (анувасана); также так следует поступать при тяжёлом, трудноизлечимом поносе, при застарелом сильном кровотечении, а также при чрезмерном действии слабительного."
+        "text": "в надлежащее время следует таким же образом поставить масляную клизму (анувасана); также так следует поступать при тяжёлом, трудноизлечимом поносе, при застарелом сильном кровотечении, а также при чрезмерном действии слабительного.",
+        "text_en": "at the proper time an oil enema (anuvasana) should be given in the same manner; one should also proceed thus in severe, hard-to-cure diarrhoea, in chronic severe bleeding, and in excessive action of a purgative."
       },
       {
         "type": "verse",
@@ -34331,7 +34442,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विदार्यादिगणेनेष्टं शृतं वास्थापने पयः सक्षौद्रशर्करासर्पिः सर्पिश्चैवानुवासने",
         "iast": "vidāryādigaṇeneṣṭaṃ śṛtaṃ vāsthāpane payaḥ sakṣaudraśarkarāsarpiḥ sarpiścaivānuvāsane",
         "iast_ru": "вида̄рйа̄диган̣енеш̣т̣ам̣ ш́р̣там̣ ва̄стха̄пане пайах̣ сакш̣аудраш́аркара̄сарпих̣ сарпиш́чаива̄нува̄сане",
-        "text": "Молоко, сваренное с группой видарьяди, показано для очистительной клизмы, вместе с мёдом, сахаром и топлёным маслом; топлёное масло же — для масляной клизмы."
+        "text": "Молоко, сваренное с группой видарьяди, показано для очистительной клизмы, вместе с мёдом, сахаром и топлёным маслом; топлёное масло же — для масляной клизмы.",
+        "text_en": "Milk boiled with the Vidaryadi group is indicated for the cleansing enema, together with honey, sugar and ghee; ghee, however, for the oil enema."
       },
       {
         "type": "verse",
@@ -34339,7 +34451,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मूत्राशयस्थं शमयेद्रक्तमुत्तरबस्तिभिः ईदृशैरेव तद्वच्च प्रदरे ऽपि विधिः स्मृतः",
         "iast": "mūtrāśayasthaṃ śamayedraktamuttarabastibhiḥ īdṛśaireva tadvacca pradare 'pi vidhiḥ smṛtaḥ",
         "iast_ru": "мӯтра̄ш́айастхам̣ ш́амайедрактамуттарабастибхих̣ ӣдр̣ш́аирева тадвачча прадаре 'пи видхих̣ смр̣тах̣",
-        "text": "Кровь, находящуюся в мочевом пузыре, следует успокаивать уттарабасти (вагинальными или уретральными клизмами) с теми же составами; подобным же образом такой же метод применяется при прадаре (маточном кровотечении)."
+        "text": "Кровь, находящуюся в мочевом пузыре, следует успокаивать уттарабасти (вагинальными или уретральными клизмами) с теми же составами; подобным же образом такой же метод применяется при прадаре (маточном кровотечении).",
+        "text_en": "Blood lodged in the urinary bladder should be pacified with uttarabasti (vaginal or urethral enemas) with the same compounds; likewise the same method is applied in pradara (uterine bleeding)."
       },
       {
         "type": "verse",
@@ -34347,7 +34460,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "छेदभेदादिभिश्चातिप्रवृत्ते शुद्धशोणिते विशेषात् प्रदरस्योक्तं योनिरोगेषु चैषधम्",
         "iast": "chedabhedādibhiścātipravṛtte śuddhaśoṇite viśeṣāt pradarasyoktaṃ yonirogeṣu caiṣadham",
         "iast_ru": "чхедабхеда̄дибхиш́ча̄типравр̣тте ш́уддхаш́он̣ите виш́еш̣а̄т прадарасйоктам̣ йонирогеш̣у чаиш̣адхам",
-        "text": "При чрезмерном истечении чистой крови от порезов, разрывов и подобного, в особенности при прадаре, следует применять лечение, указанное в разделе о болезнях влагалища."
+        "text": "При чрезмерном истечении чистой крови от порезов, разрывов и подобного, в особенности при прадаре, следует применять лечение, указанное в разделе о болезнях влагалища.",
+        "text_en": "In excessive flow of pure blood from cuts, tears and the like, especially in pradara, the treatment prescribed in the section on diseases of the vagina should be applied."
       },
       {
         "type": "verse",
@@ -34355,7 +34469,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घ्राणगे रुधिरे शुद्धे नावनं चानुषेचयेत् कषाययोगान् पूर्वेक्तान् क्षीरेक्ष्वादिरसाप्लुतान्",
         "iast": "ghrāṇage rudhire śuddhe nāvanaṃ cānuṣecayet kaṣāyayogān pūrvektān kṣīrekṣvādirasāplutān",
         "iast_ru": "гхра̄н̣аге рудхире ш́уддхе на̄ванам̣ ча̄нуш̣ечайет каш̣а̄йайога̄н пӯрвекта̄н кш̣ӣрекш̣ва̄дираса̄плута̄н",
-        "text": "При носовом кровотечении из чистой крови следует применять назальные средства и орошения, используя ранее упомянутые отвары, пропитанные молоком, соком сахарного тростника и подобным;"
+        "text": "При носовом кровотечении из чистой крови следует применять назальные средства и орошения, используя ранее упомянутые отвары, пропитанные молоком, соком сахарного тростника и подобным;",
+        "text_en": "In nosebleed of pure blood, nasal remedies and sprinklings should be applied, using the previously mentioned decoctions, infused with milk, sugarcane juice and the like;"
       },
       {
         "type": "verse",
@@ -34363,7 +34478,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरादीन् ससितं तोयं केवलं वा हितं जलम् रसो दाडिमपुष्पाणामाम्रास्थ्नः शाड्वलस्य च",
         "iast": "kṣīrādīn sasitaṃ toyaṃ kevalaṃ vā hitaṃ jalam raso dāḍimapuṣpāṇāmāmrāsthnaḥ śāḍvalasya ca",
         "iast_ru": "кш̣ӣра̄дӣн саситам̣ тойам̣ кевалам̣ ва̄ хитам̣ джалам расо да̄д̣имапуш̣па̄н̣а̄ма̄мра̄стхнах̣ ш́а̄д̣валасйа ча",
-        "text": "молоко и подобное, воду с сахаром, или же просто чистую воду; сок цветков граната, косточки манго и шадвалы —"
+        "text": "молоко и подобное, воду с сахаром, или же просто чистую воду; сок цветков граната, косточки манго и шадвалы —",
+        "text_en": "milk and the like, water with sugar, or else simply clean water; the juice of pomegranate flowers, mango stones and shadvala,"
       },
       {
         "type": "verse",
@@ -34371,7 +34487,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कल्पयेच्छीतवर्गं च प्रदेहाभ्यञ्जनादिषु यच्च पित्तज्वरे प्रोक्तं बहिरन्तश्च भेषजम् रक्तपित्ते हितं तच्च क्षतक्षीणे हितं च यत्",
         "iast": "kalpayecchītavargaṃ ca pradehābhyañjanādiṣu yacca pittajvare proktaṃ bahirantaśca bheṣajam raktapitte hitaṃ tacca kṣatakṣīṇe hitaṃ ca yat",
         "iast_ru": "калпайеччхӣтаваргам̣ ча прадеха̄бхйан̃джана̄диш̣у йачча питтаджваре проктам̣ бахиранташ́ча бхеш̣аджам рактапитте хитам̣ тачча кш̣атакш̣ӣн̣е хитам̣ ча йат",
-        "text": "следует применять для приготовления обмазываний, умащений и подобного, используя группу холодных средств. То, что упомянуто как внешнее и внутреннее лекарство при лихорадке от Питты, полезно и при раактапитте, а также то, что полезно при истощении от травмы."
+        "text": "следует применять для приготовления обмазываний, умащений и подобного, используя группу холодных средств. То, что упомянуто как внешнее и внутреннее лекарство при лихорадке от Питты, полезно и при раактапитте, а также то, что полезно при истощении от травмы.",
+        "text_en": "should be used for preparing ointments, unguents and the like, using the group of cooling remedies. What has been mentioned as external and internal medicine in Pitta fever is also beneficial in raktapitta, as is also that which is beneficial in emaciation from injury."
       }
     ]
   },
@@ -34393,7 +34510,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातः कासचिकित्सितं व्याख्यास्यामः इति हस्माहुरात्रेयादयो महर्षयः",
         "iast": "athātaḥ kāsacikitsitaṃ vyākhyāsyāmaḥ iti hasmāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄тах̣ ка̄сачикитситам̣ вйа̄кхйа̄сйа̄мах̣ ити хасма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним лечение кашля — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним лечение кашля — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now, further, we shall explain the treatment of cough, as the great rishis beginning with Atreya declared."
       },
       {
         "type": "verse",
@@ -34401,7 +34519,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "केवलानिलजं कासं स्नेहैरादावुपाचरेत् वातघ्नसिद्धैः स्निग्धैश्च पेयायूषरसादिभिः",
         "iast": "kevalānilajaṃ kāsaṃ snehairādāvupācaret vātaghnasiddhaiḥ snigdhaiśca peyāyūṣarasādibhiḥ",
         "iast_ru": "кевала̄ниладжам̣ ка̄сам̣ снехаира̄да̄вупа̄чарет ва̄тагхнасиддхаих̣ снигдхаиш́ча пейа̄йӯш̣араса̄дибхих̣",
-        "text": "Кашель, вызванный исключительно Ватой, следует прежде всего лечить масляными средствами, приготовленными с устраняющими Вату травами, маслянистыми пеями, супами, соками и подобным;"
+        "text": "Кашель, вызванный исключительно Ватой, следует прежде всего лечить масляными средствами, приготовленными с устраняющими Вату травами, маслянистыми пеями, супами, соками и подобным;",
+        "text_en": "Cough caused by Vata alone should first of all be treated with unctuous remedies prepared with Vata-relieving herbs, unctuous peyas, soups, juices and the like;"
       },
       {
         "type": "verse",
@@ -34409,7 +34528,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लेहैर्धूमैस्ततहाभ्यङ्गस्वेदसेकावगाहनैः बस्तिभिर्बद्धविड्वातं सपित्तं त्वौर्ध्वभक्तिकैः",
         "iast": "lehairdhūmaistatahābhyaṅgasvedasekāvagāhanaiḥ bastibhirbaddhaviḍvātaṃ sapittaṃ tvaurdhvabhaktikaiḥ",
         "iast_ru": "лехаирдхӯмаистатаха̄бхйан̇гасведасека̄вага̄ханаих̣ бастибхирбаддхавид̣ва̄там̣ сапиттам̣ тваурдхвабхактикаих̣",
-        "text": "лехьями (сиропами), окуриваниями, а также умащениями, потогонными процедурами, орошениями и погружением в ванну; при задержке кала и газов — клизмами; а если сопровождается Питтой — средствами, принимаемыми после еды."
+        "text": "лехьями (сиропами), окуриваниями, а также умащениями, потогонными процедурами, орошениями и погружением в ванну; при задержке кала и газов — клизмами; а если сопровождается Питтой — средствами, принимаемыми после еды.",
+        "text_en": "with lehyas (confections), fumigations, as well as unctions, sudation, sprinklings and immersion baths; in retention of stool and gas, with enemas; and if accompanied by Pitta, with remedies taken after meals."
       },
       {
         "type": "verse",
@@ -34417,7 +34537,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुडूचीकण्टकारीभ्यां पृथक् त्रिंशत्पलाद्रसे प्रस्थः सिद्धो घृताद्वातकासनुद्वह्निदीपनः",
         "iast": "guḍūcīkaṇṭakārībhyāṃ pṛthak triṃśatpalādrase prasthaḥ siddho ghṛtādvātakāsanudvahnidīpanaḥ",
         "iast_ru": "гуд̣ӯчӣкан̣т̣ака̄рӣбхйа̄м̣ пр̣тхак трим̣ш́атпала̄драсе прастхах̣ сиддхо гхр̣та̄два̄така̄санудвахнидӣпанах̣",
-        "text": "Прастха топлёного масла, сваренного на соке гудучи или кантакари, каждой по тридцать пал по отдельности, устраняет ватный кашель и разжигает пищеварительный огонь;"
+        "text": "Прастха топлёного масла, сваренного на соке гудучи или кантакари, каждой по тридцать пал по отдельности, устраняет ватный кашель и разжигает пищеварительный огонь;",
+        "text_en": "A prastha of ghee cooked in the juice of guduchi or kantakari, thirty palas of each separately, relieves Vata cough and kindles the digestive fire;"
       },
       {
         "type": "verse",
@@ -34425,7 +34546,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षाररास्नावचाहिङ्गुपाठायष्ट्याह्वधान्यकैः द्विशाणैः सर्पिषः प्रस्थं पञ्चकोलयुतैः पचेत्",
         "iast": "kṣārarāsnāvacāhiṅgupāṭhāyaṣṭyāhvadhānyakaiḥ dviśāṇaiḥ sarpiṣaḥ prasthaṃ pañcakolayutaiḥ pacet",
         "iast_ru": "кш̣а̄рара̄сна̄вача̄хин̇гупа̄т̣ха̄йаш̣т̣йа̄хвадха̄нйакаих̣ двиш́а̄н̣аих̣ сарпиш̣ах̣ прастхам̣ пан̃чаколайутаих̣ пачет",
-        "text": "следует сварить прастху топлёного масла с щёлочью, расной, вачей, хингу, патхой, солодкой и кориандром, по два шана каждого, вместе с панчакола;"
+        "text": "следует сварить прастху топлёного масла с щёлочью, расной, вачей, хингу, патхой, солодкой и кориандром, по два шана каждого, вместе с панчакола;",
+        "text_en": "a prastha of ghee should be cooked with alkali, rasna, vacha, asafoetida, patha, licorice and coriander, two shanas of each, together with panchakola;"
       },
       {
         "type": "verse",
@@ -34433,7 +34555,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलस्य निर्यूहे पीतं मण्डानुपायिना सकासश्वासहृत्पार्श्वग्रहणीरोगगुल्मनुत्",
         "iast": "daśamūlasya niryūhe pītaṃ maṇḍānupāyinā sakāsaśvāsahṛtpārśvagrahaṇīrogagulmanut",
         "iast_ru": "даш́амӯласйа нирйӯхе пӣтам̣ ман̣д̣а̄нупа̄йина̄ сака̄саш́ва̄сахр̣тпа̄рш́ваграхан̣ӣрогагулманут",
-        "text": "выпитое на отваре дашамулы, запивая мандой (жидким рисовым отваром), устраняет кашель, одышку, боль в сердце и боках, болезнь грахани и гульму."
+        "text": "выпитое на отваре дашамулы, запивая мандой (жидким рисовым отваром), устраняет кашель, одышку, боль в сердце и боках, болезнь грахани и гульму.",
+        "text_en": "drunk with a decoction of dashamula, followed by manda (thin rice gruel), it relieves cough, dyspnoea, pain in the heart and sides, grahani disease and gulma."
       },
       {
         "type": "verse",
@@ -34441,7 +34564,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "काश्मर्यत्रिफलाव्योषशठीद्राक्षापरूषकम् द्वे पाठे देवदार्वृद्धिस्वगुप्ताग्निकगोक्षुरम्",
         "iast": "kāśmaryatriphalāvyoṣaśaṭhīdrākṣāparūṣakam dve pāṭhe devadārvṛddhisvaguptāgnikagokṣuram",
         "iast_ru": "ка̄ш́марйатрипхала̄вйош̣аш́ат̣хӣдра̄кш̣а̄парӯш̣акам две па̄т̣хе девада̄рвр̣ддхисвагупта̄гникагокш̣урам",
-        "text": "Кашмарья, трифала, вьоша, шатхи, изюм, парушака; два вида патхи, девадару, вриддхи, свагупта, читрак, гокшура;"
+        "text": "Кашмарья, трифала, вьоша, шатхи, изюм, парушака; два вида патхи, девадару, вриддхи, свагупта, читрак, гокшура;",
+        "text_en": "Kashmarya, triphala, vyosha, shathi, raisins, parushaka; the two kinds of patha, devadaru, vriddhi, svagupta, chitraka, gokshura;"
       },
       {
         "type": "verse",
@@ -34449,7 +34573,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्याघ्नीतामलकीमेदाकाकनासाशतावरीः विदारी च घृतप्रस्थः कर्षांशैस्तैर्विपाचितः",
         "iast": "vyāghnītāmalakīmedākākanāsāśatāvarīḥ vidārī ca ghṛtaprasthaḥ karṣāṃśaistairvipācitaḥ",
         "iast_ru": "вйа̄гхнӣта̄малакӣмеда̄ка̄кана̄са̄ш́ата̄варӣх̣ вида̄рӣ ча гхр̣тапрастхах̣ карш̣а̄м̣ш́аистаирвипа̄читах̣",
-        "text": "вьягхри, тамалаки, меда, какананса, шатавари и видари — прастха топлёного масла, сваренного с этими компонентами, по карше каждого,"
+        "text": "вьягхри, тамалаки, меда, какананса, шатавари и видари — прастха топлёного масла, сваренного с этими компонентами, по карше каждого,",
+        "text_en": "vyaghri, tamalaki, meda, kakananasa, shatavari and vidari: a prastha of ghee cooked with these components, one karsha of each,"
       },
       {
         "type": "verse",
@@ -34457,7 +34582,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरेण च जयत्याशु ज्वरकासहलीमकान् गुल्मारुचियकृत्प्लीहशिरोहृत्पार्श्ववेदनाः",
         "iast": "kṣīreṇa ca jayatyāśu jvarakāsahalīmakān gulmāruciyakṛtplīhaśirohṛtpārśvavedanāḥ",
         "iast_ru": "кш̣ӣрен̣а ча джайатйа̄ш́у джварака̄сахалӣмака̄н гулма̄ручийакр̣тплӣхаш́ирохр̣тпа̄рш́ваведана̄х̣",
-        "text": "вместе с молоком, быстро побеждает лихорадку, кашель, халимаку, гульму, отсутствие аппетита, боль в печени, селезёнке, голове, сердце и боках,"
+        "text": "вместе с молоком, быстро побеждает лихорадку, кашель, халимаку, гульму, отсутствие аппетита, боль в печени, селезёнке, голове, сердце и боках,",
+        "text_en": "together with milk, swiftly conquers fever, cough, halimaka, gulma, loss of appetite, pain in the liver, spleen, head, heart and sides,"
       },
       {
         "type": "verse",
@@ -34465,7 +34591,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कामलार्शोनिलाष्ठीलाक्षतशोफक्षयांश्च सः द्रोणे ऽपां साधयेद्रास्नादशमूलशतावरीः पलोन्मिता द्विकुडवं कुलत्थं बदरं यवम्",
         "iast": "kāmalārśonilāṣṭhīlākṣataśophakṣayāṃśca saḥ droṇe 'pāṃ sādhayedrāsnādaśamūlaśatāvarīḥ palonmitā dvikuḍavaṃ kulatthaṃ badaraṃ yavam",
         "iast_ru": "ка̄мала̄рш́онила̄ш̣т̣хӣла̄кш̣аташ́опхакш̣айа̄м̣ш́ча сах̣ дрон̣е 'па̄м̣ са̄дхайедра̄сна̄даш́амӯлаш́ата̄варӣх̣ палонмита̄ двикуд̣авам̣ кулаттхам̣ бадарам̣ йавам",
-        "text": "желтуху, геморрой, аштхилу от Ваты, истощение от травмы, отёк и чахотку. Следует сварить в дроне воды расну, дашамулу и шатавари, по одному палу каждой, два кудавы конского боба, кола и ячменя;"
+        "text": "желтуху, геморрой, аштхилу от Ваты, истощение от травмы, отёк и чахотку. Следует сварить в дроне воды расну, дашамулу и шатавари, по одному палу каждой, два кудавы конского боба, кола и ячменя;",
+        "text_en": "jaundice, haemorrhoids, ashthila from Vata, emaciation from injury, oedema and consumption. In a drona of water one should boil rasna, dashamula and shatavari, one pala of each, two kudavas each of horse gram, kola and barley;"
       },
       {
         "type": "verse",
@@ -34473,7 +34600,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तुलार्धं चाजमांसस्य तेन साध्यं घृताढकम् समक्षीरं पलांशैश्च जीवनीयैः समीक्ष्य तत्",
         "iast": "tulārdhaṃ cājamāṃsasya tena sādhyaṃ ghṛtāḍhakam samakṣīraṃ palāṃśaiśca jīvanīyaiḥ samīkṣya tat",
         "iast_ru": "тула̄рдхам̣ ча̄джама̄м̣сасйа тена са̄дхйам̣ гхр̣та̄д̣хакам самакш̣ӣрам̣ пала̄м̣ш́аиш́ча джӣванӣйаих̣ самӣкш̣йа тат",
-        "text": "половину тулы козьего мяса; на этом отваре следует сварить адхаку топлёного масла, вместе с равным количеством молока, с растениями группы дживания, по одному палу каждой, соответственно оценивая;"
+        "text": "половину тулы козьего мяса; на этом отваре следует сварить адхаку топлёного масла, вместе с равным количеством молока, с растениями группы дживания, по одному палу каждой, соответственно оценивая;",
+        "text_en": "half a tula of goat meat; in this decoction an adhaka of ghee should be cooked, together with an equal quantity of milk, with the plants of the jivana group, one pala of each, assessing accordingly;"
       },
       {
         "type": "verse",
@@ -34481,7 +34609,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रयुक्तं वातरोगेषु पाननावनबस्तिभिः पञ्चकासान् शिरःकम्पं योनिवङ्क्षणवेदनाम् सर्वाङ्गैकाङ्गरोगांश्च सप्लीहोर्ध्वानिलान् जयेत्",
         "iast": "prayuktaṃ vātarogeṣu pānanāvanabastibhiḥ pañcakāsān śiraḥkampaṃ yonivaṅkṣaṇavedanām sarvāṅgaikāṅgarogāṃśca saplīhordhvānilān jayet",
         "iast_ru": "прайуктам̣ ва̄тарогеш̣у па̄нана̄ванабастибхих̣ пан̃чака̄са̄н ш́ирах̣кампам̣ йониван̇кш̣ан̣аведана̄м сарва̄н̇гаика̄н̇гарога̄м̣ш́ча саплӣхордхва̄нила̄н джайет",
-        "text": "применённое при ватных болезнях в виде питья, назальных средств и клизм, оно побеждает все пять видов кашля, дрожь головы, боль во влагалище и паху, болезни всего тела или отдельных его частей, а также болезнь селезёнки и Вату, движущуюся вверх."
+        "text": "применённое при ватных болезнях в виде питья, назальных средств и клизм, оно побеждает все пять видов кашля, дрожь головы, боль во влагалище и паху, болезни всего тела или отдельных его частей, а также болезнь селезёнки и Вату, движущуюся вверх.",
+        "text_en": "applied in Vata diseases as a drink, nasal remedy and enema, it conquers all five kinds of cough, tremor of the head, pain in the vagina and groin, diseases of the whole body or of its parts, as well as disease of the spleen and upward-moving Vata."
       },
       {
         "type": "verse",
@@ -34489,7 +34618,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विदार्यादिगणक्वाथकल्कसिद्धं च कासजित् अशोकबीजक्षवकजन्तुघ्नाञ्जनपद्मकैः",
         "iast": "vidāryādigaṇakvāthakalkasiddhaṃ ca kāsajit aśokabījakṣavakajantughnāñjanapadmakaiḥ",
         "iast_ru": "вида̄рйа̄диган̣аква̄тхакалкасиддхам̣ ча ка̄саджит аш́окабӣджакш̣авакаджантугхна̄н̃джанападмакаих̣",
-        "text": "Топлёное масло, приготовленное на отваре и пасте группы видарьяди, также устраняет кашель; приготовленное с семенами ашоки, кшаваком, джантугхной, коллирием и падмакой,"
+        "text": "Топлёное масло, приготовленное на отваре и пасте группы видарьяди, также устраняет кашель; приготовленное с семенами ашоки, кшаваком, джантугхной, коллирием и падмакой,",
+        "text_en": "Ghee prepared with a decoction and paste of the Vidaryadi group also relieves cough; that prepared with ashoka seeds, kshavaka, jantughna, collyrium and padmaka,"
       },
       {
         "type": "verse",
@@ -34497,7 +34627,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सबिडैश्च घृतं सिद्धं तच्चूर्णं वा घृताप्लुतम् लिह्यात् पयश्चानुपिबेदाजं कासाभिपीडितः",
         "iast": "sabiḍaiśca ghṛtaṃ siddhaṃ taccūrṇaṃ vā ghṛtāplutam lihyāt payaścānupibedājaṃ kāsābhipīḍitaḥ",
         "iast_ru": "сабид̣аиш́ча гхр̣там̣ сиддхам̣ таччӯрн̣ам̣ ва̄ гхр̣та̄плутам лихйа̄т пайаш́ча̄нупибеда̄джам̣ ка̄са̄бхипӣд̣итах̣",
-        "text": "вместе с бидой; страдающий кашлем пусть примет это масло слизыванием, или же порошок этих трав, пропитанный топлёным маслом, и запьёт козьим молоком."
+        "text": "вместе с бидой; страдающий кашлем пусть примет это масло слизыванием, или же порошок этих трав, пропитанный топлёным маслом, и запьёт козьим молоком.",
+        "text_en": "together with bida; one suffering from cough should take this ghee by licking, or else a powder of these herbs soaked in ghee, and wash it down with goat's milk."
       },
       {
         "type": "verse",
@@ -34505,7 +34636,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विडङ्गं नागरं रास्नां पिप्पली हिङ्गु सैन्धवम् भाङ्गर्क्षीरश्च तच्चूर्णं पिबेद्वा घृतमात्रया सकफे ऽनिलजे कासे श्वासहिध्माहताग्निषु",
         "iast": "viḍaṅgaṃ nāgaraṃ rāsnāṃ pippalī hiṅgu saindhavam bhāṅgarkṣīraśca taccūrṇaṃ pibedvā ghṛtamātrayā sakaphe 'nilaje kāse śvāsahidhmāhatāgniṣu",
         "iast_ru": "вид̣ан̇гам̣ на̄гарам̣ ра̄сна̄м̣ пиппалӣ хин̇гу саиндхавам бха̄н̇гаркш̣ӣраш́ча таччӯрн̣ам̣ пибедва̄ гхр̣тама̄трайа̄ сакапхе 'ниладже ка̄се ш́ва̄сахидхма̄хата̄гниш̣у",
-        "text": "Видангу, сухой имбирь, расну, пиппали, хингу, каменную соль, вместе с молоком бхаргхи — этот порошок следует принимать с топлёным маслом при кашле от Ваты, сопровождаемом Капхой, при одышке, икоте и упадке пищеварительного огня."
+        "text": "Видангу, сухой имбирь, расну, пиппали, хингу, каменную соль, вместе с молоком бхаргхи — этот порошок следует принимать с топлёным маслом при кашле от Ваты, сопровождаемом Капхой, при одышке, икоте и упадке пищеварительного огня.",
+        "text_en": "Vidanga, dry ginger, rasna, pippali, asafoetida and rock salt, together with the milk of bharngi: this powder should be taken with ghee in cough from Vata accompanied by Kapha, in dyspnoea, hiccup and weakness of the digestive fire."
       },
       {
         "type": "verse",
@@ -34513,7 +34645,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दुरालभां शृङ्गवेरं शठीं रास्नां सितोपलाम् लिह्यात् कर्कटशृङ्गीं च कासे तैलेन वातजे",
         "iast": "durālabhāṃ śṛṅgaveraṃ śaṭhīṃ rāsnāṃ sitopalām lihyāt karkaṭaśṛṅgīṃ ca kāse tailena vātaje",
         "iast_ru": "дура̄лабха̄м̣ ш́р̣н̇гаверам̣ ш́ат̣хӣм̣ ра̄сна̄м̣ ситопала̄м лихйа̄т каркат̣аш́р̣н̇гӣм̣ ча ка̄се таилена ва̄тадже",
-        "text": "Дуралабху, свежий имбирь, шатхи, расну, кусковой сахар и каркатасрингу следует принять, слизывая с растительным маслом, при кашле от Ваты."
+        "text": "Дуралабху, свежий имбирь, шатхи, расну, кусковой сахар и каркатасрингу следует принять, слизывая с растительным маслом, при кашле от Ваты.",
+        "text_en": "Duralabha, fresh ginger, shathi, rasna, rock sugar and karkatasringi should be taken by licking with vegetable oil, in cough from Vata."
       },
       {
         "type": "verse",
@@ -34521,7 +34654,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दुस्पर्शां पिप्पलीं मुस्तं भार्ङ्गीं कर्कटकीं शठीम् पुराणगुडतैलाभ्यां चूर्णितान्यवलेहयेत्",
         "iast": "dusparśāṃ pippalīṃ mustaṃ bhārṅgīṃ karkaṭakīṃ śaṭhīm purāṇaguḍatailābhyāṃ cūrṇitānyavalehayet",
         "iast_ru": "дуспарш́а̄м̣ пиппалӣм̣ мустам̣ бха̄рн̇гӣм̣ каркат̣акӣм̣ ш́ат̣хӣм пура̄н̣агуд̣атаила̄бхйа̄м̣ чӯрн̣ита̄нйавалехайет",
-        "text": "Дуспаршу, пиппали, мусту, бхаргхи, каркатаки и шатхи, растёртые в порошок вместе со старой патокой и маслом, следует принять слизыванием;"
+        "text": "Дуспаршу, пиппали, мусту, бхаргхи, каркатаки и шатхи, растёртые в порошок вместе со старой патокой и маслом, следует принять слизыванием;",
+        "text_en": "Duspansha, pippali, musta, bharngi, karkataka and shathi, ground to a powder together with old jaggery and oil, should be taken by licking;"
       },
       {
         "type": "verse",
@@ -34529,7 +34663,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्वत् सकृष्णां शुण्ठीं च सभार्ङ्गीं तद्वदेव च पिबेत् कृष्णां च कोष्णेन सलिलेन ससैन्धवाम्",
         "iast": "tadvat sakṛṣṇāṃ śuṇṭhīṃ ca sabhārṅgīṃ tadvadeva ca pibet kṛṣṇāṃ ca koṣṇena salilena sasaindhavām",
         "iast_ru": "тадват сакр̣ш̣н̣а̄м̣ ш́ун̣т̣хӣм̣ ча сабха̄рн̇гӣм̣ тадвадева ча пибет кр̣ш̣н̣а̄м̣ ча кош̣н̣ена салилена сасаиндхава̄м",
-        "text": "подобным же образом — с пиппали и сухим имбирём; также с бхаргхи; подобным же образом следует пить пиппали, вместе с каменной солью, с тёплой водой;"
+        "text": "подобным же образом — с пиппали и сухим имбирём; также с бхаргхи; подобным же образом следует пить пиппали, вместе с каменной солью, с тёплой водой;",
+        "text_en": "likewise with pippali and dry ginger; also with bharngi; likewise pippali should be drunk with rock salt in warm water;"
       },
       {
         "type": "verse",
@@ -34537,7 +34672,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मुस्तुना ससितां शुण्ठीं दध्ना वा कणरेणुकाः पिबेत् बदरमज्ञो वा मदिरादधिमस्तुभिः अथवा पिप्पलीकल्कं घृतभृष्टं ससैन्धवम्",
         "iast": "mustunā sasitāṃ śuṇṭhīṃ dadhnā vā kaṇareṇukāḥ pibet badaramajño vā madirādadhimastubhiḥ athavā pippalīkalkaṃ ghṛtabhṛṣṭaṃ sasaindhavam",
         "iast_ru": "мустуна̄ сасита̄м̣ ш́ун̣т̣хӣм̣ дадхна̄ ва̄ кан̣арен̣ука̄х̣ пибет бадарамаджн̃о ва̄ мадира̄дадхимастубхих̣ атхава̄ пиппалӣкалкам̣ гхр̣табхр̣ш̣т̣ам̣ сасаиндхавам",
-        "text": "с мустой и сахаром — сухой имбирь; или с простоквашей — пиппали и ренуку; или ягоды бадары с медовым напитком, простоквашей или мастху (сывороткой); или же пасту пиппали, обжаренную в топлёном масле, вместе с каменной солью, следует принимать."
+        "text": "с мустой и сахаром — сухой имбирь; или с простоквашей — пиппали и ренуку; или ягоды бадары с медовым напитком, простоквашей или мастху (сывороткой); или же пасту пиппали, обжаренную в топлёном масле, вместе с каменной солью, следует принимать.",
+        "text_en": "dry ginger with musta and sugar; or pippali and renuka with curd; or jujube berries with a honey drink, curd or mastu (whey); or else a paste of pippali, fried in ghee, together with rock salt, should be taken."
       },
       {
         "type": "verse",
@@ -34545,7 +34681,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासी सपीनसो धूमं स्नैहिकं विधिना पिबेत् हिध्माश्वासोक्तधूमांश्च क्षीरमांसरसाशनः",
         "iast": "kāsī sapīnaso dhūmaṃ snaihikaṃ vidhinā pibet hidhmāśvāsoktadhūmāṃśca kṣīramāṃsarasāśanaḥ",
         "iast_ru": "ка̄сӣ сапӣнасо дхӯмам̣ снаихикам̣ видхина̄ пибет хидхма̄ш́ва̄соктадхӯма̄м̣ш́ча кш̣ӣрама̄м̣сараса̄ш́анах̣",
-        "text": "Страдающий кашлем с насморком пусть, по правилам, вдыхает дым масляных окуриваний; также окуривания, упомянутые при икоте и одышке, показаны, питаясь молоком и мясным бульоном."
+        "text": "Страдающий кашлем с насморком пусть, по правилам, вдыхает дым масляных окуриваний; также окуривания, упомянутые при икоте и одышке, показаны, питаясь молоком и мясным бульоном.",
+        "text_en": "One suffering from cough with catarrh should, according to the rules, inhale the smoke of unctuous fumigations; the fumigations mentioned under hiccup and dyspnoea are also indicated, while subsisting on milk and meat broth."
       },
       {
         "type": "verse",
@@ -34553,7 +34690,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ग्राम्यानूपौदकैः शालियवगोधूमषष्टिकान् रसैर्माषात्मगुप्तानां यूषैर्वा भोजयेद्धितान्",
         "iast": "grāmyānūpaudakaiḥ śāliyavagodhūmaṣaṣṭikān rasairmāṣātmaguptānāṃ yūṣairvā bhojayeddhitān",
         "iast_ru": "гра̄мйа̄нӯпаудакаих̣ ш́а̄лийавагодхӯмаш̣аш̣т̣ика̄н расаирма̄ш̣а̄тмагупта̄на̄м̣ йӯш̣аирва̄ бходжайеддхита̄н",
-        "text": "Следует кормить полезной пищей: рисом шали, ячменём, пшеницей, рисом шаштика, вместе с мясом домашних, болотных и водных животных, а также супами из чёрного маша и атмагупты;"
+        "text": "Следует кормить полезной пищей: рисом шали, ячменём, пшеницей, рисом шаштика, вместе с мясом домашних, болотных и водных животных, а также супами из чёрного маша и атмагупты;",
+        "text_en": "One should feed with wholesome food: shali rice, barley, wheat, shashtika rice, together with the meat of domestic, marsh and aquatic animals, as well as soups of black gram and atmagupta;"
       },
       {
         "type": "verse",
@@ -34561,7 +34699,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवानीपिप्पलीबिल्वमध्यनागरचित्रकैः रास्नाजाजीपृथक्पर्णीपलाशशाठिपौष्करैः",
         "iast": "yavānīpippalībilvamadhyanāgaracitrakaiḥ rāsnājājīpṛthakparṇīpalāśaśāṭhipauṣkaraiḥ",
         "iast_ru": "йава̄нӣпиппалӣбилвамадхйана̄гарачитракаих̣ ра̄сна̄джа̄джӣпр̣тхакпарн̣ӣпала̄ш́аш́а̄т̣хипауш̣караих̣",
-        "text": "с аджваном, пиппали, мякотью билвы, сухим имбирём, читраком; расной, зирой, пртхакпарни, палашей, шатхи и корнем паушкары,"
+        "text": "с аджваном, пиппали, мякотью билвы, сухим имбирём, читраком; расной, зирой, пртхакпарни, палашей, шатхи и корнем паушкары,",
+        "text_en": "with ajwain, pippali, bilva pulp, dry ginger, chitraka; rasna, cumin, prithakparni, palasha, shathi and pushkara root,"
       },
       {
         "type": "verse",
@@ -34569,7 +34708,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिद्धां स्निग्धाम्ललवणां पेयामनिलजे पिबेत् कटीहृत्पार्श्वकोष्ठार्तिश्वासहिध्माप्रणाशिनीम्",
         "iast": "siddhāṃ snigdhāmlalavaṇāṃ peyāmanilaje pibet kaṭīhṛtpārśvakoṣṭhārtiśvāsahidhmāpraṇāśinīm",
         "iast_ru": "сиддха̄м̣ снигдха̄млалаван̣а̄м̣ пейа̄маниладже пибет кат̣ӣхр̣тпа̄рш́вакош̣т̣ха̄ртиш́ва̄сахидхма̄пран̣а̄ш́инӣм",
-        "text": "приготовленную маслянистой, кислой и солёной пею следует пить при кашле от Ваты — она устраняет боль в пояснице, сердце, боках, коштхе, а также одышку и икоту;"
+        "text": "приготовленную маслянистой, кислой и солёной пею следует пить при кашле от Ваты — она устраняет боль в пояснице, сердце, боках, коштхе, а также одышку и икоту;",
+        "text_en": "a peya prepared unctuous, sour and salty should be drunk in cough from Vata; it relieves pain in the waist, heart, sides and koshtha, as well as dyspnoea and hiccup;"
       },
       {
         "type": "verse",
@@ -34577,7 +34717,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलरसे तद्वत् पञ्चकोलगुडान्विताम् पिबेत् समतिलां पेयां क्षैरेयीं वा ससैन्धवाम् मात्स्यकौक्कुटवाराहैर्मांसैर्वा साज्यसैन्धवाम्",
         "iast": "daśamūlarase tadvat pañcakolaguḍānvitām pibet samatilāṃ peyāṃ kṣaireyīṃ vā sasaindhavām mātsyakaukkuṭavārāhairmāṃsairvā sājyasaindhavām",
         "iast_ru": "даш́амӯларасе тадват пан̃чаколагуд̣а̄нвита̄м пибет саматила̄м̣ пейа̄м̣ кш̣аирейӣм̣ ва̄ сасаиндхава̄м ма̄тсйакауккут̣ава̄ра̄хаирма̄м̣саирва̄ са̄джйасаиндхава̄м",
-        "text": "подобным же образом — на соке дашамулы, вместе с панчакола и патокой; следует пить пею с кунжутом, или молочную пею с каменной солью, или с мясом рыбы, курицы или кабана, вместе с топлёным маслом и каменной солью."
+        "text": "подобным же образом — на соке дашамулы, вместе с панчакола и патокой; следует пить пею с кунжутом, или молочную пею с каменной солью, или с мясом рыбы, курицы или кабана, вместе с топлёным маслом и каменной солью.",
+        "text_en": "likewise one prepared with the juice of dashamula, together with panchakola and jaggery; one should drink a peya with sesame, or a milk peya with rock salt, or with the flesh of fish, chicken or boar, together with ghee and rock salt."
       },
       {
         "type": "verse",
@@ -34585,7 +34726,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वास्तुको वायसीशाकं कासघ्नः सुनिषण्णकः कण्टकार्याः फलं पत्रं बालं शुष्कं च मूलकम्",
         "iast": "vāstuko vāyasīśākaṃ kāsaghnaḥ suniṣaṇṇakaḥ kaṇṭakāryāḥ phalaṃ patraṃ bālaṃ śuṣkaṃ ca mūlakam",
         "iast_ru": "ва̄стуко ва̄йасӣш́а̄кам̣ ка̄сагхнах̣ суниш̣ан̣н̣аках̣ кан̣т̣ака̄рйа̄х̣ пхалам̣ патрам̣ ба̄лам̣ ш́уш̣кам̣ ча мӯлакам",
-        "text": "Вастука, вайаси-шака, кашегхна, сунишаннака; плод и лист кантакари; молодая и сушёная редька,"
+        "text": "Вастука, вайаси-шака, кашегхна, сунишаннака; плод и лист кантакари; молодая и сушёная редька,",
+        "text_en": "Vastuka, vayasi-shaka, kasha-ghna, sunishannaka; the fruit and leaf of kantakari; radish, young and dried,"
       },
       {
         "type": "verse",
@@ -34593,7 +34735,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहास्तैलादयो भक्ष्याः क्षीरेक्षुरसगौडिकाः दधिमस्त्वारनालाम्लफलाम्बुमदिराः पिबेत्",
         "iast": "snehāstailādayo bhakṣyāḥ kṣīrekṣurasagauḍikāḥ dadhimastvāranālāmlaphalāmbumadirāḥ pibet",
         "iast_ru": "снеха̄стаила̄дайо бхакш̣йа̄х̣ кш̣ӣрекш̣урасагауд̣ика̄х̣ дадхимаства̄рана̄ла̄млапхала̄мбумадира̄х̣ пибет",
-        "text": "масляные средства, начиная с растительного масла, — следует есть; молоко, сок сахарного тростника, напитки на основе патоки; простоквашу, мастху, кислый рисовый отвар, воду на кислых плодах, хмельные напитки — следует пить."
+        "text": "масляные средства, начиная с растительного масла, — следует есть; молоко, сок сахарного тростника, напитки на основе патоки; простоквашу, мастху, кислый рисовый отвар, воду на кислых плодах, хмельные напитки — следует пить.",
+        "text_en": "unctuous substances, beginning with vegetable oil, should be eaten; milk, sugarcane juice, drinks made with jaggery; curd, mastu, sour rice gruel, water with sour fruits, and intoxicating drinks should be drunk."
       },
       {
         "type": "verse",
@@ -34601,7 +34744,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तकासे तु सकफे वमनं सर्पिषा हितम् तथा मदनकाश्मर्यमधुकक्वथितैर्जलैः फलयष्ट्याह्वकल्कैर्वा विदारीक्षुरसाप्लुतैः",
         "iast": "pittakāse tu sakaphe vamanaṃ sarpiṣā hitam tathā madanakāśmaryamadhukakvathitairjalaiḥ phalayaṣṭyāhvakalkairvā vidārīkṣurasāplutaiḥ",
         "iast_ru": "питтака̄се ту сакапхе ваманам̣ сарпиш̣а̄ хитам татха̄ маданака̄ш́марйамадхукакватхитаирджалаих̣ пхалайаш̣т̣йа̄хвакалкаирва̄ вида̄рӣкш̣ураса̄плутаих̣",
-        "text": "При кашле от Питты, сопровождаемом Капхой, полезно рвотное с топлёным маслом; также рвотное на воде, сваренной с маданой, кашмарьей и солодкой; или с пастой маданафалы и солодки, пропитанной соком видари и сахарного тростника."
+        "text": "При кашле от Питты, сопровождаемом Капхой, полезно рвотное с топлёным маслом; также рвотное на воде, сваренной с маданой, кашмарьей и солодкой; или с пастой маданафалы и солодки, пропитанной соком видари и сахарного тростника.",
+        "text_en": "In cough from Pitta accompanied by Kapha, emesis with ghee is beneficial; also emesis with water boiled with madana, kashmarya and licorice; or with a paste of madanaphala and licorice, soaked in the juice of vidari and sugarcane."
       },
       {
         "type": "verse",
@@ -34609,7 +34753,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तकासे तनुकफे त्रिवृतां मधुरैर्युताम् युञ्ज्याद्विरेकाय युतां घनश्लेष्मणि तिक्तकैः",
         "iast": "pittakāse tanukaphe trivṛtāṃ madhurairyutām yuñjyādvirekāya yutāṃ ghanaśleṣmaṇi tiktakaiḥ",
         "iast_ru": "питтака̄се танукапхе тривр̣та̄м̣ мадхураирйута̄м йун̃джйа̄двирека̄йа йута̄м̣ гханаш́леш̣ман̣и тиктакаих̣",
-        "text": "При кашле от Питты с жидкой Капхой следует применять слабительное — тривриту вместе со сладкими веществами; при густой Капхе — вместе с горькими веществами."
+        "text": "При кашле от Питты с жидкой Капхой следует применять слабительное — тривриту вместе со сладкими веществами; при густой Капхе — вместе с горькими веществами.",
+        "text_en": "In cough from Pitta with thin Kapha a purgative should be applied: trivrit together with sweet substances; with thick Kapha, together with bitter substances."
       },
       {
         "type": "verse",
@@ -34617,7 +34762,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हृतदोषो हिमं स्निग्धं स्वादु संसर्जनं भजेत् घने कफे तु शिशिरं रूक्षं तिक्तोपसंहितम्",
         "iast": "hṛtadoṣo himaṃ snigdhaṃ svādu saṃsarjanaṃ bhajet ghane kaphe tu śiśiraṃ rūkṣaṃ tiktopasaṃhitam",
         "iast_ru": "хр̣тадош̣о химам̣ снигдхам̣ сва̄ду сам̣сарджанам̣ бхаджет гхане капхе ту ш́иш́ирам̣ рӯкш̣ам̣ тиктопасам̣хитам",
-        "text": "После устранения доши следует принимать холодную, маслянистую, сладкую восстанавливающую диету; при густой же Капхе — холодную, сухую, вместе с горькими добавками."
+        "text": "После устранения доши следует принимать холодную, маслянистую, сладкую восстанавливающую диету; при густой же Капхе — холодную, сухую, вместе с горькими добавками.",
+        "text_en": "After the elimination of the dosha one should follow a cold, unctuous, sweet, restorative diet; with thick Kapha, however, a cold, dry diet with bitter additions."
       },
       {
         "type": "verse",
@@ -34625,7 +34771,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीमुस्तयष्ट्याह्वद्राक्षामूर्वामहौषधम् लाकामृताफलद्राक्षात्वक्क्षीरीपिप्पलीसिताः",
         "iast": "pippalīmustayaṣṭyāhvadrākṣāmūrvāmahauṣadham lākāmṛtāphaladrākṣātvakkṣīrīpippalīsitāḥ",
         "iast_ru": "пиппалӣмустайаш̣т̣йа̄хвадра̄кш̣а̄мӯрва̄махауш̣адхам ла̄ка̄мр̣та̄пхаладра̄кш̣а̄тваккш̣ӣрӣпиппалӣсита̄х̣",
-        "text": "Пиппали, муста, солодка, изюм, урва, сухой имбирь; лакша, гудучи, плод, изюм, кора, кшири, пиппали и сахар;"
+        "text": "Пиппали, муста, солодка, изюм, урва, сухой имбирь; лакша, гудучи, плод, изюм, кора, кшири, пиппали и сахар;",
+        "text_en": "Pippali, musta, licorice, raisins, urva, dry ginger; lakshа, guduchi, fruit, raisins, bark, kshiri, pippali and sugar;"
       },
       {
         "type": "verse",
@@ -34633,7 +34780,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दुस्पर्शाकर्कटीशुण्ठीशठीद्राक्षासिताबलाः निदिग्धिकामूलफलं वटबीजं रसाञ्जनम्",
         "iast": "dusparśākarkaṭīśuṇṭhīśaṭhīdrākṣāsitābalāḥ nidigdhikāmūlaphalaṃ vaṭabījaṃ rasāñjanam",
         "iast_ru": "дуспарш́а̄каркат̣ӣш́ун̣т̣хӣш́ат̣хӣдра̄кш̣а̄сита̄бала̄х̣ нидигдхика̄мӯлапхалам̣ ват̣абӣджам̣ раса̄н̃джанам",
-        "text": "дуспарша, каркати, сухой имбирь, шатхи, изюм, сахар, бала; корень и плод нидигдхики, семя баньяна, расанджана;"
+        "text": "дуспарша, каркати, сухой имбирь, шатхи, изюм, сахар, бала; корень и плод нидигдхики, семя баньяна, расанджана;",
+        "text_en": "duspansha, karkati, dry ginger, shathi, raisins, sugar, bala; the root and fruit of nidigdhika, banyan seed, rasanjana;"
       },
       {
         "type": "verse",
@@ -34641,7 +34789,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "खर्जूरं पिप्पली वांशी श्वदंष्ट्रा चेति पञ्च ते घृतक्षौद्रयुता लेहाः श्लोकार्धैः पित्तकासिनाम् पयो ऽनुपानां शृङ्गीं वा लिह्यात्साज्यसितामधु",
         "iast": "kharjūraṃ pippalī vāṃśī śvadaṃṣṭrā ceti pañca te ghṛtakṣaudrayutā lehāḥ ślokārdhaiḥ pittakāsinām payo 'nupānāṃ śṛṅgīṃ vā lihyātsājyasitāmadhu",
         "iast_ru": "кхарджӯрам̣ пиппалӣ ва̄м̣ш́ӣ ш́вадам̣ш̣т̣ра̄ чети пан̃ча те гхр̣такш̣аудрайута̄ леха̄х̣ ш́лока̄рдхаих̣ питтака̄сина̄м пайо 'нупа̄на̄м̣ ш́р̣н̇гӣм̣ ва̄ лихйа̄тса̄джйасита̄мадху",
-        "text": "финики, пиппали, вамши, шведамштра — таковы пять лехий (сиропов), описанных полустихами, вместе с топлёным маслом и мёдом, для страдающих кашлем от Питты, запиваемых молоком; или же следует принять слизыванием каркатасрингу, вместе с топлёным маслом, сахаром и мёдом."
+        "text": "финики, пиппали, вамши, шведамштра — таковы пять лехий (сиропов), описанных полустихами, вместе с топлёным маслом и мёдом, для страдающих кашлем от Питты, запиваемых молоком; или же следует принять слизыванием каркатасрингу, вместе с топлёным маслом, сахаром и мёдом.",
+        "text_en": "dates, pippali, vamsha, shvedamshtra: such are the five lehyas (confections) described in half-verses, together with ghee and honey, for those suffering from Pitta cough, to be washed down with milk; or else karkatasringi should be taken by licking, together with ghee, sugar and honey."
       },
       {
         "type": "verse",
@@ -34649,7 +34798,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लेहः पैत्ते सिताधात्रीक्षौद्रद्राक्षाहिमोत्पलैः सकफे साब्दमरिचः सघृतः सानिले हितः",
         "iast": "lehaḥ paitte sitādhātrīkṣaudradrākṣāhimotpalaiḥ sakaphe sābdamaricaḥ saghṛtaḥ sānile hitaḥ",
         "iast_ru": "лехах̣ паитте сита̄дха̄трӣкш̣аудрадра̄кш̣а̄химотпалаих̣ сакапхе са̄бдамаричах̣ сагхр̣тах̣ са̄ниле хитах̣",
-        "text": "Лехья при кашле от Питты — с сахаром, амалаки, мёдом, изюмом, холодной водой и лотосом; при сопровождении Капхой — вместе с мустой и перцем; при сопровождении Ватой — вместе с топлёным маслом, полезна."
+        "text": "Лехья при кашле от Питты — с сахаром, амалаки, мёдом, изюмом, холодной водой и лотосом; при сопровождении Капхой — вместе с мустой и перцем; при сопровождении Ватой — вместе с топлёным маслом, полезна.",
+        "text_en": "A lehya in Pitta cough: with sugar, amalaki, honey, raisins, cold water and lotus; when accompanied by Kapha, together with musta and pepper; when accompanied by Vata, together with ghee, it is beneficial."
       },
       {
         "type": "verse",
@@ -34657,7 +34807,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मृद्वीकार्धशतं त्रिंशत् पिप्पलीः शर्करापलम् लेहयेन्मधुना गोर्वा क्षीरपस्य शकृद्रसम्",
         "iast": "mṛdvīkārdhaśataṃ triṃśat pippalīḥ śarkarāpalam lehayenmadhunā gorvā kṣīrapasya śakṛdrasam",
         "iast_ru": "мр̣двӣка̄рдхаш́атам̣ трим̣ш́ат пиппалӣх̣ ш́аркара̄палам лехайенмадхуна̄ горва̄ кш̣ӣрапасйа ш́акр̣драсам",
-        "text": "Пятьдесят единиц изюма, тридцать штук пиппали, пала сахара — следует принять слизыванием с мёдом; или сок помёта коровы, питающейся только молоком;"
+        "text": "Пятьдесят единиц изюма, тридцать штук пиппали, пала сахара — следует принять слизыванием с мёдом; или сок помёта коровы, питающейся только молоком;",
+        "text_en": "Fifty units of raisins, thirty pippali, a pala of sugar should be taken by licking with honey; or the juice of the dung of a cow fed only on milk;"
       },
       {
         "type": "verse",
@@ -34665,7 +34816,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्वगेलाव्योषमृद्वीकापिप्पलीमूलपौष्करैः लाजमुस्तशठीरास्नाधात्रीफलबिभीतकैः शर्कराक्षौद्रसर्पिर्भिर्लेहो हृद्रोगकासहा",
         "iast": "tvagelāvyoṣamṛdvīkāpippalīmūlapauṣkaraiḥ lājamustaśaṭhīrāsnādhātrīphalabibhītakaiḥ śarkarākṣaudrasarpirbhirleho hṛdrogakāsahā",
         "iast_ru": "твагела̄вйош̣амр̣двӣка̄пиппалӣмӯлапауш̣караих̣ ла̄джамусташ́ат̣хӣра̄сна̄дха̄трӣпхалабибхӣтакаих̣ ш́аркара̄кш̣аудрасарпирбхирлехо хр̣дрогака̄саха̄",
-        "text": "лехья с корой, кардамоном, вьошей, изюмом, корнем пиппали, корнем паушкары; поджаренным рисом, мустой, шатхи, расной, амалаки, плодом и бибхитаки; вместе с сахаром, мёдом и топлёным маслом, — эта лехья устраняет болезнь сердца и кашель;"
+        "text": "лехья с корой, кардамоном, вьошей, изюмом, корнем пиппали, корнем паушкары; поджаренным рисом, мустой, шатхи, расной, амалаки, плодом и бибхитаки; вместе с сахаром, мёдом и топлёным маслом, — эта лехья устраняет болезнь сердца и кашель;",
+        "text_en": "a lehya with bark, cardamom, vyosha, raisins, pippali root, pushkara root; parched rice, musta, shathi, rasna, amalaki, the fruit and bibhitaki; together with sugar, honey and ghee: this lehya relieves heart disease and cough;"
       },
       {
         "type": "verse",
@@ -34673,7 +34825,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पल्यामलकद्राक्षालाजलाक्षासितोपलाः सञ्चूर्ण्य पक्त्वा पयसा लिह्यात् क्षौद्राष्टभागिकाः",
         "iast": "pippalyāmalakadrākṣālājalākṣāsitopalāḥ sañcūrṇya paktvā payasā lihyāt kṣaudrāṣṭabhāgikāḥ",
         "iast_ru": "пиппалйа̄малакадра̄кш̣а̄ла̄джала̄кш̣а̄ситопала̄х̣ сан̃чӯрн̣йа пактва̄ пайаса̄ лихйа̄т кш̣аудра̄ш̣т̣абха̄гика̄х̣",
-        "text": "пиппали, амалаки, изюм, поджаренный рис, лакша, кусковой сахар, растёртые в порошок, сваренные с молоком, с восьмой частью мёда, — следует принять слизыванием;"
+        "text": "пиппали, амалаки, изюм, поджаренный рис, лакша, кусковой сахар, растёртые в порошок, сваренные с молоком, с восьмой частью мёда, — следует принять слизыванием;",
+        "text_en": "pippali, amalaki, raisins, parched rice, laksha and rock sugar, ground to a powder, cooked with milk, with one eighth part of honey, should be taken by licking;"
       },
       {
         "type": "verse",
@@ -34681,7 +34834,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विदारीक्षुमृणालानां रसान् क्षीरं सितोपलाम् पिबेत् क्षौद्रेण संयोज्य पित्तकासमपोहति",
         "iast": "vidārīkṣumṛṇālānāṃ rasān kṣīraṃ sitopalām pibet kṣaudreṇa saṃyojya pittakāsamapohati",
         "iast_ru": "вида̄рӣкш̣умр̣н̣а̄ла̄на̄м̣ раса̄н кш̣ӣрам̣ ситопала̄м пибет кш̣аудрен̣а сам̣йоджйа питтака̄самапохати",
-        "text": "сок видари, сахарного тростника и лотосового корневища, вместе с молоком и кусковым сахаром, соединённые с мёдом, следует выпить — это устраняет кашель от Питты."
+        "text": "сок видари, сахарного тростника и лотосового корневища, вместе с молоком и кусковым сахаром, соединённые с мёдом, следует выпить — это устраняет кашель от Питты.",
+        "text_en": "the juice of vidari, sugarcane and lotus rhizome, together with milk and rock sugar, combined with honey, should be drunk; this relieves Pitta cough."
       },
       {
         "type": "verse",
@@ -34689,7 +34843,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुरैर्जाङ्गलरसैर्यवश्यामाककोद्रवाः मुद्गादियूषैः शाकैश्च तिक्तकैर्मात्रया हिताः",
         "iast": "madhurairjāṅgalarasairyavaśyāmākakodravāḥ mudgādiyūṣaiḥ śākaiśca tiktakairmātrayā hitāḥ",
         "iast_ru": "мадхураирджа̄н̇галарасаирйаваш́йа̄ма̄какодрава̄х̣ мудга̄дийӯш̣аих̣ ш́а̄каиш́ча тиктакаирма̄трайа̄ хита̄х̣",
-        "text": "Сладкие мясные бульоны диких животных; ячмень, шьямака, кодрава; супы из зелёного маша и подобного, а также горькие овощи, в надлежащей дозе, — полезны;"
+        "text": "Сладкие мясные бульоны диких животных; ячмень, шьямака, кодрава; супы из зелёного маша и подобного, а также горькие овощи, в надлежащей дозе, — полезны;",
+        "text_en": "Sweet meat broths of wild animals; barley, shyamaka, kodrava; soups of green gram and the like, as well as bitter vegetables, in proper dose, are beneficial;"
       },
       {
         "type": "verse",
@@ -34697,7 +34852,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घनश्लेष्मणि लेहाश्च तिक्तका मधुसंयुताः शालयः स्युस्तनुकफे षष्टिकाश्च रसादिभिः शर्कराम्भो ऽनुपानार्थं द्राक्षेक्षुस्वरसः पयः",
         "iast": "ghanaśleṣmaṇi lehāśca tiktakā madhusaṃyutāḥ śālayaḥ syustanukaphe ṣaṣṭikāśca rasādibhiḥ śarkarāmbho 'nupānārthaṃ drākṣekṣusvarasaḥ payaḥ",
         "iast_ru": "гханаш́леш̣ман̣и леха̄ш́ча тиктака̄ мадхусам̣йута̄х̣ ш́а̄лайах̣ сйустанукапхе ш̣аш̣т̣ика̄ш́ча раса̄дибхих̣ ш́аркара̄мбхо 'нупа̄на̄ртхам̣ дра̄кш̣екш̣усварасах̣ пайах̣",
-        "text": "при густой Капхе — горькие лехьи вместе с мёдом; при жидкой Капхе — рис шали и шаштика, вместе с соком и подобным; для питья — вода с сахаром, сок изюма и сахарного тростника, молоко."
+        "text": "при густой Капхе — горькие лехьи вместе с мёдом; при жидкой Капхе — рис шали и шаштика, вместе с соком и подобным; для питья — вода с сахаром, сок изюма и сахарного тростника, молоко.",
+        "text_en": "in thick Kapha, bitter lehyas together with honey; in thin Kapha, shali and shashtika rice, together with juice and the like; for drinking, water with sugar, juice of raisins and sugarcane, and milk."
       },
       {
         "type": "verse",
@@ -34705,7 +34861,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "काकोलीबृहतीमेदाद्वयैः सवृषनागरैः पित्तकासे रसक्षीरपेयायूषान् प्रकल्पयेत्",
         "iast": "kākolībṛhatīmedādvayaiḥ savṛṣanāgaraiḥ pittakāse rasakṣīrapeyāyūṣān prakalpayet",
         "iast_ru": "ка̄колӣбр̣хатӣмеда̄двайаих̣ савр̣ш̣ана̄гараих̣ питтака̄се расакш̣ӣрапейа̄йӯш̣а̄н пракалпайет",
-        "text": "С каколи, брихати, двумя видами меды, вместе с вришей и сухим имбирём, следует приготовить соки, молоко, пеи и супы при кашле от Питты."
+        "text": "С каколи, брихати, двумя видами меды, вместе с вришей и сухим имбирём, следует приготовить соки, молоко, пеи и супы при кашле от Питты.",
+        "text_en": "With kakoli, the two brihatis, the two medas, together with vrisha and dry ginger, juices, milk, peyas and soups should be prepared in Pitta cough."
       },
       {
         "type": "verse",
@@ -34713,7 +34870,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्राक्षां कणां पञ्चमूलं तृणाख्यं च पचेज्जले तेन क्षीरं शृतं शीतं पिबेत् समधुशर्करम्",
         "iast": "drākṣāṃ kaṇāṃ pañcamūlaṃ tṛṇākhyaṃ ca pacejjale tena kṣīraṃ śṛtaṃ śītaṃ pibet samadhuśarkaram",
         "iast_ru": "дра̄кш̣а̄м̣ кан̣а̄м̣ пан̃чамӯлам̣ тр̣н̣а̄кхйам̣ ча пачеджджале тена кш̣ӣрам̣ ш́р̣там̣ ш́ӣтам̣ пибет самадхуш́аркарам",
-        "text": "Следует сварить в воде изюм, пиппали, панчамулу и тринакхью; на этом отваре следует сварить молоко, охладить и выпить, вместе с мёдом и сахаром;"
+        "text": "Следует сварить в воде изюм, пиппали, панчамулу и тринакхью; на этом отваре следует сварить молоко, охладить и выпить, вместе с мёдом и сахаром;",
+        "text_en": "Raisins, pippali, panchamula and trinakhya should be boiled in water; in this decoction milk should be boiled, cooled and drunk, together with honey and sugar;"
       },
       {
         "type": "verse",
@@ -34721,7 +34879,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "साधितां तेन पेयां वा सुशीतां मधुनान्विताम् शठीद्द्रीबेरबृहतीशर्कराविश्वभेषजम् पिष्ट्वा रसं पिबेत् पूतं वस्त्रेण घृतमूर्छितम्",
         "iast": "sādhitāṃ tena peyāṃ vā suśītāṃ madhunānvitām śaṭhīddrīberabṛhatīśarkarāviśvabheṣajam piṣṭvā rasaṃ pibet pūtaṃ vastreṇa ghṛtamūrchitam",
         "iast_ru": "са̄дхита̄м̣ тена пейа̄м̣ ва̄ суш́ӣта̄м̣ мадхуна̄нвита̄м ш́ат̣хӣддрӣберабр̣хатӣш́аркара̄виш́вабхеш̣аджам пиш̣т̣ва̄ расам̣ пибет пӯтам̣ вастрен̣а гхр̣тамӯрчхитам",
-        "text": "или пею, приготовленную на нём, охлаждённую, вместе с мёдом; или, растерев шатхи, драйберу, брихати, сахар и сухой имбирь, следует выпить сок, процеженный через ткань, смешанный с топлёным маслом."
+        "text": "или пею, приготовленную на нём, охлаждённую, вместе с мёдом; или, растерев шатхи, драйберу, брихати, сахар и сухой имбирь, следует выпить сок, процеженный через ткань, смешанный с топлёным маслом.",
+        "text_en": "or a peya prepared with it, cooled, together with honey; or, having ground shathi, draiberu, brihati, sugar and dry ginger, one should drink the juice strained through cloth, mixed with ghee."
       },
       {
         "type": "verse",
@@ -34729,7 +34888,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "महिष्यजावीगोक्षीरधात्रीफलरसैः समैः सर्पिः सिद्धं पिबेत् तद्वन्मधुरेण गणेन वा",
         "iast": "mahiṣyajāvīgokṣīradhātrīphalarasaiḥ samaiḥ sarpiḥ siddhaṃ pibet tadvanmadhureṇa gaṇena vā",
         "iast_ru": "махиш̣йаджа̄вӣгокш̣ӣрадха̄трӣпхаларасаих̣ самаих̣ сарпих̣ сиддхам̣ пибет тадванмадхурен̣а ган̣ена ва̄",
-        "text": "Топлёное масло, сваренное в равных частях с молоком буйволицы, козы, овцы и коровы, а также соком плода амалаки, следует пить; подобным же образом — сваренное с группой сладких трав;"
+        "text": "Топлёное масло, сваренное в равных частях с молоком буйволицы, козы, овцы и коровы, а также соком плода амалаки, следует пить; подобным же образом — сваренное с группой сладких трав;",
+        "text_en": "Ghee cooked in equal parts with the milk of buffalo, goat, sheep and cow, as well as the juice of the amalaki fruit, should be drunk; likewise that cooked with the group of sweet herbs;"
       },
       {
         "type": "verse",
@@ -34737,7 +34897,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्वाथीकृतेनेक्षुरसे क्षीरयुक्तेन साधितम् सशर्करं पिबेत् प्रातर्लिह्याद्वा माक्षिकान्वितम्",
         "iast": "kvāthīkṛtenekṣurase kṣīrayuktena sādhitam saśarkaraṃ pibet prātarlihyādvā mākṣikānvitam",
         "iast_ru": "ква̄тхӣкр̣тенекш̣урасе кш̣ӣрайуктена са̄дхитам саш́аркарам̣ пибет пра̄тарлихйа̄два̄ ма̄кш̣ика̄нвитам",
-        "text": "топлёное масло, сваренное на упаренном соке сахарного тростника, вместе с молоком, следует пить утром вместе с сахаром, или принять слизыванием, вместе с мёдом."
+        "text": "топлёное масло, сваренное на упаренном соке сахарного тростника, вместе с молоком, следует пить утром вместе с сахаром, или принять слизыванием, вместе с мёдом.",
+        "text_en": "ghee cooked in reduced sugarcane juice, together with milk, should be drunk in the morning with sugar, or taken by licking together with honey."
       },
       {
         "type": "verse",
@@ -34745,7 +34906,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरिवृक्षाड्कुरक्वाथे पक्वं क्षीरसमं घृतम् पाययेत् पित्तकासार्तं मधुना वावलेहयेत्",
         "iast": "kṣīrivṛkṣāḍkurakvāthe pakvaṃ kṣīrasamaṃ ghṛtam pāyayet pittakāsārtaṃ madhunā vāvalehayet",
         "iast_ru": "кш̣ӣривр̣кш̣а̄д̣кураква̄тхе паквам̣ кш̣ӣрасамам̣ гхр̣там па̄йайет питтака̄са̄ртам̣ мадхуна̄ ва̄валехайет",
-        "text": "Топлёное масло, сваренное на отваре ростков млечных деревьев, вместе с равным количеством молока, следует дать выпить страдающему кашлем от Питты, или же дать принять слизыванием, вместе с мёдом."
+        "text": "Топлёное масло, сваренное на отваре ростков млечных деревьев, вместе с равным количеством молока, следует дать выпить страдающему кашлем от Питты, или же дать принять слизыванием, вместе с мёдом.",
+        "text_en": "Ghee cooked in a decoction of sprouts of milky trees, together with an equal quantity of milk, should be given to drink to one suffering from Pitta cough, or else given to be licked, together with honey."
       },
       {
         "type": "verse",
@@ -34753,7 +34915,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मेदां विदारीं काकोलीं स्वयंगुप्ताफलं बलाम् शर्करां जीवकं मुद्गमाषपर्ण्यौ दुरालभाम्",
         "iast": "medāṃ vidārīṃ kākolīṃ svayaṃguptāphalaṃ balām śarkarāṃ jīvakaṃ mudgamāṣaparṇyau durālabhām",
         "iast_ru": "меда̄м̣ вида̄рӣм̣ ка̄колӣм̣ свайам̣гупта̄пхалам̣ бала̄м ш́аркара̄м̣ джӣвакам̣ мудгама̄ш̣апарн̣йау дура̄лабха̄м",
-        "text": "Меду, видари, каколи, плод сваямгупты, балу, сахар, дживаку, мудгапарни, машапарни и дуралабху,"
+        "text": "Меду, видари, каколи, плод сваямгупты, балу, сахар, дживаку, мудгапарни, машапарни и дуралабху,",
+        "text_en": "Meda, vidari, kakoli, the fruit of svayamgupta, balu, sugar, jivaka, mudgaparni, mashaparni and duralabha,"
       },
       {
         "type": "verse",
@@ -34761,7 +34924,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कल्कीकृत्य पचेत् सर्पिः क्षीरेणाष्टगुणेन तत् पानभोजनलेहेषु प्रयुक्तं पित्तकासजित्",
         "iast": "kalkīkṛtya pacet sarpiḥ kṣīreṇāṣṭaguṇena tat pānabhojanaleheṣu prayuktaṃ pittakāsajit",
         "iast_ru": "калкӣкр̣тйа пачет сарпих̣ кш̣ӣрен̣а̄ш̣т̣агун̣ена тат па̄набходжаналехеш̣у прайуктам̣ питтака̄саджит",
-        "text": "растёртые в пасту, следует сварить с топлёным маслом в восьми частях молока; применённое в питье, пище и в виде лехьи, оно устраняет кашель от Питты."
+        "text": "растёртые в пасту, следует сварить с топлёным маслом в восьми частях молока; применённое в питье, пище и в виде лехьи, оно устраняет кашель от Питты.",
+        "text_en": "ground into a paste, should be cooked with ghee in eight parts of milk; applied as a drink, as food and as a lehya, it relieves Pitta cough."
       },
       {
         "type": "verse",
@@ -34769,7 +34933,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिह्याद्वा चूर्णमेतेषां कषायमथवा पिबेत् कफकासी पिबेदादौ सुरकाष्ठात् प्रदीपितात्",
         "iast": "lihyādvā cūrṇameteṣāṃ kaṣāyamathavā pibet kaphakāsī pibedādau surakāṣṭhāt pradīpitāt",
         "iast_ru": "лихйа̄два̄ чӯрн̣аметеш̣а̄м̣ каш̣а̄йаматхава̄ пибет капхака̄сӣ пибеда̄дау сурака̄ш̣т̣ха̄т прадӣпита̄т",
-        "text": "Или же следует принять слизыванием порошок этих трав, или же выпить их отвар. Страдающий кашлем от Капхи пусть прежде всего выпьет средство, разожжённое на дереве сура,"
+        "text": "Или же следует принять слизыванием порошок этих трав, или же выпить их отвар. Страдающий кашлем от Капхи пусть прежде всего выпьет средство, разожжённое на дереве сура,",
+        "text_en": "Or else a powder of these herbs should be taken by licking, or their decoction drunk. One suffering from Kapha cough should first of all drink a remedy kindled on sura wood,"
       },
       {
         "type": "verse",
@@ -34777,7 +34942,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहं परिस्रुतं व्योषयवक्षारावचूर्णितम् स्निग्धं विरेचयेदूर्ध्वमधो मूर्ध्नि च युक्तितः",
         "iast": "snehaṃ parisrutaṃ vyoṣayavakṣārāvacūrṇitam snigdhaṃ virecayedūrdhvamadho mūrdhni ca yuktitaḥ",
         "iast_ru": "снехам̣ парисрутам̣ вйош̣айавакш̣а̄ра̄вачӯрн̣итам снигдхам̣ виречайедӯрдхвамадхо мӯрдхни ча йуктитах̣",
-        "text": "растопленное масляное средство, растёртое с вьошей, ячменной щёлочью и вачей, маслянистое; следует провести очищение вверх, вниз и в голове, надлежащим образом."
+        "text": "растопленное масляное средство, растёртое с вьошей, ячменной щёлочью и вачей, маслянистое; следует провести очищение вверх, вниз и в голове, надлежащим образом.",
+        "text_en": "a melted unctuous remedy, ground with vyosha, barley alkali and vacha, unctuous; purification upward, downward and in the head should be carried out in the proper manner."
       },
       {
         "type": "verse",
@@ -34785,7 +34951,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तीक्ष्णैर्विरेकैर्बलिनं संसर्गीं चास्य योजयेत् यवमुद्गकुलत्थान्नैरुष्णरूक्षैः कटूत्कटैः",
         "iast": "tīkṣṇairvirekairbalinaṃ saṃsargīṃ cāsya yojayet yavamudgakulatthānnairuṣṇarūkṣaiḥ kaṭūtkaṭaiḥ",
         "iast_ru": "тӣкш̣н̣аирвирекаирбалинам̣ сам̣саргӣм̣ ча̄сйа йоджайет йавамудгакулаттха̄ннаируш̣н̣арӯкш̣аих̣ кат̣ӯткат̣аих̣",
-        "text": "Сильному больному следует применить сильные слабительные, а затем — совместимую диету: ячмень, зелёный маш, конский боб, горячую, сухую, острую и жгучую пищу;"
+        "text": "Сильному больному следует применить сильные слабительные, а затем — совместимую диету: ячмень, зелёный маш, конский боб, горячую, сухую, острую и жгучую пищу;",
+        "text_en": "In a strong patient strong purgatives should be applied, and then a compatible diet: barley, green gram, horse gram, hot, dry, pungent and burning food;"
       },
       {
         "type": "verse",
@@ -34793,7 +34960,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासमर्दकवार्ताकव्याघ्नीक्षारकणान्वितैः धान्वबैलरसैःस्नेहौस्तिलसर्षपनिम्बजैः",
         "iast": "kāsamardakavārtākavyāghnīkṣārakaṇānvitaiḥ dhānvabailarasaiḥsnehaustilasarṣapanimbajaiḥ",
         "iast_ru": "ка̄самардакава̄рта̄кавйа̄гхнӣкш̣а̄ракан̣а̄нвитаих̣ дха̄нвабаиларасаих̣снехаустиласарш̣апанимбаджаих̣",
-        "text": "вместе с касамардакой, баклажаном, вьягхри, щёлочью и пиппали; мясные бульоны диких животных, а также масляные средства из кунжута, горчицы и нима;"
+        "text": "вместе с касамардакой, баклажаном, вьягхри, щёлочью и пиппали; мясные бульоны диких животных, а также масляные средства из кунжута, горчицы и нима;",
+        "text_en": "together with kasamarda, aubergine, vyaghri, alkali and pippali; meat broths of wild animals, and also unctuous substances of sesame, mustard and neem;"
       },
       {
         "type": "verse",
@@ -34801,7 +34969,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलाम्बु घर्माम्बु मद्य मध्वम्बु वा पिबेत् मूलैः पौष्करशम्याकपटोलैरन्वितं निशाम्",
         "iast": "daśamūlāmbu gharmāmbu madya madhvambu vā pibet mūlaiḥ pauṣkaraśamyākapaṭolairanvitaṃ niśām",
         "iast_ru": "даш́амӯла̄мбу гхарма̄мбу мадйа мадхвамбу ва̄ пибет мӯлаих̣ пауш̣караш́амйа̄капат̣олаиранвитам̣ ниш́а̄м",
-        "text": "следует пить воду, настоянную на дашамуле, горячую воду, хмельной напиток или медовую воду, вместе с корнями паушкары, шамьяки, патолы и куркумой;"
+        "text": "следует пить воду, настоянную на дашамуле, горячую воду, хмельной напиток или медовую воду, вместе с корнями паушкары, шамьяки, патолы и куркумой;",
+        "text_en": "one should drink water infused with dashamula, hot water, an intoxicating drink or honey water, together with the roots of pushkara, shamyaka, patola and turmeric;"
       },
       {
         "type": "verse",
@@ -34809,7 +34978,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिबेद्वारि सहक्षौद्रं कालेष्वन्नस्य वा त्रिषु पिप्पलीपिप्पलीमूलं शृङ्गवेरं बिभीतकम्",
         "iast": "pibedvāri sahakṣaudraṃ kāleṣvannasya vā triṣu pippalīpippalīmūlaṃ śṛṅgaveraṃ bibhītakam",
         "iast_ru": "пибедва̄ри сахакш̣аудрам̣ ка̄леш̣ваннасйа ва̄ триш̣у пиппалӣпиппалӣмӯлам̣ ш́р̣н̇гаверам̣ бибхӣтакам",
-        "text": "следует пить воду с мёдом в один из трёх подходящих моментов приёма пищи; пиппали, корень пиппали, свежий имбирь, бибхитаки,"
+        "text": "следует пить воду с мёдом в один из трёх подходящих моментов приёма пищи; пиппали, корень пиппали, свежий имбирь, бибхитаки,",
+        "text_en": "one should drink water with honey at one of the three suitable times of taking food; pippali, pippali root, fresh ginger, bibhitaki,"
       },
       {
         "type": "verse",
@@ -34817,7 +34987,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "देवदार्वभया मुस्तं पिप्पलीविश्वभेषजम् गुडूची पिप्पलीभाङ्र्गीशृङ्गीकर्कटकस्य च",
         "iast": "devadārvabhayā mustaṃ pippalīviśvabheṣajam guḍūcī pippalībhāṅrgīśṛṅgīkarkaṭakasya ca",
         "iast_ru": "девада̄рвабхайа̄ мустам̣ пиппалӣвиш́вабхеш̣аджам гуд̣ӯчӣ пиппалӣбха̄н̇ргӣш́р̣н̇гӣкаркат̣акасйа ча",
-        "text": "девадару, харитаки, мусту, пиппали и сухой имбирь; гудучи, пиппали, бхаргхи, каркатасрингу и каркатаку;"
+        "text": "девадару, харитаки, мусту, пиппали и сухой имбирь; гудучи, пиппали, бхаргхи, каркатасрингу и каркатаку;",
+        "text_en": "devadaru, haritaki, musta, pippali and dry ginger; guduchi, pippali, bharngi, karkatasringi and karkataka;"
       },
       {
         "type": "verse",
@@ -34825,7 +34996,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्योषदारुचिडङ्गानि त्रिफलाशर्कराबलाः निदिग्धिकाया मूलत्वङ्मरिचैः सह योजिता",
         "iast": "vyoṣadāruciḍaṅgāni triphalāśarkarābalāḥ nidigdhikāyā mūlatvaṅmaricaiḥ saha yojitā",
         "iast_ru": "вйош̣ада̄ручид̣ан̇га̄ни трипхала̄ш́аркара̄бала̄х̣ нидигдхика̄йа̄ мӯлатван̇маричаих̣ саха йоджита̄",
-        "text": "вьошу, дару, чиданги; трифалу, сахар, балу; корень и кору нидигдхики, вместе с перцем,"
+        "text": "вьошу, дару, чиданги; трифалу, сахар, балу; корень и кору нидигдхики, вместе с перцем,",
+        "text_en": "vyosha, daru, chidangi; triphala, sugar, balu; the root and bark of nidigdhika, together with pepper,"
       },
       {
         "type": "verse",
@@ -34833,7 +35005,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिखिकुक्कुटपिञ्छानां मषी क्षारो यवोद्भवः विशाला पिप्पलीमूलं त्रिवृता च मधुद्रवाः",
         "iast": "śikhikukkuṭapiñchānāṃ maṣī kṣāro yavodbhavaḥ viśālā pippalīmūlaṃ trivṛtā ca madhudravāḥ",
         "iast_ru": "ш́икхикуккут̣апин̃чха̄на̄м̣ маш̣ӣ кш̣а̄ро йаводбхавах̣ виш́а̄ла̄ пиппалӣмӯлам̣ тривр̣та̄ ча мадхудрава̄х̣",
-        "text": "сажу от перьев павлина и петуха, ячменную щёлочь, вишалу, корень пиппали, тривриту, растворённые в мёде, —"
+        "text": "сажу от перьев павлина и петуха, ячменную щёлочь, вишалу, корень пиппали, тривриту, растворённые в мёде, —",
+        "text_en": "the soot from the feathers of peacock and cock, barley alkali, vishala, pippali root and trivrit, dissolved in honey:"
       },
       {
         "type": "verse",
@@ -34841,7 +35014,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कफकासहरा लेहाः सप्त श्लोकार्धयोजिताः मधुना मरिचं लिह्यान्मधुनैव च जोङ्गकम्",
         "iast": "kaphakāsaharā lehāḥ sapta ślokārdhayojitāḥ madhunā maricaṃ lihyānmadhunaiva ca joṅgakam",
         "iast_ru": "капхака̄сахара̄ леха̄х̣ сапта ш́лока̄рдхайоджита̄х̣ мадхуна̄ маричам̣ лихйа̄нмадхунаива ча джон̇гакам",
-        "text": "из этих составов готовят семь лехий, устраняющих кашель от Капхи, описанных полустихами; следует принять слизыванием перец с мёдом, а также джонгаку с мёдом;"
+        "text": "из этих составов готовят семь лехий, устраняющих кашель от Капхи, описанных полустихами; следует принять слизыванием перец с мёдом, а также джонгаку с мёдом;",
+        "text_en": "from these compounds seven lehyas are prepared that relieve Kapha cough, described in half-verses; pepper with honey should be taken by licking, as well as jongaka with honey;"
       },
       {
         "type": "verse",
@@ -34849,7 +35023,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पृथग्रसांश्च मधुना व्याघ्रीवार्ताकभृङ्गजान् कासघ्नस्याश्वशकृतः सुरसस्यासितस्य च",
         "iast": "pṛthagrasāṃśca madhunā vyāghrīvārtākabhṛṅgajān kāsaghnasyāśvaśakṛtaḥ surasasyāsitasya ca",
         "iast_ru": "пр̣тхаграса̄м̣ш́ча мадхуна̄ вйа̄гхрӣва̄рта̄кабхр̣н̇гаджа̄н ка̄сагхнасйа̄ш́ваш́акр̣тах̣ сурасасйа̄ситасйа ча",
-        "text": "соки вьягхри, баклажана и бхрингараджи по отдельности, вместе с мёдом; помёт коня, сурасу и нечто чёрное, устраняющее кашель;"
+        "text": "соки вьягхри, баклажана и бхрингараджи по отдельности, вместе с мёдом; помёт коня, сурасу и нечто чёрное, устраняющее кашель;",
+        "text_en": "the juices of vyaghri, aubergine and bhringaraja separately, together with honey; horse dung, surasa and something black that relieves cough;"
       },
       {
         "type": "verse",
@@ -34857,7 +35032,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "देवदारुशठीरास्नाकर्कटाख्यादुरालभाः पिप्पली नागरं मुस्तं पथ्याधात्रीसितोपलाः",
         "iast": "devadāruśaṭhīrāsnākarkaṭākhyādurālabhāḥ pippalī nāgaraṃ mustaṃ pathyādhātrīsitopalāḥ",
         "iast_ru": "девада̄руш́ат̣хӣра̄сна̄каркат̣а̄кхйа̄дура̄лабха̄х̣ пиппалӣ на̄гарам̣ мустам̣ патхйа̄дха̄трӣситопала̄х̣",
-        "text": "девадару, шатхи, расну, каркатакхью, дуралабху; пиппали, сухой имбирь, мусту, харитаки, амалаки, кусковой сахар —"
+        "text": "девадару, шатхи, расну, каркатакхью, дуралабху; пиппали, сухой имбирь, мусту, харитаки, амалаки, кусковой сахар —",
+        "text_en": "devadaru, shathi, rasna, karkatakhya, duralabha; pippali, dry ginger, musta, haritaki, amalaki and rock sugar:"
       },
       {
         "type": "verse",
@@ -34865,7 +35041,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुतैलयुतावेतौ लेहौ वातानुगे कफे विडङ्गं सैन्धवं हिङ्गु कुष्ठं व्योषं मनःशिलाम्",
         "iast": "madhutailayutāvetau lehau vātānuge kaphe viḍaṅgaṃ saindhavaṃ hiṅgu kuṣṭhaṃ vyoṣaṃ manaḥśilām",
         "iast_ru": "мадхутаилайута̄ветау лехау ва̄та̄нуге капхе вид̣ан̇гам̣ саиндхавам̣ хин̇гу куш̣т̣хам̣ вйош̣ам̣ манах̣ш́ила̄м",
-        "text": "эти две лехьи, вместе с мёдом и маслом, — при кашле от Капхи, сопровождаемой Ватой; видангу, каменную соль, хингу, куштху, вьошу, манахшилу"
+        "text": "эти две лехьи, вместе с мёдом и маслом, — при кашле от Капхи, сопровождаемой Ватой; видангу, каменную соль, хингу, куштху, вьошу, манахшилу",
+        "text_en": "these two lehyas, together with honey and oil, are for Kapha cough accompanied by Vata; vidanga, rock salt, asafoetida, kushtha, vyosha and manahshila"
       },
       {
         "type": "verse",
@@ -34873,7 +35050,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासे श्वासे च हिध्मायां लिह्यात् क्षौद्रघृताप्लुतम् गुडक्षारोषणकणादाडिमं श्वासकासजित् क्रमात्पलद्वयार्धाक्षकर्षार्धाक्षपलोन्मितम्",
         "iast": "kāse śvāse ca hidhmāyāṃ lihyāt kṣaudraghṛtāplutam guḍakṣāroṣaṇakaṇādāḍimaṃ śvāsakāsajit kramātpaladvayārdhākṣakarṣārdhākṣapalonmitam",
         "iast_ru": "ка̄се ш́ва̄се ча хидхма̄йа̄м̣ лихйа̄т кш̣аудрагхр̣та̄плутам гуд̣акш̣а̄рош̣ан̣акан̣а̄да̄д̣имам̣ ш́ва̄сака̄саджит крама̄тпаладвайа̄рдха̄кш̣акарш̣а̄рдха̄кш̣апалонмитам",
-        "text": "следует принять слизыванием, вместе с мёдом и топлёным маслом, при кашле, одышке и икоте; патока, щёлочь, острые вещества, пиппали, гранат, устраняющие одышку и кашель, взятые последовательно по два пала, половине акши, карше, половине акши и одному палу;"
+        "text": "следует принять слизыванием, вместе с мёдом и топлёным маслом, при кашле, одышке и икоте; патока, щёлочь, острые вещества, пиппали, гранат, устраняющие одышку и кашель, взятые последовательно по два пала, половине акши, карше, половине акши и одному палу;",
+        "text_en": "should be taken by licking, together with honey and ghee, in cough, dyspnoea and hiccup; jaggery, alkali, pungent substances, pippali and pomegranate, which relieve dyspnoea and cough, taken in succession in amounts of two palas, half an aksha, a karsha, half an aksha and one pala;"
       },
       {
         "type": "verse",
@@ -34881,7 +35059,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वे पले दाडिमादष्टौ गुडाद्व्योषात् पलत्रयम् रोचनं दीपनं स्वर्यं पीनसश्वासकासजित्",
         "iast": "dve pale dāḍimādaṣṭAu guḍādvyoṣāt palatrayam rocanaṃ dīpanaṃ svaryaṃ pīnasaśvāsakāsajit",
         "iast_ru": "две пале да̄д̣има̄даш̣т̣ау гуд̣а̄двйош̣а̄т палатрайам рочанам̣ дӣпанам̣ сварйам̣ пӣнасаш́ва̄сака̄саджит",
-        "text": "два пала граната, восемь пал патоки, три пала вьоши — это средство возбуждает аппетит, разжигает огонь, улучшает голос, устраняет насморк, одышку и кашель."
+        "text": "два пала граната, восемь пал патоки, три пала вьоши — это средство возбуждает аппетит, разжигает огонь, улучшает голос, устраняет насморк, одышку и кашель.",
+        "text_en": "two palas of pomegranate, eight palas of jaggery and three palas of vyosha: this remedy stimulates the appetite, kindles the fire, improves the voice, and relieves catarrh, dyspnoea and cough."
       },
       {
         "type": "verse",
@@ -34889,7 +35068,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पाठाशुण्ठीशठीमूर्वागवाक्षीपिप्पलीघनम् पिष्ट्वा घर्माम्बुना हिङ्गुसैन्धवाभ्यां युतं पिबेत् तद्वन्मुस्ताशठीशुण्ठीनागरातिविषभयाः",
         "iast": "pāṭhāśuṇṭhīśaṭhīmūrvāgavākṣīpippalīghanam piṣṭvā gharmāmbunā hiṅgusaindhavābhyāṃ yutaṃ pibet tadvanmustāśaṭhīśuṇṭhīnāgarātiviṣabhayāḥ",
         "iast_ru": "па̄т̣ха̄ш́ун̣т̣хӣш́ат̣хӣмӯрва̄гава̄кш̣ӣпиппалӣгханам пиш̣т̣ва̄ гхарма̄мбуна̄ хин̇гусаиндхава̄бхйа̄м̣ йутам̣ пибет тадванмуста̄ш́ат̣хӣш́ун̣т̣хӣна̄гара̄тивиш̣абхайа̄х̣",
-        "text": "Растерев патху, сухой имбирь, шатхи, урву, гавакши, пиппали и мусту, следует выпить настой на горячей воде, вместе с хингу и каменной солью; подобным же образом — мусту, шатхи, сухой имбирь и атившу, вместе с харитаки,"
+        "text": "Растерев патху, сухой имбирь, шатхи, урву, гавакши, пиппали и мусту, следует выпить настой на горячей воде, вместе с хингу и каменной солью; подобным же образом — мусту, шатхи, сухой имбирь и атившу, вместе с харитаки,",
+        "text_en": "Having ground patha, dry ginger, shathi, urva, gavakshi, pippali and musta, one should drink the infusion in hot water, together with asafoetida and rock salt; likewise musta, shathi, dry ginger and ativisha, together with haritaki,"
       },
       {
         "type": "verse",
@@ -34897,7 +35077,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिबेज्ज्वरोक्तं पथ्यादि सशृङ्गीकं च पाचनम् अथवा दीप्यकत्रिवृद्विशालाघनपौष्करम्",
         "iast": "pibejjvaroktaṃ pathyādi saśṛṅgīkaṃ ca pācanam athavā dīpyakatrivṛdviśālāghanapauṣkaram",
         "iast_ru": "пибеджджвароктам̣ патхйа̄ди саш́р̣н̇гӣкам̣ ча па̄чанам атхава̄ дӣпйакатривр̣двиш́а̄ла̄гханапауш̣карам",
-        "text": "следует выпить упомянутое при лихорадке средство патхьяди, вместе с каркатасрингой, способствующее перевариванию; или диптаку, тривриту, вишалу, мусту и корень паушкары,"
+        "text": "следует выпить упомянутое при лихорадке средство патхьяди, вместе с каркатасрингой, способствующее перевариванию; или диптаку, тривриту, вишалу, мусту и корень паушкары,",
+        "text_en": "one should drink the Pathyadi remedy mentioned in fever, together with karkatasringi, which promotes digestion; or dipyaka, trivrit, vishala, musta and pushkara root,"
       },
       {
         "type": "verse",
@@ -34905,7 +35086,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सकणं क्वथितं मूत्रे कफकासी जले ऽपि वा तैलभृष्टं च वैदेहीकल्काक्षं ससितोपलम्",
         "iast": "sakaṇaṃ kvathitaṃ mūtre kaphakāsī jale 'pi vā tailabhṛṣṭaṃ ca vaidehīkalkākṣaṃ sasitopalam",
         "iast_ru": "сакан̣ам̣ кватхитам̣ мӯтре капхака̄сӣ джале 'пи ва̄ таилабхр̣ш̣т̣ам̣ ча ваидехӣкалка̄кш̣ам̣ саситопалам",
-        "text": "вместе с пиппали, сваренные в моче или воде, следует пить страдающему кашлем от Капхи; или пасту вайдехи, обжаренную в масле, одну акшу, вместе с кусковым сахаром,"
+        "text": "вместе с пиппали, сваренные в моче или воде, следует пить страдающему кашлем от Капхи; или пасту вайдехи, обжаренную в масле, одну акшу, вместе с кусковым сахаром,",
+        "text_en": "together with pippali, boiled in urine or water, should be drunk by one suffering from Kapha cough; or a paste of vaidehi, fried in oil, one aksha, together with rock sugar,"
       },
       {
         "type": "verse",
@@ -34913,7 +35095,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पाययेत् कफकासघ्नं कुलत्थसलिलाप्लुतम् सौवर्चलाभयाधात्रीपिप्पलीक्षारनागरम्",
         "iast": "pāyayet kaphakāsaghnaṃ kulatthasalilāplutam sauvarcalābhayādhātrīpippalīkṣāranāgaram",
         "iast_ru": "па̄йайет капхака̄сагхнам̣ кулаттхасалила̄плутам сауварчала̄бхайа̄дха̄трӣпиппалӣкш̣а̄рана̄гарам",
-        "text": "следует дать выпить, пропитанную водой конского боба, — устраняет кашель от Капхи; соувархалу, харитаки, амалаки, пиппали, щёлочь и сухой имбирь,"
+        "text": "следует дать выпить, пропитанную водой конского боба, — устраняет кашель от Капхи; соувархалу, харитаки, амалаки, пиппали, щёлочь и сухой имбирь,",
+        "text_en": "should be given to drink, soaked in horse gram water; it relieves Kapha cough; souvarchala, haritaki, amalaki, pippali, alkali and dry ginger,"
       },
       {
         "type": "verse",
@@ -34921,7 +35104,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चूर्णितं सर्पिषा वातकफकासहरं पिबेत् दशमूलाढके प्रस्थं घृतस्याक्षसमैः पचेत्",
         "iast": "cūrṇitaṃ sarpiṣā vātakaphakāsaharaṃ pibet daśamūlāḍhake prasthaṃ ghṛtasyākṣasamaiḥ pacet",
         "iast_ru": "чӯрн̣итам̣ сарпиш̣а̄ ва̄такапхака̄сахарам̣ пибет даш́амӯла̄д̣хаке прастхам̣ гхр̣тасйа̄кш̣асамаих̣ пачет",
-        "text": "растёртые в порошок с топлёным маслом, следует выпить — устраняет кашель от Ваты и Капхи. Следует сварить прастху топлёного масла в адхаке дашамулы, с равными частями следующих трав:"
+        "text": "растёртые в порошок с топлёным маслом, следует выпить — устраняет кашель от Ваты и Капхи. Следует сварить прастху топлёного масла в адхаке дашамулы, с равными частями следующих трав:",
+        "text_en": "ground to a powder with ghee, should be drunk; it relieves cough from Vata and Kapha. A prastha of ghee should be cooked in an adhaka of dashamula, with equal parts of the following herbs:"
       },
       {
         "type": "verse",
@@ -34929,7 +35113,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पुष्कराह्वशठीविल्वसुरसव्योषहिङ्गुभिः पेयानुपानं तत् सर्ववातश्लेष्मामयापहम्",
         "iast": "puṣkarāhvaśaṭhīvilvasurasavyoṣahiṅgubhiḥ peyānupānaṃ tat sarvavātaśleṣmāmayāpaham",
         "iast_ru": "пуш̣кара̄хваш́ат̣хӣвилвасурасавйош̣ахин̇губхих̣ пейа̄нупа̄нам̣ тат сарвава̄таш́леш̣ма̄майа̄пахам",
-        "text": "пушкарахвы, шатхи, билвы, сурасы, вьоши и хингу; это средство, принимаемое как пея, устраняет все болезни от Ваты и Капхи."
+        "text": "пушкарахвы, шатхи, билвы, сурасы, вьоши и хингу; это средство, принимаемое как пея, устраняет все болезни от Ваты и Капхи.",
+        "text_en": "pushkaravhya, shathi, bilva, surasa, vyosha and asafoetida; this remedy, taken as a peya, relieves all diseases from Vata and Kapha."
       },
       {
         "type": "verse",
@@ -34937,7 +35122,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निर्गुण्डीपत्रनिर्याससाधितं कासजिद्घृतम् घृतं रसे विडङ्गानां व्योषगर्भं च साधितम्",
         "iast": "nirguṇḍīpatraniryāsasādhitaṃ kāsajidghṛtam ghṛtaṃ rase viḍaṅgānāṃ vyoṣagarbhaṃ ca sādhitam",
         "iast_ru": "ниргун̣д̣ӣпатранирйа̄саса̄дхитам̣ ка̄саджидгхр̣там гхр̣там̣ расе вид̣ан̇га̄на̄м̣ вйош̣агарбхам̣ ча са̄дхитам",
-        "text": "Топлёное масло, приготовленное с соком листьев ниргунди, устраняет кашель; топлёное масло, приготовленное на соке видангов, с добавлением вьоши;"
+        "text": "Топлёное масло, приготовленное с соком листьев ниргунди, устраняет кашель; топлёное масло, приготовленное на соке видангов, с добавлением вьоши;",
+        "text_en": "Ghee prepared with the juice of nirgundi leaves relieves cough; ghee prepared in the juice of vidangas, with the addition of vyosha;"
       },
       {
         "type": "verse",
@@ -34945,7 +35131,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पुनर्नव्सिताटिकासुरसकासमर्दामृता पटोलबृहतीफणिज्जकरसैः पयःसंयुतैः घृतं त्रिकटुना च सिद्धमुपयुज्य सञ्जायते न कासविषमज्वरक्षयगुदाङ्कुरेभ्यो भयम्",
         "iast": "punarnavsitāṭikāsurasakāsamardāmṛtā paṭolabṛhatīphaṇijjakarasaiḥ payaḥsaṃyutaiḥ ghṛtaṃ trikaṭunā ca siddhamupayujya sañjāyate na kāsaviṣamajvarakṣayagudāṅkurebhyo bhayam",
         "iast_ru": "пунарнавсита̄т̣ика̄сурасака̄самарда̄мр̣та̄ пат̣олабр̣хатӣпхан̣иджджакарасаих̣ пайах̣сам̣йутаих̣ гхр̣там̣ трикат̣уна̄ ча сиддхамупайуджйа сан̃джа̄йате на ка̄савиш̣амаджваракш̣айагуда̄н̇куребхйо бхайам",
-        "text": "с пунарнавой, ситатикой, сурасой, касамардой, гудучи; на соках патолы, брихати и пханиджджаки, вместе с молоком, приготовленное топлёное масло с трикату; применяя его, больной не будет опасаться кашля, неправильной лихорадки, чахотки и геморроя."
+        "text": "с пунарнавой, ситатикой, сурасой, касамардой, гудучи; на соках патолы, брихати и пханиджджаки, вместе с молоком, приготовленное топлёное масло с трикату; применяя его, больной не будет опасаться кашля, неправильной лихорадки, чахотки и геморроя.",
+        "text_en": "with punarnava, sitatika, surasa, kasamarda, guduchi; ghee prepared in the juices of patola, brihati and phanijjhaka, together with milk, with trikatu; applying it, the patient will not fear cough, irregular fever, consumption and haemorrhoids."
       },
       {
         "type": "verse",
@@ -34953,7 +35140,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समूलफलपत्रायाः कण्टकार्या रसाढके घृतप्रस्थं बलाव्योषविडङ्गशठिदाडिमैः",
         "iast": "samūlaphalapatrāyāḥ kaṇṭakāryā rasāḍhake ghṛtaprasthaṃ balāvyoṣaviḍaṅgaśaṭhidāḍimaiḥ",
         "iast_ru": "самӯлапхалапатра̄йа̄х̣ кан̣т̣ака̄рйа̄ раса̄д̣хаке гхр̣тапрастхам̣ бала̄вйош̣авид̣ан̇гаш́ат̣хида̄д̣имаих̣",
-        "text": "На адхаке сока кантакари вместе с корнями, плодами и листьями следует сварить прастху топлёного масла с балой, вьошей, видангами, шатхи и гранатом,"
+        "text": "На адхаке сока кантакари вместе с корнями, плодами и листьями следует сварить прастху топлёного масла с балой, вьошей, видангами, шатхи и гранатом,",
+        "text_en": "In an adhaka of the juice of kantakari together with roots, fruits and leaves, a prastha of ghee should be cooked with bala, vyosha, vidangas, shathi and pomegranate,"
       },
       {
         "type": "verse",
@@ -34961,7 +35149,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सौवर्चलयवक्षारमूलामलकपौष्करैः वृश्चीवबृहतीपथ्यायवानीचित्रकर्धिभिः",
         "iast": "sauvarcalayavakṣāramūlāmalakapauṣkaraiḥ vṛścīvabṛhatīpathyāyavānīcitrakardhibhiḥ",
         "iast_ru": "сауварчалайавакш̣а̄рамӯла̄малакапауш̣караих̣ вр̣ш́чӣвабр̣хатӣпатхйа̄йава̄нӣчитракардхибхих̣",
-        "text": "соувархалой, ячменной щёлочью, мулой, амалаки, паушкарой; вришчивой, брихати, харитаки, аджваном, читраком, риддхи,"
+        "text": "соувархалой, ячменной щёлочью, мулой, амалаки, паушкарой; вришчивой, брихати, харитаки, аджваном, читраком, риддхи,",
+        "text_en": "souvarchala, barley alkali, mula, amalaki, pushkara; vrishchira, brihati, haritaki, ajwain, chitraka, riddhi,"
       },
       {
         "type": "verse",
@@ -34969,7 +35158,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मृद्वीकाचव्यवर्षाभूदुरालम्भाम्लवेतसैः शृङ्गीतामलकीभार्ङ्गीरास्नागोक्षुरकैः पचेत्",
         "iast": "mṛdvīkācavyavarṣābhūdurālambhāmlavetasaiḥ śṛṅgītāmalakībhārṅgīrāsnāgokṣurakaiḥ pacet",
         "iast_ru": "мр̣двӣка̄чавйаварш̣а̄бхӯдура̄ламбха̄млаветасаих̣ ш́р̣н̇гӣта̄малакӣбха̄рн̇гӣра̄сна̄гокш̣уракаих̣ пачет",
-        "text": "изюмом, чавьей, варшабху, дуралабхой, амлаветасой; каркатасрингой, тамалаки, бхаргхи, расной и гокшурой,"
+        "text": "изюмом, чавьей, варшабху, дуралабхой, амлаветасой; каркатасрингой, тамалаки, бхаргхи, расной и гокшурой,",
+        "text_en": "raisins, chavya, varshabhu, duralabha, amlavetasa; karkatasringi, tamalaki, bharngi, rasna and gokshura,"
       },
       {
         "type": "verse",
@@ -34977,7 +35167,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कल्कैस्तत् सर्वकासेषु श्वासहिध्मासु चेष्यते",
         "iast": "kalkaistat sarvakāseṣu śvāsahidhmāsu ceṣyate",
         "iast_ru": "калкаистат сарвака̄сеш̣у ш́ва̄сахидхма̄су чеш̣йате",
-        "text": "растёртыми в пасту; это средство показано при всех видах кашля, а также при одышке и икоте."
+        "text": "растёртыми в пасту; это средство показано при всех видах кашля, а также при одышке и икоте.",
+        "text_en": "ground into a paste; this remedy is indicated in all kinds of cough, as well as in dyspnoea and hiccup."
       },
       {
         "type": "verse",
@@ -34985,7 +35176,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कण्टकार्यास्तुलां क्षुण्णां पक्त्वा द्रोणे ऽम्भसः पचेत् तेनाढकेन क्वाथस्य घृतप्रस्यं पिचून्मितैः",
         "iast": "kaṇṭakāryāstulāṃ kṣuṇṇāṃ paktvā droṇe 'mbhasaḥ pacet tenāḍhakena kvāthasya ghṛtaprasyaṃ picūnmitaiḥ",
         "iast_ru": "кан̣т̣ака̄рйа̄стула̄м̣ кш̣ун̣н̣а̄м̣ пактва̄ дрон̣е 'мбхасах̣ пачет тена̄д̣хакена ква̄тхасйа гхр̣тапрасйам̣ пичӯнмитаих̣",
-        "text": "Следует сварить измельчённую тулу кантакари в дроне воды; на адхаке этого отвара следует сварить прастху топлёного масла, с добавками по одной пиче каждого:"
+        "text": "Следует сварить измельчённую тулу кантакари в дроне воды; на адхаке этого отвара следует сварить прастху топлёного масла, с добавками по одной пиче каждого:",
+        "text_en": "A tula of chopped kantakari should be boiled in a drona of water; in an adhaka of this decoction a prastha of ghee should be cooked, with additions of one pichu of each of the following:"
       },
       {
         "type": "verse",
@@ -34993,7 +35185,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रास्नादुस्पर्शषङ्ग्रन्थापिप्पलीद्वयचित्रकैः सौवर्चलयवक्षारकृष्णामूलैश्च तज्जयेत्",
         "iast": "rāsnādusparśaṣaṅgranthāpippalīdvayacitrakaiḥ sauvarcalayavakṣārakṛṣṇāmūlaiśca tajjayet",
         "iast_ru": "ра̄сна̄дуспарш́аш̣ан̇грантха̄пиппалӣдвайачитракаих̣ сауварчалайавакш̣а̄ракр̣ш̣н̣а̄мӯлаиш́ча таджджайет",
-        "text": "расны, дуспарши, шадгрантхи, двух видов пиппали, читрака, соувархалы, ячменной щёлочи и корня пиппали — этим средством следует побеждать кашель."
+        "text": "расны, дуспарши, шадгрантхи, двух видов пиппали, читрака, соувархалы, ячменной щёлочи и корня пиппали — этим средством следует побеждать кашель.",
+        "text_en": "rasna, duspansha, shadgrantha, the two kinds of pippali, chitraka, souvarchala, barley alkali and pippali root; with this remedy cough should be conquered."
       },
       {
         "type": "verse",
@@ -35001,7 +35194,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासश्वासकफष्ठीवहिध्मारोचकपीनसान् पचेद्व्याघ्नीतुलां क्षुण्णां वहे ऽपामाढकस्थिते",
         "iast": "kāsaśvāsakaphaṣṭhīvahidhmārocakapīnasān pacedvyāghnītulāṃ kṣuṇṇāṃ vahe 'pāmāḍhakasthite",
         "iast_ru": "ка̄саш́ва̄сакапхаш̣т̣хӣвахидхма̄рочакапӣнаса̄н пачедвйа̄гхнӣтула̄м̣ кш̣ун̣н̣а̄м̣ вахе 'па̄ма̄д̣хакастхите",
-        "text": "Оно устраняет кашель, одышку, отхаркивание слизи, икоту, отсутствие аппетита и насморк. Следует сварить измельчённую тулу вьягхри в адхаке воды;"
+        "text": "Оно устраняет кашель, одышку, отхаркивание слизи, икоту, отсутствие аппетита и насморк. Следует сварить измельчённую тулу вьягхри в адхаке воды;",
+        "text_en": "It relieves cough, dyspnoea, expectoration of phlegm, hiccup, loss of appetite and catarrh. A tula of chopped vyaghri should be boiled in an adhaka of water;"
       },
       {
         "type": "verse",
@@ -35009,7 +35203,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षिपेत् पूते तु सञ्चूर्ण्य व्योषरास्नामृताग्निकान् शृङ्गीर्भार्ङ्गीघनग्रन्थिधन्वयासान् पलार्धकान्",
         "iast": "kṣipet pūte tu sañcūrṇya vyoṣarāsnāmṛtāgnikān śṛṅgīrbhārṅgīghanagranthidhanvayāsān palārdhakān",
         "iast_ru": "кш̣ипет пӯте ту сан̃чӯрн̣йа вйош̣ара̄сна̄мр̣та̄гника̄н ш́р̣н̇гӣрбха̄рн̇гӣгханагрантхидханвайа̄са̄н пала̄рдхака̄н",
-        "text": "процедив, следует добавить растёртые в порошок вьошу, расну, гудучи, читрак, каркатасрингу, бхаргхи, мусту, грантхику и дханваясу, по половине пала каждого,"
+        "text": "процедив, следует добавить растёртые в порошок вьошу, расну, гудучи, читрак, каркатасрингу, бхаргхи, мусту, грантхику и дханваясу, по половине пала каждого,",
+        "text_en": "having strained it, one should add ground vyosha, rasna, guduchi, chitraka, karkatasringi, bharngi, musta, granthika and dhanvayasa, half a pala of each,"
       },
       {
         "type": "verse",
@@ -35017,7 +35212,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्पिषः षोडशपलं चत्वारिंशत्पलानि च मत्स्यण्डिकायाः शुद्धायाः पुनश्च तदधिश्रयेत्",
         "iast": "sarpiṣaḥ ṣoḍaśapalaṃ catvāriṃśatpalāni ca matsyaṇḍikāyāḥ śuddhāyāḥ punaśca tadadhiśrayet",
         "iast_ru": "сарпиш̣ах̣ ш̣од̣аш́апалам̣ чатва̄рим̣ш́атпала̄ни ча матсйан̣д̣ика̄йа̄х̣ ш́уддха̄йа̄х̣ пунаш́ча тададхиш́райет",
-        "text": "шестнадцать пал топлёного масла и сорок пал очищенной матсьяндики (кристаллического сахара); затем следует снова поставить это на огонь;"
+        "text": "шестнадцать пал топлёного масла и сорок пал очищенной матсьяндики (кристаллического сахара); затем следует снова поставить это на огонь;",
+        "text_en": "sixteen palas of ghee and forty palas of purified matsyandika (crystalline sugar); then this should be put on the fire again;"
       },
       {
         "type": "verse",
@@ -35025,7 +35221,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दर्वीलेपिनि शीते च पृथक् द्विकुडवं क्षिपेत् पिप्पलीनां तवक्षीर्या माक्षिकस्यानवस्य च",
         "iast": "darvīlepini śīte ca pṛthak dvikuḍavaṃ kṣipet pippalīnāṃ tavakṣīryā mākṣikasyānavasya ca",
         "iast_ru": "дарвӣлепини ш́ӣте ча пр̣тхак двикуд̣авам̣ кш̣ипет пиппалӣна̄м̣ тавакш̣ӣрйа̄ ма̄кш̣икасйа̄навасйа ча",
-        "text": "когда масса загустеет так, что прилипает к ложке, и остынет, следует добавить по два кудавы пиппали и тавакшири, а также свежего мёда по отдельности;"
+        "text": "когда масса загустеет так, что прилипает к ложке, и остынет, следует добавить по два кудавы пиппали и тавакшири, а также свежего мёда по отдельности;",
+        "text_en": "when the mass has thickened so that it sticks to the spoon, and has cooled, one should add two kudavas each of pippali and tavakshiri, as well as fresh honey separately;"
       },
       {
         "type": "verse",
@@ -35033,7 +35230,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लेहो ऽयं गुल्महृद्रोगदुर्नामश्वासकासजित् त्रिफलापिप्पलीपाठासारिवाबृहतीद्वयम् मरिचं पद्मकं मुस्तमुशीरं चाक्षसम्मितम्",
         "iast": "leho 'yaṃ gulmahṛdrogadurnāmaśvāsakāsajit triphalāpippalīpāṭhāsārivābṛhatīdvayam maricaṃ padmakaṃ mustamuśīraṃ cākṣasammitam",
         "iast_ru": "лехо 'йам̣ гулмахр̣дрогадурна̄маш́ва̄сака̄саджит трипхала̄пиппалӣпа̄т̣ха̄са̄рива̄бр̣хатӣдвайам маричам̣ падмакам̣ мустамуш́ӣрам̣ ча̄кш̣асаммитам",
-        "text": "эта лехья устраняет гульму, болезнь сердца, геморрой, одышку и кашель. Трифала, пиппали, патха, сарива, два вида брихати, перец, падмака, муста, ушира — по одной акше каждого;"
+        "text": "эта лехья устраняет гульму, болезнь сердца, геморрой, одышку и кашель. Трифала, пиппали, патха, сарива, два вида брихати, перец, падмака, муста, ушира — по одной акше каждого;",
+        "text_en": "this lehya relieves gulma, heart disease, haemorrhoids, dyspnoea and cough. Triphala, pippali, patha, sariva, the two kinds of brihati, pepper, padmaka, musta, ushira: one aksha of each;"
       },
       {
         "type": "verse",
@@ -35041,7 +35239,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पक्त्वा जलाढके पादशेषे क्षीरपलाष्टकम् दत्वा गुडस्य च पलं पचेदादर्विलेपनात्",
         "iast": "paktvā jalāḍhake pādaśeṣe kṣīrapalāṣṭakam datvā guḍasya ca palaṃ pacedādarvilepanāt",
         "iast_ru": "пактва̄ джала̄д̣хаке па̄даш́еш̣е кш̣ӣрапала̄ш̣т̣акам датва̄ гуд̣асйа ча палам̣ пачеда̄дарвилепана̄т",
-        "text": "сварив в адхаке воды до остатка в четверть, добавив восемь пал молока и один пал патоки, следует варить до тех пор, пока масса не начнёт прилипать к ложке;"
+        "text": "сварив в адхаке воды до остатка в четверть, добавив восемь пал молока и один пал патоки, следует варить до тех пор, пока масса не начнёт прилипать к ложке;",
+        "text_en": "having boiled in an adhaka of water to a quarter remaining, and added eight palas of milk and one pala of jaggery, one should boil until the mass begins to stick to the spoon;"
       },
       {
         "type": "verse",
@@ -35049,7 +35248,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लेहः कफोल्बणं कासं सर्वमेव नियच्छति साधितं क्षीरमेभिर्वा तिलक्षौद्रयुतं पिबेत्",
         "iast": "lehaḥ kapholbaṇaṃ kāsaṃ sarvameva niyacchati sādhitaṃ kṣīramebhirvā tilakṣaudrayutaṃ pibet",
         "iast_ru": "лехах̣ капхолбан̣ам̣ ка̄сам̣ сарвамева нийаччхати са̄дхитам̣ кш̣ӣрамебхирва̄ тилакш̣аудрайутам̣ пибет",
-        "text": "эта лехья полностью устраняет кашель с преобладанием Капхи; или же следует выпить молоко, сваренное с этими же травами, вместе с кунжутом и мёдом."
+        "text": "эта лехья полностью устраняет кашель с преобладанием Капхи; или же следует выпить молоко, сваренное с этими же травами, вместе с кунжутом и мёдом.",
+        "text_en": "this lehya completely relieves cough with predominance of Kapha; or else milk boiled with these same herbs, together with sesame and honey, should be drunk."
       },
       {
         "type": "verse",
@@ -35057,7 +35257,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शमनं च पिबेद्धूमं शोधनं बहले कफे",
         "iast": "śamanaṃ ca pibeddhūmaṃ śodhanaṃ bahale kaphe",
         "iast_ru": "ш́аманам̣ ча пибеддхӯмам̣ ш́одханам̣ бахале капхе",
-        "text": "Следует вдыхать успокаивающий дым; при обильной Капхе — очищающий."
+        "text": "Следует вдыхать успокаивающий дым; при обильной Капхе — очищающий.",
+        "text_en": "Soothing smoke should be inhaled; when Kapha is abundant, cleansing smoke."
       },
       {
         "type": "verse",
@@ -35065,7 +35266,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मनःशिलालमधुकमांसीमुस्ते ऽङ्गुदीत्वचः धूमं कासघ्नविधिना पीत्वा क्षीरं पिबेदनु",
         "iast": "manaḥśilālamadhukamāṃsīmuste 'ṅgudītvacaḥ dhūmaṃ kāsaghnavidhinā pītvā kṣīraṃ pibedanu",
         "iast_ru": "манах̣ш́ила̄ламадхукама̄м̣сӣмусте 'н̇гудӣтвачах̣ дхӯмам̣ ка̄сагхнавидхина̄ пӣтва̄ кш̣ӣрам̣ пибедану",
-        "text": "Манахшилу, солодку, мансаси, мусту, кору ангуди — следует использовать для дыма, вдыхаемого по методу устранения кашля; выпив дым, следует затем выпить молоко."
+        "text": "Манахшилу, солодку, мансаси, мусту, кору ангуди — следует использовать для дыма, вдыхаемого по методу устранения кашля; выпив дым, следует затем выпить молоко.",
+        "text_en": "Manahshila, licorice, mamsi, musta and the bark of anguda should be used for smoke inhaled by the method for relieving cough; having inhaled the smoke, one should then drink milk."
       },
       {
         "type": "verse",
@@ -35073,7 +35275,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निष्ठ्यूतान्ते गुडयुतं कोष्णं धूमो निहन्ति सः वातश्लेष्मोत्तरान् कासानचिरेण चिरन्तनान्",
         "iast": "niṣṭhyūtānte guḍayutaṃ koṣṇaṃ dhūmo nihanti saḥ vātaśleṣmottarān kāsānacireṇa cirantanān",
         "iast_ru": "ниш̣т̣хйӯта̄нте гуд̣айутам̣ кош̣н̣ам̣ дхӯмо ниханти сах̣ ва̄таш́леш̣моттара̄н ка̄са̄начирен̣а чирантана̄н",
-        "text": "После отхаркивания следует принять тёплое молоко вместе с патокой; этот дым быстро устраняет как свежий, так и застарелый кашель, с преобладанием Ваты и Капхи."
+        "text": "После отхаркивания следует принять тёплое молоко вместе с патокой; этот дым быстро устраняет как свежий, так и застарелый кашель, с преобладанием Ваты и Капхи.",
+        "text_en": "After expectoration one should take warm milk together with jaggery; this smoke quickly relieves both fresh and chronic cough, with predominance of Vata and Kapha."
       },
       {
         "type": "verse",
@@ -35081,7 +35284,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रपौण्डरीकं मधुकं शार्ङ्गेष्टालं मनःशिलाम् मरिचं पिप्पलीं द्राक्षामेलां सुरसमञ्जरीम्",
         "iast": "prapauṇḍarīkaṃ madhukaṃ śārṅgeṣṭālaṃ manaḥśilām maricaṃ pippalīṃ drākṣāmelāṃ surasamañjarīm",
         "iast_ru": "прапаун̣д̣арӣкам̣ мадхукам̣ ш́а̄рн̇геш̣т̣а̄лам̣ манах̣ш́ила̄м маричам̣ пиппалӣм̣ дра̄кш̣а̄мела̄м̣ сурасаман̃джарӣм",
-        "text": "Прапаундарику, солодку, шарнгештху, манахшилу, перец, пиппали, изюм, эла и цветки сурасы,"
+        "text": "Прапаундарику, солодку, шарнгештху, манахшилу, перец, пиппали, изюм, эла и цветки сурасы,",
+        "text_en": "Prapaundarika, licorice, sharngeshtha, manahshila, pepper, pippali, raisins, ela and flowers of surasa,"
       },
       {
         "type": "verse",
@@ -35089,7 +35293,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृत्वा वर्तिं पिबेद्धूमं क्षौमचैलानुवर्तिनी घृताक्तामनु च क्षीरं पिबेत् तद्वत् गुडाम्बु वा",
         "iast": "kṛtvā vartiṃ pibeddhūmaṃ kṣaumacailānuvartinī ghṛtāktāmanu ca kṣīraṃ pibet tadvat guḍāmbu vā",
         "iast_ru": "кр̣тва̄ вартим̣ пибеддхӯмам̣ кш̣аумачаила̄нувартинӣ гхр̣та̄кта̄ману ча кш̣ӣрам̣ пибет тадват гуд̣а̄мбу ва̄",
-        "text": "свернув в фитиль, обёрнутый льняной тканью, смазанный топлёным маслом, следует вдыхать дым; после этого — выпить молоко, или же воду с патокой."
+        "text": "свернув в фитиль, обёрнутый льняной тканью, смазанный топлёным маслом, следует вдыхать дым; после этого — выпить молоко, или же воду с патокой.",
+        "text_en": "rolled into a wick, wrapped in linen cloth and smeared with ghee, the smoke should be inhaled; after this one should drink milk, or else water with jaggery."
       },
       {
         "type": "verse",
@@ -35097,7 +35302,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नेपालीतालमरिचलाक्षाञ्जनकुटन्नटैः उशीररोहिषफलद्रामिलीवंशलेखनैः",
         "iast": "nepālītālamaricalākṣāñjanakuṭannaṭaiḥ uśīrarohiṣaphaladrāmilīvaṃśalekhanaiḥ",
         "iast_ru": "непа̄лӣта̄ламаричала̄кш̣а̄н̃джанакут̣аннат̣аих̣ уш́ӣрарохиш̣апхаладра̄милӣвам̣ш́алекханаих̣",
-        "text": "Дым с непали, талой, перцем, лакшей, коллирием, кутаннатой; уширой, рохишей, плодом, драмили, ванши и лекханой,"
+        "text": "Дым с непали, талой, перцем, лакшей, коллирием, кутаннатой; уширой, рохишей, плодом, драмили, ванши и лекханой,",
+        "text_en": "Smoke with nepali, tala, pepper, laksha, collyrium and kutannata; ushira, rohisha, fruit, dramili, vamsha and lekhana,"
       },
       {
         "type": "verse",
@@ -35105,7 +35311,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पूर्वकल्पेन धूमो ऽयं सानुपानो विधीयते कार्पासास्थ्यश्वगन्धा च धूमः कासविनाशनः कोशातकीफलान्मध्यैः पिबेद्वा समनःशिलैः",
         "iast": "pūrvakalpena dhūmo 'yaṃ sānupāno vidhīyate kārpāsāsthyaśvagandhā ca dhūmaḥ kāsavināśanaḥ kośātakīphalānmadhyaiḥ pibedvā samanaḥśilaiḥ",
         "iast_ru": "пӯрвакалпена дхӯмо 'йам̣ са̄нупа̄но видхӣйате ка̄рпа̄са̄стхйаш́вагандха̄ ча дхӯмах̣ ка̄савина̄ш́анах̣ кош́а̄такӣпхала̄нмадхйаих̣ пибедва̄ саманах̣ш́илаих̣",
-        "text": "приготовленный по прежнему методу, этот дым применяется с соответствующим питьём; дым из семян хлопка и ашвагандхи также устраняет кашель; или же следует вдыхать дым из сердцевины плода кошатаки, вместе с манахшилой."
+        "text": "приготовленный по прежнему методу, этот дым применяется с соответствующим питьём; дым из семян хлопка и ашвагандхи также устраняет кашель; или же следует вдыхать дым из сердцевины плода кошатаки, вместе с манахшилой.",
+        "text_en": "prepared by the former method, this smoke is applied with the corresponding drink; smoke from cotton seeds and ashwagandha also relieves cough; or else one should inhale smoke from the pith of the koshataki fruit, together with manahshila."
       },
       {
         "type": "verse",
@@ -35113,7 +35320,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तमकः कफकासे तु स्याच्चेत् पित्तानुबन्धजः पित्तकासक्रियां तत्र यथावस्थं प्रयोजयत्",
         "iast": "tamakaḥ kaphakāse tu syāccet pittānubandhajaḥ pittakāsakriyāṃ tatra yathāvasthaṃ prayojayat",
         "iast_ru": "тамаках̣ капхака̄се ту сйа̄ччет питта̄нубандхаджах̣ питтака̄сакрийа̄м̣ татра йатха̄вастхам̣ прайоджайат",
-        "text": "Если при кашле от Капхи возникает приступообразная одышка (тамака), вызванная сопутствующей Питтой, то в этом случае следует применять лечение кашля от Питты, соответственно состоянию."
+        "text": "Если при кашле от Капхи возникает приступообразная одышка (тамака), вызванная сопутствующей Питтой, то в этом случае следует применять лечение кашля от Питты, соответственно состоянию.",
+        "text_en": "If in Kapha cough paroxysmal dyspnoea (tamaka) arises, caused by accompanying Pitta, then in this case the treatment of Pitta cough should be applied, according to the condition."
       },
       {
         "type": "verse",
@@ -35121,7 +35329,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कफानुबन्धे पवने कुर्यात् कफहरां क्रियाम् पित्तानुबम्धयोर्वातकफयोः पित्तनाशिनीम्",
         "iast": "kaphānubandhe pavane kuryāt kaphaharāṃ kriyām pittānubamdhayorvātakaphayoḥ pittanāśinīm",
         "iast_ru": "капха̄нубандхе паване курйа̄т капхахара̄м̣ крийа̄м питта̄нубамдхайорва̄такапхайох̣ питтана̄ш́инӣм",
-        "text": "При Вате, сопровождаемой Капхой, следует применять лечение, устраняющее Капху; при Вате и Капхе, сопровождаемых Питтой, — лечение, устраняющее Питту."
+        "text": "При Вате, сопровождаемой Капхой, следует применять лечение, устраняющее Капху; при Вате и Капхе, сопровождаемых Питтой, — лечение, устраняющее Питту.",
+        "text_en": "In Vata accompanied by Kapha, the treatment that relieves Kapha should be applied; in Vata and Kapha accompanied by Pitta, the treatment that relieves Pitta."
       },
       {
         "type": "verse",
@@ -35129,7 +35338,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातश्लेष्मात्मके शुष्के स्निग्धमार्द्रे विरूक्षणम् कासे कर्म सपित्ते तु कफजे तिक्तसंयुतम्",
         "iast": "vātaśleṣmātmake śuṣke snigdhamārdre virūkṣaṇam kāse karma sapitte tu kaphaje tiktasaṃyutam",
         "iast_ru": "ва̄таш́леш̣ма̄тмаке ш́уш̣ке снигдхама̄рдре вирӯкш̣ан̣ам ка̄се карма сапитте ту капхадже тиктасам̣йутам",
-        "text": "При сухом кашле от Ваты и Капхи следует применять маслянистое лечение; при влажном — иссушающее; при кашле от Капхи, сопровождаемой Питтой, — вместе с горькими средствами."
+        "text": "При сухом кашле от Ваты и Капхи следует применять маслянистое лечение; при влажном — иссушающее; при кашле от Капхи, сопровождаемой Питтой, — вместе с горькими средствами.",
+        "text_en": "In dry cough from Vata and Kapha an unctuous treatment should be applied; in moist cough, a drying one; in cough from Kapha accompanied by Pitta, together with bitter remedies."
       }
     ]
   },
@@ -35151,7 +35361,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातः क्षतक्षयकासचिकित्सितं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athātaḥ kṣatakṣayakāsacikitsitaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄тах̣ кш̣атакш̣айака̄сачикитситам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним лечение кашля от травмы и истощения — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним лечение кашля от травмы и истощения — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now, further, we shall explain the treatment of cough from injury and emaciation, as the great rishis beginning with Atreya declared."
       },
       {
         "type": "verse",
@@ -35159,7 +35370,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उरस्यन्तःक्षते सद्यो लाक्षां क्षौद्रयुतां पिबेत् क्षीरणे शालीन् जीर्णे ऽद्यात् क्षीरेणैव सशर्करान्",
         "iast": "urasyantaḥkṣate sadyo lākṣāṃ kṣaudrayutāṃ pibet kṣīraṇe śālīn jīrṇe 'dyāt kṣīreṇaiva saśarkarān",
         "iast_ru": "урасйантах̣кш̣ате садйо ла̄кш̣а̄м̣ кш̣аудрайута̄м̣ пибет кш̣ӣран̣е ш́а̄лӣн джӣрн̣е 'дйа̄т кш̣ӣрен̣аива саш́аркара̄н",
-        "text": "При свежей внутренней травме груди следует выпить лакшу вместе с мёдом; на молоке следует есть рис шали; после переваривания — есть его же с молоком и сахаром;"
+        "text": "При свежей внутренней травме груди следует выпить лакшу вместе с мёдом; на молоке следует есть рис шали; после переваривания — есть его же с молоком и сахаром;",
+        "text_en": "In a fresh internal injury of the chest, laksha should be drunk together with honey; shali rice should be eaten with milk; after digestion, the same should be eaten with milk and sugar;"
       },
       {
         "type": "verse",
@@ -35167,7 +35379,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पार्श्वबस्तिसरुक्चाल्पपित्ताग्निस्तां सुरायुताम् भिन्नविट् तु समुस्तातिविषापाठां सवत्सकाम्",
         "iast": "pārśvabastisarukcālpapittāgnistāṃ surāyutām bhinnaviṭ tu samustātiviṣāpāṭhāṃ savatsakām",
         "iast_ru": "па̄рш́вабастисарукча̄лпапитта̄гниста̄м̣ сура̄йута̄м бхиннавит̣ ту самуста̄тивиш̣а̄па̄т̣ха̄м̣ саватсака̄м",
-        "text": "при боли в боку и мочевом пузыре, при слабой Питте и пищеварительном огне — лакшу вместе с хмельным напитком сура; при разжиженном стуле — вместе с мустой, атившой, патхой и ватсакой;"
+        "text": "при боли в боку и мочевом пузыре, при слабой Питте и пищеварительном огне — лакшу вместе с хмельным напитком сура; при разжиженном стуле — вместе с мустой, атившой, патхой и ватсакой;",
+        "text_en": "in pain in the side and bladder, with weak Pitta and digestive fire, laksha together with sura liquor; in loose stool, together with musta, ativisha, patha and vatsaka;"
       },
       {
         "type": "verse",
@@ -35175,7 +35388,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लाक्षां सर्पिर्मधूच्छिष्टं जीवनीयगणं सिताम् त्वक्क्षीरीं समितं क्षीरे पक्त्वा दीप्तानलः पिबेत्",
         "iast": "lākṣāṃ sarpirmadhūcchiṣṭaṃ jīvanīyagaṇaṃ sitām tvakkṣīrīṃ samitaṃ kṣīre paktvā dīptānalaḥ pibet",
         "iast_ru": "ла̄кш̣а̄м̣ сарпирмадхӯччхиш̣т̣ам̣ джӣванӣйаган̣ам̣ сита̄м тваккш̣ӣрӣм̣ самитам̣ кш̣ӣре пактва̄ дӣпта̄налах̣ пибет",
-        "text": "имеющий разгоревшийся пищеварительный огонь пусть выпьет лакшу, топлёное масло, пчелиный воск, группу дживанья, сахар, кору, кшири и пшеничную муку, сваренные в молоке;"
+        "text": "имеющий разгоревшийся пищеварительный огонь пусть выпьет лакшу, топлёное масло, пчелиный воск, группу дживанья, сахар, кору, кшири и пшеничную муку, сваренные в молоке;",
+        "text_en": "one whose digestive fire is kindled should drink laksha, ghee, beeswax, the Jivaniya group, sugar, bark, kshiri and wheat flour, cooked in milk;"
       },
       {
         "type": "verse",
@@ -35183,7 +35397,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इक्ष्वालिकाबिसग्रन्थिपद्मकेसरचन्द्रनैः शृतं पयो मधुयुतं सन्धानार्थं पिबेत् क्षती",
         "iast": "ikṣvālikābisagranthipadmakesaracandranaiḥ śṛtaṃ payo madhuyutaṃ sandhānārthaṃ pibet kṣatī",
         "iast_ru": "икш̣ва̄лика̄бисагрантхипадмакесарачандранаих̣ ш́р̣там̣ пайо мадхуйутам̣ сандха̄на̄ртхам̣ пибет кш̣атӣ",
-        "text": "страдающий травмой пусть выпьет для заживления молоко, сваренное с икшваликой, узлами лотосового корневища, тычинками лотоса и сандалом, вместе с мёдом;"
+        "text": "страдающий травмой пусть выпьет для заживления молоко, сваренное с икшваликой, узлами лотосового корневища, тычинками лотоса и сандалом, вместе с мёдом;",
+        "text_en": "one suffering from injury should drink, for healing, milk boiled with ikshvaliká, nodes of the lotus rhizome, lotus filaments and sandal, together with honey;"
       },
       {
         "type": "verse",
@@ -35191,7 +35406,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवानां चूर्णमामानां क्षीरसिद्धं घृतान्वितम् ज्वरदाहे सिताक्षौद्रसक्तून् वा पयसा पिबेत्",
         "iast": "yavānāṃ cūrṇamāmānāṃ kṣīrasiddhaṃ ghṛtānvitam jvaradāhe sitākṣaudrasaktūn vā payasā pibet",
         "iast_ru": "йава̄на̄м̣ чӯрн̣ама̄ма̄на̄м̣ кш̣ӣрасиддхам̣ гхр̣та̄нвитам джварада̄хе сита̄кш̣аудрасактӯн ва̄ пайаса̄ пибет",
-        "text": "порошок непереваренного ячменя, сваренный с молоком, вместе с топлёным маслом; при лихорадке с жжением — муку с сахаром и мёдом, с молоком следует пить;"
+        "text": "порошок непереваренного ячменя, сваренный с молоком, вместе с топлёным маслом; при лихорадке с жжением — муку с сахаром и мёдом, с молоком следует пить;",
+        "text_en": "a powder of unripe barley, cooked with milk, together with ghee; in fever with burning, flour with sugar and honey should be drunk with milk;"
       },
       {
         "type": "verse",
@@ -35199,7 +35415,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासवांस्तु पिबेत्सर्पिर्मधुरौषधसाधितम् गुडोदकं वा क्वथितं सक्षौद्रमरिचं हिमम्",
         "iast": "kāsavāṃstu pibetsarpirmadhurauṣadhasādhitam guḍodakaṃ vā kvathitaṃ sakṣaudramaricaṃ himam",
         "iast_ru": "ка̄сава̄м̣сту пибетсарпирмадхурауш̣адхаса̄дхитам гуд̣одакам̣ ва̄ кватхитам̣ сакш̣аудрамаричам̣ химам",
-        "text": "страдающий кашлем пусть пьёт топлёное масло, приготовленное со сладкими лекарствами, или воду с патокой, сваренную, холодную, вместе с мёдом и перцем;"
+        "text": "страдающий кашлем пусть пьёт топлёное масло, приготовленное со сладкими лекарствами, или воду с патокой, сваренную, холодную, вместе с мёдом и перцем;",
+        "text_en": "one suffering from cough should drink ghee prepared with sweet medicines, or jaggery water, boiled, cold, together with honey and pepper;"
       },
       {
         "type": "verse",
@@ -35207,7 +35424,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चूर्णमामलकानां वा क्षीरे पक्वं घृतान्वितम् रसायनविधानेन पिप्पलीर्वा प्रयोजयेत्",
         "iast": "cūrṇamāmalakānāṃ vā kṣīre pakvaṃ ghṛtānvitam rasāyanavidhānena pippalīrvā prayojayet",
         "iast_ru": "чӯрн̣ама̄малака̄на̄м̣ ва̄ кш̣ӣре паквам̣ гхр̣та̄нвитам раса̄йанавидха̄нена пиппалӣрва̄ прайоджайет",
-        "text": "или порошок амалаки, сваренный с молоком, вместе с топлёным маслом; или пиппали, по методу расаяны, следует применять;"
+        "text": "или порошок амалаки, сваренный с молоком, вместе с топлёным маслом; или пиппали, по методу расаяны, следует применять;",
+        "text_en": "or amalaki powder cooked with milk, together with ghee; or pippali should be used by the rasayana method;"
       },
       {
         "type": "verse",
@@ -35215,7 +35433,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासी पर्वास्थिशूली च लिह्यात्सघृतमाक्षिकाः मधूकमधुकद्राक्षात्वक्क्षीरीपिप्पलीबलाः",
         "iast": "kāsī parvāsthiśūlī ca lihyātsaghṛtamākṣikāḥ madhūkamadhukadrākṣātvakkṣīrīpippalībalāḥ",
         "iast_ru": "ка̄сӣ парва̄стхиш́ӯлӣ ча лихйа̄тсагхр̣тама̄кш̣ика̄х̣ мадхӯкамадхукадра̄кш̣а̄тваккш̣ӣрӣпиппалӣбала̄х̣",
-        "text": "страдающий кашлем и болью в суставах и костях пусть примет слизыванием, вместе с топлёным маслом и мёдом, состав из мадхуки, солодки, изюма, коры, кшири, пиппали и балы;"
+        "text": "страдающий кашлем и болью в суставах и костях пусть примет слизыванием, вместе с топлёным маслом и мёдом, состав из мадхуки, солодки, изюма, коры, кшири, пиппали и балы;",
+        "text_en": "one suffering from cough and pain in the joints and bones should take by licking, together with ghee and honey, a compound of madhuka, licorice, raisins, bark, kshiri, pippali and bala;"
       },
       {
         "type": "verse",
@@ -35223,7 +35442,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिजातमर्धकर्षांशं पिप्पल्यर्धपलं सिता द्राक्षा मधूकं खर्जूरं पलांशं श्लक्ष्णचूर्णितम्",
         "iast": "trijātamardhakarṣāṃśaṃ pippalyardhapalaṃ sitā drākṣā madhūkaṃ kharjūraṃ palāṃśaṃ ślakṣṇacūrṇitam",
         "iast_ru": "триджа̄тамардхакарш̣а̄м̣ш́ам̣ пиппалйардхапалам̣ сита̄ дра̄кш̣а̄ мадхӯкам̣ кхарджӯрам̣ пала̄м̣ш́ам̣ ш́лакш̣н̣ачӯрн̣итам",
-        "text": "триджату по половине карши каждого, пиппали пол-пала, сахар, изюм, мадхуку, финики по одному палу — растёртые в мелкий порошок,"
+        "text": "триджату по половине карши каждого, пиппали пол-пала, сахар, изюм, мадхуку, финики по одному палу — растёртые в мелкий порошок,",
+        "text_en": "trijata, half a karsha of each, pippali half a pala, sugar, raisins, madhuka, dates, one pala each, ground to a fine powder,"
       },
       {
         "type": "verse",
@@ -35231,7 +35451,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुना गुटिका घ्नन्ति ता वृष्याः पित्तशोणितम् कासश्वासारुचिच्छार्दिमूर्छाहिध्मामदभ्रमान्",
         "iast": "madhunā guṭikā ghnanti tā vṛṣyāḥ pittaśoṇitam kāsaśvāsārucicchārdimūrchāhidhmāmadabhramān",
         "iast_ru": "мадхуна̄ гут̣ика̄ гхнанти та̄ вр̣ш̣йа̄х̣ питташ́он̣итам ка̄саш́ва̄са̄ручиччха̄рдимӯрчха̄хидхма̄мадабхрама̄н",
-        "text": "скатанные с мёдом в шарики, — эти афродизиакальные пилюли устраняют раактапитту, кашель, одышку, отсутствие аппетита, рвоту, обморок, икоту, опьянение, головокружение,"
+        "text": "скатанные с мёдом в шарики, — эти афродизиакальные пилюли устраняют раактапитту, кашель, одышку, отсутствие аппетита, рвоту, обморок, икоту, опьянение, головокружение,",
+        "text_en": "rolled with honey into balls: these aphrodisiac pills relieve raktapitta, cough, dyspnoea, loss of appetite, vomiting, fainting, hiccup, intoxication, giddiness,"
       },
       {
         "type": "verse",
@@ -35239,7 +35460,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षतक्षयस्वरभ्रंशप्लीहशोषाढ्यमारुतान् रक्तनिष्ठीवहृत्पार्श्वरुक्पिपासाज्वरानपि",
         "iast": "kṣatakṣayasvarabhraṃśaplīhaśoṣāḍhyamārutān raktaniṣṭhīvahṛtpārśvarukpipāsājvarānapi",
         "iast_ru": "кш̣атакш̣айасварабхрам̣ш́аплӣхаш́ош̣а̄д̣хйама̄рута̄н рактаниш̣т̣хӣвахр̣тпа̄рш́варукпипа̄са̄джвара̄напи",
-        "text": "болезни от травмы и истощения, потерю голоса, болезнь селезёнки, обильную Вату, кровохарканье, боль в сердце и боках, жажду и лихорадку."
+        "text": "болезни от травмы и истощения, потерю голоса, болезнь селезёнки, обильную Вату, кровохарканье, боль в сердце и боках, жажду и лихорадку.",
+        "text_en": "diseases from injury and emaciation, loss of voice, disease of the spleen, abundant Vata, spitting of blood, pain in the heart and sides, thirst and fever."
       },
       {
         "type": "verse",
@@ -35247,7 +35469,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्ते ऽतिवृद्धे च्छागं वा जाङ्गलं वा पिबेदसृक् वर्षाभूशर्करारक्तशालितण्डुलजं रजः",
         "iast": "rakte 'tivṛddhe cchāgaṃ vā jāṅgalaṃ vā pibedasṛk varṣābhūśarkarāraktaśālitaṇḍulajaṃ rajaḥ",
         "iast_ru": "ракте 'тивр̣ддхе ччха̄гам̣ ва̄ джа̄н̇галам̣ ва̄ пибедаср̣к варш̣а̄бхӯш́аркара̄ракташ́а̄литан̣д̣уладжам̣ раджах̣",
-        "text": "При чрезмерном истечении крови следует пить козью кровь или кровь диких животных; порошок из варшабху, сахара и красного риса шали,"
+        "text": "При чрезмерном истечении крови следует пить козью кровь или кровь диких животных; порошок из варшабху, сахара и красного риса шали,",
+        "text_en": "In excessive flow of blood one should drink the blood of a goat or of wild animals; a powder of varshabhu, sugar and red shali rice;"
       },
       {
         "type": "verse",
@@ -35255,7 +35478,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्तष्ठीवी पिबेत् सिद्धं द्राक्षारसपयोघृतैः मधूकमधुकक्षीरसिद्धं वा तण्डुलीयकम्",
         "iast": "raktaṣṭhīvī pibet siddhaṃ drākṣārasapayoghṛtaiḥ madhūkamadhukakṣīrasiddhaṃ vā taṇḍulīyakam",
         "iast_ru": "ракташ̣т̣хӣвӣ пибет сиддхам̣ дра̄кш̣а̄расапайогхр̣таих̣ мадхӯкамадхукакш̣ӣрасиддхам̣ ва̄ тан̣д̣улӣйакам",
-        "text": "страдающий кровохарканьем пусть выпьет этот порошок, приготовленный с соком изюма, молоком и топлёным маслом; или тандулияку, приготовленную с мадхукой, солодкой и молоком;"
+        "text": "страдающий кровохарканьем пусть выпьет этот порошок, приготовленный с соком изюма, молоком и топлёным маслом; или тандулияку, приготовленную с мадхукой, солодкой и молоком;",
+        "text_en": "one suffering from spitting of blood should drink this powder prepared with raisin juice, milk and ghee; or tanduliyaka prepared with madhuka, licorice and milk;"
       },
       {
         "type": "verse",
@@ -35263,7 +35487,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथास्वं मार्गविसृते रक्ते कुर्याच्च भेषजम् पिप्पलीमधुकं पिष्टं कार्षिकं ससितोपलम्",
         "iast": "yathāsvaṃ mārgavisṛte rakte kuryācca bheṣajam pippalīmadhukaṃ piṣṭaṃ kārṣikaṃ sasitopalam",
         "iast_ru": "йатха̄свам̣ ма̄ргависр̣те ракте курйа̄чча бхеш̣аджам пиппалӣмадхукам̣ пиш̣т̣ам̣ ка̄рш̣икам̣ саситопалам",
-        "text": "соответственно, следует применять лекарство при кровотечении по конкретному пути. Пиппали и солодку, растёртые, по одной карше, вместе с кусковым сахаром,"
+        "text": "соответственно, следует применять лекарство при кровотечении по конкретному пути. Пиппали и солодку, растёртые, по одной карше, вместе с кусковым сахаром,",
+        "text_en": "accordingly, the medicine for bleeding should be applied according to the specific route. Pippali and licorice, ground, one karsha each, together with rock sugar,"
       },
       {
         "type": "verse",
@@ -35271,7 +35496,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रास्थिकं गव्यमाजं च क्षीरमिक्षुरसं तथा यवगोधूममृद्वीकाचूर्णमामलकाद्रसः",
         "iast": "prāsthikaṃ gavyamājaṃ ca kṣīramikṣurasaṃ tathā yavagodhūmamṛdvīkācūrṇamāmalakādrasaḥ",
         "iast_ru": "пра̄стхикам̣ гавйама̄джам̣ ча кш̣ӣрамикш̣урасам̣ татха̄ йавагодхӯмамр̣двӣка̄чӯрн̣ама̄малака̄драсах̣",
-        "text": "по одной прастхе коровьего и козьего молока, а также сок сахарного тростника; порошок ячменя и пшеницы, изюм, сок амалаки,"
+        "text": "по одной прастхе коровьего и козьего молока, а также сок сахарного тростника; порошок ячменя и пшеницы, изюм, сок амалаки,",
+        "text_en": "one prastha each of cow's and goat's milk, as well as sugarcane juice; a powder of barley and wheat, raisins, amalaki juice,"
       },
       {
         "type": "verse",
@@ -35279,7 +35505,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तैलं च प्रसृतांशानि तत् सर्वं मृदुनाग्निना पचेल्लेहो घृतक्षौद्रयुतः स क्षतकासनुत्",
         "iast": "tailaṃ ca prasṛtāṃśāni tat sarvaṃ mṛdunāgninā pacelleho ghṛtakṣaudrayutaḥ sa kṣatakāsanut",
         "iast_ru": "таилам̣ ча праср̣та̄м̣ш́а̄ни тат сарвам̣ мр̣дуна̄гнина̄ пачеллехо гхр̣такш̣аудрайутах̣ са кш̣атака̄санут",
-        "text": "растительное масло по одному прасрите — всё это следует варить на слабом огне; получившаяся лехья, вместе с топлёным маслом и мёдом, устраняет кашель от травмы;"
+        "text": "растительное масло по одному прасрите — всё это следует варить на слабом огне; получившаяся лехья, вместе с топлёным маслом и мёдом, устраняет кашель от травмы;",
+        "text_en": "vegetable oil, one prasrita each: all this should be cooked over a gentle fire; the resulting lehya, together with ghee and honey, relieves cough from injury;"
       },
       {
         "type": "verse",
@@ -35287,7 +35514,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्वासहृद्रोगकासघ्नो हितो वृद्धाल्परेतसाम् मूढवातस्त्वजामेदः सुराभृष्टं ससैन्धवम्",
         "iast": "śvāsahṛdrogakāsaghno hito vṛddhālparetasām mūḍhavātastvajāmedaḥ surābhṛṣṭaṃ sasaindhavam",
         "iast_ru": "ш́ва̄сахр̣дрогака̄сагхно хито вр̣ддха̄лпаретаса̄м мӯд̣хава̄тастваджа̄медах̣ сура̄бхр̣ш̣т̣ам̣ сасаиндхавам",
-        "text": "она полезна, устраняя одышку, болезнь сердца и кашель, для стариков и тех, у кого мало семени; при заблокированной Вате — козий жир, обжаренный с хмельным напитком сура, вместе с каменной солью;"
+        "text": "она полезна, устраняя одышку, болезнь сердца и кашель, для стариков и тех, у кого мало семени; при заблокированной Вате — козий жир, обжаренный с хмельным напитком сура, вместе с каменной солью;",
+        "text_en": "it is beneficial, relieving dyspnoea, heart disease and cough, for the aged and those with little semen; in obstructed Vata, goat fat fried with sura liquor, together with rock salt;"
       },
       {
         "type": "verse",
@@ -35295,7 +35523,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षामः क्षीणः क्षतोरस्को मन्दनिद्रो ऽग्निदीप्तिमान् शतक्षीरसरेणाद्यात् सघृतक्षौद्रशर्करम्",
         "iast": "kṣāmaḥ kṣīṇaḥ kṣatorasko mandanidro 'gnidīptimān śatakṣīrasareṇādyāt saghṛtakṣaudraśarkaram",
         "iast_ru": "кш̣а̄мах̣ кш̣ӣн̣ах̣ кш̣атораско манданидро 'гнидӣптима̄н ш́атакш̣ӣрасарен̣а̄дйа̄т сагхр̣такш̣аудраш́аркарам",
-        "text": "истощённый, изнурённый, с повреждённой грудью, с плохим сном, но с разгоревшимся пищеварительным огнём, пусть ест сок шатавари, вместе с топлёным маслом, мёдом и сахаром;"
+        "text": "истощённый, изнурённый, с повреждённой грудью, с плохим сном, но с разгоревшимся пищеварительным огнём, пусть ест сок шатавари, вместе с топлёным маслом, мёдом и сахаром;",
+        "text_en": "one who is emaciated, exhausted, with injured chest, poor sleep, but with kindled digestive fire, should eat the juice of shatavari, together with ghee, honey and sugar;"
       },
       {
         "type": "verse",
@@ -35303,7 +35532,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शर्करायवगोधूमं जीवकर्षभकौ मधु घृतक्षीरानुपानं वा लिह्यात् क्षीणः क्षती कृशः",
         "iast": "śarkarāyavagodhūmaṃ jīvakarṣabhakau madhu ghṛtakṣīrānupānaṃ vā lihyāt kṣīṇaḥ kṣatī kṛśaḥ",
         "iast_ru": "ш́аркара̄йавагодхӯмам̣ джӣвакарш̣абхакау мадху гхр̣такш̣ӣра̄нупа̄нам̣ ва̄ лихйа̄т кш̣ӣн̣ах̣ кш̣атӣ кр̣ш́ах̣",
-        "text": "истощённый, страдающий от травмы, исхудавший пусть принимает слизыванием сахар, ячмень, пшеницу, дживаку и ршабхаку, мёд, запивая топлёным маслом или молоком;"
+        "text": "истощённый, страдающий от травмы, исхудавший пусть принимает слизыванием сахар, ячмень, пшеницу, дживаку и ршабхаку, мёд, запивая топлёным маслом или молоком;",
+        "text_en": "one who is emaciated, suffering from injury, wasted, should take by licking sugar, barley, wheat, jivaka and rishabhaka, honey, washing it down with ghee or milk;"
       },
       {
         "type": "verse",
@@ -35311,7 +35541,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्रव्यात्पिशितनिर्यूहं घृतभृष्टं पिबेच्च सः पिप्पलीक्षौद्रसंयुक्तं मांसशोणितवर्धनम्",
         "iast": "kravyātpiśitaniryūhaṃ ghṛtabhṛṣṭaṃ pibecca saḥ pippalīkṣaudrasaṃyuktaṃ māṃsaśoṇitavardhanam",
         "iast_ru": "кравйа̄тпиш́итанирйӯхам̣ гхр̣табхр̣ш̣т̣ам̣ пибечча сах̣ пиппалӣкш̣аудрасам̣йуктам̣ ма̄м̣саш́он̣итавардханам",
-        "text": "он же пусть пьёт бульон из мяса хищных животных, обжаренный на топлёном масле, вместе с пиппали и мёдом, — это увеличивает мышечную массу и кровь;"
+        "text": "он же пусть пьёт бульон из мяса хищных животных, обжаренный на топлёном масле, вместе с пиппали и мёдом, — это увеличивает мышечную массу и кровь;",
+        "text_en": "he should also drink broth of the meat of predatory animals, fried in ghee, together with pippali and honey; this increases muscle mass and blood;"
       },
       {
         "type": "verse",
@@ -35319,7 +35550,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "न्यग्रोधोदुम्बराश्वत्थप्लक्षसालप्रियङ्गुभिः तालमस्तकजम्वूत्वक्प्रियालैश्च सपद्मकैः",
         "iast": "nyagrodhodumbarāśvatthaplakṣasālapriyaṅgubhiḥ tālamastakajamvūtvakpriyālaiśca sapadmakaiḥ",
         "iast_ru": "нйагродходумбара̄ш́ваттхаплакш̣аса̄лаприйан̇губхих̣ та̄ламастакаджамвӯтвакприйа̄лаиш́ча сападмакаих̣",
-        "text": "молоко, сваренное с ньягродхой, удумбарой, ашваттхой, плакшей, салой, приянгу; верхушкой пальмы, корой джамбу, приялой, вместе с падмакой,"
+        "text": "молоко, сваренное с ньягродхой, удумбарой, ашваттхой, плакшей, салой, приянгу; верхушкой пальмы, корой джамбу, приялой, вместе с падмакой,",
+        "text_en": "milk boiled with nyagrodha, udumbara, ashvattha, plaksha, sala, priyangu; the top of the palm, bark of jambu, priyala, together with padmaka,"
       },
       {
         "type": "verse",
@@ -35327,7 +35559,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "साश्वकर्णैः शृतात् क्षीरादद्याज्जातेन सर्पिषा शाल्योदनं क्षतोरस्कः क्षीणशुक्रबलेन्द्रियः",
         "iast": "sāśvakarṇaiḥ śṛtāt kṣīrādadyājjātena sarpiṣā śālyodanaṃ kṣatoraskaḥ kṣīṇaśukrabalendriyaḥ",
         "iast_ru": "са̄ш́вакарн̣аих̣ ш́р̣та̄т кш̣ӣра̄дадйа̄джджа̄тена сарпиш̣а̄ ш́а̄лйоданам̣ кш̣аторасках̣ кш̣ӣн̣аш́украбалендрийах̣",
-        "text": "вместе с ашвакарной, — из такого молока полученным топлёным маслом пусть страдающий травмой груди, с истощённым семенем, силой и органами чувств, приправляет варёный рис шали;"
+        "text": "вместе с ашвакарной, — из такого молока полученным топлёным маслом пусть страдающий травмой груди, с истощённым семенем, силой и органами чувств, приправляет варёный рис шали;",
+        "text_en": "together with ashvakarna: with ghee obtained from such milk, one suffering from injury of the chest, with depleted semen, strength and sense organs, should season cooked shali rice;"
       },
       {
         "type": "verse",
@@ -35335,7 +35568,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातपित्तार्दिते ऽभ्यङ्गो गात्रभेदे घृतैर्मतः तैलैश्चानिलरोगघ्नैः पीडिते मातरिश्वना",
         "iast": "vātapittārdite 'bhyaṅgo gātrabhede ghṛtairmataḥ tailaiścānilarogaghnaiḥ pīḍite mātariśvanā",
         "iast_ru": "ва̄тапитта̄рдите 'бхйан̇го га̄трабхеде гхр̣таирматах̣ таилаиш́ча̄ниларогагхнаих̣ пӣд̣ите ма̄тариш́вана̄",
-        "text": "при поражении Ватой и Питтой, при ломоте в теле показано умащение топлёными маслами; при поражении Ватой — маслами, устраняющими ватные болезни;"
+        "text": "при поражении Ватой и Питтой, при ломоте в теле показано умащение топлёными маслами; при поражении Ватой — маслами, устраняющими ватные болезни;",
+        "text_en": "in affliction by Vata and Pitta, in aching of the body, unction with ghees is indicated; in affliction by Vata, with oils that relieve Vata diseases;"
       },
       {
         "type": "verse",
@@ -35343,7 +35577,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हृत्पार्श्वार्तिषु पानं स्यात् जीवनीयस्य सर्पिषः कुर्याद्वा वातरोगघ्नं पित्तरक्तविरोधि यत्",
         "iast": "hṛtpārśvārtiṣu pānaṃ syāt jīvanīyasya sarpiṣaḥ kuryādvā vātarogaghnaṃ pittaraktavirodhi yat",
         "iast_ru": "хр̣тпа̄рш́ва̄ртиш̣у па̄нам̣ сйа̄т джӣванӣйасйа сарпиш̣ах̣ курйа̄два̄ ва̄тарогагхнам̣ питтарактавиродхи йат",
-        "text": "при боли в сердце и боках следует пить топлёное масло, приготовленное с травами группы дживанья, или же то, что устраняет ватные болезни, не противореча Питте и крови;"
+        "text": "при боли в сердце и боках следует пить топлёное масло, приготовленное с травами группы дживанья, или же то, что устраняет ватные болезни, не противореча Питте и крови;",
+        "text_en": "in pain in the heart and sides, ghee prepared with the herbs of the Jivaniya group should be drunk, or else that which relieves Vata diseases without opposing Pitta and blood;"
       },
       {
         "type": "verse",
@@ -35351,7 +35586,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यष्ट्याह्वनागबलयोः क्वाथे क्षीरसमं घृतम् पयस्यापिप्पलीवांशीकल्कसिद्धं क्षते हितम्",
         "iast": "yaṣṭyāhvanāgabalayoḥ kvāthe kṣīrasamaṃ ghṛtam payasyāpippalīvāṃśīkalkasiddhaṃ kṣate hitam",
         "iast_ru": "йаш̣т̣йа̄хвана̄габалайох̣ ква̄тхе кш̣ӣрасамам̣ гхр̣там пайасйа̄пиппалӣва̄м̣ш́ӣкалкасиддхам̣ кш̣ате хитам",
-        "text": "топлёное масло, сваренное на отваре солодки и нагабалы, вместе с равным количеством молока, приготовленное с пастой из паясьи, пиппали и вамши, полезно при травме;"
+        "text": "топлёное масло, сваренное на отваре солодки и нагабалы, вместе с равным количеством молока, приготовленное с пастой из паясьи, пиппали и вамши, полезно при травме;",
+        "text_en": "ghee cooked in a decoction of licorice and nagabala, together with an equal quantity of milk, prepared with a paste of payasya, pippali and vamsha, is beneficial in injury;"
       },
       {
         "type": "verse",
@@ -35359,7 +35595,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घृतं वाष्टगुणे क्षीरे कोललाक्षरसान्वितम् कल्कैः कट्वङ्गदार्वीत्वग्वत्सकत्वक्दलैर्घृतम्",
         "iast": "ghṛtaṃ vāṣṭaguṇe kṣīre kolalākṣarasānvitam kalkaiḥ kaṭvaṅgadārvītvagvatsakatvakdalairghṛtam",
         "iast_ru": "гхр̣там̣ ва̄ш̣т̣агун̣е кш̣ӣре колала̄кш̣араса̄нвитам калкаих̣ кат̣ван̇гада̄рвӣтвагватсакатвакдалаиргхр̣там",
-        "text": "или топлёное масло в восьми частях молока, вместе с соком кола и лакши; топлёное масло с пастой из катванги, коры дарви, коры и листьев ватсаки;"
+        "text": "или топлёное масло в восьми частях молока, вместе с соком кола и лакши; топлёное масло с пастой из катванги, коры дарви, коры и листьев ватсаки;",
+        "text_en": "or ghee in eight parts of milk, together with the juice of kola and laksha; ghee with a paste of katvanga, bark of darvi, bark and leaves of vatsaka;"
       },
       {
         "type": "verse",
@@ -35367,7 +35604,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीवनीयो गणः शुण्ठी वरी वीरापुनर्नवौ बलाभार्ङ्गीस्वगुप्तर्धिशठीतामलकीकणाः",
         "iast": "jīvanīyo gaṇaḥ śuṇṭhī varī vīrāpunarnavau balābhārṅgīsvaguptardhiśaṭhītāmalakīkaṇāḥ",
         "iast_ru": "джӣванӣйо ган̣ах̣ ш́ун̣т̣хӣ варӣ вӣра̄пунарнавау бала̄бха̄рн̇гӣсвагуптардхиш́ат̣хӣта̄малакӣкан̣а̄х̣",
-        "text": "группа дживанья, сухой имбирь, вари, вира, пунарнава, бала, бхаргхи, свагупта, риддхи, шатхи, тамалаки, пиппали;"
+        "text": "группа дживанья, сухой имбирь, вари, вира, пунарнава, бала, бхаргхи, свагупта, риддхи, шатхи, тамалаки, пиппали;",
+        "text_en": "the Jivaniya group, dry ginger, vari, vira, punarnava, bala, bharngi, svagupta, riddhi, shathi, tamalaki, pippali;"
       },
       {
         "type": "verse",
@@ -35375,7 +35613,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शृङ्गाटकं पयस्या च पञ्चमूलं च यल्लधु द्राक्षाक्षोडादि च फलं मधुरस्निग्धबृंहणम्",
         "iast": "śṛṅgāṭakaṃ payasyā ca pañcamūlaṃ ca yalladhu drākṣākṣoḍādi ca phalaṃ madhurasnigdhabṛṃhaṇam",
         "iast_ru": "ш́р̣н̇га̄т̣акам̣ пайасйа̄ ча пан̃чамӯлам̣ ча йалладху дра̄кш̣а̄кш̣од̣а̄ди ча пхалам̣ мадхураснигдхабр̣м̣хан̣ам",
-        "text": "шрингатака, паясья, лёгкая панчамула; изюм, орех и подобные плоды, сладкие, маслянистые, укрепляющие,"
+        "text": "шрингатака, паясья, лёгкая панчамула; изюм, орех и подобные плоды, сладкие, маслянистые, укрепляющие,",
+        "text_en": "shringataka, payasya, the light panchamula; raisins, nuts and similar fruits, sweet, unctuous, strengthening,"
       },
       {
         "type": "verse",
@@ -35383,7 +35622,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तैः पचेत् सर्पिषः प्रस्थं कार्षांशैः श्लक्ष्णकल्कितैः क्षीरधात्रीविदारीक्षुच्छागमांसरसान्वितम्",
         "iast": "taiḥ pacet sarpiṣaḥ prasthaṃ kārṣāṃśaiḥ ślakṣṇakalkitaiḥ kṣīradhātrīvidārīkṣucchāgamāṃsarasānvitam",
         "iast_ru": "таих̣ пачет сарпиш̣ах̣ прастхам̣ ка̄рш̣а̄м̣ш́аих̣ ш́лакш̣н̣акалкитаих̣ кш̣ӣрадха̄трӣвида̄рӣкш̣уччха̄гама̄м̣сараса̄нвитам",
-        "text": "следует сварить прастху топлёного масла с этими компонентами, растёртыми в мелкую пасту, по одной карше каждого, вместе с молоком, соком амалаки, видари, сахарного тростника и козьего мяса;"
+        "text": "следует сварить прастху топлёного масла с этими компонентами, растёртыми в мелкую пасту, по одной карше каждого, вместе с молоком, соком амалаки, видари, сахарного тростника и козьего мяса;",
+        "text_en": "a prastha of ghee should be cooked with these components, ground into a fine paste, one karsha of each, together with milk, the juice of amalaki, vidari, sugarcane and goat meat;"
       },
       {
         "type": "verse",
@@ -35391,7 +35631,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रस्थार्धं मधुनः शीते शर्करार्धतुलारजः पलार्धिकं च मरिचत्वगेलापत्रकेसरम्",
         "iast": "prasthārdhaṃ madhunaḥ śīte śarkarārdhatulārajaḥ palārdhikaṃ ca maricatvagelāpatrakesaram",
         "iast_ru": "прастха̄рдхам̣ мадхунах̣ ш́ӣте ш́аркара̄рдхатула̄раджах̣ пала̄рдхикам̣ ча маричатвагела̄патракесарам",
-        "text": "когда смесь остынет, следует добавить полпрастхи мёда, полтулы сахарного порошка, и по половине пала перца, коры, кардамона, листа и тычинок,"
+        "text": "когда смесь остынет, следует добавить полпрастхи мёда, полтулы сахарного порошка, и по половине пала перца, коры, кардамона, листа и тычинок,",
+        "text_en": "when the mixture has cooled, half a prastha of honey, half a tula of sugar powder, and half a pala each of pepper, bark, cardamom, leaf and filaments should be added,"
       },
       {
         "type": "verse",
@@ -35399,7 +35640,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विनीय चूर्णितं तस्माल्लिह्मान्मात्रां यथानलम् अमृतप्राशमित्येतन्नराणाममृतं घृतम्",
         "iast": "vinīya cūrṇitaṃ tasmāllihmānmātrāṃ yathānalam amṛtaprāśamityetannarāṇāmamṛtaṃ ghṛtam",
         "iast_ru": "винӣйа чӯрн̣итам̣ тасма̄ллихма̄нма̄тра̄м̣ йатха̄налам амр̣тапра̄ш́амитйетаннара̄н̣а̄мамр̣там̣ гхр̣там",
-        "text": "растёртых в порошок, смешать; следует принимать слизыванием дозу, соответствующую силе пищеварительного огня — это средство называется «амритапраша» — амрита (нектар бессмертия) для людей в виде топлёного масла;"
+        "text": "растёртых в порошок, смешать; следует принимать слизыванием дозу, соответствующую силе пищеварительного огня — это средство называется «амритапраша» — амрита (нектар бессмертия) для людей в виде топлёного масла;",
+        "text_en": "ground to a powder and mixed; one should take by licking a dose corresponding to the strength of the digestive fire; this remedy is called \"Amritaprasha\": amrita (the nectar of immortality) for men in the form of ghee;"
       },
       {
         "type": "verse",
@@ -35407,7 +35649,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुधामृतरसं प्राश्यं क्षीरमांसरसाशिना नष्टशुक्रक्षतक्षीणदुर्बलव्याधिकर्शितान्",
         "iast": "sudhāmṛtarasaṃ prāśyaṃ kṣīramāṃsarasāśinā naṣṭaśukrakṣatakṣīṇadurbalavyādhikarśitān",
         "iast_ru": "судха̄мр̣тарасам̣ пра̄ш́йам̣ кш̣ӣрама̄м̣сараса̄ш́ина̄ наш̣т̣аш́укракш̣атакш̣ӣн̣адурбалавйа̄дхикарш́ита̄н",
-        "text": "следует принимать этот нектарный сок, питаясь молоком и мясным бульоном; для тех, у кого утрачено семя, кто истощён травмой, слаб, изнурён болезнью,"
+        "text": "следует принимать этот нектарный сок, питаясь молоком и мясным бульоном; для тех, у кого утрачено семя, кто истощён травмой, слаб, изнурён болезнью,",
+        "text_en": "this nectar-juice should be taken while subsisting on milk and meat broth; for those who have lost semen, who are emaciated from injury, weak, worn out by disease,"
       },
       {
         "type": "verse",
@@ -35415,7 +35658,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्त्रीप्रसक्तान् कृशान् वर्णस्वरहीनांश्च बृंहयेत् कासहिध्माज्वरश्वासदाहतृष्णास्रपित्तनुत् पुत्रदं छर्दिमूर्छाहृद्योनिमूत्रामयापहम्",
         "iast": "strīprasaktān kṛśān varṇasvarahīnāṃśca bṛṃhayet kāsahidhmājvaraśvāsadāhatṛṣṇāsrapittanut putradaṃ chardimūrchāhṛdyonimūtrāmayāpaham",
         "iast_ru": "стрӣпрасакта̄н кр̣ш́а̄н варн̣асварахӣна̄м̣ш́ча бр̣м̣хайет ка̄сахидхма̄джвараш́ва̄сада̄хатр̣ш̣н̣а̄срапиттанут путрадам̣ чхардимӯрчха̄хр̣дйонимӯтра̄майа̄пахам",
-        "text": "пристрастен к женщинам, исхудал, лишён цвета кожи и голоса, — оно укрепляет их; устраняет кашель, икоту, лихорадку, одышку, жжение, жажду, раактапитту; дарует потомство; устраняет рвоту, обморок, болезни сердца, влагалища и мочеполовые расстройства."
+        "text": "пристрастен к женщинам, исхудал, лишён цвета кожи и голоса, — оно укрепляет их; устраняет кашель, икоту, лихорадку, одышку, жжение, жажду, раактапитту; дарует потомство; устраняет рвоту, обморок, болезни сердца, влагалища и мочеполовые расстройства.",
+        "text_en": "addicted to women, wasted, deprived of complexion and voice, it strengthens them; it relieves cough, hiccup, fever, dyspnoea, burning, thirst and raktapitta; it bestows progeny; it relieves vomiting, fainting, diseases of the heart, vagina and urogenital disorders."
       },
       {
         "type": "verse",
@@ -35423,7 +35667,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्वदंष्ट्रोशीरमञ्जिष्ठाबलाकाश्मर्यकत्तृणम् दर्भमूलं पृथक्पर्णीं पलाशर्षभकौ स्थिराम्",
         "iast": "śvadaṃṣṭrośīramañjiṣṭhābalākāśmaryakattṛṇam darbhamūlaṃ pṛthakparṇīṃ palāśarṣabhakau sthirām",
         "iast_ru": "ш́вадам̣ш̣т̣рош́ӣраман̃джиш̣т̣ха̄бала̄ка̄ш́марйакаттр̣н̣ам дарбхамӯлам̣ пр̣тхакпарн̣ӣм̣ пала̄ш́арш̣абхакау стхира̄м",
-        "text": "Шведамштру, уширу, манджиштху, балу, кашмарью, каттрину; корень дарбхи, пртхакпарни, палашу, ршабхаку, стхиру,"
+        "text": "Шведамштру, уширу, манджиштху, балу, кашмарью, каттрину; корень дарбхи, пртхакпарни, палашу, ршабхаку, стхиру,",
+        "text_en": "Shvadamshtra, ushira, manjishtha, balu, kashmarya, kattrina; the root of darbha, prithakparni, palasha, rishabhaka and sthira,"
       },
       {
         "type": "verse",
@@ -35431,7 +35676,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पालिकानि पचेत्तेषां रसे क्षीरचतुर्गुणे कल्कैः स्वगुप्ताजीवन्तीमेदर्षभकजीवकैः",
         "iast": "pālikāni pacetteṣāṃ rase kṣīracaturguṇe kalkaiḥ svaguptājīvantīmedarṣabhakajīvakaiḥ",
         "iast_ru": "па̄лика̄ни пачеттеш̣а̄м̣ расе кш̣ӣрачатургун̣е калкаих̣ свагупта̄джӣвантӣмедарш̣абхакаджӣвакаих̣",
-        "text": "по одной пале каждого, следует сварить их сок в четырёх частях молока, с пастой из свагупты, дживанти, меды, ршабхаки и дживаки,"
+        "text": "по одной пале каждого, следует сварить их сок в четырёх частях молока, с пастой из свагупты, дживанти, меды, ршабхаки и дживаки,",
+        "text_en": "one pala of each; their juice should be cooked in four parts of milk, with a paste of svagupta, jivanti, meda, rishabhaka and jivaka,"
       },
       {
         "type": "verse",
@@ -35439,7 +35685,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शतावर्यृद्धिमृद्वीकाशर्कराश्रावणीबिसैः प्रस्थः सिद्धो घृताद्वातपित्तहृद्रोगशूलनुत्",
         "iast": "śatāvaryṛddhimṛdvīkāśarkarāśrāvaṇībisaiḥ prasthaḥ siddho ghṛtādvātapittahṛdrogaśūlanut",
         "iast_ru": "ш́ата̄варйр̣ддхимр̣двӣка̄ш́аркара̄ш́ра̄ван̣ӣбисаих̣ прастхах̣ сиддхо гхр̣та̄два̄тапиттахр̣дрогаш́ӯланут",
-        "text": "шатавари, риддхи, изюма, сахара, шраваны и лотосового корневища; прастха топлёного масла, приготовленного с этим, устраняет болезни Ваты и Питты, болезни сердца и колику;"
+        "text": "шатавари, риддхи, изюма, сахара, шраваны и лотосового корневища; прастха топлёного масла, приготовленного с этим, устраняет болезни Ваты и Питты, болезни сердца и колику;",
+        "text_en": "shatavari, riddhi, raisins, sugar, shravani and lotus rhizome; a prastha of ghee prepared with this relieves diseases of Vata and Pitta, heart disease and colic;"
       },
       {
         "type": "verse",
@@ -35447,7 +35694,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मूत्रकृच्छ्रप्रमेहार्शः कासशोषक्षयापहः धनुःस्त्रीमद्यभाराध्वखिन्नानां बलमांसदः",
         "iast": "mūtrakṛcchrapramehārśaḥ kāsaśoṣakṣayāpahaḥ dhanuḥstrīmadyabhārādhvakhinnānāṃ balamāṃsadaḥ",
         "iast_ru": "мӯтракр̣ччхрапрамеха̄рш́ах̣ ка̄саш́ош̣акш̣айа̄пахах̣ дханух̣стрӣмадйабха̄ра̄дхвакхинна̄на̄м̣ балама̄м̣садах̣",
-        "text": "устраняет затруднённое мочеиспускание, прамеху, геморрой, кашель, истощение и чахотку; придаёт силу и мышечную массу истощённым от натягивания лука, женщин, хмельного напитка, ношения тяжестей и дальней ходьбы."
+        "text": "устраняет затруднённое мочеиспускание, прамеху, геморрой, кашель, истощение и чахотку; придаёт силу и мышечную массу истощённым от натягивания лука, женщин, хмельного напитка, ношения тяжестей и дальней ходьбы.",
+        "text_en": "it relieves difficult urination, prameha, haemorrhoids, cough, emaciation and consumption; it imparts strength and muscle mass to those wasted by drawing the bow, by women, by intoxicating drink, by carrying loads and by long walking."
       },
       {
         "type": "verse",
@@ -35455,7 +35703,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुकाष्टपलद्राक्षाप्रस्थक्वाथे पचेद् घृतम् पिप्पल्यष्टपले कल्के प्रस्थं सिद्धे च शीतले",
         "iast": "madhukāṣṭapaladrākṣāprasthakvāthe paced ghṛtam pippalyaṣṭapale kalke prasthaṃ siddhe ca śītale",
         "iast_ru": "мадхука̄ш̣т̣апаладра̄кш̣а̄прастхаква̄тхе пачед гхр̣там пиппалйаш̣т̣апале калке прастхам̣ сиддхе ча ш́ӣтале",
-        "text": "Следует сварить топлёное масло на отваре из восьми пал солодки и прастхи изюма, с пастой из восьми пал пиппали; когда прастха масла сварится и остынет,"
+        "text": "Следует сварить топлёное масло на отваре из восьми пал солодки и прастхи изюма, с пастой из восьми пал пиппали; когда прастха масла сварится и остынет,",
+        "text_en": "Ghee should be cooked in a decoction of eight palas of licorice and a prastha of raisins, with a paste of eight palas of pippali; when a prastha of ghee has been cooked and has cooled,"
       },
       {
         "type": "verse",
@@ -35463,7 +35712,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पृथगष्टपलं क्षौद्रशर्कराभ्यां च मिश्रयेत् समसक्तु क्षतक्षीणरक्तगुल्मेषु तद्धितम्",
         "iast": "pṛthagaṣṭapalaṃ kṣaudraśarkarābhyāṃ ca miśrayet samasaktu kṣatakṣīṇaraktagulmeṣu taddhitam",
         "iast_ru": "пр̣тхагаш̣т̣апалам̣ кш̣аудраш́аркара̄бхйа̄м̣ ча миш́райет самасакту кш̣атакш̣ӣн̣арактагулмеш̣у таддхитам",
-        "text": "следует добавить по восемь пал мёда и сахара по отдельности; равное количество муки — это средство полезно при травме, истощении, кровотечении и гульме;"
+        "text": "следует добавить по восемь пал мёда и сахара по отдельности; равное количество муки — это средство полезно при травме, истощении, кровотечении и гульме;",
+        "text_en": "eight palas each of honey and sugar should be added separately; an equal quantity of flour; this remedy is beneficial in injury, emaciation, bleeding and gulma;"
       },
       {
         "type": "verse",
@@ -35471,7 +35721,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धात्रीफलविदारीक्षुजीवनीयरसात् घृतात् गव्याजयोश्च पयसोः प्रस्थं प्रस्थं विपाचयेत्",
         "iast": "dhātrīphalavidārīkṣujīvanīyarasāt ghṛtāt gavyājayośca payasoḥ prasthaṃ prasthaṃ vipācayet",
         "iast_ru": "дха̄трӣпхалавида̄рӣкш̣уджӣванӣйараса̄т гхр̣та̄т гавйа̄джайош́ча пайасох̣ прастхам̣ прастхам̣ випа̄чайет",
-        "text": "следует сварить по прастхе топлёного масла на соке амалаки, видари, сахарного тростника и трав группы дживанья, а также по прастхе коровьего и козьего молока,"
+        "text": "следует сварить по прастхе топлёного масла на соке амалаки, видари, сахарного тростника и трав группы дживанья, а также по прастхе коровьего и козьего молока,",
+        "text_en": "a prastha each of ghee should be cooked in the juice of amalaki, vidari, sugarcane and the herbs of the Jivaniya group, and a prastha each of cow's and goat's milk,"
       },
       {
         "type": "verse",
@@ -35479,7 +35730,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिद्धशीते सिताक्षौद्रद्विप्रस्थं विनयेत्ततः यक्ष्मापस्मारपित्तासृक्कासमेहक्षयापहम् वयःस्थापनमायुष्यं मांसशुक्रबलप्रदम्",
         "iast": "siddhaśīte sitākṣaudradviprasthaṃ vinayettataḥ yakṣmāpasmārapittāsṛkkāsamehakṣayāpaham vayaḥsthāpanamāyuṣyaṃ māṃsaśukrabalapradam",
         "iast_ru": "сиддхаш́ӣте сита̄кш̣аудрадвипрастхам̣ винайеттатах̣ йакш̣ма̄пасма̄рапитта̄ср̣кка̄самехакш̣айа̄пахам вайах̣стха̄панама̄йуш̣йам̣ ма̄м̣саш́украбалапрадам",
-        "text": "когда масло сварилось и остыло, следует добавить по две прастхи сахара и мёда; это средство устраняет чахотку, эпилепсию, раактапитту, кашель, мехи и истощение; сохраняет молодость, продлевает жизнь, даёт мышечную массу, семя и силу."
+        "text": "когда масло сварилось и остыло, следует добавить по две прастхи сахара и мёда; это средство устраняет чахотку, эпилепсию, раактапитту, кашель, мехи и истощение; сохраняет молодость, продлевает жизнь, даёт мышечную массу, семя и силу.",
+        "text_en": "when the ghee is cooked and cooled, two prasthas each of sugar and honey should be added; this remedy relieves consumption, epilepsy, raktapitta, cough, mehas and emaciation; it preserves youth, prolongs life, gives muscle mass, semen and strength."
       },
       {
         "type": "verse",
@@ -35487,7 +35739,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घृतं तु पित्ते ऽभ्यधिके लिह्याद्व्यते ऽधिके पिबेत् लीढं निर्वापयेत् पित्तमल्पत्वाद्धन्ति नानलम् आक्रामत्यनिलं पीतमूष्माणं निरुणाद्धि च",
         "iast": "ghṛtaṃ tu pitte 'bhyadhike lihyādvyate 'dhike pibet līḍhaṃ nirvāpayet pittamalpatvāddhanti nānalam ākrāmatyanilaṃ pītamūṣmāṇaṃ niruṇāddhi ca",
         "iast_ru": "гхр̣там̣ ту питте 'бхйадхике лихйа̄двйате 'дхике пибет лӣд̣хам̣ нирва̄пайет питтамалпатва̄ддханти на̄налам а̄кра̄матйанилам̣ пӣтамӯш̣ма̄н̣ам̣ нирун̣а̄ддхи ча",
-        "text": "При избытке Питты топлёное масло следует принимать слизыванием; при избытке Ваты — пить. Принятое слизыванием, оно успокаивает Питту; из-за малого количества не гасит пищеварительный огонь; выпитое, оно подавляет Вату и сдерживает избыточный жар."
+        "text": "При избытке Питты топлёное масло следует принимать слизыванием; при избытке Ваты — пить. Принятое слизыванием, оно успокаивает Питту; из-за малого количества не гасит пищеварительный огонь; выпитое, оно подавляет Вату и сдерживает избыточный жар.",
+        "text_en": "When Pitta is in excess, ghee should be taken by licking; when Vata is in excess, it should be drunk. Taken by licking, it pacifies Pitta; because of the small quantity it does not extinguish the digestive fire; drunk, it suppresses Vata and restrains excess heat."
       },
       {
         "type": "verse",
@@ -35495,7 +35748,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षामक्षीणकृशाङ्गानामेतान्येव घृतानि तु त्वक्क्षीरीपिप्पलीलाजचूर्णैः स्त्यानानि योजयेत्",
         "iast": "kṣāmakṣīṇakṛśāṅgānāmetānyeva ghṛtāni tu tvakkṣīrīpippalīlājacūrṇaiḥ styānāni yojayet",
         "iast_ru": "кш̣а̄макш̣ӣн̣акр̣ш́а̄н̇га̄на̄мета̄нйева гхр̣та̄ни ту тваккш̣ӣрӣпиппалӣла̄джачӯрн̣аих̣ стйа̄на̄ни йоджайет",
-        "text": "Для истощённых, изнурённых, исхудавших эти же топлёные масла следует применять, загустевшие, с порошком коры, кшири, пиппали и поджаренного риса;"
+        "text": "Для истощённых, изнурённых, исхудавших эти же топлёные масла следует применять, загустевшие, с порошком коры, кшири, пиппали и поджаренного риса;",
+        "text_en": "For the emaciated, the exhausted and the wasted, these same ghees should be applied thickened, with powder of bark, kshiri, pippali and parched rice;"
       },
       {
         "type": "verse",
@@ -35503,7 +35757,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्पिर्गुडान् समध्वंशान् कृत्वा दद्यात् पयोनु च रेतोवीर्यं बलं पुष्टिं तैराशुतरमाप्नुयात्",
         "iast": "sarpirguḍān samadhvaṃśān kṛtvā dadyāt payonu ca retovīryaṃ balaṃ puṣṭiṃ tairāśutaramāpnuyāt",
         "iast_ru": "сарпиргуд̣а̄н самадхвам̣ш́а̄н кр̣тва̄ дадйа̄т пайону ча ретовӣрйам̣ балам̣ пуш̣т̣им̣ таира̄ш́утарама̄пнуйа̄т",
-        "text": "приготовив шарики из топлёного масла и патоки в равных частях с мёдом, следует давать, запивая молоком; ими больной быстрее всего обретает семя, силу и упитанность."
+        "text": "приготовив шарики из топлёного масла и патоки в равных частях с мёдом, следует давать, запивая молоком; ими больной быстрее всего обретает семя, силу и упитанность.",
+        "text_en": "having prepared balls of ghee and jaggery in equal parts with honey, one should give them, washing them down with milk; by these the patient most quickly regains semen, strength and plumpness."
       },
       {
         "type": "verse",
@@ -35511,7 +35766,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बला विदारी ह्रस्वं च पञ्चमूलं पुनर्नवम् पञ्चानां क्षीरिवृक्षाणां शुङ्गा मुष्ट्यंशकास्तथा",
         "iast": "balā vidārī hrasvaṃ ca pañcamūlaṃ punarnavam pañcānāṃ kṣīrivṛkṣāṇāṃ śuṅgā muṣṭyaṃśakāstathā",
         "iast_ru": "бала̄ вида̄рӣ храсвам̣ ча пан̃чамӯлам̣ пунарнавам пан̃ча̄на̄м̣ кш̣ӣривр̣кш̣а̄н̣а̄м̣ ш́ун̇га̄ муш̣т̣йам̣ш́ака̄статха̄",
-        "text": "Балу, видари, малую панчамулу, пунарнаву; побеги пяти млечных деревьев, по одной горсти каждого,"
+        "text": "Балу, видари, малую панчамулу, пунарнаву; побеги пяти млечных деревьев, по одной горсти каждого,",
+        "text_en": "Balu, vidari, the lesser panchamula, punarnava; shoots of the five milky trees, one handful of each,"
       },
       {
         "type": "verse",
@@ -35519,7 +35775,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एषां कषाये द्विक्षीरे विदार्याजरसांशके जीवनीयैः पचेत् पिष्टैरक्षमात्रिर्घृताढकम्",
         "iast": "eṣāṃ kaṣāye dvikṣīre vidāryājarasāṃśake jīvanīyaiḥ pacet piṣṭairakṣamātrirghṛtāḍhakam",
         "iast_ru": "еш̣а̄м̣ каш̣а̄йе двикш̣ӣре вида̄рйа̄джараса̄м̣ш́аке джӣванӣйаих̣ пачет пиш̣т̣аиракш̣ама̄триргхр̣та̄д̣хакам",
-        "text": "на отваре этих трав с двойным количеством молока и части сока видари и козьего мяса, следует сварить адхаку топлёного масла с растёртыми травами группы дживанья, по одной акше каждой,"
+        "text": "на отваре этих трав с двойным количеством молока и части сока видари и козьего мяса, следует сварить адхаку топлёного масла с растёртыми травами группы дживанья, по одной акше каждой,",
+        "text_en": "in a decoction of these herbs with a double quantity of milk and parts of the juice of vidari and goat meat, an adhaka of ghee should be cooked with ground herbs of the Jivaniya group, one aksha of each,"
       },
       {
         "type": "verse",
@@ -35527,7 +35784,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सितापलानि पूते च शीते द्वात्रिंशदावपेत् गोधूमपिप्पलीवांशीचूर्णं शृङ्गाटकस्य च",
         "iast": "sitāpalāni pūte ca śīte dvātriṃśadāvapet godhūmapippalīvāṃśīcūrṇaṃ śṛṅgāṭakasya ca",
         "iast_ru": "сита̄пала̄ни пӯте ча ш́ӣте два̄трим̣ш́ада̄вапет годхӯмапиппалӣва̄м̣ш́ӣчӯрн̣ам̣ ш́р̣н̇га̄т̣акасйа ча",
-        "text": "процедив и остудив, следует добавить тридцать два пала сахара, порошок пшеницы, пиппали, вамши и шрингатаки,"
+        "text": "процедив и остудив, следует добавить тридцать два пала сахара, порошок пшеницы, пиппали, вамши и шрингатаки,",
+        "text_en": "having strained and cooled it, thirty-two palas of sugar should be added, a powder of wheat, pippali, vamsha and shringataka,"
       },
       {
         "type": "verse",
@@ -35535,7 +35793,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समाक्षिकं कौडविकं तत्सर्वं खजमूर्च्छितम् स्त्यानं सर्पिर्गुडान् कृत्वा भूर्जपत्रेण वेष्टयेत्",
         "iast": "samākṣikaṃ kauḍavikaṃ tatsarvaṃ khajamūrcchitam styānaṃ sarpirguḍān kṛtvā bhūrjapatreṇa veṣṭayet",
         "iast_ru": "сама̄кш̣икам̣ кауд̣авикам̣ татсарвам̣ кхаджамӯрччхитам стйа̄нам̣ сарпиргуд̣а̄н кр̣тва̄ бхӯрджапатрен̣а веш̣т̣айет",
-        "text": "по одному кудаве каждого, вместе с мёдом; всё это, взбитое мутовкой, когда станет густым, следует сформовать в шарики из топлёного масла и патоки и обернуть берёзовой корой;"
+        "text": "по одному кудаве каждого, вместе с мёдом; всё это, взбитое мутовкой, когда станет густым, следует сформовать в шарики из топлёного масла и патоки и обернуть берёзовой корой;",
+        "text_en": "one kudava of each, together with honey; all this, whipped with a churning stick, when it has become thick, should be formed into balls of ghee and jaggery and wrapped in birch bark;"
       },
       {
         "type": "verse",
@@ -35543,7 +35802,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तान् जग्ध्वा पालिकान् क्षीरं मद्यंत्वनुपिबेत् कफे शोषे कासे क्षते क्षीणे श्रमस्त्रीभारकर्शिते",
         "iast": "tān jagdhvā pālikān kṣīraṃ madyaṃtvanupibet kaphe śoṣe kāse kṣate kṣīṇe śramastrībhārakarśite",
         "iast_ru": "та̄н джагдхва̄ па̄лика̄н кш̣ӣрам̣ мадйам̣тванупибет капхе ш́ош̣е ка̄се кш̣ате кш̣ӣн̣е ш́рамастрӣбха̄ракарш́ите",
-        "text": "съев такие шарики по одной пале, следует запить молоком или хмельным напитком; показано при болезни от Капхи, чахотке, кашле, травме, истощении, у изнурённых переутомлением, женщинами и ношением тяжестей;"
+        "text": "съев такие шарики по одной пале, следует запить молоком или хмельным напитком; показано при болезни от Капхи, чахотке, кашле, травме, истощении, у изнурённых переутомлением, женщинами и ношением тяжестей;",
+        "text_en": "having eaten such balls, one pala each, one should wash them down with milk or an intoxicating drink; indicated in Kapha disease, consumption, cough, injury, emaciation, in those exhausted by overexertion, women and carrying loads;"
       },
       {
         "type": "verse",
@@ -35551,7 +35811,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रक्तनिष्ठीवने तापे पीनसे चोरसि स्थिते शस्ताः पार्श्वशिरःशूले भेदे च स्वरवर्णयोः",
         "iast": "raktaniṣṭhīvane tāpe pīnase corasi sthite śastāḥ pārśvaśiraḥśūle bhede ca svaravarṇayoḥ",
         "iast_ru": "рактаниш̣т̣хӣване та̄пе пӣнасе чораси стхите ш́аста̄х̣ па̄рш́ваш́ирах̣ш́ӯле бхеде ча свараварн̣айох̣",
-        "text": "при кровохарканье, жаре, насморке, болезни, расположенной в груди, — рекомендуется; при боли в боку и голове, при изменении голоса и цвета кожи."
+        "text": "при кровохарканье, жаре, насморке, болезни, расположенной в груди, — рекомендуется; при боли в боку и голове, при изменении голоса и цвета кожи.",
+        "text_en": "in spitting of blood, fever, catarrh, and disease located in the chest, it is recommended; in pain in the side and head, and in change of voice and complexion."
       },
       {
         "type": "verse",
@@ -35559,7 +35820,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्शकराशृते क्षीरघृततैलाढकत्रये चूर्णीकृताः क्षिपेत् पक्वसान्द्रे दशपलाः पृथक्",
         "iast": "sarśakarāśṛte kṣīraghṛtatailāḍhakatraye cūrṇīkṛtāḥ kṣipet pakvasāndre daśapalāḥ pṛthak",
         "iast_ru": "сарш́акара̄ш́р̣те кш̣ӣрагхр̣татаила̄д̣хакатрайе чӯрн̣ӣкр̣та̄х̣ кш̣ипет пакваса̄ндре даш́апала̄х̣ пр̣тхак",
-        "text": "В три адхаки молока, топлёного масла и растительного масла, вместе с сахаром, сваренных до густоты, следует добавить растёртые в порошок, по десять пал каждого:"
+        "text": "В три адхаки молока, топлёного масла и растительного масла, вместе с сахаром, сваренных до густоты, следует добавить растёртые в порошок, по десять пал каждого:",
+        "text_en": "Into three adhakas of milk, ghee and vegetable oil, together with sugar, cooked to thickness, one should add the following, ground to a powder, ten palas of each:"
       },
       {
         "type": "verse",
@@ -35567,7 +35829,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्राक्षात्मगुप्तावर्षाभूसमङ्गाभीरुपिप्पलीः तद्वद्विदार्यामलके प्रस्थार्धं विश्वभेषजम्",
         "iast": "drākṣātmaguptāvarṣābhūsamaṅgābhīrupippalīḥ tadvadvidāryāmalake prasthārdhaṃ viśvabheṣajam",
         "iast_ru": "дра̄кш̣а̄тмагупта̄варш̣а̄бхӯсаман̇га̄бхӣрупиппалӣх̣ тадвадвида̄рйа̄малаке прастха̄рдхам̣ виш́вабхеш̣аджам",
-        "text": "изюм, атмагупту, варшабху, самангу, абхиру, пиппали; подобным же образом видари и амалаки, по полпрастхи; сухой имбирь;"
+        "text": "изюм, атмагупту, варшабху, самангу, абхиру, пиппали; подобным же образом видари и амалаки, по полпрастхи; сухой имбирь;",
+        "text_en": "raisins, atmagupta, varshabhu, samanga, abhiru, pippali; likewise vidari and amalaki, half a prastha each; dry ginger;"
       },
       {
         "type": "verse",
@@ -35575,7 +35838,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षामः क्षीणः क्षतः शुष्यंस्तान्खादेत् पालिकैर्गुडैः तथा सद्यो रसादीनां वृध्या पुष्टिं समश्नुते",
         "iast": "kṣāmaḥ kṣīṇaḥ kṣataḥ śuṣyaṃstānkhādet pālikairguḍaiḥ tathā sadyo rasādīnāṃ vṛdhyā puṣṭiṃ samaśnute",
         "iast_ru": "кш̣а̄мах̣ кш̣ӣн̣ах̣ кш̣атах̣ ш́уш̣йам̣ста̄нкха̄дет па̄ликаиргуд̣аих̣ татха̄ садйо раса̄дӣна̄м̣ вр̣дхйа̄ пуш̣т̣им̣ самаш́нуте",
-        "text": "истощённый, изнурённый, страдающий от травмы, иссыхающий пусть ест это в виде шариков с патокой, по одной пале — так он немедленно обретает упитанность благодаря увеличению расы и прочих тканей."
+        "text": "истощённый, изнурённый, страдающий от травмы, иссыхающий пусть ест это в виде шариков с патокой, по одной пале — так он немедленно обретает упитанность благодаря увеличению расы и прочих тканей.",
+        "text_en": "one who is emaciated, exhausted, suffering from injury, wasting away, should eat this in the form of balls with jaggery, one pala each; thus he immediately regains plumpness through the increase of rasa and the other tissues."
       },
       {
         "type": "verse",
@@ -35583,7 +35847,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गोक्षीरार्धाढकं सर्पिः प्रस्थमिक्षुरसाढकम् रसाद्विदार्याः कुडवं रसात् प्रस्थं च तैत्तिरात्",
         "iast": "gokṣīrārdhāḍhakaṃ sarpiḥ prasthamikṣurasāḍhakam rasādvidāryāḥ kuḍavaṃ rasāt prasthaṃ ca taittirāt",
         "iast_ru": "гокш̣ӣра̄рдха̄д̣хакам̣ сарпих̣ прастхамикш̣ураса̄д̣хакам раса̄двида̄рйа̄х̣ куд̣авам̣ раса̄т прастхам̣ ча таиттира̄т",
-        "text": "Поладхаки коровьего молока, прастху топлёного масла, адхаку сока сахарного тростника, кудаву сока видари, прастху сока мяса куропатки,"
+        "text": "Поладхаки коровьего молока, прастху топлёного масла, адхаку сока сахарного тростника, кудаву сока видари, прастху сока мяса куропатки,",
+        "text_en": "One and a half adhakas of cow's milk, a prastha of ghee, an adhaka of sugarcane juice, a kudava of vidari juice, a prastha of the juice of partridge meat,"
       },
       {
         "type": "verse",
@@ -35591,7 +35856,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दद्यात् सिध्यति तस्मिंस्तु पिष्टानिक्षुरसैरिमान् मधूकषुष्पं कुडवं कुडवं च प्रियालतः",
         "iast": "dadyāt sidhyati tasmiṃstu piṣṭānikṣurasairimān madhūkaṣuṣpaṃ kuḍavaṃ kuḍavaṃ ca priyālataḥ",
         "iast_ru": "дадйа̄т сидхйати тасмим̣сту пиш̣т̣а̄никш̣урасаирима̄н мадхӯкаш̣уш̣пам̣ куд̣авам̣ куд̣авам̣ ча прийа̄латах̣",
-        "text": "следует добавить; когда это сварится, следует добавить растёртые с соком сахарного тростника: кудаву цветков мадхуки, кудаву семян приялы,"
+        "text": "следует добавить; когда это сварится, следует добавить растёртые с соком сахарного тростника: кудаву цветков мадхуки, кудаву семян приялы,",
+        "text_en": "should be added; when this has been cooked, one should add, ground with sugarcane juice: a kudava of madhuka flowers, a kudava of priyala seeds,"
       },
       {
         "type": "verse",
@@ -35599,7 +35865,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पलद्वयं तवक्षीर्याः खर्जूराणि च विंशतिः पृथग्विभीतकान्मज्ञः पिप्पल्याश्च चतुर्थिकाम्",
         "iast": "paladvayaṃ tavakṣīryāḥ kharjūrāṇi ca viṃśatiḥ pṛthagvibhītakānmajñaḥ pippalyāśca caturthikām",
         "iast_ru": "паладвайам̣ тавакш̣ӣрйа̄х̣ кхарджӯра̄н̣и ча вим̣ш́атих̣ пр̣тхагвибхӣтака̄нмаджн̃ах̣ пиппалйа̄ш́ча чатуртхика̄м",
-        "text": "два пала тавакшири, двадцать фиников, отдельно мякоть бибхитаки и четверть части пиппали,"
+        "text": "два пала тавакшири, двадцать фиников, отдельно мякоть бибхитаки и четверть части пиппали,",
+        "text_en": "two palas of tavakshiri, twenty dates, separately the pulp of bibhitaki and a quarter part of pippali,"
       },
       {
         "type": "verse",
@@ -35607,7 +35874,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिंशत्पलानि खण्डाच्च मधुकात् पाणिमानिकाम् तथार्धपलिकान्यत्र जीवनीयानि दापयेत्",
         "iast": "triṃśatpalāni khaṇḍācca madhukāt pāṇimānikām tathārdhapalikānyatra jīvanīyāni dāpayet",
         "iast_ru": "трим̣ш́атпала̄ни кхан̣д̣а̄чча мадхука̄т па̄н̣има̄ника̄м татха̄рдхапалика̄нйатра джӣванӣйа̄ни да̄пайет",
-        "text": "тридцать пал сахара-кханды, горсть солодки; а также по половине пала трав группы дживанья, следует добавить;"
+        "text": "тридцать пал сахара-кханды, горсть солодки; а также по половине пала трав группы дживанья, следует добавить;",
+        "text_en": "thirty palas of sugar candy, a handful of licorice; and half a pala each of the herbs of the Jivaniya group should be added;"
       },
       {
         "type": "verse",
@@ -35615,7 +35883,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिद्धे द्विकुडवं क्षौद्राच्छीते दत्वा च मोदकान् कारयेन्मरिचाजाजीपलचूर्णावचूर्णितान्",
         "iast": "siddhe dvikuḍavaṃ kṣaudrācchīte datvā ca modakān kārayenmaricājājīpalacūrṇāvacūrṇitān",
         "iast_ru": "сиддхе двикуд̣авам̣ кш̣аудра̄ччхӣте датва̄ ча модака̄н ка̄райенмарича̄джа̄джӣпалачӯрн̣а̄вачӯрн̣ита̄н",
-        "text": "когда состав сварится и остынет, добавив два кудавы мёда, следует сформовать модаки (шарики), обсыпанные порошком перца и зиры по одному палу;"
+        "text": "когда состав сварится и остынет, добавив два кудавы мёда, следует сформовать модаки (шарики), обсыпанные порошком перца и зиры по одному палу;",
+        "text_en": "when the compound has been cooked and cooled, having added two kudavas of honey, modakas (balls) should be formed, dusted with powder of pepper and cumin, one pala each;"
       },
       {
         "type": "verse",
@@ -35623,7 +35892,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातासृक्पित्तरोगेषु क्षतकासक्षयेषु च क्षीणौजःस्वरशुक्रेषु योनिदोषेषु संस्रवे मृतप्रजासु वन्ध्यासु हितं गर्भस्य च स्रुतौ",
         "iast": "vātāsṛkpittarogeṣu kṣatakāsakṣayeṣu ca kṣīṇaujaḥsvaraśukreṣu yonidoṣeṣu saṃsrave mṛtaprajāsu vandhyāsu hitaṃ garbhasya ca srutau",
         "iast_ru": "ва̄та̄ср̣кпиттарогеш̣у кш̣атака̄сакш̣айеш̣у ча кш̣ӣн̣ауджах̣свараш́укреш̣у йонидош̣еш̣у сам̣сраве мр̣тапраджа̄су вандхйа̄су хитам̣ гарбхасйа ча срутау",
-        "text": "это средство полезно при подагре (ватасридж), болезнях Питты, кашле от травмы и истощении; при истощении оджаса, голоса и семени; при болезнях влагалища и выделениях; для рожавших мёртвых детей, для бесплодных, а также при выкидыше."
+        "text": "это средство полезно при подагре (ватасридж), болезнях Питты, кашле от травмы и истощении; при истощении оджаса, голоса и семени; при болезнях влагалища и выделениях; для рожавших мёртвых детей, для бесплодных, а также при выкидыше.",
+        "text_en": "this remedy is beneficial in gout (vatarakta), diseases of Pitta, cough from injury and emaciation; in depletion of ojas, voice and semen; in diseases of the vagina and discharges; for women who have borne dead children, for the barren, and also in miscarriage."
       },
       {
         "type": "verse",
@@ -35631,7 +35901,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वीतत्वगास्थिकूष्माण्डतुलां स्विन्नां पुनः पचेत्",
         "iast": "vītatvagāsthikūṣmāṇḍatulāṃ svinnāṃ punaḥ pacet",
         "iast_ru": "вӣтатвага̄стхикӯш̣ма̄н̣д̣атула̄м̣ свинна̄м̣ пунах̣ пачет",
-        "text": "Тулу тыквы, очищенной от кожи и семян, распаренную, следует вновь варить,"
+        "text": "Тулу тыквы, очищенной от кожи и семян, распаренную, следует вновь варить,",
+        "text_en": "A tula of gourd (kushmanda), peeled and freed of seeds, steamed, should be cooked again,"
       },
       {
         "type": "verse",
@@ -35639,7 +35910,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घट्टयन् सर्पिषः प्रस्थे क्षौद्रवर्णे ऽत्र च क्षिपेत् स्वण्डाच्छतं कणाशुण्ठ्योर्द्विपलं जीरकादपि",
         "iast": "ghaṭṭayan sarpiṣaḥ prasthe kṣaudravarṇe 'tra ca kṣipet svaṇḍācchataṃ kaṇāśuṇṭhyordvipalaṃ jīrakādapi",
         "iast_ru": "гхат̣т̣айан сарпиш̣ах̣ прастхе кш̣аудраварн̣е 'тра ча кш̣ипет сван̣д̣а̄ччхатам̣ кан̣а̄ш́ун̣т̣хйордвипалам̣ джӣрака̄дапи",
-        "text": "помешивая, в прастхе топлёного масла, до цвета мёда; сюда же следует добавить сто единиц сахара-кханды, два пала пиппали и сухого имбиря, а также зиры,"
+        "text": "помешивая, в прастхе топлёного масла, до цвета мёда; сюда же следует добавить сто единиц сахара-кханды, два пала пиппали и сухого имбиря, а также зиры,",
+        "text_en": "stirring, in a prastha of ghee, until it reaches the colour of honey; to this one should add one hundred units of sugar candy, two palas of pippali and dry ginger, and cumin,"
       },
       {
         "type": "verse",
@@ -35647,7 +35919,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिजातधान्यमरिचं पृथगर्धपलांशकम् अवतारितशीते च दत्वा क्षौद्रं घृतार्धिकम्",
         "iast": "trijātadhānyamaricaṃ pṛthagardhapalāṃśakam avatāritaśīte ca datvā kṣaudraṃ ghṛtārdhikam",
         "iast_ru": "триджа̄тадха̄нйамаричам̣ пр̣тхагардхапала̄м̣ш́акам авата̄риташ́ӣте ча датва̄ кш̣аудрам̣ гхр̣та̄рдхикам",
-        "text": "триджату, кориандр, перец — по половине пала каждого; когда состав снят с огня и остыл, добавив мёд в половинном количестве от топлёного масла,"
+        "text": "триджату, кориандр, перец — по половине пала каждого; когда состав снят с огня и остыл, добавив мёд в половинном количестве от топлёного масла,",
+        "text_en": "trijata, coriander and pepper, half a pala of each; when the compound has been taken off the fire and has cooled, having added honey in half the quantity of the ghee,"
       },
       {
         "type": "verse",
@@ -35655,7 +35928,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वजेनामथ्य च स्थाप्यं तन्निहन्त्युपयोजितम् कासहिध्माज्वरश्वासरक्तपित्तक्षतक्षयान्",
         "iast": "svajenāmathya ca sthāpyaṃ tannihantyupayojitam kāsahidhmājvaraśvāsaraktapittakṣatakṣayān",
         "iast_ru": "сваджена̄матхйа ча стха̄пйам̣ таннихантйупайоджитам ка̄сахидхма̄джвараш́ва̄сарактапиттакш̣атакш̣айа̄н",
-        "text": "перемешав вилкой (мутовкой), следует хранить; принимаемое, оно устраняет кашель, икоту, лихорадку, одышку, раактапитту, болезни от травмы и истощения;"
+        "text": "перемешав вилкой (мутовкой), следует хранить; принимаемое, оно устраняет кашель, икоту, лихорадку, одышку, раактапитту, болезни от травмы и истощения;",
+        "text_en": "and stirred it with a whisk (churning stick), it should be stored; taken, it relieves cough, hiccup, fever, dyspnoea, raktapitta, diseases from injury and emaciation;"
       },
       {
         "type": "verse",
@@ -35663,7 +35937,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उरःसन्धानजननं मेधास्मृतिबलप्रदम् अश्विभ्यांन्निर्मितं हृद्यं कूष्माण्डकरसायनम्",
         "iast": "uraḥsandhānajananaṃ medhāsmṛtibalapradam aśvibhyāṃnnirmitaṃ hṛdyaṃ kūṣmāṇḍakarasāyanam",
         "iast_ru": "урах̣сандха̄наджананам̣ медха̄смр̣тибалапрадам аш́вибхйа̄м̣ннирмитам̣ хр̣дйам̣ кӯш̣ма̄н̣д̣акараса̄йанам",
-        "text": "способствует заживлению груди, придаёт разум, память и силу; создано Ашвинами; полезно для сердца — эта расаяна из тыквы."
+        "text": "способствует заживлению груди, придаёт разум, память и силу; создано Ашвинами; полезно для сердца — эта расаяна из тыквы.",
+        "text_en": "it promotes the healing of the chest, bestows intellect, memory and strength; created by the Ashvins; beneficial for the heart: this is the gourd rasayana."
       },
       {
         "type": "verse",
@@ -35671,7 +35946,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिवेन्नागबलामूलस्यार्धकर्षाभिवर्धितम् पलं क्षीरयुतं मासं क्षीरवृत्तिरनन्नभुक्",
         "iast": "pivennāgabalāmūlasyārdhakarṣābhivardhitam palaṃ kṣīrayutaṃ māsaṃ kṣīravṛttiranannabhuk",
         "iast_ru": "пивенна̄габала̄мӯласйа̄рдхакарш̣а̄бхивардхитам палам̣ кш̣ӣрайутам̣ ма̄сам̣ кш̣ӣравр̣ттирананнабхук",
-        "text": "Следует пить сок корня нагабалы, увеличивая на половину карши ежедневно до одного пала, вместе с молоком, в течение месяца, питаясь только молоком, не принимая другой пищи;"
+        "text": "Следует пить сок корня нагабалы, увеличивая на половину карши ежедневно до одного пала, вместе с молоком, в течение месяца, питаясь только молоком, не принимая другой пищи;",
+        "text_en": "The juice of the root of nagabala should be drunk, increasing by half a karsha daily up to one pala, together with milk, for a month, subsisting only on milk and taking no other food;"
       },
       {
         "type": "verse",
@@ -35679,7 +35955,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एष प्रयोगः पुष्ट्यायुर्बलवर्णकरः परम् मण्डूकपर्ण्याः कल्पो ऽयं यष्ट्या वित्तौषधस्य च",
         "iast": "eṣa prayogaḥ puṣṭyāyurbalavarṇakaraḥ param maṇḍūkaparṇyāḥ kalpo 'yaṃ yaṣṭyā vittauṣadhasya ca",
         "iast_ru": "еш̣а прайогах̣ пуш̣т̣йа̄йурбалаварн̣акарах̣ парам ман̣д̣ӯкапарн̣йа̄х̣ калпо 'йам̣ йаш̣т̣йа̄ виттауш̣адхасйа ча",
-        "text": "это средство превосходно даёт упитанность, долголетие, силу и цвет кожи; таков же метод для мандукапарни, солодки и других известных лекарств."
+        "text": "это средство превосходно даёт упитанность, долголетие, силу и цвет кожи; таков же метод для мандукапарни, солодки и других известных лекарств.",
+        "text_en": "this remedy excellently bestows plumpness, longevity, strength and complexion; the same method applies to mandukaparni, licorice and other well-known medicines."
       },
       {
         "type": "verse",
@@ -35687,7 +35964,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पादशेषं जलद्रोणे पचेन्नागबलातुलाम् तेन क्वाथेन तुल्यांशं घृतं क्षीरं च साधयेत्",
         "iast": "pādaśeṣaṃ jaladroṇe pacennāgabalātulām tena kvāthena tulyāṃśaṃ ghṛtaṃ kṣīraṃ ca sādhayet",
         "iast_ru": "па̄даш́еш̣ам̣ джаладрон̣е паченна̄габала̄тула̄м тена ква̄тхена тулйа̄м̣ш́ам̣ гхр̣там̣ кш̣ӣрам̣ ча са̄дхайет",
-        "text": "Следует сварить в дроне воды тулу нагабалы до остатка в четверть; на этом отваре, в равных долях, следует сварить топлёное масло и молоко,"
+        "text": "Следует сварить в дроне воды тулу нагабалы до остатка в четверть; на этом отваре, в равных долях, следует сварить топлёное масло и молоко,",
+        "text_en": "A tula of nagabala should be boiled in a drona of water until a quarter remains; in this decoction, in equal parts, ghee and milk should be cooked,"
       },
       {
         "type": "verse",
@@ -35695,7 +35973,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पलार्धिकैश्चातिबलाबलायष्टीपुनर्नवैः प्रपौण्डरीककाश्मर्यप्रियालकपिकच्छुभिः",
         "iast": "palārdhikaiścātibalābalāyaṣṭīpunarnavaiḥ prapauṇḍarīkakāśmaryapriyālakapikacchubhiḥ",
         "iast_ru": "пала̄рдхикаиш́ча̄тибала̄бала̄йаш̣т̣ӣпунарнаваих̣ прапаун̣д̣арӣкака̄ш́марйаприйа̄лакапикаччхубхих̣",
-        "text": "по половине пала атибалы, балы, солодки, пунарнавы; прапаундарики, кашмарьи, приялы, капикаччху,"
+        "text": "по половине пала атибалы, балы, солодки, пунарнавы; прапаундарики, кашмарьи, приялы, капикаччху,",
+        "text_en": "half a pala each of atibala, bala, licorice and punarnava; prapaundarika, kashmarya, priyala, kapikacchu,"
       },
       {
         "type": "verse",
@@ -35703,7 +35982,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अश्वगन्धासिताभीरुमेदायुग्मत्रिकण्टकैः काकोलीक्षीरकाकोलीक्षीरशुक्लाद्विजीरकैः",
         "iast": "aśvagandhāsitābhīrumedāyugmatrikaṇṭakaiḥ kākolīkṣīrakākolīkṣīraśuklādvijīrakaiḥ",
         "iast_ru": "аш́вагандха̄сита̄бхӣрумеда̄йугматрикан̣т̣акаих̣ ка̄колӣкш̣ӣрака̄колӣкш̣ӣраш́укла̄двиджӣракаих̣",
-        "text": "ашвагандхи, сахара, абхиру, меды, двух видов трикантаки; каколи, кширакаколи, кширашуклы, двух видов зиры,"
+        "text": "ашвагандхи, сахара, абхиру, меды, двух видов трикантаки; каколи, кширакаколи, кширашуклы, двух видов зиры,",
+        "text_en": "ashwagandha, sugar, abhiru, meda, the two kinds of trikantaka; kakoli, kshirakakoli, kshirashukla, the two kinds of cumin,"
       },
       {
         "type": "verse",
@@ -35711,7 +35991,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मृणालबिसखर्जूरशृङ्गाटककशेरुकैः एतन्नागबलासर्पिः पित्तरक्तं क्षतक्षयम्",
         "iast": "mṛṇālabisakharjūraśṛṅgāṭakakaśerukaiḥ etannāgabalāsarpiḥ pittaraktaṃ kṣatakṣayam",
         "iast_ru": "мр̣н̣а̄лабисакхарджӯраш́р̣н̇га̄т̣акакаш́ерукаих̣ етанна̄габала̄сарпих̣ питтарактам̣ кш̣атакш̣айам",
-        "text": "лотосового корневища, лотосового стебля, фиников, шрингатаки, кашеруки, — это масло с нагабалой устраняет раактапитту, болезни от травмы и истощения,"
+        "text": "лотосового корневища, лотосового стебля, фиников, шрингатаки, кашеруки, — это масло с нагабалой устраняет раактапитту, болезни от травмы и истощения,",
+        "text_en": "lotus rhizome, lotus stalk, dates, shringataka, kasheruka: this ghee with nagabala relieves raktapitta, diseases from injury and emaciation,"
       },
       {
         "type": "verse",
@@ -35719,7 +36000,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जयेत्तृड्भ्रमदाहांश्च बलपुष्टिकरं परम् वर्ण्यमायुष्यमोजस्यं वलीपलितनाशनम् उपयुज्य तु षण्मासाद् वृद्धो ऽपि तरुणायते",
         "iast": "jayettṛḍbhramadāhāṃśca balapuṣṭikaraṃ param varṇyamāyuṣyamojasyaṃ valīpalitanāśanam upayujya tu ṣaṇmāsād vṛddho 'pi taruṇāyate",
         "iast_ru": "джайеттр̣д̣бхрамада̄ха̄м̣ш́ча балапуш̣т̣икарам̣ парам варн̣йама̄йуш̣йамоджасйам̣ валӣпалитана̄ш́анам упайуджйа ту ш̣ан̣ма̄са̄д вр̣ддхо 'пи тарун̣а̄йате",
-        "text": "побеждает жажду, головокружение, жжение; в высшей степени придаёт силу и упитанность; улучшает цвет кожи, продлевает жизнь, увеличивает оджас, устраняет морщины и седину; применяя его в течение шести месяцев, даже старик молодеет вновь."
+        "text": "побеждает жажду, головокружение, жжение; в высшей степени придаёт силу и упитанность; улучшает цвет кожи, продлевает жизнь, увеличивает оджас, устраняет морщины и седину; применяя его в течение шести месяцев, даже старик молодеет вновь.",
+        "text_en": "conquers thirst, giddiness and burning; in the highest degree it imparts strength and plumpness; improves complexion, prolongs life, increases ojas, removes wrinkles and grey hair; by using it for six months even an old man becomes young again."
       },
       {
         "type": "verse",
@@ -35727,7 +36009,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शर्करा पिप्पलीचूर्णैः सर्पिषा माक्षिकेण च संयुतं वा शृतं क्षीरं पिबेत् कासज्वरापहम्",
         "iast": "śarkarā pippalīcūrṇaiḥ sarpiṣā mākṣikeṇa ca saṃyutaṃ vā śṛtaṃ kṣīraṃ pibet kāsajvarāpaham",
         "iast_ru": "ш́аркара̄ пиппалӣчӯрн̣аих̣ сарпиш̣а̄ ма̄кш̣икен̣а ча сам̣йутам̣ ва̄ ш́р̣там̣ кш̣ӣрам̣ пибет ка̄саджвара̄пахам",
-        "text": "Молоко, сваренное с сахаром, порошком пиппали, топлёным маслом и мёдом, следует пить — оно устраняет кашель и лихорадку;"
+        "text": "Молоко, сваренное с сахаром, порошком пиппали, топлёным маслом и мёдом, следует пить — оно устраняет кашель и лихорадку;",
+        "text_en": "Milk cooked with sugar, powder of pippali, ghee and honey should be drunk; it relieves cough and fever;"
       },
       {
         "type": "verse",
@@ -35735,7 +36018,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "फलाम्लं सर्पिषा भृष्टं विदारीक्षुरसे कृतम् स्त्रीषु क्षीणः पिबेद्यूषं जीवनं बृंहणं परम्",
         "iast": "phalāmlaṃ sarpiṣā bhṛṣṭaṃ vidārīkṣurase kṛtam strīṣu kṣīṇaḥ pibedyūṣaṃ jīvanaṃ bṛṃhaṇaṃ param",
         "iast_ru": "пхала̄млам̣ сарпиш̣а̄ бхр̣ш̣т̣ам̣ вида̄рӣкш̣урасе кр̣там стрӣш̣у кш̣ӣн̣ах̣ пибедйӯш̣ам̣ джӣванам̣ бр̣м̣хан̣ам̣ парам",
-        "text": "кислый плод, обжаренный на топлёном масле, приготовленный на соке видари и сахарного тростника, — истощённый чрезмерным влечением к женщинам пусть пьёт этот суп, дающий превосходное укрепление жизни;"
+        "text": "кислый плод, обжаренный на топлёном масле, приготовленный на соке видари и сахарного тростника, — истощённый чрезмерным влечением к женщинам пусть пьёт этот суп, дающий превосходное укрепление жизни;",
+        "text_en": "a sour fruit, fried in ghee and prepared in the juice of vidari and sugarcane: one emaciated by excessive attachment to women should drink this soup, which gives excellent fortification of life;"
       },
       {
         "type": "verse",
@@ -35743,7 +36027,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सक्तूनां वस्त्रपूतानां मन्थं क्षौद्रघृतावितम् यवान्नसात्म्यो दीप्ताग्निः क्षतक्षीणः पिबेन्नरः",
         "iast": "saktūnāṃ vastrapūtānāṃ manthaṃ kṣaudraghṛtāvitam yavānnasātmyo dīptāgniḥ kṣatakṣīṇaḥ pibennaraḥ",
         "iast_ru": "сактӯна̄м̣ вастрапӯта̄на̄м̣ мантхам̣ кш̣аудрагхр̣та̄витам йава̄ннаса̄тмйо дӣпта̄гних̣ кш̣атакш̣ӣн̣ах̣ пибеннарах̣",
-        "text": "человек, привычный к ячменной пище, с разгоревшимся пищеварительным огнём, страдающий от травмы и истощения, пусть пьёт мантху из процеженной через ткань муки, вместе с мёдом и топлёным маслом;"
+        "text": "человек, привычный к ячменной пище, с разгоревшимся пищеварительным огнём, страдающий от травмы и истощения, пусть пьёт мантху из процеженной через ткань муки, вместе с мёдом и топлёным маслом;",
+        "text_en": "a man accustomed to a barley diet, with kindled digestive fire, suffering from injury and emaciation, should drink mantha made of flour strained through cloth, together with honey and ghee;"
       },
       {
         "type": "verse",
@@ -35751,7 +36036,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीवनीयोपसिद्धं वा जाङ्गलं घृतभर्जितम् रसं प्रयोजयेत् क्षीणे व्यञ्जनार्थं सशर्करम्",
         "iast": "jīvanīyopasiddhaṃ vā jāṅgalaṃ ghṛtabharjitam rasaṃ prayojayet kṣīṇe vyañjanārthaṃ saśarkaram",
         "iast_ru": "джӣванӣйопасиддхам̣ ва̄ джа̄н̇галам̣ гхр̣табхарджитам расам̣ прайоджайет кш̣ӣн̣е вйан̃джана̄ртхам̣ саш́аркарам",
-        "text": "или же следует применять для истощённого мясной бульон диких животных, приготовленный с травами группы дживанья, обжаренный на топлёном масле, вместе с сахаром, в качестве приправы;"
+        "text": "или же следует применять для истощённого мясной бульон диких животных, приготовленный с травами группы дживанья, обжаренный на топлёном масле, вместе с сахаром, в качестве приправы;",
+        "text_en": "or else for the emaciated one should apply meat broth of wild animals, prepared with the herbs of the Jivaniya group, fried in ghee, together with sugar as seasoning;"
       },
       {
         "type": "verse",
@@ -35759,7 +36045,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गोमहिष्यश्वनागाजैः क्षीरैर्मांससैस्तथा यवान्नं भोजयेद्यूषैः फलाम्लैर्वा घृताप्लुतैः",
         "iast": "gomahiṣyaśvanāgājaiḥ kṣīrairmāṃsasaistathā yavānnaṃ bhojayedyūṣaiḥ phalāmlairvā ghṛtāplutaiḥ",
         "iast_ru": "гомахиш̣йаш́вана̄га̄джаих̣ кш̣ӣраирма̄м̣сасаистатха̄ йава̄ннам̣ бходжайедйӯш̣аих̣ пхала̄млаирва̄ гхр̣та̄плутаих̣",
-        "text": "следует кормить ячменной пищей вместе с молоком коровы, буйволицы, лошади, слонихи и козы, а также мясом, супами и кислыми плодами, пропитанными топлёным маслом."
+        "text": "следует кормить ячменной пищей вместе с молоком коровы, буйволицы, лошади, слонихи и козы, а также мясом, супами и кислыми плодами, пропитанными топлёным маслом.",
+        "text_en": "one should feed a barley diet together with the milk of cow, buffalo, mare, she-elephant and goat, as well as meat, soups and sour fruits soaked in ghee."
       },
       {
         "type": "verse",
@@ -35767,7 +36054,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दीप्ते ऽग्नौ विधिरेष स्यान्मन्दे दीपनपाचनः यक्ष्मोक्तः क्षतिनां शस्तो ग्राही शकृति तु द्रवे",
         "iast": "dīpte 'gnau vidhireṣa syānmande dīpanapācanaḥ yakṣmoktaḥ kṣatināṃ śasto grāhī śakṛti tu drave",
         "iast_ru": "дӣпте 'гнау видхиреш̣а сйа̄нманде дӣпанапа̄чанах̣ йакш̣моктах̣ кш̣атина̄м̣ ш́асто гра̄хӣ ш́акр̣ти ту драве",
-        "text": "Этот метод применяется при разгоревшемся пищеварительном огне; при слабом огне — разжигающий и способствующий перевариванию, упомянутый при чахотке, показан для страдающих от травмы; вяжущий метод — при жидком стуле."
+        "text": "Этот метод применяется при разгоревшемся пищеварительном огне; при слабом огне — разжигающий и способствующий перевариванию, упомянутый при чахотке, показан для страдающих от травмы; вяжущий метод — при жидком стуле.",
+        "text_en": "This method is applied when the digestive fire is kindled; when the fire is weak, the kindling and digestive method mentioned under consumption is indicated for those suffering from injury; the astringent method in loose stool."
       },
       {
         "type": "verse",
@@ -35775,7 +36063,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलं स्वयंगुप्तां शंखपुष्पीं शठीं बलाम् हस्तिपिप्पल्यपामार्गपिप्पलीमूलचित्रकान्",
         "iast": "daśamūlaṃ svayaṃguptāṃ śaṃkhapuṣpīṃ śaṭhīṃ balām hastipippalyapāmārgapippalīmūlacitrakān",
         "iast_ru": "даш́амӯлам̣ свайам̣гупта̄м̣ ш́ам̣кхапуш̣пӣм̣ ш́ат̣хӣм̣ бала̄м хастипиппалйапа̄ма̄ргапиппалӣмӯлачитрака̄н",
-        "text": "Дашамулу, сваямгупту, шанкхапушпи, шатхи, балу; хастипиппали, апамаргу, корень пиппали, читрак;"
+        "text": "Дашамулу, сваямгупту, шанкхапушпи, шатхи, балу; хастипиппали, апамаргу, корень пиппали, читрак;",
+        "text_en": "Dashamula, svayamgupta, shankhapushpi, shathi, balu; hastipippali, apamarga, pippali root, chitraka;"
       },
       {
         "type": "verse",
@@ -35783,7 +36072,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भार्ङ्गी पुष्करमूलं च द्विपलांशान्यवाढकम् हरीतकीशतं चैकं जलपञ्चाढके पचेत्",
         "iast": "bhārṅgī puṣkaramūlaṃ ca dvipalāṃśānyavāḍhakam harītakīśataṃ caikaṃ jalapañcāḍhake pacet",
         "iast_ru": "бха̄рн̇гӣ пуш̣карамӯлам̣ ча двипала̄м̣ш́а̄нйава̄д̣хакам харӣтакӣш́атам̣ чаикам̣ джалапан̃ча̄д̣хаке пачет",
-        "text": "бхаргхи, корень паушкары — по два пала каждого, вместе с адхакой ячменя и ста харитаки, следует сварить в пяти адхаках воды;"
+        "text": "бхаргхи, корень паушкары — по два пала каждого, вместе с адхакой ячменя и ста харитаки, следует сварить в пяти адхаках воды;",
+        "text_en": "bharngi, pushkara root: two palas of each, together with an adhaka of barley and one hundred haritaki, should be boiled in five adhakas of water;"
       },
       {
         "type": "verse",
@@ -35791,7 +36081,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवस्वेदे कषायं तं पूतं तच्चाभयाशतम् पचेद्गुडतुलां दत्वा कुडवं च पृथग्घृतात्",
         "iast": "yavasvede kaṣāyaṃ taṃ pūtaṃ taccābhayāśatam pacedguḍatulāṃ datvā kuḍavaṃ ca pṛthagghṛtāt",
         "iast_ru": "йавасведе каш̣а̄йам̣ там̣ пӯтам̣ тачча̄бхайа̄ш́атам пачедгуд̣атула̄м̣ датва̄ куд̣авам̣ ча пр̣тхаггхр̣та̄т",
-        "text": "когда ячмень пропарится, отвар следует процедить; в него следует добавить сто харитаки, тулу патоки и по кудаве топлёного масла отдельно;"
+        "text": "когда ячмень пропарится, отвар следует процедить; в него следует добавить сто харитаки, тулу патоки и по кудаве топлёного масла отдельно;",
+        "text_en": "when the barley has been steamed through, the decoction should be strained; to it one should add one hundred haritaki, a tula of jaggery and a kudava each of ghee separately;"
       },
       {
         "type": "verse",
@@ -35799,7 +36090,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तैलात् सपिप्पलीचूर्णात् सिद्धशीते च माक्षिकात् लेहाद्द्वे चाभये नित्यमतः खादेद्रसायनात्",
         "iast": "tailāt sapippalīcūrṇāt siddhaśīte ca mākṣikāt lehāddve cābhaye nityamataḥ khādedrasāyanāt",
         "iast_ru": "таила̄т сапиппалӣчӯрн̣а̄т сиддхаш́ӣте ча ма̄кш̣ика̄т леха̄ддве ча̄бхайе нитйаматах̣ кха̄дедраса̄йана̄т",
-        "text": "растительного масла, порошка пиппали; когда сварится и остынет, добавить мёда; по две харитаки из этой расаяны следует есть ежедневно;"
+        "text": "растительного масла, порошка пиппали; когда сварится и остынет, добавить мёда; по две харитаки из этой расаяны следует есть ежедневно;",
+        "text_en": "vegetable oil, powder of pippali; when it has been cooked and has cooled, honey should be added; two haritaki from this rasayana should be eaten daily;"
       },
       {
         "type": "verse",
@@ -35807,7 +36099,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्वलीपलितं हन्याद्वर्णायुर्बलवर्धनम् पञ्चकासान् क्षयं श्वासं सहिध्मं विषमज्वरम्",
         "iast": "tadvalīpalitaṃ hanyādvarṇāyurbalavardhanam pañcakāsān kṣayaṃ śvāsaṃ sahidhmaṃ viṣamajvaram",
         "iast_ru": "тадвалӣпалитам̣ ханйа̄дварн̣а̄йурбалавардханам пан̃чака̄са̄н кш̣айам̣ ш́ва̄сам̣ сахидхмам̣ виш̣амаджварам",
-        "text": "это устраняет морщины и седину, увеличивает цвет кожи, продолжительность жизни и силу; устраняет все пять видов кашля, чахотку, одышку вместе с икотой, неправильную лихорадку,"
+        "text": "это устраняет морщины и седину, увеличивает цвет кожи, продолжительность жизни и силу; устраняет все пять видов кашля, чахотку, одышку вместе с икотой, неправильную лихорадку,",
+        "text_en": "this removes wrinkles and grey hair, increases complexion, lifespan and strength; relieves all five kinds of cough, consumption, dyspnoea with hiccup, irregular fever,"
       },
       {
         "type": "verse",
@@ -35815,7 +36108,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मेहगुल्मग्रहण्यर्शोहृद्रोगरुचिपीनसान् अगस्त्यविहितं धन्यमिदं श्रेष्ठं रसायनम्",
         "iast": "mehagulmagrahaṇyarśohṛdrogarucipīnasān agastyavihitaṃ dhanyamidaṃ śreṣṭhaṃ rasāyanam",
         "iast_ru": "мехагулмаграхан̣йарш́охр̣дрогаручипӣнаса̄н агастйавихитам̣ дханйамидам̣ ш́реш̣т̣хам̣ раса̄йанам",
-        "text": "меху, гульму, грахани, геморрой, болезнь сердца, отсутствие аппетита, насморк; это — превосходная расаяна, установленная самим мудрецом Агастьей, благословенная."
+        "text": "меху, гульму, грахани, геморрой, болезнь сердца, отсутствие аппетита, насморк; это — превосходная расаяна, установленная самим мудрецом Агастьей, благословенная.",
+        "text_en": "meha, gulma, grahani, haemorrhoids, heart disease, loss of appetite and catarrh; this is an excellent rasayana established by the sage Agastya himself, blessed."
       },
       {
         "type": "verse",
@@ -35823,7 +36117,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलं बलां मूर्वां हरिद्रे पिप्पलीद्वयम् पाठाश्वगन्धापामार्गस्वगुप्तातिविषामृताः",
         "iast": "daśamūlaṃ balāṃ mūrvāṃ haridre pippalīdvayam pāṭhāśvagandhāpāmārgasvaguptātiviṣāmṛtāḥ",
         "iast_ru": "даш́амӯлам̣ бала̄м̣ мӯрва̄м̣ харидре пиппалӣдвайам па̄т̣ха̄ш́вагандха̄па̄ма̄ргасвагупта̄тивиш̣а̄мр̣та̄х̣",
-        "text": "Дашамула, бала, урва, две куркумы, два вида пиппали; патха, ашвагандха, апамарга, свагупта, ативиша, гудучи;"
+        "text": "Дашамула, бала, урва, две куркумы, два вида пиппали; патха, ашвагандха, апамарга, свагупта, ативиша, гудучи;",
+        "text_en": "Dashamula, bala, urva, the two turmerics, the two kinds of pippali; patha, ashwagandha, apamarga, svagupta, ativisha, guduchi;"
       },
       {
         "type": "verse",
@@ -35831,7 +36126,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बालबिल्वं त्रिवृद्दन्तीमूलं पत्रं च चित्रकात् पयस्यां कुटजं हिंस्रां पुष्पं सारं च बीजकात्",
         "iast": "bālabilvaṃ trivṛddantīmūlaṃ patraṃ ca citrakāt payasyāṃ kuṭajaṃ hiṃsrāṃ puṣpaṃ sāraṃ ca bījakāt",
         "iast_ru": "ба̄лабилвам̣ тривр̣ддантӣмӯлам̣ патрам̣ ча читрака̄т пайасйа̄м̣ кут̣аджам̣ хим̣сра̄м̣ пуш̣пам̣ са̄рам̣ ча бӣджака̄т",
-        "text": "молодая билва, тривриту, корень данти, лист читрака; паясью, кутаджу, химсру, цветок и сердцевину биджаки;"
+        "text": "молодая билва, тривриту, корень данти, лист читрака; паясью, кутаджу, химсру, цветок и сердцевину биджаки;",
+        "text_en": "young bilva, trivrit, root of danti, leaf of chitraka; payasya, kutaja, himsra, flower and pith of bijaka;"
       },
       {
         "type": "verse",
@@ -35839,7 +36135,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बोलस्थविरभल्लातविकङ्कतशतावरीः पूतीकरञ्जशम्याकचन्द्रलेखासहाचरम्",
         "iast": "bolasthavirabhallātavikaṅkataśatāvarīḥ pūtīkarañjaśamyākacandralekhāsahācaram",
         "iast_ru": "боластхавирабхалла̄тавикан̇каташ́ата̄варӣх̣ пӯтӣкаран̃джаш́амйа̄качандралекха̄саха̄чарам",
-        "text": "бол, стхавиру, бхаллату, викантаку, шатавари; путику, каранджу, шамьяку, чандралекху, сахачару;"
+        "text": "бол, стхавиру, бхаллату, викантаку, шатавари; путику, каранджу, шамьяку, чандралекху, сахачару;",
+        "text_en": "bola, sthavira, bhallata, vikantaka, shatavari; putika, karanja, shamyaka, chandralekha, sahachara;"
       },
       {
         "type": "verse",
@@ -35847,7 +36144,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सौभाञ्जनकनिम्बत्वगिक्षुरं च पलांशकम् पथ्यासहस्रं सशतं यवानां चाढकद्वयम्",
         "iast": "saubhāñjanakanimbatvagikṣuraṃ ca palāṃśakam pathyāsahasraṃ saśataṃ yavānāṃ cāḍhakadvayam",
         "iast_ru": "саубха̄н̃джанаканимбатвагикш̣урам̣ ча пала̄м̣ш́акам патхйа̄сахасрам̣ саш́атам̣ йава̄на̄м̣ ча̄д̣хакадвайам",
-        "text": "собханджанаку, кору нима, икшуру — по одному палу каждого; тысячу сто харитаки и две адхаки ячменя,"
+        "text": "собханджанаку, кору нима, икшуру — по одному палу каждого; тысячу сто харитаки и две адхаки ячменя,",
+        "text_en": "sobhanjanaka, neem bark, ikshura: one pala of each; one thousand one hundred haritaki and two adhakas of barley,"
       },
       {
         "type": "verse",
@@ -35855,7 +36153,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पचेदष्टगुणे तोये यवस्वेदे ऽवतारयेत् पूते क्षिपेत् सपथ्ये च तत्र जीर्णगुडात्तुलाम्",
         "iast": "pacedaṣṭaguṇe toye yavasvede 'vatārayet pūte kṣipet sapathye ca tatra jīrṇaguḍāttulām",
         "iast_ru": "пачедаш̣т̣агун̣е тойе йавасведе 'вата̄райет пӯте кш̣ипет сапатхйе ча татра джӣрн̣агуд̣а̄ттула̄м",
-        "text": "следует сварить в восьми частях воды; когда ячмень пропарится, снять с огня; в процеженный отвар, вместе с харитаки, следует добавить тулу старой патоки,"
+        "text": "следует сварить в восьми частях воды; когда ячмень пропарится, снять с огня; в процеженный отвар, вместе с харитаки, следует добавить тулу старой патоки,",
+        "text_en": "should be boiled in eight parts of water; when the barley has been steamed through, it should be taken off the fire; into the strained decoction, together with the haritaki, a tula of old jaggery should be added,"
       },
       {
         "type": "verse",
@@ -35863,7 +36162,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तैलाज्यधात्रीरसतः प्रस्थं प्रस्थं ततः पुनः अधिश्रयेन्मृदावग्नौ दर्वीलेपे ऽवतार्य च",
         "iast": "tailājyadhātrīrasataḥ prasthaṃ prasthaṃ tataḥ punaḥ adhiśrayenmṛdāvagnau darvīlepe 'vatārya ca",
         "iast_ru": "таила̄джйадха̄трӣрасатах̣ прастхам̣ прастхам̣ татах̣ пунах̣ адхиш́райенмр̣да̄вагнау дарвӣлепе 'вата̄рйа ча",
-        "text": "по прастхе растительного масла, топлёного масла и сока амалаки; затем снова следует поставить на слабый огонь и снять, когда масса начнёт прилипать к ложке;"
+        "text": "по прастхе растительного масла, топлёного масла и сока амалаки; затем снова следует поставить на слабый огонь и снять, когда масса начнёт прилипать к ложке;",
+        "text_en": "a prastha each of vegetable oil, ghee and amalaki juice; then it should be placed again on a gentle fire and removed when the mass begins to stick to the spoon;"
       },
       {
         "type": "verse",
@@ -35871,7 +36171,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीते प्रस्थद्वयं क्षौद्रात् पिप्पलीकुडवं क्षिपेत् चूर्णीकृतात्त्रिजाताच्च त्रिपलं निखनेत्ततः",
         "iast": "śīte prasthadvayaṃ kṣaudrāt pippalīkuḍavaṃ kṣipet cūrṇīkṛtāttrijātācca tripalaṃ nikhanettataḥ",
         "iast_ru": "ш́ӣте прастхадвайам̣ кш̣аудра̄т пиппалӣкуд̣авам̣ кш̣ипет чӯрн̣ӣкр̣та̄ттриджа̄та̄чча трипалам̣ никханеттатах̣",
-        "text": "когда остынет, следует добавить две прастхи мёда, кудаву пиппали; затем закопать сосуд с тремя палами растёртого триджата;"
+        "text": "когда остынет, следует добавить две прастхи мёда, кудаву пиппали; затем закопать сосуд с тремя палами растёртого триджата;",
+        "text_en": "when it has cooled, two prasthas of honey and a kudava of pippali should be added; then the vessel should be buried with three palas of ground trijata;"
       },
       {
         "type": "verse",
@@ -35879,7 +36180,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धान्ये पुराणकुम्भस्थं मासं खादेच्च पूर्ववत् रसायनं वसिष्ठोक्तमेतत् पूर्वगुणाधिकम् स्वस्थानां निष्परीहारं सर्वर्तुषु च शस्यते",
         "iast": "dhānye purāṇakumbhasthaṃ māsaṃ khādecca pūrvavat rasāyanaṃ vasiṣṭhoktametat pūrvaguṇādhikam svasthānāṃ niṣparīhāraṃ sarvartuṣu ca śasyate",
         "iast_ru": "дха̄нйе пура̄н̣акумбхастхам̣ ма̄сам̣ кха̄дечча пӯрвават раса̄йанам̣ васиш̣т̣хоктаметат пӯрвагун̣а̄дхикам свастха̄на̄м̣ ниш̣парӣха̄рам̣ сарвартуш̣у ча ш́асйате",
-        "text": "сосуд следует хранить месяц в зерне, в старом кувшине; есть, как прежде. Эта расаяна, установленная мудрецом Васиштхой, превосходит по свойствам прежнюю; для здоровых людей она не требует ограничений и рекомендуется во все сезоны."
+        "text": "сосуд следует хранить месяц в зерне, в старом кувшине; есть, как прежде. Эта расаяна, установленная мудрецом Васиштхой, превосходит по свойствам прежнюю; для здоровых людей она не требует ограничений и рекомендуется во все сезоны.",
+        "text_en": "the vessel should be kept for a month in grain, in an old jar; it should be eaten as before. This rasayana, established by the sage Vasishtha, surpasses the former in properties; for healthy people it requires no restrictions and is recommended in all seasons."
       },
       {
         "type": "verse",
@@ -35887,7 +36189,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पालिकं सैन्धवं शुण्ठी द्वे च सौवर्चलात् पले कुडवांशानि वृक्षाम्लं दाडिमं पत्रमार्जकात्",
         "iast": "pālikaṃ saindhavaṃ śuṇṭhī dve ca sauvarcalāt pale kuḍavāṃśāni vṛkṣāmlaṃ dāḍimaṃ patramārjakāt",
         "iast_ru": "па̄ликам̣ саиндхавам̣ ш́ун̣т̣хӣ две ча сауварчала̄т пале куд̣ава̄м̣ш́а̄ни вр̣кш̣а̄млам̣ да̄д̣имам̣ патрама̄рджака̄т",
-        "text": "Одну палу каменной соли, сухой имбирь, два пала соувархалы, по кудаве вркшамлы, граната и листа марджаки,"
+        "text": "Одну палу каменной соли, сухой имбирь, два пала соувархалы, по кудаве вркшамлы, граната и листа марджаки,",
+        "text_en": "One pala of rock salt, dry ginger, two palas of souvarchala, a kudava each of vrikshamla, pomegranate and leaf of marjaka,"
       },
       {
         "type": "verse",
@@ -35895,7 +36198,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एकैका मरिचाजाज्योर्धान्यकाद्वे चतुर्थिके शर्करायाः पलान्यत्र दश द्वे च प्रदापयेत्",
         "iast": "ekaikā maricājājyordhānyakādve caturthike śarkarāyāḥ palānyatra daśa dve ca pradāpayet",
         "iast_ru": "екаика̄ марича̄джа̄джйордха̄нйака̄две чатуртхике ш́аркара̄йа̄х̣ пала̄нйатра даш́а две ча прада̄пайет",
-        "text": "по одному прасрите перца и зиры, по два четвертных прасрита кориандра, и двенадцать пал сахара следует добавить сюда;"
+        "text": "по одному прасрите перца и зиры, по два четвертных прасрита кориандра, и двенадцать пал сахара следует добавить сюда;",
+        "text_en": "one prasrita each of pepper and cumin, two quarter-prasritas of coriander, and twelve palas of sugar should be added to this;"
       },
       {
         "type": "verse",
@@ -35903,7 +36207,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृत्वा चूर्णमतो मात्रामन्नपानेषु दापयेत् रुच्यं तद्दीपनं बल्यं पार्श्वार्तिश्वासकासनुत्",
         "iast": "kṛtvā cūrṇamato mātrāmannapāneṣu dāpayet rucyaṃ taddīpanaṃ balyaṃ pārśvārtiśvāsakāsanut",
         "iast_ru": "кр̣тва̄ чӯрн̣амато ма̄тра̄маннапа̄неш̣у да̄пайет ручйам̣ таддӣпанам̣ балйам̣ па̄рш́ва̄ртиш́ва̄сака̄санут",
-        "text": "приготовив порошок, следует давать дозу в пищу и питьё; он возбуждает аппетит, разжигает огонь, придаёт силу, устраняет боль в боках, одышку и кашель;"
+        "text": "приготовив порошок, следует давать дозу в пищу и питьё; он возбуждает аппетит, разжигает огонь, придаёт силу, устраняет боль в боках, одышку и кашель;",
+        "text_en": "having prepared a powder, a dose should be given in food and drink; it stimulates the appetite, kindles the fire, imparts strength, and relieves pain in the sides, dyspnoea and cough;"
       },
       {
         "type": "verse",
@@ -35911,7 +36216,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एकां षोडशिकां धान्याद् द्वे द्वे चाजाजिदीप्यकात् ताभ्यां दाडिमवृक्षाम्ले द्विर्द्विस्सौवर्चलात् पले",
         "iast": "ekāṃ ṣoḍaśikāṃ dhānyād dve dve cājājidīpyakāt tābhyāṃ dāḍimavṛkṣāmle dvirdvissauvarcalāt pale",
         "iast_ru": "ека̄м̣ ш̣од̣аш́ика̄м̣ дха̄нйа̄д две две ча̄джа̄джидӣпйака̄т та̄бхйа̄м̣ да̄д̣имавр̣кш̣а̄мле двирдвиссауварчала̄т пале",
-        "text": "одну шодашику кориандра, по две единицы зиры и диптаки, вдвое больше граната и вркшамлы, дважды по два пала соувархалы,"
+        "text": "одну шодашику кориандра, по две единицы зиры и диптаки, вдвое больше граната и вркшамлы, дважды по два пала соувархалы,",
+        "text_en": "one shodashika of coriander, two units each of cumin and dipyaka, twice as much pomegranate and vrikshamla, twice two palas of souvarchala,"
       },
       {
         "type": "verse",
@@ -35919,7 +36225,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शुण्ठ्याः कर्षं दधित्थस्य मध्यात् पञ्चपलानि च तच्चूण षोडशपलैः शर्कराया विमिश्रयेत्",
         "iast": "śuṇṭhyāḥ karṣaṃ dadhitthasya madhyāt pañcapalāni ca taccūṇa ṣoḍaśapalaiḥ śarkarāyā vimiśrayet",
         "iast_ru": "ш́ун̣т̣хйа̄х̣ карш̣ам̣ дадхиттхасйа мадхйа̄т пан̃чапала̄ни ча таччӯн̣а ш̣од̣аш́апалаих̣ ш́аркара̄йа̄ вимиш́райет",
-        "text": "каршу сухого имбиря, пять пал мякоти дадиттхи, следует смешать этот порошок с шестнадцатью палами сахара;"
+        "text": "каршу сухого имбиря, пять пал мякоти дадиттхи, следует смешать этот порошок с шестнадцатью палами сахара;",
+        "text_en": "a karsha of dry ginger, five palas of dadima pulp: this powder should be mixed with sixteen palas of sugar;"
       },
       {
         "type": "verse",
@@ -35927,7 +36234,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "षाडवोयं प्रदेयः स्यादन्नपानेषु पूर्ववत् विधिश्च यक्ष्मपित्तास्रविहितः शस्यते क्षते",
         "iast": "ṣāḍavoyaṃ pradeyaḥ syādannapāneṣu pūrvavat vidhiśca yakṣmapittāsravihitaḥ śasyate kṣate",
         "iast_ru": "ш̣а̄д̣авойам̣ прадейах̣ сйа̄даннапа̄неш̣у пӯрвават видхиш́ча йакш̣мапитта̄сравихитах̣ ш́асйате кш̣ате",
-        "text": "этот шадаву (кисло-сладкий порошок) следует давать в пищу и питьё, как прежде; метод же, указанный при чахотке и раактапитте, рекомендуется и при травме."
+        "text": "этот шадаву (кисло-сладкий порошок) следует давать в пищу и питьё, как прежде; метод же, указанный при чахотке и раактапитте, рекомендуется и при травме.",
+        "text_en": "this shadava (sour-sweet powder) should be given in food and drink, as before; the method prescribed in consumption and raktapitta is recommended also in injury."
       },
       {
         "type": "verse",
@@ -35935,7 +36243,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "निवृत्ते क्षतदोषे तु कफे वृद्ध उरः शिरः दाल्येते कासिनो यस्य स ना धूमानिमान्पिबेत्",
         "iast": "nivṛtte kṣatadoṣe tu kaphe vṛddha uraḥ śiraḥ dālyete kāsino yasya sa nā dhūmānimānpibet",
         "iast_ru": "нивр̣тте кш̣атадош̣е ту капхе вр̣ддха урах̣ ш́ирах̣ да̄лйете ка̄сино йасйа са на̄ дхӯма̄нима̄нпибет",
-        "text": "Когда же расстройство от травмы устранено, но Капха усилена, и у страдающего кашлем грудь и голова ощущаются, будто раскалываются, — такому человеку следует вдыхать следующие дымы:"
+        "text": "Когда же расстройство от травмы устранено, но Капха усилена, и у страдающего кашлем грудь и голова ощущаются, будто раскалываются, — такому человеку следует вдыхать следующие дымы:",
+        "text_en": "When the derangement from injury has been eliminated, but Kapha is aggravated, and in one suffering from cough the chest and head feel as if splitting, such a person should inhale the following smokes:"
       },
       {
         "type": "verse",
@@ -35943,7 +36252,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्विमेदाद्विबलायष्टीकल्कैः क्षौमे सुभाविते वर्तिं कृत्वा पिबेद्धूमं जीवनीयघृतानुपः",
         "iast": "dvimedādvibalāyaṣṭīkalkaiḥ kṣaume subhāvite vartiṃ kṛtvā pibeddhūmaṃ jīvanīyaghṛtānupaḥ",
         "iast_ru": "двимеда̄двибала̄йаш̣т̣ӣкалкаих̣ кш̣ауме субха̄вите вартим̣ кр̣тва̄ пибеддхӯмам̣ джӣванӣйагхр̣та̄нупах̣",
-        "text": "свернув фитиль с пастой из двух видов меды, двух видов балы и солодки, хорошо пропитанный льняным маслом, следует вдыхать дым, запивая топлёным маслом с травами группы дживанья;"
+        "text": "свернув фитиль с пастой из двух видов меды, двух видов балы и солодки, хорошо пропитанный льняным маслом, следует вдыхать дым, запивая топлёным маслом с травами группы дживанья;",
+        "text_en": "having rolled a wick with a paste of the two kinds of meda, the two kinds of bala and licorice, well soaked in linseed oil, one should inhale the smoke, washing it down with ghee prepared with the herbs of the Jivaniya group;"
       },
       {
         "type": "verse",
@@ -35951,7 +36261,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मनःशिला बला साजगन्धा त्वक्क्षीरिनागरैः तद्वदेवानुपानं तु शर्करेक्षुगुडोदकम्",
         "iast": "manaḥśilā balā sājagandhā tvakkṣīrināgaraiḥ tadvadevānupānaṃ tu śarkarekṣuguḍodakam",
         "iast_ru": "манах̣ш́ила̄ бала̄ са̄джагандха̄ тваккш̣ӣрина̄гараих̣ тадвадева̄нупа̄нам̣ ту ш́аркарекш̣угуд̣одакам",
-        "text": "манахшила, бала, вместе с аджагандхой, корой, кшири и сухим имбирём — подобным же образом; питьё же после — вода с сахаром, сахарным тростником или патокой;"
+        "text": "манахшила, бала, вместе с аджагандхой, корой, кшири и сухим имбирём — подобным же образом; питьё же после — вода с сахаром, сахарным тростником или патокой;",
+        "text_en": "manahshila, bala, together with ajagandha, bark, kshiri and dry ginger: likewise; the drink afterwards being water with sugar, sugarcane or jaggery;"
       },
       {
         "type": "verse",
@@ -35959,7 +36270,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिष्ट्वा मनःशिलां तुल्यामार्द्रया वटशुङ्गया ससर्पिष्कं पिबेद्धूमं तित्तिरिप्रतिभोजनः",
         "iast": "piṣṭvā manaḥśilāṃ tulyāmārdrayā vaṭaśuṅgayā sasarpiṣkaṃ pibeddhūmaṃ tittiripratibhojanaḥ",
         "iast_ru": "пиш̣т̣ва̄ манах̣ш́ила̄м̣ тулйа̄ма̄рдрайа̄ ват̣аш́ун̇гайа̄ сасарпиш̣кам̣ пибеддхӯмам̣ титтирипратибходжанах̣",
-        "text": "растерев манахшилу в равной пропорции со свежими побегами баньяна, вместе с топлёным маслом, следует вдыхать дым, затем поесть мяса куропатки."
+        "text": "растерев манахшилу в равной пропорции со свежими побегами баньяна, вместе с топлёным маслом, следует вдыхать дым, затем поесть мяса куропатки.",
+        "text_en": "having ground manahshila in equal proportion with fresh shoots of the banyan, together with ghee, one should inhale the smoke, and then eat the meat of partridge."
       },
       {
         "type": "verse",
@@ -35967,7 +36279,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षयजे बृंहणं पूर्वं कुर्यादग्नेश्च वर्धनम् बहुदोषाय सस्नेहं मृदु दद्याद्विरेचनम्",
         "iast": "kṣayaje bṛṃhaṇaṃ pūrvaṃ kuryādagneśca vardhanam bahudoṣāya sasnehaṃ mṛdu dadyādvirecanam",
         "iast_ru": "кш̣айадже бр̣м̣хан̣ам̣ пӯрвам̣ курйа̄дагнеш́ча вардханам бахудош̣а̄йа саснехам̣ мр̣ду дадйа̄двиречанам",
-        "text": "При кашле от истощения следует прежде всего провести укрепление и разжигание пищеварительного огня; при обильной доше следует дать мягкое слабительное с маслом;"
+        "text": "При кашле от истощения следует прежде всего провести укрепление и разжигание пищеварительного огня; при обильной доше следует дать мягкое слабительное с маслом;",
+        "text_en": "In cough from emaciation one should first carry out strengthening and kindling of the digestive fire; when the dosha is abundant, a mild purgative with oil should be given;"
       },
       {
         "type": "verse",
@@ -35975,7 +36288,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शम्याकेन त्रिवृतया मृद्वीकारसयुक्तया तिल्वकस्य कषायेण विदारीस्वरसेन च सर्पिः सिद्धं पिबेद्युक्त्या क्षीणदेहो विशोधनम्",
         "iast": "śamyākena trivṛtayā mṛdvīkārasayuktayā tilvakasya kaṣāyeṇa vidārīsvarasena ca sarpiḥ siddhaṃ pibedyuktyā kṣīṇadeho viśodhanam",
         "iast_ru": "ш́амйа̄кена тривр̣тайа̄ мр̣двӣка̄расайуктайа̄ тилвакасйа каш̣а̄йен̣а вида̄рӣсварасена ча сарпих̣ сиддхам̣ пибедйуктйа̄ кш̣ӣн̣адехо виш́одханам",
-        "text": "истощённому телом следует пить, надлежащим образом, топлёное масло, приготовленное для очищения с шамьякой, тривритой, вместе с соком изюма, отваром тилваки и соком видари;"
+        "text": "истощённому телом следует пить, надлежащим образом, топлёное масло, приготовленное для очищения с шамьякой, тривритой, вместе с соком изюма, отваром тилваки и соком видари;",
+        "text_en": "one emaciated in body should drink, in the proper manner, ghee prepared for purification with shamyaka and trivrit, together with raisin juice, a decoction of tilvaka and the juice of vidari;"
       },
       {
         "type": "verse",
@@ -35983,7 +36297,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्ते कफे धातुषु च क्षीणेषु क्षयकासवान् घृतं कर्कटकीक्षीरद्विबलासाधितं पिबेत्",
         "iast": "pitte kaphe dhātuṣu ca kṣīṇeṣu kṣayakāsavān ghṛtaṃ karkaṭakīkṣīradvibalāsādhitaṃ pibet",
         "iast_ru": "питте капхе дха̄туш̣у ча кш̣ӣн̣еш̣у кш̣айака̄сава̄н гхр̣там̣ каркат̣акӣкш̣ӣрадвибала̄са̄дхитам̣ пибет",
-        "text": "при истощении Питты, Капхи и тканей тела, страдающий кашлем от истощения пусть пьёт топлёное масло, приготовленное с каркатаки, молоком и двумя видами балы;"
+        "text": "при истощении Питты, Капхи и тканей тела, страдающий кашлем от истощения пусть пьёт топлёное масло, приготовленное с каркатаки, молоком и двумя видами балы;",
+        "text_en": "in depletion of Pitta, Kapha and the bodily tissues, one suffering from cough from emaciation should drink ghee prepared with karkataki, milk and the two kinds of bala;"
       },
       {
         "type": "verse",
@@ -35991,7 +36306,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विदारीभिः कदम्बैर्वा तालसस्यैश्च साधितम् घृतं पयश्च मूत्रस्य वैवर्ण्ये कृच्छ्रनिर्गमे",
         "iast": "vidārībhiḥ kadambairvā tālasasyaiśca sādhitam ghṛtaṃ payaśca mūtrasya vaivarṇye kṛcchranirgame",
         "iast_ru": "вида̄рӣбхих̣ кадамбаирва̄ та̄ласасйаиш́ча са̄дхитам гхр̣там̣ пайаш́ча мӯтрасйа ваиварн̣йе кр̣ччхраниргаме",
-        "text": "топлёное масло и молоко, приготовленные с видари, кадамбой или семенами пальмы, — при изменении цвета мочи и затруднённом мочеиспускании;"
+        "text": "топлёное масло и молоко, приготовленные с видари, кадамбой или семенами пальмы, — при изменении цвета мочи и затруднённом мочеиспускании;",
+        "text_en": "ghee and milk prepared with vidari, kadamba or palm seeds, in change of the colour of urine and difficulty in urination;"
       },
       {
         "type": "verse",
@@ -35999,7 +36315,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शूने सवेदने मेढ्रे पायौ सश्रोणिवङ्क्षणे घृतमण्डेन लघुनानुवास्यो मिश्रकेण वा",
         "iast": "śūne savedane meḍhre pāyau saśroṇivaṅkṣaṇe ghṛtamaṇḍena laghunānuvāsyo miśrakeṇa vā",
         "iast_ru": "ш́ӯне саведане мед̣хре па̄йау саш́рон̣иван̇кш̣ан̣е гхр̣таман̣д̣ена лагхуна̄нува̄сйо миш́ракен̣а ва̄",
-        "text": "при отёке и боли в половом органе, заднем проходе, тазобедренном суставе и паху — следует поставить масляную клизму (анувасана) с лёгким гхритамандой (осадком топлёного масла) или смешанным средством."
+        "text": "при отёке и боли в половом органе, заднем проходе, тазобедренном суставе и паху — следует поставить масляную клизму (анувасана) с лёгким гхритамандой (осадком топлёного масла) или смешанным средством.",
+        "text_en": "in oedema and pain in the genital organ, anus, hip joint and groin, an oil enema (anuvasana) should be given with light ghritamanda (the sediment of ghee) or a mixed remedy."
       },
       {
         "type": "verse",
@@ -36007,7 +36324,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जाङ्गलैः प्रतिभुक्तस्य वर्तकाद्या बिलेशयाः क्रमशः प्रसहास्तद्वत् प्रयोज्याः पिशिताशिनः",
         "iast": "jāṅgalaiḥ pratibhuktasya vartakādyā bileśayāḥ kramaśaḥ prasahāstadvat prayojyāḥ piśitāśinaḥ",
         "iast_ru": "джа̄н̇галаих̣ пратибхуктасйа вартака̄дйа̄ билеш́айа̄х̣ крамаш́ах̣ прасаха̄стадват прайоджйа̄х̣ пиш́ита̄ш́инах̣",
-        "text": "После приёма пищи с мясом диких животных следует применять, последовательно, мясо куропатки и подобных, затем обитающих в норах, затем хищных плотоядных животных;"
+        "text": "После приёма пищи с мясом диких животных следует применять, последовательно, мясо куропатки и подобных, затем обитающих в норах, затем хищных плотоядных животных;",
+        "text_en": "After meals with the meat of wild animals, one should apply, successively, the meat of the partridge and the like, then of burrow-dwellers, then of predatory carnivorous animals;"
       },
       {
         "type": "verse",
@@ -36015,7 +36333,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "औष्ण्यात् प्रमाथिभावाच्च स्रोतोभ्यश्च्यावयन्ति ते कफं शुद्धैश्च तैः पुष्टिं कुर्यात् सम्यग्वहन् रसः",
         "iast": "auṣṇyāt pramāthibhāvācca srotobhyaścyāvayanti te kaphaṃ śuddhaiśca taiḥ puṣṭiṃ kuryāt samyagvahan rasaḥ",
         "iast_ru": "ауш̣н̣йа̄т прама̄тхибха̄ва̄чча сротобхйаш́чйа̄вайанти те капхам̣ ш́уддхаиш́ча таих̣ пуш̣т̣им̣ курйа̄т самйагвахан расах̣",
-        "text": "благодаря своей горячей природе и разрушающему действию, они выводят Капху из каналов; а раса, надлежащим образом текущая после их очищения, обеспечивает упитанность."
+        "text": "благодаря своей горячей природе и разрушающему действию, они выводят Капху из каналов; а раса, надлежащим образом текущая после их очищения, обеспечивает упитанность.",
+        "text_en": "owing to their hot nature and dissolving action, they expel Kapha from the channels; and the rasa flowing properly after their cleansing ensures plumpness."
       },
       {
         "type": "verse",
@@ -36023,7 +36342,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चविकात्रिफलाभार्ङ्गीदशमूलैः सचित्रकैः कुलत्थपिप्पलीमूलपाठाकोलयवैर्जले",
         "iast": "cavikātriphalābhārṅgīdaśamūlaiḥ sacitrakaiḥ kulatthapippalīmūlapāṭhākolayavairjale",
         "iast_ru": "чавика̄трипхала̄бха̄рн̇гӣдаш́амӯлаих̣ сачитракаих̣ кулаттхапиппалӣмӯлапа̄т̣ха̄колайаваирджале",
-        "text": "Чавику, трифалу, бхаргхи, дашамулу, вместе с читраком; конский боб, корень пиппали, патху, кол, ячмень — в воде,"
+        "text": "Чавику, трифалу, бхаргхи, дашамулу, вместе с читраком; конский боб, корень пиппали, патху, кол, ячмень — в воде,",
+        "text_en": "Chavika, triphala, bharngi, dashamula, together with chitraka; horse gram, pippali root, patha, kola and barley, in water,"
       },
       {
         "type": "verse",
@@ -36031,7 +36351,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शृतैर्नागरदुस्पर्शापिप्पलीशठिपौष्करैः पिष्टैः कर्कटशृङ्ग्या च समैः सर्पिर्विपाचयेत्",
         "iast": "śṛtairnāgaradusparśāpippalīśaṭhipauṣkaraiḥ piṣṭaiḥ karkaṭaśṛṅgyā ca samaiḥ sarpirvipācayet",
         "iast_ru": "ш́р̣таирна̄гарадуспарш́а̄пиппалӣш́ат̣хипауш̣караих̣ пиш̣т̣аих̣ каркат̣аш́р̣н̇гйа̄ ча самаих̣ сарпирвипа̄чайет",
-        "text": "сваренными, вместе с растёртыми сухим имбирём, дуспаршей, пиппали, шатхи, паушкарой и каркатасрингой, в равных частях, следует сварить топлёное масло;"
+        "text": "сваренными, вместе с растёртыми сухим имбирём, дуспаршей, пиппали, шатхи, паушкарой и каркатасрингой, в равных частях, следует сварить топлёное масло;",
+        "text_en": "boiled, together with ground dry ginger, duspansha, pippali, shathi, pushkara and karkatasringi, in equal parts, ghee should be cooked;"
       },
       {
         "type": "verse",
@@ -36039,7 +36360,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिद्धे ऽस्मिंश्चूर्णितौ क्षारौ द्वौ पञ्च लवणानि च दत्वा युक्त्या पिबेन्मात्रां क्षयकासनिपीडितः",
         "iast": "siddhe 'smiṃścūrṇitau kṣārau dvau pañca lavaṇāni ca datvā yuktyā pibenmātrāṃ kṣayakāsanipīḍitaḥ",
         "iast_ru": "сиддхе 'смим̣ш́чӯрн̣итау кш̣а̄рау двау пан̃ча лаван̣а̄ни ча датва̄ йуктйа̄ пибенма̄тра̄м̣ кш̣айака̄санипӣд̣итах̣",
-        "text": "когда оно сварится, добавив два вида растёртой щёлочи и пять солей, надлежащим образом следует пить дозу этого средства страдающему кашлем от истощения;"
+        "text": "когда оно сварится, добавив два вида растёртой щёлочи и пять солей, надлежащим образом следует пить дозу этого средства страдающему кашлем от истощения;",
+        "text_en": "when it has been cooked, having added the two kinds of ground alkali and the five salts, one should drink a dose of this remedy in the proper manner, one suffering from cough from emaciation;"
       },
       {
         "type": "verse",
@@ -36047,7 +36369,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासमर्दाभयामुस्तापाठाकट्फलनागरैः पिप्पल्या कटुरोहिण्या काश्मर्या सुरसेन च",
         "iast": "kāsamardābhayāmustāpāṭhākaṭphalanāgaraiḥ pippalyā kaṭurohiṇyā kāśmaryā surasena ca",
         "iast_ru": "ка̄самарда̄бхайа̄муста̄па̄т̣ха̄кат̣пхалана̄гараих̣ пиппалйа̄ кат̣урохин̣йа̄ ка̄ш́марйа̄ сурасена ча",
-        "text": "с касамардой, харитаки, мустой, патхой, катпхалой, сухим имбирём; пиппали, катурохини, кашмарьей и сурасой,"
+        "text": "с касамардой, харитаки, мустой, патхой, катпхалой, сухим имбирём; пиппали, катурохини, кашмарьей и сурасой,",
+        "text_en": "with kasamarda, haritaki, musta, patha, katphala, dry ginger; pippali, katurohini, kashmarya and surasa,"
       },
       {
         "type": "verse",
@@ -36055,7 +36378,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अक्षमात्रैर्घृतप्रस्थं क्षीरद्राक्षारसाढके पचेच्छोषज्वरप्लीहसर्वकासहरं शिवम्",
         "iast": "akṣamātrairghṛtaprasthaṃ kṣīradrākṣārasāḍhake pacecchoṣajvaraplīhasarvakāsaharaṃ śivam",
         "iast_ru": "акш̣ама̄траиргхр̣тапрастхам̣ кш̣ӣрадра̄кш̣а̄раса̄д̣хаке пачеччхош̣аджвараплӣхасарвака̄сахарам̣ ш́ивам",
-        "text": "по одной акше каждого, следует сварить прастху топлёного масла в адхаке молока и сока изюма — это благотворное средство устраняет чахотку, лихорадку, болезнь селезёнки и все виды кашля;"
+        "text": "по одной акше каждого, следует сварить прастху топлёного масла в адхаке молока и сока изюма — это благотворное средство устраняет чахотку, лихорадку, болезнь селезёнки и все виды кашля;",
+        "text_en": "one aksha of each, a prastha of ghee should be cooked in an adhaka of milk and raisin juice; this beneficial remedy relieves consumption, fever, disease of the spleen and all kinds of cough;"
       },
       {
         "type": "verse",
@@ -36063,7 +36387,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वृषव्याघ्रीगुडूचीनां पत्रमूलफलाङ्कुरात् रसकल्कैर्घृतं पक्वं हन्ति कासज्वरारुचीः",
         "iast": "vṛṣavyāghrīguḍūcīnāṃ patramūlaphalāṅkurāt rasakalkairghṛtaṃ pakvaṃ hanti kāsajvarārucīḥ",
         "iast_ru": "вр̣ш̣авйа̄гхрӣгуд̣ӯчӣна̄м̣ патрамӯлапхала̄н̇кура̄т расакалкаиргхр̣там̣ паквам̣ ханти ка̄саджвара̄ручӣх̣",
-        "text": "топлёное масло, сваренное с соком и пастой из листьев, корней, плодов и ростков вриши, вьягхри и гудучи, устраняет кашель, лихорадку и отсутствие аппетита;"
+        "text": "топлёное масло, сваренное с соком и пастой из листьев, корней, плодов и ростков вриши, вьягхри и гудучи, устраняет кашель, лихорадку и отсутствие аппетита;",
+        "text_en": "ghee cooked with the juice and paste of leaves, roots, fruits and sprouts of vrisha, vyaghri and guduchi relieves cough, fever and loss of appetite;"
       },
       {
         "type": "verse",
@@ -36071,7 +36396,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्विगुणे दाडिमरसे सिद्धं वा व्योषसंयुतम् पिबेदुपरिभक्तस्य यवक्षारयुतं नरः",
         "iast": "dviguṇe dāḍimarase siddhaṃ vā vyoṣasaṃyutam pibeduparibhaktasya yavakṣārayutaṃ naraḥ",
         "iast_ru": "двигун̣е да̄д̣имарасе сиддхам̣ ва̄ вйош̣асам̣йутам пибедупарибхактасйа йавакш̣а̄райутам̣ нарах̣",
-        "text": "или же, сваренное в двойном количестве сока граната, вместе с вьошей, человек пусть пьёт после еды, вместе с ячменной щёлочью;"
+        "text": "или же, сваренное в двойном количестве сока граната, вместе с вьошей, человек пусть пьёт после еды, вместе с ячменной щёлочью;",
+        "text_en": "or else, cooked in a double quantity of pomegranate juice, together with vyosha, one should drink it after meals, together with barley alkali;"
       },
       {
         "type": "verse",
@@ -36079,7 +36405,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीनुडसिद्धं वा छागक्षीरयुतं घृतम् एतान्यग्निविवृध्यर्थं सर्पीषि क्षयकासिनाम् स्युर्दोषबद्धकण्ठोरःस्रोतसां च विशुद्धये",
         "iast": "pippalīnuḍasiddhaṃ vā chāgakṣīrayutaṃ ghṛtam etānyagnivivṛdhyarthaṃ sarpīṣi kṣayakāsinām syurdoṣabaddhakaṇṭhoraḥsrotasāṃ ca viśuddhaye",
         "iast_ru": "пиппалӣнуд̣асиддхам̣ ва̄ чха̄гакш̣ӣрайутам̣ гхр̣там ета̄нйагнививр̣дхйартхам̣ сарпӣш̣и кш̣айака̄сина̄м сйурдош̣абаддхакан̣т̣хорах̣сротаса̄м̣ ча виш́уддхайе",
-        "text": "или топлёное масло, сваренное с пиппали, вместе с козьим молоком; эти топлёные масла применяются для усиления пищеварительного огня у страдающих кашлем от истощения, а также для очищения горла, груди и каналов, закупоренных дошами."
+        "text": "или топлёное масло, сваренное с пиппали, вместе с козьим молоком; эти топлёные масла применяются для усиления пищеварительного огня у страдающих кашлем от истощения, а также для очищения горла, груди и каналов, закупоренных дошами.",
+        "text_en": "or ghee cooked with pippali, together with goat's milk; these ghees are applied to strengthen the digestive fire in those suffering from cough from emaciation, and also to cleanse the throat, chest and channels obstructed by the doshas."
       },
       {
         "type": "verse",
@@ -36087,7 +36414,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्वाविदां सूचयो दग्धाः सघृतक्षौद्रशर्कराः श्वासकासहरा बर्हिपादौ वा क्षौद्रसर्पिषा",
         "iast": "śvāvidāṃ sūcayo dagdhāḥ saghṛtakṣaudraśarkarāḥ śvāsakāsaharā barhipādau vā kṣaudrasarpiṣā",
         "iast_ru": "ш́ва̄вида̄м̣ сӯчайо дагдха̄х̣ сагхр̣такш̣аудраш́аркара̄х̣ ш́ва̄сака̄сахара̄ бархипа̄дау ва̄ кш̣аудрасарпиш̣а̄",
-        "text": "Обожжённые иглы дикобраза, вместе с топлёным маслом, мёдом и сахаром, устраняют одышку и кашель; или ноги павлина, вместе с мёдом и топлёным маслом;"
+        "text": "Обожжённые иглы дикобраза, вместе с топлёным маслом, мёдом и сахаром, устраняют одышку и кашель; или ноги павлина, вместе с мёдом и топлёным маслом;",
+        "text_en": "Burnt porcupine quills, together with ghee, honey and sugar, relieve dyspnoea and cough; or peacock's feet, together with honey and ghee;"
       },
       {
         "type": "verse",
@@ -36095,7 +36423,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एरण्डपत्रक्षारं वा व्योषतैलगुडान्वितम् लेहयेत् क्षारमेवं वा सुरसैरण्डपत्रजम्",
         "iast": "eraṇḍapatrakṣāraṃ vā vyoṣatailaguḍānvitam lehayet kṣāramevaṃ vā surasairaṇḍapatrajam",
         "iast_ru": "еран̣д̣апатракш̣а̄рам̣ ва̄ вйош̣атаилагуд̣а̄нвитам лехайет кш̣а̄рамевам̣ ва̄ сурасаиран̣д̣апатраджам",
-        "text": "или же следует дать принять слизыванием щёлочь из листьев эранды, вместе с вьошей, растительным маслом и патокой; или же подобным образом — щёлочь из листьев сурасы и эранды;"
+        "text": "или же следует дать принять слизыванием щёлочь из листьев эранды, вместе с вьошей, растительным маслом и патокой; или же подобным образом — щёлочь из листьев сурасы и эранды;",
+        "text_en": "or else the alkali of eranda leaves should be given by licking, together with vyosha, vegetable oil and jaggery; or likewise the alkali of surasa and eranda leaves;"
       },
       {
         "type": "verse",
@@ -36103,7 +36432,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिह्यात्त्र्यूषणचूर्णं वा पुराणगुडसर्पिषा चित्रकत्रिफलाजाजी कर्कटाख्या कटुत्रिकम् द्राक्षां च क्षौद्रसर्पिर्भ्यां लिह्यादद्याद्गुडेन वा",
         "iast": "lihyāttryūṣaṇacūrṇaṃ vā purāṇaguḍasarpiṣā citrakatriphalājājī karkaṭākhyā kaṭutrikam drākṣāṃ ca kṣaudrasarpirbhyāṃ lihyādadyādguḍena vā",
         "iast_ru": "лихйа̄ттрйӯш̣ан̣ачӯрн̣ам̣ ва̄ пура̄н̣агуд̣асарпиш̣а̄ читракатрипхала̄джа̄джӣ каркат̣а̄кхйа̄ кат̣утрикам дра̄кш̣а̄м̣ ча кш̣аудрасарпирбхйа̄м̣ лихйа̄дадйа̄дгуд̣ена ва̄",
-        "text": "или следует принять слизыванием порошок трьюшана, вместе со старой патокой и топлёным маслом; читрак, трифалу, зиру, каркатакхью, катутраю и изюм, вместе с мёдом и топлёным маслом, следует принять слизыванием, или дать с патокой;"
+        "text": "или следует принять слизыванием порошок трьюшана, вместе со старой патокой и топлёным маслом; читрак, трифалу, зиру, каркатакхью, катутраю и изюм, вместе с мёдом и топлёным маслом, следует принять слизыванием, или дать с патокой;",
+        "text_en": "or the powder of the trijata should be taken by licking, together with old jaggery and ghee; chitraka, triphala, cumin, karkatakhya, katutraya and raisins, together with honey and ghee, should be taken by licking, or given with jaggery;"
       },
       {
         "type": "verse",
@@ -36111,7 +36441,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पाठामधुकजीवन्तीत्वक्क्षीरीत्रिफलाघनम् शठीद्विबृहतीद्राक्षापिप्पल्येलावितुन्नकम्",
         "iast": "pāṭhāmadhukajīvantītvakkṣīrītriphalāghanam śaṭhīdvibṛhatīdrākṣāpippalyelāvitunnakam",
         "iast_ru": "па̄т̣ха̄мадхукаджӣвантӣтваккш̣ӣрӣтрипхала̄гханам ш́ат̣хӣдвибр̣хатӣдра̄кш̣а̄пиппалйела̄витуннакам",
-        "text": "патху, солодку, дживанти, кору, кшири, трифалу, мусту; шатхи, два вида брихати, изюм, пиппали, эла, витуннаку;"
+        "text": "патху, солодку, дживанти, кору, кшири, трифалу, мусту; шатхи, два вида брихати, изюм, пиппали, эла, витуннаку;",
+        "text_en": "patha, licorice, jivanti, bark, kshiri, triphala, musta; shathi, the two kinds of brihati, raisins, pippali, ela, vitunnaka;"
       },
       {
         "type": "verse",
@@ -36119,7 +36450,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सारिवापुष्करजटाकर्कटाख्यारसाञ्जनम् पुनर्नवालोहरजस्त्रायमाणायवानिका",
         "iast": "sārivāpuṣkarajaṭākarkaṭākhyārasāñjanam punarnavāloharajastrāyamāṇāyavānikā",
         "iast_ru": "са̄рива̄пуш̣караджат̣а̄каркат̣а̄кхйа̄раса̄н̃джанам пунарнава̄лохараджастра̄йама̄н̣а̄йава̄ника̄",
-        "text": "сариву, корни паушкары, каркатакхью, расанджану; пунарнаву, железные опилки, траяману, аджван;"
+        "text": "сариву, корни паушкары, каркатакхью, расанджану; пунарнаву, железные опилки, траяману, аджван;",
+        "text_en": "sariva, pushkara roots, karkatakhya, rasanjana; punarnava, iron filings, trayamana, ajwain;"
       },
       {
         "type": "verse",
@@ -36127,7 +36459,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऋद्धिस्तामलकी भार्ङ्गी विडङ्गं धन्वयासकम् क्षारचित्रकचव्याम्लवेतसव्योषदारु च सर्वकासान् जयेल्लीढं तच्चूर्णं मधुसर्पिषा",
         "iast": "ṛddhistāmalakī bhārṅgī viḍaṅgaṃ dhanvayāsakam kṣāracitrakacavyāmlavetasavyoṣadāru ca sarvakāsān jayellīḍhaṃ taccūrṇaṃ madhusarpiṣā",
         "iast_ru": "р̣ддхиста̄малакӣ бха̄рн̇гӣ вид̣ан̇гам̣ дханвайа̄сакам кш̣а̄рачитракачавйа̄млаветасавйош̣ада̄ру ча сарвака̄са̄н джайеллӣд̣хам̣ таччӯрн̣ам̣ мадхусарпиш̣а̄",
-        "text": "риддхи, тамалаки, бхаргхи, видангу, дханваясаку; щёлочь, читрак, чавью, амлаветасу, вьошу и дару — этот порошок, принятый слизыванием с мёдом и топлёным маслом, побеждает все виды кашля;"
+        "text": "риддхи, тамалаки, бхаргхи, видангу, дханваясаку; щёлочь, читрак, чавью, амлаветасу, вьошу и дару — этот порошок, принятый слизыванием с мёдом и топлёным маслом, побеждает все виды кашля;",
+        "text_en": "riddhi, tamalaki, bharngi, vidanga, dhanvayasaka; alkali, chitraka, chavya, amlavetasa, vyosha and daru: this powder, taken by licking with honey and ghee, conquers all kinds of cough;"
       },
       {
         "type": "verse",
@@ -36135,7 +36468,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पद्मकं त्रिफला व्योषं विडङ्गं देवदारु च बलारास्ना च तच्चूर्णं समस्तसमशर्करम्",
         "iast": "padmakaṃ triphalā vyoṣaṃ viḍaṅgaṃ devadāru ca balārāsnā ca taccūrṇaṃ samastasamaśarkaram",
         "iast_ru": "падмакам̣ трипхала̄ вйош̣ам̣ вид̣ан̇гам̣ девада̄ру ча бала̄ра̄сна̄ ча таччӯрн̣ам̣ самастасамаш́аркарам",
-        "text": "падмаку, трифалу, вьошу, видангу и девадару; балу и расну — этот порошок, вместе с равным количеством сахара,"
+        "text": "падмаку, трифалу, вьошу, видангу и девадару; балу и расну — этот порошок, вместе с равным количеством сахара,",
+        "text_en": "padmaka, triphala, vyosha, vidanga and devadaru; balu and rasna: this powder, together with an equal quantity of sugar,"
       },
       {
         "type": "verse",
@@ -36143,7 +36477,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वादेन्मधुघृताभ्यां वा लिह्यात् कासहरं परम् तद्वन्मारिचचूर्णं वा सघृतक्षौद्रशर्करम्",
         "iast": "svādenmadhughṛtābhyāṃ vā lihyāt kāsaharaṃ param tadvanmāricacūrṇaṃ vā saghṛtakṣaudraśarkaram",
         "iast_ru": "сва̄денмадхугхр̣та̄бхйа̄м̣ ва̄ лихйа̄т ка̄сахарам̣ парам тадванма̄ричачӯрн̣ам̣ ва̄ сагхр̣такш̣аудраш́аркарам",
-        "text": "следует пробовать на вкус вместе с мёдом и топлёным маслом, или принять слизыванием — превосходно устраняет кашель; подобным же образом — порошок перца, вместе с топлёным маслом, мёдом и сахаром;"
+        "text": "следует пробовать на вкус вместе с мёдом и топлёным маслом, или принять слизыванием — превосходно устраняет кашель; подобным же образом — порошок перца, вместе с топлёным маслом, мёдом и сахаром;",
+        "text_en": "should be tasted together with honey and ghee, or taken by licking; it excellently relieves cough; likewise a powder of pepper, together with ghee, honey and sugar;"
       },
       {
         "type": "verse",
@@ -36151,7 +36486,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पथ्याशुण्ठीघनगुदैर्गुटिकां धारयेन्मुखे सर्वेषु कासश्वासेषु केवलं वा बिभीतकम्",
         "iast": "pathyāśuṇṭhīghanagudairguṭikāṃ dhārayenmukhe sarveṣu kāsaśvāseṣu kevalaṃ vā bibhītakam",
         "iast_ru": "патхйа̄ш́ун̣т̣хӣгханагудаиргут̣ика̄м̣ дха̄райенмукхе сарвеш̣у ка̄саш́ва̄сеш̣у кевалам̣ ва̄ бибхӣтакам",
-        "text": "следует держать во рту пилюлю из харитаки, сухого имбиря, мусты и патоки; при всех видах кашля и одышки — или же одну лишь бибхитаки;"
+        "text": "следует держать во рту пилюлю из харитаки, сухого имбиря, мусты и патоки; при всех видах кашля и одышки — или же одну лишь бибхитаки;",
+        "text_en": "one should hold in the mouth a pill of haritaki, dry ginger, musta and jaggery; in all kinds of cough and dyspnoea; or bibhitaki alone;"
       },
       {
         "type": "verse",
@@ -36159,7 +36495,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कल्के तिल्वकपत्राणां घृतभृष्टे सशर्करे पेयोत्कार्यथवा च्छर्दितृट्कासामातिसारजित्",
         "iast": "kalke tilvakapatrāṇāṃ ghṛtabhṛṣṭe saśarkare peyotkāryathavā ccharditṛṭkāsāmātisārajit",
         "iast_ru": "калке тилвакапатра̄н̣а̄м̣ гхр̣табхр̣ш̣т̣е саш́аркаре пейотка̄рйатхава̄ ччхардитр̣т̣ка̄са̄ма̄тиса̄раджит",
-        "text": "пасту из листьев тилваки, обжаренную в топлёном масле, вместе с сахаром, следует дать в виде пеи или уткарики (густой каши) — она устраняет рвоту, жажду, кашель и понос с амой;"
+        "text": "пасту из листьев тилваки, обжаренную в топлёном масле, вместе с сахаром, следует дать в виде пеи или уткарики (густой каши) — она устраняет рвоту, жажду, кашель и понос с амой;",
+        "text_en": "a paste of tilvaka leaves, fried in ghee, together with sugar, should be given as a peya or utkarika (thick gruel); it relieves vomiting, thirst, cough and diarrhoea with ama;"
       },
       {
         "type": "verse",
@@ -36167,7 +36504,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गौरसर्षपगण्डीरविडङ्गव्योषचित्रकान् साभयान् साधयेत्तोये यवागूस्तेन चाम्भसा",
         "iast": "gaurasarṣapagaṇḍīraviḍaṅgavyoṣacitrakān sābhayān sādhayettoye yavāgūstena cāmbhasā",
         "iast_ru": "гаурасарш̣апаган̣д̣ӣравид̣ан̇гавйош̣ачитрака̄н са̄бхайа̄н са̄дхайеттойе йава̄гӯстена ча̄мбхаса̄",
-        "text": "белую горчицу, гандиру, видангу, вьошу, читрак, вместе с харитаки, следует сварить в воде; ячменный отвар следует сварить на этой же воде;"
+        "text": "белую горчицу, гандиру, видангу, вьошу, читрак, вместе с харитаки, следует сварить в воде; ячменный отвар следует сварить на этой же воде;",
+        "text_en": "white mustard, gandira, vidanga, vyosha, chitraka, together with haritaki, should be boiled in water; barley gruel should be cooked in this same water;"
       },
       {
         "type": "verse",
@@ -36175,7 +36513,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ससर्पिर्लवणा कासे हिध्माश्वासे सपीनसे पाण्ड्वामये क्षये शोफे कर्णशूले च शस्यते",
         "iast": "sasarpirlavaṇā kāse hidhmāśvāse sapīnase pāṇḍvāmaye kṣaye śophe karṇaśūle ca śasyate",
         "iast_ru": "сасарпирлаван̣а̄ ка̄се хидхма̄ш́ва̄се сапӣнасе па̄н̣д̣ва̄майе кш̣айе ш́опхе карн̣аш́ӯле ча ш́асйате",
-        "text": "вместе с топлёным маслом и солью, этот ячменный отвар рекомендуется при кашле, икоте, одышке с насморком, малокровии, истощении, отёке и боли в ухе;"
+        "text": "вместе с топлёным маслом и солью, этот ячменный отвар рекомендуется при кашле, икоте, одышке с насморком, малокровии, истощении, отёке и боли в ухе;",
+        "text_en": "together with ghee and salt, this barley gruel is recommended in cough, hiccup, dyspnoea with catarrh, anaemia, emaciation, oedema and earache;"
       },
       {
         "type": "verse",
@@ -36183,7 +36522,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कण्टकारीरसे सिद्धो मुद्गयूषः सुसंस्कृतः सगौरामलकः साम्लः सर्वकासभिषग्जितम्",
         "iast": "kaṇṭakārīrase siddho mudgayūṣaḥ susaṃskṛtaḥ sagaurāmalakaḥ sāmlaḥ sarvakāsabhiṣagjitam",
         "iast_ru": "кан̣т̣ака̄рӣрасе сиддхо мудгайӯш̣ах̣ сусам̣скр̣тах̣ сагаура̄малаках̣ са̄млах̣ сарвака̄сабхиш̣агджитам",
-        "text": "суп из зелёного маша, хорошо приготовленный на соке кантакари, вместе с белой амалаки и кислыми добавками, — врачебное средство при всех видах кашля;"
+        "text": "суп из зелёного маша, хорошо приготовленный на соке кантакари, вместе с белой амалаки и кислыми добавками, — врачебное средство при всех видах кашля;",
+        "text_en": "a soup of green gram, well prepared with the juice of kantakari, together with white amalaki and sour additions, is the physician's remedy in all kinds of cough;"
       },
       {
         "type": "verse",
@@ -36191,7 +36531,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातघ्नौषधनिःक्वाथे क्षीरं यूषान् रसानपि वैष्किरान् प्रातुदान् बैलान् दापयेत् क्षयकासिने",
         "iast": "vātaghnauṣadhaniḥkvāthe kṣīraṃ yūṣān rasānapi vaiṣkirān prātudān bailān dāpayet kṣayakāsine",
         "iast_ru": "ва̄тагхнауш̣адханих̣ква̄тхе кш̣ӣрам̣ йӯш̣а̄н раса̄напи ваиш̣кира̄н пра̄туда̄н баила̄н да̄пайет кш̣айака̄сине",
-        "text": "на отваре лекарств, устраняющих Вату, следует давать молоко, супы и мясные бульоны из птиц типа куриных, дятлообразных и животных типа быков страдающему кашлем от истощения;"
+        "text": "на отваре лекарств, устраняющих Вату, следует давать молоко, супы и мясные бульоны из птиц типа куриных, дятлообразных и животных типа быков страдающему кашлем от истощения;",
+        "text_en": "In a decoction of Vata-relieving medicines, milk, soups and meat broths of birds of the gallinaceous and woodpecker types and of bovine-type animals should be given to one suffering from cough from emaciation;"
       },
       {
         "type": "verse",
@@ -36199,7 +36540,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षतकासे च ये धूमाः सानुपाना निदर्शिताः क्षयकासे ऽपि ते योज्या वक्ष्यते यच्च यक्ष्मणि",
         "iast": "kṣatakāse ca ye dhūmāḥ sānupānā nidarśitāḥ kṣayakāse 'pi te yojyā vakṣyate yacca yakṣmaṇi",
         "iast_ru": "кш̣атака̄се ча йе дхӯма̄х̣ са̄нупа̄на̄ нидарш́ита̄х̣ кш̣айака̄се 'пи те йоджйа̄ вакш̣йате йачча йакш̣ман̣и",
-        "text": "те дымы с соответствующими питьями, что были указаны при кашле от травмы, следует применять и при кашле от истощения; и то, что будет сказано о чахотке, также применимо."
+        "text": "те дымы с соответствующими питьями, что были указаны при кашле от травмы, следует применять и при кашле от истощения; и то, что будет сказано о чахотке, также применимо.",
+        "text_en": "those smokes with corresponding drinks that were indicated in cough from injury should be applied also in cough from emaciation; and what will be said about consumption is also applicable."
       },
       {
         "type": "verse",
@@ -36207,7 +36549,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बृंहणं दीपनं चाग्नेः स्रोतसां च विशोधनम् व्यत्यासात् क्षयकासिभ्यो बल्यं सर्वं प्रशस्यते",
         "iast": "bṛṃhaṇaṃ dīpanaṃ cāgneḥ srotasāṃ ca viśodhanam vyatyāsāt kṣayakāsibhyo balyaṃ sarvaṃ praśasyate",
         "iast_ru": "бр̣м̣хан̣ам̣ дӣпанам̣ ча̄гнех̣ сротаса̄м̣ ча виш́одханам вйатйа̄са̄т кш̣айака̄сибхйо балйам̣ сарвам̣ праш́асйате",
-        "text": "Укрепляющее лечение, разжигание пищеварительного огня, а также очищение каналов — применяемые попеременно, — всё это, дающее силу, рекомендуется страдающим кашлем от истощения."
+        "text": "Укрепляющее лечение, разжигание пищеварительного огня, а также очищение каналов — применяемые попеременно, — всё это, дающее силу, рекомендуется страдающим кашлем от истощения.",
+        "text_en": "Strengthening treatment, kindling of the digestive fire, and also cleansing of the channels, applied alternately, all this, giving strength, is recommended for those suffering from cough from emaciation."
       },
       {
         "type": "verse",
@@ -36215,7 +36558,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सन्निपातोद्भवो घोरः क्षयकासो यतस्ततः यथादोषबलं तस्य सन्निपातहितं हितम्",
         "iast": "sannipātodbhavo ghoraḥ kṣayakāso yatastataḥ yathādoṣabalaṃ tasya sannipātahitaṃ hitam",
         "iast_ru": "саннипа̄тодбхаво гхорах̣ кш̣айака̄со йатастатах̣ йатха̄дош̣абалам̣ тасйа саннипа̄тахитам̣ хитам",
-        "text": "Поскольку кашель от истощения, возникающий от саннипаты (сочетания всех трёх дош), грозен, то для него, в соответствии с силой доши, полезно то же, что полезно при саннипате."
+        "text": "Поскольку кашель от истощения, возникающий от саннипаты (сочетания всех трёх дош), грозен, то для него, в соответствии с силой доши, полезно то же, что полезно при саннипате.",
+        "text_en": "Since cough from emaciation arising from sannipata (a combination of all three doshas) is formidable, what is beneficial in sannipata is beneficial for it too, in accordance with the strength of the dosha."
       }
     ]
   },
@@ -36237,7 +36581,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातः श्वासहिध्माचिकित्सितं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athātaḥ śvāsahidhmācikitsitaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄тах̣ ш́ва̄сахидхма̄чикитситам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним лечение одышки и икоты — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним лечение одышки и икоты — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now, further, we shall explain the treatment of dyspnoea and hiccup, as the great rishis beginning with Atreya declared."
       },
       {
         "type": "verse",
@@ -36245,7 +36590,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्वासहिध्मा यतस्तुल्यहेत्वाद्याः साधनं ततः तुल्यमेव तदार्तं च पूर्वं स्वेदैरुपाचरेत्",
         "iast": "śvāsahidhmā yatastulyahetvādyāḥ sādhanaṃ tataḥ tulyameva tadārtaṃ ca pūrvaṃ svedairupācaret",
         "iast_ru": "ш́ва̄сахидхма̄ йатастулйахетва̄дйа̄х̣ са̄дханам̣ татах̣ тулйамева тада̄ртам̣ ча пӯрвам̣ сведаирупа̄чарет",
-        "text": "Поскольку одышка и икота имеют сходные причины и прочее, лечение их также одинаково; страдающего ими следует прежде всего лечить потогонными процедурами:"
+        "text": "Поскольку одышка и икота имеют сходные причины и прочее, лечение их также одинаково; страдающего ими следует прежде всего лечить потогонными процедурами:",
+        "text_en": "Since dyspnoea and hiccup have similar causes and so forth, their treatment too is the same; the sufferer should first of all be treated with sudation:"
       },
       {
         "type": "verse",
@@ -36253,7 +36599,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्निग्धैर्लवणतैलाक्तं स्रोतस्सु ग्रथितः कफः तैर्लीनो ऽपि विलीनोस्य कोष्ठं प्राप्तः सुनिर्हरः",
         "iast": "snigdhairlavaṇatailāktaṃ srotassu grathitaḥ kaphaḥ tairlīno 'pi vilīnosya koṣṭhaṃ prāptaḥ sunirharaḥ",
         "iast_ru": "снигдхаирлаван̣атаила̄ктам̣ сротассу гратхитах̣ капхах̣ таирлӣно 'пи вилӣносйа кош̣т̣хам̣ пра̄птах̣ сунирхарах̣",
-        "text": "тело, умащённое солёным маслянистым растительным маслом, при потогонных процедурах — Капха, свернувшаяся в каналах, ими же растворяется, и, будучи растворённой, достигая коштхи (полости живота), легко выводится."
+        "text": "тело, умащённое солёным маслянистым растительным маслом, при потогонных процедурах — Капха, свернувшаяся в каналах, ими же растворяется, и, будучи растворённой, достигая коштхи (полости живота), легко выводится.",
+        "text_en": "the body, anointed with salted unctuous vegetable oil, under sudation: the Kapha congealed in the channels is dissolved by it, and, being dissolved, reaching the koshtha (abdominal cavity), is easily expelled."
       },
       {
         "type": "verse",
@@ -36261,7 +36608,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भवेत् खेषु मृदुत्वं च मारुते चानुलोमता स्विन्नं च भोजयेदन्नं स्निग्धमानूपजै रसैः",
         "iast": "bhavet kheṣu mṛdutvaṃ ca mārute cānulomatā svinnaṃ ca bhojayedannaṃ snigdhamānūpajai rasaiḥ",
         "iast_ru": "бхавет кхеш̣у мр̣дутвам̣ ча ма̄руте ча̄нуломата̄ свиннам̣ ча бходжайеданнам̣ снигдхама̄нӯпаджаи расаих̣",
-        "text": "От потогонных процедур в полостях тела наступает мягкость, а Вата приходит в нормальное движение; распаренному больному следует давать маслянистую пищу с бульонами из болотных животных;"
+        "text": "От потогонных процедур в полостях тела наступает мягкость, а Вата приходит в нормальное движение; распаренному больному следует давать маслянистую пищу с бульонами из болотных животных;",
+        "text_en": "From sudation, softness arises in the cavities of the body, and Vata comes to move normally; to the steamed patient one should give unctuous food with broths of marsh animals;"
       },
       {
         "type": "verse",
@@ -36269,7 +36617,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दध्युत्तरेण वा दद्यात्ततो ऽस्मै वमनं मृदु विशेषात् कासवमथुहृद्ग्रहस्वरसादिने",
         "iast": "dadhyuttareṇa vā dadyāttato 'smai vamanaṃ mṛdu viśeṣāt kāsavamathuhṛdgrahasvarasādine",
         "iast_ru": "дадхйуттарен̣а ва̄ дадйа̄ттато 'смаи ваманам̣ мр̣ду виш́еш̣а̄т ка̄саваматхухр̣дграхасвараса̄дине",
-        "text": "или же следует дать пищу со сметаной (верхним слоем простокваши); затем ему следует дать мягкое рвотное, в особенности если он страдает от кашля, тошноты, стеснения сердца и потери голоса;"
+        "text": "или же следует дать пищу со сметаной (верхним слоем простокваши); затем ему следует дать мягкое рвотное, в особенности если он страдает от кашля, тошноты, стеснения сердца и потери голоса;",
+        "text_en": "or else one should give food with cream (the top layer of curd); then one should give him a mild emetic, especially if he suffers from cough, nausea, oppression of the heart and loss of voice;"
       },
       {
         "type": "verse",
@@ -36277,7 +36626,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीसैन्धवक्षौद्रयुक्तं वाताविरोधि यत् निर्हृते सुखमाप्रोति सकफे दुष्टविग्रहे",
         "iast": "pippalīsaindhavakṣaudrayuktaṃ vātāvirodhi yat nirhṛte sukhamāproti sakaphe duṣṭavigrahe",
         "iast_ru": "пиппалӣсаиндхавакш̣аудрайуктам̣ ва̄та̄виродхи йат нирхр̣те сукхама̄проти сакапхе душ̣т̣авиграхе",
-        "text": "рвотное с пиппали, каменной солью и мёдом, не противоречащее Вате. После того как Капха выведена, больной обретает облегчение, даже если тело поражено Капхой."
+        "text": "рвотное с пиппали, каменной солью и мёдом, не противоречащее Вате. После того как Капха выведена, больной обретает облегчение, даже если тело поражено Капхой.",
+        "text_en": "emesis with pippali, rock salt and honey, not opposing Vata. After Kapha has been expelled, the patient finds relief, even if the body is afflicted by Kapha."
       },
       {
         "type": "verse",
@@ -36285,7 +36635,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्रोतःसु च विशुद्धेषु चरत्यविहतो ऽनिलः ध्मानोदावर्ततमके मातुलुङ्गाम्लवेतसैः",
         "iast": "srotaḥsu ca viśuddheṣu caratyavihato 'nilaḥ dhmānodāvartatamake mātuluṅgāmlavetasaiḥ",
         "iast_ru": "сротах̣су ча виш́уддхеш̣у чаратйавихато 'нилах̣ дхма̄нода̄вартатамаке ма̄тулун̇га̄млаветасаих̣",
-        "text": "А когда каналы очищены, Вата движется беспрепятственно. При вздутии, удаварте, тамаке (приступообразной одышке) — с матулунгой и амлаветасом,"
+        "text": "А когда каналы очищены, Вата движется беспрепятственно. При вздутии, удаварте, тамаке (приступообразной одышке) — с матулунгой и амлаветасом,",
+        "text_en": "And when the channels are cleansed, Vata moves unobstructed. In distension, udavarta and tamaka (paroxysmal dyspnoea): with matulunga and amlavetasa,"
       },
       {
         "type": "verse",
@@ -36293,7 +36644,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हिङ्गुपीलुबिडयुक्तमन्नं स्यादनुलोमनम् ससैधवं फलाम्लं वा कोष्णं दद्याद्विरेचनम्",
         "iast": "hiṅgupīlubiḍayuktamannaṃ syādanulomanam sasaidhavaṃ phalāmlaṃ vā koṣṇaṃ dadyādvirecanam",
         "iast_ru": "хин̇гупӣлубид̣айуктаманнам̣ сйа̄дануломанам сасаидхавам̣ пхала̄млам̣ ва̄ кош̣н̣ам̣ дадйа̄двиречанам",
-        "text": "вместе с хингу, пилу и бидой — пища, нормализующая движение Ваты; или же следует дать тёплое слабительное с каменной солью и кислым плодом."
+        "text": "вместе с хингу, пилу и бидой — пища, нормализующая движение Ваты; или же следует дать тёплое слабительное с каменной солью и кислым плодом.",
+        "text_en": "together with asafoetida, pilu and bida: food that normalises the movement of Vata; or else a warm purgative with rock salt and a sour fruit should be given."
       },
       {
         "type": "verse",
@@ -36301,7 +36653,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एते हि कफसंरुद्धगतिप्राणप्रकोपजाः तस्मात्तन्मार्गशुध्यर्थमूर्ध्वाधः शोधनं हितम्",
         "iast": "ete hi kaphasaṃruddhagatiprāṇaprakopajāḥ tasmāttanmārgaśudhyarthamūrdhvādhaḥ śodhanaṃ hitam",
         "iast_ru": "ете хи капхасам̣руддхагатипра̄н̣апракопаджа̄х̣ тасма̄ттанма̄ргаш́удхйартхамӯрдхва̄дхах̣ ш́одханам̣ хитам",
-        "text": "Ведь эти болезни возникают от возмущения Праны, движение которой стеснено Капхой; поэтому для очищения её пути полезно очищение вверх и вниз."
+        "text": "Ведь эти болезни возникают от возмущения Праны, движение которой стеснено Капхой; поэтому для очищения её пути полезно очищение вверх и вниз.",
+        "text_en": "For these diseases arise from the disturbance of Prana, whose movement is obstructed by Kapha; therefore, to clear its path, purification upward and downward is beneficial."
       },
       {
         "type": "verse",
@@ -36309,7 +36662,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उदीर्यते भृशतरं मार्गरोधाद्वहज्जलम् यथा तथानिलस्तस्य मार्गमस्माद्विशोधयेत्",
         "iast": "udīryate bhṛśataraṃ mārgarodhādvahajjalam yathā tathānilastasya mārgamasmādviśodhayet",
         "iast_ru": "удӣрйате бхр̣ш́атарам̣ ма̄ргародха̄двахаджджалам йатха̄ татха̄ниластасйа ма̄ргамасма̄двиш́одхайет",
-        "text": "Подобно тому как текущая вода, встречая препятствие на пути, устремляется ещё сильнее, — так же и Вата; поэтому следует очистить её путь от этого препятствия."
+        "text": "Подобно тому как текущая вода, встречая препятствие на пути, устремляется ещё сильнее, — так же и Вата; поэтому следует очистить её путь от этого препятствия.",
+        "text_en": "Just as flowing water, meeting an obstacle in its path, rushes on all the more strongly, so too does Vata; therefore its path should be cleared of this obstruction."
       },
       {
         "type": "verse",
@@ -36317,7 +36671,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अशान्तौ कृतसंशुद्धेर्धूमैर्लीनं मलं हरेत् हरिद्रापत्रमेरण्मूलं लाक्षां मनःशिलाम्",
         "iast": "aśāntau kṛtasaṃśuddherdhūmairlīnaṃ malaṃ haret haridrāpatrameraṇmūlaṃ lākṣāṃ manaḥśilām",
         "iast_ru": "аш́а̄нтау кр̣тасам̣ш́уддхердхӯмаирлӣнам̣ малам̣ харет харидра̄патрамеран̣мӯлам̣ ла̄кш̣а̄м̣ манах̣ш́ила̄м",
-        "text": "Если болезнь не стихает даже после проведённого очищения, следует дымами удалить оставшуюся дошу. Куркуму, лист, корень эранды, лакшу, манахшилу,"
+        "text": "Если болезнь не стихает даже после проведённого очищения, следует дымами удалить оставшуюся дошу. Куркуму, лист, корень эранды, лакшу, манахшилу,",
+        "text_en": "If the disease does not subside even after purification has been performed, the remaining dosha should be removed by smokes. Turmeric, leaf and root of eranda, laksha, manahshila,"
       },
       {
         "type": "verse",
@@ -36325,7 +36680,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सदेवदार्वलं मांसीं पिष्ट्वा वर्तिं प्रकल्पयेत् तां घृताक्तां पिबेद्धूमं यवान् वा घृतसंयुतान्",
         "iast": "sadevadārvalaṃ māṃsīṃ piṣṭvā vartiṃ prakalpayet tāṃ ghṛtāktāṃ pibeddhūmaṃ yavān vā ghṛtasaṃyutān",
         "iast_ru": "садевада̄рвалам̣ ма̄м̣сӣм̣ пиш̣т̣ва̄ вартим̣ пракалпайет та̄м̣ гхр̣та̄кта̄м̣ пибеддхӯмам̣ йава̄н ва̄ гхр̣тасам̣йута̄н",
-        "text": "вместе с девадару, алой и мансаси, растерев, следует сформовать фитиль; смазанный топлёным маслом, его следует вдыхать в виде дыма; или же ячмень, вместе с топлёным маслом,"
+        "text": "вместе с девадару, алой и мансаси, растерев, следует сформовать фитиль; смазанный топлёным маслом, его следует вдыхать в виде дыма; или же ячмень, вместе с топлёным маслом,",
+        "text_en": "together with devadaru, aloe and mamsi, ground, should be formed into a wick; smeared with ghee, it should be inhaled as smoke; or else barley, together with ghee,"
       },
       {
         "type": "verse",
@@ -36333,7 +36689,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधूच्छिष्टं सर्जरसं घृतं वा गुरुवागुरु चन्दनंवाजशृङ्गं वा बालान्वा स्नाव वा गवाम्",
         "iast": "madhūcchiṣṭaṃ sarjarasaṃ ghṛtaṃ vā guruvāguru candanaṃvājaśṛṅgaṃ vā bālānvā snāva vā gavām",
         "iast_ru": "мадхӯччхиш̣т̣ам̣ сарджарасам̣ гхр̣там̣ ва̄ гурува̄гуру чанданам̣ва̄джаш́р̣н̇гам̣ ва̄ ба̄ла̄нва̄ сна̄ва ва̄ гава̄м",
-        "text": "пчелиный воск, смолу сарджи, топлёное масло, или тяжёлое агуру, сандал, или рог коня, или конский волос, или сухожилие коровы,"
+        "text": "пчелиный воск, смолу сарджи, топлёное масло, или тяжёлое агуру, сандал, или рог коня, или конский волос, или сухожилие коровы,",
+        "text_en": "beeswax, resin of sarja, ghee, or heavy aguru, sandal, or horse's horn, or horse hair, or cow's tendon,"
       },
       {
         "type": "verse",
@@ -36341,7 +36698,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऋष्यगोधकुरङ्गैणचर्मशृङ्गखुराणि वा गुग्गुलुं वा मनोह्वां वा सालनिर्यासमेव वा",
         "iast": "ṛṣyagodhakuraṅgaiṇacarmaśṛṅgakhurāṇi vā gugguluṃ vā manohvāṃ vā sālaniryāsameva vā",
         "iast_ru": "р̣ш̣йагодхакуран̇гаин̣ачармаш́р̣н̇гакхура̄н̣и ва̄ гуггулум̣ ва̄ манохва̄м̣ ва̄ са̄ланирйа̄самева ва̄",
-        "text": "или кожу, рог и копыта антилопы, ящерицы, оленя и чёрной антилопы; или гуггулу, манахву, или же смолу дерева сала —"
+        "text": "или кожу, рог и копыта антилопы, ящерицы, оленя и чёрной антилопы; или гуггулу, манахву, или же смолу дерева сала —",
+        "text_en": "or the skin, horn and hooves of the antelope, monitor lizard, deer and black antelope; or guggulu, manahva, or else the resin of the sala tree,"
       },
       {
         "type": "verse",
@@ -36349,7 +36707,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सल्लकीं गुग्गुलुं लोहं पद्मकं च घृताप्लुतम्",
         "iast": "sallakīṃ gugguluṃ lohaṃ padmakaṃ ca ghṛtāplutam",
         "iast_ru": "саллакӣм̣ гуггулум̣ лохам̣ падмакам̣ ча гхр̣та̄плутам",
-        "text": "саллаки, гуггулу, железо и падмаку, пропитанные топлёным маслом, — следует использовать для дымов."
+        "text": "саллаки, гуггулу, железо и падмаку, пропитанные топлёным маслом, — следует использовать для дымов.",
+        "text_en": "sallaki, guggulu, iron and padmaka, soaked in ghee, should be used for smokes."
       },
       {
         "type": "verse",
@@ -36357,7 +36716,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अवश्यं स्वेदनीयानामस्वेद्यानामपि क्षणम् स्वेदयेत् ससिताक्षीरसुखोष्णस्नेहसेचनैः",
         "iast": "avaśyaṃ svedanīyānāmasvedyānāmapi kṣaṇam svedayet sasitākṣīrasukhoṣṇasnehasecanaiḥ",
         "iast_ru": "аваш́йам̣ сведанӣйа̄на̄масведйа̄на̄мапи кш̣ан̣ам сведайет сасита̄кш̣ӣрасукхош̣н̣аснехасечанаих̣",
-        "text": "Тем, кому потогонные процедуры непременно показаны, а также тем, кому они не показаны, — на короткое время следует всё же провести потогонную процедуру с осторожностью, орошением приятно тёплым маслянистым средством с сахаром и молоком,"
+        "text": "Тем, кому потогонные процедуры непременно показаны, а также тем, кому они не показаны, — на короткое время следует всё же провести потогонную процедуру с осторожностью, орошением приятно тёплым маслянистым средством с сахаром и молоком,",
+        "text_en": "For those in whom sudation is absolutely indicated, as well as for those in whom it is not indicated, for a short time sudation should nevertheless be carried out with caution, by sprinkling with a pleasantly warm unctuous remedy with sugar and milk,"
       },
       {
         "type": "verse",
@@ -36365,7 +36725,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "उत्कारिकोपनाहैश्च स्वेदाध्यायोक्तभेषजैः उरः कण्ठं च मृदुभिः सामे त्वामविधिं चरेत्",
         "iast": "utkārikopanāhaiśca svedādhyāyoktabheṣajaiḥ uraḥ kaṇṭhaṃ ca mṛdubhiḥ sāme tvāmavidhiṃ caret",
         "iast_ru": "утка̄рикопана̄хаиш́ча сведа̄дхйа̄йоктабхеш̣аджаих̣ урах̣ кан̣т̣хам̣ ча мр̣дубхих̣ са̄ме тва̄мавидхим̣ чарет",
-        "text": "а также уткарикой (густой кашей) и припарками, приготовленными с лекарствами, упомянутыми в главе о потогонных процедурах, — мягкими средствами следует обрабатывать грудь и горло; при состоянии с амой следует применять метод для амы."
+        "text": "а также уткарикой (густой кашей) и припарками, приготовленными с лекарствами, упомянутыми в главе о потогонных процедурах, — мягкими средствами следует обрабатывать грудь и горло; при состоянии с амой следует применять метод для амы.",
+        "text_en": "as well as with utkarika (thick gruel) and poultices prepared with the medicines mentioned in the chapter on sudation; the chest and throat should be treated with mild measures; in a condition with ama, the method for ama should be applied."
       },
       {
         "type": "verse",
@@ -36373,7 +36734,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अतियोगोद्धतं वातं दृष्ट्वा पवननाशनैः स्निग्धै रसाद्यैर्नात्युष्णैरभ्यङ्गैश्च शमं नयेत्",
         "iast": "atiyogoddhataṃ vātaṃ dṛṣṭvā pavananāśanaiḥ snigdhai rasādyairnātyuṣṇairabhyaṅgaiśca śamaṃ nayet",
         "iast_ru": "атийогоддхатам̣ ва̄там̣ др̣ш̣т̣ва̄ паванана̄ш́анаих̣ снигдхаи раса̄дйаирна̄тйуш̣н̣аирабхйан̇гаиш́ча ш́амам̣ найет",
-        "text": "Увидев, что Вата возбуждена чрезмерным применением потогонных процедур, следует успокоить её маслянистыми соками и подобным, устраняющими Вату, а также умащениями, не слишком горячими."
+        "text": "Увидев, что Вата возбуждена чрезмерным применением потогонных процедур, следует успокоить её маслянистыми соками и подобным, устраняющими Вату, а также умащениями, не слишком горячими.",
+        "text_en": "Seeing that Vata has been aggravated by excessive application of sudation, one should pacify it with unctuous juices and the like that relieve Vata, as well as with unctions that are not too hot."
       },
       {
         "type": "verse",
@@ -36381,7 +36743,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अनुत्क्लिष्टकफास्विन्नदुर्बलानां हि शोधनात् वायुर्लब्धास्पदो मर्म संशोष्याशु हरेदसून्",
         "iast": "anutkliṣṭakaphāsvinnadurbalānāṃ hi śodhanāt vāyurlabdhāspado marma saṃśoṣyāśu haredasūn",
         "iast_ru": "анутклиш̣т̣акапха̄свиннадурбала̄на̄м̣ хи ш́одхана̄т ва̄йурлабдха̄спадо марма сам̣ш́ош̣йа̄ш́у харедасӯн",
-        "text": "Ведь у тех, чья Капха не возбуждена, кто не пропарен, кто слаб, от чрезмерного очищения Вата, обретя прибежище, иссушив жизненно важную точку, быстро лишает жизни."
+        "text": "Ведь у тех, чья Капха не возбуждена, кто не пропарен, кто слаб, от чрезмерного очищения Вата, обретя прибежище, иссушив жизненно важную точку, быстро лишает жизни.",
+        "text_en": "For in those whose Kapha is not aggravated, who have not been steamed, who are weak, through excessive purification Vata, finding refuge, having dried up the vital point, swiftly deprives of life."
       },
       {
         "type": "verse",
@@ -36389,7 +36752,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कषायलेहस्नेहाद्यैस्तेषां संशमयेदतः क्षीणक्षतातिसारासृक्पित्तदाहानुबन्धजान्",
         "iast": "kaṣāyalehasnehādyaisteṣāṃ saṃśamayedataḥ kṣīṇakṣatātisārāsṛkpittadāhānubandhajān",
         "iast_ru": "каш̣а̄йалехаснеха̄дйаистеш̣а̄м̣ сам̣ш́амайедатах̣ кш̣ӣн̣акш̣ата̄тиса̄ра̄ср̣кпиттада̄ха̄нубандхаджа̄н",
-        "text": "Поэтому у таких больных следует успокаивать болезнь отварами, лехьями, маслами и подобным; также при болезни, сопутствуемой истощением, травмой, поносом, раактапиттой и жжением,"
+        "text": "Поэтому у таких больных следует успокаивать болезнь отварами, лехьями, маслами и подобным; также при болезни, сопутствуемой истощением, травмой, поносом, раактапиттой и жжением,",
+        "text_en": "Therefore in such patients the disease should be pacified with decoctions, lehyas, oils and the like; also in disease accompanied by emaciation, injury, diarrhoea, raktapitta and burning,"
       },
       {
         "type": "verse",
@@ -36397,7 +36761,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मधुरस्निग्धशीताद्यैर्हिध्माश्वासानुपाचरेत् कुलत्थदशमूलानां क्वाथे स्युर्जाङ्गला रसाः यूषाश्च शिग्रुवार्ताककासघ्नवृषमूलकैः",
         "iast": "madhurasnigdhaśītādyairhidhmāśvāsānupācaret kulatthadaśamūlānāṃ kvāthe syurjāṅgalā rasāḥ yūṣāśca śigruvārtākakāsaghnavṛṣamūlakaiḥ",
         "iast_ru": "мадхураснигдхаш́ӣта̄дйаирхидхма̄ш́ва̄са̄нупа̄чарет кулаттхадаш́амӯла̄на̄м̣ ква̄тхе сйурджа̄н̇гала̄ раса̄х̣ йӯш̣а̄ш́ча ш́игрува̄рта̄кака̄сагхнавр̣ш̣амӯлакаих̣",
-        "text": "икоту и одышку следует лечить сладкими, маслянистыми, холодными средствами и подобным. На отваре конского боба и дашамулы следует готовить мясные бульоны диких животных, а также супы с шигру, баклажаном, касагхной, вришей и редькой,"
+        "text": "икоту и одышку следует лечить сладкими, маслянистыми, холодными средствами и подобным. На отваре конского боба и дашамулы следует готовить мясные бульоны диких животных, а также супы с шигру, баклажаном, касагхной, вришей и редькой,",
+        "text_en": "hiccup and dyspnoea should be treated with sweet, unctuous, cold remedies and the like. In a decoction of horse gram and dashamula, meat broths of wild animals should be prepared, as well as soups with shigru, aubergine, kasaghna, vrisha and radish,"
       },
       {
         "type": "verse",
@@ -36405,7 +36770,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पल्लवैर्निम्बकुलकबृहतीमातुलुङ्गजैः व्याघ्रीदुरालभाशृङ्गीबिल्वमध्यत्रिकण्टकैः",
         "iast": "pallavairnimbakulakabṛhatīmātuluṅgajaiḥ vyāghrīdurālabhāśṛṅgībilvamadhyatrikaṇṭakaiḥ",
         "iast_ru": "паллаваирнимбакулакабр̣хатӣма̄тулун̇гаджаих̣ вйа̄гхрӣдура̄лабха̄ш́р̣н̇гӣбилвамадхйатрикан̣т̣акаих̣",
-        "text": "с побегами нима, кулаки, брихати и матулунги; с вьягхри, дуралабхой, каркатасрингой, мякотью билвы, трикантакой,"
+        "text": "с побегами нима, кулаки, брихати и матулунги; с вьягхри, дуралабхой, каркатасрингой, мякотью билвы, трикантакой,",
+        "text_en": "with shoots of neem, kulaka, brihati and matulunga; with vyaghri, duralabha, karkatasringi, bilva pulp, trikantaka,"
       },
       {
         "type": "verse",
@@ -36413,7 +36779,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सामृताग्निकुलत्थैश्च यूषः स्यात् क्वथितैर्जलै तद्वद्रास्नाबृहत्यादिबलामुद्गैः सचित्रकैः",
         "iast": "sāmṛtāgnikulatthaiśca yūṣaḥ syāt kvathitairjalai tadvadrāsnābṛhatyādibalāmudgaiḥ sacitrakaiḥ",
         "iast_ru": "са̄мр̣та̄гникулаттхаиш́ча йӯш̣ах̣ сйа̄т кватхитаирджалаи тадвадра̄сна̄бр̣хатйа̄дибала̄мудгаих̣ сачитракаих̣",
-        "text": "с гудучи, читраком и конским бобом, сваренными в воде, — таков суп; подобным же образом с расной, брихати и подобными, балой, зелёным машем, вместе с читраком;"
+        "text": "с гудучи, читраком и конским бобом, сваренными в воде, — таков суп; подобным же образом с расной, брихати и подобными, балой, зелёным машем, вместе с читраком;",
+        "text_en": "with guduchi, chitraka and horse gram, boiled in water: such is the soup; likewise with rasna, brihati and the like, bala, green gram, together with chitraka;"
       },
       {
         "type": "verse",
@@ -36421,7 +36788,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पेया च चित्रकाजाजीशृङ्गीसौवर्चलैर्हिता दशमूलेन वा कासश्वासहिध्मारुजापहा",
         "iast": "peyā ca citrakājājīśṛṅgīsauvarcalairhitā daśamūlena vā kāsaśvāsahidhmārujāpahā",
         "iast_ru": "пейа̄ ча читрака̄джа̄джӣш́р̣н̇гӣсауварчалаирхита̄ даш́амӯлена ва̄ ка̄саш́ва̄сахидхма̄руджа̄паха̄",
-        "text": "пея с читраком, зирой, каркатасрингой, соувархалой — полезна; или с дашамулой — устраняет кашель, одышку, икоту и боль."
+        "text": "пея с читраком, зирой, каркатасрингой, соувархалой — полезна; или с дашамулой — устраняет кашель, одышку, икоту и боль.",
+        "text_en": "a peya with chitraka, cumin, karkatasringi and souvarchala is beneficial; or with dashamula, it relieves cough, dyspnoea, hiccup and pain."
       },
       {
         "type": "verse",
@@ -36429,7 +36797,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलशठीरास्नाभार्ङ्गीबिल्वर्धिपौष्करैः कुलीरशृङ्गीचपलातामलक्यमृतौषधैः",
         "iast": "daśamūlaśaṭhīrāsnābhārṅgībilvardhipauṣkaraiḥ kulīraśṛṅgīcapalātāmalakyamṛtauṣadhaiḥ",
         "iast_ru": "даш́амӯлаш́ат̣хӣра̄сна̄бха̄рн̇гӣбилвардхипауш̣караих̣ кулӣраш́р̣н̇гӣчапала̄та̄малакйамр̣тауш̣адхаих̣",
-        "text": "Дашамулу, шатхи, расну, бхаргхи, билву, риддхи, паушкару; кулиру, каркатасрингу, чапалу, тамалаки, гудучи и сухой имбирь,"
+        "text": "Дашамулу, шатхи, расну, бхаргхи, билву, риддхи, паушкару; кулиру, каркатасрингу, чапалу, тамалаки, гудучи и сухой имбирь,",
+        "text_en": "Dashamula, shathi, rasna, bharngi, bilva, riddhi, pushkara; kulira, karkatasringi, chapala, tamalaki, guduchi and dry ginger,"
       },
       {
         "type": "verse",
@@ -36437,7 +36806,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिबेत् कषायं जीर्णे ऽस्मिन् पेयां तैरेवसाधिताम् शालिषष्टिकगोधूमयवमुद्गकुलत्थभुक्",
         "iast": "pibet kaṣāyaṃ jīrṇe 'smin peyāṃ tairevasādhitām śāliṣaṣṭikagodhūmayavamudgakulatthabhuk",
         "iast_ru": "пибет каш̣а̄йам̣ джӣрн̣е 'смин пейа̄м̣ таиреваса̄дхита̄м ш́а̄лиш̣аш̣т̣икагодхӯмайавамудгакулаттхабхук",
-        "text": "следует пить как отвар; после его переваривания — пею, приготовленную с теми же травами; больной, питающийся рисом шали, шаштика, пшеницей, ячменём, зелёным машем и конским бобом,"
+        "text": "следует пить как отвар; после его переваривания — пею, приготовленную с теми же травами; больной, питающийся рисом шали, шаштика, пшеницей, ячменём, зелёным машем и конским бобом,",
+        "text_en": "should be drunk as a decoction; after its digestion, a peya prepared with the same herbs; the patient, subsisting on shali rice, shashtika, wheat, barley, green gram and horse gram,"
       },
       {
         "type": "verse",
@@ -36445,7 +36815,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासहृद्ग्रहपार्श्वार्तिहिध्माश्वासप्रशान्तये सक्तून्वार्काङ्कुरक्षीरभावितानां समाक्षिकान् यवानां दशमूलादिनिःक्वाथलुलितान् पिबेत्",
         "iast": "kāsahṛdgrahapārśvārtihidhmāśvāsapraśāntaye saktūnvārkāṅkurakṣīrabhāvitānāṃ samākṣikān yavānāṃ daśamūlādiniḥkvāthalulitān pibet",
         "iast_ru": "ка̄сахр̣дграхапа̄рш́ва̄ртихидхма̄ш́ва̄сапраш́а̄нтайе сактӯнва̄рка̄н̇куракш̣ӣрабха̄вита̄на̄м̣ сама̄кш̣ика̄н йава̄на̄м̣ даш́амӯла̄диних̣ква̄тхалулита̄н пибет",
-        "text": "для успокоения кашля, стеснения сердца, боли в боках, икоты и одышки, пусть пьёт муку из ячменя, пропитанную соком ростков арки и молоком, вместе с мёдом, смешанную с отваром дашамулы и подобного;"
+        "text": "для успокоения кашля, стеснения сердца, боли в боках, икоты и одышки, пусть пьёт муку из ячменя, пропитанную соком ростков арки и молоком, вместе с мёдом, смешанную с отваром дашамулы и подобного;",
+        "text_en": "for the pacification of cough, oppression of the heart, pain in the sides, hiccup and dyspnoea, should drink barley flour soaked in the juice of arka sprouts and milk, together with honey, mixed with a decoction of dashamula and the like;"
       },
       {
         "type": "verse",
@@ -36453,7 +36824,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अन्ने च योजयेत् क्षारहिङ्वाज्यबिडदाडिमान् सपौष्करशठीव्योषमातुलुङ्गाम्लवेतसान्",
         "iast": "anne ca yojayet kṣārahiṅvājyabiḍadāḍimān sapauṣkaraśaṭhīvyoṣamātuluṅgāmlavetasān",
         "iast_ru": "анне ча йоджайет кш̣а̄рахин̇ва̄джйабид̣ада̄д̣има̄н сапауш̣караш́ат̣хӣвйош̣ама̄тулун̇га̄млаветаса̄н",
-        "text": "в пищу следует добавлять щёлочь, хингу, топлёное масло, биду, гранат; вместе с паушкарой, шатхи, вьошей, матулунгой и амлаветасом,"
+        "text": "в пищу следует добавлять щёлочь, хингу, топлёное масло, биду, гранат; вместе с паушкарой, шатхи, вьошей, матулунгой и амлаветасом,",
+        "text_en": "alkali, asafoetida, ghee, bida and pomegranate should be added to the food; together with pushkara, shathi, vyosha, matulunga and amlavetasa,"
       },
       {
         "type": "verse",
@@ -36461,7 +36833,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलस्य वा क्वाथमथवा देवदारुणः पिबेद्वा वारुणीमण्डं हिध्माश्वासी पिपासितः",
         "iast": "daśamūlasya vā kvāthamathavā devadāruṇaḥ pibedvā vāruṇīmaṇḍaṃ hidhmāśvāsī pipāsitaḥ",
         "iast_ru": "даш́амӯласйа ва̄ ква̄тхаматхава̄ девада̄рун̣ах̣ пибедва̄ ва̄рун̣ӣман̣д̣ам̣ хидхма̄ш́ва̄сӣ пипа̄ситах̣",
-        "text": "или же отвар дашамулы, или же девадару; страдающий икотой и одышкой, испытывающий жажду, пусть пьёт манду рисового отвара, сваренного с хмельным напитком варуни;"
+        "text": "или же отвар дашамулы, или же девадару; страдающий икотой и одышкой, испытывающий жажду, пусть пьёт манду рисового отвара, сваренного с хмельным напитком варуни;",
+        "text_en": "or else a decoction of dashamula, or of devadaru; one suffering from hiccup and dyspnoea, who feels thirst, should drink the manda of rice gruel boiled with varuni liquor;"
       },
       {
         "type": "verse",
@@ -36469,7 +36842,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीपिप्पलीमूलपथ्याजन्तुघ्नचित्रकैः कल्कितैर्लेपिते रूढे निक्षिपेत् घृतभाजने",
         "iast": "pippalīpippalīmūlapathyājantughnacitrakaiḥ kalkitairlepite rūḍhe nikṣipet ghṛtabhājane",
         "iast_ru": "пиппалӣпиппалӣмӯлапатхйа̄джантугхначитракаих̣ калкитаирлепите рӯд̣хе никш̣ипет гхр̣табха̄джане",
-        "text": "пасту из пиппали, корня пиппали, харитаки, джантугхны и читрака следует нанести на устоявшийся осадок на дне сосуда с топлёным маслом,"
+        "text": "пасту из пиппали, корня пиппали, харитаки, джантугхны и читрака следует нанести на устоявшийся осадок на дне сосуда с топлёным маслом,",
+        "text_en": "a paste of pippali, pippali root, haritaki, jantughna and chitraka should be applied to the settled sediment at the bottom of a vessel of ghee,"
       },
       {
         "type": "verse",
@@ -36477,7 +36851,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तक्रं मासस्थितं तद्धि दीपनं श्वासकासजित् पाठां मधुरसां दारु सरलं च निशि स्थितम्",
         "iast": "takraṃ māsasthitaṃ taddhi dīpanaṃ śvāsakāsajit pāṭhāṃ madhurasāṃ dāru saralaṃ ca niśi sthitam",
         "iast_ru": "такрам̣ ма̄састхитам̣ таддхи дӣпанам̣ ш́ва̄сака̄саджит па̄т̣ха̄м̣ мадхураса̄м̣ да̄ру саралам̣ ча ниш́и стхитам",
-        "text": "выдержанного месяц; такая пахта разжигает огонь и устраняет одышку и кашель. Патху, мадхурасу, дару, сарлу, выдержанные ночь,"
+        "text": "выдержанного месяц; такая пахта разжигает огонь и устраняет одышку и кашель. Патху, мадхурасу, дару, сарлу, выдержанные ночь,",
+        "text_en": "matured for a month; such buttermilk kindles the fire and relieves dyspnoea and cough. Patha, madhurasa, daru and sarala, kept overnight,"
       },
       {
         "type": "verse",
@@ -36485,7 +36860,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुरामण्डे ऽल्पलवणं पिबेत् प्रसृतसम्मितम् शिरीषकुन्दकदलीकुसुमं पिप्पलीयुतम्",
         "iast": "surāmaṇḍe 'lpalavaṇaṃ pibet prasṛtasammitam śirīṣakundakadalīkusumaṃ pippalīyutam",
         "iast_ru": "сура̄ман̣д̣е 'лпалаван̣ам̣ пибет праср̣тасаммитам ш́ирӣш̣акундакадалӣкусумам̣ пиппалӣйутам",
-        "text": "следует пить в манде хмельного напитка сура, с небольшим количеством соли, в дозе одного прасрита; цветок шириши, кунды и кадали, вместе с пиппали,"
+        "text": "следует пить в манде хмельного напитка сура, с небольшим количеством соли, в дозе одного прасрита; цветок шириши, кунды и кадали, вместе с пиппали,",
+        "text_en": "should be drunk in the manda of sura liquor, with a small quantity of salt, in a dose of one prasrita; the flower of shirisha, kunda and kadali, together with pippali,"
       },
       {
         "type": "verse",
@@ -36493,7 +36869,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तण्डुलाम्बुप्लुतं हिध्माश्वासकासहरं परम् आरनालेन पिष्ट्वा वा मातुलुङ्गरसान्वितान्",
         "iast": "taṇḍulāmbuplutaṃ hidhmāśvāsakāsaharaṃ param āranālena piṣṭvā vā mātuluṅgarasānvitān",
         "iast_ru": "тан̣д̣ула̄мбуплутам̣ хидхма̄ш́ва̄сака̄сахарам̣ парам а̄рана̄лена пиш̣т̣ва̄ ва̄ ма̄тулун̇гараса̄нвита̄н",
-        "text": "пропитанные рисовой водой, превосходно устраняют икоту, одышку и кашель; или, растерев с кислым рисовым отваром, вместе с соком матулунги,"
+        "text": "пропитанные рисовой водой, превосходно устраняют икоту, одышку и кашель; или, растерев с кислым рисовым отваром, вместе с соком матулунги,",
+        "text_en": "soaked in rice water, excellently relieve hiccup, dyspnoea and cough; or, ground with sour rice gruel, together with the juice of matulunga,"
       },
       {
         "type": "verse",
@@ -36501,7 +36878,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हिङ्गुसौवर्चलकणाकोलमुद्गान् जलेन वा कोष्णेन भार्ङ्गीं शुण्ठीं च क्षारं वा मरिचान्वितम्",
         "iast": "hiṅgusauvarcalakaṇākolamudgān jalena vā koṣṇena bhārṅgīṃ śuṇṭhīṃ ca kṣāraṃ vā maricānvitam",
         "iast_ru": "хин̇гусауварчалакан̣а̄коламудга̄н джалена ва̄ кош̣н̣ена бха̄рн̇гӣм̣ ш́ун̣т̣хӣм̣ ча кш̣а̄рам̣ ва̄ марича̄нвитам",
-        "text": "хингу, соувархалу, пиппали, кол и зелёный маш — с тёплой водой; или бхаргхи, сухой имбирь, или щёлочь вместе с перцем,"
+        "text": "хингу, соувархалу, пиппали, кол и зелёный маш — с тёплой водой; или бхаргхи, сухой имбирь, или щёлочь вместе с перцем,",
+        "text_en": "asafoetida, souvarchala, pippali, kola and green gram, with warm water; or bharngi, dry ginger, or alkali together with pepper,"
       },
       {
         "type": "verse",
@@ -36509,7 +36887,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वक्वाथपिष्टां लुलितां बाष्पिकां पाययेत वा स्वरसं सप्तपर्णस्य पुष्पाणां वा शिरीषतः",
         "iast": "svakvāthapiṣṭāṃ lulitāṃ bāṣpikāṃ pāyayeta vā svarasaṃ saptaparṇasya puṣpāṇāṃ vā śirīṣataḥ",
         "iast_ru": "сваква̄тхапиш̣т̣а̄м̣ лулита̄м̣ ба̄ш̣пика̄м̣ па̄йайета ва̄ сварасам̣ саптапарн̣асйа пуш̣па̄н̣а̄м̣ ва̄ ш́ирӣш̣атах̣",
-        "text": "растёртую в собственном отваре, смешанную, в виде взбитого напитка (башпика), следует дать выпить; или сок саптапарны, или сок цветков шириши;"
+        "text": "растёртую в собственном отваре, смешанную, в виде взбитого напитка (башпика), следует дать выпить; или сок саптапарны, или сок цветков шириши;",
+        "text_en": "ground in its own decoction, mixed, in the form of a whipped drink (bashpika), should be given to drink; or the juice of saptaparna, or the juice of shirisha flowers;"
       },
       {
         "type": "verse",
@@ -36517,7 +36896,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हिध्वाश्वासे मधुकणायुक्तं पित्तकफानुगे उत्कारिका तुगाकृष्णामधूलीगुडनागरैः",
         "iast": "hidhvāśvāse madhukaṇāyuktaṃ pittakaphānuge utkārikā tugākṛṣṇāmadhūlīguḍanāgaraiḥ",
         "iast_ru": "хидхва̄ш́ва̄се мадхукан̣а̄йуктам̣ питтакапха̄нуге утка̄рика̄ туга̄кр̣ш̣н̣а̄мадхӯлӣгуд̣ана̄гараих̣",
-        "text": "при икоте и одышке, сопровождаемых Питтой и Капхой, — следует дать вместе с солодкой и пиппали. Уткарика (густая каша) с тугой, пиппали, мадхули, патокой и сухим имбирём —"
+        "text": "при икоте и одышке, сопровождаемых Питтой и Капхой, — следует дать вместе с солодкой и пиппали. Уткарика (густая каша) с тугой, пиппали, мадхули, патокой и сухим имбирём —",
+        "text_en": "in hiccup and dyspnoea accompanied by Pitta and Kapha, one should give it together with licorice and pippali. Utkarika (thick gruel) with tuga, pippali, madhuli, jaggery and dry ginger:"
       },
       {
         "type": "verse",
@@ -36525,7 +36905,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तानुबन्धे योक्तव्या पवने त्वनुबन्धिनि श्वाविट्छशामिषकणाघृतशल्यकशोणितैः",
         "iast": "pittānubandhe yoktavyā pavane tvanubandhini śvāviṭchaśāmiṣakaṇāghṛtaśalyakaśoṇitaiḥ",
         "iast_ru": "питта̄нубандхе йоктавйа̄ паване тванубандхини ш́ва̄вит̣чхаш́а̄миш̣акан̣а̄гхр̣таш́алйакаш́он̣итаих̣",
-        "text": "её следует применять при сопутствующей Питте; при сопутствующей же Вате — с помётом дикобраза, мясом зайца, пиппали, топлёным маслом, мясом шальяки и кровью;"
+        "text": "её следует применять при сопутствующей Питте; при сопутствующей же Вате — с помётом дикобраза, мясом зайца, пиппали, топлёным маслом, мясом шальяки и кровью;",
+        "text_en": "it should be applied when Pitta accompanies; when Vata accompanies, with porcupine dung, hare meat, pippali, ghee, shalyaka meat and blood;"
       },
       {
         "type": "verse",
@@ -36533,7 +36914,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुवर्चलारसव्योषसर्पिर्भिः सहितं पयः अनुशाल्योदनं पेयं वातपित्ते ऽनुबन्धिनि",
         "iast": "suvarcalārasavyoṣasarpirbhiḥ sahitaṃ payaḥ anuśālyodanaṃ peyaṃ vātapitte 'nubandhini",
         "iast_ru": "суварчала̄расавйош̣асарпирбхих̣ сахитам̣ пайах̣ ануш́а̄лйоданам̣ пейам̣ ва̄тапитте 'нубандхини",
-        "text": "молоко вместе с соком суварчалы, вьошей и топлёным маслом, — следует пить после варёного риса шали, при сопутствующих Вате и Питте;"
+        "text": "молоко вместе с соком суварчалы, вьошей и топлёным маслом, — следует пить после варёного риса шали, при сопутствующих Вате и Питте;",
+        "text_en": "milk together with the juice of souvarchala, vyosha and ghee should be drunk after boiled shali rice, when Vata and Pitta accompany;"
       },
       {
         "type": "verse",
@@ -36541,7 +36923,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चतुर्गुणाम्बुसिद्धं वा छागं सगुडनागरम् पिप्पलीमूलमधुकगुडगोश्वशकृद्रसान् हिध्माभिष्यन्दकासघ्नान् लिह्यान्मधुघृतान्वितान्",
         "iast": "caturguṇāmbusiddhaṃ vā chāgaṃ saguḍanāgaram pippalīmūlamadhukaguḍagośvaśakṛdrasān hidhmābhiṣyandakāsaghnān lihyānmadhughṛtānvitān",
         "iast_ru": "чатургун̣а̄мбусиддхам̣ ва̄ чха̄гам̣ сагуд̣ана̄гарам пиппалӣмӯламадхукагуд̣агош́ваш́акр̣драса̄н хидхма̄бхиш̣йандака̄сагхна̄н лихйа̄нмадхугхр̣та̄нвита̄н",
-        "text": "или козье молоко, сваренное в четырёх частях воды, вместе с патокой и сухим имбирём; корень пиппали, солодку, патоку, сок коровьего и конского помёта, устраняющие икоту, выделения и кашель, следует принять слизыванием, вместе с мёдом и топлёным маслом;"
+        "text": "или козье молоко, сваренное в четырёх частях воды, вместе с патокой и сухим имбирём; корень пиппали, солодку, патоку, сок коровьего и конского помёта, устраняющие икоту, выделения и кашель, следует принять слизыванием, вместе с мёдом и топлёным маслом;",
+        "text_en": "or goat's milk boiled in four parts of water, together with jaggery and dry ginger; pippali root, licorice, jaggery, and the juice of cow and horse dung, which relieve hiccup, discharges and cough, should be taken by licking, together with honey and ghee;"
       },
       {
         "type": "verse",
@@ -36549,7 +36932,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गोगजाश्ववराहोष्ट्रखरमेषाजविड्रसान्",
         "iast": "gogajāśvavarāhoṣṭrakharameṣājaviḍrasān",
         "iast_ru": "гогаджа̄ш́вавара̄хош̣т̣ракхарамеш̣а̄джавид̣раса̄н",
-        "text": "соки помёта коровы, слона, лошади, кабана, верблюда, осла, барана и козы,"
+        "text": "соки помёта коровы, слона, лошади, кабана, верблюда, осла, барана и козы,",
+        "text_en": "the juices of the dung of cow, elephant, horse, boar, camel, donkey, ram and goat,"
       },
       {
         "type": "verse",
@@ -36557,7 +36941,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समध्वैकैकशो लिह्याद्बहुश्लेष्माथवा पिबेत् चतुष्पाच्चर्मरोमस्थिखुरशृङ्गोद्भवां मषीम्",
         "iast": "samadhvaikaikaśo lihyādbahuśleṣmāthavā pibet catuṣpāccarmaromasthikhuraśṛṅgodbhavāṃ maṣīm",
         "iast_ru": "самадхваикаикаш́о лихйа̄дбахуш́леш̣ма̄тхава̄ пибет чатуш̣па̄ччармаромастхикхураш́р̣н̇годбхава̄м̣ маш̣ӣм",
-        "text": "каждый по отдельности, вместе с мёдом, следует принять слизыванием; при обильной Капхе — следует выпить; сажу, полученную от кожи, шерсти, костей, копыт и рогов четвероногих животных,"
+        "text": "каждый по отдельности, вместе с мёдом, следует принять слизыванием; при обильной Капхе — следует выпить; сажу, полученную от кожи, шерсти, костей, копыт и рогов четвероногих животных,",
+        "text_en": "each separately, together with honey, should be taken by licking; when Kapha is abundant, it should be drunk; the soot obtained from the skin, wool, bones, hooves and horns of quadrupeds,"
       },
       {
         "type": "verse",
@@ -36565,7 +36950,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तथैव वाजिगन्धाया लिह्याच्छ्वासी कफोल्बणः क्षारं वा त्रिफलापाठाबृहतीफलमूलजम्",
         "iast": "tathaiva vājigandhāyā lihyācchvāsī kapholbaṇaḥ kṣāraṃ vā triphalāpāṭhābṛhatīphalamūlajam",
         "iast_ru": "татхаива ва̄джигандха̄йа̄ лихйа̄ччхва̄сӣ капхолбан̣ах̣ кш̣а̄рам̣ ва̄ трипхала̄па̄т̣ха̄бр̣хатӣпхаламӯладжам",
-        "text": "а также сажу от ваджигандхи, страдающий одышкой с преобладанием Капхи пусть принимает слизыванием; или щёлочь, полученную из трифалы, патхи, брихати, её плода и корня,"
+        "text": "а также сажу от ваджигандхи, страдающий одышкой с преобладанием Капхи пусть принимает слизыванием; или щёлочь, полученную из трифалы, патхи, брихати, её плода и корня,",
+        "text_en": "as well as the soot of vajigandha, one suffering from dyspnoea with predominance of Kapha should take by licking; or the alkali obtained from triphala, patha, brihati, its fruit and root,"
       },
       {
         "type": "verse",
@@ -36573,7 +36959,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मुक्ताप्रवालवैडूर्यशङ्खसौगन्धिकाञ्जनम् मसारगल्लस्फटिककाचैलालवणद्वयम्",
         "iast": "muktāpravālavaiḍūryaśaṅkhasaugandhikāñjanam masāragallasphaṭikakācailālavaṇadvayam",
         "iast_ru": "мукта̄права̄лаваид̣ӯрйаш́ан̇кхасаугандхика̄н̃джанам маса̄рагалласпхат̣икака̄чаила̄лаван̣адвайам",
-        "text": "жемчуг, коралл, вайдурью, раковину, саугандхику, коллирий; масарагаллу, кристалл, стекло, кардамон, два вида соли,"
+        "text": "жемчуг, коралл, вайдурью, раковину, саугандхику, коллирий; масарагаллу, кристалл, стекло, кардамон, два вида соли,",
+        "text_en": "pearl, coral, vaidurya, conch shell, saugandhika, collyrium; masaragalla, crystal, glass, cardamom, the two kinds of salt,"
       },
       {
         "type": "verse",
@@ -36581,7 +36968,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अपामार्गफलं ताम्रमयो रूप्यं शणात् फलम् ज्योतीरसेन तल्लिह्यादयो वैकं मधुद्रवम्",
         "iast": "apāmārgaphalaṃ tāmramayo rūpyaṃ śaṇāt phalam jyotīrasena tallihyādayo vaikaṃ madhudravam",
         "iast_ru": "апа̄ма̄ргапхалам̣ та̄мрамайо рӯпйам̣ ш́ан̣а̄т пхалам джйотӣрасена таллихйа̄дайо ваикам̣ мадхудравам",
-        "text": "плод апамарги, медь, железо, серебро, плод шана — следует принять слизыванием с соком джьоти (растения) или же с одним лишь мёдом;"
+        "text": "плод апамарги, медь, железо, серебро, плод шана — следует принять слизыванием с соком джьоти (растения) или же с одним лишь мёдом;",
+        "text_en": "the fruit of apamarga, copper, iron, silver, the fruit of shana: should be taken by licking with the juice of jyoti (the plant) or with honey alone;"
       },
       {
         "type": "verse",
@@ -36589,7 +36977,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शठीपौष्करधात्रीर्वा पौष्करं वा कणान्वितम् गैरिकाञ्जनकृष्णा वा स्वरसं वा कपित्थजम्",
         "iast": "śaṭhīpauṣkaradhātrīrvā pauṣkaraṃ vā kaṇānvitam gairikāñjanakṛṣṇā vā svarasaṃ vā kapitthajam",
         "iast_ru": "ш́ат̣хӣпауш̣карадха̄трӣрва̄ пауш̣карам̣ ва̄ кан̣а̄нвитам гаирика̄н̃джанакр̣ш̣н̣а̄ ва̄ сварасам̣ ва̄ капиттхаджам",
-        "text": "или шатхи, паушкару и амалаки; или паушкару, вместе с пиппали; или герику, коллирий и пиппали; или сок, полученный из капиттхи;"
+        "text": "или шатхи, паушкару и амалаки; или паушкару, вместе с пиппали; или герику, коллирий и пиппали; или сок, полученный из капиттхи;",
+        "text_en": "or shathi, pushkara and amalaki; or pushkara together with pippali; or geru, collyrium and pippali; or the juice obtained from kapittha;"
       },
       {
         "type": "verse",
@@ -36597,7 +36986,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रसेन वा कपित्थस्य धात्रीसैन्धवपिप्पलीः घृतक्षौद्रेण वा पथ्या विडङ्गोषणपिप्पलीः",
         "iast": "rasena vā kapitthasya dhātrīsaindhavapippalīḥ ghṛtakṣaudreṇa vā pathyā viḍaṅgoṣaṇapippalīḥ",
         "iast_ru": "расена ва̄ капиттхасйа дха̄трӣсаиндхавапиппалӣх̣ гхр̣такш̣аудрен̣а ва̄ патхйа̄ вид̣ан̇гош̣ан̣апиппалӣх̣",
-        "text": "или же, с соком капиттхи, — амалаки, каменную соль и пиппали; или, с топлёным маслом и мёдом, — харитаки, видангу, острые пряности и пиппали,"
+        "text": "или же, с соком капиттхи, — амалаки, каменную соль и пиппали; или, с топлёным маслом и мёдом, — харитаки, видангу, острые пряности и пиппали,",
+        "text_en": "or else, with the juice of kapittha: amalaki, rock salt and pippali; or, with ghee and honey: haritaki, vidanga, pungent spices and pippali,"
       },
       {
         "type": "verse",
@@ -36605,7 +36995,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिह्याद्वा पिप्पलीद्राक्षापथ्याशृङ्गीदुरालभाः घृतमाक्षिकतैलैर्वा त्र्यूषणं क्षारसंयुतम् पिप्पलीक्षौद्रयुक्तौ वा रसौ धात्रीकपित्थयोः",
         "iast": "lihyādvā pippalīdrākṣāpathyāśṛṅgīdurālabhāḥ ghṛtamākṣikatailairvā tryūṣaṇaṃ kṣārasaṃyutam pippalīkṣaudrayuktau vā rasau dhātrīkapitthayoḥ",
         "iast_ru": "лихйа̄два̄ пиппалӣдра̄кш̣а̄патхйа̄ш́р̣н̇гӣдура̄лабха̄х̣ гхр̣тама̄кш̣икатаилаирва̄ трйӯш̣ан̣ам̣ кш̣а̄расам̣йутам пиппалӣкш̣аудрайуктау ва̄ расау дха̄трӣкапиттхайох̣",
-        "text": "следует принять слизыванием; или пиппали, изюм, харитаки, каркатасрингу, дуралабху, вместе с топлёным маслом, мёдом и растительным маслом; или трьюшану вместе с щёлочью; или соки амалаки и капиттхи, вместе с пиппали и мёдом;"
+        "text": "следует принять слизыванием; или пиппали, изюм, харитаки, каркатасрингу, дуралабху, вместе с топлёным маслом, мёдом и растительным маслом; или трьюшану вместе с щёлочью; или соки амалаки и капиттхи, вместе с пиппали и мёдом;",
+        "text_en": "should be taken by licking; or pippali, raisins, haritaki, karkatasringi, duralabha, together with ghee, honey and vegetable oil; or trikatu together with alkali; or the juices of amalaki and kapittha, together with pippali and honey;"
       },
       {
         "type": "verse",
@@ -36613,7 +37004,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सितोपलात्वामलकी द्राक्षा गोश्वशकृद्रसम् कोललाजमधुद्राक्षापिप्पलीनागराणि वा",
         "iast": "sitopalātvāmalakī drākṣā gośvaśakṛdrasam kolalājamadhudrākṣāpippalīnāgarāṇi vā",
         "iast_ru": "ситопала̄тва̄малакӣ дра̄кш̣а̄ гош́ваш́акр̣драсам колала̄джамадхудра̄кш̣а̄пиппалӣна̄гара̄н̣и ва̄",
-        "text": "или кусковой сахар, амалаки, изюм, сок коровьего и конского помёта; или кол, поджаренный рис, мёд, изюм, пиппали и сухой имбирь;"
+        "text": "или кусковой сахар, амалаки, изюм, сок коровьего и конского помёта; или кол, поджаренный рис, мёд, изюм, пиппали и сухой имбирь;",
+        "text_en": "or rock sugar, amalaki, raisins, the juice of cow and horse dung; or kola, parched rice, honey, raisins, pippali and dry ginger;"
       },
       {
         "type": "verse",
@@ -36621,7 +37013,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुडतैलनिशाद्राक्षाकणारास्नोषणानि वा पिबेद्रसाम्बुमद्याद्यैर्लेहौषधरजांसि वा",
         "iast": "guḍatailaniśādrākṣākaṇārāsnoṣaṇāni vā pibedrasāmbumadyādyairlehauṣadharajāṃsi vā",
         "iast_ru": "гуд̣атаиланиш́а̄дра̄кш̣а̄кан̣а̄ра̄снош̣ан̣а̄ни ва̄ пибедраса̄мбумадйа̄дйаирлехауш̣адхараджа̄м̣си ва̄",
-        "text": "или патоку, растительное масло, куркуму, изюм, пиппали, расну, острые пряности — следует выпить, запивая соком, водой, хмельным напитком и подобным; или же порошки лехья-лекарств;"
+        "text": "или патоку, растительное масло, куркуму, изюм, пиппали, расну, острые пряности — следует выпить, запивая соком, водой, хмельным напитком и подобным; или же порошки лехья-лекарств;",
+        "text_en": "or jaggery, vegetable oil, turmeric, raisins, pippali, rasna and pungent spices should be drunk, washing down with juice, water, an intoxicating drink and the like; or else powders of lehya-medicines;"
       },
       {
         "type": "verse",
@@ -36629,7 +37022,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीवन्तीमुस्तसुरसत्वगेलाद्वयपौष्करम् चण्डातामलकीलोहभार्ङ्गीनागरवालकम्",
         "iast": "jīvantīmustasurasatvagelādvayapauṣkaram caṇḍātāmalakīlohabhārṅgīnāgaravālakam",
         "iast_ru": "джӣвантӣмустасурасатвагела̄двайапауш̣карам чан̣д̣а̄та̄малакӣлохабха̄рн̇гӣна̄гарава̄лакам",
-        "text": "дживанти, мусту, сурасу, кору, два вида эла, паушкару; чанду, тамалаки, железо, бхаргхи, сухой имбирь и валаку,"
+        "text": "дживанти, мусту, сурасу, кору, два вида эла, паушкару; чанду, тамалаки, железо, бхаргхи, сухой имбирь и валаку,",
+        "text_en": "jivanti, musta, surasa, bark, the two kinds of ela, pushkara; chanda, tamalaki, iron, bharngi, dry ginger and valaka,"
       },
       {
         "type": "verse",
@@ -36637,7 +37031,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कर्कटाख्याशठीकृष्णानागकेसरचोरकम् उपयुक्तं यथाकामं चूर्णं द्विगुणशर्करम्",
         "iast": "karkaṭākhyāśaṭhīkṛṣṇānāgakesaracorakam upayuktaṃ yathākāmaṃ cūrṇaṃ dviguṇaśarkaram",
         "iast_ru": "каркат̣а̄кхйа̄ш́ат̣хӣкр̣ш̣н̣а̄на̄гакесарачоракам упайуктам̣ йатха̄ка̄мам̣ чӯрн̣ам̣ двигун̣аш́аркарам",
-        "text": "каркатакхью, шатхи, пиппали, нагакесару и чораку — этот порошок, применяемый по желанию, вместе с двойным количеством сахара,"
+        "text": "каркатакхью, шатхи, пиппали, нагакесару и чораку — этот порошок, применяемый по желанию, вместе с двойным количеством сахара,",
+        "text_en": "karkatakhya, shathi, pippali, nagakesara and choraka: this powder, applied as desired, together with twice the quantity of sugar,"
       },
       {
         "type": "verse",
@@ -36645,7 +37040,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पार्श्वरुग्ज्वरकासघ्नं हिध्माश्वासहरं परम् जीवन्ती चोरकः शृङ्गी पौष्करं सुरसः शठी",
         "iast": "pārśvarugjvarakāsaghnaṃ hidhmāśvāsaharaṃ param jīvantī corakaḥ śṛṅgī pauṣkaraṃ surasaḥ śaṭhī",
         "iast_ru": "па̄рш́варугджварака̄сагхнам̣ хидхма̄ш́ва̄сахарам̣ парам джӣвантӣ чораках̣ ш́р̣н̇гӣ пауш̣карам̣ сурасах̣ ш́ат̣хӣ",
-        "text": "устраняет боль в боках, лихорадку и кашель, превосходно устраняет икоту и одышку. Дживанти, чорака, каркатасринга, паушкара, сураса, шатхи,"
+        "text": "устраняет боль в боках, лихорадку и кашель, превосходно устраняет икоту и одышку. Дживанти, чорака, каркатасринга, паушкара, сураса, шатхи,",
+        "text_en": "relieves pain in the sides, fever and cough, and excellently relieves hiccup and dyspnoea. Jivanti, choraka, karkatasringi, pushkara, surasa, shathi,"
       },
       {
         "type": "verse",
@@ -36653,7 +37049,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीत्वग्बिडक्षारशुण्ठीहिङ्वम्लवेतसम् एलातामलकीभार्ङ्गीवृक्षाम्लं चेति चूर्णितम्",
         "iast": "pippalītvagbiḍakṣāraśuṇṭhīhiṅvamlavetasam elātāmalakībhārṅgīvṛkṣāmlaṃ ceti cūrṇitam",
         "iast_ru": "пиппалӣтвагбид̣акш̣а̄раш́ун̣т̣хӣхин̇вамлаветасам ела̄та̄малакӣбха̄рн̇гӣвр̣кш̣а̄млам̣ чети чӯрн̣итам",
-        "text": "пиппали, кора, бида, щёлочь, сухой имбирь, хингу, амлаветас; эла, тамалаки, бхаргхи, вркшамла — растёртые в порошок,"
+        "text": "пиппали, кора, бида, щёлочь, сухой имбирь, хингу, амлаветас; эла, тамалаки, бхаргхи, вркшамла — растёртые в порошок,",
+        "text_en": "pippali, bark, bida, alkali, dry ginger, asafoetida, amlavetasa; ela, tamalaki, bharngi, vrikshamla: ground to a powder,"
       },
       {
         "type": "verse",
@@ -36661,7 +37058,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रसेन मातुलुङ्गस्य मद्येन हविषाथवा लीढं प्रयुक्तमन्ने वा केवलं चोपयोजितम्",
         "iast": "rasena mātuluṅgasya madyena haviṣāthavā līḍhaṃ prayuktamanne vā kevalaṃ copayojitam",
         "iast_ru": "расена ма̄тулун̇гасйа мадйена хавиш̣а̄тхава̄ лӣд̣хам̣ прайуктаманне ва̄ кевалам̣ чопайоджитам",
-        "text": "принятые с соком матулунги, хмельным напитком, топлёным маслом, или слизыванием, применённые в пище, или же самостоятельно, —"
+        "text": "принятые с соком матулунги, хмельным напитком, топлёным маслом, или слизыванием, применённые в пище, или же самостоятельно, —",
+        "text_en": "taken with the juice of matulunga, an intoxicating drink, ghee, or by licking, applied in food, or else on their own,"
       },
       {
         "type": "verse",
@@ -36669,7 +37067,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हिध्माश्वासविबन्धार्शःकासहृत्पार्श्वशूलनुत् शठीतामलकीभार्ङ्गीचण्डावालकपौष्करम्",
         "iast": "hidhmāśvāsavibandhārśaḥkāsahṛtpārśvaśūlanut śaṭhītāmalakībhārṅgīcaṇḍāvālakapauṣkaram",
         "iast_ru": "хидхма̄ш́ва̄савибандха̄рш́ах̣ка̄сахр̣тпа̄рш́ваш́ӯланут ш́ат̣хӣта̄малакӣбха̄рн̇гӣчан̣д̣а̄ва̄лакапауш̣карам",
-        "text": "устраняют икоту, одышку, запор, геморрой, кашель, боль в сердце и боках. Шатхи, тамалаки, бхаргхи, чанда, валака, паушкара,"
+        "text": "устраняют икоту, одышку, запор, геморрой, кашель, боль в сердце и боках. Шатхи, тамалаки, бхаргхи, чанда, валака, паушкара,",
+        "text_en": "they relieve hiccup, dyspnoea, constipation, haemorrhoids, cough, and pain in the heart and sides. Shathi, tamalaki, bharngi, chanda, valaka, pushkara,"
       },
       {
         "type": "verse",
@@ -36677,7 +37076,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शर्कराष्टगुणं चूर्णं हिध्माश्वासहरं परम् तुल्यं गुडं नागरं च भक्षयेन्नावयेत वा",
         "iast": "śarkarāṣṭaguṇaṃ cūrṇaṃ hidhmāśvāsaharaṃ param tulyaṃ guḍaṃ nāgaraṃ ca bhakṣayennāvayeta vā",
         "iast_ru": "ш́аркара̄ш̣т̣агун̣ам̣ чӯрн̣ам̣ хидхма̄ш́ва̄сахарам̣ парам тулйам̣ гуд̣ам̣ на̄гарам̣ ча бхакш̣айенна̄вайета ва̄",
-        "text": "вместе с восьмикратным количеством сахара — этот порошок превосходно устраняет икоту и одышку; равное количество патоки и сухого имбиря следует есть, или использовать как назальное средство;"
+        "text": "вместе с восьмикратным количеством сахара — этот порошок превосходно устраняет икоту и одышку; равное количество патоки и сухого имбиря следует есть, или использовать как назальное средство;",
+        "text_en": "together with eight times the quantity of sugar: this powder excellently relieves hiccup and dyspnoea; an equal quantity of jaggery and dry ginger should be eaten, or used as a nasal remedy;"
       },
       {
         "type": "verse",
@@ -36685,7 +37085,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लशुनस्य पलाण्डोर्वा मूलं गृञ्जनकस्य वा चन्दनाद्वा रसं दद्यान्नारीक्षीरेण नावनम्",
         "iast": "laśunasya palāṇḍorvā mūlaṃ gṛñjanakasya vā candanādvā rasaṃ dadyānnārīkṣīreṇa nāvanam",
         "iast_ru": "лаш́унасйа пала̄н̣д̣орва̄ мӯлам̣ гр̣н̃джанакасйа ва̄ чандана̄два̄ расам̣ дадйа̄нна̄рӣкш̣ӣрен̣а на̄ванам",
-        "text": "сок чеснока, лука, гринджанаки или сандала, вместе с женским молоком, следует дать как назальное средство;"
+        "text": "сок чеснока, лука, гринджанаки или сандала, вместе с женским молоком, следует дать как назальное средство;",
+        "text_en": "the juice of garlic, onion, grinjanaka or sandal, together with woman's milk, should be given as a nasal remedy;"
       },
       {
         "type": "verse",
@@ -36693,7 +37094,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सशर्करां पिप्पली वा मधुकं वा मधुद्रवम् स्तन्येन मक्षिकाविष्ठामलक्तकरसेन वा",
         "iast": "saśarkarāṃ pippalī vā madhukaṃ vā madhudravam stanyena makṣikāviṣṭhāmalaktakarasena vā",
         "iast_ru": "саш́аркара̄м̣ пиппалӣ ва̄ мадхукам̣ ва̄ мадхудравам станйена макш̣ика̄виш̣т̣ха̄малактакарасена ва̄",
-        "text": "пиппали вместе с сахаром, или солодку, растворённую в мёде, вместе с грудным молоком, или с пчелиным помётом и соком лакки —"
+        "text": "пиппали вместе с сахаром, или солодку, растворённую в мёде, вместе с грудным молоком, или с пчелиным помётом и соком лакки —",
+        "text_en": "pippali together with sugar, or licorice dissolved in honey, together with breast milk, or with bee droppings and the juice of lakka,"
       },
       {
         "type": "verse",
@@ -36701,7 +37103,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ससैन्धवं घृताच्छं वा सिद्धं स्तन्येन वा घृतम् कल्कितैर्मधुरद्रव्यैस्तत् पिबेन्नावयेत वा",
         "iast": "sasaindhavaṃ ghṛtācchaṃ vā siddhaṃ stanyena vā ghṛtam kalkitairmadhuradravyaistat pibennāvayeta vā",
         "iast_ru": "сасаиндхавам̣ гхр̣та̄ччхам̣ ва̄ сиддхам̣ станйена ва̄ гхр̣там калкитаирмадхурадравйаистат пибенна̄вайета ва̄",
-        "text": "вместе с каменной солью и чистым топлёным маслом; или топлёное масло, сваренное с грудным молоком, вместе с растёртыми сладкими веществами, — следует выпить или применить как назальное средство;"
+        "text": "вместе с каменной солью и чистым топлёным маслом; или топлёное масло, сваренное с грудным молоком, вместе с растёртыми сладкими веществами, — следует выпить или применить как назальное средство;",
+        "text_en": "together with rock salt and pure ghee; or ghee cooked with breast milk, together with ground sweet substances, should be drunk or applied as a nasal remedy;"
       },
       {
         "type": "verse",
@@ -36709,7 +37112,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सकृदुष्णं सकृच्छीतं व्यत्यासात् ससितं मधु तद्वत् पयस्तहासिद्धमधोभागौषधैर्घृतम्",
         "iast": "sakṛduṣṇaṃ sakṛcchītaṃ vyatyāsāt sasitaṃ madhu tadvat payastahāsiddhamadhobhāgauṣadhairghṛtam",
         "iast_ru": "сакр̣душ̣н̣ам̣ сакр̣ччхӣтам̣ вйатйа̄са̄т саситам̣ мадху тадват пайастаха̄сиддхамадхобха̄гауш̣адхаиргхр̣там",
-        "text": "попеременно горячим и холодным, вместе с сахаром и мёдом; подобным же образом — топлёное масло, сваренное с молоком и лекарствами, действующими в нижней части тела;"
+        "text": "попеременно горячим и холодным, вместе с сахаром и мёдом; подобным же образом — топлёное масло, сваренное с молоком и лекарствами, действующими в нижней части тела;",
+        "text_en": "alternately hot and cold, together with sugar and honey; likewise ghee cooked with milk and medicines acting on the lower part of the body;"
       },
       {
         "type": "verse",
@@ -36717,7 +37121,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कणासौवर्चलक्षारवयस्थाहिड्गुचोरकैः सकायस्थैर्घृतं मस्तु दशमूलरसे पचेत्",
         "iast": "kaṇāsauvarcalakṣāravayasthāhiḍgucorakaiḥ sakāyasthairghṛtaṃ mastu daśamūlarase pacet",
         "iast_ru": "кан̣а̄сауварчалакш̣а̄равайастха̄хид̣гучоракаих̣ сака̄йастхаиргхр̣там̣ масту даш́амӯларасе пачет",
-        "text": "следует сварить в соке дашамулы топлёное масло и мастху (сыворотку) с пиппали, соувархалой, щёлочью, вайастхой, хингу, чоракой, вместе с каястхой;"
+        "text": "следует сварить в соке дашамулы топлёное масло и мастху (сыворотку) с пиппали, соувархалой, щёлочью, вайастхой, хингу, чоракой, вместе с каястхой;",
+        "text_en": "ghee and mastu (whey) should be cooked in the juice of dashamula with pippali, souvarchala, alkali, vayastha, asafoetida and choraka, together with kayastha;"
       },
       {
         "type": "verse",
@@ -36725,7 +37130,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत् पिबेज्जीवनीयैर्वा लिह्यात् समधु साधितम् तेजोवत्यभया कुष्ठं पिप्पली कटुरोहिणी",
         "iast": "tat pibejjīvanīyairvā lihyāt samadhu sādhitam tejovatyabhayā kuṣṭhaṃ pippalī kaṭurohiṇī",
         "iast_ru": "тат пибеджджӣванӣйаирва̄ лихйа̄т самадху са̄дхитам теджоватйабхайа̄ куш̣т̣хам̣ пиппалӣ кат̣урохин̣ӣ",
-        "text": "это следует пить, или же, приготовленное с травами группы дживанья, вместе с мёдом, принять слизыванием. Теджовати, харитаки, куштха, пиппали, катурохини,"
+        "text": "это следует пить, или же, приготовленное с травами группы дживанья, вместе с мёдом, принять слизыванием. Теджовати, харитаки, куштха, пиппали, катурохини,",
+        "text_en": "this should be drunk, or else, prepared with the herbs of the Jivaniya group, taken by licking together with honey. Tejovati, haritaki, kushtha, pippali, katurohini,"
       },
       {
         "type": "verse",
@@ -36733,7 +37139,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पूकीकं पौष्करं मूलं पलाशश्चित्रकः शठी पटुद्वयं तामलकी जीवन्ती बैल्वपेशिका",
         "iast": "pūkīkaṃ pauṣkaraṃ mūlaṃ palāśaścitrakaḥ śaṭhī paṭudvayaṃ tāmalakī jīvantī bailvapeśikā",
         "iast_ru": "пӯкӣкам̣ пауш̣карам̣ мӯлам̣ пала̄ш́аш́читраках̣ ш́ат̣хӣ пат̣удвайам̣ та̄малакӣ джӣвантӣ баилвапеш́ика̄",
-        "text": "пукика, корень паушкары, палаша, читрак, шатхи; два вида соли, тамалаки, дживанти, мякоть билвы,"
+        "text": "пукика, корень паушкары, палаша, читрак, шатхи; два вида соли, тамалаки, дживанти, мякоть билвы,",
+        "text_en": "pushika, pushkara root, palasha, chitraka, shathi; the two kinds of salt, tamalaki, jivanti, bilva pulp,"
       },
       {
         "type": "verse",
@@ -36741,7 +37148,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वचापत्रं च तालीसं कर्षांशैस्तैर्विंपाचयेत् हिङ्गुपादैर्घृतप्रस्थं पीतमाशु निहन्ति तत्",
         "iast": "vacāpatraṃ ca tālīsaṃ karṣāṃśaistairviṃpācayet hiṅgupādairghṛtaprasthaṃ pītamāśu nihanti tat",
         "iast_ru": "вача̄патрам̣ ча та̄лӣсам̣ карш̣а̄м̣ш́аистаирвим̣па̄чайет хин̇гупа̄даиргхр̣тапрастхам̣ пӣтама̄ш́у ниханти тат",
-        "text": "лист вачи и талису — по одной карше каждого, вместе с четвертью части хингу, следует сварить прастху топлёного масла; выпитое, оно быстро устраняет"
+        "text": "лист вачи и талису — по одной карше каждого, вместе с четвертью части хингу, следует сварить прастху топлёного масла; выпитое, оно быстро устраняет",
+        "text_en": "leaf of vacha and talisa: one karsha of each, together with a quarter part of asafoetida, a prastha of ghee should be cooked; drunk, it quickly relieves"
       },
       {
         "type": "verse",
@@ -36749,7 +37157,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्वासानिलार्शोग्रहणीहिध्माहृत्पार्श्ववेदनाः सिद्धं वा पुरमञ्जिष्ठालाक्षासर्जरसैः पिबेत्",
         "iast": "śvāsānilārśograhaṇīhidhmāhṛtpārśvavedanāḥ siddhaṃ vā puramañjiṣṭhālākṣāsarjarasaiḥ pibet",
         "iast_ru": "ш́ва̄са̄нила̄рш́ограхан̣ӣхидхма̄хр̣тпа̄рш́ваведана̄х̣ сиддхам̣ ва̄ пураман̃джиш̣т̣ха̄ла̄кш̣а̄сарджарасаих̣ пибет",
-        "text": "одышку, болезни Ваты, геморрой, расстройство грахани, икоту, боль в сердце и боках; или же следует пить масло, приготовленное с манджиштхой, лакшей и смолой сарджи;"
+        "text": "одышку, болезни Ваты, геморрой, расстройство грахани, икоту, боль в сердце и боках; или же следует пить масло, приготовленное с манджиштхой, лакшей и смолой сарджи;",
+        "text_en": "dyspnoea, Vata diseases, haemorrhoids, disorder of grahani, hiccup, and pain in the heart and sides; or else one should drink ghee prepared with manjishtha, laksha and the resin of sarja;"
       },
       {
         "type": "verse",
@@ -36757,7 +37166,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सपद्मकमनोह्वालैर्घृतप्रस्थं पिचून्मितैः वत्सकादिप्रतीवापं सिद्धं वा प्रथमे गणे",
         "iast": "sapadmakamanohvālairghṛtaprasthaṃ picūnmitaiḥ vatsakādipratīvāpaṃ siddhaṃ vā prathame gaṇe",
         "iast_ru": "сападмакаманохва̄лаиргхр̣тапрастхам̣ пичӯнмитаих̣ ватсака̄дипратӣва̄пам̣ сиддхам̣ ва̄ пратхаме ган̣е",
-        "text": "прастху топлёного масла с падмакой, манахвой и подобными, по одной пиче каждого; или же масло, приготовленное с добавлением ватсаки и подобного, упомянутых в первой группе;"
+        "text": "прастху топлёного масла с падмакой, манахвой и подобными, по одной пиче каждого; или же масло, приготовленное с добавлением ватсаки и подобного, упомянутых в первой группе;",
+        "text_en": "a prastha of ghee with padmaka, manahva and the like, one pichu of each; or else ghee prepared with the addition of vatsaka and the like mentioned in the first group;"
       },
       {
         "type": "verse",
@@ -36765,7 +37175,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सपञ्चलवणं सर्पिः श्वासकासानपोहति हिंस्राविडङ्गपूतीकत्रिकटुत्रिफलाग्निकैः",
         "iast": "sapañcalavaṇaṃ sarpiḥ śvāsakāsānapohati hiṃsrāviḍaṅgapūtīkatrikaṭutriphalāgnikaiḥ",
         "iast_ru": "сапан̃чалаван̣ам̣ сарпих̣ ш́ва̄сака̄са̄напохати хим̣сра̄вид̣ан̇гапӯтӣкатрикат̣утрипхала̄гникаих̣",
-        "text": "топлёное масло вместе с пятью солями устраняет одышку и кашель. С химсрой, видангой, путикой, трикату, трифалой, читраком,"
+        "text": "топлёное масло вместе с пятью солями устраняет одышку и кашель. С химсрой, видангой, путикой, трикату, трифалой, читраком,",
+        "text_en": "ghee together with the five salts relieves dyspnoea and cough. With himsra, vidanga, putika, trikatu, triphala and chitraka,"
       },
       {
         "type": "verse",
@@ -36773,7 +37184,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कोलमात्रैर्घृतप्रस्थं पाचयेत् सलिलाढके क्षीरप्रस्थद्वयोपेतं तत् कासश्वासपीनसान्",
         "iast": "kolamātrairghṛtaprasthaṃ pācayet salilāḍhake kṣīraprasthadvayopetaṃ tat kāsaśvāsapīnasān",
         "iast_ru": "колама̄траиргхр̣тапрастхам̣ па̄чайет салила̄д̣хаке кш̣ӣрапрастхадвайопетам̣ тат ка̄саш́ва̄сапӣнаса̄н",
-        "text": "по количеству размером с плод кола, следует сварить прастху топлёного масла в адхаке воды, вместе с двумя прастхами молока; оно устраняет кашель, одышку, насморк,"
+        "text": "по количеству размером с плод кола, следует сварить прастху топлёного масла в адхаке воды, вместе с двумя прастхами молока; оно устраняет кашель, одышку, насморк,",
+        "text_en": "each the size of a kola fruit, a prastha of ghee should be cooked in an adhaka of water, together with two prasthas of milk; it relieves cough, dyspnoea, catarrh,"
       },
       {
         "type": "verse",
@@ -36781,7 +37193,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अर्शांस्यरोचकं गुल्मं क्षयं हिध्मां च नाशयेत् सैन्धवार्धांशयुक्तं वा पुराणं पाययेद्घृतम् धान्वन्तरं वृषघृतं दाधिकं त्र्यूषणादि वा",
         "iast": "arśāṃsyarocakaṃ gulmaṃ kṣayaṃ hidhmāṃ ca nāśayet saindhavārdhāṃśayuktaṃ vā purāṇaṃ pāyayedghṛtam dhānvantaraṃ vṛṣaghṛtaṃ dādhikaṃ tryūṣaṇādi vā",
         "iast_ru": "арш́а̄м̣сйарочакам̣ гулмам̣ кш̣айам̣ хидхма̄м̣ ча на̄ш́айет саиндхава̄рдха̄м̣ш́айуктам̣ ва̄ пура̄н̣ам̣ па̄йайедгхр̣там дха̄нвантарам̣ вр̣ш̣агхр̣там̣ да̄дхикам̣ трйӯш̣ан̣а̄ди ва̄",
-        "text": "геморрой, отсутствие аппетита, гульму, истощение и икоту. Или же следует дать выпить старое топлёное масло, вместе с половинной частью каменной соли; или дханвантара-гхриту, вриша-гхриту, дадхика-гхриту, трьюшанади и подобные;"
+        "text": "геморрой, отсутствие аппетита, гульму, истощение и икоту. Или же следует дать выпить старое топлёное масло, вместе с половинной частью каменной соли; или дханвантара-гхриту, вриша-гхриту, дадхика-гхриту, трьюшанади и подобные;",
+        "text_en": "haemorrhoids, loss of appetite, gulma, emaciation and hiccup. Or else old ghee should be given to drink, together with half the quantity of rock salt; or Dhanvantara ghrita, Vrisha ghrita, Dadhika ghrita, Trayushanadi and the like;"
       },
       {
         "type": "verse",
@@ -36789,7 +37202,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शीताम्बुसेकः सहसा त्रासविक्षेपभीशुचः हर्षेर्ष्योच्छ्वासरोधाश्च हितं कीटैश्च दंशनम्",
         "iast": "śītāmbusekaḥ sahasā trāsavikṣepabhīśucaḥ harṣerṣyocchvāsarodhāśca hitaṃ kīṭaiśca daṃśanam",
         "iast_ru": "ш́ӣта̄мбусеках̣ сахаса̄ тра̄савикш̣епабхӣш́учах̣ харш̣ерш̣йоччхва̄сародха̄ш́ча хитам̣ кӣт̣аиш́ча дам̣ш́анам",
-        "text": "внезапное обливание холодной водой, испуг, потрясение, страх, горе, радость, зависть, задержка дыхания, а также укус насекомого — могут быть полезны как отвлекающее средство;"
+        "text": "внезапное обливание холодной водой, испуг, потрясение, страх, горе, радость, зависть, задержка дыхания, а также укус насекомого — могут быть полезны как отвлекающее средство;",
+        "text_en": "sudden dousing with cold water, fright, shock, fear, grief, joy, envy, holding the breath, as well as an insect bite, may be useful as a diversion;"
       },
       {
         "type": "verse",
@@ -36797,7 +37211,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यत् किञ्चित् कफवातघ्नमुष्णं वातानुलोमनम् तत् सेव्यं प्रायशो यच्च सुतरां मारुतापहम्",
         "iast": "yat kiñcit kaphavātaghnamuṣṇaṃ vātānulomanam tat sevyaṃ prāyaśo yacca sutarāṃ mārutāpaham",
         "iast_ru": "йат кин̃чит капхава̄тагхнамуш̣н̣ам̣ ва̄та̄нуломанам тат севйам̣ пра̄йаш́о йачча сутара̄м̣ ма̄рута̄пахам",
-        "text": "всё, что устраняет Капху и Вату, горячее по природе, нормализующее движение Ваты, следует применять, как правило, а также то, что в особенности устраняет Вату."
+        "text": "всё, что устраняет Капху и Вату, горячее по природе, нормализующее движение Ваты, следует применять, как правило, а также то, что в особенности устраняет Вату.",
+        "text_en": "everything that relieves Kapha and Vata, hot by nature, normalising the movement of Vata, should be applied as a rule, and also that which especially relieves Vata."
       },
       {
         "type": "verse",
@@ -36805,7 +37220,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातकृद्वा कफहरं कफकृद्वानिलापहम् कार्यं नैकान्तिकं ताभ्यां प्रायः श्रेयो ऽनिलापहम्",
         "iast": "vātakṛdvā kaphaharaṃ kaphakṛdvānilāpaham kāryaṃ naikāntikaṃ tābhyāṃ prāyaḥ śreyo 'nilāpaham",
         "iast_ru": "ва̄такр̣два̄ капхахарам̣ капхакр̣два̄нила̄пахам ка̄рйам̣ наика̄нтикам̣ та̄бхйа̄м̣ пра̄йах̣ ш́рейо 'нила̄пахам",
-        "text": "Средство, провоцирующее Вату, но устраняющее Капху, или провоцирующее Капху, но устраняющее Вату, не следует применять безоговорочно в обоих случаях; как правило, предпочтительнее то, что устраняет Вату."
+        "text": "Средство, провоцирующее Вату, но устраняющее Капху, или провоцирующее Капху, но устраняющее Вату, не следует применять безоговорочно в обоих случаях; как правило, предпочтительнее то, что устраняет Вату.",
+        "text_en": "A remedy that provokes Vata but relieves Kapha, or provokes Kapha but relieves Vata, should not be applied unreservedly in either case; as a rule, that which relieves Vata is preferable."
       },
       {
         "type": "verse",
@@ -36813,7 +37229,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्वेषां बृंहणे ह्यल्पः शक्यश्च प्रायशो भवेत् नात्यर्थं शमने ऽपायो भृशोशक्यश्च कर्शने",
         "iast": "sarveṣāṃ bṛṃhaṇe hyalpaḥ śakyaśca prāyaśo bhavet nātyarthaṃ śamane 'pāyo bhṛśośakyaśca karśane",
         "iast_ru": "сарвеш̣а̄м̣ бр̣м̣хан̣е хйалпах̣ ш́акйаш́ча пра̄йаш́о бхавет на̄тйартхам̣ ш́амане 'па̄йо бхр̣ш́ош́акйаш́ча карш́ане",
-        "text": "Ведь при укреплении для всех видов возможен лишь небольшой вред, как правило; при успокоении вред не слишком велик; при истощающем же лечении вред весьма значителен и труднопреодолим."
+        "text": "Ведь при укреплении для всех видов возможен лишь небольшой вред, как правило; при успокоении вред не слишком велик; при истощающем же лечении вред весьма значителен и труднопреодолим.",
+        "text_en": "For in strengthening, only slight harm is possible in all types, as a rule; in pacifying, the harm is not very great; but in depleting treatment the harm is very considerable and hard to overcome."
       },
       {
         "type": "verse",
@@ -36821,7 +37238,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शमनैर्बृंहणैश्चातो भूयिष्ठं तानुपाचरेत् कासश्वासक्षयच्छर्दिहिध्माश्चान्योन्यभेषजैः",
         "iast": "śamanairbṛṃhaṇaiścāto bhūyiṣṭhaṃ tānupācaret kāsaśvāsakṣayacchardihidhmāścānyonyabheṣajaiḥ",
         "iast_ru": "ш́аманаирбр̣м̣хан̣аиш́ча̄то бхӯйиш̣т̣хам̣ та̄нупа̄чарет ка̄саш́ва̄сакш̣айаччхардихидхма̄ш́ча̄нйонйабхеш̣аджаих̣",
-        "text": "Поэтому в основном следует лечить их успокаивающими и укрепляющими средствами; кашель, одышку, истощение, рвоту и икоту — взаимно подходящими друг для друга лекарствами."
+        "text": "Поэтому в основном следует лечить их успокаивающими и укрепляющими средствами; кашель, одышку, истощение, рвоту и икоту — взаимно подходящими друг для друга лекарствами.",
+        "text_en": "Therefore, for the most part, they should be treated with pacifying and strengthening remedies; cough, dyspnoea, emaciation, vomiting and hiccup with medicines mutually suited to one another."
       }
     ]
   },
@@ -36843,7 +37261,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातो राजयक्ष्मचिकित्सितं नामाध्यायं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athāto rājayakṣmacikitsitaṃ nāmādhyāyaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄то ра̄джайакш̣мачикитситам̣ на̄ма̄дхйа̄йам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним главу под названием «Раджаякшма-чикитса» (лечение чахотки) — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним главу под названием «Раджаякшма-чикитса» (лечение чахотки) — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now, further, we shall explain the chapter named \"Rajayakshma Chikitsa\" (treatment of consumption), as the great rishis beginning with Atreya declared."
       },
       {
         "type": "verse",
@@ -36851,7 +37270,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बलिनो बहुदोषस्य स्निग्धस्विन्नस्य शोधनम् ऊर्ध्वाधो यक्ष्मिणः कुर्यात् सस्नेहं यन्न कर्शनम्",
         "iast": "balino bahudoṣasya snigdhasvinnasya śodhanam ūrdhvādho yakṣmiṇaḥ kuryāt sasnehaṃ yanna karśanam",
         "iast_ru": "балино бахудош̣асйа снигдхасвиннасйа ш́одханам ӯрдхва̄дхо йакш̣мин̣ах̣ курйа̄т саснехам̣ йанна карш́анам",
-        "text": "У сильного больного с обильной дошей, предварительно умащённого и пропаренного, следует провести очищение вверх и вниз для страдающего чахоткой, но с добавлением масла, чтобы оно не истощало силы."
+        "text": "У сильного больного с обильной дошей, предварительно умащённого и пропаренного, следует провести очищение вверх и вниз для страдающего чахоткой, но с добавлением масла, чтобы оно не истощало силы.",
+        "text_en": "In a strong patient with abundant dosha, previously oleated and steamed, purification upward and downward should be carried out for one suffering from consumption, but with the addition of oil, so that it does not deplete strength."
       },
       {
         "type": "verse",
@@ -36859,7 +37279,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पयसा फलयुक्तेन मधुरेण रसेन वा सर्पिष्मत्या यवाग्वा वा वमनद्रव्यसिद्धया",
         "iast": "payasā phalayuktena madhureṇa rasena vā sarpiṣmatyā yavāgvā vā vamanadravyasiddhayā",
         "iast_ru": "пайаса̄ пхалайуктена мадхурен̣а расена ва̄ сарпиш̣матйа̄ йава̄гва̄ ва̄ ваманадравйасиддхайа̄",
-        "text": "Рвотное следует применить с молоком, вместе с маданафалой, или со сладким соком, или с ячменным отваром, приготовленным на топлёном масле, вместе со рвотным веществом;"
+        "text": "Рвотное следует применить с молоком, вместе с маданафалой, или со сладким соком, или с ячменным отваром, приготовленным на топлёном масле, вместе со рвотным веществом;",
+        "text_en": "Emesis should be given with milk, together with madanaphala, or with sweet juice, or with a barley decoction prepared in ghee, together with an emetic substance;"
       },
       {
         "type": "verse",
@@ -36867,7 +37288,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वमेद्विरेचनं दद्यात्त्रिवृच्श्यामानृपद्रुमान् शर्करामधुसर्पिर्भिः पयसा तर्पणेन वा द्राक्षाविदारीकाश्मर्यमांसानां वा रसैर्युतान्",
         "iast": "vamedvirecanaṃ dadyāttrivṛcśyāmānṛpadrumān śarkarāmadhusarpirbhiḥ payasā tarpaṇena vā drākṣāvidārīkāśmaryamāṃsānāṃ vā rasairyutān",
         "iast_ru": "вамедвиречанам̣ дадйа̄ттривр̣чш́йа̄ма̄нр̣падрума̄н ш́аркара̄мадхусарпирбхих̣ пайаса̄ тарпан̣ена ва̄ дра̄кш̣а̄вида̄рӣка̄ш́марйама̄м̣са̄на̄м̣ ва̄ расаирйута̄н",
-        "text": "следует вызвать рвоту; слабительное следует дать с тривритой, шьямой и нрипадрумой, вместе с сахаром, мёдом, топлёным маслом, молоком или тарпаной; или же вместе с соками изюма, видари, кашмарьи и мяса."
+        "text": "следует вызвать рвоту; слабительное следует дать с тривритой, шьямой и нрипадрумой, вместе с сахаром, мёдом, топлёным маслом, молоком или тарпаной; или же вместе с соками изюма, видари, кашмарьи и мяса.",
+        "text_en": "vomiting should be induced; a purgative should be given with trivrit, shyama and nripadruma, together with sugar, honey, ghee, milk or tarpana; or else with the juices of raisins, vidari, kashmarya and meat."
       },
       {
         "type": "verse",
@@ -36875,7 +37297,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शुद्धकोष्ठस्य युञ्जीत विधिं बृंहणदीपनम् हृद्यानि चान्नपानानि वातघ्नानि लघूनि च",
         "iast": "śuddhakoṣṭhasya yuñjīta vidhiṃ bṛṃhaṇadīpanam hṛdyāni cānnapānāni vātaghnāni laghūni ca",
         "iast_ru": "ш́уддхакош̣т̣хасйа йун̃джӣта видхим̣ бр̣м̣хан̣адӣпанам хр̣дйа̄ни ча̄ннапа̄на̄ни ва̄тагхна̄ни лагхӯни ча",
-        "text": "У того, чья коштха очищена, следует применять метод укрепления и разжигания огня; пищу и питьё, полезные для сердца, устраняющие Вату и лёгкие;"
+        "text": "У того, чья коштха очищена, следует применять метод укрепления и разжигания огня; пищу и питьё, полезные для сердца, устраняющие Вату и лёгкие;",
+        "text_en": "In one whose koshtha has been cleansed, the method of strengthening and kindling the fire should be applied; food and drink beneficial for the heart, relieving Vata, and light;"
       },
       {
         "type": "verse",
@@ -36883,7 +37306,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शालिषष्टिकगोधूमयवमुद्गं समास्थितम् लघुमच्युतवीर्यं च सुजरं बलकृच्च यत्",
         "iast": "śāliṣaṣṭikagodhūmayavamudgaṃ samāsthitam laghumacyutavīryaṃ ca sujaraṃ balakṛcca yat",
         "iast_ru": "ш́а̄лиш̣аш̣т̣икагодхӯмайавамудгам̣ сама̄стхитам лагхумачйутавӣрйам̣ ча суджарам̣ балакр̣чча йат",
-        "text": "рис шали, шаштика, пшеницу, ячмень, зелёный маш, приготовленные надлежащим образом; всё лёгкое, не теряющее силу, легкоусвояемое и придающее силу;"
+        "text": "рис шали, шаштика, пшеницу, ячмень, зелёный маш, приготовленные надлежащим образом; всё лёгкое, не теряющее силу, легкоусвояемое и придающее силу;",
+        "text_en": "shali rice, shashtika, wheat, barley and green gram, prepared in the proper manner; everything light, not depleting strength, easily digestible and strength-giving;"
       },
       {
         "type": "verse",
@@ -36891,7 +37315,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आजं क्षीरं घृतं मांसं क्रव्यान्मांसं च शोषजित् काकोलूकवृकद्वीपिगवाश्वनकुलोरगम्",
         "iast": "ājaṃ kṣīraṃ ghṛtaṃ māṃsaṃ kravyānmāṃsaṃ ca śoṣajit kākolūkavṛkadvīpigavāśvanakuloragam",
         "iast_ru": "а̄джам̣ кш̣ӣрам̣ гхр̣там̣ ма̄м̣сам̣ кравйа̄нма̄м̣сам̣ ча ш́ош̣аджит ка̄колӯкавр̣кадвӣпигава̄ш́ванакулорагам",
-        "text": "козье молоко, топлёное масло, мясо и мясо хищных животных устраняют истощение от чахотки; мясо ворон, сов, волков, леопардов, коров, лошадей, мангустов и змей,"
+        "text": "козье молоко, топлёное масло, мясо и мясо хищных животных устраняют истощение от чахотки; мясо ворон, сов, волков, леопардов, коров, лошадей, мангустов и змей,",
+        "text_en": "goat's milk, ghee, meat and the meat of predatory animals relieve the emaciation of consumption; the meat of crows, owls, wolves, leopards, cows, horses, mongooses and snakes,"
       },
       {
         "type": "verse",
@@ -36899,7 +37324,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गृध्रभासखरोष्ट्रं च हितं छद्मोपसंहितम् ज्ञातं जुगुप्सितं तद्धि छर्दिषे न बलौजसे",
         "iast": "gṛdhrabhāsakharoṣṭraṃ ca hitaṃ chadmopasaṃhitam jñātaṃ jugupsitaṃ taddhi chardiṣe na balaujase",
         "iast_ru": "гр̣дхрабха̄сакхарош̣т̣рам̣ ча хитам̣ чхадмопасам̣хитам джн̃а̄там̣ джугупситам̣ таддхи чхардиш̣е на балауджасе",
-        "text": "грифов, ястребов, ослов и верблюдов — также полезно, но лишь скрытно поданное больному; известное своей природой, оно вызывает отвращение, поэтому оно вызовет лишь рвоту, а не придаст силу и оджас."
+        "text": "грифов, ястребов, ослов и верблюдов — также полезно, но лишь скрытно поданное больному; известное своей природой, оно вызывает отвращение, поэтому оно вызовет лишь рвоту, а не придаст силу и оджас.",
+        "text_en": "vultures, hawks, donkeys and camels is also beneficial, but only if served to the patient in concealed form; known by its nature, it causes revulsion, and therefore will cause only vomiting and not impart strength and ojas."
       },
       {
         "type": "verse",
@@ -36907,7 +37333,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मृगाद्याः पित्तकफयोः पवने प्रसहादयः वेशवारीकृताः पथ्या रसादिषु च कल्पिताः",
         "iast": "mṛgādyāḥ pittakaphayoḥ pavane prasahādayaḥ veśavārīkṛtāḥ pathyā rasādiṣu ca kalpitāḥ",
         "iast_ru": "мр̣га̄дйа̄х̣ питтакапхайох̣ паване прасаха̄дайах̣ веш́ава̄рӣкр̣та̄х̣ патхйа̄ раса̄диш̣у ча калпита̄х̣",
-        "text": "Мясо оленей и подобных животных — при расстройстве Питты и Капхи; мясо хищных плотоядных и подобных — при расстройстве Ваты; приготовленное в виде вешавари (мясного фарша), оно полезно, а также применяется в соках и подобном;"
+        "text": "Мясо оленей и подобных животных — при расстройстве Питты и Капхи; мясо хищных плотоядных и подобных — при расстройстве Ваты; приготовленное в виде вешавари (мясного фарша), оно полезно, а также применяется в соках и подобном;",
+        "text_en": "The meat of deer and similar animals in disorder of Pitta and Kapha; the meat of predatory carnivores and the like in disorder of Vata; prepared in the form of veshavara (minced meat), it is beneficial, and is also applied in juices and the like;"
       },
       {
         "type": "verse",
@@ -36915,7 +37342,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भृष्टाः सर्षपतैलेन सर्पिषा वा यथायथम् रसिका मृदवः स्निग्धाः पटुद्रव्याभिसंस्कृताः",
         "iast": "bhṛṣṭāḥ sarṣapatailena sarpiṣā vā yathāyatham rasikā mṛdavaḥ snigdhāḥ paṭudravyābhisaṃskṛtāḥ",
         "iast_ru": "бхр̣ш̣т̣а̄х̣ сарш̣апатаилена сарпиш̣а̄ ва̄ йатха̄йатхам расика̄ мр̣давах̣ снигдха̄х̣ пат̣удравйа̄бхисам̣скр̣та̄х̣",
-        "text": "обжаренное на горчичном масле или топлёном масле, соответственно; сочное, мягкое, маслянистое, приправленное острыми специями;"
+        "text": "обжаренное на горчичном масле или топлёном масле, соответственно; сочное, мягкое, маслянистое, приправленное острыми специями;",
+        "text_en": "fried in mustard oil or ghee, respectively; juicy, soft, unctuous, seasoned with pungent spices;"
       },
       {
         "type": "verse",
@@ -36923,7 +37351,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हिता मौद्गककौलत्थास्तद्वद्यूषाश्च साधिताः सपिप्पलीकं सयवं सकुलत्थं सनागरम्",
         "iast": "hitā maudgakakaulatthāstadvadyūṣāśca sādhitāḥ sapippalīkaṃ sayavaṃ sakulatthaṃ sanāgaram",
         "iast_ru": "хита̄ маудгакакаулаттха̄стадвадйӯш̣а̄ш́ча са̄дхита̄х̣ сапиппалӣкам̣ сайавам̣ сакулаттхам̣ сана̄гарам",
-        "text": "полезны супы из зелёного маша и конского боба, приготовленные подобным же образом; вместе с пиппали, ячменём, конским бобом и сухим имбирём,"
+        "text": "полезны супы из зелёного маша и конского боба, приготовленные подобным же образом; вместе с пиппали, ячменём, конским бобом и сухим имбирём,",
+        "text_en": "soups of green gram and horse gram prepared likewise are beneficial; together with pippali, barley, horse gram and dry ginger,"
       },
       {
         "type": "verse",
@@ -36931,7 +37360,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सदाडिमं सामलकं स्निग्धमाजं रसं पिबेत् तेन षड्विनिवर्तन्ते विकाराः पीनसादयः",
         "iast": "sadāḍimaṃ sāmalakaṃ snigdhamājaṃ rasaṃ pibet tena ṣaḍvinivartante vikārāḥ pīnasādayaḥ",
         "iast_ru": "сада̄д̣имам̣ са̄малакам̣ снигдхама̄джам̣ расам̣ пибет тена ш̣ад̣винивартанте вика̄ра̄х̣ пӣнаса̄дайах̣",
-        "text": "вместе с гранатом и амалаки, следует пить маслянистый козий мясной бульон; благодаря этому устраняются шесть расстройств, начиная с насморка."
+        "text": "вместе с гранатом и амалаки, следует пить маслянистый козий мясной бульон; благодаря этому устраняются шесть расстройств, начиная с насморка.",
+        "text_en": "together with pomegranate and amalaki, unctuous goat meat broth should be drunk; by this the six disorders, beginning with catarrh, are relieved."
       },
       {
         "type": "verse",
@@ -36939,7 +37369,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कोलदाडिमनिर्यासपिष्टयास्थिविहीनया द्राक्षया स्वच्छधान्याम्बुप्लुतालोडितकल्कया",
         "iast": "koladāḍimaniryāsapiṣṭayāsthivihīnayā drākṣayā svacchadhānyāmbuplutāloḍitakalkayā",
         "iast_ru": "колада̄д̣иманирйа̄сапиш̣т̣айа̄стхивихӣнайа̄ дра̄кш̣айа̄ сваччхадха̄нйа̄мбуплута̄лод̣итакалкайа̄",
-        "text": "Из сока кола и граната, растёртого изюма без косточек, размоченного и растёртого в пасту в чистой воде с кориандром,"
+        "text": "Из сока кола и граната, растёртого изюма без косточек, размоченного и растёртого в пасту в чистой воде с кориандром,",
+        "text_en": "From the juice of kola and pomegranate, raisins without seeds, ground, soaked and ground into a paste in clean water with coriander,"
       },
       {
         "type": "verse",
@@ -36947,7 +37378,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कार्यः सौवर्चलव्योषपत्रैलादीप्यकान्वितः समाक्षिकः सकर्पूरः सलवङ्कः सकेसरः",
         "iast": "kāryaḥ sauvarcalavyoṣapatrailādīpyakānvitaḥ samākṣikaḥ sakarpūraḥ salavaṅkaḥ sakesaraḥ",
         "iast_ru": "ка̄рйах̣ сауварчалавйош̣апатраила̄дӣпйака̄нвитах̣ сама̄кш̣иках̣ сакарпӯрах̣ салаван̇ках̣ сакесарах̣",
-        "text": "вместе с соувархалой, вьошей, листом, кардамоном и диптакой, вместе с мёдом, камфарой, гвоздикой и шафраном, следует приготовить напиток;"
+        "text": "вместе с соувархалой, вьошей, листом, кардамоном и диптакой, вместе с мёдом, камфарой, гвоздикой и шафраном, следует приготовить напиток;",
+        "text_en": "together with souvarchala, vyosha, leaf, cardamom and dipyaka, together with honey, camphor, clove and saffron, a drink should be prepared;"
       },
       {
         "type": "verse",
@@ -36955,7 +37387,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "चन्द्रकान्तो यथार्थाख्यः शोषहाग्निरुचिप्रदः शुक्ताम्लधात्रीस्वरसैर्द्राक्षायाः कल्कितं पलम्",
         "iast": "candrakānto yathārthākhyaḥ śoṣahāgnirucipradaḥ śuktāmladhātrīsvarasairdrākṣāyāḥ kalkitaṃ palam",
         "iast_ru": "чандрака̄нто йатха̄ртха̄кхйах̣ ш́ош̣аха̄гниручипрадах̣ ш́укта̄младха̄трӣсварасаирдра̄кш̣а̄йа̄х̣ калкитам̣ палам",
-        "text": "«чандраканта» (лунный камень) — названный по праву; устраняет истощение от чахотки, разжигает огонь и возбуждает аппетит. Другой состав: пала растёртого изюма, вместе с кислым уксусом и соком амалаки,"
+        "text": "«чандраканта» (лунный камень) — названный по праву; устраняет истощение от чахотки, разжигает огонь и возбуждает аппетит. Другой состав: пала растёртого изюма, вместе с кислым уксусом и соком амалаки,",
+        "text_en": "\"Chandrakanta\" (moonstone), so named by right; it relieves the emaciation of consumption, kindles the fire and stimulates appetite. Another compound: a pala of ground raisins, together with sour vinegar and amalaki juice,"
       },
       {
         "type": "verse",
@@ -36963,7 +37396,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुडषट्पलसंयुक्तं युक्तं श्लक्ष्णैश्च कार्षिकैः वृक्षाम्लधान्यद्रमिलीराजिकादाडिमोषणैः",
         "iast": "guḍaṣaṭpalasaṃyuktaṃ yuktaṃ ślakṣṇaiśca kārṣikaiḥ vṛkṣāmladhānyadramilīrājikādāḍimoṣaṇaiḥ",
         "iast_ru": "гуд̣аш̣ат̣паласам̣йуктам̣ йуктам̣ ш́лакш̣н̣аиш́ча ка̄рш̣икаих̣ вр̣кш̣а̄младха̄нйадрамилӣра̄джика̄да̄д̣имош̣ан̣аих̣",
-        "text": "вместе с шестью палами патоки, а также мелко растёртыми, по одной карше: вркшамлой, кориандром, драмили, горчицей, гранатом и острыми пряностями;"
+        "text": "вместе с шестью палами патоки, а также мелко растёртыми, по одной карше: вркшамлой, кориандром, драмили, горчицей, гранатом и острыми пряностями;",
+        "text_en": "together with six palas of jaggery, and also finely ground, one karsha each: vrikshamla, coriander, dramili, mustard, pomegranate and pungent spices;"
       },
       {
         "type": "verse",
@@ -36971,7 +37405,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पलेन नागपुष्पस्य किञ्चित् सौवर्चलेन च ससेव्यपत्रत्वक्तोयः सुरसारसमूर्छितः",
         "iast": "palena nāgapuṣpasya kiñcit sauvarcalena ca sasevyapatratvaktoyaḥ surasārasamūrchitaḥ",
         "iast_ru": "палена на̄гапуш̣пасйа кин̃чит сауварчалена ча сасевйапатратвактойах̣ сураса̄расамӯрчхитах̣",
-        "text": "вместе с палой цветка нагапушпы и небольшим количеством соувархалы; вместе с водой от листьев и коры севьи, пропитанный соком сурасы,"
+        "text": "вместе с палой цветка нагапушпы и небольшим количеством соувархалы; вместе с водой от листьев и коры севьи, пропитанный соком сурасы,",
+        "text_en": "together with a pala of nagapushpa flower and a small quantity of souvarchala; together with water from the leaves and bark of sevya, soaked in the juice of surasa,"
       },
       {
         "type": "verse",
@@ -36979,7 +37414,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भूरिभूस्तृणको रागः कण्ठ्यो रुच्यः समाक्षिकः पिबेच्च सुतरां मद्यं जीर्णं स्रोतोविशोधनम्",
         "iast": "bhūribhūstṛṇako rāgaḥ kaṇṭhyo rucyaḥ samākṣikaḥ pibecca sutarāṃ madyaṃ jīrṇaṃ srotoviśodhanam",
         "iast_ru": "бхӯрибхӯстр̣н̣ако ра̄гах̣ кан̣т̣хйо ручйах̣ сама̄кш̣иках̣ пибечча сутара̄м̣ мадйам̣ джӣрн̣ам̣ сротовиш́одханам",
-        "text": "с обилием бхустрины — этот «рага» (напиток), полезен для горла, возбуждает аппетит, вместе с мёдом. Также рекомендуется пить старый, выдержанный хмельной напиток, очищающий каналы;"
+        "text": "с обилием бхустрины — этот «рага» (напиток), полезен для горла, возбуждает аппетит, вместе с мёдом. Также рекомендуется пить старый, выдержанный хмельной напиток, очищающий каналы;",
+        "text_en": "with abundant bhustrina: this \"raga\" (drink) is beneficial for the throat and stimulates the appetite, together with honey. It is also recommended to drink old, matured intoxicating drink, which cleanses the channels;"
       },
       {
         "type": "verse",
@@ -36987,7 +37423,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तादिषु विशेषेण मध्वरिष्टाच्छवारुणीः सिद्धं वा पञ्चमूलेन तामलक्याथवा जलम्",
         "iast": "pittādiṣu viśeṣeṇa madhvariṣṭācchavāruṇīḥ siddhaṃ vā pañcamūlena tāmalakyāthavā jalam",
         "iast_ru": "питта̄диш̣у виш́еш̣ен̣а мадхвариш̣т̣а̄ччхава̄рун̣ӣх̣ сиддхам̣ ва̄ пан̃чамӯлена та̄малакйа̄тхава̄ джалам",
-        "text": "в особенности при расстройстве Питты и прочих дош — мадхваришту и чхаваруни; или же воду, приготовленную с панчамули или тамалаки;"
+        "text": "в особенности при расстройстве Питты и прочих дош — мадхваришту и чхаваруни; или же воду, приготовленную с панчамули или тамалаки;",
+        "text_en": "especially in disorder of Pitta and the other doshas: madhvarishta and chhavaruni; or else water prepared with the panchamula or tamalaki;"
       },
       {
         "type": "verse",
@@ -36995,7 +37432,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पर्णिनीभिश्चतसृभिर्धान्यनागरकेण वा कल्पयेच्चानुकूलोस्य तेनान्नं शुचि यत्नवान्",
         "iast": "parṇinībhiścatasṛbhirdhānyanāgarakeṇa vā kalpayeccānukūlosya tenānnaṃ śuci yatnavān",
         "iast_ru": "парн̣инӣбхиш́чатаср̣бхирдха̄нйана̄гаракен̣а ва̄ калпайечча̄нукӯлосйа тена̄ннам̣ ш́учи йатнава̄н",
-        "text": "или с четырьмя видами парни, кориандром и сухим имбирём; следует старательно готовить чистую пищу для него, подходящую ему,"
+        "text": "или с четырьмя видами парни, кориандром и сухим имбирём; следует старательно готовить чистую пищу для него, подходящую ему,",
+        "text_en": "or with the four kinds of parni, coriander and dry ginger; one should carefully prepare clean food for him, suited to him,"
       },
       {
         "type": "verse",
@@ -37003,7 +37441,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलेन पयसा सिद्धं मांसरसेन वा बलागर्भं घृतं योज्यं क्रव्यामांसरसेन वा",
         "iast": "daśamūlena payasā siddhaṃ māṃsarasena vā balāgarbhaṃ ghṛtaṃ yojyaṃ kravyāmāṃsarasena vā",
         "iast_ru": "даш́амӯлена пайаса̄ сиддхам̣ ма̄м̣сарасена ва̄ бала̄гарбхам̣ гхр̣там̣ йоджйам̣ кравйа̄ма̄м̣сарасена ва̄",
-        "text": "а также топлёное масло с начинкой из балы, сваренное с дашамулой и молоком, или с мясным бульоном, или с бульоном из мяса хищных животных, следует применять;"
+        "text": "а также топлёное масло с начинкой из балы, сваренное с дашамулой и молоком, или с мясным бульоном, или с бульоном из мяса хищных животных, следует применять;",
+        "text_en": "and also ghee with a filling of bala, cooked with dashamula and milk, or with meat broth, or with broth of the meat of predatory animals, should be applied;"
       },
       {
         "type": "verse",
@@ -37011,7 +37450,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सक्षौद्रं पयसा सिद्धं सर्पिर्दशगुणेन वा जीवन्तीं मधुकं द्राक्षां फलानि कुटजस्य च",
         "iast": "sakṣaudraṃ payasā siddhaṃ sarpirdaśaguṇena vā jīvantīṃ madhukaṃ drākṣāṃ phalāni kuṭajasya ca",
         "iast_ru": "сакш̣аудрам̣ пайаса̄ сиддхам̣ сарпирдаш́агун̣ена ва̄ джӣвантӣм̣ мадхукам̣ дра̄кш̣а̄м̣ пхала̄ни кут̣аджасйа ча",
-        "text": "вместе с мёдом; топлёное масло, сваренное с молоком в десятикратном количестве; дживанти, солодку, изюм и плоды кутаджи,"
+        "text": "вместе с мёдом; топлёное масло, сваренное с молоком в десятикратном количестве; дживанти, солодку, изюм и плоды кутаджи,",
+        "text_en": "together with honey; ghee cooked with milk in tenfold quantity; jivanti, licorice, raisins and the fruits of kutaja,"
       },
       {
         "type": "verse",
@@ -37019,7 +37459,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पुष्कराह्वं शठीं कृष्णां व्याघ्रीं गोक्षुरकं बलाम् नीलित्पलं तामलकीं त्रायमाणां दुरालभाम् कल्कीकृत्य घृतं पक्वं रोगराजहरं परम्",
         "iast": "puṣkarāhvaṃ śaṭhīṃ kṛṣṇāṃ vyāghrīṃ gokṣurakaṃ balām nīlitpalaṃ tāmalakīṃ trāyamāṇāṃ durālabhām kalkīkṛtya ghṛtaṃ pakvaṃ rogarājaharaṃ param",
         "iast_ru": "пуш̣кара̄хвам̣ ш́ат̣хӣм̣ кр̣ш̣н̣а̄м̣ вйа̄гхрӣм̣ гокш̣уракам̣ бала̄м нӣлитпалам̣ та̄малакӣм̣ тра̄йама̄н̣а̄м̣ дура̄лабха̄м калкӣкр̣тйа гхр̣там̣ паквам̣ рогара̄джахарам̣ парам",
-        "text": "пушкарахву, шатхи, пиппали, вьягхри, гокшуру, балу, нилипалу, тамалаки, траяману и дуралабху, растёртые в пасту, — топлёное масло, сваренное с ними, превосходно устраняет «царя болезней» (раджаякшму)."
+        "text": "пушкарахву, шатхи, пиппали, вьягхри, гокшуру, балу, нилипалу, тамалаки, траяману и дуралабху, растёртые в пасту, — топлёное масло, сваренное с ними, превосходно устраняет «царя болезней» (раджаякшму).",
+        "text_en": "pushkaravhya, shathi, pippali, vyaghri, gokshura, balu, nilipala, tamalaki, trayamana and duralabha, ground into a paste: ghee cooked with them excellently relieves the \"king of diseases\" (rajayakshma)."
       },
       {
         "type": "verse",
@@ -37027,7 +37468,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दुरालभां गोक्षुरकं चतस्त्रः पर्णिनीर्बलाम् भागान् पलोन्मितान् कृत्वा पलं पर्पटकस्य च",
         "iast": "durālabhāṃ gokṣurakaṃ catastraḥ parṇinīrbalām bhāgān palonmitān kṛtvā palaṃ parpaṭakasya ca",
         "iast_ru": "дура̄лабха̄м̣ гокш̣уракам̣ чатастрах̣ парн̣инӣрбала̄м бха̄га̄н палонмита̄н кр̣тва̄ палам̣ парпат̣акасйа ча",
-        "text": "Дуралабху, гокшуру, четыре вида парни, балу — взяв каждую по одному палу, а также один пал парпатаки,"
+        "text": "Дуралабху, гокшуру, четыре вида парни, балу — взяв каждую по одному палу, а также один пал парпатаки,",
+        "text_en": "Duralabha, gokshura, the four kinds of parni, balu: taking one pala of each, as well as one pala of parpataka,"
       },
       {
         "type": "verse",
@@ -37035,7 +37477,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पचेद्दशगुणे तोये दशभागावशेषिते पूते तस्मिन् घृतप्रस्थं क्षीरद्विगुणितं पचेत्",
         "iast": "paceddaśaguṇe toye daśabhāgāvaśeṣite pūte tasmin ghṛtaprasthaṃ kṣīradviguṇitaṃ pacet",
         "iast_ru": "пачеддаш́агун̣е тойе даш́абха̄га̄ваш́еш̣ите пӯте тасмин гхр̣тапрастхам̣ кш̣ӣрадвигун̣итам̣ пачет",
-        "text": "следует сварить в десятикратном количестве воды до остатка в одну десятую; на процеженном отваре следует сварить прастху топлёного масла с двойным количеством молока,"
+        "text": "следует сварить в десятикратном количестве воды до остатка в одну десятую; на процеженном отваре следует сварить прастху топлёного масла с двойным количеством молока,",
+        "text_en": "should be boiled in ten times the quantity of water until one tenth remains; in the strained decoction a prastha of ghee should be cooked with double the quantity of milk,"
       },
       {
         "type": "verse",
@@ -37043,7 +37486,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भं दत्वा शठीकृष्णाभूनिम्बोत्पलसारिवाः त्रायन्तीं पौष्करं मूलं सहपत्रफलां फलम्",
         "iast": "garbhaṃ datvā śaṭhīkṛṣṇābhūnimbotpalasārivāḥ trāyantīṃ pauṣkaraṃ mūlaṃ sahapatraphalāṃ phalam",
         "iast_ru": "гарбхам̣ датва̄ ш́ат̣хӣкр̣ш̣н̣а̄бхӯнимботпаласа̄рива̄х̣ тра̄йантӣм̣ пауш̣карам̣ мӯлам̣ сахапатрапхала̄м̣ пхалам",
-        "text": "добавив внутрь шатхи, пиппали, бхунимбу, лотос, сариву, траянти, корень паушкары, растение сахапатрафала, плод"
+        "text": "добавив внутрь шатхи, пиппали, бхунимбу, лотос, сариву, траянти, корень паушкары, растение сахапатрафала, плод",
+        "text_en": "having added within shathi, pippali, bhunimba, lotus, sariva, trayanti, pushkara root, the plant sahapatraphala, the fruit"
       },
       {
         "type": "verse",
@@ -37051,7 +37495,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कुटजाच्च जयेत्तद्धि शिरःपार्श्वांसवेदनाम् तृष्णां छर्दिमतीसारं कासदाहभ्रमज्वरान्",
         "iast": "kuṭajācca jayettaddhi śiraḥpārśvāṃsavedanām tṛṣṇāṃ chardimatīsāraṃ kāsadāhabhramajvarān",
         "iast_ru": "кут̣аджа̄чча джайеттаддхи ш́ирах̣па̄рш́ва̄м̣саведана̄м тр̣ш̣н̣а̄м̣ чхардиматӣса̄рам̣ ка̄сада̄хабхрамаджвара̄н",
-        "text": "кутаджи; это устраняет боль в голове, боках и плечах, жажду, рвоту, понос, кашель, жжение, головокружение и лихорадку."
+        "text": "кутаджи; это устраняет боль в голове, боках и плечах, жажду, рвоту, понос, кашель, жжение, головокружение и лихорадку.",
+        "text_en": "of kutaja; this relieves pain in the head, sides and shoulders, thirst, vomiting, diarrhoea, cough, burning, giddiness and fever."
       },
       {
         "type": "verse",
@@ -37059,7 +37504,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घृतं खर्जूरमृद्वीकामधुकैः सपरूसकैः सपिप्पलीकं वैस्वर्यकासश्वासज्वरापहम्",
         "iast": "ghṛtaṃ kharjūramṛdvīkāmadhukaiḥ saparūsakaiḥ sapippalīkaṃ vaisvaryakāsaśvāsajvarāpaham",
         "iast_ru": "гхр̣там̣ кхарджӯрамр̣двӣка̄мадхукаих̣ сапарӯсакаих̣ сапиппалӣкам̣ ваисварйака̄саш́ва̄саджвара̄пахам",
-        "text": "Топлёное масло с финиками, изюмом, солодкой, вместе с парушакой и пиппали, устраняет изменение голоса, кашель, одышку и лихорадку."
+        "text": "Топлёное масло с финиками, изюмом, солодкой, вместе с парушакой и пиппали, устраняет изменение голоса, кашель, одышку и лихорадку.",
+        "text_en": "Ghee with dates, raisins and licorice, together with parushaka and pippali, relieves change of voice, cough, dyspnoea and fever."
       },
       {
         "type": "verse",
@@ -37067,7 +37513,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दशमूलशृतात् क्षीरात् सर्पिर्यदुदियान्नवम् सपिप्पलीकं सक्षौद्रं तत् परं स्वरबोधनम्",
         "iast": "daśamūlaśṛtāt kṣīrāt sarpiryadudiyānnavam sapippalīkaṃ sakṣaudraṃ tat paraṃ svarabodhanam",
         "iast_ru": "даш́амӯлаш́р̣та̄т кш̣ӣра̄т сарпирйадудийа̄ннавам сапиппалӣкам̣ сакш̣аудрам̣ тат парам̣ сварабодханам",
-        "text": "Свежее топлёное масло, полученное из молока, сваренного с дашамулой, вместе с пиппали и мёдом, — превосходно восстанавливает голос,"
+        "text": "Свежее топлёное масло, полученное из молока, сваренного с дашамулой, вместе с пиппали и мёдом, — превосходно восстанавливает голос,",
+        "text_en": "Fresh ghee obtained from milk boiled with dashamula, together with pippali and honey, excellently restores the voice,"
       },
       {
         "type": "verse",
@@ -37075,7 +37522,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिरःपार्श्वासशूलघ्नं कासश्वासज्वरापहम् पञ्चभिः पञ्चमूलैर्वा शृताद्यदुदियात् घृतम्",
         "iast": "śiraḥpārśvāsaśūlaghnaṃ kāsaśvāsajvarāpaham pañcabhiḥ pañcamūlairvā śṛtādyadudiyāt ghṛtam",
         "iast_ru": "ш́ирах̣па̄рш́ва̄саш́ӯлагхнам̣ ка̄саш́ва̄саджвара̄пахам пан̃чабхих̣ пан̃чамӯлаирва̄ ш́р̣та̄дйадудийа̄т гхр̣там",
-        "text": "устраняет боль в голове, боках и плечах, кашель, одышку и лихорадку. Или же топлёное масло, полученное из молока, сваренного с пятью видами панчамули,"
+        "text": "устраняет боль в голове, боках и плечах, кашель, одышку и лихорадку. Или же топлёное масло, полученное из молока, сваренного с пятью видами панчамули,",
+        "text_en": "relieves pain in the head, sides and shoulders, cough, dyspnoea and fever. Or else ghee obtained from milk boiled with the five kinds of panchamula,"
       },
       {
         "type": "verse",
@@ -37083,7 +37531,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पञ्चानां पञ्चमूलानां रसे क्षीरचतुर्गुणे सिद्धं सर्पिर्जयत्येतद्यक्ष्मणः सप्तकं बलम्",
         "iast": "pañcānāṃ pañcamūlānāṃ rase kṣīracaturguṇe siddhaṃ sarpirjayatyetadyakṣmaṇaḥ saptakaṃ balam",
         "iast_ru": "пан̃ча̄на̄м̣ пан̃чамӯла̄на̄м̣ расе кш̣ӣрачатургун̣е сиддхам̣ сарпирджайатйетадйакш̣ман̣ах̣ саптакам̣ балам",
-        "text": "сваренное в соке пяти видов панчамули с четырёхкратным количеством молока, — такое топлёное масло побеждает семикратную силу чахотки;"
+        "text": "сваренное в соке пяти видов панчамули с четырёхкратным количеством молока, — такое топлёное масло побеждает семикратную силу чахотки;",
+        "text_en": "cooked in the juice of the five kinds of panchamula with four times the quantity of milk: such ghee conquers the sevenfold force of consumption;"
       },
       {
         "type": "verse",
@@ -37091,7 +37540,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पञ्चकोलयवक्षारषट्पलेन पचेत् घृतम् प्रस्थोन्मितं तुल्यपयः स्रोतसां तद्विशोधनम्",
         "iast": "pañcakolayavakṣāraṣaṭpalena pacet ghṛtam prasthonmitaṃ tulyapayaḥ srotasāṃ tadviśodhanam",
         "iast_ru": "пан̃чаколайавакш̣а̄раш̣ат̣палена пачет гхр̣там прастхонмитам̣ тулйапайах̣ сротаса̄м̣ тадвиш́одханам",
-        "text": "следует сварить прастху топлёного масла с шестью палами панчаколы и ячменной щёлочи, вместе с равным количеством молока; это очищает каналы,"
+        "text": "следует сварить прастху топлёного масла с шестью палами панчаколы и ячменной щёлочи, вместе с равным количеством молока; это очищает каналы,",
+        "text_en": "a prastha of ghee should be cooked with six palas of panchakola and barley alkali, together with an equal quantity of milk; this cleanses the channels,"
       },
       {
         "type": "verse",
@@ -37099,7 +37549,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गुल्मज्वरोदरप्लीहग्रहणीपाण्डुपीनसान् कासश्वासाग्निसदनश्वयथूर्ध्वानिलान् जयेत्",
         "iast": "gulmajvarodaraplīhagrahaṇīpāṇḍupīnasān kāsaśvāsāgnisadanaśvayathūrdhvānilān jayet",
         "iast_ru": "гулмаджвародараплӣхаграхан̣ӣпа̄н̣д̣упӣнаса̄н ка̄саш́ва̄са̄гнисаданаш́вайатхӯрдхва̄нила̄н джайет",
-        "text": "побеждает гульму, лихорадку, водянку живота, болезнь селезёнки, грахани, малокровие, насморк, кашель, одышку, упадок пищеварительного огня, отёк и движение Ваты вверх."
+        "text": "побеждает гульму, лихорадку, водянку живота, болезнь селезёнки, грахани, малокровие, насморк, кашель, одышку, упадок пищеварительного огня, отёк и движение Ваты вверх.",
+        "text_en": "conquers gulma, fever, ascites, disease of the spleen, grahani, anaemia, catarrh, cough, dyspnoea, weakness of the digestive fire, oedema and upward movement of Vata."
       },
       {
         "type": "verse",
@@ -37107,7 +37558,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "रास्नाबलागोक्षुरकस्थिरावर्षाभुवारिणि जीवन्तीपिप्पलीगर्भं सक्षीरं शोषजिद्घृतम् अश्वगन्धाशृतात् क्षीरात् घृतं च ससितापयः",
         "iast": "rāsnābalāgokṣurakasthirāvarṣābhuvāriṇi jīvantīpippalīgarbhaṃ sakṣīraṃ śoṣajidghṛtam aśvagandhāśṛtāt kṣīrāt ghṛtaṃ ca sasitāpayaḥ",
         "iast_ru": "ра̄сна̄бала̄гокш̣уракастхира̄варш̣а̄бхува̄рин̣и джӣвантӣпиппалӣгарбхам̣ сакш̣ӣрам̣ ш́ош̣аджидгхр̣там аш́вагандха̄ш́р̣та̄т кш̣ӣра̄т гхр̣там̣ ча сасита̄пайах̣",
-        "text": "Топлёное масло, сваренное с расной, балой, гокшурой, стхирой, варшабху, вари, с начинкой из дживанти и пиппали, вместе с молоком, устраняет истощение от чахотки; топлёное масло из молока, сваренного с ашвагандхой, вместе с сахаром и молоком,"
+        "text": "Топлёное масло, сваренное с расной, балой, гокшурой, стхирой, варшабху, вари, с начинкой из дживанти и пиппали, вместе с молоком, устраняет истощение от чахотки; топлёное масло из молока, сваренного с ашвагандхой, вместе с сахаром и молоком,",
+        "text_en": "Ghee cooked with rasna, bala, gokshura, sthira, varshabhu and vari, with a filling of jivanti and pippali, together with milk, relieves the emaciation of consumption; ghee from milk cooked with ashwagandha, together with sugar and milk,"
       },
       {
         "type": "verse",
@@ -37115,7 +37567,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "साधारणामिषतुलां तोयद्रोणद्वये पचेत् तेनाष्टभागशेषेण जीवनीयैः पलोन्मितैः",
         "iast": "sādhāraṇāmiṣatulāṃ toyadroṇadvaye pacet tenāṣṭabhāgaśeṣeṇa jīvanīyaiḥ palonmitaiḥ",
         "iast_ru": "са̄дха̄ран̣а̄миш̣атула̄м̣ тойадрон̣адвайе пачет тена̄ш̣т̣абха̄гаш́еш̣ен̣а джӣванӣйаих̣ палонмитаих̣",
-        "text": "следует сварить тулу обычного мяса в двух дронах воды до остатка в одну восьмую; на нём, вместе с травами группы дживанья, взятыми по одному палу,"
+        "text": "следует сварить тулу обычного мяса в двух дронах воды до остатка в одну восьмую; на нём, вместе с травами группы дживанья, взятыми по одному палу,",
+        "text_en": "a tula of ordinary meat should be boiled in two dronas of water until one eighth remains; in this, together with the herbs of the Jivaniya group, taken one pala each,"
       },
       {
         "type": "verse",
@@ -37123,7 +37576,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "साधयेत् सर्पिषः प्रस्थं वातपित्तामयापहम् मांससर्पिरिदं पीतं युक्तं मांसरसेन वा कासश्वासस्वरभ्रंशशोषहृत्पार्श्वशूलजित्",
         "iast": "sādhayet sarpiṣaḥ prasthaṃ vātapittāmayāpaham māṃsasarpiridaṃ pītaṃ yuktaṃ māṃsarasena vā kāsaśvāsasvarabhraṃśaśoṣahṛtpārśvaśūlajit",
         "iast_ru": "са̄дхайет сарпиш̣ах̣ прастхам̣ ва̄тапитта̄майа̄пахам ма̄м̣сасарпиридам̣ пӣтам̣ йуктам̣ ма̄м̣сарасена ва̄ ка̄саш́ва̄сасварабхрам̣ш́аш́ош̣ахр̣тпа̄рш́ваш́ӯладжит",
-        "text": "следует сварить прастху топлёного масла, устраняющую болезни Ваты и Питты; это мясное топлёное масло, выпитое, вместе с мясным бульоном, устраняет кашель, одышку, потерю голоса, истощение, боль в сердце и боках."
+        "text": "следует сварить прастху топлёного масла, устраняющую болезни Ваты и Питты; это мясное топлёное масло, выпитое, вместе с мясным бульоном, устраняет кашель, одышку, потерю голоса, истощение, боль в сердце и боках.",
+        "text_en": "a prastha of ghee should be cooked, relieving diseases of Vata and Pitta; this meat ghee, drunk together with meat broth, relieves cough, dyspnoea, loss of voice, emaciation, and pain in the heart and sides."
       },
       {
         "type": "verse",
@@ -37131,7 +37585,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यष्टीबलागुडूच्यल्पपञ्चमूलतुलां पचेत् शूर्पे ऽपामष्टभागस्थे तत्र पात्रं पचेत् घृतात्",
         "iast": "yaṣṭībalāguḍūcyalpapañcamūlatulāṃ pacet śūrpe 'pāmaṣṭabhāgasthe tatra pātraṃ pacet ghṛtāt",
         "iast_ru": "йаш̣т̣ӣбала̄гуд̣ӯчйалпапан̃чамӯлатула̄м̣ пачет ш́ӯрпе 'па̄маш̣т̣абха̄гастхе татра па̄трам̣ пачет гхр̣та̄т",
-        "text": "Следует сварить тулу солодки, балы, гудучи и малой панчамули в объёме воды, равном шурпе (мере зерна), до остатка одной восьмой; в этом отваре следует сварить сосуд топлёного масла,"
+        "text": "Следует сварить тулу солодки, балы, гудучи и малой панчамули в объёме воды, равном шурпе (мере зерна), до остатка одной восьмой; в этом отваре следует сварить сосуд топлёного масла,",
+        "text_en": "A tula each of licorice, bala, guduchi and the lesser panchamula should be boiled in a quantity of water equal to a shurpa (a measure of grain) until one eighth remains; in this decoction a vessel of ghee should be cooked,"
       },
       {
         "type": "verse",
@@ -37139,7 +37594,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "धात्रीविदारीक्षुरसत्रिपात्रे पयसो ऽर्मणे सुपिष्टैर्जीवनीयैश्च पाराशरमिदं घृतम् ससैन्यं राजयक्ष्माणमुन्मूलयति शीलितम्",
         "iast": "dhātrīvidārīkṣurasatripātre payaso 'rmaṇe supiṣṭairjīvanīyaiśca pārāśaramidaṃ ghṛtam sasainyaṃ rājayakṣmāṇamunmūlayati śīlitam",
         "iast_ru": "дха̄трӣвида̄рӣкш̣урасатрипа̄тре пайасо 'рман̣е супиш̣т̣аирджӣванӣйаиш́ча па̄ра̄ш́арамидам̣ гхр̣там сасаинйам̣ ра̄джайакш̣ма̄н̣амунмӯлайати ш́ӣлитам",
-        "text": "с тремя сосудами сока амалаки, видари и сахарного тростника, а также сосудом молока, вместе с хорошо растёртыми травами группы дживанья, — это топлёное масло «параашара», применяемое регулярно, искореняет раджаякшму со всем её «войском» (осложнениями)."
+        "text": "с тремя сосудами сока амалаки, видари и сахарного тростника, а также сосудом молока, вместе с хорошо растёртыми травами группы дживанья, — это топлёное масло «параашара», применяемое регулярно, искореняет раджаякшму со всем её «войском» (осложнениями).",
+        "text_en": "with three vessels of the juice of amalaki, vidari and sugarcane, and a vessel of milk, together with the well-ground herbs of the Jivaniya group: this ghee \"Parashara\", applied regularly, uproots rajayakshma with all its \"army\" (complications)."
       },
       {
         "type": "verse",
@@ -37147,7 +37603,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मूर्वाहरिद्राखदिरक्वाथं सर्पिः शकृद्रसम् गोगजाजाविहयजं पयस्तुल्यान् दश द्रवान्",
         "iast": "mūrvāharidrākhadirakvāthaṃ sarpiḥ śakṛdrasam gogajājāvihayajaṃ payastulyān daśa dravān",
         "iast_ru": "мӯрва̄харидра̄кхадираква̄тхам̣ сарпих̣ ш́акр̣драсам гогаджа̄джа̄вихайаджам̣ пайастулйа̄н даш́а драва̄н",
-        "text": "Топлёное масло следует сварить на отваре урвы, куркумы и кхадиры, вместе с соком помёта; десять равных жидкостей: молоко коровы, слона, козы, овцы и лошади,"
+        "text": "Топлёное масло следует сварить на отваре урвы, куркумы и кхадиры, вместе с соком помёта; десять равных жидкостей: молоко коровы, слона, козы, овцы и лошади,",
+        "text_en": "Ghee should be cooked in a decoction of urva, turmeric and khadira, together with the juice of dung; ten equal liquids: the milk of cow, elephant, goat, sheep and horse,"
       },
       {
         "type": "verse",
@@ -37155,7 +37612,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वादुस्कन्धं त्रिकटुकं कल्कितं देवदारु च पचेत्तच्चाशु शोषघ्नं तद्वद्वासावरीघृतम्",
         "iast": "svāduskandhaṃ trikaṭukaṃ kalkitaṃ devadāru ca pacettaccāśu śoṣaghnaṃ tadvadvāsāvarīghṛtam",
         "iast_ru": "сва̄дускандхам̣ трикат̣укам̣ калкитам̣ девада̄ру ча пачеттачча̄ш́у ш́ош̣агхнам̣ тадвадва̄са̄варӣгхр̣там",
-        "text": "свадускандху, трикату, растёртые, вместе с девадару, — следует сварить; это быстро устраняет истощение от чахотки; подобным же образом — топлёное масло васа-вари;"
+        "text": "свадускандху, трикату, растёртые, вместе с девадару, — следует сварить; это быстро устраняет истощение от чахотки; подобным же образом — топлёное масло васа-вари;",
+        "text_en": "svadu-skandha, trikatu, ground, together with devadaru, should be cooked; this quickly relieves the emaciation of consumption; likewise Vasa-vari ghrita;"
       },
       {
         "type": "verse",
@@ -37163,7 +37621,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्विपञ्चमूलवरणयवबिल्वपुनर्नवाः करञ्जबोलस्थविरकुलस्थबदराग्निकाः",
         "iast": "dvipañcamūlavaraṇayavabilvapunarnavāḥ karañjabolasthavirakulasthabadarāgnikāḥ",
         "iast_ru": "двипан̃чамӯлаваран̣айавабилвапунарнава̄х̣ каран̃джаболастхавиракуластхабадара̄гника̄х̣",
-        "text": "два вида панчамулы, варану, ячмень, билву, пунарнаву; каранджу, бол, стхавиру, конский боб, бадару, читрак,"
+        "text": "два вида панчамулы, варану, ячмень, билву, пунарнаву; каранджу, бол, стхавиру, конский боб, бадару, читрак,",
+        "text_en": "the two kinds of panchamula, varana, barley, bilva, punarnava; karanja, bola, sthavira, horse gram, badara, chitraka,"
       },
       {
         "type": "verse",
@@ -37171,7 +37630,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गर्भं दत्वा स्नुहीक्षीरं शुकाख्याचव्यसैन्धवम् हरीतकीं च तच्छोषशोफमेहोदरापहम्",
         "iast": "garbhaṃ datvā snuhīkṣīraṃ śukākhyācavyasaindhavam harītakīṃ ca tacchoṣaśophamehodarāpaham",
         "iast_ru": "гарбхам̣ датва̄ снухӣкш̣ӣрам̣ ш́ука̄кхйа̄чавйасаиндхавам харӣтакӣм̣ ча таччхош̣аш́опхамеходара̄пахам",
-        "text": "добавив внутрь молочный сок снухи, шукакхью, чавью, каменную соль и харитаки, — это устраняет истощение, отёк, мехи и водянку живота;"
+        "text": "добавив внутрь молочный сок снухи, шукакхью, чавью, каменную соль и харитаки, — это устраняет истощение, отёк, мехи и водянку живота;",
+        "text_en": "adding within the milky sap of snuhi, shukakhya, chavya, rock salt and haritaki: this relieves emaciation, oedema, mehas and ascites;"
       },
       {
         "type": "verse",
@@ -37179,7 +37639,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवाग्वा वा पिबेन्मात्रां लिह्याद्वा मधुनान्विताम् सिद्धानां सर्पिषामेषां दद्यादन्नेन वा सह",
         "iast": "yavāgvā vā pibenmātrāṃ lihyādvā madhunānvitām siddhānāṃ sarpiṣāmeṣāṃ dadyādannena vā saha",
         "iast_ru": "йава̄гва̄ ва̄ пибенма̄тра̄м̣ лихйа̄два̄ мадхуна̄нвита̄м сиддха̄на̄м̣ сарпиш̣а̄меш̣а̄м̣ дадйа̄даннена ва̄ саха",
-        "text": "следует пить дозу этих топлёных масел с ячменным отваром, или принять слизыванием, вместе с мёдом; эти приготовленные топлёные масла следует давать также вместе с пищей."
+        "text": "следует пить дозу этих топлёных масел с ячменным отваром, или принять слизыванием, вместе с мёдом; эти приготовленные топлёные масла следует давать также вместе с пищей.",
+        "text_en": "a dose of these ghees should be drunk with barley decoction, or taken by licking, together with honey; these prepared ghees should also be given together with food."
       },
       {
         "type": "verse",
@@ -37187,7 +37648,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एलाजमोदत्रिफलासौराष्ट्रीव्योषचित्रकान् सारानरिष्टगायत्रीसालबीजकसम्भवान्",
         "iast": "elājamodatriphalāsaurāṣṭrīvyoṣacitrakān sārānariṣṭagāyatrīsālabījakasambhavān",
         "iast_ru": "ела̄джамодатрипхала̄саура̄ш̣т̣рӣвйош̣ачитрака̄н са̄ра̄нариш̣т̣ага̄йатрӣса̄лабӣджакасамбхава̄н",
-        "text": "Эла, аджамода, трифала, саураштри, вьоша, читрак; сердцевины деревьев аришта, гаятри, сала и биджака,"
+        "text": "Эла, аджамода, трифала, саураштри, вьоша, читрак; сердцевины деревьев аришта, гаятри, сала и биджака,",
+        "text_en": "Ela, ajamoda, triphala, saurashtri, vyosha, chitraka; the heartwood of the trees arishta, gayatri, sala and bijaka,"
       },
       {
         "type": "verse",
@@ -37195,7 +37657,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "भल्लातकं विडङ्गं च पृथगष्टपलोन्मितम् सलिले षोडशगुणे षोडशांशस्थितं पचेत्",
         "iast": "bhallātakaṃ viḍaṅgaṃ ca pṛthagaṣṭapalonmitam salile ṣoḍaśaguṇe ṣoḍaśāṃśasthitaṃ pacet",
         "iast_ru": "бхалла̄такам̣ вид̣ан̇гам̣ ча пр̣тхагаш̣т̣апалонмитам салиле ш̣од̣аш́агун̣е ш̣од̣аш́а̄м̣ш́астхитам̣ пачет",
-        "text": "бхаллатака и виданга, по восемь пал каждого, — следует сварить в шестнадцатикратном количестве воды до остатка в одну шестнадцатую;"
+        "text": "бхаллатака и виданга, по восемь пал каждого, — следует сварить в шестнадцатикратном количестве воды до остатка в одну шестнадцатую;",
+        "text_en": "bhallataka and vidanga, eight palas of each, should be boiled in sixteen times the quantity of water until one sixteenth remains;"
       },
       {
         "type": "verse",
@@ -37203,7 +37666,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पुनस्तेन घृतप्रस्थं सिद्धे चास्मिन् पलानि षट् तवक्षीर्याः क्षिपेत्त्रिंशत् सिताया द्विगुणं मधु",
         "iast": "punastena ghṛtaprasthaṃ siddhe cāsmin palāni ṣaṭ tavakṣīryāḥ kṣipettriṃśat sitāyā dviguṇaṃ madhu",
         "iast_ru": "пунастена гхр̣тапрастхам̣ сиддхе ча̄смин пала̄ни ш̣ат̣ тавакш̣ӣрйа̄х̣ кш̣ипеттрим̣ш́ат сита̄йа̄ двигун̣ам̣ мадху",
-        "text": "на этом отваре следует снова сварить прастху топлёного масла; когда оно сварится, следует добавить шесть пал тавакшири, тридцать пал сахара и двойное количество мёда,"
+        "text": "на этом отваре следует снова сварить прастху топлёного масла; когда оно сварится, следует добавить шесть пал тавакшири, тридцать пал сахара и двойное количество мёда,",
+        "text_en": "in this decoction a prastha of ghee should be cooked again; when it has been cooked, six palas of tavakshiri, thirty palas of sugar and double the quantity of honey should be added,"
       },
       {
         "type": "verse",
@@ -37211,7 +37675,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "घृतात्त्रिजातात्त्रिपलं ततो लीढं खजाहतम् पयोनुपानं तत् प्राह्णे रसायनमयन्त्रणम्",
         "iast": "ghṛtāttrijātāttripalaṃ tato līḍhaṃ khajāhatam payonupānaṃ tat prāhṇe rasāyanamayantraṇam",
         "iast_ru": "гхр̣та̄ттриджа̄та̄ттрипалам̣ тато лӣд̣хам̣ кхаджа̄хатам пайонупа̄нам̣ тат пра̄хн̣е раса̄йанамайантран̣ам",
-        "text": "три пала триджата от количества топлёного масла; затем, взбитое мутовкой, следует принять слизыванием утром, запивая молоком, — эта расаяна не требует ограничений;"
+        "text": "три пала триджата от количества топлёного масла; затем, взбитое мутовкой, следует принять слизыванием утром, запивая молоком, — эта расаяна не требует ограничений;",
+        "text_en": "three palas of trijata per quantity of ghee; then, whipped with a churning stick, it should be taken by licking in the morning, washing it down with milk; this rasayana requires no restrictions;"
       },
       {
         "type": "verse",
@@ -37219,7 +37684,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मेध्यं चक्षुष्यमायुष्यं दीपनं हन्ति चाचिरात् मेहगुल्मक्षयव्याधिपाण्डुरोगभगन्दरान् ये च सर्पिर्गुडाः प्रोक्ताः क्षते योज्याः क्षये ऽपि ते",
         "iast": "medhyaṃ cakṣuṣyamāyuṣyaṃ dīpanaṃ hanti cācirāt mehagulmakṣayavyādhipāṇḍurogabhagandarān ye ca sarpirguḍāḥ proktāḥ kṣate yojyāḥ kṣaye 'pi te",
         "iast_ru": "медхйам̣ чакш̣уш̣йама̄йуш̣йам̣ дӣпанам̣ ханти ча̄чира̄т мехагулмакш̣айавйа̄дхипа̄н̣д̣урогабхагандара̄н йе ча сарпиргуд̣а̄х̣ прокта̄х̣ кш̣ате йоджйа̄х̣ кш̣айе 'пи те",
-        "text": "улучшает разум, зрение, продлевает жизнь, разжигает огонь и быстро устраняет меху, гульму, истощение, малокровие и свищ прямой кишки; те же топлёные масла и шарики, что были упомянуты при травме, следует применять и при истощении."
+        "text": "улучшает разум, зрение, продлевает жизнь, разжигает огонь и быстро устраняет меху, гульму, истощение, малокровие и свищ прямой кишки; те же топлёные масла и шарики, что были упомянуты при травме, следует применять и при истощении.",
+        "text_en": "it improves intellect and vision, prolongs life, kindles the fire and quickly relieves meha, gulma, emaciation, anaemia and fistula-in-ano; the same ghees and balls that were mentioned under injury should be applied also in emaciation."
       },
       {
         "type": "verse",
@@ -37227,7 +37693,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "खर्जूरपिप्पलीद्राक्षापथ्याशृङ्गीदुरालभाः त्रिफलापिप्पलीमुस्ताशृङ्गाटगुडशर्कराः",
         "iast": "kharjūrapippalīdrākṣāpathyāśṛṅgīdurālabhāḥ triphalāpippalīmustāśṛṅgāṭaguḍaśarkarāḥ",
         "iast_ru": "кхарджӯрапиппалӣдра̄кш̣а̄патхйа̄ш́р̣н̇гӣдура̄лабха̄х̣ трипхала̄пиппалӣмуста̄ш́р̣н̇га̄т̣агуд̣аш́аркара̄х̣",
-        "text": "Финики, пиппали, изюм, харитаки, каркатасринга, дуралабха; трифала, пиппали, муста, шрингатака, патока и сахар;"
+        "text": "Финики, пиппали, изюм, харитаки, каркатасринга, дуралабха; трифала, пиппали, муста, шрингатака, патока и сахар;",
+        "text_en": "Dates, pippali, raisins, haritaki, karkatasringi, duralabha; triphala, pippali, musta, shringataka, jaggery and sugar;"
       },
       {
         "type": "verse",
@@ -37235,7 +37702,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वीराशठीपुष्कराख्यासुरसाशर्करागुडाः नागरं चित्रको लाजाः पिप्पल्यामलकं गुडः",
         "iast": "vīrāśaṭhīpuṣkarākhyāsurasāśarkarāguḍāḥ nāgaraṃ citrako lājāḥ pippalyāmalakaṃ guḍaḥ",
         "iast_ru": "вӣра̄ш́ат̣хӣпуш̣кара̄кхйа̄сураса̄ш́аркара̄гуд̣а̄х̣ на̄гарам̣ читрако ла̄джа̄х̣ пиппалйа̄малакам̣ гуд̣ах̣",
-        "text": "вира, шатхи, паушкара, сураса, сахар и патока; сухой имбирь, читрак, поджаренный рис, пиппали, амалаки и патока;"
+        "text": "вира, шатхи, паушкара, сураса, сахар и патока; сухой имбирь, читрак, поджаренный рис, пиппали, амалаки и патока;",
+        "text_en": "vira, shathi, pushkara, surasa, sugar and jaggery; dry ginger, chitraka, parched rice, pippali, amalaki and jaggery;"
       },
       {
         "type": "verse",
@@ -37243,7 +37711,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विडङ्गसारश्चविका त्र्यूषणं च विचूर्णितम् अर्धश्लोकैः स्मृता लेहाः पञ्चैते मधुसर्पिषा स्वर्याः कासक्षयश्वासपार्श्वरुक्कफनाशनः",
         "iast": "viḍaṅgasāraścavikā tryūṣaṇaṃ ca vicūrṇitam ardhaślokaiḥ smṛtā lehāḥ pañcaite madhusarpiṣā svaryāḥ kāsakṣayaśvāsapārśvarukkaphanāśanaḥ",
         "iast_ru": "вид̣ан̇гаса̄раш́чавика̄ трйӯш̣ан̣ам̣ ча вичӯрн̣итам ардхаш́локаих̣ смр̣та̄ леха̄х̣ пан̃чаите мадхусарпиш̣а̄ сварйа̄х̣ ка̄сакш̣айаш́ва̄сапа̄рш́варуккапхана̄ш́анах̣",
-        "text": "сердцевина видангов, чавика, трьюшана, растёртые в порошок, — этими полустихами описаны пять лехий, вместе с мёдом и топлёным маслом, полезных для голоса, устраняющих кашель, истощение, одышку, боль в боках и Капху."
+        "text": "сердцевина видангов, чавика, трьюшана, растёртые в порошок, — этими полустихами описаны пять лехий, вместе с мёдом и топлёным маслом, полезных для голоса, устраняющих кашель, истощение, одышку, боль в боках и Капху.",
+        "text_en": "the pith of vidangas, chavika, trayushana, ground to a powder: these half-verses describe five lehyas, together with honey and ghee, beneficial for the voice, relieving cough, emaciation, dyspnoea, pain in the sides and Kapha."
       },
       {
         "type": "verse",
@@ -37251,7 +37720,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्वगेलापिप्पलीक्षीरीशर्करा द्विगुणाः क्रमात् चूर्णिता भक्षयेल्लिह्यात् पूर्ववद्वा तथागुणाः",
         "iast": "tvagelāpippalīkṣīrīśarkarā dviguṇāḥ kramāt cūrṇitā bhakṣayellihyāt pūrvavadvā tathāguṇāḥ",
         "iast_ru": "твагела̄пиппалӣкш̣ӣрӣш́аркара̄ двигун̣а̄х̣ крама̄т чӯрн̣ита̄ бхакш̣айеллихйа̄т пӯрвавадва̄ татха̄гун̣а̄х̣",
-        "text": "Кора, эла, пиппали, кшири, сахар — в возрастающей вдвое пропорции последовательно, растёртые в порошок, следует есть или принять слизыванием, как прежде, — обладают теми же свойствами;"
+        "text": "Кора, эла, пиппали, кшири, сахар — в возрастающей вдвое пропорции последовательно, растёртые в порошок, следует есть или принять слизыванием, как прежде, — обладают теми же свойствами;",
+        "text_en": "Bark, ela, pippali, kshiri, sugar: in successively doubling proportion, ground to a powder, should be eaten or taken by licking, as before; they have the same properties;"
       },
       {
         "type": "verse",
@@ -37259,7 +37729,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तिलमाषाश्वगन्धा वा माक्षिकाजघृतदुताः पूर्वोक्तेष्वेव रोगेषु वातप्रायेषु पूजिताः",
         "iast": "tilamāṣāśvagandhā vā mākṣikājaghṛtadutāḥ pūrvokteṣveva rogeṣu vātaprāyeṣu pūjitāḥ",
         "iast_ru": "тилама̄ш̣а̄ш́вагандха̄ ва̄ ма̄кш̣ика̄джагхр̣тадута̄х̣ пӯрвоктеш̣вева рогеш̣у ва̄тапра̄йеш̣у пӯджита̄х̣",
-        "text": "или кунжут, машу, ашвагандху, вместе с мёдом, козьим топлёным маслом — в тех же прежде упомянутых болезнях, преимущественно от Ваты, рекомендуется."
+        "text": "или кунжут, машу, ашвагандху, вместе с мёдом, козьим топлёным маслом — в тех же прежде упомянутых болезнях, преимущественно от Ваты, рекомендуется.",
+        "text_en": "or sesame, black gram, ashwagandha, together with honey and goat's ghee: in the same diseases mentioned earlier, predominantly from Vata, it is recommended."
       },
       {
         "type": "verse",
@@ -37267,7 +37738,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्वरसादचिकित्सितम् विशेषात् स्वरसादे ऽस्य नस्यधूमादि योजयेत् तत्रापि वातजे कोष्णं पिबेदौत्तरभक्तिकम्",
         "iast": "svarasādacikitsitam viśeṣāt svarasāde 'sya nasyadhūmādi yojayet tatrāpi vātaje koṣṇaṃ pibedauttarabhaktikam",
         "iast_ru": "свараса̄дачикитситам виш́еш̣а̄т свараса̄де 'сйа насйадхӯма̄ди йоджайет татра̄пи ва̄тадже кош̣н̣ам̣ пибедауттарабхактикам",
-        "text": "Раздел «Лечение охриплости голоса»: в особенности при охриплости голоса следует применять назальные средства, дымы и подобное; при охриплости от Ваты следует пить тёплое средство после еды;"
+        "text": "Раздел «Лечение охриплости голоса»: в особенности при охриплости голоса следует применять назальные средства, дымы и подобное; при охриплости от Ваты следует пить тёплое средство после еды;",
+        "text_en": "Section \"Treatment of Hoarseness of Voice\": especially in hoarseness of voice, nasal remedies, smokes and the like should be applied; in hoarseness from Vata, a warm remedy should be drunk after meals;"
       },
       {
         "type": "verse",
@@ -37275,7 +37747,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कासमर्दकवार्ताकीमार्कवस्वरसैर्घृतम् साधितं कासजित् स्वर्यं सिद्धमार्तगलेन वा",
         "iast": "kāsamardakavārtākīmārkavasvarasairghṛtam sādhitaṃ kāsajit svaryaṃ siddhamārtagalena vā",
         "iast_ru": "ка̄самардакава̄рта̄кӣма̄ркавасварасаиргхр̣там са̄дхитам̣ ка̄саджит сварйам̣ сиддхама̄ртагалена ва̄",
-        "text": "топлёное масло, приготовленное с соком касамардаки, баклажана и маркавы, устраняет кашель и полезно для голоса; или приготовленное с артагалой;"
+        "text": "топлёное масло, приготовленное с соком касамардаки, баклажана и маркавы, устраняет кашель и полезно для голоса; или приготовленное с артагалой;",
+        "text_en": "ghee prepared with the juice of kasamardaka, aubergine and markava relieves cough and is beneficial for the voice; or that prepared with artagala;"
       },
       {
         "type": "verse",
@@ -37283,7 +37756,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बदरीपत्रकल्कं वा घृतभृष्टं ससैन्धवम् तैलं वा मधुकद्राक्षापिप्पलीकृमिनुत्फलैः",
         "iast": "badarīpatrakalkaṃ vā ghṛtabhṛṣṭaṃ sasaindhavam tailaṃ vā madhukadrākṣāpippalīkṛminutphalaiḥ",
         "iast_ru": "бадарӣпатракалкам̣ ва̄ гхр̣табхр̣ш̣т̣ам̣ сасаиндхавам таилам̣ ва̄ мадхукадра̄кш̣а̄пиппалӣкр̣минутпхалаих̣",
-        "text": "или пасту из листьев бадари, обжаренную в топлёном масле, вместе с каменной солью; или масло с солодкой, изюмом, пиппали и кримигхна-плодами,"
+        "text": "или пасту из листьев бадари, обжаренную в топлёном масле, вместе с каменной солью; или масло с солодкой, изюмом, пиппали и кримигхна-плодами,",
+        "text_en": "or a paste of badari leaves, fried in ghee, together with rock salt; or oil with licorice, raisins, pippali and krimighna fruits,"
       },
       {
         "type": "verse",
@@ -37291,7 +37765,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हंसपाद्याश्च मूलेन पक्वं नस्तो निषेचयेत् सुखोदकानुपानं च ससर्पिष्कं गुडौदनम् अश्नीयात् पायसं चैवं स्निग्धं स्वेदं च योजयेत्",
         "iast": "haṃsapādyāśca mūlena pakvaṃ nasto niṣecayet sukhodakānupānaṃ ca sasarpiṣkaṃ guḍaudanam aśnīyāt pāyasaṃ caivaṃ snigdhaṃ svedaṃ ca yojayet",
         "iast_ru": "хам̣сапа̄дйа̄ш́ча мӯлена паквам̣ насто ниш̣ечайет сукходака̄нупа̄нам̣ ча сасарпиш̣кам̣ гуд̣ауданам аш́нӣйа̄т па̄йасам̣ чаивам̣ снигдхам̣ сведам̣ ча йоджайет",
-        "text": "сваренное с корнем хамсапади, следует ввести как назальное средство, орошая; в качестве питья — приятную воду; следует есть варёный рис с патокой, вместе с топлёным маслом, а также молочную кашу; таким же образом следует применять маслянистые потогонные процедуры;"
+        "text": "сваренное с корнем хамсапади, следует ввести как назальное средство, орошая; в качестве питья — приятную воду; следует есть варёный рис с патокой, вместе с топлёным маслом, а также молочную кашу; таким же образом следует применять маслянистые потогонные процедуры;",
+        "text_en": "cooked with the root of hamsapadi, should be introduced as a nasal remedy, by sprinkling; as a drink, pleasant water; one should eat boiled rice with jaggery, together with ghee, and also milk gruel; in the same way unctuous sudation should be applied;"
       },
       {
         "type": "verse",
@@ -37299,7 +37774,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तोद्भवे पिबेत् सर्पिः शृतशीतपयोनुपः क्षीरिवृक्षाङ्कुरक्वाथकल्कसिद्धं समाक्षिकम्",
         "iast": "pittodbhave pibet sarpiḥ śṛtaśītapayonupaḥ kṣīrivṛkṣāṅkurakvāthakalkasiddhaṃ samākṣikam",
         "iast_ru": "питтодбхаве пибет сарпих̣ ш́р̣таш́ӣтапайонупах̣ кш̣ӣривр̣кш̣а̄н̇кураква̄тхакалкасиддхам̣ сама̄кш̣икам",
-        "text": "при охриплости, возникшей от Питты, следует пить топлёное масло, приготовленное с отваром и пастой ростков млечных деревьев, вместе с мёдом, запивая сваренным и охлаждённым молоком;"
+        "text": "при охриплости, возникшей от Питты, следует пить топлёное масло, приготовленное с отваром и пастой ростков млечных деревьев, вместе с мёдом, запивая сваренным и охлаждённым молоком;",
+        "text_en": "in hoarseness arising from Pitta, one should drink ghee prepared with a decoction and paste of sprouts of milky trees, together with honey, washing it down with boiled and cooled milk;"
       },
       {
         "type": "verse",
@@ -37307,7 +37783,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अश्नीयाच्च ससर्पिष्कं यष्टीमधुकपायसम् बलाविदारिगन्धाभ्यां विदार्या मधुकेन च",
         "iast": "aśnīyācca sasarpiṣkaṃ yaṣṭīmadhukapāyasam balāvidārigandhābhyāṃ vidāryā madhukena ca",
         "iast_ru": "аш́нӣйа̄чча сасарпиш̣кам̣ йаш̣т̣ӣмадхукапа̄йасам бала̄вида̄ригандха̄бхйа̄м̣ вида̄рйа̄ мадхукена ча",
-        "text": "следует есть молочную кашу с солодкой, вместе с топлёным маслом; топлёное масло, приготовленное с балой, видаригандхой, видари и солодкой,"
+        "text": "следует есть молочную кашу с солодкой, вместе с топлёным маслом; топлёное масло, приготовленное с балой, видаригандхой, видари и солодкой,",
+        "text_en": "one should eat milk gruel with licorice, together with ghee; ghee prepared with bala, vidarigandha, vidari and licorice,"
       },
       {
         "type": "verse",
@@ -37315,7 +37792,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सिद्धं सलवणं सर्पिर्नस्यं स्वर्यमनुत्तमम् प्रपौण्डरीकं मधुकं पिप्पली बृहती बला",
         "iast": "siddhaṃ salavaṇaṃ sarpirnasyaṃ svaryamanuttamam prapauṇḍarīkaṃ madhukaṃ pippalī bṛhatī balā",
         "iast_ru": "сиддхам̣ салаван̣ам̣ сарпирнасйам̣ сварйамануттамам прапаун̣д̣арӣкам̣ мадхукам̣ пиппалӣ бр̣хатӣ бала̄",
-        "text": "вместе с солью, — превосходное назальное средство для голоса; прапаундарику, солодку, пиппали, брихати, балу,"
+        "text": "вместе с солью, — превосходное назальное средство для голоса; прапаундарику, солодку, пиппали, брихати, балу,",
+        "text_en": "together with salt, is an excellent nasal remedy for the voice; prapaundarika, licorice, pippali, brihati, balu,"
       },
       {
         "type": "verse",
@@ -37323,7 +37801,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "साधितं क्षीरसर्पिश्च तत् स्वव्र्यं नावनं परम् लिह्यान्मधुरकाणां च चूर्णं मधुघृतान्वितम्",
         "iast": "sādhitaṃ kṣīrasarpiśca tat svavryaṃ nāvanaṃ param lihyānmadhurakāṇāṃ ca cūrṇaṃ madhughṛtānvitam",
         "iast_ru": "са̄дхитам̣ кш̣ӣрасарпиш́ча тат сваврйам̣ на̄ванам̣ парам лихйа̄нмадхурака̄н̣а̄м̣ ча чӯрн̣ам̣ мадхугхр̣та̄нвитам",
-        "text": "сваренные с молоком и топлёным маслом, — это превосходное назальное средство для голоса. Следует принять слизыванием порошок сладких трав, вместе с мёдом и топлёным маслом;"
+        "text": "сваренные с молоком и топлёным маслом, — это превосходное назальное средство для голоса. Следует принять слизыванием порошок сладких трав, вместе с мёдом и топлёным маслом;",
+        "text_en": "cooked with milk and ghee: this is an excellent nasal remedy for the voice. A powder of sweet herbs should be taken by licking, together with honey and ghee;"
       },
       {
         "type": "verse",
@@ -37331,7 +37810,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वरीं बलां पयस्यां वा काकोलीमधुके तथा एवमस्यानुपशमे ललाटे व्यधयेत् सिराम्",
         "iast": "varīṃ balāṃ payasyāṃ vā kākolīmadhuke tathā evamasyānupaśame lalāṭe vyadhayet sirām",
         "iast_ru": "варӣм̣ бала̄м̣ пайасйа̄м̣ ва̄ ка̄колӣмадхуке татха̄ евамасйа̄нупаш́аме лала̄т̣е вйадхайет сира̄м",
-        "text": "или вари, балу, паясью, каколи и солодку. Если это не помогает, следует вскрыть сосуд на лбу;"
+        "text": "или вари, балу, паясью, каколи и солодку. Если это не помогает, следует вскрыть сосуд на лбу;",
+        "text_en": "or vari, balu, payasya, kakoli and licorice. If this does not help, a vein on the forehead should be opened;"
       },
       {
         "type": "verse",
@@ -37339,7 +37819,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिबेत् कटूनि मूत्रेण कफजे रूक्षभोजनः कट्कफलामलकव्योषं लिह्यात्तैलमधुप्लुतम्",
         "iast": "pibet kaṭūni mūtreṇa kaphaje rūkṣabhojanaḥ kaṭkaphalāmalakavyoṣaṃ lihyāttailamadhuplutam",
         "iast_ru": "пибет кат̣ӯни мӯтрен̣а капхадже рӯкш̣абходжанах̣ кат̣капхала̄малакавйош̣ам̣ лихйа̄ттаиламадхуплутам",
-        "text": "при охриплости от Капхи следует пить острые средства с мочой, питаясь сухой пищей; следует принять слизыванием, вместе с растительным маслом и мёдом, состав из катки, амалаки и вьоши;"
+        "text": "при охриплости от Капхи следует пить острые средства с мочой, питаясь сухой пищей; следует принять слизыванием, вместе с растительным маслом и мёдом, состав из катки, амалаки и вьоши;",
+        "text_en": "in hoarseness from Kapha, pungent remedies should be drunk with urine, subsisting on dry food; a compound of katuka, amalaki and vyosha should be taken by licking, together with vegetable oil and honey;"
       },
       {
         "type": "verse",
@@ -37347,7 +37828,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्योषक्षाराग्निचविकाभार्ङ्गीपथ्यामधूनि वा यवैर्यवागूं यमके कणाधात्रीकृतां पिबेत् भुत्क्वाद्यात्पिप्पलीं शुण्ठीं तीक्ष्णं वा वमनं भजेत्",
         "iast": "vyoṣakṣārāgnicavikābhārṅgīpathyāmadhūni vā yavairyavāgūṃ yamake kaṇādhātrīkṛtāṃ pibet bhutkvādyātpippalīṃ śuṇṭhīṃ tīkṣṇaṃ vā vamanaṃ bhajet",
         "iast_ru": "вйош̣акш̣а̄ра̄гничавика̄бха̄рн̇гӣпатхйа̄мадхӯни ва̄ йаваирйава̄гӯм̣ йамаке кан̣а̄дха̄трӣкр̣та̄м̣ пибет бхутква̄дйа̄тпиппалӣм̣ ш́ун̣т̣хӣм̣ тӣкш̣н̣ам̣ ва̄ ваманам̣ бхаджет",
-        "text": "или вьошу, щёлочь, читрак, чавику, бхаргхи, харитаки и мёд; при «ямаке» (двойной охриплости) следует пить ячменный отвар, приготовленный с пиппали и амалаки; после еды следует принимать пиппали и сухой имбирь, или же прибегнуть к сильному рвотному."
+        "text": "или вьошу, щёлочь, читрак, чавику, бхаргхи, харитаки и мёд; при «ямаке» (двойной охриплости) следует пить ячменный отвар, приготовленный с пиппали и амалаки; после еды следует принимать пиппали и сухой имбирь, или же прибегнуть к сильному рвотному.",
+        "text_en": "or vyosha, alkali, chitraka, chavika, bharngi, haritaki and honey; in \"yamaka\" (double hoarseness) one should drink a barley decoction prepared with pippali and amalaki; after meals one should take pippali and dry ginger, or else resort to a strong emetic."
       },
       {
         "type": "verse",
@@ -37355,7 +37837,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शर्कराक्षौद्रमिश्राणि शृतानि मधुरैः सह पिबेत् पयांसि यस्योच्चैर्वदतो विहतः स्वरः",
         "iast": "śarkarākṣaudramiśrāṇi śṛtāni madhuraiḥ saha pibet payāṃsi yasyoccairvadato vihataḥ svaraḥ",
         "iast_ru": "ш́аркара̄кш̣аудрамиш́ра̄н̣и ш́р̣та̄ни мадхураих̣ саха пибет пайа̄м̣си йасйоччаирвадато вихатах̣ сварах̣",
-        "text": "Тому, у кого голос нарушен от громкой речи, следует пить молоко, смешанное с сахаром и мёдом, сваренное со сладкими травами."
+        "text": "Тому, у кого голос нарушен от громкой речи, следует пить молоко, смешанное с сахаром и мёдом, сваренное со сладкими травами.",
+        "text_en": "One whose voice is impaired from loud speaking should drink milk mixed with sugar and honey, cooked with sweet herbs."
       },
       {
         "type": "verse",
@@ -37363,7 +37846,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अरोचकचिकित्सितम् विचित्रमन्नमरुचौ हितैरुपहितं हितम् बहिरन्तर्मृजां चित्तनिर्वाणं हृद्यमौषधम्",
         "iast": "arocakacikitsitam vicitramannamarucau hitairupahitaṃ hitam bahirantarmṛjāṃ cittanirvāṇaṃ hṛdyamauṣadham",
         "iast_ru": "арочакачикитситам вичитраманнамаручау хитаирупахитам̣ хитам бахирантармр̣джа̄м̣ читтанирва̄н̣ам̣ хр̣дйамауш̣адхам",
-        "text": "Раздел «Лечение отсутствия аппетита»: при отсутствии аппетита полезна разнообразная пища, приготовленная с полезными добавками; внешнее и внутреннее очищение, успокоение ума, приятное для сердца лекарство;"
+        "text": "Раздел «Лечение отсутствия аппетита»: при отсутствии аппетита полезна разнообразная пища, приготовленная с полезными добавками; внешнее и внутреннее очищение, успокоение ума, приятное для сердца лекарство;",
+        "text_en": "Section \"Treatment of Loss of Appetite\": in loss of appetite, varied food prepared with wholesome additions is beneficial; external and internal cleansing, calming of the mind, and a medicine pleasing to the heart;"
       },
       {
         "type": "verse",
@@ -37371,7 +37855,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "द्वौ कालौ दन्तपवनं भक्षयेन्मुखधावनैः कषायैः क्षालयेदास्यं धूमं प्रायौगिकं पिबेत्",
         "iast": "dvau kālau dantapavanaṃ bhakṣayenmukhadhāvanaiḥ kaṣāyaiḥ kṣālayedāsyaṃ dhūmaṃ prāyaugikaṃ pibet",
         "iast_ru": "двау ка̄лау дантапаванам̣ бхакш̣айенмукхадха̄ванаих̣ каш̣а̄йаих̣ кш̣а̄лайеда̄сйам̣ дхӯмам̣ пра̄йаугикам̣ пибет",
-        "text": "дважды в день следует использовать зубочистку (дантапавана); полосканиями и отварами следует промывать рот; следует вдыхать обычный дым;"
+        "text": "дважды в день следует использовать зубочистку (дантапавана); полосканиями и отварами следует промывать рот; следует вдыхать обычный дым;",
+        "text_en": "twice a day a tooth-cleaning stick (dantapavana) should be used; the mouth should be rinsed with gargles and decoctions; ordinary smoke should be inhaled;"
       },
       {
         "type": "verse",
@@ -37379,7 +37864,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तालीसपत्रवटकाः सकर्पूरसितोपलाः शशाङ्ककिरणाख्याश्च भक्ष्या रुचिकराः परम्",
         "iast": "tālīsapatravaṭakāḥ sakarpūrasitopalāḥ śaśāṅkakiraṇākhyāśca bhakṣyā rucikarāḥ param",
         "iast_ru": "та̄лӣсапатрават̣ака̄х̣ сакарпӯраситопала̄х̣ ш́аш́а̄н̇какиран̣а̄кхйа̄ш́ча бхакш̣йа̄ ручикара̄х̣ парам",
-        "text": "пилюли из листа тализа, вместе с камфарой и кусковым сахаром, называемые «лучи луны», превосходно возбуждают аппетит;"
+        "text": "пилюли из листа тализа, вместе с камфарой и кусковым сахаром, называемые «лучи луны», превосходно возбуждают аппетит;",
+        "text_en": "pills of talisa leaf, together with camphor and rock sugar, called \"rays of the moon\", excellently stimulate the appetite;"
       },
       {
         "type": "verse",
@@ -37387,7 +37873,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "वातादरोचके तत्र पिबेच्चूर्णं प्रसन्नया हरेणुकृष्णाकृमिजिद्द्राक्षासैन्धवनागरात्",
         "iast": "vātādarocake tatra pibeccūrṇaṃ prasannayā hareṇukṛṣṇākṛmijiddrākṣāsaindhavanāgarāt",
         "iast_ru": "ва̄та̄дарочаке татра пибеччӯрн̣ам̣ прасаннайа̄ харен̣укр̣ш̣н̣а̄кр̣миджиддра̄кш̣а̄саиндхавана̄гара̄т",
-        "text": "при отсутствии аппетита от Ваты следует пить порошок из харену, пиппали, кримиджита (растения, устраняющего глистов), изюма, каменной соли и сухого имбиря, вместе с прасанной (осветлённым хмельным напитком);"
+        "text": "при отсутствии аппетита от Ваты следует пить порошок из харену, пиппали, кримиджита (растения, устраняющего глистов), изюма, каменной соли и сухого имбиря, вместе с прасанной (осветлённым хмельным напитком);",
+        "text_en": "in loss of appetite from Vata one should drink a powder of harenu, pippali, krimijit (a plant that destroys worms), raisins, rock salt and dry ginger, together with prasanna (clarified intoxicating drink);"
       },
       {
         "type": "verse",
@@ -37395,7 +37882,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एलाभार्ङ्गीयवक्षारहिङ्गुयुक्ताद् घृतेन वा छर्दयेद्वा वचाम्भोभिः पित्ताच्च गुडवारिभिः",
         "iast": "elābhārṅgīyavakṣārahiṅguyuktād ghṛtena vā chardayedvā vacāmbhobhiḥ pittācca guḍavāribhiḥ",
         "iast_ru": "ела̄бха̄рн̇гӣйавакш̣а̄рахин̇гуйукта̄д гхр̣тена ва̄ чхардайедва̄ вача̄мбхобхих̣ питта̄чча гуд̣ава̄рибхих̣",
-        "text": "этот же порошок вместе с эла, бхаргхи, ячменной щёлочью и хингу, вместе с топлёным маслом; или следует вызвать рвоту водой с вачей; при отсутствии аппетита от Питты — водой с патокой;"
+        "text": "этот же порошок вместе с эла, бхаргхи, ячменной щёлочью и хингу, вместе с топлёным маслом; или следует вызвать рвоту водой с вачей; при отсутствии аппетита от Питты — водой с патокой;",
+        "text_en": "this same powder together with ela, bharngi, barley alkali and asafoetida, together with ghee; or vomiting should be induced with water with vacha; in loss of appetite from Pitta, with water with jaggery;"
       },
       {
         "type": "verse",
@@ -37403,7 +37891,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिह्याद्वा शर्करासर्पिर्लवणोत्तममाक्षिकम् कफाद्वमेन्निम्बजलैर्दीप्यकारग्वधोदकम्",
         "iast": "lihyādvā śarkarāsarpirlavaṇottamamākṣikam kaphādvamennimbajalairdīpyakāragvadhodakam",
         "iast_ru": "лихйа̄два̄ ш́аркара̄сарпирлаван̣оттамама̄кш̣икам капха̄дваменнимбаджалаирдӣпйака̄рагвадходакам",
-        "text": "или следует принять слизыванием сахар, топлёное масло, соль и превосходный мёд; при отсутствии аппетита от Капхи следует вызвать рвоту водой с нимом, диптакой и арагвадхой;"
+        "text": "или следует принять слизыванием сахар, топлёное масло, соль и превосходный мёд; при отсутствии аппетита от Капхи следует вызвать рвоту водой с нимом, диптакой и арагвадхой;",
+        "text_en": "or one should take by licking sugar, ghee, salt and excellent honey; in loss of appetite from Kapha, vomiting should be induced with water with neem, dipyaka and aragvadha;"
       },
       {
         "type": "verse",
@@ -37411,7 +37900,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पानं समध्वरिष्टाश्च तीक्ष्णाः समधुमाधवाः पिबेच्चूर्णं च पूर्वोक्तं हरेण्वाद्युष्णवारिणा",
         "iast": "pānaṃ samadhvariṣṭāśca tīkṣṇāḥ samadhumādhavāḥ pibeccūrṇaṃ ca pūrvoktaṃ hareṇvādyuṣṇavāriṇā",
         "iast_ru": "па̄нам̣ самадхвариш̣т̣а̄ш́ча тӣкш̣н̣а̄х̣ самадхума̄дхава̄х̣ пибеччӯрн̣ам̣ ча пӯрвоктам̣ харен̣ва̄дйуш̣н̣ава̄рин̣а̄",
-        "text": "показаны питьё с мёдом и аришта, острые напитки вместе с мёдом и мадхавой; следует пить ранее упомянутый порошок с харену и подобным, с горячей водой;"
+        "text": "показаны питьё с мёдом и аришта, острые напитки вместе с мёдом и мадхавой; следует пить ранее упомянутый порошок с харену и подобным, с горячей водой;",
+        "text_en": "a drink with honey and arishta are indicated, pungent drinks together with honey and madhava; the powder mentioned earlier with harenu and the like should be drunk with hot water;"
       },
       {
         "type": "verse",
@@ -37419,7 +37909,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्रिकटुत्रिफलारात्रीयवक्षारं मधुप्लुतम् प्रातराहारकाले च युञ्जीत मुखधावनम्",
         "iast": "trikaṭutriphalārātrīyavakṣāraṃ madhuplutam prātarāhārakāle ca yuñjīta mukhadhāvanam",
         "iast_ru": "трикат̣утрипхала̄ра̄трӣйавакш̣а̄рам̣ мадхуплутам пра̄тара̄ха̄рака̄ле ча йун̃джӣта мукхадха̄ванам",
-        "text": "трикату, трифалу, куркуму, ячменную щёлочь, вместе с мёдом — следует применять утром, во время еды, а также для полоскания рта;"
+        "text": "трикату, трифалу, куркуму, ячменную щёлочь, вместе с мёдом — следует применять утром, во время еды, а также для полоскания рта;",
+        "text_en": "trikatu, triphala, turmeric and barley alkali, together with honey, should be applied in the morning, during meals, and also for rinsing the mouth;"
       },
       {
         "type": "verse",
@@ -37427,7 +37918,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बिडं सौवर्चलं कुष्ठमजाजी मरिचं सिता धात्र्येलापद्मकोशीरपिप्पलीचन्दनोत्पलम्",
         "iast": "biḍaṃ sauvarcalaṃ kuṣṭhamajājī maricaṃ sitā dhātryelāpadmakośīrapippalīcandanotpalam",
         "iast_ru": "бид̣ам̣ сауварчалам̣ куш̣т̣хамаджа̄джӣ маричам̣ сита̄ дха̄трйела̄падмакош́ӣрапиппалӣчанданотпалам",
-        "text": "биду, соувархалу, куштху, зиру, перец, сахар; амалаки, эла, падмаку, уширу, пиппали, сандал и лотос —"
+        "text": "биду, соувархалу, куштху, зиру, перец, сахар; амалаки, эла, падмаку, уширу, пиппали, сандал и лотос —",
+        "text_en": "bida, souvarchala, kushtha, cumin, pepper, sugar; amalaki, ela, padmaka, ushira, pippali, sandal and lotus,"
       },
       {
         "type": "verse",
@@ -37435,7 +37927,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लोध्रं तेजोवती पथ्या यवक्षारं कटुत्रयम् आर्द्रदाडिमनिर्यासः सजाजीसितशर्करः",
         "iast": "lodhraṃ tejovatī pathyā yavakṣāraṃ kaṭutrayam ārdradāḍimaniryāsaḥ sajājīsitaśarkaraḥ",
         "iast_ru": "лодхрам̣ теджоватӣ патхйа̄ йавакш̣а̄рам̣ кат̣утрайам а̄рдрада̄д̣иманирйа̄сах̣ саджа̄джӣситаш́аркарах̣",
-        "text": "лодхру, теджовати, харитаки, ячменную щёлочь, катутрая; сок свежего граната, вместе с зирой, сахаром и кусковым сахаром —"
+        "text": "лодхру, теджовати, харитаки, ячменную щёлочь, катутрая; сок свежего граната, вместе с зирой, сахаром и кусковым сахаром —",
+        "text_en": "lodhra, tejovati, haritaki, barley alkali, katutraya; the juice of fresh pomegranate, together with cumin, sugar and rock sugar,"
       },
       {
         "type": "verse",
@@ -37443,7 +37936,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सतैलमाक्षिका युक्ताश्चत्वारः कवलग्रहाः चतुरो ऽरोचकान् हन्युरेकदोषसमस्तजान्",
         "iast": "satailamākṣikā yuktāścatvāraḥ kavalagrahāḥ caturo 'rocakān hanyurekadoṣasamastajān",
         "iast_ru": "сатаилама̄кш̣ика̄ йукта̄ш́чатва̄рах̣ кавалаграха̄х̣ чатуро 'рочака̄н ханйурекадош̣асамастаджа̄н",
-        "text": "вместе с растительным маслом и мёдом — эти четыре полоскания устраняют четыре вида отсутствия аппетита, вызванного каждой дошей в отдельности и всеми вместе;"
+        "text": "вместе с растительным маслом и мёдом — эти четыре полоскания устраняют четыре вида отсутствия аппетита, вызванного каждой дошей в отдельности и всеми вместе;",
+        "text_en": "together with vegetable oil and honey: these four gargles relieve the four kinds of loss of appetite, caused by each dosha separately and by all together;"
       },
       {
         "type": "verse",
@@ -37451,7 +37945,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कारव्यजाजीमरिचद्राक्षवृक्षाम्लदाडिमम् सौवर्चलगुडक्षौद्रं सर्वारोचकनाशनम्",
         "iast": "kāravyajājīmaricadrākṣavṛkṣāmladāḍimam sauvarcalaguḍakṣaudraṃ sarvārocakanāśanam",
         "iast_ru": "ка̄равйаджа̄джӣмаричадра̄кш̣авр̣кш̣а̄млада̄д̣имам сауварчалагуд̣акш̣аудрам̣ сарва̄рочакана̄ш́анам",
-        "text": "каравья, зира, перец, изюм, вркшамла, гранат; соувархала, патока, мёд — этот состав устраняет все виды отсутствия аппетита;"
+        "text": "каравья, зира, перец, изюм, вркшамла, гранат; соувархала, патока, мёд — этот состав устраняет все виды отсутствия аппетита;",
+        "text_en": "karavya, cumin, pepper, raisins, vrikshamla, pomegranate; souvarchala, jaggery and honey: this compound relieves all kinds of loss of appetite;"
       },
       {
         "type": "verse",
@@ -37459,7 +37954,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एलात्वङ्नागकुसुमतीक्ष्णकृष्णामहौषधम् भागवृद्धं क्रमाच्चूर्णं निहन्ति समशर्करम्",
         "iast": "elātvaṅnāgakusumatīkṣṇakṛṣṇāmahauṣadham bhāgavṛddhaṃ kramāccūrṇaṃ nihanti samaśarkaram",
         "iast_ru": "ела̄тван̇на̄гакусуматӣкш̣н̣акр̣ш̣н̣а̄махауш̣адхам бха̄гавр̣ддхам̣ крама̄ччӯрн̣ам̣ ниханти самаш́аркарам",
-        "text": "эла, кора, нагакусума, тикшна, пиппали, сухой имбирь — взятые в возрастающих количествах, последовательно, растёртые в порошок, вместе с равным количеством сахара, устраняют,"
+        "text": "эла, кора, нагакусума, тикшна, пиппали, сухой имбирь — взятые в возрастающих количествах, последовательно, растёртые в порошок, вместе с равным количеством сахара, устраняют,",
+        "text_en": "ela, bark, nagakusuma, tikshna, pippali and dry ginger, taken in successively increasing quantities, ground to a powder, together with an equal quantity of sugar, relieve"
       },
       {
         "type": "verse",
@@ -37467,7 +37963,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रसेकारुचिहृत्पार्श्वकासश्वासगलामयान् यवानीतिन्तिणीकाम्लवेतसौषधदाडिमम्",
         "iast": "prasekārucihṛtpārśvakāsaśvāsagalāmayān yavānītintiṇīkāmlavetasauṣadhadāḍimam",
         "iast_ru": "прасека̄ручихр̣тпа̄рш́вака̄саш́ва̄сагала̄майа̄н йава̄нӣтинтин̣ӣка̄млаветасауш̣адхада̄д̣имам",
-        "text": "слюнотечение, отсутствие аппетита, боль в сердце и боках, кашель, одышку и болезни горла; состав из аджвана, тинтини, амлаветаса, сухого имбиря и граната,"
+        "text": "слюнотечение, отсутствие аппетита, боль в сердце и боках, кашель, одышку и болезни горла; состав из аджвана, тинтини, амлаветаса, сухого имбиря и граната,",
+        "text_en": "salivation, loss of appetite, pain in the heart and sides, cough, dyspnoea and diseases of the throat; a compound of ajwain, tintini, amlavetasa, dry ginger and pomegranate,"
       },
       {
         "type": "verse",
@@ -37475,7 +37972,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृत्वा कोलं च कर्षांशं सितायाश्च चतुष्पलम् धान्यसौवर्चलाजाजीवराङ्गं चार्धकार्षिकम्",
         "iast": "kṛtvā kolaṃ ca karṣāṃśaṃ sitāyāśca catuṣpalam dhānyasauvarcalājājīvarāṅgaṃ cārdhakārṣikam",
         "iast_ru": "кр̣тва̄ колам̣ ча карш̣а̄м̣ш́ам̣ сита̄йа̄ш́ча чатуш̣палам дха̄нйасауварчала̄джа̄джӣвара̄н̇гам̣ ча̄рдхака̄рш̣икам",
-        "text": "а также кола, по одной карше каждого, четыре пала сахара; кориандр, соувархалу, зиру, варангу — по половине карши каждого,"
+        "text": "а также кола, по одной карше каждого, четыре пала сахара; кориандр, соувархалу, зиру, варангу — по половине карши каждого,",
+        "text_en": "as well as kola, one karsha of each, four palas of sugar; coriander, souvarchala, cumin and varanga, half a karsha of each,"
       },
       {
         "type": "verse",
@@ -37483,7 +37981,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पिप्पलीनां शतं चैकं द्वे शते मरिचस्य च चूर्णमेतत् परं रुच्यं हृद्यं ग्राहि हिनस्ति च विबन्धकासहृत्पार्श्वप्लीहार्शोग्रहणीगदान्",
         "iast": "pippalīnāṃ śataṃ caikaṃ dve śate maricasya ca cūrṇametat paraṃ rucyaṃ hṛdyaṃ grāhi hinasti ca vibandhakāsahṛtpārśvaplīhārśograhaṇīgadān",
         "iast_ru": "пиппалӣна̄м̣ ш́атам̣ чаикам̣ две ш́ате маричасйа ча чӯрн̣аметат парам̣ ручйам̣ хр̣дйам̣ гра̄хи хинасти ча вибандхака̄сахр̣тпа̄рш́ваплӣха̄рш́ограхан̣ӣгада̄н",
-        "text": "сто одну пиппали и двести перцев, — этот порошок превосходно возбуждает аппетит, полезен для сердца, вяжущий, устраняет запор, кашель, боль в сердце и боках, болезни селезёнки, геморрой и грахани;"
+        "text": "сто одну пиппали и двести перцев, — этот порошок превосходно возбуждает аппетит, полезен для сердца, вяжущий, устраняет запор, кашель, боль в сердце и боках, болезни селезёнки, геморрой и грахани;",
+        "text_en": "one hundred and one pippali and two hundred peppercorns: this powder excellently stimulates the appetite, is beneficial for the heart, astringent, and relieves constipation, cough, pain in the heart and sides, diseases of the spleen, haemorrhoids and grahani;"
       },
       {
         "type": "verse",
@@ -37491,7 +37990,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तालिसपत्रं मरिचं नागरं पिप्पली शुभा यथोत्तरं भागवृद्धास्त्वगेले चार्धभागिके",
         "iast": "tālisapatraṃ maricaṃ nāgaraṃ pippalī śubhā yathottaraṃ bhāgavṛddhāstvagele cārdhabhāgike",
         "iast_ru": "та̄лисапатрам̣ маричам̣ на̄гарам̣ пиппалӣ ш́убха̄ йатхоттарам̣ бха̄гавр̣ддха̄ствагеле ча̄рдхабха̄гике",
-        "text": "лист тализа, перец, сухой имбирь, благодатную пиппали — взятые в возрастающих последовательно количествах; кору и эла — в половинном количестве,"
+        "text": "лист тализа, перец, сухой имбирь, благодатную пиппали — взятые в возрастающих последовательно количествах; кору и эла — в половинном количестве,",
+        "text_en": "talisa leaf, pepper, dry ginger, the beneficial pippali, taken in successively increasing quantities; bark and ela in half quantity,"
       },
       {
         "type": "verse",
@@ -37499,7 +37999,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्रुच्यं दीपनं चूर्णं कणाष्टगुणशर्करम् कासश्वासारुचिच्छर्दिप्लीहहृत्पार्श्वशूलजित्",
         "iast": "tadrucyaṃ dīpanaṃ cūrṇaṃ kaṇāṣṭaguṇaśarkaram kāsaśvāsārucicchardiplīhahṛtpārśvaśūlajit",
         "iast_ru": "тадручйам̣ дӣпанам̣ чӯрн̣ам̣ кан̣а̄ш̣т̣агун̣аш́аркарам ка̄саш́ва̄са̄ручиччхардиплӣхахр̣тпа̄рш́ваш́ӯладжит",
-        "text": "этот порошок возбуждает аппетит, разжигает огонь; с восьмикратным количеством пиппали и сахара, устраняет кашель, одышку, отсутствие аппетита, рвоту, болезни селезёнки, боль в сердце и боках,"
+        "text": "этот порошок возбуждает аппетит, разжигает огонь; с восьмикратным количеством пиппали и сахара, устраняет кашель, одышку, отсутствие аппетита, рвоту, болезни селезёнки, боль в сердце и боках,",
+        "text_en": "this powder stimulates the appetite and kindles the fire; with eight times the quantity of pippali and sugar, it relieves cough, dyspnoea, loss of appetite, vomiting, diseases of the spleen, and pain in the heart and sides,"
       },
       {
         "type": "verse",
@@ -37507,7 +38008,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पाण्डुज्वरातिसारघ्नं मूढवातानुलोमनम् तालीसपत्रचविकामरिचानां पलं पलम्",
         "iast": "pāṇḍujvarātisāraghnaṃ mūḍhavātānulomanam tālīsapatracavikāmaricānāṃ palaṃ palam",
         "iast_ru": "па̄н̣д̣уджвара̄тиса̄рагхнам̣ мӯд̣хава̄та̄нуломанам та̄лӣсапатрачавика̄марича̄на̄м̣ палам̣ палам",
-        "text": "устраняет малокровие, лихорадку и понос, нормализует заблокированную Вату. По одному палу листа тализа, чавики и перца,"
+        "text": "устраняет малокровие, лихорадку и понос, нормализует заблокированную Вату. По одному палу листа тализа, чавики и перца,",
+        "text_en": "relieves anaemia, fever and diarrhoea, and normalises obstructed Vata. One pala each of talisa leaf, chavika and pepper,"
       },
       {
         "type": "verse",
@@ -37515,7 +38017,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृष्णातन्मूलयोर्द्वे द्वे पले शुण्ठीपलत्रयम् चतुर्जातमुशीरं च कर्षांशं श्लक्ष्णचूर्णितम्",
         "iast": "kṛṣṇātanmūlayordve dve pale śuṇṭhīpalatrayam caturjātamuśīraṃ ca karṣāṃśaṃ ślakṣṇacūrṇitam",
         "iast_ru": "кр̣ш̣н̣а̄танмӯлайордве две пале ш́ун̣т̣хӣпалатрайам чатурджа̄тамуш́ӣрам̣ ча карш̣а̄м̣ш́ам̣ ш́лакш̣н̣ачӯрн̣итам",
-        "text": "по два пала пиппали и её корня, три пала сухого имбиря; чатурджату и уширу — по одной карше каждого, растёртые в мелкий порошок,"
+        "text": "по два пала пиппали и её корня, три пала сухого имбиря; чатурджату и уширу — по одной карше каждого, растёртые в мелкий порошок,",
+        "text_en": "two palas of pippali and its root, three palas of dry ginger; chaturjata and ushira, one karsha of each, ground to a fine powder,"
       },
       {
         "type": "verse",
@@ -37523,7 +38026,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तत्र त्रिंशत् पलं दत्वा क्वथितादमलाद्गुडात् कुर्वीत मोदकानक्षसम्मितांस्ते ऽपि तद्गुणाः",
         "iast": "tatra triṃśat palaṃ datvā kvathitādamalādguḍāt kurvīta modakānakṣasammitāṃste 'pi tadguṇāḥ",
         "iast_ru": "татра трим̣ш́ат палам̣ датва̄ кватхита̄дамала̄дгуд̣а̄т курвӣта модака̄накш̣асаммита̄м̣сте 'пи тадгун̣а̄х̣",
-        "text": "добавив тридцать пал сваренной чистой патоки, следует сформовать модаки (шарики) размером с акшу; они обладают теми же свойствами."
+        "text": "добавив тридцать пал сваренной чистой патоки, следует сформовать модаки (шарики) размером с акшу; они обладают теми же свойствами.",
+        "text_en": "having added thirty palas of boiled, clarified jaggery, modakas (balls) the size of an aksha should be formed; they have the same properties."
       },
       {
         "type": "verse",
@@ -37531,7 +38035,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रसेकचिकित्सितम् अर्कामृताक्षारजलेशर्वरीमुषितैर्यवैः प्रसेके कल्पितान् सक्तून् भक्ष्यांश्चाद्याद् बली वमेत्",
         "iast": "prasekacikitsitam arkāmṛtākṣārajaleśarvarīmuṣitairyavaiḥ praseke kalpitān saktūn bhakṣyāṃścādyād balī vamet",
         "iast_ru": "прасекачикитситам арка̄мр̣та̄кш̣а̄раджалеш́арварӣмуш̣итаирйаваих̣ прасеке калпита̄н сактӯн бхакш̣йа̄м̣ш́ча̄дйа̄д балӣ вамет",
-        "text": "Раздел «Лечение слюнотечения»: при слюнотечении сильному больному следует есть муку из ячменя, вымоченного ночь в воде с щёлочью арки и гудучи, а также прочую пищу, и затем вызвать рвоту;"
+        "text": "Раздел «Лечение слюнотечения»: при слюнотечении сильному больному следует есть муку из ячменя, вымоченного ночь в воде с щёлочью арки и гудучи, а также прочую пищу, и затем вызвать рвоту;",
+        "text_en": "Section \"Treatment of Salivation\": in salivation a strong patient should eat flour of barley soaked overnight in water with alkali of arka and guduchi, as well as other food, and then vomiting should be induced;"
       },
       {
         "type": "verse",
@@ -37539,7 +38044,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कटुतिक्तैस्तथा शूल्यं भक्षयेज्जाङ्गलं पलम् शुष्कांश्च भक्ष्यान् सुलघूंश्चणकादिरसानुपः",
         "iast": "kaṭutiktaistathā śūlyaṃ bhakṣayejjāṅgalaṃ palam śuṣkāṃśca bhakṣyān sulaghūṃścaṇakādirasānupaḥ",
         "iast_ru": "кат̣утиктаистатха̄ ш́ӯлйам̣ бхакш̣айеджджа̄н̇галам̣ палам ш́уш̣ка̄м̣ш́ча бхакш̣йа̄н сулагхӯм̣ш́чан̣ака̄дираса̄нупах̣",
-        "text": "также с острыми и горькими добавками следует есть жареное на вертеле мясо диких животных, один пал; сухую, очень лёгкую пищу, запивая соками нута и подобного;"
+        "text": "также с острыми и горькими добавками следует есть жареное на вертеле мясо диких животных, один пал; сухую, очень лёгкую пищу, запивая соками нута и подобного;",
+        "text_en": "also with pungent and bitter additions one should eat spit-roasted meat of wild animals, one pala; dry, very light food, washing it down with juices of chickpea and the like;"
       },
       {
         "type": "verse",
@@ -37547,7 +38053,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्लेष्मणो ऽतिप्रसेकेन वायुः श्लेष्माणमस्यति कफप्रसेकं तं विद्यात् स्निग्धोष्णैरेव निर्जयेत्",
         "iast": "śleṣmaṇo 'tiprasekena vāyuḥ śleṣmāṇamasyati kaphaprasekaṃ taṃ vidyāt snigdhoṣṇaireva nirjayet",
         "iast_ru": "ш́леш̣ман̣о 'типрасекена ва̄йух̣ ш́леш̣ма̄н̣амасйати капхапрасекам̣ там̣ видйа̄т снигдхош̣н̣аирева нирджайет",
-        "text": "от чрезмерного истечения Капхи Вата выбрасывает Капху — следует распознать это как капха-прасеку (слюнотечение от Капхи) и побеждать её именно маслянистыми и горячими средствами."
+        "text": "от чрезмерного истечения Капхи Вата выбрасывает Капху — следует распознать это как капха-прасеку (слюнотечение от Капхи) и побеждать её именно маслянистыми и горячими средствами.",
+        "text_en": "from excessive flow of Kapha, Vata expels Kapha; this should be recognised as kapha-praseka (salivation from Kapha), and it should be conquered precisely with unctuous and hot remedies."
       },
       {
         "type": "verse",
@@ -37555,7 +38062,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पीनसे ऽपि क्रममिमं वमथौ च प्रयोजयेत् विशेषात्पीनसे ऽभ्यङ्गान् स्नेहान् स्वेदांश्च शीलयेत्",
         "iast": "pīnase 'pi kramamimaṃ vamathau ca prayojayet viśeṣātpīnase 'bhyaṅgān snehān svedāṃśca śīlayet",
         "iast_ru": "пӣнасе 'пи крамамимам̣ ваматхау ча прайоджайет виш́еш̣а̄тпӣнасе 'бхйан̇га̄н снеха̄н сведа̄м̣ш́ча ш́ӣлайет",
-        "text": "Этот же метод следует применять и при насморке, и при рвоте; в особенности при насморке следует применять умащения, масляные средства и потогонные процедуры,"
+        "text": "Этот же метод следует применять и при насморке, и при рвоте; в особенности при насморке следует применять умащения, масляные средства и потогонные процедуры,",
+        "text_en": "This same method should be applied also in catarrh and in vomiting; especially in catarrh, unctions, oily remedies and sudation should be applied,"
       },
       {
         "type": "verse",
@@ -37563,7 +38071,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्निग्धानुत्कारिकापिण्डैः शिरःपार्श्वगलादिषु लवणाम्लकटूष्णांश्च रसान् स्नेहोपसंहितान्",
         "iast": "snigdhānutkārikāpiṇḍaiḥ śiraḥpārśvagalādiṣu lavaṇāmlakaṭūṣṇāṃśca rasān snehopasaṃhitān",
         "iast_ru": "снигдха̄нутка̄рика̄пин̣д̣аих̣ ш́ирах̣па̄рш́вагала̄диш̣у лаван̣а̄млакат̣ӯш̣н̣а̄м̣ш́ча раса̄н снехопасам̣хита̄н",
-        "text": "маслянистые уткарики (густые каши) в виде компрессов на голову, бока, горло и подобные места; солёные, кислые, острые, горячие соки, вместе с масляными добавками;"
+        "text": "маслянистые уткарики (густые каши) в виде компрессов на голову, бока, горло и подобные места; солёные, кислые, острые, горячие соки, вместе с масляными добавками;",
+        "text_en": "unctuous utkarikas (thick gruels) in the form of compresses on the head, sides, throat and similar places; salty, sour, pungent, hot juices, together with oily additions;"
       },
       {
         "type": "verse",
@@ -37571,7 +38080,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शिरो ऽंसपार्श्वशूलेषु यथादोषविधिं चरेत् औदकानूपपिशितैरुपनाहाः सुसंस्कृताः",
         "iast": "śiro 'ṃsapārśvaśūleṣu yathādoṣavidhiṃ caret audakānūpapiśitairupanāhāḥ susaṃskṛtāḥ",
         "iast_ru": "ш́иро 'м̣сапа̄рш́ваш́ӯлеш̣у йатха̄дош̣авидхим̣ чарет аудака̄нӯпапиш́итаирупана̄ха̄х̣ сусам̣скр̣та̄х̣",
-        "text": "при боли в голове, плечах и боках следует применять метод, соответствующий преобладающей доше; хорошо приготовленные припарки из мяса водных и болотных животных,"
+        "text": "при боли в голове, плечах и боках следует применять метод, соответствующий преобладающей доше; хорошо приготовленные припарки из мяса водных и болотных животных,",
+        "text_en": "in pain in the head, shoulders and sides, the method corresponding to the predominant dosha should be applied; well-prepared poultices of the meat of aquatic and marsh animals,"
       },
       {
         "type": "verse",
@@ -37579,7 +38089,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शस्यन्ते सचतुस्नेहाः शिरःपार्श्वांसशूलिनाम् लेपश्च नतयष्ट्याह्वशताह्वाकुष्ठचन्दनैः",
         "iast": "śasyante sacatusnehāḥ śiraḥpārśvāṃsaśūlinām lepaśca natayaṣṭyāhvaśatāhvākuṣṭhacandanaiḥ",
         "iast_ru": "ш́асйанте сачатуснеха̄х̣ ш́ирах̣па̄рш́ва̄м̣саш́ӯлина̄м лепаш́ча натайаш̣т̣йа̄хваш́ата̄хва̄куш̣т̣хачанданаих̣",
-        "text": "вместе с четырьмя маслами, рекомендуются для страдающих болью в голове, боках и плечах; а также обмазывание с натой, солодкой, шатахвой, куштхой и сандалом,"
+        "text": "вместе с четырьмя маслами, рекомендуются для страдающих болью в голове, боках и плечах; а также обмазывание с натой, солодкой, шатахвой, куштхой и сандалом,",
+        "text_en": "together with the four oils, are recommended for those suffering from pain in the head, sides and shoulders; and also an ointment with nata, licorice, shatahva, kushtha and sandal,"
       },
       {
         "type": "verse",
@@ -37587,7 +38098,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बलारास्नातिलाः सर्पिर्मधुकं नीलमुत्पलम् पलङ्कषा देवदारु चन्दनं मधुकं घृतम्",
         "iast": "balārāsnātilāḥ sarpirmadhukaṃ nīlamutpalam palaṅkaṣā devadāru candanaṃ madhukaṃ ghṛtam",
         "iast_ru": "бала̄ра̄сна̄тила̄х̣ сарпирмадхукам̣ нӣламутпалам палан̇каш̣а̄ девада̄ру чанданам̣ мадхукам̣ гхр̣там",
-        "text": "балой, расной, кунжутом, топлёным маслом, солодкой, синим лотосом; паланкшой, девадару, сандалом, солодкой и топлёным маслом,"
+        "text": "балой, расной, кунжутом, топлёным маслом, солодкой, синим лотосом; паланкшой, девадару, сандалом, солодкой и топлёным маслом,",
+        "text_en": "bala, rasna, sesame, ghee, licorice, blue lotus; palankasha, devadaru, sandal, licorice and ghee,"
       },
       {
         "type": "verse",
@@ -37595,7 +38107,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृष्णगन्धा बला वीरा विदारी सपुनर्नवा अभीरुयष्टीमधुकं पयस्या कत्तृणं घृतम्",
         "iast": "kṛṣṇagandhā balā vīrā vidārī sapunarnavā abhīruyaṣṭīmadhukaṃ payasyā kattṛṇaṃ ghṛtam",
         "iast_ru": "кр̣ш̣н̣агандха̄ бала̄ вӣра̄ вида̄рӣ сапунарнава̄ абхӣруйаш̣т̣ӣмадхукам̣ пайасйа̄ каттр̣н̣ам̣ гхр̣там",
-        "text": "кришнагандхой, балой, вирой, видари, вместе с пунарнавой; абхиру, солодкой, паясьей, каттриной и топлёным маслом,"
+        "text": "кришнагандхой, балой, вирой, видари, вместе с пунарнавой; абхиру, солодкой, паясьей, каттриной и топлёным маслом,",
+        "text_en": "krishnagandha, bala, vira, vidari, together with punarnava; abhiru, licorice, payasya, kattrina and ghee,"
       },
       {
         "type": "verse",
@@ -37603,7 +38116,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इत्यर्धयोगैश्चत्वारः प्रदेहाः परिकीर्तिताः शस्ताः संसृष्टदोषाणां शिरःपार्श्वासशूलिनाम्",
         "iast": "ityardhayogaiścatvāraḥ pradehāḥ parikīrtitāḥ śastāḥ saṃsṛṣṭadoṣāṇāṃ śiraḥpārśvāsaśūlinām",
         "iast_ru": "итйардхайогаиш́чатва̄рах̣ прадеха̄х̣ парикӣртита̄х̣ ш́аста̄х̣ сам̣ср̣ш̣т̣адош̣а̄н̣а̄м̣ ш́ирах̣па̄рш́ва̄саш́ӯлина̄м",
-        "text": "— так, этими полустихами описаны четыре обмазывания, рекомендуемые для страдающих смешанным расстройством дош с болью в голове, боках и плечах;"
+        "text": "— так, этими полустихами описаны четыре обмазывания, рекомендуемые для страдающих смешанным расстройством дош с болью в голове, боках и плечах;",
+        "text_en": "thus these half-verses describe four ointments recommended for those suffering from mixed derangement of the doshas with pain in the head, sides and shoulders;"
       },
       {
         "type": "verse",
@@ -37611,7 +38125,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नावनं धूमपानानि स्नेहाश्चौत्तरभक्तिकाः तैलान्यभ्यङ्गयोगीनि बस्तिकर्म तथापरम् शृङ्गाद्यैर्वा यथादोषं दुष्टमेषां हरेदसृक् प्रदेहः सघृतैश्चेष्टः पद्मकोशीरचन्दनैः",
         "iast": "nāvanaṃ dhūmapānāni snehāścauttarabhaktikāḥ tailānyabhyaṅgayogīni bastikarma tathāparam śṛṅgādyairvā yathādoṣaṃ duṣṭameṣāṃ haredasṛk pradehaḥ saghṛtaiśceṣṭaḥ padmakośīracandanaiḥ",
         "iast_ru": "на̄ванам̣ дхӯмапа̄на̄ни снеха̄ш́чауттарабхактика̄х̣ таила̄нйабхйан̇гайогӣни бастикарма татха̄парам ш́р̣н̇га̄дйаирва̄ йатха̄дош̣ам̣ душ̣т̣амеш̣а̄м̣ харедаср̣к прадехах̣ сагхр̣таиш́чеш̣т̣ах̣ падмакош́ӣрачанданаих̣",
-        "text": "назальные средства, вдыхание дыма, масляные средства, принимаемые после еды; растительные масла для умащения; клизменные процедуры; а также, соответственно доше, следует извлечь испорченную кровь с помощью рога и подобного; рекомендуется обмазывание с топлёным маслом, падмакой, уширой и сандалом,"
+        "text": "назальные средства, вдыхание дыма, масляные средства, принимаемые после еды; растительные масла для умащения; клизменные процедуры; а также, соответственно доше, следует извлечь испорченную кровь с помощью рога и подобного; рекомендуется обмазывание с топлёным маслом, падмакой, уширой и сандалом,",
+        "text_en": "nasal remedies, inhalation of smoke, oily remedies taken after meals; vegetable oils for unction; enema treatments; and also, according to the dosha, spoiled blood should be drawn out with a horn and the like; an ointment with ghee, padmaka, ushira and sandal is recommended,"
       },
       {
         "type": "verse",
@@ -37619,7 +38134,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "दूर्वामधुकमञ्जिष्ठाकेसरैर्वाघृताप्लुतैः चन्दनाद्येन तैलेन शतधौतेन सर्पिषा अभ्यङ्गः पयसासेकः शस्तश्चमधुकाम्बुना",
         "iast": "dūrvāmadhukamañjiṣṭhākesarairvāghṛtāplutaiḥ candanādyena tailena śatadhautena sarpiṣā abhyaṅgaḥ payasāsekaḥ śastaścamadhukāmbunā",
         "iast_ru": "дӯрва̄мадхукаман̃джиш̣т̣ха̄кесараирва̄гхр̣та̄плутаих̣ чандана̄дйена таилена ш́атадхаутена сарпиш̣а̄ абхйан̇гах̣ пайаса̄секах̣ ш́асташ́чамадхука̄мбуна̄",
-        "text": "или с дурвой, солодкой, манджиштхой, тычинками, пропитанными топлёным маслом; умащение маслом чанданади, топлёным маслом, промытым сто раз; орошение молоком, рекомендуется также вода с солодкой;"
+        "text": "или с дурвой, солодкой, манджиштхой, тычинками, пропитанными топлёным маслом; умащение маслом чанданади, топлёным маслом, промытым сто раз; орошение молоком, рекомендуется также вода с солодкой;",
+        "text_en": "or with durva, licorice, manjishtha, filaments soaked in ghee; unction with Chandanadi oil, ghee washed a hundred times; sprinkling with milk; water with licorice is also recommended;"
       },
       {
         "type": "verse",
@@ -37627,7 +38143,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "प्रायेणोपहताग्नित्वात् सपिच्छमतिसार्यते तस्यातिसारग्रहणीविहितं हितमौषधम् सनागरानिन्द्रयवान् पाययेत्तण्डुलाम्बना",
         "iast": "prāyeṇopahatāgnitvāt sapicchamatisāryate tasyātisāragrahaṇīvihitaṃ hitamauṣadham sanāgarānindrayavān pāyayettaṇḍulāmbanā",
         "iast_ru": "пра̄йен̣опахата̄гнитва̄т сапиччхаматиса̄рйате тасйа̄тиса̄раграхан̣ӣвихитам̣ хитамауш̣адхам сана̄гара̄ниндрайава̄н па̄йайеттан̣д̣ула̄мбана̄",
-        "text": "поскольку, как правило, из-за поражённого пищеварительного огня, у больного выделяется слизистый понос, для него полезно лекарство, указанное при поносе и грахани; следует дать выпить индраяву с сухим имбирём, с рисовой водой;"
+        "text": "поскольку, как правило, из-за поражённого пищеварительного огня, у больного выделяется слизистый понос, для него полезно лекарство, указанное при поносе и грахани; следует дать выпить индраяву с сухим имбирём, с рисовой водой;",
+        "text_en": "since, as a rule, owing to the impaired digestive fire, the patient passes mucous diarrhoea, the medicine indicated for diarrhoea and grahani is beneficial for him; indrayava with dry ginger, with rice water, should be given to drink;"
       },
       {
         "type": "verse",
@@ -37635,7 +38152,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीर्णेषु तेषु पेयां च चाङ्गेरीतक्रदाडिमः पाठानिम्बयवानीनां चूर्णं तक्रेण वा पिबेत्",
         "iast": "jīrṇeṣu teṣu peyāṃ ca cāṅgerītakradāḍimaḥ pāṭhānimbayavānīnāṃ cūrṇaṃ takreṇa vā pibet",
         "iast_ru": "джӣрн̣еш̣у теш̣у пейа̄м̣ ча ча̄н̇герӣтакрада̄д̣имах̣ па̄т̣ха̄нимбайава̄нӣна̄м̣ чӯрн̣ам̣ такрен̣а ва̄ пибет",
-        "text": "после переваривания этого следует дать пею с чангери, пахтой и гранатом; или порошок патхи, нима и аджвана, следует выпить с пахтой;"
+        "text": "после переваривания этого следует дать пею с чангери, пахтой и гранатом; или порошок патхи, нима и аджвана, следует выпить с пахтой;",
+        "text_en": "after this has been digested, a peya with changeri, buttermilk and pomegranate should be given; or a powder of patha, neem and ajwain should be drunk with buttermilk;"
       },
       {
         "type": "verse",
@@ -37643,7 +38161,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सुरया वाप्लुतां पाठां सनागरदुरालभाम् जम्ब्वाम्रबिल्वमध्यं वा सकपित्थं सनागरम्",
         "iast": "surayā vāplutāṃ pāṭhāṃ sanāgaradurālabhām jambvāmrabilvamadhyaṃ vā sakapitthaṃ sanāgaram",
         "iast_ru": "сурайа̄ ва̄плута̄м̣ па̄т̣ха̄м̣ сана̄гарадура̄лабха̄м джамбва̄мрабилвамадхйам̣ ва̄ сакапиттхам̣ сана̄гарам",
-        "text": "или патху, пропитанную хмельным напитком сура, вместе с сухим имбирём и дуралабхой; или мякоть джамбу, манго и билвы, вместе с капиттхой и сухим имбирём;"
+        "text": "или патху, пропитанную хмельным напитком сура, вместе с сухим имбирём и дуралабхой; или мякоть джамбу, манго и билвы, вместе с капиттхой и сухим имбирём;",
+        "text_en": "or patha soaked in sura liquor, together with dry ginger and duralabha; or the pulp of jambu, mango and bilva, together with kapittha and dry ginger;"
       },
       {
         "type": "verse",
@@ -37651,7 +38170,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पेयामण्डेन योगैश्च पाठाद्यैः कारयेत् त्रिभिः ससूप्यधान्यान् सस्नेहान् साल्मान् सलवणान् खलान् वेतसार्जुनजम्बूनां मृणालीकृष्णगन्धयोः",
         "iast": "peyāmaṇḍena yogaiśca pāṭhādyaiḥ kārayet tribhiḥ sasūpyadhānyān sasnehān sālmān salavaṇān khalān vetasārjunajambūnāṃ mṛṇālīkṛṣṇagandhayoḥ",
         "iast_ru": "пейа̄ман̣д̣ена йогаиш́ча па̄т̣ха̄дйаих̣ ка̄райет трибхих̣ сасӯпйадха̄нйа̄н саснеха̄н са̄лма̄н салаван̣а̄н кхала̄н ветаса̄рджунаджамбӯна̄м̣ мр̣н̣а̄лӣкр̣ш̣н̣агандхайох̣",
-        "text": "следует приготовить пею с мандой (жидким рисовым отваром) и тремя составами, начиная с патхи; следует давать кхалу (кашицу) с бобовыми, маслами, крахмалистыми и солёными добавками, из ветры, арджуны, джамбу, лотосового корневища и кришнагандхи,"
+        "text": "следует приготовить пею с мандой (жидким рисовым отваром) и тремя составами, начиная с патхи; следует давать кхалу (кашицу) с бобовыми, маслами, крахмалистыми и солёными добавками, из ветры, арджуны, джамбу, лотосового корневища и кришнагандхи,",
+        "text_en": "a peya should be prepared with manda (thin rice gruel) and the three compounds beginning with patha; khala (a thin gruel) with pulses, oils, starchy and salty additions, of vetra, arjuna, jambu, lotus rhizome and krishnagandha, should be given,"
       },
       {
         "type": "verse",
@@ -37659,7 +38179,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "श्रापण्या मातुलुङ्गस्य धातक्या दाडिमस्य च चाङ्गेर्या मदयन्त्याश्च यूथिकायाश्च पल्लवैः",
         "iast": "śrāpaṇyā mātuluṅgasya dhātakyā dāḍimasya ca cāṅgeryā madayantyāśca yūthikāyāśca pallavaiḥ",
         "iast_ru": "ш́ра̄пан̣йа̄ ма̄тулун̇гасйа дха̄такйа̄ да̄д̣имасйа ча ча̄н̇герйа̄ мадайантйа̄ш́ча йӯтхика̄йа̄ш́ча паллаваих̣",
-        "text": "из шрапани, матулунги, дхатаки, граната; из побегов чангери, мадаянти и ютхики,"
+        "text": "из шрапани, матулунги, дхатаки, граната; из побегов чангери, мадаянти и ютхики,",
+        "text_en": "of shrapani, matulunga, dhataki, pomegranate; of shoots of changeri, madayanti and yuthika,"
       },
       {
         "type": "verse",
@@ -37667,7 +38188,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कालविद्दुग्धिकायाश्च चुक्रिकायाश्च योजयेत् खलान्दधिसरोपेतान्ससर्पिष्कान्सदाडिमान् रोचनान् दीपनान् दद्यादतीसारहरान् परम्",
         "iast": "kālaviddugdhikāyāśca cukrikāyāśca yojayet khalāndadhisaropetānsasarpiṣkānsadāḍimān rocanān dīpanān dadyādatīsāraharān param",
         "iast_ru": "ка̄лавиддугдхика̄йа̄ш́ча чукрика̄йа̄ш́ча йоджайет кхала̄ндадхисаропета̄нсасарпиш̣ка̄нсада̄д̣има̄н рочана̄н дӣпана̄н дадйа̄датӣса̄рахара̄н парам",
-        "text": "из калавидугдхики и чукрики следует приготовить; кхалы вместе со сливками простокваши, топлёным маслом и гранатом, возбуждающие аппетит, разжигающие огонь, следует давать — они превосходно устраняют понос."
+        "text": "из калавидугдхики и чукрики следует приготовить; кхалы вместе со сливками простокваши, топлёным маслом и гранатом, возбуждающие аппетит, разжигающие огонь, следует давать — они превосходно устраняют понос.",
+        "text_en": "of kalavidugdhika and chukrika it should be prepared; khalas together with the cream of curd, ghee and pomegranate, stimulating the appetite and kindling the fire, should be given; they excellently relieve diarrhoea."
       },
       {
         "type": "verse",
@@ -37675,7 +38197,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पुरीषं यत्नतो रक्षेच्छुष्यतो राजयक्ष्मिणः सर्वधातुक्षयार्तस्य बलं तस्य हि विड्बलम्",
         "iast": "purīṣaṃ yatnato rakṣecchuṣyato rājayakṣmiṇaḥ sarvadhātukṣayārtasya balaṃ tasya hi viḍbalam",
         "iast_ru": "пурӣш̣ам̣ йатнато ракш̣еччхуш̣йато ра̄джайакш̣мин̣ах̣ сарвадха̄тукш̣айа̄ртасйа балам̣ тасйа хи вид̣балам",
-        "text": "Следует старательно оберегать кал у иссыхающего от раджаякшмы, страдающего истощением всех тканей тела; ведь для него сила кала — это его собственная сила."
+        "text": "Следует старательно оберегать кал у иссыхающего от раджаякшмы, страдающего истощением всех тканей тела; ведь для него сила кала — это его собственная сила.",
+        "text_en": "The stool should be carefully protected in one wasting away from rajayakshma and suffering from depletion of all the tissues of the body; for in him the strength of the stool is his own strength."
       },
       {
         "type": "verse",
@@ -37683,7 +38206,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ज्वरादिष्वपि कुर्वीत विकारेषु यथामयम् बह्वामयसमूहो हि यक्ष्मातः सो ऽतिदुःसहः",
         "iast": "jvarādiṣvapi kurvīta vikāreṣu yathāmayam bahvāmayasamūho hi yakṣmātaḥ so 'tiduḥsahaḥ",
         "iast_ru": "джвара̄диш̣вапи курвӣта вика̄реш̣у йатха̄майам бахва̄майасамӯхо хи йакш̣ма̄тах̣ со 'тидух̣сахах̣",
-        "text": "При лихорадке и прочих сопутствующих расстройствах следует применять лечение соответственно болезни; ведь чахотка — это совокупность множества болезней, и она чрезвычайно труднопереносима."
+        "text": "При лихорадке и прочих сопутствующих расстройствах следует применять лечение соответственно болезни; ведь чахотка — это совокупность множества болезней, и она чрезвычайно труднопереносима.",
+        "text_en": "In fever and other accompanying disorders, treatment according to the disease should be applied; for consumption is a combination of many diseases, and it is extremely hard to bear."
       },
       {
         "type": "verse",
@@ -37691,7 +38215,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अजां वा पर्युपासीत षण्मासानुटजे वसन् तत्पयोमूत्रविड्वृत्तिपरिषेकप्रघर्षणः ताभिः परिवृतः स्वप्यात्तच्छकृद्रेणुसङ्करे",
         "iast": "ajāṃ vā paryupāsīta ṣaṇmāsānuṭaje vasan tatpayomūtraviḍvṛttipariṣekapragharṣaṇaḥ tābhiḥ parivṛtaḥ svapyāttacchakṛdreṇusaṅkare",
         "iast_ru": "аджа̄м̣ ва̄ парйупа̄сӣта ш̣ан̣ма̄са̄нут̣адже васан татпайомӯтравид̣вр̣ттипариш̣екапрагхарш̣ан̣ах̣ та̄бхих̣ паривр̣тах̣ свапйа̄ттаччхакр̣дрен̣усан̇каре",
-        "text": "Или же, живя в шалаше в течение шести месяцев, следует ухаживать за козами, питаясь их молоком, используя их мочу и кал, обливаясь их молоком и растираясь; окружённый ими, следует спать среди подстилки, смешанной с пылью их помёта."
+        "text": "Или же, живя в шалаше в течение шести месяцев, следует ухаживать за козами, питаясь их молоком, используя их мочу и кал, обливаясь их молоком и растираясь; окружённый ими, следует спать среди подстилки, смешанной с пылью их помёта.",
+        "text_en": "Or else, living in a hut for six months, one should tend goats, subsisting on their milk, using their urine and dung, bathing in their milk and being rubbed; surrounded by them, one should sleep on bedding mixed with the dust of their droppings."
       },
       {
         "type": "verse",
@@ -37699,7 +38224,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "एतद्रसायनं श्रेष्ठं रोगराजस्य नाशनम् अजाशकृद्रसक्षीरदधिमूत्रैः शृतं घृतम्",
         "iast": "etadrasāyanaṃ śreṣṭhaṃ rogarājasya nāśanam ajāśakṛdrasakṣīradadhimūtraiḥ śṛtaṃ ghṛtam",
         "iast_ru": "етадраса̄йанам̣ ш́реш̣т̣хам̣ рогара̄джасйа на̄ш́анам аджа̄ш́акр̣драсакш̣ӣрададхимӯтраих̣ ш́р̣там̣ гхр̣там",
-        "text": "Это — превосходная расаяна, устраняющая «царя болезней». Топлёное масло, сваренное с соком козьего помёта, молоком, простоквашей и мочой,"
+        "text": "Это — превосходная расаяна, устраняющая «царя болезней». Топлёное масло, сваренное с соком козьего помёта, молоком, простоквашей и мочой,",
+        "text_en": "This is an excellent rasayana that relieves the \"king of diseases\". Ghee cooked with the juice of goat dung, milk, curd and urine,"
       },
       {
         "type": "verse",
@@ -37707,7 +38233,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सपञ्चपटु पञ्चाजं क्षयी क्षीरानुपः पिबेत् मांसमेवाश्नतो युक्त्या मार्द्वीकं पिबतो ऽनु च",
         "iast": "sapañcapaṭu pañcājaṃ kṣayī kṣīrānupaḥ pibet māṃsamevāśnato yuktyā mārdvīkaṃ pibato 'nu ca",
         "iast_ru": "сапан̃чапат̣у пан̃ча̄джам̣ кш̣айӣ кш̣ӣра̄нупах̣ пибет ма̄м̣самева̄ш́нато йуктйа̄ ма̄рдвӣкам̣ пибато 'ну ча",
-        "text": "вместе с панчапату — эту панчаджу (пятикомпонентную козью расаяну) страдающий истощением пусть пьёт, запивая молоком; питаясь надлежащим образом мясом и запивая затем виноградным вином,"
+        "text": "вместе с панчапату — эту панчаджу (пятикомпонентную козью расаяну) страдающий истощением пусть пьёт, запивая молоком; питаясь надлежащим образом мясом и запивая затем виноградным вином,",
+        "text_en": "together with panchapatu: this panchaja (five-component goat rasayana) should be drunk by one suffering from emaciation, washing it down with milk; subsisting properly on meat and then drinking grape wine,"
       },
       {
         "type": "verse",
@@ -37715,7 +38242,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अविधारितवेगस्य लक्ष्मा न लभते ऽन्तरम् सुरां समण्डां मार्द्वीकमरिष्टान् शीधुमाधवान्",
         "iast": "avidhāritavegasya lakṣmā na labhate 'ntaram surāṃ samaṇḍāṃ mārdvīkamariṣṭān śīdhumādhavān",
         "iast_ru": "авидха̄ритавегасйа лакш̣ма̄ на лабхате 'нтарам сура̄м̣ саман̣д̣а̄м̣ ма̄рдвӣкамариш̣т̣а̄н ш́ӣдхума̄дхава̄н",
-        "text": "у того, кто не подавляет естественных позывов, несчастье не находит места. Хмельной напиток сура вместе с мандой, виноградное вино, ариштами, шидху и мадхаву,"
+        "text": "у того, кто не подавляет естественных позывов, несчастье не находит места. Хмельной напиток сура вместе с мандой, виноградное вино, ариштами, шидху и мадхаву,",
+        "text_en": "in one who does not suppress natural urges, misfortune finds no place. Sura liquor together with manda, grape wine, arishtas, sidhu and madhava,"
       },
       {
         "type": "verse",
@@ -37723,7 +38251,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यथार्हमनुपानार्थं पिबेन्मांसानि भक्षयन् स्रोतोविबन्धमोक्षार्थं बलौजःपुष्टये च तत्",
         "iast": "yathārhamanupānārthaṃ pibenmāṃsāni bhakṣayan srotovibandhamokṣārthaṃ balaujaḥpuṣṭaye ca tat",
         "iast_ru": "йатха̄рхаманупа̄на̄ртхам̣ пибенма̄м̣са̄ни бхакш̣айан сротовибандхамокш̣а̄ртхам̣ балауджах̣пуш̣т̣айе ча тат",
-        "text": "соответственно, следует пить в качестве питья, питаясь мясом, — для устранения закупорки каналов, а также для придания силы, оджаса и упитанности."
+        "text": "соответственно, следует пить в качестве питья, питаясь мясом, — для устранения закупорки каналов, а также для придания силы, оджаса и упитанности.",
+        "text_en": "accordingly, should be drunk as a drink, subsisting on meat, to remove obstruction of the channels, and also to give strength, ojas and plumpness."
       },
       {
         "type": "verse",
@@ -37731,7 +38260,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "स्नेहक्षीराम्बुकोष्ठेषु स्वभ्यक्तमवगाहयेत् उत्तीर्णं मिश्रकस्नेहैः पुनरक्तं सुखैः करैः मृद्नीयात् सुखमारीनं सुखं चोद्वर्तयेत् परम्",
         "iast": "snehakṣīrāmbukoṣṭheṣu svabhyaktamavagāhayet uttīrṇaṃ miśrakasnehaiḥ punaraktaṃ sukhaiḥ karaiḥ mṛdnīyāt sukhamārīnaṃ sukhaṃ codvartayet param",
         "iast_ru": "снехакш̣ӣра̄мбукош̣т̣хеш̣у свабхйактамавага̄хайет уттӣрн̣ам̣ миш́ракаснехаих̣ пунарактам̣ сукхаих̣ караих̣ мр̣днӣйа̄т сукхама̄рӣнам̣ сукхам̣ чодвартайет парам",
-        "text": "Умащённого маслом больного следует погрузить в масло, молоко или воду в зависимости от коштхи; когда он выйдет, следует снова умастить смешанными маслами; приятными для рук движениями следует нежно массировать его, а затем следует приятно провести уддхартану (растирание порошком)."
+        "text": "Умащённого маслом больного следует погрузить в масло, молоко или воду в зависимости от коштхи; когда он выйдет, следует снова умастить смешанными маслами; приятными для рук движениями следует нежно массировать его, а затем следует приятно провести уддхартану (растирание порошком).",
+        "text_en": "The patient, anointed with oil, should be immersed in oil, milk or water depending on his koshtha; when he comes out, he should be anointed again with mixed oils; with movements pleasant to the hands he should be gently massaged, and then an udvartana (powder rub) should be pleasantly performed."
       },
       {
         "type": "verse",
@@ -37739,7 +38269,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जीवन्तीं शतवीर्यां च विकसां सपुनर्नवाम् अश्वगन्धामपामार्गं तर्कारीं मधुकं बलम्",
         "iast": "jīvantīṃ śatavīryāṃ ca vikasāṃ sapunarnavām aśvagandhāmapāmārgaṃ tarkārīṃ madhukaṃ balam",
         "iast_ru": "джӣвантӣм̣ ш́атавӣрйа̄м̣ ча викаса̄м̣ сапунарнава̄м аш́вагандха̄мапа̄ма̄ргам̣ тарка̄рӣм̣ мадхукам̣ балам",
-        "text": "Дживанти, шатавирью, викасу, вместе с пунарнавой; ашвагандху, апамаргу, таркари, солодку, балу,"
+        "text": "Дживанти, шатавирью, викасу, вместе с пунарнавой; ашвагандху, апамаргу, таркари, солодку, балу,",
+        "text_en": "Jivanti, shatavirya, vikasa, together with punarnava; ashwagandha, apamarga, tarkari, licorice, balu,"
       },
       {
         "type": "verse",
@@ -37747,7 +38278,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "विदारीं सर्षपान् कुष्ठं तण्डुलानतसीफलम् माषांस्तिलांश्च किण्वं च सर्वमेकत्र चूर्णयेत्",
         "iast": "vidārīṃ sarṣapān kuṣṭhaṃ taṇḍulānatasīphalam māṣāṃstilāṃśca kiṇvaṃ ca sarvamekatra cūrṇayet",
         "iast_ru": "вида̄рӣм̣ сарш̣апа̄н куш̣т̣хам̣ тан̣д̣ула̄натасӣпхалам ма̄ш̣а̄м̣стила̄м̣ш́ча кин̣вам̣ ча сарвамекатра чӯрн̣айет",
-        "text": "видари, горчицу, куштху, рис, семя льна, машу, кунжут и киньву (сброженную закваску) — всё это следует растереть в порошок вместе,"
+        "text": "видари, горчицу, куштху, рис, семя льна, машу, кунжут и киньву (сброженную закваску) — всё это следует растереть в порошок вместе,",
+        "text_en": "vidari, mustard, kushtha, rice, flaxseed, black gram, sesame and kinva (fermented starter): all this should be ground into a powder together,"
       },
       {
         "type": "verse",
@@ -37755,7 +38287,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "यवचूर्णं त्रिगुणितं दध्ना युक्तं समाक्षिकम् एतदुद्वर्तनं कार्यं पुष्टिवर्णबलप्रदम्",
         "iast": "yavacūrṇaṃ triguṇitaṃ dadhnā yuktaṃ samākṣikam etadudvartanaṃ kāryaṃ puṣṭivarṇabalapradam",
         "iast_ru": "йавачӯрн̣ам̣ тригун̣итам̣ дадхна̄ йуктам̣ сама̄кш̣икам етадудвартанам̣ ка̄рйам̣ пуш̣т̣иварн̣абалапрадам",
-        "text": "вместе с ячменной мукой в трёхкратном количестве, вместе с простоквашей и мёдом; это следует использовать как уддхартану (порошок для растирания), придающую упитанность, цвет кожи и силу."
+        "text": "вместе с ячменной мукой в трёхкратном количестве, вместе с простоквашей и мёдом; это следует использовать как уддхартану (порошок для растирания), придающую упитанность, цвет кожи и силу.",
+        "text_en": "together with barley flour in threefold quantity, together with curd and honey; this should be used as an udvartana (rubbing powder), giving plumpness, complexion and strength."
       },
       {
         "type": "verse",
@@ -37763,7 +38296,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गौरसर्षपकल्केन स्नानीयौषधिभिश्च सः स्नायादृतुसुखैस्तोयैर्जीवनीयोपसाधितैः",
         "iast": "gaurasarṣapakalkena snānīyauṣadhibhiśca saḥ snāyādṛtusukhaistoyairjīvanīyopasādhitaiḥ",
         "iast_ru": "гаурасарш̣апакалкена сна̄нӣйауш̣адхибхиш́ча сах̣ сна̄йа̄др̣тусукхаистойаирджӣванӣйопаса̄дхитаих̣",
-        "text": "Больному следует омываться с пастой белой горчицы и лекарственными травами для купания, а также приятной по сезону водой, приготовленной с травами группы дживанья;"
+        "text": "Больному следует омываться с пастой белой горчицы и лекарственными травами для купания, а также приятной по сезону водой, приготовленной с травами группы дживанья;",
+        "text_en": "The patient should bathe with a paste of white mustard and medicinal bathing herbs, as well as water pleasant for the season, prepared with the herbs of the Jivaniya group;"
       },
       {
         "type": "verse",
@@ -37771,7 +38305,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गन्धमाल्यादिकां भूषामलक्ष्मीनाशनीं भजेत् सुहृदां दर्शनं गीतवादित्रोत्सवसंश्रुतीः",
         "iast": "gandhamālyādikāṃ bhūṣāmalakṣmīnāśanīṃ bhajet suhṛdāṃ darśanaṃ gītavāditrotsavasaṃśrutīḥ",
         "iast_ru": "гандхама̄лйа̄дика̄м̣ бхӯш̣а̄малакш̣мӣна̄ш́анӣм̣ бхаджет сухр̣да̄м̣ дарш́анам̣ гӣтава̄дитротсавасам̣ш́рутӣх̣",
-        "text": "следует пользоваться благовониями, гирляндами и подобными украшениями, устраняющими несчастье; проводить время в общении с друзьями, слушая песни, музыкальные инструменты и праздничные торжества;"
+        "text": "следует пользоваться благовониями, гирляндами и подобными украшениями, устраняющими несчастье; проводить время в общении с друзьями, слушая песни, музыкальные инструменты и праздничные торжества;",
+        "text_en": "he should use perfumes, garlands and similar adornments that dispel misfortune; spend time in the company of friends, listening to songs, musical instruments and festive celebrations;"
       },
       {
         "type": "verse",
@@ -37779,7 +38314,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बस्तयः क्षीरसर्पींषि मद्यं मांसं सुशीलता दैवव्यपाश्रयं तद्वदथर्वोक्तं च पूजितम्",
         "iast": "bastayaḥ kṣīrasarpīṃṣi madyaṃ māṃsaṃ suśīlatā daivavyapāśrayaṃ tadvadatharvoktaṃ ca pūjitam",
         "iast_ru": "бастайах̣ кш̣ӣрасарпӣм̣ш̣и мадйам̣ ма̄м̣сам̣ суш́ӣлата̄ даивавйапа̄ш́райам̣ тадвадатхарвоктам̣ ча пӯджитам",
-        "text": "клизмы, молоко, топлёные масла, хмельной напиток, мясо, добронравие; а также метод, основанный на божественном покровительстве, и почитаемый метод, упомянутый в Атхарваведе, — подобным же образом;"
+        "text": "клизмы, молоко, топлёные масла, хмельной напиток, мясо, добронравие; а также метод, основанный на божественном покровительстве, и почитаемый метод, упомянутый в Атхарваведе, — подобным же образом;",
+        "text_en": "enemas, milk, ghees, intoxicating drink, meat, good conduct; as well as the method based on divine protection, and the revered method mentioned in the Atharvaveda: likewise;"
       },
       {
         "type": "verse",
@@ -37787,7 +38323,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "इष्ट्या यया च चन्द्रस्य राजयक्ष्मा पुरा जितः पुरोहितः प्रयुञ्जीत वेदोक्तां तां जितात्मनः इति सप्तमो ऽध्यायः",
         "iast": "iṣṭyā yayā ca candrasya rājayakṣmā purā jitaḥ purohitaḥ prayuñjīta vedoktāṃ tāṃ jitātmanaḥ iti saptamo 'dhyāyaḥ",
         "iast_ru": "иш̣т̣йа̄ йайа̄ ча чандрасйа ра̄джайакш̣ма̄ пура̄ джитах̣ пурохитах̣ прайун̃джӣта ведокта̄м̣ та̄м̣ джита̄тманах̣ ити саптамо 'дхйа̄йах̣",
-        "text": "тем же жертвоприношением, которым в древности была побеждена раджаякшма у бога Чандры, пусть придворный жрец совершает для покорившего свой ум больного тот обряд, упомянутый в Веде. Такова седьмая глава."
+        "text": "тем же жертвоприношением, которым в древности была побеждена раджаякшма у бога Чандры, пусть придворный жрец совершает для покорившего свой ум больного тот обряд, упомянутый в Веде. Такова седьмая глава.",
+        "text_en": "by the same sacrifice by which in ancient times rajayakshma was conquered in the god Chandra, let the court priest perform for the patient who has subdued his mind that rite mentioned in the Veda. Such is the seventh chapter."
       }
     ]
   },
@@ -37809,7 +38346,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "अथातः छर्द्रिहृद्रोगतृष्णाचिकित्सितं व्याख्यास्यामः इति ह स्माहुरात्रेयादयो महर्षयः",
         "iast": "athātaḥ chardrihṛdrogatṛṣṇācikitsitaṃ vyākhyāsyāmaḥ iti ha smāhurātreyādayo maharṣayaḥ",
         "iast_ru": "атха̄тах̣ чхардрихр̣дрогатр̣ш̣н̣а̄чикитситам̣ вйа̄кхйа̄сйа̄мах̣ ити ха сма̄хура̄трейа̄дайо махарш̣айах̣",
-        "text": "Итак, далее мы разъясним лечение рвоты, болезни сердца и жажды — так говорили великие риши, начиная с Атреи."
+        "text": "Итак, далее мы разъясним лечение рвоты, болезни сердца и жажды — так говорили великие риши, начиная с Атреи.",
+        "text_en": "Now, further, we shall explain the treatment of vomiting, heart disease and thirst, as the great rishis beginning with Atreya declared."
       },
       {
         "type": "verse",
@@ -37817,7 +38355,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आमाशयोत्क्लेशभवाः प्रायश्छर्द्यो हितं ततः लङ्घनं प्रागृते वायोः वमनं तत्र योजयेत्",
         "iast": "āmāśayotkleśabhavāḥ prāyaśchardyo hitaṃ tataḥ laṅghanaṃ prāgṛte vāyoḥ vamanaṃ tatra yojayet",
         "iast_ru": "а̄ма̄ш́айотклеш́абхава̄х̣ пра̄йаш́чхардйо хитам̣ татах̣ лан̇гханам̣ пра̄гр̣те ва̄йох̣ ваманам̣ татра йоджайет",
-        "text": "Поскольку рвота, как правило, возникает от возбуждения в амашае, полезно прежде всего голодание; при рвоте, вызванной не только Ватой, следует применить рвотное средство;"
+        "text": "Поскольку рвота, как правило, возникает от возбуждения в амашае, полезно прежде всего голодание; при рвоте, вызванной не только Ватой, следует применить рвотное средство;",
+        "text_en": "Since vomiting, as a rule, arises from excitement in the amashaya, fasting is beneficial first of all; in vomiting caused by something other than Vata alone, an emetic should be applied;"
       },
       {
         "type": "verse",
@@ -37825,7 +38364,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "बलिनो बहुदोषस्य वमतः प्रततं बहु ततो विरेकं क्रमशो हृद्यं मद्यैः फलाम्बुभिः",
         "iast": "balino bahudoṣasya vamataḥ pratataṃ bahu tato virekaṃ kramaśo hṛdyaṃ madyaiḥ phalāmbubhiḥ",
         "iast_ru": "балино бахудош̣асйа ваматах̣ прататам̣ баху тато вирекам̣ крамаш́о хр̣дйам̣ мадйаих̣ пхала̄мбубхих̣",
-        "text": "у сильного больного с обильной дошей, у которого рвота уже продолжается интенсивно, следует затем последовательно применить слабительное, приятное для сердца, вместе с хмельным напитком, водой на плодах,"
+        "text": "у сильного больного с обильной дошей, у которого рвота уже продолжается интенсивно, следует затем последовательно применить слабительное, приятное для сердца, вместе с хмельным напитком, водой на плодах,",
+        "text_en": "in a strong patient with abundant dosha, in whom vomiting is already continuing intensely, a purgative pleasing to the heart should then be applied in succession, together with an intoxicating drink or water with fruits,"
       },
       {
         "type": "verse",
@@ -37833,7 +38373,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "क्षीरैर्वा सह स ह्यूर्ध्वं गतं दोषं नयत्यधः शमनं चौषधं रूक्षदुर्बलस्य तदेव तु",
         "iast": "kṣīrairvā saha sa hyūrdhvaṃ gataṃ doṣaṃ nayatyadhaḥ śamanaṃ cauṣadhaṃ rūkṣadurbalasya tadeva tu",
         "iast_ru": "кш̣ӣраирва̄ саха са хйӯрдхвам̣ гатам̣ дош̣ам̣ найатйадхах̣ ш́аманам̣ чауш̣адхам̣ рӯкш̣адурбаласйа тадева ту",
-        "text": "или с молоком; ведь оно направляет вниз дошу, устремившуюся вверх; для сухого и слабого больного то же слабительное следует применять как успокаивающее лекарство."
+        "text": "или с молоком; ведь оно направляет вниз дошу, устремившуюся вверх; для сухого и слабого больного то же слабительное следует применять как успокаивающее лекарство.",
+        "text_en": "or with milk; for it directs downward the dosha that has rushed upward; for a dry and weak patient the same purgative should be applied as a pacifying medicine."
       },
       {
         "type": "verse",
@@ -37841,7 +38382,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "परिशुष्कं प्रियं सात्म्यमन्नं लघु च शस्यते उपवासस्तथा यूषा रसाः काम्बलिकाः खलाः",
         "iast": "pariśuṣkaṃ priyaṃ sātmyamannaṃ laghu ca śasyate upavāsastathā yūṣā rasāḥ kāmbalikāḥ khalāḥ",
         "iast_ru": "париш́уш̣кам̣ прийам̣ са̄тмйаманнам̣ лагху ча ш́асйате упава̄састатха̄ йӯш̣а̄ раса̄х̣ ка̄мбалика̄х̣ кхала̄х̣",
-        "text": "Рекомендуется сухая, приятная, привычная, лёгкая пища; также голодание, супы, соки, камбалика (кисломолочное блюдо), кхала (кашица);"
+        "text": "Рекомендуется сухая, приятная, привычная, лёгкая пища; также голодание, супы, соки, камбалика (кисломолочное блюдо), кхала (кашица);",
+        "text_en": "Dry, pleasant, familiar, light food is recommended; also fasting, soups, juices, kambalika (a sour milk dish), khala (thin gruel);"
       },
       {
         "type": "verse",
@@ -37849,7 +38391,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शाकानि लेहा भोज्यानि रागषाडवपानकाः भक्ष्याः शुष्का विचित्राश्च फलानि स्नानघर्षणम्",
         "iast": "śākāni lehā bhojyāni rāgaṣāḍavapānakāḥ bhakṣyāḥ śuṣkā vicitrāśca phalāni snānagharṣaṇam",
         "iast_ru": "ш́а̄ка̄ни леха̄ бходжйа̄ни ра̄гаш̣а̄д̣авапа̄нака̄х̣ бхакш̣йа̄х̣ ш́уш̣ка̄ вичитра̄ш́ча пхала̄ни сна̄нагхарш̣ан̣ам",
-        "text": "овощи, лехьи (сиропы), разнообразная пища, рага и шадава (кисло-сладкие напитки), напитки; сухая, разнообразная пища; фрукты; купание и растирание;"
+        "text": "овощи, лехьи (сиропы), разнообразная пища, рага и шадава (кисло-сладкие напитки), напитки; сухая, разнообразная пища; фрукты; купание и растирание;",
+        "text_en": "vegetables, lehyas (confections), varied food, raga and shadava (sour-sweet drinks), beverages; dry, varied food; fruits; bathing and rubbing;"
       },
       {
         "type": "verse",
@@ -37857,7 +38400,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "गन्धाः सुगन्धयो गन्धफलपुष्पान्न पानजाः भुक्तमात्रस्य सहसा मुखे शीताम्बुसेचनम्",
         "iast": "gandhāḥ sugandhayo gandhaphalapuṣpānna pānajāḥ bhuktamātrasya sahasā mukhe śītāmbusecanam",
         "iast_ru": "гандха̄х̣ сугандхайо гандхапхалапуш̣па̄нна па̄наджа̄х̣ бхуктама̄трасйа сахаса̄ мукхе ш́ӣта̄мбусечанам",
-        "text": "ароматы, благовония, запахи плодов, цветов, еды и напитков; сразу после еды — внезапное обливание рта холодной водой,"
+        "text": "ароматы, благовония, запахи плодов, цветов, еды и напитков; сразу после еды — внезапное обливание рта холодной водой,",
+        "text_en": "aromas, perfumes, the smells of fruits, flowers, food and drink; immediately after eating, sudden dousing of the mouth with cold water,"
       },
       {
         "type": "verse",
@@ -37865,7 +38409,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हन्ति मारुतजां छार्दिं सर्पिः पीतं ससैन्धवम् किञ्चिदुष्णं विशेषेण सकासहृदयद्रवाम्",
         "iast": "hanti mārutajāṃ chārdiṃ sarpiḥ pītaṃ sasaindhavam kiñciduṣṇaṃ viśeṣeṇa sakāsahṛdayadravām",
         "iast_ru": "ханти ма̄рутаджа̄м̣ чха̄рдим̣ сарпих̣ пӣтам̣ сасаиндхавам кин̃чидуш̣н̣ам̣ виш́еш̣ен̣а сака̄сахр̣дайадрава̄м",
-        "text": "устраняет рвоту, вызванную Ватой; выпитое топлёное масло, вместе с каменной солью, слегка тёплое, в особенности если рвота сопровождается кашлем и учащённым сердцебиением;"
+        "text": "устраняет рвоту, вызванную Ватой; выпитое топлёное масло, вместе с каменной солью, слегка тёплое, в особенности если рвота сопровождается кашлем и учащённым сердцебиением;",
+        "text_en": "relieves vomiting caused by Vata; ghee drunk, together with rock salt, slightly warm, especially if the vomiting is accompanied by cough and palpitation;"
       },
       {
         "type": "verse",
@@ -37873,7 +38418,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्योषत्रिलवणाढ्यं वा सिद्धं वा दाडिमाम्बुना सशुण्ठीदधिधान्येन पीतं तुल्याम्बु वा पयः",
         "iast": "vyoṣatrilavaṇāḍhyaṃ vā siddhaṃ vā dāḍimāmbunā saśuṇṭhīdadhidhānyena pītaṃ tulyāmbu vā payaḥ",
         "iast_ru": "вйош̣атрилаван̣а̄д̣хйам̣ ва̄ сиддхам̣ ва̄ да̄д̣има̄мбуна̄ саш́ун̣т̣хӣдадхидха̄нйена пӣтам̣ тулйа̄мбу ва̄ пайах̣",
-        "text": "или же топлёное масло, обогащённое вьошей и тремя солями; или приготовленное с гранатовой водой; выпитое молоко с сухим имбирём, простоквашей и кориандром, или разведённое равным количеством воды;"
+        "text": "или же топлёное масло, обогащённое вьошей и тремя солями; или приготовленное с гранатовой водой; выпитое молоко с сухим имбирём, простоквашей и кориандром, или разведённое равным количеством воды;",
+        "text_en": "or else ghee enriched with vyosha and the three salts; or prepared with pomegranate water; milk drunk with dry ginger, curd and coriander, or diluted with an equal quantity of water;"
       },
       {
         "type": "verse",
@@ -37881,7 +38427,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "व्यक्तसैन्धवसर्पिर्वा फलाम्लो वैष्किरो रसः स्निग्धं च भोजनं शुण्ठीदधिदाडिमसाधितम् कोष्णं सलवणं चात्र हितं स्नेहविरेचनम्",
         "iast": "vyaktasaindhavasarpirvā phalāmlo vaiṣkiro rasaḥ snigdhaṃ ca bhojanaṃ śuṇṭhīdadhidāḍimasādhitam koṣṇaṃ salavaṇaṃ cātra hitaṃ snehavirecanam",
         "iast_ru": "вйактасаиндхавасарпирва̄ пхала̄мло ваиш̣киро расах̣ снигдхам̣ ча бходжанам̣ ш́ун̣т̣хӣдадхида̄д̣имаса̄дхитам кош̣н̣ам̣ салаван̣ам̣ ча̄тра хитам̣ снехавиречанам",
-        "text": "или явно ощутимое топлёное масло с каменной солью; кислый плод; мясной бульон птиц типа куриных; маслянистая пища, приготовленная с сухим имбирём, простоквашей и гранатом, тёплая, вместе с солью — здесь полезно; также полезно слабительное с маслом;"
+        "text": "или явно ощутимое топлёное масло с каменной солью; кислый плод; мясной бульон птиц типа куриных; маслянистая пища, приготовленная с сухим имбирём, простоквашей и гранатом, тёплая, вместе с солью — здесь полезно; также полезно слабительное с маслом;",
+        "text_en": "or distinctly perceptible ghee with rock salt; a sour fruit; meat broth of gallinaceous birds; unctuous food prepared with dry ginger, curd and pomegranate, warm, together with salt, is beneficial here; a purgative with oil is also beneficial;"
       },
       {
         "type": "verse",
@@ -37889,7 +38436,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "पित्तजायां विरेकाथ द्राक्षेक्षुस्वरसैस्त्रिवृत् सर्पिर्वा तैल्वकं योज्यं वृद्धं च श्लेष्मधामगम्",
         "iast": "pittajāyāṃ virekātha drākṣekṣusvarasaistrivṛt sarpirvā tailvakaṃ yojyaṃ vṛddhaṃ ca śleṣmadhāmagam",
         "iast_ru": "питтаджа̄йа̄м̣ вирека̄тха дра̄кш̣екш̣усварасаистривр̣т сарпирва̄ таилвакам̣ йоджйам̣ вр̣ддхам̣ ча ш́леш̣мадха̄магам",
-        "text": "при рвоте от Питты — слабительное с тривритой, вместе с соком изюма и сахарного тростника; следует применять топлёное масло, или тилвака-гхриту; при усилившейся Питте, расположившейся в обители Капхи,"
+        "text": "при рвоте от Питты — слабительное с тривритой, вместе с соком изюма и сахарного тростника; следует применять топлёное масло, или тилвака-гхриту; при усилившейся Питте, расположившейся в обители Капхи,",
+        "text_en": "in vomiting from Pitta, a purgative with trivrit, together with the juice of raisins and sugarcane; ghee should be applied, or Tilvaka ghrita; when Pitta has increased and settled in the abode of Kapha,"
       },
       {
         "type": "verse",
@@ -37897,7 +38445,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ऊर्ध्वमेव हरेत् पित्तं स्वादुतिक्तैर्विशुद्धिमान् पिबेन्मन्थं यवागूं वा लाजैः समधुशर्करैः गुद्गजाङ्गलजैरद्याद्व्यञ्जनैः शालिषष्टिकम्",
         "iast": "ūrdhvameva haret pittaṃ svādutiktairviśuddhimān pibenmanthaṃ yavāgūṃ vā lājaiḥ samadhuśarkaraiḥ gudgajāṅgalajairadyādvyañjanaiḥ śāliṣaṣṭikam",
         "iast_ru": "ӯрдхвамева харет питтам̣ сва̄дутиктаирвиш́уддхима̄н пибенмантхам̣ йава̄гӯм̣ ва̄ ла̄джаих̣ самадхуш́аркараих̣ гудгаджа̄н̇галаджаирадйа̄двйан̃джанаих̣ ш́а̄лиш̣аш̣т̣икам",
-        "text": "следует устранять Питту именно вверх, сладкими и горькими средствами; очистившийся пусть пьёт мантху (взбитый напиток) или ячменный отвар с поджаренным рисом, вместе с мёдом и сахаром; пусть ест рис шали и шаштика, вместе с приправами из зелёного маша и мяса диких животных;"
+        "text": "следует устранять Питту именно вверх, сладкими и горькими средствами; очистившийся пусть пьёт мантху (взбитый напиток) или ячменный отвар с поджаренным рисом, вместе с мёдом и сахаром; пусть ест рис шали и шаштика, вместе с приправами из зелёного маша и мяса диких животных;",
+        "text_en": "Pitta should be eliminated upward, with sweet and bitter remedies; having been purified, one should drink mantha (a churned drink) or barley decoction with parched rice, together with honey and sugar; one should eat shali and shashtika rice, together with seasonings of green gram and the meat of wild animals;"
       },
       {
         "type": "verse",
@@ -37905,7 +38454,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मृद्भृष्टलोष्टप्रभवं सुशीतं सलिलं पिबेत् मुद्गोशीरकणाधान्यैः सह वा संस्थितं निशाम् द्राक्षारसं रसञ्चेक्षोर्गुडूच्यम्बु पयो ऽपि",
         "iast": "mṛdbhṛṣṭaloṣṭaprabhavaṃ suśītaṃ salilaṃ pibet mudgośīrakaṇādhānyaiḥ saha vā saṃsthitaṃ niśām drākṣārasaṃ rasañcekṣorguḍūcyambu payo 'pi",
         "iast_ru": "мр̣дбхр̣ш̣т̣алош̣т̣апрабхавам̣ суш́ӣтам̣ салилам̣ пибет мудгош́ӣракан̣а̄дха̄нйаих̣ саха ва̄ сам̣стхитам̣ ниш́а̄м дра̄кш̣а̄расам̣ расан̃чекш̣оргуд̣ӯчйамбу пайо 'пи",
-        "text": "следует пить очень холодную воду, полученную от обожжённого глиняного кома; или воду, настоянную ночь с зелёным машем, уширой, пиппали и кориандром; сок изюма, сок сахарного тростника, воду с гудучи, а также молоко,"
+        "text": "следует пить очень холодную воду, полученную от обожжённого глиняного кома; или воду, настоянную ночь с зелёным машем, уширой, пиппали и кориандром; сок изюма, сок сахарного тростника, воду с гудучи, а также молоко,",
+        "text_en": "one should drink very cold water obtained from a burnt lump of clay; or water steeped overnight with green gram, ushira, pippali and coriander; raisin juice, sugarcane juice, water with guduchi, and also milk,"
       },
       {
         "type": "verse",
@@ -37913,7 +38463,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "जम्ब्वाम्रपल्लवोशीरवटाश्वत्थाङ्कुरोद्भवः क्वाथः क्षौद्रयुतः पीतः शीतो वा विनियच्छति",
         "iast": "jambvāmrapallavośīravaṭāśvatthāṅkurodbhavaḥ kvāthaḥ kṣaudrayutaḥ pītaḥ śīto vā viniyacchati",
         "iast_ru": "джамбва̄мрапаллавош́ӣрават̣а̄ш́ваттха̄н̇куродбхавах̣ ква̄тхах̣ кш̣аудрайутах̣ пӣтах̣ ш́ӣто ва̄ винийаччхати",
-        "text": "отвар, приготовленный из побегов джамбу и манго, уширы, ростков баньяна и ашваттхи, вместе с мёдом, выпитый, холодный, устраняет"
+        "text": "отвар, приготовленный из побегов джамбу и манго, уширы, ростков баньяна и ашваттхи, вместе с мёдом, выпитый, холодный, устраняет",
+        "text_en": "a decoction prepared from shoots of jambu and mango, ushira, sprouts of banyan and ashvattha, together with honey, drunk cold, relieves"
       },
       {
         "type": "verse",
@@ -37921,7 +38472,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "छर्दिं ज्वरमतीसारं मूर्छां तृष्णां च दुर्जयाम् धात्रीरसेन शीतं वा पिबेन्मुद्गदलाम्बु वा",
         "iast": "chardiṃ jvaramatīsāraṃ mūrchāṃ tṛṣṇāṃ ca durjayām dhātrīrasena śītaṃ vā pibenmudgadalāmbu vā",
         "iast_ru": "чхардим̣ джвараматӣса̄рам̣ мӯрчха̄м̣ тр̣ш̣н̣а̄м̣ ча дурджайа̄м дха̄трӣрасена ш́ӣтам̣ ва̄ пибенмудгадала̄мбу ва̄",
-        "text": "рвоту, лихорадку, понос, обморок и труднопобедимую жажду; следует пить холодный сок амалаки, или воду с шелухой зелёного маша;"
+        "text": "рвоту, лихорадку, понос, обморок и труднопобедимую жажду; следует пить холодный сок амалаки, или воду с шелухой зелёного маша;",
+        "text_en": "vomiting, fever, diarrhoea, fainting and hard-to-conquer thirst; one should drink the cold juice of amalaki, or water with green gram husks;"
       },
       {
         "type": "verse",
@@ -37929,7 +38481,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कोलमज्जासितालाजमक्षिकाविट्कणाञ्जनम् कोलास्थिमज्जास्रोतोजलाजोत्पलरजांसि वा",
         "iast": "kolamajjāsitālājamakṣikāviṭkaṇāñjanam kolāsthimajjāsrotojalājotpalarajāṃsi vā",
         "iast_ru": "коламаджджа̄сита̄ла̄джамакш̣ика̄вит̣кан̣а̄н̃джанам кола̄стхимаджджа̄сротоджала̄джотпалараджа̄м̣си ва̄",
-        "text": "мякоть кола, сахар, поджаренный рис, пчелиный помёт, пиппали, коллирий; или порошок из мякоти костей кола, слизи и лотоса,"
+        "text": "мякоть кола, сахар, поджаренный рис, пчелиный помёт, пиппали, коллирий; или порошок из мякоти костей кола, слизи и лотоса,",
+        "text_en": "kola pulp, sugar, parched rice, bee droppings, pippali, collyrium; or a powder from the pulp of kola kernels, mucus and lotus,"
       },
       {
         "type": "verse",
@@ -37937,7 +38490,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लिह्यात् क्षौद्रेण पथ्यां वा द्राक्षां वा बदराणि वा पिबेच्छीताम्बुना शालिस्वर्णगैरिकजं रजः पिष्टं वा चन्दनद्राक्षामांसीसेव्याम्बुगैरिकम्",
         "iast": "lihyāt kṣaudreṇa pathyāṃ vā drākṣāṃ vā badarāṇi vā pibecchītāmbunā śālisvarṇagairikajaṃ rajaḥ piṣṭaṃ vā candanadrākṣāmāṃsīsevyāmbugairikam",
         "iast_ru": "лихйа̄т кш̣аудрен̣а патхйа̄м̣ ва̄ дра̄кш̣а̄м̣ ва̄ бадара̄н̣и ва̄ пибеччхӣта̄мбуна̄ ш́а̄лисварн̣агаирикаджам̣ раджах̣ пиш̣т̣ам̣ ва̄ чанданадра̄кш̣а̄ма̄м̣сӣсевйа̄мбугаирикам",
-        "text": "следует принять слизыванием с мёдом; или харитаки, изюм или ягоды бадары; следует пить с холодной водой порошок из риса шали, золота и герики; или растёртые сандал, изюм, мансаси, севью и герику,"
+        "text": "следует принять слизыванием с мёдом; или харитаки, изюм или ягоды бадары; следует пить с холодной водой порошок из риса шали, золота и герики; или растёртые сандал, изюм, мансаси, севью и герику,",
+        "text_en": "should be taken by licking with honey; or haritaki, raisins or jujube berries; a powder of shali rice, gold and geru should be drunk with cold water; or ground sandal, raisins, mamsi, sevya and geru,"
       },
       {
         "type": "verse",
@@ -37945,7 +38499,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "शालितण्डुलतोयेन पिबेद्वा ससितामधु मधूकमधुकद्राक्षाकमलामलकाम्बुदम्",
         "iast": "śālitaṇḍulatoyena pibedvā sasitāmadhu madhūkamadhukadrākṣākamalāmalakāmbudam",
         "iast_ru": "ш́а̄литан̣д̣улатойена пибедва̄ сасита̄мадху мадхӯкамадхукадра̄кш̣а̄камала̄малака̄мбудам",
-        "text": "следует пить с рисовой водой, вместе с сахаром и мёдом; состав из мадхуки, солодки, изюма, лотоса и амалаки, вместе с водой,"
+        "text": "следует пить с рисовой водой, вместе с сахаром и мёдом; состав из мадхуки, солодки, изюма, лотоса и амалаки, вместе с водой,",
+        "text_en": "should be drunk with rice water, together with sugar and honey; a compound of madhuka, licorice, raisins, lotus and amalaki, together with water,"
       },
       {
         "type": "verse",
@@ -37953,7 +38508,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "ससारिवापरूषाक्षं मूर्वां वा माक्षिकान्विताम् मधुकं सात्मगुप्तं वा शीतं धात्रीरसेन वा",
         "iast": "sasārivāparūṣākṣaṃ mūrvāṃ vā mākṣikānvitām madhukaṃ sātmaguptaṃ vā śītaṃ dhātrīrasena vā",
         "iast_ru": "саса̄рива̄парӯш̣а̄кш̣ам̣ мӯрва̄м̣ ва̄ ма̄кш̣ика̄нвита̄м мадхукам̣ са̄тмагуптам̣ ва̄ ш́ӣтам̣ дха̄трӣрасена ва̄",
-        "text": "вместе с саривой и парушакой; или урву, вместе с мёдом; или солодку с атмагуптой, холодную, или с соком амалаки;"
+        "text": "вместе с саривой и парушакой; или урву, вместе с мёдом; или солодку с атмагуптой, холодную, или с соком амалаки;",
+        "text_en": "together with sariva and parushaka; or urva, together with honey; or licorice with atmagupta, cold, or with amalaki juice;"
       },
       {
         "type": "verse",
@@ -37961,7 +38517,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कफजायां वमेन्निम्बकृष्णापिण्डीतसर्षपैः युक्तेन कोष्णतोयेन दुर्बलं चोपवासयेत्",
         "iast": "kaphajāyāṃ vamennimbakṛṣṇāpiṇḍītasarṣapaiḥ yuktena koṣṇatoyena durbalaṃ copavāsayet",
         "iast_ru": "капхаджа̄йа̄м̣ ваменнимбакр̣ш̣н̣а̄пин̣д̣ӣтасарш̣апаих̣ йуктена кош̣н̣атойена дурбалам̣ чопава̄сайет",
-        "text": "при рвоте от Капхи следует вызвать рвоту тёплой водой с нимом, пиппали, пиндитой и горчицей; слабого же больного следует держать на голодании;"
+        "text": "при рвоте от Капхи следует вызвать рвоту тёплой водой с нимом, пиппали, пиндитой и горчицей; слабого же больного следует держать на голодании;",
+        "text_en": "in vomiting from Kapha, vomiting should be induced with warm water with neem, pippali, pindita and mustard; a weak patient, however, should be kept fasting;"
       },
       {
         "type": "verse",
@@ -37969,7 +38526,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "आरग्वधादेर्निर्यूहं शीतं क्षौद्रयुतं पिबेत् त्रिफलाकणचव्याद्वा पेयां पत्रैः करञ्जजैः",
         "iast": "āragvadhāderniryūhaṃ śītaṃ kṣaudrayutaṃ pibet triphalākaṇacavyādvā peyāṃ patraiḥ karañjajaiḥ",
         "iast_ru": "а̄рагвадха̄дернирйӯхам̣ ш́ӣтам̣ кш̣аудрайутам̣ пибет трипхала̄кан̣ачавйа̄два̄ пейа̄м̣ патраих̣ каран̃джаджаих̣",
-        "text": "следует пить холодный отвар арагвадхи и подобного, вместе с мёдом; или пею с трифалой, пиппали, чавьей, вместе с листьями каранджи;"
+        "text": "следует пить холодный отвар арагвадхи и подобного, вместе с мёдом; или пею с трифалой, пиппали, чавьей, вместе с листьями каранджи;",
+        "text_en": "one should drink a cold decoction of aragvadha and the like, together with honey; or a peya with triphala, pippali and chavya, together with leaves of karanja;"
       },
       {
         "type": "verse",
@@ -37977,7 +38535,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "मन्थान्यवैर्वा बहुशश्छर्दिघ्नौषधभावितैः कफघ्नमन्नं हृद्यं च रागाः सार्जकभूस्तृणाः",
         "iast": "manthānyavairvā bahuśaśchardighnauṣadhabhāvitaiḥ kaphaghnamannaṃ hṛdyaṃ ca rāgāḥ sārjakabhūstṛṇāḥ",
         "iast_ru": "мантха̄нйаваирва̄ бахуш́аш́чхардигхнауш̣адхабха̄витаих̣ капхагхнаманнам̣ хр̣дйам̣ ча ра̄га̄х̣ са̄рджакабхӯстр̣н̣а̄х̣",
-        "text": "мантху с многократно пропитанным жаропонижающими средствами ячменём; пищу, устраняющую Капху и приятную для сердца; раги (напитки) с арджакой и бхустриной;"
+        "text": "мантху с многократно пропитанным жаропонижающими средствами ячменём; пищу, устраняющую Капху и приятную для сердца; раги (напитки) с арджакой и бхустриной;",
+        "text_en": "mantha with barley repeatedly soaked in fever-reducing remedies; food that relieves Kapha and is pleasing to the heart; ragas (drinks) with arjaka and bhustrina;"
       },
       {
         "type": "verse",
@@ -37985,7 +38544,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "लीढं मनश्शिलाकृष्णामरिचं बीजपूरकात् स्वरसेन कपित्थाच्च सक्षौद्रेण वमिं जयेत्",
         "iast": "līḍhaṃ manaśśilākṛṣṇāmaricaṃ bījapūrakāt svarasena kapitthācca sakṣaudreṇa vamiṃ jayet",
         "iast_ru": "лӣд̣хам̣ манаш́ш́ила̄кр̣ш̣н̣а̄маричам̣ бӣджапӯрака̄т сварасена капиттха̄чча сакш̣аудрен̣а вамим̣ джайет",
-        "text": "следует принять слизыванием манахшилу, пиппали и перец, с соком биджапуры и капиттхи, вместе с мёдом, — так побеждают рвоту;"
+        "text": "следует принять слизыванием манахшилу, пиппали и перец, с соком биджапуры и капиттхи, вместе с мёдом, — так побеждают рвоту;",
+        "text_en": "manahshila, pippali and pepper should be taken by licking, with the juice of bijapura and kapittha, together with honey; thus vomiting is conquered;"
       },
       {
         "type": "verse",
@@ -37993,7 +38553,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "समुस्तां मधुना शृङ्गीं कोलाम्लं वा सजाम्बवम् तद्वद्विडङ्गत्रिफलाकृमिघ्नपरिपेलवम्",
         "iast": "samustāṃ madhunā śṛṅgīṃ kolāmlaṃ vā sajāmbavam tadvadviḍaṅgatriphalākṛmighnaparipelavam",
         "iast_ru": "самуста̄м̣ мадхуна̄ ш́р̣н̇гӣм̣ кола̄млам̣ ва̄ саджа̄мбавам тадвадвид̣ан̇гатрипхала̄кр̣мигхнапарипелавам",
-        "text": "мусту с мёдом, каркатасрингу; или кислое пюре из кола, вместе с джамбу; подобным же образом — виданги, трифалу, кримигхну и парипелву;"
+        "text": "мусту с мёдом, каркатасрингу; или кислое пюре из кола, вместе с джамбу; подобным же образом — виданги, трифалу, кримигхну и парипелву;",
+        "text_en": "musta with honey, karkatasringi; or a sour purée of kola, together with jambu; likewise vidangas, triphala, krimighna and paripelava;"
       },
       {
         "type": "verse",
@@ -38001,7 +38562,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तद्वद्दुरालभां खादेत् कपित्थं त्र्यूषणेन वा अनुकूलोपचारेण याति द्विष्टार्थजा शमम्",
         "iast": "tadvaddurālabhāṃ khādet kapitthaṃ tryūṣaṇena vā anukūlopacāreṇa yāti dviṣṭārthajā śamam",
         "iast_ru": "тадваддура̄лабха̄м̣ кха̄дет капиттхам̣ трйӯш̣ан̣ена ва̄ анукӯлопача̄рен̣а йа̄ти двиш̣т̣а̄ртхаджа̄ ш́амам",
-        "text": "подобным же образом следует есть дуралабху; капиттху с трьюшаной; рвота, вызванная неприятными предметами, стихает от приятного обращения с больным;"
+        "text": "подобным же образом следует есть дуралабху; капиттху с трьюшаной; рвота, вызванная неприятными предметами, стихает от приятного обращения с больным;",
+        "text_en": "likewise one should eat duralabha; kapittha with trayushana; vomiting caused by disagreeable objects subsides with pleasant treatment of the patient;"
       },
       {
         "type": "verse",
@@ -38009,7 +38571,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "कृमिजा कृमिहृद्रोगगदितैश्च भिषग्जितैः यथास्वं परिशिष्टाश्च तत्कृताश्च तथामयाः",
         "iast": "kṛmijā kṛmihṛdrogagaditaiśca bhiṣagjitaiḥ yathāsvaṃ pariśiṣṭāśca tatkṛtāśca tathāmayāḥ",
         "iast_ru": "кр̣миджа̄ кр̣михр̣дрогагадитаиш́ча бхиш̣агджитаих̣ йатха̄свам̣ париш́иш̣т̣а̄ш́ча таткр̣та̄ш́ча татха̄майа̄х̣",
-        "text": "рвоту, вызванную глистами, следует лечить средствами, упомянутыми врачами при болезни сердца от глистов; а также прочие оставшиеся виды рвоты и болезни, вызванные ею, следует лечить соответственно."
+        "text": "рвоту, вызванную глистами, следует лечить средствами, упомянутыми врачами при болезни сердца от глистов; а также прочие оставшиеся виды рвоты и болезни, вызванные ею, следует лечить соответственно.",
+        "text_en": "vomiting caused by worms should be treated with the remedies mentioned by physicians for heart disease from worms; and the remaining kinds of vomiting and diseases caused by it should be treated accordingly."
       },
       {
         "type": "verse",
@@ -38017,7 +38580,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "त्वरमाणो जयेच्छर्दिं प्रसक्तामनुबन्धिनीम् कोष्ठाश्रयमहामर्मपीडाकरतरा हि सा",
         "iast": "tvaramāṇo jayecchardiṃ prasaktāmanubandhinīm koṣṭhāśrayamahāmarmapīḍākaratarā hi sā",
         "iast_ru": "тварама̄н̣о джайеччхардим̣ прасакта̄манубандхинӣм кош̣т̣ха̄ш́райамаха̄мармапӣд̣а̄каратара̄ хи са̄",
-        "text": "Спешно следует побеждать длительную, упорную рвоту; ведь она, коренящаяся в коштхе, причиняет сильнейшую боль в жизненно важных точках."
+        "text": "Спешно следует побеждать длительную, упорную рвоту; ведь она, коренящаяся в коштхе, причиняет сильнейшую боль в жизненно важных точках.",
+        "text_en": "Prolonged, persistent vomiting should be conquered quickly; for, rooted in the koshtha, it causes severe pain in the vital points."
       },
       {
         "type": "verse",
@@ -38025,7 +38589,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नचान्नेन विना कायस्तन्मयो वर्तते ऽपि च धातुक्षयो ऽतिवमथौ समीरणसमीरणात्",
         "iast": "nacānnena vinā kāyastanmayo vartate 'pi ca dhātukṣayo 'tivamathau samīraṇasamīraṇāt",
         "iast_ru": "нача̄ннена вина̄ ка̄йастанмайо вартате 'пи ча дха̄тукш̣айо 'тиваматхау самӣран̣асамӣран̣а̄т",
-        "text": "Ведь тело, состоящее из пищи, не может существовать без пищи; при чрезмерной рвоте, из-за возбуждения Ваты,"
+        "text": "Ведь тело, состоящее из пищи, не может существовать без пищи; при чрезмерной рвоте, из-за возбуждения Ваты,",
+        "text_en": "For the body, consisting of food, cannot exist without food; in excessive vomiting, owing to the aggravation of Vata,"
       },
       {
         "type": "verse",
@@ -38033,7 +38598,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "नियतं जायते तस्माद्द्रुतं तत्र प्रयोजयेत् प्रच्छर्दनातियोगोक्तं क्रमं स्तम्भनबृंहणम्",
         "iast": "niyataṃ jāyate tasmāddrutaṃ tatra prayojayet pracchardanātiyogoktaṃ kramaṃ stambhanabṛṃhaṇam",
         "iast_ru": "нийатам̣ джа̄йате тасма̄ддрутам̣ татра прайоджайет праччхардана̄тийогоктам̣ крамам̣ стамбханабр̣м̣хан̣ам",
-        "text": "неизбежно возникает истощение тканей тела; поэтому следует быстро применить последовательность, упомянутую при чрезмерном действии рвотного, — сдерживающее и укрепляющее лечение:"
+        "text": "неизбежно возникает истощение тканей тела; поэтому следует быстро применить последовательность, упомянутую при чрезмерном действии рвотного, — сдерживающее и укрепляющее лечение:",
+        "text_en": "depletion of the bodily tissues inevitably arises; therefore one should quickly apply the sequence mentioned for excessive action of an emetic: restraining and strengthening treatment:"
       },
       {
         "type": "verse",
@@ -38041,7 +38607,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "सर्पिर्गुडान् रसान् क्षीरं घृतं कल्याणजीवनम् धान्वन्तरं त्र्यूषणं वा दोषदेहानुरोधतः",
         "iast": "sarpirguḍān rasān kṣīraṃ ghṛtaṃ kalyāṇajīvanam dhānvantaraṃ tryūṣaṇaṃ vā doṣadehānurodhataḥ",
         "iast_ru": "сарпиргуд̣а̄н раса̄н кш̣ӣрам̣ гхр̣там̣ калйа̄н̣аджӣванам дха̄нвантарам̣ трйӯш̣ан̣ам̣ ва̄ дош̣адеха̄нуродхатах̣",
-        "text": "топлёное масло, шарики, соки, молоко, топлёное масло кальянаджйвана, дханвантара-гхриту или трьюшана-гхриту — в соответствии с состоянием доши и тела."
+        "text": "топлёное масло, шарики, соки, молоко, топлёное масло кальянаджйвана, дханвантара-гхриту или трьюшана-гхриту — в соответствии с состоянием доши и тела.",
+        "text_en": "ghee, balls, juices, milk, Kalyanajivana ghee, Dhanvantara ghrita or Trayushana ghrita, according to the state of the dosha and the body."
       },
       {
         "type": "verse",
@@ -38049,7 +38616,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "हृद्रोगचिकित्सितम् हृद्रोगे वातजे तैलं मस्तुसौवीरतक्रवत् पिबेत् सुखोष्णं सबिडं गुल्मानाहार्तिजिच्च तत्",
         "iast": "hṛdrogacikitsitam hṛdroge vātaje tailaṃ mastusauvīratakravat pibet sukhoṣṇaṃ sabiḍaṃ gulmānāhārtijicca tat",
         "iast_ru": "хр̣дрогачикитситам хр̣дроге ва̄тадже таилам̣ мастусаувӣратакрават пибет сукхош̣н̣ам̣ сабид̣ам̣ гулма̄на̄ха̄ртиджичча тат",
-        "text": "Раздел «Лечение болезни сердца»: при болезни сердца от Ваты следует пить растительное масло с мастху, сувирой и пахтой, приятно тёплое, вместе с бидой; оно устраняет гульму, вздутие и боль;"
+        "text": "Раздел «Лечение болезни сердца»: при болезни сердца от Ваты следует пить растительное масло с мастху, сувирой и пахтой, приятно тёплое, вместе с бидой; оно устраняет гульму, вздутие и боль;",
+        "text_en": "Section \"Treatment of Heart Disease\": in heart disease from Vata one should drink vegetable oil with mastu, suvira and buttermilk, pleasantly warm, together with bida; it relieves gulma, distension and pain;"
       },
       {
         "type": "verse",
@@ -38057,7 +38625,8 @@ export const ASTANGA_DATA = [
         "sanskrit": "तलं च लवणैः सिद्धं समूत्राम्लं तथागुणम् बिल्वं रास्नां यवान् कोलं देवदारु पुनर्नवम्",
         "iast": "talaṃ ca lavaṇaiḥ siddhaṃ samūtrāmlaṃ tathāguṇam bilvaṃ rāsnāṃ yavān kolaṃ devadāru punarnavam",
         "iast_ru": "талам̣ ча лаван̣аих̣ сиддхам̣ самӯтра̄млам̣ татха̄гун̣ам билвам̣ ра̄сна̄м̣ йава̄н колам̣ девада̄ру пунарнавам",
-        "text": "также масло, сваренное с солями, обладает теми же свойствами, вместе с мочой и кислым; билву, расну, ячмень, кол, девадару, пунарнаву,"
+        "text": "также масло, сваренное с солями, обладает теми же свойствами, вместе с мочой и кислым; билву, расну, ячмень, кол, девадару, пунарнаву,",
+        "text_en": "oil cooked with salts has the same properties, together with urine and sour substances; bilva, rasna, barley, kola, devadaru, punarnava,"
       },
       {
         "type": "verse",
