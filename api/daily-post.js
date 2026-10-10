@@ -89,7 +89,8 @@ function versePost({ verse, chapter }) {
     ``,
     `<i>Аштанга-хридая-самхита · ${loc}</i>`,
     ``,
-    `🌿 Читать полную книгу: ${BOT_USERNAME}`,
+    `🌿 Читать полную книгу на сайте: <a href="https://ayurvedareader.ru">ayurvedareader.ru</a>`,
+    `🌿 Телеграм-бот: ${BOT_USERNAME}`,
   ].join('\n');
 }
 
@@ -101,7 +102,8 @@ function encPost({ article, section }) {
     ``,
     esc(truncate(text)),
     ``,
-    `📚 Полная энциклопедия аюрведы: ${BOT_USERNAME}`,
+    `📚 Полная энциклопедия на сайте: <a href="https://ayurvedareader.ru">ayurvedareader.ru</a>`,
+    `🌿 Телеграм-бот: ${BOT_USERNAME}`,
   ].join('\n');
 }
 
@@ -111,7 +113,8 @@ function remedyPost(remedy) {
     ``,
     esc(truncate(remedy.content)),
     ``,
-    `💊 Все аюрведические средства: ${BOT_USERNAME}`,
+    `💊 Все средства на сайте: <a href="https://ayurvedareader.ru">ayurvedareader.ru</a>`,
+    `🌿 Телеграм-бот: ${BOT_USERNAME}`,
   ].join('\n');
 }
 
