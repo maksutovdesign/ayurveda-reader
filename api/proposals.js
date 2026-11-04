@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * /api/proposals
  *   POST                — создать правку (вошедший пользователь)
@@ -36,6 +37,7 @@ function sanitizeArticle(collection, p) {
 }
 
 export default async function handler(req, res) {
+  if (handleCors(req, res)) return;
   const session = verifySession(tokenFromReq(req));
   if (!session) return res.status(401).json({ error: 'Не авторизован' });
   if (!kvEnabled) return res.status(503).json({ error: 'Хранилище не настроено (Vercel KV)' });

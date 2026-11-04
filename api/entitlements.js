@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * GET /api/entitlements
  * Возвращает права доступа текущего пользователя (по сессии) + каталог товаров.
@@ -8,6 +9,7 @@ import { PRODUCTS, FREE_BOOKS, PREVIEW_CHAPTERS } from '../lib/pricing.js';
 import { yooEnabled } from '../lib/yookassa.js';
 
 export default async function handler(req, res) {
+  if (handleCors(req, res)) return;
   res.setHeader('Cache-Control', 'no-store');
   const session = verifySession(tokenFromReq(req));
 

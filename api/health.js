@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * GET /api/health — диагностика активации (что настроено).
  * Возвращает ТОЛЬКО булевы флаги и счётчики — никаких значений секретов.
@@ -8,6 +9,7 @@ import { yooEnabled } from '../lib/yookassa.js';
 import { ADMIN_IDS, EXPERT_IDS } from '../lib/auth.js';
 
 export default function handler(req, res) {
+  if (handleCors(req, res)) return;
   res.setHeader('Cache-Control', 'no-store');
 
   const has = v => Boolean(process.env[v]);

@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * GET /api/overrides?book=<bookId>            → одобренные правки книги (наложение)
  * GET /api/overrides?collection=<encyclopedia|glossary|remedies> → одобренные статьи сообщества
@@ -9,6 +10,7 @@ import { kvEnabled, kvSMembers, kvMGet } from '../lib/kv.js';
 const ARTICLE_COLLECTIONS = ['encyclopedia', 'glossary', 'remedies'];
 
 export default async function handler(req, res) {
+  if (handleCors(req, res)) return;
   // Кешируем на 60с на CDN — правки/статьи появляются почти сразу, нагрузка низкая
   res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=300');
 
