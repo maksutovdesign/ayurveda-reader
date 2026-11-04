@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * POST /api/sub-cancel
  * Отменяет автопродление подписки. Доступ сохраняется до конца оплаченного периода.
@@ -7,6 +8,7 @@ import { getEntitlements } from '../lib/entitlements.js';
 import { kvSet, kvEnabled } from '../lib/kv.js';
 
 export default async function handler(req, res) {
+  if (handleCors(req, res)) return;
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
   const session = verifySession(tokenFromReq(req));
   if (!session) return res.status(401).json({ error: 'Не авторизован' });

@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * POST /api/auth-telegram
  * Принимает payload Telegram Login Widget, проверяет подпись,
@@ -12,6 +13,7 @@ import { kvSMembers, kvEnabled } from '../lib/kv.js';
 const TEST_ADMIN_ID = 'test-admin';
 
 export default async function handler(req, res) {
+  if (handleCors(req, res)) return;
   res.setHeader('Cache-Control', 'no-store');
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });

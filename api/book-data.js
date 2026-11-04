@@ -1,3 +1,4 @@
+import { handleCors } from '../lib/cors.js';
 /**
  * GET /api/book-data?book=<id>
  * Жёсткая защита контента (Этап 6). Отдаёт данные платной книги ТОЛЬКО
@@ -25,6 +26,7 @@ const LOADERS = {
 };
 
 export default async function handler(req, res) {
+  if (handleCors(req, res)) return;
   const book = req.query?.book;
   const loader = LOADERS[book];
   if (!loader) return res.status(404).json({ error: 'Unknown book' });
